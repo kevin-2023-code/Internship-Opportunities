@@ -1,0 +1,11 @@
+{
+  "source": "https://trueinterview.io/api/v1/jobs",
+  "query": {
+    "kind": "intern",
+    "family": "tech",
+    "postedWithinDays": 60
+  },
+  "fetchedAt": null,
+  "count": 0,
+  "listings": []
+}

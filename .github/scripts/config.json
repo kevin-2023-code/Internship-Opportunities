@@ -1,0 +1,20 @@
+{
+  "listName": "Internship Opportunities",
+  "noun": "internships",
+  "query": {
+    "kind": "intern",
+    "family": "tech",
+    "postedWithinDays": 60
+  },
+  "homeCountries": [
+    "United States",
+    "Canada"
+  ],
+  "homeLabel": "the United States & Canada",
+  "featuredDays": 30,
+  "maxRowsPerFile": 1500,
+  "files": {
+    "home": "README.md",
+    "global": "README-Global.md"
+  }
+}
