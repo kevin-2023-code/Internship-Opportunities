@@ -5,9 +5,147 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-14T20:06:43.781Z",
-  "count": 238,
+  "fetchedAt": "2026-09-14T23:38:59.923Z",
+  "count": 255,
   "listings": [
+    {
+      "id": "c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770",
+      "company": "Opengov",
+      "title": "Intern, Software Engineer",
+      "locations": [
+        "US",
+        "Georgia",
+        "Atlanta",
+        "Massachusetts",
+        "Boston"
+      ],
+      "cities": [
+        "Atlanta, GA",
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application",
+      "url": "https://trueinterview.io/applications/jobs?role=c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770",
+      "postedAt": "2026-09-14T19:52:12.000Z",
+      "updatedAt": "2026-09-14T19:52:12.000Z"
+    },
+    {
+      "id": "cdf6a563-57db-43e4-bcf2-4bf30c3eacb8",
+      "company": "Workshop",
+      "title": "Product Design Intern (Summer 2027)",
+      "locations": [
+        "Omaha, Nebraska, United States",
+        "Omaha"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/workshop/jobs/5237950007",
+      "url": "https://trueinterview.io/applications/jobs?role=cdf6a563-57db-43e4-bcf2-4bf30c3eacb8",
+      "postedAt": "2026-09-14T19:50:59.000Z",
+      "updatedAt": "2026-09-14T19:50:59.000Z"
+    },
+    {
+      "id": "16cd489c-8e19-4887-89a0-45d3a23c95e4",
+      "company": "Anduril Industries",
+      "title": "2027 Manufacturing Optimization Engineer Intern",
+      "locations": [
+        "Ashville, Ohio, United States",
+        "Ashville, OH (Arsenal 1)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007",
+      "url": "https://trueinterview.io/applications/jobs?role=16cd489c-8e19-4887-89a0-45d3a23c95e4",
+      "postedAt": "2026-09-14T19:30:12.000Z",
+      "updatedAt": "2026-09-14T19:30:12.000Z"
+    },
+    {
+      "id": "203afb7e-0605-4f3e-99a2-103598368df3",
+      "company": "Enviva",
+      "title": "Engineering and Operations Intern",
+      "locations": [
+        "Faison, NC",
+        "Sampson - Non-Exempt"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/enviva/jobs/7994599003",
+      "url": "https://trueinterview.io/applications/jobs?role=203afb7e-0605-4f3e-99a2-103598368df3",
+      "postedAt": "2026-09-14T18:35:28.000Z",
+      "updatedAt": "2026-09-14T18:35:28.000Z"
+    },
+    {
+      "id": "5439f6bd-3251-46af-b03d-3b6bbe162bce",
+      "company": "Singlestore",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "United States",
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "url": "https://trueinterview.io/applications/jobs?role=5439f6bd-3251-46af-b03d-3b6bbe162bce",
+      "postedAt": "2026-09-14T18:21:07.000Z",
+      "updatedAt": "2026-09-14T18:21:07.000Z"
+    },
     {
       "id": "554e3aee-a1e6-44fd-96da-876e073759f4",
       "company": "Intuit",
@@ -34,6 +172,62 @@
       "url": "https://trueinterview.io/applications/jobs?role=554e3aee-a1e6-44fd-96da-876e073759f4",
       "postedAt": "2026-09-14T17:03:10.000Z",
       "updatedAt": "2026-09-14T17:03:10.000Z"
+    },
+    {
+      "id": "cbf0e7f7-d564-4c89-83c9-e3b2a7162bef",
+      "company": "Cyvl",
+      "title": "Hardware Engineering Intern",
+      "locations": [
+        "Boston, Massachusetts",
+        "Somerville, Massachusetts"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application",
+      "url": "https://trueinterview.io/applications/jobs?role=cbf0e7f7-d564-4c89-83c9-e3b2a7162bef",
+      "postedAt": "2026-09-14T16:35:32.000Z",
+      "updatedAt": "2026-09-14T16:35:32.000Z"
+    },
+    {
+      "id": "eef8cdd0-166f-4c11-bfbe-504627de3ba8",
+      "company": "Cyvl",
+      "title": "Engineering Intern - Software (SWE)/Machine Learning (ML)",
+      "locations": [
+        "Boston, Massachusetts",
+        "Somerville, Massachusetts"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application",
+      "url": "https://trueinterview.io/applications/jobs?role=eef8cdd0-166f-4c11-bfbe-504627de3ba8",
+      "postedAt": "2026-09-14T16:14:44.000Z",
+      "updatedAt": "2026-09-14T16:14:44.000Z"
     },
     {
       "id": "df16b6e9-66a0-4449-86bf-b2aa0bc4aa59",
@@ -451,28 +645,62 @@
       "updatedAt": "2026-09-14T12:00:08.000Z"
     },
     {
-      "id": "4dea6c81-4190-4202-92f2-b2f54910613c",
-      "company": "Dell",
-      "title": "ISG Software Engineering Undergrad Internship",
+      "id": "19ecde9f-1102-487c-87be-78b13cb7369b",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI I (Intern) - United States",
       "locations": [
-        "Round Rock, TX, United States",
-        "Hopkinton, MA, United States"
+        "San Jose, California, US",
+        "Austin, Texas, US",
+        "RTP, North Carolina, US",
+        "San Jose, California, United States of America",
+        "Austin, Texas, United States of America",
+        "Research Triangle Park, North Carolina, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
+      "url": "https://trueinterview.io/applications/jobs?role=19ecde9f-1102-487c-87be-78b13cb7369b",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88",
+      "company": "Intel",
+      "title": "System Technology Research Engineer - (PhD Intern)",
+      "locations": [
+        "US, Oregon, Hillsboro",
+        "US, California, Santa Clara",
+        "US, Texas, Austin"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/297773",
-      "url": "https://trueinterview.io/applications/jobs?role=4dea6c81-4190-4202-92f2-b2f54910613c",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
+      "url": "https://trueinterview.io/applications/jobs?role=e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -498,6 +726,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44452959",
       "url": "https://trueinterview.io/applications/jobs?role=82ec48e5-43c7-4453-b413-44356fe14cf5",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "d52bdefb-18a9-4332-b777-cbd2831d9de4",
+      "company": "Tokyo Electron",
+      "title": "Research Scientist, Multiscale Modeling Summer 2027 Intern",
+      "locations": [
+        "Austin MET 15"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-MET-15/Research-Scientist--Multiscale-Modeling-Summer-2027-Intern_R26-01559",
+      "url": "https://trueinterview.io/applications/jobs?role=d52bdefb-18a9-4332-b777-cbd2831d9de4",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -1475,6 +1728,41 @@
       "url": "https://trueinterview.io/applications/jobs?role=ab31b4f3-af81-4765-a488-45fa864457a9",
       "postedAt": "2026-09-09T16:03:38.000Z",
       "updatedAt": "2026-09-10T00:14:05.000Z"
+    },
+    {
+      "id": "35f8cd55-0192-41c3-811f-90d9501e64fb",
+      "company": "Marvell Technology",
+      "title": "Ph.D. Intern - AI/ML & Design Automation",
+      "locations": [
+        "Santa Clara, CA",
+        "Irvine, CA",
+        "Austin, TX",
+        "Morrisville, NC",
+        "Westlake Village, CA",
+        "Chandler, AZ",
+        "Westborough, MA",
+        "Burlington, VT",
+        "Boise, ID"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412",
+      "url": "https://trueinterview.io/applications/jobs?role=35f8cd55-0192-41c3-811f-90d9501e64fb",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "id": "7cf5be50-4b5c-4bde-b0a3-e258117cb7e7",
@@ -2693,6 +2981,65 @@
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
     {
+      "id": "3a703377-81b2-48b8-9a17-9fe156b55f69",
+      "company": "Red Hat",
+      "title": "Software Engineer Co-op",
+      "locations": [
+        "Raleigh",
+        "Boston",
+        "Lowell"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Co-op_R-059039",
+      "url": "https://trueinterview.io/applications/jobs?role=3a703377-81b2-48b8-9a17-9fe156b55f69",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "7a4f5667-2466-4624-8e50-c154720771fc",
+      "company": "Red Hat",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Raleigh",
+        "Boston",
+        "Lowell",
+        "Durham"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
+      "url": "https://trueinterview.io/applications/jobs?role=7a4f5667-2466-4624-8e50-c154720771fc",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
       "id": "699e0609-5e72-44dd-b8fd-d6d0072e74b1",
       "company": "Dropbox",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -3642,6 +3989,64 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028",
       "url": "https://trueinterview.io/applications/jobs?role=67a4c1d9-7fd6-49cb-b0b7-43753f03c4f5",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "d96160ae-028e-4079-86b4-9654fe179b6c",
+      "company": "Intel",
+      "title": "Software Engineering - Intern, Bachelor’s",
+      "locations": [
+        "US, Oregon, Hillsboro",
+        "US, California, Folsom",
+        "US, California, Santa Clara",
+        "US, Texas, Austin",
+        "US, Arizona, Phoenix"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
+      "url": "https://trueinterview.io/applications/jobs?role=d96160ae-028e-4079-86b4-9654fe179b6c",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "8fdef149-3186-44da-b1f1-73998cc6c297",
+      "company": "Intel",
+      "title": "Software Engineering - Intern, Graduate",
+      "locations": [
+        "US, Oregon, Hillsboro",
+        "US, California, Folsom",
+        "US, California, Santa Clara",
+        "US, Texas, Austin",
+        "US, Arizona, Phoenix"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
+      "url": "https://trueinterview.io/applications/jobs?role=8fdef149-3186-44da-b1f1-73998cc6c297",
       "postedAt": "2026-09-02T00:00:00.000Z",
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
@@ -4924,6 +5329,75 @@
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
     {
+      "id": "0038eb77-681e-48a2-a47f-dc2159952d91",
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "locations": [
+        "California - San Francisco",
+        "California - Palo Alto",
+        "New York - New York",
+        "Washington - Seattle",
+        "Massachusetts - Burlington",
+        "Washington - Bellevue",
+        "Georgia - Atlanta",
+        "Indiana - Indianapolis"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+      "url": "https://trueinterview.io/applications/jobs?role=0038eb77-681e-48a2-a47f-dc2159952d91",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "d0f71818-0b76-4f54-9970-ce8dad9a3530",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Data Science Intern",
+      "locations": [
+        "Spring, Texas, United States of America",
+        "Westford, Massachusetts, United States of America",
+        "Ft. Collins, Colorado, United States of America",
+        "Chippewa Falls, Wisconsin, United States of America",
+        "Durham, North Carolina, United States of America",
+        "Sunnyvale, California, United States of America",
+        "Roseville, California, United States of America",
+        "San Jose, California, United States of America",
+        "Bloomington, Minnesota, United States of America",
+        "Andover, Massachusetts, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632",
+      "url": "https://trueinterview.io/applications/jobs?role=d0f71818-0b76-4f54-9970-ce8dad9a3530",
+      "postedAt": "2026-08-30T00:00:00.000Z",
+      "updatedAt": "2026-08-30T00:00:00.000Z"
+    },
+    {
       "id": "0ffb72b4-fb99-4dd9-b25b-faf99588b710",
       "company": "Epic Games",
       "title": "Web Engineer Intern - Tools & Portals",
@@ -5033,6 +5507,43 @@
       "url": "https://trueinterview.io/applications/jobs?role=ae4ee08a-b5b1-4eda-8cda-afa59ead2173",
       "postedAt": "2026-08-28T20:44:25.000Z",
       "updatedAt": "2026-08-28T20:44:25.000Z"
+    },
+    {
+      "id": "26860d8b-4d52-4fe7-b112-a9ccbd36865f",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Spring, Texas, United States of America",
+        "Westford, Massachusetts, United States of America",
+        "Ft. Collins, Colorado, United States of America",
+        "Chippewa Falls, Wisconsin, United States of America",
+        "Durham, North Carolina, United States of America",
+        "Sunnyvale, California, United States of America",
+        "Roseville, California, United States of America",
+        "San Jose, California, United States of America",
+        "Bloomington, Minnesota, United States of America",
+        "Andover, Massachusetts, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625",
+      "url": "https://trueinterview.io/applications/jobs?role=26860d8b-4d52-4fe7-b112-a9ccbd36865f",
+      "postedAt": "2026-08-28T00:00:00.000Z",
+      "updatedAt": "2026-08-28T00:00:00.000Z"
     },
     {
       "id": "3c5e4327-b3bc-4817-a656-c01f0f18def8",
