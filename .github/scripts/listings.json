@@ -5,9 +5,64 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-14T15:32:33.511Z",
-  "count": 235,
+  "fetchedAt": "2026-09-14T20:06:43.781Z",
+  "count": 238,
   "listings": [
+    {
+      "id": "554e3aee-a1e6-44fd-96da-876e073759f4",
+      "company": "Intuit",
+      "title": "Summer 2027: Software Engineering Intern - Cybersecurity",
+      "locations": [
+        "Mountain View, California"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
+      "url": "https://trueinterview.io/applications/jobs?role=554e3aee-a1e6-44fd-96da-876e073759f4",
+      "postedAt": "2026-09-14T17:03:10.000Z",
+      "updatedAt": "2026-09-14T17:03:10.000Z"
+    },
+    {
+      "id": "df16b6e9-66a0-4449-86bf-b2aa0bc4aa59",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer",
+      "locations": [
+        "San Francisco, California",
+        "San Francisco (US-SFO-MKT555)"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+      "url": "https://trueinterview.io/applications/jobs?role=df16b6e9-66a0-4449-86bf-b2aa0bc4aa59",
+      "postedAt": "2026-09-14T16:08:24.000Z",
+      "updatedAt": "2026-09-14T16:08:24.000Z"
+    },
     {
       "id": "39d6832e-d757-458b-adfc-e34aa5136ea2",
       "company": "Synopsys",
@@ -394,6 +449,57 @@
       "url": "https://trueinterview.io/applications/jobs?role=e9f57cb7-9167-4fa7-9a71-ead8560f6e26",
       "postedAt": "2026-09-14T12:00:08.000Z",
       "updatedAt": "2026-09-14T12:00:08.000Z"
+    },
+    {
+      "id": "4dea6c81-4190-4202-92f2-b2f54910613c",
+      "company": "Dell",
+      "title": "ISG Software Engineering Undergrad Internship",
+      "locations": [
+        "Round Rock, TX, United States",
+        "Hopkinton, MA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/297773",
+      "url": "https://trueinterview.io/applications/jobs?role=4dea6c81-4190-4202-92f2-b2f54910613c",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "82ec48e5-43c7-4453-b413-44356fe14cf5",
+      "company": "Micron Technology",
+      "title": "Intern - IT Software Engineer",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44452959",
+      "url": "https://trueinterview.io/applications/jobs?role=82ec48e5-43c7-4453-b413-44356fe14cf5",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
       "id": "729e56aa-6411-4a03-adce-f5f373b30f83",
@@ -1026,34 +1132,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=1b1a761a-6643-4b71-ad05-cf128de1fb96",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "40d62107-08f5-42d1-9b88-4fae75b4a0a9",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-      "locations": [
-        "Mountain View, California",
-        "Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193295",
-      "url": "https://trueinterview.io/applications/jobs?role=40d62107-08f5-42d1-9b88-4fae75b4a0a9",
-      "postedAt": "2026-09-10T22:57:41.000Z",
-      "updatedAt": "2026-09-10T22:57:41.000Z"
     },
     {
       "id": "8c36f8e8-3e8e-4628-bc3c-f0fa0e5aee42",
