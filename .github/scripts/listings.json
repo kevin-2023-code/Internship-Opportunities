@@ -5,9 +5,103 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-14T23:38:59.923Z",
-  "count": 255,
+  "fetchedAt": "2026-09-15T08:16:28.266Z",
+  "count": 256,
   "listings": [
+    {
+      "id": "11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
+      "company": "Grammarly",
+      "title": "Software Engineering Intern - Summer 2027",
+      "locations": [
+        "Hub - San Francisco",
+        "Hub - New York",
+        "Hub - Seattle"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application",
+      "url": "https://trueinterview.io/applications/jobs?role=11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
+      "postedAt": "2026-09-14T22:59:08.000Z",
+      "updatedAt": "2026-09-14T22:59:08.000Z"
+    },
+    {
+      "id": "afb11c5f-019c-45c9-8008-bd6b1eb5d1c4",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "locations": [
+        "New York, NY",
+        "San Francisco, CA",
+        "Sunnyvale, CA",
+        "Los Angeles, CA",
+        "Seattle, WA",
+        "San Francisco"
+      ],
+      "cities": [
+        "New York, NY",
+        "San Francisco, CA",
+        "Sunnyvale, CA",
+        "Los Angeles, CA",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "url": "https://trueinterview.io/applications/jobs?role=afb11c5f-019c-45c9-8008-bd6b1eb5d1c4",
+      "postedAt": "2026-09-14T22:51:00.000Z",
+      "updatedAt": "2026-09-14T22:51:00.000Z"
+    },
+    {
+      "id": "20659a9d-8924-484e-b1fe-af7b9ec095d8",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "locations": [
+        "Mountain View, California, United States",
+        "San Francisco, California, United States",
+        "Mountain View (US-MTV-EMF690)",
+        "San Francisco (US-SFO-MKT555)"
+      ],
+      "cities": [
+        "Mountain View, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+      "url": "https://trueinterview.io/applications/jobs?role=20659a9d-8924-484e-b1fe-af7b9ec095d8",
+      "postedAt": "2026-09-14T21:19:15.000Z",
+      "updatedAt": "2026-09-14T21:19:15.000Z"
+    },
     {
       "id": "c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770",
       "company": "Opengov",
@@ -228,34 +322,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=eef8cdd0-166f-4c11-bfbe-504627de3ba8",
       "postedAt": "2026-09-14T16:14:44.000Z",
       "updatedAt": "2026-09-14T16:14:44.000Z"
-    },
-    {
-      "id": "df16b6e9-66a0-4449-86bf-b2aa0bc4aa59",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineer",
-      "locations": [
-        "San Francisco, California",
-        "San Francisco (US-SFO-MKT555)"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
-      "url": "https://trueinterview.io/applications/jobs?role=df16b6e9-66a0-4449-86bf-b2aa0bc4aa59",
-      "postedAt": "2026-09-14T16:08:24.000Z",
-      "updatedAt": "2026-09-14T16:08:24.000Z"
     },
     {
       "id": "39d6832e-d757-458b-adfc-e34aa5136ea2",
@@ -645,39 +711,6 @@
       "updatedAt": "2026-09-14T12:00:08.000Z"
     },
     {
-      "id": "19ecde9f-1102-487c-87be-78b13cb7369b",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI I (Intern) - United States",
-      "locations": [
-        "San Jose, California, US",
-        "Austin, Texas, US",
-        "RTP, North Carolina, US",
-        "San Jose, California, United States of America",
-        "Austin, Texas, United States of America",
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
-      "url": "https://trueinterview.io/applications/jobs?role=19ecde9f-1102-487c-87be-78b13cb7369b",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
       "id": "e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88",
       "company": "Intel",
       "title": "System Technology Research Engineer - (PhD Intern)",
@@ -726,6 +759,34 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44452959",
       "url": "https://trueinterview.io/applications/jobs?role=82ec48e5-43c7-4453-b413-44356fe14cf5",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "86982da4-3596-4904-812c-1819177a6aaf",
+      "company": "Microsoft",
+      "title": "AI Software Engineering Intern",
+      "locations": [
+        "Redmond, WA, US",
+        "Mountain View, CA, US"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+      "url": "https://trueinterview.io/applications/jobs?role=86982da4-3596-4904-812c-1819177a6aaf",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -5160,32 +5221,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=d6683d47-31a9-4135-adbc-2162ec8f1ba6",
       "postedAt": "2026-08-31T19:08:30.000Z",
       "updatedAt": "2026-08-31T19:08:30.000Z"
-    },
-    {
-      "id": "f9065425-ca95-42bd-ab2e-b06f59ae1b0a",
-      "company": "Epic Games",
-      "title": "Level Design Intern",
-      "locations": [
-        "Cary,North Carolina,United States",
-        "Cary"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://epicgames.com/careers/jobs/6173450004?gh_jid=6173450004",
-      "url": "https://trueinterview.io/applications/jobs?role=f9065425-ca95-42bd-ab2e-b06f59ae1b0a",
-      "postedAt": "2026-08-31T18:56:05.000Z",
-      "updatedAt": "2026-08-31T18:56:05.000Z"
     },
     {
       "id": "7a85ee66-c893-441e-8ea5-245505519765",
