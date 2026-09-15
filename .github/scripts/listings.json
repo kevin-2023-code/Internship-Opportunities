@@ -5,9 +5,504 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-15T18:38:58.556Z",
-  "count": 256,
+  "fetchedAt": "2026-09-15T21:52:42.291Z",
+  "count": 274,
   "listings": [
+    {
+      "id": "6e2e4f18-a936-4019-a626-10afc9af0372",
+      "company": "Wsp",
+      "title": "Overhead Transmission Line Design Engineering Intern - Summer 2027",
+      "locations": [
+        "Birmingham, AL, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869",
+      "url": "https://trueinterview.io/applications/jobs?role=6e2e4f18-a936-4019-a626-10afc9af0372",
+      "postedAt": "2026-09-15T20:22:11.000Z",
+      "updatedAt": "2026-09-15T20:22:11.000Z"
+    },
+    {
+      "id": "95d89c8d-7b19-42e1-8426-d8dc629718b4",
+      "company": "Walker Consultants",
+      "title": "Structural Engineering Internship - Summer 2027",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/walkerconsultants/ab5e4719-b24f-48aa-8edb-28c2518a0bd6/apply",
+      "url": "https://trueinterview.io/applications/jobs?role=95d89c8d-7b19-42e1-8426-d8dc629718b4",
+      "postedAt": "2026-09-15T20:16:55.000Z",
+      "updatedAt": "2026-09-15T20:16:55.000Z"
+    },
+    {
+      "id": "876e3383-afde-48c9-8a40-6ded7c0678a2",
+      "company": "Anduril Industries",
+      "title": "2027 Flight Software Engineer Intern",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+      "url": "https://trueinterview.io/applications/jobs?role=876e3383-afde-48c9-8a40-6ded7c0678a2",
+      "postedAt": "2026-09-15T19:20:09.000Z",
+      "updatedAt": "2026-09-15T19:20:09.000Z"
+    },
+    {
+      "id": "c83b7f6d-825f-447f-b4e8-b98efd9298e9",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MBA, Salesforce Product Owner",
+      "locations": [
+        "Los Angeles, California, United States",
+        "Los Angeles (US-LAX-GRAN2037)"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8198582",
+      "url": "https://trueinterview.io/applications/jobs?role=c83b7f6d-825f-447f-b4e8-b98efd9298e9",
+      "postedAt": "2026-09-15T18:51:38.000Z",
+      "updatedAt": "2026-09-15T18:51:38.000Z"
+    },
+    {
+      "id": "e2011877-520a-476a-a26d-446e4ff4e84e",
+      "company": "Rilla",
+      "title": "Software Engineering Intern, 2028 Grads",
+      "locations": [
+        "New York City"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9/application",
+      "url": "https://trueinterview.io/applications/jobs?role=e2011877-520a-476a-a26d-446e4ff4e84e",
+      "postedAt": "2026-09-15T18:27:02.000Z",
+      "updatedAt": "2026-09-15T18:27:02.000Z"
+    },
+    {
+      "id": "52a1807a-f22b-4c93-9103-6877a62b5e59",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Warhead Engineer Co-op",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236585007?gh_jid=5236585007",
+      "url": "https://trueinterview.io/applications/jobs?role=52a1807a-f22b-4c93-9103-6877a62b5e59",
+      "postedAt": "2026-09-15T17:58:17.000Z",
+      "updatedAt": "2026-09-15T17:58:17.000Z"
+    },
+    {
+      "id": "1ecf8e71-380d-4a01-bcbd-69665c57e82d",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Test & Evaluation Engineer Co-op",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236583007?gh_jid=5236583007",
+      "url": "https://trueinterview.io/applications/jobs?role=1ecf8e71-380d-4a01-bcbd-69665c57e82d",
+      "postedAt": "2026-09-15T17:55:31.000Z",
+      "updatedAt": "2026-09-15T17:55:31.000Z"
+    },
+    {
+      "id": "241c61dd-a2a9-49fe-a57e-9bb6f6a06699",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Test Automation Engineer Co-op",
+      "locations": [
+        "Washington, District of Columbia, United States",
+        "Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007",
+      "url": "https://trueinterview.io/applications/jobs?role=241c61dd-a2a9-49fe-a57e-9bb6f6a06699",
+      "postedAt": "2026-09-15T17:54:42.000Z",
+      "updatedAt": "2026-09-15T17:54:42.000Z"
+    },
+    {
+      "id": "68bafa80-397c-4028-ab13-8d6241df5167",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Systems Engineer Co-op",
+      "locations": [
+        "Quincy, Massachusetts, United States",
+        "Quincy, MA (QCY-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
+      "url": "https://trueinterview.io/applications/jobs?role=68bafa80-397c-4028-ab13-8d6241df5167",
+      "postedAt": "2026-09-15T17:53:53.000Z",
+      "updatedAt": "2026-09-15T17:53:53.000Z"
+    },
+    {
+      "id": "e4e2482a-659d-47b7-bb01-cd5e4362f1c7",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Supply Chain Engineer Co-op",
+      "locations": [
+        "Quincy, Massachusetts, United States",
+        "Quincy, MA (QCY-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236594007?gh_jid=5236594007",
+      "url": "https://trueinterview.io/applications/jobs?role=e4e2482a-659d-47b7-bb01-cd5e4362f1c7",
+      "postedAt": "2026-09-15T17:53:03.000Z",
+      "updatedAt": "2026-09-15T17:53:03.000Z"
+    },
+    {
+      "id": "df051bcf-eab6-4a10-a148-28b41fadd11f",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Software Engineer Co-op",
+      "locations": [
+        "Quincy, Massachusetts, United States",
+        "Quincy, MA (QCY-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+      "url": "https://trueinterview.io/applications/jobs?role=df051bcf-eab6-4a10-a148-28b41fadd11f",
+      "postedAt": "2026-09-15T17:49:51.000Z",
+      "updatedAt": "2026-09-15T17:49:51.000Z"
+    },
+    {
+      "id": "a8a66a16-18a1-4691-a8b7-8ed530ae6a53",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Propulsion Engineer Co-op",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236587007?gh_jid=5236587007",
+      "url": "https://trueinterview.io/applications/jobs?role=a8a66a16-18a1-4691-a8b7-8ed530ae6a53",
+      "postedAt": "2026-09-15T17:49:03.000Z",
+      "updatedAt": "2026-09-15T17:49:03.000Z"
+    },
+    {
+      "id": "f52ee40b-ad37-42aa-834b-79076e056603",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 PCB Layout Engineer Co-op",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007",
+      "url": "https://trueinterview.io/applications/jobs?role=f52ee40b-ad37-42aa-834b-79076e056603",
+      "postedAt": "2026-09-15T17:38:03.000Z",
+      "updatedAt": "2026-09-15T17:38:03.000Z"
+    },
+    {
+      "id": "cd2dc689-bf11-4392-b16d-0ab1bdccb734",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Mechanical Engineer Co-op",
+      "locations": [
+        "Quincy, Massachusetts, United States",
+        "Quincy, MA (QCY-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236601007?gh_jid=5236601007",
+      "url": "https://trueinterview.io/applications/jobs?role=cd2dc689-bf11-4392-b16d-0ab1bdccb734",
+      "postedAt": "2026-09-15T17:37:10.000Z",
+      "updatedAt": "2026-09-15T17:37:10.000Z"
+    },
+    {
+      "id": "2fafdfdb-dd37-4e3b-974d-3c23c09a6891",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 EWIS Harness Engineer Co-op",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007",
+      "url": "https://trueinterview.io/applications/jobs?role=2fafdfdb-dd37-4e3b-974d-3c23c09a6891",
+      "postedAt": "2026-09-15T17:36:24.000Z",
+      "updatedAt": "2026-09-15T17:36:24.000Z"
+    },
+    {
+      "id": "407b2e4a-5f0b-4924-a269-ce1b52205375",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Manufacturing Engineer Co-op",
+      "locations": [
+        "Lexington, Massachusetts, United States",
+        "Quincy, Massachusetts, United States",
+        "Lexington, MA (LEX-01)",
+        "Quincy, MA (QCY-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007",
+      "url": "https://trueinterview.io/applications/jobs?role=407b2e4a-5f0b-4924-a269-ce1b52205375",
+      "postedAt": "2026-09-15T17:36:11.000Z",
+      "updatedAt": "2026-09-15T17:36:11.000Z"
+    },
+    {
+      "id": "28a49374-3f50-4880-a234-65e30f863a99",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Electrical Engineer Co-op",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Quincy, Massachusetts, United States",
+        "Costa Mesa, CA (OC-00)",
+        "Quincy, MA (QCY-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236565007?gh_jid=5236565007",
+      "url": "https://trueinterview.io/applications/jobs?role=28a49374-3f50-4880-a234-65e30f863a99",
+      "postedAt": "2026-09-15T17:29:50.000Z",
+      "updatedAt": "2026-09-15T17:29:50.000Z"
+    },
+    {
+      "id": "d59f73a1-36ad-4bb2-850e-809fa2958094",
+      "company": "Gecko Robotics",
+      "title": "Embedded Software Engineering Intern",
+      "locations": [
+        "Pittsburgh"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application",
+      "url": "https://trueinterview.io/applications/jobs?role=d59f73a1-36ad-4bb2-850e-809fa2958094",
+      "postedAt": "2026-09-15T17:18:09.000Z",
+      "updatedAt": "2026-09-15T17:18:09.000Z"
+    },
+    {
+      "id": "771f6685-8f58-4e55-968c-66b2392fb60e",
+      "company": "Megazone Cloud Us",
+      "title": "Visual Design Co-op 2027",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca/application",
+      "url": "https://trueinterview.io/applications/jobs?role=771f6685-8f58-4e55-968c-66b2392fb60e",
+      "postedAt": "2026-09-15T16:47:39.000Z",
+      "updatedAt": "2026-09-15T16:47:39.000Z"
+    },
     {
       "id": "537a9432-c94c-49c9-8a39-d5531bd6aa3b",
       "company": "Analog Devices",
@@ -32,6 +527,34 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
       "url": "https://trueinterview.io/applications/jobs?role=537a9432-c94c-49c9-8a39-d5531bd6aa3b",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "cb6a0d54-21fb-4c96-a8ab-7391e237b9c4",
+      "company": "Microsoft",
+      "title": "Software Engineer Internship Opportunities",
+      "locations": [
+        "Vancouver, BC, CA"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556991773",
+      "url": "https://trueinterview.io/applications/jobs?role=cb6a0d54-21fb-4c96-a8ab-7391e237b9c4",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -97,37 +620,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=afb11c5f-019c-45c9-8008-bd6b1eb5d1c4",
       "postedAt": "2026-09-14T22:51:00.000Z",
       "updatedAt": "2026-09-14T22:51:00.000Z"
-    },
-    {
-      "id": "20659a9d-8924-484e-b1fe-af7b9ec095d8",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-      "locations": [
-        "Mountain View, California, United States",
-        "San Francisco, California, United States",
-        "Mountain View (US-MTV-EMF690)",
-        "San Francisco (US-SFO-MKT555)"
-      ],
-      "cities": [
-        "Mountain View, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-      "url": "https://trueinterview.io/applications/jobs?role=20659a9d-8924-484e-b1fe-af7b9ec095d8",
-      "postedAt": "2026-09-14T21:19:15.000Z",
-      "updatedAt": "2026-09-14T21:19:15.000Z"
     },
     {
       "id": "c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770",
@@ -3867,36 +4359,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=cb76d489-3a82-49b9-86b3-28951e62fbd4",
       "postedAt": "2026-09-02T20:18:40.000Z",
       "updatedAt": "2026-09-02T20:18:40.000Z"
-    },
-    {
-      "id": "34d36215-77da-43b0-9069-409de64f0bda",
-      "company": "Gdh",
-      "title": "Civil Engineering Intern",
-      "locations": [
-        "BUFFALO, NY, United States",
-        "BOSTON, MA, United States",
-        "KING OF PRUSSIA, PA, United States",
-        "PITTSBURGH, PA, United States"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28142",
-      "url": "https://trueinterview.io/applications/jobs?role=34d36215-77da-43b0-9069-409de64f0bda",
-      "postedAt": "2026-09-02T20:12:03.000Z",
-      "updatedAt": "2026-09-02T20:12:03.000Z"
     },
     {
       "id": "cabb05ec-a41e-4563-a0ea-d3abaa7d9901",
