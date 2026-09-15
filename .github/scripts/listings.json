@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-15T14:04:15.031Z",
+  "fetchedAt": "2026-09-15T18:38:58.556Z",
   "count": 256,
   "listings": [
+    {
+      "id": "537a9432-c94c-49c9-8a39-d5531bd6aa3b",
+      "company": "Analog Devices",
+      "title": "Embedded Software Engineer Intern",
+      "locations": [
+        "US, MA, Wilmington",
+        "US, CA, San Jose, Rio Robles",
+        "US, NC, Durham"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
+      "url": "https://trueinterview.io/applications/jobs?role=537a9432-c94c-49c9-8a39-d5531bd6aa3b",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
     {
       "id": "11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
       "company": "Grammarly",
@@ -734,31 +761,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
       "url": "https://trueinterview.io/applications/jobs?role=e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "82ec48e5-43c7-4453-b413-44356fe14cf5",
-      "company": "Micron Technology",
-      "title": "Intern - IT Software Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44452959",
-      "url": "https://trueinterview.io/applications/jobs?role=82ec48e5-43c7-4453-b413-44356fe14cf5",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
