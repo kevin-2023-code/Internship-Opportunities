@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-15T21:52:42.291Z",
-  "count": 274,
+  "fetchedAt": "2026-09-15T23:53:11.146Z",
+  "count": 273,
   "listings": [
     {
       "id": "6e2e4f18-a936-4019-a626-10afc9af0372",
@@ -3507,31 +3507,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318402198",
       "url": "https://trueinterview.io/applications/jobs?role=17b144f8-ddf7-48cb-879a-5fb0715a2293",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "id": "c33a229c-ac59-4665-b425-01809fb3e101",
-      "company": "Micron Technology",
-      "title": "Intern - Software Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43943556",
-      "url": "https://trueinterview.io/applications/jobs?role=c33a229c-ac59-4665-b425-01809fb3e101",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
