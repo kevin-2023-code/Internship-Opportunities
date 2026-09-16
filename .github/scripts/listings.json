@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-16T08:10:15.598Z",
-  "count": 270,
+  "fetchedAt": "2026-09-16T13:57:06.517Z",
+  "count": 304,
   "listings": [
     {
       "id": "c73d4279-a928-46f8-bdcc-a6ce291fe388",
@@ -1888,6 +1888,56 @@
       "updatedAt": "2026-09-11T16:47:07.000Z"
     },
     {
+      "id": "12ab564e-5f9a-427e-9d8e-3dfd70ce3689",
+      "company": "AMD",
+      "title": "2027 PhD AI Systems & GPU Performance Engineering Intern/Co-op",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92354?lang=en-us",
+      "url": "https://trueinterview.io/jobs/12ab564e-5f9a-427e-9d8e-3dfd70ce3689",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "90738bb8-0f77-46d8-927c-0381a9d29dd1",
+      "company": "AMD",
+      "title": "2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92346?lang=en-us",
+      "url": "https://trueinterview.io/jobs/90738bb8-0f77-46d8-927c-0381a9d29dd1",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "df7d0f22-22ed-4f07-8bb9-33b9322e439f",
       "company": "AMD",
       "title": "2027 PhD ML System Engineering Intern/Co-op",
@@ -1909,6 +1959,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/92342?lang=en-us",
       "url": "https://trueinterview.io/jobs/df7d0f22-22ed-4f07-8bb9-33b9322e439f",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "2e2729c3-c320-4259-993e-46adb4b9d65b",
+      "company": "AMD",
+      "title": "2027 PhD Optical & Photonics Engineering Intern/Co-Op",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92358?lang=en-us",
+      "url": "https://trueinterview.io/jobs/2e2729c3-c320-4259-993e-46adb4b9d65b",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "3e4bd8f5-75d1-4bd5-8ca5-82e7971c171b",
+      "company": "AMD",
+      "title": "2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92350?lang=en-us",
+      "url": "https://trueinterview.io/jobs/3e4bd8f5-75d1-4bd5-8ca5-82e7971c171b",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -2279,6 +2379,31 @@
       "url": "https://trueinterview.io/jobs/ab31b4f3-af81-4765-a488-45fa864457a9",
       "postedAt": "2026-09-09T16:03:38.000Z",
       "updatedAt": "2026-09-10T00:14:05.000Z"
+    },
+    {
+      "id": "cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d",
+      "company": "Amazon",
+      "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
+      "url": "https://trueinterview.io/jobs/cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "id": "35f8cd55-0192-41c3-811f-90d9501e64fb",
@@ -2789,6 +2914,31 @@
       "url": "https://trueinterview.io/jobs/463d62c1-1ce8-4eaf-beda-d3e35c6125fa",
       "postedAt": "2026-09-09T18:05:56.000Z",
       "updatedAt": "2026-09-09T18:05:56.000Z"
+    },
+    {
+      "id": "fd608332-faa1-4f5c-9bb7-c7a9cec2565a",
+      "company": "Amazon",
+      "title": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+      "url": "https://trueinterview.io/jobs/fd608332-faa1-4f5c-9bb7-c7a9cec2565a",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
       "id": "663152ab-89f1-4e35-a6db-1808bdc8640c",
@@ -3480,6 +3630,85 @@
       "url": "https://trueinterview.io/jobs/2a7e951f-072a-45e2-b42c-97d6354f4082",
       "postedAt": "2026-09-08T14:07:37.000Z",
       "updatedAt": "2026-09-08T14:07:37.000Z"
+    },
+    {
+      "id": "a1b0ae40-612d-45db-ada2-91d14b1b5999",
+      "company": "Amazon",
+      "title": "Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )",
+      "locations": [
+        "Bellevue, Washington, USA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa",
+      "url": "https://trueinterview.io/jobs/a1b0ae40-612d-45db-ada2-91d14b1b5999",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "9c516ec7-9ffc-4283-a8ba-eb8dd71afa72",
+      "company": "Amazon",
+      "title": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
+      "locations": [
+        "Cleburne, Texas, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
+      "url": "https://trueinterview.io/jobs/9c516ec7-9ffc-4283-a8ba-eb8dd71afa72",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "dff84165-8e92-42f2-97cf-d03eec855532",
+      "company": "Amazon",
+      "title": "System Dev Engineer I Co-op (Robotics), Autonomous AI Security",
+      "locations": [
+        "Austin, Texas, USA"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security",
+      "url": "https://trueinterview.io/jobs/dff84165-8e92-42f2-97cf-d03eec855532",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
     },
     {
       "id": "17b144f8-ddf7-48cb-879a-5fb0715a2293",
@@ -4462,6 +4691,31 @@
       "updatedAt": "2026-09-02T16:14:14.000Z"
     },
     {
+      "id": "17c53ff9-ec02-423b-82b3-420685f0d670",
+      "company": "AMD",
+      "title": "Fall 2027 Masters Silicon Design Engineering Intern",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90743?lang=en-us",
+      "url": "https://trueinterview.io/jobs/17c53ff9-ec02-423b-82b3-420685f0d670",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
       "id": "67a4c1d9-7fd6-49cb-b0b7-43753f03c4f5",
       "company": "Cadence Design Systems",
       "title": "Graduate Student Intern - Software Engineering",
@@ -4867,6 +5121,58 @@
       "url": "https://trueinterview.io/jobs/5cd414d9-0f9e-4fac-b0dd-bcb771d8be92",
       "postedAt": "2026-09-01T18:47:47.000Z",
       "updatedAt": "2026-09-01T18:47:47.000Z"
+    },
+    {
+      "id": "5b714c58-fd1f-4a49-a13b-ac79c9a00f4f",
+      "company": "AMD",
+      "title": "2027 Masters Compiler Engineering Intern / Co-op",
+      "locations": [
+        "US,CA,San Jose",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91866?lang=en-us",
+      "url": "https://trueinterview.io/jobs/5b714c58-fd1f-4a49-a13b-ac79c9a00f4f",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "d6516e44-4c2b-47b4-8efe-4e2b928e7af2",
+      "company": "AMD",
+      "title": "2027 Undergrad Compiler Engineering Intern / Co-op",
+      "locations": [
+        "US,TX,Austin",
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91864?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d6516e44-4c2b-47b4-8efe-4e2b928e7af2",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
     },
     {
       "id": "12ec5ae4-f8f1-41c2-92e4-fc55088bc01b",
@@ -6096,6 +6402,58 @@
       "updatedAt": "2026-08-27T16:00:00.000Z"
     },
     {
+      "id": "a1342241-5fbd-4168-addc-9e62d58c22ed",
+      "company": "Amazon",
+      "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
+      "locations": [
+        "Cupertino, California, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
+      "url": "https://trueinterview.io/jobs/a1342241-5fbd-4168-addc-9e62d58c22ed",
+      "postedAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z"
+    },
+    {
+      "id": "1f199e73-6127-4fec-82fc-b7ed9e6316a6",
+      "company": "Amazon",
+      "title": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+      "locations": [
+        "Austin, Texas, USA"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
+      "url": "https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6",
+      "postedAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z"
+    },
+    {
       "id": "00b0722b-bfa4-4c32-a444-4ec34c66a126",
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
@@ -6300,6 +6658,110 @@
       "url": "https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a",
       "postedAt": "2026-08-25T16:02:33.000Z",
       "updatedAt": "2026-08-25T16:02:33.000Z"
+    },
+    {
+      "id": "c22dc523-66f0-4030-aab1-8b3a4b675276",
+      "company": "AMD",
+      "title": "2027 Masters ASIC Package Engineering Co-op/Intern",
+      "locations": [
+        "US,CA,Santa Clara",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91469?lang=en-us",
+      "url": "https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "id": "5edd67dc-2833-45e2-81aa-7c4bb2a307c9",
+      "company": "AMD",
+      "title": "2027 Masters Software Test Engineering Intern/Co-Op",
+      "locations": [
+        "US,CA,Santa Clara",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91475?lang=en-us",
+      "url": "https://trueinterview.io/jobs/5edd67dc-2833-45e2-81aa-7c4bb2a307c9",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "id": "e52e12d9-6c07-4153-bc93-b6e837fbdb3d",
+      "company": "AMD",
+      "title": "2027 Undergrad ASIC Package Engineering Co-op/Intern",
+      "locations": [
+        "US,CA,San Jose",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91463?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e52e12d9-6c07-4153-bc93-b6e837fbdb3d",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "id": "cce591e9-3543-4b70-adca-2532af02ce4e",
+      "company": "AMD",
+      "title": "2027 Undergrad Software Test Engineering Intern/Co-Op",
+      "locations": [
+        "US,CA,San Jose",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91448?lang=en-us",
+      "url": "https://trueinterview.io/jobs/cce591e9-3543-4b70-adca-2532af02ce4e",
+      "postedAt": "2026-08-25T00:00:00.000Z",
+      "updatedAt": "2026-08-25T00:00:00.000Z"
     },
     {
       "id": "3894c606-615e-435b-8e3d-d21243aabdd9",
@@ -6572,6 +7034,185 @@
       "updatedAt": "2026-08-20T00:51:01.000Z"
     },
     {
+      "id": "1679e23b-f5bb-4079-902c-37ce295f4732",
+      "company": "Amazon",
+      "title": "Product Manager Technical (PMT) Intern - Summer 2027",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+      "url": "https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "ef7622d7-76d1-4f06-9987-ffa45f4ca598",
+      "company": "AMD",
+      "title": "2027 Masters Data Analyst Intern/co-op",
+      "locations": [
+        "US,CA,Santa Clara",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91179?lang=en-us",
+      "url": "https://trueinterview.io/jobs/ef7622d7-76d1-4f06-9987-ffa45f4ca598",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "69cfa22b-1952-46c5-b5c9-158c35cba1f1",
+      "company": "AMD",
+      "title": "2027 Masters Firmware Engineering Co-op/Intern",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90809?lang=en-us",
+      "url": "https://trueinterview.io/jobs/69cfa22b-1952-46c5-b5c9-158c35cba1f1",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "30cb68b6-f9c0-4c8e-9d8f-eb0f78b12a21",
+      "company": "AMD",
+      "title": "2027 Masters Firmware Engineering Intern/Co-op",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90805?lang=en-us",
+      "url": "https://trueinterview.io/jobs/30cb68b6-f9c0-4c8e-9d8f-eb0f78b12a21",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "926247d3-5e72-4776-b094-dc5de1ac2981",
+      "company": "AMD",
+      "title": "2027 Masters Hardware Design Verification Engineering Co-op/Intern",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90810?lang=en-us",
+      "url": "https://trueinterview.io/jobs/926247d3-5e72-4776-b094-dc5de1ac2981",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "208fb5a1-8502-4cbe-a7ad-74d539956c7f",
+      "company": "AMD",
+      "title": "2027 Masters Hardware Design Verification Engineering Intern/Co-op",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90813?lang=en-us",
+      "url": "https://trueinterview.io/jobs/208fb5a1-8502-4cbe-a7ad-74d539956c7f",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "30de5bab-7988-4bc9-b56c-7cc4d08e29d5",
+      "company": "AMD",
+      "title": "2027 Masters Hardware Engineering intern/co-op",
+      "locations": [
+        "US,CA,Santa Clara",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91178?lang=en-us",
+      "url": "https://trueinterview.io/jobs/30de5bab-7988-4bc9-b56c-7cc4d08e29d5",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
       "id": "6f3a34c5-abdb-4a6c-8e64-ff6726265e4b",
       "company": "AMD",
       "title": "2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op",
@@ -6594,6 +7235,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/91177?lang=en-us",
       "url": "https://trueinterview.io/jobs/6f3a34c5-abdb-4a6c-8e64-ff6726265e4b",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "f49f484b-f335-45f8-979d-8d9a7af37e4c",
+      "company": "AMD",
+      "title": "2027 Masters Product Development Engineering Intern/Co-op",
+      "locations": [
+        "US,CA,Santa Clara",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91228?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f49f484b-f335-45f8-979d-8d9a7af37e4c",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "updatedAt": "2026-08-20T00:00:00.000Z"
     },
@@ -6624,6 +7291,133 @@
       "updatedAt": "2026-08-20T00:00:00.000Z"
     },
     {
+      "id": "4054cbfe-278e-40b7-a366-d9951a6b059d",
+      "company": "AMD",
+      "title": "2027 Undergrad Data Analyst Intern/co-op",
+      "locations": [
+        "US,CA,Santa Clara",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90895?lang=en-us",
+      "url": "https://trueinterview.io/jobs/4054cbfe-278e-40b7-a366-d9951a6b059d",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "1c6c0c9d-ed8b-4deb-8f3f-588644c8ec3b",
+      "company": "AMD",
+      "title": "2027 Undergrad Firmware Engineering Co-op/Intern",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90807?lang=en-us",
+      "url": "https://trueinterview.io/jobs/1c6c0c9d-ed8b-4deb-8f3f-588644c8ec3b",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "c1d82505-4b00-43ab-9941-9e92f875c12c",
+      "company": "AMD",
+      "title": "2027 Undergrad Firmware Engineering Intern/Co-op",
+      "locations": [
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90801?lang=en-us",
+      "url": "https://trueinterview.io/jobs/c1d82505-4b00-43ab-9941-9e92f875c12c",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "e94feea8-d49e-4292-a5a1-27d90e288c2d",
+      "company": "AMD",
+      "title": "2027 Undergrad Hardware Design Verification Engineering Co-op/Intern",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90811?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e94feea8-d49e-4292-a5a1-27d90e288c2d",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "80d4ab91-d067-4f8b-8f03-26c50ae9a945",
+      "company": "AMD",
+      "title": "2027 Undergrad Hardware Engineering intern/co-op",
+      "locations": [
+        "US,CA,Santa Clara",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90894?lang=en-us",
+      "url": "https://trueinterview.io/jobs/80d4ab91-d067-4f8b-8f03-26c50ae9a945",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
       "id": "b6d0cd1f-2a3a-4063-b626-b5514a6da6c5",
       "company": "AMD",
       "title": "2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op",
@@ -6650,6 +7444,32 @@
       "updatedAt": "2026-08-20T00:00:00.000Z"
     },
     {
+      "id": "4385e386-741f-4fef-9f76-ded5749a6ee3",
+      "company": "AMD",
+      "title": "2027 Undergrad Product Development Engineering Intern/Co-op",
+      "locations": [
+        "US,TX,Austin",
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90790?lang=en-us",
+      "url": "https://trueinterview.io/jobs/4385e386-741f-4fef-9f76-ded5749a6ee3",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
       "id": "1b92d96e-6a6d-40ae-96ce-0c4cda725a62",
       "company": "AMD",
       "title": "2027 Undergrad Software Engineer Intern/Co-op",
@@ -6672,6 +7492,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/90891?lang=en-us",
       "url": "https://trueinterview.io/jobs/1b92d96e-6a6d-40ae-96ce-0c4cda725a62",
+      "postedAt": "2026-08-20T00:00:00.000Z",
+      "updatedAt": "2026-08-20T00:00:00.000Z"
+    },
+    {
+      "id": "d702743e-e558-4c1d-89fb-60f6603ede96",
+      "company": "AMD",
+      "title": "Summer 2027 Masters Field Applications Engineer Intern",
+      "locations": [
+        "US,CA,San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91239?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d702743e-e558-4c1d-89fb-60f6603ede96",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "updatedAt": "2026-08-20T00:00:00.000Z"
     },
@@ -6966,6 +7811,31 @@
       "url": "https://trueinterview.io/jobs/3c6d79b8-b80a-40f4-b636-0f54e35a9bd0",
       "postedAt": "2026-08-13T23:54:03.000Z",
       "updatedAt": "2026-08-13T23:54:03.000Z"
+    },
+    {
+      "id": "852409c7-27ca-4062-b46a-9f257a6f3972",
+      "company": "Amazon",
+      "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
+      "locations": [
+        "Mt Juliet, Tennessee, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
+      "url": "https://trueinterview.io/jobs/852409c7-27ca-4062-b46a-9f257a6f3972",
+      "postedAt": "2026-08-13T00:00:00.000Z",
+      "updatedAt": "2026-08-13T00:00:00.000Z"
     },
     {
       "id": "01c55378-d532-42a9-98d2-4d9bb3fb67d3",
