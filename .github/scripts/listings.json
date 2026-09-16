@@ -5,9 +5,115 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-15T23:53:11.146Z",
+  "fetchedAt": "2026-09-16T02:44:42.976Z",
   "count": 273,
   "listings": [
+    {
+      "id": "c73d4279-a928-46f8-bdcc-a6ce291fe388",
+      "company": "Cesiumastro",
+      "title": "Summer 2027 - Systems Engineering Internship",
+      "locations": [
+        "Austin, TX",
+        "Westminster, CO"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/CesiumAstro/556369b7-a017-4d0d-8e3b-97ec210be0d5/apply",
+      "url": "https://trueinterview.io/applications/jobs?role=c73d4279-a928-46f8-bdcc-a6ce291fe388",
+      "postedAt": "2026-09-16T00:06:18.000Z",
+      "updatedAt": "2026-09-16T00:06:18.000Z"
+    },
+    {
+      "id": "9198d075-4b5b-476c-948f-2c383fbd4b4f",
+      "company": "Cesiumastro",
+      "title": "Summer 2027 - Electrical Engineering Internship, RF",
+      "locations": [
+        "Austin, TX",
+        "Westminster, CO"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply",
+      "url": "https://trueinterview.io/applications/jobs?role=9198d075-4b5b-476c-948f-2c383fbd4b4f",
+      "postedAt": "2026-09-16T00:00:12.000Z",
+      "updatedAt": "2026-09-16T00:00:12.000Z"
+    },
+    {
+      "id": "946e145d-104d-4d8f-95dd-8fa96c938f6b",
+      "company": "Cesiumastro",
+      "title": "Summer 2027 - Electrical Engineering Internship, FPGA",
+      "locations": [
+        "Westminster, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply",
+      "url": "https://trueinterview.io/applications/jobs?role=946e145d-104d-4d8f-95dd-8fa96c938f6b",
+      "postedAt": "2026-09-15T23:58:50.000Z",
+      "updatedAt": "2026-09-15T23:58:50.000Z"
+    },
+    {
+      "id": "faf90729-07e7-46ec-a562-3c28a92b28dc",
+      "company": "Wsp",
+      "title": "Intern, Electrical/Electronics Engineering",
+      "locations": [
+        "Edmonton, AB, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95485",
+      "url": "https://trueinterview.io/applications/jobs?role=faf90729-07e7-46ec-a562-3c28a92b28dc",
+      "postedAt": "2026-09-15T22:38:42.000Z",
+      "updatedAt": "2026-09-15T22:38:42.000Z"
+    },
     {
       "id": "6e2e4f18-a936-4019-a626-10afc9af0372",
       "company": "Wsp",
@@ -732,34 +838,6 @@
       "updatedAt": "2026-09-14T18:35:28.000Z"
     },
     {
-      "id": "5439f6bd-3251-46af-b03d-3b6bbe162bce",
-      "company": "Singlestore",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "United States",
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
-      "url": "https://trueinterview.io/applications/jobs?role=5439f6bd-3251-46af-b03d-3b6bbe162bce",
-      "postedAt": "2026-09-14T18:21:07.000Z",
-      "updatedAt": "2026-09-14T18:21:07.000Z"
-    },
-    {
       "id": "554e3aee-a1e6-44fd-96da-876e073759f4",
       "company": "Intuit",
       "title": "Summer 2027: Software Engineering Intern - Cybersecurity",
@@ -1253,34 +1331,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
       "url": "https://trueinterview.io/applications/jobs?role=e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "86982da4-3596-4904-812c-1819177a6aaf",
-      "company": "Microsoft",
-      "title": "AI Software Engineering Intern",
-      "locations": [
-        "Redmond, WA, US",
-        "Mountain View, CA, US"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-      "url": "https://trueinterview.io/applications/jobs?role=86982da4-3596-4904-812c-1819177a6aaf",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -6047,60 +6097,6 @@
       "url": "https://trueinterview.io/applications/jobs?role=3c5e4327-b3bc-4817-a656-c01f0f18def8",
       "postedAt": "2026-08-27T16:10:30.000Z",
       "updatedAt": "2026-08-27T21:43:11.000Z"
-    },
-    {
-      "id": "38121fed-988f-4e42-80df-3d1843e606ce",
-      "company": "Cesiumastro",
-      "title": "Summer 2027 - Mechanical Engineering Internship",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/4f42d29f-803a-4bb7-b480-aa22b23afce4/apply",
-      "url": "https://trueinterview.io/applications/jobs?role=38121fed-988f-4e42-80df-3d1843e606ce",
-      "postedAt": "2026-08-27T19:15:30.000Z",
-      "updatedAt": "2026-08-27T19:15:30.000Z"
-    },
-    {
-      "id": "53d09c91-b0f1-43fa-a3d2-cb68a72d9b27",
-      "company": "Cesiumastro",
-      "title": "Spring 2027 - Electrical Engineering Internship, Hardware",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/2b685415-8174-468b-8c0d-02f6086b6c58/apply",
-      "url": "https://trueinterview.io/applications/jobs?role=53d09c91-b0f1-43fa-a3d2-cb68a72d9b27",
-      "postedAt": "2026-08-27T19:13:40.000Z",
-      "updatedAt": "2026-08-27T19:13:40.000Z"
     },
     {
       "id": "05d7b616-9d6f-4ba9-b1de-99fbbc6153d9",
