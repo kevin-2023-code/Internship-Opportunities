@@ -5,9 +5,159 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-16T23:28:20.515Z",
-  "count": 449,
+  "fetchedAt": "2026-09-17T02:49:03.476Z",
+  "count": 506,
   "listings": [
+    {
+      "id": "a5ccb61e-fce5-4722-89c4-69c192970bce",
+      "company": "IBM",
+      "title": "Power Backend Developer Intern - Rochester, MN & Austin, TX - 2027",
+      "locations": [
+        "Multiple Cities, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=130787",
+      "url": "https://trueinterview.io/jobs/a5ccb61e-fce5-4722-89c4-69c192970bce",
+      "postedAt": "2026-09-17T00:13:12.000Z",
+      "updatedAt": "2026-09-17T00:13:12.000Z"
+    },
+    {
+      "id": "f7b0ce80-82ca-431d-8628-f1de7060f0ae",
+      "company": "Infineon",
+      "title": "Internship - Assembly Equipment Engineer",
+      "locations": [
+        "Leominster, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971993440",
+      "url": "https://trueinterview.io/jobs/f7b0ce80-82ca-431d-8628-f1de7060f0ae",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "39ae79e1-25c1-4304-8c6b-66dbd2444278",
+      "company": "Infineon",
+      "title": "Internship - Calibration Equipment Engineering",
+      "locations": [
+        "Leominster, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971993442",
+      "url": "https://trueinterview.io/jobs/39ae79e1-25c1-4304-8c6b-66dbd2444278",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "93a1e677-35b8-4efe-b2ef-38d17ed62880",
+      "company": "Infineon",
+      "title": "Internship - Sustaining Product Engineering",
+      "locations": [
+        "Leominster, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971993994",
+      "url": "https://trueinterview.io/jobs/93a1e677-35b8-4efe-b2ef-38d17ed62880",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "d492eddc-30d4-4eb1-9ca4-f13c7faa2143",
+      "company": "Infineon",
+      "title": "Internship - Test and Finish Equipment Engineering",
+      "locations": [
+        "Leominster, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971993439",
+      "url": "https://trueinterview.io/jobs/d492eddc-30d4-4eb1-9ca4-f13c7faa2143",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "f4f6d7a7-8d27-4731-b669-f8b5b8fd0a6f",
+      "company": "Infineon",
+      "title": "Internship - Unit Test Engineer",
+      "locations": [
+        "Leominster, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971993743",
+      "url": "https://trueinterview.io/jobs/f4f6d7a7-8d27-4731-b669-f8b5b8fd0a6f",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
     {
       "id": "f9afebbd-7396-4bce-8d52-ebcb04692e64",
       "company": "SAP",
@@ -484,31 +634,6 @@
       "updatedAt": "2026-09-16T22:23:11.000Z"
     },
     {
-      "id": "02f92cae-2027-4760-a0f5-df9195f5b550",
-      "company": "IBM",
-      "title": "IBM Research Intern 2027: AI Systems",
-      "locations": [
-        "Multiple Cities, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=131598",
-      "url": "https://trueinterview.io/jobs/02f92cae-2027-4760-a0f5-df9195f5b550",
-      "postedAt": "2026-09-16T22:23:11.000Z",
-      "updatedAt": "2026-09-16T22:23:11.000Z"
-    },
-    {
       "id": "2c6cac4b-b606-41ec-9ed9-439c33937ed5",
       "company": "Atlassian",
       "title": "Product Design Intern, 2027 Summer U.S.",
@@ -559,6 +684,429 @@
       "url": "https://trueinterview.io/jobs/6e8df3d0-83a1-45af-b312-86b50450e4bc",
       "postedAt": "2026-09-16T21:53:11.000Z",
       "updatedAt": "2026-09-16T21:53:11.000Z"
+    },
+    {
+      "id": "02ec76d0-4be6-449d-936a-6013a1e82742",
+      "company": "Arista Networks",
+      "title": "Network Engineer - Test (Intern)",
+      "locations": [
+        "Dublin, County Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true",
+      "url": "https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742",
+      "postedAt": "2026-09-16T21:35:06.000Z",
+      "updatedAt": "2026-09-16T21:35:06.000Z"
+    },
+    {
+      "id": "b380af4f-9ded-4bb7-8b2a-2ec8006b2a88",
+      "company": "Arista Networks",
+      "title": "Software Engineer Intern 2026/2027",
+      "locations": [
+        "Dublin, County Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true",
+      "url": "https://trueinterview.io/jobs/b380af4f-9ded-4bb7-8b2a-2ec8006b2a88",
+      "postedAt": "2026-09-16T21:32:30.000Z",
+      "updatedAt": "2026-09-16T21:32:30.000Z"
+    },
+    {
+      "id": "09ae0854-e6ee-49db-a90d-ffaa5c8f5a60",
+      "company": "Cannondesign",
+      "title": "Service Desk Analyst Intern",
+      "locations": [
+        "Minneapolis, MN",
+        "Minneapolis"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "http://www.cannondesign.com/careers/?gh_jid=8814369002",
+      "url": "https://trueinterview.io/jobs/09ae0854-e6ee-49db-a90d-ffaa5c8f5a60",
+      "postedAt": "2026-09-16T21:07:51.000Z",
+      "updatedAt": "2026-09-16T21:07:51.000Z"
+    },
+    {
+      "id": "b4cdc149-2371-47c6-b96c-56e8a0659603",
+      "company": "Rocket Lab Corporation",
+      "title": "Manufacturing Engineering Intern Summer 2027",
+      "locations": [
+        "Long Beach, CA",
+        "EDC",
+        "Middle River, MD",
+        "Space Structures Complex (SSC)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+      "url": "https://trueinterview.io/jobs/b4cdc149-2371-47c6-b96c-56e8a0659603",
+      "postedAt": "2026-09-16T19:02:36.000Z",
+      "updatedAt": "2026-09-16T20:41:44.000Z"
+    },
+    {
+      "id": "cebe8c80-80a7-47d1-af38-7e25e6f975b3",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "locations": [
+        "Mountain View, California, United States",
+        "San Francisco, California, United States",
+        "Mountain View (US-MTV-EMF680)",
+        "San Francisco (US-SFO-MKT555)"
+      ],
+      "cities": [
+        "Mountain View, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
+      "url": "https://trueinterview.io/jobs/cebe8c80-80a7-47d1-af38-7e25e6f975b3",
+      "postedAt": "2026-09-16T20:08:32.000Z",
+      "updatedAt": "2026-09-16T20:08:32.000Z"
+    },
+    {
+      "id": "d110cb85-9e22-45e3-948a-3789584ff412",
+      "company": "Ms Consultants, Inc",
+      "title": "MEP Engineer Internship - Summer 2027",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/msconsultants/93464961-404e-43b7-91d5-3d51f7f2bf85/apply",
+      "url": "https://trueinterview.io/jobs/d110cb85-9e22-45e3-948a-3789584ff412",
+      "postedAt": "2026-09-16T19:59:46.000Z",
+      "updatedAt": "2026-09-16T19:59:46.000Z"
+    },
+    {
+      "id": "524d3fea-c6bc-4f48-8518-b6ae6767c741",
+      "company": "Ms Consultants, Inc",
+      "title": "Water Engineer Internship - Summer 2027",
+      "locations": [
+        "Pittsburgh, PA",
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/msconsultants/742e33ad-ad91-475b-be86-5ba7701a5fba/apply",
+      "url": "https://trueinterview.io/jobs/524d3fea-c6bc-4f48-8518-b6ae6767c741",
+      "postedAt": "2026-09-16T19:55:39.000Z",
+      "updatedAt": "2026-09-16T19:55:39.000Z"
+    },
+    {
+      "id": "a1d58449-98cc-4969-b88f-c3bb6beba56b",
+      "company": "Wsp",
+      "title": "Structural Engineering (Substation) Intern - Summer 2027",
+      "locations": [
+        "Freeport, ME, United States",
+        "Herndon, VA, United States",
+        "Baltimore, MD, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665",
+      "url": "https://trueinterview.io/jobs/a1d58449-98cc-4969-b88f-c3bb6beba56b",
+      "postedAt": "2026-09-16T19:44:00.000Z",
+      "updatedAt": "2026-09-16T19:44:00.000Z"
+    },
+    {
+      "id": "a767aa3e-de81-4868-8d8d-9ecb5c8abb25",
+      "company": "Benesch",
+      "title": "Railroad Track Design - Civil Engineering Internship",
+      "locations": [
+        "Milwaukee, WI",
+        "Naperville, IL",
+        "Omaha, NE",
+        "Charlotte, NC",
+        "Raleigh, NC",
+        "Charlotte - Rail",
+        "Milwaukee - Rail",
+        "Naperville - Rail",
+        "Omaha - Rail"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.benesch.com/job-openings/5240157007?gh_jid=5240157007",
+      "url": "https://trueinterview.io/jobs/a767aa3e-de81-4868-8d8d-9ecb5c8abb25",
+      "postedAt": "2026-09-16T19:24:42.000Z",
+      "updatedAt": "2026-09-16T19:24:42.000Z"
+    },
+    {
+      "id": "928e12cb-550b-40fb-b1bd-2dc8fda2d099",
+      "company": "Woolpert",
+      "title": "Site Civil Engineer Intern",
+      "locations": [
+        "Charlotte, NC",
+        "Chicago, IL",
+        "Cincinnati, OH",
+        "Columbus, OH",
+        "Dayton, OH",
+        "Fairview Heights, IL",
+        "Harrisburg, PA",
+        "Indianapolis, IN",
+        "Knoxville, TN",
+        "Miami, FL",
+        "New York, NY",
+        "Pittsburgh, PA",
+        "Richmond, VA",
+        "Salt Lake City, UT",
+        "United States"
+      ],
+      "cities": [
+        "Chicago, IL",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/woolpert/jobs/4408304009",
+      "url": "https://trueinterview.io/jobs/928e12cb-550b-40fb-b1bd-2dc8fda2d099",
+      "postedAt": "2026-09-16T19:10:57.000Z",
+      "updatedAt": "2026-09-16T19:10:57.000Z"
+    },
+    {
+      "id": "9f6bd0a8-6fb1-4f20-bdd9-aa4830931ce4",
+      "company": "Kitware",
+      "title": "Software Developer Internship",
+      "locations": [
+        "Clifton Park, New York",
+        "Carrboro, North Carolina"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906/apply",
+      "url": "https://trueinterview.io/jobs/9f6bd0a8-6fb1-4f20-bdd9-aa4830931ce4",
+      "postedAt": "2026-09-16T19:05:30.000Z",
+      "updatedAt": "2026-09-16T19:05:30.000Z"
+    },
+    {
+      "id": "ffba23e1-edbe-491e-be38-cf934a2e429e",
+      "company": "Persona",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application",
+      "url": "https://trueinterview.io/jobs/ffba23e1-edbe-491e-be38-cf934a2e429e",
+      "postedAt": "2026-09-16T18:48:17.000Z",
+      "updatedAt": "2026-09-16T18:48:17.000Z"
+    },
+    {
+      "id": "91dd23f2-18fb-4b3c-aa0e-42fdc70127fe",
+      "company": "Gdh",
+      "title": "Electrical Engineering Intern",
+      "locations": [
+        "BUFFALO, NY, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28158",
+      "url": "https://trueinterview.io/jobs/91dd23f2-18fb-4b3c-aa0e-42fdc70127fe",
+      "postedAt": "2026-09-16T18:21:07.000Z",
+      "updatedAt": "2026-09-16T18:21:07.000Z"
+    },
+    {
+      "id": "74a7fb43-a3d7-4b61-a99f-64914ae41318",
+      "company": "Contoro Inc.",
+      "title": "Robotics Engineer Intern - Test & Validation",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/contoro/cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5/application",
+      "url": "https://trueinterview.io/jobs/74a7fb43-a3d7-4b61-a99f-64914ae41318",
+      "postedAt": "2026-09-16T17:35:48.000Z",
+      "updatedAt": "2026-09-16T17:35:48.000Z"
+    },
+    {
+      "id": "51977b52-7a52-4e76-a996-26363d7c138f",
+      "company": "Rocket Lab Corporation",
+      "title": "RF Engineering Intern",
+      "locations": [
+        "Long Beach, CA",
+        "RL Headquarters"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7991657003",
+      "url": "https://trueinterview.io/jobs/51977b52-7a52-4e76-a996-26363d7c138f",
+      "postedAt": "2026-09-16T16:01:30.000Z",
+      "updatedAt": "2026-09-16T16:01:30.000Z"
     },
     {
       "id": "c73d4279-a928-46f8-bdcc-a6ce291fe388",
@@ -615,6 +1163,82 @@
       "url": "https://trueinterview.io/jobs/9198d075-4b5b-476c-948f-2c383fbd4b4f",
       "postedAt": "2026-09-16T00:00:12.000Z",
       "updatedAt": "2026-09-16T00:00:12.000Z"
+    },
+    {
+      "id": "5fd1f292-17cd-49a3-9895-5df5b432c246",
+      "company": "Amazon",
+      "title": "Solutions Architect Intern, AWSI - 2027",
+      "locations": [
+        "Dallas, Texas, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027",
+      "url": "https://trueinterview.io/jobs/5fd1f292-17cd-49a3-9895-5df5b432c246",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "9c7550cf-109e-4f9d-be07-efc0b5dbe3fc",
+      "company": "AMD",
+      "title": "2027 PhD AI Model Optimization & Software Engineer Intern/Co-op",
+      "locations": [
+        "US,CA,San Jose",
+        "US,TX,Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92522?lang=en-us",
+      "url": "https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "ffc65f69-c99b-419d-bdf6-081fad7f972e",
+      "company": "AMD",
+      "title": "2027 PhD Data Center Networking Engineer Intern/Co-Op",
+      "locations": [
+        "US,CA,Santa Clara"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/92518?lang=en-us",
+      "url": "https://trueinterview.io/jobs/ffc65f69-c99b-419d-bdf6-081fad7f972e",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
       "id": "3624abc7-e2fb-441f-8f3e-e575285f2900",
@@ -749,6 +1373,89 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
+      "id": "f9aafeab-2a5e-41d6-ba31-a1a4a2de06be",
+      "company": "Cisco",
+      "title": "Security Engineer I (Intern) - United States",
+      "locations": [
+        "RTP, North Carolina, US",
+        "Research Triangle Park, North Carolina, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+      "url": "https://trueinterview.io/jobs/f9aafeab-2a5e-41d6-ba31-a1a4a2de06be",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "532b3cd7-e568-4cc4-b52e-524a73be1110",
+      "company": "Cisco",
+      "title": "Security Research Engineer I (Intern) - United States",
+      "locations": [
+        "RTP, North Carolina, US",
+        "Austin, Texas, US",
+        "Knoxville, Tennessee, US",
+        "Research Triangle Park, North Carolina, United States of America",
+        "Austin, Texas, United States of America",
+        "Knoxville, Tennessee, United States of America"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Research-Engineer-I--Intern----United-States_2025886",
+      "url": "https://trueinterview.io/jobs/532b3cd7-e568-4cc4-b52e-524a73be1110",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "17b5a830-4883-4641-90c7-9d349b7658fd",
+      "company": "Intel",
+      "title": "Operations Research, Engineering Analytics Graduate Intern",
+      "locations": [
+        "US, Arizona, Phoenix"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502",
+      "url": "https://trueinterview.io/jobs/17b5a830-4883-4641-90c7-9d349b7658fd",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
       "id": "946e145d-104d-4d8f-95dd-8fa96c938f6b",
       "company": "Cesiumastro",
       "title": "Summer 2027 - Electrical Engineering Internship, FPGA",
@@ -873,34 +1580,6 @@
       "url": "https://trueinterview.io/jobs/876e3383-afde-48c9-8a40-6ded7c0678a2",
       "postedAt": "2026-09-15T19:20:09.000Z",
       "updatedAt": "2026-09-15T19:20:09.000Z"
-    },
-    {
-      "id": "c83b7f6d-825f-447f-b4e8-b98efd9298e9",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MBA, Salesforce Product Owner",
-      "locations": [
-        "Los Angeles, California, United States",
-        "Los Angeles (US-LAX-GRAN2037)"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8198582",
-      "url": "https://trueinterview.io/jobs/c83b7f6d-825f-447f-b4e8-b98efd9298e9",
-      "postedAt": "2026-09-15T18:51:38.000Z",
-      "updatedAt": "2026-09-15T18:51:38.000Z"
     },
     {
       "id": "e2011877-520a-476a-a26d-446e4ff4e84e",
@@ -1749,6 +2428,31 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "b66e02bb-2bd0-4a2c-b8da-7200115527d9",
+      "company": "Texas Instruments",
+      "title": "Information Technology Intern – Data Engineering",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017978",
+      "url": "https://trueinterview.io/jobs/b66e02bb-2bd0-4a2c-b8da-7200115527d9",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
       "company": "Grammarly",
       "title": "Software Engineering Intern - Summer 2027",
@@ -2418,40 +3122,14 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "id": "985590f8-2e63-425c-a467-e47c352f3508",
-      "company": "Cisco",
-      "title": "Hardware Engineer I (Intern) - United States",
-      "locations": [
-        "San Jose, California, US",
-        "Carlsbad, California, US"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Intern----United-States_2024756",
-      "url": "https://trueinterview.io/jobs/985590f8-2e63-425c-a467-e47c352f3508",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
       "id": "70beb522-c361-45a1-89c1-ec547c8fee7b",
       "company": "Cisco",
       "title": "Hardware Engineer PhD (Intern) - United States",
       "locations": [
         "San Jose, California, US",
-        "Carlsbad, California, US"
+        "Carlsbad, California, US",
+        "San Jose, California, United States of America",
+        "Carlsbad, California, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -2759,6 +3437,39 @@
       "source": "bigtech-careers",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556995577",
       "url": "https://trueinterview.io/jobs/02e60a20-4d25-4b9b-a610-5a4995f4fe60",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "241d22c0-2807-4adc-b279-b37ef72a8094",
+      "company": "Texas Instruments",
+      "title": "Field Applications Engineering Intern (Dallas, TX)",
+      "locations": [
+        "Dallas, TX, United States",
+        "Austin, TX, United States",
+        "Irvine, CA, United States",
+        "MI, United States",
+        "Waltham, MA, United States",
+        "Bellevue, WA, United States"
+      ],
+      "cities": [
+        "Austin, TX",
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013813",
+      "url": "https://trueinterview.io/jobs/241d22c0-2807-4adc-b279-b37ef72a8094",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -3544,6 +4255,59 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "ca8f5ed9-20ea-403b-9d5f-fecbf7de24c7",
+      "company": "Texas Instruments",
+      "title": "Systems Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States",
+        "Sugar Land, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017917",
+      "url": "https://trueinterview.io/jobs/ca8f5ed9-20ea-403b-9d5f-fecbf7de24c7",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "b6faaf5e-a70b-4e89-9c21-1ecf2cc2e378",
+      "company": "Texas Instruments",
+      "title": "Systems Engineering Intern - MS/PhD",
+      "locations": [
+        "Dallas, TX, United States",
+        "Sugar Land, TX, United States",
+        "Knoxville, TN, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542",
+      "url": "https://trueinterview.io/jobs/b6faaf5e-a70b-4e89-9c21-1ecf2cc2e378",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "1b1a761a-6643-4b71-ad05-cf128de1fb96",
       "company": "Tokyo Electron",
       "title": "Research Scientist, Simulation Summer 2027 Intern",
@@ -3805,34 +4569,6 @@
       "url": "https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c",
       "postedAt": "2026-09-10T16:09:58.000Z",
       "updatedAt": "2026-09-10T16:09:58.000Z"
-    },
-    {
-      "id": "22de567a-1c32-4058-92fc-72f0ed1b188a",
-      "company": "Rocket Lab Corporation",
-      "title": "Mechanical Engineering Intern Spring 2027",
-      "locations": [
-        "Toronto, CAN",
-        "Sinclair Office"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986368003",
-      "url": "https://trueinterview.io/jobs/22de567a-1c32-4058-92fc-72f0ed1b188a",
-      "postedAt": "2026-09-10T16:07:10.000Z",
-      "updatedAt": "2026-09-10T16:07:10.000Z"
     },
     {
       "id": "25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6",
@@ -4735,6 +5471,33 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
+      "id": "d9926154-7b51-4acd-8077-714e9699d78b",
+      "company": "Tokyo Electron",
+      "title": "Process Engineer Summer 2027 Intern",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/San-Jose/Process-Engineer-Summer-2027-Intern_R26-01530",
+      "url": "https://trueinterview.io/jobs/d9926154-7b51-4acd-8077-714e9699d78b",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
       "id": "12ed2238-3d0a-486d-9e62-ac580d6d96c2",
       "company": "Tokyo Electron",
       "title": "Software Engineer, AI Research Summer 2027 Intern",
@@ -5483,7 +6246,8 @@
       "company": "Cisco",
       "title": "Software Consulting Engineer I (Intern) United States",
       "locations": [
-        "USA-RESEARCH TRIANGLE PARK"
+        "USA-RESEARCH TRIANGLE PARK",
+        "RESEARCH_TRIANGLE_PARK, North Carolina, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -5687,6 +6451,237 @@
       "source": "bigtech-careers",
       "applyUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038",
       "url": "https://trueinterview.io/jobs/7a4f5667-2466-4624-8e50-c154720771fc",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "4fe01287-c150-4743-ba8f-5df380f6e23c",
+      "company": "Texas Instruments",
+      "title": "Facilities Chemical Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017820",
+      "url": "https://trueinterview.io/jobs/4fe01287-c150-4743-ba8f-5df380f6e23c",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "9d23e805-8468-494d-a271-958dc2368511",
+      "company": "Texas Instruments",
+      "title": "Facilities Controls and Automation Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017815",
+      "url": "https://trueinterview.io/jobs/9d23e805-8468-494d-a271-958dc2368511",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "54e3c080-1865-47fa-b8ea-1cf2d94f6f55",
+      "company": "Texas Instruments",
+      "title": "Maine: Manufacturing Engineering Intern",
+      "locations": [
+        "South Portland, ME, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017629",
+      "url": "https://trueinterview.io/jobs/54e3c080-1865-47fa-b8ea-1cf2d94f6f55",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "e2805037-2ea2-4a5f-8b3c-7bbf19f8f74d",
+      "company": "Texas Instruments",
+      "title": "North Texas: Industrial Engineer Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017630",
+      "url": "https://trueinterview.io/jobs/e2805037-2ea2-4a5f-8b3c-7bbf19f8f74d",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "55bf5d0d-daa1-49a4-a1ab-48b7bef2dafd",
+      "company": "Texas Instruments",
+      "title": "North Texas: Manufacturing Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017628",
+      "url": "https://trueinterview.io/jobs/55bf5d0d-daa1-49a4-a1ab-48b7bef2dafd",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "6e4931f3-a3ff-4a5d-b4de-aaa0012a0336",
+      "company": "Texas Instruments",
+      "title": "Product Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States",
+        "Tucson, AZ, United States",
+        "Knoxville, TN, United States",
+        "Phoenix, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017579",
+      "url": "https://trueinterview.io/jobs/6e4931f3-a3ff-4a5d-b4de-aaa0012a0336",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "4e610e0a-2ad5-448c-a765-9b88211ca533",
+      "company": "Texas Instruments",
+      "title": "Program Management Engineer Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017539",
+      "url": "https://trueinterview.io/jobs/4e610e0a-2ad5-448c-a765-9b88211ca533",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "33445106-7db8-4b06-9fd1-db6b86d9dd61",
+      "company": "Texas Instruments",
+      "title": "Test or Validation Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States",
+        "Tucson, AZ, United States",
+        "Knoxville, TN, United States",
+        "Phoenix, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017578",
+      "url": "https://trueinterview.io/jobs/33445106-7db8-4b06-9fd1-db6b86d9dd61",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "8d910cd6-5e0c-4218-92ea-6b308accf230",
+      "company": "Texas Instruments",
+      "title": "Utah: Manufacturing Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627",
+      "url": "https://trueinterview.io/jobs/8d910cd6-5e0c-4218-92ea-6b308accf230",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -6112,6 +7107,81 @@
       "source": "bigtech-careers",
       "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723",
       "url": "https://trueinterview.io/jobs/32a8fda0-d39d-42e2-bf31-6b95cb97ca59",
+      "postedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "8113ccf8-0c45-4d62-b0d7-58dedc39c220",
+      "company": "Tokyo Electron",
+      "title": "Automation Developer/Analyst Summer 2027 Intern",
+      "locations": [
+        "Austin RiverSouth"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497",
+      "url": "https://trueinterview.io/jobs/8113ccf8-0c45-4d62-b0d7-58dedc39c220",
+      "postedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "a2ad5dd2-81b7-4aaa-ab8f-ad26a6d5ba2f",
+      "company": "Tokyo Electron",
+      "title": "Business Intelligence Analyst Summer 2027 Intern",
+      "locations": [
+        "Austin RiverSouth"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Business-Intelligence-Analyst-Summer-2027-Intern_R26-01504",
+      "url": "https://trueinterview.io/jobs/a2ad5dd2-81b7-4aaa-ab8f-ad26a6d5ba2f",
+      "postedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "20efbf52-2c7c-446f-8c50-f78a23ededf5",
+      "company": "Tokyo Electron",
+      "title": "Data Platforms Engineer Summer 2027 Intern",
+      "locations": [
+        "Austin RiverSouth"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Data-Platforms-Engineer-Summer-2027-Intern_R26-01498",
+      "url": "https://trueinterview.io/jobs/20efbf52-2c7c-446f-8c50-f78a23ededf5",
       "postedAt": "2026-09-07T00:00:00.000Z",
       "updatedAt": "2026-09-07T00:00:00.000Z"
     },
@@ -6715,6 +7785,58 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "29179547-3b0b-4a15-bfb4-076cf435f355",
+      "company": "Marvell Technology",
+      "title": "Application Engineer Intern, MS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA",
+        "Westlake Village, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer-Intern--MS---Summer-2027_2604509",
+      "url": "https://trueinterview.io/jobs/29179547-3b0b-4a15-bfb4-076cf435f355",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "9cbcb094-71e8-4bd1-839f-87478d3232ab",
+      "company": "Marvell Technology",
+      "title": "Firmware Engineer Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA",
+        "Westlake Village, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
+      "url": "https://trueinterview.io/jobs/9cbcb094-71e8-4bd1-839f-87478d3232ab",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "dada29d6-5d30-4067-9296-1aeb7c1fb066",
       "company": "Marvell Technology",
       "title": "Firmware Engineer Intern, MS - Summer 2027",
@@ -6977,7 +8099,10 @@
       "locations": [
         "RTP, North Carolina, US",
         "Richardson, Texas, US",
-        "Chicago, Illinois, US"
+        "Chicago, Illinois, US",
+        "Research Triangle Park, North Carolina, United States of America",
+        "Chicago, Illinois, United States of America",
+        "Richardson, Texas, United States of America"
       ],
       "cities": [
         "Chicago, IL"
@@ -7004,7 +8129,8 @@
       "company": "Cisco",
       "title": "Security Consulting Engineer I (Intern) - United States",
       "locations": [
-        "RTP, North Carolina, US"
+        "RTP, North Carolina, US",
+        "Research Triangle Park, North Carolina, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7634,6 +8760,351 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
       "url": "https://trueinterview.io/jobs/8fdef149-3186-44da-b1f1-73998cc6c297",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "924ef01c-4b81-4116-b6fe-cd3dfc87e200",
+      "company": "Texas Instruments",
+      "title": "Analog IC Design Engineering Intern - Bachelors",
+      "locations": [
+        "Dallas, TX, United States",
+        "Knoxville, TN, United States",
+        "Tucson, AZ, United States",
+        "Phoenix, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017543",
+      "url": "https://trueinterview.io/jobs/924ef01c-4b81-4116-b6fe-cd3dfc87e200",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "05e927d3-4e3e-4587-a5c9-d2856a4f4430",
+      "company": "Texas Instruments",
+      "title": "Analog IC Design Engineering Intern - MS/PhD",
+      "locations": [
+        "Dallas, TX, United States",
+        "Knoxville, TN, United States",
+        "Tucson, AZ, United States",
+        "Phoenix, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017544",
+      "url": "https://trueinterview.io/jobs/05e927d3-4e3e-4587-a5c9-d2856a4f4430",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "ff35aef6-e7b1-491a-a137-0d790cf65371",
+      "company": "Texas Instruments",
+      "title": "Applications Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States",
+        "Sugar Land, TX, United States",
+        "Knoxville, TN, United States",
+        "Tucson, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017537",
+      "url": "https://trueinterview.io/jobs/ff35aef6-e7b1-491a-a137-0d790cf65371",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "3f055774-54cb-4233-8fe5-94f071743a30",
+      "company": "Texas Instruments",
+      "title": "Design Verification Engineering Intern - Bachelors",
+      "locations": [
+        "Dallas, TX, United States",
+        "Knoxville, TN, United States",
+        "Phoenix, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017545",
+      "url": "https://trueinterview.io/jobs/3f055774-54cb-4233-8fe5-94f071743a30",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "81bd6d1a-e04f-4d49-bf0d-48ac263a4853",
+      "company": "Texas Instruments",
+      "title": "Design Verification Engineering Intern - MS/PhD",
+      "locations": [
+        "Dallas, TX, United States",
+        "Knoxville, TN, United States",
+        "Phoenix, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017546",
+      "url": "https://trueinterview.io/jobs/81bd6d1a-e04f-4d49-bf0d-48ac263a4853",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "2716e4cd-4d2d-4286-a3b1-f7de9286a9f3",
+      "company": "Texas Instruments",
+      "title": "Digital IC Design Engineering Intern - Bachelors",
+      "locations": [
+        "Dallas, TX, United States",
+        "Knoxville, TN, United States",
+        "Tucson, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017547",
+      "url": "https://trueinterview.io/jobs/2716e4cd-4d2d-4286-a3b1-f7de9286a9f3",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b",
+      "company": "Texas Instruments",
+      "title": "Digital IC Design Engineering Intern - MS/PhD",
+      "locations": [
+        "Dallas, TX, United States",
+        "Knoxville, TN, United States",
+        "Tucson, AZ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017548",
+      "url": "https://trueinterview.io/jobs/f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "7d770549-d32f-4d56-826e-55bc086caa10",
+      "company": "Texas Instruments",
+      "title": "Packaging Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017567",
+      "url": "https://trueinterview.io/jobs/7d770549-d32f-4d56-826e-55bc086caa10",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "c12ca430-e060-4da2-9dfc-95e283d80368",
+      "company": "Texas Instruments",
+      "title": "Packaging Engineering Intern MS/PhD",
+      "locations": [
+        "United States",
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017568",
+      "url": "https://trueinterview.io/jobs/c12ca430-e060-4da2-9dfc-95e283d80368",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "48ea64f7-f7e5-4bfa-95dc-af1f3ee21327",
+      "company": "Texas Instruments",
+      "title": "Process Development Engineer Intern - MS/PhD – Dallas",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017569",
+      "url": "https://trueinterview.io/jobs/48ea64f7-f7e5-4bfa-95dc-af1f3ee21327",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "28131e7d-3f98-48eb-a780-93bdd9aeac7e",
+      "company": "Texas Instruments",
+      "title": "Process Development Engineer Intern - MS/PhD – Lehi",
+      "locations": [
+        "Lehi, UT, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017570",
+      "url": "https://trueinterview.io/jobs/28131e7d-3f98-48eb-a780-93bdd9aeac7e",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "81a49839-f70f-4f9d-b81a-a7a926fe23d4",
+      "company": "Texas Instruments",
+      "title": "Product/Test Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017571",
+      "url": "https://trueinterview.io/jobs/81a49839-f70f-4f9d-b81a-a7a926fe23d4",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "4b523496-80fb-4d50-91b6-e5fe6a049a8b",
+      "company": "Texas Instruments",
+      "title": "Quality Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States",
+        "Tucson, AZ, United States",
+        "Lehi, UT, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017572",
+      "url": "https://trueinterview.io/jobs/4b523496-80fb-4d50-91b6-e5fe6a049a8b",
       "postedAt": "2026-09-02T00:00:00.000Z",
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
@@ -9367,6 +10838,80 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577",
       "url": "https://trueinterview.io/jobs/1b5a4415-aceb-4b8a-b5b3-6b6791b40a50",
+      "postedAt": "2026-08-28T00:00:00.000Z",
+      "updatedAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "6f23868b-9bcc-43ab-b055-85589a9da716",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Cloud Engineer Intern",
+      "locations": [
+        "Spring, Texas, United States of America",
+        "Westford, Massachusetts, United States of America",
+        "Ft. Collins, Colorado, United States of America",
+        "Chippewa Falls, Wisconsin, United States of America",
+        "Durham, North Carolina, United States of America",
+        "Sunnyvale, California, United States of America",
+        "Roseville, California, United States of America",
+        "San Jose, California, United States of America",
+        "Bloomington, Minnesota, United States of America",
+        "Andover, Massachusetts, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629",
+      "url": "https://trueinterview.io/jobs/6f23868b-9bcc-43ab-b055-85589a9da716",
+      "postedAt": "2026-08-28T00:00:00.000Z",
+      "updatedAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "08390c9b-5110-4f06-b985-56c5632ad9c4",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Firmware Engineer Intern",
+      "locations": [
+        "Spring, Texas, United States of America",
+        "Westford, Massachusetts, United States of America",
+        "Ft. Collins, Colorado, United States of America",
+        "Chippewa Falls, Wisconsin, United States of America",
+        "Durham, North Carolina, United States of America",
+        "Sunnyvale, California, United States of America",
+        "Roseville, California, United States of America",
+        "San Jose, California, United States of America",
+        "Bloomington, Minnesota, United States of America",
+        "Andover, Massachusetts, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627",
+      "url": "https://trueinterview.io/jobs/08390c9b-5110-4f06-b985-56c5632ad9c4",
       "postedAt": "2026-08-28T00:00:00.000Z",
       "updatedAt": "2026-08-28T00:00:00.000Z"
     },

@@ -12,11 +12,11 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-16 23:28 UTC_
+_Last updated: 2026-09-17 02:49 UTC_
 
-### Browse 38 internships by category
+### Browse 40 internships by category
 
-💻 **[Software Engineering](#-software-engineering)** (23)
+💻 **[Software Engineering](#-software-engineering)** (24)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1)
 
@@ -25,6 +25,8 @@ _Last updated: 2026-09-16 23:28 UTC_
 📱 **[Product & Design](#-product--design)** (4)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (6)
+
+🧰 **[IT & Support](#-it--support)** (1)
 
 ---
 
@@ -45,6 +47,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/b380af4f-9ded-4bb7-8b2a-2ec8006b2a88">Software Engineer Intern 2026/2027</a> 🆕</td>
+<td>Dublin</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Gecko Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/d59f73a1-36ad-4bb2-850e-809fa2958094">Embedded Software Engineering Intern</a> 🆕</td>
@@ -127,7 +136,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/32a8fda0-d39d-42e2-bf31-6b95cb97ca59">Systems Engineer Intern - Summer 2027</a></td>
 <td>Irvine</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Symphony Communication Services</strong></td>
@@ -162,7 +171,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ffb72b4-fb99-4dd9-b25b-faf99588b710">Web Engineer Intern - Tools &amp; Portals</a> 🛂</td>
 <td>London</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td><strong>Telus Digital</strong></td>
@@ -384,6 +393,25 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780">Apply</a></td>
 <td align="center">16d</td>
+</tr>
+</tbody>
+</table>
+
+## 🧰 IT & Support
+
+[Back to top](#internship-opportunities--worldwide)
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a> 🆕</td>
+<td>Dublin</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
+<td align="center">0d</td>
 </tr>
 </tbody>
 </table>
