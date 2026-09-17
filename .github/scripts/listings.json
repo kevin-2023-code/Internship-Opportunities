@@ -5,9 +5,87 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-17T18:44:27.577Z",
-  "count": 508,
+  "fetchedAt": "2026-09-17T21:51:43.145Z",
+  "count": 511,
   "listings": [
+    {
+      "id": "163a84c2-98c8-411d-9324-4a3add2ceae6",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "locations": [
+        "London, England, United Kingdom",
+        "London (UK-LON-40BR)"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
+      "url": "https://trueinterview.io/jobs/163a84c2-98c8-411d-9324-4a3add2ceae6",
+      "postedAt": "2026-09-17T18:21:40.000Z",
+      "updatedAt": "2026-09-17T18:21:40.000Z"
+    },
+    {
+      "id": "1580c88f-fafd-4959-b746-0e0de4d8ae12",
+      "company": "Skydio",
+      "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application",
+      "url": "https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12",
+      "postedAt": "2026-09-17T17:59:25.000Z",
+      "updatedAt": "2026-09-17T17:59:25.000Z"
+    },
+    {
+      "id": "7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
+      "company": "Nuclear Promise X",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Ontario"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application",
+      "url": "https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
+      "postedAt": "2026-09-17T17:57:47.000Z",
+      "updatedAt": "2026-09-17T17:57:47.000Z"
+    },
     {
       "id": "a5ccb61e-fce5-4722-89c4-69c192970bce",
       "company": "IBM",
@@ -32,39 +110,6 @@
       "url": "https://trueinterview.io/jobs/a5ccb61e-fce5-4722-89c4-69c192970bce",
       "postedAt": "2026-09-17T00:13:12.000Z",
       "updatedAt": "2026-09-17T00:13:12.000Z"
-    },
-    {
-      "id": "4015b898-9609-4aea-b254-dd6bf26e06f2",
-      "company": "Cisco",
-      "title": "Data Analyst I (Intern) - United States",
-      "locations": [
-        "San Jose, California, US",
-        "Austin, Texas, US",
-        "RTP, North Carolina, US",
-        "San Jose, California, United States of America",
-        "Austin, Texas, United States of America",
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1",
-      "url": "https://trueinterview.io/jobs/4015b898-9609-4aea-b254-dd6bf26e06f2",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
       "id": "f7b0ce80-82ca-431d-8628-f1de7060f0ae",
@@ -217,6 +262,56 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "f5781389-dfd5-4db6-8ef7-fe38c7bfdf6e",
+      "company": "Keysight",
+      "title": "Mechanical Engineer Intern",
+      "locations": [
+        "US-CA-Santa Rosa-Bldg 2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54325?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f5781389-dfd5-4db6-8ef7-fe38c7bfdf6e",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "41c7db62-9c7a-431d-9a13-b0c17de4ab74",
+      "company": "Keysight",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "US-CA-Santa Rosa-Bldg 4"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54329?lang=en-us",
+      "url": "https://trueinterview.io/jobs/41c7db62-9c7a-431d-9a13-b0c17de4ab74",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
       "id": "aba801f6-49c4-4e17-9b0b-6cc1c5a302c2",
       "company": "Marvell Technology",
       "title": "SRAM Circuit Design Intern, MS - Summer 2027",
@@ -267,33 +362,27 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
-      "id": "334b6290-b86d-41c2-83bf-6b977e05fb48",
-      "company": "PayPal",
-      "title": "Software Engineer Intern",
+      "id": "26da7629-e57e-4ee1-a893-aca2a41539d8",
+      "company": "Micron Technology",
+      "title": "INTERN- ID1 Process Engineer",
       "locations": [
-        "San Jose, CA, US",
-        "Chicago, IL, US",
-        "Austin, TX, US"
+        "Boise, ID, US"
       ],
-      "cities": [
-        "San Jose, CA",
-        "Chicago, IL",
-        "Austin, TX"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "bigtech-careers",
-      "applyUrl": "https://paypal.eightfold.ai/careers/job/274922260559",
-      "url": "https://trueinterview.io/jobs/334b6290-b86d-41c2-83bf-6b977e05fb48",
+      "applyUrl": "https://careers.micron.com/careers/job/44430170",
+      "url": "https://trueinterview.io/jobs/26da7629-e57e-4ee1-a893-aca2a41539d8",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -931,37 +1020,6 @@
       "url": "https://trueinterview.io/jobs/b4cdc149-2371-47c6-b96c-56e8a0659603",
       "postedAt": "2026-09-16T19:02:36.000Z",
       "updatedAt": "2026-09-16T20:41:44.000Z"
-    },
-    {
-      "id": "cebe8c80-80a7-47d1-af38-7e25e6f975b3",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
-      "locations": [
-        "Mountain View, California, United States",
-        "San Francisco, California, United States",
-        "Mountain View (US-MTV-EMF680)",
-        "San Francisco (US-SFO-MKT555)"
-      ],
-      "cities": [
-        "Mountain View, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-      "url": "https://trueinterview.io/jobs/cebe8c80-80a7-47d1-af38-7e25e6f975b3",
-      "postedAt": "2026-09-16T20:08:32.000Z",
-      "updatedAt": "2026-09-16T20:08:32.000Z"
     },
     {
       "id": "d110cb85-9e22-45e3-948a-3789584ff412",
@@ -1643,31 +1701,6 @@
       "url": "https://trueinterview.io/jobs/faf90729-07e7-46ec-a562-3c28a92b28dc",
       "postedAt": "2026-09-15T22:38:42.000Z",
       "updatedAt": "2026-09-15T22:38:42.000Z"
-    },
-    {
-      "id": "6e2e4f18-a936-4019-a626-10afc9af0372",
-      "company": "Wsp",
-      "title": "Overhead Transmission Line Design Engineering Intern - Summer 2027",
-      "locations": [
-        "Birmingham, AL, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88869",
-      "url": "https://trueinterview.io/jobs/6e2e4f18-a936-4019-a626-10afc9af0372",
-      "postedAt": "2026-09-15T20:22:11.000Z",
-      "updatedAt": "2026-09-15T20:22:11.000Z"
     },
     {
       "id": "95d89c8d-7b19-42e1-8426-d8dc629718b4",
@@ -3493,6 +3526,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44449230",
       "url": "https://trueinterview.io/jobs/32664ee6-62d8-420a-91d0-2872abe8877e",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "c37d77d3-e170-479d-b7b8-a24ed8b79c8f",
+      "company": "Microsoft",
+      "title": "Electrical Engineering INTERN",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556995572",
+      "url": "https://trueinterview.io/jobs/c37d77d3-e170-479d-b7b8-a24ed8b79c8f",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
