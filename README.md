@@ -12,7 +12,7 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-17 08:17 UTC_
+_Last updated: 2026-09-17 14:01 UTC_
 
 ### Browse 466 internships by category
 
@@ -507,28 +507,28 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/87b07972-e202-44c5-9d19-074b932c10b1">Software Engineering Intern, Android (Summer 2027)</a> 🆕</td>
 <td>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&amp;gh_jid=8142961">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a> 🆕</td>
 <td>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/60c5fea1-856c-484d-8805-1eaaec977518">Software Engineering Intern, Backend (Summer 2027)</a> 🆕</td>
 <td>Bellevue, WA<br/>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e9f57cb7-9167-4fa7-9a71-ead8560f6e26">Software Engineering Intern, Web (Summer 2027)</a> 🆕</td>
 <td>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&amp;gh_jid=8142963">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
