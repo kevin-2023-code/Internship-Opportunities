@@ -12,15 +12,15 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-17 02:49 UTC_
+_Last updated: 2026-09-17 08:17 UTC_
 
 ### Browse 466 internships by category
 
 💻 **[Software Engineering](#-software-engineering)** (274)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (52)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (51)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (95)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (96)
 
 📱 **[Product & Design](#-product--design)** (37)
 
@@ -2054,13 +2054,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">2d</td>
 </tr>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/19ecde9f-1102-487c-87be-78b13cb7369b">Software Engineer Data &amp; AI I (Intern) - United States</a> 🆕</td>
-<td>San Jose, CA<br/>Austin, TX</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510">Apply</a></td>
-<td align="center">3d</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88">System Technology Research Engineer - (PhD Intern)</a> 🆕</td>
 <td>US, Oregon, Hillsboro<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
@@ -2366,6 +2359,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7490b3a7-1ff3-49cf-add5-29cfbd2f373e">Internship - Process Engineering</a> 🆕</td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971984198">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/76021b46-253e-4839-8409-b13e30bbd044">Silicon Engineering Intern, BS/MS, Summer 2027</a> 🆕</td>
@@ -2889,7 +2889,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/40c1ad56-150a-44b9-bada-8d0543a43c6a">Electrical Engineering Co-Op</a></td>
 <td>San Francisco - SF9</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Evr</strong></td>

@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-17T02:49:03.476Z",
+  "fetchedAt": "2026-09-17T08:17:13.376Z",
   "count": 506,
   "listings": [
     {
@@ -80,6 +80,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.infineon.com/careers/job/563808971993442",
       "url": "https://trueinterview.io/jobs/39ae79e1-25c1-4304-8c6b-66dbd2444278",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "7490b3a7-1ff3-49cf-add5-29cfbd2f373e",
+      "company": "Infineon",
+      "title": "Internship - Process Engineering",
+      "locations": [
+        "Leominster, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971984198",
+      "url": "https://trueinterview.io/jobs/7490b3a7-1ff3-49cf-add5-29cfbd2f373e",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -3148,39 +3173,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991",
       "url": "https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "19ecde9f-1102-487c-87be-78b13cb7369b",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI I (Intern) - United States",
-      "locations": [
-        "San Jose, California, US",
-        "Austin, Texas, US",
-        "RTP, North Carolina, US",
-        "San Jose, California, United States of America",
-        "Austin, Texas, United States of America",
-        "Research Triangle Park, North Carolina, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2024510",
-      "url": "https://trueinterview.io/jobs/19ecde9f-1102-487c-87be-78b13cb7369b",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
