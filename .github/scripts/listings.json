@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-17T21:51:43.145Z",
-  "count": 511,
+  "fetchedAt": "2026-09-17T23:50:56.625Z",
+  "count": 515,
   "listings": [
     {
       "id": "163a84c2-98c8-411d-9324-4a3add2ceae6",
@@ -110,6 +110,33 @@
       "url": "https://trueinterview.io/jobs/a5ccb61e-fce5-4722-89c4-69c192970bce",
       "postedAt": "2026-09-17T00:13:12.000Z",
       "updatedAt": "2026-09-17T00:13:12.000Z"
+    },
+    {
+      "id": "6ded744d-101c-41cd-9844-9add22fd0839",
+      "company": "Amazon",
+      "title": "Software Development Engineer Internship - Summer -2027 (USA)",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+      "url": "https://trueinterview.io/jobs/6ded744d-101c-41cd-9844-9add22fd0839",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
       "id": "f7b0ce80-82ca-431d-8628-f1de7060f0ae",
@@ -287,6 +314,56 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "c79e2a74-3bc0-445c-ab91-61c933f7ae80",
+      "company": "Keysight",
+      "title": "R&D Software Engineer, Intern",
+      "locations": [
+        "US-CO-Col Springs-Bldg C"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54327?lang=en-us",
+      "url": "https://trueinterview.io/jobs/c79e2a74-3bc0-445c-ab91-61c933f7ae80",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "10af23ea-a626-424e-81d5-5332afcc71e9",
+      "company": "Keysight",
+      "title": "Semiconductor Process Development Engineering Intern",
+      "locations": [
+        "US-CA-Santa Rosa-Bldg 2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54323?lang=en-us",
+      "url": "https://trueinterview.io/jobs/10af23ea-a626-424e-81d5-5332afcc71e9",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
       "id": "41c7db62-9c7a-431d-9a13-b0c17de4ab74",
       "company": "Keysight",
       "title": "Software Engineer Intern",
@@ -308,6 +385,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54329?lang=en-us",
       "url": "https://trueinterview.io/jobs/41c7db62-9c7a-431d-9a13-b0c17de4ab74",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "de8bf1a8-4f7b-4c91-9286-eb8a99ab5269",
+      "company": "Keysight",
+      "title": "Software Engineering Intern (AI Solutions)",
+      "locations": [
+        "US-CO-Col Springs-Bldg C"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54322?lang=en-us",
+      "url": "https://trueinterview.io/jobs/de8bf1a8-4f7b-4c91-9286-eb8a99ab5269",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
