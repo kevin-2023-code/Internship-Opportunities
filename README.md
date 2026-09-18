@@ -12,15 +12,15 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-18 07:50 UTC_
+_Last updated: 2026-09-18 12:34 UTC_
 
-### Browse 475 internships by category
+### Browse 474 internships by category
 
-💻 **[Software Engineering](#-software-engineering)** (278)
+💻 **[Software Engineering](#-software-engineering)** (277)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (54)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (53)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (98)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (99)
 
 📱 **[Product & Design](#-product--design)** (38)
 
@@ -546,31 +546,31 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/87b07972-e202-44c5-9d19-074b932c10b1">Software Engineering Intern, Android (Summer 2027)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/87b07972-e202-44c5-9d19-074b932c10b1">Software Engineering Intern, Android (Summer 2027)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&amp;gh_jid=8142961">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/60c5fea1-856c-484d-8805-1eaaec977518">Software Engineering Intern, Backend (Summer 2027)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/60c5fea1-856c-484d-8805-1eaaec977518">Software Engineering Intern, Backend (Summer 2027)</a></td>
 <td>Bellevue, WA<br/>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e9f57cb7-9167-4fa7-9a71-ead8560f6e26">Software Engineering Intern, Web (Summer 2027)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/e9f57cb7-9167-4fa7-9a71-ead8560f6e26">Software Engineering Intern, Web (Summer 2027)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&amp;gh_jid=8142963">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
@@ -1208,13 +1208,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td>California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application">Apply</a></td>
 <td align="center">14d</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/bdb08297-cd24-47b7-a40f-9f88bdbc3d17">2027 Intern - Software Engineer</a></td>
-<td>San Jose, CA<br/>Austin, TX<br/>San Francisco, CA</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666">Apply</a></td>
-<td align="center">15d</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -2299,13 +2292,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">17d</td>
 </tr>
 <tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c4d56ab-b127-41f0-922d-2cbf338041d3">2027 Intern - Machine Learning Engineer</a></td>
-<td>San Jose, CA<br/>Austin, TX<br/>San Francisco, CA</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519">Apply</a></td>
-<td align="center">18d</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/846ee263-efd4-44a8-8ced-5714083d5129">Intern - AI Systems and Infrastructure Engineering</a></td>
 <td>Austin, TX</td>
@@ -2408,6 +2394,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/b622b7ad-d135-47cf-bf32-de09ece19424">ASIC Intern - Summer 2027</a> 🆕</td>
+<td>Bengaluru<br/>Hyderabad</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397634704">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/7490b3a7-1ff3-49cf-add5-29cfbd2f373e">Internship - Process Engineering</a> 🆕</td>

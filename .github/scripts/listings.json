@@ -5,9 +5,39 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-18T07:50:46.152Z",
-  "count": 519,
+  "fetchedAt": "2026-09-18T12:34:37.926Z",
+  "count": 518,
   "listings": [
+    {
+      "id": "b622b7ad-d135-47cf-bf32-de09ece19424",
+      "company": "NVIDIA",
+      "title": "ASIC Intern - Summer 2027",
+      "locations": [
+        "Bengaluru, KA, IN",
+        "Hyderabad, Telangana, IN"
+      ],
+      "cities": [
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "countries": [
+        "United States",
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397634704",
+      "url": "https://trueinterview.io/jobs/b622b7ad-d135-47cf-bf32-de09ece19424",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
     {
       "id": "850c8505-47ac-4f9b-b249-78432c0f1b57",
       "company": "Rundoo",
@@ -8361,43 +8391,6 @@
       "updatedAt": "2026-09-03T16:13:31.000Z"
     },
     {
-      "id": "bdb08297-cd24-47b7-a40f-9f88bdbc3d17",
-      "company": "Adobe",
-      "title": "2027 Intern - Software Engineer",
-      "locations": [
-        "San Jose, California, United States of America",
-        "Waltham, Massachusetts, United States of America",
-        "Austin, Texas, United States of America",
-        "San Francisco, California, United States of America",
-        "Lehi, Utah, United States of America",
-        "Seattle, Washington, United States of America",
-        "New York, New York, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX",
-        "San Francisco, CA",
-        "Seattle, WA",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
-      "url": "https://trueinterview.io/jobs/bdb08297-cd24-47b7-a40f-9f88bdbc3d17",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
       "id": "2e538a86-7c13-4b3d-b30d-fd4efeb68a04",
       "company": "Cisco",
       "title": "Consulting Engineer I (Intern) - United States",
@@ -10727,42 +10720,6 @@
       "url": "https://trueinterview.io/jobs/40c1ad56-150a-44b9-bada-8d0543a43c6a",
       "postedAt": "2026-08-31T04:24:42.000Z",
       "updatedAt": "2026-08-31T04:24:42.000Z"
-    },
-    {
-      "id": "8c4d56ab-b127-41f0-922d-2cbf338041d3",
-      "company": "Adobe",
-      "title": "2027 Intern - Machine Learning Engineer",
-      "locations": [
-        "San Jose, California, United States of America",
-        "Austin, Texas, United States of America",
-        "San Francisco, California, United States of America",
-        "Lehi, Utah, United States of America",
-        "Seattle, Washington, United States of America",
-        "New York, New York, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX",
-        "San Francisco, CA",
-        "Seattle, WA",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-      "url": "https://trueinterview.io/jobs/8c4d56ab-b127-41f0-922d-2cbf338041d3",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
     },
     {
       "id": "d07e0929-0abb-415a-a030-8fc67413c939",
