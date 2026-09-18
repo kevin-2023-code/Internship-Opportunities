@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-18T16:52:32.915Z",
-  "count": 520,
+  "fetchedAt": "2026-09-18T19:22:32.834Z",
+  "count": 530,
   "listings": [
     {
       "id": "3e973675-c5c1-41ad-be4c-c2971d747063",
@@ -108,6 +108,316 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44544643",
       "url": "https://trueinterview.io/jobs/8791d541-8066-4f69-8524-5de9a2953931",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "87ad6c2d-3bb1-4b96-b6a0-d02f4939826c",
+      "company": "QUALCOMM",
+      "title": "Automotive Engineering Internship – Summer 2027",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740553",
+      "url": "https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "7140ba79-29ad-4fcb-b799-f93dee8dadf8",
+      "company": "QUALCOMM",
+      "title": "Embedded Engineering Internship - Summer 2027",
+      "locations": [
+        "San Diego, CA, US",
+        "Boxborough, MA, US",
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720737089",
+      "url": "https://trueinterview.io/jobs/7140ba79-29ad-4fcb-b799-f93dee8dadf8",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "b0e07528-fb47-4e9b-acf5-6462ade20f64",
+      "company": "QUALCOMM",
+      "title": "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027",
+      "locations": [
+        "San Diego, CA, US",
+        "Austin, TX, US",
+        "Boxborough, MA, US",
+        "Tempe, AZ, US",
+        "Santa Clara, CA, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740649",
+      "url": "https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "77828b14-2c53-46d2-a77c-8ff25eb9cefe",
+      "company": "QUALCOMM",
+      "title": "Machine Learning & Artificial Intelligence Engineering Internship – Summer 2027",
+      "locations": [
+        "San Diego, CA, US",
+        "Austin, TX, US",
+        "Boxborough, MA, US",
+        "NJ,US",
+        "New York, NY, US",
+        "Raleigh, NC, US",
+        "Santa Clara, CA, US"
+      ],
+      "cities": [
+        "Austin, TX",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740525",
+      "url": "https://trueinterview.io/jobs/77828b14-2c53-46d2-a77c-8ff25eb9cefe",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "0517ed62-e4f1-40fb-a43b-ec6ff4a935f9",
+      "company": "QUALCOMM",
+      "title": "Mechanical Engineering Internship – Summer 2027",
+      "locations": [
+        "San Diego, CA, US",
+        "Austin, TX, US",
+        "Santa Clara, CA, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720741704",
+      "url": "https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "ebbadf26-92c6-487c-af2a-3b5413407158",
+      "company": "QUALCOMM",
+      "title": "Multimedia Engineering Internship – Summer 2027",
+      "locations": [
+        "San Diego, CA, US",
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740640",
+      "url": "https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
+      "company": "QUALCOMM",
+      "title": "Product Management Internship - Summer 2027",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720741706",
+      "url": "https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "f6d90095-a873-470d-8433-8cfbc563fd04",
+      "company": "QUALCOMM",
+      "title": "Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740540",
+      "url": "https://trueinterview.io/jobs/f6d90095-a873-470d-8433-8cfbc563fd04",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "37a8fa74-c2b0-4689-ae17-4ee7438a1d12",
+      "company": "QUALCOMM",
+      "title": "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
+      "locations": [
+        "San Diego, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740636",
+      "url": "https://trueinterview.io/jobs/37a8fa74-c2b0-4689-ae17-4ee7438a1d12",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60",
+      "company": "QUALCOMM",
+      "title": "Software Engineering Internship - Summer 2027",
+      "locations": [
+        "San Diego, CA, US",
+        "Austin, TX, US",
+        "Boxborough, MA, US",
+        "NJ,US",
+        "Tempe, AZ, US",
+        "Irvine, CA, US",
+        "Louisville, KY, US",
+        "New York, NY, US"
+      ],
+      "cities": [
+        "Austin, TX",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740529",
+      "url": "https://trueinterview.io/jobs/f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "0982926c-1b41-49e8-b2a8-63051fc38acc",
+      "company": "QUALCOMM",
+      "title": "Wireless Systems Engineering Internship - Summer 2027",
+      "locations": [
+        "San Diego, CA, US",
+        "Boxborough, MA, US",
+        "NJ,US",
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740637",
+      "url": "https://trueinterview.io/jobs/0982926c-1b41-49e8-b2a8-63051fc38acc",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -709,31 +1019,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44139024",
       "url": "https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "id": "26da7629-e57e-4ee1-a893-aca2a41539d8",
-      "company": "Micron Technology",
-      "title": "INTERN- ID1 Process Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44430170",
-      "url": "https://trueinterview.io/jobs/26da7629-e57e-4ee1-a893-aca2a41539d8",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -3430,7 +3715,8 @@
       "title": "Software Engineer Intern, 2027 Summer U.S.",
       "locations": [
         "San Francisco - United States - San Francisco, California 94104 United States",
-        "Remote - Remote"
+        "Remote - Remote",
+        "Seattle - United States - Seattle, Washington United States"
       ],
       "cities": [],
       "countries": [

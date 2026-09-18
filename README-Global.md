@@ -12,7 +12,7 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-18 16:52 UTC_
+_Last updated: 2026-09-18 19:22 UTC_
 
 ### Browse 44 internships by category
 
@@ -66,7 +66,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d59f73a1-36ad-4bb2-850e-809fa2958094">Embedded Software Engineering Intern</a> 🆕</td>
 <td>Pittsburgh</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Compeer Financial</strong></td>
@@ -359,14 +359,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039">Product Manager Intern (m/f/d)</a></td>
 <td>Stuttgart Schockenriedstr. 17</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d/application">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>Trawa</strong></td>
 <td><a href="https://trueinterview.io/jobs/5cd414d9-0f9e-4fac-b0dd-bcb771d8be92">Product Management Intern</a></td>
 <td>Berlin HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trawa/3667f9e9-718c-45f4-9670-5847f6849e16/application">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 </tbody>
 </table>
