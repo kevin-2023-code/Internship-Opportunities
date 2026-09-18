@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-18T02:35:29.894Z",
-  "count": 518,
+  "fetchedAt": "2026-09-18T07:50:46.152Z",
+  "count": 519,
   "listings": [
     {
       "id": "850c8505-47ac-4f9b-b249-78432c0f1b57",
@@ -12288,6 +12288,32 @@
       "url": "https://trueinterview.io/jobs/264a254b-bb36-4fbe-b544-59335f092a38",
       "postedAt": "2026-08-19T22:53:47.000Z",
       "updatedAt": "2026-08-20T15:15:36.000Z"
+    },
+    {
+      "id": "33f8f8d6-4234-49c3-a97e-c8835d560853",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Optical System Design (PhD)",
+      "locations": [
+        "Redmond, WA, United States",
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1796691991338568/",
+      "url": "https://trueinterview.io/jobs/33f8f8d6-4234-49c3-a97e-c8835d560853",
+      "postedAt": "2026-08-20T01:59:17.000Z",
+      "updatedAt": "2026-08-20T01:59:17.000Z"
     },
     {
       "id": "7585506f-04c5-4406-936d-a441050c2c68",

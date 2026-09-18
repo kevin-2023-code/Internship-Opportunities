@@ -12,13 +12,13 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-18 02:35 UTC_
+_Last updated: 2026-09-18 07:50 UTC_
 
-### Browse 474 internships by category
+### Browse 475 internships by category
 
 💻 **[Software Engineering](#-software-engineering)** (278)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (53)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (54)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (98)
 
@@ -2334,6 +2334,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">27d</td>
 </tr>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/33f8f8d6-4234-49c3-a97e-c8835d560853">Research Scientist Intern, Optical System Design (PhD)</a></td>
+<td>Redmond, WA, United States<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1796691991338568/">Apply</a></td>
+<td align="center">29d</td>
+</tr>
+<tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/7585506f-04c5-4406-936d-a441050c2c68">Data Science Intern</a> 🛂</td>
 <td>San Francisco, CA</td>
@@ -2945,7 +2952,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/40c1ad56-150a-44b9-bada-8d0543a43c6a">Electrical Engineering Co-Op</a></td>
 <td>San Francisco - SF9</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Evr</strong></td>
