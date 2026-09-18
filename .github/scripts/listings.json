@@ -5,24 +5,47 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-18T12:34:37.926Z",
-  "count": 518,
+  "fetchedAt": "2026-09-18T16:52:32.915Z",
+  "count": 520,
   "listings": [
     {
-      "id": "b622b7ad-d135-47cf-bf32-de09ece19424",
-      "company": "NVIDIA",
-      "title": "ASIC Intern - Summer 2027",
+      "id": "3e973675-c5c1-41ad-be4c-c2971d747063",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
       "locations": [
-        "Bengaluru, KA, IN",
-        "Hyderabad, Telangana, IN"
+        "London, England, United Kingdom",
+        "London (UK-LON-40BR)"
       ],
       "cities": [
-        "Bengaluru",
-        "Hyderabad"
+        "London"
       ],
       "countries": [
-        "United States",
-        "India"
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8205680",
+      "url": "https://trueinterview.io/jobs/3e973675-c5c1-41ad-be4c-c2971d747063",
+      "postedAt": "2026-09-18T16:12:12.000Z",
+      "updatedAt": "2026-09-18T16:12:12.000Z"
+    },
+    {
+      "id": "81830d78-ccd2-40b2-ac06-f8c470130ddb",
+      "company": "Micron Technology",
+      "title": "Intern - ASIC Digital Design",
+      "locations": [
+        "Minneapolis, MN, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
       ],
       "remote": "onsite",
       "category": "Hardware & Engineering",
@@ -33,8 +56,58 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397634704",
-      "url": "https://trueinterview.io/jobs/b622b7ad-d135-47cf-bf32-de09ece19424",
+      "applyUrl": "https://careers.micron.com/careers/job/44544601",
+      "url": "https://trueinterview.io/jobs/81830d78-ccd2-40b2-ac06-f8c470130ddb",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "4b8c63a0-687d-4f77-9ddb-24b7a7137347",
+      "company": "Micron Technology",
+      "title": "Intern - Enterprise SSD Customer Support Engineering",
+      "locations": [
+        "Longmont, CO, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44545637",
+      "url": "https://trueinterview.io/jobs/4b8c63a0-687d-4f77-9ddb-24b7a7137347",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "8791d541-8066-4f69-8524-5de9a2953931",
+      "company": "Micron Technology",
+      "title": "Intern - TSE KEG Engineer",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44544643",
+      "url": "https://trueinterview.io/jobs/8791d541-8066-4f69-8524-5de9a2953931",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -186,34 +259,6 @@
       "url": "https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b",
       "postedAt": "2026-09-17T20:44:24.000Z",
       "updatedAt": "2026-09-17T20:44:24.000Z"
-    },
-    {
-      "id": "163a84c2-98c8-411d-9324-4a3add2ceae6",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-      "locations": [
-        "London, England, United Kingdom",
-        "London (UK-LON-40BR)"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8208465",
-      "url": "https://trueinterview.io/jobs/163a84c2-98c8-411d-9324-4a3add2ceae6",
-      "postedAt": "2026-09-17T18:21:40.000Z",
-      "updatedAt": "2026-09-17T18:21:40.000Z"
     },
     {
       "id": "1580c88f-fafd-4959-b746-0e0de4d8ae12",
