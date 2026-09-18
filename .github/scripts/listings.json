@@ -5,9 +5,158 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-17T23:50:56.625Z",
-  "count": 515,
+  "fetchedAt": "2026-09-18T02:35:29.894Z",
+  "count": 518,
   "listings": [
+    {
+      "id": "850c8505-47ac-4f9b-b249-78432c0f1b57",
+      "company": "Rundoo",
+      "title": "Product Manager Intern",
+      "locations": [
+        "Redwood City"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application",
+      "url": "https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57",
+      "postedAt": "2026-09-17T23:58:03.000Z",
+      "updatedAt": "2026-09-17T23:58:03.000Z"
+    },
+    {
+      "id": "cba04e3c-6b18-4444-a81a-18f33d4195e6",
+      "company": "Rocket Lab Corporation",
+      "title": "R&D Engineering Intern Summer 2027",
+      "locations": [
+        "Albuquerque, NM",
+        "SolAero Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7996576003",
+      "url": "https://trueinterview.io/jobs/cba04e3c-6b18-4444-a81a-18f33d4195e6",
+      "postedAt": "2026-09-17T23:23:13.000Z",
+      "updatedAt": "2026-09-17T23:23:13.000Z"
+    },
+    {
+      "id": "9f0e6263-a49c-474e-a057-c37652d7653f",
+      "company": "Rocket Lab Corporation",
+      "title": "Optical Engineering Intern Summer 2027",
+      "locations": [
+        "Tucson, AZ",
+        "Geost Main"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003",
+      "url": "https://trueinterview.io/jobs/9f0e6263-a49c-474e-a057-c37652d7653f",
+      "postedAt": "2026-09-17T23:21:05.000Z",
+      "updatedAt": "2026-09-17T23:21:05.000Z"
+    },
+    {
+      "id": "33ea0f89-148c-4e49-8a7f-b666a8948bbe",
+      "company": "Abridge",
+      "title": "Software Engineering Intern, Spring",
+      "locations": [
+        "SF Office"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application",
+      "url": "https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe",
+      "postedAt": "2026-09-17T21:03:39.000Z",
+      "updatedAt": "2026-09-17T21:03:39.000Z"
+    },
+    {
+      "id": "9ddd3f4b-591a-4250-93fc-668000af1d8e",
+      "company": "JPMorgan Chase",
+      "title": "2027 Asset Wealth Management Machine Learning Engineer - Summer Associate",
+      "locations": [
+        "Jersey City, NJ, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "junior",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885",
+      "url": "https://trueinterview.io/jobs/9ddd3f4b-591a-4250-93fc-668000af1d8e",
+      "postedAt": "2026-09-17T20:56:00.000Z",
+      "updatedAt": "2026-09-17T20:56:00.000Z"
+    },
+    {
+      "id": "79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b",
+      "company": "Sezzle",
+      "title": "Product Management Intern",
+      "locations": [
+        "Peru",
+        "Bogota, Colombia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
+      "url": "https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b",
+      "postedAt": "2026-09-17T20:44:24.000Z",
+      "updatedAt": "2026-09-17T20:44:24.000Z"
+    },
     {
       "id": "163a84c2-98c8-411d-9324-4a3add2ceae6",
       "company": "Waymo",
@@ -460,6 +609,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
       "url": "https://trueinterview.io/jobs/796b89a7-38f2-4681-9a06-b0d174466da6",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "add7cb69-e8ed-4340-af4c-a1b11ed6e850",
+      "company": "Micron Technology",
+      "title": "Intern – Process Engineer ID1",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44139024",
+      "url": "https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -1094,34 +1268,6 @@
       "url": "https://trueinterview.io/jobs/09ae0854-e6ee-49db-a90d-ffaa5c8f5a60",
       "postedAt": "2026-09-16T21:07:51.000Z",
       "updatedAt": "2026-09-16T21:07:51.000Z"
-    },
-    {
-      "id": "b4cdc149-2371-47c6-b96c-56e8a0659603",
-      "company": "Rocket Lab Corporation",
-      "title": "Manufacturing Engineering Intern Summer 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC",
-        "Middle River, MD",
-        "Space Structures Complex (SSC)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
-      "url": "https://trueinterview.io/jobs/b4cdc149-2371-47c6-b96c-56e8a0659603",
-      "postedAt": "2026-09-16T19:02:36.000Z",
-      "updatedAt": "2026-09-16T20:41:44.000Z"
     },
     {
       "id": "d110cb85-9e22-45e3-948a-3789584ff412",
@@ -4240,33 +4386,6 @@
       "updatedAt": "2026-09-11T16:49:54.000Z"
     },
     {
-      "id": "f8076cf9-33c0-46e3-8da7-bcf4368f5350",
-      "company": "Lyft",
-      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
-      "url": "https://trueinterview.io/jobs/f8076cf9-33c0-46e3-8da7-bcf4368f5350",
-      "postedAt": "2026-09-11T16:47:31.000Z",
-      "updatedAt": "2026-09-11T16:47:31.000Z"
-    },
-    {
       "id": "4c80edf8-7352-4ad9-8c66-b428c8470888",
       "company": "Lyft",
       "title": "Data Science Intern, Algorithms (Summer 2027)",
@@ -4752,36 +4871,6 @@
       "url": "https://trueinterview.io/jobs/97366ce1-83fc-4bd3-90b6-f1dd6e448d1c",
       "postedAt": "2026-09-10T19:05:50.000Z",
       "updatedAt": "2026-09-10T19:05:50.000Z"
-    },
-    {
-      "id": "8d121c11-f3b2-4bfd-8bec-1e8a7725bc31",
-      "company": "Rocket Lab Corporation",
-      "title": "Electrical Engineering Intern Summer 2027",
-      "locations": [
-        "Toronto, CAN",
-        "Sinclair Office",
-        "Long Beach, CA",
-        "RL Headquarters"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7990043003",
-      "url": "https://trueinterview.io/jobs/8d121c11-f3b2-4bfd-8bec-1e8a7725bc31",
-      "postedAt": "2026-09-09T22:47:32.000Z",
-      "updatedAt": "2026-09-10T19:04:25.000Z"
     },
     {
       "id": "42d86fa0-81da-4540-9193-8b005d19584c",
@@ -11492,32 +11581,6 @@
       "url": "https://trueinterview.io/jobs/7104c84f-88e8-4213-a87d-f7e7e1684232",
       "postedAt": "2026-08-26T21:06:06.000Z",
       "updatedAt": "2026-08-26T21:06:06.000Z"
-    },
-    {
-      "id": "8e3bbec8-2d40-48bc-b403-3014de04551b",
-      "company": "Epic Games",
-      "title": "Game Design Intern",
-      "locations": [
-        "Cary,North Carolina,United States",
-        "Cary"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://epicgames.com/careers/jobs/6147156004?gh_jid=6147156004",
-      "url": "https://trueinterview.io/jobs/8e3bbec8-2d40-48bc-b403-3014de04551b",
-      "postedAt": "2026-08-26T00:16:15.000Z",
-      "updatedAt": "2026-08-26T00:16:15.000Z"
     },
     {
       "id": "95ff1a48-3bad-4e90-a145-e3088121c934",
