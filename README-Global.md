@@ -12,11 +12,11 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-19 00:52 UTC_
+_Last updated: 2026-09-19 14:05 UTC_
 
-### Browse 43 internships by category
+### Browse 42 internships by category
 
-💻 **[Software Engineering](#-software-engineering)** (25)
+💻 **[Software Engineering](#-software-engineering)** (24)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1)
 
@@ -137,13 +137,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
 <td align="center">9d</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/32a8fda0-d39d-42e2-bf31-6b95cb97ca59">Systems Engineer Intern - Summer 2027</a></td>
-<td>Irvine</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723">Apply</a></td>
-<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Symphony Communication Services</strong></td>

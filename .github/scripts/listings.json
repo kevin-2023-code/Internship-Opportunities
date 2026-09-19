@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T10:05:16.322Z",
-  "count": 540,
+  "fetchedAt": "2026-09-19T14:05:28.936Z",
+  "count": 551,
   "listings": [
     {
       "id": "792890da-3e3d-45bf-89c3-f967a1756bd8",
@@ -326,6 +326,31 @@
       "url": "https://trueinterview.io/jobs/a41d6358-6647-467f-92a7-ca84dd48dfc6",
       "postedAt": "2026-09-18T17:03:11.000Z",
       "updatedAt": "2026-09-18T17:03:11.000Z"
+    },
+    {
+      "id": "def6d3d1-dfa9-41f8-9d4a-fac4f8b6b2bc",
+      "company": "Garmin",
+      "title": "Quality Engineering Intern - Operations",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19991?lang=en-us",
+      "url": "https://trueinterview.io/jobs/def6d3d1-dfa9-41f8-9d4a-fac4f8b6b2bc",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
       "id": "81830d78-ccd2-40b2-ac06-f8c470130ddb",
@@ -1146,7 +1171,8 @@
       "company": "Keysight",
       "title": "Mechanical Engineer Intern",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 2"
+        "US-CA-Santa Rosa-Bldg 2",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -1171,7 +1197,8 @@
       "company": "Keysight",
       "title": "R&D Software Engineer, Intern",
       "locations": [
-        "US-CO-Col Springs-Bldg C"
+        "US-CO-Col Springs-Bldg C",
+        "Colorado Springs, Colorado, United States"
       ],
       "cities": [],
       "countries": [
@@ -1196,7 +1223,8 @@
       "company": "Keysight",
       "title": "Semiconductor Process Development Engineering Intern",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 2"
+        "US-CA-Santa Rosa-Bldg 2",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -1221,7 +1249,8 @@
       "company": "Keysight",
       "title": "Software Engineer Intern",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 4"
+        "US-CA-Santa Rosa-Bldg 4",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -1246,7 +1275,8 @@
       "company": "Keysight",
       "title": "Software Engineering Intern (AI Solutions)",
       "locations": [
-        "US-CO-Col Springs-Bldg C"
+        "US-CO-Col Springs-Bldg C",
+        "Colorado Springs, Colorado, United States"
       ],
       "cities": [],
       "countries": [
@@ -1271,7 +1301,8 @@
       "company": "Marvell Technology",
       "title": "SRAM Circuit Design Intern, MS - Summer 2027",
       "locations": [
-        "Burlington, VT"
+        "Burlington, VT",
+        "Burlington, VT, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -1296,7 +1327,8 @@
       "company": "Marvell Technology",
       "title": "SRAM Software Engineer Intern, BS - Summer 2027",
       "locations": [
-        "Burlington, VT"
+        "Burlington, VT",
+        "Burlington, VT, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -2292,7 +2324,10 @@
       "title": "2027 PhD AI Model Optimization & Software Engineer Intern/Co-op",
       "locations": [
         "US,CA,San Jose",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States",
+        "Austin, Texas, United States"
       ],
       "cities": [],
       "countries": [
@@ -2317,7 +2352,9 @@
       "company": "AMD",
       "title": "2027 PhD Data Center Networking Engineer Intern/Co-Op",
       "locations": [
-        "US,CA,Santa Clara"
+        "US,CA,Santa Clara",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -2343,7 +2380,8 @@
       "title": "AI/ML Engineer Intern",
       "locations": [
         "US, MA, Wilmington",
-        "US, CA, San Jose, Rio Robles"
+        "US, CA, San Jose, Rio Robles",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -2369,7 +2407,8 @@
       "title": "Algorithm Development Engineer Intern",
       "locations": [
         "US, MA, Wilmington",
-        "US, CA, San Jose, Rio Robles"
+        "US, CA, San Jose, Rio Robles",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -2396,7 +2435,8 @@
       "locations": [
         "US, MA, Wilmington",
         "US, CA, San Jose, Rio Robles",
-        "US, NC, Durham"
+        "US, NC, Durham",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -2423,7 +2463,8 @@
       "locations": [
         "US, MA, Wilmington",
         "US, CA, San Jose, Rio Robles",
-        "US, NC, Durham"
+        "US, NC, Durham",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -2449,7 +2490,8 @@
       "title": "Test Engineering Intern",
       "locations": [
         "US, NC, Durham",
-        "US, MA, Wilmington"
+        "US, MA, Wilmington",
+        "US, NC, Durham, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -2475,7 +2517,8 @@
       "title": "Security Engineer I (Intern) - United States",
       "locations": [
         "RTP, North Carolina, US",
-        "Research Triangle Park, North Carolina, United States of America"
+        "Research Triangle Park, North Carolina, United States of America",
+        "RTP, North Carolina, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -2505,7 +2548,8 @@
         "Knoxville, Tennessee, US",
         "Research Triangle Park, North Carolina, United States of America",
         "Austin, Texas, United States of America",
-        "Knoxville, Tennessee, United States of America"
+        "Knoxville, Tennessee, United States of America",
+        "RTP, North Carolina, US, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -2532,7 +2576,8 @@
       "company": "Intel",
       "title": "Operations Research, Engineering Analytics Graduate Intern",
       "locations": [
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -3051,7 +3096,8 @@
       "locations": [
         "US, MA, Wilmington",
         "US, CA, San Diego, Avenue of Science",
-        "US, NC, Durham"
+        "US, NC, Durham",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -3078,7 +3124,8 @@
       "locations": [
         "US, MA, Wilmington",
         "US, CA, San Jose, Rio Robles",
-        "US, NC, Durham"
+        "US, NC, Durham",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -3129,7 +3176,8 @@
       "company": "Intel",
       "title": "Process Integration and Yield Engineering PhD Intern Repeat",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -3154,7 +3202,8 @@
       "company": "Keysight",
       "title": "ASIC Design-for-Test (DFT) Engineer Intern",
       "locations": [
-        "US-CO-Col Springs-Bldg C"
+        "US-CO-Col Springs-Bldg C",
+        "Colorado Springs, Colorado, United States"
       ],
       "cities": [],
       "countries": [
@@ -3179,7 +3228,8 @@
       "company": "Keysight",
       "title": "R&D RF/Microwave Engineering Intern",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 4"
+        "US-CA-Santa Rosa-Bldg 4",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -3204,7 +3254,8 @@
       "company": "Keysight",
       "title": "RF/ Millimeter Wave Design Intern",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 4"
+        "US-CA-Santa Rosa-Bldg 4",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -3479,7 +3530,8 @@
       "company": "NXP Semiconductors",
       "title": "Digital Design Intern - Summer 2027",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -4149,7 +4201,8 @@
       "locations": [
         "US, OR, Beaverton",
         "US, WA, Camas",
-        "US, MA, Chelmsford, Alpha"
+        "US, MA, Chelmsford, Alpha",
+        "US, OR, Beaverton, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -4202,7 +4255,8 @@
         "San Jose, California, US",
         "Carlsbad, California, US",
         "San Jose, California, United States of America",
-        "Carlsbad, California, United States of America"
+        "Carlsbad, California, United States of America",
+        "San Jose, California, US, United States of America"
       ],
       "cities": [
         "San Jose, CA"
@@ -4257,7 +4311,8 @@
       "locations": [
         "US, Oregon, Hillsboro",
         "US, California, Santa Clara",
-        "US, Texas, Austin"
+        "US, Texas, Austin",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -4282,7 +4337,8 @@
       "company": "Keysight",
       "title": "Compound Semiconductor Device Characterization Intern",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 2"
+        "US-CA-Santa Rosa-Bldg 2",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -4307,7 +4363,8 @@
       "company": "Keysight",
       "title": "Semiconductor R&D Process Integration Intern",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 2"
+        "US-CA-Santa Rosa-Bldg 2",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -4333,7 +4390,8 @@
       "title": "Analog Design Intern, MS - Summer 2027",
       "locations": [
         "Santa Clara, CA",
-        "Burlington, VT"
+        "Burlington, VT",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -4360,7 +4418,8 @@
       "locations": [
         "Santa Clara, CA",
         "Irvine, CA",
-        "Westlake Village, CA"
+        "Westlake Village, CA",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -4510,31 +4569,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013813",
       "url": "https://trueinterview.io/jobs/241d22c0-2807-4adc-b279-b37ef72a8094",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "d52bdefb-18a9-4332-b777-cbd2831d9de4",
-      "company": "Tokyo Electron",
-      "title": "Research Scientist, Multiscale Modeling Summer 2027 Intern",
-      "locations": [
-        "Austin MET 15"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-MET-15/Research-Scientist--Multiscale-Modeling-Summer-2027-Intern_R26-01559",
-      "url": "https://trueinterview.io/jobs/d52bdefb-18a9-4332-b777-cbd2831d9de4",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -4875,7 +4909,8 @@
       "title": "Data Analyst Intern (Summer 2027)",
       "locations": [
         "New York, NY",
-        "New York Office"
+        "New York Office",
+        "New York, New York, United States"
       ],
       "cities": [
         "New York, NY"
@@ -5044,7 +5079,8 @@
       "title": "Data Science Intern, Algorithms (Summer 2027)",
       "locations": [
         "San Francisco, CA",
-        "New York, NY"
+        "New York, NY",
+        "San Francisco, California, United States"
       ],
       "cities": [
         "San Francisco, CA",
@@ -5072,7 +5108,9 @@
       "company": "AMD",
       "title": "2027 PhD AI Systems & GPU Performance Engineering Intern/Co-op",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -5097,7 +5135,9 @@
       "company": "AMD",
       "title": "2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -5122,7 +5162,9 @@
       "company": "AMD",
       "title": "2027 PhD ML System Engineering Intern/Co-op",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -5147,7 +5189,9 @@
       "company": "AMD",
       "title": "2027 PhD Optical & Photonics Engineering Intern/Co-Op",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -5172,7 +5216,9 @@
       "company": "AMD",
       "title": "2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -5189,6 +5235,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/92350?lang=en-us",
       "url": "https://trueinterview.io/jobs/3e4bd8f5-75d1-4bd5-8ca5-82e7971c171b",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
+      "id": "b1c99447-8dfb-4c7f-a0ae-a51351603a34",
+      "company": "Garmin",
+      "title": "Data Scientist Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19926?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b1c99447-8dfb-4c7f-a0ae-a51351603a34",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -5222,7 +5293,8 @@
       "company": "Intel",
       "title": "Module Engineering PhD Intern New 2027",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -5247,7 +5319,8 @@
       "company": "NXP Semiconductors",
       "title": "Test Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -5317,31 +5390,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542",
       "url": "https://trueinterview.io/jobs/b6faaf5e-a70b-4e89-9c21-1ecf2cc2e378",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "1b1a761a-6643-4b71-ad05-cf128de1fb96",
-      "company": "Tokyo Electron",
-      "title": "Research Scientist, Simulation Summer 2027 Intern",
-      "locations": [
-        "Austin MET 15"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-MET-15/Research-Scientist--Simulation-Summer-2027-Intern_R26-01506",
-      "url": "https://trueinterview.io/jobs/1b1a761a-6643-4b71-ad05-cf128de1fb96",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -5656,11 +5704,163 @@
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
+      "id": "1b74f757-4552-4402-b354-5e3e753270a0",
+      "company": "Garmin",
+      "title": "Aircraft Performance Engineering Intern",
+      "locations": [
+        "Scottsdale, Arizona, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19997?lang=en-us",
+      "url": "https://trueinterview.io/jobs/1b74f757-4552-4402-b354-5e3e753270a0",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "dbff52f6-3814-4a48-ba9a-9e1dc527066c",
+      "company": "Garmin",
+      "title": "Automation Engineering Intern - Operations",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19992?lang=en-us",
+      "url": "https://trueinterview.io/jobs/dbff52f6-3814-4a48-ba9a-9e1dc527066c",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd",
+      "company": "Garmin",
+      "title": "Design Certification Engineer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19771?lang=en-us",
+      "url": "https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "0d54b7b1-beba-418f-9293-bf21d9b160d1",
+      "company": "Garmin",
+      "title": "Industrial Engineering Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19972?lang=en-us",
+      "url": "https://trueinterview.io/jobs/0d54b7b1-beba-418f-9293-bf21d9b160d1",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "34517edd-9277-4e2c-a4ab-6ac60a1c3e58",
+      "company": "Garmin",
+      "title": "Mechanical Engineering Intern",
+      "locations": [
+        "Cary, North Carolina, United States",
+        "Tulsa, Oklahoma, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19911?lang=en-us",
+      "url": "https://trueinterview.io/jobs/34517edd-9277-4e2c-a4ab-6ac60a1c3e58",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "78d537d0-0816-4f56-9a33-d780bffd7750",
+      "company": "Garmin",
+      "title": "Reliability Engineering Intern - Operations",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19990?lang=en-us",
+      "url": "https://trueinterview.io/jobs/78d537d0-0816-4f56-9a33-d780bffd7750",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
       "id": "4a66886f-fa2b-4ca9-8931-957fee402638",
       "company": "Intel",
       "title": "Module Engineering PhD Intern - Wet Etch",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -5693,7 +5893,8 @@
         "Chandler, AZ",
         "Westborough, MA",
         "Burlington, VT",
-        "Boise, ID"
+        "Boise, ID",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -5728,7 +5929,8 @@
         "Chandler, AZ",
         "Westborough, MA",
         "Burlington, VT",
-        "Boise, ID"
+        "Boise, ID",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -6326,6 +6528,56 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
+      "id": "dea14382-b5b7-47f6-9b22-a01e9b93bf4f",
+      "company": "Garmin",
+      "title": "Component Engineering Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19937?lang=en-us",
+      "url": "https://trueinterview.io/jobs/dea14382-b5b7-47f6-9b22-a01e9b93bf4f",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "84972904-8760-4377-b2bb-dc5e9d58a794",
+      "company": "Garmin",
+      "title": "Mechanical Designer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19912?lang=en-us",
+      "url": "https://trueinterview.io/jobs/84972904-8760-4377-b2bb-dc5e9d58a794",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
       "id": "8c62fed8-8980-400a-aecf-db13b69f0269",
       "company": "Infineon",
       "title": "Internship - Analog Mixed-Signal Design Verification Engineer",
@@ -6382,7 +6634,8 @@
       "company": "Intel",
       "title": "Software Research Engineering - (PhD Intern)",
       "locations": [
-        "US, Oregon, Hillsboro"
+        "US, Oregon, Hillsboro",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -6407,7 +6660,8 @@
       "company": "Marvell Technology",
       "title": "Test Solutions Engineering Intern, BS - Summer 2027",
       "locations": [
-        "Burlington, VT"
+        "Burlington, VT",
+        "Burlington, VT, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -6477,33 +6731,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/San-Jose/Process-Engineer-Summer-2027-Intern_R26-01530",
       "url": "https://trueinterview.io/jobs/d9926154-7b51-4acd-8077-714e9699d78b",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "12ed2238-3d0a-486d-9e62-ac580d6d96c2",
-      "company": "Tokyo Electron",
-      "title": "Software Engineer, AI Research Summer 2027 Intern",
-      "locations": [
-        "San Jose"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531",
-      "url": "https://trueinterview.io/jobs/12ed2238-3d0a-486d-9e62-ac580d6d96c2",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
@@ -7097,7 +7324,9 @@
       "title": "Software Engineering Intern (Summer)",
       "locations": [
         "Boston, Massachusetts, USA",
-        "New York, New York, USA"
+        "New York, New York, USA",
+        "Boston, MA, United States",
+        "New York, NY, United States"
       ],
       "cities": [
         "Boston, MA",
@@ -7230,7 +7459,8 @@
       "title": "Software Consulting Engineer I (Intern) United States",
       "locations": [
         "USA-RESEARCH TRIANGLE PARK",
-        "RESEARCH_TRIANGLE_PARK, North Carolina, United States of America"
+        "RESEARCH_TRIANGLE_PARK, North Carolina, United States of America",
+        "USA-RESEARCH TRIANGLE PARK, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7280,7 +7510,8 @@
       "company": "Marvell Technology",
       "title": "Process Engineer Intern, MS - Summer 2027",
       "locations": [
-        "Santa Clara, CA"
+        "Santa Clara, CA",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7673,7 +7904,8 @@
       "company": "Dropbox",
       "title": "Software Engineering Intern (Summer 2027)",
       "locations": [
-        "Remote - US: All locations"
+        "Remote - US: All locations",
+        "Canada"
       ],
       "cities": [],
       "countries": [
@@ -7750,7 +7982,8 @@
       "company": "NXP Semiconductors",
       "title": "CMP-Implant Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7775,7 +8008,8 @@
       "company": "NXP Semiconductors",
       "title": "Data Analytics Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7800,7 +8034,8 @@
       "company": "NXP Semiconductors",
       "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7825,7 +8060,8 @@
       "company": "NXP Semiconductors",
       "title": "DCP Equipment Engineering Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7850,7 +8086,8 @@
       "company": "NXP Semiconductors",
       "title": "Device/Yield Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7875,7 +8112,8 @@
       "company": "NXP Semiconductors",
       "title": "Digital Physical Design Intern - Spring 2027",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7900,7 +8138,8 @@
       "company": "NXP Semiconductors",
       "title": "Embedded Machine Learning & Radar Processing Intern - Summer 2027",
       "locations": [
-        "San Jose (Holger Way)"
+        "San Jose (Holger Way)",
+        "San Jose (Holger Way), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7925,7 +8164,8 @@
       "company": "NXP Semiconductors",
       "title": "Equipment Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7950,7 +8190,8 @@
       "company": "NXP Semiconductors",
       "title": "Etch Equipment Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -7975,7 +8216,8 @@
       "company": "NXP Semiconductors",
       "title": "FAB Device Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8000,7 +8242,8 @@
       "company": "NXP Semiconductors",
       "title": "Facilities Electrical Engineer Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8075,10 +8318,13 @@
       "company": "NXP Semiconductors",
       "title": "Systems Engineer Intern - Summer 2027",
       "locations": [
-        "Irvine"
+        "Irvine",
+        "Irvine, United States of America"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Other",
       "family": "Software",
@@ -8718,6 +8964,56 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "2d1bbaab-9ece-45ee-ad7f-056aeb0ef23b",
+      "company": "Garmin",
+      "title": "Aircraft Performance Engineer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19837?lang=en-us",
+      "url": "https://trueinterview.io/jobs/2d1bbaab-9ece-45ee-ad7f-056aeb0ef23b",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "5a8ed087-d60e-417f-a592-1cf85e362b5d",
+      "company": "Garmin",
+      "title": "Software Engineer Intern - Automotive OEM",
+      "locations": [
+        "Novi, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19999?lang=en-us",
+      "url": "https://trueinterview.io/jobs/5a8ed087-d60e-417f-a592-1cf85e362b5d",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "77bbc743-98e1-4fe1-b3b5-316e918e2703",
       "company": "Hewlett Packard Enterprise",
       "title": "Mechanical Engineer Intern",
@@ -8747,7 +9043,8 @@
       "company": "Keysight",
       "title": "Semiconductor Process Engineering Intern- 6+ months Internship",
       "locations": [
-        "US-CA-Santa Rosa-Bldg 2"
+        "US-CA-Santa Rosa-Bldg 2",
+        "Santa Rosa, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -8824,7 +9121,8 @@
       "company": "Marvell Technology",
       "title": "Firmware Engineer Intern, MS - Summer 2027",
       "locations": [
-        "Santa Clara, CA"
+        "Santa Clara, CA",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8997,7 +9295,8 @@
         "Chicago, Illinois, US",
         "Research Triangle Park, North Carolina, United States of America",
         "Chicago, Illinois, United States of America",
-        "Richardson, Texas, United States of America"
+        "Richardson, Texas, United States of America",
+        "RTP, North Carolina, US, United States of America"
       ],
       "cities": [
         "Chicago, IL"
@@ -9025,7 +9324,8 @@
       "title": "Security Consulting Engineer I (Intern) - United States",
       "locations": [
         "RTP, North Carolina, US",
-        "Research Triangle Park, North Carolina, United States of America"
+        "Research Triangle Park, North Carolina, United States of America",
+        "RTP, North Carolina, US, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9386,7 +9686,8 @@
       "company": "AMD",
       "title": "Fall 2027 Masters Silicon Design Engineering Intern",
       "locations": [
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Austin, Texas, United States"
       ],
       "cities": [],
       "countries": [
@@ -9436,7 +9737,8 @@
       "company": "Cadence Design Systems",
       "title": "Graduate Student Intern - Software Engineering",
       "locations": [
-        "AUSTIN"
+        "AUSTIN",
+        "AUSTIN, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -10331,7 +10633,14 @@
       "title": "2027 Masters Compiler Engineering Intern / Co-op",
       "locations": [
         "US,CA,San Jose",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fishkill, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States"
       ],
       "cities": [],
       "countries": [
@@ -10357,7 +10666,14 @@
       "title": "2027 Undergrad Compiler Engineering Intern / Co-op",
       "locations": [
         "US,TX,Austin",
-        "US,CA,Santa Clara"
+        "US,CA,Santa Clara",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fishkill, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -10374,6 +10690,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/91864?lang=en-us",
       "url": "https://trueinterview.io/jobs/d6516e44-4c2b-47b4-8efe-4e2b928e7af2",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "05440603-f7f3-4323-8488-7577eaf387a5",
+      "company": "Garmin",
+      "title": "Aviation Systems Engineer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19754?lang=en-us",
+      "url": "https://trueinterview.io/jobs/05440603-f7f3-4323-8488-7577eaf387a5",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "8a68d523-209b-4434-9e5b-3f4e0e953e69",
+      "company": "Garmin",
+      "title": "Flight Controls Systems Engineer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19755?lang=en-us",
+      "url": "https://trueinterview.io/jobs/8a68d523-209b-4434-9e5b-3f4e0e953e69",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "updatedAt": "2026-09-01T00:00:00.000Z"
     },
@@ -11482,7 +11848,8 @@
         "Massachusetts - Burlington",
         "Washington - Bellevue",
         "Georgia - Atlanta",
-        "Indiana - Indianapolis"
+        "Indiana - Indianapolis",
+        "California - San Francisco, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -11680,7 +12047,8 @@
       "company": "Analog Devices",
       "title": "Biomedical Engineering Intern",
       "locations": [
-        "US, MA, Wilmington"
+        "US, MA, Wilmington",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12248,7 +12616,15 @@
       "title": "2027 Masters ASIC Package Engineering Co-op/Intern",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fishkill, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Secaucus, New Jersey, United States"
       ],
       "cities": [],
       "countries": [
@@ -12274,7 +12650,15 @@
       "title": "2027 Masters Software Test Engineering Intern/Co-Op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fishkill, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Secaucus, New Jersey, United States"
       ],
       "cities": [],
       "countries": [
@@ -12300,7 +12684,15 @@
       "title": "2027 Undergrad ASIC Package Engineering Co-op/Intern",
       "locations": [
         "US,CA,San Jose",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fishkill, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Secaucus, New Jersey, United States"
       ],
       "cities": [],
       "countries": [
@@ -12326,7 +12718,14 @@
       "title": "2027 Undergrad Software Test Engineering Intern/Co-Op",
       "locations": [
         "US,CA,San Jose",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fishkill, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Secaucus, New Jersey, United States"
       ],
       "cities": [],
       "countries": [
@@ -12427,7 +12826,8 @@
       "title": "Digital Design Engineer Intern",
       "locations": [
         "US, NC, Durham",
-        "US, CA, San Jose, Rio Robles"
+        "US, CA, San Jose, Rio Robles",
+        "US, NC, Durham, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12454,7 +12854,8 @@
       "locations": [
         "US, MA, Wilmington",
         "US, OR, Beaverton",
-        "US, MA, Chelmsford, Alpha"
+        "US, MA, Chelmsford, Alpha",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12580,7 +12981,8 @@
       "title": "System Integration Engineer Intern",
       "locations": [
         "US, NC, Durham",
-        "US, MA, Wilmington"
+        "US, MA, Wilmington",
+        "US, NC, Durham, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12740,7 +13142,8 @@
       "title": "Process Sustaining Engineering Intern",
       "locations": [
         "US, MA, Chelmsford, Alpha",
-        "US, MA, Wilmington"
+        "US, MA, Wilmington",
+        "US, MA, Chelmsford, Alpha, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -12930,7 +13333,15 @@
       "title": "2027 Masters Data Analyst Intern/co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Fishkill, New York, United States",
+        "Longmont, Colorado, United States",
+        "Rochester, New York, United States"
       ],
       "cities": [],
       "countries": [
@@ -12955,7 +13366,9 @@
       "company": "AMD",
       "title": "2027 Masters Firmware Engineering Co-op/Intern",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -12980,7 +13393,14 @@
       "company": "AMD",
       "title": "2027 Masters Firmware Engineering Intern/Co-op",
       "locations": [
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Fishkill, New York, United States",
+        "Rochester, New York, United States",
+        "Secaucus, New Jersey, United States"
       ],
       "cities": [],
       "countries": [
@@ -13005,7 +13425,9 @@
       "company": "AMD",
       "title": "2027 Masters Hardware Design Verification Engineering Co-op/Intern",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -13030,7 +13452,14 @@
       "company": "AMD",
       "title": "2027 Masters Hardware Design Verification Engineering Intern/Co-op",
       "locations": [
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fishkill, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Rochester, New York, United States",
+        "Secaucus, New Jersey, United States"
       ],
       "cities": [],
       "countries": [
@@ -13056,7 +13485,15 @@
       "title": "2027 Masters Hardware Engineering intern/co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Rochester, New York, United States",
+        "Fishkill, New York, United States",
+        "Longmont, Colorado, United States",
+        "Fort Collins, Colorado, United States"
       ],
       "cities": [],
       "countries": [
@@ -13082,7 +13519,15 @@
       "title": "2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Fishkill, New York, United States",
+        "Rochester, New York, United States"
       ],
       "cities": [],
       "countries": [
@@ -13108,7 +13553,15 @@
       "title": "2027 Masters Product Development Engineering Intern/Co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Rochester, New York, United States",
+        "Fishkill, New York, United States",
+        "Boxborough, Massachusetts, United States"
       ],
       "cities": [],
       "countries": [
@@ -13134,7 +13587,15 @@
       "title": "2027 Masters Software Engineer Intern/Co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Rochester, New York, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Fishkill, New York, United States"
       ],
       "cities": [],
       "countries": [
@@ -13160,7 +13621,15 @@
       "title": "2027 Undergrad Data Analyst Intern/co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Fishkill, New York, United States",
+        "Rochester, New York, United States"
       ],
       "cities": [],
       "countries": [
@@ -13185,7 +13654,9 @@
       "company": "AMD",
       "title": "2027 Undergrad Firmware Engineering Co-op/Intern",
       "locations": [
-        "US,CA,Santa Clara"
+        "US,CA,Santa Clara",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -13210,7 +13681,14 @@
       "company": "AMD",
       "title": "2027 Undergrad Firmware Engineering Intern/Co-op",
       "locations": [
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Rochester, New York, United States",
+        "Fishkill, New York, United States",
+        "Secaucus, New Jersey, United States"
       ],
       "cities": [],
       "countries": [
@@ -13235,7 +13713,9 @@
       "company": "AMD",
       "title": "2027 Undergrad Hardware Design Verification Engineering Co-op/Intern",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States",
+        "Santa Clara, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -13261,7 +13741,15 @@
       "title": "2027 Undergrad Hardware Engineering intern/co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Fishkill, New York, United States",
+        "Longmont, Colorado, United States",
+        "Rochester, New York, United States"
       ],
       "cities": [],
       "countries": [
@@ -13287,7 +13775,15 @@
       "title": "2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Rochester, New York, United States",
+        "Fishkill, New York, United States"
       ],
       "cities": [],
       "countries": [
@@ -13313,7 +13809,15 @@
       "title": "2027 Undergrad Product Development Engineering Intern/Co-op",
       "locations": [
         "US,TX,Austin",
-        "US,CA,Santa Clara"
+        "US,CA,Santa Clara",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Rochester, New York, United States",
+        "Fishkill, New York, United States",
+        "Longmont, Colorado, United States",
+        "Fort Collins, Colorado, United States",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -13339,7 +13843,15 @@
       "title": "2027 Undergrad Software Engineer Intern/Co-op",
       "locations": [
         "US,CA,Santa Clara",
-        "US,TX,Austin"
+        "US,TX,Austin",
+        "Santa Clara, California, United States",
+        "San Jose, California, United States",
+        "Austin, Texas, United States",
+        "Boxborough, Massachusetts, United States",
+        "Fort Collins, Colorado, United States",
+        "Longmont, Colorado, United States",
+        "Fishkill, New York, United States",
+        "Rochester, New York, United States"
       ],
       "cities": [],
       "countries": [
@@ -13364,7 +13876,8 @@
       "company": "AMD",
       "title": "Summer 2027 Masters Field Applications Engineer Intern",
       "locations": [
-        "US,CA,San Jose"
+        "US,CA,San Jose",
+        "San Jose, California, United States"
       ],
       "cities": [],
       "countries": [
@@ -13390,7 +13903,8 @@
       "title": "Mixed Signal Engineer Intern",
       "locations": [
         "US, MA, Wilmington",
-        "US, NC, Durham"
+        "US, NC, Durham",
+        "US, MA, Wilmington, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -13655,7 +14169,8 @@
       "company": "Datadog",
       "title": "Product Management Intern",
       "locations": [
-        "New York, New York, USA"
+        "New York, New York, USA",
+        "New York, NY, United States"
       ],
       "cities": [
         "New York, NY"
