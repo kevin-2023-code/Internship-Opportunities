@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T14:05:28.936Z",
-  "count": 551,
+  "fetchedAt": "2026-09-19T17:39:22.549Z",
+  "count": 567,
   "listings": [
     {
       "id": "792890da-3e3d-45bf-89c3-f967a1756bd8",
@@ -766,6 +766,56 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
+      "id": "887ff975-38ed-465a-9c93-f4fec857ef04",
+      "company": "Tokyo Electron",
+      "title": "Quality Assurance Engineer Summer 2027 Co-Op",
+      "locations": [
+        "Albany, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Quality-Assurance-Engineer-Summer-2027-Co-Op_R26-01598",
+      "url": "https://trueinterview.io/jobs/887ff975-38ed-465a-9c93-f4fec857ef04",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "38fd5725-3a57-44da-a293-61a122be9336",
+      "company": "Tokyo Electron",
+      "title": "Software Engineer 2027 Summer Intern",
+      "locations": [
+        "Chaska, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573",
+      "url": "https://trueinterview.io/jobs/38fd5725-3a57-44da-a293-61a122be9336",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
       "id": "850c8505-47ac-4f9b-b249-78432c0f1b57",
       "company": "Rundoo",
       "title": "Product Manager Intern",
@@ -1013,6 +1063,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
       "url": "https://trueinterview.io/jobs/6ded744d-101c-41cd-9844-9add22fd0839",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "e366112a-8139-4e8a-94e7-7d74520f7f70",
+      "company": "Garmin",
+      "title": "Data Engineering Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20188?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e366112a-8139-4e8a-94e7-7d74520f7f70",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "e1e5ae37-ab6e-47a6-addd-168b9305c42a",
+      "company": "Garmin",
+      "title": "Product Designer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20190?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e1e5ae37-ab6e-47a6-addd-168b9305c42a",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -1370,6 +1470,81 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44139024",
       "url": "https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "85b5b38f-bf9b-4790-9de9-f561c5084d44",
+      "company": "Tokyo Electron",
+      "title": "Equipment Engineer 2027 Co-Op",
+      "locations": [
+        "Albany, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Equipment-Engineer-Spring-2027-Co-Op_R26-01571",
+      "url": "https://trueinterview.io/jobs/85b5b38f-bf9b-4790-9de9-f561c5084d44",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "d8c7be76-8364-4b5b-8df2-fa68801086ba",
+      "company": "Tokyo Electron",
+      "title": "Manufacturing Engineer 2027 Summer Intern",
+      "locations": [
+        "Chaska, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590",
+      "url": "https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "163bba15-7280-4679-b616-582870d827a2",
+      "company": "Tokyo Electron",
+      "title": "Process Engineer Spring 2027 Co-Op",
+      "locations": [
+        "Albany, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Process-Engineer-Spring-2027-Co-Op_R26-01554",
+      "url": "https://trueinterview.io/jobs/163bba15-7280-4679-b616-582870d827a2",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -3172,6 +3347,31 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "bbaec9ff-23ea-4928-8f20-4cac20188d61",
+      "company": "Garmin",
+      "title": "CMF Engineering Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20124?lang=en-us",
+      "url": "https://trueinterview.io/jobs/bbaec9ff-23ea-4928-8f20-4cac20188d61",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "4254b9d9-61fb-47a6-bb48-5f888ba3d058",
       "company": "Intel",
       "title": "Process Integration and Yield Engineering PhD Intern Repeat",
@@ -3322,31 +3522,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44452976",
       "url": "https://trueinterview.io/jobs/226a12a1-c061-4097-b7bc-5fa2c286d34d",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "4e3e0331-b342-4c7a-b5d2-afd6e52217fd",
-      "company": "Micron Technology",
-      "title": "Intern - Data Center SSD Firmware",
-      "locations": [
-        "Longmont, CO, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44449242",
-      "url": "https://trueinterview.io/jobs/4e3e0331-b342-4c7a-b5d2-afd6e52217fd",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -5809,7 +5984,8 @@
       "title": "Mechanical Engineering Intern",
       "locations": [
         "Cary, North Carolina, United States",
-        "Tulsa, Oklahoma, United States"
+        "Tulsa, Oklahoma, United States",
+        "Olathe, Kansas, United States"
       ],
       "cities": [],
       "countries": [
@@ -6578,6 +6754,31 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
+      "id": "fc737fae-27a8-4b1d-a3a6-b24e88081f22",
+      "company": "Garmin",
+      "title": "Software Engineer Intern - Real Time Aviation Data",
+      "locations": [
+        "Chanhassen, Minnesota, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20081?lang=en-us",
+      "url": "https://trueinterview.io/jobs/fc737fae-27a8-4b1d-a3a6-b24e88081f22",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
       "id": "8c62fed8-8980-400a-aecf-db13b69f0269",
       "company": "Infineon",
       "title": "Internship - Analog Mixed-Signal Design Verification Engineer",
@@ -6704,33 +6905,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017573",
       "url": "https://trueinterview.io/jobs/03035459-aca0-4113-8467-36ab807fc072",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "d9926154-7b51-4acd-8077-714e9699d78b",
-      "company": "Tokyo Electron",
-      "title": "Process Engineer Summer 2027 Intern",
-      "locations": [
-        "San Jose"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/San-Jose/Process-Engineer-Summer-2027-Intern_R26-01530",
-      "url": "https://trueinterview.io/jobs/d9926154-7b51-4acd-8077-714e9699d78b",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
@@ -7587,7 +7761,8 @@
       "title": "Product Manager Intern",
       "locations": [
         "Raleigh",
-        "Boston"
+        "Boston",
+        "Raleigh, United States of America"
       ],
       "cities": [
         "Boston, MA"
@@ -7616,7 +7791,8 @@
       "locations": [
         "Raleigh",
         "Boston",
-        "Lowell"
+        "Lowell",
+        "Raleigh, United States of America"
       ],
       "cities": [
         "Boston, MA"
@@ -7646,7 +7822,8 @@
         "Raleigh",
         "Boston",
         "Lowell",
-        "Durham"
+        "Durham",
+        "Raleigh, United States of America"
       ],
       "cities": [
         "Boston, MA"
@@ -8082,6 +8259,31 @@
       "updatedAt": "2026-09-07T00:00:00.000Z"
     },
     {
+      "id": "dd76d302-9d75-477f-a3f2-4e1dd870cd49",
+      "company": "NXP Semiconductors",
+      "title": "Device Engineering Intern - Summer 2027",
+      "locations": [
+        "Chandler (Office), United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586",
+      "url": "https://trueinterview.io/jobs/dd76d302-9d75-477f-a3f2-4e1dd870cd49",
+      "postedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
       "id": "07c39509-473f-4742-970e-da3aabaf538d",
       "company": "NXP Semiconductors",
       "title": "Device/Yield Engineer Intern - Summer 2027",
@@ -8113,7 +8315,8 @@
       "title": "Digital Physical Design Intern - Spring 2027",
       "locations": [
         "Austin (Oakhill, Office)",
-        "Austin (Oakhill, Office), United States of America"
+        "Austin (Oakhill, Office), United States of America",
+        "Chandler (Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8268,7 +8471,8 @@
       "company": "NXP Semiconductors",
       "title": "Microcontrollers System Engineering Intern - Summer 2027",
       "locations": [
-        "Austin (Oakhill, Office)"
+        "Austin (Oakhill, Office)",
+        "Austin (Oakhill, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8293,7 +8497,8 @@
       "company": "NXP Semiconductors",
       "title": "Photo/Metro Equipment Engineering Intern - Summer 2027",
       "locations": [
-        "Austin (Ed Bluestein, Office)"
+        "Austin (Ed Bluestein, Office)",
+        "Austin (Ed Bluestein, Office), United States of America"
       ],
       "cities": [],
       "countries": [
@@ -8336,81 +8541,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723",
       "url": "https://trueinterview.io/jobs/32a8fda0-d39d-42e2-bf31-6b95cb97ca59",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "8113ccf8-0c45-4d62-b0d7-58dedc39c220",
-      "company": "Tokyo Electron",
-      "title": "Automation Developer/Analyst Summer 2027 Intern",
-      "locations": [
-        "Austin RiverSouth"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497",
-      "url": "https://trueinterview.io/jobs/8113ccf8-0c45-4d62-b0d7-58dedc39c220",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "a2ad5dd2-81b7-4aaa-ab8f-ad26a6d5ba2f",
-      "company": "Tokyo Electron",
-      "title": "Business Intelligence Analyst Summer 2027 Intern",
-      "locations": [
-        "Austin RiverSouth"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Business-Intelligence-Analyst-Summer-2027-Intern_R26-01504",
-      "url": "https://trueinterview.io/jobs/a2ad5dd2-81b7-4aaa-ab8f-ad26a6d5ba2f",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "20efbf52-2c7c-446f-8c50-f78a23ededf5",
-      "company": "Tokyo Electron",
-      "title": "Data Platforms Engineer Summer 2027 Intern",
-      "locations": [
-        "Austin RiverSouth"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Data-Platforms-Engineer-Summer-2027-Intern_R26-01498",
-      "url": "https://trueinterview.io/jobs/20efbf52-2c7c-446f-8c50-f78a23ededf5",
       "postedAt": "2026-09-07T00:00:00.000Z",
       "updatedAt": "2026-09-07T00:00:00.000Z"
     },
@@ -9014,6 +9144,31 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "65a0326d-b912-4b79-919a-366e956ca88f",
+      "company": "Garmin",
+      "title": "Software Engineer Intern - Aviation Web Development",
+      "locations": [
+        "Middlebury, Connecticut, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20080?lang=en-us",
+      "url": "https://trueinterview.io/jobs/65a0326d-b912-4b79-919a-366e956ca88f",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "77bbc743-98e1-4fe1-b3b5-316e918e2703",
       "company": "Hewlett Packard Enterprise",
       "title": "Mechanical Engineer Intern",
@@ -9070,7 +9225,8 @@
       "title": "Application Engineer Intern, MS - Summer 2027",
       "locations": [
         "Santa Clara, CA",
-        "Westlake Village, CA"
+        "Westlake Village, CA",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9096,7 +9252,8 @@
       "title": "Firmware Engineer Intern, BS - Summer 2027",
       "locations": [
         "Santa Clara, CA",
-        "Westlake Village, CA"
+        "Westlake Village, CA",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9153,7 +9310,8 @@
         "Rochester, MN",
         "Burlington, VT",
         "Westborough, MA",
-        "Boise, ID"
+        "Boise, ID",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -9186,7 +9344,8 @@
         "Rochester, MN",
         "Burlington, VT",
         "Westborough, MA",
-        "Boise, ID"
+        "Boise, ID",
+        "Santa Clara, CA, United States of America"
       ],
       "cities": [
         "Austin, TX"
@@ -9795,7 +9954,8 @@
         "US, California, Folsom",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9824,7 +9984,8 @@
         "US, California, Folsom",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9853,7 +10014,8 @@
         "US, California, Folsom",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9882,7 +10044,8 @@
         "US, California, Folsom",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9911,7 +10074,8 @@
         "US, California, Folsom",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -9940,7 +10104,8 @@
         "US, California, Folsom",
         "US, California, Santa Clara",
         "US, Texas, Austin",
-        "US, Arizona, Phoenix"
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -10815,6 +10980,57 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44247213",
       "url": "https://trueinterview.io/jobs/78839aa5-5580-48d1-b2ee-5023102488ca",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "1bf9d80a-4964-4eeb-8843-f509bc03da1a",
+      "company": "Panasonic",
+      "title": "Intern - Controls Engineering",
+      "locations": [
+        "Bridgeton, Missouri, United States",
+        "Suwanee, Georgia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50757?lang=en-us",
+      "url": "https://trueinterview.io/jobs/1bf9d80a-4964-4eeb-8843-f509bc03da1a",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "a2f53b41-a1b8-4a2b-b1c1-80e7ab051418",
+      "company": "Panasonic",
+      "title": "Intern - Engineering",
+      "locations": [
+        "Suwanee, Georgia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50759?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a2f53b41-a1b8-4a2b-b1c1-80e7ab051418",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "updatedAt": "2026-09-01T00:00:00.000Z"
     },
@@ -11833,6 +12049,81 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44247229",
       "url": "https://trueinterview.io/jobs/42ad0f60-eefa-47ca-aba8-233caef91692",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "b23d8112-45b9-418a-b046-6ee51850495b",
+      "company": "Panasonic",
+      "title": "Intern - Design Engineering",
+      "locations": [
+        "Bridgeton, Missouri, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50737?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b23d8112-45b9-418a-b046-6ee51850495b",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "a5608f22-3c76-411d-99d9-c06b505f1b7b",
+      "company": "Panasonic",
+      "title": "Intern - Reliability Engineering",
+      "locations": [
+        "Bridgeton, Missouri, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50746?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a5608f22-3c76-411d-99d9-c06b505f1b7b",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "e513df2b-a7f3-4bbd-9e5b-d4a204036a45",
+      "company": "Panasonic",
+      "title": "Intern - Test Engineering",
+      "locations": [
+        "Suwanee, Georgia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50741?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e513df2b-a7f3-4bbd-9e5b-d4a204036a45",
       "postedAt": "2026-08-31T00:00:00.000Z",
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
@@ -14834,6 +15125,176 @@
       "url": "https://trueinterview.io/jobs/722ec9cc-105d-424e-8b70-7ff6fbdd77c0",
       "postedAt": "2026-08-03T21:23:39.000Z",
       "updatedAt": "2026-08-03T21:23:39.000Z"
+    },
+    {
+      "id": "722de8e2-7a9a-4b7a-a192-82bc16471a16",
+      "company": "SpaceX",
+      "title": "Summer 2027 Civil Engineering Internship",
+      "locations": [
+        "Flexible - Any SpaceX Site",
+        "Cape Canaveral, FL, United States",
+        "Hawthorne, CA, United States",
+        "Brownsville, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
+      "url": "https://trueinterview.io/jobs/722de8e2-7a9a-4b7a-a192-82bc16471a16",
+      "postedAt": "2026-08-03T17:40:40.000Z",
+      "updatedAt": "2026-08-03T17:42:56.000Z"
+    },
+    {
+      "id": "ed0ac079-7781-4c58-8cc4-886da257b4c9",
+      "company": "SpaceX",
+      "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+      "locations": [
+        "Flexible - Any SpaceX Site",
+        "Irvine, California, United States",
+        "Palo Alto - 1200",
+        "Redmond, WA, United States",
+        "Bastrop, TX, United States",
+        "Cape Canaveral, FL, United States",
+        "Colossus - Memphis, TN",
+        "Hawthorne, CA, United States",
+        "Macrohard - Memphis, TN",
+        "McGregor, TX, United States",
+        "Brownsville, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002",
+      "url": "https://trueinterview.io/jobs/ed0ac079-7781-4c58-8cc4-886da257b4c9",
+      "postedAt": "2026-08-03T17:42:19.000Z",
+      "updatedAt": "2026-08-03T17:42:19.000Z"
+    },
+    {
+      "id": "8495bc11-bbf8-4233-9c2b-94e12f0a7178",
+      "company": "SpaceX",
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "locations": [
+        "Flexible - Any SpaceX Site",
+        "Bastrop, TX, United States",
+        "Cape Canaveral, FL, United States",
+        "Hawthorne, CA, United States",
+        "Irvine, California, United States",
+        "McGregor, TX, United States",
+        "Palo Alto - 1200",
+        "Redmond, WA, United States",
+        "Brownsville, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+      "url": "https://trueinterview.io/jobs/8495bc11-bbf8-4233-9c2b-94e12f0a7178",
+      "postedAt": "2026-08-03T17:26:50.000Z",
+      "updatedAt": "2026-08-03T17:41:40.000Z"
+    },
+    {
+      "id": "a95cc452-d943-48c1-8516-7ac873348446",
+      "company": "SpaceX",
+      "title": "Summer 2027 Graduate Engineer Internship/Co-op",
+      "locations": [
+        "Flexible - Any SpaceX Site",
+        "Bastrop, TX, United States",
+        "Bloomfield, CT, United States",
+        "Cape Canaveral, FL, United States",
+        "Hawthorne, CA, United States",
+        "Irvine, California, United States",
+        "Long Beach, California, United States",
+        "McGregor, TX, United States",
+        "Palo Alto - 1200",
+        "Redmond, WA, United States",
+        "Brownsville, TX, United States",
+        "Vandenberg, CA, United States",
+        "Woodinville, Washington, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002",
+      "url": "https://trueinterview.io/jobs/a95cc452-d943-48c1-8516-7ac873348446",
+      "postedAt": "2026-08-03T17:26:33.000Z",
+      "updatedAt": "2026-08-03T17:41:19.000Z"
+    },
+    {
+      "id": "7dfe1ec1-c245-481f-8d90-654977e4a0ec",
+      "company": "SpaceX",
+      "title": "Summer 2027 Engineering Internship/Co-op",
+      "locations": [
+        "Flexible - Any SpaceX Site",
+        "Bastrop, TX, United States",
+        "Bloomfield, CT, United States",
+        "Cape Canaveral, FL, United States",
+        "Hawthorne, CA, United States",
+        "Irvine, California, United States",
+        "Long Beach, California, United States",
+        "McGregor, TX, United States",
+        "Palo Alto - 1200",
+        "Redmond, WA, United States",
+        "Brownsville, TX, United States",
+        "Vandenberg, CA, United States",
+        "Woodinville, Washington, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002",
+      "url": "https://trueinterview.io/jobs/7dfe1ec1-c245-481f-8d90-654977e4a0ec",
+      "postedAt": "2026-08-03T17:26:16.000Z",
+      "updatedAt": "2026-08-03T17:40:55.000Z"
     },
     {
       "id": "0cf881d3-699a-49ab-8e30-4e47e7267860",
