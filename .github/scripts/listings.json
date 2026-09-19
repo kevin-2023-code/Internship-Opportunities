@@ -5,9 +5,166 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-18T22:08:50.975Z",
-  "count": 535,
+  "fetchedAt": "2026-09-19T00:52:02.824Z",
+  "count": 541,
   "listings": [
+    {
+      "id": "792890da-3e3d-45bf-89c3-f967a1756bd8",
+      "company": "Bot Auto",
+      "title": "Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)",
+      "locations": [
+        "Houston, TX",
+        "Houston Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/botauto/jobs/5429357008",
+      "url": "https://trueinterview.io/jobs/792890da-3e3d-45bf-89c3-f967a1756bd8",
+      "postedAt": "2026-09-18T23:49:57.000Z",
+      "updatedAt": "2026-09-18T23:49:57.000Z"
+    },
+    {
+      "id": "96d6b2a4-4e7c-41b4-bbb7-79b077b2c820",
+      "company": "Epic Games",
+      "title": "Tools Programmer Intern",
+      "locations": [
+        "Cary,North Carolina,United States",
+        "Cary"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
+      "url": "https://trueinterview.io/jobs/96d6b2a4-4e7c-41b4-bbb7-79b077b2c820",
+      "postedAt": "2026-09-18T23:04:51.000Z",
+      "updatedAt": "2026-09-18T23:04:51.000Z"
+    },
+    {
+      "id": "ec62f64c-0196-496a-a8e7-00676e7fb1a2",
+      "company": "Achievers",
+      "title": "Software Engineering Co-op - Winter 2027",
+      "locations": [
+        "Toronto"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply",
+      "url": "https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2",
+      "postedAt": "2026-09-18T22:56:50.000Z",
+      "updatedAt": "2026-09-18T22:56:50.000Z"
+    },
+    {
+      "id": "04896d82-fad3-457c-afd5-238e0d807ca9",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "locations": [
+        "Mountain View, California, USA",
+        "Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "url": "https://trueinterview.io/jobs/04896d82-fad3-457c-afd5-238e0d807ca9",
+      "postedAt": "2026-09-18T22:09:27.000Z",
+      "updatedAt": "2026-09-18T22:09:27.000Z"
+    },
+    {
+      "id": "a3175504-1945-4ae2-b0c7-d2a1584750be",
+      "company": "Wsp",
+      "title": "Lighting Design Intern - Summer 2027",
+      "locations": [
+        "Arlington, VA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95805",
+      "url": "https://trueinterview.io/jobs/a3175504-1945-4ae2-b0c7-d2a1584750be",
+      "postedAt": "2026-09-18T21:58:03.000Z",
+      "updatedAt": "2026-09-18T21:58:03.000Z"
+    },
+    {
+      "id": "953284e0-d99b-4ede-bb68-7cebe42d7cc1",
+      "company": "Metrolinx",
+      "title": "Co-op Student, Bus Fleet Engineering",
+      "locations": [
+        "Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117445",
+      "url": "https://trueinterview.io/jobs/953284e0-d99b-4ede-bb68-7cebe42d7cc1",
+      "postedAt": "2026-09-18T21:31:14.000Z",
+      "updatedAt": "2026-09-18T21:31:14.000Z"
+    },
     {
       "id": "2ce8f8cd-46f2-4518-a50b-b76b6df8b7f0",
       "company": "Wsp",
@@ -116,12 +273,11 @@
       "updatedAt": "2026-09-18T20:13:13.000Z"
     },
     {
-      "id": "5ff1d81b-26a1-47f3-95e8-62bce42dc818",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Data Science",
+      "id": "a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b",
+      "company": "Fable Security",
+      "title": "Software Engineering Intern",
       "locations": [
-        "San Francisco, California, United States",
-        "San Francisco (US-SFO-MKT555)"
+        "San Francisco, CA (Hybrid)"
       ],
       "cities": [
         "San Francisco, CA"
@@ -129,19 +285,19 @@
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
+      "remote": "hybrid",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
-      "url": "https://trueinterview.io/jobs/5ff1d81b-26a1-47f3-95e8-62bce42dc818",
-      "postedAt": "2026-09-18T17:54:04.000Z",
-      "updatedAt": "2026-09-18T17:54:04.000Z"
+      "applyUrl": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application",
+      "url": "https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b",
+      "postedAt": "2026-09-18T20:04:36.000Z",
+      "updatedAt": "2026-09-18T20:04:36.000Z"
     },
     {
       "id": "a41d6358-6647-467f-92a7-ca84dd48dfc6",
