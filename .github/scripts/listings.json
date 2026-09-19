@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T17:39:22.549Z",
-  "count": 567,
+  "fetchedAt": "2026-09-19T19:52:09.333Z",
+  "count": 566,
   "listings": [
     {
       "id": "792890da-3e3d-45bf-89c3-f967a1756bd8",
@@ -4450,32 +4450,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991",
       "url": "https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "f29f10cd-d0e9-414f-b4cf-95370ce755d2",
-      "company": "Dell",
-      "title": "ISG Hardware Engineering Undergrad Internship",
-      "locations": [
-        "Round Rock, TX, United States",
-        "Hopkinton, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/297770",
-      "url": "https://trueinterview.io/jobs/f29f10cd-d0e9-414f-b4cf-95370ce755d2",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
