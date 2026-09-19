@@ -12,11 +12,11 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-19 05:23 UTC_
+_Last updated: 2026-09-19 10:05 UTC_
 
-### Browse 498 internships by category
+### Browse 497 internships by category
 
-💻 **[Software Engineering](#-software-engineering)** (296)
+💻 **[Software Engineering](#-software-engineering)** (295)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (55)
 
@@ -1326,13 +1326,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/1ec26877-672e-4345-aada-874ebcdf3ce2">Physical Design Engineer Intern, MS - Summer 2027</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1">Apply</a></td>
-<td align="center">15d</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/35b4825e-40a8-4a85-9df9-dd5c8c4ba00a">Firmware Engineering INTERN</a></td>
-<td>Redmond, WA, US<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556981972">Apply</a></td>
 <td align="center">15d</td>
 </tr>
 <tr>

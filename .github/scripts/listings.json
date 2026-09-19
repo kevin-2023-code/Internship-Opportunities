@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-19T05:23:10.722Z",
-  "count": 541,
+  "fetchedAt": "2026-09-19T10:05:16.322Z",
+  "count": 540,
   "listings": [
     {
       "id": "792890da-3e3d-45bf-89c3-f967a1756bd8",
@@ -8907,32 +8907,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1",
       "url": "https://trueinterview.io/jobs/1ec26877-672e-4345-aada-874ebcdf3ce2",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "35b4825e-40a8-4a85-9df9-dd5c8c4ba00a",
-      "company": "Microsoft",
-      "title": "Firmware Engineering INTERN",
-      "locations": [
-        "Redmond, WA, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556981972",
-      "url": "https://trueinterview.io/jobs/35b4825e-40a8-4a85-9df9-dd5c8c4ba00a",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
