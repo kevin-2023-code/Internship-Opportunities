@@ -31,7 +31,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:05 UTC_
+_Last updated: 2026-09-20 19:14 UTC_
 
 **523 open internships** from **147 employers** · **171 posted in the last 7 days** · refreshed hourly
 
@@ -719,7 +719,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/f413945d-7e6d-48a8-96fe-057c696165fb">AI Engineer Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732429005">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 </tbody>
 </table>
