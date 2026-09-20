@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← Back to the list](../README.md)
 
-_Last updated: 2026-09-20 19:05 UTC_
+_Last updated: 2026-09-20 19:12 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 142 of the 169 employers on this list (94% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 143 of the 169 employers on this list (94% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -58,14 +58,14 @@ Who the employer is: the size cut you were after, or the sector.
 | [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 19 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
 | [⚡ Energy, climate & industrial](company/energy-industrial.md) | 14 | Every employer the company registry files under energy, climate & industrial, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏦 Banks, insurers & asset managers](company/banking-finance.md) | 11 | Every employer the company registry files under banks, insurers & asset managers, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🌱 Startups (under 200)](company/startups.md) | 10 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
 | [🔒 Cybersecurity](company/security.md) | 9 | Every employer the company registry files under cybersecurity, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🌱 Startups (under 200)](company/startups.md) | 9 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
 | [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 8 | Every employer the company registry files under autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧬 Health, biotech & medical devices](company/health-bio.md) | 8 | Every employer the company registry files under health, biotech & medical devices, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 7 | Every employer the company registry files under developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💼 Other industries](company/other-industry.md) | 7 | Every employer the company registry files under other industries, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [📈 Quant trading & hedge funds](company/quant-trading.md) | 7 | Every employer the company registry files under quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🧠 AI labs & AI infrastructure](company/ai.md) | 5 | Every employer the company registry files under ai labs & ai infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🧠 AI labs & AI infrastructure](company/ai.md) | 6 | Every employer the company registry files under ai labs & ai infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🎮 Gaming & interactive](company/gaming.md) | 5 | Every employer the company registry files under gaming & interactive, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 
 ---

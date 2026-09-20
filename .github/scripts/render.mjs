@@ -38,13 +38,6 @@ const LISTS_DIR = 'lists';
 /** How much of each README section is printed before the filter page takes over. */
 const DEFAULT_CAPS = { featured: 25, fold: 50 };
 
-/** Caps one file's rows, newest kept. Returns the rows and what was left out. */
-function cap(jobs, limit) {
-  return limit > 0 && jobs.length > limit
-    ? { jobs: jobs.slice(0, limit), omitted: jobs.length - limit }
-    : { jobs, omitted: 0 };
-}
-
 /** The sentence under the legend saying where these rows came from. */
 function sourceNote({ config, scope }) {
   const window = config.query.postedWithinDays
@@ -236,29 +229,19 @@ async function main() {
     ['home', home],
     ['global', elsewhere],
   ]) {
-    const capped = cap(jobs, config.maxRowsPerFile ?? 0);
-    // Counted off the "posted this week" FILTER rather than recomputed here.
-    // Two clocks in one file disagree at the boundary — a whole-days age and a
-    // milliseconds one differ by up to a day — and the two numbers land three
-    // lines apart on the same page.
-    const freshTrack = tracks.find((track) => track.id === 'new-this-week');
-    const inScope = new Set(jobs);
-    const fresh = freshTrack ? freshTrack.jobs.filter((job) => inScope.has(job)).length : 0;
-    const employers = new Set(jobs.map((job) => job.companyLabel).filter(Boolean)).size;
-    const headline =
-      `**${jobs.length.toLocaleString('en-US')} open ${config.noun}** from ` +
-      `**${employers.toLocaleString('en-US')} employers**` +
-      (fresh ? ` · **${fresh.toLocaleString('en-US')} posted in the last ${NEW_THIS_WEEK_DAYS} days**` : '') +
-      ` · refreshed hourly`;
     const path = join(ROOT, config.files[scope]);
     readmes.push(await renderReadme(path, (backToTop) =>
       renderListings({
-        jobs: capped.jobs,
+        // The WHOLE region, uncapped. The per-section caps below are what keep
+        // the file small, and they are applied after the counts are taken —
+        // an input cap made the index say "Browse 1,500 roles" three lines
+        // under a headline that said 2,336, and made a section header disagree
+        // with the page it linked to.
+        jobs,
         now,
         featuredDays: config.featuredDays,
         noun: config.noun,
         backToTop,
-        headline,
         freshDays: NEW_THIS_WEEK_DAYS,
         caps,
         tracks,
