@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Xaira Therapeutics</strong></td>
 <td><a href="https://trueinterview.io/jobs/8af436f3-290d-4bc7-bdf1-8891f766ba4a">AI Scientist Intern, Computational Protein Design</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, United States<br/>South San Francisco, California, United States<br/>Seattle/SF Bay Area</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>

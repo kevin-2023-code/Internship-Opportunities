@@ -41,7 +41,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9">Mechanical Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>San Diego, CA, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741704">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -90,7 +90,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/76021b46-253e-4839-8409-b13e30bbd044">Silicon Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Sunnyvale, CA</td>
+<td>Sunnyvale, CA<br/>Madison, WI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -104,7 +104,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/a767aa3e-de81-4868-8d8d-9ecb5c8abb25">Railroad Track Design - Civil Engineering Internship</a></td>
-<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE</td>
+<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE<br/>+6 more</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5240157007?gh_jid=5240157007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -125,7 +125,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cesiumastro</strong></td>
 <td><a href="https://trueinterview.io/jobs/9198d075-4b5b-476c-948f-2c383fbd4b4f">Summer 2027 - Electrical Engineering Internship, RF</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Westminster, CO</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -195,7 +195,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b">Hardware Engineer PhD (Intern) - United States</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, California, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -272,7 +272,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d">Ph.D. Intern - Silicon Photonics &amp; Optical Communications</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -314,7 +314,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CHAOS Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/979c6b7b-c1c7-40b7-a0ef-de8ec8c51058">Electrical Engineer Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -440,7 +440,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/874dc8b8-0da2-4ba9-a83c-f0c8912c41c8">Co-op Student, Civil Engineering - Aviation</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93659">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -461,14 +461,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fcbdfbf-33cd-4b15-84f4-680a1cd54490">Silicon Hardware Engineering - Intern, Bachelor’s</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f887d510-4962-4f80-937c-dc887a24df60">Silicon Hardware Engineering - Intern, Graduate</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -503,7 +503,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hudson River Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/be4cbf49-a48f-4671-9eee-4433025d8cb0">Hardware Engineer Internship - Summer 2027</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York City</td>
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -573,14 +573,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5db30053-e87e-4e23-bbc0-39ec7c23ee7a">Civil Engineering Internship - Traffic &amp; Technology</a></td>
-<td>Denver, CO</td>
+<td>Denver, CO<br/>Overland Park, KS<br/>Oklahoma City, OK<br/>+3 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405819008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a04670c1-81dc-4d4b-b672-837e5e182ae9">Civil Engineering Internship - Roadway</a></td>
-<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)</td>
+<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)<br/>+7 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405885008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -594,7 +594,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9ec5513-da89-4b4b-8741-185b353d74c6">Intern, Civil Engineering</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93760">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -615,7 +615,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Evr</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c5e4327-b3bc-4817-a656-c01f0f18def8">January 2027 Projects/Civil Engineering Co-op</a></td>
-<td>Calgary, AB</td>
+<td>Calgary, AB<br/>Elkford, BC<br/>Sparwood, BC</td>
 <td align="center"><a href="https://jobs.lever.co/evr/c291a995-4d3b-49ab-93e0-321064d5e169/apply">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -629,7 +629,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -650,7 +650,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Santa Clara, CA, US<br/>Raleigh, NC, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -671,21 +671,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276">2027 Masters ASIC Package Engineering Co-op/Intern</a></td>
-<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States</td>
+<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91469?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e52e12d9-6c07-4153-bc93-b6e837fbdb3d">2027 Undergrad ASIC Package Engineering Co-op/Intern</a></td>
-<td>US, CA, San Jose<br/>US, TX, Austin<br/>San Jose, California, United States</td>
+<td>US, CA, San Jose<br/>US, TX, Austin<br/>San Jose, California, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91463?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
-<td>US, MA, Wilmington<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
+<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
@@ -706,14 +706,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Freeform</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4a37b21-48b6-48ec-b8ee-952013ba219d">Manufacturing Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dd519dac-4cb3-45d7-88d4-a0538c515d94">Process Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -755,14 +755,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/722de8e2-7a9a-4b7a-a192-82bc16471a16">Summer 2027 Civil Engineering Internship</a></td>
-<td>Flexible - Any SpaceX Site<br/>Cape Canaveral, FL, United States<br/>Hawthorne, CA, United States</td>
+<td>Flexible - Any SpaceX Site<br/>Cape Canaveral, FL, United States<br/>Hawthorne, CA, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ed0ac079-7781-4c58-8cc4-886da257b4c9">Summer 2027 Silicon Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Irvine, California, United States<br/>Palo Alto - 1200</td>
+<td>Flexible - Any SpaceX Site<br/>Irvine, California, United States<br/>Palo Alto - 1200<br/>+8 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
@@ -802,7 +802,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/acee0ace-6080-4880-8a5c-1aeaa62087a6">Manufacturing Engineering Intern - Space Sytems</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7820012003">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

@@ -22,7 +22,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>
-<td>London</td>
+<td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8187178">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -36,35 +36,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/6efd5e0e-9584-437e-bb6e-43157f1866b3">2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c3b4dd4f-5c0f-441b-83cc-f025f975634c">2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/630a07a6-4af4-4814-a52d-8fee47d4ae97">2027 Software Engineer Program - 12 Month Industrial Placement - Glasgow &amp; London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ffb72b4-fb99-4dd9-b25b-faf99588b710">Web Engineer Intern - Tools &amp; Portals</a> 🛂</td>
-<td>London</td>
+<td>London, England, United Kingdom<br/>London, UK<br/>Novi Sad, Vojvodina, Serbia<br/>+1 more</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8b70977d-f312-4d88-ab16-83d2178b93db">Engine Programmer Intern - Unreal Engine</a> 🛂</td>
-<td>London</td>
+<td>London, England, United Kingdom<br/>London, UK<br/>Cary</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>

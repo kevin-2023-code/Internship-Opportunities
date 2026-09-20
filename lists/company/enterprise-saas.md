@@ -27,7 +27,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9afebbd-7396-4bce-8d52-ebcb04692e64">SAP iXp Intern - Full-Stack AI Developer</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Full-Stack-AI-Developer-CA-94304/1425371233/">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -41,7 +41,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/adfddf3b-0a30-40a9-a7cf-0953d00cdf3a">Summer 2027: Product Design Intern</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-product-design-intern/27595/100620927648">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -76,14 +76,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Opengov</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770">Intern, Software Engineer</a></td>
-<td>Atlanta, GA<br/>Boston, MA</td>
+<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4">Summer 2027: Software Engineering Intern - Cybersecurity</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -146,14 +146,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/0038eb77-681e-48a2-a47f-dc2159952d91">Summer 2027 Intern - Software Engineer</a></td>
-<td>California - San Francisco<br/>California - Palo Alto<br/>New York - New York</td>
+<td>California - San Francisco, United States of America<br/>California - Palo Alto<br/>New York - New York<br/>+5 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Santa Clara, CA, US<br/>Raleigh, NC, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
@@ -167,7 +167,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/7585506f-04c5-4406-936d-a441050c2c68">Data Science Intern</a> 🛂</td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -207,7 +207,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b8dccd5-7a65-4cf0-b38c-4ed2833392d0">Product Engineering Internship - Survey123</a></td>
-<td>Melbourne</td>
+<td>Melbourne, AU</td>
 <td align="center"><a href="https://www.esri.com/careers/5204881007?gh_jid=5204881007">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>

@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/77828b14-2c53-46d2-a77c-8ff25eb9cefe">Machine Learning &amp; Artificial Intelligence Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX<br/>New York, NY</td>
+<td>Austin, TX<br/>New York, NY<br/>San Diego, CA, US<br/>+4 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740525">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -34,14 +34,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cyvl</strong></td>
 <td><a href="https://trueinterview.io/jobs/eef8cdd0-166f-4c11-bfbe-504627de3ba8">Engineering Intern - Software (SWE)/Machine Learning (ML)</a></td>
-<td>Boston, MA</td>
+<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/65bb4f66-47c0-4b9d-b301-9906cd87e515">Software Engineer Intern, Machine Learning (Summer 2027)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Coworking</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -55,7 +55,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -76,21 +76,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/73834623-cf72-4546-9c0c-c49c5363eb40">Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2027</a></td>
-<td>Zurich</td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f3a34c5-abdb-4a6c-8e64-ff6726265e4b">2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op</a></td>
-<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States</td>
+<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91177?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b6d0cd1f-2a3a-4063-b626-b5514a6da6c5">2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op</a></td>
-<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States</td>
+<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90892?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -104,7 +104,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4683b7ef-4baa-4efd-88a6-c1794443aaa0">Machine Learning/AI Scientist PhD Intern, Winter 2027</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, California, United States of America<br/>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317916733">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>

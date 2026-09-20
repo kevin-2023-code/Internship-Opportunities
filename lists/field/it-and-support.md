@@ -27,7 +27,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Tanium</strong></td>
 <td><a href="https://trueinterview.io/jobs/3077f168-da4a-4324-9311-7fb93aff60d3">Technical Support Engineer (TSE) Intern</a></td>
-<td>Bellevue, WA (hybrid)</td>
+<td>Bellevue, WA (Hybrid)<br/>Emeryville, CA (Hybrid)<br/>Addison, TX Office<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8189328">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -74,7 +74,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
-<td>Dublin</td>
+<td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>

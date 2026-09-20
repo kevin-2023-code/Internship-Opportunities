@@ -20,14 +20,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US</td>
+<td>Irvine, CA, US<br/>San Diego, CA, US<br/>Tempe, AZ, US<br/>+1 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60">Software Engineering Internship - Summer 2027</a></td>
-<td>Austin, TX<br/>New York, NY</td>
+<td>Irvine, CA, US<br/>Austin, TX<br/>New York, NY<br/>+5 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740529">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -62,7 +62,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/241c61dd-a2a9-49fe-a57e-9bb6f6a06699">Winter 2027 Test Automation Engineer Co-op</a></td>
-<td>Washington, DC</td>
+<td>Costa Mesa, CA<br/>Washington, DC<br/>Washington, District of Columbia, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -97,21 +97,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/afb11c5f-019c-45c9-8008-bd6b1eb5d1c4">Software Engineer, Intern (Summer 2027) - US</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td>Los Angeles, CA<br/>New York, NY<br/>San Francisco, CA<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/15445053-6c9a-46bc-b8b0-27ff4e49edae">IC Validation Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA<br/>Irvine, CA<br/>Westlake Village, CA</td>
+<td>Irvine, CA<br/>Santa Clara, CA, United States of America<br/>Westlake Village, CA</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/241d22c0-2807-4adc-b279-b37ef72a8094">Field Applications Engineering Intern (Dallas, TX)</a></td>
-<td>Austin, TX<br/>Bellevue, WA</td>
+<td>Irvine, CA, United States<br/>Austin, TX<br/>Bellevue, WA<br/>+3 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013813">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -139,14 +139,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
-<td>Austin, TX</td>
+<td>Irvine, CA<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d">Ph.D. Intern - Silicon Photonics &amp; Optical Communications</a></td>
-<td>Austin, TX</td>
+<td>Irvine, CA<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -188,14 +188,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CHAOS Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/342de27d-bfc5-4826-bad5-c5f2f3593658">2027 Summer- Software Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/979c6b7b-c1c7-40b7-a0ef-de8ec8c51058">Electrical Engineer Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -230,49 +230,49 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/05d7b616-9d6f-4ba9-b1de-99fbbc6153d9">2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</a></td>
-<td>North Chicago, IL, United States<br/>South San Francisco, CA, United States<br/>Irvine, CA, United States</td>
+<td>Irvine, CA, United States<br/>North Chicago, IL, United States<br/>South San Francisco, CA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014896329-2027-business-technology-solutions-intern-cybersecurity-undergraduate-?oga=true">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lab37</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b4e925a-04ad-4edd-a08d-dac47bdc1a81">Mechanical Design Engineering Intern‬</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA or Pittsburgh, PA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8695490002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0f1e8bb5-7386-42c5-9543-1bc78f36e5d9">Robotics Software Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA or Pittsburgh, PA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8695475002">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Freeform</strong></td>
 <td><a href="https://trueinterview.io/jobs/264a254b-bb36-4fbe-b544-59335f092a38">Materials Engineer Intern</a> 🛂</td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters<br/>LA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f4a37b21-48b6-48ec-b8ee-952013ba219d">Manufacturing Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dd519dac-4cb3-45d7-88d4-a0538c515d94">Process Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Netflix</strong></td>
 <td><a href="https://trueinterview.io/jobs/4683b7ef-4baa-4efd-88a6-c1794443aaa0">Machine Learning/AI Scientist PhD Intern, Winter 2027</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, California, United States of America<br/>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317916733">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -286,35 +286,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/722de8e2-7a9a-4b7a-a192-82bc16471a16">Summer 2027 Civil Engineering Internship</a></td>
-<td>Flexible - Any SpaceX Site<br/>Cape Canaveral, FL, United States<br/>Hawthorne, CA, United States</td>
+<td>Hawthorne, CA, United States<br/>Flexible - Any SpaceX Site<br/>Cape Canaveral, FL, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ed0ac079-7781-4c58-8cc4-886da257b4c9">Summer 2027 Silicon Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Irvine, California, United States<br/>Palo Alto - 1200</td>
+<td>Irvine, California, United States<br/>Hawthorne, CA, United States<br/>Flexible - Any SpaceX Site<br/>+8 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8495bc11-bbf8-4233-9c2b-94e12f0a7178">Summer 2027 Software Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Cape Canaveral, FL, United States</td>
+<td>Hawthorne, CA, United States<br/>Irvine, California, United States<br/>Flexible - Any SpaceX Site<br/>+6 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a95cc452-d943-48c1-8516-7ac873348446">Summer 2027 Graduate Engineer Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States</td>
+<td>Hawthorne, CA, United States<br/>Irvine, California, United States<br/>Long Beach, California, United States<br/>+10 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7dfe1ec1-c245-481f-8d90-654977e4a0ec">Summer 2027 Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States</td>
+<td>Hawthorne, CA, United States<br/>Irvine, California, United States<br/>Long Beach, California, United States<br/>+10 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>

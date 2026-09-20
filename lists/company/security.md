@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Rubrik</strong></td>
 <td><a href="https://trueinterview.io/jobs/a41d6358-6647-467f-92a7-ca84dd48dfc6">Software Engineering Winter Internship</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA HQ Office</td>
 <td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -41,14 +41,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8341fc9b-8e04-48d8-8825-4f852964eb78">UX Designer Internship - Summer 2027</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>College Park, MD<br/>Columbus, OH</td>
 <td align="center"><a href="https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Tanium</strong></td>
 <td><a href="https://trueinterview.io/jobs/3077f168-da4a-4324-9311-7fb93aff60d3">Technical Support Engineer (TSE) Intern</a></td>
-<td>Bellevue, WA (hybrid)</td>
+<td>Bellevue, WA (Hybrid)<br/>Emeryville, CA (Hybrid)<br/>Addison, TX Office<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8189328">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>

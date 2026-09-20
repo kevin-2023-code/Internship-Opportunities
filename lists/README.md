@@ -6,15 +6,15 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-09-20 19:32 UTC_
+_Last updated: 2026-09-20 20:09 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 143 of the 169 employers on this list (94% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
-🗂️ **[By field](#-by-field)** — The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample. (6 filters)
+🗂️ **[By field](#️-by-field)** — The catalog's six technical fields — the same sections the main list is cut into, with every row rather than a sample. (6 filters)
 
-🏷️ **[By company type](#-by-company-type)** — Who the employer is: the size cut you were after, or the sector. (22 filters)
+🏷️ **[By company type](#️-by-company-type)** — Who the employer is: the size cut you were after, or the sector. (22 filters)
 
 🧑‍💻 **[By role](#-by-role)** — The catalog's own role classification, not a keyword search on the title. (11 filters)
 

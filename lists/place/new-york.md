@@ -20,21 +20,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/261d9df6-33af-405a-8a04-d2d05d0a833a">Product Management Intern (Winter 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York<br/>Gemini North America</td>
 <td align="center"><a href="https://boards.greenhouse.io/embed/job_app?for=gemini&amp;token=8214332&amp;gh_jid=8214332">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/77828b14-2c53-46d2-a77c-8ff25eb9cefe">Machine Learning &amp; Artificial Intelligence Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX<br/>New York, NY</td>
+<td>New York, NY<br/>Austin, TX<br/>San Diego, CA, US<br/>+4 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740525">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60">Software Engineering Internship - Summer 2027</a></td>
-<td>Austin, TX<br/>New York, NY</td>
+<td>New York, NY<br/>Austin, TX<br/>San Diego, CA, US<br/>+5 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740529">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -48,7 +48,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Woolpert</strong></td>
 <td><a href="https://trueinterview.io/jobs/928e12cb-550b-40fb-b1bd-2dc8fda2d099">Site Civil Engineer Intern</a></td>
-<td>Chicago, IL<br/>New York, NY</td>
+<td>New York, NY<br/>Chicago, IL<br/>Charlotte, NC<br/>+11 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4408304009">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -62,63 +62,63 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/afb11c5f-019c-45c9-8008-bd6b1eb5d1c4">Software Engineer, Intern (Summer 2027) - US</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td>New York, NY<br/>San Francisco, CA<br/>Sunnyvale, CA<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/87b07972-e202-44c5-9d19-074b932c10b1">Software Engineering Intern, Android (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&amp;gh_jid=8142961">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/60c5fea1-856c-484d-8805-1eaaec977518">Software Engineering Intern, Backend (Summer 2027)</a></td>
-<td>Bellevue, WA<br/>New York, NY</td>
+<td>New York, NY<br/>Bellevue, WA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e9f57cb7-9167-4fa7-9a71-ead8560f6e26">Software Engineering Intern, Web (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&amp;gh_jid=8142963">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/d880325d-f12a-4a6f-8625-a1e32d8fb14e">Data Analyst Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States<br/>New York Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
+<td>New York, NY<br/>San Francisco, California, United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Domino Data Lab</strong></td>
 <td><a href="https://trueinterview.io/jobs/81e4f5a5-2f5d-45cd-89e0-1ccd779ba655">Software Engineer, Intern - Campus Recruiting 2027</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>New York City, New York</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -132,7 +132,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a7e951f-072a-45e2-b42c-97d6354f4082">Software Engineering Intern (Summer)</a></td>
-<td>Boston, MA<br/>New York, NY</td>
+<td>New York, NY<br/>New York, New York, USA<br/>Boston, Massachusetts, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -146,7 +146,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1587313-c74f-42e6-af65-c54a2bca4db8">2027 PhD Quantitative Research Intern</a></td>
-<td>Miami, Florida, United States<br/>New York, New York, United States</td>
+<td>New York, New York, United States<br/>Miami, Florida, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -167,21 +167,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hudson River Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/be4cbf49-a48f-4671-9eee-4433025d8cb0">Hardware Engineer Internship - Summer 2027</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York City</td>
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/0038eb77-681e-48a2-a47f-dc2159952d91">Summer 2027 Intern - Software Engineer</a></td>
-<td>California - San Francisco<br/>California - Palo Alto<br/>New York - New York</td>
+<td>New York - New York<br/>California - San Francisco, United States of America<br/>California - Palo Alto<br/>+5 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sleeper</strong></td>
 <td><a href="https://trueinterview.io/jobs/881db603-f7fc-417e-b308-cda01ffef39c">Product Design Intern</a></td>
-<td>Seattle, WA</td>
+<td>New York City<br/>Seattle, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/40410c1f-b0f1-476a-9693-dbc11c1c5aa2/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -195,21 +195,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Bci Brands</strong></td>
 <td><a href="https://trueinterview.io/jobs/42ee0fe3-bb37-436c-ac3c-8562c435e3bd">Sweater Design INTERN</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/vEMEHjr1EAEucEyDVgsksX/sweater-design-intern-in-new-york-at-bci-brands">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff">Product Management Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Assured Guaranty</strong></td>
 <td><a href="https://trueinterview.io/jobs/01c55378-d532-42a9-98d2-4d9bb3fb67d3">Product Software Developer Intern</a> 🛂</td>
-<td>New York, NY</td>
+<td>New York, NY<br/>NYC</td>
 <td align="center"><a href="https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>

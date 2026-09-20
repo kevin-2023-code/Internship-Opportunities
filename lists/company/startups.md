@@ -55,7 +55,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Sleeper</strong></td>
 <td><a href="https://trueinterview.io/jobs/881db603-f7fc-417e-b308-cda01ffef39c">Product Design Intern</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/40410c1f-b0f1-476a-9693-dbc11c1c5aa2/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>

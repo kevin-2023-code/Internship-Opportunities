@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/d880325d-f12a-4a6f-8625-a1e32d8fb14e">Data Analyst Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York Office<br/>New York, New York, United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -34,14 +34,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef7622d7-76d1-4f06-9987-ffa45f4ca598">2027 Masters Data Analyst Intern/co-op</a></td>
-<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States</td>
+<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91179?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4054cbfe-278e-40b7-a366-d9951a6b059d">2027 Undergrad Data Analyst Intern/co-op</a></td>
-<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States</td>
+<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90895?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -60,7 +60,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/d34820ad-e03d-4ab5-9649-eb69155b1e79">2027 Data and AI Program (Summer Analyst) - Singapore</a></td>
-<td>Singapore</td>
+<td>Singapore, Singapore</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783022">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>

@@ -41,14 +41,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cesiumastro</strong></td>
 <td><a href="https://trueinterview.io/jobs/c73d4279-a928-46f8-bdcc-a6ce291fe388">Summer 2027 - Systems Engineering Internship</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Westminster, CO</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/556369b7-a017-4d0d-8e3b-97ec210be0d5/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9198d075-4b5b-476c-948f-2c383fbd4b4f">Summer 2027 - Electrical Engineering Internship, RF</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Westminster, CO</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -83,7 +83,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/241c61dd-a2a9-49fe-a57e-9bb6f6a06699">Winter 2027 Test Automation Engineer Co-op</a></td>
-<td>Washington, DC</td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -195,14 +195,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>CHAOS Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/342de27d-bfc5-4826-bad5-c5f2f3593658">2027 Summer- Software Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/979c6b7b-c1c7-40b7-a0ef-de8ec8c51058">Electrical Engineer Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -244,35 +244,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/722de8e2-7a9a-4b7a-a192-82bc16471a16">Summer 2027 Civil Engineering Internship</a></td>
-<td>Flexible - Any SpaceX Site<br/>Cape Canaveral, FL, United States<br/>Hawthorne, CA, United States</td>
+<td>Flexible - Any SpaceX Site<br/>Cape Canaveral, FL, United States<br/>Hawthorne, CA, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ed0ac079-7781-4c58-8cc4-886da257b4c9">Summer 2027 Silicon Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Irvine, California, United States<br/>Palo Alto - 1200</td>
+<td>Flexible - Any SpaceX Site<br/>Irvine, California, United States<br/>Palo Alto - 1200<br/>+8 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8495bc11-bbf8-4233-9c2b-94e12f0a7178">Summer 2027 Software Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Cape Canaveral, FL, United States</td>
+<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Cape Canaveral, FL, United States<br/>+6 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a95cc452-d943-48c1-8516-7ac873348446">Summer 2027 Graduate Engineer Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States</td>
+<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States<br/>+10 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7dfe1ec1-c245-481f-8d90-654977e4a0ec">Summer 2027 Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States</td>
+<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States<br/>+10 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
@@ -291,21 +291,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ceed109-ab77-4df4-9e81-b1dadaaf5a93">RF Test Engineer Intern</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7845193003">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3544bdf-16cf-43eb-b403-ad0d0f011a61">Development Engineering Intern - Neutron Thermal Protection Systems</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825281003">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/acee0ace-6080-4880-8a5c-1aeaa62087a6">Manufacturing Engineering Intern - Space Sytems</a></td>
-<td>Auckland</td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7820012003">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>

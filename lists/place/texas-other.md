@@ -34,21 +34,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/ca8f5ed9-20ea-403b-9d5f-fecbf7de24c7">Systems Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Sugar Land, TX, United States</td>
+<td>Sugar Land, TX, United States<br/>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017917">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b6faaf5e-a70b-4e89-9c21-1ecf2cc2e378">Systems Engineering Intern - MS/PhD</a></td>
-<td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States</td>
+<td>Sugar Land, TX, United States<br/>Dallas, TX, United States<br/>Knoxville, TN, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/03035459-aca0-4113-8467-36ab807fc072">Software Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Sugar Land, TX, United States</td>
+<td>Sugar Land, TX, United States<br/>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017573">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -69,7 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff35aef6-e7b1-491a-a137-0d790cf65371">Applications Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States</td>
+<td>Sugar Land, TX, United States<br/>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017537">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -83,35 +83,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d0f71818-0b76-4f54-9970-ce8dad9a3530">Data Science Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632">Apply</a></td>
 <td align="center">30 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6f23868b-9bcc-43ab-b055-85589a9da716">Cloud Engineer Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/08390c9b-5110-4f06-b985-56c5632ad9c4">Firmware Engineer Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/57454674-a1b0-4014-8acc-53a8d5768e0b">Product Management Intern (Master's/MBA)</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/26860d8b-4d52-4fe7-b112-a9ccbd36865f">Software Engineer Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Spring, Texas, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>

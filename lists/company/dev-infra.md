@@ -34,35 +34,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a7e951f-072a-45e2-b42c-97d6354f4082">Software Engineering Intern (Summer)</a></td>
-<td>Boston, MA<br/>New York, NY</td>
+<td>Boston, Massachusetts, USA<br/>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Red Hat</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f4de328-aad7-4fbc-8a0c-3463cb9b74bf">Product Manager Intern</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Raleigh, United States of America</td>
 <td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3a703377-81b2-48b8-9a17-9fe156b55f69">Software Engineer Co-op</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Raleigh, United States of America<br/>Lowell</td>
 <td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Co-op_R-059039">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7a4f5667-2466-4624-8e50-c154720771fc">Software Engineer Intern</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Raleigh, United States of America<br/>Lowell<br/>+1 more</td>
 <td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff">Product Management Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>

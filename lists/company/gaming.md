@@ -53,14 +53,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ffb72b4-fb99-4dd9-b25b-faf99588b710">Web Engineer Intern - Tools &amp; Portals</a> 🛂</td>
-<td>London</td>
+<td>London, England, United Kingdom<br/>Novi Sad, Vojvodina, Serbia<br/>Cary<br/>+1 more</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8b70977d-f312-4d88-ab16-83d2178b93db">Engine Programmer Intern - Unreal Engine</a> 🛂</td>
-<td>London</td>
+<td>London, England, United Kingdom<br/>Cary<br/>London, UK</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>

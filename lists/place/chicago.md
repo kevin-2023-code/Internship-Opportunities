@@ -20,14 +20,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/a767aa3e-de81-4868-8d8d-9ecb5c8abb25">Railroad Track Design - Civil Engineering Internship</a></td>
-<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE</td>
+<td>Naperville, IL<br/>Milwaukee, WI<br/>Omaha, NE<br/>+6 more</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5240157007?gh_jid=5240157007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Woolpert</strong></td>
 <td><a href="https://trueinterview.io/jobs/928e12cb-550b-40fb-b1bd-2dc8fda2d099">Site Civil Engineer Intern</a></td>
-<td>Chicago, IL<br/>New York, NY</td>
+<td>Chicago, IL<br/>New York, NY<br/>Charlotte, NC<br/>+11 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4408304009">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -48,14 +48,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e538a86-7c13-4b3d-b30d-fd4efeb68a04">Consulting Engineer I (Intern) - United States</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, Illinois, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Richardson, Texas, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/f4eb7217-51dc-4538-8c4a-e120e0f2ae01">Bridge Design &amp; Structural Engineering Internship</a></td>
-<td>Boston, MA<br/>Chicago, IL</td>
+<td>Chicago, IL<br/>Boston, MA</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5227333007?gh_jid=5227333007">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>

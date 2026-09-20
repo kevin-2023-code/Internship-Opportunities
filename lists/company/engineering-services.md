@@ -27,7 +27,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2ce8f8cd-46f2-4518-a50b-b76b6df8b7f0">Water Resources Engineering Intern- Summer 2027</a></td>
-<td>Atlanta, GA</td>
+<td>Atlanta, GA<br/>Charlotte, NC, United States<br/>Miami, FL, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95770">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -69,14 +69,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/a767aa3e-de81-4868-8d8d-9ecb5c8abb25">Railroad Track Design - Civil Engineering Internship</a></td>
-<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE</td>
+<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE<br/>+6 more</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5240157007?gh_jid=5240157007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Woolpert</strong></td>
 <td><a href="https://trueinterview.io/jobs/928e12cb-550b-40fb-b1bd-2dc8fda2d099">Site Civil Engineer Intern</a></td>
-<td>Chicago, IL<br/>New York, NY</td>
+<td>Chicago, IL<br/>New York, NY<br/>Charlotte, NC<br/>+11 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4408304009">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -153,14 +153,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/874dc8b8-0da2-4ba9-a83c-f0c8912c41c8">Co-op Student, Civil Engineering - Aviation</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93659">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/54473d49-94a3-401b-a13e-219d9e1bc9cd">Transportation Engineering - Roadway/Highway Design Internship</a></td>
-<td>Atlanta, GA</td>
+<td>Atlanta, GA<br/>Augusta, GA</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5227637007?gh_jid=5227637007">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -230,14 +230,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/586f68b9-9f7f-44d9-ad16-d2299dbc17dd">Engineering Internship - Water Resources</a></td>
-<td>Denver, CO</td>
+<td>Denver, CO<br/>Overland Park, KS<br/>Springfield, MO<br/>+6 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5395530008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/63e319c4-d2ac-4fe7-8be3-121bf35e6839">Engineering Internship - Water/Wastewater</a></td>
-<td>Denver, CO</td>
+<td>Denver, CO<br/>Fayetteville, AR<br/>Phoenix, AZ<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5397436008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -272,14 +272,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5db30053-e87e-4e23-bbc0-39ec7c23ee7a">Civil Engineering Internship - Traffic &amp; Technology</a></td>
-<td>Denver, CO</td>
+<td>Denver, CO<br/>Overland Park, KS<br/>Oklahoma City, OK<br/>+3 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405819008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a04670c1-81dc-4d4b-b672-837e5e182ae9">Civil Engineering Internship - Roadway</a></td>
-<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)</td>
+<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)<br/>+7 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405885008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -300,7 +300,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9ec5513-da89-4b4b-8741-185b353d74c6">Intern, Civil Engineering</a></td>
-<td>Vancouver, BC</td>
+<td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93760">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>

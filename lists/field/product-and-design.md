@@ -27,7 +27,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/261d9df6-33af-405a-8a04-d2d05d0a833a">Product Management Intern (Winter 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York<br/>Gemini North America</td>
 <td align="center"><a href="https://boards.greenhouse.io/embed/job_app?for=gemini&amp;token=8214332&amp;gh_jid=8214332">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -69,21 +69,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/adfddf3b-0a30-40a9-a7cf-0953d00cdf3a">Summer 2027: Product Design Intern</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-product-design-intern/27595/100620927648">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4009830-1342-4462-a1b0-ea9af774ccd4">Technical Program Manager Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/80582381009806022-technical-program-manager-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0042e256-0dc0-42ec-b90e-2433f7460c00">User Experience Design Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/100798001798095558-user-experience-design-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -104,14 +104,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6f1c934a-d79a-420a-a194-61f34104926c">User Experience Research Intern, MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fbf3b3be-850f-4227-a416-1c2d74df68ee">User Experience Research Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/137409539979780806-user-experience-research-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -174,7 +174,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/ccc3c8c5-4d61-49de-86bb-4dd25080db83">UX Research Intern (Summer 2027)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -202,7 +202,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Immuta</strong></td>
 <td><a href="https://trueinterview.io/jobs/8341fc9b-8e04-48d8-8825-4f852964eb78">UX Designer Internship - Summer 2027</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>College Park, MD<br/>Columbus, OH</td>
 <td align="center"><a href="https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -237,7 +237,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Red Hat</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f4de328-aad7-4fbc-8a0c-3463cb9b74bf">Product Manager Intern</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Raleigh, United States of America</td>
 <td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -265,7 +265,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/57454674-a1b0-4014-8acc-53a8d5768e0b">Product Management Intern (Master's/MBA)</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -279,7 +279,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Sleeper</strong></td>
 <td><a href="https://trueinterview.io/jobs/881db603-f7fc-417e-b308-cda01ffef39c">Product Design Intern</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/40410c1f-b0f1-476a-9693-dbc11c1c5aa2/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -293,21 +293,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bci Brands</strong></td>
 <td><a href="https://trueinterview.io/jobs/42ee0fe3-bb37-436c-ac3c-8562c435e3bd">Sweater Design INTERN</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/vEMEHjr1EAEucEyDVgsksX/sweater-design-intern-in-new-york-at-bci-brands">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff">Product Management Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>

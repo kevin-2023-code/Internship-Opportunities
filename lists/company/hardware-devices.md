@@ -90,7 +90,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/532b3cd7-e568-4cc4-b52e-524a73be1110">Security Research Engineer I (Intern) - United States</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>RTP, North Carolina, US, United States of America<br/>Austin, Texas, United States of America<br/>+2 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Research-Engineer-I--Intern----United-States_2025886">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -139,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b">Hardware Engineer PhD (Intern) - United States</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, California, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -300,7 +300,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e538a86-7c13-4b3d-b30d-fd4efeb68a04">Consulting Engineer I (Intern) - United States</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, Illinois, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Richardson, Texas, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
@@ -377,35 +377,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0f71818-0b76-4f54-9970-ce8dad9a3530">Data Science Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632">Apply</a></td>
 <td align="center">30 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6f23868b-9bcc-43ab-b055-85589a9da716">Cloud Engineer Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/08390c9b-5110-4f06-b985-56c5632ad9c4">Firmware Engineer Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/57454674-a1b0-4014-8acc-53a8d5768e0b">Product Management Intern (Master's/MBA)</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/26860d8b-4d52-4fe7-b112-a9ccbd36865f">Software Engineer Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -433,21 +433,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Freeform</strong></td>
 <td><a href="https://trueinterview.io/jobs/264a254b-bb36-4fbe-b544-59335f092a38">Materials Engineer Intern</a> 🛂</td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters<br/>LA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f4a37b21-48b6-48ec-b8ee-952013ba219d">Manufacturing Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dd519dac-4cb3-45d7-88d4-a0538c515d94">Process Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
@@ -487,14 +487,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
-<td>Dublin</td>
+<td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b380af4f-9ded-4bb7-8b2a-2ec8006b2a88">Software Engineer Intern 2026/2027</a></td>
-<td>Dublin</td>
+<td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>

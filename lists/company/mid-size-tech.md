@@ -55,7 +55,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8341fc9b-8e04-48d8-8825-4f852964eb78">UX Designer Internship - Summer 2027</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>College Park, MD<br/>Columbus, OH</td>
 <td align="center"><a href="https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -111,7 +111,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/7585506f-04c5-4406-936d-a441050c2c68">Data Science Intern</a> 🛂</td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>

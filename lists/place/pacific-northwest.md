@@ -48,14 +48,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bdfbdba-c7bc-4044-9253-14ae4fa66c17">Equipment Engineering Intern</a></td>
-<td>US, OR, Beaverton<br/>US, WA, Camas<br/>US, MA, Chelmsford, Alpha</td>
+<td>US, OR, Beaverton, United States of America<br/>US, WA, Camas<br/>US, MA, Chelmsford, Alpha</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88">System Technology Research Engineer - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -76,14 +76,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
-<td>Austin, TX</td>
+<td>Boise, ID<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d">Ph.D. Intern - Silicon Photonics &amp; Optical Communications</a></td>
-<td>Austin, TX</td>
+<td>Boise, ID<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -118,56 +118,56 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/29f8c289-d129-4e5b-b70d-8fab61380a4d">Physical Design Engineer Intern, BS - Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>Boise, ID<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1ec26877-672e-4345-aada-874ebcdf3ce2">Physical Design Engineer Intern, MS - Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>Boise, ID<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/24b44a17-6d1b-4c44-9de4-91e3f2905119">Platform Hardware and Systems Engineering - Intern, Bachelor’s</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/29030612-477b-4b6d-8bf6-49454f4facb1">Platform Hardware and Systems Engineering - Intern, Graduate</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1fcbdfbf-33cd-4b15-84f4-680a1cd54490">Silicon Hardware Engineering - Intern, Bachelor’s</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f887d510-4962-4f80-937c-dc887a24df60">Silicon Hardware Engineering - Intern, Graduate</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d96160ae-028e-4079-86b4-9654fe179b6c">Software Engineering - Intern, Bachelor’s</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8fdef149-3186-44da-b1f1-73998cc6c297">Software Engineering - Intern, Graduate</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -230,7 +230,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
-<td>US, MA, Wilmington<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
+<td>US, OR, Beaverton<br/>US, MA, Wilmington, United States of America<br/>US, MA, Chelmsford, Alpha</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>

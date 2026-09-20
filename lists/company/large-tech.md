@@ -27,7 +27,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Rubrik</strong></td>
 <td><a href="https://trueinterview.io/jobs/a41d6358-6647-467f-92a7-ca84dd48dfc6">Software Engineering Winter Internship</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA HQ Office</td>
 <td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -55,28 +55,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/87b07972-e202-44c5-9d19-074b932c10b1">Software Engineering Intern, Android (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&amp;gh_jid=8142961">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/60c5fea1-856c-484d-8805-1eaaec977518">Software Engineering Intern, Backend (Summer 2027)</a></td>
-<td>Bellevue, WA<br/>New York, NY</td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e9f57cb7-9167-4fa7-9a71-ead8560f6e26">Software Engineering Intern, Web (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&amp;gh_jid=8142963">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -90,35 +90,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/15445053-6c9a-46bc-b8b0-27ff4e49edae">IC Validation Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA<br/>Irvine, CA<br/>Westlake Village, CA</td>
+<td>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>Westlake Village, CA</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/65bb4f66-47c0-4b9d-b301-9906cd87e515">Software Engineer Intern, Machine Learning (Summer 2027)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Coworking</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d880325d-f12a-4a6f-8625-a1e32d8fb14e">Data Analyst Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York Office<br/>New York, New York, United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ccc3c8c5-4d61-49de-86bb-4dd25080db83">UX Research Intern (Summer 2027)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
+<td>San Francisco, California, United States<br/>New York, NY</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -139,21 +139,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d">Ph.D. Intern - Silicon Photonics &amp; Optical Communications</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Tanium</strong></td>
 <td><a href="https://trueinterview.io/jobs/3077f168-da4a-4324-9311-7fb93aff60d3">Technical Support Engineer (TSE) Intern</a></td>
-<td>Bellevue, WA (hybrid)</td>
+<td>Bellevue, WA (Hybrid)<br/>Emeryville, CA (Hybrid)<br/>Addison, TX Office<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8189328">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
@@ -223,7 +223,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a7e951f-072a-45e2-b42c-97d6354f4082">Software Engineering Intern (Summer)</a></td>
-<td>Boston, MA<br/>New York, NY</td>
+<td>Boston, Massachusetts, USA<br/>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -272,14 +272,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/29f8c289-d129-4e5b-b70d-8fab61380a4d">Physical Design Engineer Intern, BS - Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Morrisville, NC<br/>+4 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1ec26877-672e-4345-aada-874ebcdf3ce2">Physical Design Engineer Intern, MS - Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Morrisville, NC<br/>+4 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -293,7 +293,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3851349-2e41-4eac-9ad4-44341d34b7f5">Software Engineer, Intern (Summer or Winter)</a></td>
-<td>Toronto, ON<br/>London<br/>San Francisco, CA</td>
+<td>Toronto, ON<br/>London<br/>San Francisco, CA<br/>+5 more</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8130805">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -328,7 +328,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff">Product Management Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
@@ -354,14 +354,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
-<td>Dublin</td>
+<td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b380af4f-9ded-4bb7-8b2a-2ec8006b2a88">Software Engineer Intern 2026/2027</a></td>
-<td>Dublin</td>
+<td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -375,42 +375,42 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/8461aa32-7a8f-4c7c-b372-98a3ce297201">Software Engineer Intern, Frontend (Summer 2027)</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico<br/>Flex - Mexico</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico<br/>Flex - Mexico<br/>San Francisco, CA</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Toast, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ddd6196-bd67-47a0-9c4c-802a4f483234">Software Engineering Intern</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ffb72b4-fb99-4dd9-b25b-faf99588b710">Web Engineer Intern - Tools &amp; Portals</a> 🛂</td>
-<td>London</td>
+<td>London, England, United Kingdom<br/>Novi Sad, Vojvodina, Serbia<br/>Cary<br/>+1 more</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004">Apply</a></td>
 <td align="center">29 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8b70977d-f312-4d88-ab16-83d2178b93db">Engine Programmer Intern - Unreal Engine</a> 🛂</td>
-<td>London</td>
+<td>London, England, United Kingdom<br/>Cary<br/>London, UK</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Esri</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b8dccd5-7a65-4cf0-b38c-4ed2833392d0">Product Engineering Internship - Survey123</a></td>
-<td>Melbourne</td>
+<td>Melbourne, AU</td>
 <td align="center"><a href="https://www.esri.com/careers/5204881007?gh_jid=5204881007">Apply</a></td>
 <td align="center">6 Aug 2026</td>
 </tr>

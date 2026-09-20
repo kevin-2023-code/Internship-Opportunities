@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/02910d73-4127-4f8d-99a4-0c4c2abb863c">Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -34,35 +34,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ae995cdf-f856-4d43-99bb-35ffebbebe1e">Hardware Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3b02f0e9-6bfd-4032-bd07-f0192e29e825">Hardware Engineering Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f0db4b16-6d87-4d21-bc73-f65ee6c6d1ea">Product Design Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8e24cadf-a338-42bf-8837-9726076859e4">Security Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/76021b46-253e-4839-8409-b13e30bbd044">Silicon Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Sunnyvale, CA</td>
+<td>Sunnyvale, CA<br/>Madison, WI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -76,14 +76,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b4009830-1342-4462-a1b0-ea9af774ccd4">Technical Program Manager Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/80582381009806022-technical-program-manager-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0042e256-0dc0-42ec-b90e-2433f7460c00">User Experience Design Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/100798001798095558-user-experience-design-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -104,35 +104,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6f1c934a-d79a-420a-a194-61f34104926c">User Experience Research Intern, MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fbf3b3be-850f-4227-a416-1c2d74df68ee">User Experience Research Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/137409539979780806-user-experience-research-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/67887952-1555-413b-b3d0-83db67838cd5">Business Data Scientist Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6bd20267-6820-45a4-90d6-d14c29ff9a4e">Data Scientist, Product Intern, MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fafcf856-8bd3-4d08-8772-a071199517c2">Data Scientist, Research Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -160,7 +160,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Newsbreak</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3617224-f501-4c5a-9507-ba0854fcf862">Nearby AI Internship Program - Engineering Track</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, California, United States<br/>Mountain View Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -174,7 +174,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Sleeper</strong></td>
 <td><a href="https://trueinterview.io/jobs/881db603-f7fc-417e-b308-cda01ffef39c">Product Design Intern</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/40410c1f-b0f1-476a-9693-dbc11c1c5aa2/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -195,7 +195,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4683b7ef-4baa-4efd-88a6-c1794443aaa0">Machine Learning/AI Scientist PhD Intern, Winter 2027</a></td>
-<td>Los Angeles, CA</td>
+<td>Los Angeles, California, United States of America<br/>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317916733">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>

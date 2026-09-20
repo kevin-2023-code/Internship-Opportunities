@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Gemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/261d9df6-33af-405a-8a04-d2d05d0a833a">Product Management Intern (Winter 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York<br/>Gemini North America</td>
 <td align="center"><a href="https://boards.greenhouse.io/embed/job_app?for=gemini&amp;token=8214332&amp;gh_jid=8214332">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -48,7 +48,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4009830-1342-4462-a1b0-ea9af774ccd4">Technical Program Manager Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/80582381009806022-technical-program-manager-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -90,7 +90,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Red Hat</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f4de328-aad7-4fbc-8a0c-3463cb9b74bf">Product Manager Intern</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Raleigh, United States of America</td>
 <td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Product-Manager-Intern_R-059060">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -104,21 +104,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/57454674-a1b0-4014-8acc-53a8d5768e0b">Product Management Intern (Master's/MBA)</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff">Product Management Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>

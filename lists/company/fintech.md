@@ -20,28 +20,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/87b07972-e202-44c5-9d19-074b932c10b1">Software Engineering Intern, Android (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&amp;gh_jid=8142961">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/60c5fea1-856c-484d-8805-1eaaec977518">Software Engineering Intern, Backend (Summer 2027)</a></td>
-<td>Bellevue, WA<br/>New York, NY</td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e9f57cb7-9167-4fa7-9a71-ead8560f6e26">Software Engineering Intern, Web (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&amp;gh_jid=8142963">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -125,7 +125,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3851349-2e41-4eac-9ad4-44341d34b7f5">Software Engineer, Intern (Summer or Winter)</a></td>
-<td>Toronto, ON<br/>London<br/>San Francisco, CA</td>
+<td>Toronto, ON<br/>London<br/>San Francisco, CA<br/>+5 more</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8130805">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -158,7 +158,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Toast, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ddd6196-bd67-47a0-9c4c-802a4f483234">Software Engineering Intern</a></td>
-<td>Dublin</td>
+<td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>

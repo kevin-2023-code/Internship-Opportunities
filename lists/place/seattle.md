@@ -20,35 +20,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/6ded744d-101c-41cd-9844-9add22fd0839">Software Development Engineer Internship - Summer -2027 (USA)</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Grammarly</strong></td>
 <td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
-<td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
+<td>Hub - Seattle<br/>Hub - San Francisco<br/>Hub - New York</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/afb11c5f-019c-45c9-8008-bd6b1eb5d1c4">Software Engineer, Intern (Summer 2027) - US</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/6734561e-53d6-4616-8766-cc58cfc5ca13">Software Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
+<td>Remote — United States<br/>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Robinhood</strong></td>
 <td><a href="https://trueinterview.io/jobs/60c5fea1-856c-484d-8805-1eaaec977518">Software Engineering Intern, Backend (Summer 2027)</a></td>
-<td>Bellevue, WA<br/>New York, NY</td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&amp;gh_jid=8123225">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
@@ -69,42 +69,42 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/241d22c0-2807-4adc-b279-b37ef72a8094">Field Applications Engineering Intern (Dallas, TX)</a></td>
-<td>Austin, TX<br/>Bellevue, WA</td>
+<td>Bellevue, WA<br/>Austin, TX<br/>Dallas, TX, United States<br/>+3 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013813">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Tanium</strong></td>
 <td><a href="https://trueinterview.io/jobs/3077f168-da4a-4324-9311-7fb93aff60d3">Technical Support Engineer (TSE) Intern</a></td>
-<td>Bellevue, WA (hybrid)</td>
+<td>Bellevue, WA (Hybrid)<br/>Emeryville, CA (Hybrid)<br/>Addison, TX Office<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8189328">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1b0ae40-612d-45db-ada2-91d14b1b5999">Business Strategy &amp; Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )</a></td>
-<td>Bellevue, WA</td>
+<td>Bellevue, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/0038eb77-681e-48a2-a47f-dc2159952d91">Summer 2027 Intern - Software Engineer</a></td>
-<td>California - San Francisco<br/>California - Palo Alto<br/>New York - New York</td>
+<td>Washington - Seattle<br/>Washington - Bellevue<br/>California - San Francisco, United States of America<br/>+5 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Xaira Therapeutics</strong></td>
 <td><a href="https://trueinterview.io/jobs/8af436f3-290d-4bc7-bdf1-8891f766ba4a">AI Scientist Intern, Computational Protein Design</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, United States<br/>Seattle/SF Bay Area<br/>South San Francisco, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sleeper</strong></td>
 <td><a href="https://trueinterview.io/jobs/881db603-f7fc-417e-b308-cda01ffef39c">Product Design Intern</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sleeper/40410c1f-b0f1-476a-9693-dbc11c1c5aa2/application">Apply</a></td>
 <td align="center">21 Aug 2026</td>
 </tr>
@@ -118,35 +118,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed0ac079-7781-4c58-8cc4-886da257b4c9">Summer 2027 Silicon Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Irvine, California, United States<br/>Palo Alto - 1200</td>
+<td>Redmond, WA, United States<br/>Flexible - Any SpaceX Site<br/>Irvine, California, United States<br/>+8 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8495bc11-bbf8-4233-9c2b-94e12f0a7178">Summer 2027 Software Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Cape Canaveral, FL, United States</td>
+<td>Redmond, WA, United States<br/>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>+6 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a95cc452-d943-48c1-8516-7ac873348446">Summer 2027 Graduate Engineer Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States</td>
+<td>Redmond, WA, United States<br/>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>+10 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7dfe1ec1-c245-481f-8d90-654977e4a0ec">Summer 2027 Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States</td>
+<td>Redmond, WA, United States<br/>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>+10 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
 </tr>

@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/6ded744d-101c-41cd-9844-9add22fd0839">Software Development Engineer Internship - Summer -2027 (USA)</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
@@ -34,35 +34,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/afb11c5f-019c-45c9-8008-bd6b1eb5d1c4">Software Engineer, Intern (Summer 2027) - US</a></td>
-<td>New York, NY<br/>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td>New York, NY<br/>San Francisco, CA<br/>Sunnyvale, CA<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/65bb4f66-47c0-4b9d-b301-9906cd87e515">Software Engineer Intern, Machine Learning (Summer 2027)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Coworking</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d880325d-f12a-4a6f-8625-a1e32d8fb14e">Data Analyst Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York Office<br/>New York, New York, United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ccc3c8c5-4d61-49de-86bb-4dd25080db83">UX Research Intern (Summer 2027)</a></td>
-<td>Toronto, ON</td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
+<td>San Francisco, California, United States<br/>New York, NY</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -83,7 +83,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a1b0ae40-612d-45db-ada2-91d14b1b5999">Business Strategy &amp; Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )</a></td>
-<td>Bellevue, WA</td>
+<td>Bellevue, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -97,7 +97,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dff84165-8e92-42f2-97cf-d03eec855532">System Dev Engineer I Co-op (Robotics), Autonomous AI Security</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -118,7 +118,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>
@@ -139,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -165,14 +165,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/8461aa32-7a8f-4c7c-b372-98a3ce297201">Software Engineer Intern, Frontend (Summer 2027)</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico<br/>Flex - Mexico</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
-<td>Mexico City</td>
+<td>Mexico City, Mexico<br/>Flex - Mexico<br/>San Francisco, CA</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>

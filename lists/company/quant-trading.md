@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
@@ -48,7 +48,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hudson River Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/be4cbf49-a48f-4671-9eee-4433025d8cb0">Hardware Engineer Internship - Summer 2027</a></td>
-<td>New York, NY</td>
+<td>New York, NY<br/>New York City</td>
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -67,7 +67,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>
-<td>London</td>
+<td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8187178">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>

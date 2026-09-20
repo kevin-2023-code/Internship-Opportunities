@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64">Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>San Diego, CA, US<br/>Austin, TX<br/>Boxborough, MA, US<br/>+2 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740649">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -48,14 +48,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/77828b14-2c53-46d2-a77c-8ff25eb9cefe">Machine Learning &amp; Artificial Intelligence Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX<br/>New York, NY</td>
+<td>San Diego, CA, US<br/>Austin, TX<br/>New York, NY<br/>+4 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740525">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9">Mechanical Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>San Diego, CA, US<br/>Austin, TX<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741704">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -83,7 +83,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US</td>
+<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US<br/>+1 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -97,28 +97,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60">Software Engineering Internship - Summer 2027</a></td>
-<td>Austin, TX<br/>New York, NY</td>
+<td>San Diego, CA, US<br/>Austin, TX<br/>New York, NY<br/>+5 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740529">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0982926c-1b41-49e8-b2a8-63051fc38acc">Wireless Systems Engineering Internship - Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>NJ, US</td>
+<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>NJ, US<br/>+1 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740637">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/95a295da-6e3e-435d-a8b2-a9a34ebc477b">Design Evaluation Engineer Intern</a></td>
-<td>US, MA, Wilmington<br/>US, CA, San Diego, Avenue of Science<br/>US, NC, Durham</td>
+<td>US, CA, San Diego, Avenue of Science<br/>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Design-Evaluation-Engineer-Intern_R266128">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b">Hardware Engineer PhD (Intern) - United States</a></td>
-<td>San Jose, CA</td>
+<td>Carlsbad, California, United States of America<br/>San Jose, California, United States of America<br/>San Jose, California, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>

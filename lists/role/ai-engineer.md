@@ -34,14 +34,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9afebbd-7396-4bce-8d52-ebcb04692e64">SAP iXp Intern - Full-Stack AI Developer</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Full-Stack-AI-Developer-CA-94304/1425371233/">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc">2027 PhD AI Model Optimization &amp; Software Engineer Intern/Co-op</a></td>
-<td>US, CA, San Jose<br/>US, TX, Austin<br/>San Jose, California, United States</td>
+<td>US, CA, San Jose<br/>US, TX, Austin<br/>San Jose, California, United States<br/>+2 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92522?lang=en-us">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -69,7 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Newsbreak</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3617224-f501-4c5a-9507-ba0854fcf862">Nearby AI Internship Program - Engineering Track</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, California, United States<br/>Mountain View Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -97,7 +97,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/dff84165-8e92-42f2-97cf-d03eec855532">System Dev Engineer I Co-op (Robotics), Autonomous AI Security</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>Austin, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -111,7 +111,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Xaira Therapeutics</strong></td>
 <td><a href="https://trueinterview.io/jobs/8af436f3-290d-4bc7-bdf1-8891f766ba4a">AI Scientist Intern, Computational Protein Design</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, Washington, United States<br/>South San Francisco, California, United States<br/>Seattle/SF Bay Area</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>

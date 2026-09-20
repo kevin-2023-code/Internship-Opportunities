@@ -53,7 +53,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>
-<td>London</td>
+<td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8187178">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
@@ -67,14 +67,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/6efd5e0e-9584-437e-bb6e-43157f1866b3">2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c3b4dd4f-5c0f-441b-83cc-f025f975634c">2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London</a></td>
-<td>London</td>
+<td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>

@@ -27,7 +27,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/04896d82-fad3-457c-afd5-238e0d807ca9">2027 Summer Intern, MS/PhD, Software Engineer, Multiverse</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, California, USA</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8214519">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -48,7 +48,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/73834623-cf72-4546-9c0c-c49c5363eb40">Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2027</a></td>
-<td>Zurich</td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>

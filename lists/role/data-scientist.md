@@ -20,28 +20,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/67887952-1555-413b-b3d0-83db67838cd5">Business Data Scientist Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6bd20267-6820-45a4-90d6-d14c29ff9a4e">Data Scientist, Product Intern, MS, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fafcf856-8bd3-4d08-8772-a071199517c2">Data Scientist, Research Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA</td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
+<td>San Francisco, California, United States<br/>New York, NY</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -83,14 +83,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0f71818-0b76-4f54-9970-ce8dad9a3530">Data Science Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632">Apply</a></td>
 <td align="center">30 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/7585506f-04c5-4406-936d-a441050c2c68">Data Science Intern</a> 🛂</td>
-<td>San Francisco, CA</td>
+<td>San Francisco, California<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>

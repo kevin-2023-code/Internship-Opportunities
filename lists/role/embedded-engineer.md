@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/537a9432-c94c-49c9-8a39-d5531bd6aa3b">Embedded Software Engineer Intern</a></td>
-<td>US, MA, Wilmington<br/>US, CA, San Jose, Rio Robles<br/>US, NC, Durham</td>
+<td>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
@@ -62,7 +62,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/08390c9b-5110-4f06-b985-56c5632ad9c4">Firmware Engineer Intern</a></td>
-<td>Sunnyvale, CA<br/>San Jose, CA</td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
@@ -76,7 +76,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30cb68b6-f9c0-4c8e-9d8f-eb0f78b12a21">2027 Masters Firmware Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States</td>
+<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States<br/>+5 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90805?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
@@ -90,7 +90,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c1d82505-4b00-43ab-9941-9e92f875c12c">2027 Undergrad Firmware Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States</td>
+<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States<br/>+5 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90801?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>

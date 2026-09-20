@@ -20,21 +20,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64">Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX</td>
+<td>Tempe, AZ, US<br/>Austin, TX<br/>San Diego, CA, US<br/>+2 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740649">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US</td>
+<td>Tempe, AZ, US<br/>San Diego, CA, US<br/>Irvine, CA, US<br/>+1 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60">Software Engineering Internship - Summer 2027</a></td>
-<td>Austin, TX<br/>New York, NY</td>
+<td>Tempe, AZ, US<br/>Austin, TX<br/>New York, NY<br/>+5 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740529">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
@@ -62,140 +62,140 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
-<td>Austin, TX</td>
+<td>Chandler, AZ<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d">Ph.D. Intern - Silicon Photonics &amp; Optical Communications</a></td>
-<td>Austin, TX</td>
+<td>Chandler, AZ<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Nox Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4d70df6-e608-4bca-9f1b-56716cf70666">FIELD ENGINEER - INTERN</a></td>
-<td>Austin, TX</td>
+<td>Phoenix, Arizona, United States<br/>Austin, TX<br/>Harlingen, Texas, United States<br/>+5 more</td>
 <td align="center"><a href="https://noxgroup.us/careers/?gh_jid=5418745008">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e4931f3-a3ff-4a5d-b4de-aaa0012a0336">Product Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Knoxville, TN, United States</td>
+<td>Tucson, AZ, United States<br/>Phoenix, AZ, United States<br/>Dallas, TX, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017579">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/33445106-7db8-4b06-9fd1-db6b86d9dd61">Test or Validation Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Knoxville, TN, United States</td>
+<td>Tucson, AZ, United States<br/>Phoenix, AZ, United States<br/>Dallas, TX, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017578">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/24b44a17-6d1b-4c44-9de4-91e3f2905119">Platform Hardware and Systems Engineering - Intern, Bachelor’s</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/29030612-477b-4b6d-8bf6-49454f4facb1">Platform Hardware and Systems Engineering - Intern, Graduate</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1fcbdfbf-33cd-4b15-84f4-680a1cd54490">Silicon Hardware Engineering - Intern, Bachelor’s</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f887d510-4962-4f80-937c-dc887a24df60">Silicon Hardware Engineering - Intern, Graduate</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d96160ae-028e-4079-86b4-9654fe179b6c">Software Engineering - Intern, Bachelor’s</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8fdef149-3186-44da-b1f1-73998cc6c297">Software Engineering - Intern, Graduate</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Folsom<br/>US, California, Santa Clara</td>
+<td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/924ef01c-4b81-4116-b6fe-cd3dfc87e200">Analog IC Design Engineering Intern - Bachelors</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td>Tucson, AZ, United States<br/>Phoenix, AZ, United States<br/>Dallas, TX, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017543">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/05e927d3-4e3e-4587-a5c9-d2856a4f4430">Analog IC Design Engineering Intern - MS/PhD</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td>Tucson, AZ, United States<br/>Phoenix, AZ, United States<br/>Dallas, TX, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017544">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ff35aef6-e7b1-491a-a137-0d790cf65371">Applications Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States</td>
+<td>Tucson, AZ, United States<br/>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017537">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3f055774-54cb-4233-8fe5-94f071743a30">Design Verification Engineering Intern - Bachelors</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
+<td>Phoenix, AZ, United States<br/>Dallas, TX, United States<br/>Knoxville, TN, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017545">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/81bd6d1a-e04f-4d49-bf0d-48ac263a4853">Design Verification Engineering Intern - MS/PhD</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
+<td>Phoenix, AZ, United States<br/>Dallas, TX, United States<br/>Knoxville, TN, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017546">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2716e4cd-4d2d-4286-a3b1-f7de9286a9f3">Digital IC Design Engineering Intern - Bachelors</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td>Tucson, AZ, United States<br/>Dallas, TX, United States<br/>Knoxville, TN, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017547">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b">Digital IC Design Engineering Intern - MS/PhD</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td>Tucson, AZ, United States<br/>Dallas, TX, United States<br/>Knoxville, TN, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017548">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4b523496-80fb-4d50-91b6-e5fe6a049a8b">Quality Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Lehi, UT, United States</td>
+<td>Tucson, AZ, United States<br/>Dallas, TX, United States<br/>Lehi, UT, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017572">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Olsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/63e319c4-d2ac-4fe7-8be3-121bf35e6839">Engineering Internship - Water/Wastewater</a></td>
-<td>Denver, CO</td>
+<td>Phoenix, AZ<br/>Denver, CO<br/>Fayetteville, AR<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5397436008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
@@ -209,7 +209,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Nextiva</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ddb30d4-cd6e-4a4f-ad00-49ffa263efb9">Marketing Intern - Data Science</a> 🛂</td>
-<td>Scottsdale, Onsite<br/>Scottsdale, AZ</td>
+<td>Scottsdale, AZ<br/>Scottsdale, Onsite</td>
 <td align="center"><a href="https://www.nextiva.com/company/careers-listing?gh_jid=8687999002">Apply</a></td>
 <td align="center">19 Aug 2026</td>
 </tr>
