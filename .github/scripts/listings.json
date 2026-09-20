@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "fetchedAt": "2026-09-20T00:00:42.997Z",
-  "count": 566,
+  "fetchedAt": "2026-09-20T05:35:58.433Z",
+  "count": 565,
   "listings": [
     {
       "id": "792890da-3e3d-45bf-89c3-f967a1756bd8",
@@ -6827,32 +6827,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
       "url": "https://trueinterview.io/jobs/663152ab-89f1-4e35-a6db-1808bdc8640c",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "c5cd65f2-3aa2-441f-b17a-94303ee1279c",
-      "company": "Marvell Technology",
-      "title": "Test Solutions Engineering Intern, BS - Summer 2027",
-      "locations": [
-        "Burlington, VT",
-        "Burlington, VT, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835",
-      "url": "https://trueinterview.io/jobs/c5cd65f2-3aa2-441f-b17a-94303ee1279c",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },

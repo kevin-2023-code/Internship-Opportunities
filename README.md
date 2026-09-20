@@ -12,11 +12,11 @@ disappears from the list on the next run instead of wasting your afternoon.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 00:00 UTC_
+_Last updated: 2026-09-20 05:35 UTC_
 
-### Browse 524 internships by category
+### Browse 523 internships by category
 
-💻 **[Software Engineering](#-software-engineering)** (316)
+💻 **[Software Engineering](#-software-engineering)** (315)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (51)
 
@@ -220,7 +220,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/a5ccb61e-fce5-4722-89c4-69c192970bce">Power Backend Developer Intern - Rochester, MN &amp; Austin, TX - 2027</a> 🆕</td>
 <td>Multiple Cities, United States</td>
 <td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130787">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -385,10 +385,10 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/c73d4279-a928-46f8-bdcc-a6ce291fe388">Summer 2027 - Systems Engineering Internship</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/c73d4279-a928-46f8-bdcc-a6ce291fe388">Summer 2027 - Systems Engineering Internship</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/556369b7-a017-4d0d-8e3b-97ec210be0d5/apply">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -871,7 +871,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/ab31b4f3-af81-4765-a488-45fa864457a9">Engineer Summer Intern - #3056</a></td>
 <td>Tampa, FL<br/>Taylor, MI</td>
 <td align="center"><a href="https://jobs.lever.co/wadetrim/9ccebcf4-4ad1-4328-a823-216ffee64284/apply">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -1011,13 +1011,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/663152ab-89f1-4e35-a6db-1808bdc8640c">Software Research Engineering - (PhD Intern)</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019">Apply</a></td>
-<td align="center">11d</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5cd65f2-3aa2-441f-b17a-94303ee1279c">Test Solutions Engineering Intern, BS - Summer 2027</a></td>
-<td>Burlington, VT, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/Test-Solutions-Engineering-Intern--BS---Summer-2027_2603835">Apply</a></td>
 <td align="center">11d</td>
 </tr>
 <tr>
@@ -2578,6 +2571,17 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center"><a href="https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d/application">Apply</a></td>
 <td align="center">29d</td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>Show 9 more Data, AI & Machine Learning roles posted earlier</summary>
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
+</thead>
+<tbody>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/33f8f8d6-4234-49c3-a97e-c8835d560853">Research Scientist Intern, Optical System Design (PhD)</a></td>
@@ -2592,17 +2596,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>Show 7 more Data, AI & Machine Learning roles posted earlier</summary>
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
-</thead>
-<tbody>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef7622d7-76d1-4f06-9987-ffa45f4ca598">2027 Masters Data Analyst Intern/co-op</a></td>
@@ -3252,7 +3245,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/40c1ad56-150a-44b9-bada-8d0543a43c6a">Electrical Engineering Co-Op</a></td>
 <td>San Francisco - SF9</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118">Apply</a></td>
-<td align="center">19d</td>
+<td align="center">20d</td>
 </tr>
 <tr>
 <td><strong>Panasonic</strong></td>
