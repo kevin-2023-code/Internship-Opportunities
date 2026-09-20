@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:05 UTC_
+_Last updated: 2026-09-20 19:16 UTC_
 
 **42 open internships** from **28 employers** · **8 posted in the last 7 days** · refreshed hourly
 
@@ -255,7 +255,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-[All 24 on one page →](lists/field/software-engineering.md)
+[Every Software Engineering role, both regions →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -276,7 +276,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tbody>
 </table>
 
-[All 1 on one page →](lists/field/data-ai-and-machine-learning.md)
+[Every Data, AI & Machine Learning role, both regions →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -331,7 +331,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-[All 4 on one page →](lists/field/hardware-and-engineering.md)
+[Every Hardware & Engineering role, both regions →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -387,7 +387,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tbody>
 </table>
 
-[All 6 on one page →](lists/field/product-and-design.md)
+[Every Product & Design role, both regions →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -443,7 +443,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tbody>
 </table>
 
-[All 6 on one page →](lists/field/quantitative-finance.md)
+[Every Quantitative Finance role, both regions →](lists/field/quantitative-finance.md)
 
 ## 🧰 IT & Support
 
@@ -464,7 +464,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tbody>
 </table>
 
-[All 1 on one page →](lists/field/it-and-support.md)
+[Every IT & Support role, both regions →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 

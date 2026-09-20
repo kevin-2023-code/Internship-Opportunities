@@ -31,7 +31,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:14 UTC_
+_Last updated: 2026-09-20 19:16 UTC_
 
 **523 open internships** from **147 employers** · **171 posted in the last 7 days** · refreshed hourly
 
@@ -1323,7 +1323,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tbody>
 </table>
 
-[All 1 on one page →](lists/field/quantitative-finance.md)
+[Every Quantitative Finance role, both regions →](lists/field/quantitative-finance.md)
 
 ## 🧰 IT & Support
 
@@ -1379,7 +1379,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tbody>
 </table>
 
-[All 6 on one page →](lists/field/it-and-support.md)
+[Every IT & Support role, both regions →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---
