@@ -10,11 +10,19 @@ disappears from the list on the next run instead of wasting your afternoon.
 > 🎓 **Graduating instead?** → [New-Grad-Opportunities](https://github.com/kevin-2023-code/New-Grad-Opportunities)
 > 📬 **Want these in your inbox?** TrueInterview mails a digest of new roles matching your search — [set it up here](https://trueinterview.io/applications/jobs).
 
+[**🔎 Filters**](./lists/README.md) &nbsp;·&nbsp; [**🇺🇸🇨🇦 The US & Canada list**](./README.md) &nbsp;·&nbsp; [**🎓 New grad roles**](https://github.com/kevin-2023-code/New-Grad-Opportunities) &nbsp;·&nbsp; [**📝 What they ask in the interview**](https://github.com/kevin-2023-code/Tech-Interview-Questions)
+
+The [filters](./lists/README.md) cut these same roles by **company type** (Big Tech, fintech,
+quant, mid-sized, startups), by **role** and by **city** — and each filter page carries every
+matching role worldwide rather than the newest slice.
+
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 17:51 UTC_
+_Last updated: 2026-09-20 19:05 UTC_
 
-### Browse 42 internships by category
+**42 open internships** from **28 employers** · **8 posted in the last 7 days** · refreshed hourly
+
+### Browse 42 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (24)
 
@@ -27,6 +35,22 @@ _Last updated: 2026-09-20 17:51 UTC_
 📈 **[Quantitative Finance](#-quantitative-finance)** (6)
 
 🧰 **[IT & Support](#-it--support)** (1)
+
+---
+
+### Filters
+
+_Counts are internships in the rest of the world. Each page carries every region, under its own heading._
+
+🏷️ **By company type** — [🏗️ Large tech (1,000–9,999) (9)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (4)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (3)](lists/company/fintech.md) · [🧬 Health, biotech & medical devices (3)](lists/company/health-bio.md) · [🛒 E-commerce & marketplaces (2)](lists/company/ecommerce-marketplace.md) · [🎮 Gaming & interactive (2)](lists/company/gaming.md) · [+6 more →](lists/README.md)
+
+🧑‍💻 **By role** — [Software Engineer (12)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (4)](lists/role/product-manager.md) · [Data Analyst (1)](lists/role/data-analyst.md)
+
+📍 **By location** — [🇬🇧 London & the UK (7)](lists/place/uk.md)
+
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (8)](lists/new-this-week.md) · [🌐 Remote (2)](lists/remote.md)
+
+[**Every filter, with counts and what each one selects →**](lists/README.md)
 
 ---
 
@@ -231,6 +255,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
+[All 24 on one page →](lists/field/software-engineering.md)
+
 ## 🤖 Data, AI & Machine Learning
 
 [Back to top](#internship-opportunities--worldwide)
@@ -249,6 +275,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 </tbody>
 </table>
+
+[All 1 on one page →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -303,6 +331,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
+[All 4 on one page →](lists/field/hardware-and-engineering.md)
+
 ## 📱 Product & Design
 
 [Back to top](#internship-opportunities--worldwide)
@@ -352,10 +382,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5cd414d9-0f9e-4fac-b0dd-bcb771d8be92">Product Management Intern</a></td>
 <td>Berlin HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trawa/3667f9e9-718c-45f4-9670-5847f6849e16/application">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 </tbody>
 </table>
+
+[All 6 on one page →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -411,6 +443,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tbody>
 </table>
 
+[All 6 on one page →](lists/field/quantitative-finance.md)
+
 ## 🧰 IT & Support
 
 [Back to top](#internship-opportunities--worldwide)
@@ -430,6 +464,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tbody>
 </table>
 
+[All 1 on one page →](lists/field/it-and-support.md)
+
 <!-- LISTINGS:END -->
 
 ---
@@ -445,7 +481,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
    <https://trueinterview.io/developers/api>.
 3. **The files.** [`fetch.mjs`](./.github/scripts/fetch.mjs) writes
    [`listings.json`](./.github/scripts/listings.json); [`render.mjs`](./.github/scripts/render.mjs)
-   renders the tables between the markers above. A run that cannot read the API changes nothing —
+   renders the tables between the markers above and every page under [`lists/`](./lists/README.md).
+   A run that cannot read the API changes nothing —
    an hour-old list beats a list that says there are no internships.
 
 **Why there is no "Summer 2027" split.** The catalog classifies a posting as an internship or not;
@@ -470,7 +507,7 @@ curl 'https://trueinterview.io/api/v1/jobs?kind=intern&family=tech&limit=50'
 | **Role** | The job title, linking to the role on TrueInterview, where you can score it against your CV and track the application. |
 | **Location** | Canonical city where the pipeline could resolve one, otherwise what the posting said. |
 | **Apply** | The employer's own application page. |
-| **Age** | How long ago the posting was published or last re-posted. |
+| **Age** / **Posted** | How long ago the posting went up. This page counts in days; a filter page prints the date, because it is a page you might come back to a week later. |
 
 ## Contributing
 
