@@ -4,9 +4,9 @@
 
 Every cut of the Internship Opportunities list that has a page of its own. Each one says exactly what it selects — these are filters over facts already on the row, never a hand-picked list of roles somebody liked.
 
-[← Back to the list](../README.md)
+[← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-09-20 19:15 UTC_
+_Last updated: 2026-09-20 19:32 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 143 of the 169 employers on this list (94% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -105,18 +105,18 @@ _A posting is on this page when its location resolves to a city in this metro AN
 | [🌉 SF Bay Area](place/bay-area.md) | 161 |
 | [🎸 Austin](place/austin.md) | 70 |
 | [🎓 Boston & Cambridge](place/boston.md) | 51 |
-| [🗽 New York City](place/new-york.md) | 50 |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 43 |
 | [🌧️ Portland & the Pacific Northwest](place/pacific-northwest.md) | 43 |
 | [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 36 |
 | [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 30 |
 | [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 30 |
+| [🗽 New York City](place/new-york.md) | 28 |
 | [🌵 Phoenix & Arizona](place/phoenix.md) | 28 |
-| [🌲 Seattle & Puget Sound](place/seattle.md) | 20 |
+| [🌲 Seattle & Puget Sound](place/seattle.md) | 19 |
 | [🏖️ San Diego](place/san-diego.md) | 15 |
 | [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 14 |
-| [🇬🇧 London & the UK](place/uk.md) | 8 |
 | [🍑 Atlanta](place/atlanta.md) | 7 |
+| [🇬🇧 London & the UK](place/uk.md) | 7 |
 | [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 7 |
 | [🌬️ Chicago](place/chicago.md) | 6 |
 
@@ -135,6 +135,6 @@ The two cuts that are about the posting rather than the employer.
 
 ## How a filter is built
 
-Every row on every page above is the same row you would find in [the main list](../README.md) — these pages are cuts, not a second catalog. A filter page carries **both regions**: roles in the United States & Canada first, then everywhere else, under their own headings.
+Every row on every page above is the same row you would find in the main lists — these pages are cuts, not a second catalog. A filter page carries **both regions**: roles in the United States & Canada first (from [README.md](../README.md)), then everywhere else (from [README-Global.md](../README-Global.md)), under their own headings.
 
 A filter with fewer than 5 open internships does not get a page at all. It would appear for an hour and vanish on the next run, and every link anyone had shared with it would break.

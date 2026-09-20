@@ -31,7 +31,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-20 19:28 UTC_
+_Last updated: 2026-09-20 19:32 UTC_
 
 **523 open internships** from **147 employers** · **171 posted in the last 7 days** · refreshed hourly
 
@@ -55,7 +55,7 @@ _Last updated: 2026-09-20 19:28 UTC_
 
 **Google** 20 &nbsp;·&nbsp; **Anduril Industries** 14 &nbsp;·&nbsp; **QUALCOMM** 13 &nbsp;·&nbsp; **Micron Technology** 12 &nbsp;·&nbsp; **Keysight** 10 &nbsp;·&nbsp; **Analog Devices** 8 &nbsp;·&nbsp; **Infineon** 6 &nbsp;·&nbsp; **Tokyo Electron** 5 &nbsp;·&nbsp; **WSP** 5 &nbsp;·&nbsp; **Garmin** 4 &nbsp;·&nbsp; **Marvell Technology** 4 &nbsp;·&nbsp; **Robinhood** 4
 
-<sub>Employers with more than one role posted in the last 7 days, in this list. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 26 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -67,7 +67,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🧑‍💻 **By role** — [Software Engineer (48)](lists/role/software-engineer.md) · [Hardware Engineer (28)](lists/role/hardware-engineer.md) · [Product Manager (15)](lists/role/product-manager.md) · [AI Engineer (14)](lists/role/ai-engineer.md) · [Machine Learning Engineer (13)](lists/role/machine-learning-engineer.md) · [Data Scientist (12)](lists/role/data-scientist.md) · [Embedded Engineer (12)](lists/role/embedded-engineer.md) · [Data Engineer (6)](lists/role/data-engineer.md) · [Security Engineer (6)](lists/role/security-engineer.md) · [Data Analyst (4)](lists/role/data-analyst.md) · [+1 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (161)](lists/place/bay-area.md) · [🎸 Austin (70)](lists/place/austin.md) · [🎓 Boston & Cambridge (51)](lists/place/boston.md) · [🗽 New York City (50)](lists/place/new-york.md) · [🌴 Los Angeles & Orange County (43)](lists/place/los-angeles.md) · [🌧️ Portland & the Pacific Northwest (43)](lists/place/pacific-northwest.md) · [🤠 Dallas–Fort Worth (36)](lists/place/dallas-fort-worth.md) · [🏔️ Denver, Boulder & Colorado (30)](lists/place/denver-boulder.md) · [🔺 Research Triangle & the Carolinas (30)](lists/place/research-triangle.md) · [🌵 Phoenix & Arizona (28)](lists/place/phoenix.md) · [+7 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (160)](lists/place/bay-area.md) · [🎸 Austin (70)](lists/place/austin.md) · [🎓 Boston & Cambridge (51)](lists/place/boston.md) · [🌴 Los Angeles & Orange County (43)](lists/place/los-angeles.md) · [🌧️ Portland & the Pacific Northwest (43)](lists/place/pacific-northwest.md) · [🤠 Dallas–Fort Worth (36)](lists/place/dallas-fort-worth.md) · [🏔️ Denver, Boulder & Colorado (30)](lists/place/denver-boulder.md) · [🔺 Research Triangle & the Carolinas (30)](lists/place/research-triangle.md) · [🗽 New York City (28)](lists/place/new-york.md) · [🌵 Phoenix & Arizona (28)](lists/place/phoenix.md) · [+6 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (171)](lists/new-this-week.md) · [🌐 Remote (8)](lists/remote.md)
 

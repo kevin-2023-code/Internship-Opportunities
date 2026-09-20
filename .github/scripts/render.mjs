@@ -211,11 +211,16 @@ async function main() {
       listName: config.listName,
       noun: config.noun,
       homeLabel: config.homeLabel,
+      homePath: config.files.home,
+      globalPath: config.files.global ?? null,
       coverageNote:
         `**What the company filters cover.** The sector and headcount of an employer are recorded in a ` +
         `hand-written registry, and it covers ${cover.companiesClassified.toLocaleString('en-US')} of the ` +
         `${cover.companies.toLocaleString('en-US')} employers on this list ` +
-        `(${Math.round((100 * cover.rowsClassified) / Math.max(1, cover.rows))}% of the roles). An employer it ` +
+        (cover.rows
+          ? `(${Math.round((100 * cover.rowsClassified) / cover.rows)}% of the roles). `
+          : '. ') +
+        `An employer it ` +
         `does not cover appears in the main list and in every field, role and location filter exactly as ` +
         `before — it is simply in no company-type filter, because guessing a sector from a company's name is ` +
         `how a reader ends up with the wrong list. ` +
