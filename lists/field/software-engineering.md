@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**342 open roles.** 318 in the United States & Canada · 24 elsewhere in the world.
+**341 open roles.** 317 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -974,13 +974,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dea14382-b5b7-47f6-9b22-a01e9b93bf4f">Component Engineering Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19937?lang=en-us">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc737fae-27a8-4b1d-a3a6-b24e88081f22">Software Engineer Intern - Real Time Aviation Data</a></td>
-<td>Chanhassen, Minnesota, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20081?lang=en-us">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

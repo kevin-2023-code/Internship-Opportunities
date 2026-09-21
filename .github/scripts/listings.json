@@ -5,9 +5,35 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-21T05:45:30.671Z",
-  "count": 568,
+  "listingsChangedAt": "2026-09-21T17:36:17.301Z",
+  "count": 570,
   "listings": [
+    {
+      "id": "db935311-8272-4176-ada0-818e751d8e40",
+      "company": "Atlassian",
+      "title": "Machine Learning Intern, 2027 Summer U.S.",
+      "locations": [
+        "San Francisco - United States - San Francisco, California 94104 United States",
+        "Seattle - United States - Seattle, Washington United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://globalcareers-atlassian.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?mode=apply",
+      "url": "https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40",
+      "postedAt": "2026-09-21T16:53:10.000Z",
+      "updatedAt": "2026-09-21T16:53:10.000Z"
+    },
     {
       "id": "c666357a-6ab6-472f-84fa-187f2d77127c",
       "company": "Infineon",
@@ -55,6 +81,68 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.infineon.com/careers/job/563808971999082",
       "url": "https://trueinterview.io/jobs/c82ba6a3-df5c-4126-a7ee-1e2c1c06e895",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "fc3129d9-5982-459a-a93d-98d07da691f6",
+      "company": "Marvell Technology",
+      "title": "Digital IC Design Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America",
+        "Irvine, CA",
+        "Austin, TX",
+        "US-NY - Hudson Valley",
+        "Boise, ID"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1",
+      "url": "https://trueinterview.io/jobs/fc3129d9-5982-459a-a93d-98d07da691f6",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "65eda20d-d0a6-4849-9485-b94905d220f1",
+      "company": "Marvell Technology",
+      "title": "Digital IC Design Intern, MS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America",
+        "Irvine, CA",
+        "Austin, TX",
+        "US-NY - Hudson Valley",
+        "Boise, ID"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1",
+      "url": "https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -6799,31 +6887,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/19912?lang=en-us",
       "url": "https://trueinterview.io/jobs/84972904-8760-4377-b2bb-dc5e9d58a794",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "fc737fae-27a8-4b1d-a3a6-b24e88081f22",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Real Time Aviation Data",
-      "locations": [
-        "Chanhassen, Minnesota, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/20081?lang=en-us",
-      "url": "https://trueinterview.io/jobs/fc737fae-27a8-4b1d-a3a6-b24e88081f22",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
