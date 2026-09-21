@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-21T00:44:32.378Z",
-  "count": 566,
+  "listingsChangedAt": "2026-09-21T05:45:30.671Z",
+  "count": 568,
   "listings": [
+    {
+      "id": "c666357a-6ab6-472f-84fa-187f2d77127c",
+      "company": "Infineon",
+      "title": "Internship - MDL Engineer",
+      "locations": [
+        "Lexington, KY, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971999074",
+      "url": "https://trueinterview.io/jobs/c666357a-6ab6-472f-84fa-187f2d77127c",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "c82ba6a3-df5c-4126-a7ee-1e2c1c06e895",
+      "company": "Infineon",
+      "title": "Internship - PDK Engineer",
+      "locations": [
+        "Lexington, KY, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971999082",
+      "url": "https://trueinterview.io/jobs/c82ba6a3-df5c-4126-a7ee-1e2c1c06e895",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
     {
       "id": "2887a173-48d0-422c-aca8-c06e3d290371",
       "company": "Intel",
