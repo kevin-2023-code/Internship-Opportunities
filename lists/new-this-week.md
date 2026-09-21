@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2887a173-48d0-422c-aca8-c06e3d290371">Process Integration and Yield Engineering PhD Intern</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Bot Auto</strong></td>
 <td><a href="https://trueinterview.io/jobs/792890da-3e3d-45bf-89c3-f967a1756bd8">Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)</a></td>
 <td>Houston, TX<br/>Houston Office</td>
@@ -1206,13 +1213,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Bellevue, WA<br/>Dallas, TX, United States<br/>+3 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013813">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd5f848a-1cdc-458f-a9b8-a7bae29fe06b">PhD Research Intern, Autonomous Systems and Physical AI Research - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266856">Apply</a></td>
-<td align="center">13 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**291 open roles.** The giants: 10,000+ people, in a technology sector.
+**292 open roles.** The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2887a173-48d0-422c-aca8-c06e3d290371">Process Integration and Yield Engineering PhD Intern</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern_JR0287132">Apply</a></td>
+<td align="center">20 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/def6d3d1-dfa9-41f8-9d4a-fac4f8b6b2bc">Quality Engineering Intern - Operations</a></td>
