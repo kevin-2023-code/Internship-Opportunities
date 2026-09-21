@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**72 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -295,13 +295,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/17c53ff9-ec02-423b-82b3-420685f0d670">Fall 2027 Masters Silicon Design Engineering Intern</a></td>
 <td>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90743?lang=en-us">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence Design Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/67a4c1d9-7fd6-49cb-b0b7-43753f03c4f5">Graduate Student Intern - Software Engineering</a></td>
-<td>Austin, TX<br/>AUSTIN, United States of America</td>
-<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

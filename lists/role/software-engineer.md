@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**59 open roles.** 47 in the United States & Canada · 12 elsewhere in the world.
+**60 open roles.** 48 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/3829fa08-c6a8-4469-921a-14570d8ef5ef">MIT- Software Engineer Intern |Helios|</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8220941">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/96d6b2a4-4e7c-41b4-bbb7-79b077b2c820">Tools Programmer Intern</a></td>

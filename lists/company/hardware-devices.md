@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**69 open roles.** 64 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**70 open roles.** 65 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/7564fa41-2d7d-4de0-a7be-89fc6a30cf6f">Semiconductor Process Engineering Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54385?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/def6d3d1-dfa9-41f8-9d4a-fac4f8b6b2bc">Quality Engineering Intern - Operations</a></td>

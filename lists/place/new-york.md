@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**28 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Viking Global Investors</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5802dfb-9716-4702-adfa-9993521ece88">Data Science Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa9d4330-e521-4074-99cb-ae1dc9bac039">Sony Research - Internship on Audio Processing and Machine Learning</a></td>
+<td>New York, NY<br/>New York, United States of America</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Gemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/261d9df6-33af-405a-8a04-d2d05d0a833a">Product Management Intern (Winter 2027)</a></td>

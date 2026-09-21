@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**14 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7">Summer 2027 PhD AI Research Infrastructure,  RL Post-Training Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90950?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bot Auto</strong></td>
 <td><a href="https://trueinterview.io/jobs/792890da-3e3d-45bf-89c3-f967a1756bd8">Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)</a></td>

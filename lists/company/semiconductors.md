@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**203 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**202 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7">Summer 2027 PhD AI Research Infrastructure,  RL Post-Training Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90950?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1">Summer 2027 PhD Technical Program Manager, AI Research Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91019?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/c666357a-6ab6-472f-84fa-187f2d77127c">Internship - MDL Engineer</a></td>
@@ -348,13 +362,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ef01d65d-993e-4bb2-8d84-572aa54595e1">Intern - Design Engineer, HBM</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44449223">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/128b58bc-41d7-4174-aaeb-372e01b3a64f">Intern - Firmware Engineer</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44452952">Apply</a></td>
@@ -386,13 +393,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0dec2c93-7e8c-4f4c-80c9-0a7e44b9ec7e">Physical Design and Timing Engineer Intern - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397705518">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8e178b46-033c-4b0c-9f9f-7950fee5c9d9">Product Management MBA Intern, Data Center GPU - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397711858">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -904,13 +904,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bf013447-373a-4333-b320-fe65547a7caf">2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</a></td>
 <td>Gloucester, MA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790313767806">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence Design Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/67a4c1d9-7fd6-49cb-b0b7-43753f03c4f5">Graduate Student Intern - Software Engineering</a></td>
-<td>Austin, TX<br/>AUSTIN, United States of America</td>
-<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

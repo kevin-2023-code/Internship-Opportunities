@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/516be988-5981-41e5-b3be-905b58121477">Geotechnical Engineering Intern- Summer 2027</a></td>
+<td>Saint Louis, MO, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95800">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3175504-1945-4ae2-b0c7-d2a1584750be">Lighting Design Intern - Summer 2027</a></td>
 <td>Arlington, VA, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95805">Apply</a></td>
@@ -135,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Oakland, CA, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94393">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4477c806-4feb-4ae9-90b1-4f902c04ea9f">MEP Engineering Intern - Summer 2027</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94561">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

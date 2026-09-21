@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**19 open roles.** 15 in the United States & Canada · 4 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**20 open roles.** 16 in the United States & Canada · 4 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/3829fa08-c6a8-4469-921a-14570d8ef5ef">MIT- Software Engineer Intern |Helios|</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8220941">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Achievers</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2">Software Engineering Co-op - Winter 2027</a></td>

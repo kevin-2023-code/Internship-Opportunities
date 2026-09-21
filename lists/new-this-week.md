@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**182 open roles.** 176 in the United States & Canada · 6 elsewhere in the world. Everything the employers put up this week.
+**190 open roles.** 183 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,10 +18,66 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb2f07dd-7f85-4d8c-92f9-d9ccc4636673">SAP iXp Intern - AI Technical Program Manager, AI &amp; Machine Learning</a></td>
+<td>Palo Alto, CA, US, 94304</td>
+<td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&amp;amp;-Machine-Learning-CA-94304/1439806333/">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Re:build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7929890-49a0-4d03-a091-c34f67b3a72c">Automation &amp; Controls Engineer Co-op/Intern</a></td>
+<td>Rochester, NY<br/>Re:Build Optimation Technology</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Viking Global Investors</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5802dfb-9716-4702-adfa-9993521ece88">Data Science Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/516be988-5981-41e5-b3be-905b58121477">Geotechnical Engineering Intern- Summer 2027</a></td>
+<td>Saint Louis, MO, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95800">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/9220aa2f-6d86-4dfd-b167-f2570c604fef">Quantum Control Systems FPGA Developer Internship 2027</a></td>
+<td>Yorktown Heights, US</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=133140">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/3829fa08-c6a8-4469-921a-14570d8ef5ef">MIT- Software Engineer Intern |Helios|</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8220941">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40">Machine Learning Intern, 2027 Summer U.S.</a></td>
 <td>San Francisco - United States - San Francisco, California 94104 United States<br/>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7">Summer 2027 PhD AI Research Infrastructure,  RL Post-Training Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90950?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1">Summer 2027 PhD Technical Program Manager, AI Research Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91019?lang=en-us">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -39,6 +95,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/7564fa41-2d7d-4de0-a7be-89fc6a30cf6f">Semiconductor Process Engineering Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54385?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc3129d9-5982-459a-a93d-98d07da691f6">Digital IC Design Intern, BS - Summer 2027</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+2 more</td>
@@ -50,6 +113,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1">Digital IC Design Intern, MS - Summer 2027</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+2 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa9d4330-e521-4074-99cb-ae1dc9bac039">Sony Research - Internship on Audio Processing and Machine Learning</a></td>
+<td>New York, NY<br/>New York, United States of America</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -302,13 +372,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f">Software Developer Intern</a></td>
 <td>Ontario</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5ccb61e-fce5-4722-89c4-69c192970bce">Power Backend Developer Intern - Rochester, MN &amp; Austin, TX - 2027</a></td>
-<td>Multiple Cities, United States</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130787">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -746,11 +809,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/946e145d-104d-4d8f-95dd-8fa96c938f6b">Summer 2027 - Electrical Engineering Internship, FPGA</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
@@ -943,13 +1006,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ef01d65d-993e-4bb2-8d84-572aa54595e1">Intern - Design Engineer, HBM</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44449223">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/128b58bc-41d7-4174-aaeb-372e01b3a64f">Intern - Firmware Engineer</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44452952">Apply</a></td>
@@ -981,13 +1037,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0dec2c93-7e8c-4f4c-80c9-0a7e44b9ec7e">Physical Design and Timing Engineer Intern - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397705518">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8e178b46-033c-4b0c-9f9f-7950fee5c9d9">Product Management MBA Intern, Data Center GPU - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397711858">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
@@ -1261,6 +1310,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Telli</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d91487d-47a0-47ec-a884-d6297dbd1e69">Internship - Success Architect</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telli/84542cca-080c-4caf-a335-c3bd2c3b5b2c/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Rundoo</strong></td>
 <td><a href="https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57">Product Manager Intern</a></td>

@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**27 open roles.** 24 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**29 open roles.** 26 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb2f07dd-7f85-4d8c-92f9-d9ccc4636673">SAP iXp Intern - AI Technical Program Manager, AI &amp; Machine Learning</a></td>
+<td>Palo Alto, CA, US, 94304</td>
+<td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&amp;amp;-Machine-Learning-CA-94304/1439806333/">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40">Machine Learning Intern, 2027 Summer U.S.</a></td>
@@ -64,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e8df3d0-83a1-45af-b312-86b50450e4bc">Product Management Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

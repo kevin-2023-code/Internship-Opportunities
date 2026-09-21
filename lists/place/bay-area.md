@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**164 open roles.** 163 in the United States & Canada · 1 elsewhere in the world.
+**166 open roles.** 165 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb2f07dd-7f85-4d8c-92f9-d9ccc4636673">SAP iXp Intern - AI Technical Program Manager, AI &amp; Machine Learning</a></td>
+<td>Palo Alto, CA, US, 94304</td>
+<td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&amp;amp;-Machine-Learning-CA-94304/1439806333/">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40">Machine Learning Intern, 2027 Summer U.S.</a></td>
 <td>San Francisco - United States - San Francisco, California 94104 United States<br/>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7">Summer 2027 PhD AI Research Infrastructure,  RL Post-Training Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90950?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1">Summer 2027 PhD Technical Program Manager, AI Research Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91019?lang=en-us">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -302,13 +323,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0dec2c93-7e8c-4f4c-80c9-0a7e44b9ec7e">Physical Design and Timing Engineer Intern - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397705518">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8e178b46-033c-4b0c-9f9f-7950fee5c9d9">Product Management MBA Intern, Data Center GPU - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397711858">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

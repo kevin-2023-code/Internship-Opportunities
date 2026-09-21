@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**28 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/9220aa2f-6d86-4dfd-b167-f2570c604fef">Quantum Control Systems FPGA Developer Internship 2027</a></td>
+<td>Yorktown Heights, US</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=133140">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/7564fa41-2d7d-4de0-a7be-89fc6a30cf6f">Semiconductor Process Engineering Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54385?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/81830d78-ccd2-40b2-ac06-f8c470130ddb">Intern - ASIC Digital Design</a></td>
@@ -44,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/136529930677560006-silicon-engineering-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/946e145d-104d-4d8f-95dd-8fa96c938f6b">Summer 2027 - Electrical Engineering Internship, FPGA</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>

@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**40 open roles.** 37 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**39 open roles.** 36 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Westminster, CO</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/946e145d-104d-4d8f-95dd-8fa96c938f6b">Summer 2027 - Electrical Engineering Internship, FPGA</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/e6d87528-5da1-4970-9e42-7b224cfa63a9/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>

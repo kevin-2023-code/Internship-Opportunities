@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**12 open roles.**
+**14 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Viking Global Investors</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5802dfb-9716-4702-adfa-9993521ece88">Data Science Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/67887952-1555-413b-b3d0-83db67838cd5">Business Data Scientist Intern, PhD, Summer 2027</a></td>

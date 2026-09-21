@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**20 open roles.**
+**22 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/3829fa08-c6a8-4469-921a-14570d8ef5ef">MIT- Software Engineer Intern |Helios|</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8220941">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40">Machine Learning Intern, 2027 Summer U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States<br/>San Francisco - United States - San Francisco, California 94104 United States</td>
@@ -30,6 +37,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Grammarly</strong></td>

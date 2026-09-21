@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**14 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb2f07dd-7f85-4d8c-92f9-d9ccc4636673">SAP iXp Intern - AI Technical Program Manager, AI &amp; Machine Learning</a></td>
+<td>Palo Alto, CA, US, 94304</td>
+<td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&amp;amp;-Machine-Learning-CA-94304/1439806333/">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40">Machine Learning Intern, 2027 Summer U.S.</a></td>
 <td>San Francisco - United States - San Francisco, California 94104 United States<br/>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa9d4330-e521-4074-99cb-ae1dc9bac039">Sony Research - Internship on Audio Processing and Machine Learning</a></td>
+<td>New York, NY<br/>New York, United States of America</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

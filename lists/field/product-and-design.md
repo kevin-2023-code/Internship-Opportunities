@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1">Summer 2027 PhD Technical Program Manager, AI Research Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91019?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc3129d9-5982-459a-a93d-98d07da691f6">Digital IC Design Intern, BS - Summer 2027</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+2 more</td>
@@ -155,13 +162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7c5df269-d5aa-4a6f-a745-9175258f351e">RF/ Millimeter Wave Design Intern</a></td>
 <td>US-CA-Santa Rosa-Bldg 4<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/53710?lang=en-us">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e178b46-033c-4b0c-9f9f-7950fee5c9d9">Product Management MBA Intern, Data Center GPU - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397711858">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**7 open roles.** Cloud, CDNs, databases, data platforms, observability and DevOps.
+**8 open roles.** Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/3829fa08-c6a8-4469-921a-14570d8ef5ef">MIT- Software Engineer Intern |Helios|</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8220941">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Domino Data Lab</strong></td>
 <td><a href="https://trueinterview.io/jobs/81e4f5a5-2f5d-45cd-89e0-1ccd779ba655">Software Engineer, Intern - Campus Recruiting 2027</a> 🌐</td>

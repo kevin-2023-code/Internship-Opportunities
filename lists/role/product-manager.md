@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1">Summer 2027 PhD Technical Program Manager, AI Research Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91019?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Gemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/261d9df6-33af-405a-8a04-d2d05d0a833a">Product Management Intern (Winter 2027)</a></td>
 <td>New York, NY<br/>New York, New York<br/>Gemini North America</td>
@@ -58,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e178b46-033c-4b0c-9f9f-7950fee5c9d9">Product Management MBA Intern, Data Center GPU - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397711858">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>

@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**36 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef01d65d-993e-4bb2-8d84-572aa54595e1">Intern - Design Engineer, HBM</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44449223">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
@@ -142,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richardson, Texas, United States of America<br/>Chicago, Illinois, United States of America<br/>RTP, North Carolina, US, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/4477c806-4feb-4ae9-90b1-4f902c04ea9f">MEP Engineering Intern - Summer 2027</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94561">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>

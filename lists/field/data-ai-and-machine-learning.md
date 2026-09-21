@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**53 open roles.** 52 in the United States & Canada · 1 elsewhere in the world.
+**58 open roles.** 57 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb2f07dd-7f85-4d8c-92f9-d9ccc4636673">SAP iXp Intern - AI Technical Program Manager, AI &amp; Machine Learning</a></td>
+<td>Palo Alto, CA, US, 94304</td>
+<td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&amp;amp;-Machine-Learning-CA-94304/1439806333/">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Viking Global Investors</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5802dfb-9716-4702-adfa-9993521ece88">Data Science Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40">Machine Learning Intern, 2027 Summer U.S.</a></td>
 <td>San Francisco - United States - San Francisco, California 94104 United States<br/>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7">Summer 2027 PhD AI Research Infrastructure,  RL Post-Training Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90950?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa9d4330-e521-4074-99cb-ae1dc9bac039">Sony Research - Internship on Audio Processing and Machine Learning</a></td>
+<td>New York, NY<br/>New York, United States of America</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -78,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3624abc7-e2fb-441f-8f3e-e575285f2900">AI/ML Engineer Intern</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

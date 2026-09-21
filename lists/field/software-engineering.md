@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**341 open roles.** 317 in the United States & Canada · 24 elsewhere in the world.
+**341 open roles.** 316 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Re:build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7929890-49a0-4d03-a091-c34f67b3a72c">Automation &amp; Controls Engineer Co-op/Intern</a></td>
+<td>Rochester, NY<br/>Re:Build Optimation Technology</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/516be988-5981-41e5-b3be-905b58121477">Geotechnical Engineering Intern- Summer 2027</a></td>
+<td>Saint Louis, MO, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95800">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Singlestore</strong></td>
+<td><a href="https://trueinterview.io/jobs/3829fa08-c6a8-4469-921a-14570d8ef5ef">MIT- Software Engineer Intern |Helios|</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8220941">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/c666357a-6ab6-472f-84fa-187f2d77127c">Internship - MDL Engineer</a></td>
@@ -204,13 +225,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f">Software Developer Intern</a></td>
 <td>Ontario</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5ccb61e-fce5-4722-89c4-69c192970bce">Power Backend Developer Intern - Rochester, MN &amp; Austin, TX - 2027</a></td>
-<td>Multiple Cities, United States</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130787">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -565,13 +579,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef01d65d-993e-4bb2-8d84-572aa54595e1">Intern - Design Engineer, HBM</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44449223">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/128b58bc-41d7-4174-aaeb-372e01b3a64f">Intern - Firmware Engineer</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44452952">Apply</a></td>
@@ -1425,13 +1432,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/4477c806-4feb-4ae9-90b1-4f902c04ea9f">MEP Engineering Intern - Summer 2027</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94561">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Northmarq</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8baad8a-5f16-4544-a8eb-e9d937d2d666">Software Engineering Intern, Summer 2027</a></td>
 <td>Minneapolis, Minnesota, United States<br/>Minneapolis, MN</td>
@@ -1450,13 +1450,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bf013447-373a-4333-b320-fe65547a7caf">2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</a></td>
 <td>Gloucester, MA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790313767806">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence Design Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/67a4c1d9-7fd6-49cb-b0b7-43753f03c4f5">Graduate Student Intern - Software Engineering</a></td>
-<td>Austin, TX<br/>AUSTIN, United States of America</td>
-<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56028">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
@@ -2248,6 +2241,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Telli</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d91487d-47a0-47ec-a884-d6297dbd1e69">Internship - Success Architect</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telli/84542cca-080c-4caf-a335-c3bd2c3b5b2c/application">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Abridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe">Software Engineering Intern, Spring</a></td>

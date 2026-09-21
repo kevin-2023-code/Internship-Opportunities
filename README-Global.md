@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-21 17:36 UTC_
+_Last updated: 2026-09-21 21:32 UTC_
 
-**42 open internships** from **28 employers** · **6 posted in the last 7 days** · refreshed hourly
+**43 open internships** from **29 employers** · **7 posted in the last 7 days** · refreshed hourly
 
-### Browse 42 internships by field
+### Browse 43 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (24)
+💻 **[Software Engineering](#-software-engineering)** (25)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1)
 
@@ -48,7 +48,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇬🇧 London & the UK (7)](lists/place/uk.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (6)](lists/new-this-week.md) · [🌐 Remote (2)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (7)](lists/new-this-week.md) · [🌐 Remote (2)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -72,11 +72,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Telli</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d91487d-47a0-47ec-a884-d6297dbd1e69">Internship - Success Architect</a> 🆕</td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telli/84542cca-080c-4caf-a335-c3bd2c3b5b2c/application">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Abridge</strong></td>
-<td><a href="https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe">Software Engineering Intern, Spring</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe">Software Engineering Intern, Spring</a></td>
 <td>SF Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
@@ -104,35 +111,35 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/92159811-3be1-4b22-a052-726754c9a172">Forward Deployed Engineering Intern / Co-op Winter 2027</a></td>
 <td>Mississauga</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/9504015b-bd4b-415c-8cf4-70015b84f873/application">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/05b166f8-1a3b-44b1-820d-5dbdfec96310">Robotics Software Developer Intern / Co-op Winter 2027</a></td>
 <td>Mississauga</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/9edbdb01-5d2e-4252-a0fc-bf1b6606f83f/application">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0717371-567a-45ba-beba-49c52901e054">Intern Software Engineer - C/C++</a> 🌐</td>
 <td>Remote — Poland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Nex</strong></td>
 <td><a href="https://trueinterview.io/jobs/7aebd203-60c6-465d-a2ac-dc908f9f9cc2">Summer 2027 | Software Engineer Intern (Developer Experience)</a></td>
 <td>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nex/jobs/5420203008">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9987c402-084f-4b10-9197-d9b216630a03">Summer 2027 | Software Engineer Intern - Game Development (Creative &amp; Party)</a></td>
 <td>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nex/jobs/5420003008">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>
@@ -153,7 +160,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a9519ed0-5b91-4545-baad-6700c0b97f03">Software Engineer Intern</a></td>
 <td>St. Louis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td><strong>Toast, Inc.</strong></td>
@@ -174,7 +181,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cb76d489-3a82-49b9-86b3-28951e62fbd4">Software Engineering Intern</a></td>
 <td>Oceanus HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
@@ -202,7 +209,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ae4ee08a-b5b1-4eda-8cda-afa59ead2173">React Native Intern (Brazil) - Year Round 2027</a></td>
 <td>Porto Alegre, Brazil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/de8c4068-e5aa-4f17-8eda-808344ec4d9f/application">Apply</a></td>
-<td align="center">23d</td>
+<td align="center">24d</td>
 </tr>
 </tbody>
 </table>
@@ -292,14 +299,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b8987a40-9417-4335-a566-b09468148ac7">Electrical Engineer Intern (Summer 2027)</a></td>
 <td>Victor, Rochester, Syracuse</td>
 <td align="center"><a href="https://www.oconnellelectric.com/careers-apply?gh_jid=6182541004">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Pyka</strong></td>
 <td><a href="https://trueinterview.io/jobs/9834be5d-fbd6-4003-9829-92a9e6444a5f">Mechanical Engineering Internship - Winter/Spring 2027 (Dropship, Early Interest)</a></td>
 <td>Alameda HQ</td>
 <td align="center"><a href="https://jobs.lever.co/pyka/2702593a-7482-4d2b-93f3-ef97e2cf7df7/apply">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 </tbody>
 </table>
@@ -351,10 +358,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
 <td>Peru<br/>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Master Born</strong></td>
@@ -382,7 +389,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5cd414d9-0f9e-4fac-b0dd-bcb771d8be92">Product Management Intern</a></td>
 <td>Berlin HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trawa/3667f9e9-718c-45f4-9670-5847f6849e16/application">Apply</a></td>
-<td align="center">19d</td>
+<td align="center">20d</td>
 </tr>
 </tbody>
 </table>

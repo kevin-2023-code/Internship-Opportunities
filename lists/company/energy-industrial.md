@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**14 open roles.** 13 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Re:build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7929890-49a0-4d03-a091-c34f67b3a72c">Automation &amp; Controls Engineer Co-op/Intern</a></td>
+<td>Rochester, NY<br/>Re:Build Optimation Technology</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Enviva</strong></td>
 <td><a href="https://trueinterview.io/jobs/203afb7e-0605-4f3e-99a2-103598368df3">Engineering and Operations Intern</a></td>
