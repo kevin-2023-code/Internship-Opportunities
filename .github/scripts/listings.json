@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-22T00:28:48.822Z",
-  "count": 583,
+  "listingsChangedAt": "2026-09-22T05:42:51.166Z",
+  "count": 590,
   "listings": [
     {
       "id": "7bb17c3a-e5f6-4337-8f34-c7a648128463",
@@ -32,6 +32,142 @@
       "url": "https://trueinterview.io/jobs/7bb17c3a-e5f6-4337-8f34-c7a648128463",
       "postedAt": "2026-09-21T23:46:08.000Z",
       "updatedAt": "2026-09-21T23:46:08.000Z"
+    },
+    {
+      "id": "a5244c9d-6532-4b44-91b7-daeaca2a6463",
+      "company": "Shield AI",
+      "title": "Summer 2027 - Mechanical Engineering Intern",
+      "locations": [
+        "Seattle, Washington",
+        "Dallas, Texas"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc/apply",
+      "url": "https://trueinterview.io/jobs/a5244c9d-6532-4b44-91b7-daeaca2a6463",
+      "postedAt": "2026-09-21T22:55:31.000Z",
+      "updatedAt": "2026-09-21T22:55:31.000Z"
+    },
+    {
+      "id": "0dfde11f-5dc2-4dd6-93ff-56337e074008",
+      "company": "Epic Games",
+      "title": "Data Science Intern",
+      "locations": [
+        "Cary,North Carolina,United States",
+        "Cary"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+      "url": "https://trueinterview.io/jobs/0dfde11f-5dc2-4dd6-93ff-56337e074008",
+      "postedAt": "2026-09-21T22:52:02.000Z",
+      "updatedAt": "2026-09-21T22:52:02.000Z"
+    },
+    {
+      "id": "506acc2e-8712-41c2-9df5-60d0cc9cd8e6",
+      "company": "Bot Auto",
+      "title": "Intern, IT Specialist",
+      "locations": [
+        "Houston, TX",
+        "Houston Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/botauto/jobs/5430792008",
+      "url": "https://trueinterview.io/jobs/506acc2e-8712-41c2-9df5-60d0cc9cd8e6",
+      "postedAt": "2026-09-21T22:46:44.000Z",
+      "updatedAt": "2026-09-21T22:46:44.000Z"
+    },
+    {
+      "id": "09c2cd3a-e7c6-44d4-8d31-4ec551aaf7fe",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+      "url": "https://trueinterview.io/jobs/09c2cd3a-e7c6-44d4-8d31-4ec551aaf7fe",
+      "postedAt": "2026-09-21T22:46:38.000Z",
+      "updatedAt": "2026-09-21T22:46:38.000Z"
+    },
+    {
+      "id": "7ab61ea7-65df-4e3e-9755-da6ea48c1268",
+      "company": "Singlestore",
+      "title": "MIT- Software Engineer Intern | Engine",
+      "locations": [
+        "San Francisco, CA, United States",
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+      "url": "https://trueinterview.io/jobs/7ab61ea7-65df-4e3e-9755-da6ea48c1268",
+      "postedAt": "2026-09-21T21:51:00.000Z",
+      "updatedAt": "2026-09-21T21:51:00.000Z"
     },
     {
       "id": "cb2f07dd-7f85-4d8c-92f9-d9ccc4636673",
@@ -296,6 +432,111 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
+      "id": "86be2a68-3e72-46d7-a051-989dec6e48bf",
+      "company": "Cisco",
+      "title": "Engineering Product Management Specialist I (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
+      "url": "https://trueinterview.io/jobs/86be2a68-3e72-46d7-a051-989dec6e48bf",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "14fecc37-8d6b-4065-b312-7c808e7c4e9d",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems I (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+      "url": "https://trueinterview.io/jobs/14fecc37-8d6b-4065-b312-7c808e7c4e9d",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "840cbee2-4408-4bc2-8c50-ae291f58da72",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend I (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
+      "url": "https://trueinterview.io/jobs/840cbee2-4408-4bc2-8c50-ae291f58da72",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
       "id": "c666357a-6ab6-472f-84fa-187f2d77127c",
       "company": "Infineon",
       "title": "Internship - MDL Engineer",
@@ -510,6 +751,31 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
+      "id": "438637b7-ccda-4e5a-b3f9-da15a91c301a",
+      "company": "Micron Technology",
+      "title": "Intern - ATE Process Engineer ID1",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44606123",
+      "url": "https://trueinterview.io/jobs/438637b7-ccda-4e5a-b3f9-da15a91c301a",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
       "id": "37cfa49e-f477-4dfe-8570-91ee3e699752",
       "company": "Micron Technology",
       "title": "Intern - Probe Equipment Engineer",
@@ -581,33 +847,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44430171",
       "url": "https://trueinterview.io/jobs/d768883e-183a-4f95-9260-37fa888b7793",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "id": "aa9d4330-e521-4074-99cb-ae1dc9bac039",
-      "company": "Sony",
-      "title": "Sony Research - Internship on Audio Processing and Machine Learning",
-      "locations": [
-        "New York, United States of America"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643",
-      "url": "https://trueinterview.io/jobs/aa9d4330-e521-4074-99cb-ae1dc9bac039",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -714,34 +953,6 @@
       "url": "https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2",
       "postedAt": "2026-09-18T22:56:50.000Z",
       "updatedAt": "2026-09-18T22:56:50.000Z"
-    },
-    {
-      "id": "04896d82-fad3-457c-afd5-238e0d807ca9",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-      "locations": [
-        "Mountain View, California, USA",
-        "Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
-      "url": "https://trueinterview.io/jobs/04896d82-fad3-457c-afd5-238e0d807ca9",
-      "postedAt": "2026-09-18T22:09:27.000Z",
-      "updatedAt": "2026-09-18T22:09:27.000Z"
     },
     {
       "id": "a3175504-1945-4ae2-b0c7-d2a1584750be",
