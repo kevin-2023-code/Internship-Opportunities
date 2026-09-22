@@ -31,17 +31,17 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-22 05:42 UTC_
+_Last updated: 2026-09-22 10:44 UTC_
 
-**547 open internships** from **149 employers** · **184 posted in the last 7 days** · refreshed hourly
+**545 open internships** from **149 employers** · **184 posted in the last 7 days** · refreshed hourly
 
-### Browse 547 internships by field
+### Browse 545 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (324)
+💻 **[Software Engineering](#-software-engineering)** (323)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (57)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (111)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (110)
 
 📱 **[Product & Design](#-product--design)** (47)
 
@@ -63,7 +63,7 @@ _Last updated: 2026-09-22 05:42 UTC_
 
 _Counts are internships in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (303)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (209)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (68)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (52)](lists/company/large-tech.md) · [📐 Engineering & architecture firms (45)](lists/company/engineering-services.md) · [🚀 Aerospace & defence (37)](lists/company/aerospace-defense.md) · [📱 Consumer internet & media (26)](lists/company/consumer-internet.md) · [🏢 Enterprise & business software (26)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (19)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (17)](lists/company/fintech.md) · [+12 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (301)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (209)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (68)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (52)](lists/company/large-tech.md) · [📐 Engineering & architecture firms (45)](lists/company/engineering-services.md) · [🚀 Aerospace & defence (37)](lists/company/aerospace-defense.md) · [📱 Consumer internet & media (26)](lists/company/consumer-internet.md) · [🏢 Enterprise & business software (24)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (19)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (17)](lists/company/fintech.md) · [+12 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (50)](lists/role/software-engineer.md) · [Hardware Engineer (29)](lists/role/hardware-engineer.md) · [Product Manager (16)](lists/role/product-manager.md) · [AI Engineer (15)](lists/role/ai-engineer.md) · [Data Scientist (15)](lists/role/data-scientist.md) · [Machine Learning Engineer (15)](lists/role/machine-learning-engineer.md) · [Embedded Engineer (13)](lists/role/embedded-engineer.md) · [Data Engineer (6)](lists/role/data-engineer.md) · [Security Engineer (6)](lists/role/security-engineer.md) · [Data Analyst (4)](lists/role/data-analyst.md) · [+1 more →](lists/README.md)
 
@@ -563,7 +563,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 65 of 324.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 65 of 323.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1114,7 +1114,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 36 of 111.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 36 of 110.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 

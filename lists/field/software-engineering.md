@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**349 open roles.** 324 in the United States & Canada · 25 elsewhere in the world.
+**348 open roles.** 323 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -813,13 +813,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/32664ee6-62d8-420a-91d0-2872abe8877e">Intern - PHY Digital Design &amp; Automation Engineer, HBM</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44449230">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/02e60a20-4d25-4b9b-a610-5a4995f4fe60">Materials Science Engineering INTERN</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556995577">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
