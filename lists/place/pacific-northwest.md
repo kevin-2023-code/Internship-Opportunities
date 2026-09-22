@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**50 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,14 +81,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/4254b9d9-61fb-47a6-bb48-5f888ba3d058">Process Integration and Yield Engineering PhD Intern Repeat</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6a843639-92fe-41f8-b7b9-c9d48f4e84d5">Intern - Node Development Product Engineer - DRAM Technology</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44477658">Apply</a></td>

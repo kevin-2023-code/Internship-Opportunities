@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**209 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**208 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -386,13 +386,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/537a9432-c94c-49c9-8a39-d5531bd6aa3b">Embedded Software Engineer Intern</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/4254b9d9-61fb-47a6-bb48-5f888ba3d058">Process Integration and Yield Engineering PhD Intern Repeat</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

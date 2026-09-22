@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**178 open roles.** 171 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
+**175 open roles.** 168 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/3223bfce-8ab5-4f17-9662-181a6ac83763">EMC Engineer Intern</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/20216?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/f88099fa-b333-4b42-8de5-d80f9459c982">R&amp;D Hardware Engineer, Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54326?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>OnePay</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bb17c3a-e5f6-4337-8f34-c7a648128463">Design Intern</a></td>
@@ -1061,13 +1075,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/4254b9d9-61fb-47a6-bb48-5f888ba3d058">Process Integration and Yield Engineering PhD Intern Repeat</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3d8554b-b744-4553-b802-22958e1b9130">ASIC Design-for-Test (DFT) Engineer Intern</a></td>
 <td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
@@ -1184,34 +1191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/16cd489c-8e19-4887-89a0-45d3a23c95e4">2027 Manufacturing Optimization Engineer Intern</a></td>
 <td>Ashville, Ohio, United States<br/>Ashville, OH (Arsenal 1)</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Enviva</strong></td>
-<td><a href="https://trueinterview.io/jobs/203afb7e-0605-4f3e-99a2-103598368df3">Engineering and Operations Intern</a></td>
-<td>Faison, NC<br/>Sampson - Non-Exempt</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/enviva/jobs/7994599003">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4">Summer 2027: Software Engineering Intern - Cybersecurity</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cyvl</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbf0e7f7-d564-4c89-83c9-e3b2a7162bef">Hardware Engineering Intern</a></td>
-<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eef8cdd0-166f-4c11-bfbe-504627de3ba8">Engineering Intern - Software (SWE)/Machine Learning (ML)</a></td>
-<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

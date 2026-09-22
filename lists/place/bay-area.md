@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**173 open roles.** 172 in the United States & Canada · 1 elsewhere in the world.
+**174 open roles.** 173 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1185,6 +1185,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893396886006">Apply</a></td>
 <td align="center">5 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/047965e8-83a3-4c34-976f-04763dafefd1">R&amp;D Software Engineering Internship</a></td>
+<td>Santa Clara, California, United States<br/>Calabasas, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/53636?lang=en-us">Apply</a></td>
+<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>

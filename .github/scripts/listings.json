@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-22T10:44:20.352Z",
-  "count": 588,
+  "listingsChangedAt": "2026-09-22T19:28:04.780Z",
+  "count": 590,
   "listings": [
+    {
+      "id": "3223bfce-8ab5-4f17-9662-181a6ac83763",
+      "company": "Garmin",
+      "title": "EMC Engineer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20216?lang=en-us",
+      "url": "https://trueinterview.io/jobs/3223bfce-8ab5-4f17-9662-181a6ac83763",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "f88099fa-b333-4b42-8de5-d80f9459c982",
+      "company": "Keysight",
+      "title": "R&D Hardware Engineer, Intern",
+      "locations": [
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54326?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f88099fa-b333-4b42-8de5-d80f9459c982",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
     {
       "id": "7bb17c3a-e5f6-4337-8f34-c7a648128463",
       "company": "OnePay",
@@ -4182,32 +4232,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/20124?lang=en-us",
       "url": "https://trueinterview.io/jobs/bbaec9ff-23ea-4928-8f20-4cac20188d61",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "4254b9d9-61fb-47a6-bb48-5f888ba3d058",
-      "company": "Intel",
-      "title": "Process Integration and Yield Engineering PhD Intern Repeat",
-      "locations": [
-        "US, Oregon, Hillsboro",
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineering-PhD-Intern-Repeat_JR0287168",
-      "url": "https://trueinterview.io/jobs/4254b9d9-61fb-47a6-bb48-5f888ba3d058",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -15634,6 +15658,32 @@
       "url": "https://trueinterview.io/jobs/9032f16c-00d9-46c7-93af-bfad439ba6d8",
       "postedAt": "2026-08-04T21:07:31.000Z",
       "updatedAt": "2026-08-04T21:07:31.000Z"
+    },
+    {
+      "id": "047965e8-83a3-4c34-976f-04763dafefd1",
+      "company": "Keysight",
+      "title": "R&D Software Engineering Internship",
+      "locations": [
+        "Calabasas, California, United States",
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/53636?lang=en-us",
+      "url": "https://trueinterview.io/jobs/047965e8-83a3-4c34-976f-04763dafefd1",
+      "postedAt": "2026-08-04T00:00:00.000Z",
+      "updatedAt": "2026-08-04T00:00:00.000Z"
     },
     {
       "id": "dc5ae13d-3140-466c-bae0-73b8012632e7",
