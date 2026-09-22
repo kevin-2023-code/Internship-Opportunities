@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-21T21:32:00.223Z",
-  "count": 576,
+  "listingsChangedAt": "2026-09-22T00:28:48.822Z",
+  "count": 583,
   "listings": [
+    {
+      "id": "7bb17c3a-e5f6-4337-8f34-c7a648128463",
+      "company": "OnePay",
+      "title": "Design Intern",
+      "locations": [
+        "New York City (Hybrid)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/oneapp/ae9fcbfc-424f-4d17-9712-3ea3126e1063/application",
+      "url": "https://trueinterview.io/jobs/7bb17c3a-e5f6-4337-8f34-c7a648128463",
+      "postedAt": "2026-09-21T23:46:08.000Z",
+      "updatedAt": "2026-09-21T23:46:08.000Z"
+    },
     {
       "id": "cb2f07dd-7f85-4d8c-92f9-d9ccc4636673",
       "company": "SAP",
@@ -346,6 +371,31 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
+      "id": "4ca059d8-d4f1-416f-bf3a-899cec26d354",
+      "company": "Marvell Technology",
+      "title": "Board Product Engineer Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833-1",
+      "url": "https://trueinterview.io/jobs/4ca059d8-d4f1-416f-bf3a-899cec26d354",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
       "id": "fc3129d9-5982-459a-a93d-98d07da691f6",
       "company": "Marvell Technology",
       "title": "Digital IC Design Intern, BS - Summer 2027",
@@ -404,6 +454,133 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1",
       "url": "https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "89553555-1a45-4637-9eff-16c55f168aa1",
+      "company": "Marvell Technology",
+      "title": "Test Engineering Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America",
+        "Irvine, CA",
+        "Westlake Village, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1",
+      "url": "https://trueinterview.io/jobs/89553555-1a45-4637-9eff-16c55f168aa1",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "be19fdcc-f884-4b35-9695-11e37eb36a6c",
+      "company": "Marvell Technology",
+      "title": "Test Equipment Engineer Intern",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern_2603826-1",
+      "url": "https://trueinterview.io/jobs/be19fdcc-f884-4b35-9695-11e37eb36a6c",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "37cfa49e-f477-4dfe-8570-91ee3e699752",
+      "company": "Micron Technology",
+      "title": "Intern - Probe Equipment Engineer",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44430244",
+      "url": "https://trueinterview.io/jobs/37cfa49e-f477-4dfe-8570-91ee3e699752",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "af4a7561-e246-4bf1-a3e6-fe6d045b5adf",
+      "company": "Micron Technology",
+      "title": "Intern - Probe Manufacturing Engineering (Probe AME)",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44542357",
+      "url": "https://trueinterview.io/jobs/af4a7561-e246-4bf1-a3e6-fe6d045b5adf",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "d768883e-183a-4f95-9260-37fa888b7793",
+      "company": "Micron Technology",
+      "title": "Intern- ID1 Equipment Engineer",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44430171",
+      "url": "https://trueinterview.io/jobs/d768883e-183a-4f95-9260-37fa888b7793",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
