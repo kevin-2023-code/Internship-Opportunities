@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**58 open roles.** 57 in the United States & Canada · 1 elsewhere in the world.
+**59 open roles.** 58 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb207ad0-4e95-455d-a93f-391b3a09f0b9">Product Design Intern, AI Infrastructure - Summer 2027</a></td>
+<td>New York, NY<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725807">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0dfde11f-5dc2-4dd6-93ff-56337e074008">Data Science Intern</a></td>

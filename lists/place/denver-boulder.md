@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**29 open roles.**
+**28 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/c79e2a74-3bc0-445c-ab91-61c933f7ae80">R&amp;D Software Engineer, Intern</a></td>
-<td>Colorado Springs, Colorado, United States<br/>US-CO-Col Springs-Bldg C</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54327?lang=en-us">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/de8bf1a8-4f7b-4c91-9286-eb8a99ab5269">Software Engineering Intern (AI Solutions)</a></td>
 <td>Colorado Springs, Colorado, United States<br/>US-CO-Col Springs-Bldg C</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54322?lang=en-us">Apply</a></td>

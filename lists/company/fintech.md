@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**20 open roles.** 16 in the United States & Canada · 4 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -129,13 +129,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64/application">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3851349-2e41-4eac-9ad4-44341d34b7f5">Software Engineer, Intern (Summer or Winter)</a></td>
-<td>Toronto, ON<br/>London<br/>San Francisco, CA<br/>+5 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8130805">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -148,6 +141,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/a496ac89-bd9d-463b-ba3f-9f52f09f4ffe">Integration Reliability Engineer Intern, Technical Operations</a></td>
+<td>Singapore<br/>SG-Singapore</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8186367">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Sezzle</strong></td>
 <td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>

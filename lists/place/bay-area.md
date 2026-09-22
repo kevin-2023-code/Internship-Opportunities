@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**174 open roles.** 173 in the United States & Canada · 1 elsewhere in the world.
+**175 open roles.** 174 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/b33d81ca-2dca-4429-81b0-78ec3d3275af">Hardware Engineer II Intern - United States</a></td>
+<td>San Jose, California, US, United States of America<br/>San Jose, California, United States of America<br/>Austin, TX<br/>+4 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb207ad0-4e95-455d-a93f-391b3a09f0b9">Product Design Intern, AI Infrastructure - Summer 2027</a></td>
+<td>Santa Clara, CA, US<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725807">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/09c2cd3a-e7c6-44d4-8d31-4ec551aaf7fe">2027 Summer Intern, BS/MS, Embedded, Software Engineer</a></td>
@@ -870,13 +884,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, Santa Clara<br/>Santa Clara, California, United States<br/>San Jose, California, United States<br/>+6 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91864?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3851349-2e41-4eac-9ad4-44341d34b7f5">Software Engineer, Intern (Summer or Winter)</a></td>
-<td>San Francisco, CA<br/>Toronto, ON<br/>London<br/>+5 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8130805">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>IXL Learning</strong></td>

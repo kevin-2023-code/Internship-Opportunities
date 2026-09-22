@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**8 open roles.** 7 in the United States & Canada · 1 elsewhere in the world.
+**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b78170a-bd06-42d1-866e-6daf6cc63401">Quantum Network Engineer Intern 2027</a></td>
+<td>Yorktown Heights, US</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=133470">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Bot Auto</strong></td>
 <td><a href="https://trueinterview.io/jobs/506acc2e-8712-41c2-9df5-60d0cc9cd8e6">Intern, IT Specialist</a></td>
