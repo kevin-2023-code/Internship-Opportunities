@@ -31,9 +31,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-22 10:44 UTC_
+_Last updated: 2026-09-22 15:20 UTC_
 
-**545 open internships** from **149 employers** · **184 posted in the last 7 days** · refreshed hourly
+**545 open internships** from **149 employers** · **171 posted in the last 7 days** · refreshed hourly
 
 ### Browse 545 internships by field
 
@@ -53,9 +53,9 @@ _Last updated: 2026-09-22 10:44 UTC_
 
 ### 🔥 Posting the most this week
 
-**Google** 20 &nbsp;·&nbsp; **Anduril Industries** 14 &nbsp;·&nbsp; **Micron Technology** 13 &nbsp;·&nbsp; **QUALCOMM** 13 &nbsp;·&nbsp; **Keysight** 9 &nbsp;·&nbsp; **Infineon** 8 &nbsp;·&nbsp; **Analog Devices** 7 &nbsp;·&nbsp; **Marvell Technology** 7 &nbsp;·&nbsp; **WSP** 6 &nbsp;·&nbsp; **Cisco** 5 &nbsp;·&nbsp; **Tokyo Electron** 5 &nbsp;·&nbsp; **AMD** 4
+**Anduril Industries** 14 &nbsp;·&nbsp; **Google** 14 &nbsp;·&nbsp; **Micron Technology** 13 &nbsp;·&nbsp; **QUALCOMM** 13 &nbsp;·&nbsp; **Keysight** 9 &nbsp;·&nbsp; **Infineon** 8 &nbsp;·&nbsp; **Analog Devices** 7 &nbsp;·&nbsp; **Marvell Technology** 7 &nbsp;·&nbsp; **WSP** 6 &nbsp;·&nbsp; **Cisco** 5 &nbsp;·&nbsp; **Tokyo Electron** 5 &nbsp;·&nbsp; **AMD** 4
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 26 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 25 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -69,7 +69,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (172)](lists/place/bay-area.md) · [🎸 Austin (71)](lists/place/austin.md) · [🎓 Boston & Cambridge (51)](lists/place/boston.md) · [🌧️ Portland, Boise & Spokane (50)](lists/place/pacific-northwest.md) · [🌴 Los Angeles & Orange County (46)](lists/place/los-angeles.md) · [🤠 Dallas–Fort Worth (35)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (34)](lists/place/research-triangle.md) · [🗽 New York City (30)](lists/place/new-york.md) · [🏔️ Denver, Boulder & Colorado (29)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (28)](lists/place/phoenix.md) · [+6 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (184)](lists/new-this-week.md) · [🌐 Remote (8)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (171)](lists/new-this-week.md) · [🌐 Remote (8)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -691,21 +691,21 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/67887952-1555-413b-b3d0-83db67838cd5">Business Data Scientist Intern, PhD, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6bd20267-6820-45a4-90d6-d14c29ff9a4e">Data Scientist, Product Intern, MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fafcf856-8bd3-4d08-8772-a071199517c2">Data Scientist, Research Intern, PhD, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/89965613241246406-data-scientist-research-intern-phd-summer-2027">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
