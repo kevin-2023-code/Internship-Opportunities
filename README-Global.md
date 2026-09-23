@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-22 22:36 UTC_
+_Last updated: 2026-09-23 13:12 UTC_
 
 **44 open internships** from **30 employers** · **8 posted in the last 7 days** · refreshed hourly
 
 ### Browse 44 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (25)
+💻 **[Software Engineering](#-software-engineering)** (24)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (5)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (6)
 
 📱 **[Product & Design](#-product--design)** (6)
 
@@ -100,13 +100,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">7d</td>
 </tr>
 <tr>
-<td><strong>Compeer Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b">Intern Infrastructure Engineering</a></td>
-<td>MN-Lakeville</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008">Apply</a></td>
-<td align="center">11d</td>
-</tr>
-<tr>
 <td><strong>Trexo Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/92159811-3be1-4b22-a052-726754c9a172">Forward Deployed Engineering Intern / Co-op Winter 2027</a></td>
 <td>Mississauga</td>
@@ -167,7 +160,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9ddd6196-bd67-47a0-9c4c-802a4f483234">Software Engineering Intern</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>Symphony Communication Services</strong></td>
@@ -188,21 +181,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/630a07a6-4af4-4814-a52d-8fee47d4ae97">2027 Software Engineer Program - 12 Month Industrial Placement - Glasgow &amp; London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dd7e0708-079a-4b83-a50f-ac4a9cee1cb6">2027 Software Engineer Program - Summer Internship - Dublin</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776172">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ffb72b4-fb99-4dd9-b25b-faf99588b710">Web Engineer Intern - Tools &amp; Portals</a> 🛂</td>
 <td>London, England, United Kingdom<br/>Novi Sad, Vojvodina, Serbia<br/>Cary<br/>+1 more</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004">Apply</a></td>
-<td align="center">24d</td>
+<td align="center">25d</td>
 </tr>
 <tr>
 <td><strong>Telus Digital</strong></td>
@@ -302,6 +295,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
+<td align="center">6d</td>
+</tr>
+<tr>
 <td><strong>O'connell Electric Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8987a40-9417-4335-a566-b09468148ac7">Electrical Engineer Intern (Summer 2027)</a></td>
 <td>Victor, Rochester, Syracuse</td>
@@ -361,7 +361,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57">Product Manager Intern</a></td>
 <td>Redwood City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Sezzle</strong></td>
@@ -445,14 +445,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6efd5e0e-9584-437e-bb6e-43157f1866b3">2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c3b4dd4f-5c0f-441b-83cc-f025f975634c">2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 </tbody>
 </table>
@@ -469,11 +469,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
-<td align="center">6d</td>
+<td><strong>Compeer Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b">Intern Infrastructure Engineering</a></td>
+<td>MN-Lakeville</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008">Apply</a></td>
+<td align="center">11d</td>
 </tr>
 </tbody>
 </table>

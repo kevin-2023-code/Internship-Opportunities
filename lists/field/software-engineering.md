@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**349 open roles.** 324 in the United States & Canada · 25 elsewhere in the world.
+**346 open roles.** 322 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1033,6 +1033,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/029ef665-6a27-42fd-b8a3-54c79d08723a">IT Undergraduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298782">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/dea14382-b5b7-47f6-9b22-a01e9b93bf4f">Component Engineering Intern</a></td>
 <td>Olathe, Kansas, United States</td>
@@ -1304,13 +1311,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723">Apply</a></td>
 <td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/014b4290-4c20-4c5a-b367-a1b4b150ea36">Intern - DRAM Test Structure Design and Layout Engineering</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44332522">Apply</a></td>
-<td align="center">6 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Clera</strong></td>
@@ -1964,14 +1964,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b80f91dd-412c-451f-ac8e-77b28b8299a4">Intern - Digital IP Design Engineer, DRAM</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43815517">Apply</a></td>
@@ -2209,13 +2202,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/02a8a93e-f923-4418-a406-b421497cb07b">Intern - Process Development Engineer, 3D DRAM Metals</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43721088">Apply</a></td>
-<td align="center">11 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0c75bbe-ba16-48a6-93e0-5c0a54af8bac">Plumbing/Fire Protection Engineering Intern - Summer 2027</a></td>
 <td>Sunrise, FL, United States</td>
@@ -2324,13 +2310,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Pittsburgh</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Compeer Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b">Intern Infrastructure Engineering</a></td>
-<td>MN-Lakeville</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Trexo Robotics</strong></td>

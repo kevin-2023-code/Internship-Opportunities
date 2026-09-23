@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**31 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,6 +212,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Hill House Home</strong></td>
+<td><a href="https://trueinterview.io/jobs/006cf6e1-49d2-4e4d-870d-7ab1aa242491">Product Development Intern (Fall 2026)</a></td>
+<td>New York, NY<br/>New York, New York, United States<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hillhousehome/jobs/4706303006">Apply</a></td>
+<td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bci Brands</strong></td>

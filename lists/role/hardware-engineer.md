@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**30 open roles.**
+**32 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -145,6 +145,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b62b5c-a2e3-4073-b0fe-1fca1379fee5">IC Test Intern</a></td>
+<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54259?lang=en-us">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a400fb05-52e4-4d20-a5c9-3c66ded97a63">Semiconductor Process Engineering Intern- 6+ months Internship</a></td>
 <td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54166?lang=en-us">Apply</a></td>
@@ -212,6 +219,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, CA, San Jose<br/>US, TX, Austin<br/>San Jose, California, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91463?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
+<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
+<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>

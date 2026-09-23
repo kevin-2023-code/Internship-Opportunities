@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**211 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**212 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -750,6 +750,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e4931f3-a3ff-4a5d-b4de-aaa0012a0336">Product Engineering Intern</a></td>
 <td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017579">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/011a56b2-f64a-4e6a-a608-708fd5d01f6e">Product Marketing Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017582">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

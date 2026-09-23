@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**52 open roles.** 46 in the United States & Canada · 6 elsewhere in the world.
+**53 open roles.** 47 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -317,6 +317,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
 <td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Hill House Home</strong></td>
+<td><a href="https://trueinterview.io/jobs/006cf6e1-49d2-4e4d-870d-7ab1aa242491">Product Development Intern (Fall 2026)</a></td>
+<td>New York, NY<br/>New York, New York, United States<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hillhousehome/jobs/4706303006">Apply</a></td>
+<td align="center">18 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Bci Brands</strong></td>

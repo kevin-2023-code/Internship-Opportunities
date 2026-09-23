@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**116 open roles.** 111 in the United States & Canada · 5 elsewhere in the world.
+**123 open roles.** 117 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -347,6 +347,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b62b5c-a2e3-4073-b0fe-1fca1379fee5">IC Test Intern</a></td>
+<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54259?lang=en-us">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>CHAOS Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/979c6b7b-c1c7-40b7-a0ef-de8ec8c51058">Electrical Engineer Intern - Summer 2027</a></td>
 <td>Los Angeles, CA<br/>El Segundo, California, United States</td>
@@ -397,6 +404,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/011a56b2-f64a-4e6a-a608-708fd5d01f6e">Product Marketing Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017582">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8d910cd6-5e0c-4218-92ea-6b308accf230">Utah: Manufacturing Engineering Intern</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627">Apply</a></td>
@@ -415,6 +429,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin (Ed Bluestein, Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Facilities-Electrical-Engineer-Intern---Summer-2027_R-10064573">Apply</a></td>
 <td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/014b4290-4c20-4c5a-b367-a1b4b150ea36">Intern - DRAM Test Structure Design and Layout Engineering</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44332522">Apply</a></td>
+<td align="center">6 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
@@ -712,6 +733,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
+<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
@@ -774,11 +802,25 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/02a8a93e-f923-4418-a406-b421497cb07b">Intern - Process Development Engineer, 3D DRAM Metals</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43721088">Apply</a></td>
+<td align="center">11 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Apex Companies</strong></td>
 <td><a href="https://trueinterview.io/jobs/ca7752d6-82b7-454e-8047-0d87da0073b4">Civil Engineering Intern</a></td>
 <td>Fort Myers, FL<br/>FL - Fort Myers (JE)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5383323008">Apply</a></td>
 <td align="center">7 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung</strong></td>
+<td><a href="https://trueinterview.io/jobs/0372ff47-aaf0-4d4d-ac53-b670bef3f343">2027 Summer Internship</a></td>
+<td>1530 FM 973 Taylor, TX, USA, United States of America</td>
+<td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158">Apply</a></td>
+<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>SpaceX</strong></td>
@@ -812,6 +854,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>SG-Singapore</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8186367">Apply</a></td>
 <td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>O'connell Electric Company</strong></td>
