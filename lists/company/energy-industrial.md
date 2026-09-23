@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -82,30 +82,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a2f53b41-a1b8-4a2b-b1c1-80e7ab051418">Intern - Engineering</a></td>
-<td>Suwanee, Georgia, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50759?lang=en-us">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b23d8112-45b9-418a-b046-6ee51850495b">Intern - Design Engineering</a></td>
-<td>Bridgeton, Missouri, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50737?lang=en-us">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a5608f22-3c76-411d-99d9-c06b505f1b7b">Intern - Reliability Engineering</a></td>
 <td>Bridgeton, Missouri, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/50746?lang=en-us">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e513df2b-a7f3-4bbd-9e5b-d4a204036a45">Intern - Test Engineering</a></td>
-<td>Suwanee, Georgia, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50741?lang=en-us">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

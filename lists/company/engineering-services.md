@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**45 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**46 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -317,6 +317,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Concord, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5405848008">Apply</a></td>
 <td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/08faa839-7029-4acb-b5ff-18596acb752d">Student Internship - Construction Materials Testing</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396195008">Apply</a></td>
+<td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>

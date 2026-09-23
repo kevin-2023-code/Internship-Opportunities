@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-23T13:12:42.412Z",
-  "count": 600,
+  "listingsChangedAt": "2026-09-23T18:08:22.674Z",
+  "count": 609,
   "listings": [
     {
       "id": "d2c400df-061b-4bae-87c0-c43018a336a5",
@@ -35,6 +35,81 @@
       "url": "https://trueinterview.io/jobs/d2c400df-061b-4bae-87c0-c43018a336a5",
       "postedAt": "2026-09-23T00:04:03.000Z",
       "updatedAt": "2026-09-23T00:04:03.000Z"
+    },
+    {
+      "id": "a1eeb765-89ba-436c-8726-82c9cf141090",
+      "company": "Marvell Technology",
+      "title": "Security Verification/Validation Engineer Intern, BS - Summer 2027",
+      "locations": [
+        "Chandler, AZ, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1",
+      "url": "https://trueinterview.io/jobs/a1eeb765-89ba-436c-8726-82c9cf141090",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "16d161f0-c464-4d7e-8703-222f9fdec589",
+      "company": "Micron Technology",
+      "title": "Intern - ID1 Manufacturing Engineer",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44629351",
+      "url": "https://trueinterview.io/jobs/16d161f0-c464-4d7e-8703-222f9fdec589",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "59753151-3611-4190-8c64-9494a2e3c877",
+      "company": "Micron Technology",
+      "title": "Intern Design Engineer - HIG HBM",
+      "locations": [
+        "Richardson, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44547378",
+      "url": "https://trueinterview.io/jobs/59753151-3611-4190-8c64-9494a2e3c877",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
     },
     {
       "id": "a1e2a05f-0400-48a8-b756-4eab904f7589",
@@ -309,31 +384,6 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
-      "id": "59753151-3611-4190-8c64-9494a2e3c877",
-      "company": "Micron Technology",
-      "title": "Intern - Design Engineer, HIG HBM",
-      "locations": [
-        "Richardson, TX, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44547378",
-      "url": "https://trueinterview.io/jobs/59753151-3611-4190-8c64-9494a2e3c877",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
       "id": "bb207ad0-4e95-455d-a93f-391b3a09f0b9",
       "company": "NVIDIA",
       "title": "Product Design Intern, AI Infrastructure - Summer 2027",
@@ -385,6 +435,31 @@
       "url": "https://trueinterview.io/jobs/7bb17c3a-e5f6-4337-8f34-c7a648128463",
       "postedAt": "2026-09-21T23:46:08.000Z",
       "updatedAt": "2026-09-21T23:46:08.000Z"
+    },
+    {
+      "id": "09aa64c2-190f-4eb7-8459-e42f62b2de58",
+      "company": "Ford Motor Company",
+      "title": "EDS Ford Champ (Intern)",
+      "locations": [
+        "Naucalpan de Juarez, MEX, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759",
+      "url": "https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58",
+      "postedAt": "2026-09-21T23:03:38.000Z",
+      "updatedAt": "2026-09-21T23:03:38.000Z"
     },
     {
       "id": "a5244c9d-6532-4b44-91b7-daeaca2a6463",
@@ -1126,31 +1201,6 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
-      "id": "d768883e-183a-4f95-9260-37fa888b7793",
-      "company": "Micron Technology",
-      "title": "Intern- ID1 Equipment Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44430171",
-      "url": "https://trueinterview.io/jobs/d768883e-183a-4f95-9260-37fa888b7793",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
       "id": "2887a173-48d0-422c-aca8-c06e3d290371",
       "company": "Intel",
       "title": "Process Integration and Yield Engineering PhD Intern",
@@ -1637,7 +1687,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1892,7 +1942,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2481,6 +2531,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54322?lang=en-us",
       "url": "https://trueinterview.io/jobs/de8bf1a8-4f7b-4c91-9286-eb8a99ab5269",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "0ad1a1d9-f4fb-49da-89a3-df4c50f13273",
+      "company": "Marvell Technology",
+      "title": "Design For Test Intern, MS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA",
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-For-Test-Intern--MS---Summer-2027_2603788-1",
+      "url": "https://trueinterview.io/jobs/0ad1a1d9-f4fb-49da-89a3-df4c50f13273",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -3267,6 +3343,33 @@
       "url": "https://trueinterview.io/jobs/524d3fea-c6bc-4f48-8518-b6ae6767c741",
       "postedAt": "2026-09-16T19:55:39.000Z",
       "updatedAt": "2026-09-16T19:55:39.000Z"
+    },
+    {
+      "id": "090e522d-61dc-47f8-bbfb-ee829bae00ee",
+      "company": "InterSystems",
+      "title": "Micro-Intern: Angular/FHIR Development (IAP)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7992645003",
+      "url": "https://trueinterview.io/jobs/090e522d-61dc-47f8-bbfb-ee829bae00ee",
+      "postedAt": "2026-09-16T19:37:47.000Z",
+      "updatedAt": "2026-09-16T19:37:47.000Z"
     },
     {
       "id": "a767aa3e-de81-4868-8d8d-9ecb5c8abb25",
@@ -4383,6 +4486,33 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "0562979c-2be1-41ce-89b1-6af9cfee7b8b",
+      "company": "Analog Devices",
+      "title": "Information Technology Intern",
+      "locations": [
+        "US, MA, Wilmington",
+        "US, WA, Camas",
+        "US, MA, Wilmington, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Information-Technology-Intern_R266137",
+      "url": "https://trueinterview.io/jobs/0562979c-2be1-41ce-89b1-6af9cfee7b8b",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "b05ffb50-f9a2-49e1-9ce4-5b0ba777684f",
       "company": "Dell",
       "title": "Dell Technologies Services Undergraduate Engineering   Intern",
@@ -4658,6 +4788,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44419599",
       "url": "https://trueinterview.io/jobs/db620d2b-fb3c-4881-8ae4-ac30324659f8",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "095805ce-f418-42b3-9b15-dcca8f768750",
+      "company": "Nokia",
+      "title": "Embedded Software Development Coop",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40172",
+      "url": "https://trueinterview.io/jobs/095805ce-f418-42b3-9b15-dcca8f768750",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -5240,6 +5395,33 @@
       "url": "https://trueinterview.io/jobs/6734561e-53d6-4616-8766-cc58cfc5ca13",
       "postedAt": "2026-09-14T14:23:10.000Z",
       "updatedAt": "2026-09-14T14:23:10.000Z"
+    },
+    {
+      "id": "048a5ebc-d808-458c-8135-6e7de30ea082",
+      "company": "Robinhood",
+      "title": "Brokerage Risk Analyst Intern (Summer 2027)",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src=&gh_jid=8198223",
+      "url": "https://trueinterview.io/jobs/048a5ebc-d808-458c-8135-6e7de30ea082",
+      "postedAt": "2026-09-14T12:00:09.000Z",
+      "updatedAt": "2026-09-14T12:00:09.000Z"
     },
     {
       "id": "87b07972-e202-44c5-9d19-074b932c10b1",
@@ -6631,6 +6813,32 @@
       "url": "https://trueinterview.io/jobs/7bba87d2-2fba-4c86-af7d-9d81db4cbbe5",
       "postedAt": "2026-09-10T19:06:37.000Z",
       "updatedAt": "2026-09-10T19:06:37.000Z"
+    },
+    {
+      "id": "075c22bc-ca99-4391-876e-8282a1397023",
+      "company": "Rocket Lab Corporation",
+      "title": "Propulsion Intern Summer 2027",
+      "locations": [
+        "Long Beach, CA",
+        "EDC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986792003",
+      "url": "https://trueinterview.io/jobs/075c22bc-ca99-4391-876e-8282a1397023",
+      "postedAt": "2026-09-10T19:06:22.000Z",
+      "updatedAt": "2026-09-10T19:06:22.000Z"
     },
     {
       "id": "97366ce1-83fc-4bd3-90b6-f1dd6e448d1c",
@@ -9232,7 +9440,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9543,9 +9751,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -9812,7 +10020,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -10491,6 +10699,31 @@
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
+      "id": "095c50f1-a7f9-4fd6-8c46-b4d5445daadf",
+      "company": "Micron Technology",
+      "title": "Intern - DRAM Design Rules",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44332891",
+      "url": "https://trueinterview.io/jobs/095c50f1-a7f9-4fd6-8c46-b4d5445daadf",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "2039f31d-7836-4bbc-a0ec-85bb28fa6569",
       "company": "Hadrian Automation",
       "title": "Data Science/ Data Engineer Intern",
@@ -11008,6 +11241,31 @@
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
     {
+      "id": "0679d062-8f44-4df9-a6e6-08c531ac3bd0",
+      "company": "Micron Technology",
+      "title": "Intern - Advanced DRAM Cell & Device Technology",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44247232",
+      "url": "https://trueinterview.io/jobs/0679d062-8f44-4df9-a6e6-08c531ac3bd0",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
       "id": "924ef01c-4b81-4116-b6fe-cd3dfc87e200",
       "company": "Texas Instruments",
       "title": "Analog IC Design Engineering Intern - Bachelors",
@@ -11050,9 +11308,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11753,7 +12011,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11888,31 +12146,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.na.panasonic.com/jobs/50757?lang=en-us",
       "url": "https://trueinterview.io/jobs/1bf9d80a-4964-4eeb-8843-f509bc03da1a",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "a2f53b41-a1b8-4a2b-b1c1-80e7ab051418",
-      "company": "Panasonic",
-      "title": "Intern - Engineering",
-      "locations": [
-        "Suwanee, Georgia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/50759?lang=en-us",
-      "url": "https://trueinterview.io/jobs/a2f53b41-a1b8-4a2b-b1c1-80e7ab051418",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "updatedAt": "2026-09-01T00:00:00.000Z"
     },
@@ -12869,31 +13102,6 @@
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
     {
-      "id": "b23d8112-45b9-418a-b046-6ee51850495b",
-      "company": "Panasonic",
-      "title": "Intern - Design Engineering",
-      "locations": [
-        "Bridgeton, Missouri, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/50737?lang=en-us",
-      "url": "https://trueinterview.io/jobs/b23d8112-45b9-418a-b046-6ee51850495b",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
       "id": "a5608f22-3c76-411d-99d9-c06b505f1b7b",
       "company": "Panasonic",
       "title": "Intern - Reliability Engineering",
@@ -12915,31 +13123,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.na.panasonic.com/jobs/50746?lang=en-us",
       "url": "https://trueinterview.io/jobs/a5608f22-3c76-411d-99d9-c06b505f1b7b",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
-      "id": "e513df2b-a7f3-4bbd-9e5b-d4a204036a45",
-      "company": "Panasonic",
-      "title": "Intern - Test Engineering",
-      "locations": [
-        "Suwanee, Georgia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/50741?lang=en-us",
-      "url": "https://trueinterview.io/jobs/e513df2b-a7f3-4bbd-9e5b-d4a204036a45",
       "postedAt": "2026-08-31T00:00:00.000Z",
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
@@ -13237,7 +13420,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -13367,7 +13550,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Security Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -13691,6 +13874,32 @@
       "url": "https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0",
       "postedAt": "2026-08-25T23:52:00.000Z",
       "updatedAt": "2026-08-25T23:52:00.000Z"
+    },
+    {
+      "id": "08faa839-7029-4acb-b5ff-18596acb752d",
+      "company": "Olsson",
+      "title": "Student Internship - Construction Materials Testing",
+      "locations": [
+        "Olathe, KS",
+        "Olathe"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5396195008",
+      "url": "https://trueinterview.io/jobs/08faa839-7029-4acb-b5ff-18596acb752d",
+      "postedAt": "2026-08-25T19:48:15.000Z",
+      "updatedAt": "2026-08-25T19:48:15.000Z"
     },
     {
       "id": "f417583d-e67f-4a9c-8a2a-74f531b2326a",
@@ -14020,7 +14229,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -15138,6 +15347,32 @@
       "updatedAt": "2026-08-19T22:59:03.000Z"
     },
     {
+      "id": "08ede934-fa93-4f19-8496-e338f952f189",
+      "company": "Sezzle",
+      "title": "IT Operations Intern",
+      "locations": [
+        "Peru",
+        "Bogota, Colombia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sezzle/jobs/7907182003",
+      "url": "https://trueinterview.io/jobs/08ede934-fa93-4f19-8496-e338f952f189",
+      "postedAt": "2026-08-19T21:46:57.000Z",
+      "updatedAt": "2026-08-19T21:46:57.000Z"
+    },
+    {
       "id": "0ddb30d4-cd6e-4a4f-ad00-49ffa263efb9",
       "company": "Nextiva",
       "title": "Marketing Intern - Data Science",
@@ -15215,6 +15450,31 @@
       "url": "https://trueinterview.io/jobs/4683b7ef-4baa-4efd-88a6-c1794443aaa0",
       "postedAt": "2026-08-19T00:00:00.000Z",
       "updatedAt": "2026-08-19T00:00:00.000Z"
+    },
+    {
+      "id": "040af650-a582-419d-9b0c-cc9cab3e7048",
+      "company": "True Anomaly",
+      "title": "Propulsion and Fluids Intern",
+      "locations": [
+        "Long Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007",
+      "url": "https://trueinterview.io/jobs/040af650-a582-419d-9b0c-cc9cab3e7048",
+      "postedAt": "2026-08-18T20:28:25.000Z",
+      "updatedAt": "2026-08-18T20:28:25.000Z"
     },
     {
       "id": "006cf6e1-49d2-4e4d-870d-7ab1aa242491",
@@ -15790,31 +16050,6 @@
       "updatedAt": "2026-08-06T18:36:43.000Z"
     },
     {
-      "id": "3f0ef98e-62ad-498e-98a7-8be761053359",
-      "company": "NVIDIA",
-      "title": "Software Engineering Intern, Dynamo - Fall 2026",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893396886006",
-      "url": "https://trueinterview.io/jobs/3f0ef98e-62ad-498e-98a7-8be761053359",
-      "postedAt": "2026-08-05T00:00:00.000Z",
-      "updatedAt": "2026-08-05T00:00:00.000Z"
-    },
-    {
       "id": "a3544bdf-16cf-43eb-b403-ad0d0f011a61",
       "company": "Rocket Lab Corporation",
       "title": "Development Engineering Intern - Neutron Thermal Protection Systems",
@@ -15909,7 +16144,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
