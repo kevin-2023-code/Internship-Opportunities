@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**140 open roles.** 133 in the United States & Canada · 7 elsewhere in the world.
+**146 open roles.** 139 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -179,6 +179,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0f43c729-b239-4f17-b811-f1a051cebeea">Civil Internship #1399</a></td>
+<td>Bellevue, WA<br/>Bellevue, NE<br/>Grand Island, NE<br/>+2 more</td>
+<td align="center"><a href="https://www.benesch.com/job-openings/5239964007?gh_jid=5239964007">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Gdh</strong></td>
 <td><a href="https://trueinterview.io/jobs/91dd23f2-18fb-4b3c-aa0e-42fdc70127fe">Electrical Engineering Intern</a></td>
 <td>BUFFALO, NY, United States</td>
@@ -256,6 +263,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/0dec2c93-7e8c-4f4c-80c9-0a7e44b9ec7e">Physical Design and Timing Engineer Intern - Summer 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397705518">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/b0a84d05-15bb-4490-843b-8cfa7bc377d3">2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA)</a></td>
 <td>Gloucester, MA, US</td>
@@ -281,6 +295,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/998f364b-8a31-42d3-b63c-ce706906aedb">Semiconductor R&amp;D Process Integration Intern</a></td>
 <td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54305?lang=en-us">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b5d97e1-1811-4eb2-b7b7-15b39418fc01">Analog Design Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America<br/>Burlington, VT</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -523,6 +544,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c690d29-dad9-4a6c-af43-d083dc15bc1a">ASIC Firmware and Diagnostic Intern</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America<br/>Bloomington, Minnesota, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a7a6eb7-0e09-4076-82f9-a6d83e0fb13c">Pre-Silicon Diagnostics Intern</a></td>
 <td>Ft. Collins, Colorado, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394">Apply</a></td>
@@ -627,13 +655,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/4113de96-60da-4697-8a84-6786795e13e7">Electrical Engineering Intern</a></td>
-<td>Spring, Texas, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Olsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/214cf066-56e3-4286-a487-b8b863a9604f">Electrical Engineering Internship - Data Center Facilities</a></td>
 <td>Fort Worth, TX<br/>North Kansas City, MO<br/>Omaha, NE</td>
@@ -687,6 +708,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4b64a054-9cda-45ec-84ac-859fc31b1f34">Mechanical Engineering Internship - Federal Infrastructure</a></td>
 <td>Overland Park, KS</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396095008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0c1b37af-781f-4571-b0a2-2e13b89ac988">Revit Drafting Internship - Mechanical</a></td>
+<td>North Kansas City, MO<br/>Tulsa, OK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396260008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
@@ -849,6 +877,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283">Apply</a></td>
 <td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ecb6c0a-022e-46ba-ab58-067f2fc804c3">Process Sustaining Engineering Intern</a></td>
+<td>US, MA, Chelmsford, Alpha, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0bdb8a27-62f5-458b-9968-30f25fecbf24">Mixed Signal Engineer Intern</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299">Apply</a></td>
+<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>

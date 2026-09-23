@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/9096b553-6c96-4d79-b84a-ba6564addeea">R&amp;D Engineer, Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54342?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/b33d81ca-2dca-4429-81b0-78ec3d3275af">Hardware Engineer II Intern - United States</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States of America<br/>San Jose, California, US, United States of America<br/>+4 more</td>
@@ -176,13 +183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d4d70df6-e608-4bca-9f1b-56716cf70666">FIELD ENGINEER - INTERN</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States<br/>Harlingen, Texas, United States<br/>+5 more</td>
 <td align="center"><a href="https://noxgroup.us/careers/?gh_jid=5418745008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/dff84165-8e92-42f2-97cf-d03eec855532">System Dev Engineer I Co-op (Robotics), Autonomous AI Security</a></td>
-<td>Austin, TX<br/>Austin, Texas, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

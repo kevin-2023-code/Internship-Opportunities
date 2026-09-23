@@ -19,9 +19,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2c400df-061b-4bae-87c0-c43018a336a5">2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8214350">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/8cacfd2b-aee8-4a97-9268-3457ee758bd1">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8224729">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>

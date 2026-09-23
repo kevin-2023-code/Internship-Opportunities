@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**63 open roles.** 62 in the United States & Canada · 1 elsewhere in the world.
+**66 open roles.** 65 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2c400df-061b-4bae-87c0-c43018a336a5">2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8214350">Apply</a></td>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a51f344-4acc-4f7c-a9b3-c39c1a73eaf9">Data Engineer Intern (2027)</a></td>
+<td>San Francisco, CA • New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ad5433a-3360-4394-abbe-2732facc996e">Summer 2027 PhD AI Engineering Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91005?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/55bf4126-2daa-440b-81ab-f81a3ff7810f">Summer 2027 PhD Applied AI Engineering Intern, Hardware AI</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90997?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4853f203-5c4a-4549-bec2-46b27861f0ad">Summer 2027 PhD ML Systems Research Engineering Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90993?lang=en-us">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -305,13 +326,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/dff84165-8e92-42f2-97cf-d03eec855532">System Dev Engineer I Co-op (Robotics), Autonomous AI Security</a></td>
-<td>Austin, TX<br/>Austin, Texas, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f7c0b67-c7ec-4a37-bcf8-c370f9b9f323">Data Analytics Engineer Intern - Summer 2027</a></td>
 <td>Austin (Oakhill, Office), United States of America</td>
@@ -337,6 +351,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/827fe610-73f5-48e7-8a2f-effdbf90c84d">Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)</a></td>
 <td>Albany, NY, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318309200">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b599870-8271-4a6b-890c-cbab349ffce7">AI-Agent Development Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

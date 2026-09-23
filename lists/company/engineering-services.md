@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**46 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**48 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/928e12cb-550b-40fb-b1bd-2dc8fda2d099">Site Civil Engineer Intern</a></td>
 <td>Chicago, IL<br/>New York, NY<br/>Charlotte, NC<br/>+11 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4408304009">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Benesch</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f43c729-b239-4f17-b811-f1a051cebeea">Civil Internship #1399</a></td>
+<td>Bellevue, WA<br/>Bellevue, NE<br/>Grand Island, NE<br/>+2 more</td>
+<td align="center"><a href="https://www.benesch.com/job-openings/5239964007?gh_jid=5239964007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -253,6 +260,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4b64a054-9cda-45ec-84ac-859fc31b1f34">Mechanical Engineering Internship - Federal Infrastructure</a></td>
 <td>Overland Park, KS</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396095008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0c1b37af-781f-4571-b0a2-2e13b89ac988">Revit Drafting Internship - Mechanical</a></td>
+<td>North Kansas City, MO<br/>Tulsa, OK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396260008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

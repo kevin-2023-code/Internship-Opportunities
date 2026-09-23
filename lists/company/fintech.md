@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**22 open roles.** 17 in the United States & Canada · 5 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,6 +148,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sezzle</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5fb76db-fc80-41bc-9600-d1be1b1c866a">Graphic Design Intern</a></td>
+<td>Bogota, Colombia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8003784003">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/a496ac89-bd9d-463b-ba3f-9f52f09f4ffe">Integration Reliability Engineer Intern, Technical Operations</a></td>

@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**22 open roles.** 20 in the United States & Canada · 2 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**21 open roles.** 19 in the United States & Canada · 2 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9c516ec7-9ffc-4283-a8ba-eb8dd71afa72">Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)</a></td>
 <td>Cleburne, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dff84165-8e92-42f2-97cf-d03eec855532">System Dev Engineer I Co-op (Robotics), Autonomous AI Security</a></td>
-<td>Austin, TX<br/>Austin, Texas, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

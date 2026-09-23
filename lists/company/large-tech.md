@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**63 open roles.** 53 in the United States & Canada · 10 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**64 open roles.** 54 in the United States & Canada · 10 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a51f344-4acc-4f7c-a9b3-c39c1a73eaf9">Data Engineer Intern (2027)</a></td>
+<td>San Francisco, CA • New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1eeb765-89ba-436c-8726-82c9cf141090">Security Verification/Validation Engineer Intern, BS - Summer 2027</a></td>

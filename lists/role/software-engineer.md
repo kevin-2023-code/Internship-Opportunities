@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**61 open roles.** 49 in the United States & Canada · 12 elsewhere in the world.
+**65 open roles.** 53 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cacfd2b-aee8-4a97-9268-3457ee758bd1">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8224729">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Ziprecruiter</strong></td>
+<td><a href="https://trueinterview.io/jobs/c621750c-630e-4d75-95f9-854bba48dca7">Software Engineer - Intern</a></td>
+<td>Santa Monica, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5f3ae1c-22bc-4243-8c20-98391a9461d0">Cloud Developer Intern</a></td>
+<td>Aguadilla, Puerto Rico, Puerto Rico<br/>San Juan, Puerto Rico, Puerto Rico</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Singlestore</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ab61ea7-65df-4e3e-9755-da6ea48c1268">MIT- Software Engineer Intern | Engine</a></td>
@@ -359,6 +380,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>NYC</td>
 <td align="center"><a href="https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002">Apply</a></td>
 <td align="center">12 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cf881d3-699a-49ab-8e30-4e47e7267860">Software Engineering Internship - San Francisco</a></td>
+<td>San Francisco - SF9</td>
+<td align="center"><a href="https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091">Apply</a></td>
+<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**22 open roles.** 17 in the United States & Canada · 5 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,6 +150,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Sezzle</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5fb76db-fc80-41bc-9600-d1be1b1c866a">Graphic Design Intern</a></td>
+<td>Bogota, Colombia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8003784003">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
 <td>Peru<br/>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
