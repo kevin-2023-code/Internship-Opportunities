@@ -31,15 +31,15 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-23 01:08 UTC_
+_Last updated: 2026-09-23 07:07 UTC_
 
-**548 open internships** from **148 employers** · **150 posted in the last 7 days** · refreshed hourly
+**551 open internships** from **149 employers** · **153 posted in the last 7 days** · refreshed hourly
 
-### Browse 548 internships by field
+### Browse 551 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (322)
+💻 **[Software Engineering](#-software-engineering)** (324)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (60)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (61)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (111)
 
@@ -53,9 +53,9 @@ _Last updated: 2026-09-23 01:08 UTC_
 
 ### 🔥 Posting the most this week
 
-**Google** 14 &nbsp;·&nbsp; **Anduril Industries** 13 &nbsp;·&nbsp; **QUALCOMM** 13 &nbsp;·&nbsp; **Infineon** 8 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Micron Technology** 7 &nbsp;·&nbsp; **Cisco** 6 &nbsp;·&nbsp; **Marvell Technology** 6 &nbsp;·&nbsp; **WSP** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **Tokyo Electron** 5 &nbsp;·&nbsp; **AMD** 4
+**Google** 14 &nbsp;·&nbsp; **Anduril Industries** 13 &nbsp;·&nbsp; **QUALCOMM** 13 &nbsp;·&nbsp; **Infineon** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Cisco** 6 &nbsp;·&nbsp; **Marvell Technology** 6 &nbsp;·&nbsp; **WSP** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **Tokyo Electron** 5 &nbsp;·&nbsp; **AMD** 4
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 23 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 24 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -63,13 +63,13 @@ _Last updated: 2026-09-23 01:08 UTC_
 
 _Counts are internships in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (306)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (208)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (72)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (50)](lists/company/large-tech.md) · [📐 Engineering & architecture firms (45)](lists/company/engineering-services.md) · [🚀 Aerospace & defence (37)](lists/company/aerospace-defense.md) · [📱 Consumer internet & media (26)](lists/company/consumer-internet.md) · [🏢 Enterprise & business software (24)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (20)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (17)](lists/company/mid-size-tech.md) · [+12 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (309)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (211)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (72)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (50)](lists/company/large-tech.md) · [📐 Engineering & architecture firms (45)](lists/company/engineering-services.md) · [🚀 Aerospace & defence (37)](lists/company/aerospace-defense.md) · [📱 Consumer internet & media (26)](lists/company/consumer-internet.md) · [🏢 Enterprise & business software (24)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (20)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (17)](lists/company/mid-size-tech.md) · [+12 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (48)](lists/role/software-engineer.md) · [Hardware Engineer (30)](lists/role/hardware-engineer.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Scientist (16)](lists/role/data-scientist.md) · [Machine Learning Engineer (16)](lists/role/machine-learning-engineer.md) · [Product Manager (16)](lists/role/product-manager.md) · [Embedded Engineer (12)](lists/role/embedded-engineer.md) · [Security Engineer (7)](lists/role/security-engineer.md) · [Data Engineer (6)](lists/role/data-engineer.md) · [Data Analyst (4)](lists/role/data-analyst.md) · [+1 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (48)](lists/role/software-engineer.md) · [Hardware Engineer (30)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (17)](lists/role/machine-learning-engineer.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Scientist (16)](lists/role/data-scientist.md) · [Product Manager (16)](lists/role/product-manager.md) · [Embedded Engineer (12)](lists/role/embedded-engineer.md) · [Security Engineer (7)](lists/role/security-engineer.md) · [Data Engineer (6)](lists/role/data-engineer.md) · [Data Analyst (4)](lists/role/data-analyst.md) · [+1 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (174)](lists/place/bay-area.md) · [🎸 Austin (72)](lists/place/austin.md) · [🎓 Boston & Cambridge (51)](lists/place/boston.md) · [🌧️ Portland, Boise & Spokane (49)](lists/place/pacific-northwest.md) · [🌴 Los Angeles & Orange County (46)](lists/place/los-angeles.md) · [🤠 Dallas–Fort Worth (35)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (35)](lists/place/research-triangle.md) · [🗽 New York City (31)](lists/place/new-york.md) · [🏔️ Denver, Boulder & Colorado (28)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (28)](lists/place/phoenix.md) · [+7 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (176)](lists/place/bay-area.md) · [🎸 Austin (72)](lists/place/austin.md) · [🎓 Boston & Cambridge (51)](lists/place/boston.md) · [🌧️ Portland, Boise & Spokane (49)](lists/place/pacific-northwest.md) · [🌴 Los Angeles & Orange County (46)](lists/place/los-angeles.md) · [🤠 Dallas–Fort Worth (36)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (35)](lists/place/research-triangle.md) · [🗽 New York City (31)](lists/place/new-york.md) · [🏔️ Denver, Boulder & Colorado (28)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (28)](lists/place/phoenix.md) · [+7 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (150)](lists/new-this-week.md) · [🌐 Remote (8)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (153)](lists/new-this-week.md) · [🌐 Remote (8)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -104,6 +104,20 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/3223bfce-8ab5-4f17-9662-181a6ac83763">EMC Engineer Intern</a> 🆕</td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20216?lang=en-us">Apply</a></td>
+<td align="center">1d</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a53cce6-5078-4e05-aad5-e39ef7a045a6">Software Engineering Intern (C++, Unix)</a> 🆕</td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1">Apply</a></td>
+<td align="center">1d</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/59753151-3611-4190-8c64-9494a2e3c877">Intern - Design Engineer, HIG HBM</a> 🆕</td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44547378">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 <tr>
@@ -252,20 +266,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td>San Francisco, CA (Hybrid)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application">Apply</a></td>
 <td align="center">4d</td>
-</tr>
-<tr>
-<td><strong>Rubrik</strong></td>
-<td><a href="https://trueinterview.io/jobs/a41d6358-6647-467f-92a7-ca84dd48dfc6">Software Engineering Winter Internship</a></td>
-<td>Palo Alto, CA HQ Office</td>
-<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088">Apply</a></td>
-<td align="center">4d</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/8791d541-8066-4f69-8524-5de9a2953931">Intern - TSE KEG Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44544643">Apply</a></td>
-<td align="center">5d</td>
 </tr>
 </tbody>
 </table>
@@ -577,7 +577,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 67 of 322.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 67 of 324.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -601,6 +601,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td>New York, NY<br/>London, United Kingdom<br/>New York City</td>
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414">Apply</a></td>
 <td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/13625190-d437-4388-a446-c3ef4650d1bc">Algorithm Engineering Intern (AI, Computer Vision &amp; Software Engineering)</a> 🆕</td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2">Apply</a></td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
@@ -756,13 +763,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266856">Apply</a></td>
 <td align="center">10d</td>
 </tr>
-<tr>
-<td><strong>Newsbreak</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3617224-f501-4c5a-9507-ba0854fcf862">Nearby AI Internship Program - Engineering Track</a></td>
-<td>Mountain View, California, United States<br/>Mountain View Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006">Apply</a></td>
-<td align="center">11d</td>
-</tr>
 </tbody>
 </table>
 
@@ -849,7 +849,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 35 of 60.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 35 of 61.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
