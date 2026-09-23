@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**59 open roles.** 58 in the United States & Canada · 1 elsewhere in the world.
+**61 open roles.** 60 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2c400df-061b-4bae-87c0-c43018a336a5">2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8214350">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hudson River Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e2a05f-0400-48a8-b756-4eab904f7589">Data Scientist Intern - 2027</a></td>
+<td>New York, NY<br/>London, United Kingdom<br/>New York City</td>
+<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb207ad0-4e95-455d-a93f-391b3a09f0b9">Product Design Intern, AI Infrastructure - Summer 2027</a></td>

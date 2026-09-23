@@ -5,9 +5,69 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-22T22:36:34.208Z",
-  "count": 590,
+  "listingsChangedAt": "2026-09-23T01:08:23.730Z",
+  "count": 592,
   "listings": [
+    {
+      "id": "d2c400df-061b-4bae-87c0-c43018a336a5",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+      "locations": [
+        "San Francisco, California, United States",
+        "San Francisco (US-SFO-MKT555)"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+      "url": "https://trueinterview.io/jobs/d2c400df-061b-4bae-87c0-c43018a336a5",
+      "postedAt": "2026-09-23T00:04:03.000Z",
+      "updatedAt": "2026-09-23T00:04:03.000Z"
+    },
+    {
+      "id": "a1e2a05f-0400-48a8-b756-4eab904f7589",
+      "company": "Hudson River Trading",
+      "title": "Data Scientist Intern - 2027",
+      "locations": [
+        "New York, NY, United States",
+        "New York City",
+        "London, United Kingdom",
+        "London"
+      ],
+      "cities": [
+        "New York, NY",
+        "London"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414",
+      "url": "https://trueinterview.io/jobs/a1e2a05f-0400-48a8-b756-4eab904f7589",
+      "postedAt": "2026-09-22T22:08:44.000Z",
+      "updatedAt": "2026-09-22T22:08:44.000Z"
+    },
     {
       "id": "2b78170a-bd06-42d1-866e-6daf6cc63401",
       "company": "IBM",
@@ -60,6 +120,33 @@
       "url": "https://trueinterview.io/jobs/a496ac89-bd9d-463b-ba3f-9f52f09f4ffe",
       "postedAt": "2026-09-22T19:33:06.000Z",
       "updatedAt": "2026-09-22T19:33:06.000Z"
+    },
+    {
+      "id": "6a263a42-df4b-4477-ab74-33ee2b58396c",
+      "company": "Amazon",
+      "title": "Security Engineer Internship – 2027 (US)",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us",
+      "url": "https://trueinterview.io/jobs/6a263a42-df4b-4477-ab74-33ee2b58396c",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
       "id": "b33d81ca-2dca-4429-81b0-78ec3d3275af",
@@ -143,6 +230,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54326?lang=en-us",
       "url": "https://trueinterview.io/jobs/f88099fa-b333-4b42-8de5-d80f9459c982",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe",
+      "company": "Keysight",
+      "title": "Semiconductor Systems Automation Intern",
+      "locations": [
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54371?lang=en-us",
+      "url": "https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -278,34 +390,6 @@
       "url": "https://trueinterview.io/jobs/506acc2e-8712-41c2-9df5-60d0cc9cd8e6",
       "postedAt": "2026-09-21T22:46:44.000Z",
       "updatedAt": "2026-09-21T22:46:44.000Z"
-    },
-    {
-      "id": "09c2cd3a-e7c6-44d4-8d31-4ec551aaf7fe",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-      "locations": [
-        "Mountain View, CA, USA",
-        "Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-      "url": "https://trueinterview.io/jobs/09c2cd3a-e7c6-44d4-8d31-4ec551aaf7fe",
-      "postedAt": "2026-09-21T22:46:38.000Z",
-      "updatedAt": "2026-09-21T22:46:38.000Z"
     },
     {
       "id": "7ab61ea7-65df-4e3e-9755-da6ea48c1268",
@@ -11815,34 +11899,6 @@
       "url": "https://trueinterview.io/jobs/dd7e0708-079a-4b83-a50f-ac4a9cee1cb6",
       "postedAt": "2026-08-31T23:00:00.000Z",
       "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "be4cbf49-a48f-4671-9eee-4433025d8cb0",
-      "company": "Hudson River Trading",
-      "title": "Hardware Engineer Internship - Summer 2027",
-      "locations": [
-        "New York, NY, United States",
-        "New York City"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
-      "url": "https://trueinterview.io/jobs/be4cbf49-a48f-4671-9eee-4433025d8cb0",
-      "postedAt": "2026-08-31T21:39:26.000Z",
-      "updatedAt": "2026-08-31T21:39:26.000Z"
     },
     {
       "id": "5424d898-6bfd-48cb-9784-23be5f2527d8",
