@@ -5,34 +5,33 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-23T21:56:35.068Z",
-  "count": 625,
+  "listingsChangedAt": "2026-09-24T00:13:03.237Z",
+  "count": 630,
   "listings": [
     {
-      "id": "2dbf5871-f396-433d-ab7d-3186527eec0f",
+      "id": "2b897d80-5a4b-48e3-853a-3789e8c57fb8",
       "company": "Atlassian",
-      "title": "Security Engineer Intern, 2027 Summer U.S.",
+      "title": "Data Scientist Intern, 2027 Summer U.S.",
       "locations": [
-        "San Francisco - United States - San Francisco, California 94104 United States",
-        "Remote - Remote"
+        "Seattle - United States - Seattle, Washington United States"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "bigtech-careers",
-      "applyUrl": "https://campus-americas.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job?mode=apply",
-      "url": "https://trueinterview.io/jobs/2dbf5871-f396-433d-ab7d-3186527eec0f",
-      "postedAt": "2026-09-23T21:53:10.000Z",
-      "updatedAt": "2026-09-23T21:53:10.000Z"
+      "applyUrl": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?mode=apply",
+      "url": "https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8",
+      "postedAt": "2026-09-23T22:53:10.000Z",
+      "updatedAt": "2026-09-23T22:53:10.000Z"
     },
     {
       "id": "f5fb76db-fc80-41bc-9600-d1be1b1c866a",
@@ -140,6 +139,31 @@
       "url": "https://trueinterview.io/jobs/c621750c-630e-4d75-95f9-854bba48dca7",
       "postedAt": "2026-09-23T19:03:20.000Z",
       "updatedAt": "2026-09-23T19:03:20.000Z"
+    },
+    {
+      "id": "e95eb3d1-6a5d-476c-b1dc-8fcedac2e6f1",
+      "company": "Meta",
+      "title": "Network Production Engineer Intern",
+      "locations": [
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1412139847020398/",
+      "url": "https://trueinterview.io/jobs/e95eb3d1-6a5d-476c-b1dc-8fcedac2e6f1",
+      "postedAt": "2026-09-23T14:51:26.000Z",
+      "updatedAt": "2026-09-23T14:51:26.000Z"
     },
     {
       "id": "3ad5433a-3360-4394-abbe-2732facc996e",
@@ -291,6 +315,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/VLSI-Engineer-Intern_1213422",
       "url": "https://trueinterview.io/jobs/ddc95ef5-9755-4f58-91ec-5438c5bda7c5",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "e794c9f1-48de-4117-8784-ffe493dd37b1",
+      "company": "Intel",
+      "title": "Technology Research 2D Transistor Engineer Intern",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Technology-Research-2D-Transistor-Engineer-Intern_JR0287001",
+      "url": "https://trueinterview.io/jobs/e794c9f1-48de-4117-8784-ffe493dd37b1",
       "postedAt": "2026-09-23T00:00:00.000Z",
       "updatedAt": "2026-09-23T00:00:00.000Z"
     },
@@ -1036,6 +1085,34 @@
       "updatedAt": "2026-09-21T19:26:10.000Z"
     },
     {
+      "id": "ace07a34-3f6d-4636-af89-755c656cd5a2",
+      "company": "Meta",
+      "title": "Production Engineering Intern",
+      "locations": [
+        "Bellevue, WA, United States",
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1609178343953401/",
+      "url": "https://trueinterview.io/jobs/ace07a34-3f6d-4636-af89-755c656cd5a2",
+      "postedAt": "2026-09-21T18:36:47.000Z",
+      "updatedAt": "2026-09-21T18:36:47.000Z"
+    },
+    {
       "id": "8d91487d-47a0-47ec-a884-d6297dbd1e69",
       "company": "Telli",
       "title": "Internship - Success Architect",
@@ -1224,8 +1301,8 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3732,6 +3809,33 @@
       "updatedAt": "2026-09-16T19:37:47.000Z"
     },
     {
+      "id": "14a2e49e-e92d-4d6f-ade5-4dd102b215dd",
+      "company": "Taara",
+      "title": "Coherent Optical Systems Internship",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/taaraconnect/06d29a2a-9913-4c52-b1ba-9236ca086acb/application",
+      "url": "https://trueinterview.io/jobs/14a2e49e-e92d-4d6f-ade5-4dd102b215dd",
+      "postedAt": "2026-09-16T19:34:59.000Z",
+      "updatedAt": "2026-09-16T19:34:59.000Z"
+    },
+    {
       "id": "a767aa3e-de81-4868-8d8d-9ecb5c8abb25",
       "company": "Benesch",
       "title": "Railroad Track Design - Civil Engineering Internship",
@@ -5098,7 +5202,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -5300,9 +5404,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6138,7 +6242,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -6779,7 +6883,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -12531,7 +12635,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14685,6 +14789,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43814569",
       "url": "https://trueinterview.io/jobs/7d7b95eb-88f3-4bb3-ba76-7a536dc5a478",
+      "postedAt": "2026-08-24T00:00:00.000Z",
+      "updatedAt": "2026-08-24T00:00:00.000Z"
+    },
+    {
+      "id": "132b9229-d307-443b-bccc-548d844c14b7",
+      "company": "Micron Technology",
+      "title": "Intern - Realtime Defect Analysis (RDA) Yield Technology",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/43943832",
+      "url": "https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7",
       "postedAt": "2026-08-24T00:00:00.000Z",
       "updatedAt": "2026-08-24T00:00:00.000Z"
     },
