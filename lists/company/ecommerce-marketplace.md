@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**23 open roles.** 18 in the United States & Canada · 5 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,10 +19,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a263a42-df4b-4477-ab74-33ee2b58396c">Security Engineer Internship – 2027 (US)</a></td>
+<td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
 <td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10557133/security-engineer-internship-2027-us">Apply</a></td>
-<td align="center">22 Sep 2026</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d92961b9-b9cb-43ad-86c9-1a7fe6f06239">Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)</a></td>
+<td>Redmond, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa">Apply</a></td>
+<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
