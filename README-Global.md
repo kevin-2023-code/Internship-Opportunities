@@ -18,11 +18,11 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-24 05:44 UTC_
+_Last updated: 2026-09-24 10:53 UTC_
 
-**49 open internships** from **33 employers** · **9 posted in the last 7 days** · refreshed hourly
+**50 open internships** from **33 employers** · **9 posted in the last 7 days** · refreshed hourly
 
-### Browse 49 internships by field
+### Browse 50 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (25)
 
@@ -34,7 +34,7 @@ _Last updated: 2026-09-24 05:44 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (8)
 
-🧰 **[IT & Support](#-it--support)** (2)
+🧰 **[IT & Support](#-it--support)** (3)
 
 ---
 
@@ -42,7 +42,7 @@ _Last updated: 2026-09-24 05:44 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (9)](lists/company/banking-finance.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [🧬 Health, biotech & medical devices (3)](lists/company/health-bio.md) · [📈 Quant trading & hedge funds (3)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (2)](lists/company/autonomy-mobility.md) · [+6 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (10)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [🧬 Health, biotech & medical devices (3)](lists/company/health-bio.md) · [📈 Quant trading & hedge funds (3)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (2)](lists/company/autonomy-mobility.md) · [+6 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (12)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (3)](lists/role/product-manager.md) · [Data Analyst (1)](lists/role/data-analyst.md)
 
@@ -498,6 +498,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Compeer Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/252a43cd-a9e2-4d0e-9b86-d2d35e9675f5">Intern IT Operations</a></td>
+<td>MN-Lakeville</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422564008">Apply</a></td>
+<td align="center">12d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b">Intern Infrastructure Engineering</a></td>
 <td>MN-Lakeville</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008">Apply</a></td>

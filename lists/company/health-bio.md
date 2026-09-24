@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**8 open roles.** 5 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**7 open roles.** 4 in the United States & Canada · 3 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>North Chicago, IL, United States<br/>South San Francisco, CA, United States<br/>Irvine, CA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990014896329-2027-business-technology-solutions-intern-cybersecurity-undergraduate-?oga=true">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Neuralink</strong></td>
-<td><a href="https://trueinterview.io/jobs/21f33a9a-0d02-451a-8ff0-defd5aeaed52">Biomedical Engineer Intern</a></td>
-<td>South San Francisco, California, United States<br/>South San Francisco - SSF</td>
-<td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

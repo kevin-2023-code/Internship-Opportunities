@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**33 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -184,6 +184,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, New York, United States<br/>Miami, Florida, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076">Apply</a></td>
 <td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Garda Capital Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/202101ae-ae53-43a6-95c3-ca20f387600e">Trading Analyst Intern, Credit</a></td>
+<td>New York, NY<br/>New York, New York, United States<br/>NYC (New York) - Investment</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gardacp/jobs/6163540004">Apply</a></td>
+<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Iex Group</strong></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-24T05:44:14.505Z",
-  "count": 644,
+  "listingsChangedAt": "2026-09-24T10:53:52.948Z",
+  "count": 647,
   "listings": [
     {
       "id": "b4580675-2708-4408-8656-4ac5698a761c",
@@ -32,6 +32,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/89078?lang=en-us",
       "url": "https://trueinterview.io/jobs/b4580675-2708-4408-8656-4ac5698a761c",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "123f182d-4a56-4610-b877-7a2064840647",
+      "company": "Infineon",
+      "title": "Internship - Mechanical Simulation (CAD/CAE Automation)",
+      "locations": [
+        "Warstein, NRW, DE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971878661",
+      "url": "https://trueinterview.io/jobs/123f182d-4a56-4610-b877-7a2064840647",
       "postedAt": "2026-09-24T00:00:00.000Z",
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
@@ -118,31 +143,6 @@
       "url": "https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1",
       "postedAt": "2026-09-23T23:03:16.000Z",
       "updatedAt": "2026-09-23T23:03:16.000Z"
-    },
-    {
-      "id": "2b897d80-5a4b-48e3-853a-3789e8c57fb8",
-      "company": "Atlassian",
-      "title": "Data Scientist Intern, 2027 Summer U.S.",
-      "locations": [
-        "Seattle - United States - Seattle, Washington United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?mode=apply",
-      "url": "https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8",
-      "postedAt": "2026-09-23T22:53:10.000Z",
-      "updatedAt": "2026-09-23T22:53:10.000Z"
     },
     {
       "id": "7bf7b041-7034-4ecd-a2a3-37c67f87583f",
@@ -485,6 +485,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Optical-Engineering-Intern_1214208",
       "url": "https://trueinterview.io/jobs/ea696691-2598-4724-b291-a18bbddd47bb",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
+      "id": "1fdfe2bc-6058-42ba-95e2-3149035e3504",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Intern",
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico",
+        "San Juan, Puerto Rico, Puerto Rico"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1",
+      "url": "https://trueinterview.io/jobs/1fdfe2bc-6058-42ba-95e2-3149035e3504",
       "postedAt": "2026-09-23T00:00:00.000Z",
       "updatedAt": "2026-09-23T00:00:00.000Z"
     },
@@ -4824,7 +4850,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4851,9 +4877,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5281,6 +5307,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/20124?lang=en-us",
       "url": "https://trueinterview.io/jobs/bbaec9ff-23ea-4928-8f20-4cac20188d61",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "21dbeec8-081e-4f04-b516-625dca72eb7a",
+      "company": "Garmin",
+      "title": "Electronics Technician Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19948?lang=en-us",
+      "url": "https://trueinterview.io/jobs/21dbeec8-081e-4f04-b516-625dca72eb7a",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -5774,7 +5825,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -6574,7 +6625,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -6770,6 +6821,29 @@
       "url": "https://trueinterview.io/jobs/4401c58c-a7a5-4002-a1d6-377429b2456b",
       "postedAt": "2026-09-11T21:56:58.000Z",
       "updatedAt": "2026-09-11T21:56:58.000Z"
+    },
+    {
+      "id": "252a43cd-a9e2-4d0e-9b86-d2d35e9675f5",
+      "company": "Compeer Financial",
+      "title": "Intern IT Operations",
+      "locations": [
+        "MN-Lakeville"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5422564008",
+      "url": "https://trueinterview.io/jobs/252a43cd-a9e2-4d0e-9b86-d2d35e9675f5",
+      "postedAt": "2026-09-11T21:41:20.000Z",
+      "updatedAt": "2026-09-11T21:41:20.000Z"
     },
     {
       "id": "001b50fb-6929-43d5-ab07-ceaf33f69e8b",
@@ -11273,6 +11347,38 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "2390accd-792d-4635-8f3a-ae570209a8cd",
+      "company": "Marvell Technology",
+      "title": "Design Verification Intern, MS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA",
+        "Austin, TX",
+        "Westborough, MA",
+        "Boise, ID",
+        "Morrisville, NC",
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1",
+      "url": "https://trueinterview.io/jobs/2390accd-792d-4635-8f3a-ae570209a8cd",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "9cbcb094-71e8-4bd1-839f-87478d3232ab",
       "company": "Marvell Technology",
       "title": "Firmware Engineer Intern, BS - Summer 2027",
@@ -11380,9 +11486,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11762,6 +11868,35 @@
       "updatedAt": "2026-09-02T20:18:40.000Z"
     },
     {
+      "id": "202101ae-ae53-43a6-95c3-ca20f387600e",
+      "company": "Garda Capital Partners",
+      "title": "Trading Analyst Intern, Credit",
+      "locations": [
+        "New York, New York, United States",
+        "NYC (New York)",
+        "NYC (New York) - Investment"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6163540004",
+      "url": "https://trueinterview.io/jobs/202101ae-ae53-43a6-95c3-ca20f387600e",
+      "postedAt": "2026-09-02T19:42:30.000Z",
+      "updatedAt": "2026-09-02T19:42:30.000Z"
+    },
+    {
       "id": "cabb05ec-a41e-4563-a0ea-d3abaa7d9901",
       "company": "Gdh",
       "title": "Environmental Engineering Intern",
@@ -11985,9 +12120,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12636,7 +12771,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -15487,7 +15622,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -15692,9 +15827,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -16596,57 +16731,6 @@
       "url": "https://trueinterview.io/jobs/1b66c32e-4b91-493f-b988-2e1f3ad56384",
       "postedAt": "2026-08-16T00:00:00.000Z",
       "updatedAt": "2026-08-16T00:00:00.000Z"
-    },
-    {
-      "id": "21f33a9a-0d02-451a-8ff0-defd5aeaed52",
-      "company": "Neuralink",
-      "title": "Biomedical Engineer Intern",
-      "locations": [
-        "South San Francisco, California, United States",
-        "South San Francisco - SSF"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/neuralink/jobs/7872639003?gh_jid=7872639003",
-      "url": "https://trueinterview.io/jobs/21f33a9a-0d02-451a-8ff0-defd5aeaed52",
-      "postedAt": "2026-08-14T22:57:49.000Z",
-      "updatedAt": "2026-08-14T22:57:49.000Z"
-    },
-    {
-      "id": "21332970-aca3-451c-9157-a90c2d81d65e",
-      "company": "Enviva",
-      "title": "Engineering and Operations Internship",
-      "locations": [
-        "Raleigh, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/enviva/jobs/7871647003",
-      "url": "https://trueinterview.io/jobs/21332970-aca3-451c-9157-a90c2d81d65e",
-      "postedAt": "2026-08-14T19:15:10.000Z",
-      "updatedAt": "2026-08-14T19:15:10.000Z"
     },
     {
       "id": "05865f09-d1c7-4573-93f5-d27cc0a614f8",
