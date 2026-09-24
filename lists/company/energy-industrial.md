@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,6 +51,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Leandro, CA - Fremont, CA - Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Panasonic</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bf7d014-40d7-4def-84e0-859bd9f7f029">Intern - New Technology Development</a></td>
+<td>Bridgeton, Missouri, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/50886?lang=en-us">Apply</a></td>
+<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Re:build Manufacturing</strong></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**38 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -151,6 +151,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd">Design Certification Engineer Intern</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19771?lang=en-us">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d">Ph.D. Intern - Silicon Photonics &amp; Optical Communications</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
@@ -176,6 +183,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a400fb05-52e4-4d20-a5c9-3c66ded97a63">Semiconductor Process Engineering Intern- 6+ months Internship</a></td>
 <td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54166?lang=en-us">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c24e176-ccf2-41ab-ade4-2af2e754fd79">Design Verification Intern, BS - Summer 2027</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Westborough, MA<br/>+2 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -270,7 +284,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1be9e7c0-d75b-48f7-9967-fd67f36e9ff3">System Integration Engineer Intern</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305">Apply</a></td>
+<td align="center">22 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/156f1e1e-b515-472c-a276-3d0c548e2ff4">Intern - HBM SoC RTL Design Engineer</a></td>
+<td>Folsom, CA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43943574">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/80481f24-6de1-4df7-84b0-0c94e4de3f0c">DOW SkillsBridge Intern – Semiconductor Equipment Technician</a></td>
 <td>Boise, ID, US<br/>Manassas, VA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43812075">Apply</a></td>

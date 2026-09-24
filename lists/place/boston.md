@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**53 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -61,6 +61,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>InterSystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/16e45d0d-5312-45eb-ac3c-a198fa4ddf5f">Micro-Intern: Web Development (IAP)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7992646003">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/090e522d-61dc-47f8-bbfb-ee829bae00ee">Micro-Intern: Angular/FHIR Development (IAP)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7992645003">Apply</a></td>
@@ -207,6 +214,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d525a0c-453f-4799-b56e-2dd1ae050754">Print Process Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269">Apply</a></td>
+<td align="center">13 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Immuta</strong></td>
 <td><a href="https://trueinterview.io/jobs/8341fc9b-8e04-48d8-8825-4f852964eb78">UX Designer Internship - Summer 2027</a></td>
 <td>Boston, MA<br/>College Park, MD<br/>Columbus, OH</td>
@@ -305,14 +319,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b5a4415-aceb-4b8a-b5b3-6b6791b40a50">Biomedical Engineering Intern</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6f23868b-9bcc-43ab-b055-85589a9da716">Cloud Engineer Intern</a></td>
 <td>Andover, Massachusetts, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629">Apply</a></td>

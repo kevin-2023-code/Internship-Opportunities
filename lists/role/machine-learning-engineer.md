@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**17 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0178c3a-84a7-4487-97eb-03044626a20c">Hardware Machine Learning PhD Research Internship</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4975945101">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/4853f203-5c4a-4549-bec2-46b27861f0ad">Summer 2027 PhD ML Systems Research Engineering Intern</a></td>

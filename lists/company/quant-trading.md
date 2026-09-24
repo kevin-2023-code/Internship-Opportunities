@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**7 open roles.** 5 in the United States & Canada · 2 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0178c3a-84a7-4487-97eb-03044626a20c">Hardware Machine Learning PhD Research Internship</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4975945101">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Hudson River Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1e2a05f-0400-48a8-b756-4eab904f7589">Data Scientist Intern - 2027</a></td>
@@ -64,6 +71,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Voleon</strong></td>
+<td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>

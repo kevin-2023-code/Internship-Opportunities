@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**152 open roles.** 143 in the United States & Canada · 9 elsewhere in the world. Everything the employers put up this week.
+**160 open roles.** 151 in the United States & Canada · 9 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,10 +18,59 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4580675-2708-4408-8656-4ac5698a761c">Summer 2027 Masters Digital Signal Processing Engineer Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89078?lang=en-us">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/8be3f215-ef0b-461a-a8a1-6ac9626e2824">Systems Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f868f3bc-cab8-416b-be03-4d37567400ad">Mechanical Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1">Firmware Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841894002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8">Data Scientist Intern, 2027 Summer U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bf7b041-7034-4ecd-a2a3-37c67f87583f">Junior Help Desk Intern (Summer 2027)</a></td>
+<td>Mountain View, CA<br/>Muon Mountain View</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5247733007">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0178c3a-84a7-4487-97eb-03044626a20c">Hardware Machine Learning PhD Research Internship</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4975945101">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Seatgeek</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cc3069a-33ea-48fa-8c29-7bae48b6e061">Software Engineer - Internship</a></td>
+<td>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://seatgeek.com/jobs/8227553?gh_jid=8227553">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -950,6 +999,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>InterSystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/16e45d0d-5312-45eb-ac3c-a198fa4ddf5f">Micro-Intern: Web Development (IAP)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7992646003">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/090e522d-61dc-47f8-bbfb-ee829bae00ee">Micro-Intern: Angular/FHIR Development (IAP)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7992645003">Apply</a></td>
@@ -1073,13 +1129,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
-<td>Peru<br/>Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
 <td>Dublin, County Dublin, Ireland</td>
@@ -1091,6 +1140,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b380af4f-9ded-4bb7-8b2a-2ec8006b2a88">Software Engineer Intern 2026/2027</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Voleon</strong></td>
+<td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**13 open roles.** 11 in the United States & Canada · 2 elsewhere in the world.
+**14 open roles.** 12 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bf7b041-7034-4ecd-a2a3-37c67f87583f">Junior Help Desk Intern (Summer 2027)</a></td>
+<td>Mountain View, CA<br/>Muon Mountain View</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5247733007">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b78170a-bd06-42d1-866e-6daf6cc63401">Quantum Network Engineer Intern 2027</a></td>

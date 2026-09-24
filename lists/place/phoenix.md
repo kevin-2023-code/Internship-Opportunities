@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**29 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,6 +58,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1a82634a-df0e-4c36-9fc7-dc3b873c3bf8">Packaging Technology Development Graduate Intern</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>

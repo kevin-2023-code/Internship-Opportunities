@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**330 open roles.** The giants: 10,000+ people, in a technology sector.
+**331 open roles.** The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4580675-2708-4408-8656-4ac5698a761c">Summer 2027 Masters Digital Signal Processing Engineer Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/89078?lang=en-us">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8">Data Scientist Intern, 2027 Summer U.S.</a></td>
@@ -971,6 +978,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a82634a-df0e-4c36-9fc7-dc3b873c3bf8">Packaging Technology Development Graduate Intern</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88">System Technology Research Engineer - (PhD Intern)</a></td>
 <td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000">Apply</a></td>
@@ -1880,13 +1894,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b5a4415-aceb-4b8a-b5b3-6b6791b40a50">Biomedical Engineering Intern</a></td>
-<td>US, MA, Wilmington, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f23868b-9bcc-43ab-b055-85589a9da716">Cloud Engineer Intern</a></td>
 <td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
@@ -2066,13 +2073,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/33f8f8d6-4234-49c3-a97e-c8835d560853">Research Scientist Intern, Optical System Design (PhD)</a></td>
 <td>Redmond, WA, United States<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1796691991338568/">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -2256,6 +2256,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43721091">Apply</a></td>
 <td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b66c32e-4b91-493f-b988-2e1f3ad56384">Intern - DRAM PI</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43785486">Apply</a></td>
+<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>

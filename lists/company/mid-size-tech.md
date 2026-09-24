@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**27 open roles.** 22 in the United States & Canada · 5 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/8be3f215-ef0b-461a-a8a1-6ac9626e2824">Systems Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f868f3bc-cab8-416b-be03-4d37567400ad">Mechanical Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1">Firmware Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841894002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Singlestore</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ab61ea7-65df-4e3e-9755-da6ea48c1268">MIT- Software Engineer Intern | Engine</a></td>
@@ -39,6 +60,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d525a0c-453f-4799-b56e-2dd1ae050754">Print Process Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269">Apply</a></td>
+<td align="center">13 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Lightmatter</strong></td>
 <td><a href="https://trueinterview.io/jobs/c67a1562-ef16-4d77-8301-a87e23be10a8">Silicon Packaging Engineer - Intern &amp; New Grad</a></td>
 <td>Mountain View, CA</td>
@@ -57,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3cf3dbf0-5e7e-4adf-a5e9-e891d856d647">Full-Stack Engineering Internship - Summer 2027</a></td>
 <td>Columbus, OH</td>
 <td align="center"><a href="https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15b4a087-4cc4-45c8-b322-0311dc34280a">Product Research Internship - Summer 2027</a></td>
+<td>College Park, MD</td>
+<td align="center"><a href="https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
@@ -154,13 +189,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8003784003">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
-<td>Peru<br/>Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Gecko Robotics</strong></td>

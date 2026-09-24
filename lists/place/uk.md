@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**9 open roles.** 1 in the United States & Canada · 8 elsewhere in the world.
+**10 open roles.** 1 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Voleon</strong></td>
+<td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>

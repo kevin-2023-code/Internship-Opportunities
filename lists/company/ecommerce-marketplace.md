@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**21 open roles.** 19 in the United States & Canada · 2 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**20 open roles.** 18 in the United States & Canada · 2 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cupertino, California, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>

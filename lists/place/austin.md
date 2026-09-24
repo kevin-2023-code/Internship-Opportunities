@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**72 open roles.**
+**77 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/8be3f215-ef0b-461a-a8a1-6ac9626e2824">Systems Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841978002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f868f3bc-cab8-416b-be03-4d37567400ad">Mechanical Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1">Firmware Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841894002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/9096b553-6c96-4d79-b84a-ba6564addeea">R&amp;D Engineer, Intern</a></td>
@@ -158,6 +179,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Benesch</strong></td>
+<td><a href="https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a">Civil Transportation Internship</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.benesch.com/job-openings/5233819007?gh_jid=5233819007">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
@@ -285,6 +313,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c24e176-ccf2-41ab-ade4-2af2e754fd79">Design Verification Intern, BS - Summer 2027</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Westborough, MA<br/>+2 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/29f8c289-d129-4e5b-b70d-8fab61380a4d">Physical Design Engineer Intern, BS - Summer 2027</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Morrisville, NC<br/>+4 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1">Apply</a></td>

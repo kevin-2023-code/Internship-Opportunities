@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**88 open roles.** 83 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**89 open roles.** 84 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,6 +261,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54305?lang=en-us">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d525a0c-453f-4799-b56e-2dd1ae050754">Print Process Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269">Apply</a></td>
+<td align="center">13 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>

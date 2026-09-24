@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**53 open roles.** 46 in the United States & Canada · 7 elsewhere in the world.
+**50 open roles.** 44 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -120,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a8c4e735-1516-4c26-9221-1b900016c3ab">User Experience Engineer Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Atlanta, GA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18290116-ca6a-414d-aed3-ee978c4de6a3">User Experience Engineer Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Atlanta, GA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -305,13 +298,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Hill House Home</strong></td>
 <td><a href="https://trueinterview.io/jobs/006cf6e1-49d2-4e4d-870d-7ab1aa242491">Product Development Intern (Fall 2026)</a></td>
 <td>New York, NY<br/>New York, New York, United States<br/>HQ</td>
@@ -363,13 +349,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57">Product Manager Intern</a></td>
 <td>Redwood City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
-<td>Peru<br/>Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**53 open roles.**
+**55 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -166,6 +166,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c24e176-ccf2-41ab-ade4-2af2e754fd79">Design Verification Intern, BS - Summer 2027</a></td>
+<td>Boise, ID<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+2 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/29f8c289-d129-4e5b-b70d-8fab61380a4d">Physical Design Engineer Intern, BS - Summer 2027</a></td>
 <td>Boise, ID<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1">Apply</a></td>
@@ -359,6 +366,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43721091">Apply</a></td>
 <td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b66c32e-4b91-493f-b988-2e1f3ad56384">Intern - DRAM PI</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43785486">Apply</a></td>
+<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>

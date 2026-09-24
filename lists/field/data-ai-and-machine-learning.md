@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**66 open roles.** 65 in the United States & Canada · 1 elsewhere in the world.
+**68 open roles.** 67 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8">Data Scientist Intern, 2027 Summer U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0178c3a-84a7-4487-97eb-03044626a20c">Hardware Machine Learning PhD Research Internship</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4975945101">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -165,6 +172,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/17b5a830-4883-4641-90c7-9d349b7658fd">Operations Research, Engineering Analytics Graduate Intern</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
 <td>Redmond, WA, US</td>
@@ -284,6 +298,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Immuta</strong></td>
+<td><a href="https://trueinterview.io/jobs/15b4a087-4cc4-45c8-b322-0311dc34280a">Product Research Internship - Summer 2027</a></td>
+<td>College Park, MD</td>
+<td align="center"><a href="https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>DV Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/f413945d-7e6d-48a8-96fe-057c696165fb">AI Engineer Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
@@ -330,13 +351,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4f7c0b67-c7ec-4a37-bcf8-c370f9b9f323">Data Analytics Engineer Intern - Summer 2027</a></td>
 <td>Austin (Oakhill, Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/168f55a2-f2c6-4593-b2d8-327e82022cd5">Data Science / Structured Problem Solving Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>

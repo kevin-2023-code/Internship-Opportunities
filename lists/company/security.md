@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3cf3dbf0-5e7e-4adf-a5e9-e891d856d647">Full-Stack Engineering Internship - Summer 2027</a></td>
 <td>Columbus, OH</td>
 <td align="center"><a href="https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15b4a087-4cc4-45c8-b322-0311dc34280a">Product Research Internship - Summer 2027</a></td>
+<td>College Park, MD</td>
+<td align="center"><a href="https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

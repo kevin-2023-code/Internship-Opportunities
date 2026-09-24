@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**152 open roles.** 145 in the United States & Canada · 7 elsewhere in the world.
+**170 open roles.** 163 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graphcore</strong></td>
+<td><a href="https://trueinterview.io/jobs/f868f3bc-cab8-416b-be03-4d37567400ad">Mechanical Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1">Firmware Engineering Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841894002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/16d161f0-c464-4d7e-8703-222f9fdec589">Intern - ID1 Manufacturing Engineer</a></td>
@@ -291,6 +305,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/16cd489c-8e19-4887-89a0-45d3a23c95e4">2027 Manufacturing Optimization Engineer Intern</a></td>
+<td>Ashville, Ohio, United States<br/>Ashville, OH (Arsenal 1)</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/b0a84d05-15bb-4490-843b-8cfa7bc377d3">2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA)</a></td>
 <td>Gloucester, MA, US</td>
@@ -302,6 +323,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b">Hardware Engineer PhD (Intern) - United States</a></td>
 <td>San Jose, California, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, US, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a82634a-df0e-4c36-9fc7-dc3b873c3bf8">Packaging Technology Development Graduate Intern</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -331,6 +359,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>Westlake Village, CA</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d525a0c-453f-4799-b56e-2dd1ae050754">Print Process Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269">Apply</a></td>
+<td align="center">13 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lightmatter</strong></td>
@@ -368,7 +403,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Benesch</strong></td>
+<td><a href="https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a">Civil Transportation Internship</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.benesch.com/job-openings/5233819007?gh_jid=5233819007">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b74f757-4552-4402-b354-5e3e753270a0">Aircraft Performance Engineering Intern</a></td>
+<td>Scottsdale, Arizona, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19997?lang=en-us">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd">Design Certification Engineer Intern</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19771?lang=en-us">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0d54b7b1-beba-418f-9293-bf21d9b160d1">Industrial Engineering Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19972?lang=en-us">Apply</a></td>
@@ -459,6 +515,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c1cfc9e-dd44-49be-bf51-ed60d230de86">Intern - Photomask Sustaining Engineering</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43943727">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Panasonic</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bf7d014-40d7-4def-84e0-859bd9f7f029">Intern - New Technology Development</a></td>
+<td>Bridgeton, Missouri, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/50886?lang=en-us">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/4fe01287-c150-4743-ba8f-5df380f6e23c">Facilities Chemical Engineering Intern</a></td>
 <td>Dallas, TX, United States</td>
@@ -509,6 +579,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/168f55a2-f2c6-4593-b2d8-327e82022cd5">Data Science / Structured Problem Solving Intern - Summer 2027</a></td>
+<td>Austin (Ed Bluestein, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037">Apply</a></td>
+<td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/07c39509-473f-4742-970e-da3aabaf538d">Device/Yield Engineer Intern - Summer 2027</a></td>
 <td>Austin (Ed Bluestein, Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Device-Yield-Engineer-Intern---Summer-2027_R-10064582">Apply</a></td>
@@ -568,6 +645,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a400fb05-52e4-4d20-a5c9-3c66ded97a63">Semiconductor Process Engineering Intern- 6+ months Internship</a></td>
 <td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54166?lang=en-us">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c24e176-ccf2-41ab-ade4-2af2e754fd79">Design Verification Intern, BS - Summer 2027</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Westborough, MA<br/>+2 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
@@ -680,6 +764,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/05440603-f7f3-4323-8488-7577eaf387a5">Aviation Systems Engineer Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19754?lang=en-us">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Panasonic</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bf9d80a-4964-4eeb-8843-f509bc03da1a">Intern - Controls Engineering</a></td>
+<td>Bridgeton, Missouri, United States<br/>Suwanee, Georgia, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/50757?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
@@ -914,6 +1005,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/1be9e7c0-d75b-48f7-9967-fd67f36e9ff3">System Integration Engineer Intern</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305">Apply</a></td>
+<td align="center">22 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cef9abb-a312-4627-b2ee-c60c8b6b59ef">Electrical Engineering Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, Massachusetts</td>
@@ -928,7 +1026,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Aug 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c6c0c9d-ed8b-4deb-8f3f-588644c8ec3b">2027 Undergrad Firmware Engineering Co-op/Intern</a></td>
+<td>US, CA, Santa Clara<br/>Santa Clara, California, United States<br/>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90807?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/0bdb8a27-62f5-458b-9968-30f25fecbf24">Mixed Signal Engineer Intern</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299">Apply</a></td>
@@ -936,6 +1041,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/156f1e1e-b515-472c-a276-3d0c548e2ff4">Intern - HBM SoC RTL Design Engineer</a></td>
+<td>Folsom, CA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43943574">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/469a1841-2514-4362-8993-36d089bb26a1">Intern - Photomask Wet Process Engineering</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43943567">Apply</a></td>
@@ -961,6 +1073,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007">Apply</a></td>
 <td align="center">18 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b66c32e-4b91-493f-b988-2e1f3ad56384">Intern - DRAM PI</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43785486">Apply</a></td>
+<td align="center">16 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Formlabs</strong></td>
@@ -1009,6 +1128,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/047965e8-83a3-4c34-976f-04763dafefd1">R&amp;D Software Engineering Internship</a></td>
 <td>Calabasas, California, United States<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/53636?lang=en-us">Apply</a></td>
+<td align="center">4 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/16f6c774-dad6-4653-b7b2-646977bfd256">Intern - Process Development Engineer, Dry Etch</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43648201">Apply</a></td>
 <td align="center">4 Aug 2026</td>
 </tr>
 <tr>

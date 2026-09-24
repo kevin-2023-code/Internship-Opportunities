@@ -5,9 +5,120 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-24T00:13:03.237Z",
-  "count": 630,
+  "listingsChangedAt": "2026-09-24T05:44:14.505Z",
+  "count": 644,
   "listings": [
+    {
+      "id": "b4580675-2708-4408-8656-4ac5698a761c",
+      "company": "AMD",
+      "title": "Summer 2027 Masters Digital Signal Processing Engineer Intern",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/89078?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b4580675-2708-4408-8656-4ac5698a761c",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "8be3f215-ef0b-461a-a8a1-6ac9626e2824",
+      "company": "Graphcore",
+      "title": "Systems Engineering Intern",
+      "locations": [
+        "Austin, Texas, United States",
+        "US - Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002",
+      "url": "https://trueinterview.io/jobs/8be3f215-ef0b-461a-a8a1-6ac9626e2824",
+      "postedAt": "2026-09-23T23:53:52.000Z",
+      "updatedAt": "2026-09-23T23:53:52.000Z"
+    },
+    {
+      "id": "f868f3bc-cab8-416b-be03-4d37567400ad",
+      "company": "Graphcore",
+      "title": "Mechanical Engineering Intern",
+      "locations": [
+        "Austin, Texas, United States",
+        "US - Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/graphcore/jobs/8841920002",
+      "url": "https://trueinterview.io/jobs/f868f3bc-cab8-416b-be03-4d37567400ad",
+      "postedAt": "2026-09-23T23:34:26.000Z",
+      "updatedAt": "2026-09-23T23:34:26.000Z"
+    },
+    {
+      "id": "14eec42f-6630-489a-83a8-553de6b27aa1",
+      "company": "Graphcore",
+      "title": "Firmware Engineering Intern",
+      "locations": [
+        "Austin, Texas, United States",
+        "US - Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/graphcore/jobs/8841894002",
+      "url": "https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1",
+      "postedAt": "2026-09-23T23:03:16.000Z",
+      "updatedAt": "2026-09-23T23:03:16.000Z"
+    },
     {
       "id": "2b897d80-5a4b-48e3-853a-3789e8c57fb8",
       "company": "Atlassian",
@@ -32,6 +143,90 @@
       "url": "https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8",
       "postedAt": "2026-09-23T22:53:10.000Z",
       "updatedAt": "2026-09-23T22:53:10.000Z"
+    },
+    {
+      "id": "7bf7b041-7034-4ecd-a2a3-37c67f87583f",
+      "company": "Muon Space",
+      "title": "Junior Help Desk Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA",
+        "Muon Mountain View"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5247733007",
+      "url": "https://trueinterview.io/jobs/7bf7b041-7034-4ecd-a2a3-37c67f87583f",
+      "postedAt": "2026-09-23T21:59:55.000Z",
+      "updatedAt": "2026-09-23T21:59:55.000Z"
+    },
+    {
+      "id": "f0178c3a-84a7-4487-97eb-03044626a20c",
+      "company": "IMC",
+      "title": "Hardware Machine Learning PhD Research Internship",
+      "locations": [
+        "Chicago, United States",
+        "Chicago"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
+      "url": "https://trueinterview.io/jobs/f0178c3a-84a7-4487-97eb-03044626a20c",
+      "postedAt": "2026-09-23T21:22:54.000Z",
+      "updatedAt": "2026-09-23T21:22:54.000Z"
+    },
+    {
+      "id": "8cc3069a-33ea-48fa-8c29-7bae48b6e061",
+      "company": "Seatgeek",
+      "title": "Software Engineer - Internship",
+      "locations": [
+        "New York, New York",
+        "United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://seatgeek.com/jobs/8227553?gh_jid=8227553",
+      "url": "https://trueinterview.io/jobs/8cc3069a-33ea-48fa-8c29-7bae48b6e061",
+      "postedAt": "2026-09-23T20:44:26.000Z",
+      "updatedAt": "2026-09-23T20:44:26.000Z"
     },
     {
       "id": "f5fb76db-fc80-41bc-9600-d1be1b1c866a",
@@ -2565,32 +2760,6 @@
       "updatedAt": "2026-09-17T20:56:00.000Z"
     },
     {
-      "id": "79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b",
-      "company": "Sezzle",
-      "title": "Product Management Intern",
-      "locations": [
-        "Peru",
-        "Bogota, Colombia"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/sezzle/jobs/7998740003",
-      "url": "https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b",
-      "postedAt": "2026-09-17T20:44:24.000Z",
-      "updatedAt": "2026-09-17T20:44:24.000Z"
-    },
-    {
       "id": "1580c88f-fafd-4959-b746-0e0de4d8ae12",
       "company": "Skydio",
       "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
@@ -3530,7 +3699,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3705,6 +3874,33 @@
       "updatedAt": "2026-09-16T21:32:30.000Z"
     },
     {
+      "id": "1691f1af-bfde-407f-af80-22b6a422e60f",
+      "company": "Voleon",
+      "title": "Research Intern (London)",
+      "locations": [
+        "London"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application",
+      "url": "https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f",
+      "postedAt": "2026-09-16T21:13:06.000Z",
+      "updatedAt": "2026-09-16T21:13:06.000Z"
+    },
+    {
       "id": "09ae0854-e6ee-49db-a90d-ffaa5c8f5a60",
       "company": "Cannondesign",
       "title": "Service Desk Analyst Intern",
@@ -3780,6 +3976,33 @@
       "url": "https://trueinterview.io/jobs/524d3fea-c6bc-4f48-8518-b6ae6767c741",
       "postedAt": "2026-09-16T19:55:39.000Z",
       "updatedAt": "2026-09-16T19:55:39.000Z"
+    },
+    {
+      "id": "16e45d0d-5312-45eb-ac3c-a198fa4ddf5f",
+      "company": "InterSystems",
+      "title": "Micro-Intern: Web Development (IAP)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7992646003",
+      "url": "https://trueinterview.io/jobs/16e45d0d-5312-45eb-ac3c-a198fa4ddf5f",
+      "postedAt": "2026-09-16T19:38:23.000Z",
+      "updatedAt": "2026-09-16T19:38:23.000Z"
     },
     {
       "id": "090e522d-61dc-47f8-bbfb-ee829bae00ee",
@@ -4423,7 +4646,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Data & AI",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5525,7 +5748,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -6120,6 +6343,32 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "id": "1a82634a-df0e-4c36-9fc7-dc3b873c3bf8",
+      "company": "Intel",
+      "title": "Packaging Technology Development Graduate Intern",
+      "locations": [
+        "US, Arizona, Phoenix",
+        "US, Arizona, Phoenix, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
+      "url": "https://trueinterview.io/jobs/1a82634a-df0e-4c36-9fc7-dc3b873c3bf8",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
       "id": "e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88",
       "company": "Intel",
       "title": "System Technology Research Engineer - (PhD Intern)",
@@ -6336,6 +6585,32 @@
       "url": "https://trueinterview.io/jobs/241d22c0-2807-4adc-b279-b37ef72a8094",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "1d525a0c-453f-4799-b56e-2dd1ae050754",
+      "company": "Formlabs",
+      "title": "Print Process Intern (Winter/Spring 2027)",
+      "locations": [
+        "Somerville, MA",
+        "Somerville, Massachusetts"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269",
+      "url": "https://trueinterview.io/jobs/1d525a0c-453f-4799-b56e-2dd1ae050754",
+      "postedAt": "2026-09-13T22:54:53.000Z",
+      "updatedAt": "2026-09-13T22:54:53.000Z"
     },
     {
       "id": "729e56aa-6411-4a03-adce-f5f373b30f83",
@@ -7365,6 +7640,61 @@
       "updatedAt": "2026-09-10T19:05:50.000Z"
     },
     {
+      "id": "199b7153-1f8f-41b7-b2ff-c3bd6000be5a",
+      "company": "Benesch",
+      "title": "Civil Transportation Internship",
+      "locations": [
+        "Austin, TX",
+        "Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.benesch.com/job-openings/5233819007?gh_jid=5233819007",
+      "url": "https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a",
+      "postedAt": "2026-09-10T18:30:19.000Z",
+      "updatedAt": "2026-09-10T18:30:19.000Z"
+    },
+    {
+      "id": "1cdbd5eb-f0d0-486f-a88c-c5af707c2b30",
+      "company": "Marloo",
+      "title": "AIOps Intern, Wellington",
+      "locations": [
+        "Wellington"
+      ],
+      "cities": [
+        "Wellington"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/marloo/123c1180-6ebb-4725-bf3a-20b55d1b3887/application",
+      "url": "https://trueinterview.io/jobs/1cdbd5eb-f0d0-486f-a88c-c5af707c2b30",
+      "postedAt": "2026-09-10T16:20:42.000Z",
+      "updatedAt": "2026-09-10T16:20:42.000Z"
+    },
+    {
       "id": "42d86fa0-81da-4540-9193-8b005d19584c",
       "company": "Schonfeld Strategic Advisors",
       "title": "2027 Platform Engineering Intern",
@@ -7507,7 +7837,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -7556,9 +7886,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -7975,6 +8305,31 @@
       "url": "https://trueinterview.io/jobs/9834be5d-fbd6-4003-9829-92a9e6444a5f",
       "postedAt": "2026-09-09T19:51:14.000Z",
       "updatedAt": "2026-09-09T19:51:14.000Z"
+    },
+    {
+      "id": "15b4a087-4cc4-45c8-b322-0311dc34280a",
+      "company": "Immuta",
+      "title": "Product Research Internship - Summer 2027",
+      "locations": [
+        "College Park, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply",
+      "url": "https://trueinterview.io/jobs/15b4a087-4cc4-45c8-b322-0311dc34280a",
+      "postedAt": "2026-09-09T19:50:55.000Z",
+      "updatedAt": "2026-09-09T19:50:55.000Z"
     },
     {
       "id": "73ce5821-d7fa-467b-89db-9f491ed0da44",
@@ -9203,9 +9558,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -9332,7 +9687,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9341,6 +9696,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43943727",
       "url": "https://trueinterview.io/jobs/1c1cfc9e-dd44-49be-bf51-ed60d230de86",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "1bf7d014-40d7-4def-84e0-859bd9f7f029",
+      "company": "Panasonic",
+      "title": "Intern - New Technology Development",
+      "locations": [
+        "Bridgeton, Missouri, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/50886?lang=en-us",
+      "url": "https://trueinterview.io/jobs/1bf7d014-40d7-4def-84e0-859bd9f7f029",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -9834,7 +10214,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
@@ -10857,6 +11237,38 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer-Intern--MS---Summer-2027_2604509",
       "url": "https://trueinterview.io/jobs/29179547-3b0b-4a15-bfb4-076cf435f355",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "1c24e176-ccf2-41ab-ade4-2af2e754fd79",
+      "company": "Marvell Technology",
+      "title": "Design Verification Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA",
+        "Austin, TX",
+        "Westborough, MA",
+        "Boise, ID",
+        "Morrisville, NC",
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1",
+      "url": "https://trueinterview.io/jobs/1c24e176-ccf2-41ab-ade4-2af2e754fd79",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
@@ -12608,7 +13020,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -13859,32 +14271,6 @@
       "updatedAt": "2026-08-28T20:44:25.000Z"
     },
     {
-      "id": "1b5a4415-aceb-4b8a-b5b3-6b6791b40a50",
-      "company": "Analog Devices",
-      "title": "Biomedical Engineering Intern",
-      "locations": [
-        "US, MA, Wilmington",
-        "US, MA, Wilmington, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577",
-      "url": "https://trueinterview.io/jobs/1b5a4415-aceb-4b8a-b5b3-6b6791b40a50",
-      "postedAt": "2026-08-28T00:00:00.000Z",
-      "updatedAt": "2026-08-28T00:00:00.000Z"
-    },
-    {
       "id": "6f23868b-9bcc-43ab-b055-85589a9da716",
       "company": "Hewlett Packard Enterprise",
       "title": "Cloud Engineer Intern",
@@ -14856,9 +15242,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -15166,33 +15552,6 @@
       "url": "https://trueinterview.io/jobs/7585506f-04c5-4406-936d-a441050c2c68",
       "postedAt": "2026-08-19T22:32:00.000Z",
       "updatedAt": "2026-08-20T00:51:01.000Z"
-    },
-    {
-      "id": "1679e23b-f5bb-4079-902c-37ce295f4732",
-      "company": "Amazon",
-      "title": "Product Manager Technical (PMT) Intern - Summer 2027",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
-      "url": "https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "updatedAt": "2026-08-20T00:00:00.000Z"
     },
     {
       "id": "ef7622d7-76d1-4f06-9987-ffa45f4ca598",
@@ -15531,7 +15890,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -15803,9 +16162,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -16212,6 +16571,31 @@
       "url": "https://trueinterview.io/jobs/495d9859-82dc-4076-9c17-ffb8fc8b3272",
       "postedAt": "2026-08-17T00:00:00.000Z",
       "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
+      "id": "1b66c32e-4b91-493f-b988-2e1f3ad56384",
+      "company": "Micron Technology",
+      "title": "Intern - DRAM PI",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/43785486",
+      "url": "https://trueinterview.io/jobs/1b66c32e-4b91-493f-b988-2e1f3ad56384",
+      "postedAt": "2026-08-16T00:00:00.000Z",
+      "updatedAt": "2026-08-16T00:00:00.000Z"
     },
     {
       "id": "21f33a9a-0d02-451a-8ff0-defd5aeaed52",
@@ -16745,7 +17129,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",

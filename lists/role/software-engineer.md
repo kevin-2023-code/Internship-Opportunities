@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**65 open roles.** 53 in the United States & Canada · 12 elsewhere in the world.
+**68 open roles.** 56 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Seatgeek</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cc3069a-33ea-48fa-8c29-7bae48b6e061">Software Engineer - Internship</a></td>
+<td>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://seatgeek.com/jobs/8227553?gh_jid=8227553">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cacfd2b-aee8-4a97-9268-3457ee758bd1">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
@@ -100,6 +107,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Burlington, VT, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>InterSystems</strong></td>
+<td><a href="https://trueinterview.io/jobs/16e45d0d-5312-45eb-ac3c-a198fa4ddf5f">Micro-Intern: Web Development (IAP)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7992646003">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Kitware</strong></td>
@@ -218,6 +232,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b1d47b9c-c2b2-49c2-b497-4b5316ed3c8d">Software Engineer, Intern</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/17b144f8-ddf7-48cb-879a-5fb0715a2293">2027 Software Engineering Intern (Masters - Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318402198">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**35 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,6 +156,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Morrisville, NC<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414">Apply</a></td>
 <td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1c24e176-ccf2-41ab-ade4-2af2e754fd79">Design Verification Intern, BS - Summer 2027</a></td>
+<td>Morrisville, NC<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+2 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1">Apply</a></td>
+<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

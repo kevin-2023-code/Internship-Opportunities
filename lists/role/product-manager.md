@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**20 open roles.** 16 in the United States & Canada · 4 elsewhere in the world.
+**18 open roles.** 15 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -116,13 +116,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Datadog</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff">Product Management Intern</a></td>
 <td>New York, NY<br/>New York, New York, USA</td>
@@ -146,13 +139,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57">Product Manager Intern</a></td>
 <td>Redwood City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
-<td>Peru<br/>Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

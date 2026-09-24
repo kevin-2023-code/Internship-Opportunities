@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**22 open roles.** 17 in the United States & Canada · 5 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -161,13 +161,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore<br/>SG-Singapore</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8186367">Apply</a></td>
 <td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
-<td>Peru<br/>Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Exegy</strong></td>

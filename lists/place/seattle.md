@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**25 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,13 +155,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/33f8f8d6-4234-49c3-a97e-c8835d560853">Research Scientist Intern, Optical System Design (PhD)</a></td>
 <td>Redmond, WA, United States<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1796691991338568/">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/1679e23b-f5bb-4079-902c-37ce295f4732">Product Manager Technical (PMT) Intern - Summer 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

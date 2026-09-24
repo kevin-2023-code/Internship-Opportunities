@@ -18,21 +18,21 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-23 21:56 UTC_
+_Last updated: 2026-09-24 05:44 UTC_
 
-**48 open internships** from **31 employers** · **9 posted in the last 7 days** · refreshed hourly
+**49 open internships** from **33 employers** · **9 posted in the last 7 days** · refreshed hourly
 
-### Browse 48 internships by field
+### Browse 49 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (24)
+💻 **[Software Engineering](#-software-engineering)** (25)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (1)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (7)
 
-📱 **[Product & Design](#-product--design)** (7)
+📱 **[Product & Design](#-product--design)** (6)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (7)
+📈 **[Quantitative Finance](#-quantitative-finance)** (8)
 
 🧰 **[IT & Support](#-it--support)** (2)
 
@@ -42,11 +42,11 @@ _Last updated: 2026-09-23 21:56 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (9)](lists/company/banking-finance.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (6)](lists/company/mid-size-tech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [🧬 Health, biotech & medical devices (3)](lists/company/health-bio.md) · [🚗 Autonomy, automotive & mobility (2)](lists/company/autonomy-mobility.md) · [🛒 E-commerce & marketplaces (2)](lists/company/ecommerce-marketplace.md) · [+6 more →](lists/README.md)
+🏷️ **By company type** — [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (9)](lists/company/banking-finance.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [🧬 Health, biotech & medical devices (3)](lists/company/health-bio.md) · [📈 Quant trading & hedge funds (3)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (2)](lists/company/autonomy-mobility.md) · [+6 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (12)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (4)](lists/role/product-manager.md) · [Data Analyst (1)](lists/role/data-analyst.md)
+🧑‍💻 **By role** — [Software Engineer (12)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (3)](lists/role/product-manager.md) · [Data Analyst (1)](lists/role/data-analyst.md)
 
-📍 **By location** — [🇬🇧 London & the UK (8)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
+📍 **By location** — [🇬🇧 London & the UK (9)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (5)](lists/place/anz.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (9)](lists/new-this-week.md) · [🌐 Remote (2)](lists/remote.md)
 
@@ -156,11 +156,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13d</td>
 </tr>
 <tr>
+<td><strong>Marloo</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cdbd5eb-f0d0-486f-a88c-c5af707c2b30">AIOps Intern, Wellington</a></td>
+<td>Wellington</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/marloo/123c1180-6ebb-4725-bf3a-20b55d1b3887/application">Apply</a></td>
+<td align="center">13d</td>
+</tr>
+<tr>
 <td><strong>Toast, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ddd6196-bd67-47a0-9c4c-802a4f483234">Software Engineering Intern</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>Symphony Communication Services</strong></td>
@@ -181,21 +188,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/630a07a6-4af4-4814-a52d-8fee47d4ae97">2027 Software Engineer Program - 12 Month Industrial Placement - Glasgow &amp; London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dd7e0708-079a-4b83-a50f-ac4a9cee1cb6">2027 Software Engineer Program - Summer Internship - Dublin</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776172">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ffb72b4-fb99-4dd9-b25b-faf99588b710">Web Engineer Intern - Tools &amp; Portals</a> 🛂</td>
 <td>London, England, United Kingdom<br/>Novi Sad, Vojvodina, Serbia<br/>Cary<br/>+1 more</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004">Apply</a></td>
-<td align="center">25d</td>
+<td align="center">26d</td>
 </tr>
 <tr>
 <td><strong>Telus Digital</strong></td>
@@ -299,7 +306,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58">EDS Ford Champ (Intern)</a> 🆕</td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
@@ -375,13 +382,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57">Product Manager Intern</a></td>
 <td>Redwood City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application">Apply</a></td>
-<td align="center">5d</td>
-</tr>
-<tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a8d79d-2ebd-4a4a-b0db-565df8c7dd4b">Product Management Intern</a></td>
-<td>Peru<br/>Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7998740003">Apply</a></td>
 <td align="center">6d</td>
 </tr>
 <tr>
@@ -427,6 +427,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Voleon</strong></td>
+<td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
+<td align="center">7d</td>
+</tr>
+<tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/729e56aa-6411-4a03-adce-f5f373b30f83">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Singapore</a></td>
 <td>Singapore</td>
@@ -459,21 +466,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/118a0204-b511-4ef7-91de-39b825be1e1d">2027 Commercial &amp; Investment Banking - Global Markets - Summer Internship - London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6efd5e0e-9584-437e-bb6e-43157f1866b3">2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c3b4dd4f-5c0f-441b-83cc-f025f975634c">2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 </tbody>
 </table>
