@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-24T10:53:52.948Z",
-  "count": 647,
+  "listingsChangedAt": "2026-09-24T15:39:37.176Z",
+  "count": 655,
   "listings": [
     {
       "id": "b4580675-2708-4408-8656-4ac5698a761c",
@@ -32,6 +32,251 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/89078?lang=en-us",
       "url": "https://trueinterview.io/jobs/b4580675-2708-4408-8656-4ac5698a761c",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "3e2c4840-e722-49ca-931c-0aa116740cb4",
+      "company": "Cisco",
+      "title": "AI Operations Engineer I (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804",
+      "url": "https://trueinterview.io/jobs/3e2c4840-e722-49ca-931c-0aa116740cb4",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "b0675c51-a10a-4c6a-ae0e-5b1114b6ec01",
+      "company": "Cisco",
+      "title": "Engineering Product Management Specialist II (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
+      "url": "https://trueinterview.io/jobs/b0675c51-a10a-4c6a-ae0e-5b1114b6ec01",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "10a80e52-641f-4ef9-80aa-433df7161b71",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer I (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+      "url": "https://trueinterview.io/jobs/10a80e52-641f-4ef9-80aa-433df7161b71",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "2d8f2a5d-2025-4edf-9c35-c06c9fe47158",
+      "company": "Cisco",
+      "title": "Machine Learning Engineer II (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+      "url": "https://trueinterview.io/jobs/2d8f2a5d-2025-4edf-9c35-c06c9fe47158",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "36660a24-0541-4d6c-bd13-4da0288b044e",
+      "company": "Cisco",
+      "title": "Software Engineer Data & AI II (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+      "url": "https://trueinterview.io/jobs/36660a24-0541-4d6c-bd13-4da0288b044e",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "87062633-9832-4728-a94f-3aaa00ee3b0a",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems II (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+      "url": "https://trueinterview.io/jobs/87062633-9832-4728-a94f-3aaa00ee3b0a",
+      "postedAt": "2026-09-24T00:00:00.000Z",
+      "updatedAt": "2026-09-24T00:00:00.000Z"
+    },
+    {
+      "id": "1258ff12-3f2f-4e4f-b55b-2f043bfd3b06",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend II (Intern) – United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US",
+        "San Francisco, California, US",
+        "San Jose, California, United States of America",
+        "Milpitas, California, United States of America",
+        "Research Triangle Park, North Carolina, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
+      "url": "https://trueinterview.io/jobs/1258ff12-3f2f-4e4f-b55b-2f043bfd3b06",
       "postedAt": "2026-09-24T00:00:00.000Z",
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
@@ -1871,7 +2116,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2011,35 +2256,6 @@
       "url": "https://trueinterview.io/jobs/953284e0-d99b-4ede-bb68-7cebe42d7cc1",
       "postedAt": "2026-09-18T21:31:14.000Z",
       "updatedAt": "2026-09-18T21:31:14.000Z"
-    },
-    {
-      "id": "2ce8f8cd-46f2-4518-a50b-b76b6df8b7f0",
-      "company": "Wsp",
-      "title": "Water Resources Engineering Intern- Summer 2027",
-      "locations": [
-        "Charlotte, NC, United States",
-        "Miami, FL, United States",
-        "Atlanta, GA, United States"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95770",
-      "url": "https://trueinterview.io/jobs/2ce8f8cd-46f2-4518-a50b-b76b6df8b7f0",
-      "postedAt": "2026-09-18T20:18:46.000Z",
-      "updatedAt": "2026-09-18T20:18:46.000Z"
     },
     {
       "id": "a788817d-9b45-4b81-87a1-9537e4e5ef04",
@@ -3442,7 +3658,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5115,9 +5331,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6192,6 +6408,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src=&gh_jid=8198223",
       "url": "https://trueinterview.io/jobs/048a5ebc-d808-458c-8135-6e7de30ea082",
+      "postedAt": "2026-09-14T12:00:09.000Z",
+      "updatedAt": "2026-09-14T12:00:09.000Z"
+    },
+    {
+      "id": "29af99a2-6872-4a11-8d67-1183f54391ca",
+      "company": "Robinhood",
+      "title": "PeopleX Insights & Analytics Intern (Summer 2027)",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255",
+      "url": "https://trueinterview.io/jobs/29af99a2-6872-4a11-8d67-1183f54391ca",
       "postedAt": "2026-09-14T12:00:09.000Z",
       "updatedAt": "2026-09-14T12:00:09.000Z"
     },
@@ -9555,9 +9796,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11174,7 +11415,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11302,7 +11543,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11452,9 +11693,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11600,6 +11841,33 @@
       "url": "https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8",
       "postedAt": "2026-09-03T16:13:31.000Z",
       "updatedAt": "2026-09-03T16:13:31.000Z"
+    },
+    {
+      "id": "2708ad7d-bcc9-4418-8975-6377ef573e0a",
+      "company": "Wealthsimple",
+      "title": "Credit & Fraud Analytics Intern (Winter 2027)",
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application",
+      "url": "https://trueinterview.io/jobs/2708ad7d-bcc9-4418-8975-6377ef573e0a",
+      "postedAt": "2026-09-03T16:08:04.000Z",
+      "updatedAt": "2026-09-03T16:08:04.000Z"
     },
     {
       "id": "2e538a86-7c13-4b3d-b30d-fd4efeb68a04",
@@ -12150,9 +12418,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12460,9 +12728,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12589,7 +12857,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14803,7 +15071,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
