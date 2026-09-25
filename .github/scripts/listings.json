@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-25T20:57:16.178Z",
-  "count": 703,
+  "listingsChangedAt": "2026-09-25T23:49:38.822Z",
+  "count": 708,
   "listings": [
+    {
+      "id": "550ed1d6-857f-4778-8d67-627fc29915fa",
+      "company": "Atlassian",
+      "title": "Research Intern, 2027 Summer U.S.",
+      "locations": [
+        "Seattle - United States - Seattle, Washington United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job?mode=apply",
+      "url": "https://trueinterview.io/jobs/550ed1d6-857f-4778-8d67-627fc29915fa",
+      "postedAt": "2026-09-25T23:03:39.000Z",
+      "updatedAt": "2026-09-25T23:03:39.000Z"
+    },
     {
       "id": "dd463139-e11c-4a5b-bdb9-55897f05ed1e",
       "company": "Scout Motors",
@@ -219,6 +244,57 @@
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
     {
+      "id": "2edad06c-42f8-41ce-8959-e46959343807",
+      "company": "Keysight",
+      "title": "Manufacturing Engineering Intern",
+      "locations": [
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54275?lang=en-us",
+      "url": "https://trueinterview.io/jobs/2edad06c-42f8-41ce-8959-e46959343807",
+      "postedAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "13cf14c6-4712-47f6-960a-654aa280bb71",
+      "company": "Keysight",
+      "title": "R&D Software Engineer QA DevOps, Intern",
+      "locations": [
+        "Santa Rosa, California, United States",
+        "San Diego, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54417?lang=en-us",
+      "url": "https://trueinterview.io/jobs/13cf14c6-4712-47f6-960a-654aa280bb71",
+      "postedAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
       "id": "d8000532-de88-4b1b-b97c-484114a621e8",
       "company": "KLA",
       "title": "Applications Engineering  Intern",
@@ -240,6 +316,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1",
       "url": "https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8",
+      "postedAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "f70566b2-9591-4883-9ae4-10dd6237772f",
+      "company": "Micron Technology",
+      "title": "Intern - AI Agentic Systems Engineer",
+      "locations": [
+        "Folsom, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44280744",
+      "url": "https://trueinterview.io/jobs/f70566b2-9591-4883-9ae4-10dd6237772f",
       "postedAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
@@ -338,7 +439,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Hardware & Engineering",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -561,29 +662,6 @@
       "source": "1point3acres",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027",
       "url": "https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554",
-      "postedAt": "2026-09-24T07:00:00.000Z",
-      "updatedAt": "2026-09-24T07:00:00.000Z"
-    },
-    {
-      "id": "61092a85-9582-4db2-908f-fa0c19a42282",
-      "company": "Amazon",
-      "title": "Program Manager Intern ITA 2027",
-      "locations": [
-        "IT, Milan"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10559115/program-manager-intern-ita-2027",
-      "url": "https://trueinterview.io/jobs/61092a85-9582-4db2-908f-fa0c19a42282",
       "postedAt": "2026-09-24T07:00:00.000Z",
       "updatedAt": "2026-09-24T07:00:00.000Z"
     },
@@ -2828,6 +2906,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44542357",
       "url": "https://trueinterview.io/jobs/af4a7561-e246-4bf1-a3e6-fe6d045b5adf",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "5e913fbc-41ee-4f0c-a25c-b70d37914e5d",
+      "company": "Micron Technology",
+      "title": "Intern – DRAM Technology Physical Design and Block-Level PPA Optimization",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44139992",
+      "url": "https://trueinterview.io/jobs/5e913fbc-41ee-4f0c-a25c-b70d37914e5d",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -5374,9 +5477,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -7414,9 +7517,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -9359,6 +9462,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414",
       "url": "https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "5e767785-b05e-463f-b1b2-cba072eb0f0b",
+      "company": "Texas Instruments",
+      "title": "Information Technology Intern – Software",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017625",
+      "url": "https://trueinterview.io/jobs/5e767785-b05e-463f-b1b2-cba072eb0f0b",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -12482,9 +12610,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -16317,6 +16445,31 @@
       "updatedAt": "2026-08-27T00:00:00.000Z"
     },
     {
+      "id": "5e1c2e3f-fa3c-4ae6-8e46-08dfeb9833cd",
+      "company": "Micron Technology",
+      "title": "Intern - Marketing Analytics",
+      "locations": [
+        "Meridian, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44138252",
+      "url": "https://trueinterview.io/jobs/5e1c2e3f-fa3c-4ae6-8e46-08dfeb9833cd",
+      "postedAt": "2026-08-27T00:00:00.000Z",
+      "updatedAt": "2026-08-27T00:00:00.000Z"
+    },
+    {
       "id": "bddbb5c1-a510-4ff9-a137-8f8c2989ba0c",
       "company": "Axon",
       "title": "2027 US Mechanical Engineering Internship",
@@ -16452,31 +16605,6 @@
       "updatedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "b67eb3b2-c09e-4dea-b86e-e810f0658a3f",
-      "company": "Nokia",
-      "title": "Customer Engineering Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36103",
-      "url": "https://trueinterview.io/jobs/b67eb3b2-c09e-4dea-b86e-e810f0658a3f",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
       "id": "5e21d861-b85a-48cc-a044-458aab142ac0",
       "company": "Kodiak",
       "title": "Winter 2027 Intern, Electrical Engineering",
@@ -16490,9 +16618,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",

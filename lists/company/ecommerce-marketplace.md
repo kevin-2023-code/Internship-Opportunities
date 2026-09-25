@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**25 open roles.** 20 in the United States & Canada · 5 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**24 open roles.** 20 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -174,13 +174,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554">Program Manager Intern 6 Months - 2027</a></td>
 <td>DE, BE, Berlin</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/61092a85-9582-4db2-908f-fa0c19a42282">Program Manager Intern ITA 2027</a></td>
-<td>IT, Milan</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559115/program-manager-intern-ita-2027">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
