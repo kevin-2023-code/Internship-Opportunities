@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**45 open roles.** 42 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**44 open roles.** 41 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2fafdfdb-dd37-4e3b-974d-3c23c09a6891">Winter 2027 EWIS Harness Engineer Co-op</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/407b2e4a-5f0b-4924-a269-ce1b52205375">Winter 2027 Manufacturing Engineer Co-op</a></td>
-<td>Lexington, Massachusetts, United States<br/>Quincy, Massachusetts, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236589007?gh_jid=5236589007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

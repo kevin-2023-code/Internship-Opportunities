@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**56 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/47316a3f-e13e-4703-8395-955187568a7f">Hardware Intern</a></td>
+<td>Nashua, NH, United States<br/>Nashua, New Hampshire, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000151659973-hardware-intern-?oga=true">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/c0e1105a-fef3-48a2-8ec5-acfb33ce794c">Semiconductor Advanced Packaging Process Engineering Intern</a></td>
@@ -174,7 +181,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e4bd8f5-75d1-4bd5-8ca5-82e7971c171b">2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op</a></td>
-<td>US, CA, San Jose<br/>San Jose, California, United States<br/>Santa Clara, California, United States</td>
+<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92350?lang=en-us">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -212,6 +219,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017578">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/434f4bf2-a60b-434b-a857-512e820cb718">Digital Validation Intern - Summer 2027</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557">Apply</a></td>
+<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
@@ -272,7 +286,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/17c53ff9-ec02-423b-82b3-420685f0d670">Fall 2027 Masters Silicon Design Engineering Intern</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90743?lang=en-us">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -349,14 +363,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276">2027 Masters ASIC Package Engineering Co-op/Intern</a></td>
-<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States<br/>+7 more</td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91469?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e52e12d9-6c07-4153-bc93-b6e837fbdb3d">2027 Undergrad ASIC Package Engineering Co-op/Intern</a></td>
-<td>US, CA, San Jose<br/>US, TX, Austin<br/>San Jose, California, United States<br/>+7 more</td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91463?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
@@ -377,14 +391,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/208fb5a1-8502-4cbe-a7ad-74d539956c7f">2027 Masters Hardware Design Verification Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States<br/>+5 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90813?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30de5bab-7988-4bc9-b56c-7cc4d08e29d5">2027 Masters Hardware Engineering intern/co-op</a></td>
-<td>US, CA, Santa Clara<br/>US, TX, Austin<br/>Santa Clara, California, United States<br/>+7 more</td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91178?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>

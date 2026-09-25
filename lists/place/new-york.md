@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**35 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -181,7 +181,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1587313-c74f-42e6-af65-c54a2bca4db8">2027 PhD Quantitative Research Intern</a></td>
-<td>New York, New York, United States<br/>Miami, Florida, United States</td>
+<td>New York, NY<br/>New York, New York, United States<br/>Miami, Florida, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
@@ -240,13 +240,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, United States<br/>HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hillhousehome/jobs/4706303006">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Bci Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/42ee0fe3-bb37-436c-ac3c-8562c435e3bd">Sweater Design INTERN</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/vEMEHjr1EAEucEyDVgsksX/sweater-design-intern-in-new-york-at-bci-brands">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Datadog</strong></td>

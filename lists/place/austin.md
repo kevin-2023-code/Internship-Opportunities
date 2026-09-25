@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**78 open roles.**
+**79 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,7 +125,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc">2027 PhD AI Model Optimization &amp; Software Engineer Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, San Jose<br/>+2 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+3 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92522?lang=en-us">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
@@ -271,6 +271,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/434f4bf2-a60b-434b-a857-512e820cb718">Digital Validation Intern - Summer 2027</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557">Apply</a></td>
+<td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/50afb490-0aed-4eb0-a101-0412f2945a43">Equipment Engineer Intern - Summer 2027</a></td>
 <td>Austin (Ed Bluestein, Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Equipment-Engineer-Intern---Summer-2026_R-10064578">Apply</a></td>
@@ -342,7 +349,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/17c53ff9-ec02-423b-82b3-420685f0d670">Fall 2027 Masters Silicon Design Engineering Intern</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90743?lang=en-us">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
@@ -391,14 +398,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/5b714c58-fd1f-4a49-a13b-ac79c9a00f4f">2027 Masters Compiler Engineering Intern / Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, San Jose<br/>+6 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91866?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d6516e44-4c2b-47b4-8efe-4e2b928e7af2">2027 Undergrad Compiler Engineering Intern / Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+6 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91864?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
@@ -419,119 +426,119 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276">2027 Masters ASIC Package Engineering Co-op/Intern</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91469?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5edd67dc-2833-45e2-81aa-7c4bb2a307c9">2027 Masters Software Test Engineering Intern/Co-Op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91475?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e52e12d9-6c07-4153-bc93-b6e837fbdb3d">2027 Undergrad ASIC Package Engineering Co-op/Intern</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, San Jose<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91463?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cce591e9-3543-4b70-adca-2532af02ce4e">2027 Undergrad Software Test Engineering Intern/Co-Op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, San Jose<br/>+6 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91448?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ef7622d7-76d1-4f06-9987-ffa45f4ca598">2027 Masters Data Analyst Intern/co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91179?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30cb68b6-f9c0-4c8e-9d8f-eb0f78b12a21">2027 Masters Firmware Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States<br/>+5 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90805?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/208fb5a1-8502-4cbe-a7ad-74d539956c7f">2027 Masters Hardware Design Verification Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States<br/>+5 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90813?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30de5bab-7988-4bc9-b56c-7cc4d08e29d5">2027 Masters Hardware Engineering intern/co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91178?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6f3a34c5-abdb-4a6c-8e64-ff6726265e4b">2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91177?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f49f484b-f335-45f8-979d-8d9a7af37e4c">2027 Masters Product Development Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91228?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9f59a573-1178-4209-98e2-50d22e161a85">2027 Masters Software Engineer Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91176?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4054cbfe-278e-40b7-a366-d9951a6b059d">2027 Undergrad Data Analyst Intern/co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90895?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c1d82505-4b00-43ab-9941-9e92f875c12c">2027 Undergrad Firmware Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>Boxborough, Massachusetts, United States<br/>+5 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90801?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/80d4ab91-d067-4f8b-8f03-26c50ae9a945">2027 Undergrad Hardware Engineering intern/co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90894?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b6d0cd1f-2a3a-4063-b626-b5514a6da6c5">2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90892?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4385e386-741f-4fef-9f76-ded5749a6ee3">2027 Undergrad Product Development Engineering Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90790?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1b92d96e-6a6d-40ae-96ce-0c4cda725a62">2027 Undergrad Software Engineer Intern/Co-op</a></td>
-<td>US, TX, Austin<br/>Austin, Texas, United States<br/>US, CA, Santa Clara<br/>+7 more</td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90891?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>

@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-25 01:04 UTC_
+_Last updated: 2026-09-25 06:57 UTC_
 
-**54 open internships** from **35 employers** · **10 posted in the last 7 days** · refreshed hourly
+**56 open internships** from **36 employers** · **10 posted in the last 7 days** · refreshed hourly
 
-### Browse 54 internships by field
+### Browse 56 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (26)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (2)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (3)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (6)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (7)
 
 📱 **[Product & Design](#-product--design)** (9)
 
@@ -42,11 +42,11 @@ _Last updated: 2026-09-25 01:04 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (10)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [🛒 E-commerce & marketplaces (5)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏛️ Big Tech (3)](lists/company/big-tech.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [🧬 Health, biotech & medical devices (3)](lists/company/health-bio.md) · [+7 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (10)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [🛒 E-commerce & marketplaces (5)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏛️ Big Tech (3)](lists/company/big-tech.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [+7 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (13)](lists/role/software-engineer.md) · [Product Manager (6)](lists/role/product-manager.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Data Analyst (2)](lists/role/data-analyst.md)
+🧑‍💻 **By role** — [Software Engineer (13)](lists/role/software-engineer.md) · [Product Manager (6)](lists/role/product-manager.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
-📍 **By location** — [🇬🇧 London & the UK (9)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (5)](lists/place/anz.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
+📍 **By location** — [🇬🇧 London & the UK (9)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (5)](lists/place/anz.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (10)](lists/new-this-week.md) · [🌐 Remote (2)](lists/remote.md)
 
@@ -288,6 +288,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Monks</strong></td>
+<td><a href="https://trueinterview.io/jobs/40f92665-889c-43c0-993c-2eac9c354249">[Campus Monks] Data Analytics Intern</a></td>
+<td>São Paulo<br/>Brasil<br/>Sorocaba<br/>+1 more</td>
+<td align="center"><a href="https://www.monks.com/careers/6100057004/job?gh_jid=6100057004">Apply</a></td>
+<td align="center">8d</td>
+</tr>
+<tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/d34820ad-e03d-4ab5-9649-eb69155b1e79">2027 Data and AI Program (Summer Analyst) - Singapore</a></td>
 <td>Singapore, Singapore</td>
@@ -321,6 +328,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
 <td align="center">8d</td>
+</tr>
+<tr>
+<td><strong>Trexo Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/43a04e7c-20cc-40ee-9d73-1d857fe9659b">Mechatronics Intern / Co-op Winter 2027</a></td>
+<td>Mississauga</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/b9bd8b65-a668-42c3-8cf4-9450f91ad342/application">Apply</a></td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>O'connell Electric Company</strong></td>
