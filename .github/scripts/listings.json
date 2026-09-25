@@ -5,9 +5,174 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-24T22:54:28.741Z",
-  "count": 672,
+  "listingsChangedAt": "2026-09-25T01:04:59.686Z",
+  "count": 675,
   "listings": [
+    {
+      "id": "14af2c6c-a57d-4ee9-8c39-9929735b28de",
+      "company": "Blp Digital Ag",
+      "title": "Customer Success Engineer (Internship)",
+      "locations": [
+        "Munich",
+        "Zurich"
+      ],
+      "cities": [
+        "Munich",
+        "Zurich"
+      ],
+      "countries": [
+        "Germany",
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/blp-digital/ce72e400-9109-4366-baf8-9363493f7c55/application",
+      "url": "https://trueinterview.io/jobs/14af2c6c-a57d-4ee9-8c39-9929735b28de",
+      "postedAt": "2026-09-24T23:23:23.000Z",
+      "updatedAt": "2026-09-24T23:23:23.000Z"
+    },
+    {
+      "id": "6138bc3d-7c93-431c-8da9-613df7f944a7",
+      "company": "Aevex",
+      "title": "Robotics Engineering Co-op",
+      "locations": [
+        "Tampa, Florida, United States",
+        "Tampa"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008",
+      "url": "https://trueinterview.io/jobs/6138bc3d-7c93-431c-8da9-613df7f944a7",
+      "postedAt": "2026-09-24T23:20:41.000Z",
+      "updatedAt": "2026-09-24T23:20:41.000Z"
+    },
+    {
+      "id": "abd9ea71-4127-48ed-bb3a-1674f65f9f5e",
+      "company": "Rocket Lab Corporation",
+      "title": "Test Engineering Intern Spring 2027",
+      "locations": [
+        "Wallops Island, VA",
+        "Launch Complex 2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
+      "url": "https://trueinterview.io/jobs/abd9ea71-4127-48ed-bb3a-1674f65f9f5e",
+      "postedAt": "2026-09-24T23:08:39.000Z",
+      "updatedAt": "2026-09-24T23:08:39.000Z"
+    },
+    {
+      "id": "9bae841d-6ce3-4e54-92ed-ca5964db3e9f",
+      "company": "Envoy",
+      "title": "Solutions Engineering Intern",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/envoy/f2e20a8a-0e10-48ee-a761-3cffb89a80ca/application",
+      "url": "https://trueinterview.io/jobs/9bae841d-6ce3-4e54-92ed-ca5964db3e9f",
+      "postedAt": "2026-09-24T22:43:28.000Z",
+      "updatedAt": "2026-09-24T22:43:28.000Z"
+    },
+    {
+      "id": "7c443068-91b8-4fa3-9c7b-58a834818adf",
+      "company": "Pathai",
+      "title": "Machine Learning Intern/Co-op",
+      "locations": [
+        "Boston, MA or Remote",
+        "PathAI Boston"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.pathai.com/careers/8843495002?gh_jid=8843495002",
+      "url": "https://trueinterview.io/jobs/7c443068-91b8-4fa3-9c7b-58a834818adf",
+      "postedAt": "2026-09-24T21:51:54.000Z",
+      "updatedAt": "2026-09-24T21:51:54.000Z"
+    },
+    {
+      "id": "3afefe40-48ba-478e-951f-086c189139db",
+      "company": "Stripe",
+      "title": "Financial Data Analyst Intern, Technical Operations",
+      "locations": [
+        "Singapore",
+        "SG-Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8186442",
+      "url": "https://trueinterview.io/jobs/3afefe40-48ba-478e-951f-086c189139db",
+      "postedAt": "2026-09-24T21:24:36.000Z",
+      "updatedAt": "2026-09-24T21:24:36.000Z"
+    },
     {
       "id": "9756c8c4-63fe-4f44-aa84-7ad9e20562fe",
       "company": "Notion",
@@ -1296,34 +1461,6 @@
       "url": "https://trueinterview.io/jobs/2b78170a-bd06-42d1-866e-6daf6cc63401",
       "postedAt": "2026-09-22T20:53:10.000Z",
       "updatedAt": "2026-09-22T20:53:10.000Z"
-    },
-    {
-      "id": "a496ac89-bd9d-463b-ba3f-9f52f09f4ffe",
-      "company": "Stripe",
-      "title": "Integration Reliability Engineer Intern, Technical Operations",
-      "locations": [
-        "Singapore",
-        "SG-Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8186367",
-      "url": "https://trueinterview.io/jobs/a496ac89-bd9d-463b-ba3f-9f52f09f4ffe",
-      "postedAt": "2026-09-22T19:33:06.000Z",
-      "updatedAt": "2026-09-22T19:33:06.000Z"
     },
     {
       "id": "b33d81ca-2dca-4429-81b0-78ec3d3275af",
@@ -3443,7 +3580,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3990,9 +4127,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4609,48 +4746,6 @@
       "url": "https://trueinterview.io/jobs/a767aa3e-de81-4868-8d8d-9ecb5c8abb25",
       "postedAt": "2026-09-16T19:24:42.000Z",
       "updatedAt": "2026-09-16T19:24:42.000Z"
-    },
-    {
-      "id": "928e12cb-550b-40fb-b1bd-2dc8fda2d099",
-      "company": "Woolpert",
-      "title": "Site Civil Engineer Intern",
-      "locations": [
-        "Charlotte, NC",
-        "Chicago, IL",
-        "Cincinnati, OH",
-        "Columbus, OH",
-        "Dayton, OH",
-        "Fairview Heights, IL",
-        "Harrisburg, PA",
-        "Indianapolis, IN",
-        "Knoxville, TN",
-        "Miami, FL",
-        "New York, NY",
-        "Pittsburgh, PA",
-        "Richmond, VA",
-        "Salt Lake City, UT",
-        "United States"
-      ],
-      "cities": [
-        "Chicago, IL",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/woolpert/jobs/4408304009",
-      "url": "https://trueinterview.io/jobs/928e12cb-550b-40fb-b1bd-2dc8fda2d099",
-      "postedAt": "2026-09-16T19:10:57.000Z",
-      "updatedAt": "2026-09-16T19:10:57.000Z"
     },
     {
       "id": "9f6bd0a8-6fb1-4f20-bdd9-aa4830931ce4",
@@ -11778,9 +11873,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -15263,35 +15358,6 @@
       "url": "https://trueinterview.io/jobs/26860d8b-4d52-4fe7-b112-a9ccbd36865f",
       "postedAt": "2026-08-28T00:00:00.000Z",
       "updatedAt": "2026-08-28T00:00:00.000Z"
-    },
-    {
-      "id": "3c5e4327-b3bc-4817-a656-c01f0f18def8",
-      "company": "Evr",
-      "title": "January 2027 Projects/Civil Engineering Co-op",
-      "locations": [
-        "Calgary, AB",
-        "Elkford, BC",
-        "Sparwood, BC"
-      ],
-      "cities": [
-        "Calgary, AB"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/evr/c291a995-4d3b-49ab-93e0-321064d5e169/apply",
-      "url": "https://trueinterview.io/jobs/3c5e4327-b3bc-4817-a656-c01f0f18def8",
-      "postedAt": "2026-08-27T16:10:30.000Z",
-      "updatedAt": "2026-08-27T21:43:11.000Z"
     },
     {
       "id": "05d7b616-9d6f-4ba9-b1de-99fbbc6153d9",

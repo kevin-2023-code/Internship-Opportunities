@@ -156,18 +156,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/3afefe40-48ba-478e-951f-086c189139db">Financial Data Analyst Intern, Technical Operations</a></td>
+<td>Singapore<br/>SG-Singapore</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8186442">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Sezzle</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5fb76db-fc80-41bc-9600-d1be1b1c866a">Graphic Design Intern</a></td>
 <td>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8003784003">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/a496ac89-bd9d-463b-ba3f-9f52f09f4ffe">Integration Reliability Engineer Intern, Technical Operations</a></td>
-<td>Singapore<br/>SG-Singapore</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8186367">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Exegy</strong></td>
