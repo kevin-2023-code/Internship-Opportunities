@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-25T12:33:42.828Z",
-  "count": 691,
+  "listingsChangedAt": "2026-09-25T17:41:44.025Z",
+  "count": 693,
   "listings": [
     {
       "id": "d8000532-de88-4b1b-b97c-484114a621e8",
@@ -2006,7 +2006,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2126,6 +2126,31 @@
       "url": "https://trueinterview.io/jobs/db935311-8272-4176-ada0-818e751d8e40",
       "postedAt": "2026-09-21T16:53:10.000Z",
       "updatedAt": "2026-09-21T16:53:10.000Z"
+    },
+    {
+      "id": "5273f2f7-2a65-4d66-8472-233f9826f89a",
+      "company": "AMD",
+      "title": "Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91013?lang=en-us",
+      "url": "https://trueinterview.io/jobs/5273f2f7-2a65-4d66-8472-233f9826f89a",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
       "id": "3f1a65b7-8454-4bfe-b300-455365c682e7",
@@ -2597,6 +2622,31 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
+      "id": "5397af2d-f165-45bf-9f6a-b19a34b7d693",
+      "company": "Infineon",
+      "title": "Internship - Design Infrastructure",
+      "locations": [
+        "Lexington, KY, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808972035923",
+      "url": "https://trueinterview.io/jobs/5397af2d-f165-45bf-9f6a-b19a34b7d693",
+      "postedAt": "2026-09-20T00:00:00.000Z",
+      "updatedAt": "2026-09-20T00:00:00.000Z"
+    },
+    {
       "id": "2887a173-48d0-422c-aca8-c06e3d290371",
       "company": "Intel",
       "title": "Process Integration and Yield Engineering PhD Intern",
@@ -2879,6 +2929,31 @@
       "url": "https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b",
       "postedAt": "2026-09-18T20:04:36.000Z",
       "updatedAt": "2026-09-18T20:04:36.000Z"
+    },
+    {
+      "id": "554b5ee2-df75-4179-9d3b-993672365449",
+      "company": "Megazone Cloud Us",
+      "title": "Cloud Operations Co-op 2027",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/megazone/1d75a5d5-def9-43c0-9bf5-23e5bb65bf3f/application",
+      "url": "https://trueinterview.io/jobs/554b5ee2-df75-4179-9d3b-993672365449",
+      "postedAt": "2026-09-18T19:04:04.000Z",
+      "updatedAt": "2026-09-18T19:04:04.000Z"
     },
     {
       "id": "a41d6358-6647-467f-92a7-ca84dd48dfc6",
@@ -3245,9 +3320,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4743,32 +4818,6 @@
       "updatedAt": "2026-09-16T19:59:46.000Z"
     },
     {
-      "id": "524d3fea-c6bc-4f48-8518-b6ae6767c741",
-      "company": "Ms Consultants, Inc",
-      "title": "Water Engineer Internship - Summer 2027",
-      "locations": [
-        "Pittsburgh, PA",
-        "Columbus, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/msconsultants/742e33ad-ad91-475b-be86-5ba7701a5fba/apply",
-      "url": "https://trueinterview.io/jobs/524d3fea-c6bc-4f48-8518-b6ae6767c741",
-      "postedAt": "2026-09-16T19:55:39.000Z",
-      "updatedAt": "2026-09-16T19:55:39.000Z"
-    },
-    {
       "id": "16e45d0d-5312-45eb-ac3c-a198fa4ddf5f",
       "company": "InterSystems",
       "title": "Micro-Intern: Web Development (IAP)",
@@ -5035,7 +5084,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5375,7 +5424,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5434,6 +5483,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
       "url": "https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "5735a022-9975-4301-95a2-46584ce8c9d6",
+      "company": "Texas Instruments",
+      "title": "Smart Manufacturing and Automation Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994",
+      "url": "https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
@@ -5577,7 +5651,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5945,7 +6019,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -6537,6 +6611,61 @@
       "updatedAt": "2026-09-14T19:30:12.000Z"
     },
     {
+      "id": "51a0a61d-0fa4-4739-9077-7bee505d6e33",
+      "company": "National Life Insurance Company",
+      "title": "IT Application Development Intern (Inforce) – Summer 2027",
+      "locations": [
+        "Addison, TX",
+        "Montpelier, VT",
+        "Addison, TX",
+        "Montpelier, VT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009",
+      "url": "https://trueinterview.io/jobs/51a0a61d-0fa4-4739-9077-7bee505d6e33",
+      "postedAt": "2026-09-14T19:26:43.000Z",
+      "updatedAt": "2026-09-14T19:26:43.000Z"
+    },
+    {
+      "id": "5147b6e8-c8ee-464b-a445-0c376621b107",
+      "company": "Eq Bank",
+      "title": "Intern - Modern Workplace Analyst, Winter 2027",
+      "locations": [
+        "Toronto"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/eqbank/53d0826c-baeb-4ba6-87e5-7d6d416c1da7/apply",
+      "url": "https://trueinterview.io/jobs/5147b6e8-c8ee-464b-a445-0c376621b107",
+      "postedAt": "2026-09-14T18:54:18.000Z",
+      "updatedAt": "2026-09-14T18:54:18.000Z"
+    },
+    {
       "id": "330c74bb-171e-49d1-9d2e-4e899b1be3a6",
       "company": "Gdh",
       "title": "Architecture Intern",
@@ -6630,7 +6759,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -8226,7 +8355,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9058,7 +9187,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14040,36 +14169,6 @@
       "updatedAt": "2026-09-01T21:01:57.000Z"
     },
     {
-      "id": "54473d49-94a3-401b-a13e-219d9e1bc9cd",
-      "company": "Benesch",
-      "title": "Transportation Engineering - Roadway/Highway Design Internship",
-      "locations": [
-        "Atlanta, GA",
-        "Augusta, GA",
-        "Atlanta",
-        "Augusta"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.benesch.com/job-openings/5227637007?gh_jid=5227637007",
-      "url": "https://trueinterview.io/jobs/54473d49-94a3-401b-a13e-219d9e1bc9cd",
-      "postedAt": "2026-09-01T19:53:20.000Z",
-      "updatedAt": "2026-09-01T19:53:20.000Z"
-    },
-    {
       "id": "f4eb7217-51dc-4538-8c4a-e120e0f2ae01",
       "company": "Benesch",
       "title": "Bridge Design & Structural Engineering Internship",
@@ -14751,48 +14850,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5396125008",
       "url": "https://trueinterview.io/jobs/73d21ac1-96fb-453f-9865-e7c719649011",
-      "postedAt": "2026-08-31T21:00:00.000Z",
-      "updatedAt": "2026-08-31T21:00:00.000Z"
-    },
-    {
-      "id": "586f68b9-9f7f-44d9-ad16-d2299dbc17dd",
-      "company": "Olsson",
-      "title": "Engineering Internship - Water Resources",
-      "locations": [
-        "Overland Park, KS",
-        "Springfield, MO",
-        "Overland Park",
-        "Springfield",
-        "Lincoln, NE",
-        "Lincoln",
-        "Denver, CO",
-        "Loveland, CO",
-        "Denver",
-        "Loveland",
-        "Fayetteville, AR",
-        "Little Rock, AR",
-        "Fayetteville",
-        "Little Rock",
-        "Dallas, TX",
-        "Dallas (Plano)"
-      ],
-      "cities": [
-        "Denver, CO"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5395530008",
-      "url": "https://trueinterview.io/jobs/586f68b9-9f7f-44d9-ad16-d2299dbc17dd",
       "postedAt": "2026-08-31T21:00:00.000Z",
       "updatedAt": "2026-08-31T21:00:00.000Z"
     },
@@ -17576,31 +17633,6 @@
       "updatedAt": "2026-08-20T00:00:00.000Z"
     },
     {
-      "id": "156f1e1e-b515-472c-a276-3d0c548e2ff4",
-      "company": "Micron Technology",
-      "title": "Intern - HBM SoC RTL Design Engineer",
-      "locations": [
-        "Folsom, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43943574",
-      "url": "https://trueinterview.io/jobs/156f1e1e-b515-472c-a276-3d0c548e2ff4",
-      "postedAt": "2026-08-20T00:00:00.000Z",
-      "updatedAt": "2026-08-20T00:00:00.000Z"
-    },
-    {
       "id": "469a1841-2514-4362-8993-36d089bb26a1",
       "company": "Micron Technology",
       "title": "Intern - Photomask Wet Process Engineering",
@@ -18168,6 +18200,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43812075",
       "url": "https://trueinterview.io/jobs/80481f24-6de1-4df7-84b0-0c94e4de3f0c",
+      "postedAt": "2026-08-13T00:00:00.000Z",
+      "updatedAt": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "531fd0ac-9f33-424c-8680-5992507c881c",
+      "company": "Micron Technology",
+      "title": "Intern - Process Pathfinding, DRAM Dry Etch",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/43648171",
+      "url": "https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c",
       "postedAt": "2026-08-13T00:00:00.000Z",
       "updatedAt": "2026-08-13T00:00:00.000Z"
     },
@@ -18755,32 +18812,6 @@
       "url": "https://trueinterview.io/jobs/0cf881d3-699a-49ab-8e30-4e47e7267860",
       "postedAt": "2026-08-03T16:00:00.000Z",
       "updatedAt": "2026-08-03T16:00:00.000Z"
-    },
-    {
-      "id": "f65ebc55-57aa-464f-a139-8f869b83af5c",
-      "company": "Opswat",
-      "title": "Test Automation Engineer Intern",
-      "locations": [
-        "Veszprém, Veszprém, Hungary",
-        "Hungary"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.opswat.com/jobs/4620849005?gh_jid=4620849005",
-      "url": "https://trueinterview.io/jobs/f65ebc55-57aa-464f-a139-8f869b83af5c",
-      "postedAt": "2026-07-27T16:00:51.000Z",
-      "updatedAt": "2026-07-27T16:00:51.000Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**48 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**45 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d110cb85-9e22-45e3-948a-3789584ff412">MEP Engineer Internship - Summer 2027</a></td>
 <td>Columbus, OH</td>
 <td align="center"><a href="https://jobs.lever.co/msconsultants/93464961-404e-43b7-91d5-3d51f7f2bf85/apply">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/524d3fea-c6bc-4f48-8518-b6ae6767c741">Water Engineer Internship - Summer 2027</a></td>
-<td>Pittsburgh, PA<br/>Columbus, OH</td>
-<td align="center"><a href="https://jobs.lever.co/msconsultants/742e33ad-ad91-475b-be86-5ba7701a5fba/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -166,13 +159,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/54473d49-94a3-401b-a13e-219d9e1bc9cd">Transportation Engineering - Roadway/Highway Design Internship</a></td>
-<td>Atlanta, GA<br/>Augusta, GA</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5227637007?gh_jid=5227637007">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f4eb7217-51dc-4538-8c4a-e120e0f2ae01">Bridge Design &amp; Structural Engineering Internship</a></td>
 <td>Boston, MA<br/>Chicago, IL</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5227333007?gh_jid=5227333007">Apply</a></td>
@@ -232,13 +218,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/73d21ac1-96fb-453f-9865-e7c719649011">Electrical Engineering Internship - Federal Infrastructure</a></td>
 <td>North Kansas City, MO<br/>Overland Park, KS</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396125008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/586f68b9-9f7f-44d9-ad16-d2299dbc17dd">Engineering Internship - Water Resources</a></td>
-<td>Denver, CO<br/>Overland Park, KS<br/>Springfield, MO<br/>+6 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5395530008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

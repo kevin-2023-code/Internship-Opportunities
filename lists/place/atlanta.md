@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**6 open roles.**
+**5 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA<br/>Mountain View, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/54473d49-94a3-401b-a13e-219d9e1bc9cd">Transportation Engineering - Roadway/Highway Design Internship</a></td>
-<td>Atlanta, GA<br/>Augusta, GA</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5227637007?gh_jid=5227637007">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Salesforce</strong></td>
