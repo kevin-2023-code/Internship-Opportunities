@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**29 open roles.** 24 in the United States & Canada · 5 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**30 open roles.** 25 in the United States & Canada · 5 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,6 +148,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a59e370d-9d73-453f-9522-c27806d7fb97">Hardware R&amp;D Engineering Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ba03ba5-2e49-4c8d-a217-9a482461b469">Hardware Systems Integration Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

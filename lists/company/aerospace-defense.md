@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**45 open roles.** 42 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**44 open roles.** 41 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -61,13 +61,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/c73d4279-a928-46f8-bdcc-a6ce291fe388">Summer 2027 - Systems Engineering Internship</a></td>
-<td>Austin, TX<br/>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/556369b7-a017-4d0d-8e3b-97ec210be0d5/apply">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9198d075-4b5b-476c-948f-2c383fbd4b4f">Summer 2027 - Electrical Engineering Internship, RF</a></td>
 <td>Austin, TX<br/>Westminster, CO</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**56 open roles.**
+**60 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/534944c4-ccba-4083-b421-84d1e32f76b8">Healthcare Mechanical Engineering Co-op (Spring)</a></td>
+<td>US, MA, Wilmington, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Pathai</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c443068-91b8-4fa3-9c7b-58a834818adf">Machine Learning Intern/Co-op</a> 🌐</td>
@@ -65,6 +72,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993743">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cyvl</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c532a9e-25da-464b-bec8-ddf3ee3cedf0">Data Operations Intern (Summer 2027)</a></td>
+<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/cyvl/f44bb1cf-7100-46f7-b3c2-6d2a566d4b0d/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>InterSystems</strong></td>
@@ -291,6 +305,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Albireo Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c403c52-cf29-43db-91e0-35f460397ac8">Controls Engineer Intern - HVAC Controls</a></td>
+<td>Chelmsford, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/cW1fRZDaq6yz35f1wVQSot/controls-engineer-intern---hvac-controls-in-chelmsford-at-albireo-energy">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/574d1f01-0f66-43d6-90a5-e4f8cfc4a30c">Industrial Design Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, Massachusetts</td>
@@ -302,6 +323,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a59e370d-9d73-453f-9522-c27806d7fb97">Hardware R&amp;D Engineering Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ba03ba5-2e49-4c8d-a217-9a482461b469">Hardware Systems Integration Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

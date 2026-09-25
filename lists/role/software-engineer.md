@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**79 open roles.** 66 in the United States & Canada · 13 elsewhere in the world.
+**82 open roles.** 69 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dcbd321-bb3c-417b-a8e7-6eb883d55a7c">System Software Engineering - PhD Intern</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/c25ce015-a7a5-420e-949c-e0c9e50ae855">Engineering Software Developer, Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54638?lang=en-us">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/9756c8c4-63fe-4f44-aa84-7ad9e20562fe">Software Engineer Intern, Mobile (Winter 2027)</a></td>
@@ -393,6 +407,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ac3c3590-42cb-4fc3-9325-6938e9be8a0a">Software Engineer Intern</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64/application">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b714c58-fd1f-4a49-a13b-ac79c9a00f4f">2027 Masters Compiler Engineering Intern / Co-op</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+7 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91866?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

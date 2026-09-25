@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Benesch</strong></td>
+<td><a href="https://trueinterview.io/jobs/30f6cb62-0278-470d-96e1-20e62f40866f">Civil Site/Land Development Internship</a></td>
+<td>Franklin, TN<br/>Nashville, TN</td>
+<td align="center"><a href="https://www.benesch.com/job-openings/5249626007?gh_jid=5249626007">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/516be988-5981-41e5-b3be-905b58121477">Geotechnical Engineering Intern- Summer 2027</a></td>
 <td>Saint Louis, MO, United States</td>
@@ -36,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a788817d-9b45-4b81-87a1-9537e4e5ef04">Bridge Inspection Engineering Intern- Summer 2027</a></td>
 <td>Lawrenceville, NJ, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95572">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a9f4f61f-1bfa-450f-a6cb-5b002f6a26e5">Traffic Engineering Intern- Summer 2027</a></td>
-<td>Lexington, KY, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95797">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

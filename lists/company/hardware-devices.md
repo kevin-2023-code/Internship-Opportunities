@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**102 open roles.** 97 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**105 open roles.** 100 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/c25ce015-a7a5-420e-949c-e0c9e50ae855">Engineering Software Developer, Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54638?lang=en-us">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Samsara</strong></td>
 <td><a href="https://trueinterview.io/jobs/c1555cb2-8adc-464d-845c-2118078f42b5">Firmware Engineer Co-Op</a></td>
@@ -452,6 +459,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ca6474e-22a1-49cc-9bc6-6e864b18afd7">R&amp;D Packaging and Signal Integrity Intern</a></td>
+<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54201?lang=en-us">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2494bf8-1aeb-45c7-8087-0cbe65e9ad43">HPC AI Systems Administrator Intern</a></td>
 <td>Bloomington, Minnesota, United States of America</td>
@@ -547,6 +561,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a59e370d-9d73-453f-9522-c27806d7fb97">Hardware R&amp;D Engineering Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226">Apply</a></td>
+<td align="center">1 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ba03ba5-2e49-4c8d-a217-9a482461b469">Hardware Systems Integration Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 <tr>

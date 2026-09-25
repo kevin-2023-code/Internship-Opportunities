@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**14 open roles.** 13 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,6 +58,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bridgeton, Missouri, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/50886?lang=en-us">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Albireo Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c403c52-cf29-43db-91e0-35f460397ac8">Controls Engineer Intern - HVAC Controls</a></td>
+<td>Chelmsford, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/cW1fRZDaq6yz35f1wVQSot/controls-engineer-intern---hvac-controls-in-chelmsford-at-albireo-energy">Apply</a></td>
+<td align="center">3 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Re:build Manufacturing</strong></td>

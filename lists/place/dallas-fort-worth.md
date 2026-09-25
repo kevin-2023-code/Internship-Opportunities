@@ -61,13 +61,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a839ece-8a01-43f0-9642-11a8fee9448e">Intern - HBM Design Architect | MS or PhD Student</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44450235">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/32664ee6-62d8-420a-91d0-2872abe8877e">Intern - PHY Digital Design &amp; Automation Engineer, HBM</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44449230">Apply</a></td>
@@ -93,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542">Apply</a></td>
 <td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5cabd40a-79fd-4a48-b9ea-04d2c27699ed">Facilities Civil, Structural, Architectural Internship</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015813">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

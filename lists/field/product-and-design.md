@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**54 open roles.** 45 in the United States & Canada · 9 elsewhere in the world.
+**53 open roles.** 44 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,13 +261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Raleigh, United States of America<br/>Durham</td>
 <td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Technical-Product-Intern_R-059526-1">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d4e95b4-9a40-4fa9-871f-4bcc073bec8d">Digital Physical Design Intern - Spring 2027</a></td>
-<td>Austin (Oakhill, Office), United States of America<br/>Chandler (Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Spring-2027_R-10065545">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Roblox</strong></td>
