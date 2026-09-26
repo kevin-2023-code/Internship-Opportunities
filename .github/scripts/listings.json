@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-26T02:54:55.309Z",
+  "listingsChangedAt": "2026-09-26T08:12:43.643Z",
   "count": 711,
   "listings": [
     {
@@ -2819,9 +2819,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5926,6 +5926,31 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
+      "id": "68415944-c068-4db1-9fc8-9395511b466e",
+      "company": "Cesiumastro",
+      "title": "Summer 2027 - GNC Internship",
+      "locations": [
+        "Westminster, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/CesiumAstro/e18ce6a5-32ed-468e-a39e-28de9eb16872/apply",
+      "url": "https://trueinterview.io/jobs/68415944-c068-4db1-9fc8-9395511b466e",
+      "postedAt": "2026-09-15T23:56:50.000Z",
+      "updatedAt": "2026-09-15T23:56:50.000Z"
+    },
+    {
       "id": "faf90729-07e7-46ec-a562-3c28a92b28dc",
       "company": "Wsp",
       "title": "Intern, Electrical/Electronics Engineering",
@@ -6120,7 +6145,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9711,7 +9736,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -10358,9 +10383,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12662,8 +12687,8 @@
       "category": "Quantitative Finance",
       "family": "Quantitative Finance",
       "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "1point3acres",
@@ -14696,33 +14721,6 @@
       "updatedAt": "2026-09-01T19:42:23.000Z"
     },
     {
-      "id": "6546b21d-cbb1-48a1-a27a-2ad20b931018",
-      "company": "Benesch",
-      "title": "Transportation Engineering - Highway/Roadway Internship",
-      "locations": [
-        "Milwaukee, WI",
-        "Madison, WI",
-        "Milwaukee"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.benesch.com/job-openings/5208147007?gh_jid=5208147007",
-      "url": "https://trueinterview.io/jobs/6546b21d-cbb1-48a1-a27a-2ad20b931018",
-      "postedAt": "2026-09-01T19:42:02.000Z",
-      "updatedAt": "2026-09-01T19:42:02.000Z"
-    },
-    {
       "id": "4b3fcdfd-e215-4bfb-8709-276c2fb1d58b",
       "company": "Wsp",
       "title": "Transmission Engineering Intern - Summer 2027",
@@ -16124,7 +16122,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -17123,7 +17121,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Site Reliability Engineer",
       "seniority": "intern",
       "level": "newgrad",
