@@ -5,9 +5,38 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-26T13:33:06.548Z",
-  "count": 713,
+  "listingsChangedAt": "2026-09-26T17:32:51.042Z",
+  "count": 714,
   "listings": [
+    {
+      "id": "9e5ce220-f38e-420e-b3d1-554029627482",
+      "company": "Analog Devices",
+      "title": "FY27 Engineering Internship United Kingdom",
+      "locations": [
+        "United Kingdom, Edinburgh, SC, Freer",
+        "United Kingdom, Hayes",
+        "United Kingdom, Glasgow",
+        "United Kingdom, Newbury"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707",
+      "url": "https://trueinterview.io/jobs/9e5ce220-f38e-420e-b3d1-554029627482",
+      "postedAt": "2026-09-26T00:00:00.000Z",
+      "updatedAt": "2026-09-26T00:00:00.000Z"
+    },
     {
       "id": "550ed1d6-857f-4778-8d67-627fc29915fa",
       "company": "Atlassian",
@@ -108,6 +137,34 @@
       "url": "https://trueinterview.io/jobs/a4551ac7-ced9-4db0-a73a-f235ec9f8dcf",
       "postedAt": "2026-09-25T22:46:35.000Z",
       "updatedAt": "2026-09-25T22:46:35.000Z"
+    },
+    {
+      "id": "706da85a-f481-4887-9e4d-3e93fb6d0e19",
+      "company": "Gelber Group",
+      "title": "Discretionary Trading Internship - Summer 2027",
+      "locations": [
+        "Chicago, IL",
+        "Gelber Chicago (HQ)"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Trader",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006",
+      "url": "https://trueinterview.io/jobs/706da85a-f481-4887-9e4d-3e93fb6d0e19",
+      "postedAt": "2026-09-25T21:18:06.000Z",
+      "updatedAt": "2026-09-25T21:18:06.000Z"
     },
     {
       "id": "416402d6-7136-48b2-a386-4724a6a1b956",
@@ -3488,9 +3545,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4965,34 +5022,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027",
       "url": "https://trueinterview.io/jobs/18290116-ca6a-414d-aed3-ee978c4de6a3",
-      "postedAt": "2026-09-16T22:23:11.000Z",
-      "updatedAt": "2026-09-16T22:23:11.000Z"
-    },
-    {
-      "id": "6f1c934a-d79a-420a-a194-61f34104926c",
-      "company": "Google",
-      "title": "User Experience Research Intern, MS, Summer 2027",
-      "locations": [
-        "Mountain View, CA, USA",
-        "Ann Arbor, MI, USA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027",
-      "url": "https://trueinterview.io/jobs/6f1c934a-d79a-420a-a194-61f34104926c",
       "postedAt": "2026-09-16T22:23:11.000Z",
       "updatedAt": "2026-09-16T22:23:11.000Z"
     },
@@ -7646,7 +7675,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Mobile Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -9674,6 +9703,32 @@
       "updatedAt": "2026-09-09T23:40:26.000Z"
     },
     {
+      "id": "707c8a9e-08e3-41e2-a433-2ce4d9e4b35f",
+      "company": "Rocket Lab Corporation",
+      "title": "Integration & Test Intern Summer 2027",
+      "locations": [
+        "Long Beach, CA",
+        "RL Headquarters"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7987250003",
+      "url": "https://trueinterview.io/jobs/707c8a9e-08e3-41e2-a433-2ce4d9e4b35f",
+      "postedAt": "2026-09-09T23:38:22.000Z",
+      "updatedAt": "2026-09-09T23:38:22.000Z"
+    },
+    {
       "id": "55e97733-862d-4545-ac62-706387fc0b61",
       "company": "Rocket Lab Corporation",
       "title": "HITL Engineering Intern Summer 2027",
@@ -11685,7 +11740,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -16675,32 +16730,6 @@
       "url": "https://trueinterview.io/jobs/29247ebc-b2f9-4237-be7e-1e35849c3982",
       "postedAt": "2026-08-26T21:49:20.000Z",
       "updatedAt": "2026-08-26T21:49:20.000Z"
-    },
-    {
-      "id": "7104c84f-88e8-4213-a87d-f7e7e1684232",
-      "company": "Kelso Industries",
-      "title": "Estimator Intern",
-      "locations": [
-        "Phoenix, AZ",
-        "Markade"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://kelso-industries.com/careers/?gh_jid=5407269008",
-      "url": "https://trueinterview.io/jobs/7104c84f-88e8-4213-a87d-f7e7e1684232",
-      "postedAt": "2026-08-26T21:06:06.000Z",
-      "updatedAt": "2026-08-26T21:06:06.000Z"
     },
     {
       "id": "48625913-3f7f-49bd-9c17-472e3e342181",

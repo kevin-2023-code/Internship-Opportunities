@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**32 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -226,13 +226,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, AZ<br/>Denver, CO<br/>Fayetteville, AR<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5397436008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kelso Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7104c84f-88e8-4213-a87d-f7e7e1684232">Estimator Intern</a></td>
-<td>Phoenix, AZ<br/>Markade</td>
-<td align="center"><a href="https://kelso-industries.com/careers/?gh_jid=5407269008">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Nextiva</strong></td>
