@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-26T17:32:51.042Z",
-  "count": 714,
+  "listingsChangedAt": "2026-09-26T20:29:12.963Z",
+  "count": 721,
   "listings": [
     {
       "id": "9e5ce220-f38e-420e-b3d1-554029627482",
@@ -34,6 +34,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707",
       "url": "https://trueinterview.io/jobs/9e5ce220-f38e-420e-b3d1-554029627482",
+      "postedAt": "2026-09-26T00:00:00.000Z",
+      "updatedAt": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "id": "180e617c-5478-4b67-999b-ad99587c2971",
+      "company": "Marvell Technology",
+      "title": "Analog Design Intern",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern_2604084",
+      "url": "https://trueinterview.io/jobs/180e617c-5478-4b67-999b-ad99587c2971",
       "postedAt": "2026-09-26T00:00:00.000Z",
       "updatedAt": "2026-09-26T00:00:00.000Z"
     },
@@ -1227,6 +1252,34 @@
       "url": "https://trueinterview.io/jobs/8be3f215-ef0b-461a-a8a1-6ac9626e2824",
       "postedAt": "2026-09-23T23:53:52.000Z",
       "updatedAt": "2026-09-23T23:53:52.000Z"
+    },
+    {
+      "id": "71bc3a4d-39c0-472a-bffa-54901a343675",
+      "company": "Graphcore",
+      "title": "Hardware Platform Development Intern",
+      "locations": [
+        "Austin, Texas, United States",
+        "US - Austin"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
+      "url": "https://trueinterview.io/jobs/71bc3a4d-39c0-472a-bffa-54901a343675",
+      "postedAt": "2026-09-23T23:46:25.000Z",
+      "updatedAt": "2026-09-23T23:46:25.000Z"
     },
     {
       "id": "f868f3bc-cab8-416b-be03-4d37567400ad",
@@ -2493,6 +2546,33 @@
       "url": "https://trueinterview.io/jobs/ace07a34-3f6d-4636-af89-755c656cd5a2",
       "postedAt": "2026-09-21T18:36:47.000Z",
       "updatedAt": "2026-09-21T18:36:47.000Z"
+    },
+    {
+      "id": "71d4717a-95eb-47a1-b926-c61cb3b5cd40",
+      "company": "Telli",
+      "title": "Internship - Deployment Strategist",
+      "locations": [
+        "Berlin"
+      ],
+      "cities": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/telli/821f603f-69f5-475e-8200-56120cae7241/application",
+      "url": "https://trueinterview.io/jobs/71d4717a-95eb-47a1-b926-c61cb3b5cd40",
+      "postedAt": "2026-09-21T18:17:24.000Z",
+      "updatedAt": "2026-09-21T18:17:24.000Z"
     },
     {
       "id": "8d91487d-47a0-47ec-a884-d6297dbd1e69",
@@ -6935,6 +7015,31 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "73a67776-ef91-4bf4-98fb-3ab5d61756e5",
+      "company": "Texas Instruments",
+      "title": "Systems Engineering Intern(SEM) - A&D",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017921",
+      "url": "https://trueinterview.io/jobs/73a67776-ef91-4bf4-98fb-3ab5d61756e5",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
       "company": "Grammarly",
       "title": "Software Engineering Intern - Summer 2027",
@@ -8449,6 +8554,32 @@
       "url": "https://trueinterview.io/jobs/65bb4f66-47c0-4b9d-b301-9906cd87e515",
       "postedAt": "2026-09-11T19:58:05.000Z",
       "updatedAt": "2026-09-11T19:58:05.000Z"
+    },
+    {
+      "id": "72700c8e-9101-4bb5-875b-31599f2eb316",
+      "company": "Veeam Software",
+      "title": "Customer Care AI Analyst Intern - Summer 2027",
+      "locations": [
+        "Columbus, OH, USA",
+        "United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101",
+      "url": "https://trueinterview.io/jobs/72700c8e-9101-4bb5-875b-31599f2eb316",
+      "postedAt": "2026-09-11T19:37:23.000Z",
+      "updatedAt": "2026-09-11T19:37:23.000Z"
     },
     {
       "id": "d880325d-f12a-4a6f-8625-a1e32d8fb14e",
@@ -10120,6 +10251,32 @@
       "url": "https://trueinterview.io/jobs/81e4f5a5-2f5d-45cd-89e0-1ccd779ba655",
       "postedAt": "2026-09-09T19:18:39.000Z",
       "updatedAt": "2026-09-09T19:18:39.000Z"
+    },
+    {
+      "id": "73ad74bb-823f-45a0-8f41-9470e915b63f",
+      "company": "Domino Data Lab",
+      "title": "Forward Deployed Engineer, Intern - Campus Recruiting 2027",
+      "locations": [
+        "New York City, New York",
+        "Remote US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534",
+      "url": "https://trueinterview.io/jobs/73ad74bb-823f-45a0-8f41-9470e915b63f",
+      "postedAt": "2026-09-09T19:17:34.000Z",
+      "updatedAt": "2026-09-09T19:17:34.000Z"
     },
     {
       "id": "192e912d-2728-4177-a1ac-ddf0c96bd38b",
@@ -13326,35 +13483,6 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
-      "id": "73834623-cf72-4546-9c0c-c49c5363eb40",
-      "company": "Skydio",
-      "title": "Autonomy Engineer Intern - Computer Vision/Deep Learning Summer 2027",
-      "locations": [
-        "San Mateo, California, United States",
-        "Zurich, Switzerland"
-      ],
-      "cities": [
-        "Zurich"
-      ],
-      "countries": [
-        "United States",
-        "Switzerland"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application",
-      "url": "https://trueinterview.io/jobs/73834623-cf72-4546-9c0c-c49c5363eb40",
-      "postedAt": "2026-09-03T23:28:02.000Z",
-      "updatedAt": "2026-09-03T23:28:02.000Z"
-    },
-    {
       "id": "5c403c52-cf29-43db-91e0-35f460397ac8",
       "company": "Albireo Energy",
       "title": "Controls Engineer Intern - HVAC Controls",
@@ -16474,6 +16602,32 @@
       "updatedAt": "2026-08-28T00:00:00.000Z"
     },
     {
+      "id": "72338158-535a-42f9-8f54-9e9564409e9c",
+      "company": "TELUS Digital",
+      "title": "Product Analyst Intern",
+      "locations": [
+        "Columbus",
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": "Other",
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application",
+      "url": "https://trueinterview.io/jobs/72338158-535a-42f9-8f54-9e9564409e9c",
+      "postedAt": "2026-08-27T17:15:07.000Z",
+      "updatedAt": "2026-08-27T23:33:01.000Z"
+    },
+    {
       "id": "05d7b616-9d6f-4ba9-b1de-99fbbc6153d9",
       "company": "Abbvie",
       "title": "2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)",
@@ -16836,6 +16990,33 @@
       "url": "https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a",
       "postedAt": "2026-08-25T16:02:33.000Z",
       "updatedAt": "2026-08-25T16:02:33.000Z"
+    },
+    {
+      "id": "735f58a8-34c7-47c5-bc5e-f10675530b4a",
+      "company": "Kodiak Robotics",
+      "title": "Controls Intern",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": "Other",
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4378402009",
+      "url": "https://trueinterview.io/jobs/735f58a8-34c7-47c5-bc5e-f10675530b4a",
+      "postedAt": "2026-08-24T18:48:58.000Z",
+      "updatedAt": "2026-08-25T10:35:49.000Z"
     },
     {
       "id": "c22dc523-66f0-4030-aab1-8b3a4b675276",
