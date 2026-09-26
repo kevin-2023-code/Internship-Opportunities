@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-25T23:49:38.822Z",
-  "count": 708,
+  "listingsChangedAt": "2026-09-26T02:54:55.309Z",
+  "count": 711,
   "listings": [
     {
       "id": "550ed1d6-857f-4778-8d67-627fc29915fa",
@@ -32,6 +32,109 @@
       "url": "https://trueinterview.io/jobs/550ed1d6-857f-4778-8d67-627fc29915fa",
       "postedAt": "2026-09-25T23:03:39.000Z",
       "updatedAt": "2026-09-25T23:03:39.000Z"
+    },
+    {
+      "id": "c3137908-8fe3-4fcb-90ed-a338ee86c9b5",
+      "company": "Govsignals",
+      "title": "ENGINEERING INTERN",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application",
+      "url": "https://trueinterview.io/jobs/c3137908-8fe3-4fcb-90ed-a338ee86c9b5",
+      "postedAt": "2026-09-25T22:54:25.000Z",
+      "updatedAt": "2026-09-25T22:54:25.000Z"
+    },
+    {
+      "id": "72132eb1-c383-4ab7-8b10-a52adce7b733",
+      "company": "Helion",
+      "title": "Electrical Engineering Summer Intern",
+      "locations": [
+        "Everett, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4/application",
+      "url": "https://trueinterview.io/jobs/72132eb1-c383-4ab7-8b10-a52adce7b733",
+      "postedAt": "2026-09-25T22:50:06.000Z",
+      "updatedAt": "2026-09-25T22:50:06.000Z"
+    },
+    {
+      "id": "a4551ac7-ced9-4db0-a73a-f235ec9f8dcf",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
+      "url": "https://trueinterview.io/jobs/a4551ac7-ced9-4db0-a73a-f235ec9f8dcf",
+      "postedAt": "2026-09-25T22:46:35.000Z",
+      "updatedAt": "2026-09-25T22:46:35.000Z"
+    },
+    {
+      "id": "416402d6-7136-48b2-a386-4724a6a1b956",
+      "company": "Pebl",
+      "title": "Associate Product Manager Intern",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application",
+      "url": "https://trueinterview.io/jobs/416402d6-7136-48b2-a386-4724a6a1b956",
+      "postedAt": "2026-09-25T20:50:49.000Z",
+      "updatedAt": "2026-09-25T20:50:49.000Z"
     },
     {
       "id": "dd463139-e11c-4a5b-bdb9-55897f05ed1e",
@@ -316,31 +419,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1",
       "url": "https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8",
-      "postedAt": "2026-09-25T00:00:00.000Z",
-      "updatedAt": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "id": "f70566b2-9591-4883-9ae4-10dd6237772f",
-      "company": "Micron Technology",
-      "title": "Intern - AI Agentic Systems Engineer",
-      "locations": [
-        "Folsom, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44280744",
-      "url": "https://trueinterview.io/jobs/f70566b2-9591-4883-9ae4-10dd6237772f",
       "postedAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
@@ -1334,34 +1412,6 @@
       "url": "https://trueinterview.io/jobs/6a51f344-4acc-4f7c-a9b3-c39c1a73eaf9",
       "postedAt": "2026-09-23T19:30:27.000Z",
       "updatedAt": "2026-09-23T19:30:27.000Z"
-    },
-    {
-      "id": "8cacfd2b-aee8-4a97-9268-3457ee758bd1",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
-      "locations": [
-        "Mountain View, California",
-        "Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
-      "url": "https://trueinterview.io/jobs/8cacfd2b-aee8-4a97-9268-3457ee758bd1",
-      "postedAt": "2026-09-23T19:28:59.000Z",
-      "updatedAt": "2026-09-23T19:28:59.000Z"
     },
     {
       "id": "c621750c-630e-4d75-95f9-854bba48dca7",
@@ -5299,6 +5349,32 @@
       "updatedAt": "2026-09-16T19:05:30.000Z"
     },
     {
+      "id": "63f23028-ea85-42ad-a10f-2edbb6108d7f",
+      "company": "Rocket Lab Corporation",
+      "title": "Propulsion Analyst Intern Summer 2027",
+      "locations": [
+        "Long Beach, CA",
+        "EDC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986820003",
+      "url": "https://trueinterview.io/jobs/63f23028-ea85-42ad-a10f-2edbb6108d7f",
+      "postedAt": "2026-09-16T19:03:06.000Z",
+      "updatedAt": "2026-09-16T19:03:06.000Z"
+    },
+    {
       "id": "ffba23e1-edbe-491e-be38-cf934a2e429e",
       "company": "Persona",
       "title": "Software Engineer, Intern (Summer 2027)",
@@ -8804,7 +8880,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Security Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -15019,7 +15095,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "new-grad",
+      "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -15295,7 +15371,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
