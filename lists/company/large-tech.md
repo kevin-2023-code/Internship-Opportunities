@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**73 open roles.** 63 in the United States & Canada · 10 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**74 open roles.** 64 in the United States & Canada · 10 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1555cb2-8adc-464d-845c-2118078f42b5">Firmware Engineer Co-Op</a></td>
 <td>San Francisco - SF9</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d97b571-ce08-456f-912a-0e11f3872d30">Content Systems Intern (Summer 2027)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**260 open roles.** 252 in the United States & Canada · 8 elsewhere in the world.
+**265 open roles.** 257 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,6 +127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe">Semiconductor Systems Automation Intern</a></td>
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -481,6 +488,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6a843639-92fe-41f8-b7b9-c9d48f4e84d5">Intern - Node Development Product Engineer - DRAM Technology</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44477658">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/db620d2b-fb3c-4881-8ae4-ac30324659f8">Intern - Semiconductor Research &amp; Technology Development</a></td>
 <td>Albany, NY, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44419599">Apply</a></td>
@@ -499,6 +513,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397705518">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ca070be-5362-4462-bbe2-8688b3a7bd08">Electrical Engineering Internship - Facilities (Healthcare)</a></td>
+<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5423855008">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
@@ -785,6 +806,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/703124da-07fc-48a6-9e26-6c58414b0ac0">2027 Spring Product Quality Engineer Co-op  - Bachelor's (Gloucester, MA)</a></td>
 <td>Gloucester, MA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318404669">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d0b3e53-d992-4f24-aea0-1692c50d792b">CSG Hardware Engineering Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298216">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
@@ -1488,13 +1516,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Mountain View, CA<br/>Santa Clara, CA, US<br/>Raleigh, NC, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Kodiak</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0">Winter 2027 Intern, Electrical Engineering</a></td>
 <td>Mountain View, CA</td>
@@ -1579,6 +1600,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Aug 2026</td>
 </tr>
 <tr>
+<td><strong>Lab37</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4e925a-04ad-4edd-a08d-dac47bdc1a81">Mechanical Design Engineering Intern‬</a></td>
+<td>Los Angeles, CA or Pittsburgh, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8695490002">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cef9abb-a312-4627-b2ee-c60c8b6b59ef">Electrical Engineering Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, Massachusetts</td>
@@ -1608,6 +1636,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/69cfa22b-1952-46c5-b5c9-158c35cba1f1">2027 Masters Firmware Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90809?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/208fb5a1-8502-4cbe-a7ad-74d539956c7f">2027 Masters Hardware Design Verification Engineering Intern/Co-op</a></td>
 <td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90813?lang=en-us">Apply</a></td>

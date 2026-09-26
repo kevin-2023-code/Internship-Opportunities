@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**39 open roles.**
+**40 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,6 +51,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017978">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ca070be-5362-4462-bbe2-8688b3a7bd08">Electrical Engineering Internship - Facilities (Healthcare)</a></td>
+<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5423855008">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>National Life Insurance Company</strong></td>

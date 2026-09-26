@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**44 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**45 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Waltham, MA</td>
 <td align="center"><a href="https://jobs.lever.co/walkerconsultants/ab5e4719-b24f-48aa-8edb-28c2518a0bd6/apply">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ca070be-5362-4462-bbe2-8688b3a7bd08">Electrical Engineering Internship - Facilities (Healthcare)</a></td>
+<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5423855008">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>

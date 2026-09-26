@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**24 open roles.** 20 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**24 open roles.** 21 in the United States & Canada · 3 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,7 +25,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d97b571-ce08-456f-912a-0e11f3872d30">Content Systems Intern (Summer 2027)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc">Apply</a></td>
@@ -171,13 +178,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554">Program Manager Intern 6 Months - 2027</a></td>
-<td>DE, BE, Berlin</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3457f2e-667a-4096-aede-9cf490db5b54">Program Manager Intern ITA 2027 - MXP3 site</a></td>
 <td>IT, Vercelli</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site">Apply</a></td>

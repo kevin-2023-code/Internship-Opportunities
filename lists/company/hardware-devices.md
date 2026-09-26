@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**106 open roles.** 101 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**107 open roles.** 102 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -190,6 +190,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe">Semiconductor Systems Automation Intern</a></td>
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

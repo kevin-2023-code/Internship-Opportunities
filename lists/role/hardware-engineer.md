@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**69 open roles.**
+**70 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -60,7 +60,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/7564fa41-2d7d-4de0-a7be-89fc6a30cf6f">Semiconductor Process Engineering Intern</a></td>
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54385?lang=en-us">Apply</a></td>
@@ -232,6 +239,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd608332-faa1-4f5c-9bb7-c7a9cec2565a">Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027</a></td>
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d0b3e53-d992-4f24-aea0-1692c50d792b">CSG Hardware Engineering Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298216">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
@@ -428,13 +442,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/48625913-3f7f-49bd-9c17-472e3e342181">Hardware Support &amp; Test Intern</a> 🛂</td>
 <td>San Francisco, CA<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Mountain View, CA<br/>Santa Clara, CA, US<br/>Raleigh, NC, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>

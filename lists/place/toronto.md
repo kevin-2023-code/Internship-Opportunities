@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**8 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d97b571-ce08-456f-912a-0e11f3872d30">Content Systems Intern (Summer 2027)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Achievers</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2">Software Engineering Co-op - Winter 2027</a></td>

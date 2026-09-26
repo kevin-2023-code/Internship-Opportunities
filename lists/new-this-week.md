@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**124 open roles.** 116 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
+**125 open roles.** 118 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -176,6 +176,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1555cb2-8adc-464d-845c-2118078f42b5">Firmware Engineer Co-Op</a></td>
 <td>San Francisco - SF9</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d97b571-ce08-456f-912a-0e11f3872d30">Content Systems Intern (Summer 2027)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -505,6 +512,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9a53cce6-5078-4e05-aad5-e39ef7a045a6">Software Engineering Intern (C++, Unix)</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -864,13 +878,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554">Program Manager Intern 6 Months - 2027</a></td>
-<td>DE, BE, Berlin</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3457f2e-667a-4096-aede-9cf490db5b54">Program Manager Intern ITA 2027 - MXP3 site</a></td>
 <td>IT, Vercelli</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site">Apply</a></td>

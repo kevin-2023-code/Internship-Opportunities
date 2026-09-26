@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**282 open roles.** 257 in the United States & Canada · 25 elsewhere in the world.
+**278 open roles.** 253 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -753,13 +753,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6a843639-92fe-41f8-b7b9-c9d48f4e84d5">Intern - Node Development Product Engineer - DRAM Technology</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44477658">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/b66e02bb-2bd0-4a2c-b8da-7200115527d9">Information Technology Intern – Data Engineering</a></td>
 <td>Dallas, TX, United States</td>
@@ -1020,13 +1013,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d0b3e53-d992-4f24-aea0-1692c50d792b">CSG Hardware Engineering Intern</a></td>
-<td>TX, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298216">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/029ef665-6a27-42fd-b8a3-54c79d08723a">IT Undergraduate Intern</a></td>
 <td>TX, United States</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298782">Apply</a></td>
@@ -1643,13 +1629,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Lab37</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b4e925a-04ad-4edd-a08d-dac47bdc1a81">Mechanical Design Engineering Intern‬</a></td>
-<td>Los Angeles, CA or Pittsburgh, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8695490002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0f1e8bb5-7386-42c5-9543-1bc78f36e5d9">Robotics Software Engineer Intern</a></td>
 <td>Los Angeles, CA or Pittsburgh, PA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8695475002">Apply</a></td>
@@ -1657,13 +1636,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/69cfa22b-1952-46c5-b5c9-158c35cba1f1">2027 Masters Firmware Engineering Co-op/Intern</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90809?lang=en-us">Apply</a></td>
-<td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30cb68b6-f9c0-4c8e-9d8f-eb0f78b12a21">2027 Masters Firmware Engineering Intern/Co-op</a></td>
 <td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90805?lang=en-us">Apply</a></td>

@@ -1013,6 +1013,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4f41b2-7aee-424d-b377-31b89fd0553e">Summer 2027 Business Operations &amp; Management Intern- Bachelor's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317926591">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7f73c51c-346b-459d-b17c-a6de6cb6f343">Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318081773">Apply</a></td>
@@ -1261,13 +1268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/48625913-3f7f-49bd-9c17-472e3e342181">Hardware Support &amp; Test Intern</a> 🛂</td>
 <td>San Francisco, CA<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Mountain View, CA<br/>Santa Clara, CA, US<br/>Raleigh, NC, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
 <td align="center">26 Aug 2026</td>
 </tr>
 <tr>

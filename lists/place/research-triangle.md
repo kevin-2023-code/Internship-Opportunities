@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**42 open roles.**
+**41 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -282,13 +282,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Durham, North Carolina, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Raleigh, NC, US<br/>Mountain View, CA<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

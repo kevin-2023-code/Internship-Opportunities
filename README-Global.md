@@ -18,11 +18,11 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-26 02:54 UTC_
+_Last updated: 2026-09-26 13:33 UTC_
 
-**55 open internships** from **36 employers** · **8 posted in the last 7 days** · refreshed hourly
+**54 open internships** from **36 employers** · **7 posted in the last 7 days** · refreshed hourly
 
-### Browse 55 internships by field
+### Browse 54 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (25)
 
@@ -30,7 +30,7 @@ _Last updated: 2026-09-26 02:54 UTC_
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (8)
 
-📱 **[Product & Design](#-product--design)** (8)
+📱 **[Product & Design](#-product--design)** (7)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (8)
 
@@ -42,13 +42,13 @@ _Last updated: 2026-09-26 02:54 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (10)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [📈 Quant trading & hedge funds (3)](lists/company/quant-trading.md) · [+7 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (10)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [🚀 Aerospace & defence (3)](lists/company/aerospace-defense.md) · [🛒 E-commerce & marketplaces (3)](lists/company/ecommerce-marketplace.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [📈 Quant trading & hedge funds (3)](lists/company/quant-trading.md) · [+7 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (13)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (5)](lists/role/product-manager.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (13)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (4)](lists/role/product-manager.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
 📍 **By location** — [🇬🇧 London & the UK (9)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (5)](lists/place/anz.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (8)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (7)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -393,17 +393,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554">Program Manager Intern 6 Months - 2027</a> 🆕</td>
-<td>DE, BE, Berlin</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3457f2e-667a-4096-aede-9cf490db5b54">Program Manager Intern ITA 2027 - MXP3 site</a> 🆕</td>
 <td>IT, Vercelli</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Sezzle</strong></td>

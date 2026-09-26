@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**11 open roles.** 8 in the United States & Canada · 3 elsewhere in the world.
+**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -40,6 +40,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4f41b2-7aee-424d-b377-31b89fd0553e">Summer 2027 Business Operations &amp; Management Intern- Bachelor's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317926591">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/827fe610-73f5-48e7-8a2f-effdbf90c84d">Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)</a></td>
 <td>Albany, NY, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318309200">Apply</a></td>

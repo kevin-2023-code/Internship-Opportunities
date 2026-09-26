@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**86 open roles.** 73 in the United States & Canada · 13 elsewhere in the world.
+**88 open roles.** 75 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -249,6 +249,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ca00983-0d56-45f0-8ee1-9cca58c08327">Software Engineering Intern, BS, Summer 2027</a></td>
+<td>Mountain View, CA<br/>Austin, TX</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>NetApp</strong></td>
 <td><a href="https://trueinterview.io/jobs/11f4fb7c-d43b-4725-9187-88d852e34752">Software Engineer Intern</a></td>
 <td>Wichita, Kansas, United States</td>
@@ -366,6 +373,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Raleigh, United States of America<br/>Lowell<br/>+1 more</td>
 <td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dropbox</strong></td>
+<td><a href="https://trueinterview.io/jobs/699e0609-5e72-44dd-b8fd-d6d0072e74b1">Software Engineering Intern (Summer 2027)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224">Apply</a></td>
+<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Juicebox</strong></td>

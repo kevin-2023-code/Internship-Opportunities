@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-26T08:12:43.643Z",
-  "count": 711,
+  "listingsChangedAt": "2026-09-26T13:33:06.548Z",
+  "count": 713,
   "listings": [
     {
       "id": "550ed1d6-857f-4778-8d67-627fc29915fa",
@@ -693,6 +693,34 @@
       "updatedAt": "2026-09-24T19:18:45.000Z"
     },
     {
+      "id": "6d97b571-ce08-456f-912a-0e11f3872d30",
+      "company": "Lyft",
+      "title": "Content Systems Intern (Summer 2027)",
+      "locations": [
+        "Toronto, Canada",
+        "Toronto Office"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
+      "url": "https://trueinterview.io/jobs/6d97b571-ce08-456f-912a-0e11f3872d30",
+      "postedAt": "2026-09-24T19:18:38.000Z",
+      "updatedAt": "2026-09-24T19:18:38.000Z"
+    },
+    {
       "id": "47316a3f-e13e-4703-8395-955187568a7f",
       "company": "Arista Networks",
       "title": "Hardware Intern",
@@ -717,31 +745,6 @@
       "url": "https://trueinterview.io/jobs/47316a3f-e13e-4703-8395-955187568a7f",
       "postedAt": "2026-09-24T16:02:48.000Z",
       "updatedAt": "2026-09-24T16:02:48.000Z"
-    },
-    {
-      "id": "69b87bb1-c22f-4a49-a72d-987032cbb554",
-      "company": "Amazon",
-      "title": "Program Manager Intern 6 Months - 2027",
-      "locations": [
-        "DE, BE, Berlin"
-      ],
-      "cities": [],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027",
-      "url": "https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554",
-      "postedAt": "2026-09-24T07:00:00.000Z",
-      "updatedAt": "2026-09-24T07:00:00.000Z"
     },
     {
       "id": "a3457f2e-667a-4096-aede-9cf490db5b54",
@@ -2059,6 +2062,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
       "url": "https://trueinterview.io/jobs/9a53cce6-5078-4e05-aad5-e39ef7a045a6",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "6aa2b905-bcff-4b73-bacf-7111edc6b2bd",
+      "company": "Nokia",
+      "title": "Photonic Integrated Circuits Test Coop",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743",
+      "url": "https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -6739,7 +6767,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -6969,6 +6997,34 @@
       "url": "https://trueinterview.io/jobs/5a9a9438-8cba-4064-9a01-e05f55ce72ad",
       "postedAt": "2026-09-14T21:59:56.000Z",
       "updatedAt": "2026-09-14T21:59:56.000Z"
+    },
+    {
+      "id": "6ca070be-5362-4462-bbe2-8688b3a7bd08",
+      "company": "Olsson",
+      "title": "Electrical Engineering Internship - Facilities (Healthcare)",
+      "locations": [
+        "Dallas, TX",
+        "Fort Worth, TX",
+        "Dallas (Plano)",
+        "Fort Worth"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5423855008",
+      "url": "https://trueinterview.io/jobs/6ca070be-5362-4462-bbe2-8688b3a7bd08",
+      "postedAt": "2026-09-14T20:03:00.000Z",
+      "updatedAt": "2026-09-14T20:03:00.000Z"
     },
     {
       "id": "c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770",
@@ -7370,9 +7426,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -10230,9 +10286,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11732,9 +11788,9 @@
         "United States"
       ],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12746,6 +12802,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
       "url": "https://trueinterview.io/jobs/156bb9f6-9e41-476a-8330-8ca65f6eba9c",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "6b4f41b2-7aee-424d-b377-31b89fd0553e",
+      "company": "Applied Materials",
+      "title": "Summer 2027 Business Operations & Management Intern- Bachelor's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317926591",
+      "url": "https://trueinterview.io/jobs/6b4f41b2-7aee-424d-b377-31b89fd0553e",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
@@ -16650,35 +16731,6 @@
       "updatedAt": "2026-08-26T00:30:01.000Z"
     },
     {
-      "id": "95ff1a48-3bad-4e90-a145-e3088121c934",
-      "company": "Microsoft",
-      "title": "Silicon Engineering INTERN",
-      "locations": [
-        "Santa Clara, CA, US",
-        "Mountain View, CA, US",
-        "Raleigh, NC, US"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556958170",
-      "url": "https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
       "id": "5e21d861-b85a-48cc-a044-458aab142ac0",
       "company": "Kodiak",
       "title": "Winter 2027 Intern, Electrical Engineering",
@@ -17229,7 +17281,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -17512,7 +17564,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",

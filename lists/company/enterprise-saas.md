@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**34 open roles.** 31 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**33 open roles.** 30 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -205,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>California - San Francisco, United States of America<br/>California - Palo Alto<br/>New York - New York<br/>+5 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1">Apply</a></td>
 <td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Mountain View, CA<br/>Santa Clara, CA, US<br/>Raleigh, NC, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Rilla</strong></td>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**52 open roles.** 44 in the United States & Canada · 8 elsewhere in the world.
+**52 open roles.** 45 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application">Apply</a></td>
 <td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d97b571-ce08-456f-912a-0e11f3872d30">Content Systems Intern (Summer 2027)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002">Apply</a></td>
+<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -339,13 +346,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554">Program Manager Intern 6 Months - 2027</a></td>
-<td>DE, BE, Berlin</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3457f2e-667a-4096-aede-9cf490db5b54">Program Manager Intern ITA 2027 - MXP3 site</a></td>
 <td>IT, Vercelli</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**366 open roles.** 364 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**366 open roles.** 365 in the United States & Canada · 1 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -323,6 +323,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9a53cce6-5078-4e05-aad5-e39ef7a045a6">Software Engineering Intern (C++, Unix)</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -1769,6 +1776,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4f41b2-7aee-424d-b377-31b89fd0553e">Summer 2027 Business Operations &amp; Management Intern- Bachelor's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317926591">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/827fe610-73f5-48e7-8a2f-effdbf90c84d">Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)</a></td>
 <td>Albany, NY, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318309200">Apply</a></td>
@@ -2188,13 +2202,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/95ff1a48-3bad-4e90-a145-e3088121c934">Silicon Engineering INTERN</a></td>
-<td>Mountain View, CA<br/>Santa Clara, CA, US<br/>Raleigh, NC, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556958170">Apply</a></td>
-<td align="center">26 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276">2027 Masters ASIC Package Engineering Co-op/Intern</a></td>
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
@@ -2579,13 +2586,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/69b87bb1-c22f-4a49-a72d-987032cbb554">Program Manager Intern 6 Months - 2027</a></td>
-<td>DE, BE, Berlin</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10558945/program-manager-intern-6-months-2027">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3457f2e-667a-4096-aede-9cf490db5b54">Program Manager Intern ITA 2027 - MXP3 site</a></td>
 <td>IT, Vercelli</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site">Apply</a></td>
