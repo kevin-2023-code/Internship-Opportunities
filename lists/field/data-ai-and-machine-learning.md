@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**85 open roles.** 81 in the United States & Canada · 4 elsewhere in the world.
+**84 open roles.** 80 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -513,13 +513,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632">Apply</a></td>
 <td align="center">30 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Xaira Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/8af436f3-290d-4bc7-bdf1-8891f766ba4a">AI Scientist Intern, Computational Protein Design</a></td>
-<td>Seattle, Washington, United States<br/>South San Francisco, California, United States<br/>Seattle/SF Bay Area</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007">Apply</a></td>
-<td align="center">28 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>

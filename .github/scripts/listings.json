@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-27T14:36:26.224Z",
-  "count": 725,
+  "listingsChangedAt": "2026-09-27T18:49:48.408Z",
+  "count": 726,
   "listings": [
     {
       "id": "9e5ce220-f38e-420e-b3d1-554029627482",
@@ -271,6 +271,34 @@
       "url": "https://trueinterview.io/jobs/30f6cb62-0278-470d-96e1-20e62f40866f",
       "postedAt": "2026-09-25T19:09:36.000Z",
       "updatedAt": "2026-09-25T19:09:36.000Z"
+    },
+    {
+      "id": "8a1360ff-76ee-4419-b5af-517b04090cc5",
+      "company": "Cannondesign",
+      "title": "Mechanical Student Intern",
+      "locations": [
+        "Denver, CO",
+        "Denver"
+      ],
+      "cities": [
+        "Denver, CO"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "http://www.cannondesign.com/careers/?gh_jid=8844747002",
+      "url": "https://trueinterview.io/jobs/8a1360ff-76ee-4419-b5af-517b04090cc5",
+      "postedAt": "2026-09-25T18:42:53.000Z",
+      "updatedAt": "2026-09-25T18:42:53.000Z"
     },
     {
       "id": "8f611de7-599e-4f1e-902d-c61530465ddf",
@@ -1129,7 +1157,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1819,7 +1847,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2227,6 +2255,31 @@
       "url": "https://trueinterview.io/jobs/bb207ad0-4e95-455d-a93f-391b3a09f0b9",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "88105cd2-07ae-49dc-8957-7e4db332ee7f",
+      "company": "OnePay",
+      "title": "Product Intern",
+      "locations": [
+        "New York City (Hybrid)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application",
+      "url": "https://trueinterview.io/jobs/88105cd2-07ae-49dc-8957-7e4db332ee7f",
+      "postedAt": "2026-09-21T23:51:12.000Z",
+      "updatedAt": "2026-09-21T23:51:12.000Z"
     },
     {
       "id": "7bb17c3a-e5f6-4337-8f34-c7a648128463",
@@ -3012,7 +3065,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3573,9 +3626,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3598,9 +3651,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3961,9 +4014,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5325,32 +5378,6 @@
       "url": "https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f",
       "postedAt": "2026-09-16T21:13:06.000Z",
       "updatedAt": "2026-09-16T21:13:06.000Z"
-    },
-    {
-      "id": "09ae0854-e6ee-49db-a90d-ffaa5c8f5a60",
-      "company": "Cannondesign",
-      "title": "Service Desk Analyst Intern",
-      "locations": [
-        "Minneapolis, MN",
-        "Minneapolis"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "http://www.cannondesign.com/careers/?gh_jid=8814369002",
-      "url": "https://trueinterview.io/jobs/09ae0854-e6ee-49db-a90d-ffaa5c8f5a60",
-      "postedAt": "2026-09-16T21:07:51.000Z",
-      "updatedAt": "2026-09-16T21:07:51.000Z"
     },
     {
       "id": "d110cb85-9e22-45e3-948a-3789584ff412",
@@ -7784,7 +7811,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Mobile Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -9942,6 +9969,32 @@
       "url": "https://trueinterview.io/jobs/55e97733-862d-4545-ac62-706387fc0b61",
       "postedAt": "2026-09-09T23:36:36.000Z",
       "updatedAt": "2026-09-09T23:36:36.000Z"
+    },
+    {
+      "id": "89281711-8c17-4fd5-8c68-76586ca44c45",
+      "company": "Rocket Lab Corporation",
+      "title": "GNC Intern Summer 2027",
+      "locations": [
+        "Littleton, CO",
+        "ASI Office"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7989993003",
+      "url": "https://trueinterview.io/jobs/89281711-8c17-4fd5-8c68-76586ca44c45",
+      "postedAt": "2026-09-09T23:35:20.000Z",
+      "updatedAt": "2026-09-09T23:35:20.000Z"
     },
     {
       "id": "9ddd6196-bd67-47a0-9c4c-802a4f483234",
@@ -15254,7 +15307,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -16507,36 +16560,6 @@
       "url": "https://trueinterview.io/jobs/65475e53-2efb-421e-b6ac-529108cf9bd9",
       "postedAt": "2026-08-28T22:19:06.000Z",
       "updatedAt": "2026-08-28T22:19:06.000Z"
-    },
-    {
-      "id": "8af436f3-290d-4bc7-bdf1-8891f766ba4a",
-      "company": "Xaira Therapeutics",
-      "title": "AI Scientist Intern, Computational Protein Design",
-      "locations": [
-        "Seattle, Washington, United States",
-        "South San Francisco, California, United States",
-        "Seattle/SF Bay Area",
-        "South San Francisco, CA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007",
-      "url": "https://trueinterview.io/jobs/8af436f3-290d-4bc7-bdf1-8891f766ba4a",
-      "postedAt": "2026-08-28T21:52:45.000Z",
-      "updatedAt": "2026-08-28T21:52:45.000Z"
     },
     {
       "id": "ae4ee08a-b5b1-4eda-8cda-afa59ead2173",

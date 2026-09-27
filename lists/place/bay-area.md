@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**212 open roles.** 211 in the United States & Canada · 1 elsewhere in the world.
+**211 open roles.** 210 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1198,13 +1198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65475e53-2efb-421e-b6ac-529108cf9bd9">Electrical Project Engineer Intern (Spring 2027)</a></td>
 <td>South San Francisco, California, USA<br/>Aviary - SSF</td>
 <td align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7980874003">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Xaira Therapeutics</strong></td>
-<td><a href="https://trueinterview.io/jobs/8af436f3-290d-4bc7-bdf1-8891f766ba4a">AI Scientist Intern, Computational Protein Design</a></td>
-<td>South San Francisco, California, United States<br/>Seattle/SF Bay Area<br/>Seattle, Washington, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

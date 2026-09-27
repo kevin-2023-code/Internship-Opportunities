@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world.
+**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7bf64225-8a4c-40a9-9a04-346e5179746b">Security Analyst Intern Summer 2027</a></td>
 <td>Middle River, MD<br/>Space Structures Complex (SSC)<br/>Long Beach, CA<br/>+5 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986963003">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cannondesign</strong></td>
-<td><a href="https://trueinterview.io/jobs/09ae0854-e6ee-49db-a90d-ffaa5c8f5a60">Service Desk Analyst Intern</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8814369002">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
