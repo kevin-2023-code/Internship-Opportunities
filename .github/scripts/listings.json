@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-27T02:57:49.943Z",
-  "count": 723,
+  "listingsChangedAt": "2026-09-27T08:58:48.441Z",
+  "count": 725,
   "listings": [
     {
       "id": "9e5ce220-f38e-420e-b3d1-554029627482",
@@ -4656,6 +4656,38 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "7bf64225-8a4c-40a9-9a04-346e5179746b",
+      "company": "Rocket Lab Corporation",
+      "title": "Security Analyst Intern Summer 2027",
+      "locations": [
+        "Middle River, MD",
+        "Space Structures Complex (SSC)",
+        "Long Beach, CA",
+        "RL Headquarters",
+        "Albuquerque, NM",
+        "SolAero Office",
+        "Wallops Island, VA",
+        "Launch Complex 2"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
+      "url": "https://trueinterview.io/jobs/7bf64225-8a4c-40a9-9a04-346e5179746b",
+      "postedAt": "2026-09-16T23:25:14.000Z",
+      "updatedAt": "2026-09-16T23:25:14.000Z"
+    },
+    {
       "id": "f9afebbd-7396-4bce-8d52-ebcb04692e64",
       "company": "SAP",
       "title": "SAP iXp Intern - Full-Stack AI Developer",
@@ -6750,9 +6782,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -8964,7 +8996,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -9847,7 +9879,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11355,6 +11387,32 @@
       "updatedAt": "2026-09-08T16:55:09.000Z"
     },
     {
+      "id": "7e31f3df-5ae6-4213-86be-117962a3bc9d",
+      "company": "The Nuclear Company",
+      "title": "TNC Nuclear Interns 2027",
+      "locations": [
+        "Columbia, SC",
+        "Columbia, South Carolina"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5418204008",
+      "url": "https://trueinterview.io/jobs/7e31f3df-5ae6-4213-86be-117962a3bc9d",
+      "postedAt": "2026-09-08T16:12:58.000Z",
+      "updatedAt": "2026-09-08T16:12:58.000Z"
+    },
+    {
       "id": "b06ad3d3-2464-4438-80b2-73d07a8e6978",
       "company": "Gallup",
       "title": "Product Design Intern — Summer 2027",
@@ -12417,7 +12475,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14629,7 +14687,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -17385,7 +17443,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -19559,7 +19617,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
