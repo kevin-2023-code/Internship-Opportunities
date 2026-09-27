@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-26T20:29:12.963Z",
-  "count": 721,
+  "listingsChangedAt": "2026-09-27T02:57:49.943Z",
+  "count": 723,
   "listings": [
     {
       "id": "9e5ce220-f38e-420e-b3d1-554029627482",
@@ -3262,9 +3262,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6725,7 +6725,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9288,6 +9288,32 @@
       "updatedAt": "2026-09-10T19:05:50.000Z"
     },
     {
+      "id": "79b9c5c9-95c9-436c-bb53-c4316072c3f1",
+      "company": "Rocket Lab Corporation",
+      "title": "Fluid Component Intern Spring 2027",
+      "locations": [
+        "Long Beach, CA",
+        "EDC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7990365003",
+      "url": "https://trueinterview.io/jobs/79b9c5c9-95c9-436c-bb53-c4316072c3f1",
+      "postedAt": "2026-09-09T22:53:19.000Z",
+      "updatedAt": "2026-09-10T19:05:16.000Z"
+    },
+    {
       "id": "199b7153-1f8f-41b7-b2ff-c3bd6000be5a",
       "company": "Benesch",
       "title": "Civil Transportation Internship",
@@ -10766,6 +10792,32 @@
       "url": "https://trueinterview.io/jobs/de2b2752-49c6-46c9-8ba8-56b9e702d9fb",
       "postedAt": "2026-09-08T23:46:09.000Z",
       "updatedAt": "2026-09-08T23:46:09.000Z"
+    },
+    {
+      "id": "79acc117-007a-4690-94c9-d9af4b520733",
+      "company": "Coinbase",
+      "title": "People Analytics Intern",
+      "locations": [
+        "Hybrid - New York, NY",
+        "US - Remote Zone 1 (Job Requisitions Only)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
+      "url": "https://trueinterview.io/jobs/79acc117-007a-4690-94c9-d9af4b520733",
+      "postedAt": "2026-09-08T23:05:20.000Z",
+      "updatedAt": "2026-09-08T23:05:20.000Z"
     },
     {
       "id": "db61760a-8d9d-482b-89f4-eaa565d474b9",
@@ -12853,7 +12905,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -15194,7 +15246,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
