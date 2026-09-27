@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**24 open roles.** 21 in the United States & Canada · 3 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**23 open roles.** 20 in the United States & Canada · 3 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cupertino, California, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/852409c7-27ca-4062-b46a-9f257a6f3972">Automation Engineer Intern, (Nationwide) - Summer 2027</a></td>
-<td>Mt Juliet, Tennessee, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

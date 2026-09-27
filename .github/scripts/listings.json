@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-27T08:58:48.441Z",
+  "listingsChangedAt": "2026-09-27T14:36:26.224Z",
   "count": 725,
   "listings": [
     {
@@ -3236,9 +3236,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4593,7 +4593,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -10632,7 +10632,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14608,7 +14608,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14788,7 +14788,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -18294,9 +18294,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -18994,31 +18994,6 @@
       "updatedAt": "2026-08-13T23:54:03.000Z"
     },
     {
-      "id": "852409c7-27ca-4062-b46a-9f257a6f3972",
-      "company": "Amazon",
-      "title": "Automation Engineer Intern, (Nationwide) - Summer 2027",
-      "locations": [
-        "Mt Juliet, Tennessee, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10501526/automation-engineer-intern-nationwide-summer-2027",
-      "url": "https://trueinterview.io/jobs/852409c7-27ca-4062-b46a-9f257a6f3972",
-      "postedAt": "2026-08-13T00:00:00.000Z",
-      "updatedAt": "2026-08-13T00:00:00.000Z"
-    },
-    {
       "id": "80481f24-6de1-4df7-84b0-0c94e4de3f0c",
       "company": "Micron Technology",
       "title": "DOW SkillsBridge Intern – Semiconductor Equipment Technician",
@@ -19359,6 +19334,31 @@
       "updatedAt": "2026-08-04T00:00:00.000Z"
     },
     {
+      "id": "842e6a2a-b216-4b3e-8659-5e8380776186",
+      "company": "Micron Technology",
+      "title": "Intern - Process Development",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/43648463",
+      "url": "https://trueinterview.io/jobs/842e6a2a-b216-4b3e-8659-5e8380776186",
+      "postedAt": "2026-08-04T00:00:00.000Z",
+      "updatedAt": "2026-08-04T00:00:00.000Z"
+    },
+    {
       "id": "dc5ae13d-3140-466c-bae0-73b8012632e7",
       "company": "Micron Technology",
       "title": "Intern - Process Development Engineer, 3D DRAM Dry Etch",
@@ -19542,9 +19542,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**251 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**252 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1759,6 +1759,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43721088">Apply</a></td>
 <td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/842e6a2a-b216-4b3e-8659-5e8380776186">Intern - Process Development</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43648463">Apply</a></td>
+<td align="center">4 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
