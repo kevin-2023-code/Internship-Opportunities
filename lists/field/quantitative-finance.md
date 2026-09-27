@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**14 open roles.** 6 in the United States & Canada · 8 elsewhere in the world.
+**15 open roles.** 6 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -98,6 +98,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8187178">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8bb61b40-ac2f-4b12-9c7f-840c77a405d2">2027 Risk Analyst (DMFI) Intern</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172053">Apply</a></td>
+<td align="center">4 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>

@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**41 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,6 +99,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b6faaf5e-a70b-4e89-9c21-1ecf2cc2e378">Systems Engineering Intern - MS/PhD</a></td>
 <td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8e11a7a7-6bd2-406d-8c69-ec735795db1f">Systems Marketing Engineering Intern (SEM)</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017540">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

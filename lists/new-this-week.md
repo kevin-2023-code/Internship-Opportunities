@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**121 open roles.** 113 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
+**122 open roles.** 114 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -610,6 +610,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7ab61ea7-65df-4e3e-9755-da6ea48c1268">MIT- Software Engineer Intern | Engine</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/singlestore/jobs/8221924">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Altalink</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e57cdd3-80e9-430b-a124-a20d8610da31">Co-Op Students (Operations and Projects)</a></td>
+<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/osLAhWRTZx1QgMcwyiiNpF/co-op-students-(operations-and-projects)-in-calgary-at-altalink">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

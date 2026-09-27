@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-27T18:49:48.408Z",
-  "count": 726,
+  "listingsChangedAt": "2026-09-27T21:47:23.595Z",
+  "count": 731,
   "listings": [
     {
       "id": "9e5ce220-f38e-420e-b3d1-554029627482",
@@ -1269,7 +1269,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -2465,6 +2465,33 @@
       "url": "https://trueinterview.io/jobs/7ab61ea7-65df-4e3e-9755-da6ea48c1268",
       "postedAt": "2026-09-21T21:51:00.000Z",
       "updatedAt": "2026-09-21T21:51:00.000Z"
+    },
+    {
+      "id": "8e57cdd3-80e9-430b-a124-a20d8610da31",
+      "company": "Altalink",
+      "title": "Co-Op Students (Operations and Projects)",
+      "locations": [
+        "Calgary, Alberta, Canada"
+      ],
+      "cities": [
+        "Calgary, AB"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.workable.com/view/osLAhWRTZx1QgMcwyiiNpF/co-op-students-(operations-and-projects)-in-calgary-at-altalink",
+      "url": "https://trueinterview.io/jobs/8e57cdd3-80e9-430b-a124-a20d8610da31",
+      "postedAt": "2026-09-21T21:00:51.000Z",
+      "updatedAt": "2026-09-21T21:00:51.000Z"
     },
     {
       "id": "cb2f07dd-7f85-4d8c-92f9-d9ccc4636673",
@@ -8420,6 +8447,31 @@
       "updatedAt": "2026-09-11T21:41:20.000Z"
     },
     {
+      "id": "8d601ced-5c68-439d-af52-6152b7beb54c",
+      "company": "Wsp",
+      "title": "Geological Engineering Intern - Summer 2027",
+      "locations": [
+        "Lakewood, CO, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95132",
+      "url": "https://trueinterview.io/jobs/8d601ced-5c68-439d-af52-6152b7beb54c",
+      "postedAt": "2026-09-11T21:38:07.000Z",
+      "updatedAt": "2026-09-11T21:38:07.000Z"
+    },
+    {
       "id": "001b50fb-6929-43d5-ab07-ceaf33f69e8b",
       "company": "Compeer Financial",
       "title": "Intern Infrastructure Engineering",
@@ -9141,11 +9193,11 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
-      "id": "8c36f8e8-3e8e-4628-bc3c-f0fa0e5aee42",
-      "company": "Graymatter Robotics",
-      "title": "Robotics Engineering Intern: Systems & Applications",
+      "id": "8e11a7a7-6bd2-406d-8c69-ec735795db1f",
+      "company": "Texas Instruments",
+      "title": "Systems Marketing Engineering Intern (SEM)",
       "locations": [
-        "Los Angeles - HQ"
+        "Dallas, TX, United States"
       ],
       "cities": [],
       "countries": [
@@ -9159,11 +9211,11 @@
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application",
-      "url": "https://trueinterview.io/jobs/8c36f8e8-3e8e-4628-bc3c-f0fa0e5aee42",
-      "postedAt": "2026-09-10T22:51:49.000Z",
-      "updatedAt": "2026-09-10T22:51:49.000Z"
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017540",
+      "url": "https://trueinterview.io/jobs/8e11a7a7-6bd2-406d-8c69-ec735795db1f",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
       "id": "633a023a-6455-463b-940d-478230e345cc",
@@ -10710,7 +10762,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11376,9 +11428,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12781,6 +12833,34 @@
       "updatedAt": "2026-09-04T21:39:04.000Z"
     },
     {
+      "id": "8bb61b40-ac2f-4b12-9c7f-840c77a405d2",
+      "company": "Schonfeld Strategic Advisors",
+      "title": "2027 Risk Analyst (DMFI) Intern",
+      "locations": [
+        "London, England, United Kingdom",
+        "London"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
+      "url": "https://trueinterview.io/jobs/8bb61b40-ac2f-4b12-9c7f-840c77a405d2",
+      "postedAt": "2026-09-04T21:30:08.000Z",
+      "updatedAt": "2026-09-04T21:30:08.000Z"
+    },
+    {
       "id": "f1587313-c74f-42e6-af65-c54a2bca4db8",
       "company": "Schonfeld Strategic Advisors",
       "title": "2027 PhD Quantitative Research Intern",
@@ -13027,6 +13107,57 @@
       "url": "https://trueinterview.io/jobs/79dd38d3-625e-44b6-bd5f-b38b00514280",
       "postedAt": "2026-09-04T19:10:42.000Z",
       "updatedAt": "2026-09-04T19:10:42.000Z"
+    },
+    {
+      "id": "8e5ff93f-6bb6-4868-a95f-991e2c94e195",
+      "company": "Fairlife",
+      "title": "Continuous Improvement Intern (Summer 2027)",
+      "locations": [
+        "Coopersville, Michigan, United States",
+        "Coopersville"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/fairlife/jobs/5231464007",
+      "url": "https://trueinterview.io/jobs/8e5ff93f-6bb6-4868-a95f-991e2c94e195",
+      "postedAt": "2026-09-04T19:06:51.000Z",
+      "updatedAt": "2026-09-04T19:06:51.000Z"
+    },
+    {
+      "id": "8d918423-bd3d-4dda-8492-155b17a0828f",
+      "company": "Skydio",
+      "title": "Flight Test Intern - Summer 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application",
+      "url": "https://trueinterview.io/jobs/8d918423-bd3d-4dda-8492-155b17a0828f",
+      "postedAt": "2026-09-04T19:01:54.000Z",
+      "updatedAt": "2026-09-04T19:01:54.000Z"
     },
     {
       "id": "079b2d7a-a590-440c-ba63-bfda06c2bbd6",

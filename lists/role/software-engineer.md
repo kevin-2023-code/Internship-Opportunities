@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**93 open roles.** 80 in the United States & Canada · 13 elsewhere in the world.
+**94 open roles.** 81 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -358,6 +358,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/342de27d-bfc5-4826-bad5-c5f2f3593658">2027 Summer- Software Engineer Intern</a></td>
 <td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Retell AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ca173ec-9f62-456b-86e1-8a5f1448d813">Forward Deployed Engineer, Intern</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
