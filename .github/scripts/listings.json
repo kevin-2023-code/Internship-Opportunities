@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-28T06:11:52.780Z",
-  "count": 738,
+  "listingsChangedAt": "2026-09-28T14:49:02.424Z",
+  "count": 740,
   "listings": [
     {
       "id": "3b4f9e1d-a543-4859-a21b-2f6b6141db82",
@@ -1823,9 +1823,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2856,7 +2856,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Data & AI",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -2970,6 +2970,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
       "url": "https://trueinterview.io/jobs/840cbee2-4408-4bc2-8c50-ae291f58da72",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "95c57443-2c1d-4dba-a07e-03e454532477",
+      "company": "Infineon",
+      "title": "Intern - Data Center Power Systems",
+      "locations": [
+        "El Segundo, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971984423",
+      "url": "https://trueinterview.io/jobs/95c57443-2c1d-4dba-a07e-03e454532477",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -4740,6 +4765,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44139024",
       "url": "https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "9b9e3518-edab-4624-8ed6-1db1ac1e8c73",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, Generalist Embodied Agents Research - 2027",
+      "locations": [
+        "Santa Clara, CA, US",
+        "US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397562560",
+      "url": "https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -9269,9 +9320,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11482,9 +11533,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12401,7 +12452,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -19557,9 +19608,9 @@
         "Australia"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Mobile Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",

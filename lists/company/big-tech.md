@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**371 open roles.** 370 in the United States & Canada · 1 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**373 open roles.** 372 in the United States & Canada · 1 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -418,6 +418,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/95c57443-2c1d-4dba-a07e-03e454532477">Intern - Data Center Power Systems</a></td>
+<td>El Segundo, CA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971984423">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c666357a-6ab6-472f-84fa-187f2d77127c">Internship - MDL Engineer</a></td>
 <td>Lexington, KY, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971999074">Apply</a></td>
@@ -722,6 +729,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850">Intern – Process Engineer ID1</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44139024">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73">PhD Research Intern, Generalist Embodied Agents Research - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397562560">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

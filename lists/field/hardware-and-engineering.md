@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**309 open roles.** 301 in the United States & Canada · 8 elsewhere in the world.
+**313 open roles.** 305 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -110,6 +110,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/95cdafdf-f9b9-4c23-8153-11c5cbc3814d">Analog and Mixed Signal IC Design Engineer Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54221?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/87e8b92c-9eff-4d49-ae25-baa9766c93e7">Grid Modernization Engineering Intern</a></td>
 <td>Loveland, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54277?lang=en-us">Apply</a></td>
@@ -204,6 +211,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/14fecc37-8d6b-4065-b312-7c808e7c4e9d">Software Engineer Embedded Systems I (Intern) – United States</a></td>
 <td>San Jose, California, US, United States of America<br/>San Francisco, California, United States of America<br/>Milpitas, California, United States of America<br/>+3 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/95c57443-2c1d-4dba-a07e-03e454532477">Intern - Data Center Power Systems</a></td>
+<td>El Segundo, CA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971984423">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -788,6 +802,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a09d26c-bdac-4d22-b28a-db94e658de9e">Test Engineer Intern - Summer 2027</a></td>
+<td>Austin (Oakhill, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Test-Engineer-Intern---Summer-2027_R-10064679">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e11a7a7-6bd2-406d-8c69-ec735795db1f">Systems Marketing Engineering Intern (SEM)</a></td>
 <td>Dallas, TX, United States</td>
@@ -1132,6 +1153,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/99c7486c-44e9-492a-8fb1-38b1ae04dff3">CMP-Implant Engineer Intern - Summer 2027</a></td>
+<td>Austin (Ed Bluestein, Office), United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/CMP-Implant-Engineer-Intern---Summer-2027_R-10064576">Apply</a></td>
+<td align="center">7 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/168f55a2-f2c6-4593-b2d8-327e82022cd5">Data Science / Structured Problem Solving Intern - Summer 2027</a></td>
 <td>Austin (Ed Bluestein, Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**52 open roles.**
+**53 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Monica, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455">Apply</a></td>
 <td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/95c57443-2c1d-4dba-a07e-03e454532477">Intern - Data Center Power Systems</a></td>
+<td>El Segundo, CA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971984423">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
