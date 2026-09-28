@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**11 open roles.** 7 in the United States & Canada · 4 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**12 open roles.** 8 in the United States & Canada · 4 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,6 +30,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>London, United Kingdom<br/>New York City</td>
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414">Apply</a></td>
 <td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capstone Investment Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/92d4491e-0b2b-4ab2-b460-af6738a92ed3">Summer 2027 - Investment Internship LDN</a></td>
+<td>London<br/>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>

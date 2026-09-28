@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**13 open roles.** 3 in the United States & Canada · 10 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**14 open roles.** 3 in the United States & Canada · 11 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -80,6 +80,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/92816d9b-251f-4a03-bf4c-e869ca43e894">2027 Asset Management - Risk Summer Internship Program - London</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/118a0204-b511-4ef7-91de-39b825be1e1d">2027 Commercial &amp; Investment Banking - Global Markets - Summer Internship - London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517">Apply</a></td>

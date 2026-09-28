@@ -5,9 +5,37 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-28T00:12:33.783Z",
-  "count": 734,
+  "listingsChangedAt": "2026-09-28T06:11:52.780Z",
+  "count": 738,
   "listings": [
+    {
+      "id": "3b4f9e1d-a543-4859-a21b-2f6b6141db82",
+      "company": "Quera Computing, Inc",
+      "title": "Internship - Scientific Software and Compilation",
+      "locations": [
+        "Boston, MA  USA",
+        "Boston"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008",
+      "url": "https://trueinterview.io/jobs/3b4f9e1d-a543-4859-a21b-2f6b6141db82",
+      "postedAt": "2026-09-27T21:09:48.000Z",
+      "updatedAt": "2026-09-27T21:09:48.000Z"
+    },
     {
       "id": "9e5ce220-f38e-420e-b3d1-554029627482",
       "company": "Analog Devices",
@@ -2231,6 +2259,31 @@
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
     {
+      "id": "94c69ab6-c9d8-43f2-b39b-8240224fff5d",
+      "company": "Texas Instruments",
+      "title": "Industrial Engr Intern",
+      "locations": [
+        "South Portland, ME, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015796",
+      "url": "https://trueinterview.io/jobs/94c69ab6-c9d8-43f2-b39b-8240224fff5d",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
       "id": "88105cd2-07ae-49dc-8957-7e4db332ee7f",
       "company": "OnePay",
       "title": "Product Intern",
@@ -2493,6 +2546,37 @@
       "url": "https://trueinterview.io/jobs/cb2f07dd-7f85-4d8c-92f9-d9ccc4636673",
       "postedAt": "2026-09-21T20:33:10.000Z",
       "updatedAt": "2026-09-21T20:33:10.000Z"
+    },
+    {
+      "id": "92d4491e-0b2b-4ab2-b460-af6738a92ed3",
+      "company": "Capstone Investment Advisors",
+      "title": "Summer 2027 - Investment Internship LDN",
+      "locations": [
+        "London",
+        "New York, New York",
+        "New York"
+      ],
+      "cities": [
+        "London",
+        "New York, NY"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002",
+      "url": "https://trueinterview.io/jobs/92d4491e-0b2b-4ab2-b460-af6738a92ed3",
+      "postedAt": "2026-09-21T20:18:00.000Z",
+      "updatedAt": "2026-09-21T20:18:00.000Z"
     },
     {
       "id": "c7929890-49a0-4d03-a091-c34f67b3a72c",
@@ -3420,7 +3504,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4391,7 +4475,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -12629,7 +12713,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14704,9 +14788,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -15575,6 +15659,33 @@
       "url": "https://trueinterview.io/jobs/12ec5ae4-f8f1-41c2-92e4-fc55088bc01b",
       "postedAt": "2026-08-31T23:31:55.000Z",
       "updatedAt": "2026-08-31T23:31:55.000Z"
+    },
+    {
+      "id": "92816d9b-251f-4a03-bf4c-e869ca43e894",
+      "company": "JPMorgan Chase",
+      "title": "2027 Asset Management - Risk Summer Internship Program - London",
+      "locations": [
+        "LONDON, LONDON, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894",
+      "url": "https://trueinterview.io/jobs/92816d9b-251f-4a03-bf4c-e869ca43e894",
+      "postedAt": "2026-08-31T23:00:00.000Z",
+      "updatedAt": "2026-08-31T23:00:00.000Z"
     },
     {
       "id": "118a0204-b511-4ef7-91de-39b825be1e1d",
@@ -18151,9 +18262,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -19189,7 +19300,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",

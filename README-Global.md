@@ -18,11 +18,11 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-28 00:12 UTC_
+_Last updated: 2026-09-28 06:11 UTC_
 
-**57 open internships** from **36 employers** · **8 posted in the last 7 days** · refreshed hourly
+**58 open internships** from **36 employers** · **8 posted in the last 7 days** · refreshed hourly
 
-### Browse 57 internships by field
+### Browse 58 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (26)
 
@@ -32,7 +32,7 @@ _Last updated: 2026-09-28 00:12 UTC_
 
 📱 **[Product & Design](#-product--design)** (7)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (9)
+📈 **[Quantitative Finance](#-quantitative-finance)** (10)
 
 🧰 **[IT & Support](#-it--support)** (3)
 
@@ -42,11 +42,11 @@ _Last updated: 2026-09-28 00:12 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (10)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [📈 Quant trading & hedge funds (4)](lists/company/quant-trading.md) · [🛒 E-commerce & marketplaces (3)](lists/company/ecommerce-marketplace.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [+7 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [📈 Quant trading & hedge funds (4)](lists/company/quant-trading.md) · [🛒 E-commerce & marketplaces (3)](lists/company/ecommerce-marketplace.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [+7 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (14)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (4)](lists/role/product-manager.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
-📍 **By location** — [🇬🇧 London & the UK (10)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (6)](lists/place/anz.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
+📍 **By location** — [🇬🇧 London & the UK (11)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (6)](lists/place/anz.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (8)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
 
@@ -216,7 +216,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ffb72b4-fb99-4dd9-b25b-faf99588b710">Web Engineer Intern - Tools &amp; Portals</a> 🛂</td>
 <td>London, England, United Kingdom<br/>Novi Sad, Vojvodina, Serbia<br/>Cary<br/>+1 more</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004">Apply</a></td>
-<td align="center">29d</td>
+<td align="center">1mo</td>
 </tr>
 <tr>
 <td><strong>Telus Digital</strong></td>
@@ -525,6 +525,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/92816d9b-251f-4a03-bf4c-e869ca43e894">2027 Asset Management - Risk Summer Internship Program - London</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894">Apply</a></td>
+<td align="center">27d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/118a0204-b511-4ef7-91de-39b825be1e1d">2027 Commercial &amp; Investment Banking - Global Markets - Summer Internship - London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517">Apply</a></td>

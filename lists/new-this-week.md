@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**119 open roles.** 111 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
+**122 open roles.** 114 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Quera Computing, Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b4f9e1d-a543-4859-a21b-2f6b6141db82">Internship - Scientific Software and Compilation</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008">Apply</a></td>
+<td align="center">27 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e5ce220-f38e-420e-b3d1-554029627482">FY27 Engineering Internship United Kingdom</a></td>
@@ -557,6 +564,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/94c69ab6-c9d8-43f2-b39b-8240224fff5d">Industrial Engr Intern</a></td>
+<td>South Portland, ME, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015796">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>OnePay</strong></td>
 <td><a href="https://trueinterview.io/jobs/88105cd2-07ae-49dc-8957-7e4db332ee7f">Product Intern</a></td>
 <td>New York City (Hybrid)</td>
@@ -617,6 +631,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cb2f07dd-7f85-4d8c-92f9-d9ccc4636673">SAP iXp Intern - AI Technical Program Manager, AI &amp; Machine Learning</a></td>
 <td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&amp;amp;-Machine-Learning-CA-94304/1439806333/">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capstone Investment Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/92d4491e-0b2b-4ab2-b460-af6738a92ed3">Summer 2027 - Investment Internship LDN</a></td>
+<td>London<br/>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

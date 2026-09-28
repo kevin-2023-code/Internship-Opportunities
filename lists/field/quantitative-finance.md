@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**15 open roles.** 6 in the United States & Canada · 9 elsewhere in the world.
+**17 open roles.** 7 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL<br/>Gelber Chicago (HQ)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006">Apply</a></td>
 <td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Capstone Investment Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/92d4491e-0b2b-4ab2-b460-af6738a92ed3">Summer 2027 - Investment Internship LDN</a></td>
+<td>London<br/>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Graham Capital Management</strong></td>
@@ -115,6 +122,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/92816d9b-251f-4a03-bf4c-e869ca43e894">2027 Asset Management - Risk Summer Internship Program - London</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/118a0204-b511-4ef7-91de-39b825be1e1d">2027 Commercial &amp; Investment Banking - Global Markets - Summer Internship - London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517">Apply</a></td>

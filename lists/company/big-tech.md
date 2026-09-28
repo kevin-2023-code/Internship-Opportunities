@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**370 open roles.** 369 in the United States & Canada · 1 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**371 open roles.** 370 in the United States & Canada · 1 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -344,6 +344,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bb207ad0-4e95-455d-a93f-391b3a09f0b9">Product Design Intern, AI Infrastructure - Summer 2027</a></td>
 <td>New York, NY<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725807">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/94c69ab6-c9d8-43f2-b39b-8240224fff5d">Industrial Engr Intern</a></td>
+<td>South Portland, ME, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015796">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
