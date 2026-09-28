@@ -5,9 +5,313 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-28T14:49:02.424Z",
-  "count": 740,
+  "listingsChangedAt": "2026-09-28T20:59:08.885Z",
+  "count": 752,
   "listings": [
+    {
+      "id": "161bfae6-45a9-4002-8859-e14fa42e17af",
+      "company": "Keeper Security",
+      "title": "Localization Intern, Brazilian Portuguese Speaking",
+      "locations": [
+        "Remote, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/keepersecurity/jobs/4423148009",
+      "url": "https://trueinterview.io/jobs/161bfae6-45a9-4002-8859-e14fa42e17af",
+      "postedAt": "2026-09-28T19:56:06.000Z",
+      "updatedAt": "2026-09-28T19:56:06.000Z"
+    },
+    {
+      "id": "09ab014e-389f-410a-8953-c21188c24fde",
+      "company": "Western Digital",
+      "title": "Winter 2027 Intern/Co-op Development Engineer",
+      "locations": [
+        "Rochester, MN, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000152261929-winter-2027-intern-co-op-development-engineer-?oga=true",
+      "url": "https://trueinterview.io/jobs/09ab014e-389f-410a-8953-c21188c24fde",
+      "postedAt": "2026-09-28T19:47:06.000Z",
+      "updatedAt": "2026-09-28T19:47:06.000Z"
+    },
+    {
+      "id": "49d263eb-5a9f-496a-83b7-7d7c865ba0ff",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+      "locations": [
+        "San Francisco, California",
+        "San Francisco (US-SFO-MKT555)"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+      "url": "https://trueinterview.io/jobs/49d263eb-5a9f-496a-83b7-7d7c865ba0ff",
+      "postedAt": "2026-09-28T19:34:51.000Z",
+      "updatedAt": "2026-09-28T19:34:51.000Z"
+    },
+    {
+      "id": "2b62587f-3f41-4247-9955-09dd865d4a07",
+      "company": "Merkle Science",
+      "title": "Software Engineer - Intern (Frontend)",
+      "locations": [
+        "Bangalore"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2/apply",
+      "url": "https://trueinterview.io/jobs/2b62587f-3f41-4247-9955-09dd865d4a07",
+      "postedAt": "2026-09-28T18:34:13.000Z",
+      "updatedAt": "2026-09-28T18:34:13.000Z"
+    },
+    {
+      "id": "66e5e93d-352d-49a6-9f48-7ddbd2b4d7e9",
+      "company": "Morrison Maierle",
+      "title": "Bridge Engineer Internship",
+      "locations": [
+        "Helena, MT",
+        "Helena"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422947009",
+      "url": "https://trueinterview.io/jobs/66e5e93d-352d-49a6-9f48-7ddbd2b4d7e9",
+      "postedAt": "2026-09-28T18:34:04.000Z",
+      "updatedAt": "2026-09-28T18:34:04.000Z"
+    },
+    {
+      "id": "456c7218-3f9e-4826-b5f6-576c20518272",
+      "company": "Man Group",
+      "title": "Investment Risk 2027 Summer Internship",
+      "locations": [
+        "London"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101",
+      "url": "https://trueinterview.io/jobs/456c7218-3f9e-4826-b5f6-576c20518272",
+      "postedAt": "2026-09-28T17:09:06.000Z",
+      "updatedAt": "2026-09-28T17:09:06.000Z"
+    },
+    {
+      "id": "06fafd1c-83c1-4b39-aa84-bfc62847c82b",
+      "company": "Panasonic",
+      "title": "Customer Quality Engineer Intern",
+      "locations": [
+        "De Soto, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51290?lang=en-us",
+      "url": "https://trueinterview.io/jobs/06fafd1c-83c1-4b39-aa84-bfc62847c82b",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "ccd8ddc0-ff18-49da-8f76-8dae55742eb0",
+      "company": "Panasonic",
+      "title": "Manufacturing Engineering Intern",
+      "locations": [
+        "De Soto, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51280?lang=en-us",
+      "url": "https://trueinterview.io/jobs/ccd8ddc0-ff18-49da-8f76-8dae55742eb0",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "1ea5bbaf-1256-494e-82fa-9dc7f980e2cf",
+      "company": "Panasonic",
+      "title": "PTG Intern",
+      "locations": [
+        "De Soto, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51289?lang=en-us",
+      "url": "https://trueinterview.io/jobs/1ea5bbaf-1256-494e-82fa-9dc7f980e2cf",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "58322058-d385-4509-8b7c-75b5c7fd8d46",
+      "company": "Panasonic",
+      "title": "Quality Control Intern",
+      "locations": [
+        "De Soto, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51283?lang=en-us",
+      "url": "https://trueinterview.io/jobs/58322058-d385-4509-8b7c-75b5c7fd8d46",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "37650278-fe27-4336-b734-336345925a7e",
+      "company": "Panasonic",
+      "title": "Security & Risk Intern",
+      "locations": [
+        "De Soto, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51294?lang=en-us",
+      "url": "https://trueinterview.io/jobs/37650278-fe27-4336-b734-336345925a7e",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "09bb5964-2c6f-4e8f-afd3-bb1b012422c2",
+      "company": "Panasonic",
+      "title": "Supplier Quality Engineering Intern",
+      "locations": [
+        "De Soto, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.na.panasonic.com/jobs/51278?lang=en-us",
+      "url": "https://trueinterview.io/jobs/09bb5964-2c6f-4e8f-afd3-bb1b012422c2",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
     {
       "id": "3b4f9e1d-a543-4859-a21b-2f6b6141db82",
       "company": "Quera Computing, Inc",
@@ -53,7 +357,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -162,34 +466,6 @@
       "url": "https://trueinterview.io/jobs/72132eb1-c383-4ab7-8b10-a52adce7b733",
       "postedAt": "2026-09-25T22:50:06.000Z",
       "updatedAt": "2026-09-25T22:50:06.000Z"
-    },
-    {
-      "id": "a4551ac7-ced9-4db0-a73a-f235ec9f8dcf",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
-      "locations": [
-        "Mountain View, CA, USA",
-        "Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
-      "url": "https://trueinterview.io/jobs/a4551ac7-ced9-4db0-a73a-f235ec9f8dcf",
-      "postedAt": "2026-09-25T22:46:35.000Z",
-      "updatedAt": "2026-09-25T22:46:35.000Z"
     },
     {
       "id": "706da85a-f481-4887-9e4d-3e93fb6d0e19",
@@ -402,6 +678,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
       "url": "https://trueinterview.io/jobs/534944c4-ccba-4083-b421-84d1e32f76b8",
+      "postedAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
+      "id": "9e49307a-69da-4ae8-bee8-b7959570736f",
+      "company": "Intel",
+      "title": "Software Solutions PhD Intern New 2027",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314",
+      "url": "https://trueinterview.io/jobs/9e49307a-69da-4ae8-bee8-b7959570736f",
       "postedAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
@@ -4225,7 +4526,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4275,7 +4576,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Machine Learning Engineer",
-      "seniority": "junior",
+      "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -7225,7 +7526,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -10220,9 +10521,9 @@
         "Ireland"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11757,31 +12058,6 @@
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
     {
-      "id": "9c516ec7-9ffc-4283-a8ba-eb8dd71afa72",
-      "company": "Amazon",
-      "title": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
-      "locations": [
-        "Cleburne, Texas, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx",
-      "url": "https://trueinterview.io/jobs/9c516ec7-9ffc-4283-a8ba-eb8dd71afa72",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
       "id": "17b144f8-ddf7-48cb-879a-5fb0715a2293",
       "company": "Applied Materials",
       "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
@@ -12142,7 +12418,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -20048,6 +20324,36 @@
       "url": "https://trueinterview.io/jobs/0cf881d3-699a-49ab-8e30-4e47e7267860",
       "postedAt": "2026-08-03T16:00:00.000Z",
       "updatedAt": "2026-08-03T16:00:00.000Z"
+    },
+    {
+      "id": "ef016eb7-db08-48dd-967c-db28adc88469",
+      "company": "Meta",
+      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
+      "locations": [
+        "Menlo Park, CA, United States",
+        "Seattle, WA, United States",
+        "New York, NY, United States"
+      ],
+      "cities": [
+        "Seattle, WA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1373603594867455/",
+      "url": "https://trueinterview.io/jobs/ef016eb7-db08-48dd-967c-db28adc88469",
+      "postedAt": "2026-07-31T14:03:41.000Z",
+      "updatedAt": "2026-07-31T14:03:41.000Z"
     }
   ]
 }
