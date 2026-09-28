@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**33 open roles.** 30 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**34 open roles.** 31 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -138,6 +138,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Opengov</strong></td>
+<td><a href="https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8">Product Intern</a></td>
+<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770">Intern, Software Engineer</a></td>
 <td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application">Apply</a></td>

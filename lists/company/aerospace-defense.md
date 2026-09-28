@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**50 open roles.** 47 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**52 open roles.** 48 in the United States & Canada · 4 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,6 +79,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Westminster, CO</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/902abd29-6bd2-4c34-a001-38e9d614df69">Summer 2027 – Power Electronics Internship</a></td>
+<td>Austin, TX<br/>Westminster, CO</td>
+<td align="center"><a href="https://jobs.lever.co/CesiumAstro/18d2c72e-30cd-4145-8b12-7db3a492d541/apply">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -360,6 +367,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f">Electron Configuration Management Intern</a></td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821142003">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4ceed109-ab77-4df4-9e81-b1dadaaf5a93">RF Test Engineer Intern</a></td>
 <td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7845193003">Apply</a></td>

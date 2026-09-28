@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**263 open roles.** 238 in the United States & Canada · 25 elsewhere in the world.
+**263 open roles.** 237 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -33,13 +33,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f611de7-599e-4f1e-902d-c61530465ddf">2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)</a></td>
-<td>South San Francisco, CA, United States<br/>Irvine, CA, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015684626-2027-business-technology-solutions-intern-cloud-engineering-undergraduate-?oga=true">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0cd4c835-a9bf-4652-a98b-32e47efb2a9a">2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</a></td>
 <td>South San Francisco, CA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015684516-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true">Apply</a></td>
@@ -747,6 +740,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Opengov</strong></td>
+<td><a href="https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8">Product Intern</a></td>
+<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770">Intern, Software Engineer</a></td>
 <td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application">Apply</a></td>
@@ -1649,13 +1649,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>E-Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/9032f16c-00d9-46c7-93af-bfad439ba6d8">Engineering / Characterization Lab Intern – Materials Science / Mechanical / Electrical / Aerospace / Chemistry / Physics</a></td>
-<td>Arlington, TX</td>
-<td align="center"><a href="https://jobs.lever.co/espace/e2ee73af-22b9-4274-9994-9783e9ce9220/apply">Apply</a></td>
-<td align="center">4 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc5ae13d-3140-466c-bae0-73b8012632e7">Intern - Process Development Engineer, 3D DRAM Dry Etch</a></td>
 <td>Boise, ID, US</td>
@@ -1855,6 +1848,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom<br/>Cary<br/>London, UK</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004">Apply</a></td>
 <td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f">Electron Configuration Management Intern</a></td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821142003">Apply</a></td>
+<td align="center">17 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Esri</strong></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-27T21:47:23.595Z",
-  "count": 731,
+  "listingsChangedAt": "2026-09-28T00:12:33.783Z",
+  "count": 734,
   "listings": [
     {
       "id": "9e5ce220-f38e-420e-b3d1-554029627482",
@@ -299,32 +299,6 @@
       "url": "https://trueinterview.io/jobs/8a1360ff-76ee-4419-b5af-517b04090cc5",
       "postedAt": "2026-09-25T18:42:53.000Z",
       "updatedAt": "2026-09-25T18:42:53.000Z"
-    },
-    {
-      "id": "8f611de7-599e-4f1e-902d-c61530465ddf",
-      "company": "Abbvie",
-      "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
-      "locations": [
-        "South San Francisco, CA, United States",
-        "Irvine, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990015684626-2027-business-technology-solutions-intern-cloud-engineering-undergraduate-?oga=true",
-      "url": "https://trueinterview.io/jobs/8f611de7-599e-4f1e-902d-c61530465ddf",
-      "postedAt": "2026-09-25T17:31:32.000Z",
-      "updatedAt": "2026-09-25T17:31:32.000Z"
     },
     {
       "id": "0cd4c835-a9bf-4652-a98b-32e47efb2a9a",
@@ -4636,6 +4610,31 @@
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
     {
+      "id": "8ebdd720-6174-4ee4-b10a-870bf661bed2",
+      "company": "Micron Technology",
+      "title": "Intern - Operation Improvement Scheduling",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44422885",
+      "url": "https://trueinterview.io/jobs/8ebdd720-6174-4ee4-b10a-870bf661bed2",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
       "id": "add7cb69-e8ed-4340-af4c-a1b11ed6e850",
       "company": "Micron Technology",
       "title": "Intern – Process Engineer ID1",
@@ -5751,9 +5750,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6147,6 +6146,34 @@
       "url": "https://trueinterview.io/jobs/45837207-8e6c-4d20-8438-a2a62573a31b",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
+      "id": "902abd29-6bd2-4c34-a001-38e9d614df69",
+      "company": "Cesiumastro",
+      "title": "Summer 2027 – Power Electronics Internship",
+      "locations": [
+        "Austin, TX",
+        "Westminster, CO"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/CesiumAstro/18d2c72e-30cd-4145-8b12-7db3a492d541/apply",
+      "url": "https://trueinterview.io/jobs/902abd29-6bd2-4c34-a001-38e9d614df69",
+      "postedAt": "2026-09-15T23:58:00.000Z",
+      "updatedAt": "2026-09-15T23:58:00.000Z"
     },
     {
       "id": "68415944-c068-4db1-9fc8-9395511b466e",
@@ -7187,6 +7214,38 @@
       "url": "https://trueinterview.io/jobs/afb11c5f-019c-45c9-8008-bd6b1eb5d1c4",
       "postedAt": "2026-09-14T22:51:00.000Z",
       "updatedAt": "2026-09-14T22:51:00.000Z"
+    },
+    {
+      "id": "90760489-e880-4943-8229-05bb312ce8e8",
+      "company": "Opengov",
+      "title": "Product Intern",
+      "locations": [
+        "US",
+        "Georgia",
+        "Atlanta",
+        "Massachusetts",
+        "Boston"
+      ],
+      "cities": [
+        "Atlanta, GA",
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application",
+      "url": "https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8",
+      "postedAt": "2026-09-14T22:12:02.000Z",
+      "updatedAt": "2026-09-14T22:12:02.000Z"
     },
     {
       "id": "5a9a9438-8cba-4064-9a01-e05f55ce72ad",
@@ -8938,7 +8997,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -9880,42 +9939,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412",
       "url": "https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "917bdd57-3e02-4db3-841c-947842940f2d",
-      "company": "Marvell Technology",
-      "title": "Ph.D. Intern - Silicon Photonics & Optical Communications",
-      "locations": [
-        "Santa Clara, CA",
-        "Irvine, CA",
-        "Austin, TX",
-        "Morrisville, NC",
-        "Westlake Village, CA",
-        "Chandler, AZ",
-        "Westborough, MA",
-        "Burlington, VT",
-        "Boise, ID",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414",
-      "url": "https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -16718,6 +16741,34 @@
       "updatedAt": "2026-08-28T20:44:25.000Z"
     },
     {
+      "id": "8f84f2c0-88f1-4f7f-9c41-d445c1a320aa",
+      "company": "Cadence Design Systems",
+      "title": "Intern - Characterization and Support (Fall 2026)",
+      "locations": [
+        "SAN JOSE",
+        "SAN JOSE, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1",
+      "url": "https://trueinterview.io/jobs/8f84f2c0-88f1-4f7f-9c41-d445c1a320aa",
+      "postedAt": "2026-08-28T00:00:00.000Z",
+      "updatedAt": "2026-08-28T00:00:00.000Z"
+    },
+    {
       "id": "6f23868b-9bcc-43ab-b055-85589a9da716",
       "company": "Hewlett Packard Enterprise",
       "title": "Cloud Engineer Intern",
@@ -18864,6 +18915,34 @@
       "updatedAt": "2026-08-18T19:00:44.000Z"
     },
     {
+      "id": "8fe3ecc8-5283-410f-966a-f0fb076f434f",
+      "company": "Rocket Lab Corporation",
+      "title": "Electron Configuration Management Intern",
+      "locations": [
+        "Auckland, NZ",
+        "Auckland Production Complex Office"
+      ],
+      "cities": [
+        "Auckland"
+      ],
+      "countries": [
+        "New Zealand"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7821142003",
+      "url": "https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f",
+      "postedAt": "2026-08-17T21:31:00.000Z",
+      "updatedAt": "2026-08-17T21:31:00.000Z"
+    },
+    {
       "id": "4ceed109-ab77-4df4-9e81-b1dadaaf5a93",
       "company": "Rocket Lab Corporation",
       "title": "RF Test Engineer Intern",
@@ -19449,7 +19528,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**212 open roles.** 211 in the United States & Canada · 1 elsewhere in the world.
+**211 open roles.** 210 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -40,13 +40,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f611de7-599e-4f1e-902d-c61530465ddf">2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)</a></td>
-<td>South San Francisco, CA, United States<br/>Irvine, CA, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015684626-2027-business-technology-solutions-intern-cloud-engineering-undergraduate-?oga=true">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0cd4c835-a9bf-4652-a98b-32e47efb2a9a">2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</a></td>
 <td>South San Francisco, CA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015684516-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true">Apply</a></td>
@@ -844,13 +837,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/917bdd57-3e02-4db3-841c-947842940f2d">Ph.D. Intern - Silicon Photonics &amp; Optical Communications</a></td>
-<td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+6 more</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Silicon-Photonics---Optical-Communications_2604414">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Pacific Fusion</strong></td>
 <td><a href="https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb">Summer 2027 Internship- Mechanical Engineering</a></td>
 <td>San Leandro, CA/Fremont, CA or Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
@@ -1205,6 +1191,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65475e53-2efb-421e-b6ac-529108cf9bd9">Electrical Project Engineer Intern (Spring 2027)</a></td>
 <td>South San Francisco, California, USA<br/>Aviary - SSF</td>
 <td align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7980874003">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Cadence Design Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f84f2c0-88f1-4f7f-9c41-d445c1a320aa">Intern - Characterization and Support (Fall 2026)</a></td>
+<td>San Jose, CA<br/>SAN JOSE, United States of America</td>
+<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
 </tr>
 <tr>

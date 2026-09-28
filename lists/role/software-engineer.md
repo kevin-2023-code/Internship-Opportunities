@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**94 open roles.** 81 in the United States & Canada · 13 elsewhere in the world.
+**95 open roles.** 81 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -686,6 +686,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom<br/>Cary<br/>London, UK</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004">Apply</a></td>
 <td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f">Electron Configuration Management Intern</a></td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821142003">Apply</a></td>
+<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>
