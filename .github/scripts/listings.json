@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-29T06:29:08.489Z",
-  "count": 762,
+  "listingsChangedAt": "2026-09-29T13:38:25.933Z",
+  "count": 761,
   "listings": [
     {
       "id": "c575cc96-777a-48b0-ad2a-11242980151f",
@@ -3826,31 +3826,6 @@
       "url": "https://trueinterview.io/jobs/2887a173-48d0-422c-aca8-c06e3d290371",
       "postedAt": "2026-09-20T00:00:00.000Z",
       "updatedAt": "2026-09-20T00:00:00.000Z"
-    },
-    {
-      "id": "82cfb5b8-9b3e-41c3-8c62-ef68016b6342",
-      "company": "Microsoft",
-      "title": "Hardware Engineering Internship (6-Month Program)",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557002608",
-      "url": "https://trueinterview.io/jobs/82cfb5b8-9b3e-41c3-8c62-ef68016b6342",
-      "postedAt": "2026-09-19T00:00:00.000Z",
-      "updatedAt": "2026-09-19T00:00:00.000Z"
     },
     {
       "id": "792890da-3e3d-45bf-89c3-f967a1756bd8",
@@ -8699,31 +8674,6 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "id": "b0a84d05-15bb-4490-843b-8cfa7bc377d3",
-      "company": "Applied Materials",
-      "title": "2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA)",
-      "locations": [
-        "Gloucester, MA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318404510",
-      "url": "https://trueinterview.io/jobs/b0a84d05-15bb-4490-843b-8cfa7bc377d3",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
       "id": "70beb522-c361-45a1-89c1-ec547c8fee7b",
       "company": "Cisco",
       "title": "Hardware Engineer PhD (Intern) - United States",
@@ -12296,31 +12246,6 @@
       "updatedAt": "2026-09-08T14:07:37.000Z"
     },
     {
-      "id": "17b144f8-ddf7-48cb-879a-5fb0715a2293",
-      "company": "Applied Materials",
-      "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318402198",
-      "url": "https://trueinterview.io/jobs/17b144f8-ddf7-48cb-879a-5fb0715a2293",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
       "id": "3b26f816-3208-45fe-a068-ca0b31580f85",
       "company": "Infineon",
       "title": "Internship – Package & Process Engineer",
@@ -14327,6 +14252,34 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
       "url": "https://trueinterview.io/jobs/dada29d6-5d30-4067-9296-1aeb7c1fb066",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
+      "id": "a71d54c7-eefb-4dad-b896-4809235ffd26",
+      "company": "Marvell Technology",
+      "title": "Ph.D. Intern - Analog, Mixed Signal & Circuit Design",
+      "locations": [
+        "Santa Clara, CA",
+        "Irvine, CA",
+        "Westlake Village, CA",
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Analog--Mixed-Signal---Circuit-Design_2604142",
+      "url": "https://trueinterview.io/jobs/a71d54c7-eefb-4dad-b896-4809235ffd26",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
@@ -19977,6 +19930,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43648171",
       "url": "https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c",
+      "postedAt": "2026-08-13T00:00:00.000Z",
+      "updatedAt": "2026-08-13T00:00:00.000Z"
+    },
+    {
+      "id": "a675e264-38dc-4a22-9dcc-722c359264a5",
+      "company": "Micron Technology",
+      "title": "Intern - Wafer Bonding Process Development",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/43782264",
+      "url": "https://trueinterview.io/jobs/a675e264-38dc-4a22-9dcc-722c359264a5",
       "postedAt": "2026-08-13T00:00:00.000Z",
       "updatedAt": "2026-08-13T00:00:00.000Z"
     },
