@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-09-29 00:52 UTC_
+_Last updated: 2026-09-29 06:29 UTC_
 
-**60 open internships** from **37 employers** · **10 posted in the last 7 days** · refreshed hourly
+**60 open internships** from **36 employers** · **9 posted in the last 7 days** · refreshed hourly
 
 ### Browse 60 internships by field
 
@@ -28,9 +28,9 @@ _Last updated: 2026-09-29 00:52 UTC_
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (4)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (8)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (9)
 
-📱 **[Product & Design](#-product--design)** (7)
+📱 **[Product & Design](#-product--design)** (6)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (11)
 
@@ -42,13 +42,13 @@ _Last updated: 2026-09-29 00:52 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [📈 Quant trading & hedge funds (5)](lists/company/quant-trading.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [🛒 E-commerce & marketplaces (3)](lists/company/ecommerce-marketplace.md) · [🏢 Enterprise & business software (3)](lists/company/enterprise-saas.md) · [+7 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (10)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [📈 Quant trading & hedge funds (5)](lists/company/quant-trading.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (4)](lists/company/enterprise-saas.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [🌱 Startups (under 200) (3)](lists/company/startups.md) · [+6 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (15)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Product Manager (4)](lists/role/product-manager.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (15)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (1)](lists/role/ai-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
 📍 **By location** — [🇬🇧 London & the UK (12)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (6)](lists/place/anz.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (10)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (9)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -98,6 +98,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telli/84542cca-080c-4caf-a335-c3bd2c3b5b2c/application">Apply</a></td>
 <td align="center">7d</td>
+</tr>
+<tr>
+<td><strong>Rundoo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
+<td>Redwood City</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Abridge</strong></td>
@@ -222,7 +229,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 6 more Software Engineering roles posted earlier</summary>
+<summary>Show 5 more Software Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -262,13 +269,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9b8dccd5-7a65-4cf0-b38c-4ed2833392d0">Product Engineering Internship - Survey123</a></td>
 <td>Melbourne, AU</td>
 <td align="center"><a href="https://www.esri.com/careers/5204881007?gh_jid=5204881007">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3544bdf-16cf-43eb-b403-ad0d0f011a61">Development Engineering Intern - Neutron Thermal Protection Systems</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825281003">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -381,7 +381,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 3 more Hardware & Engineering roles posted earlier</summary>
+<summary>Show 4 more Hardware & Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -404,6 +404,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3544bdf-16cf-43eb-b403-ad0d0f011a61">Development Engineering Intern - Neutron Thermal Protection Systems</a></td>
+<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7825281003">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/acee0ace-6080-4880-8a5c-1aeaa62087a6">Manufacturing Engineering Intern - Space Sytems</a></td>
 <td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7820012003">Apply</a></td>
@@ -425,13 +432,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3457f2e-667a-4096-aede-9cf490db5b54">Program Manager Intern ITA 2027 - MXP3 site</a></td>
-<td>IT, Vercelli</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site">Apply</a></td>
-<td align="center">4d</td>
-</tr>
 <tr>
 <td><strong>Sezzle</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5fb76db-fc80-41bc-9600-d1be1b1c866a">Graphic Design Intern</a></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-29T00:52:31.383Z",
-  "count": 757,
+  "listingsChangedAt": "2026-09-29T06:29:08.489Z",
+  "count": 762,
   "listings": [
     {
       "id": "c575cc96-777a-48b0-ad2a-11242980151f",
@@ -160,9 +160,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -324,6 +324,33 @@
       "url": "https://trueinterview.io/jobs/456c7218-3f9e-4826-b5f6-576c20518272",
       "postedAt": "2026-09-28T17:09:06.000Z",
       "updatedAt": "2026-09-28T17:09:06.000Z"
+    },
+    {
+      "id": "a36dfb04-1efe-42fd-9a18-01c9a7fefc91",
+      "company": "Keysight",
+      "title": "Process AI Automation, Intern",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54637?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a36dfb04-1efe-42fd-9a18-01c9a7fefc91",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
     },
     {
       "id": "8419d57d-d885-427f-ac6f-c0f686fe5775",
@@ -1370,29 +1397,6 @@
       "updatedAt": "2026-09-24T16:02:48.000Z"
     },
     {
-      "id": "a3457f2e-667a-4096-aede-9cf490db5b54",
-      "company": "Amazon",
-      "title": "Program Manager Intern ITA 2027 - MXP3 site",
-      "locations": [
-        "IT, Vercelli"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10559132/program-manager-intern-ita-2027-mxp3-site",
-      "url": "https://trueinterview.io/jobs/a3457f2e-667a-4096-aede-9cf490db5b54",
-      "postedAt": "2026-09-24T07:00:00.000Z",
-      "updatedAt": "2026-09-24T07:00:00.000Z"
-    },
-    {
       "id": "b85d32db-cfec-4e6b-830f-38f8273b516f",
       "company": "Amazon",
       "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
@@ -2412,7 +2416,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Security Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -3674,31 +3678,6 @@
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
     {
-      "id": "438637b7-ccda-4e5a-b3f9-da15a91c301a",
-      "company": "Micron Technology",
-      "title": "Intern - ATE Process Engineer ID1",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44606123",
-      "url": "https://trueinterview.io/jobs/438637b7-ccda-4e5a-b3f9-da15a91c301a",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
       "id": "37cfa49e-f477-4dfe-8570-91ee3e699752",
       "company": "Micron Technology",
       "title": "Intern - Probe Equipment Engineer",
@@ -3978,6 +3957,29 @@
       "updatedAt": "2026-09-18T21:58:03.000Z"
     },
     {
+      "id": "a43c5fce-897a-4c83-b533-a771b6cb9dd7",
+      "company": "Rundoo",
+      "title": "Marketing Engineering Intern",
+      "locations": [
+        "Redwood City"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application",
+      "url": "https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7",
+      "postedAt": "2026-09-18T21:36:37.000Z",
+      "updatedAt": "2026-09-18T21:36:37.000Z"
+    },
+    {
       "id": "953284e0-d99b-4ede-bb68-7cebe42d7cc1",
       "company": "Metrolinx",
       "title": "Co-op Student, Bus Fleet Engineering",
@@ -4069,9 +4071,9 @@
         "United States"
       ],
       "remote": "hybrid",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4122,9 +4124,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6722,6 +6724,31 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
+      "id": "a55dce0b-940a-4417-bfcb-80574f5baa20",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, Fundamental Generative AI - 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397633487",
+      "url": "https://trueinterview.io/jobs/a55dce0b-940a-4417-bfcb-80574f5baa20",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
+    },
+    {
       "id": "5735a022-9975-4301-95a2-46584ce8c9d6",
       "company": "Texas Instruments",
       "title": "Smart Manufacturing and Automation Intern",
@@ -7900,6 +7927,31 @@
       "url": "https://trueinterview.io/jobs/5a9a9438-8cba-4064-9a01-e05f55ce72ad",
       "postedAt": "2026-09-14T21:59:56.000Z",
       "updatedAt": "2026-09-14T21:59:56.000Z"
+    },
+    {
+      "id": "a3b5fe49-37ab-4272-9bd2-62305b6fcf07",
+      "company": "Research Innovations",
+      "title": "Information Assurance 2027 Summer Internship",
+      "locations": [
+        "San Antonio, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/researchinnovations.com/b1bd956a-e3b8-4ce2-adf0-07b10c2eddee/apply",
+      "url": "https://trueinterview.io/jobs/a3b5fe49-37ab-4272-9bd2-62305b6fcf07",
+      "postedAt": "2026-09-14T20:15:50.000Z",
+      "updatedAt": "2026-09-14T20:15:50.000Z"
     },
     {
       "id": "6ca070be-5362-4462-bbe2-8688b3a7bd08",
@@ -10314,6 +10366,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/19997?lang=en-us",
       "url": "https://trueinterview.io/jobs/1b74f757-4552-4402-b354-5e3e753270a0",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "a340102f-e3bd-4386-a0f5-e6d078f0dd7b",
+      "company": "Garmin",
+      "title": "Aircraft Systems Intern",
+      "locations": [
+        "New Century, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20127?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a340102f-e3bd-4386-a0f5-e6d078f0dd7b",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -14397,6 +14474,33 @@
       "updatedAt": "2026-09-03T19:50:53.000Z"
     },
     {
+      "id": "a3d41a96-23d8-4830-b72e-be0a9bea6993",
+      "company": "Hermeus",
+      "title": "GNC & Flight Software Intern - Spring/Summer 2027",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7/apply",
+      "url": "https://trueinterview.io/jobs/a3d41a96-23d8-4830-b72e-be0a9bea6993",
+      "postedAt": "2026-09-03T19:19:21.000Z",
+      "updatedAt": "2026-09-03T19:19:21.000Z"
+    },
+    {
       "id": "10bee8a2-c18e-426c-94b0-e09bcde0e9b8",
       "company": "Symphony Communication Services",
       "title": "Intern, Software Developer",
@@ -15621,7 +15725,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -16042,6 +16146,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44139007",
       "url": "https://trueinterview.io/jobs/2f03dde2-c35b-4cc6-aff4-0c3930a47dfc",
+      "postedAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "a324bb52-6ae7-4fb3-a9f1-c55eb7265ddf",
+      "company": "Micron Technology",
+      "title": "Intern - EUV Lithography",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/43721128",
+      "url": "https://trueinterview.io/jobs/a324bb52-6ae7-4fb3-a9f1-c55eb7265ddf",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "updatedAt": "2026-09-01T00:00:00.000Z"
     },
@@ -17051,7 +17180,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -20049,7 +20178,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
