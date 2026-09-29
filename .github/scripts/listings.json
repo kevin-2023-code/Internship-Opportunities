@@ -5,9 +5,62 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-29T19:02:38.923Z",
-  "count": 768,
+  "listingsChangedAt": "2026-09-29T23:19:37.007Z",
+  "count": 773,
   "listings": [
+    {
+      "id": "6a4f7e58-6c25-4c8f-8316-854a7b03dc87",
+      "company": "Epic Games",
+      "title": "Product Management Intern",
+      "locations": [
+        "Cary,North Carolina,United States",
+        "Cary"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
+      "url": "https://trueinterview.io/jobs/6a4f7e58-6c25-4c8f-8316-854a7b03dc87",
+      "postedAt": "2026-09-29T17:22:52.000Z",
+      "updatedAt": "2026-09-29T17:22:52.000Z"
+    },
+    {
+      "id": "f74c6349-db54-4eeb-bd71-204c59faa3f8",
+      "company": "Rapdev",
+      "title": "ServiceNow Engineering Co-op",
+      "locations": [
+        "Boston"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application",
+      "url": "https://trueinterview.io/jobs/f74c6349-db54-4eeb-bd71-204c59faa3f8",
+      "postedAt": "2026-09-29T17:17:54.000Z",
+      "updatedAt": "2026-09-29T17:17:54.000Z"
+    },
     {
       "id": "3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
       "company": "Cfd Research Corporation",
@@ -33,6 +86,31 @@
       "url": "https://trueinterview.io/jobs/3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
       "postedAt": "2026-09-29T16:07:21.000Z",
       "updatedAt": "2026-09-29T16:07:21.000Z"
+    },
+    {
+      "id": "f5108cc4-3d21-4d19-b2ea-e8db0aa62222",
+      "company": "Applied Materials",
+      "title": "2027 Summer Intern - Mechanical Engineer I (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318600138",
+      "url": "https://trueinterview.io/jobs/f5108cc4-3d21-4d19-b2ea-e8db0aa62222",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
     },
     {
       "id": "c387cac5-354e-49f4-900c-84694eb575c7",
@@ -139,7 +217,8 @@
       "company": "Cisco",
       "title": "Physical Design Engineer I (Co-op) - United States",
       "locations": [
-        "Maynard, Massachusetts, US, United States of America"
+        "Maynard, Massachusetts, US, United States of America",
+        "Maynard, Massachusetts, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -206,6 +285,81 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
       "url": "https://trueinterview.io/jobs/51823b2b-8214-4e56-9468-bcdffa09fc54",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "1861afd6-5561-4cdd-be66-1433fcde45da",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Electrical Hardware Engineering Intern",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213421",
+      "url": "https://trueinterview.io/jobs/1861afd6-5561-4cdd-be66-1433fcde45da",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "f154672d-9ff2-4f00-a32d-aa5ade5f1c54",
+      "company": "Keysight",
+      "title": "EDA AI/ML Layout Engineering Intern",
+      "locations": [
+        "Calabasas, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54606?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f154672d-9ff2-4f00-a32d-aa5ade5f1c54",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "49e7aa29-5c25-425d-9664-27cd0ab23e38",
+      "company": "Keysight",
+      "title": "EDA AI/ML Software Intern",
+      "locations": [
+        "Calabasas, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54582?lang=en-us",
+      "url": "https://trueinterview.io/jobs/49e7aa29-5c25-425d-9664-27cd0ab23e38",
       "postedAt": "2026-09-29T00:00:00.000Z",
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
@@ -1320,32 +1474,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43648215",
       "url": "https://trueinterview.io/jobs/29f621bc-fb99-4a07-a81e-1a4160d0c3fc",
-      "postedAt": "2026-09-25T00:00:00.000Z",
-      "updatedAt": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "id": "e4e794f1-9250-4ea8-85b6-93b037e96b10",
-      "company": "Snowflake",
-      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-      "locations": [
-        "US-CA-Menlo Park",
-        "US-WA-Bellevue"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
-      "url": "https://trueinterview.io/jobs/e4e794f1-9250-4ea8-85b6-93b037e96b10",
       "postedAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
