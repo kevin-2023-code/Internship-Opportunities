@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/8419d57d-d885-427f-ac6f-c0f686fe5775">Intern -  HBM Design Development Technical Leadership (DDTL)</a></td>
 <td>Richardson, TX, US</td>
@@ -260,13 +267,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1">Digital IC Design Intern, MS - Summer 2027</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+2 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/89553555-1a45-4637-9eff-16c55f168aa1">Test Engineering Intern, BS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>Westlake Village, CA</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>

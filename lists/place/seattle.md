@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**28 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -205,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA, United States<br/>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>+10 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002">Apply</a></td>
 <td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef016eb7-db08-48dd-967c-db28adc88469">Data Engineer Intern, Product Analytics (Summer 2027)</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1373603594867455/">Apply</a></td>
-<td align="center">31 Jul 2026</td>
 </tr>
 </tbody>
 </table>

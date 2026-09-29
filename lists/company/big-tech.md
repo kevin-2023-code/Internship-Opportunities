@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**375 open roles.** The giants: 10,000+ people, in a technology sector.
+**381 open roles.** The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/c387cac5-354e-49f4-900c-84694eb575c7">Associate Applications Engineer I (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Associate-Applications-Engineer-I--Co-op----United-States_2026910">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8ada5d98-e787-4fa1-8c27-1448cf090b80">Firmware Engineer II (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bf20ae8f-1066-49b2-a574-71871d246db4">Mechanical Engineer II (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Mechanical-Engineer-II--Co-op----United-States_2026912">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4ab5f848-bcc6-4088-a9b5-0473a00bf170">Optics Engineer II (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Optics-Engineer-II--Co-op----United-States_2026914">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eee58432-bbc0-4b42-8baa-ebfd70565f10">Physical Design Engineer I (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Physical-Design-Engineer-I--Co-op----United-States_2026763">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e9a0f325-c03d-464c-b4ae-1ba7be0d360e">Systems Quality Engineer I (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/51823b2b-8214-4e56-9468-bcdffa09fc54">Systems Quality Engineer II (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/09ab014e-389f-410a-8953-c21188c24fde">Winter 2027 Intern/Co-op Development Engineer</a></td>
@@ -2634,13 +2683,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>1530 FM 973 Taylor, TX, USA, United States of America</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef016eb7-db08-48dd-967c-db28adc88469">Data Engineer Intern, Product Analytics (Summer 2027)</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1373603594867455/">Apply</a></td>
-<td align="center">31 Jul 2026</td>
 </tr>
 </tbody>
 </table>

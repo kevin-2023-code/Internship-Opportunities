@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**5 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cfd Research Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ca375c9-a2c9-4d3e-818d-0af7b72a5430">(University of Alabama) INTERN - Hypersonic Research Engineer – M&amp;S Summer 2027</a></td>
+<td>Huntsville, AL<br/>HQ - Huntsville, AL</td>
+<td align="center"><a href="https://www.cfd-research.com/jobs?gh_jid=4424155009">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/5273f2f7-2a65-4d66-8472-233f9826f89a">Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern</a></td>

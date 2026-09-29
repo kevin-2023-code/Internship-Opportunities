@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**215 open roles.** 214 in the United States & Canada · 1 elsewhere in the world.
+**214 open roles.** 213 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/54868b43-b244-446b-b2c5-b90e916f89f1">2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction</a></td>
@@ -323,13 +330,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1">Digital IC Design Intern, MS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+2 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/89553555-1a45-4637-9eff-16c55f168aa1">Test Engineering Intern, BS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>Westlake Village, CA</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
@@ -1507,13 +1507,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco - SF9</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091">Apply</a></td>
 <td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef016eb7-db08-48dd-967c-db28adc88469">Data Engineer Intern, Product Analytics (Summer 2027)</a></td>
-<td>Menlo Park, CA, United States<br/>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1373603594867455/">Apply</a></td>
-<td align="center">31 Jul 2026</td>
 </tr>
 </tbody>
 </table>

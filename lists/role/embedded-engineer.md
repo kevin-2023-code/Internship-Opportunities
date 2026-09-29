@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**18 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ada5d98-e787-4fa1-8c27-1448cf090b80">Firmware Engineer II (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Samsara</strong></td>
 <td><a href="https://trueinterview.io/jobs/c1555cb2-8adc-464d-845c-2118078f42b5">Firmware Engineer Co-Op</a></td>

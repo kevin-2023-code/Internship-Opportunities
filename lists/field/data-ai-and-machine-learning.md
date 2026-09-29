@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Cfd Research Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ca375c9-a2c9-4d3e-818d-0af7b72a5430">(University of Alabama) INTERN - Hypersonic Research Engineer – M&amp;S Summer 2027</a></td>
+<td>Huntsville, AL<br/>HQ - Huntsville, AL</td>
+<td align="center"><a href="https://www.cfd-research.com/jobs?gh_jid=4424155009">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/550ed1d6-857f-4778-8d67-627fc29915fa">Research Intern, 2027 Summer U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
@@ -590,13 +597,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317917022">Apply</a></td>
 <td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef016eb7-db08-48dd-967c-db28adc88469">Data Engineer Intern, Product Analytics (Summer 2027)</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1373603594867455/">Apply</a></td>
-<td align="center">31 Jul 2026</td>
 </tr>
 </tbody>
 </table>

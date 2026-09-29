@@ -5,9 +5,235 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-29T13:38:25.933Z",
-  "count": 761,
+  "listingsChangedAt": "2026-09-29T19:02:38.923Z",
+  "count": 768,
   "listings": [
+    {
+      "id": "3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
+      "company": "Cfd Research Corporation",
+      "title": "(University of Alabama) INTERN - Hypersonic Research Engineer – M&S Summer 2027",
+      "locations": [
+        "Huntsville, AL",
+        "HQ - Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.cfd-research.com/jobs?gh_jid=4424155009",
+      "url": "https://trueinterview.io/jobs/3ca375c9-a2c9-4d3e-818d-0af7b72a5430",
+      "postedAt": "2026-09-29T16:07:21.000Z",
+      "updatedAt": "2026-09-29T16:07:21.000Z"
+    },
+    {
+      "id": "c387cac5-354e-49f4-900c-84694eb575c7",
+      "company": "Cisco",
+      "title": "Associate Applications Engineer I (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Associate-Applications-Engineer-I--Co-op----United-States_2026910",
+      "url": "https://trueinterview.io/jobs/c387cac5-354e-49f4-900c-84694eb575c7",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "8ada5d98-e787-4fa1-8c27-1448cf090b80",
+      "company": "Cisco",
+      "title": "Firmware Engineer II (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Firmware-Engineer-II--Co-op----United-States_2026913",
+      "url": "https://trueinterview.io/jobs/8ada5d98-e787-4fa1-8c27-1448cf090b80",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "bf20ae8f-1066-49b2-a574-71871d246db4",
+      "company": "Cisco",
+      "title": "Mechanical Engineer II (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Mechanical-Engineer-II--Co-op----United-States_2026912",
+      "url": "https://trueinterview.io/jobs/bf20ae8f-1066-49b2-a574-71871d246db4",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "4ab5f848-bcc6-4088-a9b5-0473a00bf170",
+      "company": "Cisco",
+      "title": "Optics Engineer II (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Optics-Engineer-II--Co-op----United-States_2026914",
+      "url": "https://trueinterview.io/jobs/4ab5f848-bcc6-4088-a9b5-0473a00bf170",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "eee58432-bbc0-4b42-8baa-ebfd70565f10",
+      "company": "Cisco",
+      "title": "Physical Design Engineer I (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Physical-Design-Engineer-I--Co-op----United-States_2026763",
+      "url": "https://trueinterview.io/jobs/eee58432-bbc0-4b42-8baa-ebfd70565f10",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "e9a0f325-c03d-464c-b4ae-1ba7be0d360e",
+      "company": "Cisco",
+      "title": "Systems Quality Engineer I (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-I--Co-op----United-States_2026751",
+      "url": "https://trueinterview.io/jobs/e9a0f325-c03d-464c-b4ae-1ba7be0d360e",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "51823b2b-8214-4e56-9468-bcdffa09fc54",
+      "company": "Cisco",
+      "title": "Systems Quality Engineer II (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
+      "url": "https://trueinterview.io/jobs/51823b2b-8214-4e56-9468-bcdffa09fc54",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "id": "e72825e0-1ccc-486e-9df9-eaae8f8f3ced",
+      "company": "Marvell Technology",
+      "title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
+      "url": "https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced",
+      "postedAt": "2026-09-29T00:00:00.000Z",
+      "updatedAt": "2026-09-29T00:00:00.000Z"
+    },
     {
       "id": "c575cc96-777a-48b0-ad2a-11242980151f",
       "company": "IBM",
@@ -3622,33 +3848,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1",
       "url": "https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "id": "89553555-1a45-4637-9eff-16c55f168aa1",
-      "company": "Marvell Technology",
-      "title": "Test Engineering Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA, United States of America",
-        "Irvine, CA",
-        "Westlake Village, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1",
-      "url": "https://trueinterview.io/jobs/89553555-1a45-4637-9eff-16c55f168aa1",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -20567,36 +20766,6 @@
       "url": "https://trueinterview.io/jobs/0cf881d3-699a-49ab-8e30-4e47e7267860",
       "postedAt": "2026-08-03T16:00:00.000Z",
       "updatedAt": "2026-08-03T16:00:00.000Z"
-    },
-    {
-      "id": "ef016eb7-db08-48dd-967c-db28adc88469",
-      "company": "Meta",
-      "title": "Data Engineer Intern, Product Analytics (Summer 2027)",
-      "locations": [
-        "Menlo Park, CA, United States",
-        "Seattle, WA, United States",
-        "New York, NY, United States"
-      ],
-      "cities": [
-        "Seattle, WA",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1373603594867455/",
-      "url": "https://trueinterview.io/jobs/ef016eb7-db08-48dd-967c-db28adc88469",
-      "postedAt": "2026-07-31T14:03:41.000Z",
-      "updatedAt": "2026-07-31T14:03:41.000Z"
     }
   ]
 }
