@@ -5,9 +5,174 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-28T20:59:08.885Z",
-  "count": 752,
+  "listingsChangedAt": "2026-09-29T00:52:31.383Z",
+  "count": 757,
   "listings": [
+    {
+      "id": "c575cc96-777a-48b0-ad2a-11242980151f",
+      "company": "IBM",
+      "title": "Quantum Algorithms Engineer Intern 2027",
+      "locations": [
+        "Multiple Cities, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=133789",
+      "url": "https://trueinterview.io/jobs/c575cc96-777a-48b0-ad2a-11242980151f",
+      "postedAt": "2026-09-28T23:53:39.000Z",
+      "updatedAt": "2026-09-28T23:53:39.000Z"
+    },
+    {
+      "id": "d8a4e069-796e-40fd-a094-35e812fb84a3",
+      "company": "Coveo",
+      "title": "Frontend Developer Intern, Winter 2027",
+      "locations": [
+        "Quebec City (Province of Quebec, Canada)",
+        "Montreal",
+        "Montréal",
+        "Montreal (Province of Quebec, Canada)"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002",
+      "url": "https://trueinterview.io/jobs/d8a4e069-796e-40fd-a094-35e812fb84a3",
+      "postedAt": "2026-09-28T23:39:28.000Z",
+      "updatedAt": "2026-09-28T23:39:28.000Z"
+    },
+    {
+      "id": "3652228e-5c2f-4869-8700-5253db3fc2e6",
+      "company": "Gitai",
+      "title": "Field-Deployed Software Engineering Intern",
+      "locations": [
+        "Los Angeles, California, United States",
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/gitai/jobs/5437128008",
+      "url": "https://trueinterview.io/jobs/3652228e-5c2f-4869-8700-5253db3fc2e6",
+      "postedAt": "2026-09-28T23:38:42.000Z",
+      "updatedAt": "2026-09-28T23:38:42.000Z"
+    },
+    {
+      "id": "3103bc83-c75d-45cc-b58e-edd946de7182",
+      "company": "Lyft",
+      "title": "Industrialization Engineer Intern (Summer 2027)",
+      "locations": [
+        "Longueuil, Canada",
+        "Longueuil Office"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002",
+      "url": "https://trueinterview.io/jobs/3103bc83-c75d-45cc-b58e-edd946de7182",
+      "postedAt": "2026-09-28T22:08:48.000Z",
+      "updatedAt": "2026-09-28T22:08:48.000Z"
+    },
+    {
+      "id": "efd81f7f-8f26-4a37-9be4-549cb527777d",
+      "company": "Lyft",
+      "title": "Business Systems Engineer Intern, Finance Technology (Summer 2027)",
+      "locations": [
+        "Toronto, Canada",
+        "Toronto Coworking"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002",
+      "url": "https://trueinterview.io/jobs/efd81f7f-8f26-4a37-9be4-549cb527777d",
+      "postedAt": "2026-09-28T21:33:25.000Z",
+      "updatedAt": "2026-09-28T21:33:25.000Z"
+    },
+    {
+      "id": "54868b43-b244-446b-b2c5-b90e916f89f1",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+      "url": "https://trueinterview.io/jobs/54868b43-b244-446b-b2c5-b90e916f89f1",
+      "postedAt": "2026-09-28T21:05:14.000Z",
+      "updatedAt": "2026-09-28T21:05:14.000Z"
+    },
     {
       "id": "161bfae6-45a9-4002-8859-e14fa42e17af",
       "company": "Keeper Security",
@@ -59,34 +224,6 @@
       "updatedAt": "2026-09-28T19:47:06.000Z"
     },
     {
-      "id": "49d263eb-5a9f-496a-83b7-7d7c865ba0ff",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-      "locations": [
-        "San Francisco, California",
-        "San Francisco (US-SFO-MKT555)"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-      "url": "https://trueinterview.io/jobs/49d263eb-5a9f-496a-83b7-7d7c865ba0ff",
-      "postedAt": "2026-09-28T19:34:51.000Z",
-      "updatedAt": "2026-09-28T19:34:51.000Z"
-    },
-    {
       "id": "2b62587f-3f41-4247-9955-09dd865d4a07",
       "company": "Merkle Science",
       "title": "Software Engineer - Intern (Frontend)",
@@ -123,7 +260,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -134,6 +271,32 @@
       "url": "https://trueinterview.io/jobs/66e5e93d-352d-49a6-9f48-7ddbd2b4d7e9",
       "postedAt": "2026-09-28T18:34:04.000Z",
       "updatedAt": "2026-09-28T18:34:04.000Z"
+    },
+    {
+      "id": "6831f99d-58b0-44cf-83b4-062493583504",
+      "company": "Cannondesign",
+      "title": "Electrical Student Intern",
+      "locations": [
+        "St. Louis, MO",
+        "St. Louis"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "http://www.cannondesign.com/careers/?gh_jid=8852985002",
+      "url": "https://trueinterview.io/jobs/6831f99d-58b0-44cf-83b4-062493583504",
+      "postedAt": "2026-09-28T17:54:12.000Z",
+      "updatedAt": "2026-09-28T17:54:12.000Z"
     },
     {
       "id": "456c7218-3f9e-4826-b5f6-576c20518272",
@@ -161,6 +324,56 @@
       "url": "https://trueinterview.io/jobs/456c7218-3f9e-4826-b5f6-576c20518272",
       "postedAt": "2026-09-28T17:09:06.000Z",
       "updatedAt": "2026-09-28T17:09:06.000Z"
+    },
+    {
+      "id": "8419d57d-d885-427f-ac6f-c0f686fe5775",
+      "company": "Micron Technology",
+      "title": "Intern -  HBM Design Development Technical Leadership (DDTL)",
+      "locations": [
+        "Richardson, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44703021",
+      "url": "https://trueinterview.io/jobs/8419d57d-d885-427f-ac6f-c0f686fe5775",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "63e9eca4-61a7-4d31-a984-7aa10a4c3e06",
+      "company": "Micron Technology",
+      "title": "Intern - Signal Integrity",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44702761",
+      "url": "https://trueinterview.io/jobs/63e9eca4-61a7-4d31-a984-7aa10a4c3e06",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
     },
     {
       "id": "06fafd1c-83c1-4b39-aa84-bfc62847c82b",
@@ -309,6 +522,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.na.panasonic.com/jobs/51278?lang=en-us",
       "url": "https://trueinterview.io/jobs/09bb5964-2c6f-4e8f-afd3-bb1b012422c2",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
+      "id": "6dce90fd-dad0-47c5-9102-a6f303872183",
+      "company": "Texas Instruments",
+      "title": "Digital Design Verification Engineering Intern",
+      "locations": [
+        "Santa Clara, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+      "url": "https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183",
       "postedAt": "2026-09-28T00:00:00.000Z",
       "updatedAt": "2026-09-28T00:00:00.000Z"
     },
@@ -575,34 +813,6 @@
       "url": "https://trueinterview.io/jobs/30f6cb62-0278-470d-96e1-20e62f40866f",
       "postedAt": "2026-09-25T19:09:36.000Z",
       "updatedAt": "2026-09-25T19:09:36.000Z"
-    },
-    {
-      "id": "8a1360ff-76ee-4419-b5af-517b04090cc5",
-      "company": "Cannondesign",
-      "title": "Mechanical Student Intern",
-      "locations": [
-        "Denver, CO",
-        "Denver"
-      ],
-      "cities": [
-        "Denver, CO"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "http://www.cannondesign.com/careers/?gh_jid=8844747002",
-      "url": "https://trueinterview.io/jobs/8a1360ff-76ee-4419-b5af-517b04090cc5",
-      "postedAt": "2026-09-25T18:42:53.000Z",
-      "updatedAt": "2026-09-25T18:42:53.000Z"
     },
     {
       "id": "0cd4c835-a9bf-4652-a98b-32e47efb2a9a",
@@ -1507,31 +1717,6 @@
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
     {
-      "id": "123f182d-4a56-4610-b877-7a2064840647",
-      "company": "Infineon",
-      "title": "Internship - Mechanical Simulation (CAD/CAE Automation)",
-      "locations": [
-        "Warstein, NRW, DE"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.infineon.com/careers/job/563808971878661",
-      "url": "https://trueinterview.io/jobs/123f182d-4a56-4610-b877-7a2064840647",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
       "id": "c0e1105a-fef3-48a2-8ec5-acfb33ce794c",
       "company": "Keysight",
       "title": "Semiconductor Advanced Packaging Process Engineering Intern",
@@ -2320,31 +2505,6 @@
       "url": "https://trueinterview.io/jobs/a1e2a05f-0400-48a8-b756-4eab904f7589",
       "postedAt": "2026-09-22T22:08:44.000Z",
       "updatedAt": "2026-09-22T22:08:44.000Z"
-    },
-    {
-      "id": "2b78170a-bd06-42d1-866e-6daf6cc63401",
-      "company": "IBM",
-      "title": "Quantum Network Engineer Intern 2027",
-      "locations": [
-        "Yorktown Heights, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=133470",
-      "url": "https://trueinterview.io/jobs/2b78170a-bd06-42d1-866e-6daf6cc63401",
-      "postedAt": "2026-09-22T20:53:10.000Z",
-      "updatedAt": "2026-09-22T20:53:10.000Z"
     },
     {
       "id": "b33d81ca-2dca-4429-81b0-78ec3d3275af",
@@ -4635,6 +4795,34 @@
       "url": "https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
       "postedAt": "2026-09-17T17:57:47.000Z",
       "updatedAt": "2026-09-17T17:57:47.000Z"
+    },
+    {
+      "id": "efb0063f-237a-468c-8a3a-a571bc66f4ee",
+      "company": "Cloudflare",
+      "title": "Software Engineer Intern (2027) - Austin, TX",
+      "locations": [
+        "In-Office",
+        "Austin, TX, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+      "url": "https://trueinterview.io/jobs/efb0063f-237a-468c-8a3a-a571bc66f4ee",
+      "postedAt": "2026-09-17T01:57:53.000Z",
+      "updatedAt": "2026-09-17T01:57:53.000Z"
     },
     {
       "id": "6ded744d-101c-41cd-9844-9add22fd0839",
@@ -12031,33 +12219,6 @@
       "updatedAt": "2026-09-08T14:07:37.000Z"
     },
     {
-      "id": "a1b0ae40-612d-45db-ada2-91d14b1b5999",
-      "company": "Amazon",
-      "title": "Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )",
-      "locations": [
-        "Bellevue, Washington, USA"
-      ],
-      "cities": [
-        "Bellevue, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa",
-      "url": "https://trueinterview.io/jobs/a1b0ae40-612d-45db-ada2-91d14b1b5999",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
       "id": "17b144f8-ddf7-48cb-879a-5fb0715a2293",
       "company": "Applied Materials",
       "title": "2027 Software Engineering Intern (Masters - Santa Clara, CA)",
@@ -12815,31 +12976,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/DCP-Equipment-Engineering-Intern---Summer-2027_R-10064577",
       "url": "https://trueinterview.io/jobs/f3ea5bbf-3bf8-446b-aaee-9592aa5f8b7d",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "dd76d302-9d75-477f-a3f2-4e1dd870cd49",
-      "company": "NXP Semiconductors",
-      "title": "Device Engineering Intern - Summer 2027",
-      "locations": [
-        "Chandler (Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Device-Engineering-Intern---Summer-2027_R-10064586",
-      "url": "https://trueinterview.io/jobs/dd76d302-9d75-477f-a3f2-4e1dd870cd49",
       "postedAt": "2026-09-07T00:00:00.000Z",
       "updatedAt": "2026-09-07T00:00:00.000Z"
     },
@@ -19832,7 +19968,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",

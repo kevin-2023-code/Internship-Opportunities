@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**213 open roles.** 212 in the United States & Canada · 1 elsewhere in the world.
+**214 open roles.** 213 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,9 +19,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/49d263eb-5a9f-496a-83b7-7d7c865ba0ff">2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision</a></td>
-<td>San Francisco, California</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8234670">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/54868b43-b244-446b-b2c5-b90e916f89f1">2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8237997">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183">Digital Design Verification Engineering Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>

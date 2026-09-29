@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**322 open roles.** 314 in the United States & Canada · 8 elsewhere in the world.
+**328 open roles.** 320 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,45 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/3103bc83-c75d-45cc-b58e-edd946de7182">Industrialization Engineer Intern (Summer 2027)</a></td>
+<td>Longueuil, Canada<br/>Longueuil Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/09ab014e-389f-410a-8953-c21188c24fde">Winter 2027 Intern/Co-op Development Engineer</a></td>
 <td>Rochester, MN, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000152261929-winter-2027-intern-co-op-development-engineer-?oga=true">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Morrison Maierle</strong></td>
+<td><a href="https://trueinterview.io/jobs/66e5e93d-352d-49a6-9f48-7ddbd2b4d7e9">Bridge Engineer Internship</a></td>
+<td>Helena, MT</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422947009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cannondesign</strong></td>
+<td><a href="https://trueinterview.io/jobs/6831f99d-58b0-44cf-83b4-062493583504">Electrical Student Intern</a></td>
+<td>St. Louis, MO</td>
+<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8852985002">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/8419d57d-d885-427f-ac6f-c0f686fe5775">Intern -  HBM Design Development Technical Leadership (DDTL)</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44703021">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/63e9eca4-61a7-4d31-a984-7aa10a4c3e06">Intern - Signal Integrity</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702761">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
@@ -53,6 +88,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183">Digital Design Verification Engineering Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e5ce220-f38e-420e-b3d1-554029627482">FY27 Engineering Internship United Kingdom</a></td>
 <td>United Kingdom, Edinburgh, SC, Freer<br/>United Kingdom, Hayes<br/>United Kingdom, Glasgow<br/>+1 more</td>
@@ -78,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/30f6cb62-0278-470d-96e1-20e62f40866f">Civil Site/Land Development Internship</a></td>
 <td>Franklin, TN<br/>Nashville, TN</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5249626007?gh_jid=5249626007">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cannondesign</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a1360ff-76ee-4419-b5af-517b04090cc5">Mechanical Student Intern</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8844747002">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -2151,6 +2186,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43721088">Apply</a></td>
 <td align="center">11 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0c75bbe-ba16-48a6-93e0-5c0a54af8bac">Plumbing/Fire Protection Engineering Intern - Summer 2027</a></td>
+<td>Sunrise, FL, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91630">Apply</a></td>
+<td align="center">10 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Apex Companies</strong></td>

@@ -25,17 +25,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Cannondesign</strong></td>
+<td><a href="https://trueinterview.io/jobs/6831f99d-58b0-44cf-83b4-062493583504">Electrical Student Intern</a></td>
+<td>St. Louis, MO</td>
+<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8852985002">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/30f6cb62-0278-470d-96e1-20e62f40866f">Civil Site/Land Development Internship</a></td>
 <td>Franklin, TN<br/>Nashville, TN</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5249626007?gh_jid=5249626007">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cannondesign</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a1360ff-76ee-4419-b5af-517b04090cc5">Mechanical Student Intern</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="http://www.cannondesign.com/careers/?gh_jid=8844747002">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
