@@ -19,10 +19,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b78170a-bd06-42d1-866e-6daf6cc63401">Quantum Network Engineer Intern 2027</a></td>
-<td>Yorktown Heights, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=133470">Apply</a></td>
-<td align="center">22 Sep 2026</td>
+<td><a href="https://trueinterview.io/jobs/49a9bcf5-47ae-4b64-8317-e088519e7c30">Software Developer Spring Co-Op 2027 (Bellevue)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=135256">Apply</a></td>
+<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Megazone Cloud Us</strong></td>

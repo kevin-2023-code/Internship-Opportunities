@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-30T16:35:47.092Z",
-  "count": 787,
+  "listingsChangedAt": "2026-09-30T21:08:24.103Z",
+  "count": 805,
   "listings": [
+    {
+      "id": "a8aacb72-3c3e-47e3-89b6-8bccea6199dd",
+      "company": "Hermeus",
+      "title": "Loads & Dynamics Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0/apply",
+      "url": "https://trueinterview.io/jobs/a8aacb72-3c3e-47e3-89b6-8bccea6199dd",
+      "postedAt": "2026-09-30T20:04:52.000Z",
+      "updatedAt": "2026-09-30T20:04:52.000Z"
+    },
     {
       "id": "52478d5b-3a04-4f59-a2e1-a74726f6a39f",
       "company": "Meta",
@@ -35,7 +62,271 @@
       "applyUrl": "https://www.metacareers.com/profile/job_details/1683903403071591/",
       "url": "https://trueinterview.io/jobs/52478d5b-3a04-4f59-a2e1-a74726f6a39f",
       "postedAt": "2026-09-30T05:24:38.000Z",
-      "updatedAt": "2026-09-30T05:24:38.000Z"
+      "updatedAt": "2026-09-30T20:00:12.000Z"
+    },
+    {
+      "id": "b4680b55-25a8-4642-9df9-5ac64ec61c34",
+      "company": "Muon Space",
+      "title": "Flight Software Engineering Intern (Summer 2027)",
+      "locations": [
+        "San Jose, CA",
+        "Muon San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5247725007",
+      "url": "https://trueinterview.io/jobs/b4680b55-25a8-4642-9df9-5ac64ec61c34",
+      "postedAt": "2026-09-30T19:59:38.000Z",
+      "updatedAt": "2026-09-30T19:59:38.000Z"
+    },
+    {
+      "id": "123f1052-cd93-45d7-85e4-21b6cc70cf9e",
+      "company": "Muon Space",
+      "title": "Thermal Engineering Intern (Summer 2027)",
+      "locations": [
+        "San Jose",
+        "Muon San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5253474007",
+      "url": "https://trueinterview.io/jobs/123f1052-cd93-45d7-85e4-21b6cc70cf9e",
+      "postedAt": "2026-09-30T19:47:42.000Z",
+      "updatedAt": "2026-09-30T19:47:42.000Z"
+    },
+    {
+      "id": "5bb7c498-b82c-4cda-8cc6-eb6968ae9b0f",
+      "company": "Capstone Investment Advisors",
+      "title": "Summer 2027 - Quant Internship",
+      "locations": [
+        "London"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002",
+      "url": "https://trueinterview.io/jobs/5bb7c498-b82c-4cda-8cc6-eb6968ae9b0f",
+      "postedAt": "2026-09-30T19:41:10.000Z",
+      "updatedAt": "2026-09-30T19:41:10.000Z"
+    },
+    {
+      "id": "e44fd66f-4d67-49a1-b17d-7ece52be1aec",
+      "company": "Muon Space",
+      "title": "Quality Engineering Intern (Summer 2027)",
+      "locations": [
+        "San Jose",
+        "Muon San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5253432007",
+      "url": "https://trueinterview.io/jobs/e44fd66f-4d67-49a1-b17d-7ece52be1aec",
+      "postedAt": "2026-09-30T19:26:46.000Z",
+      "updatedAt": "2026-09-30T19:26:46.000Z"
+    },
+    {
+      "id": "be68a520-e4cd-4a88-8149-37aafe7eec7d",
+      "company": "NetApp",
+      "title": "Data Science Intern",
+      "locations": [
+        "Wichita, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.netapp.com/job/wichita/data-science-intern/27600/101361141152",
+      "url": "https://trueinterview.io/jobs/be68a520-e4cd-4a88-8149-37aafe7eec7d",
+      "postedAt": "2026-09-30T19:03:39.000Z",
+      "updatedAt": "2026-09-30T19:03:39.000Z"
+    },
+    {
+      "id": "03e7d1eb-466b-453e-bb0d-177dac1c2c77",
+      "company": "Epic Games",
+      "title": "Technical Product Management Intern",
+      "locations": [
+        "Cary,North Carolina,United States",
+        "Cary"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004",
+      "url": "https://trueinterview.io/jobs/03e7d1eb-466b-453e-bb0d-177dac1c2c77",
+      "postedAt": "2026-09-30T19:01:10.000Z",
+      "updatedAt": "2026-09-30T19:01:10.000Z"
+    },
+    {
+      "id": "8c00d98d-f516-4d7d-ace0-14617f5e380e",
+      "company": "Ford Motor Company",
+      "title": "Product Development Engineer - Intern",
+      "locations": [
+        "Naucalpan de Juarez, MEX, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676",
+      "url": "https://trueinterview.io/jobs/8c00d98d-f516-4d7d-ace0-14617f5e380e",
+      "postedAt": "2026-09-30T18:37:10.000Z",
+      "updatedAt": "2026-09-30T18:37:10.000Z"
+    },
+    {
+      "id": "49a9bcf5-47ae-4b64-8317-e088519e7c30",
+      "company": "IBM",
+      "title": "Software Developer Spring Co-Op 2027 (Bellevue)",
+      "locations": [
+        "Bellevue, US"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=135256",
+      "url": "https://trueinterview.io/jobs/49a9bcf5-47ae-4b64-8317-e088519e7c30",
+      "postedAt": "2026-09-30T17:53:40.000Z",
+      "updatedAt": "2026-09-30T17:53:40.000Z"
+    },
+    {
+      "id": "469d60f1-dac7-4d95-b5bf-0b92aa5b6329",
+      "company": "Helion",
+      "title": "Mechanical Engineering Summer 2027 Intern",
+      "locations": [
+        "Everett, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606/application",
+      "url": "https://trueinterview.io/jobs/469d60f1-dac7-4d95-b5bf-0b92aa5b6329",
+      "postedAt": "2026-09-30T17:51:31.000Z",
+      "updatedAt": "2026-09-30T17:51:31.000Z"
+    },
+    {
+      "id": "c1d13ca9-f24e-44f8-bbba-6ca6c4730e88",
+      "company": "Dandy",
+      "title": "Summer 2027 Internship - Software Engineering",
+      "locations": [
+        "USA - New York NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application",
+      "url": "https://trueinterview.io/jobs/c1d13ca9-f24e-44f8-bbba-6ca6c4730e88",
+      "postedAt": "2026-09-30T17:18:59.000Z",
+      "updatedAt": "2026-09-30T17:18:59.000Z"
     },
     {
       "id": "6fc68228-0a53-4725-bdb2-5d82cb2069ac",
@@ -117,6 +408,33 @@
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
     {
+      "id": "de6796b4-a268-45d2-b7e1-8224d1dc663c",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+      "url": "https://trueinterview.io/jobs/de6796b4-a268-45d2-b7e1-8224d1dc663c",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
       "id": "d1428ea1-ea21-4624-960d-8d49467f4f02",
       "company": "AMD",
       "title": "2027 Undergrad Thermal Engineering Intern/Co-Op",
@@ -138,6 +456,156 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/93091?lang=en-us",
       "url": "https://trueinterview.io/jobs/d1428ea1-ea21-4624-960d-8d49467f4f02",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "45192e48-fb81-4b8a-b072-a776878c5161",
+      "company": "Intel",
+      "title": "GPU Physical Design Engineer Intern",
+      "locations": [
+        "Costa Rica, San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
+      "url": "https://trueinterview.io/jobs/45192e48-fb81-4b8a-b072-a776878c5161",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "fa0530b7-35e0-4868-b17a-db5d7b5c3325",
+      "company": "Intel",
+      "title": "Research Scientist Intern - Graphics, ML",
+      "locations": [
+        "Virtual US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
+      "url": "https://trueinterview.io/jobs/fa0530b7-35e0-4868-b17a-db5d7b5c3325",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "aa114280-053e-44b8-ba07-f23a3e4ade14",
+      "company": "Keysight",
+      "title": "R&D Electrical Engineering, Intern",
+      "locations": [
+        "Colorado Springs, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54664?lang=en-us",
+      "url": "https://trueinterview.io/jobs/aa114280-053e-44b8-ba07-f23a3e4ade14",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "d592a8c5-d409-4b15-9f72-709416054fb8",
+      "company": "Keysight",
+      "title": "RF IC Designer Intern",
+      "locations": [
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54210?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d592a8c5-d409-4b15-9f72-709416054fb8",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "1716f5a5-0a0b-4e5a-929b-bfe6a218e5fd",
+      "company": "KLA",
+      "title": "Mechatronics Engineering Internship",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1",
+      "url": "https://trueinterview.io/jobs/1716f5a5-0a0b-4e5a-929b-bfe6a218e5fd",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "5a3cc313-1c40-40db-878d-82b4d984d088",
+      "company": "KLA",
+      "title": "Mechatronics/Systems Engineering Internship",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
+      "url": "https://trueinterview.io/jobs/5a3cc313-1c40-40db-878d-82b4d984d088",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -214,6 +682,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
       "url": "https://trueinterview.io/jobs/25fdbabb-127b-472c-adb9-7a21e734c795",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "3255db62-025b-466a-b338-8124ea39b426",
+      "company": "Marvell Technology",
+      "title": "Product Engineer Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1",
+      "url": "https://trueinterview.io/jobs/3255db62-025b-466a-b338-8124ea39b426",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "9c57e768-e24c-42a4-91f5-8b36d536fe0f",
+      "company": "Marvell Technology",
+      "title": "Test Engineering Intern, MS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1",
+      "url": "https://trueinterview.io/jobs/9c57e768-e24c-42a4-91f5-8b36d536fe0f",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -3425,31 +3943,6 @@
       "updatedAt": "2026-09-22T22:08:44.000Z"
     },
     {
-      "id": "2b78170a-bd06-42d1-866e-6daf6cc63401",
-      "company": "IBM",
-      "title": "Quantum Network Engineer Intern 2027",
-      "locations": [
-        "Yorktown Heights, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=133470",
-      "url": "https://trueinterview.io/jobs/2b78170a-bd06-42d1-866e-6daf6cc63401",
-      "postedAt": "2026-09-22T20:53:10.000Z",
-      "updatedAt": "2026-09-22T20:53:10.000Z"
-    },
-    {
       "id": "b33d81ca-2dca-4429-81b0-78ec3d3275af",
       "company": "Cisco",
       "title": "Hardware Engineer II Intern - United States",
@@ -3606,34 +4099,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743",
       "url": "https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "bb207ad0-4e95-455d-a93f-391b3a09f0b9",
-      "company": "NVIDIA",
-      "title": "Product Design Intern, AI Infrastructure - Summer 2027",
-      "locations": [
-        "Santa Clara, CA, US",
-        "New York, NY, US"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397725807",
-      "url": "https://trueinterview.io/jobs/bb207ad0-4e95-455d-a93f-391b3a09f0b9",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
