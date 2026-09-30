@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**66 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -407,13 +407,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/44f3723e-c2ef-4c0d-8dfb-5549569216c2">Intern - EUV &amp; Materials Lithography</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43721134">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d5bab2c6-f229-427c-a73b-9c6be6b58887">Intern - Process Development Engineer, Thin Films</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43648428">Apply</a></td>
 <td align="center">17 Aug 2026</td>
 </tr>
 <tr>

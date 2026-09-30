@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-30T10:10:21.739Z",
-  "count": 784,
+  "listingsChangedAt": "2026-09-30T16:35:47.092Z",
+  "count": 787,
   "listings": [
     {
       "id": "52478d5b-3a04-4f59-a2e1-a74726f6a39f",
@@ -113,6 +113,167 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
       "url": "https://trueinterview.io/jobs/09d3fd89-8543-415d-a17e-b0432e8e81ea",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "d1428ea1-ea21-4624-960d-8d49467f4f02",
+      "company": "AMD",
+      "title": "2027 Undergrad Thermal Engineering Intern/Co-Op",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/93091?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d1428ea1-ea21-4624-960d-8d49467f4f02",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "e7e7827e-c9d1-440b-a640-75774ad1263f",
+      "company": "KLA",
+      "title": "Optical Engineer Intern",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1",
+      "url": "https://trueinterview.io/jobs/e7e7827e-c9d1-440b-a640-75774ad1263f",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "5aa1b1fd-e16c-4de4-b194-0663eeadd512",
+      "company": "KLA",
+      "title": "Product Development Engineer Intern",
+      "locations": [
+        "Milpitas, CA, United States of America",
+        "Ann Arbor, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
+      "url": "https://trueinterview.io/jobs/5aa1b1fd-e16c-4de4-b194-0663eeadd512",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "25fdbabb-127b-472c-adb9-7a21e734c795",
+      "company": "KLA",
+      "title": "Product Development Engineering Intern",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+      "url": "https://trueinterview.io/jobs/25fdbabb-127b-472c-adb9-7a21e734c795",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "8b6cdcec-5f50-4db2-a517-bb52574360a3",
+      "company": "Nokia",
+      "title": "Optical System Engineer Co-Op",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648",
+      "url": "https://trueinterview.io/jobs/8b6cdcec-5f50-4db2-a517-bb52574360a3",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "57950f0b-7fba-4f19-8c28-bf92eecec14e",
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern - Compute Performance",
+      "locations": [
+        "Zürich, ZH, CH",
+        "Courbevoie, Île-de-France, FR",
+        "Bristol, England, GB",
+        "Würselen, NRW, DE",
+        "Munich, BY, DE"
+      ],
+      "cities": [
+        "Bristol",
+        "Munich"
+      ],
+      "countries": [
+        "France",
+        "United Kingdom",
+        "United States",
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397939337",
+      "url": "https://trueinterview.io/jobs/57950f0b-7fba-4f19-8c28-bf92eecec14e",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -3420,31 +3581,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
       "url": "https://trueinterview.io/jobs/13625190-d437-4388-a446-c3ef4650d1bc",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "9a53cce6-5078-4e05-aad5-e39ef7a045a6",
-      "company": "KLA",
-      "title": "Software Engineering Intern (C++, Unix)",
-      "locations": [
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
-      "url": "https://trueinterview.io/jobs/9a53cce6-5078-4e05-aad5-e39ef7a045a6",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -9452,32 +9588,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991",
       "url": "https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "1a82634a-df0e-4c36-9fc7-dc3b873c3bf8",
-      "company": "Intel",
-      "title": "Packaging Technology Development Graduate Intern",
-      "locations": [
-        "US, Arizona, Phoenix",
-        "US, Arizona, Phoenix, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Packaging-Technology-Development-Graduate-Intern_JR0287080",
-      "url": "https://trueinterview.io/jobs/1a82634a-df0e-4c36-9fc7-dc3b873c3bf8",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -20321,31 +20431,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43721134",
       "url": "https://trueinterview.io/jobs/44f3723e-c2ef-4c0d-8dfb-5549569216c2",
-      "postedAt": "2026-08-17T00:00:00.000Z",
-      "updatedAt": "2026-08-17T00:00:00.000Z"
-    },
-    {
-      "id": "d5bab2c6-f229-427c-a73b-9c6be6b58887",
-      "company": "Micron Technology",
-      "title": "Intern - Process Development Engineer, Thin Films",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43648428",
-      "url": "https://trueinterview.io/jobs/d5bab2c6-f229-427c-a73b-9c6be6b58887",
       "postedAt": "2026-08-17T00:00:00.000Z",
       "updatedAt": "2026-08-17T00:00:00.000Z"
     },
