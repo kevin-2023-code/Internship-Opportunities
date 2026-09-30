@@ -5,9 +5,63 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-30T03:23:09.874Z",
-  "count": 783,
+  "listingsChangedAt": "2026-09-30T10:10:21.739Z",
+  "count": 784,
   "listings": [
+    {
+      "id": "52478d5b-3a04-4f59-a2e1-a74726f6a39f",
+      "company": "Meta",
+      "title": "DFX Engineering Intern",
+      "locations": [
+        "Sunnyvale, CA, United States",
+        "Seattle, WA, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1683903403071591/",
+      "url": "https://trueinterview.io/jobs/52478d5b-3a04-4f59-a2e1-a74726f6a39f",
+      "postedAt": "2026-09-30T05:24:38.000Z",
+      "updatedAt": "2026-09-30T05:24:38.000Z"
+    },
+    {
+      "id": "6fc68228-0a53-4725-bdb2-5d82cb2069ac",
+      "company": "Meta",
+      "title": "Product Design Engineering Intern",
+      "locations": [
+        "Redmond, WA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1613359540444032/",
+      "url": "https://trueinterview.io/jobs/6fc68228-0a53-4725-bdb2-5d82cb2069ac",
+      "postedAt": "2026-09-30T04:19:21.000Z",
+      "updatedAt": "2026-09-30T04:19:21.000Z"
+    },
     {
       "id": "8a16510c-bd9b-4922-a72e-27c96b04c516",
       "company": "Amazon",
@@ -1367,9 +1421,9 @@
       "cities": [],
       "countries": [],
       "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1474,7 +1528,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1642,6 +1696,31 @@
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
     {
+      "id": "a93038c4-2a51-44ae-a578-07f7c28f096f",
+      "company": "Keysight",
+      "title": "DevOps Intern",
+      "locations": [
+        "Colorado Springs, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54602?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a93038c4-2a51-44ae-a578-07f7c28f096f",
+      "postedAt": "2026-09-25T00:00:00.000Z",
+      "updatedAt": "2026-09-25T00:00:00.000Z"
+    },
+    {
       "id": "c25ce015-a7a5-420e-949c-e0c9e50ae855",
       "company": "Keysight",
       "title": "Engineering Software Developer, Intern",
@@ -1733,7 +1812,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1840,7 +1919,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -1878,6 +1957,33 @@
       "url": "https://trueinterview.io/jobs/9bae841d-6ce3-4e54-92ed-ca5964db3e9f",
       "postedAt": "2026-09-24T22:43:28.000Z",
       "updatedAt": "2026-09-24T22:43:28.000Z"
+    },
+    {
+      "id": "ce410566-90b4-4f82-992c-3b1665a84b34",
+      "company": "Intuitive Surgical",
+      "title": "AI Research Intern",
+      "locations": [
+        "Sunnyvale, CA, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000151714759-ai-research-intern?oga=true",
+      "url": "https://trueinterview.io/jobs/ce410566-90b4-4f82-992c-3b1665a84b34",
+      "postedAt": "2026-09-24T22:36:51.000Z",
+      "updatedAt": "2026-09-24T22:36:51.000Z"
     },
     {
       "id": "7c443068-91b8-4fa3-9c7b-58a834818adf",
@@ -1977,7 +2083,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -11969,31 +12075,6 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
-      "id": "029ef665-6a27-42fd-b8a3-54c79d08723a",
-      "company": "Dell",
-      "title": "IT Undergraduate Intern",
-      "locations": [
-        "TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298782",
-      "url": "https://trueinterview.io/jobs/029ef665-6a27-42fd-b8a3-54c79d08723a",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
       "id": "dea14382-b5b7-47f6-9b22-a01e9b93bf4f",
       "company": "Garmin",
       "title": "Component Engineering Intern",
@@ -14791,59 +14872,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1",
       "url": "https://trueinterview.io/jobs/2390accd-792d-4635-8f3a-ae570209a8cd",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "9cbcb094-71e8-4bd1-839f-87478d3232ab",
-      "company": "Marvell Technology",
-      "title": "Firmware Engineer Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Westlake Village, CA",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
-      "url": "https://trueinterview.io/jobs/9cbcb094-71e8-4bd1-839f-87478d3232ab",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "dada29d6-5d30-4067-9296-1aeb7c1fb066",
-      "company": "Marvell Technology",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "url": "https://trueinterview.io/jobs/dada29d6-5d30-4067-9296-1aeb7c1fb066",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
