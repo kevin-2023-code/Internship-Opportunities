@@ -5,9 +5,329 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-01T14:12:27.516Z",
-  "count": 829,
+  "listingsChangedAt": "2026-10-01T20:01:49.951Z",
+  "count": 839,
   "listings": [
+    {
+      "id": "05974d86-8d20-4a00-9a8b-9c57a61317db",
+      "company": "Varda Space Industries",
+      "title": "Aerodynamics & Analysis Engineering Internship - Summer 2027",
+      "locations": [
+        "El Segundo, California, United States",
+        "225 S Aviation"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/8010632003",
+      "url": "https://trueinterview.io/jobs/05974d86-8d20-4a00-9a8b-9c57a61317db",
+      "postedAt": "2026-10-01T16:30:00.000Z",
+      "updatedAt": "2026-10-01T16:30:00.000Z"
+    },
+    {
+      "id": "dc853fa6-5610-41a2-985b-4aeb6822255d",
+      "company": "Knowbe4",
+      "title": "Software Engineer Intern (Located in Kochi)",
+      "locations": [
+        "Kochi, India",
+        "Bangalore, Karnataka, India",
+        "Bangalore, India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8860353002",
+      "url": "https://trueinterview.io/jobs/dc853fa6-5610-41a2-985b-4aeb6822255d",
+      "postedAt": "2026-10-01T16:13:49.000Z",
+      "updatedAt": "2026-10-01T16:13:49.000Z"
+    },
+    {
+      "id": "db6f861f-68e6-4547-b7fc-5c29840a0cf6",
+      "company": "Dlr Group",
+      "title": "Mechanical Engineering Intern | Summer 2027",
+      "locations": [
+        "Minneapolis, Minnesota, United States",
+        "Minneapolis"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008",
+      "url": "https://trueinterview.io/jobs/db6f861f-68e6-4547-b7fc-5c29840a0cf6",
+      "postedAt": "2026-10-01T16:04:42.000Z",
+      "updatedAt": "2026-10-01T16:04:42.000Z"
+    },
+    {
+      "id": "3aebdea2-1212-49be-a089-9a5f44c90c23",
+      "company": "Ubisoft",
+      "title": "Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)",
+      "locations": [
+        "Paris, IDF, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true",
+      "url": "https://trueinterview.io/jobs/3aebdea2-1212-49be-a089-9a5f44c90c23",
+      "postedAt": "2026-10-01T16:01:04.000Z",
+      "updatedAt": "2026-10-01T16:01:04.000Z"
+    },
+    {
+      "id": "a9902b5e-bb3b-4aa5-947f-d24a144eeda8",
+      "company": "Riot Games",
+      "title": "Software Engineering Intern - Summer 2027 (Remote)",
+      "locations": [
+        "Los Angeles, USA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014",
+      "url": "https://trueinterview.io/jobs/a9902b5e-bb3b-4aa5-947f-d24a144eeda8",
+      "postedAt": "2026-10-01T16:00:00.000Z",
+      "updatedAt": "2026-10-01T16:00:00.000Z"
+    },
+    {
+      "id": "04b653c3-8e82-493a-aa34-e46335359b81",
+      "company": "Stripe",
+      "title": "Data Analyst, Intern",
+      "locations": [
+        "New York, Seattle, South San Francisco HQ",
+        "New York, New York, United States",
+        "Seattle, Washington, United States",
+        "San Francisco, California, United States"
+      ],
+      "cities": [
+        "New York, NY",
+        "Seattle, WA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "url": "https://trueinterview.io/jobs/04b653c3-8e82-493a-aa34-e46335359b81",
+      "postedAt": "2026-10-01T15:05:29.000Z",
+      "updatedAt": "2026-10-01T15:05:29.000Z"
+    },
+    {
+      "id": "db0de5c7-edd6-41d9-8f38-e8926b332129",
+      "company": "IBM",
+      "title": "Data Scientist Intern 2027",
+      "locations": [
+        "RESEARCH TRIANGLE PARK, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=134939",
+      "url": "https://trueinterview.io/jobs/db0de5c7-edd6-41d9-8f38-e8926b332129",
+      "postedAt": "2026-10-01T14:53:39.000Z",
+      "updatedAt": "2026-10-01T14:53:39.000Z"
+    },
+    {
+      "id": "734c38de-7cc6-4c74-9de0-c6cba35265cf",
+      "company": "Cisco",
+      "title": "Hardware Engineer II (Co-op) - United States",
+      "locations": [
+        "San Jose, California, US, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
+      "url": "https://trueinterview.io/jobs/734c38de-7cc6-4c74-9de0-c6cba35265cf",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "f1bc0ad4-e9c8-4af0-9f71-1e4afdf6d1fb",
+      "company": "Cisco",
+      "title": "Mechanical Engineer I (Intern) - United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028",
+      "url": "https://trueinterview.io/jobs/f1bc0ad4-e9c8-4af0-9f71-1e4afdf6d1fb",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "776c9778-28ae-4e6d-92db-b10071d4800d",
+      "company": "Cisco",
+      "title": "Software Engineer I (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920",
+      "url": "https://trueinterview.io/jobs/776c9778-28ae-4e6d-92db-b10071d4800d",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "bd19a262-65b2-4b99-9d33-a19bcaa3aac6",
+      "company": "Cisco",
+      "title": "Software Engineer II (Co-op) - United States",
+      "locations": [
+        "Maynard, Massachusetts, US, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923",
+      "url": "https://trueinterview.io/jobs/bd19a262-65b2-4b99-9d33-a19bcaa3aac6",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "c92b54b1-839d-4c4f-8509-80410060f601",
+      "company": "Keysight",
+      "title": "IT Engineering Intern",
+      "locations": [
+        "Colorado Springs, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54649?lang=en-us",
+      "url": "https://trueinterview.io/jobs/c92b54b1-839d-4c4f-8509-80410060f601",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
     {
       "id": "e558ac3c-05db-40f3-8c1d-f8f7c8180afa",
       "company": "Micron Technology",
@@ -190,6 +510,56 @@
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
     {
+      "id": "c9ff618a-f357-4a01-8bef-abca08a721c8",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+      "url": "https://trueinterview.io/jobs/c9ff618a-f357-4a01-8bef-abca08a721c8",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "ad37100e-f3ed-4d81-844f-6ab7a2f0419d",
+      "company": "Nokia",
+      "title": "AI R&D Engineer Co-op",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677",
+      "url": "https://trueinterview.io/jobs/ad37100e-f3ed-4d81-844f-6ab7a2f0419d",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
       "id": "10147e0a-a02f-4499-b3ff-414406681af5",
       "company": "QUALCOMM",
       "title": "FY27 - AI Driven Test Automation Engineering Intern",
@@ -211,6 +581,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446721349370",
       "url": "https://trueinterview.io/jobs/10147e0a-a02f-4499-b3ff-414406681af5",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "d388f639-f8a0-474b-8f49-46a11e1f72cf",
+      "company": "QUALCOMM",
+      "title": "FY27 Intern - Digital Design Intern - Hod Hasharon",
+      "locations": [
+        "Haifa, Haifa District, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721361544",
+      "url": "https://trueinterview.io/jobs/d388f639-f8a0-474b-8f49-46a11e1f72cf",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
@@ -238,31 +633,6 @@
       "url": "https://trueinterview.io/jobs/f2e16161-aafa-42ab-92b5-88688c5de15e",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "cf303a86-d9e9-4380-8556-2a6cd51dfcbd",
-      "company": "IBM",
-      "title": "Technical Specialist - General Professional (Intern, 2027)",
-      "locations": [
-        "Multiple Cities, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=135171",
-      "url": "https://trueinterview.io/jobs/cf303a86-d9e9-4380-8556-2a6cd51dfcbd",
-      "postedAt": "2026-09-30T23:53:39.000Z",
-      "updatedAt": "2026-09-30T23:53:39.000Z"
     },
     {
       "id": "dbd797cb-c09c-40f8-9a18-0ddfc72b522a",
@@ -1768,31 +2138,6 @@
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
     {
-      "id": "b1366f53-521e-4191-85bd-a72a4b0bed8a",
-      "company": "Marvell Technology",
-      "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860",
-      "url": "https://trueinterview.io/jobs/b1366f53-521e-4191-85bd-a72a4b0bed8a",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
       "id": "7a9586c8-68b7-461a-91c5-dc4d57fb993b",
       "company": "NVIDIA",
       "title": "Image and Data Processing Libraries Intern",
@@ -3075,34 +3420,6 @@
       "url": "https://trueinterview.io/jobs/7c443068-91b8-4fa3-9c7b-58a834818adf",
       "postedAt": "2026-09-24T21:51:54.000Z",
       "updatedAt": "2026-09-24T21:51:54.000Z"
-    },
-    {
-      "id": "3afefe40-48ba-478e-951f-086c189139db",
-      "company": "Stripe",
-      "title": "Financial Data Analyst Intern, Technical Operations",
-      "locations": [
-        "Singapore",
-        "SG-Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8186442",
-      "url": "https://trueinterview.io/jobs/3afefe40-48ba-478e-951f-086c189139db",
-      "postedAt": "2026-09-24T21:24:36.000Z",
-      "updatedAt": "2026-09-24T21:24:36.000Z"
     },
     {
       "id": "9756c8c4-63fe-4f44-aa84-7ad9e20562fe",
@@ -9466,31 +9783,6 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
-      "id": "d2ba3305-943c-40b6-b047-f54e8bf5946e",
-      "company": "Micron Technology",
-      "title": "Intern - AI Hardware and Memory Systems",
-      "locations": [
-        "Folsom, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44450231",
-      "url": "https://trueinterview.io/jobs/d2ba3305-943c-40b6-b047-f54e8bf5946e",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
       "id": "226a12a1-c061-4097-b7bc-5fa2c286d34d",
       "company": "Micron Technology",
       "title": "Intern - ASIC Validation",
@@ -14254,31 +14546,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/43943727",
       "url": "https://trueinterview.io/jobs/1c1cfc9e-dd44-49be-bf51-ed60d230de86",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "id": "1bf7d014-40d7-4def-84e0-859bd9f7f029",
-      "company": "Panasonic",
-      "title": "Intern - New Technology Development",
-      "locations": [
-        "Bridgeton, Missouri, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/50886?lang=en-us",
-      "url": "https://trueinterview.io/jobs/1bf7d014-40d7-4def-84e0-859bd9f7f029",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
