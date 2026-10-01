@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**11 open roles.** 7 in the United States & Canada · 4 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,6 +37,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000151714759-ai-research-intern?oga=true">Apply</a></td>
 <td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3edaa3c-2ad9-40d5-88bd-bd7576e41701">2027 COOP Program, Operations</a></td>
+<td>Barceloneta, Barceloneta, Puerto Rico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990015540576-2027-coop-program-operations?oga=true">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Commure</strong></td>

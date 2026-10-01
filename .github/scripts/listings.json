@@ -5,9 +5,90 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-01T00:58:32.348Z",
-  "count": 809,
+  "listingsChangedAt": "2026-10-01T06:57:30.753Z",
+  "count": 823,
   "listings": [
+    {
+      "id": "e558ac3c-05db-40f3-8c1d-f8f7c8180afa",
+      "company": "Micron Technology",
+      "title": "Intern - DRAM ARCHITECTURE",
+      "locations": [
+        "San Jose, CA, US",
+        "Boise, ID, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44702753",
+      "url": "https://trueinterview.io/jobs/e558ac3c-05db-40f3-8c1d-f8f7c8180afa",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "550f8333-f44e-4c47-aa3f-c712de0ec4b3",
+      "company": "Micron Technology",
+      "title": "Intern - DRAM ARCTITECHTURE",
+      "locations": [
+        "San Jose, CA, US",
+        "Boise, ID, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44702762",
+      "url": "https://trueinterview.io/jobs/550f8333-f44e-4c47-aa3f-c712de0ec4b3",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "10147e0a-a02f-4499-b3ff-414406681af5",
+      "company": "QUALCOMM",
+      "title": "FY27 - AI Driven Test Automation Engineering Intern",
+      "locations": [
+        "Haifa, Haifa District, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721349370",
+      "url": "https://trueinterview.io/jobs/10147e0a-a02f-4499-b3ff-414406681af5",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
     {
       "id": "cf303a86-d9e9-4380-8556-2a6cd51dfcbd",
       "company": "IBM",
@@ -182,7 +263,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -210,7 +291,7 @@
       "remote": "onsite",
       "category": "Quantitative Finance",
       "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
+      "role": "Quantitative Researcher",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -313,7 +394,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -362,9 +443,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -374,6 +455,57 @@
       "url": "https://trueinterview.io/jobs/c1d13ca9-f24e-44f8-bbba-6ca6c4730e88",
       "postedAt": "2026-09-30T17:18:59.000Z",
       "updatedAt": "2026-09-30T17:18:59.000Z"
+    },
+    {
+      "id": "d128b8e7-c50f-4ce5-b3e1-fa574d16d4b0",
+      "company": "Dandy",
+      "title": "Summer 2027 Internship - PhD Research Intern",
+      "locations": [
+        "USA - New York NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application",
+      "url": "https://trueinterview.io/jobs/d128b8e7-c50f-4ce5-b3e1-fa574d16d4b0",
+      "postedAt": "2026-09-30T16:49:54.000Z",
+      "updatedAt": "2026-09-30T16:49:54.000Z"
+    },
+    {
+      "id": "8eea2850-3447-4f39-80b0-b0db9f482f52",
+      "company": "Oliver Agency",
+      "title": "Communication Design Internship",
+      "locations": [
+        "Durban, South Africa",
+        "Pipeline"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/oliver/jobs/8239898",
+      "url": "https://trueinterview.io/jobs/8eea2850-3447-4f39-80b0-b0db9f482f52",
+      "postedAt": "2026-09-30T16:07:24.000Z",
+      "updatedAt": "2026-09-30T16:07:24.000Z"
     },
     {
       "id": "6fc68228-0a53-4725-bdb2-5d82cb2069ac",
@@ -426,35 +558,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
       "url": "https://trueinterview.io/jobs/d806dc99-571f-47a3-86a5-710c27cc49c3",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "updatedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "f36d7f04-8f1a-461c-9013-1ea2e1907ec3",
-      "company": "Adobe",
-      "title": "2027 MBA Intern – Product Marketing Manager",
-      "locations": [
-        "San Jose, California, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262",
-      "url": "https://trueinterview.io/jobs/f36d7f04-8f1a-461c-9013-1ea2e1907ec3",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -552,7 +655,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -561,6 +664,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/93091?lang=en-us",
       "url": "https://trueinterview.io/jobs/d1428ea1-ea21-4624-960d-8d49467f4f02",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "e94c8dff-3512-46bb-abdf-d4e4f75863ab",
+      "company": "Intel",
+      "title": "AI SOC Power Delivery Pathfinding PhD Intern",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538",
+      "url": "https://trueinterview.io/jobs/e94c8dff-3512-46bb-abdf-d4e4f75863ab",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "95a61449-37c7-45e6-8603-5f1020016bcf",
+      "company": "Intel",
+      "title": "AI Software Engineering Undergraduate Intern",
+      "locations": [
+        "Costa Rica, San Jose"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583",
+      "url": "https://trueinterview.io/jobs/95a61449-37c7-45e6-8603-5f1020016bcf",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -576,9 +729,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -586,31 +739,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
       "url": "https://trueinterview.io/jobs/45192e48-fb81-4b8a-b072-a776878c5161",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "updatedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "fa0530b7-35e0-4868-b17a-db5d7b5c3325",
-      "company": "Intel",
-      "title": "Research Scientist Intern - Graphics, ML",
-      "locations": [
-        "Virtual US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-      "url": "https://trueinterview.io/jobs/fa0530b7-35e0-4868-b17a-db5d7b5c3325",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -628,7 +756,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -652,9 +780,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -677,9 +805,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -728,7 +856,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -752,9 +880,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -779,7 +907,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -804,7 +932,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -829,7 +957,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -854,7 +982,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -879,7 +1007,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3001,7 +3129,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3354,9 +3482,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3623,7 +3751,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3751,7 +3879,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3802,7 +3930,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3827,7 +3955,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -3942,6 +4070,31 @@
       "updatedAt": "2026-09-23T00:00:00.000Z"
     },
     {
+      "id": "ad58b1b3-c4ac-486a-811a-9885548131bd",
+      "company": "Marvell Technology",
+      "title": "Project Management Intern, MBA - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440",
+      "url": "https://trueinterview.io/jobs/ad58b1b3-c4ac-486a-811a-9885548131bd",
+      "postedAt": "2026-09-23T00:00:00.000Z",
+      "updatedAt": "2026-09-23T00:00:00.000Z"
+    },
+    {
       "id": "a1eeb765-89ba-436c-8726-82c9cf141090",
       "company": "Marvell Technology",
       "title": "Security Verification/Validation Engineer Intern, BS - Summer 2027",
@@ -4049,6 +4202,58 @@
       "updatedAt": "2026-09-22T22:08:44.000Z"
     },
     {
+      "id": "d769a851-991d-48fa-ae24-b0370bcc83db",
+      "company": "Atlassian",
+      "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
+      "locations": [
+        "San Francisco - United States - San Francisco, California 94104 United States",
+        "Remote - Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers-americas.icims.com/jobs/26846/marketing-business-operations-intern%2c-2027-summer-u.s./job?mode=apply",
+      "url": "https://trueinterview.io/jobs/d769a851-991d-48fa-ae24-b0370bcc83db",
+      "postedAt": "2026-09-22T19:03:10.000Z",
+      "updatedAt": "2026-09-22T19:03:10.000Z"
+    },
+    {
+      "id": "b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22",
+      "company": "Coinbase",
+      "title": "Internal Audit Analytics Intern",
+      "locations": [
+        "Hybrid - New York, NY",
+        "US - Remote Zone 1 (Job Requisitions Only)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238",
+      "url": "https://trueinterview.io/jobs/b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22",
+      "postedAt": "2026-09-22T01:42:16.000Z",
+      "updatedAt": "2026-09-22T01:42:16.000Z"
+    },
+    {
       "id": "b33d81ca-2dca-4429-81b0-78ec3d3275af",
       "company": "Cisco",
       "title": "Hardware Engineer II Intern - United States",
@@ -4145,9 +4350,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4180,6 +4385,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
       "url": "https://trueinterview.io/jobs/13625190-d437-4388-a446-c3ef4650d1bc",
+      "postedAt": "2026-09-22T00:00:00.000Z",
+      "updatedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "c23fe1d1-1b24-4900-b2f5-795ae2cfd55f",
+      "company": "Marvell Technology",
+      "title": "Electrical Validation Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1",
+      "url": "https://trueinterview.io/jobs/c23fe1d1-1b24-4900-b2f5-795ae2cfd55f",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -4389,6 +4619,31 @@
       "updatedAt": "2026-09-21T22:46:44.000Z"
     },
     {
+      "id": "ce7d70a4-c0a3-41ad-872b-08e90b0d1e83",
+      "company": "Ford Motor Company",
+      "title": "Product Development Ford Champ (Intern)",
+      "locations": [
+        "Naucalpan de Juarez, MEX, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70405",
+      "url": "https://trueinterview.io/jobs/ce7d70a4-c0a3-41ad-872b-08e90b0d1e83",
+      "postedAt": "2026-09-21T22:45:58.000Z",
+      "updatedAt": "2026-09-21T22:45:58.000Z"
+    },
+    {
       "id": "491919e4-b3c7-451f-8306-8e56d2482815",
       "company": "G2",
       "title": "Intern, AI Agent Evaluations",
@@ -4444,6 +4699,31 @@
       "updatedAt": "2026-09-21T21:51:00.000Z"
     },
     {
+      "id": "c3edaa3c-2ad9-40d5-88bd-bd7576e41701",
+      "company": "Abbvie",
+      "title": "2027 COOP Program, Operations",
+      "locations": [
+        "Barceloneta, Barceloneta, Puerto Rico"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990015540576-2027-coop-program-operations?oga=true",
+      "url": "https://trueinterview.io/jobs/c3edaa3c-2ad9-40d5-88bd-bd7576e41701",
+      "postedAt": "2026-09-21T21:02:37.000Z",
+      "updatedAt": "2026-09-21T21:02:37.000Z"
+    },
+    {
       "id": "8e57cdd3-80e9-430b-a124-a20d8610da31",
       "company": "Altalink",
       "title": "Co-Op Students (Operations and Projects)",
@@ -4485,7 +4765,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Product & Design",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -4542,7 +4822,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4608,6 +4888,31 @@
       "updatedAt": "2026-09-21T19:26:10.000Z"
     },
     {
+      "id": "f5501e8e-4047-43b6-9ac8-e59d5b5655c9",
+      "company": "Protective",
+      "title": "2027 Business Systems Summer Internship Program",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/protective/fe5fdc30-61b5-4296-b6fe-be5102849c73/apply",
+      "url": "https://trueinterview.io/jobs/f5501e8e-4047-43b6-9ac8-e59d5b5655c9",
+      "postedAt": "2026-09-21T18:53:14.000Z",
+      "updatedAt": "2026-09-21T18:53:14.000Z"
+    },
+    {
       "id": "ace07a34-3f6d-4636-af89-755c656cd5a2",
       "company": "Meta",
       "title": "Production Engineering Intern",
@@ -4622,9 +4927,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Site Reliability Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4790,6 +5095,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/90950?lang=en-us",
       "url": "https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "cbcad0d4-aa10-4648-926d-9a63a41dc67f",
+      "company": "AMD",
+      "title": "Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90910?lang=en-us",
+      "url": "https://trueinterview.io/jobs/cbcad0d4-aa10-4648-926d-9a63a41dc67f",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
@@ -4986,7 +5316,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5066,9 +5396,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5122,9 +5452,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5232,6 +5562,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.nvidia.com/careers/job/893397633492",
       "url": "https://trueinterview.io/jobs/2fd9f286-1c7e-4b18-91e0-cad0ca68a1e7",
+      "postedAt": "2026-09-21T00:00:00.000Z",
+      "updatedAt": "2026-09-21T00:00:00.000Z"
+    },
+    {
+      "id": "f2a88e3f-b9bb-4f23-8d35-a8a0dbb8f747",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, Networking - 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397623550",
+      "url": "https://trueinterview.io/jobs/f2a88e3f-b9bb-4f23-8d35-a8a0dbb8f747",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },

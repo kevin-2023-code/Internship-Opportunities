@@ -18,19 +18,19 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-01 00:58 UTC_
+_Last updated: 2026-10-01 06:57 UTC_
 
-**63 open internships** from **37 employers** · **9 posted in the last 7 days** · refreshed hourly
+**65 open internships** from **38 employers** · **10 posted in the last 7 days** · refreshed hourly
 
-### Browse 63 internships by field
+### Browse 65 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (28)
+💻 **[Software Engineering](#-software-engineering)** (27)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (5)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (9)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (11)
 
-📱 **[Product & Design](#-product--design)** (6)
+📱 **[Product & Design](#-product--design)** (7)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (12)
 
@@ -42,13 +42,13 @@ _Last updated: 2026-10-01 00:58 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (11)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🏢 Enterprise & business software (5)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [🚗 Autonomy, automotive & mobility (3)](lists/company/autonomy-mobility.md) · [+6 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (11)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🏢 Enterprise & business software (5)](lists/company/enterprise-saas.md) · [💳 Fintech, payments & crypto (5)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🚗 Autonomy, automotive & mobility (4)](lists/company/autonomy-mobility.md) · [🧬 Health, biotech & medical devices (4)](lists/company/health-bio.md) · [+6 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (16)](lists/role/software-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (1)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (16)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (1)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
 📍 **By location** — [🇬🇧 London & the UK (13)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (6)](lists/place/anz.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (9)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (10)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -76,13 +76,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dbd797cb-c09c-40f8-9a18-0ddfc72b522a">R&amp;D Internship</a> 🆕</td>
 <td>Beijing, CN</td>
 <td align="center"><a href="https://www.esri.com/careers/5252393007?gh_jid=5252393007">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Ford Motor Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c00d98d-f516-4d7d-ace0-14617f5e380e">Product Development Engineer - Intern</a> 🆕</td>
-<td>Naucalpan de Juarez, MEX, Mexico</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -358,9 +351,23 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c00d98d-f516-4d7d-ace0-14617f5e380e">Product Development Engineer - Intern</a> 🆕</td>
+<td>Naucalpan de Juarez, MEX, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/09aa64c2-190f-4eb7-8459-e42f62b2de58">EDS Ford Champ (Intern)</a></td>
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>
+<td align="center">9d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ce7d70a4-c0a3-41ad-872b-08e90b0d1e83">Product Development Ford Champ (Intern)</a></td>
+<td>Naucalpan de Juarez, MEX, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70405">Apply</a></td>
 <td align="center">9d</td>
 </tr>
 <tr>
@@ -446,6 +453,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Oliver Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/8eea2850-3447-4f39-80b0-b0db9f482f52">Communication Design Internship</a> 🆕</td>
+<td>Durban, South Africa<br/>Pipeline</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8239898">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Sezzle</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5fb76db-fc80-41bc-9600-d1be1b1c866a">Graphic Design Intern</a></td>
