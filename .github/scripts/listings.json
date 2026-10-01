@@ -5,9 +5,83 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-09-30T21:08:24.103Z",
-  "count": 805,
+  "listingsChangedAt": "2026-10-01T00:58:32.348Z",
+  "count": 809,
   "listings": [
+    {
+      "id": "cf303a86-d9e9-4380-8556-2a6cd51dfcbd",
+      "company": "IBM",
+      "title": "Technical Specialist - General Professional (Intern, 2027)",
+      "locations": [
+        "Multiple Cities, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=135171",
+      "url": "https://trueinterview.io/jobs/cf303a86-d9e9-4380-8556-2a6cd51dfcbd",
+      "postedAt": "2026-09-30T23:53:39.000Z",
+      "updatedAt": "2026-09-30T23:53:39.000Z"
+    },
+    {
+      "id": "dbd797cb-c09c-40f8-9a18-0ddfc72b522a",
+      "company": "Esri",
+      "title": "R&D Internship",
+      "locations": [
+        "Beijing, CN"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.esri.com/careers/5252393007?gh_jid=5252393007",
+      "url": "https://trueinterview.io/jobs/dbd797cb-c09c-40f8-9a18-0ddfc72b522a",
+      "postedAt": "2026-09-30T23:06:57.000Z",
+      "updatedAt": "2026-09-30T23:06:57.000Z"
+    },
+    {
+      "id": "5cfd1033-ccce-4607-b6a3-c5c5515314b6",
+      "company": "Genscript/probio",
+      "title": "AI Intern, Enterprise Agent Development",
+      "locations": [
+        "Piscataway, New Jersey, United States",
+        "USA- Piscataway, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/genscript/jobs/5253581007",
+      "url": "https://trueinterview.io/jobs/5cfd1033-ccce-4607-b6a3-c5c5515314b6",
+      "postedAt": "2026-09-30T21:36:33.000Z",
+      "updatedAt": "2026-09-30T21:36:33.000Z"
+    },
     {
       "id": "a8aacb72-3c3e-47e3-89b6-8bccea6199dd",
       "company": "Hermeus",
@@ -23,7 +97,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -79,9 +153,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -252,33 +326,6 @@
       "updatedAt": "2026-09-30T18:37:10.000Z"
     },
     {
-      "id": "49a9bcf5-47ae-4b64-8317-e088519e7c30",
-      "company": "IBM",
-      "title": "Software Developer Spring Co-Op 2027 (Bellevue)",
-      "locations": [
-        "Bellevue, US"
-      ],
-      "cities": [
-        "Bellevue, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=135256",
-      "url": "https://trueinterview.io/jobs/49a9bcf5-47ae-4b64-8317-e088519e7c30",
-      "postedAt": "2026-09-30T17:53:40.000Z",
-      "updatedAt": "2026-09-30T17:53:40.000Z"
-    },
-    {
       "id": "469d60f1-dac7-4d95-b5bf-0b92aa5b6329",
       "company": "Helion",
       "title": "Mechanical Engineering Summer 2027 Intern",
@@ -352,6 +399,64 @@
       "url": "https://trueinterview.io/jobs/6fc68228-0a53-4725-bdb2-5d82cb2069ac",
       "postedAt": "2026-09-30T04:19:21.000Z",
       "updatedAt": "2026-09-30T04:19:21.000Z"
+    },
+    {
+      "id": "d806dc99-571f-47a3-86a5-710c27cc49c3",
+      "company": "Adobe",
+      "title": "2027 MBA Intern – Product Manager",
+      "locations": [
+        "San Jose, California, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
+      "url": "https://trueinterview.io/jobs/d806dc99-571f-47a3-86a5-710c27cc49c3",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "f36d7f04-8f1a-461c-9013-1ea2e1907ec3",
+      "company": "Adobe",
+      "title": "2027 MBA Intern – Product Marketing Manager",
+      "locations": [
+        "San Jose, California, United States of America",
+        "San Francisco, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262",
+      "url": "https://trueinterview.io/jobs/f36d7f04-8f1a-461c-9013-1ea2e1907ec3",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
     },
     {
       "id": "8a16510c-bd9b-4922-a72e-27c96b04c516",
@@ -506,6 +611,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
       "url": "https://trueinterview.io/jobs/fa0530b7-35e0-4868-b17a-db5d7b5c3325",
+      "postedAt": "2026-09-30T00:00:00.000Z",
+      "updatedAt": "2026-09-30T00:00:00.000Z"
+    },
+    {
+      "id": "fda4111d-c802-478a-9862-3e355e4ca648",
+      "company": "Keysight",
+      "title": "Custom Solutions Engineering Internship",
+      "locations": [
+        "Santa Clara, California, United States",
+        "San Diego, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54611?lang=en-us",
+      "url": "https://trueinterview.io/jobs/fda4111d-c802-478a-9862-3e355e4ca648",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -1054,31 +1185,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027",
       "url": "https://trueinterview.io/jobs/0d0a964c-ae6d-4a1b-b01e-40499c1e4e8d",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "f5108cc4-3d21-4d19-b2ea-e8db0aa62222",
-      "company": "Applied Materials",
-      "title": "2027 Summer Intern - Mechanical Engineer I (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318600138",
-      "url": "https://trueinterview.io/jobs/f5108cc4-3d21-4d19-b2ea-e8db0aa62222",
       "postedAt": "2026-09-29T00:00:00.000Z",
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
