@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**277 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**278 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/10147e0a-a02f-4499-b3ff-414406681af5">FY27 - AI Driven Test Automation Engineering Intern</a></td>
 <td>Haifa, Haifa District, IL</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446721349370">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2e16161-aafa-42ab-92b5-88688c5de15e">FY27 Intern - SW Engineering Intern - Haifa</a></td>
+<td>Haifa, Haifa District, IL</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721335989">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
