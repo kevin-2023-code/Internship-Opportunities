@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**260 open roles.** 232 in the United States & Canada · 28 elsewhere in the world.
+**259 open roles.** 231 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1191,13 +1191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bffc4274-e15b-4162-b5f8-509fd2febe63">Internship - Test Engineer</a></td>
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971908978">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3ea5bbf-3bf8-446b-aaee-9592aa5f8b7d">DCP Equipment Engineering Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/DCP-Equipment-Engineering-Intern---Summer-2027_R-10064577">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>

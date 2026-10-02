@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**283 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**267 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -872,13 +872,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e4feb25-daaf-4014-ae74-1df2bf3796d1">Digital Design Intern - Summer 2027</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065537">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/b66e02bb-2bd0-4a2c-b8da-7200115527d9">Information Technology Intern – Data Engineering</a></td>
 <td>Dallas, TX, United States</td>
@@ -988,13 +981,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/558e09a3-ff83-42b3-95ee-b064a000fff7">Module Engineering PhD Intern New 2027</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a09d26c-bdac-4d22-b28a-db94e658de9e">Test Engineer Intern - Summer 2027</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Test-Engineer-Intern---Summer-2027_R-10064679">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -1223,107 +1209,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/99c7486c-44e9-492a-8fb1-38b1ae04dff3">CMP-Implant Engineer Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/CMP-Implant-Engineer-Intern---Summer-2027_R-10064576">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4f7c0b67-c7ec-4a37-bcf8-c370f9b9f323">Data Analytics Engineer Intern - Summer 2027</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/168f55a2-f2c6-4593-b2d8-327e82022cd5">Data Science / Structured Problem Solving Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f3ea5bbf-3bf8-446b-aaee-9592aa5f8b7d">DCP Equipment Engineering Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/DCP-Equipment-Engineering-Intern---Summer-2027_R-10064577">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/07c39509-473f-4742-970e-da3aabaf538d">Device/Yield Engineer Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Device-Yield-Engineer-Intern---Summer-2027_R-10064582">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5d4e95b4-9a40-4fa9-871f-4bcc073bec8d">Digital Physical Design Intern - Spring 2027</a></td>
 <td>Austin (Oakhill, Office), United States of America<br/>Chandler (Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Spring-2027_R-10065545">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/434f4bf2-a60b-434b-a857-512e820cb718">Digital Validation Intern - Summer 2027</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4964bae2-d54e-48eb-8ee3-36dc253e1d8b">Digital Verification Intern - Summer 2027</a></td>
-<td>Austin (Oakhill, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f9de0768-0393-4b4b-86e0-147d27806aa6">Embedded Machine Learning &amp; Radar Processing Intern - Summer 2027</a></td>
-<td>San Jose (Holger Way), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/50afb490-0aed-4eb0-a101-0412f2945a43">Equipment Engineer Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Equipment-Engineer-Intern---Summer-2026_R-10064578">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7fe3fd29-8fd0-452e-9b7f-d012aff75d66">Etch Equipment Engineer Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Etch-Equipment-Engineer-Intern---Summer-2026_R-10064579">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/95356e75-22d0-4063-b290-6250c4a9a2bf">FAB Device Engineer Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/327dad7e-1af7-4874-b1aa-c3fe2e8f2458">Facilities Electrical Engineer Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Facilities-Electrical-Engineer-Intern---Summer-2027_R-10064573">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/46a176e7-c17d-4e9a-bc53-6f9d378c678e">Photo/Metro Equipment Engineering Intern - Summer 2027</a></td>
-<td>Austin (Ed Bluestein, Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Photo-Metro-Equipment-Engineering-Intern---Summer-2027_R-10064580">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/32a8fda0-d39d-42e2-bf31-6b95cb97ca59">Systems Engineer Intern - Summer 2027</a></td>
-<td>Irvine, United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723">Apply</a></td>
 <td align="center">7 Sep 2026</td>
 </tr>
 <tr>

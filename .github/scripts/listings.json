@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-02T06:31:42.247Z",
-  "count": 869,
+  "listingsChangedAt": "2026-10-02T13:25:28.903Z",
+  "count": 852,
   "listings": [
     {
       "id": "37d7c032-27ec-4caf-af41-b425d1757950",
@@ -9096,7 +9096,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -10805,32 +10805,6 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
-      "id": "9e4feb25-daaf-4014-ae74-1df2bf3796d1",
-      "company": "NXP Semiconductors",
-      "title": "Digital Design Intern - Summer 2027",
-      "locations": [
-        "Austin (Oakhill, Office)",
-        "Austin (Oakhill, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Design-Intern---Spring-2027_R-10065537",
-      "url": "https://trueinterview.io/jobs/9e4feb25-daaf-4014-ae74-1df2bf3796d1",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
       "id": "b66e02bb-2bd0-4a2c-b8da-7200115527d9",
       "company": "Texas Instruments",
       "title": "Information Technology Intern – Data Engineering",
@@ -11772,37 +11746,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Equipment-Engineering-Intern_R266095",
       "url": "https://trueinterview.io/jobs/4bdfbdba-c7bc-4044-9253-14ae4fa66c17",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "70beb522-c361-45a1-89c1-ec547c8fee7b",
-      "company": "Cisco",
-      "title": "Hardware Engineer PhD (Intern) - United States",
-      "locations": [
-        "San Jose, California, US",
-        "Carlsbad, California, US",
-        "San Jose, California, United States of America",
-        "Carlsbad, California, United States of America",
-        "San Jose, California, US, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991",
-      "url": "https://trueinterview.io/jobs/70beb522-c361-45a1-89c1-ec547c8fee7b",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -12846,32 +12789,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern-New-2027_JR0287020",
       "url": "https://trueinterview.io/jobs/558e09a3-ff83-42b3-95ee-b064a000fff7",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "9a09d26c-bdac-4d22-b28a-db94e658de9e",
-      "company": "NXP Semiconductors",
-      "title": "Test Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Oakhill, Office)",
-        "Austin (Oakhill, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Test-Engineer-Intern---Summer-2027_R-10064679",
-      "url": "https://trueinterview.io/jobs/9a09d26c-bdac-4d22-b28a-db94e658de9e",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
@@ -15851,136 +15768,6 @@
       "updatedAt": "2026-09-07T00:00:00.000Z"
     },
     {
-      "id": "99c7486c-44e9-492a-8fb1-38b1ae04dff3",
-      "company": "NXP Semiconductors",
-      "title": "CMP-Implant Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/CMP-Implant-Engineer-Intern---Summer-2027_R-10064576",
-      "url": "https://trueinterview.io/jobs/99c7486c-44e9-492a-8fb1-38b1ae04dff3",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "4f7c0b67-c7ec-4a37-bcf8-c370f9b9f323",
-      "company": "NXP Semiconductors",
-      "title": "Data Analytics Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Oakhill, Office)",
-        "Austin (Oakhill, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Data-Analytics-Engineer-Intern---Summer-2027_R-10065538",
-      "url": "https://trueinterview.io/jobs/4f7c0b67-c7ec-4a37-bcf8-c370f9b9f323",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "168f55a2-f2c6-4593-b2d8-327e82022cd5",
-      "company": "NXP Semiconductors",
-      "title": "Data Science / Structured Problem Solving Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Hardware & Engineering",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037",
-      "url": "https://trueinterview.io/jobs/168f55a2-f2c6-4593-b2d8-327e82022cd5",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "f3ea5bbf-3bf8-446b-aaee-9592aa5f8b7d",
-      "company": "NXP Semiconductors",
-      "title": "DCP Equipment Engineering Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/DCP-Equipment-Engineering-Intern---Summer-2027_R-10064577",
-      "url": "https://trueinterview.io/jobs/f3ea5bbf-3bf8-446b-aaee-9592aa5f8b7d",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "07c39509-473f-4742-970e-da3aabaf538d",
-      "company": "NXP Semiconductors",
-      "title": "Device/Yield Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Device-Yield-Engineer-Intern---Summer-2027_R-10064582",
-      "url": "https://trueinterview.io/jobs/07c39509-473f-4742-970e-da3aabaf538d",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
       "id": "5d4e95b4-9a40-4fa9-871f-4bcc073bec8d",
       "company": "NXP Semiconductors",
       "title": "Digital Physical Design Intern - Spring 2027",
@@ -16004,240 +15791,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Physical-Design-Intern---Spring-2027_R-10065545",
       "url": "https://trueinterview.io/jobs/5d4e95b4-9a40-4fa9-871f-4bcc073bec8d",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "434f4bf2-a60b-434b-a857-512e820cb718",
-      "company": "NXP Semiconductors",
-      "title": "Digital Validation Intern - Summer 2027",
-      "locations": [
-        "Austin (Oakhill, Office)",
-        "Austin (Oakhill, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Validation-Intern---Summer-2027_R-10065557",
-      "url": "https://trueinterview.io/jobs/434f4bf2-a60b-434b-a857-512e820cb718",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "4964bae2-d54e-48eb-8ee3-36dc253e1d8b",
-      "company": "NXP Semiconductors",
-      "title": "Digital Verification Intern - Summer 2027",
-      "locations": [
-        "Austin (Oakhill, Office)",
-        "Austin (Oakhill, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Digital-Verification-Intern---Summer-2027_R-10065552",
-      "url": "https://trueinterview.io/jobs/4964bae2-d54e-48eb-8ee3-36dc253e1d8b",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "f9de0768-0393-4b4b-86e0-147d27806aa6",
-      "company": "NXP Semiconductors",
-      "title": "Embedded Machine Learning & Radar Processing Intern - Summer 2027",
-      "locations": [
-        "San Jose (Holger Way)",
-        "San Jose (Holger Way), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534",
-      "url": "https://trueinterview.io/jobs/f9de0768-0393-4b4b-86e0-147d27806aa6",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "50afb490-0aed-4eb0-a101-0412f2945a43",
-      "company": "NXP Semiconductors",
-      "title": "Equipment Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Equipment-Engineer-Intern---Summer-2026_R-10064578",
-      "url": "https://trueinterview.io/jobs/50afb490-0aed-4eb0-a101-0412f2945a43",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "7fe3fd29-8fd0-452e-9b7f-d012aff75d66",
-      "company": "NXP Semiconductors",
-      "title": "Etch Equipment Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Etch-Equipment-Engineer-Intern---Summer-2026_R-10064579",
-      "url": "https://trueinterview.io/jobs/7fe3fd29-8fd0-452e-9b7f-d012aff75d66",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "95356e75-22d0-4063-b290-6250c4a9a2bf",
-      "company": "NXP Semiconductors",
-      "title": "FAB Device Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/FAB-Device-Engineer-Intern---Summer-2027_R-10064583",
-      "url": "https://trueinterview.io/jobs/95356e75-22d0-4063-b290-6250c4a9a2bf",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "327dad7e-1af7-4874-b1aa-c3fe2e8f2458",
-      "company": "NXP Semiconductors",
-      "title": "Facilities Electrical Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Facilities-Electrical-Engineer-Intern---Summer-2027_R-10064573",
-      "url": "https://trueinterview.io/jobs/327dad7e-1af7-4874-b1aa-c3fe2e8f2458",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "46a176e7-c17d-4e9a-bc53-6f9d378c678e",
-      "company": "NXP Semiconductors",
-      "title": "Photo/Metro Equipment Engineering Intern - Summer 2027",
-      "locations": [
-        "Austin (Ed Bluestein, Office)",
-        "Austin (Ed Bluestein, Office), United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Ed-Bluestein-Office/Photo-Metro-Equipment-Engineering-Intern---Summer-2027_R-10064580",
-      "url": "https://trueinterview.io/jobs/46a176e7-c17d-4e9a-bc53-6f9d378c678e",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "32a8fda0-d39d-42e2-bf31-6b95cb97ca59",
-      "company": "NXP Semiconductors",
-      "title": "Systems Engineer Intern - Summer 2027",
-      "locations": [
-        "Irvine",
-        "Irvine, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/Systems-Engineer-Intern---Summer-2027_R-10064723",
-      "url": "https://trueinterview.io/jobs/32a8fda0-d39d-42e2-bf31-6b95cb97ca59",
       "postedAt": "2026-09-07T00:00:00.000Z",
       "updatedAt": "2026-09-07T00:00:00.000Z"
     },
