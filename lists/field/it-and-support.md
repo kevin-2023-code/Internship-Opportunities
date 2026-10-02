@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**30 open roles.** 27 in the United States & Canada · 3 elsewhere in the world.
+**29 open roles.** 26 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,13 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, Illinois, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Richardson, Texas, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/494489a6-a1e9-4b3b-a07c-74d8646d96f5">Intern - StoreConnect Digital Connectivity</a></td>
-<td>Bridgeton, Missouri, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50766?lang=en-us">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Aspen Fiber Networks</strong></td>

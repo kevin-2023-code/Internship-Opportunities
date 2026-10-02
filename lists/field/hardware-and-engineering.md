@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b">Hardware Field Quality Engineer Intern (Summer 2027)</a></td>
+<td>Longueuil, Canada<br/>Montreal Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/37d7c032-27ec-4caf-af41-b425d1757950">Mechanical Engineering Intern, Infrastructure</a></td>
 <td>Menlo Park, CA, United States</td>
@@ -1108,13 +1115,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Westminster, CO</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/902abd29-6bd2-4c34-a001-38e9d614df69">Summer 2027 – Power Electronics Internship</a></td>
-<td>Austin, TX<br/>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/18d2c72e-30cd-4145-8b12-7db3a492d541/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

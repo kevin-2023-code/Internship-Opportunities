@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>C3.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/ced1ffba-2409-40fe-b6d6-4bf454ea58eb">AI Product Manager - MBA Intern (Summer 2027)</a></td>
+<td>Redwood City, California, United States</td>
+<td align="center"><a href="https://c3.ai/job-description/8860563002?gh_jid=8860563002">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Attentive</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7ef1680-6f96-4a32-8af4-15f6252656ae">Product Management Intern, Agentic Integrations</a></td>
 <td>United States</td>
@@ -303,13 +310,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Calstart</strong></td>
-<td><a href="https://trueinterview.io/jobs/722ec9cc-105d-424e-8b70-7ff6fbdd77c0">Graphic Design, Video &amp; Motion Graphics Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.lever.co/calstart/28ed81bc-2f8d-499b-bc6a-ac62a9d0256a/apply">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

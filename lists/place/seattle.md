@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**44 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,6 +26,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/5406e630-237a-4845-8c13-3ff6f7649f10">Data Science: AI Experiences PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986137">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bb3f90ae-e0e6-4a22-8927-acea85b7ca49">Penetration Tester: Internship Opportunities</a></td>
 <td>Redmond, WA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556999327">Apply</a></td>

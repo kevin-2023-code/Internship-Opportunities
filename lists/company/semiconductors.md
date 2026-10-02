@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**267 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**270 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6324376-152e-4dbb-a9f9-d3003eda1924">Spring/Summer 2027 Masters Photonics Design Engineering Co-Op</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91633?lang=en-us">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/a438c814-cf39-4f63-83c2-9b63052af5a4">2027 Engineering Intern - AI/ML &amp; Tool Innovation (SABRE Electroplating) - Masters/PhD (6 months)</a></td>
+<td>Tualatin, OR, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556323254">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/981d573f-6265-4937-a38a-c553a9cdcedf">Modular Engineering Internship – Summer 2027</a></td>
+<td>Los Altos, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721246663">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/debb3871-798e-4927-9733-35f4712715d3">Internship - IC Analog Design</a></td>

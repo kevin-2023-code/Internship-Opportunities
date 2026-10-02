@@ -5,9 +5,171 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-02T18:51:40.451Z",
-  "count": 850,
+  "listingsChangedAt": "2026-10-02T22:43:48.397Z",
+  "count": 858,
   "listings": [
+    {
+      "id": "ecb68fef-9661-4212-b0b4-237082b8930b",
+      "company": "Lyft",
+      "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
+      "locations": [
+        "Longueuil, Canada",
+        "Montreal Office"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
+      "url": "https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b",
+      "postedAt": "2026-10-02T19:58:27.000Z",
+      "updatedAt": "2026-10-02T19:58:27.000Z"
+    },
+    {
+      "id": "2be3375e-2540-46f0-9232-74dad5ae968c",
+      "company": "xAI",
+      "title": "Spring 2027 Software Engineering Internship/Co-op",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
+      "url": "https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c",
+      "postedAt": "2026-10-02T19:15:20.000Z",
+      "updatedAt": "2026-10-02T19:15:20.000Z"
+    },
+    {
+      "id": "c45d28fc-e2be-4175-8a59-1c338b3e96de",
+      "company": "Natera",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "US Remote",
+        "US - CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/natera/jobs/6188497004",
+      "url": "https://trueinterview.io/jobs/c45d28fc-e2be-4175-8a59-1c338b3e96de",
+      "postedAt": "2026-10-02T19:12:01.000Z",
+      "updatedAt": "2026-10-02T19:12:01.000Z"
+    },
+    {
+      "id": "2c7c80f3-cc0c-45ab-9e73-d903c81fa5c7",
+      "company": "Solink",
+      "title": "Software Engineer Co-op, Agents",
+      "locations": [
+        "Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application",
+      "url": "https://trueinterview.io/jobs/2c7c80f3-cc0c-45ab-9e73-d903c81fa5c7",
+      "postedAt": "2026-10-02T18:55:40.000Z",
+      "updatedAt": "2026-10-02T18:55:40.000Z"
+    },
+    {
+      "id": "ced1ffba-2409-40fe-b6d6-4bf454ea58eb",
+      "company": "C3.ai",
+      "title": "AI Product Manager - MBA Intern (Summer 2027)",
+      "locations": [
+        "Redwood City, California, United States",
+        "Redwood City, California"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
+      "url": "https://trueinterview.io/jobs/ced1ffba-2409-40fe-b6d6-4bf454ea58eb",
+      "postedAt": "2026-10-02T18:52:43.000Z",
+      "updatedAt": "2026-10-02T18:52:43.000Z"
+    },
+    {
+      "id": "2faab77d-7098-4122-81c1-2844264de754",
+      "company": "HarveyAI",
+      "title": "Software Engineering Intern (Winter 2027)",
+      "locations": [
+        "Toronto",
+        "New York",
+        "San Francisco"
+      ],
+      "cities": [
+        "Toronto, ON",
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application",
+      "url": "https://trueinterview.io/jobs/2faab77d-7098-4122-81c1-2844264de754",
+      "postedAt": "2026-10-02T17:00:57.000Z",
+      "updatedAt": "2026-10-02T17:00:57.000Z"
+    },
     {
       "id": "eb022e7b-44c4-424f-ab13-4014f8cc3013",
       "company": "IBM",
@@ -141,6 +303,33 @@
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
     {
+      "id": "a6324376-152e-4dbb-a9f9-d3003eda1924",
+      "company": "AMD",
+      "title": "Spring/Summer 2027 Masters Photonics Design Engineering Co-Op",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91633?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a6324376-152e-4dbb-a9f9-d3003eda1924",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
       "id": "9b1a498d-1a3c-4a44-91b0-f785ba144856",
       "company": "Hewlett Packard Enterprise",
       "title": "ASIC Engineering Intern",
@@ -216,6 +405,83 @@
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
     {
+      "id": "bfa5520c-fa83-4247-91ac-1b3e843e80d3",
+      "company": "Keysight",
+      "title": "R&D Software Engineering, Intern",
+      "locations": [
+        "Atlanta, Georgia, United States"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54388?lang=en-us",
+      "url": "https://trueinterview.io/jobs/bfa5520c-fa83-4247-91ac-1b3e843e80d3",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "a438c814-cf39-4f63-83c2-9b63052af5a4",
+      "company": "Lam Research",
+      "title": "2027 Engineering Intern - AI/ML & Tool Innovation (SABRE Electroplating) - Masters/PhD (6 months)",
+      "locations": [
+        "Tualatin, OR, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.lamresearch.com/careers/job/1099556323254",
+      "url": "https://trueinterview.io/jobs/a438c814-cf39-4f63-83c2-9b63052af5a4",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "5406e630-237a-4845-8c13-3ff6f7649f10",
+      "company": "Microsoft",
+      "title": "Data Science: AI Experiences PhD Internship Opportunities - Redmond",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
+      "url": "https://trueinterview.io/jobs/5406e630-237a-4845-8c13-3ff6f7649f10",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
       "id": "bb3f90ae-e0e6-4a22-8927-acea85b7ca49",
       "company": "Microsoft",
       "title": "Penetration Tester: Internship Opportunities",
@@ -237,6 +503,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556999327",
       "url": "https://trueinterview.io/jobs/bb3f90ae-e0e6-4a22-8927-acea85b7ca49",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "981d573f-6265-4937-a38a-c553a9cdcedf",
+      "company": "QUALCOMM",
+      "title": "Modular Engineering Internship – Summer 2027",
+      "locations": [
+        "Los Altos, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446721246663",
+      "url": "https://trueinterview.io/jobs/981d573f-6265-4937-a38a-c553a9cdcedf",
       "postedAt": "2026-10-02T00:00:00.000Z",
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
@@ -10058,34 +10349,6 @@
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
-      "id": "902abd29-6bd2-4c34-a001-38e9d614df69",
-      "company": "Cesiumastro",
-      "title": "Summer 2027 – Power Electronics Internship",
-      "locations": [
-        "Austin, TX",
-        "Westminster, CO"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/CesiumAstro/18d2c72e-30cd-4145-8b12-7db3a492d541/apply",
-      "url": "https://trueinterview.io/jobs/902abd29-6bd2-4c34-a001-38e9d614df69",
-      "postedAt": "2026-09-15T23:58:00.000Z",
-      "updatedAt": "2026-09-15T23:58:00.000Z"
-    },
-    {
       "id": "68415944-c068-4db1-9fc8-9395511b466e",
       "company": "Cesiumastro",
       "title": "Summer 2027 - GNC Internship",
@@ -17822,31 +18085,6 @@
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
     {
-      "id": "494489a6-a1e9-4b3b-a07c-74d8646d96f5",
-      "company": "Panasonic",
-      "title": "Intern - StoreConnect Digital Connectivity",
-      "locations": [
-        "Bridgeton, Missouri, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/50766?lang=en-us",
-      "url": "https://trueinterview.io/jobs/494489a6-a1e9-4b3b-a07c-74d8646d96f5",
-      "postedAt": "2026-09-02T00:00:00.000Z",
-      "updatedAt": "2026-09-02T00:00:00.000Z"
-    },
-    {
       "id": "924ef01c-4b81-4116-b6fe-cd3dfc87e200",
       "company": "Texas Instruments",
       "title": "Analog IC Design Engineering Intern - Bachelors",
@@ -22875,31 +23113,6 @@
       "url": "https://trueinterview.io/jobs/0372ff47-aaf0-4d4d-ac53-b670bef3f343",
       "postedAt": "2026-08-04T00:00:00.000Z",
       "updatedAt": "2026-08-04T00:00:00.000Z"
-    },
-    {
-      "id": "722ec9cc-105d-424e-8b70-7ff6fbdd77c0",
-      "company": "Calstart",
-      "title": "Graphic Design, Video & Motion Graphics Intern",
-      "locations": [
-        "Remote, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/calstart/28ed81bc-2f8d-499b-bc6a-ac62a9d0256a/apply",
-      "url": "https://trueinterview.io/jobs/722ec9cc-105d-424e-8b70-7ff6fbdd77c0",
-      "postedAt": "2026-08-03T21:23:39.000Z",
-      "updatedAt": "2026-08-03T21:23:39.000Z"
     }
   ]
 }

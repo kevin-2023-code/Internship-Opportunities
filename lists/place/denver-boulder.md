@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**34 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Westminster, CO<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.lever.co/CesiumAstro/e835c385-69b0-4faf-a82f-17bf61260286/apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/902abd29-6bd2-4c34-a001-38e9d614df69">Summer 2027 – Power Electronics Internship</a></td>
-<td>Westminster, CO<br/>Austin, TX</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/18d2c72e-30cd-4145-8b12-7db3a492d541/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

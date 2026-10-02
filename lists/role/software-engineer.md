@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**112 open roles.** 95 in the United States & Canada · 17 elsewhere in the world.
+**113 open roles.** 96 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Solink</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c7c80f3-cc0c-45ab-9e73-d903c81fa5c7">Software Engineer Co-op, Agents</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/97308e77-5efb-4e95-afb4-21afc7747141">Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)</a></td>

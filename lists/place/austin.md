@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**66 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Austin, Texas, United States of America<br/>RTP, North Carolina, US, United States of America<br/>+2 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Research-Engineer-I--Intern----United-States_2025886">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/902abd29-6bd2-4c34-a001-38e9d614df69">Summer 2027 – Power Electronics Internship</a></td>
-<td>Austin, TX<br/>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/18d2c72e-30cd-4145-8b12-7db3a492d541/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>

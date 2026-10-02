@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**11 open roles.** 7 in the United States & Canada · 4 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**12 open roles.** 8 in the United States & Canada · 4 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Natera</strong></td>
+<td><a href="https://trueinterview.io/jobs/c45d28fc-e2be-4175-8a59-1c338b3e96de">Software Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6188497004">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Genscript/probio</strong></td>
 <td><a href="https://trueinterview.io/jobs/5cfd1033-ccce-4607-b6a3-c5c5515314b6">AI Intern, Enterprise Agent Development</a></td>
