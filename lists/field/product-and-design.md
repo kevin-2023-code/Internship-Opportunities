@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**52 open roles.** 45 in the United States & Canada · 7 elsewhere in the world.
+**53 open roles.** 46 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dlr Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/12665aba-8310-45f7-a4ca-600d45848cf2">Lighting Design Intern | Summer 2027</a></td>
+<td>Denver, Colorado, United States<br/>Cleveland, Ohio, United States<br/>Las Vegas, Nevada, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441280008">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/d388f639-f8a0-474b-8f49-46a11e1f72cf">FY27 Intern - Digital Design Intern - Hod Hasharon</a></td>

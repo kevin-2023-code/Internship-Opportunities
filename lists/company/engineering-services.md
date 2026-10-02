@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**47 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**48 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Dlr Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/12665aba-8310-45f7-a4ca-600d45848cf2">Lighting Design Intern | Summer 2027</a></td>
+<td>Denver, Colorado, United States<br/>Cleveland, Ohio, United States<br/>Las Vegas, Nevada, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441280008">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/db6f861f-68e6-4547-b7fc-5c29840a0cf6">Mechanical Engineering Intern | Summer 2027</a></td>
 <td>Minneapolis, Minnesota, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008">Apply</a></td>
