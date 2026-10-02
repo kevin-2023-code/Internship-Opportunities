@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**259 open roles.** 231 in the United States & Canada · 28 elsewhere in the world.
+**256 open roles.** 228 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/97308e77-5efb-4e95-afb4-21afc7747141">Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb3f90ae-e0e6-4a22-8927-acea85b7ca49">Penetration Tester: Internship Opportunities</a></td>
@@ -1180,13 +1187,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Dropbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/699e0609-5e72-44dd-b8fd-d6d0072e74b1">Software Engineering Intern (Summer 2027)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/bffc4274-e15b-4162-b5f8-509fd2febe63">Internship - Test Engineer</a></td>
 <td>Leominster, MA, US</td>
@@ -1612,27 +1612,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43648429">Apply</a></td>
 <td align="center">4 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>SpaceX</strong></td>
-<td><a href="https://trueinterview.io/jobs/8495bc11-bbf8-4233-9c2b-94e12f0a7178">Summer 2027 Software Engineering Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Cape Canaveral, FL, United States<br/>+6 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a95cc452-d943-48c1-8516-7ac873348446">Summer 2027 Graduate Engineer Internship/Co-op</a></td>
-<td>Flexible - Any SpaceX Site<br/>Bastrop, TX, United States<br/>Bloomfield, CT, United States<br/>+10 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002">Apply</a></td>
-<td align="center">3 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cf881d3-699a-49ab-8e30-4e47e7267860">Software Engineering Internship - San Francisco</a></td>
-<td>San Francisco - SF9</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

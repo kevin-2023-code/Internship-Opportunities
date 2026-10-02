@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world.
+**23 open roles.** 19 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -162,6 +162,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/aeb6de69-81cd-4e20-a4af-ce33c1ce2256">Program Manager Intern DEU 2027</a></td>
+<td>DE, BY, Munich</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567838/program-manager-intern-deu-2027">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Rundoo</strong></td>
 <td><a href="https://trueinterview.io/jobs/850c8505-47ac-4f9b-b249-78432c0f1b57">Product Manager Intern</a></td>

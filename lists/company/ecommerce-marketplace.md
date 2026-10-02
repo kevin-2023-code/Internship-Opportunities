@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**27 open roles.** 25 in the United States & Canada · 2 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**30 open roles.** 26 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/97308e77-5efb-4e95-afb4-21afc7747141">Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8a16510c-bd9b-4922-a72e-27c96b04c516">2027 Applied Science Internship - United States - Master's Student Science Recruiting</a></td>
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting">Apply</a></td>
@@ -204,6 +211,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf6dcbca-fcf6-450e-a989-b5cf361f246d">2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition</a></td>
+<td>IL, Haifa<br/>IL, Tel Aviv<br/>ES, Barcelona<br/>+1 more</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567690/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aeb6de69-81cd-4e20-a4af-ce33c1ce2256">Program Manager Intern DEU 2027</a></td>
+<td>DE, BY, Munich</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567838/program-manager-intern-deu-2027">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/8461aa32-7a8f-4c7c-b372-98a3ce297201">Software Engineer Intern, Frontend (Summer 2027)</a></td>

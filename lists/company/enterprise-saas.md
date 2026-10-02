@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**48 open roles.** 43 in the United States & Canada · 5 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**47 open roles.** 42 in the United States & Canada · 5 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -275,13 +275,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Highlands Ranch, Colorado, United States<br/>US West</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rfsmart/jobs/5409034008">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dropbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/699e0609-5e72-44dd-b8fd-d6d0072e74b1">Software Engineering Intern (Summer 2027)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Isn Software Corporation</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**89 open roles.** 78 in the United States & Canada · 11 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**87 open roles.** 76 in the United States & Canada · 11 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -452,14 +452,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Dropbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/699e0609-5e72-44dd-b8fd-d6d0072e74b1">Software Engineering Intern (Summer 2027)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224">Apply</a></td>
-<td align="center">7 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4c26f85f-e242-46bb-b9c9-7226d778d6f0">Advanced Packaging Intern, MS - Summer 2027</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Chandler, AZ<br/>+3 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1">Apply</a></td>
@@ -555,13 +548,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cf881d3-699a-49ab-8e30-4e47e7267860">Software Engineering Internship - San Francisco</a></td>
-<td>San Francisco - SF9</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091">Apply</a></td>
-<td align="center">3 Aug 2026</td>
 </tr>
 </tbody>
 </table>

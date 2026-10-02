@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**422 open roles.** The giants: 10,000+ people, in a technology sector.
+**427 open roles.** 425 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@
 <tbody>
 <tr>
 <td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/80d4ab91-d067-4f8b-8f03-26c50ae9a945">2027 Undergrad Hardware Engineering intern/co-op</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90894?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b6d0cd1f-2a3a-4063-b626-b5514a6da6c5">2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90892?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4385e386-741f-4fef-9f76-ded5749a6ee3">2027 Undergrad Product Development Engineering Intern/Co-op</a></td>
+<td>Austin, TX<br/>San Jose, California, United States<br/>US, TX, Austin<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90790?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1b92d96e-6a6d-40ae-96ce-0c4cda725a62">2027 Undergrad Software Engineer Intern/Co-op</a></td>
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90891?lang=en-us">Apply</a></td>
@@ -168,6 +189,32 @@
 <td>1530 FM 973 Taylor, TX, USA, United States of America</td>
 <td align="center"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/XMLNAME-2027-Summer-Internship_R119158">Apply</a></td>
 <td align="center">4 Aug 2026</td>
+</tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf6dcbca-fcf6-450e-a989-b5cf361f246d">2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition</a></td>
+<td>IL, Haifa<br/>IL, Tel Aviv<br/>ES, Barcelona<br/>+1 more</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567690/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/aeb6de69-81cd-4e20-a4af-ce33c1ce2256">Program Manager Intern DEU 2027</a></td>
+<td>DE, BY, Munich</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567838/program-manager-intern-deu-2027">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

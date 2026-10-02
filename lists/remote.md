@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**18 open roles.** 15 in the United States & Canada · 3 elsewhere in the world. Postings the pipeline classified as remote.
+**17 open roles.** 14 in the United States & Canada · 3 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dropbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/699e0609-5e72-44dd-b8fd-d6d0072e74b1">Software Engineering Intern (Summer 2027)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224">Apply</a></td>
-<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DLB Associates</strong></td>
