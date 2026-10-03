@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**6 open roles.** 4 in the United States & Canada · 2 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**8 open roles.** 5 in the United States & Canada · 3 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb022e7b-44c4-424f-ab13-4014f8cc3013">AI/ML Engineer Spring Co-op</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=134091">Apply</a></td>
+<td><strong>Thinkingbox</strong></td>
+<td><a href="https://trueinterview.io/jobs/e90c0480-3592-4111-8813-04f31bd1517e">Motion Design Intern - The Heist (3-Month Contract, Potential for Full-Time)</a></td>
+<td>Chicago, IL<br/>Toronto, ON<br/>Vancouver, BC</td>
+<td align="center"><a href="https://jobs.lever.co/thinkingbox/421f75a6-f0cf-4f08-a749-fb195fd36cf7/apply">Apply</a></td>
 <td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/db0de5c7-edd6-41d9-8f38-e8926b332129">Data Scientist Intern 2027</a></td>
+<td>RESEARCH TRIANGLE PARK, US</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=134939">Apply</a></td>
+<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Megazone Cloud Us</strong></td>
@@ -57,6 +64,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Konrad</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4a06a42-d6c6-4d12-a687-71be0f46a15f">I Semester 2027 TEC - Software Developer Intern</a></td>
+<td>Costa Rica<br/>San José</td>
+<td align="center"><a href="https://www.konrad.com/careers/job/8009622003?gh_jid=8009622003">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Gallup</strong></td>
 <td><a href="https://trueinterview.io/jobs/b06ad3d3-2464-4438-80b2-73d07a8e6978">Product Design Intern — Summer 2027</a></td>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**29 open roles.** 26 in the United States & Canada · 3 elsewhere in the world.
+**31 open roles.** 26 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -211,6 +211,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/97340c15-89cf-4b47-806c-bac8f2b19465">(Physical) Security Specialist Intern -  2027 Internship</a></td>
+<td>ES, Huesca<br/>ES, Zaragoza<br/>FR, Paris</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a></td>
+<td>ES, Huesca<br/>ES, Zaragoza</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Compeer Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/252a43cd-a9e2-4d0e-9b86-d2d35e9675f5">Intern IT Operations</a></td>
