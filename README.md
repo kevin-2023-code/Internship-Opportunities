@@ -31,7 +31,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-03 07:24 UTC_
+_Last updated: 2026-10-03 16:55 UTC_
 
 **803 open internships** from **204 employers** · **154 posted in the last 7 days** · refreshed hourly
 
@@ -181,7 +181,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/a9902b5e-bb3b-4aa5-947f-d24a144eeda8">Software Engineering Intern - Summer 2027 (Remote)</a> 🆕</td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -593,7 +593,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/04753d31-2f75-4654-9709-505db9088cfe">Summer 2027: Finance Transformation &amp; Analytics Intern</a> 🆕</td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -663,14 +663,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/04b653c3-8e82-493a-aa34-e46335359b81">Data Analyst, Intern</a> 🆕</td>
 <td>New York, NY<br/>Seattle, Washington, United States<br/>San Francisco, California, United States<br/>+2 more</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8194291">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/db0de5c7-edd6-41d9-8f38-e8926b332129">Data Scientist Intern 2027</a> 🆕</td>
 <td>RESEARCH TRIANGLE PARK, US</td>
 <td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=134939">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Microsoft</strong></td>
@@ -705,7 +705,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/d128b8e7-c50f-4ce5-b3e1-fa574d16d4b0">Summer 2027 Internship - PhD Research Intern</a> 🆕</td>
 <td>USA - New York NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -963,7 +963,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/05974d86-8d20-4a00-9a8b-9c57a61317db">Aerodynamics &amp; Analysis Engineering Internship - Summer 2027</a> 🆕</td>
 <td>El Segundo, California, United States<br/>225 S Aviation</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010632003">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -1046,6 +1046,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Re:build Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/32c80643-4149-4ccc-9cc3-9484f4ffcaf7">Manufacturing Engineer Intern</a></td>
+<td>Merrimack, NH<br/>Re:Build DAPR Engineering</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4729848005">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/17c53ff9-ec02-423b-82b3-420685f0d670">Fall 2027 Masters Silicon Design Engineering Intern</a></td>
@@ -1389,13 +1396,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center"><a href="https://careers.micron.com/careers/job/44247229">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-<tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5608f22-3c76-411d-99d9-c06b505f1b7b">Intern - Reliability Engineering</a></td>
-<td>Bridgeton, Missouri, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50746?lang=en-us">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -1585,19 +1585,26 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/771f6685-8f58-4e55-968c-66b2392fb60e">Visual Design Co-op 2027</a></td>
 <td>Rochester, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca/application">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 </tbody>
 </table>
 
 <details>
-<summary>Show 8 more Product & Design roles posted earlier</summary>
+<summary>Show 9 more Product & Design roles posted earlier</summary>
 
 <table>
 <thead>
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Roblox</strong></td>
+<td><a href="https://trueinterview.io/jobs/f437e9cc-d69d-4a10-b1b2-71b3aa8e6dc4">[Summer 2027] Product Management Intern</a></td>
+<td>San Mateo, CA, United States</td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8143981?gh_jid=8143981">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
 <tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/574d1f01-0f66-43d6-90a5-e4f8cfc4a30c">Industrial Design Intern (Winter/Spring 2027)</a></td>
@@ -1659,7 +1666,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 33 of 43.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 34 of 43.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -1780,7 +1787,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/e95eb3d1-6a5d-476c-b1dc-8fcedac2e6f1">Network Production Engineer Intern</a></td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1412139847020398/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
@@ -1836,7 +1843,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/b94a1efd-a0fd-43ef-b356-0a6467e0c2d4">Security Risk Management Intern (Summer 2027)</a></td>
 <td>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970">Apply</a></td>
-<td align="center">16d</td>
+<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
