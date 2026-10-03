@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**30 open roles.** 26 in the United States & Canada · 4 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**32 open roles.** 28 in the United States & Canada · 4 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -75,6 +75,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b94a1efd-a0fd-43ef-b356-0a6467e0c2d4">Security Risk Management Intern (Summer 2027)</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/048a5ebc-d808-458c-8135-6e7de30ea082">Brokerage Risk Analyst Intern (Summer 2027)</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src=&amp;gh_jid=8198223">Apply</a></td>
@@ -99,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a></td>
 <td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7d6e94a-41b3-437b-82e0-80863a86c873">Business Analyst Intern (Summer 2027)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&amp;gh_jid=8123238">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**430 open roles.** 428 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**437 open roles.** 435 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,56 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ecb6c0a-022e-46ba-ab58-067f2fc804c3">Process Sustaining Engineering Intern</a></td>
+<td>US, MA, Chelmsford, Alpha, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/33f8f8d6-4234-49c3-a97e-c8835d560853">Research Scientist Intern, Optical System Design (PhD)</a></td>
+<td>Redmond, WA, United States<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1796691991338568/">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef7622d7-76d1-4f06-9987-ffa45f4ca598">2027 Masters Data Analyst Intern/co-op</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91179?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/69cfa22b-1952-46c5-b5c9-158c35cba1f1">2027 Masters Firmware Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90809?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/30cb68b6-f9c0-4c8e-9d8f-eb0f78b12a21">2027 Masters Firmware Engineering Intern/Co-op</a></td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90805?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/926247d3-5e72-4776-b094-dc5de1ac2981">2027 Masters Hardware Design Verification Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90810?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/208fb5a1-8502-4cbe-a7ad-74d539956c7f">2027 Masters Hardware Design Verification Engineering Intern/Co-op</a></td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90813?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30de5bab-7988-4bc9-b56c-7cc4d08e29d5">2027 Masters Hardware Engineering intern/co-op</a></td>
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91178?lang=en-us">Apply</a></td>

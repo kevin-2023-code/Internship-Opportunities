@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**44 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,6 +134,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e2011877-520a-476a-a26d-446e4ff4e84e">Software Engineering Intern, 2028 Grads</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Datadog</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7d12277-18f3-4763-9212-40c23679d1c4">Research Science Intern (PhD)</a></td>
+<td>New York, NY<br/>New York, New York, USA<br/>Pittsburgh, Pennsylvania, USA</td>
+<td align="center"><a href="https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

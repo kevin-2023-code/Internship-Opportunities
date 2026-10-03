@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**90 open roles.** 79 in the United States & Canada · 11 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**93 open roles.** 82 in the United States & Canada · 11 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -249,6 +249,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Robinhood</strong></td>
+<td><a href="https://trueinterview.io/jobs/b94a1efd-a0fd-43ef-b356-0a6467e0c2d4">Security Risk Management Intern (Summer 2027)</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Datadog</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7d12277-18f3-4763-9212-40c23679d1c4">Research Science Intern (PhD)</a></td>
+<td>New York, NY<br/>New York, New York, USA<br/>Pittsburgh, Pennsylvania, USA</td>
+<td align="center"><a href="https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Grammarly</strong></td>
 <td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
 <td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
@@ -281,6 +295,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e5c6385-24f4-4d04-9569-51c1585ecd02">Software Engineering Intern, iOS (Summer 2027)</a></td>
 <td>New York, NY<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&amp;gh_jid=8142959">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7d6e94a-41b3-437b-82e0-80863a86c873">Business Analyst Intern (Summer 2027)</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&amp;gh_jid=8123238">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

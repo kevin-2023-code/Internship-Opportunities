@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**16 open roles.** 3 in the United States & Canada · 13 elsewhere in the world.
+**17 open roles.** 3 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -70,6 +70,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Graham Capital Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebf6c784-70db-498d-b888-1d5d83183a8b">2027 Graham Capital Summer Internship – London</a></td>
+<td>London, England, United Kingdom<br/>London, UK</td>
+<td align="center"><a href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>

@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
+**11 open roles.** 10 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,6 +51,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States<br/>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92518?lang=en-us">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/b66e02bb-2bd0-4a2c-b8da-7200115527d9">Information Technology Intern – Data Engineering</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017978">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Coinbase</strong></td>

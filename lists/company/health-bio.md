@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**12 open roles.** 8 in the United States & Canada · 4 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**13 open roles.** 8 in the United States & Canada · 5 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -94,6 +94,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Trexo Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e67613ae-0fec-4ff7-81ba-e50e31f37181">Design and Test Intern / Co-op Winter 2027</a></td>
+<td>Mississauga</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/45f6f5aa-02a9-40c7-9e5c-4fcbd93a575e/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/92159811-3be1-4b22-a052-726754c9a172">Forward Deployed Engineering Intern / Co-op Winter 2027</a></td>
 <td>Mississauga</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/9504015b-bd4b-415c-8cf4-70015b84f873/application">Apply</a></td>

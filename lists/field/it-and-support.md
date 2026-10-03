@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**31 open roles.** 26 in the United States & Canada · 5 elsewhere in the world.
+**33 open roles.** 28 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -116,6 +116,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Robinhood</strong></td>
+<td><a href="https://trueinterview.io/jobs/b94a1efd-a0fd-43ef-b356-0a6467e0c2d4">Security Risk Management Intern (Summer 2027)</a></td>
+<td>Menlo Park, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/0562979c-2be1-41ce-89b1-6af9cfee7b8b">Information Technology Intern</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, WA, Camas</td>
@@ -134,6 +141,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5147b6e8-c8ee-464b-a445-0c376621b107">Intern - Modern Workplace Analyst, Winter 2027</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/eqbank/53d0826c-baeb-4ba6-87e5-7d6d416c1da7/apply">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4dfdebd-a4d1-4aa4-8b20-c19c43934cf5">Dell Technologies Presales Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298213">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

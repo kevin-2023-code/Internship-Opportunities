@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**131 open roles.** 126 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**133 open roles.** 128 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -516,6 +516,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec6e3fa6-0481-44ce-8b7a-e364d1a1d004">Dell Technologies Services Undergraduate Analytics Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299074">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b05ffb50-f9a2-49e1-9ce4-5b0ba777684f">Dell Technologies Services Undergraduate Engineering   Intern</a></td>
 <td>TX, United States<br/>Hopkinton, MA, United States</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299088">Apply</a></td>
@@ -568,6 +575,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/11f4fb7c-d43b-4725-9187-88d852e34752">Software Engineer Intern</a></td>
 <td>Wichita, Kansas, United States</td>
 <td align="center"><a href="https://careers.netapp.com/job/wichita/software-engineer-intern/27600/97792631792">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4dfdebd-a4d1-4aa4-8b20-c19c43934cf5">Dell Technologies Presales Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298213">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

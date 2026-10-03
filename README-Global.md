@@ -18,21 +18,21 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-03 01:36 UTC_
+_Last updated: 2026-10-03 07:24 UTC_
 
-**69 open internships** from **41 employers** · **12 posted in the last 7 days** · refreshed hourly
+**72 open internships** from **43 employers** · **12 posted in the last 7 days** · refreshed hourly
 
-### Browse 69 internships by field
+### Browse 72 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (29)
+💻 **[Software Engineering](#-software-engineering)** (28)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (5)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (11)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (14)
 
 📱 **[Product & Design](#-product--design)** (7)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (12)
+📈 **[Quantitative Finance](#-quantitative-finance)** (13)
 
 🧰 **[IT & Support](#-it--support)** (5)
 
@@ -42,11 +42,11 @@ _Last updated: 2026-10-03 01:36 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (11)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🏢 Enterprise & business software (5)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🚗 Autonomy, automotive & mobility (4)](lists/company/autonomy-mobility.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (4)](lists/company/fintech.md) · [+8 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (11)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🏢 Enterprise & business software (5)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🧬 Health, biotech & medical devices (5)](lists/company/health-bio.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🚀 Aerospace & defence (4)](lists/company/aerospace-defense.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [+8 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (18)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (1)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (18)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (1)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
-📍 **By location** — [🇬🇧 London & the UK (13)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (6)](lists/place/anz.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
+📍 **By location** — [🇬🇧 London & the UK (14)](lists/place/uk.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (6)](lists/place/anz.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (12)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
 
@@ -133,13 +133,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
 <td align="center">16d</td>
-</tr>
-<tr>
-<td><strong>Gecko Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/d59f73a1-36ad-4bb2-850e-809fa2958094">Embedded Software Engineering Intern</a></td>
-<td>Pittsburgh</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application">Apply</a></td>
-<td align="center">17d</td>
 </tr>
 <tr>
 <td><strong>Trexo Robotics</strong></td>
@@ -392,7 +385,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16d</td>
 </tr>
 <tr>
+<td><strong>Gecko Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/d59f73a1-36ad-4bb2-850e-809fa2958094">Embedded Software Engineering Intern</a></td>
+<td>Pittsburgh</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application">Apply</a></td>
+<td align="center">17d</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa184794-c27c-4487-9d60-850ee3b974ec">Camera &amp; Imaging Intern</a></td>
+<td>Tampere, Finland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94/application">Apply</a></td>
+<td align="center">18d</td>
+</tr>
+<tr>
 <td><strong>Trexo Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e67613ae-0fec-4ff7-81ba-e50e31f37181">Design and Test Intern / Co-op Winter 2027</a></td>
+<td>Mississauga</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/45f6f5aa-02a9-40c7-9e5c-4fcbd93a575e/application">Apply</a></td>
+<td align="center">21d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/43a04e7c-20cc-40ee-9d73-1d857fe9659b">Mechatronics Intern / Co-op Winter 2027</a></td>
 <td>Mississauga</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/b9bd8b65-a668-42c3-8cf4-9450f91ad342/application">Apply</a></td>
@@ -565,6 +579,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16d</td>
 </tr>
 <tr>
+<td><strong>Graham Capital Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/ebf6c784-70db-498d-b888-1d5d83183a8b">2027 Graham Capital Summer Internship – London</a></td>
+<td>London, England, United Kingdom<br/>London, UK</td>
+<td align="center"><a href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005">Apply</a></td>
+<td align="center">18d</td>
+</tr>
+<tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/729e56aa-6411-4a03-adce-f5f373b30f83">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Singapore</a></td>
 <td>Singapore</td>
@@ -659,14 +680,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/97340c15-89cf-4b47-806c-bac8f2b19465">(Physical) Security Specialist Intern -  2027 Internship</a> 🆕</td>
 <td>ES, Huesca<br/>ES, Zaragoza<br/>FR, Paris</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a> 🆕</td>
 <td>ES, Huesca<br/>ES, Zaragoza</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Compeer Financial</strong></td>

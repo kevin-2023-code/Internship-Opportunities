@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**13 open roles.** 9 in the United States & Canada · 4 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**14 open roles.** 9 in the United States & Canada · 5 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -112,6 +112,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70405">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa184794-c27c-4487-9d60-850ee3b974ec">Camera &amp; Imaging Intern</a></td>
+<td>Tampere, Finland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Pyka</strong></td>

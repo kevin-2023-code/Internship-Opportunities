@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-03T01:36:54.623Z",
-  "count": 862,
+  "listingsChangedAt": "2026-10-03T07:24:06.456Z",
+  "count": 875,
   "listings": [
     {
       "id": "772fb6c9-4378-40ed-907a-2fde9eec2a8f",
@@ -567,7 +567,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -592,7 +592,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -666,9 +666,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -693,9 +693,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -719,7 +719,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -778,6 +778,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556999327",
       "url": "https://trueinterview.io/jobs/bb3f90ae-e0e6-4a22-8927-acea85b7ca49",
+      "postedAt": "2026-10-02T00:00:00.000Z",
+      "updatedAt": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "id": "05970b35-e7e0-4107-a016-fbf9ecedc699",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, Embodied and Agentic AI - 2027",
+      "locations": [
+        "Santa Clara, CA, US",
+        "CA,US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397725773",
+      "url": "https://trueinterview.io/jobs/05970b35-e7e0-4107-a016-fbf9ecedc699",
       "postedAt": "2026-10-02T00:00:00.000Z",
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
@@ -9838,7 +9864,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -10032,7 +10058,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -10156,6 +10182,31 @@
       "updatedAt": "2026-09-16T16:01:30.000Z"
     },
     {
+      "id": "b94a1efd-a0fd-43ef-b356-0a6467e0c2d4",
+      "company": "Robinhood",
+      "title": "Security Risk Management Intern (Summer 2027)",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&gh_jid=8207970",
+      "url": "https://trueinterview.io/jobs/b94a1efd-a0fd-43ef-b356-0a6467e0c2d4",
+      "postedAt": "2026-09-16T14:59:41.000Z",
+      "updatedAt": "2026-09-16T14:59:41.000Z"
+    },
+    {
       "id": "9198d075-4b5b-476c-948f-2c383fbd4b4f",
       "company": "Cesiumastro",
       "title": "Summer 2027 - Electrical Engineering Internship, RF",
@@ -10182,6 +10233,33 @@
       "url": "https://trueinterview.io/jobs/9198d075-4b5b-476c-948f-2c383fbd4b4f",
       "postedAt": "2026-09-16T00:00:12.000Z",
       "updatedAt": "2026-09-16T00:00:12.000Z"
+    },
+    {
+      "id": "b720ffdf-5133-43b9-b4ca-a65c74bc2338",
+      "company": "Amazon",
+      "title": "Customer Solutions Manager Intern, AWSI - 2027",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10550549/customer-solutions-manager-intern-awsi-2027",
+      "url": "https://trueinterview.io/jobs/b720ffdf-5133-43b9-b4ca-a65c74bc2338",
+      "postedAt": "2026-09-16T00:00:00.000Z",
+      "updatedAt": "2026-09-16T00:00:00.000Z"
     },
     {
       "id": "5fd1f292-17cd-49a3-9895-5df5b432c246",
@@ -10257,7 +10335,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -10310,9 +10388,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Data & AI",
       "family": "Software",
-      "role": "Other",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -10338,9 +10416,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -10422,7 +10500,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -10630,7 +10708,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -10705,11 +10783,11 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Full-Stack Engineer",
+      "seniority": "senior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "1point3acres",
@@ -10837,9 +10915,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -10890,7 +10968,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -10915,9 +10993,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -10981,6 +11059,36 @@
       "updatedAt": "2026-09-15T17:36:24.000Z"
     },
     {
+      "id": "a7d12277-18f3-4763-9212-40c23679d1c4",
+      "company": "Datadog",
+      "title": "Research Science Intern (PhD)",
+      "locations": [
+        "New York, New York, USA",
+        "Pittsburgh, Pennsylvania, USA",
+        "New York, NY, United States",
+        "Pittsburgh, Pennsylvania, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+      "url": "https://trueinterview.io/jobs/a7d12277-18f3-4763-9212-40c23679d1c4",
+      "postedAt": "2026-09-15T17:30:59.000Z",
+      "updatedAt": "2026-09-15T17:30:59.000Z"
+    },
+    {
       "id": "28a49374-3f50-4880-a234-65e30f863a99",
       "company": "Anduril Industries",
       "title": "Winter 2027 Electrical Engineer Co-op",
@@ -11018,9 +11126,9 @@
       "cities": [],
       "countries": [],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11140,6 +11248,59 @@
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
     {
+      "id": "d138309b-6230-4709-a3a3-2328eecb08ca",
+      "company": "Analog Devices",
+      "title": "Product Applications Intern",
+      "locations": [
+        "US, MA, Wilmington",
+        "US, CA, San Jose, Rio Robles",
+        "US, NC, Durham",
+        "US, MA, Wilmington, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Applications-Intern_R266140",
+      "url": "https://trueinterview.io/jobs/d138309b-6230-4709-a3a3-2328eecb08ca",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "ec6e3fa6-0481-44ce-8b7a-e364d1a1d004",
+      "company": "Dell",
+      "title": "Dell Technologies Services Undergraduate Analytics Intern",
+      "locations": [
+        "TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/299074",
+      "url": "https://trueinterview.io/jobs/ec6e3fa6-0481-44ce-8b7a-e364d1a1d004",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
       "id": "b05ffb50-f9a2-49e1-9ce4-5b0ba777684f",
       "company": "Dell",
       "title": "Dell Technologies Services Undergraduate Engineering   Intern",
@@ -11153,7 +11314,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11178,7 +11339,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -11480,9 +11641,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11490,6 +11651,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017978",
       "url": "https://trueinterview.io/jobs/b66e02bb-2bd0-4a2c-b8da-7200115527d9",
+      "postedAt": "2026-09-15T00:00:00.000Z",
+      "updatedAt": "2026-09-15T00:00:00.000Z"
+    },
+    {
+      "id": "d3f18fe1-7c6e-4abe-a4b3-b6da58f5239b",
+      "company": "Texas Instruments",
+      "title": "Information Technology Intern – Security",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626",
+      "url": "https://trueinterview.io/jobs/d3f18fe1-7c6e-4abe-a4b3-b6da58f5239b",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
@@ -11582,6 +11768,34 @@
       "updatedAt": "2026-09-14T22:51:00.000Z"
     },
     {
+      "id": "ebf6c784-70db-498d-b888-1d5d83183a8b",
+      "company": "Graham Capital Management",
+      "title": "2027 Graham Capital Summer Internship – London",
+      "locations": [
+        "London, England, United Kingdom",
+        "London, UK"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005",
+      "url": "https://trueinterview.io/jobs/ebf6c784-70db-498d-b888-1d5d83183a8b",
+      "postedAt": "2026-09-14T22:24:27.000Z",
+      "updatedAt": "2026-09-14T22:24:27.000Z"
+    },
+    {
       "id": "90760489-e880-4943-8229-05bb312ce8e8",
       "company": "Opengov",
       "title": "Product Intern",
@@ -11642,6 +11856,31 @@
       "url": "https://trueinterview.io/jobs/5a9a9438-8cba-4064-9a01-e05f55ce72ad",
       "postedAt": "2026-09-14T21:59:56.000Z",
       "updatedAt": "2026-09-14T21:59:56.000Z"
+    },
+    {
+      "id": "fa184794-c27c-4487-9d60-850ee3b974ec",
+      "company": "Skydio",
+      "title": "Camera & Imaging Intern",
+      "locations": [
+        "Tampere, Finland"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/aabcda71-f098-4c42-a094-46dc9d832c94/application",
+      "url": "https://trueinterview.io/jobs/fa184794-c27c-4487-9d60-850ee3b974ec",
+      "postedAt": "2026-09-14T21:44:49.000Z",
+      "updatedAt": "2026-09-14T21:44:49.000Z"
     },
     {
       "id": "a3b5fe49-37ab-4272-9bd2-62305b6fcf07",
@@ -11955,9 +12194,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11984,7 +12223,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -11995,6 +12234,33 @@
       "url": "https://trueinterview.io/jobs/eef8cdd0-166f-4c11-bfbe-504627de3ba8",
       "postedAt": "2026-09-14T16:14:44.000Z",
       "updatedAt": "2026-09-14T16:14:44.000Z"
+    },
+    {
+      "id": "f954ff71-428f-48ba-befa-248b05d5d022",
+      "company": "SAP",
+      "title": "SAP iXp Intern - AI Research PhD Associate",
+      "locations": [
+        "Palo Alto, CA, US, 94304"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Research-PhD-Associate-CA-94304/1380808333/",
+      "url": "https://trueinterview.io/jobs/f954ff71-428f-48ba-befa-248b05d5d022",
+      "postedAt": "2026-09-14T14:43:10.000Z",
+      "updatedAt": "2026-09-14T14:43:10.000Z"
     },
     {
       "id": "67887952-1555-413b-b3d0-83db67838cd5",
@@ -12328,6 +12594,33 @@
       "updatedAt": "2026-09-14T12:00:09.000Z"
     },
     {
+      "id": "d7d6e94a-41b3-437b-82e0-80863a86c873",
+      "company": "Robinhood",
+      "title": "Business Analyst Intern (Summer 2027)",
+      "locations": [
+        "Washington, DC"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238",
+      "url": "https://trueinterview.io/jobs/d7d6e94a-41b3-437b-82e0-80863a86c873",
+      "postedAt": "2026-09-14T12:00:08.000Z",
+      "updatedAt": "2026-09-14T12:00:08.000Z"
+    },
+    {
       "id": "60c5fea1-856c-484d-8805-1eaaec977518",
       "company": "Robinhood",
       "title": "Software Engineering Intern, Backend (Summer 2027)",
@@ -12372,9 +12665,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12414,6 +12707,31 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
+      "id": "f4dfdebd-a4d1-4aa4-8b20-c19c43934cf5",
+      "company": "Dell",
+      "title": "Dell Technologies Presales Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298213",
+      "url": "https://trueinterview.io/jobs/f4dfdebd-a4d1-4aa4-8b20-c19c43934cf5",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
       "id": "e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88",
       "company": "Intel",
       "title": "System Technology Research Engineer - (PhD Intern)",
@@ -12429,7 +12747,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
@@ -12545,6 +12863,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1",
       "url": "https://trueinterview.io/jobs/15445053-6c9a-46bc-b8b0-27ff4e49edae",
+      "postedAt": "2026-09-14T00:00:00.000Z",
+      "updatedAt": "2026-09-14T00:00:00.000Z"
+    },
+    {
+      "id": "ee93e121-c108-4f70-a960-4b47af1d4b20",
+      "company": "Micron Technology",
+      "title": "Intern - Clock Design & Architecture, Intern",
+      "locations": [
+        "Richardson, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44449183",
+      "url": "https://trueinterview.io/jobs/ee93e121-c108-4f70-a960-4b47af1d4b20",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
@@ -12700,7 +13043,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
+      "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12755,7 +13098,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "AI Engineer",
+      "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -12861,6 +13204,29 @@
       "url": "https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b",
       "postedAt": "2026-09-11T21:37:01.000Z",
       "updatedAt": "2026-09-11T21:37:01.000Z"
+    },
+    {
+      "id": "e67613ae-0fec-4ff7-81ba-e50e31f37181",
+      "company": "Trexo Robotics",
+      "title": "Design and Test Intern / Co-op Winter 2027",
+      "locations": [
+        "Mississauga"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/trexo%20robotics/45f6f5aa-02a9-40c7-9e5c-4fcbd93a575e/application",
+      "url": "https://trueinterview.io/jobs/e67613ae-0fec-4ff7-81ba-e50e31f37181",
+      "postedAt": "2026-09-11T20:48:31.000Z",
+      "updatedAt": "2026-09-11T20:48:31.000Z"
     },
     {
       "id": "92159811-3be1-4b22-a052-726754c9a172",
@@ -20811,31 +21177,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
       "url": "https://trueinterview.io/jobs/5fac03be-85fb-4a81-9f8c-4c0d1534982d",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "5e1c2e3f-fa3c-4ae6-8e46-08dfeb9833cd",
-      "company": "Micron Technology",
-      "title": "Intern - Marketing Analytics",
-      "locations": [
-        "Meridian, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44138252",
-      "url": "https://trueinterview.io/jobs/5e1c2e3f-fa3c-4ae6-8e46-08dfeb9833cd",
       "postedAt": "2026-08-27T00:00:00.000Z",
       "updatedAt": "2026-08-27T00:00:00.000Z"
     },
