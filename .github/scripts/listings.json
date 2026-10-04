@@ -5,9 +5,60 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-04T09:12:08.291Z",
-  "count": 895,
+  "listingsChangedAt": "2026-10-04T22:09:01.368Z",
+  "count": 897,
   "listings": [
+    {
+      "id": "d9f6f3d9-39b1-49ab-9193-f3204926df5d",
+      "company": "Taboola",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Tel Aviv, Israel"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.taboola.com/careers/job/8229871?gh_jid=8229871",
+      "url": "https://trueinterview.io/jobs/d9f6f3d9-39b1-49ab-9193-f3204926df5d",
+      "postedAt": "2026-10-04T20:14:19.000Z",
+      "updatedAt": "2026-10-04T20:14:19.000Z"
+    },
+    {
+      "id": "8c491577-e2f3-4218-995d-ab02002e73ed",
+      "company": "Tobogganlabs",
+      "title": "Stagiaire en science des données -- Data Science Intern",
+      "locations": [
+        "Montréal, Quebec, Canada",
+        "Montréal – Toboggan Labs"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003",
+      "url": "https://trueinterview.io/jobs/8c491577-e2f3-4218-995d-ab02002e73ed",
+      "postedAt": "2026-10-04T16:28:11.000Z",
+      "updatedAt": "2026-10-04T16:28:11.000Z"
+    },
     {
       "id": "772fb6c9-4378-40ed-907a-2fde9eec2a8f",
       "company": "Muon Space",
