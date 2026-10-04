@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**48 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -247,6 +247,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Columbia, SC<br/>Columbia, South Carolina</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5418204008">Apply</a></td>
 <td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/d472c39f-fa1e-4f05-89ab-5744775b1002">Internship - Analog Design</a></td>
+<td>Morrisville, NC, US<br/>NC, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971599212">Apply</a></td>
+<td align="center">7 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-04T02:18:12.592Z",
-  "count": 886,
+  "listingsChangedAt": "2026-10-04T09:12:08.291Z",
+  "count": 895,
   "listings": [
     {
       "id": "772fb6c9-4378-40ed-907a-2fde9eec2a8f",
@@ -4093,31 +4093,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.na.panasonic.com/jobs/51278?lang=en-us",
       "url": "https://trueinterview.io/jobs/09bb5964-2c6f-4e8f-afd3-bb1b012422c2",
-      "postedAt": "2026-09-28T00:00:00.000Z",
-      "updatedAt": "2026-09-28T00:00:00.000Z"
-    },
-    {
-      "id": "6dce90fd-dad0-47c5-9102-a6f303872183",
-      "company": "Texas Instruments",
-      "title": "Digital Design Verification Engineering Intern",
-      "locations": [
-        "Santa Clara, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
-      "url": "https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183",
       "postedAt": "2026-09-28T00:00:00.000Z",
       "updatedAt": "2026-09-28T00:00:00.000Z"
     },
@@ -17066,6 +17041,32 @@
       "updatedAt": "2026-09-07T00:00:00.000Z"
     },
     {
+      "id": "d472c39f-fa1e-4f05-89ab-5744775b1002",
+      "company": "Infineon",
+      "title": "Internship - Analog Design",
+      "locations": [
+        "Morrisville, NC, US",
+        "NC,US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.infineon.com/careers/job/563808971599212",
+      "url": "https://trueinterview.io/jobs/d472c39f-fa1e-4f05-89ab-5744775b1002",
+      "postedAt": "2026-09-07T00:00:00.000Z",
+      "updatedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
       "id": "bffc4274-e15b-4162-b5f8-509fd2febe63",
       "company": "Infineon",
       "title": "Internship - Test Engineer",
@@ -17077,9 +17078,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -17240,9 +17241,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -17327,7 +17328,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -17408,9 +17409,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -17437,7 +17438,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -17464,7 +17465,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -17491,7 +17492,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -17554,6 +17555,32 @@
       "url": "https://trueinterview.io/jobs/8e5ff93f-6bb6-4868-a95f-991e2c94e195",
       "postedAt": "2026-09-04T19:06:51.000Z",
       "updatedAt": "2026-09-04T19:06:51.000Z"
+    },
+    {
+      "id": "ce93d10f-7969-4561-afac-5250f88d08b0",
+      "company": "Zipline",
+      "title": "Aircraft Software Integration Intern (Summer 2027)",
+      "locations": [
+        "South San Francisco, California, USA",
+        "Aviary - SSF"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+      "url": "https://trueinterview.io/jobs/ce93d10f-7969-4561-afac-5250f88d08b0",
+      "postedAt": "2026-09-04T19:04:08.000Z",
+      "updatedAt": "2026-09-04T19:04:08.000Z"
     },
     {
       "id": "8d918423-bd3d-4dda-8492-155b17a0828f",
@@ -18052,6 +18079,34 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "f1191dba-f477-4692-9ca8-9e27952271e3",
+      "company": "Marvell Technology",
+      "title": "Functional Validation Intern, BS - Summer 2027",
+      "locations": [
+        "Westborough, MA",
+        "Boise, ID",
+        "Santa Clara, CA",
+        "Westborough, MA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1",
+      "url": "https://trueinterview.io/jobs/f1191dba-f477-4692-9ca8-9e27952271e3",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "a71d54c7-eefb-4dad-b896-4809235ffd26",
       "company": "Marvell Technology",
       "title": "Ph.D. Intern - Analog, Mixed Signal & Circuit Design",
@@ -18173,6 +18228,31 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
+      "id": "c3c9454d-bd28-464b-a37e-2e08b14d4775",
+      "company": "Nokia",
+      "title": "Optical Test Co-Op",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023",
+      "url": "https://trueinterview.io/jobs/c3c9454d-bd28-464b-a37e-2e08b14d4775",
+      "postedAt": "2026-09-04T00:00:00.000Z",
+      "updatedAt": "2026-09-04T00:00:00.000Z"
+    },
+    {
       "id": "5c403c52-cf29-43db-91e0-35f460397ac8",
       "company": "Albireo Energy",
       "title": "Controls Engineer Intern - HVAC Controls",
@@ -18210,7 +18290,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -18298,6 +18378,35 @@
       "url": "https://trueinterview.io/jobs/2708ad7d-bcc9-4418-8975-6377ef573e0a",
       "postedAt": "2026-09-03T16:08:04.000Z",
       "updatedAt": "2026-09-03T16:08:04.000Z"
+    },
+    {
+      "id": "f17f8ba7-469c-4cfe-a24d-25019abe5023",
+      "company": "DoorDash",
+      "title": "Product Design, Intern (Summer 2027)",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
+      "url": "https://trueinterview.io/jobs/f17f8ba7-469c-4cfe-a24d-25019abe5023",
+      "postedAt": "2026-09-03T15:58:00.000Z",
+      "updatedAt": "2026-09-03T15:58:00.000Z"
     },
     {
       "id": "2e538a86-7c13-4b3d-b30d-fd4efeb68a04",
@@ -18436,6 +18545,31 @@
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },
     {
+      "id": "e056c759-0ddd-490a-babe-e51a43b612fc",
+      "company": "Micron Technology",
+      "title": "Intern - Technician, Fab Equipment",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44358885",
+      "url": "https://trueinterview.io/jobs/e056c759-0ddd-490a-babe-e51a43b612fc",
+      "postedAt": "2026-09-03T00:00:00.000Z",
+      "updatedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
       "id": "45deb8fa-28b6-4665-b4df-8f37d5e64c9a",
       "company": "Wsp",
       "title": "Intern, Transportation Planning",
@@ -18504,7 +18638,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Hardware & Engineering",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -18556,9 +18690,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -18579,9 +18713,9 @@
       "cities": [],
       "countries": [],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -18591,6 +18725,32 @@
       "url": "https://trueinterview.io/jobs/cb76d489-3a82-49b9-86b3-28951e62fbd4",
       "postedAt": "2026-09-02T20:18:40.000Z",
       "updatedAt": "2026-09-02T20:18:40.000Z"
+    },
+    {
+      "id": "e9d771b4-43e0-49e1-ae8c-57114cd61f51",
+      "company": "Vestmark, Inc",
+      "title": "Training and Tech Pubs Intern",
+      "locations": [
+        "Wakefield, MA (on-site)",
+        "Wakefield, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/vestmark/jobs/8172029",
+      "url": "https://trueinterview.io/jobs/e9d771b4-43e0-49e1-ae8c-57114cd61f51",
+      "postedAt": "2026-09-02T20:16:09.000Z",
+      "updatedAt": "2026-09-02T20:16:09.000Z"
     },
     {
       "id": "202101ae-ae53-43a6-95c3-ca20f387600e",
@@ -18663,7 +18823,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -18795,7 +18955,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -18830,6 +18990,91 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408",
       "url": "https://trueinterview.io/jobs/9c64d2b9-26f9-4843-9a16-a8b1c0ccb031",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "c0bdb31b-9531-4ea8-91eb-7ed1a672bb34",
+      "company": "Intel",
+      "title": "Facilities Services - Intern, Bachelor’s",
+      "locations": [
+        "US, Oregon, Hillsboro",
+        "US, California, Folsom",
+        "US, California, Santa Clara",
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Bachelor-s_JR0286826",
+      "url": "https://trueinterview.io/jobs/c0bdb31b-9531-4ea8-91eb-7ed1a672bb34",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "b0a849e9-0335-4285-a5b0-b66d7469f3b3",
+      "company": "Intel",
+      "title": "Manufacturing and Process Development - Intern, Bachelor’s",
+      "locations": [
+        "US, Oregon, Hillsboro",
+        "US, New Mexico, Albuquerque",
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Bachelor-s_JR0286825",
+      "url": "https://trueinterview.io/jobs/b0a849e9-0335-4285-a5b0-b66d7469f3b3",
+      "postedAt": "2026-09-02T00:00:00.000Z",
+      "updatedAt": "2026-09-02T00:00:00.000Z"
+    },
+    {
+      "id": "c6e19348-780e-4e18-9df8-02c5d91ef808",
+      "company": "Intel",
+      "title": "Manufacturing and Process Development - Intern, Graduate",
+      "locations": [
+        "US, Oregon, Hillsboro",
+        "US, New Mexico, Albuquerque",
+        "US, Arizona, Phoenix",
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Manufacturing-and-Process-Development---Intern--Graduate_JR0286833",
+      "url": "https://trueinterview.io/jobs/c6e19348-780e-4e18-9df8-02c5d91ef808",
       "postedAt": "2026-09-02T00:00:00.000Z",
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
@@ -18970,9 +19215,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -19110,7 +19355,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -19217,9 +19462,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -19269,7 +19514,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",

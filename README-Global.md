@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-04 02:18 UTC_
+_Last updated: 2026-10-04 09:12 UTC_
 
 **73 open internships** from **44 employers** · **11 posted in the last 7 days** · refreshed hourly
 
@@ -44,7 +44,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (11)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🏢 Enterprise & business software (5)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🧬 Health, biotech & medical devices (5)](lists/company/health-bio.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (4)](lists/company/fintech.md) · [+8 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (18)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (4)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (19)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (4)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
 📍 **By location** — [🇬🇧 London & the UK (14)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
@@ -680,14 +680,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/97340c15-89cf-4b47-806c-bac8f2b19465">(Physical) Security Specialist Intern -  2027 Internship</a> 🆕</td>
 <td>ES, Huesca<br/>ES, Zaragoza<br/>FR, Paris</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a> 🆕</td>
 <td>ES, Huesca<br/>ES, Zaragoza</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Compeer Financial</strong></td>
