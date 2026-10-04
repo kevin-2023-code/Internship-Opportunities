@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**29 open roles.**
+**28 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chandler, AZ<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nox Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4d70df6-e608-4bca-9f1b-56716cf70666">FIELD ENGINEER - INTERN</a></td>
-<td>Phoenix, Arizona, United States<br/>Austin, TX<br/>Harlingen, Texas, United States<br/>+5 more</td>
-<td align="center"><a href="https://noxgroup.us/careers/?gh_jid=5418745008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>

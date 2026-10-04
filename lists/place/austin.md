@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**65 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,13 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971856932">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nox Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4d70df6-e608-4bca-9f1b-56716cf70666">FIELD ENGINEER - INTERN</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States<br/>Harlingen, Texas, United States<br/>+5 more</td>
-<td align="center"><a href="https://noxgroup.us/careers/?gh_jid=5418745008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>

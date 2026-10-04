@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-03T22:34:58.657Z",
-  "count": 874,
+  "listingsChangedAt": "2026-10-04T02:18:12.592Z",
+  "count": 886,
   "listings": [
     {
       "id": "772fb6c9-4378-40ed-907a-2fde9eec2a8f",
@@ -13498,9 +13498,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -13625,6 +13625,31 @@
       "url": "https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888",
       "postedAt": "2026-09-11T16:47:05.000Z",
       "updatedAt": "2026-09-11T16:47:07.000Z"
+    },
+    {
+      "id": "ad6bdd0c-de24-4b8b-8bb1-785fec9aab38",
+      "company": "Amazon",
+      "title": "Data Center Engineering Operations Technician Internship",
+      "locations": [
+        "Sterling, Virginia, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship",
+      "url": "https://trueinterview.io/jobs/ad6bdd0c-de24-4b8b-8bb1-785fec9aab38",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
       "id": "12ab564e-5f9a-427e-9d8e-3dfd70ce3689",
@@ -13772,6 +13797,31 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "b9aad312-a6c7-4ecf-b8ef-c75fdfddcb95",
+      "company": "Garmin",
+      "title": "Aviation Human Factors Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20158?lang=en-us",
+      "url": "https://trueinterview.io/jobs/b9aad312-a6c7-4ecf-b8ef-c75fdfddcb95",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "b1c99447-8dfb-4c7f-a0ae-a51351603a34",
       "company": "Garmin",
       "title": "Data Scientist Intern",
@@ -13836,7 +13886,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -13863,7 +13913,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14002,6 +14052,58 @@
       "url": "https://trueinterview.io/jobs/a9519ed0-5b91-4545-baad-6700c0b97f03",
       "postedAt": "2026-09-10T19:26:28.000Z",
       "updatedAt": "2026-09-10T19:26:28.000Z"
+    },
+    {
+      "id": "dbea70a1-abad-48c7-8023-febaa330e974",
+      "company": "Vast",
+      "title": "Emerging Talent - Manufacturing Internship",
+      "locations": [
+        "Long Beach, California, United States",
+        "Long Beach"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006",
+      "url": "https://trueinterview.io/jobs/dbea70a1-abad-48c7-8023-febaa330e974",
+      "postedAt": "2026-09-10T19:11:36.000Z",
+      "updatedAt": "2026-09-10T19:11:36.000Z"
+    },
+    {
+      "id": "de738f4e-25e5-40bd-8ea4-7a6c51736d01",
+      "company": "Vast",
+      "title": "Emerging Talent - Electrical Internship",
+      "locations": [
+        "Long Beach, California, United States",
+        "Long Beach"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006",
+      "url": "https://trueinterview.io/jobs/de738f4e-25e5-40bd-8ea4-7a6c51736d01",
+      "postedAt": "2026-09-10T19:09:36.000Z",
+      "updatedAt": "2026-09-10T19:09:36.000Z"
     },
     {
       "id": "7bba87d2-2fba-4c86-af7d-9d81db4cbbe5",
@@ -14191,6 +14293,32 @@
       "updatedAt": "2026-09-10T16:09:58.000Z"
     },
     {
+      "id": "c9e9a23b-7fcf-4027-8ce0-0b2a5580006a",
+      "company": "Rocket Lab Corporation",
+      "title": "Combustion Devices Intern Spring 2027",
+      "locations": [
+        "Long Beach, CA",
+        "EDC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986748003",
+      "url": "https://trueinterview.io/jobs/c9e9a23b-7fcf-4027-8ce0-0b2a5580006a",
+      "postedAt": "2026-09-09T22:43:44.000Z",
+      "updatedAt": "2026-09-10T16:06:19.000Z"
+    },
+    {
       "id": "25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6",
       "company": "Hudl",
       "title": "Quality Assurance Engineering Intern",
@@ -14255,7 +14383,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14280,7 +14408,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14355,7 +14483,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -14592,6 +14720,32 @@
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
+      "id": "df815904-d1df-4564-8348-858c5b49ceb4",
+      "company": "Rocket Lab Corporation",
+      "title": "Turbomachinery Intern Summer 2027",
+      "locations": [
+        "Long Beach, CA",
+        "EDC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7987210003",
+      "url": "https://trueinterview.io/jobs/df815904-d1df-4564-8348-858c5b49ceb4",
+      "postedAt": "2026-09-09T23:41:32.000Z",
+      "updatedAt": "2026-09-09T23:45:13.000Z"
+    },
+    {
       "id": "7cf5be50-4b5c-4bde-b0a3-e258117cb7e7",
       "company": "Rocket Lab Corporation",
       "title": "Systems Engineering Intern Summer 2027",
@@ -14801,6 +14955,32 @@
       "updatedAt": "2026-09-09T22:36:33.000Z"
     },
     {
+      "id": "f8507866-76eb-49fa-a66f-49381e812bbf",
+      "company": "Rocket Lab Corporation",
+      "title": "Additive Manufacturing Intern Summer 2027",
+      "locations": [
+        "Long Beach, CA",
+        "EDC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7984600003",
+      "url": "https://trueinterview.io/jobs/f8507866-76eb-49fa-a66f-49381e812bbf",
+      "postedAt": "2026-09-09T22:35:11.000Z",
+      "updatedAt": "2026-09-09T22:35:11.000Z"
+    },
+    {
       "id": "8a5d3216-939f-4937-832d-34c7a82b29aa",
       "company": "Cim Group, Lp",
       "title": "Data Science Intern",
@@ -14826,6 +15006,57 @@
       "url": "https://trueinterview.io/jobs/8a5d3216-939f-4937-832d-34c7a82b29aa",
       "postedAt": "2026-09-09T22:30:01.000Z",
       "updatedAt": "2026-09-09T22:30:01.000Z"
+    },
+    {
+      "id": "c937133a-7136-4db6-9056-2423c59ccd44",
+      "company": "Smartlyio",
+      "title": "Marketing Science Intern",
+      "locations": [
+        "Chicago, Illinois, United States",
+        "Chicago"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/smartlyio/jobs/6186906004",
+      "url": "https://trueinterview.io/jobs/c937133a-7136-4db6-9056-2423c59ccd44",
+      "postedAt": "2026-09-09T21:46:26.000Z",
+      "updatedAt": "2026-09-09T21:46:26.000Z"
+    },
+    {
+      "id": "cf421cd9-83f9-4b9e-9296-b8dbe76b8cd2",
+      "company": "Barnes & Thornburg Llp",
+      "title": "2027 BT RISE Internship - Information Security",
+      "locations": [
+        "Indianapolis"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177/application",
+      "url": "https://trueinterview.io/jobs/cf421cd9-83f9-4b9e-9296-b8dbe76b8cd2",
+      "postedAt": "2026-09-09T20:17:25.000Z",
+      "updatedAt": "2026-09-09T20:17:25.000Z"
     },
     {
       "id": "8afcb2f0-a5c3-49ca-8313-739c7323b8eb",
@@ -14854,6 +15085,52 @@
       "url": "https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb",
       "postedAt": "2026-09-09T20:15:23.000Z",
       "updatedAt": "2026-09-09T20:15:23.000Z"
+    },
+    {
+      "id": "f6066ee5-986f-4888-802d-34a84acdaac1",
+      "company": "Barnes & Thornburg Llp",
+      "title": "2027 BT RISE Internship - Information Technology Data Intern",
+      "locations": [
+        "Indianapolis"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application",
+      "url": "https://trueinterview.io/jobs/f6066ee5-986f-4888-802d-34a84acdaac1",
+      "postedAt": "2026-09-09T20:13:23.000Z",
+      "updatedAt": "2026-09-09T20:13:23.000Z"
+    },
+    {
+      "id": "c00fbdbd-bb76-4e25-929f-06baa48d0b83",
+      "company": "Barnes & Thornburg Llp",
+      "title": "2027 BT RISE Internship - Information Technology AI Intern",
+      "locations": [
+        "Indianapolis"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application",
+      "url": "https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83",
+      "postedAt": "2026-09-09T20:11:43.000Z",
+      "updatedAt": "2026-09-09T20:11:43.000Z"
     },
     {
       "id": "3cf3dbf0-5e7e-4adf-a5e9-e891d856d647",
@@ -15128,7 +15405,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -15334,7 +15611,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -15411,7 +15688,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -15472,6 +15749,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54259?lang=en-us",
       "url": "https://trueinterview.io/jobs/02b62b5c-a2e3-4073-b0fe-1fca1379fee5",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "updatedAt": "2026-09-09T00:00:00.000Z"
+    },
+    {
+      "id": "b936cfbd-efa2-4e7d-bb9c-c9c2406c79cf",
+      "company": "Micron Technology",
+      "title": "Intern - Automation, Operations Improvement",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44332987",
+      "url": "https://trueinterview.io/jobs/b936cfbd-efa2-4e7d-bb9c-c9c2406c79cf",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
@@ -15592,7 +15894,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -15735,6 +16037,32 @@
       "updatedAt": "2026-09-08T22:19:13.000Z"
     },
     {
+      "id": "b54893f1-da05-4fb4-a07c-c6d8049954b1",
+      "company": "Coinbase",
+      "title": "User Research Intern",
+      "locations": [
+        "Hybrid - San Francisco, CA",
+        "US - Remote Zone 1 (Job Requisitions Only)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
+      "url": "https://trueinterview.io/jobs/b54893f1-da05-4fb4-a07c-c6d8049954b1",
+      "postedAt": "2026-09-08T22:17:48.000Z",
+      "updatedAt": "2026-09-08T22:17:48.000Z"
+    },
+    {
       "id": "6e64a532-b78e-4489-b0d3-05867b2bae42",
       "company": "Coinbase",
       "title": "Product Design Intern",
@@ -15841,6 +16169,32 @@
       "updatedAt": "2026-09-08T21:50:50.000Z"
     },
     {
+      "id": "bca0440e-d50b-4cc7-9488-a93004915ce3",
+      "company": "Nuharbor Security",
+      "title": "Information Assurance Intern",
+      "locations": [
+        "Burlington, Vermont",
+        "Vermont"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.nuharborsecurity.com/careers?gh_jid=8187026",
+      "url": "https://trueinterview.io/jobs/bca0440e-d50b-4cc7-9488-a93004915ce3",
+      "postedAt": "2026-09-08T21:47:22.000Z",
+      "updatedAt": "2026-09-08T21:47:22.000Z"
+    },
+    {
       "id": "9f727db0-ad24-44e2-abcd-06d36a60021b",
       "company": "Wasabi Technologies",
       "title": "Cloud Tech Support Engineer - Co-op",
@@ -15864,42 +16218,6 @@
       "url": "https://trueinterview.io/jobs/9f727db0-ad24-44e2-abcd-06d36a60021b",
       "postedAt": "2026-09-08T20:14:16.000Z",
       "updatedAt": "2026-09-08T20:14:16.000Z"
-    },
-    {
-      "id": "d4d70df6-e608-4bca-9f1b-56716cf70666",
-      "company": "Nox Group",
-      "title": "FIELD ENGINEER - INTERN",
-      "locations": [
-        "Harlingen, Texas, United States",
-        "ALBUQUERQUE",
-        "AUSTIN",
-        "PHOENIX",
-        "RENO",
-        "Tulsa, Oklahoma, United States",
-        "Pecos, Texas, United States",
-        "Reno, Nevada, United States",
-        "Austin, Texas, United States",
-        "Phoenix, Arizona, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://noxgroup.us/careers/?gh_jid=5418745008",
-      "url": "https://trueinterview.io/jobs/d4d70df6-e608-4bca-9f1b-56716cf70666",
-      "postedAt": "2026-09-08T20:10:27.000Z",
-      "updatedAt": "2026-09-08T20:10:27.000Z"
     },
     {
       "id": "a4436e99-fa32-4026-b1e0-aee61627c35c",
@@ -16281,7 +16599,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -16691,6 +17009,32 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627",
       "url": "https://trueinterview.io/jobs/8d910cd6-5e0c-4218-92ea-6b308accf230",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "updatedAt": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "id": "ee47c9dd-ba60-4d83-85b1-881563d4422a",
+      "company": "Tokyo Electron",
+      "title": "Sales Business Analyst Intern",
+      "locations": [
+        "Austin RiverSouth",
+        "Austin RiverSouth, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519",
+      "url": "https://trueinterview.io/jobs/ee47c9dd-ba60-4d83-85b1-881563d4422a",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
@@ -23490,62 +23834,6 @@
       "url": "https://trueinterview.io/jobs/9b8dccd5-7a65-4cf0-b38c-4ed2833392d0",
       "postedAt": "2026-08-06T18:36:43.000Z",
       "updatedAt": "2026-08-06T18:36:43.000Z"
-    },
-    {
-      "id": "a3544bdf-16cf-43eb-b403-ad0d0f011a61",
-      "company": "Rocket Lab Corporation",
-      "title": "Development Engineering Intern - Neutron Thermal Protection Systems",
-      "locations": [
-        "Auckland, NZ",
-        "Auckland Production Complex Office"
-      ],
-      "cities": [
-        "Auckland"
-      ],
-      "countries": [
-        "New Zealand"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7825281003",
-      "url": "https://trueinterview.io/jobs/a3544bdf-16cf-43eb-b403-ad0d0f011a61",
-      "postedAt": "2026-08-04T23:43:26.000Z",
-      "updatedAt": "2026-08-04T23:43:26.000Z"
-    },
-    {
-      "id": "acee0ace-6080-4880-8a5c-1aeaa62087a6",
-      "company": "Rocket Lab Corporation",
-      "title": "Manufacturing Engineering Intern - Space Sytems",
-      "locations": [
-        "Auckland, NZ",
-        "Auckland Production Complex Office"
-      ],
-      "cities": [
-        "Auckland"
-      ],
-      "countries": [
-        "New Zealand"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7820012003",
-      "url": "https://trueinterview.io/jobs/acee0ace-6080-4880-8a5c-1aeaa62087a6",
-      "postedAt": "2026-08-04T23:42:34.000Z",
-      "updatedAt": "2026-08-04T23:42:34.000Z"
     }
   ]
 }
