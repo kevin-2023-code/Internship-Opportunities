@@ -5,9 +5,189 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-05T08:03:16.709Z",
-  "count": 913,
+  "listingsChangedAt": "2026-10-05T17:40:14.002Z",
+  "count": 917,
   "listings": [
+    {
+      "id": "3c0ade7e-ea91-417d-a927-1346dfd4c4c9",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern, 2027 Summer U.S.",
+      "locations": [
+        "Seattle - United States - Seattle, Washington United States",
+        "Remote - Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?mode=apply",
+      "url": "https://trueinterview.io/jobs/3c0ade7e-ea91-417d-a927-1346dfd4c4c9",
+      "postedAt": "2026-10-05T16:43:41.000Z",
+      "updatedAt": "2026-10-05T16:43:41.000Z"
+    },
+    {
+      "id": "eea0d276-5e04-48bf-8817-0cf7cd858ca2",
+      "company": "AMD",
+      "title": "Spring/Summer 2027 PhD AI Agentic/ML System Co-op",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91767?lang=en-us",
+      "url": "https://trueinterview.io/jobs/eea0d276-5e04-48bf-8817-0cf7cd858ca2",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "24fd5b34-8791-470c-a8e0-014ff60b2833",
+      "company": "AMD",
+      "title": "Spring/Summer 2027 PhD Large Language Model Engineer Co-op",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91764?lang=en-us",
+      "url": "https://trueinterview.io/jobs/24fd5b34-8791-470c-a8e0-014ff60b2833",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "4cdc0bb0-79b0-4b02-9f20-96faa6ea60e3",
+      "company": "Intel",
+      "title": "Module Engineering (PhD Intern)",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering--PhD-Intern-_JR0287683",
+      "url": "https://trueinterview.io/jobs/4cdc0bb0-79b0-4b02-9f20-96faa6ea60e3",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "09e38bbf-fc79-4917-8c00-a6743e21562f",
+      "company": "Marvell Technology",
+      "title": "Hardware Engineer Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
+      "url": "https://trueinterview.io/jobs/09e38bbf-fc79-4917-8c00-a6743e21562f",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "74768e52-607b-4619-acd3-1dd28041029f",
+      "company": "Micron Technology",
+      "title": "Intern - DRAM Device Engineer",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44777706",
+      "url": "https://trueinterview.io/jobs/74768e52-607b-4619-acd3-1dd28041029f",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "543ed716-3bb7-4ae2-8d3d-5d57fd99151a",
+      "company": "Micron Technology",
+      "title": "Intern - SMAI TD AI Engineering Team",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44777622",
+      "url": "https://trueinterview.io/jobs/543ed716-3bb7-4ae2-8d3d-5d57fd99151a",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
     {
       "id": "c1ac726e-778c-4390-858e-c551ecabcf8b",
       "company": "Microsoft",
@@ -2238,81 +2418,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Photolithography-Equipment-Intern---Summer-2027_R-10064587",
       "url": "https://trueinterview.io/jobs/afd265ad-4a11-4e84-8584-a42d5c0701cc",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "10147e0a-a02f-4499-b3ff-414406681af5",
-      "company": "QUALCOMM",
-      "title": "FY27 - AI Driven Test Automation Engineering Intern",
-      "locations": [
-        "Haifa, Haifa District, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721349370",
-      "url": "https://trueinterview.io/jobs/10147e0a-a02f-4499-b3ff-414406681af5",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "d388f639-f8a0-474b-8f49-46a11e1f72cf",
-      "company": "QUALCOMM",
-      "title": "FY27 Intern - Digital Design Intern - Hod Hasharon",
-      "locations": [
-        "Haifa, Haifa District, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721361544",
-      "url": "https://trueinterview.io/jobs/d388f639-f8a0-474b-8f49-46a11e1f72cf",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "f2e16161-aafa-42ab-92b5-88688c5de15e",
-      "company": "QUALCOMM",
-      "title": "FY27 Intern - SW Engineering Intern - Haifa",
-      "locations": [
-        "Haifa, Haifa District, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446721335989",
-      "url": "https://trueinterview.io/jobs/f2e16161-aafa-42ab-92b5-88688c5de15e",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },

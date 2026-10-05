@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/543ed716-3bb7-4ae2-8d3d-5d57fd99151a">Intern - SMAI TD AI Engineering Team</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44777622">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Veeam Software</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d1df299-ac06-4992-a0b9-e767ea283a13">Competitive Intelligence AI Engineering Intern - Summer 2027</a> 🌐</td>
 <td>Remote — United States</td>
@@ -36,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/90a9c84e-915b-4b0c-beb3-022e4d114f36">Software Engineer: AI/ML &amp; LLM Intern Opportunities for University Students, Redmond</a></td>
 <td>Redmond, WA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556922929">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/10147e0a-a02f-4499-b3ff-414406681af5">FY27 - AI Driven Test Automation Engineering Intern</a></td>
-<td>Haifa, Haifa District, IL</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721349370">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

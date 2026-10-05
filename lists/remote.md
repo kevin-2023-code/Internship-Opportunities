@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**17 open roles.** 14 in the United States & Canada · 3 elsewhere in the world. Postings the pipeline classified as remote.
+**18 open roles.** 15 in the United States & Canada · 3 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c0ade7e-ea91-417d-a927-1346dfd4c4c9">Data Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Natera</strong></td>
 <td><a href="https://trueinterview.io/jobs/c45d28fc-e2be-4175-8a59-1c338b3e96de">Software Engineering Intern</a> 🌐</td>
