@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**117 open roles.** 109 in the United States & Canada · 8 elsewhere in the world.
+**118 open roles.** 109 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -847,6 +847,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783022">Apply</a></td>
 <td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Telus Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/f47686ce-5223-4275-ac88-4b10c3b8fae5">Data &amp; AI Intern (Brazil) - Year Round 2027</a></td>
+<td>São Paulo<br/>Porto Alegre, Brazil</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436/application">Apply</a></td>
+<td align="center">26 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**20 open roles.** 19 in the United States & Canada · 1 elsewhere in the world.
+**21 open roles.** 20 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Muon Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4680b55-25a8-4642-9df9-5ac64ec61c34">Flight Software Engineering Intern (Summer 2027)</a></td>

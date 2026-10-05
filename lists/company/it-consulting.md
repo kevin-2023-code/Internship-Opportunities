@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**8 open roles.** 5 in the United States & Canada · 3 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**9 open roles.** 5 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -84,6 +84,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Porto Alegre, Brazil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/de8c4068-e5aa-4f17-8eda-808344ec4d9f/application">Apply</a></td>
 <td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f47686ce-5223-4275-ac88-4b10c3b8fae5">Data &amp; AI Intern (Brazil) - Year Round 2027</a></td>
+<td>São Paulo<br/>Porto Alegre, Brazil</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436/application">Apply</a></td>
+<td align="center">26 Aug 2026</td>
 </tr>
 </tbody>
 </table>

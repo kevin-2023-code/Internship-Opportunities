@@ -5,9 +5,71 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-05T01:27:40.943Z",
-  "count": 904,
+  "listingsChangedAt": "2026-10-05T08:03:16.709Z",
+  "count": 913,
   "listings": [
+    {
+      "id": "c1ac726e-778c-4390-858e-c551ecabcf8b",
+      "company": "Microsoft",
+      "title": "Firmware Engineering Internship (6-month Program)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
+      "url": "https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "id": "81448d3d-e9e9-4dfc-97b6-de0e20489344",
+      "company": "NVIDIA",
+      "title": "Data Processing Developer Technology Intern - 2027",
+      "locations": [
+        "Munich, BY, DE",
+        "Courbevoie, Île-de-France, FR",
+        "Zürich, ZH, CH",
+        "Bristol, England, GB",
+        "Würselen, NRW, DE",
+        "Berlin, Berlin, DE"
+      ],
+      "cities": [
+        "Munich",
+        "Bristol",
+        "Berlin"
+      ],
+      "countries": [
+        "United States",
+        "France",
+        "United Kingdom",
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397551992",
+      "url": "https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344",
+      "postedAt": "2026-10-05T00:00:00.000Z",
+      "updatedAt": "2026-10-05T00:00:00.000Z"
+    },
     {
       "id": "d9f6f3d9-39b1-49ab-9193-f3204926df5d",
       "company": "Taboola",
@@ -58,6 +120,108 @@
       "url": "https://trueinterview.io/jobs/8c491577-e2f3-4218-995d-ab02002e73ed",
       "postedAt": "2026-10-04T16:28:11.000Z",
       "updatedAt": "2026-10-04T16:28:11.000Z"
+    },
+    {
+      "id": "f61c2172-a042-43ad-a414-d68f9ec03a19",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Electric Hardware Engineering Intern",
+      "locations": [
+        "Chippewa Falls, Wisconsin, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414",
+      "url": "https://trueinterview.io/jobs/f61c2172-a042-43ad-a414-d68f9ec03a19",
+      "postedAt": "2026-10-04T00:00:00.000Z",
+      "updatedAt": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "9207b399-d7b2-4b14-9e7e-93ab5326aad6",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Hardware Tools and Libraries Intern",
+      "locations": [
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085",
+      "url": "https://trueinterview.io/jobs/9207b399-d7b2-4b14-9e7e-93ab5326aad6",
+      "postedAt": "2026-10-04T00:00:00.000Z",
+      "updatedAt": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "6beef90d-fb19-4b77-b7b5-7891435b5a26",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Design Verification Internship",
+      "locations": [
+        "Chippewa Falls, Wisconsin, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400",
+      "url": "https://trueinterview.io/jobs/6beef90d-fb19-4b77-b7b5-7891435b5a26",
+      "postedAt": "2026-10-04T00:00:00.000Z",
+      "updatedAt": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "id": "d16ca100-364d-4238-ac10-4b206b997589",
+      "company": "Micron Technology",
+      "title": "Intern - Memory Design Engineer, HBM",
+      "locations": [
+        "Richardson, TX, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44702971",
+      "url": "https://trueinterview.io/jobs/d16ca100-364d-4238-ac10-4b206b997589",
+      "postedAt": "2026-10-04T00:00:00.000Z",
+      "updatedAt": "2026-10-04T00:00:00.000Z"
     },
     {
       "id": "772fb6c9-4378-40ed-907a-2fde9eec2a8f",
@@ -21891,8 +22055,8 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "new-grad",
+      "role": "Data Scientist",
+      "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -22057,6 +22221,62 @@
       "updatedAt": "2026-08-26T21:49:20.000Z"
     },
     {
+      "id": "f47686ce-5223-4275-ac88-4b10c3b8fae5",
+      "company": "Telus Digital",
+      "title": "Data & AI Intern (Brazil) - Year Round 2027",
+      "locations": [
+        "Porto Alegre, Brazil",
+        "São Paulo"
+      ],
+      "cities": [
+        "São Paulo"
+      ],
+      "countries": [
+        "Brazil"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436/application",
+      "url": "https://trueinterview.io/jobs/f47686ce-5223-4275-ac88-4b10c3b8fae5",
+      "postedAt": "2026-08-26T20:04:12.000Z",
+      "updatedAt": "2026-08-26T20:04:12.000Z"
+    },
+    {
+      "id": "fc64592e-3561-43fe-b708-b59fc32b84b6",
+      "company": "DV Trading",
+      "title": "Futures & Options Trading Analyst Intern - Summer 2027",
+      "locations": [
+        "New York",
+        "NYC"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": "Other",
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
+      "url": "https://trueinterview.io/jobs/fc64592e-3561-43fe-b708-b59fc32b84b6",
+      "postedAt": "2026-08-25T21:26:43.000Z",
+      "updatedAt": "2026-08-26T00:30:01.000Z"
+    },
+    {
       "id": "48625913-3f7f-49bd-9c17-472e3e342181",
       "company": "Eight Sleep",
       "title": "Hardware Support & Test Intern",
@@ -22149,9 +22369,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -22454,7 +22674,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -22540,6 +22760,31 @@
       "url": "https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7",
       "postedAt": "2026-08-24T00:00:00.000Z",
       "updatedAt": "2026-08-24T00:00:00.000Z"
+    },
+    {
+      "id": "f4abe9e8-a68a-42da-a25c-c229f178c10f",
+      "company": "Micron Technology",
+      "title": "Intern - Product Yield Enhancement Eng",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/43944097",
+      "url": "https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f",
+      "postedAt": "2026-08-23T00:00:00.000Z",
+      "updatedAt": "2026-08-23T00:00:00.000Z"
     },
     {
       "id": "649fda21-30e5-49c3-9953-ac4dbc4cf1db",

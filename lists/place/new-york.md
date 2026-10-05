@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**47 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -310,6 +310,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York - New York<br/>California - San Francisco, United States of America<br/>California - Palo Alto<br/>+5 more</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1">Apply</a></td>
 <td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc64592e-3561-43fe-b708-b59fc32b84b6">Futures &amp; Options Trading Analyst Intern - Summer 2027</a> 🛂</td>
+<td>New York, NY<br/>NYC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4722749005">Apply</a></td>
+<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sleeper</strong></td>

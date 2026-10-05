@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**449 open roles.** 447 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**456 open roles.** 454 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
+<td>Munich, BY, DE<br/>Bristol, England, GB<br/>Berlin, Berlin, DE<br/>+3 more</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/f61c2172-a042-43ad-a414-d68f9ec03a19">Electric Hardware Engineering Intern</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9207b399-d7b2-4b14-9e7e-93ab5326aad6">Hardware Tools and Libraries Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6beef90d-fb19-4b77-b7b5-7891435b5a26">VLSI Design Verification Internship</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/d16ca100-364d-4238-ac10-4b206b997589">Intern - Memory Design Engineer, HBM</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702971">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/04753d31-2f75-4654-9709-505db9088cfe">Summer 2027: Finance Transformation &amp; Analytics Intern</a></td>
@@ -2776,48 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/26860d8b-4d52-4fe7-b112-a9ccbd36865f">Software Engineer Intern</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1342241-5fbd-4168-addc-9e62d58c22ed">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Cupertino, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Austin, TX<br/>Austin, Texas, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/00b0722b-bfa4-4c32-a444-4ec34c66a126">Robotics - Software Development Engineer Fall Intern/Co-op - 2026</a></td>
-<td>Westboro, Wisconsin, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5fac03be-85fb-4a81-9f8c-4c0d1534982d">Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Cupertino, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
-<td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276">2027 Masters ASIC Package Engineering Co-op/Intern</a></td>
-<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91469?lang=en-us">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

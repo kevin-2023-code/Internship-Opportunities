@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**439 open roles.** 427 in the United States & Canada · 12 elsewhere in the world.
+**446 open roles.** 434 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/f61c2172-a042-43ad-a414-d68f9ec03a19">Electric Hardware Engineering Intern</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9207b399-d7b2-4b14-9e7e-93ab5326aad6">Hardware Tools and Libraries Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6beef90d-fb19-4b77-b7b5-7891435b5a26">VLSI Design Verification Internship</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/d16ca100-364d-4238-ac10-4b206b997589">Intern - Memory Design Engineer, HBM</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702971">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Muon Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/772fb6c9-4378-40ed-907a-2fde9eec2a8f">Environmental Test Engineering Intern (Summer 2027)</a></td>
@@ -2758,6 +2793,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/b80f91dd-412c-451f-ac8e-77b28b8299a4">Intern - Digital IP Design Engineer, DRAM</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43815517">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0a4ada63-4325-459c-9637-a58a690cc052">Intern - Process Development Engineer, 3D DRAM Photo</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43648212">Apply</a></td>
@@ -2776,48 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
 <td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/649fda21-30e5-49c3-9953-ac4dbc4cf1db">Intern - TD Site Industrial Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43944098">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/1be9e7c0-d75b-48f7-9967-fd67f36e9ff3">System Integration Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305">Apply</a></td>
-<td align="center">22 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Lab37</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b4e925a-04ad-4edd-a08d-dac47bdc1a81">Mechanical Design Engineering Intern‬</a></td>
-<td>Los Angeles, CA or Pittsburgh, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8695490002">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cef9abb-a312-4627-b2ee-c60c8b6b59ef">Electrical Engineering Intern (Winter/Spring 2027)</a></td>
-<td>Somerville, Massachusetts</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ecb6c0a-022e-46ba-ab58-067f2fc804c3">Process Sustaining Engineering Intern</a></td>
-<td>US, MA, Chelmsford, Alpha, United States of America<br/>US, MA, Wilmington</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1">Apply</a></td>
-<td align="center">21 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Freeform</strong></td>
-<td><a href="https://trueinterview.io/jobs/264a254b-bb36-4fbe-b544-59335f092a38">Materials Engineer Intern</a> 🛂</td>
-<td>Los Angeles, CA (On-site)<br/>Headquarters<br/>LA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003">Apply</a></td>
-<td align="center">20 Aug 2026</td>
 </tr>
 </tbody>
 </table>

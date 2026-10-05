@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
+<td>Munich, BY, DE<br/>Bristol, England, GB<br/>Berlin, Berlin, DE<br/>+3 more</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Affirm</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0e2b676-b8a6-40a1-9696-a5cad7e0f70e">Software Engineer (Machine Learning) Intern (Summer 2027)</a></td>
 <td>San Francisco, California, United States</td>
@@ -1388,13 +1395,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91448?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/b80f91dd-412c-451f-ac8e-77b28b8299a4">Intern - Digital IP Design Engineer, DRAM</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43815517">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Lab37</strong></td>

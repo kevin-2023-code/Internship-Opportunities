@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**23 open roles.** 19 in the United States & Canada · 4 elsewhere in the world.
+**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -182,13 +182,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Indianapolis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/d34820ad-e03d-4ab5-9649-eb69155b1e79">2027 Data and AI Program (Summer Analyst) - Singapore</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783022">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 </tbody>
 </table>

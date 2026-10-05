@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**256 open roles.** 255 in the United States & Canada · 1 elsewhere in the world.
+**258 open roles.** 257 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/9207b399-d7b2-4b14-9e7e-93ab5326aad6">Hardware Tools and Libraries Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Muon Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/772fb6c9-4378-40ed-907a-2fde9eec2a8f">Environmental Test Engineering Intern (Summer 2027)</a></td>

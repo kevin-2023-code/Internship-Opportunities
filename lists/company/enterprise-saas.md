@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**51 open roles.** 46 in the United States & Canada · 5 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**52 open roles.** 47 in the United States & Canada · 5 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/04753d31-2f75-4654-9709-505db9088cfe">Summer 2027: Finance Transformation &amp; Analytics Intern</a></td>

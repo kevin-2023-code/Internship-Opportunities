@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**109 open roles.**
+**113 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/f61c2172-a042-43ad-a414-d68f9ec03a19">Electric Hardware Engineering Intern</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9207b399-d7b2-4b14-9e7e-93ab5326aad6">Hardware Tools and Libraries Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/d16ca100-364d-4238-ac10-4b206b997589">Intern - Memory Design Engineer, HBM</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702971">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b">Hardware Field Quality Engineer Intern (Summer 2027)</a></td>
@@ -715,6 +736,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0">Winter 2027 Intern, Electrical Engineering</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4382626009">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Ati</strong></td>
+<td><a href="https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a">Mechanical Engineering Internship</a></td>
+<td>Woburn, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/ukV39FwFAbMxjqcrzBvHyi/mechanical-engineering-internship-in-woburn-at-ati">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**74 open roles.**
+**75 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -457,6 +457,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
 <td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f">Intern - Product Yield Enhancement Eng</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43944097">Apply</a></td>
+<td align="center">23 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>

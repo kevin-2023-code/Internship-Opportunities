@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**48 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/d16ca100-364d-4238-ac10-4b206b997589">Intern - Memory Design Engineer, HBM</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702971">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dlr Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f4c430d-b9fd-4dd5-bd86-5f44b489aa34">Electrical Engineering Intern | Summer 2027</a></td>

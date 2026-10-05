@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**439 open roles.** 427 in the United States & Canada · 12 elsewhere in the world.
+**446 open roles.** 434 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f">Intern - Product Yield Enhancement Eng</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43944097">Apply</a></td>
+<td align="center">23 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/649fda21-30e5-49c3-9953-ac4dbc4cf1db">Intern - TD Site Industrial Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43944098">Apply</a></td>
+<td align="center">23 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/1be9e7c0-d75b-48f7-9967-fd67f36e9ff3">System Integration Engineer Intern</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305">Apply</a></td>
+<td align="center">22 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Lab37</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4e925a-04ad-4edd-a08d-dac47bdc1a81">Mechanical Design Engineering Intern‬</a></td>
+<td>Los Angeles, CA or Pittsburgh, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lab37/jobs/8695490002">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cef9abb-a312-4627-b2ee-c60c8b6b59ef">Electrical Engineering Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, Massachusetts</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8148283/apply/?gh_jid=8148283">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ecb6c0a-022e-46ba-ab58-067f2fc804c3">Process Sustaining Engineering Intern</a></td>
+<td>US, MA, Chelmsford, Alpha, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Process-Sustaining-Engineering-Intern_R265319-1">Apply</a></td>
+<td align="center">21 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Freeform</strong></td>
+<td><a href="https://trueinterview.io/jobs/264a254b-bb36-4fbe-b544-59335f092a38">Materials Engineer Intern</a> 🛂</td>
+<td>Los Angeles, CA (On-site)<br/>Headquarters<br/>LA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7907965003">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/33f8f8d6-4234-49c3-a97e-c8835d560853">Research Scientist Intern, Optical System Design (PhD)</a></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**449 open roles.** 447 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**456 open roles.** 454 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,49 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/26860d8b-4d52-4fe7-b112-a9ccbd36865f">Software Engineer Intern</a></td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1342241-5fbd-4168-addc-9e62d58c22ed">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Cupertino, California, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Austin, TX<br/>Austin, Texas, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/00b0722b-bfa4-4c32-a444-4ec34c66a126">Robotics - Software Development Engineer Fall Intern/Co-op - 2026</a></td>
+<td>Westboro, Wisconsin, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5fac03be-85fb-4a81-9f8c-4c0d1534982d">Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Cupertino, California, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276">2027 Masters ASIC Package Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91469?lang=en-us">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5edd67dc-2833-45e2-81aa-7c4bb2a307c9">2027 Masters Software Test Engineering Intern/Co-Op</a></td>
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91475?lang=en-us">Apply</a></td>
@@ -84,6 +126,13 @@
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
 <td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f">Intern - Product Yield Enhancement Eng</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43944097">Apply</a></td>
+<td align="center">23 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>

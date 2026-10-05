@@ -18,15 +18,15 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-05 01:27 UTC_
+_Last updated: 2026-10-05 08:03 UTC_
 
-**77 open internships** from **45 employers** · **12 posted in the last 7 days** · refreshed hourly
+**78 open internships** from **45 employers** · **12 posted in the last 7 days** · refreshed hourly
 
-### Browse 77 internships by field
+### Browse 78 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (29)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (8)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (9)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (12)
 
@@ -44,9 +44,9 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏦 Banks, insurers & asset managers (14)](lists/company/banking-finance.md) · [🏗️ Large tech (1,000–9,999) (11)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🏢 Enterprise & business software (5)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🧬 Health, biotech & medical devices (5)](lists/company/health-bio.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (4)](lists/company/fintech.md) · [+8 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (20)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (4)](lists/role/data-analyst.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Data Scientist (1)](lists/role/data-scientist.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (20)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Scientist (3)](lists/role/data-scientist.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
-📍 **By location** — [🇬🇧 London & the UK (15)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
+📍 **By location** — [🇬🇧 London & the UK (15)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (6)](lists/place/latam.md) · [🌉 SF Bay Area (1)](lists/place/bay-area.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (12)](lists/new-this-week.md) · [🌐 Remote (3)](lists/remote.md)
 
@@ -347,7 +347,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 2 more Data, AI & Machine Learning roles posted earlier</summary>
+<summary>Show 3 more Data, AI & Machine Learning roles posted earlier</summary>
 
 <table>
 <thead>
@@ -366,6 +366,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d34820ad-e03d-4ab5-9649-eb69155b1e79">2027 Data and AI Program (Summer Analyst) - Singapore</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783022">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td><strong>Telus Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/f47686ce-5223-4275-ac88-4b10c3b8fae5">Data &amp; AI Intern (Brazil) - Year Round 2027</a></td>
+<td>São Paulo<br/>Porto Alegre, Brazil</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436/application">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -708,14 +715,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/97340c15-89cf-4b47-806c-bac8f2b19465">(Physical) Security Specialist Intern -  2027 Internship</a> 🆕</td>
 <td>ES, Huesca<br/>ES, Zaragoza<br/>FR, Paris</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a> 🆕</td>
 <td>ES, Huesca<br/>ES, Zaragoza</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Compeer Financial</strong></td>

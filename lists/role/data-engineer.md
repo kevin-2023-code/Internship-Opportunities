@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world.
+**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
+<td>Munich, BY, DE<br/>Bristol, England, GB<br/>Berlin, Berlin, DE<br/>+3 more</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Coveo</strong></td>
 <td><a href="https://trueinterview.io/jobs/52213e72-7b88-4716-a920-7a1d80a597bf">Corporate Business Intelligence Intern, Winter 2027</a></td>

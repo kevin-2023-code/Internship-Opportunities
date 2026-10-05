@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**5 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -46,6 +46,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City, Mexico<br/>Flex - Mexico<br/>San Francisco, CA</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Telus Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/f47686ce-5223-4275-ac88-4b10c3b8fae5">Data &amp; AI Intern (Brazil) - Year Round 2027</a></td>
+<td>São Paulo<br/>Porto Alegre, Brazil</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436/application">Apply</a></td>
+<td align="center">26 Aug 2026</td>
 </tr>
 <tr>
 <td><strong>Sezzle</strong></td>

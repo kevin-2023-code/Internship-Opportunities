@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**278 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**281 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
+<td>Munich, BY, DE<br/>Bristol, England, GB<br/>Berlin, Berlin, DE<br/>+3 more</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/d16ca100-364d-4238-ac10-4b206b997589">Intern - Memory Design Engineer, HBM</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702971">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6324376-152e-4dbb-a9f9-d3003eda1924">Spring/Summer 2027 Masters Photonics Design Engineering Co-Op</a></td>
@@ -1724,6 +1738,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
 <td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f">Intern - Product Yield Enhancement Eng</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43944097">Apply</a></td>
+<td align="center">23 Aug 2026</td>
 </tr>
 <tr>
 <td>↳</td>
