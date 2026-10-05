@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**52 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**53 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -253,6 +253,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/553e11f0-e23e-47bf-b4a9-f4730ce8b273">Structural Engineering Internship - Bridge</a></td>
 <td>Oklahoma City, OK<br/>Overland Park, KS</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405889008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e40daa5f-2b76-42fd-8787-f26762a268a1">Civil Drafting Internship - Water/Wastewater</a></td>
+<td>North Kansas City, MO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5399464008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

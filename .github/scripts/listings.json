@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-04T22:09:01.368Z",
-  "count": 897,
+  "listingsChangedAt": "2026-10-05T01:27:40.943Z",
+  "count": 904,
   "listings": [
     {
       "id": "d9f6f3d9-39b1-49ab-9193-f3204926df5d",
@@ -20274,6 +20274,31 @@
       "updatedAt": "2026-08-31T23:00:00.000Z"
     },
     {
+      "id": "c830b96a-09c3-404c-89a1-2a029720e114",
+      "company": "JPMorgan Chase",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Summer Internship - Frankfurt",
+      "locations": [
+        "Frankfurt a. Main, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786047",
+      "url": "https://trueinterview.io/jobs/c830b96a-09c3-404c-89a1-2a029720e114",
+      "postedAt": "2026-08-31T23:00:00.000Z",
+      "updatedAt": "2026-08-31T23:00:00.000Z"
+    },
+    {
       "id": "118a0204-b511-4ef7-91de-39b825be1e1d",
       "company": "JPMorgan Chase",
       "title": "2027 Commercial & Investment Banking - Global Markets - Summer Internship - London",
@@ -20297,6 +20322,60 @@
       "source": "1point3acres",
       "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517",
       "url": "https://trueinterview.io/jobs/118a0204-b511-4ef7-91de-39b825be1e1d",
+      "postedAt": "2026-08-31T23:00:00.000Z",
+      "updatedAt": "2026-08-31T23:00:00.000Z"
+    },
+    {
+      "id": "eff3ddb3-f2fb-480d-b9b7-8360b8aef269",
+      "company": "JPMorgan Chase",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Summer Internship - Paris",
+      "locations": [
+        "Paris, Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Trader",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780497",
+      "url": "https://trueinterview.io/jobs/eff3ddb3-f2fb-480d-b9b7-8360b8aef269",
+      "postedAt": "2026-08-31T23:00:00.000Z",
+      "updatedAt": "2026-08-31T23:00:00.000Z"
+    },
+    {
+      "id": "ceed77bd-fd8e-4d80-87b6-3a6aecb64b4b",
+      "company": "JPMorgan Chase",
+      "title": "2027 Data & AI - Summer Internship -  Glasgow & London",
+      "locations": [
+        "LONDON, LONDON, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
+      "url": "https://trueinterview.io/jobs/ceed77bd-fd8e-4d80-87b6-3a6aecb64b4b",
       "postedAt": "2026-08-31T23:00:00.000Z",
       "updatedAt": "2026-08-31T23:00:00.000Z"
     },
@@ -20407,6 +20486,35 @@
       "url": "https://trueinterview.io/jobs/dd7e0708-079a-4b83-a50f-ac4a9cee1cb6",
       "postedAt": "2026-08-31T23:00:00.000Z",
       "updatedAt": "2026-08-31T23:00:00.000Z"
+    },
+    {
+      "id": "affb8655-ef42-4d11-b5ef-a03b73dfc712",
+      "company": "Sierra",
+      "title": "Intern, Agent Development (Summer 2027)",
+      "locations": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application",
+      "url": "https://trueinterview.io/jobs/affb8655-ef42-4d11-b5ef-a03b73dfc712",
+      "postedAt": "2026-08-31T21:42:19.000Z",
+      "updatedAt": "2026-08-31T21:42:19.000Z"
     },
     {
       "id": "5424d898-6bfd-48cb-9784-23be5f2527d8",
@@ -20570,6 +20678,32 @@
       "url": "https://trueinterview.io/jobs/553e11f0-e23e-47bf-b4a9-f4730ce8b273",
       "postedAt": "2026-08-31T21:01:15.000Z",
       "updatedAt": "2026-08-31T21:01:15.000Z"
+    },
+    {
+      "id": "e40daa5f-2b76-42fd-8787-f26762a268a1",
+      "company": "Olsson",
+      "title": "Civil Drafting Internship - Water/Wastewater",
+      "locations": [
+        "North Kansas City, MO",
+        "North Kansas City"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5399464008",
+      "url": "https://trueinterview.io/jobs/e40daa5f-2b76-42fd-8787-f26762a268a1",
+      "postedAt": "2026-08-31T21:00:00.000Z",
+      "updatedAt": "2026-08-31T21:00:00.000Z"
     },
     {
       "id": "ed7d7d56-980b-4708-8cef-3f8010bfbb86",
@@ -20783,7 +20917,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -20917,7 +21051,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -21072,7 +21206,7 @@
       ],
       "remote": "remote",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -21097,7 +21231,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -21149,7 +21283,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -21187,6 +21321,31 @@
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
     {
+      "id": "fed778c5-4f04-4a1c-9a5e-460fc2339d66",
+      "company": "Micron Technology",
+      "title": "Intern - Mask Technology",
+      "locations": [
+        "Boise, ID, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44246460",
+      "url": "https://trueinterview.io/jobs/fed778c5-4f04-4a1c-9a5e-460fc2339d66",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
       "id": "42ad0f60-eefa-47ca-aba8-233caef91692",
       "company": "Micron Technology",
       "title": "Intern - RDA/Metrology-Process Shift Engineer, TD",
@@ -21208,6 +21367,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44247229",
       "url": "https://trueinterview.io/jobs/42ad0f60-eefa-47ca-aba8-233caef91692",
+      "postedAt": "2026-08-31T00:00:00.000Z",
+      "updatedAt": "2026-08-31T00:00:00.000Z"
+    },
+    {
+      "id": "c2b6bc08-b4e5-44c4-a493-66856109e996",
+      "company": "Oracle",
+      "title": "Financial Analyst Intern",
+      "locations": [
+        "Nashville, TN, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.oracle.com/en/sites/jobsearch/job/344176",
+      "url": "https://trueinterview.io/jobs/c2b6bc08-b4e5-44c4-a493-66856109e996",
       "postedAt": "2026-08-31T00:00:00.000Z",
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
@@ -21344,10 +21528,10 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "bigtech-careers",

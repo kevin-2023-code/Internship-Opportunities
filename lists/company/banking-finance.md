@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**14 open roles.** 3 in the United States & Canada · 11 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**17 open roles.** 3 in the United States & Canada · 14 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -87,9 +87,30 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c830b96a-09c3-404c-89a1-2a029720e114">2027 Commercial &amp; Investment Banking - Global Markets - Summer Internship - Frankfurt</a></td>
+<td>Frankfurt a. Main, Germany</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786047">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/118a0204-b511-4ef7-91de-39b825be1e1d">2027 Commercial &amp; Investment Banking - Global Markets - Summer Internship - London</a></td>
 <td>LONDON, LONDON, United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eff3ddb3-f2fb-480d-b9b7-8360b8aef269">2027 Commercial &amp; Investment Banking - Global Markets - Summer Internship - Paris</a></td>
+<td>Paris, Paris, France</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780497">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ceed77bd-fd8e-4d80-87b6-3a6aecb64b4b">2027 Data &amp; AI - Summer Internship -  Glasgow &amp; London</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
