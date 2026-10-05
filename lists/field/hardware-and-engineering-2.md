@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**446 open roles.** 434 in the United States & Canada · 12 elsewhere in the world.
+**440 open roles.** 428 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,27 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f">Intern - Product Yield Enhancement Eng</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43944097">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/649fda21-30e5-49c3-9953-ac4dbc4cf1db">Intern - TD Site Industrial Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43944098">Apply</a></td>
-<td align="center">23 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/1be9e7c0-d75b-48f7-9967-fd67f36e9ff3">System Integration Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305">Apply</a></td>
-<td align="center">22 Aug 2026</td>
-</tr>
 <tr>
 <td><strong>Lab37</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b4e925a-04ad-4edd-a08d-dac47bdc1a81">Mechanical Design Engineering Intern‬</a></td>
@@ -142,20 +121,6 @@
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Freeform</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4a37b21-48b6-48ec-b8ee-952013ba219d">Manufacturing Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895700003">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dd519dac-4cb3-45d7-88d4-a0538c515d94">Process Engineering Intern (Summer 2027)</a></td>
-<td>Los Angeles, CA (On-site)<br/>Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895787003">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>True Anomaly</strong></td>
 <td><a href="https://trueinterview.io/jobs/040af650-a582-419d-9b0c-cc9cab3e7048">Propulsion and Fluids Intern</a></td>
 <td>Long Beach, CA</td>
@@ -223,13 +188,6 @@
 <td><a href="https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c">Intern - Process Pathfinding, DRAM Dry Etch</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43648171">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a675e264-38dc-4a22-9dcc-722c359264a5">Intern - Wafer Bonding Process Development</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43782264">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>

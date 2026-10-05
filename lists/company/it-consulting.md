@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**9 open roles.** 5 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**8 open roles.** 5 in the United States & Canada · 3 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Konrad</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4a06a42-d6c6-4d12-a687-71be0f46a15f">I Semester 2027 TEC - Software Developer Intern</a></td>
-<td>Costa Rica<br/>San José</td>
-<td align="center"><a href="https://www.konrad.com/careers/job/8009622003?gh_jid=8009622003">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Gallup</strong></td>
 <td><a href="https://trueinterview.io/jobs/b06ad3d3-2464-4438-80b2-73d07a8e6978">Product Design Intern — Summer 2027</a></td>

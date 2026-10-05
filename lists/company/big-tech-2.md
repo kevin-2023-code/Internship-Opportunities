@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**459 open roles.** 457 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**458 open roles.** 456 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -391,13 +391,6 @@
 <td><a href="https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c">Intern - Process Pathfinding, DRAM Dry Etch</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43648171">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a675e264-38dc-4a22-9dcc-722c359264a5">Intern - Wafer Bonding Process Development</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43782264">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 <tr>

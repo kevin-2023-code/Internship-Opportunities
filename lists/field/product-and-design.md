@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**53 open roles.** 46 in the United States & Canada · 7 elsewhere in the world.
+**54 open roles.** 47 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tensorwave</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c72e024-8ee3-4559-87a1-c483f4c767d5">Design Intern</a></td>
+<td>Las Vegas, Nevada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/9c76395d-b5fe-4a9e-ba59-820b3e9278c0/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Thinkingbox</strong></td>
 <td><a href="https://trueinterview.io/jobs/e90c0480-3592-4111-8813-04f31bd1517e">Motion Design Intern - The Heist (3-Month Contract, Potential for Full-Time)</a></td>
