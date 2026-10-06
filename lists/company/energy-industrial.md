@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**20 open roles.** 19 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Panasonic</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a468800-b829-4416-9f0a-24198f9dc47a">Cell &amp; Process Engineering Intern</a></td>
+<td>De Soto, Kansas, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/51567?lang=en-us">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/06fafd1c-83c1-4b39-aa84-bfc62847c82b">Customer Quality Engineer Intern</a></td>
 <td>De Soto, Kansas, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/51290?lang=en-us">Apply</a></td>
