@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**192 open roles.** 181 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
+**198 open roles.** 188 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/24029bc0-9eb0-425e-967c-d6a9af6a787b">Software Engineer Intern (Summer 2027)</a></td>
+<td>Santa Clara, California<br/>Office - Santa Clara</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249749">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Courier Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/720f2fda-78c2-4bcb-ad01-0909f6a2d4a3">Software Engineering Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/courierhealth/jobs/5258913007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/7925f2bc-0256-4f5c-9c58-fba7124e9324">Winter 2027 Reliability Engineer Co-op</a></td>
@@ -39,7 +53,42 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>CAE</strong></td>
+<td><a href="https://trueinterview.io/jobs/93effbac-3f81-49c4-b767-91fc26b6fec4">Software Developer Coop</a></td>
+<td>Montreal (St. Laurent)</td>
+<td align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8459bf73-1390-4087-b3cf-ae014cfa3818">Internship - MOCVD Process Engineer</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---MOCVD-Process-Engineer_20261460">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a59b6e64-be98-4cad-b713-bdb576d755da">Internship - Semiconductor Fab Process Engineer</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Fab-Process-Engineer_20261462">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/78f72460-4d3d-40a6-98c8-5f9e83c58ae7">Internship - Semiconductor Maintenance Tech</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Maintenance-Tech_20261461-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bff3754-c7f5-4096-8b57-5fdc32c11ff9">ASIC Physical Design Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/6d789753-57cb-4fb6-8468-4f6995fad401">2027 Quality &amp; Test Engineer Intern</a></td>
 <td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States<br/>Irvine, California, United States<br/>+4 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007">Apply</a></td>
@@ -1364,13 +1413,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2b62587f-3f41-4247-9955-09dd865d4a07">Software Engineer - Intern (Frontend)</a></td>
 <td>Bangalore</td>
 <td align="center"><a href="https://jobs.lever.co/merklescience/20675d00-156c-4f3f-a9bf-4cacee176bc2/apply">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Man Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/456c7218-3f9e-4826-b5f6-576c20518272">Investment Risk 2027 Summer Internship</a></td>
-<td>London</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 </tbody>

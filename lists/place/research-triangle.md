@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**50 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -233,13 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, NC, Durham<br/>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Applications-Intern_R266140">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/34517edd-9277-4e2c-a4ab-6ac60a1c3e58">Mechanical Engineering Intern</a></td>
-<td>Cary, North Carolina, United States<br/>Tulsa, Oklahoma, United States<br/>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19911?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

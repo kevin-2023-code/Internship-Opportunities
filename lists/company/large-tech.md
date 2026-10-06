@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**96 open roles.** 86 in the United States & Canada · 10 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**100 open roles.** 90 in the United States & Canada · 10 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/24029bc0-9eb0-425e-967c-d6a9af6a787b">Software Engineer Intern (Summer 2027)</a></td>
+<td>Santa Clara, California<br/>Office - Santa Clara</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249749">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8459bf73-1390-4087-b3cf-ae014cfa3818">Internship - MOCVD Process Engineer</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---MOCVD-Process-Engineer_20261460">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a59b6e64-be98-4cad-b713-bdb576d755da">Internship - Semiconductor Fab Process Engineer</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Fab-Process-Engineer_20261462">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/78f72460-4d3d-40a6-98c8-5f9e83c58ae7">Internship - Semiconductor Maintenance Tech</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Maintenance-Tech_20261461-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1db53a6-824b-4395-b945-657c2b47f0e1">People Analytics Data Engineering Intern</a></td>

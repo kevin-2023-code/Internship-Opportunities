@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**50 open roles.**
+**51 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Courier Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/720f2fda-78c2-4bcb-ad01-0909f6a2d4a3">Software Engineering Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/courierhealth/jobs/5258913007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/77936936-073d-4b84-8bdf-36d6249f7576">Electrical Engineering Intern</a></td>

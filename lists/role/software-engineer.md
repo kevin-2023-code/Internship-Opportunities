@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**125 open roles.** 106 in the United States & Canada · 19 elsewhere in the world.
+**127 open roles.** 108 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/24029bc0-9eb0-425e-967c-d6a9af6a787b">Software Engineer Intern (Summer 2027)</a></td>
+<td>Santa Clara, California<br/>Office - Santa Clara</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249749">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CAE</strong></td>
+<td><a href="https://trueinterview.io/jobs/93effbac-3f81-49c4-b767-91fc26b6fec4">Software Developer Coop</a></td>
+<td>Montreal (St. Laurent)</td>
+<td align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tensorwave</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1ea5278-d2ab-4a8d-8b3a-0d1a6010a899">Developer Community Engagement Intern</a></td>

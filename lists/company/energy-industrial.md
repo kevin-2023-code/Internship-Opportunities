@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**20 open roles.** 19 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bridgeton, Missouri, United States<br/>Suwanee, Georgia, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/50757?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a5608f22-3c76-411d-99d9-c06b505f1b7b">Intern - Reliability Engineering</a></td>
-<td>Bridgeton, Missouri, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50746?lang=en-us">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

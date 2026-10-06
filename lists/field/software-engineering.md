@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**235 open roles.** 208 in the United States & Canada · 27 elsewhere in the world.
+**238 open roles.** 211 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Pure Storage</strong></td>
+<td><a href="https://trueinterview.io/jobs/24029bc0-9eb0-425e-967c-d6a9af6a787b">Software Engineer Intern (Summer 2027)</a></td>
+<td>Santa Clara, California<br/>Office - Santa Clara</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249749">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Courier Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/720f2fda-78c2-4bcb-ad01-0909f6a2d4a3">Software Engineering Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/courierhealth/jobs/5258913007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/07f3f19a-7aa6-4370-8e30-3f7d0ef357e9">2027 Systems Engineer Intern</a></td>
 <td>Boston, Massachusetts, United States<br/>Seattle, Washington, United States<br/>Costa Mesa, California, United States<br/>+3 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CAE</strong></td>
+<td><a href="https://trueinterview.io/jobs/93effbac-3f81-49c4-b767-91fc26b6fec4">Software Developer Coop</a></td>
+<td>Montreal (St. Laurent)</td>
+<td align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

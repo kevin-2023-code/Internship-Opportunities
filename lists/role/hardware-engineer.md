@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**117 open roles.**
+**120 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/a59b6e64-be98-4cad-b713-bdb576d755da">Internship - Semiconductor Fab Process Engineer</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Fab-Process-Engineer_20261462">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/78f72460-4d3d-40a6-98c8-5f9e83c58ae7">Internship - Semiconductor Maintenance Tech</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Maintenance-Tech_20261461-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bff3754-c7f5-4096-8b57-5fdc32c11ff9">ASIC Physical Design Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Graymatter Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba9be562-5d5e-4916-b9e3-75b9cdc5e22a">Mechanical Design Intern - Immediate Fill</a></td>

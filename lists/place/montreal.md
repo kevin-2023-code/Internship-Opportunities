@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**5 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CAE</strong></td>
+<td><a href="https://trueinterview.io/jobs/93effbac-3f81-49c4-b767-91fc26b6fec4">Software Developer Coop</a></td>
+<td>Montreal (St. Laurent)</td>
+<td align="center"><a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tobogganlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c491577-e2f3-4218-995d-ab02002e73ed">Stagiaire en science des données -- Data Science Intern</a></td>

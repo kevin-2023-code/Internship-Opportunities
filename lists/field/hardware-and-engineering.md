@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**465 open roles.** 453 in the United States & Canada · 12 elsewhere in the world.
+**467 open roles.** 455 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -34,7 +34,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8459bf73-1390-4087-b3cf-ae014cfa3818">Internship - MOCVD Process Engineer</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---MOCVD-Process-Engineer_20261460">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a59b6e64-be98-4cad-b713-bdb576d755da">Internship - Semiconductor Fab Process Engineer</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Fab-Process-Engineer_20261462">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/78f72460-4d3d-40a6-98c8-5f9e83c58ae7">Internship - Semiconductor Maintenance Tech</a></td>
+<td>USA - NC- Greensboro, United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Maintenance-Tech_20261461-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bff3754-c7f5-4096-8b57-5fdc32c11ff9">ASIC Physical Design Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/6d789753-57cb-4fb6-8468-4f6995fad401">2027 Quality &amp; Test Engineer Intern</a></td>
 <td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States<br/>Irvine, California, United States<br/>+4 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007">Apply</a></td>
@@ -1771,13 +1799,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/34517edd-9277-4e2c-a4ab-6ac60a1c3e58">Mechanical Engineering Intern</a></td>
-<td>Cary, North Carolina, United States<br/>Tulsa, Oklahoma, United States<br/>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19911?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/78d537d0-0816-4f56-9a33-d780bffd7750">Reliability Engineering Intern - Operations</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19990?lang=en-us">Apply</a></td>
@@ -2778,14 +2799,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5608f22-3c76-411d-99d9-c06b505f1b7b">Intern - Reliability Engineering</a></td>
-<td>Bridgeton, Missouri, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50746?lang=en-us">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f8a806eb-0f8c-4931-b9b0-35ee55d3dec3">Intern - DRAM Product Test Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44247230">Apply</a></td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA<br/>SAN JOSE, United States of America</td>
 <td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/08390c9b-5110-4f06-b985-56c5632ad9c4">Firmware Engineer Intern</a></td>
-<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627">Apply</a></td>
-<td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1342241-5fbd-4168-addc-9e62d58c22ed">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Cupertino, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027">Apply</a></td>
-<td align="center">27 Aug 2026</td>
 </tr>
 </tbody>
 </table>

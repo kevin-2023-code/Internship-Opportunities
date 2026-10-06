@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**465 open roles.** 453 in the United States & Canada · 12 elsewhere in the world.
+**467 open roles.** 455 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/08390c9b-5110-4f06-b985-56c5632ad9c4">Firmware Engineer Intern</a></td>
+<td>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>Spring, Texas, United States of America<br/>+7 more</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627">Apply</a></td>
+<td align="center">28 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1342241-5fbd-4168-addc-9e62d58c22ed">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Cupertino, California, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
 <td>Austin, TX<br/>Austin, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
