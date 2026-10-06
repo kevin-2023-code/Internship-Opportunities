@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**116 open roles.**
+**117 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -824,6 +824,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/efc5bf92-b4ad-4696-8efa-af469afc4281">Intern - DRAM Design Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43721274">Apply</a></td>
+<td align="center">17 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/80481f24-6de1-4df7-84b0-0c94e4de3f0c">DOW SkillsBridge Intern – Semiconductor Equipment Technician</a></td>
 <td>Boise, ID, US<br/>Manassas, VA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43812075">Apply</a></td>

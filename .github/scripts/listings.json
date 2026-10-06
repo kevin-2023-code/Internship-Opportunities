@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-06T04:12:48.195Z",
-  "count": 941,
+  "listingsChangedAt": "2026-10-06T11:38:51.710Z",
+  "count": 940,
   "listings": [
     {
       "id": "7925f2bc-0256-4f5c-9c58-fba7124e9324",
@@ -13964,39 +13964,6 @@
       "updatedAt": "2026-09-14T00:00:00.000Z"
     },
     {
-      "id": "241d22c0-2807-4adc-b279-b37ef72a8094",
-      "company": "Texas Instruments",
-      "title": "Field Applications Engineering Intern (Dallas, TX)",
-      "locations": [
-        "Dallas, TX, United States",
-        "Austin, TX, United States",
-        "Irvine, CA, United States",
-        "MI, United States",
-        "Waltham, MA, United States",
-        "Bellevue, WA, United States"
-      ],
-      "cities": [
-        "Austin, TX",
-        "Bellevue, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013813",
-      "url": "https://trueinterview.io/jobs/241d22c0-2807-4adc-b279-b37ef72a8094",
-      "postedAt": "2026-09-14T00:00:00.000Z",
-      "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
       "id": "1d525a0c-453f-4799-b56e-2dd1ae050754",
       "company": "Formlabs",
       "title": "Print Process Intern (Winter/Spring 2027)",
@@ -24913,11 +24880,11 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "senior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "bigtech-careers",
