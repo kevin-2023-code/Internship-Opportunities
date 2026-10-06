@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**124 open roles.** 105 in the United States & Canada · 19 elsewhere in the world.
+**125 open roles.** 106 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/e49aa6ab-57a5-43c2-b70c-ac42cd50621c">2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8257205">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Tensorwave</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1ea5278-d2ab-4a8d-8b3a-0d1a6010a899">Developer Community Engagement Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ec0227f5-8ba4-4abb-814d-96597d6340b3">Software Engineering Intern</a></td>
+<td>Las Vegas, Nevada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/a016b52a-f0bc-4584-bd1a-467cf591c910">Systems Software Engineer Intern</a></td>
+<td>Bloomington, Minnesota, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fd8cb0e-7890-45ba-b7be-d1c346d1d991">Enterprise Software Development (EDA Tools) Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54578?lang=en-us">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -208,13 +222,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5f3ae1c-22bc-4243-8c20-98391a9461d0">Cloud Developer Intern</a></td>
-<td>Aguadilla, Puerto Rico, Puerto Rico<br/>San Juan, Puerto Rico, Puerto Rico</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-1">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1fdfe2bc-6058-42ba-95e2-3149035e3504">Software Intern</a></td>
 <td>Aguadilla, Puerto Rico, Puerto Rico<br/>San Juan, Puerto Rico, Puerto Rico</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**54 open roles.** 47 in the United States & Canada · 7 elsewhere in the world.
+**55 open roles.** 48 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Tensorwave</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1ea5278-d2ab-4a8d-8b3a-0d1a6010a899">Developer Community Engagement Intern</a></td>
+<td>Las Vegas, Nevada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3c72e024-8ee3-4559-87a1-c483f4c767d5">Design Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/9c76395d-b5fe-4a9e-ba59-820b3e9278c0/application">Apply</a></td>

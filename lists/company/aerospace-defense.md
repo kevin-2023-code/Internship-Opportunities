@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**50 open roles.** 48 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**55 open roles.** 53 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/7925f2bc-0256-4f5c-9c58-fba7124e9324">Winter 2027 Reliability Engineer Co-op</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257693007?gh_jid=5257693007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/07f3f19a-7aa6-4370-8e30-3f7d0ef357e9">2027 Systems Engineer Intern</a></td>
+<td>Boston, Massachusetts, United States<br/>Seattle, Washington, United States<br/>Costa Mesa, California, United States<br/>+3 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cfb365ae-4c4a-4f5d-a649-ac18b5691d49">2027 Reliability Engineer Intern</a></td>
+<td>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6d789753-57cb-4fb6-8468-4f6995fad401">2027 Quality &amp; Test Engineer Intern</a></td>
+<td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States<br/>Irvine, California, United States<br/>+4 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/03076fa9-9164-4468-87d7-c17bdb530391">Winter 2027 Quality &amp; Test Engineer Co-op</a></td>
+<td>Ashville, Ohio, United States<br/>Santa Ana, California, United States<br/>Ashville, OH (Arsenal 1)</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257571007?gh_jid=5257571007">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Varda Space Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/05974d86-8d20-4a00-9a8b-9c57a61317db">Aerodynamics &amp; Analysis Engineering Internship - Summer 2027</a></td>

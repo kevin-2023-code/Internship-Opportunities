@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**15 open roles.** 12 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**17 open roles.** 14 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graymatter Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba9be562-5d5e-4916-b9e3-75b9cdc5e22a">Mechanical Design Intern - Immediate Fill</a></td>
+<td>Los Angeles - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/773aa23e-1faf-47f9-bd80-701b6c00f4c4/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bobyard</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbaef0fd-bccc-4d9e-bc5d-6f19146a182b">Computer Vision Research Engineer - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tensorwave</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1ea5278-d2ab-4a8d-8b3a-0d1a6010a899">Developer Community Engagement Intern</a></td>

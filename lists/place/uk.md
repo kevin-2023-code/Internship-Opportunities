@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**19 open roles.** 4 in the United States & Canada · 15 elsewhere in the world.
+**18 open roles.** 3 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United Kingdom, Edinburgh, SC, Freer<br/>United Kingdom, Glasgow<br/>United Kingdom, Hayes<br/>+1 more</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/FY27-Engineering-Internship-United-Kingdom_R266707">Apply</a></td>
 <td align="center">26 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudson River Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1e2a05f-0400-48a8-b756-4eab904f7589">Data Scientist Intern - 2027</a></td>
-<td>London, United Kingdom<br/>New York, NY<br/>New York City</td>
-<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**261 open roles.** 260 in the United States & Canada · 1 elsewhere in the world.
+**265 open roles.** 264 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bobyard</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbaef0fd-bccc-4d9e-bc5d-6f19146a182b">Computer Vision Research Engineer - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e49aa6ab-57a5-43c2-b70c-ac42cd50621c">2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra</a></td>
@@ -60,6 +67,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c05900d9-9cdb-4eb0-adf1-3440a2ad0212">Intern- Product Marketing</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972126447">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/34223099-d42a-4a14-9a25-47cf470f1c1a">AI Solution Architect - Graduate Intern</a></td>
 <td>US, California, Santa Clara, United States of America</td>
@@ -78,6 +92,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc23dcb0-1f66-4650-b075-0011f9a9a4a0">Research Intern, Efficient Deep Learning - 2027</a></td>
+<td>Santa Clara, CA, US<br/>CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397684037">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -1825,6 +1846,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b21baabf-9f87-40d8-9bfd-292e7ad1645d">Internship - Technical Product Marketing</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876872">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/92f6506c-c6a2-4099-bba1-057398faf414">Internship - Embedded Systems Engineer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971808713">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**112 open roles.**
+**116 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Graymatter Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba9be562-5d5e-4916-b9e3-75b9cdc5e22a">Mechanical Design Intern - Immediate Fill</a></td>
+<td>Los Angeles - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/773aa23e-1faf-47f9-bd80-701b6c00f4c4/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/77936936-073d-4b84-8bdf-36d6249f7576">Electrical Engineering Intern</a></td>
+<td>Sunnyvale, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1105729655266553/">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/50ea31a7-7f10-478f-8e17-c903dbd8178d">CPU Core Physical Design Technical Graduate Intern, Spring</a></td>
+<td>US, California, Folsom, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/09e38bbf-fc79-4917-8c00-a6743e21562f">Hardware Engineer Intern, BS - Summer 2027</a></td>
@@ -785,6 +806,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/30de5bab-7988-4bc9-b56c-7cc4d08e29d5">2027 Masters Hardware Engineering intern/co-op</a></td>
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91178?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e94feea8-d49e-4292-a5a1-27d90e288c2d">2027 Undergrad Hardware Design Verification Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90811?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

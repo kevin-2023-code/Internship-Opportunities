@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**34 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/07f3f19a-7aa6-4370-8e30-3f7d0ef357e9">2027 Systems Engineer Intern</a></td>
+<td>Fort Collins, Colorado, United States<br/>Boston, Massachusetts, United States<br/>Seattle, Washington, United States<br/>+3 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d0c5928-8a9c-434a-8b03-7356f884a4c9">IT Engineer Generalist, Intern</a></td>

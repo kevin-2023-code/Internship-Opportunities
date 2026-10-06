@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**49 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Woolpert</strong></td>
+<td><a href="https://trueinterview.io/jobs/45f2420a-0118-4673-9b97-bfb0fb56eb74">Water Resource Internship (Summer 2027)</a></td>
+<td>Columbia, SC<br/>Greenville, SC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4426091009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b1a498d-1a3c-4a44-91b0-f785ba144856">ASIC Engineering Intern</a></td>

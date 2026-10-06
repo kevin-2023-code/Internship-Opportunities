@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**440 open roles.** 428 in the United States & Canada · 12 elsewhere in the world.
+**465 open roles.** 453 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,146 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1342241-5fbd-4168-addc-9e62d58c22ed">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Cupertino, California, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Austin, TX<br/>Austin, Texas, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
+<td align="center">27 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Axon</strong></td>
+<td><a href="https://trueinterview.io/jobs/bddbb5c1-a510-4ff9-a137-8f8c2989ba0c">2027 US Mechanical Engineering Internship</a></td>
+<td>Arizona-HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7978840003">Apply</a></td>
+<td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Jensen Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/29247ebc-b2f9-4237-be7e-1e35849c3982">Intern, Fire Protection Engineering</a></td>
+<td>Concord, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jensenhughes/jobs/5405848008">Apply</a></td>
+<td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Eight Sleep</strong></td>
+<td><a href="https://trueinterview.io/jobs/48625913-3f7f-49bd-9c17-472e3e342181">Hardware Support &amp; Test Intern</a> 🛂</td>
+<td>San Francisco, CA<br/>SF</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application">Apply</a></td>
+<td align="center">26 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Kodiak</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0">Winter 2027 Intern, Electrical Engineering</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4382626009">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/08faa839-7029-4acb-b5ff-18596acb752d">Student Internship - Construction Materials Testing</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396195008">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Ati</strong></td>
+<td><a href="https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a">Mechanical Engineering Internship</a></td>
+<td>Woburn, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.workable.com/view/ukV39FwFAbMxjqcrzBvHyi/mechanical-engineering-internship-in-woburn-at-ati">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/c22dc523-66f0-4030-aab1-8b3a4b675276">2027 Masters ASIC Package Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91469?lang=en-us">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e52e12d9-6c07-4153-bc93-b6e837fbdb3d">2027 Undergrad ASIC Package Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91463?lang=en-us">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/493470dc-1b8c-4ef0-87a7-d85bda7f2a36">Intern - Process Development Engineer, 3D DRAM CMP</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43760110">Apply</a></td>
+<td align="center">25 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
+<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
+<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/b80f91dd-412c-451f-ac8e-77b28b8299a4">Intern - Digital IP Design Engineer, DRAM</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43815517">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0a4ada63-4325-459c-9637-a58a690cc052">Intern - Process Development Engineer, 3D DRAM Photo</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43648212">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7d7b95eb-88f3-4bb3-ba76-7a536dc5a478">Intern - Process Development Engineer, Planar DRAM CMP</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43814569">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7">Intern - Realtime Defect Analysis (RDA) Yield Technology</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
+<td align="center">24 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f">Intern - Product Yield Enhancement Eng</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43944097">Apply</a></td>
+<td align="center">23 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/649fda21-30e5-49c3-9953-ac4dbc4cf1db">Intern - TD Site Industrial Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43944098">Apply</a></td>
+<td align="center">23 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/1be9e7c0-d75b-48f7-9967-fd67f36e9ff3">System Integration Engineer Intern</a></td>
+<td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/System-Integration-Engineer-Intern_R265305">Apply</a></td>
+<td align="center">22 Aug 2026</td>
+</tr>
 <tr>
 <td><strong>Lab37</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b4e925a-04ad-4edd-a08d-dac47bdc1a81">Mechanical Design Engineering Intern‬</a></td>
@@ -80,9 +220,30 @@
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f49f484b-f335-45f8-979d-8d9a7af37e4c">2027 Masters Product Development Engineering Intern/Co-op</a></td>
+<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91228?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c6c0c9d-ed8b-4deb-8f3f-588644c8ec3b">2027 Undergrad Firmware Engineering Co-op/Intern</a></td>
 <td>San Jose, California, United States<br/>US, CA, Santa Clara<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90807?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c1d82505-4b00-43ab-9941-9e92f875c12c">2027 Undergrad Firmware Engineering Intern/Co-op</a></td>
+<td>Austin, TX<br/>US, TX, Austin<br/>Austin, Texas, United States<br/>+6 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90801?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e94feea8-d49e-4292-a5a1-27d90e288c2d">2027 Undergrad Hardware Design Verification Engineering Co-op/Intern</a></td>
+<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90811?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
@@ -100,10 +261,24 @@
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d702743e-e558-4c1d-89fb-60f6603ede96">Summer 2027 Masters Field Applications Engineer Intern</a></td>
+<td>San Jose, California, United States<br/>US, CA, San Jose</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91239?lang=en-us">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/0bdb8a27-62f5-458b-9968-30f25fecbf24">Mixed Signal Engineer Intern</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, NC, Durham</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Mixed-Signal-Engineer-Intern_R265299">Apply</a></td>
+<td align="center">20 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b21baabf-9f87-40d8-9bfd-292e7ad1645d">Internship - Technical Product Marketing</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876872">Apply</a></td>
 <td align="center">20 Aug 2026</td>
 </tr>
 <tr>

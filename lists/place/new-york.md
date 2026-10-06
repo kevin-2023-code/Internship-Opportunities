@@ -81,13 +81,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Hudson River Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1e2a05f-0400-48a8-b756-4eab904f7589">Data Scientist Intern - 2027</a></td>
-<td>New York, NY<br/>London, United Kingdom<br/>New York City</td>
-<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22">Internal Audit Analytics Intern</a></td>
 <td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
@@ -121,6 +114,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hudson River Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/507b98ef-8d84-48e0-bc67-7df43c88d50f">PhD Winter Internship - 2027</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741">Apply</a></td>
+<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>QUALCOMM</strong></td>

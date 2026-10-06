@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world.
+**23 open roles.** 20 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/c05900d9-9cdb-4eb0-adf1-3440a2ad0212">Intern- Product Marketing</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808972126447">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/04753d31-2f75-4654-9709-505db9088cfe">Summer 2027: Finance Transformation &amp; Analytics Intern</a></td>

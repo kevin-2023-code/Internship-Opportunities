@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**24 open roles.**
+**26 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Bobyard</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbaef0fd-bccc-4d9e-bc5d-6f19146a182b">Computer Vision Research Engineer - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/eea0d276-5e04-48bf-8817-0cf7cd858ca2">Spring/Summer 2027 PhD AI Agentic/ML System Co-op</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91767?lang=en-us">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc23dcb0-1f66-4650-b075-0011f9a9a4a0">Research Intern, Efficient Deep Learning - 2027</a></td>
+<td>Santa Clara, CA, US<br/>CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397684037">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

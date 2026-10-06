@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**37 open roles.** 31 in the United States & Canada · 6 elsewhere in the world.
+**38 open roles.** 32 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4362df05-75d3-4217-8e58-0b94957f1286">IT Service Desk Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/b98359ff-2f74-4e48-a57a-81bb5f5ef7f5/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d0c5928-8a9c-434a-8b03-7356f884a4c9">IT Engineer Generalist, Intern</a></td>
+<td>Santa Rosa, California, United States<br/>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54716?lang=en-us">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

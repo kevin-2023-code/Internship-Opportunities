@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**12 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e06ec01-d493-4801-b47b-241d379af118">2027 Intern - Applied and Research Scientist/Engineer</a></td>
 <td>San Jose, California, United States of America<br/>San Francisco, California, United States of America<br/>Seattle, Washington, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/24fd5b34-8791-470c-a8e0-014ff60b2833">Spring/Summer 2027 PhD Large Language Model Engineer Co-op</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91764?lang=en-us">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

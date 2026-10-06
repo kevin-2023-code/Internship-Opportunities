@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**53 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**56 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Woolpert</strong></td>
+<td><a href="https://trueinterview.io/jobs/891bacac-14a8-450c-82bd-9c53a57d211c">Aviation Civil Internship - Kansas City (Summer 2027)</a></td>
+<td>Kansas City, MO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4428932009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8cd32f0-cd7f-4b90-adb0-8b89f681bb04">Aviation Civil Internship - Utah (Summer 2027)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4428513009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/45f2420a-0118-4673-9b97-bfb0fb56eb74">Water Resource Internship (Summer 2027)</a></td>
+<td>Columbia, SC<br/>Greenville, SC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4426091009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Apex Companies</strong></td>
 <td><a href="https://trueinterview.io/jobs/656c71bb-c9a1-44e7-bb6f-858a4352720c">Co-Op/Intern</a></td>

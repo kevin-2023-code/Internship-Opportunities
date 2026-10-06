@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**24 open roles.** 21 in the United States & Canada · 3 elsewhere in the world.
+**23 open roles.** 20 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudson River Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1e2a05f-0400-48a8-b756-4eab904f7589">Data Scientist Intern - 2027</a></td>
-<td>New York, NY<br/>London, United Kingdom<br/>New York City</td>
-<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Epic Games</strong></td>

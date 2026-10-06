@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**9 open roles.** 2 in the United States & Canada · 7 elsewhere in the world.
+**10 open roles.** 3 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hudson River Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/507b98ef-8d84-48e0-bc67-7df43c88d50f">PhD Winter Internship - 2027</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1587313-c74f-42e6-af65-c54a2bca4db8">2027 PhD Quantitative Research Intern</a></td>

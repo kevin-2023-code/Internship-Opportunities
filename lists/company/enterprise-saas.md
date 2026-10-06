@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**53 open roles.** 49 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**54 open roles.** 50 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bobyard</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbaef0fd-bccc-4d9e-bc5d-6f19146a182b">Computer Vision Research Engineer - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c0ade7e-ea91-417d-a927-1346dfd4c4c9">Data Engineer Intern, 2027 Summer U.S.</a> 🌐</td>

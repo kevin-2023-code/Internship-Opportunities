@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**23 open roles.** 8 in the United States & Canada · 15 elsewhere in the world.
+**24 open roles.** 9 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,6 +30,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>London<br/>New York, NY<br/>New York, New York</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hudson River Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/507b98ef-8d84-48e0-bc67-7df43c88d50f">PhD Winter Internship - 2027</a></td>
+<td>New York, NY<br/>New York City</td>
+<td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741">Apply</a></td>
+<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Graham Capital Management</strong></td>
