@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-07T01:56:37.813Z",
-  "count": 976,
+  "listingsChangedAt": "2026-10-07T08:07:01.684Z",
+  "count": 978,
   "listings": [
     {
       "id": "a4798952-13f5-432c-804b-0e901a3f843d",
@@ -829,6 +829,58 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Data-Sience-internship_1214255",
       "url": "https://trueinterview.io/jobs/692cfb8c-645d-4e3a-9bca-1844a35fd457",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "de205d4f-e726-470c-9005-6761e67ccc71",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Electrical Engineering Labs Intern",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083",
+      "url": "https://trueinterview.io/jobs/de205d4f-e726-470c-9005-6761e67ccc71",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "4e772a37-c89e-4f70-90e1-3a7d226baabe",
+      "company": "Hewlett Packard Enterprise",
+      "title": "PCB Layout Automation Intern",
+      "locations": [
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/PCB-Layout-Automation-Intern_1214127",
+      "url": "https://trueinterview.io/jobs/4e772a37-c89e-4f70-90e1-3a7d226baabe",
       "postedAt": "2026-10-06T00:00:00.000Z",
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
@@ -19309,7 +19361,6 @@
         "New York"
       ],
       "cities": [
-        "New York, NY",
         "New York, NY"
       ],
       "countries": [
@@ -20980,32 +21031,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790313767806",
       "url": "https://trueinterview.io/jobs/bf013447-373a-4333-b320-fe65547a7caf",
-      "postedAt": "2026-09-02T00:00:00.000Z",
-      "updatedAt": "2026-09-02T00:00:00.000Z"
-    },
-    {
-      "id": "9c64d2b9-26f9-4843-9a16-a8b1c0ccb031",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Hardware Engineering Intern",
-      "locations": [
-        "Spring, Texas, United States of America",
-        "Chippewa Falls, Wisconsin, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408",
-      "url": "https://trueinterview.io/jobs/9c64d2b9-26f9-4843-9a16-a8b1c0ccb031",
       "postedAt": "2026-09-02T00:00:00.000Z",
       "updatedAt": "2026-09-02T00:00:00.000Z"
     },
@@ -26025,6 +26050,32 @@
       "updatedAt": "2026-08-14T00:00:00.000Z"
     },
     {
+      "id": "f26e0164-f25b-4392-b17f-de39e570f14b",
+      "company": "Keysight",
+      "title": "Research Intern (PhD students)",
+      "locations": [
+        "US-CA-Santa Rosa-Bldg 4",
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/53739?lang=en-us",
+      "url": "https://trueinterview.io/jobs/f26e0164-f25b-4392-b17f-de39e570f14b",
+      "postedAt": "2026-08-14T00:00:00.000Z",
+      "updatedAt": "2026-08-14T00:00:00.000Z"
+    },
+    {
       "id": "3c6d79b8-b80a-40f4-b636-0f54e35a9bd0",
       "company": "Fieldai",
       "title": "Electrical Engineer, Robotics Hardware- Part-time Internship",
@@ -26139,11 +26190,11 @@
       "cities": [],
       "countries": [],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
+      "role": "Embedded Engineer",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "1point3acres",
