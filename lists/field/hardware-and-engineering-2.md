@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**479 open roles.** 467 in the United States & Canada · 12 elsewhere in the world.
+**480 open roles.** 468 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/69d49c29-2118-4e89-8206-dfa50f2d06fa">Civil Engineering Internship - Rail Track</a></td>
+<td>Loveland, CO<br/>Omaha, NE</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405907008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ead8cecc-b2e5-4096-bf89-c7ec0be0cbfc">Engineering Internship - Building Automation Systems</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5399497008">Apply</a></td>
