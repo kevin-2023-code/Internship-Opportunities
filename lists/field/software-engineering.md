@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**245 open roles.** 219 in the United States & Canada · 26 elsewhere in the world.
+**246 open roles.** 221 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/f262f177-876d-4d1b-98aa-2c1c60468da9">Transmission Engineering Co-op - Spring/Summer 2027</a></td>
-<td>Mount Laurel, NJ, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95920">Apply</a></td>
+<td><strong>Synopsys</strong></td>
+<td><a href="https://trueinterview.io/jobs/9db78dec-b694-48e2-ac8f-d7c508933e37">AI &amp; Automation Engineering Internship - Summer 2027</a></td>
+<td>Sunnyvale, California</td>
+<td align="center"><a href="https://careers.synopsys.com/job/sunnyvale/ai-and-automation-engineering-internship-summer-2027/44408/101631905360">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3e2722-b175-4503-9cde-825c3ce2b23a">Security Engineer Intern [Winter 2027]</a></td>
+<td>San Jose, CA<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4719593006">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd958407-a60f-48b5-9f10-a9e2f2e44c50">Software Engineering Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>NYC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f34aa73-2cea-493f-8cf4-d46ba9653deb">2027 Summer Intern, BS, Software Engineer, Model Eval</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8257660">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Memx</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4486bfa-f4a6-465b-bf5c-debfdeab5d55">Information Security Intern, Summer 2027 (Hybrid)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5445236008">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
@@ -60,31 +88,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9111c5a-fcd9-4d9e-bfef-e6d705bab001">(Epi) - Module Development Engineer - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820">Apply</a></td>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9327e0a-2136-4ef6-98e8-f5ae4c4946bb">Software development - internship</a></td>
+<td>Aguadilla, Puerto Rico, Puerto Rico</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-development---internship_1213413">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5aea309-dc2c-4826-b3b7-24ed43bb4173">Software Development Engineer Intern - 6G Digital Twin and Visualization Platform</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54319?lang=en-us">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5cfe548-bd74-4aa8-9918-ce9ac9e0eb12">Field Applications Engineer (FAE) Intern - Summer 2027</a></td>
-<td>Austin (Oakhill, Office), United States of America<br/>Novi<br/>San Jose (Holger Way)</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Field-Applications-Engineer--FAE--Intern---Summer-2027_R-10067221">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/d9a5303c-3dc9-44d0-8f6d-de933bead34b">R&amp;D Hardware Engineering Internship</a></td>
+<td>Sacramento, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54771?lang=en-us">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c37a4729-952d-4d3d-a450-22a7f285e3cf">Project Engineer / Project Management Intern - Summer 2027</a></td>
-<td>Chandler (Office), United States of America</td>
-<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Project-Engineer---Project-Management-Intern---Summer-2027_R-10064585">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/d5aea309-dc2c-4826-b3b7-24ed43bb4173">Software Development Engineer Intern - 6G Digital Twin and Visualization Platform</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54319?lang=en-us">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
@@ -487,13 +508,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d92961b9-b9cb-43ad-86c9-1a7fe6f06239">Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)</a></td>
-<td>Redmond, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e2c4840-e722-49ca-931c-0aa116740cb4">AI Operations Engineer I (Intern) – United States</a></td>
 <td>San Jose, California, US, United States of America<br/>San Francisco, California, United States of America<br/>Milpitas, California, United States of America<br/>+3 more</td>
@@ -645,13 +659,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b">Software Engineering Intern</a></td>
 <td>San Francisco, CA (Hybrid)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac483497-0ab4-4775-83b4-c2656a79f74b">Offensive Security Intern (Summer 2027)</a></td>
-<td>Bellevue, WA<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
@@ -1072,6 +1079,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df99235f-6439-4087-a1b7-c1edaf17e289">Software Engineering Intern, Summer 2027</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
+<td>Mexico City, Mexico<br/>San Francisco, CA<br/>Flex - Mexico</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -1658,13 +1672,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8461aa32-7a8f-4c7c-b372-98a3ce297201">Software Engineer Intern, Frontend (Summer 2027)</a></td>
 <td>Mexico City, Mexico<br/>Flex - Mexico</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
-<td>Mexico City, Mexico<br/>Flex - Mexico<br/>San Francisco, CA</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

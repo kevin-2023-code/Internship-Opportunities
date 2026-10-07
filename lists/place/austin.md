@@ -18,18 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e9b9f10-336e-40ff-bb29-25f70d718c3d">PCIe Design Verification Intern - Spring 2027</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398029164">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NXP Semiconductors</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5cfe548-bd74-4aa8-9918-ce9ac9e0eb12">Field Applications Engineer (FAE) Intern - Summer 2027</a></td>
 <td>Austin (Oakhill, Office), United States of America<br/>Novi<br/>San Jose (Holger Way)</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Field-Applications-Engineer--FAE--Intern---Summer-2027_R-10067221">Apply</a></td>
 <td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1db53a6-824b-4395-b945-657c2b47f0e1">People Analytics Data Engineering Intern</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790">Apply</a></td>
-<td align="center">5 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>

@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**82 open roles.**
+**84 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Clēnera, Llc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed6f45a9-85e1-4f21-8142-aac568cdf0eb">Engineering Intern (Summer 2027)</a></td>
+<td>Boise, Idaho, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/clenera/jobs/5259447007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/640aee41-ab6c-4488-8ea7-9c607952b5d0">Data Engineering Intern (January 2027)</a></td>
+<td>Boise, Idaho, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/clenera/jobs/5259423007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9111c5a-fcd9-4d9e-bfef-e6d705bab001">(Epi) - Module Development Engineer - (PhD Intern)</a></td>

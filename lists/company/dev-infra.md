@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**16 open roles.** Cloud, CDNs, databases, data platforms, observability and DevOps.
+**17 open roles.** Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1db53a6-824b-4395-b945-657c2b47f0e1">People Analytics Data Engineering Intern</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790">Apply</a></td>
-<td align="center">5 Oct 2026</td>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7872cbc-53bb-45c9-8bca-67f5b2785da8">AI/ML PhD Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fd958407-a60f-48b5-9f10-a9e2f2e44c50">Software Engineering Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>NYC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Veeam Software</strong></td>

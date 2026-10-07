@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5f5614d-b93c-4b79-bf90-7836b92cd7d0">AI Engineering Co-op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566">Apply</a></td>
-<td align="center">6 Oct 2026</td>
+<td><strong>Synopsys</strong></td>
+<td><a href="https://trueinterview.io/jobs/9db78dec-b694-48e2-ac8f-d7c508933e37">AI &amp; Automation Engineering Internship - Summer 2027</a></td>
+<td>Sunnyvale, California</td>
+<td align="center"><a href="https://careers.synopsys.com/job/sunnyvale/ai-and-automation-engineering-internship-summer-2027/44408/101631905360">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**294 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**298 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Synopsys</strong></td>
+<td><a href="https://trueinterview.io/jobs/9db78dec-b694-48e2-ac8f-d7c508933e37">AI &amp; Automation Engineering Internship - Summer 2027</a></td>
+<td>Sunnyvale, California</td>
+<td align="center"><a href="https://careers.synopsys.com/job/sunnyvale/ai-and-automation-engineering-internship-summer-2027/44408/101631905360">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c3bb31c-8859-4bfc-a447-4dea9d4471b8">2026 Process Engineer Co-op - Adv Degree (Gloucester, MA)</a></td>
+<td>Gloucester, MA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317181632">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0d1e70e7-2897-4502-a121-cecf0a66087d">Summer 2027 Global Product Support Intern- Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318684376">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Cadence Design Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/85317df8-ccbc-4422-adaf-3e71a3a8eab7">CST Application Engineer Intern - Silicon</a></td>
 <td>San Jose, CA<br/>SAN JOSE, United States of America</td>
@@ -29,6 +50,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9111c5a-fcd9-4d9e-bfef-e6d705bab001">(Epi) - Module Development Engineer - (PhD Intern)</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd2adf9f-944b-4a8d-9058-0c02dd0b5c06">Digital Twin Eng Apps Intern</a></td>
+<td>Ann Arbor, MI, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Digital-Twin-Eng-Apps-Intern_2641775-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ab52977f-a3bb-4c7d-9c7e-1f235ab9d090">PLM BI &amp; Analytics Intern</a></td>
+<td>Ann Arbor, MI, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e9b9f10-336e-40ff-bb29-25f70d718c3d">PCIe Design Verification Intern - Spring 2027</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398029164">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
@@ -859,20 +901,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/85b5b38f-bf9b-4790-9de9-f561c5084d44">Equipment Engineer 2027 Co-Op</a></td>
-<td>Albany, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Equipment-Engineer-Spring-2027-Co-Op_R26-01571">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba">Manufacturing Engineer 2027 Summer Intern</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/163bba15-7280-4679-b616-582870d827a2">Process Engineer Spring 2027 Co-Op</a></td>
 <td>Albany, United States of America</td>
 <td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Process-Engineer-Spring-2027-Co-Op_R26-01554">Apply</a></td>

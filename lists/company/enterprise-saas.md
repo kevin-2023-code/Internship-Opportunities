@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**54 open roles.** 50 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**55 open roles.** 51 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4798952-13f5-432c-804b-0e901a3f843d">Summer 2027: Technical Compliance Manager Intern</a></td>
+<td>San Diego, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/san-diego/summer-2027-technical-compliance-manager-intern/27595/101632992496">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bobyard</strong></td>
 <td><a href="https://trueinterview.io/jobs/fbaef0fd-bccc-4d9e-bc5d-6f19146a182b">Computer Vision Research Engineer - Intern</a></td>

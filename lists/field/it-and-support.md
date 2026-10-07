@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**39 open roles.** 33 in the United States & Canada · 6 elsewhere in the world.
+**42 open roles.** 36 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4798952-13f5-432c-804b-0e901a3f843d">Summer 2027: Technical Compliance Manager Intern</a></td>
+<td>San Diego, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/san-diego/summer-2027-technical-compliance-manager-intern/27595/101632992496">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nuharbor Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5dbfd08-0aa7-44f0-b673-379f1243f5a9">Summer Internship</a></td>
+<td>Burlington, Vermont<br/>Vermont</td>
+<td align="center"><a href="https://www.nuharborsecurity.com/careers?gh_jid=8259956">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Memx</strong></td>
+<td><a href="https://trueinterview.io/jobs/88540f2e-46b8-4cf7-9e73-2a8bafd42183">Network Engineering Intern, Summer 2027 (Hybrid)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5446002008">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tensorwave</strong></td>
 <td><a href="https://trueinterview.io/jobs/076f95ee-3f2f-4ff2-bbaa-a465e4a092dc">Network Engineering Intern</a></td>
 <td>Las Vegas, Nevada</td>
@@ -25,7 +46,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd2adf9f-944b-4a8d-9058-0c02dd0b5c06">Digital Twin Eng Apps Intern</a></td>
+<td>Ann Arbor, MI, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Digital-Twin-Eng-Apps-Intern_2641775-1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tensorwave</strong></td>
 <td><a href="https://trueinterview.io/jobs/4362df05-75d3-4217-8e58-0b94957f1286">IT Service Desk Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/b98359ff-2f74-4e48-a57a-81bb5f5ef7f5/application">Apply</a></td>
@@ -197,13 +225,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de2b2752-49c6-46c9-8ba8-56b9e702d9fb">Technical Support Engineering Intern - Summer 2027</a></td>
 <td>San Mateo, CA United States<br/>Bay-HQ office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5233011007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nuharbor Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/bca0440e-d50b-4cc7-9488-a93004915ce3">Information Assurance Intern</a></td>
-<td>Burlington, Vermont<br/>Vermont</td>
-<td align="center"><a href="https://www.nuharborsecurity.com/careers?gh_jid=8187026">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

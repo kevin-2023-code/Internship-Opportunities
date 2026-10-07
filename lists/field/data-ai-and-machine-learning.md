@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**126 open roles.** 117 in the United States & Canada · 9 elsewhere in the world.
+**130 open roles.** 121 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7872cbc-53bb-45c9-8bca-67f5b2785da8">AI/ML PhD Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clēnera, Llc</strong></td>
+<td><a href="https://trueinterview.io/jobs/640aee41-ab6c-4488-8ea7-9c607952b5d0">Data Engineering Intern (January 2027)</a></td>
+<td>Boise, Idaho, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/clenera/jobs/5259423007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/57d36234-5bee-443a-b374-f6337fb4a78a">2027 Consumer &amp; Community Banking - Risk Modeling Associate Program - Summer Internship</a></td>
+<td>Wilmington, DE, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/c06c82b3-de8c-4102-8e5b-fb51cc17d99a">Software Engineer Intern, Machine Learning, PhD (Summer 2027)</a></td>
 <td>San Francisco, CA<br/>San Francisco Office</td>
@@ -25,10 +46,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/be04b463-5eb0-4cd3-a719-a87f58ac30f2">2027 Summer Intern, BS, Waymo ML Ops &amp; Automation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8257237">Apply</a></td>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/18149b8e-5d8e-4b18-95c6-cb49ca846639">Global Operations Supplier Process Engineer Co-Op</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298595">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/692cfb8c-645d-4e3a-9bca-1844a35fd457">Data Sience internship</a></td>
+<td>Aguadilla, Puerto Rico, Puerto Rico</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Data-Sience-internship_1214255">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab52977f-a3bb-4c7d-9c7e-1f235ab9d090">PLM BI &amp; Analytics Intern</a></td>
+<td>Ann Arbor, MI, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
@@ -43,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fbaef0fd-bccc-4d9e-bc5d-6f19146a182b">Computer Vision Research Engineer - Intern</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1db53a6-824b-4395-b945-657c2b47f0e1">People Analytics Data Engineering Intern</a></td>
-<td>Austin, TX<br/>Hybrid</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

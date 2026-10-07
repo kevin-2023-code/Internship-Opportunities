@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**52 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -221,13 +221,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d92961b9-b9cb-43ad-86c9-1a7fe6f06239">Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)</a></td>
-<td>Redmond, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8">Data Scientist Intern, 2027 Summer U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
@@ -268,13 +261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle - United States - Seattle, Washington United States<br/>San Francisco - United States - San Francisco, California 94104 United States</td>
 <td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac483497-0ab4-4775-83b4-c2656a79f74b">Offensive Security Intern (Summer 2027)</a></td>
-<td>Bellevue, WA<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>

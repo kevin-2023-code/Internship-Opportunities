@@ -19,9 +19,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/be04b463-5eb0-4cd3-a719-a87f58ac30f2">2027 Summer Intern, BS, Waymo ML Ops &amp; Automation</a></td>
+<td><a href="https://trueinterview.io/jobs/2f34aa73-2cea-493f-8cf4-d46ba9653deb">2027 Summer Intern, BS, Software Engineer, Model Eval</a></td>
 <td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8257237">Apply</a></td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8257660">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

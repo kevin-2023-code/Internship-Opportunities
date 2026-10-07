@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**481 open roles.** 479 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**490 open roles.** 488 in the United States & Canada · 2 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,69 @@
 <tbody>
 <tr>
 <td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/924ef01c-4b81-4116-b6fe-cd3dfc87e200">Analog IC Design Engineering Intern - Bachelors</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017543">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/05e927d3-4e3e-4587-a5c9-d2856a4f4430">Analog IC Design Engineering Intern - MS/PhD</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017544">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ff35aef6-e7b1-491a-a137-0d790cf65371">Applications Engineering Intern</a></td>
+<td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017537">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3f055774-54cb-4233-8fe5-94f071743a30">Design Verification Engineering Intern - Bachelors</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017545">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/81bd6d1a-e04f-4d49-bf0d-48ac263a4853">Design Verification Engineering Intern - MS/PhD</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017546">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2716e4cd-4d2d-4286-a3b1-f7de9286a9f3">Digital IC Design Engineering Intern - Bachelors</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017547">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b">Digital IC Design Engineering Intern - MS/PhD</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017548">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7d770549-d32f-4d56-826e-55bc086caa10">Packaging Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017567">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c12ca430-e060-4da2-9dfc-95e283d80368">Packaging Engineering Intern MS/PhD</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017568">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/48ea64f7-f7e5-4bfa-95dc-af1f3ee21327">Process Development Engineer Intern - MS/PhD – Dallas</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017569">Apply</a></td>

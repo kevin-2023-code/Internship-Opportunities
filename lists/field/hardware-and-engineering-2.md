@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**469 open roles.** 457 in the United States & Canada · 12 elsewhere in the world.
+**476 open roles.** 464 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,56 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/40c1ad56-150a-44b9-bada-8d0543a43c6a">Electrical Engineering Co-Op</a></td>
+<td>San Francisco - SF9</td>
+<td align="center"><a href="https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td><strong>DLB Associates</strong></td>
+<td><a href="https://trueinterview.io/jobs/d07e0929-0abb-415a-a030-8fc67413c939">Engineer Intern 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=b73168a498cc97ef">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee0c5854-9be0-41b0-9a54-fc6c2eb39a55">Intern - ADV DRAM Process Integration Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44139281">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e9429cf3-01ee-4675-99ab-e41115584fe4">Intern - Dry Etch Equipment Development Engineering</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44247241">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a34a1666-d88b-4223-b12d-eaf98fcf16df">Intern - EDE Thin Films Equipment Engineering</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43943856">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fed778c5-4f04-4a1c-9a5e-460fc2339d66">Intern - Mask Technology</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44246460">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42ad0f60-eefa-47ca-aba8-233caef91692">Intern - RDA/Metrology-Process Shift Engineer, TD</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44247229">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f8a806eb-0f8c-4931-b9b0-35ee55d3dec3">Intern - DRAM Product Test Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44247230">Apply</a></td>

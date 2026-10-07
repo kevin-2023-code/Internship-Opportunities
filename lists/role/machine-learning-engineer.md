@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**29 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7872cbc-53bb-45c9-8bca-67f5b2785da8">AI/ML PhD Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/c06c82b3-de8c-4102-8e5b-fb51cc17d99a">Software Engineer Intern, Machine Learning, PhD (Summer 2027)</a></td>
 <td>San Francisco, CA<br/>San Francisco Office</td>
@@ -25,10 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/be04b463-5eb0-4cd3-a719-a87f58ac30f2">2027 Summer Intern, BS, Waymo ML Ops &amp; Automation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8257237">Apply</a></td>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5f5614d-b93c-4b79-bf90-7836b92cd7d0">AI Engineering Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

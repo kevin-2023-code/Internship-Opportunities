@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**33 open roles.** 29 in the United States & Canada · 4 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**32 open roles.** 28 in the United States & Canada · 4 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -68,13 +68,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Robinhood</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac483497-0ab4-4775-83b4-c2656a79f74b">Offensive Security Intern (Summer 2027)</a></td>
-<td>Bellevue, WA<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&amp;gh_jid=8214142">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b94a1efd-a0fd-43ef-b356-0a6467e0c2d4">Security Risk Management Intern (Summer 2027)</a></td>
 <td>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970">Apply</a></td>
