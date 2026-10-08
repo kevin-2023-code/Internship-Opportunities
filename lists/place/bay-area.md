@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**282 open roles.**
+**285 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
+<td>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/17a13a55-5202-4fa5-93cb-a623a9b5dbd5">Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1092606640401919/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e3d1ef6e-9ff1-4068-b431-b201ee2ecf6c">Manufacturing Test Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1866862250969693/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Happyrobot Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/34c8a538-ff54-49cd-b43e-0c7625dd0c7f">Product Operations Engineer Intern</a></td>
@@ -43,6 +64,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ab6c72f9-c22d-4b2d-8014-28b5ee67f096">ASIC Design Engineer Intern</a></td>
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/374079d0-c4e6-425b-9d1a-d6a3939a67c5">Networking (Power) Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -74,10 +102,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b010ae56-48aa-4d5f-9bd8-ac83d0d80e22">PhD Research Intern, AI-Aided Engineering – 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397975626">Apply</a></td>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/b22cf812-8aa5-4baa-b100-163f056a9fd9">Summer 2027 Internship - Content Design</a></td>
+<td>California - San Francisco, United States of America<br/>Washington - Seattle<br/>Washington - Bellevue</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -352,13 +380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA<br/>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44702762">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/52478d5b-3a04-4f59-a2e1-a74726f6a39f">DFX Engineering Intern</a></td>
-<td>Sunnyvale, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1683903403071591/">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Muon Space</strong></td>

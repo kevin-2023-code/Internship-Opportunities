@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**39 open roles.** 35 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**40 open roles.** 36 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
+<td>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/c06c82b3-de8c-4102-8e5b-fb51cc17d99a">Software Engineer Intern, Machine Learning, PhD (Summer 2027)</a></td>

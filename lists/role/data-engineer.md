@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world.
+**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Panasonic</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3f19fb7-07d1-46bd-9a5a-b6b474a76819">Intern - Data Engineering</a></td>
+<td>Bridgeton, Missouri, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/50772?lang=en-us">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Clēnera, Llc</strong></td>
 <td><a href="https://trueinterview.io/jobs/640aee41-ab6c-4488-8ea7-9c607952b5d0">Data Engineering Intern (January 2027)</a></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**506 open roles.** 503 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**508 open roles.** 505 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
+<td>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/17a13a55-5202-4fa5-93cb-a623a9b5dbd5">Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1092606640401919/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e3d1ef6e-9ff1-4068-b431-b201ee2ecf6c">Manufacturing Test Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1866862250969693/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/1022f464-4610-4374-a744-736c352dde51">Data Science Undergraduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/299978">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc">Data Center Technician, Intern</a></td>
@@ -41,21 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3387fa8e-39d8-4b37-bfb0-09c6e87e54bf">Splunk Solutions Engineer (Intern) - United States</a></td>
-<td>Washington, DC<br/>RTP, North Carolina, US, United States of America<br/>Boulder, Colorado, United States of America<br/>+3 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/046f738b-8fab-4984-b6cc-c2a75eec4f8b">Cost Engineering Intern - Electrical</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20326?lang=en-us">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0ed806db-c755-44b1-ade6-154cdc8d950a">FPGA Engineer Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19836?lang=en-us">Apply</a></td>
@@ -73,6 +87,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ab6c72f9-c22d-4b2d-8014-28b5ee67f096">ASIC Design Engineer Intern</a></td>
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/374079d0-c4e6-425b-9d1a-d6a3939a67c5">Networking (Power) Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -118,10 +139,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b010ae56-48aa-4d5f-9bd8-ac83d0d80e22">PhD Research Intern, AI-Aided Engineering – 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397975626">Apply</a></td>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6d81d3-b43d-45f3-80f6-84e132f440b4">Applied Science: Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986141">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/b22cf812-8aa5-4baa-b100-163f056a9fd9">Summer 2027 Internship - Content Design</a></td>
+<td>California - San Francisco, United States of America<br/>Washington - Seattle<br/>Washington - Bellevue</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -781,13 +809,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chandler (Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Photolithography-Equipment-Intern---Summer-2027_R-10064587">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/52478d5b-3a04-4f59-a2e1-a74726f6a39f">DFX Engineering Intern</a></td>
-<td>Sunnyvale, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1683903403071591/">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>NetApp</strong></td>
@@ -1980,13 +2001,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/a55dce0b-940a-4417-bfcb-80574f5baa20">PhD Research Intern, Fundamental Generative AI - 2027</a></td>
 <td>Santa Clara, CA, US</td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2e538a86-7c13-4b3d-b30d-fd4efeb68a04">Consulting Engineer I (Intern) - United States</a></td>
 <td>Chicago, Illinois, United States of America<br/>RTP, North Carolina, US, United States of America<br/>Richardson, Texas, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a6ea4918-b78a-48a8-a016-fec81c5d666c">Security Consulting Engineer I (Intern) - United States</a></td>
-<td>RTP, North Carolina, US, United States of America<br/>Research Triangle Park, North Carolina, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/0c690d29-dad9-4a6c-af43-d083dc15bc1a">ASIC Firmware and Diagnostic Intern</a></td>
-<td>Chippewa Falls, Wisconsin, United States of America<br/>Bloomington, Minnesota, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/ASIC-Firmware-and-Diagnostic-Intern_1213415">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 </tbody>

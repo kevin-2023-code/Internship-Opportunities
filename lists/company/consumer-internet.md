@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**34 open roles.** Social, search, streaming, messaging and consumer subscription apps.
+**35 open roles.** Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/17a13a55-5202-4fa5-93cb-a623a9b5dbd5">Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1092606640401919/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e3d1ef6e-9ff1-4068-b431-b201ee2ecf6c">Manufacturing Test Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1866862250969693/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc">Data Center Technician, Intern</a></td>
 <td>Los Lunas, NM, United States<br/>Rayville, LA, United States<br/>Fort Worth, TX, United States<br/>+2 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2185283202380208/">Apply</a></td>
@@ -37,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/921722064324989/">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/52478d5b-3a04-4f59-a2e1-a74726f6a39f">DFX Engineering Intern</a></td>
-<td>Sunnyvale, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1683903403071591/">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

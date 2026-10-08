@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**26 open roles.** 23 in the United States & Canada · 3 elsewhere in the world.
+**27 open roles.** 24 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/1022f464-4610-4374-a744-736c352dde51">Data Science Undergraduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/299978">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/d7ed8ace-cd22-49d8-9f8f-68625b819b79">Data Science and Analytics - PhD Intern</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6d81d3-b43d-45f3-80f6-84e132f440b4">Applied Science: Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986141">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -93,13 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>

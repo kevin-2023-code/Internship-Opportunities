@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**31 open roles.** 29 in the United States & Canada · 2 elsewhere in the world.
+**30 open roles.** 28 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0d0307b2-66cd-4e7c-bee3-d4e1f37fc36c">AI Performance Engineering Intern</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b010ae56-48aa-4d5f-9bd8-ac83d0d80e22">PhD Research Intern, AI-Aided Engineering – 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397975626">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

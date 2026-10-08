@@ -18,21 +18,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3387fa8e-39d8-4b37-bfb0-09c6e87e54bf">Splunk Solutions Engineer (Intern) - United States</a></td>
-<td>Washington, DC<br/>RTP, North Carolina, US, United States of America<br/>Boulder, Colorado, United States of America<br/>+3 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084">Apply</a></td>
-<td align="center">7 Oct 2026</td>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/1022f464-4610-4374-a744-736c352dde51">Data Science Undergraduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/299978">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/046f738b-8fab-4984-b6cc-c2a75eec4f8b">Cost Engineering Intern - Electrical</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20326?lang=en-us">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0ed806db-c755-44b1-ade6-154cdc8d950a">FPGA Engineer Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19836?lang=en-us">Apply</a></td>
@@ -50,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ab6c72f9-c22d-4b2d-8014-28b5ee67f096">ASIC Design Engineer Intern</a></td>
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/374079d0-c4e6-425b-9d1a-d6a3939a67c5">Networking (Power) Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

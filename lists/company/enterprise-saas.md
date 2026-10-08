@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**55 open roles.** 51 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**56 open roles.** 52 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a4798952-13f5-432c-804b-0e901a3f843d">Summer 2027: Technical Compliance Manager Intern</a></td>
 <td>San Diego, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/san-diego/summer-2027-technical-compliance-manager-intern/27595/101632992496">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6d81d3-b43d-45f3-80f6-84e132f440b4">Applied Science: Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986141">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/b22cf812-8aa5-4baa-b100-163f056a9fd9">Summer 2027 Internship - Content Design</a></td>
+<td>California - San Francisco, United States of America<br/>Washington - Seattle<br/>Washington - Bellevue</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -246,13 +260,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e8df3d0-83a1-45af-b312-86b50450e4bc">Product Management Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

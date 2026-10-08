@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**52 open roles.**
+**51 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc">Data Center Technician, Intern</a></td>
 <td>Fort Worth, TX, United States<br/>Los Lunas, NM, United States<br/>Rayville, LA, United States<br/>+2 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2185283202380208/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3387fa8e-39d8-4b37-bfb0-09c6e87e54bf">Splunk Solutions Engineer (Intern) - United States</a></td>
-<td>Richardson, Texas, United States of America<br/>Washington, DC<br/>RTP, North Carolina, US, United States of America<br/>+3 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

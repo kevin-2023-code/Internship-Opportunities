@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**50 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3387fa8e-39d8-4b37-bfb0-09c6e87e54bf">Splunk Solutions Engineer (Intern) - United States</a></td>
-<td>Research Triangle Park, North Carolina, United States of America<br/>Washington, DC<br/>RTP, North Carolina, US, United States of America<br/>+3 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Woolpert</strong></td>
 <td><a href="https://trueinterview.io/jobs/45f2420a-0118-4673-9b97-bfb0fb56eb74">Water Resource Internship (Summer 2027)</a></td>

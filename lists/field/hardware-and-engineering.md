@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**484 open roles.** 472 in the United States & Canada · 12 elsewhere in the world.
+**492 open roles.** 480 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/17a13a55-5202-4fa5-93cb-a623a9b5dbd5">Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1092606640401919/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e3d1ef6e-9ff1-4068-b431-b201ee2ecf6c">Manufacturing Test Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1866862250969693/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>K2 Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/8289679a-7200-450e-83d7-adbd5eb79a71">Mission Operations Engineering Intern – Summer 2027</a></td>
@@ -55,10 +69,59 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/374079d0-c4e6-425b-9d1a-d6a3939a67c5">Networking (Power) Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Networking--Power--Intern_1214229">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/184dca0d-e9ca-4730-8a23-366cfeb05ee1">Internship - Validation Engineer</a></td>
+<td>Andover, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971982570">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/03124a45-0fc3-4941-b270-74bdd62a8bc1">Applications Development Engineering Intern - BBP</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/788c21c6-4938-4c79-b5c9-c6e46752c3ee">Product Development Applications Engineer Intern  (Broadband Plasma Division)</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/79a5a9d8-23e7-473d-8983-582982e004b6">2027 RF Engineering Intern - BS/MS</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556436772">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dde2d9ba-400d-436e-bc3c-66bbfefe0b87">Summer 2027 - Process Engineering Intern - BS</a></td>
 <td>Fremont, CA, US</td>
 <td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556046949">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/99418f87-8a71-4144-b587-122e844e2a17">Analog Design Engineering Intern - ATD</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4a96a216-d1a8-4da6-972a-d98c5e8becdf">Process Development Engineer Intern - DLP</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013674">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -542,13 +605,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a8aacb72-3c3e-47e3-89b6-8bccea6199dd">Loads &amp; Dynamics Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0/apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/52478d5b-3a04-4f59-a2e1-a74726f6a39f">DFX Engineering Intern</a></td>
-<td>Sunnyvale, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1683903403071591/">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -2761,62 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c33f3f75-2923-425b-9de7-fb6f49f8cc43">Electrical Engineering Internship - Substation and Power Generation</a></td>
 <td>Lincoln, NE<br/>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5410973008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e1839fa4-98ba-4cf9-8689-c685b9dd74cf">Structural Engineering Internship - Rail Bridge</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405904008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/553e11f0-e23e-47bf-b4a9-f4730ce8b273">Structural Engineering Internship - Bridge</a></td>
-<td>Oklahoma City, OK<br/>Overland Park, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405889008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e40daa5f-2b76-42fd-8787-f26762a268a1">Civil Drafting Internship - Water/Wastewater</a></td>
-<td>North Kansas City, MO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5399464008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ed7d7d56-980b-4708-8cef-3f8010bfbb86">Civil Engineering Internship - Federal Infrastructure Site Design</a></td>
-<td>North Kansas City, MO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396116008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/73d21ac1-96fb-453f-9865-e7c719649011">Electrical Engineering Internship - Federal Infrastructure</a></td>
-<td>North Kansas City, MO<br/>Overland Park, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396125008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/63e319c4-d2ac-4fe7-8be3-121bf35e6839">Engineering Internship - Water/Wastewater</a></td>
-<td>Denver, CO<br/>Fayetteville, AR<br/>Phoenix, AZ<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5397436008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/152cafab-5c3f-410f-8a7f-ade6d49369d2">Mechanical Engineering Internship - Data Center Facilities</a></td>
-<td>North Kansas City, MO<br/>Tulsa, OK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396012008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4b64a054-9cda-45ec-84ac-859fc31b1f34">Mechanical Engineering Internship - Federal Infrastructure</a></td>
-<td>Overland Park, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396095008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>

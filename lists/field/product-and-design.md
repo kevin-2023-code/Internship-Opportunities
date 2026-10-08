@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**57 open roles.** 50 in the United States & Canada · 7 elsewhere in the world.
+**58 open roles.** 51 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/b22cf812-8aa5-4baa-b100-163f056a9fd9">Summer 2027 Internship - Content Design</a></td>
+<td>California - San Francisco, United States of America<br/>Washington - Seattle<br/>Washington - Bellevue</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Knowbe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/79967dd1-df30-444a-8a07-fe753ec454ff">Associate Product Manager Intern (Hybrid)</a></td>

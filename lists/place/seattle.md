@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6d81d3-b43d-45f3-80f6-84e132f440b4">Applied Science: Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986141">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/b22cf812-8aa5-4baa-b100-163f056a9fd9">Summer 2027 Internship - Content Design</a></td>
+<td>Washington - Seattle<br/>Washington - Bellevue<br/>California - San Francisco, United States of America</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/07f3f19a-7aa6-4370-8e30-3f7d0ef357e9">2027 Systems Engineer Intern</a></td>
 <td>Seattle, Washington, United States<br/>Boston, Massachusetts, United States<br/>Costa Mesa, California, United States<br/>+3 more</td>
@@ -121,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556922930">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/52478d5b-3a04-4f59-a2e1-a74726f6a39f">DFX Engineering Intern</a></td>
-<td>Seattle, WA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1683903403071591/">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Helion</strong></td>
@@ -302,13 +309,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b720ffdf-5133-43b9-b4ca-a65c74bc2338">Customer Solutions Manager Intern, AWSI - 2027</a></td>
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10550549/customer-solutions-manager-intern-awsi-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**254 open roles.** 228 in the United States & Canada · 26 elsewhere in the world.
+**247 open roles.** 221 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
+<td>San Francisco, CA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Happyrobot Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/34c8a538-ff54-49cd-b43e-0c7625dd0c7f">Product Operations Engineer Intern</a></td>
@@ -39,66 +46,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/3387fa8e-39d8-4b37-bfb0-09c6e87e54bf">Splunk Solutions Engineer (Intern) - United States</a></td>
-<td>Washington, DC<br/>RTP, North Carolina, US, United States of America<br/>Boulder, Colorado, United States of America<br/>+3 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Splunk-Solutions-Engineer--Intern----United-States_2028084">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/046f738b-8fab-4984-b6cc-c2a75eec4f8b">Cost Engineering Intern - Electrical</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20326?lang=en-us">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/184dca0d-e9ca-4730-8a23-366cfeb05ee1">Internship - Validation Engineer</a></td>
-<td>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971982570">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/03124a45-0fc3-4941-b270-74bdd62a8bc1">Applications Development Engineering Intern - BBP</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/788c21c6-4938-4c79-b5c9-c6e46752c3ee">Product Development Applications Engineer Intern  (Broadband Plasma Division)</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/79a5a9d8-23e7-473d-8983-582982e004b6">2027 RF Engineering Intern - BS/MS</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556436772">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Panasonic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3f19fb7-07d1-46bd-9a5a-b6b474a76819">Intern - Data Engineering</a></td>
-<td>Bridgeton, Missouri, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/50772?lang=en-us">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/99418f87-8a71-4144-b587-122e844e2a17">Analog Design Engineering Intern - ATD</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4a96a216-d1a8-4da6-972a-d98c5e8becdf">Process Development Engineer Intern - DLP</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013674">Apply</a></td>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d0307b2-66cd-4e7c-bee3-d4e1f37fc36c">AI Performance Engineering Intern</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

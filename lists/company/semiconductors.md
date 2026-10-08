@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**303 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**302 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dde2d9ba-400d-436e-bc3c-66bbfefe0b87">Summer 2027 - Process Engineering Intern - BS</a></td>
 <td>Fremont, CA, US</td>
 <td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556046949">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b010ae56-48aa-4d5f-9bd8-ac83d0d80e22">PhD Research Intern, AI-Aided Engineering – 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397975626">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

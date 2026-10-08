@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d0307b2-66cd-4e7c-bee3-d4e1f37fc36c">AI Performance Engineering Intern</a></td>
-<td>Spring, Texas, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417">Apply</a></td>
-<td align="center">7 Oct 2026</td>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/1022f464-4610-4374-a744-736c352dde51">Data Science Undergraduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/299978">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
@@ -32,10 +32,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b010ae56-48aa-4d5f-9bd8-ac83d0d80e22">PhD Research Intern, AI-Aided Engineering – 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397975626">Apply</a></td>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e6d81d3-b43d-45f3-80f6-84e132f440b4">Applied Science: Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986141">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Panasonic</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3f19fb7-07d1-46bd-9a5a-b6b474a76819">Intern - Data Engineering</a></td>
+<td>Bridgeton, Missouri, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/50772?lang=en-us">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -512,13 +519,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/17b5a830-4883-4641-90c7-9d349b7658fd">Operations Research, Engineering Analytics Graduate Intern</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
