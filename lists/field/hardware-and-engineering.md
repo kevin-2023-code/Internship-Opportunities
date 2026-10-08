@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**492 open roles.** 480 in the United States & Canada · 12 elsewhere in the world.
+**493 open roles.** 481 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e3d1ef6e-9ff1-4068-b431-b201ee2ecf6c">Manufacturing Test Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1866862250969693/">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b92c12c-9a1c-44b3-aea6-c235fab5b6b9">FY26 Intern - Camera Algorithm and Architecture Intern - Haifa</a></td>
+<td>Haifa, Haifa District, IL</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446717394546">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/214cf066-56e3-4286-a487-b8b863a9604f">Electrical Engineering Internship - Data Center Facilities</a></td>
 <td>Fort Worth, TX<br/>North Kansas City, MO<br/>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5395994008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c33f3f75-2923-425b-9de7-fb6f49f8cc43">Electrical Engineering Internship - Substation and Power Generation</a></td>
-<td>Lincoln, NE<br/>Omaha, NE</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5410973008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>

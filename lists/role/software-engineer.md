@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**131 open roles.** 114 in the United States & Canada · 17 elsewhere in the world.
+**130 open roles.** 113 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,13 +183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/66f8ae87-2358-4abf-a19b-2228ba2890eb">Software Development Intern</a></td>
 <td>Pleasant Grove, Utah, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54671?lang=en-us">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b898ab6f-5e27-40d1-b974-05216930e7e9">Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556951950">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

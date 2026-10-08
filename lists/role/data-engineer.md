@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world.
+**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/52213e72-7b88-4716-a920-7a1d80a597bf">Corporate Business Intelligence Intern, Winter 2027</a></td>
 <td>Montreal, QC<br/>Quebec City (Province of Quebec, Canada)<br/>Montréal</td>
 <td align="center"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8861001002">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/89a80fee-7d1b-4f7f-8a6a-079ed377337a">Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556922931">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

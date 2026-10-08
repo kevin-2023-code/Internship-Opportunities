@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**133 open roles.** 124 in the United States & Canada · 9 elsewhere in the world.
+**132 open roles.** 123 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -239,13 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/db0de5c7-edd6-41d9-8f38-e8926b332129">Data Scientist Intern 2027</a></td>
 <td>RESEARCH TRIANGLE PARK, US</td>
 <td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=134939">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/89a80fee-7d1b-4f7f-8a6a-079ed377337a">Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556922931">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

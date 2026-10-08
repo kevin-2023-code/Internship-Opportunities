@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
+**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c92b54b1-839d-4c4f-8509-80410060f601">IT Engineering Intern</a></td>
 <td>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54649?lang=en-us">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/f3cc5508-ec84-41a5-90d9-e6743e38d779">Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556922922">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

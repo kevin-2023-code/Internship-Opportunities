@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-08T08:15:23.248Z",
-  "count": 998,
+  "listingsChangedAt": "2026-10-08T16:00:19.040Z",
+  "count": 992,
   "listings": [
     {
       "id": "55a49885-ef24-44a6-b328-520099e3581a",
@@ -113,6 +113,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/299978",
       "url": "https://trueinterview.io/jobs/1022f464-4610-4374-a744-736c352dde51",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "id": "8b92c12c-9a1c-44b3-aea6-c235fab5b6b9",
+      "company": "QUALCOMM",
+      "title": "FY26 Intern - Camera Algorithm and Architecture Intern - Haifa",
+      "locations": [
+        "Haifa, Haifa District, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446717394546",
+      "url": "https://trueinterview.io/jobs/8b92c12c-9a1c-44b3-aea6-c235fab5b6b9",
       "postedAt": "2026-10-08T00:00:00.000Z",
       "updatedAt": "2026-10-08T00:00:00.000Z"
     },
@@ -4882,181 +4907,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44702762",
       "url": "https://trueinterview.io/jobs/550f8333-f44e-4c47-aa3f-c712de0ec4b3",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "a5203008-69fd-4a92-a9b9-a045ce1fdd07",
-      "company": "Microsoft",
-      "title": "Explore Program Engineering Internship Opportunities: Second-Year Students, Redmond",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556925816",
-      "url": "https://trueinterview.io/jobs/a5203008-69fd-4a92-a9b9-a045ce1fdd07",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "90a9c84e-915b-4b0c-beb3-022e4d114f36",
-      "company": "Microsoft",
-      "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-      "url": "https://trueinterview.io/jobs/90a9c84e-915b-4b0c-beb3-022e4d114f36",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "a23c0a40-c280-43a6-ac8d-9acbad1b2768",
-      "company": "Microsoft",
-      "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-      "url": "https://trueinterview.io/jobs/a23c0a40-c280-43a6-ac8d-9acbad1b2768",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "89a80fee-7d1b-4f7f-8a6a-079ed377337a",
-      "company": "Microsoft",
-      "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-      "url": "https://trueinterview.io/jobs/89a80fee-7d1b-4f7f-8a6a-079ed377337a",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "f3cc5508-ec84-41a5-90d9-e6743e38d779",
-      "company": "Microsoft",
-      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-      "url": "https://trueinterview.io/jobs/f3cc5508-ec84-41a5-90d9-e6743e38d779",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "b898ab6f-5e27-40d1-b974-05216930e7e9",
-      "company": "Microsoft",
-      "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-      "url": "https://trueinterview.io/jobs/b898ab6f-5e27-40d1-b974-05216930e7e9",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "c9ff618a-f357-4a01-8bef-abca08a721c8",
-      "company": "Microsoft",
-      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-      "url": "https://trueinterview.io/jobs/c9ff618a-f357-4a01-8bef-abca08a721c8",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },

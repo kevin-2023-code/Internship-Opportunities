@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**492 open roles.** 480 in the United States & Canada · 12 elsewhere in the world.
+**493 open roles.** 481 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/c33f3f75-2923-425b-9de7-fb6f49f8cc43">Electrical Engineering Internship - Substation and Power Generation</a></td>
+<td>Lincoln, NE<br/>Omaha, NE</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5410973008">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e1839fa4-98ba-4cf9-8689-c685b9dd74cf">Structural Engineering Internship - Rail Bridge</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405904008">Apply</a></td>
