@@ -5,9 +5,173 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-07T21:02:20.642Z",
-  "count": 990,
+  "listingsChangedAt": "2026-10-08T01:28:07.017Z",
+  "count": 996,
   "listings": [
+    {
+      "id": "8289679a-7200-450e-83d7-adbd5eb79a71",
+      "company": "K2 Space",
+      "title": "Mission Operations Engineering Intern – Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447292008",
+      "url": "https://trueinterview.io/jobs/8289679a-7200-450e-83d7-adbd5eb79a71",
+      "postedAt": "2026-10-07T23:09:59.000Z",
+      "updatedAt": "2026-10-07T23:09:59.000Z"
+    },
+    {
+      "id": "f2aedf30-5332-45fb-bcb7-cfdb3148a576",
+      "company": "K2 Space",
+      "title": "Platform Engineering Intern – Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008",
+      "url": "https://trueinterview.io/jobs/f2aedf30-5332-45fb-bcb7-cfdb3148a576",
+      "postedAt": "2026-10-07T21:30:41.000Z",
+      "updatedAt": "2026-10-07T21:30:41.000Z"
+    },
+    {
+      "id": "34c8a538-ff54-49cd-b43e-0c7625dd0c7f",
+      "company": "Happyrobot Inc.",
+      "title": "Product Operations Engineer Intern",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768/application",
+      "url": "https://trueinterview.io/jobs/34c8a538-ff54-49cd-b43e-0c7625dd0c7f",
+      "postedAt": "2026-10-07T21:27:31.000Z",
+      "updatedAt": "2026-10-07T21:27:31.000Z"
+    },
+    {
+      "id": "2d1adfd0-911d-4294-b448-70b6abbef597",
+      "company": "Woolpert",
+      "title": "Geospatial Field Internship (Summer 2027)",
+      "locations": [
+        "Port Orchard, WA",
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/woolpert/jobs/4426488009",
+      "url": "https://trueinterview.io/jobs/2d1adfd0-911d-4294-b448-70b6abbef597",
+      "postedAt": "2026-10-07T20:11:35.000Z",
+      "updatedAt": "2026-10-07T20:11:35.000Z"
+    },
+    {
+      "id": "f515d802-c773-4971-b4f1-54502c39475f",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Perception, Robotics",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8227633",
+      "url": "https://trueinterview.io/jobs/f515d802-c773-4971-b4f1-54502c39475f",
+      "postedAt": "2026-10-07T19:11:14.000Z",
+      "updatedAt": "2026-10-07T19:11:14.000Z"
+    },
+    {
+      "id": "f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc",
+      "company": "Meta",
+      "title": "Data Center Technician, Intern",
+      "locations": [
+        "Los Lunas, NM, United States",
+        "Rayville, LA, United States",
+        "Fort Worth, TX, United States",
+        "New Albany, OH, United States",
+        "Huntsville, AL, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2185283202380208/",
+      "url": "https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc",
+      "postedAt": "2026-10-07T18:02:32.000Z",
+      "updatedAt": "2026-10-07T18:02:32.000Z"
+    },
     {
       "id": "54d5ad3c-3c2e-46db-ab87-1c920e445c8b",
       "company": "Amazon",
@@ -268,6 +432,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Data-Science-and-Analytics---PhD-Intern_JR0287859",
       "url": "https://trueinterview.io/jobs/d7ed8ace-cd22-49d8-9f8f-68625b819b79",
+      "postedAt": "2026-10-07T00:00:00.000Z",
+      "updatedAt": "2026-10-07T00:00:00.000Z"
+    },
+    {
+      "id": "03124a45-0fc3-4941-b270-74bdd62a8bc1",
+      "company": "KLA",
+      "title": "Applications Development Engineering Intern - BBP",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1",
+      "url": "https://trueinterview.io/jobs/03124a45-0fc3-4941-b270-74bdd62a8bc1",
+      "postedAt": "2026-10-07T00:00:00.000Z",
+      "updatedAt": "2026-10-07T00:00:00.000Z"
+    },
+    {
+      "id": "788c21c6-4938-4c79-b5c9-c6e46752c3ee",
+      "company": "KLA",
+      "title": "Product Development Applications Engineer Intern  (Broadband Plasma Division)",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396",
+      "url": "https://trueinterview.io/jobs/788c21c6-4938-4c79-b5c9-c6e46752c3ee",
       "postedAt": "2026-10-07T00:00:00.000Z",
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
@@ -611,34 +825,6 @@
       "url": "https://trueinterview.io/jobs/88540f2e-46b8-4cf7-9e73-2a8bafd42183",
       "postedAt": "2026-10-06T22:14:42.000Z",
       "updatedAt": "2026-10-06T22:14:42.000Z"
-    },
-    {
-      "id": "2f34aa73-2cea-493f-8cf4-d46ba9653deb",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
-      "locations": [
-        "Mountain View, CA, USA",
-        "Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
-      "url": "https://trueinterview.io/jobs/2f34aa73-2cea-493f-8cf4-d46ba9653deb",
-      "postedAt": "2026-10-06T20:59:12.000Z",
-      "updatedAt": "2026-10-06T20:59:12.000Z"
     },
     {
       "id": "57d36234-5bee-443a-b374-f6337fb4a78a",
@@ -2779,32 +2965,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.nvidia.com/careers/job/893397551992",
       "url": "https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "bc23dcb0-1f66-4650-b075-0011f9a9a4a0",
-      "company": "NVIDIA",
-      "title": "Research Intern, Efficient Deep Learning - 2027",
-      "locations": [
-        "Santa Clara, CA, US",
-        "CA,US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397684037",
-      "url": "https://trueinterview.io/jobs/bc23dcb0-1f66-4650-b075-0011f9a9a4a0",
       "postedAt": "2026-10-05T00:00:00.000Z",
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },
@@ -10348,6 +10508,60 @@
       "url": "https://trueinterview.io/jobs/a41d6358-6647-467f-92a7-ca84dd48dfc6",
       "postedAt": "2026-09-18T17:03:11.000Z",
       "updatedAt": "2026-09-18T17:03:11.000Z"
+    },
+    {
+      "id": "a45b057b-55da-419f-aaf3-4ba176f52bc7",
+      "company": "Amazon",
+      "title": "Business Intelligence Engineer Internship - 2027 (US)",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
+      "url": "https://trueinterview.io/jobs/a45b057b-55da-419f-aaf3-4ba176f52bc7",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "id": "a460bbd3-2e36-404e-9013-c2fdf06e152c",
+      "company": "Amazon",
+      "title": "Data Engineer Internship - 2027 (US)",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+      "url": "https://trueinterview.io/jobs/a460bbd3-2e36-404e-9013-c2fdf06e152c",
+      "postedAt": "2026-09-18T00:00:00.000Z",
+      "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
       "id": "def6d3d1-dfa9-41f8-9d4a-fac4f8b6b2bc",
@@ -18100,32 +18314,6 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
-      "id": "663152ab-89f1-4e35-a6db-1808bdc8640c",
-      "company": "Intel",
-      "title": "Software Research Engineering - (PhD Intern)",
-      "locations": [
-        "US, Oregon, Hillsboro",
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019",
-      "url": "https://trueinterview.io/jobs/663152ab-89f1-4e35-a6db-1808bdc8640c",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
       "id": "02b62b5c-a2e3-4073-b0fe-1fca1379fee5",
       "company": "Keysight",
       "title": "IC Test Intern",
@@ -22925,31 +23113,6 @@
       "url": "https://trueinterview.io/jobs/c33f3f75-2923-425b-9de7-fb6f49f8cc43",
       "postedAt": "2026-08-31T21:14:52.000Z",
       "updatedAt": "2026-08-31T21:14:52.000Z"
-    },
-    {
-      "id": "acd6a63f-2c71-416a-ac9c-542e5a4b5863",
-      "company": "IXL Learning",
-      "title": "Software Engineer, Intern",
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.ixl.com/company/jobs?gh_jid=8765770002",
-      "url": "https://trueinterview.io/jobs/acd6a63f-2c71-416a-ac9c-542e5a4b5863",
-      "postedAt": "2026-08-31T21:05:13.000Z",
-      "updatedAt": "2026-08-31T21:05:13.000Z"
     },
     {
       "id": "e1839fa4-98ba-4cf9-8689-c685b9dd74cf",
