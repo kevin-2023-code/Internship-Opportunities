@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-09T01:36:50.210Z",
-  "count": 1009,
+  "listingsChangedAt": "2026-10-09T08:16:21.843Z",
+  "count": 1012,
   "listings": [
     {
       "id": "7ca692e7-2824-4d5b-ad6f-b1d034cd8702",
@@ -558,6 +558,33 @@
       "updatedAt": "2026-10-08T00:00:00.000Z"
     },
     {
+      "id": "a568b483-9090-4b49-8bfb-78c98dedcbbc",
+      "company": "AMD",
+      "title": "2027 Spring/Summer Undergrad Validation/Debug Co-Op",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/90719?lang=en-us",
+      "url": "https://trueinterview.io/jobs/a568b483-9090-4b49-8bfb-78c98dedcbbc",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
       "id": "b2aa687d-940b-408d-8368-74e20443d9b7",
       "company": "Cadence Design Systems",
       "title": "CST Application Engineer Intern - Physical Systems",
@@ -572,7 +599,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -610,6 +637,85 @@
       "updatedAt": "2026-10-08T00:00:00.000Z"
     },
     {
+      "id": "1bf285a1-9f9f-4bcb-8502-1237176322f1",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Verification/Design Engineering Intern",
+      "locations": [
+        "Roseville, California, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Design-Engineering-Intern_1214211",
+      "url": "https://trueinterview.io/jobs/1bf285a1-9f9f-4bcb-8502-1237176322f1",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "id": "32528e80-1593-4208-944f-29d609d29d97",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Thermal Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190",
+      "url": "https://trueinterview.io/jobs/32528e80-1593-4208-944f-29d609d29d97",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "id": "5798fd44-8b76-42e8-9ab2-467efcbccac2",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Wireless Networking Intern",
+      "locations": [
+        "San Jose, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969",
+      "url": "https://trueinterview.io/jobs/5798fd44-8b76-42e8-9ab2-467efcbccac2",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
       "id": "7e9ae6f3-279e-4f7f-aa16-efd4ca054b74",
       "company": "Lam Research",
       "title": "Summer 2027 - Electrical Engineering Intern - BS",
@@ -621,9 +727,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -656,6 +762,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446717394546",
       "url": "https://trueinterview.io/jobs/8b92c12c-9a1c-44b3-aea6-c235fab5b6b9",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "updatedAt": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "id": "16bd5239-7f2a-41a9-ae3f-65e2ad435403",
+      "company": "Texas Instruments",
+      "title": "Analog Design Eng Intern",
+      "locations": [
+        "Santa Clara, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016378",
+      "url": "https://trueinterview.io/jobs/16bd5239-7f2a-41a9-ae3f-65e2ad435403",
       "postedAt": "2026-10-08T00:00:00.000Z",
       "updatedAt": "2026-10-08T00:00:00.000Z"
     },
@@ -779,7 +910,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -13527,66 +13658,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146",
       "url": "https://trueinterview.io/jobs/6f5e8916-44fe-4f24-991a-f310ab62a869",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "f9aafeab-2a5e-41d6-ba31-a1a4a2de06be",
-      "company": "Cisco",
-      "title": "Security Engineer I (Intern) - United States",
-      "locations": [
-        "RTP, North Carolina, US",
-        "Research Triangle Park, North Carolina, United States of America",
-        "RTP, North Carolina, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
-      "url": "https://trueinterview.io/jobs/f9aafeab-2a5e-41d6-ba31-a1a4a2de06be",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "532b3cd7-e568-4cc4-b52e-524a73be1110",
-      "company": "Cisco",
-      "title": "Security Research Engineer I (Intern) - United States",
-      "locations": [
-        "RTP, North Carolina, US",
-        "Austin, Texas, US",
-        "Knoxville, Tennessee, US",
-        "Research Triangle Park, North Carolina, United States of America",
-        "Austin, Texas, United States of America",
-        "Knoxville, Tennessee, United States of America",
-        "RTP, North Carolina, US, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Research-Engineer-I--Intern----United-States_2025886",
-      "url": "https://trueinterview.io/jobs/532b3cd7-e568-4cc4-b52e-524a73be1110",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
