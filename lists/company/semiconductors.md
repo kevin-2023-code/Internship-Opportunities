@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**305 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**303 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Haifa, Haifa District, IL</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446717394546">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Synopsys</strong></td>
-<td><a href="https://trueinterview.io/jobs/9db78dec-b694-48e2-ac8f-d7c508933e37">AI &amp; Automation Engineering Internship - Summer 2027</a></td>
-<td>Sunnyvale, California</td>
-<td align="center"><a href="https://careers.synopsys.com/job/sunnyvale/ai-and-automation-engineering-internship-summer-2027/44408/101631905360">Apply</a></td>
-<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
@@ -1793,13 +1786,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/846ee263-efd4-44a8-8ced-5714083d5129">Intern - AI Systems and Infrastructure Engineering</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44247238">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e9429cf3-01ee-4675-99ab-e41115584fe4">Intern - Dry Etch Equipment Development Engineering</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44247241">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

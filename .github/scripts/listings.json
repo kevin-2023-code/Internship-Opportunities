@@ -5,9 +5,84 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-08T21:13:21.498Z",
-  "count": 1006,
+  "listingsChangedAt": "2026-10-09T01:36:50.210Z",
+  "count": 1009,
   "listings": [
+    {
+      "id": "7ca692e7-2824-4d5b-ad6f-b1d034cd8702",
+      "company": "Nabla",
+      "title": "Machine Learning Internship 2026",
+      "locations": [
+        "Paris office"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf/application",
+      "url": "https://trueinterview.io/jobs/7ca692e7-2824-4d5b-ad6f-b1d034cd8702",
+      "postedAt": "2026-10-08T23:24:22.000Z",
+      "updatedAt": "2026-10-08T23:24:22.000Z"
+    },
+    {
+      "id": "d2faedc0-48cc-42cb-972f-3ecdab5a63b9",
+      "company": "Guidepoint Security",
+      "title": "GPSU Cybersecurity Intern - Application Security",
+      "locations": [
+        "Remote",
+        "GuidePoint University (GPSU)"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004",
+      "url": "https://trueinterview.io/jobs/d2faedc0-48cc-42cb-972f-3ecdab5a63b9",
+      "postedAt": "2026-10-08T23:01:35.000Z",
+      "updatedAt": "2026-10-08T23:01:35.000Z"
+    },
+    {
+      "id": "c2182ed3-5505-4334-b810-e8264a89c458",
+      "company": "Orennia",
+      "title": "Transmission Intern",
+      "locations": [
+        "Calgary Headquarters",
+        "Calgary Headquarters"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/orennia/jobs/5448157008?gh_jid=5448157008",
+      "url": "https://trueinterview.io/jobs/c2182ed3-5505-4334-b810-e8264a89c458",
+      "postedAt": "2026-10-08T21:38:50.000Z",
+      "updatedAt": "2026-10-08T21:38:50.000Z"
+    },
     {
       "id": "96179d9c-63d5-4b9a-a3bb-37cd1969f8e5",
       "company": "Sharkninja",
@@ -21,9 +96,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Hardware & Engineering",
       "family": "Hardware & Engineering",
-      "role": "Other",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -62,6 +137,34 @@
       "url": "https://trueinterview.io/jobs/f490cc2f-5b58-448a-95d5-fd09b09ecb47",
       "postedAt": "2026-10-08T20:06:23.000Z",
       "updatedAt": "2026-10-08T20:06:23.000Z"
+    },
+    {
+      "id": "a6b99d39-ce1d-43cf-8317-ba06a423b5d8",
+      "company": "Waymo",
+      "title": "2026 Summer Intern, PhD, Research, World Modeling Evaluation",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8265173",
+      "url": "https://trueinterview.io/jobs/a6b99d39-ce1d-43cf-8317-ba06a423b5d8",
+      "postedAt": "2026-10-08T19:53:38.000Z",
+      "updatedAt": "2026-10-08T19:53:38.000Z"
     },
     {
       "id": "bd9b1cf8-dada-4837-ba65-deea340f935d",
@@ -158,7 +261,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -194,32 +297,29 @@
       "updatedAt": "2026-10-08T19:03:24.000Z"
     },
     {
-      "id": "a5eeb84a-c179-46e2-9d88-cdea8fc3bcf7",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+      "id": "727089aa-cb1c-46aa-a668-22049f94d6ed",
+      "company": "Asm",
+      "title": "[2027 Summer Internship] Phoenix",
       "locations": [
-        "Mountain View, CA, USA",
-        "Mountain View (US-MTV-EMF680)"
+        "US > Arizona > Phoenix"
       ],
-      "cities": [
-        "Mountain View, CA"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
-      "url": "https://trueinterview.io/jobs/a5eeb84a-c179-46e2-9d88-cdea8fc3bcf7",
-      "postedAt": "2026-10-08T18:41:58.000Z",
-      "updatedAt": "2026-10-08T18:41:58.000Z"
+      "applyUrl": "https://www.asm.com/open-vacancies/?gh_jid=5001135101",
+      "url": "https://trueinterview.io/jobs/727089aa-cb1c-46aa-a668-22049f94d6ed",
+      "postedAt": "2026-10-08T18:52:26.000Z",
+      "updatedAt": "2026-10-08T18:52:26.000Z"
     },
     {
       "id": "a6bb77f3-faf9-4274-ab6d-8a4dc62ef220",
@@ -235,9 +335,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -247,6 +347,32 @@
       "url": "https://trueinterview.io/jobs/a6bb77f3-faf9-4274-ab6d-8a4dc62ef220",
       "postedAt": "2026-10-08T18:00:43.000Z",
       "updatedAt": "2026-10-08T18:00:43.000Z"
+    },
+    {
+      "id": "732c7b20-22f6-4eba-8850-57f3ff3857ca",
+      "company": "Dlr Group",
+      "title": "High School Design Intern",
+      "locations": [
+        "Houston, Texas, United States",
+        "Houston"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441952008",
+      "url": "https://trueinterview.io/jobs/732c7b20-22f6-4eba-8850-57f3ff3857ca",
+      "postedAt": "2026-10-08T17:52:02.000Z",
+      "updatedAt": "2026-10-08T17:52:02.000Z"
     },
     {
       "id": "6a375bf2-1a24-4975-a23b-7cba69525e21",
@@ -260,9 +386,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -743,33 +869,6 @@
       "url": "https://trueinterview.io/jobs/a4798952-13f5-432c-804b-0e901a3f843d",
       "postedAt": "2026-10-07T00:43:39.000Z",
       "updatedAt": "2026-10-07T00:43:39.000Z"
-    },
-    {
-      "id": "9db78dec-b694-48e2-ac8f-d7c508933e37",
-      "company": "Synopsys",
-      "title": "AI & Automation Engineering Internship - Summer 2027",
-      "locations": [
-        "Sunnyvale, California"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.synopsys.com/job/sunnyvale/ai-and-automation-engineering-internship-summer-2027/44408/101631905360",
-      "url": "https://trueinterview.io/jobs/9db78dec-b694-48e2-ac8f-d7c508933e37",
-      "postedAt": "2026-10-07T00:03:40.000Z",
-      "updatedAt": "2026-10-07T00:03:40.000Z"
     },
     {
       "id": "0ed806db-c755-44b1-ade6-154cdc8d950a",
@@ -24018,31 +24117,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44247238",
       "url": "https://trueinterview.io/jobs/846ee263-efd4-44a8-8ced-5714083d5129",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
-      "id": "e9429cf3-01ee-4675-99ab-e41115584fe4",
-      "company": "Micron Technology",
-      "title": "Intern - Dry Etch Equipment Development Engineering",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44247241",
-      "url": "https://trueinterview.io/jobs/e9429cf3-01ee-4675-99ab-e41115584fe4",
       "postedAt": "2026-08-31T00:00:00.000Z",
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },
