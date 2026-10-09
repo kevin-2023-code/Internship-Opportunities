@@ -5,9 +5,84 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-09T08:16:21.843Z",
-  "count": 1012,
+  "listingsChangedAt": "2026-10-09T15:42:23.319Z",
+  "count": 1014,
   "listings": [
+    {
+      "id": "b980bec6-456b-4ad4-964d-3a3c8bafc5ec",
+      "company": "Applied Materials",
+      "title": "2027 Summer Electrical Engineer  Intern (Controls/PCB) - BS or MS (Gloucester, MA)",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318871096",
+      "url": "https://trueinterview.io/jobs/b980bec6-456b-4ad4-964d-3a3c8bafc5ec",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "updatedAt": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "id": "554912e2-0809-42d7-9578-77f51cbb0bd5",
+      "company": "Applied Materials",
+      "title": "2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA)",
+      "locations": [
+        "Gloucester, MA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318870787",
+      "url": "https://trueinterview.io/jobs/554912e2-0809-42d7-9578-77f51cbb0bd5",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "updatedAt": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "id": "98811dbc-0a87-4de1-9a29-068ee4705d6b",
+      "company": "QUALCOMM",
+      "title": "FY26 Intern -  SW Architecture - Hod Hasharon, Israel",
+      "locations": [
+        "Haifa, Haifa District, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.qualcomm.com/careers/job/446719918906",
+      "url": "https://trueinterview.io/jobs/98811dbc-0a87-4de1-9a29-068ee4705d6b",
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "updatedAt": "2026-10-09T00:00:00.000Z"
+    },
     {
       "id": "7ca692e7-2824-4d5b-ad6f-b1d034cd8702",
       "company": "Nabla",
@@ -2853,6 +2928,32 @@
       "updatedAt": "2026-10-05T18:43:22.000Z"
     },
     {
+      "id": "7bbe4a79-ce78-4da4-9c94-16a4ec8580d3",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+      "locations": [
+        "Redmond, WA, United States",
+        "Burlingame, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2211974449401350/",
+      "url": "https://trueinterview.io/jobs/7bbe4a79-ce78-4da4-9c94-16a4ec8580d3",
+      "postedAt": "2026-10-05T18:43:15.000Z",
+      "updatedAt": "2026-10-05T18:43:15.000Z"
+    },
+    {
       "id": "77936936-073d-4b84-8bdf-36d6249f7576",
       "company": "Meta",
       "title": "Electrical Engineering Intern",
@@ -4533,31 +4634,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556986137",
       "url": "https://trueinterview.io/jobs/5406e630-237a-4845-8c13-3ff6f7649f10",
-      "postedAt": "2026-10-02T00:00:00.000Z",
-      "updatedAt": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "id": "bb3f90ae-e0e6-4a22-8927-acea85b7ca49",
-      "company": "Microsoft",
-      "title": "Penetration Tester: Internship Opportunities",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556999327",
-      "url": "https://trueinterview.io/jobs/bb3f90ae-e0e6-4a22-8927-acea85b7ca49",
       "postedAt": "2026-10-02T00:00:00.000Z",
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
@@ -20218,39 +20294,6 @@
       "url": "https://trueinterview.io/jobs/08997276-000e-4d23-8a6d-185d643e679d",
       "postedAt": "2026-09-05T17:11:50.000Z",
       "updatedAt": "2026-09-05T17:11:50.000Z"
-    },
-    {
-      "id": "4c26f85f-e242-46bb-b9c9-7226d778d6f0",
-      "company": "Marvell Technology",
-      "title": "Advanced Packaging Intern, MS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Chandler, AZ",
-        "Austin, TX",
-        "Burlington, VT",
-        "Westborough, MA",
-        "Westlake Village, CA",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Advanced-Packaging-Intern--MS---Summer-2027_2604519-1",
-      "url": "https://trueinterview.io/jobs/4c26f85f-e242-46bb-b9c9-7226d778d6f0",
-      "postedAt": "2026-09-05T00:00:00.000Z",
-      "updatedAt": "2026-09-05T00:00:00.000Z"
     },
     {
       "id": "dbfffd8a-9d65-4e77-a1b2-650bf94dc748",
