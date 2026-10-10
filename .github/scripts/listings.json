@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-10T00:24:38.074Z",
-  "count": 1014,
+  "listingsChangedAt": "2026-10-10T06:34:53.939Z",
+  "count": 1013,
   "listings": [
     {
       "id": "781a0b25-d1e0-424d-98d9-f79223028c20",
@@ -24288,33 +24288,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44139281",
       "url": "https://trueinterview.io/jobs/ee0c5854-9be0-41b0-9a54-fc6c2eb39a55",
-      "postedAt": "2026-08-31T00:00:00.000Z",
-      "updatedAt": "2026-08-31T00:00:00.000Z"
-    },
-    {
-      "id": "846ee263-efd4-44a8-8ced-5714083d5129",
-      "company": "Micron Technology",
-      "title": "Intern - AI Systems and Infrastructure Engineering",
-      "locations": [
-        "Austin, TX, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44247238",
-      "url": "https://trueinterview.io/jobs/846ee263-efd4-44a8-8ced-5714083d5129",
       "postedAt": "2026-08-31T00:00:00.000Z",
       "updatedAt": "2026-08-31T00:00:00.000Z"
     },

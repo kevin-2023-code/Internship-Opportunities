@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**310 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**309 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1842,13 +1842,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ee0c5854-9be0-41b0-9a54-fc6c2eb39a55">Intern - ADV DRAM Process Integration Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44139281">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/846ee263-efd4-44a8-8ced-5714083d5129">Intern - AI Systems and Infrastructure Engineering</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44247238">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>

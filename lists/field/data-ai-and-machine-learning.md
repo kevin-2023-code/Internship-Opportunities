@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**137 open roles.** 128 in the United States & Canada · 9 elsewhere in the world.
+**136 open roles.** 127 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -841,13 +841,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c73b7488-4e9d-46a6-adb1-c6a1153d0db7">Data Science - Intern (Summer 2027)</a></td>
 <td>Redwood City, California, United States</td>
 <td align="center"><a href="https://c3.ai/job-description/8738918002?gh_jid=8738918002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/846ee263-efd4-44a8-8ced-5714083d5129">Intern - AI Systems and Infrastructure Engineering</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44247238">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
