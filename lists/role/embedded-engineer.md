@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6">Firmware Engineer Intern (Spring 2027)</a></td>
+<td>South San Francisco, California, USA, Aviary - SSF</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/638b6972-819a-4b54-82c8-b8da9d53b1bf">Intern - SSD Firmware - CICD</a></td>
 <td>Longmont, CO, US</td>
@@ -30,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
-<td align="center">5 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Muon Space</strong></td>

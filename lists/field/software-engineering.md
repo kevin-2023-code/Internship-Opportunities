@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**244 open roles.** 216 in the United States & Canada · 28 elsewhere in the world.
+**247 open roles.** 218 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
+<td>San Francisco, California, United States, San Francisco</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjkkd57t3myz76rfgffft6">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6">Firmware Engineer Intern (Spring 2027)</a></td>
+<td>South San Francisco, California, USA, Aviary - SSF</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/781a0b25-d1e0-424d-98d9-f79223028c20">Research Scientist - R&amp;D Internship – 2027 Yorktown Heights &amp; Cambridge</a></td>
@@ -1541,6 +1555,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ford</strong></td>
+<td><a href="https://trueinterview.io/jobs/15e70692-c460-4f31-9c18-223abafce113">PD Engineer - Intern</a></td>
+<td>Naucalpan de Juárez, México, México</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4c0fkkvqshsq682pf9ja1tx">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Nabla</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ca692e7-2824-4d5b-ad6f-b1d034cd8702">Machine Learning Internship 2026</a></td>

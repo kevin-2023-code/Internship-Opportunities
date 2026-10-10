@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**506 open roles.** 494 in the United States & Canada · 12 elsewhere in the world.
+**505 open roles.** 493 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/81a49839-f70f-4f9d-b81a-a7a926fe23d4">Product/Test Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017571">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4b523496-80fb-4d50-91b6-e5fe6a049a8b">Quality Engineering Intern</a></td>
 <td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Lehi, UT, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017572">Apply</a></td>

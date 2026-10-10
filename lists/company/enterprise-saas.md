@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**48 open roles.** 44 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**47 open roles.** 43 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e06ec01-d493-4801-b47b-241d379af118">2027 Intern - Applied and Research Scientist/Engineer</a></td>
 <td>San Jose, California, United States of America<br/>San Francisco, California, United States of America<br/>Seattle, Washington, United States of America<br/>+4 more</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Applied-and-Research-Scientist-Engineer_R172064">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>

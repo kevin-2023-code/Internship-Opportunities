@@ -5,9 +5,113 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-10T06:34:53.939Z",
-  "count": 1013,
+  "listingsChangedAt": "2026-10-10T13:11:18.231Z",
+  "count": 1016,
   "listings": [
+    {
+      "id": "8dd98e81-5667-40c3-8969-f10ea80e2701",
+      "company": "affirm",
+      "title": "IT Engineer Intern (Early Careers Summer 2027)",
+      "locations": [
+        "San Francisco, California, United States, San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjkkd57t3myz76rfgffft6",
+      "url": "https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "e7f77de4-621d-409e-96a1-1fc7e52fd0b9",
+      "company": "databricks",
+      "title": "Evergreen  - Product Design Intern (2027 Start)",
+      "locations": [
+        "San Francisco, California",
+        "Seattle, Washington"
+      ],
+      "cities": [
+        "San Francisco, CA",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjn2kthcy9n82taptxq8mm",
+      "url": "https://trueinterview.io/jobs/e7f77de4-621d-409e-96a1-1fc7e52fd0b9",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "15e70692-c460-4f31-9c18-223abafce113",
+      "company": "ford",
+      "title": "PD Engineer - Intern",
+      "locations": [
+        "Naucalpan de Juárez, México, México"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4c0fkkvqshsq682pf9ja1tx",
+      "url": "https://trueinterview.io/jobs/15e70692-c460-4f31-9c18-223abafce113",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
+      "id": "a51ce426-e72c-49e7-9b28-25c14efb4af6",
+      "company": "zipline",
+      "title": "Firmware Engineer Intern (Spring 2027)",
+      "locations": [
+        "South San Francisco, California, USA, Aviary - SSF"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7",
+      "url": "https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
     {
       "id": "781a0b25-d1e0-424d-98d9-f79223028c20",
       "company": "IBM",
@@ -4190,31 +4294,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44777731",
       "url": "https://trueinterview.io/jobs/aa5552a0-3a6a-4e86-ab00-b13247a0bf57",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "c1ac726e-778c-4390-858e-c551ecabcf8b",
-      "company": "Microsoft",
-      "title": "Firmware Engineering Internship (6-month Program)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557023161",
-      "url": "https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b",
       "postedAt": "2026-10-05T00:00:00.000Z",
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },

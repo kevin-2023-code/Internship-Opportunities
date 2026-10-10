@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**15 open roles.** 10 in the United States & Canada · 5 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**16 open roles.** 11 in the United States & Canada · 5 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6">Firmware Engineer Intern (Spring 2027)</a></td>
+<td>South San Francisco, California, USA, Aviary - SSF</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6b99d39-ce1d-43cf-8317-ba06a423b5d8">2026 Summer Intern, PhD, Research, World Modeling Evaluation</a></td>

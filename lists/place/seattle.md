@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**47 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7f77de4-621d-409e-96a1-1fc7e52fd0b9">Evergreen  - Product Design Intern (2027 Start)</a></td>
+<td>Seattle, Washington<br/>San Francisco, California</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjn2kthcy9n82taptxq8mm">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f251444-6b5a-437c-80bb-f4760b4f3826">Structural Design Engineer - FEA (Intern)</a></td>

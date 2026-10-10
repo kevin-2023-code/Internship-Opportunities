@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**516 open roles.** 513 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**515 open roles.** 512 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -703,13 +703,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aa5552a0-3a6a-4e86-ab00-b13247a0bf57">Intern - SSD Architecture Modeling</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44777731">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/156bb9f6-9e41-476a-8330-8ca65f6eba9c">Software Development Engineer Intern/Co-Op, ROBOTICS -  2027</a></td>
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4f41b2-7aee-424d-b377-31b89fd0553e">Summer 2027 Business Operations &amp; Management Intern- Bachelor's (Santa Clara, CA)</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317926591">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 </tbody>

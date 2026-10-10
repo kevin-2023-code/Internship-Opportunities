@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**101 open roles.** 93 in the United States & Canada · 8 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**102 open roles.** 94 in the United States & Canada · 8 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
+<td>San Francisco, California, United States, San Francisco</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjkkd57t3myz76rfgffft6">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/dea01390-fd29-4b13-9a47-97aa3ee021ba">Forward Deployed Engineer Intern (HR Technology)</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**183 open roles.** 175 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
+**184 open roles.** 177 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
+<td>San Francisco, California, United States, San Francisco</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjkkd57t3myz76rfgffft6">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7f77de4-621d-409e-96a1-1fc7e52fd0b9">Evergreen  - Product Design Intern (2027 Start)</a></td>
+<td>San Francisco, California<br/>Seattle, Washington</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjn2kthcy9n82taptxq8mm">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6">Firmware Engineer Intern (Spring 2027)</a></td>
+<td>South San Francisco, California, USA, Aviary - SSF</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/781a0b25-d1e0-424d-98d9-f79223028c20">Research Scientist - R&amp;D Internship – 2027 Yorktown Heights &amp; Cambridge</a></td>
@@ -1110,13 +1131,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
 <td>Munich, BY, DE<br/>Bristol, England, GB<br/>Berlin, Berlin, DE<br/>+3 more</td>
@@ -1255,6 +1269,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Ford</strong></td>
+<td><a href="https://trueinterview.io/jobs/15e70692-c460-4f31-9c18-223abafce113">PD Engineer - Intern</a></td>
+<td>Naucalpan de Juárez, México, México</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4c0fkkvqshsq682pf9ja1tx">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Nabla</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ca692e7-2824-4d5b-ad6f-b1d034cd8702">Machine Learning Internship 2026</a></td>
 <td>Paris office</td>
@@ -1295,20 +1316,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tel Aviv, Israel</td>
 <td align="center"><a href="https://www.taboola.com/careers/job/8229871?gh_jid=8229871">Apply</a></td>
 <td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/97340c15-89cf-4b47-806c-bac8f2b19465">(Physical) Security Specialist Intern -  2027 Internship</a></td>
-<td>ES, Huesca<br/>ES, Zaragoza<br/>FR, Paris</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a></td>
-<td>ES, Huesca<br/>ES, Zaragoza</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

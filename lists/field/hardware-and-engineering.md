@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**506 open roles.** 494 in the United States & Canada · 12 elsewhere in the world.
+**505 open roles.** 493 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -612,13 +612,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b3b92f2c-c7ad-4bf6-8278-210e1ff04a43">Intern - Process Integration Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44777866">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/28131e7d-3f98-48eb-a780-93bdd9aeac7e">Process Development Engineer Intern - MS/PhD – Lehi</a></td>
 <td>Lehi, UT, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017570">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/81a49839-f70f-4f9d-b81a-a7a926fe23d4">Product/Test Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017571">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

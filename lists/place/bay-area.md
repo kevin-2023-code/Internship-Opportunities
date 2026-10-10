@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**304 open roles.**
+**306 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
+<td>San Francisco, California, United States, San Francisco</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjkkd57t3myz76rfgffft6">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7f77de4-621d-409e-96a1-1fc7e52fd0b9">Evergreen  - Product Design Intern (2027 Start)</a></td>
+<td>San Francisco, California<br/>Seattle, Washington</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjn2kthcy9n82taptxq8mm">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zipline</strong></td>
+<td><a href="https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6">Firmware Engineer Intern (Spring 2027)</a></td>
+<td>South San Francisco, California, USA, Aviary - SSF</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/a9cc40e6-7dd4-4ed0-9afc-7f4d54ab39bb">Mechanical Engineering Intern</a></td>
@@ -386,13 +407,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09e38bbf-fc79-4917-8c00-a6743e21562f">Hardware Engineer Intern, BS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1ac726e-778c-4390-858e-c551ecabcf8b">Firmware Engineering Internship (6-month Program)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
