@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-10T13:11:18.231Z",
-  "count": 1016,
+  "listingsChangedAt": "2026-10-10T18:09:02.333Z",
+  "count": 1017,
   "listings": [
     {
       "id": "8dd98e81-5667-40c3-8969-f10ea80e2701",
@@ -88,6 +88,29 @@
       "updatedAt": "2026-10-10T00:00:00.000Z"
     },
     {
+      "id": "40fde7b1-b249-4be6-8810-9aa193e64afa",
+      "company": "salient-motion",
+      "title": "Engineering Co-op",
+      "locations": [
+        "Hawthorne, HQ1 - Hawthorne"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.1point3acres.com/jobs/01m4hk38vcby2tv79d5ndt34m2",
+      "url": "https://trueinterview.io/jobs/40fde7b1-b249-4be6-8810-9aa193e64afa",
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "updatedAt": "2026-10-10T00:00:00.000Z"
+    },
+    {
       "id": "a51ce426-e72c-49e7-9b28-25c14efb4af6",
       "company": "zipline",
       "title": "Firmware Engineer Intern (Spring 2027)",
@@ -117,9 +140,12 @@
       "company": "IBM",
       "title": "Research Scientist - R&D Internship – 2027 Yorktown Heights & Cambridge",
       "locations": [
-        "Multiple Cities, United States"
+        "Multiple Cities, United States",
+        "San Jose, US"
       ],
-      "cities": [],
+      "cities": [
+        "San Jose, CA"
+      ],
       "countries": [
         "United States"
       ],
