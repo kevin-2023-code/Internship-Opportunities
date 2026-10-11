@@ -6,7 +6,7 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-11 01:26 UTC_
+_Last updated: 2026-10-11 08:06 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 183 of the 268 employers on this list (89% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -112,7 +112,7 @@ _Between them these 20 filters hold **706 of the 1,017** internships on this lis
 | [🌉 SF Bay Area](place/bay-area.md) | 307 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🌧️ Portland, Boise & Spokane](place/pacific-northwest.md) | 80 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Portland OR, Hillsboro OR, Beaverton OR, Eugene OR, Vancouver WA, Spokane WA, Boise ID. |
 | [🎓 Boston & Cambridge](place/boston.md) | 67 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
-| [🎸 Austin](place/austin.md) | 65 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
+| [🎸 Austin](place/austin.md) | 66 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 64 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🗽 New York City](place/new-york.md) | 57 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
 | [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 51 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Dallas, Fort Worth, Plano, Irving, Richardson, Frisco, Arlington, Mckinney, Addison. |
@@ -136,11 +136,11 @@ _Between them these 20 filters hold **706 of the 1,017** internships on this lis
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **190 of the 1,017** internships on this list (19%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **191 of the 1,017** internships on this list (19%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 165 | 8 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 166 | 8 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 18 | 4 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

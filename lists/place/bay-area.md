@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
+<td>Santa Clara, California, United States<br/>Austin, TX<br/>Austin, Texas, United States<br/>+1 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93645?lang=en-us">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Affirm</strong></td>
 <td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
 <td>San Francisco, California, United States, San Francisco</td>
@@ -582,13 +589,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09d3fd89-8543-415d-a17e-b0432e8e81ea">2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI &amp; Robotics</a></td>
 <td>San Francisco, California, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1428ea1-ea21-4624-960d-8d49467f4f02">2027 Undergrad Thermal Engineering Intern/Co-Op</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93091?lang=en-us">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>

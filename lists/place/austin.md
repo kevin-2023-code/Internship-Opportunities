@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**65 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Santa Clara, California, United States<br/>+1 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93645?lang=en-us">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8e77831-c2a2-43f9-a096-3dbc0911021f">ASIC Engineer Intern, Architecture</a></td>

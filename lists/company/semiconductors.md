@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
+<td>Austin, TX<br/>Santa Clara, California, United States<br/>Austin, Texas, United States<br/>+1 more</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93645?lang=en-us">Apply</a></td>
+<td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3f43ec52-208a-4031-9275-29dc64f59fd1">Summer 2027 ASIC Design Co-Op/ Intern</a></td>
 <td>Orlando, Florida, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91341?lang=en-us">Apply</a></td>
@@ -471,13 +478,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chandler (Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Photolithography-Equipment-Intern---Summer-2027_R-10064587">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1428ea1-ea21-4624-960d-8d49467f4f02">2027 Undergrad Thermal Engineering Intern/Co-Op</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93091?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
