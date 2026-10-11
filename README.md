@@ -1,6 +1,6 @@
 <div align="center">
 
-# Internship Opportunities
+# Summer 2027 Tech Internships
 
 **Every open tech internship in the catalog — refreshed hourly, and filtered the way you actually search.**
 
