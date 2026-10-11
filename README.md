@@ -32,7 +32,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-11 08:06 UTC_
+_Last updated: 2026-10-11 15:14 UTC_
 
 **936 open internships** from **232 employers** · **166 posted in the last 7 days** · refreshed hourly
 
@@ -86,7 +86,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 💻 Software Engineering
 
-[Back to top](#internship-opportunities)
+[Back to top](#summer-2027-tech-internships)
 
 <table>
 <thead>
@@ -638,7 +638,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 🤖 Data, AI & Machine Learning
 
-[Back to top](#internship-opportunities)
+[Back to top](#summer-2027-tech-internships)
 
 <table>
 <thead>
@@ -1029,7 +1029,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 🔧 Hardware & Engineering
 
-[Back to top](#internship-opportunities)
+[Back to top](#summer-2027-tech-internships)
 
 <table>
 <thead>
@@ -1055,14 +1055,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/0f251444-6b5a-437c-80bb-f4760b4f3826">Structural Design Engineer - FEA (Intern)</a> 🆕</td>
 <td>Sunnyvale, CA<br/>Seattle, WA<br/>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1080292111664557/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c8e77831-c2a2-43f9-a096-3dbc0911021f">ASIC Engineer Intern, Architecture</a> 🆕</td>
 <td>Sunnyvale, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1096213456288397/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
@@ -1581,7 +1581,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 📱 Product & Design
 
-[Back to top](#internship-opportunities)
+[Back to top](#summer-2027-tech-internships)
 
 <table>
 <thead>
@@ -1902,7 +1902,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 📈 Quantitative Finance
 
-[Back to top](#internship-opportunities)
+[Back to top](#summer-2027-tech-internships)
 
 <table>
 <thead>
@@ -1999,7 +1999,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 ## 🧰 IT & Support
 
-[Back to top](#internship-opportunities)
+[Back to top](#summer-2027-tech-internships)
 
 <table>
 <thead>
@@ -2102,7 +2102,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/e95eb3d1-6a5d-476c-b1dc-8fcedac2e6f1">Network Production Engineer Intern</a></td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1412139847020398/">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
@@ -2158,7 +2158,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/b94a1efd-a0fd-43ef-b356-0a6467e0c2d4">Security Risk Management Intern (Summer 2027)</a></td>
 <td>Menlo Park, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src=&amp;gh_jid=8207970">Apply</a></td>
-<td align="center">24d</td>
+<td align="center">25d</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

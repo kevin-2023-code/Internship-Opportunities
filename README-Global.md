@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-11 08:06 UTC_
+_Last updated: 2026-10-11 15:14 UTC_
 
 **81 open internships** from **48 employers** · **8 posted in the last 7 days** · refreshed hourly
 
@@ -64,7 +64,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 💻 Software Engineering
 
-[Back to top](#internship-opportunities--worldwide)
+[Back to top](#summer-2027-tech-internships--worldwide)
 
 <table>
 <thead>
@@ -301,7 +301,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 🤖 Data, AI & Machine Learning
 
-[Back to top](#internship-opportunities--worldwide)
+[Back to top](#summer-2027-tech-internships--worldwide)
 
 <table>
 <thead>
@@ -391,7 +391,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 🔧 Hardware & Engineering
 
-[Back to top](#internship-opportunities--worldwide)
+[Back to top](#summer-2027-tech-internships--worldwide)
 
 <table>
 <thead>
@@ -502,7 +502,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 📱 Product & Design
 
-[Back to top](#internship-opportunities--worldwide)
+[Back to top](#summer-2027-tech-internships--worldwide)
 
 <table>
 <thead>
@@ -592,7 +592,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 📈 Quantitative Finance
 
-[Back to top](#internship-opportunities--worldwide)
+[Back to top](#summer-2027-tech-internships--worldwide)
 
 <table>
 <thead>
@@ -724,7 +724,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 ## 🧰 IT & Support
 
-[Back to top](#internship-opportunities--worldwide)
+[Back to top](#summer-2027-tech-internships--worldwide)
 
 <table>
 <thead>
