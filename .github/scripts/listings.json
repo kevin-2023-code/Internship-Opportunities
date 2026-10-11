@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-11T08:06:12.732Z",
-  "count": 1017,
+  "listingsChangedAt": "2026-10-11T19:49:56.575Z",
+  "count": 1016,
   "listings": [
     {
       "id": "22293de7-ee03-4573-892a-2ac2e3e4b7c4",
@@ -27265,33 +27265,6 @@
       "url": "https://trueinterview.io/jobs/c4945949-08bd-46bb-afc9-7e45e65a48a4",
       "postedAt": "2026-08-12T19:56:52.000Z",
       "updatedAt": "2026-08-12T19:56:52.000Z"
-    },
-    {
-      "id": "b288f1d8-e6f2-41e0-8d94-04e40f046d19",
-      "company": "Western Digital",
-      "title": "Summer 2027 Intern - Software Engineering",
-      "locations": [
-        "San Jose, CA, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering?oga=true",
-      "url": "https://trueinterview.io/jobs/b288f1d8-e6f2-41e0-8d94-04e40f046d19",
-      "postedAt": "2026-08-12T19:38:42.000Z",
-      "updatedAt": "2026-08-12T19:38:42.000Z"
     }
   ]
 }

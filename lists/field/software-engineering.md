@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**248 open roles.** 218 in the United States & Canada · 30 elsewhere in the world.
+**247 open roles.** 217 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1534,13 +1534,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/01c55378-d532-42a9-98d2-4d9bb3fb67d3">Product Software Developer Intern</a> 🛂</td>
 <td>New York, NY<br/>NYC</td>
 <td align="center"><a href="https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Western Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/b288f1d8-e6f2-41e0-8d94-04e40f046d19">Summer 2027 Intern - Software Engineering</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000143171017-summer-2027-intern-software-engineering?oga=true">Apply</a></td>
 <td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
