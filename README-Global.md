@@ -1,4 +1,4 @@
-# Internship Opportunities — Worldwide
+# Summer 2027 Tech Internships — Worldwide
 
 **Tech internships outside the United States and Canada — refreshed every hour.**
 
