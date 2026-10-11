@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**18 open roles.** 4 in the United States & Canada · 14 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**17 open roles.** 3 in the United States & Canada · 14 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://iex.io/careers/apply?gh_jid=8172248">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Assured Guaranty</strong></td>
-<td><a href="https://trueinterview.io/jobs/01c55378-d532-42a9-98d2-4d9bb3fb67d3">Product Software Developer Intern</a> 🛂</td>
-<td>New York, NY<br/>NYC</td>
-<td align="center"><a href="https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>

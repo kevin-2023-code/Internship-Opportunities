@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-11T19:49:56.575Z",
-  "count": 1016,
+  "listingsChangedAt": "2026-10-11T23:20:37.252Z",
+  "count": 1014,
   "listings": [
     {
       "id": "22293de7-ee03-4573-892a-2ac2e3e4b7c4",
@@ -27213,58 +27213,6 @@
       "url": "https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c",
       "postedAt": "2026-08-13T00:00:00.000Z",
       "updatedAt": "2026-08-13T00:00:00.000Z"
-    },
-    {
-      "id": "01c55378-d532-42a9-98d2-4d9bb3fb67d3",
-      "company": "Assured Guaranty",
-      "title": "Product Software Developer Intern",
-      "locations": [
-        "New York, NY, United States",
-        "New York",
-        "NYC"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": "Other",
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002",
-      "url": "https://trueinterview.io/jobs/01c55378-d532-42a9-98d2-4d9bb3fb67d3",
-      "postedAt": "2026-08-12T17:24:40.000Z",
-      "updatedAt": "2026-08-12T20:21:03.000Z"
-    },
-    {
-      "id": "c4945949-08bd-46bb-afc9-7e45e65a48a4",
-      "company": "Windborne Systems",
-      "title": "Electrical Engineer Intern",
-      "locations": [
-        "RWC HQ"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f/application",
-      "url": "https://trueinterview.io/jobs/c4945949-08bd-46bb-afc9-7e45e65a48a4",
-      "postedAt": "2026-08-12T19:56:52.000Z",
-      "updatedAt": "2026-08-12T19:56:52.000Z"
     }
   ]
 }

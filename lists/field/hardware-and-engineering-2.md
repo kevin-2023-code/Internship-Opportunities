@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**505 open roles.** 493 in the United States & Canada · 12 elsewhere in the world.
+**504 open roles.** 493 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -754,13 +754,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Auckland, NZ<br/>Auckland Production Complex Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7845193003">Apply</a></td>
 <td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Windborne Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4945949-08bd-46bb-afc9-7e45e65a48a4">Electrical Engineer Intern</a></td>
-<td>RWC HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/windborne-systems/a0adb58d-37e7-4e37-abf5-c77d63d4dd8f/application">Apply</a></td>
-<td align="center">12 Aug 2026</td>
 </tr>
 </tbody>
 </table>
