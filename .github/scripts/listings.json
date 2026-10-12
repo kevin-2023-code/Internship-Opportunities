@@ -5,9 +5,38 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-12T03:40:06.692Z",
+  "listingsChangedAt": "2026-10-12T11:31:27.629Z",
   "count": 1013,
   "listings": [
+    {
+      "id": "8f84a893-dd08-4d09-b069-e5a8b7160518",
+      "company": "Google",
+      "title": "Forward Deployed Engineering Intern, BS/MS, Summer 2027",
+      "locations": [
+        "Sunnyvale, CA, USA",
+        "New York, NY, USA"
+      ],
+      "cities": [
+        "Sunnyvale, CA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027",
+      "url": "https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518",
+      "postedAt": "2026-10-12T09:43:39.000Z",
+      "updatedAt": "2026-10-12T09:43:39.000Z"
+    },
     {
       "id": "ea550786-77fe-45f5-b974-90abd2617378",
       "company": "harbinger-motors-inc",
@@ -7060,31 +7089,6 @@
       "url": "https://trueinterview.io/jobs/57950f0b-7fba-4f19-8c28-bf92eecec14e",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "4656f92c-c8ac-4e7c-a6f0-1b39a602e5ea",
-      "company": "Robinhood",
-      "title": "Data Science Intern (Summer 2027)",
-      "locations": [
-        "Menlo Park, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
-      "url": "https://trueinterview.io/jobs/4656f92c-c8ac-4e7c-a6f0-1b39a602e5ea",
-      "postedAt": "2026-09-29T23:13:29.000Z",
-      "updatedAt": "2026-09-29T23:13:29.000Z"
     },
     {
       "id": "118c85d7-3a03-4661-a14f-b832415b68bd",
