@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-12T11:31:27.629Z",
-  "count": 1013,
+  "listingsChangedAt": "2026-10-12T20:41:36.188Z",
+  "count": 1017,
   "listings": [
+    {
+      "id": "c52c2010-8d95-4072-9b07-88fa2a65fcb0",
+      "company": "1password",
+      "title": "Data Intern  - Product Analytics - Winter 2027",
+      "locations": [
+        "Remote (United States",
+        "Canada)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application",
+      "url": "https://trueinterview.io/jobs/c52c2010-8d95-4072-9b07-88fa2a65fcb0",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "1684e6d5-78f2-43c5-b5e6-3a8f636411ae",
+      "company": "IBM",
+      "title": "Applied AI Research Intern - R&D Internship – 2027 Yorktown Heights & Cambridge",
+      "locations": [
+        "Multiple Cities, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=136634",
+      "url": "https://trueinterview.io/jobs/1684e6d5-78f2-43c5-b5e6-3a8f636411ae",
+      "postedAt": "2026-10-12T14:53:39.000Z",
+      "updatedAt": "2026-10-12T14:53:39.000Z"
+    },
     {
       "id": "8f84a893-dd08-4d09-b069-e5a8b7160518",
       "company": "Google",
@@ -59,6 +111,207 @@
       "source": "1point3acres",
       "applyUrl": "https://www.1point3acres.com/jobs/01m4pqpt2jj04x811c5e5fyjg7",
       "url": "https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "82ea9a93-ae53-44ee-9eaf-2c323c89929b",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Hardware Service Engineer Intern",
+      "locations": [
+        "Spring, Texas, United States of America",
+        "All, Illinois, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Service-Engineer-Intern_1213403",
+      "url": "https://trueinterview.io/jobs/82ea9a93-ae53-44ee-9eaf-2c323c89929b",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "117811f2-0427-4efa-bb42-4e535a76fc71",
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPC/AI System Admin HW/SW Service Engineer Intern",
+      "locations": [
+        "All, Tennessee, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "IT & Support",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Tennessee-United-States-of-America/HPC-AI-System-Admin-HW-SW-Service-Engineer-Intern_1213404",
+      "url": "https://trueinterview.io/jobs/117811f2-0427-4efa-bb42-4e535a76fc71",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "157e1b75-8ef7-4903-be08-a9a511d745c9",
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPC/AI Systems Service Process Improvement Engineer Intern",
+      "locations": [
+        "All, Illinois, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "IT & Support",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402",
+      "url": "https://trueinterview.io/jobs/157e1b75-8ef7-4903-be08-a9a511d745c9",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "9475feaa-e5b3-418d-990e-8c542b771bd2",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Thermal/Mechanical Engineering Intern",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Thermal-Mechanical-Engineering-Intern_1213398",
+      "url": "https://trueinterview.io/jobs/9475feaa-e5b3-418d-990e-8c542b771bd2",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "97d7259a-075f-49c3-9010-76f4b0863679",
+      "company": "Keysight",
+      "title": "R&D Engineer 1, Hardware Intern",
+      "locations": [
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54648?lang=en-us",
+      "url": "https://trueinterview.io/jobs/97d7259a-075f-49c3-9010-76f4b0863679",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "fee5cfd6-c396-40ac-8a3e-ace668c81322",
+      "company": "KLA",
+      "title": "AI/ML Software Engineer - Intern",
+      "locations": [
+        "Ann Arbor, MI, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
+      "url": "https://trueinterview.io/jobs/fee5cfd6-c396-40ac-8a3e-ace668c81322",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "d82668f4-0c99-4aba-bc37-c3b7d7aec0de",
+      "company": "Micron Technology",
+      "title": "Intern - SSD Hardware Engineering",
+      "locations": [
+        "Longmont, CO, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.micron.com/careers/job/44920709",
+      "url": "https://trueinterview.io/jobs/d82668f4-0c99-4aba-bc37-c3b7d7aec0de",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "3dbda5b3-fe86-4b25-b238-a3a82184445e",
+      "company": "Microsoft",
+      "title": "Cloud Network Engineering Internship Oportunities",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557037856",
+      "url": "https://trueinterview.io/jobs/3dbda5b3-fe86-4b25-b238-a3a82184445e",
       "postedAt": "2026-10-12T00:00:00.000Z",
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
@@ -217,34 +470,6 @@
       "url": "https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6",
       "postedAt": "2026-10-10T00:00:00.000Z",
       "updatedAt": "2026-10-10T00:00:00.000Z"
-    },
-    {
-      "id": "781a0b25-d1e0-424d-98d9-f79223028c20",
-      "company": "IBM",
-      "title": "Research Scientist - R&D Internship – 2027 Yorktown Heights & Cambridge",
-      "locations": [
-        "Multiple Cities, United States",
-        "San Jose, US"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=136608",
-      "url": "https://trueinterview.io/jobs/781a0b25-d1e0-424d-98d9-f79223028c20",
-      "postedAt": "2026-10-09T20:43:40.000Z",
-      "updatedAt": "2026-10-09T20:43:40.000Z"
     },
     {
       "id": "a9cc40e6-7dd4-4ed0-9afc-7f4d54ab39bb",
@@ -1518,31 +1743,6 @@
       "updatedAt": "2026-10-08T00:00:00.000Z"
     },
     {
-      "id": "8b92c12c-9a1c-44b3-aea6-c235fab5b6b9",
-      "company": "QUALCOMM",
-      "title": "FY26 Intern - Camera Algorithm and Architecture Intern - Haifa",
-      "locations": [
-        "Haifa, Haifa District, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446717394546",
-      "url": "https://trueinterview.io/jobs/8b92c12c-9a1c-44b3-aea6-c235fab5b6b9",
-      "postedAt": "2026-10-08T00:00:00.000Z",
-      "updatedAt": "2026-10-08T00:00:00.000Z"
-    },
-    {
       "id": "16bd5239-7f2a-41a9-ae3f-65e2ad435403",
       "company": "Texas Instruments",
       "title": "Analog Design Eng Intern",
@@ -2673,33 +2873,6 @@
       "url": "https://trueinterview.io/jobs/cfb365ae-4c4a-4f5d-a649-ac18b5691d49",
       "postedAt": "2026-10-06T00:01:25.000Z",
       "updatedAt": "2026-10-06T00:01:25.000Z"
-    },
-    {
-      "id": "4f9fc6d3-a782-4e16-a1f8-da107dc59209",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
-      "url": "https://trueinterview.io/jobs/4f9fc6d3-a782-4e16-a1f8-da107dc59209",
-      "postedAt": "2026-10-06T00:00:00.000Z",
-      "updatedAt": "2026-10-06T00:00:00.000Z"
     },
     {
       "id": "3c3bb31c-8859-4bfc-a447-4dea9d4471b8",
@@ -6228,29 +6401,6 @@
       "url": "https://trueinterview.io/jobs/afd265ad-4a11-4e84-8584-a42d5c0701cc",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "dbd797cb-c09c-40f8-9a18-0ddfc72b522a",
-      "company": "Esri",
-      "title": "R&D Internship",
-      "locations": [
-        "Beijing, CN"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.esri.com/careers/5252393007?gh_jid=5252393007",
-      "url": "https://trueinterview.io/jobs/dbd797cb-c09c-40f8-9a18-0ddfc72b522a",
-      "postedAt": "2026-09-30T23:06:57.000Z",
-      "updatedAt": "2026-09-30T23:06:57.000Z"
     },
     {
       "id": "5cfd1033-ccce-4607-b6a3-c5c5515314b6",
@@ -9860,31 +10010,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54371?lang=en-us",
       "url": "https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe",
-      "postedAt": "2026-09-22T00:00:00.000Z",
-      "updatedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "13625190-d437-4388-a446-c3ef4650d1bc",
-      "company": "KLA",
-      "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-      "locations": [
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
-      "url": "https://trueinterview.io/jobs/13625190-d437-4388-a446-c3ef4650d1bc",
       "postedAt": "2026-09-22T00:00:00.000Z",
       "updatedAt": "2026-09-22T00:00:00.000Z"
     },
@@ -17284,6 +17409,31 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "649aec5a-0b47-4d3f-a812-1342c048a739",
+      "company": "Microsoft",
+      "title": "Security Assurance Intern - CTJ - TS",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988203",
+      "url": "https://trueinterview.io/jobs/649aec5a-0b47-4d3f-a812-1342c048a739",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "ca8f5ed9-20ea-403b-9d5f-fecbf7de24c7",
       "company": "Texas Instruments",
       "title": "Systems Engineering Intern",
@@ -20491,31 +20641,6 @@
       "updatedAt": "2026-09-06T00:00:00.000Z"
     },
     {
-      "id": "014b4290-4c20-4c5a-b367-a1b4b150ea36",
-      "company": "Micron Technology",
-      "title": "Intern - DRAM Test Structure Design and Layout Engineering",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44332522",
-      "url": "https://trueinterview.io/jobs/014b4290-4c20-4c5a-b367-a1b4b150ea36",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "updatedAt": "2026-09-06T00:00:00.000Z"
-    },
-    {
       "id": "08997276-000e-4d23-8a6d-185d643e679d",
       "company": "Clera",
       "title": "Founding Engineer Intern",
@@ -21171,31 +21296,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318362440",
       "url": "https://trueinterview.io/jobs/3b08f413-a6b9-42f7-9041-946f83db0711",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "2d1bbaab-9ece-45ee-ad7f-056aeb0ef23b",
-      "company": "Garmin",
-      "title": "Aircraft Performance Engineer Intern",
-      "locations": [
-        "Olathe, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19837?lang=en-us",
-      "url": "https://trueinterview.io/jobs/2d1bbaab-9ece-45ee-ad7f-056aeb0ef23b",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
