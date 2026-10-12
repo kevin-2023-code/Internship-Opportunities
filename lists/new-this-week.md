@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**174 open roles.** 166 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
+**171 open roles.** 163 in the United States & Canada · 8 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Harbinger Motors Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378">Intern, Battery Test</a></td>
+<td>Garden Grove, CA, Garden Grove</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4pqpt2jj04x811c5e5fyjg7">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
@@ -1149,34 +1156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c491577-e2f3-4218-995d-ab02002e73ed">Stagiaire en science des données -- Data Science Intern</a></td>
 <td>Montréal, Quebec, Canada<br/>Montréal – Toboggan Labs</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tobogganlabs/jobs/8012583003">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/f61c2172-a042-43ad-a414-d68f9ec03a19">Electric Hardware Engineering Intern</a></td>
-<td>Chippewa Falls, Wisconsin, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electric-Hardware-Engineering-Intern_1213414">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9207b399-d7b2-4b14-9e7e-93ab5326aad6">Hardware Tools and Libraries Intern</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6beef90d-fb19-4b77-b7b5-7891435b5a26">VLSI Design Verification Internship</a></td>
-<td>Chippewa Falls, Wisconsin, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Design-Verification-Internship_1213400">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/d16ca100-364d-4238-ac10-4b206b997589">Intern - Memory Design Engineer, HBM</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44702971">Apply</a></td>
 <td align="center">4 Oct 2026</td>
 </tr>
 </tbody>

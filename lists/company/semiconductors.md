@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**309 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**307 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2165,20 +2165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971808713">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/80481f24-6de1-4df7-84b0-0c94e4de3f0c">DOW SkillsBridge Intern – Semiconductor Equipment Technician</a></td>
-<td>Boise, ID, US<br/>Manassas, VA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43812075">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c">Intern - Process Pathfinding, DRAM Dry Etch</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43648171">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

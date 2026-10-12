@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**504 open roles.** 493 in the United States & Canada · 11 elsewhere in the world.
+**503 open roles.** 492 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Harbinger Motors Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378">Intern, Battery Test</a></td>
+<td>Garden Grove, CA, Garden Grove</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4pqpt2jj04x811c5e5fyjg7">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/28131e7d-3f98-48eb-a780-93bdd9aeac7e">Process Development Engineer Intern - MS/PhD – Lehi</a></td>
 <td>Lehi, UT, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017570">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/81a49839-f70f-4f9d-b81a-a7a926fe23d4">Product/Test Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017571">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**514 open roles.** 511 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**512 open roles.** 509 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -777,20 +777,6 @@
 <td>US-CA-Santa Rosa-Bldg 4<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/53739?lang=en-us">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/80481f24-6de1-4df7-84b0-0c94e4de3f0c">DOW SkillsBridge Intern – Semiconductor Equipment Technician</a></td>
-<td>Boise, ID, US<br/>Manassas, VA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43812075">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c">Intern - Process Pathfinding, DRAM Dry Etch</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43648171">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

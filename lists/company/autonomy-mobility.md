@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**16 open roles.** 11 in the United States & Canada · 5 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**17 open roles.** 12 in the United States & Canada · 5 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Harbinger Motors Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378">Intern, Battery Test</a></td>
+<td>Garden Grove, CA, Garden Grove</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4pqpt2jj04x811c5e5fyjg7">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Zipline</strong></td>
 <td><a href="https://trueinterview.io/jobs/a51ce426-e72c-49e7-9b28-25c14efb4af6">Firmware Engineer Intern (Spring 2027)</a></td>

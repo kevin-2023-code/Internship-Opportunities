@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**139 open roles.**
+**138 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -982,13 +982,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US-CA-Santa Rosa-Bldg 4<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/53739?lang=en-us">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/80481f24-6de1-4df7-84b0-0c94e4de3f0c">DOW SkillsBridge Intern – Semiconductor Equipment Technician</a></td>
-<td>Boise, ID, US<br/>Manassas, VA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43812075">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**504 open roles.** 493 in the United States & Canada · 11 elsewhere in the world.
+**503 open roles.** 492 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/81a49839-f70f-4f9d-b81a-a7a926fe23d4">Product/Test Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017571">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4b523496-80fb-4d50-91b6-e5fe6a049a8b">Quality Engineering Intern</a></td>
 <td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Lehi, UT, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017572">Apply</a></td>
@@ -650,20 +657,6 @@
 <td><a href="https://trueinterview.io/jobs/3c6d79b8-b80a-40f4-b636-0f54e35a9bd0">Electrical Engineer, Robotics Hardware- Part-time Internship</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/80481f24-6de1-4df7-84b0-0c94e4de3f0c">DOW SkillsBridge Intern – Semiconductor Equipment Technician</a></td>
-<td>Boise, ID, US<br/>Manassas, VA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43812075">Apply</a></td>
-<td align="center">13 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/531fd0ac-9f33-424c-8680-5992507c881c">Intern - Process Pathfinding, DRAM Dry Etch</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43648171">Apply</a></td>
 <td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
