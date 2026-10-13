@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**30 open roles.** 28 in the United States & Canada · 2 elsewhere in the world.
+**28 open roles.** 26 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>All, Illinois, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402">Apply</a></td>
 <td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f43ec52-208a-4031-9275-29dc64f59fd1">Summer 2027 ASIC Design Co-Op/ Intern</a></td>
-<td>Orlando, Florida, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91341?lang=en-us">Apply</a></td>
-<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Intel</strong></td>
@@ -177,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chaska, United States of America</td>
 <td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/12ab564e-5f9a-427e-9d8e-3dfd70ce3689">2027 PhD AI Systems &amp; GPU Performance Engineering Intern/Co-op</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92354?lang=en-us">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

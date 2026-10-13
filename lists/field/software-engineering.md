@@ -18,10 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/1684e6d5-78f2-43c5-b5e6-3a8f636411ae">Applied AI Research Intern - R&amp;D Internship – 2027 Yorktown Heights &amp; Cambridge</a></td>
-<td>Multiple Cities, United States</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=136634">Apply</a></td>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5c15c7b-b48b-4cf2-8233-d193504acf14">Product software development - Internship</a></td>
+<td>Aguadilla, Puerto Rico, Puerto Rico</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/85a705c7-2eda-463d-8803-84e22b71306d">Test Engineering Intern Tech III</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54786?lang=en-us">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
@@ -39,17 +46,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/781a0b25-d1e0-424d-98d9-f79223028c20">Research Scientist - R&amp;D Internship – 2027 Yorktown Heights &amp; Cambridge</a></td>
+<td>San Jose, CA<br/>Multiple Cities, United States</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=136608">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/dea01390-fd29-4b13-9a47-97aa3ee021ba">Forward Deployed Engineer Intern (HR Technology)</a></td>
 <td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
 <td align="center"><a href="https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f43ec52-208a-4031-9275-29dc64f59fd1">Summer 2027 ASIC Design Co-Op/ Intern</a></td>
-<td>Orlando, Florida, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91341?lang=en-us">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
 <tr>
@@ -1079,13 +1086,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
 <td>Mexico City, Mexico<br/>San Francisco, CA<br/>Flex - Mexico</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/12ab564e-5f9a-427e-9d8e-3dfd70ce3689">2027 PhD AI Systems &amp; GPU Performance Engineering Intern/Co-op</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92354?lang=en-us">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

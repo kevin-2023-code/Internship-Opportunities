@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**126 open roles.** 109 in the United States & Canada · 17 elsewhere in the world.
+**127 open roles.** 110 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6d6f3e-7a9f-4022-82c7-84ef38873ebd">Student Intern, Collaboration Services System Programmer</a></td>
+<td>Costa Rica, San Jose</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Replit</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a375bf2-1a24-4975-a23b-7cba69525e21">Software Engineering Intern – Winter 2027 (U.S. Based)</a></td>

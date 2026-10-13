@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**304 open roles.**
+**306 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/e01ddbdf-4f9b-4753-805d-d44da592fcb8">Research Scientist Intern, Language and Agents (PhD)</a></td>
+<td>Menlo Park, CA, United States<br/>Bellevue, WA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2168438160696161/">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e7ef2b0-efa2-4e21-98b9-9a964cbe8e6e">2027 Summer Intern, MS/PhD, Perception, Model Lifecycle</a></td>
+<td>Mountain View, CA, USA, Mountain View</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8248411">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de">Signal Integrity Intern</a></td>
+<td>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1134883748976209/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518">Forward Deployed Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Sunnyvale, CA<br/>New York, NY</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/85a705c7-2eda-463d-8803-84e22b71306d">Test Engineering Intern Tech III</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54786?lang=en-us">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
@@ -51,6 +79,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>South San Francisco, California, USA, Aviary - SSF</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
 <td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/781a0b25-d1e0-424d-98d9-f79223028c20">Research Scientist - R&amp;D Internship – 2027 Yorktown Heights &amp; Cambridge</a></td>
+<td>San Jose, CA<br/>Multiple Cities, United States</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=136608">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
@@ -134,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f490cc2f-5b58-448a-95d5-fd09b09ecb47">Solutions Engineer Intern 2027 (USA)</a> 🌐</td>
 <td>Remote — United States<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6b99d39-ce1d-43cf-8317-ba06a423b5d8">2026 Summer Intern, PhD, Research, World Modeling Evaluation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8265173">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
@@ -1468,13 +1496,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/12ab564e-5f9a-427e-9d8e-3dfd70ce3689">2027 PhD AI Systems &amp; GPU Performance Engineering Intern/Co-op</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92354?lang=en-us">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/90738bb8-0f77-46d8-927c-0381a9d29dd1">2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op</a></td>
 <td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92346?lang=en-us">Apply</a></td>
@@ -2137,13 +2158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971876872">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/92f6506c-c6a2-4099-bba1-057398faf414">Internship - Embedded Systems Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971808713">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

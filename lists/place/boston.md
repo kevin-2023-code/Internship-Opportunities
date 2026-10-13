@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**67 open roles.**
+**68 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a612b3f-7b6b-436a-8802-2f6f23fdd619">Internship – R&amp;D Product Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971972671">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/96179d9c-63d5-4b9a-a3bb-37cd1969f8e5">Spring 2027:  Electrical Engineering Co-op, Shark (January to June)</a></td>

@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**49 open roles.**
+**51 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/e01ddbdf-4f9b-4753-805d-d44da592fcb8">Research Scientist Intern, Language and Agents (PhD)</a></td>
+<td>Bellevue, WA<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2168438160696161/">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2b97cca5-db5d-4c35-925a-5eeaa0910f1d">Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)</a></td>
+<td>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2586686598441521/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/3dbda5b3-fe86-4b25-b238-a3a82184445e">Cloud Network Engineering Internship Oportunities</a></td>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e7ef2b0-efa2-4e21-98b9-9a964cbe8e6e">2027 Summer Intern, MS/PhD, Perception, Model Lifecycle</a></td>
+<td>Mountain View, CA, USA, Mountain View</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8248411">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Harbinger Motors Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378">Intern, Battery Test</a></td>
 <td>Garden Grove, CA, Garden Grove</td>
@@ -30,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>South San Francisco, California, USA, Aviary - SSF</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
 <td align="center">10 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6b99d39-ce1d-43cf-8317-ba06a423b5d8">2026 Summer Intern, PhD, Research, World Modeling Evaluation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8265173">Apply</a></td>
-<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Bot Auto</strong></td>

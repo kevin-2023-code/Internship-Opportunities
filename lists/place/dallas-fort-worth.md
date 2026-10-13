@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**51 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -316,13 +316,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b">Digital IC Design Engineering Intern - MS/PhD</a></td>
 <td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017548">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7d770549-d32f-4d56-826e-55bc086caa10">Packaging Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017567">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>

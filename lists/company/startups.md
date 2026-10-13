@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,13 +135,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rilla/c15fc0ad-6da3-4bab-9c64-f8288453b2ae/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c6d79b8-b80a-40f4-b636-0f54e35a9bd0">Electrical Engineer, Robotics Hardware- Part-time Internship</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

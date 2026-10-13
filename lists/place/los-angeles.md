@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**64 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -457,13 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c6d79b8-b80a-40f4-b636-0f54e35a9bd0">Electrical Engineer, Robotics Hardware- Part-time Internship</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

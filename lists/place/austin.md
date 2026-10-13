@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**66 open roles.**
+**67 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Synopsys</strong></td>
+<td><a href="https://trueinterview.io/jobs/537b9971-ebde-40e0-ab1f-a68b0655cf63">RTL Design and Verification Internship</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://careers.synopsys.com/job/austin/rtl-design-and-verification-internship/44408/101884580864">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**504 open roles.** 493 in the United States & Canada · 11 elsewhere in the world.
+**509 open roles.** 498 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Synopsys</strong></td>
+<td><a href="https://trueinterview.io/jobs/537b9971-ebde-40e0-ab1f-a68b0655cf63">RTL Design and Verification Internship</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://careers.synopsys.com/job/austin/rtl-design-and-verification-internship/44408/101884580864">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/01b45155-69b7-4254-b5a3-9a82415e7b20">Spring Co-op - Recording Electronics Data Analytics &amp; Optimization</a></td>
+<td>Rochester, MN, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155109379-spring-co-op-recording-electronics-data-analytics-optimization?oga=true">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de">Signal Integrity Intern</a></td>
+<td>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1134883748976209/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9612e48-f4f9-4607-9553-6adfdcd85b11">Antenna Engineering Intern</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19048?lang=en-us">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Harbinger Motors Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378">Intern, Battery Test</a></td>
 <td>Garden Grove, CA, Garden Grove</td>
@@ -28,6 +56,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/df894fec-f46a-40ae-ab1f-2d9f3abe966b">ASIC Verification Engineering Intern</a></td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214219">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/82ea9a93-ae53-44ee-9eaf-2c323c89929b">Hardware Service Engineer Intern</a></td>
 <td>Spring, Texas, United States of America<br/>All, Illinois, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Service-Engineer-Intern_1213403">Apply</a></td>
@@ -41,6 +76,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ee82d091-5cd5-4b2d-99d8-17735c74cce7">VLSI Logic Design Intern</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Logic-Design-Intern_1213411">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a612b3f-7b6b-436a-8802-2f6f23fdd619">Internship – R&amp;D Product Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971972671">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2ee1ecb-8197-45ae-8b11-162f3eb4ed43">Process Integration Development Engineer PhD Intern New 2027</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/97d7259a-075f-49c3-9010-76f4b0863679">R&amp;D Engineer 1, Hardware Intern</a></td>
 <td>Santa Rosa, California, United States</td>
@@ -48,10 +104,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/84c1d86a-5f02-4e23-baed-d69f47151ea3">Service Tech Intern</a></td>
+<td>Roseville, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54715?lang=en-us">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f2cb4ab-4ee3-4ccb-83db-0f67a676d848">Intern - ID1 ATE PI Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853688">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d82668f4-0c99-4aba-bc37-c3b7d7aec0de">Intern - SSD Hardware Engineering</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44920709">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/56962466-be17-4e06-a28a-e8e7cd4d40e1">Hardware Development Co-Op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
@@ -1270,13 +1347,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3223bfce-8ab5-4f17-9662-181a6ac83763">EMC Engineer Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20216?lang=en-us">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/f88099fa-b333-4b42-8de5-d80f9459c982">R&amp;D Hardware Engineer, Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54326?lang=en-us">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>
@@ -2747,76 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0679d062-8f44-4df9-a6e6-08c531ac3bd0">Intern - Advanced DRAM Cell &amp; Device Technology</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44247232">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/924ef01c-4b81-4116-b6fe-cd3dfc87e200">Analog IC Design Engineering Intern - Bachelors</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States<br/>+1 more</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017543">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/05e927d3-4e3e-4587-a5c9-d2856a4f4430">Analog IC Design Engineering Intern - MS/PhD</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States<br/>+1 more</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017544">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ff35aef6-e7b1-491a-a137-0d790cf65371">Applications Engineering Intern</a></td>
-<td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017537">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3f055774-54cb-4233-8fe5-94f071743a30">Design Verification Engineering Intern - Bachelors</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017545">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/81bd6d1a-e04f-4d49-bf0d-48ac263a4853">Design Verification Engineering Intern - MS/PhD</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017546">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2716e4cd-4d2d-4286-a3b1-f7de9286a9f3">Digital IC Design Engineering Intern - Bachelors</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017547">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b">Digital IC Design Engineering Intern - MS/PhD</a></td>
-<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017548">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7d770549-d32f-4d56-826e-55bc086caa10">Packaging Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017567">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c12ca430-e060-4da2-9dfc-95e283d80368">Packaging Engineering Intern MS/PhD</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017568">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/48ea64f7-f7e5-4bfa-95dc-af1f3ee21327">Process Development Engineer Intern - MS/PhD – Dallas</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017569">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

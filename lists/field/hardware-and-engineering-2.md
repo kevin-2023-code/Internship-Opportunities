@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**504 open roles.** 493 in the United States & Canada · 11 elsewhere in the world.
+**509 open roles.** 498 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,69 @@
 <tbody>
 <tr>
 <td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/924ef01c-4b81-4116-b6fe-cd3dfc87e200">Analog IC Design Engineering Intern - Bachelors</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017543">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/05e927d3-4e3e-4587-a5c9-d2856a4f4430">Analog IC Design Engineering Intern - MS/PhD</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017544">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ff35aef6-e7b1-491a-a137-0d790cf65371">Applications Engineering Intern</a></td>
+<td>Dallas, TX, United States<br/>Sugar Land, TX, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017537">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3f055774-54cb-4233-8fe5-94f071743a30">Design Verification Engineering Intern - Bachelors</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017545">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/81bd6d1a-e04f-4d49-bf0d-48ac263a4853">Design Verification Engineering Intern - MS/PhD</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Phoenix, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017546">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2716e4cd-4d2d-4286-a3b1-f7de9286a9f3">Digital IC Design Engineering Intern - Bachelors</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017547">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b">Digital IC Design Engineering Intern - MS/PhD</a></td>
+<td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017548">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c12ca430-e060-4da2-9dfc-95e283d80368">Packaging Engineering Intern MS/PhD</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017568">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/48ea64f7-f7e5-4bfa-95dc-af1f3ee21327">Process Development Engineer Intern - MS/PhD – Dallas</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017569">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/28131e7d-3f98-48eb-a780-93bdd9aeac7e">Process Development Engineer Intern - MS/PhD – Lehi</a></td>
 <td>Lehi, UT, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017570">Apply</a></td>
@@ -637,34 +700,6 @@
 <td>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829">Apply</a></td>
 <td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc60d817-e58b-4811-9aad-35badb655dd9">2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA)</a></td>
-<td>Gloucester, MA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317811290">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/92f6506c-c6a2-4099-bba1-057398faf414">Internship - Embedded Systems Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971808713">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/f26e0164-f25b-4392-b17f-de39e570f14b">Research Intern (PhD students)</a></td>
-<td>US-CA-Santa Rosa-Bldg 4<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/53739?lang=en-us">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c6d79b8-b80a-40f4-b636-0f54e35a9bd0">Electrical Engineer, Robotics Hardware- Part-time Internship</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44/apply">Apply</a></td>
-<td align="center">13 Aug 2026</td>
 </tr>
 </tbody>
 </table>

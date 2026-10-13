@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**137 open roles.** 128 in the United States & Canada · 9 elsewhere in the world.
+**140 open roles.** 131 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,39 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/e01ddbdf-4f9b-4753-805d-d44da592fcb8">Research Scientist Intern, Language and Agents (PhD)</a></td>
+<td>Bellevue, WA<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2168438160696161/">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>1password</strong></td>
 <td><a href="https://trueinterview.io/jobs/c52c2010-8d95-4072-9b07-88fa2a65fcb0">Data Intern  - Product Analytics - Winter 2027</a> 🌐</td>
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Memx</strong></td>
+<td><a href="https://trueinterview.io/jobs/12d70b31-0a49-433f-9b10-8112c514941f">Data Engineering Intern, Summer 2027 (Hybrid, NYC)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5450442008">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e7ef2b0-efa2-4e21-98b9-9a964cbe8e6e">2027 Summer Intern, MS/PhD, Perception, Model Lifecycle</a></td>
+<td>Mountain View, CA, USA, Mountain View</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8248411">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b97cca5-db5d-4c35-925a-5eeaa0910f1d">Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)</a></td>
+<td>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2586686598441521/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>
@@ -39,18 +67,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d91f98f-5f8c-4a95-81a2-3b7bf53b6e7d">Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893398025428">Apply</a></td>
 <td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6b99d39-ce1d-43cf-8317-ba06a423b5d8">2026 Summer Intern, PhD, Research, World Modeling Evaluation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8265173">Apply</a></td>
-<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Wing</strong></td>
@@ -708,13 +736,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df7d0f22-22ed-4f07-8bb9-33b9322e439f">2027 PhD ML System Engineering Intern/Co-op</a></td>
 <td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92342?lang=en-us">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c99447-8dfb-4c7f-a0ae-a51351603a34">Data Scientist Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19926?lang=en-us">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**25 open roles.** 22 in the United States & Canada · 3 elsewhere in the world.
+**26 open roles.** 23 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Charles River Associates</strong></td>

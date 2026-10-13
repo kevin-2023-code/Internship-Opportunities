@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**306 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**308 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Synopsys</strong></td>
+<td><a href="https://trueinterview.io/jobs/537b9971-ebde-40e0-ab1f-a68b0655cf63">RTL Design and Verification Internship</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://careers.synopsys.com/job/austin/rtl-design-and-verification-internship/44408/101884580864">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a612b3f-7b6b-436a-8802-2f6f23fdd619">Internship – R&amp;D Product Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971972671">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/3178500e-0a2e-44e0-9bdc-d86f489e76ea">Information Technology Intern</a></td>
+<td>Costa Rica, San Jose</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Information-Technology-Intern_JR0287837-1">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2ee1ecb-8197-45ae-8b11-162f3eb4ed43">Process Integration Development Engineer PhD Intern New 2027</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1d6d6f3e-7a9f-4022-82c7-84ef38873ebd">Student Intern, Collaboration Services System Programmer</a></td>
+<td>Costa Rica, San Jose</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/fee5cfd6-c396-40ac-8a3e-ace668c81322">AI/ML Software Engineer - Intern</a></td>
 <td>Ann Arbor, MI, United States of America</td>
@@ -26,9 +61,23 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f2cb4ab-4ee3-4ccb-83db-0f67a676d848">Intern - ID1 ATE PI Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853688">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d82668f4-0c99-4aba-bc37-c3b7d7aec0de">Intern - SSD Hardware Engineering</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44920709">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
@@ -37,13 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Santa Clara, California, United States<br/>Austin, Texas, United States<br/>+1 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/93645?lang=en-us">Apply</a></td>
 <td align="center">11 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3f43ec52-208a-4031-9275-29dc64f59fd1">Summer 2027 ASIC Design Co-Op/ Intern</a></td>
-<td>Orlando, Florida, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91341?lang=en-us">Apply</a></td>
-<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
@@ -1265,13 +1307,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/12ab564e-5f9a-427e-9d8e-3dfd70ce3689">2027 PhD AI Systems &amp; GPU Performance Engineering Intern/Co-op</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92354?lang=en-us">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/90738bb8-0f77-46d8-927c-0381a9d29dd1">2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op</a></td>
 <td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92346?lang=en-us">Apply</a></td>
@@ -1762,13 +1797,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7d770549-d32f-4d56-826e-55bc086caa10">Packaging Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017567">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c12ca430-e060-4da2-9dfc-95e283d80368">Packaging Engineering Intern MS/PhD</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017568">Apply</a></td>
@@ -2144,20 +2172,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43785486">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc60d817-e58b-4811-9aad-35badb655dd9">2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA)</a></td>
-<td>Gloucester, MA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317811290">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/92f6506c-c6a2-4099-bba1-057398faf414">Internship - Embedded Systems Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971808713">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**517 open roles.** 514 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**527 open roles.** 524 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,104 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Red Hat</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a4f5667-2466-4624-8e50-c154720771fc">Software Engineer Intern</a></td>
+<td>Boston, MA<br/>Raleigh, United States of America<br/>Lowell<br/>+1 more</td>
+<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4a13096b-0b53-4b60-b9b5-3337399a7f59">Technical Product Intern</a></td>
+<td>Boston, MA<br/>Raleigh, United States of America<br/>Durham</td>
+<td align="center"><a href="https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Technical-Product-Intern_R-059526-1">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fe01287-c150-4743-ba8f-5df380f6e23c">Facilities Chemical Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017820">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9d23e805-8468-494d-a271-958dc2368511">Facilities Controls and Automation Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017815">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4fb80652-06b7-48a3-ab73-d36ef302cc64">Facilities Mechanical &amp; Process Water Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017827">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/54e3c080-1865-47fa-b8ea-1cf2d94f6f55">Maine: Manufacturing Engineering Intern</a></td>
+<td>South Portland, ME, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017629">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e2805037-2ea2-4a5f-8b3c-7bbf19f8f74d">North Texas: Industrial Engineer Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017630">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/55bf5d0d-daa1-49a4-a1ab-48b7bef2dafd">North Texas: Manufacturing Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017628">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6e4931f3-a3ff-4a5d-b4de-aaa0012a0336">Product Engineering Intern</a></td>
+<td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017579">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/011a56b2-f64a-4e6a-a608-708fd5d01f6e">Product Marketing Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017582">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/33445106-7db8-4b06-9fd1-db6b86d9dd61">Test or Validation Engineering Intern</a></td>
+<td>Dallas, TX, United States<br/>Tucson, AZ, United States<br/>Knoxville, TN, United States<br/>+1 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017578">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8d910cd6-5e0c-4218-92ea-6b308accf230">Utah: Manufacturing Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tokyo Electron</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee47c9dd-ba60-4d83-85b1-881563d4422a">Sales Business Analyst Intern</a></td>
+<td>Austin RiverSouth, United States of America</td>
+<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/84e67284-4da5-4b6d-9113-bf20a2168027">2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317812890">Apply</a></td>
+<td align="center">7 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/d472c39f-fa1e-4f05-89ab-5744775b1002">Internship - Analog Design</a></td>
@@ -300,13 +398,6 @@
 <td><a href="https://trueinterview.io/jobs/f46fd8f8-6d4e-4d47-81cd-a1d2f6a6ad0b">Digital IC Design Engineering Intern - MS/PhD</a></td>
 <td>Dallas, TX, United States<br/>Knoxville, TN, United States<br/>Tucson, AZ, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017548">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7d770549-d32f-4d56-826e-55bc086caa10">Packaging Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017567">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 <tr>
@@ -791,27 +882,6 @@
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43785486">Apply</a></td>
 <td align="center">16 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc60d817-e58b-4811-9aad-35badb655dd9">2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA)</a></td>
-<td>Gloucester, MA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790317811290">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/92f6506c-c6a2-4099-bba1-057398faf414">Internship - Embedded Systems Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971808713">Apply</a></td>
-<td align="center">14 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/f26e0164-f25b-4392-b17f-de39e570f14b">Research Intern (PhD students)</a></td>
-<td>US-CA-Santa Rosa-Bldg 4<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/53739?lang=en-us">Apply</a></td>
-<td align="center">14 Aug 2026</td>
 </tr>
 </tbody>
 </table>

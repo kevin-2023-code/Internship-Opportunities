@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**10 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dv Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cd96fe3-cde6-4225-a4f0-d0c87b407f9d">Data Center Engineer Intern - Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4742962005">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Thinkingbox</strong></td>
 <td><a href="https://trueinterview.io/jobs/e90c0480-3592-4111-8813-04f31bd1517e">Motion Design Intern - The Heist (3-Month Contract, Potential for Full-Time)</a></td>

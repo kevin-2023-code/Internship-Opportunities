@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**15 open roles.** 9 in the United States & Canada · 6 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**16 open roles.** 10 in the United States & Canada · 6 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dv Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cd96fe3-cde6-4225-a4f0-d0c87b407f9d">Data Center Engineer Intern - Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4742962005">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>IMC</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0178c3a-84a7-4487-97eb-03044626a20c">Hardware Machine Learning PhD Research Internship</a></td>
