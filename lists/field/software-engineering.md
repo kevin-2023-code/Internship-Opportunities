@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**245 open roles.** 216 in the United States & Canada · 29 elsewhere in the world.
+**244 open roles.** 215 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1187,13 +1187,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/b936cfbd-efa2-4e7d-bb9c-c9c2406c79cf">Intern - Automation, Operations Improvement</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44332987">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/a637c10d-21f1-4898-8195-aca2a752eec6">Software Engineer Intern</a></td>
 <td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
@@ -1469,7 +1462,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/00b0722b-bfa4-4c32-a444-4ec34c66a126">Robotics - Software Development Engineer Fall Intern/Co-op - 2026</a></td>
-<td>Westboro, Wisconsin, USA</td>
+<td>Westboro, Wisconsin, USA<br/>Westborough, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026">Apply</a></td>
 <td align="center">27 Aug 2026</td>
 </tr>

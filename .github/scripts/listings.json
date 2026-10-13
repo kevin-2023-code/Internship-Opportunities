@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-13T09:56:30.288Z",
-  "count": 1031,
+  "listingsChangedAt": "2026-10-13T17:19:40.239Z",
+  "count": 1037,
   "listings": [
+    {
+      "id": "a8dfd26f-960e-4d76-b13c-27b4d8ee1a89",
+      "company": "gallup",
+      "title": "Data Engineering Intern — Summer 2027",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/gallup/jobs/4449991009",
+      "url": "https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "79f5dfe1-a32d-48b8-a34e-16c477b8f8a5",
+      "company": "Meta",
+      "title": "Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)",
+      "locations": [
+        "Redmond, WA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1839680137188723/",
+      "url": "https://trueinterview.io/jobs/79f5dfe1-a32d-48b8-a34e-16c477b8f8a5",
+      "postedAt": "2026-10-13T15:54:23.000Z",
+      "updatedAt": "2026-10-13T15:54:23.000Z"
+    },
     {
       "id": "e01ddbdf-4f9b-4753-805d-d44da592fcb8",
       "company": "Meta",
@@ -145,6 +197,106 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
+      "id": "02a90609-6e6d-4142-a502-d0313e2d40aa",
+      "company": "Keysight",
+      "title": "R&D Hardware Design Engineer, Intern",
+      "locations": [
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54389?lang=en-us",
+      "url": "https://trueinterview.io/jobs/02a90609-6e6d-4142-a502-d0313e2d40aa",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "0dfc2393-f555-4f70-aa61-000aa1fc5e2a",
+      "company": "KLA",
+      "title": "Mechanical Design Engineer Intern",
+      "locations": [
+        "Ann Arbor, MI, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Design-Engineer-Intern_2642150-3",
+      "url": "https://trueinterview.io/jobs/0dfc2393-f555-4f70-aa61-000aa1fc5e2a",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "b9b6c8eb-cadf-4b87-8c8f-ae7751d28d2f",
+      "company": "KLA",
+      "title": "Precision Motion Control Intern",
+      "locations": [
+        "Milpitas, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1",
+      "url": "https://trueinterview.io/jobs/b9b6c8eb-cadf-4b87-8c8f-ae7751d28d2f",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "8b5606da-5f02-437b-b4e2-b9e024c4678e",
+      "company": "KLA",
+      "title": "Software Engineer Intern - AI",
+      "locations": [
+        "Ann Arbor, MI, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
+      "url": "https://trueinterview.io/jobs/8b5606da-5f02-437b-b4e2-b9e024c4678e",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
       "id": "12d70b31-0a49-433f-9b10-8112c514941f",
       "company": "memx",
       "title": "Data Engineering Intern, Summer 2027 (Hybrid, NYC)",
@@ -166,6 +318,36 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/memx/jobs/5450442008",
       "url": "https://trueinterview.io/jobs/12d70b31-0a49-433f-9b10-8112c514941f",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "c84f5316-b433-4708-9a56-4fd8f87ab6ad",
+      "company": "NVIDIA",
+      "title": "Deep Learning Performance Architect PhD Intern - Spring 2027",
+      "locations": [
+        "Bengaluru, KA, IN",
+        "Hyderabad, Telangana, IN"
+      ],
+      "cities": [
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "countries": [
+        "United States",
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397810724",
+      "url": "https://trueinterview.io/jobs/c84f5316-b433-4708-9a56-4fd8f87ab6ad",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
@@ -245,6 +427,62 @@
       "url": "https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de",
       "postedAt": "2026-10-12T20:51:29.000Z",
       "updatedAt": "2026-10-12T20:51:29.000Z"
+    },
+    {
+      "id": "7b04c747-0d86-4ec0-83de-55e80724a38d",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)",
+      "locations": [
+        "Sunnyvale, CA, United States",
+        "Redmond, WA, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1139865145249047/",
+      "url": "https://trueinterview.io/jobs/7b04c747-0d86-4ec0-83de-55e80724a38d",
+      "postedAt": "2026-10-12T19:54:33.000Z",
+      "updatedAt": "2026-10-12T19:54:33.000Z"
+    },
+    {
+      "id": "c52527b3-5b52-4ad5-89ea-8c136e68c96f",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Egocentric Vision-Language Models (PhD)",
+      "locations": [
+        "Sunnyvale, CA, United States",
+        "Redmond, WA, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2067000203934229/",
+      "url": "https://trueinterview.io/jobs/c52527b3-5b52-4ad5-89ea-8c136e68c96f",
+      "postedAt": "2026-10-12T18:55:15.000Z",
+      "updatedAt": "2026-10-12T18:55:15.000Z"
     },
     {
       "id": "2b97cca5-db5d-4c35-925a-5eeaa0910f1d",
@@ -7466,31 +7704,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538",
       "url": "https://trueinterview.io/jobs/e94c8dff-3512-46bb-abdf-d4e4f75863ab",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "updatedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "45192e48-fb81-4b8a-b072-a776878c5161",
-      "company": "Intel",
-      "title": "GPU Physical Design Engineer Intern",
-      "locations": [
-        "Costa Rica, San Jose"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/GPU-Physical-Design-Engineer-Intern_JR0287532",
-      "url": "https://trueinterview.io/jobs/45192e48-fb81-4b8a-b072-a776878c5161",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
@@ -19656,31 +19869,6 @@
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
     {
-      "id": "dea14382-b5b7-47f6-9b22-a01e9b93bf4f",
-      "company": "Garmin",
-      "title": "Component Engineering Intern",
-      "locations": [
-        "Olathe, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19937?lang=en-us",
-      "url": "https://trueinterview.io/jobs/dea14382-b5b7-47f6-9b22-a01e9b93bf4f",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
       "id": "84972904-8760-4377-b2bb-dc5e9d58a794",
       "company": "Garmin",
       "title": "Mechanical Designer Intern",
@@ -19780,31 +19968,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54259?lang=en-us",
       "url": "https://trueinterview.io/jobs/02b62b5c-a2e3-4073-b0fe-1fca1379fee5",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "updatedAt": "2026-09-09T00:00:00.000Z"
-    },
-    {
-      "id": "b936cfbd-efa2-4e7d-bb9c-c9c2406c79cf",
-      "company": "Micron Technology",
-      "title": "Intern - Automation, Operations Improvement",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44332987",
-      "url": "https://trueinterview.io/jobs/b936cfbd-efa2-4e7d-bb9c-c9c2406c79cf",
       "postedAt": "2026-09-09T00:00:00.000Z",
       "updatedAt": "2026-09-09T00:00:00.000Z"
     },
@@ -25605,7 +25768,8 @@
       "company": "Amazon",
       "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
       "locations": [
-        "Westboro, Wisconsin, USA"
+        "Westboro, Wisconsin, USA",
+        "Westborough, Massachusetts, USA"
       ],
       "cities": [],
       "countries": [
