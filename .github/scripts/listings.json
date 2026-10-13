@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-13T02:20:17.554Z",
-  "count": 1028,
+  "listingsChangedAt": "2026-10-13T09:56:30.288Z",
+  "count": 1031,
   "listings": [
     {
       "id": "e01ddbdf-4f9b-4753-805d-d44da592fcb8",
@@ -87,6 +87,33 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application",
       "url": "https://trueinterview.io/jobs/c52c2010-8d95-4072-9b07-88fa2a65fcb0",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "a5581158-3c09-4708-801c-ef64ef4becdd",
+      "company": "Amazon",
+      "title": "ASIC Engineer Intern, Summer 2027",
+      "locations": [
+        "Sunnyvale, California, USA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
+      "url": "https://trueinterview.io/jobs/a5581158-3c09-4708-801c-ef64ef4becdd",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
@@ -324,6 +351,33 @@
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
     {
+      "id": "51436ee1-9cec-45b6-aab7-ac5aa8ecc546",
+      "company": "Hewlett Packard Enterprise",
+      "title": "ASIC Intern",
+      "locations": [
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034",
+      "url": "https://trueinterview.io/jobs/51436ee1-9cec-45b6-aab7-ac5aa8ecc546",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
       "id": "df894fec-f46a-40ae-ab1f-2d9f3abe966b",
       "company": "Hewlett Packard Enterprise",
       "title": "ASIC Verification Engineering Intern",
@@ -345,6 +399,33 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214219",
       "url": "https://trueinterview.io/jobs/df894fec-f46a-40ae-ab1f-2d9f3abe966b",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "id": "0a567ac0-5097-4d95-ab79-8869e59376a8",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Firmware Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States of America"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254",
+      "url": "https://trueinterview.io/jobs/0a567ac0-5097-4d95-ab79-8869e59376a8",
       "postedAt": "2026-10-12T00:00:00.000Z",
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
@@ -475,11 +556,37 @@
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
     {
+      "id": "767a2a06-bf69-4c79-858a-bee824f16520",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Design Verification Intern",
+      "locations": [
+        "Ft. Collins, Colorado, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Intern_1213399",
+      "url": "https://trueinterview.io/jobs/767a2a06-bf69-4c79-858a-bee824f16520",
+      "postedAt": "2026-10-12T00:00:00.000Z",
+      "updatedAt": "2026-10-12T00:00:00.000Z"
+    },
+    {
       "id": "ee82d091-5cd5-4b2d-99d8-17735c74cce7",
       "company": "Hewlett Packard Enterprise",
       "title": "VLSI Logic Design Intern",
       "locations": [
-        "Chippewa Falls, Wisconsin, United States of America"
+        "Chippewa Falls, Wisconsin, United States of America",
+        "Ft. Collins, Colorado, United States of America"
       ],
       "cities": [],
       "countries": [
@@ -3482,31 +3589,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298595",
       "url": "https://trueinterview.io/jobs/18149b8e-5d8e-4b18-95c6-cb49ca846639",
-      "postedAt": "2026-10-06T00:00:00.000Z",
-      "updatedAt": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "id": "eba9e48b-cb86-488e-b776-d3d4f5c644bc",
-      "company": "Dell",
-      "title": "Global Operations Supplier Quality Engineer Co-Op",
-      "locations": [
-        "TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298592",
-      "url": "https://trueinterview.io/jobs/eba9e48b-cb86-488e-b776-d3d4f5c644bc",
       "postedAt": "2026-10-06T00:00:00.000Z",
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
