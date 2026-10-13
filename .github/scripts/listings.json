@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-13T17:19:40.239Z",
-  "count": 1037,
+  "listingsChangedAt": "2026-10-13T22:09:19.888Z",
+  "count": 1044,
   "listings": [
     {
       "id": "a8dfd26f-960e-4d76-b13c-27b4d8ee1a89",
@@ -34,6 +34,158 @@
       "url": "https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "f4790f54-a74b-4d6a-9432-95a2d99ce05c",
+      "company": "skydio",
+      "title": "Embedded Software Engineer Intern - Summer 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application",
+      "url": "https://trueinterview.io/jobs/f4790f54-a74b-4d6a-9432-95a2d99ce05c",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "14921e4c-6f27-4c4e-8165-a841c96a28de",
+      "company": "Meta",
+      "title": "Signal Integrity Intern",
+      "locations": [
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1134883748976209/",
+      "url": "https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de",
+      "postedAt": "2026-10-12T20:51:29.000Z",
+      "updatedAt": "2026-10-13T20:44:14.000Z"
+    },
+    {
+      "id": "3224c896-808b-484a-92bb-0a67c01a295f",
+      "company": "IBM",
+      "title": "Sales Configuration Developer Intern 2027",
+      "locations": [
+        "RESEARCH TRIANGLE PARK, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=135618",
+      "url": "https://trueinterview.io/jobs/3224c896-808b-484a-92bb-0a67c01a295f",
+      "postedAt": "2026-10-13T20:43:40.000Z",
+      "updatedAt": "2026-10-13T20:43:40.000Z"
+    },
+    {
+      "id": "f00d6241-4dcc-4234-8c5b-60f002799588",
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)",
+      "locations": [
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1866761794487684/",
+      "url": "https://trueinterview.io/jobs/f00d6241-4dcc-4234-8c5b-60f002799588",
+      "postedAt": "2026-10-13T20:24:41.000Z",
+      "updatedAt": "2026-10-13T20:24:41.000Z"
+    },
+    {
+      "id": "81a5f17d-f89e-4950-90e3-77a187462a6f",
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI & System Co-Design (PhD)",
+      "locations": [
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1062032900196411/",
+      "url": "https://trueinterview.io/jobs/81a5f17d-f89e-4950-90e3-77a187462a6f",
+      "postedAt": "2026-10-13T19:58:29.000Z",
+      "updatedAt": "2026-10-13T19:58:29.000Z"
+    },
+    {
+      "id": "6abb8b37-b08a-49c3-a6c8-d7ce8d716466",
+      "company": "Meta",
+      "title": "Research Scientist Intern, VLM and Omni Model Post-Training (PhD)",
+      "locations": [
+        "Sunnyvale, CA, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2988199118196184/",
+      "url": "https://trueinterview.io/jobs/6abb8b37-b08a-49c3-a6c8-d7ce8d716466",
+      "postedAt": "2026-10-13T19:08:51.000Z",
+      "updatedAt": "2026-10-13T19:08:51.000Z"
     },
     {
       "id": "79f5dfe1-a32d-48b8-a34e-16c477b8f8a5",
@@ -197,6 +349,82 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
+      "id": "6cb2ebca-283f-4151-9d17-9c69dd97e991",
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPC – AI Networking Intern - Network Transport",
+      "locations": [
+        "Fort Collins, Colorado, United States of America",
+        "Chippewa Falls, Wisconsin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416",
+      "url": "https://trueinterview.io/jobs/6cb2ebca-283f-4151-9d17-9c69dd97e991",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "55a511da-4ba3-4c3d-8725-6e6f781ee1bc",
+      "company": "Hewlett Packard Enterprise",
+      "title": "VLSI Design Verification Masters Level Intern",
+      "locations": [
+        "Ft. Collins, Colorado, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Masters-Level-Intern_1213425",
+      "url": "https://trueinterview.io/jobs/55a511da-4ba3-4c3d-8725-6e6f781ee1bc",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "b10e7997-7773-41e3-897c-6a42f124e433",
+      "company": "Intel",
+      "title": "Module Development Engineer PhD Intern New 2027",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950",
+      "url": "https://trueinterview.io/jobs/b10e7997-7773-41e3-897c-6a42f124e433",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
       "id": "02a90609-6e6d-4142-a502-d0313e2d40aa",
       "company": "Keysight",
       "title": "R&D Hardware Design Engineer, Intern",
@@ -272,6 +500,56 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
+      "id": "7e3db683-f35a-4a96-8e56-7618b7d33413",
+      "company": "KLA",
+      "title": "Product Development Intern - Electron Beam Instrumentation",
+      "locations": [
+        "Ann Arbor, MI, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Intern---Electron-Beam-Instrumentation_2642030",
+      "url": "https://trueinterview.io/jobs/7e3db683-f35a-4a96-8e56-7618b7d33413",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "d9035866-6809-453e-8ce6-f6441f9a2e7e",
+      "company": "KLA",
+      "title": "Research Scientist Intern - Coating Characterization",
+      "locations": [
+        "Ann Arbor, MI, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
+      "url": "https://trueinterview.io/jobs/d9035866-6809-453e-8ce6-f6441f9a2e7e",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
       "id": "8b5606da-5f02-437b-b4e2-b9e024c4678e",
       "company": "KLA",
       "title": "Software Engineer Intern - AI",
@@ -322,32 +600,118 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
-      "id": "c84f5316-b433-4708-9a56-4fd8f87ab6ad",
-      "company": "NVIDIA",
-      "title": "Deep Learning Performance Architect PhD Intern - Spring 2027",
+      "id": "7f7d8895-40b0-4556-97a3-e50d78c2e838",
+      "company": "Micron Technology",
+      "title": "Intern - Equipment Engineer",
       "locations": [
-        "Bengaluru, KA, IN",
-        "Hyderabad, Telangana, IN"
+        "Manassas, VA, US"
       ],
-      "cities": [
-        "Bengaluru",
-        "Hyderabad"
-      ],
+      "cities": [],
       "countries": [
-        "United States",
-        "India"
+        "United States"
       ],
       "remote": "onsite",
-      "category": "Hardware & Engineering",
+      "category": "Other",
       "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "junior",
-      "level": "experienced",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397810724",
-      "url": "https://trueinterview.io/jobs/c84f5316-b433-4708-9a56-4fd8f87ab6ad",
+      "applyUrl": "https://careers.micron.com/careers/job/44920531",
+      "url": "https://trueinterview.io/jobs/7f7d8895-40b0-4556-97a3-e50d78c2e838",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "06d7eeec-6ef3-4550-a72c-46f95af3a320",
+      "company": "Nokia",
+      "title": "PIC Process Integration Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41123",
+      "url": "https://trueinterview.io/jobs/06d7eeec-6ef3-4550-a72c-46f95af3a320",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "206eeeb0-0dd4-4548-9a68-8232302d0e76",
+      "company": "NVIDIA",
+      "title": "Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397828680",
+      "url": "https://trueinterview.io/jobs/206eeeb0-0dd4-4548-9a68-8232302d0e76",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "03250a9b-5432-4c71-90eb-24270b2be951",
+      "company": "Tokyo Electron",
+      "title": "SEMICON Intern",
+      "locations": [
+        "Austin RiverSouth, United States of America",
+        "Fremont",
+        "Phoenix",
+        "Albany",
+        "Boise",
+        "Portland",
+        "North Phoenix (Deer Valley)",
+        "Taylor",
+        "North Chelmsford",
+        "San Jose",
+        "Manassas",
+        "Hillsboro QRS Shared",
+        "Austin MET 15",
+        "Richardson",
+        "Chaska"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/SEMICON-Intern_R26-01940",
+      "url": "https://trueinterview.io/jobs/03250a9b-5432-4c71-90eb-24270b2be951",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
@@ -402,31 +766,6 @@
       "url": "https://trueinterview.io/jobs/01b45155-69b7-4254-b5a3-9a82415e7b20",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "id": "14921e4c-6f27-4c4e-8165-a841c96a28de",
-      "company": "Meta",
-      "title": "Signal Integrity Intern",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1134883748976209/",
-      "url": "https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de",
-      "postedAt": "2026-10-12T20:51:29.000Z",
-      "updatedAt": "2026-10-12T20:51:29.000Z"
     },
     {
       "id": "7b04c747-0d86-4ec0-83de-55e80724a38d",
@@ -508,6 +847,31 @@
       "url": "https://trueinterview.io/jobs/2b97cca5-db5d-4c35-925a-5eeaa0910f1d",
       "postedAt": "2026-10-12T14:17:44.000Z",
       "updatedAt": "2026-10-12T14:17:44.000Z"
+    },
+    {
+      "id": "021a7b61-f472-4ac6-acb2-da536124a6b8",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
+      "locations": [
+        "Redmond, WA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/3364701000388712/",
+      "url": "https://trueinterview.io/jobs/021a7b61-f472-4ac6-acb2-da536124a6b8",
+      "postedAt": "2026-10-12T14:06:54.000Z",
+      "updatedAt": "2026-10-12T14:06:54.000Z"
     },
     {
       "id": "8f84a893-dd08-4d09-b069-e5a8b7160518",
@@ -1326,59 +1690,6 @@
       "updatedAt": "2026-10-10T00:00:00.000Z"
     },
     {
-      "id": "781a0b25-d1e0-424d-98d9-f79223028c20",
-      "company": "IBM",
-      "title": "Research Scientist - R&D Internship – 2027 Yorktown Heights & Cambridge",
-      "locations": [
-        "Multiple Cities, United States",
-        "San Jose, US"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.ibm.com/careers/JobDetail?jobId=136608",
-      "url": "https://trueinterview.io/jobs/781a0b25-d1e0-424d-98d9-f79223028c20",
-      "postedAt": "2026-10-09T20:43:40.000Z",
-      "updatedAt": "2026-10-09T20:43:40.000Z"
-    },
-    {
-      "id": "a9cc40e6-7dd4-4ed0-9afc-7f4d54ab39bb",
-      "company": "Meta",
-      "title": "Mechanical Engineering Intern",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1530919698792460/",
-      "url": "https://trueinterview.io/jobs/a9cc40e6-7dd4-4ed0-9afc-7f4d54ab39bb",
-      "postedAt": "2026-10-09T19:27:10.000Z",
-      "updatedAt": "2026-10-09T19:27:10.000Z"
-    },
-    {
       "id": "dea01390-fd29-4b13-9a47-97aa3ee021ba",
       "company": "Coinbase",
       "title": "Forward Deployed Engineer Intern (HR Technology)",
@@ -2178,33 +2489,6 @@
       "url": "https://trueinterview.io/jobs/727089aa-cb1c-46aa-a668-22049f94d6ed",
       "postedAt": "2026-10-08T18:52:26.000Z",
       "updatedAt": "2026-10-08T18:52:26.000Z"
-    },
-    {
-      "id": "a6bb77f3-faf9-4274-ab6d-8a4dc62ef220",
-      "company": "Meta",
-      "title": "Thermal Engineering Intern",
-      "locations": [
-        "Austin, TX, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1123905276826454/",
-      "url": "https://trueinterview.io/jobs/a6bb77f3-faf9-4274-ab6d-8a4dc62ef220",
-      "postedAt": "2026-10-08T18:00:43.000Z",
-      "updatedAt": "2026-10-08T18:00:43.000Z"
     },
     {
       "id": "732c7b20-22f6-4eba-8850-57f3ff3857ca",
@@ -4981,33 +5265,6 @@
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },
     {
-      "id": "c05900d9-9cdb-4eb0-adf1-3440a2ad0212",
-      "company": "Infineon",
-      "title": "Intern- Product Marketing",
-      "locations": [
-        "San Jose, CA, US"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.infineon.com/careers/job/563808972126447",
-      "url": "https://trueinterview.io/jobs/c05900d9-9cdb-4eb0-adf1-3440a2ad0212",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
       "id": "34223099-d42a-4a14-9a25-47cf470f1c1a",
       "company": "Intel",
       "title": "AI Solution Architect - Graduate Intern",
@@ -5956,31 +6213,6 @@
       "url": "https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f",
       "postedAt": "2026-10-02T07:00:00.000Z",
       "updatedAt": "2026-10-02T07:00:00.000Z"
-    },
-    {
-      "id": "37d7c032-27ec-4caf-af41-b425d1757950",
-      "company": "Meta",
-      "title": "Mechanical Engineering Intern, Infrastructure",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/921722064324989/",
-      "url": "https://trueinterview.io/jobs/37d7c032-27ec-4caf-af41-b425d1757950",
-      "postedAt": "2026-10-02T03:24:03.000Z",
-      "updatedAt": "2026-10-02T03:24:03.000Z"
     },
     {
       "id": "97308e77-5efb-4e95-afb4-21afc7747141",
@@ -18109,6 +18341,31 @@
       "updatedAt": "2026-09-11T00:00:00.000Z"
     },
     {
+      "id": "ed846908-e2f4-4b4a-bd27-ea1774160224",
+      "company": "Microsoft",
+      "title": "Product Management Intern - CTJ - TS",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+      "url": "https://trueinterview.io/jobs/ed846908-e2f4-4b4a-bd27-ea1774160224",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "updatedAt": "2026-09-11T00:00:00.000Z"
+    },
+    {
       "id": "649aec5a-0b47-4d3f-a812-1342c048a739",
       "company": "Microsoft",
       "title": "Security Assurance Intern - CTJ - TS",
@@ -18667,32 +18924,6 @@
       "updatedAt": "2026-09-10T16:02:22.000Z"
     },
     {
-      "id": "ab31b4f3-af81-4765-a488-45fa864457a9",
-      "company": "Wade Trim",
-      "title": "Engineer Summer Intern - #3056",
-      "locations": [
-        "Tampa, FL",
-        "Taylor, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/wadetrim/9ccebcf4-4ad1-4328-a823-216ffee64284/apply",
-      "url": "https://trueinterview.io/jobs/ab31b4f3-af81-4765-a488-45fa864457a9",
-      "postedAt": "2026-09-09T16:03:38.000Z",
-      "updatedAt": "2026-09-10T00:14:05.000Z"
-    },
-    {
       "id": "cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d",
       "company": "Amazon",
       "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
@@ -18714,31 +18945,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
       "url": "https://trueinterview.io/jobs/cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "1b74f757-4552-4402-b354-5e3e753270a0",
-      "company": "Garmin",
-      "title": "Aircraft Performance Engineering Intern",
-      "locations": [
-        "Scottsdale, Arizona, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19997?lang=en-us",
-      "url": "https://trueinterview.io/jobs/1b74f757-4552-4402-b354-5e3e753270a0",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
@@ -27788,32 +27994,6 @@
       "url": "https://trueinterview.io/jobs/1b66c32e-4b91-493f-b988-2e1f3ad56384",
       "postedAt": "2026-08-16T00:00:00.000Z",
       "updatedAt": "2026-08-16T00:00:00.000Z"
-    },
-    {
-      "id": "05865f09-d1c7-4573-93f5-d27cc0a614f8",
-      "company": "Formlabs",
-      "title": "Mechanical Engineering Intern (Winter/Spring 2027)",
-      "locations": [
-        "Somerville, MA",
-        "Somerville, Massachusetts"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.formlabs.com/job/8130829/apply/?gh_jid=8130829",
-      "url": "https://trueinterview.io/jobs/05865f09-d1c7-4573-93f5-d27cc0a614f8",
-      "postedAt": "2026-08-14T19:06:17.000Z",
-      "updatedAt": "2026-08-14T19:06:17.000Z"
     }
   ]
 }
