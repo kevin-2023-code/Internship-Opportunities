@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**521 open roles.** 510 in the United States & Canada · 11 elsewhere in the world.
+**523 open roles.** 512 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,59 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/45d19ad1-c41a-453d-ae05-b3e0e7270b42">Display Panel Design Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1136608158836536/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
+<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/399ef308-e85f-4305-8a26-e38149117219">Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027</a></td>
+<td>Westborough, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/483b87de-81f2-4681-aa4a-542d189e22bf">2027 Firmware Engineer Intern</a></td>
 <td>Costa Mesa, California, United States, Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aa04bc2-9cab-4609-85e9-ac555ebc7771">Intern, Solutions Engineer – Board Test</a></td>
+<td>Novi, Michigan, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54849?lang=en-us">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
@@ -322,13 +371,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f251444-6b5a-437c-80bb-f4760b4f3826">Structural Design Engineer - FEA (Intern)</a></td>
-<td>Sunnyvale, CA<br/>Seattle, WA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1080292111664557/">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c8e77831-c2a2-43f9-a096-3dbc0911021f">ASIC Engineer Intern, Architecture</a></td>
 <td>Sunnyvale, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1096213456288397/">Apply</a></td>
@@ -447,13 +489,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/dcbbddb8-94ce-42d5-8b27-b1671fa7d89f">Manufacturing Test Engineering Intern, Field Requirements &amp; Feedback</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/940553205402689/">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Asm</strong></td>
 <td><a href="https://trueinterview.io/jobs/727089aa-cb1c-46aa-a668-22049f94d6ed">[2027 Summer Internship] Phoenix</a></td>
 <td>US &gt; Arizona &gt; Phoenix</td>
@@ -469,13 +504,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/17a13a55-5202-4fa5-93cb-a623a9b5dbd5">Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1092606640401919/">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e3d1ef6e-9ff1-4068-b431-b201ee2ecf6c">Manufacturing Test Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1866862250969693/">Apply</a></td>
@@ -787,13 +815,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/92eb7c7a-d5e6-4745-a463-efc581891b28">Additive Engineering Intern (Spring 2027)</a></td>
 <td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8013423003">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/77936936-073d-4b84-8bdf-36d6249f7576">Electrical Engineering Intern</a></td>
-<td>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1105729655266553/">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -2135,13 +2156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b5d97e1-1811-4eb2-b7b7-15b39418fc01">Analog Design Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Burlington, VT</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/15445053-6c9a-46bc-b8b0-27ff4e49edae">IC Validation Engineer Intern, MS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>Westlake Village, CA</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1">Apply</a></td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44332891">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e056c759-0ddd-490a-babe-e51a43b612fc">Intern - Technician, Fab Equipment</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44358885">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/45deb8fa-28b6-4665-b4df-8f37d5e64c9a">Intern, Transportation Planning</a></td>
-<td>Vancouver, BC, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94203">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

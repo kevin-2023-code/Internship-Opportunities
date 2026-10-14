@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**90 open roles.** 83 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**89 open roles.** 82 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -327,13 +327,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b5d97e1-1811-4eb2-b7b7-15b39418fc01">Analog Design Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Burlington, VT</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/15445053-6c9a-46bc-b8b0-27ff4e49edae">IC Validation Engineer Intern, MS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>Westlake Village, CA</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1">Apply</a></td>

@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-14 01:30 UTC_
+_Last updated: 2026-10-14 17:42 UTC_
 
 **79 open internships** from **46 employers** · **7 posted in the last 7 days** · refreshed hourly
 
@@ -104,7 +104,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/54d5ad3c-3c2e-46db-ab87-1c920e445c8b">System Engineer internship 2027 (6 months), ESC Managed Operations</a></td>
 <td>DE, BE, Berlin</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10571716/system-engineer-internship-2027-6-months-esc-managed-operations">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Taboola</strong></td>
@@ -306,7 +306,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3aebdea2-1212-49be-a089-9a5f44c90c23">Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)</a></td>
 <td>Paris, IDF, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
-<td align="center">12d</td>
+<td align="center">13d</td>
 </tr>
 <tr>
 <td><strong>Govsignals</strong></td>
@@ -424,7 +424,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d59f73a1-36ad-4bb2-850e-809fa2958094">Embedded Software Engineering Intern</a></td>
 <td>Pittsburgh</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application">Apply</a></td>
-<td align="center">28d</td>
+<td align="center">29d</td>
 </tr>
 <tr>
 <td><strong>Skydio</strong></td>
@@ -514,7 +514,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8eea2850-3447-4f39-80b0-b0db9f482f52">Communication Design Internship</a></td>
 <td>Durban, South Africa<br/>Pipeline</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/oliver/jobs/8239898">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>Sezzle</strong></td>
@@ -597,7 +597,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/456c7218-3f9e-4826-b5f6-576c20518272">Investment Risk 2027 Summer Internship</a></td>
 <td>London</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Voleon</strong></td>
@@ -613,6 +613,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005">Apply</a></td>
 <td align="center">29d</td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>Show 11 more Quantitative Finance roles posted earlier</summary>
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
+</thead>
+<tbody>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/729e56aa-6411-4a03-adce-f5f373b30f83">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Singapore</a></td>
@@ -627,17 +638,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784061">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>Show 9 more Quantitative Finance roles posted earlier</summary>
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
-</thead>
-<tbody>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>
@@ -722,14 +722,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/97340c15-89cf-4b47-806c-bac8f2b19465">(Physical) Security Specialist Intern -  2027 Internship</a></td>
 <td>ES, Huesca<br/>ES, Zaragoza<br/>FR, Paris</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a></td>
 <td>ES, Huesca<br/>ES, Zaragoza</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 </tbody>
 </table>

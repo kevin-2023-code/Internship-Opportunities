@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**251 open roles.** 222 in the United States & Canada · 29 elsewhere in the world.
+**252 open roles.** 223 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/d858909a-7a4a-4b6b-bd89-74f42a0aa75d">Amazon Robotics - Software Development Engineer Intern/Co-op - 2027</a></td>
+<td>Westborough, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Pebl</strong></td>
 <td><a href="https://trueinterview.io/jobs/04ff52c4-a9c6-458a-89b9-14ef8724b5ca">Software Engineering, Intern</a></td>

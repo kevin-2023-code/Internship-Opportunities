@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**547 open roles.** 544 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**551 open roles.** 548 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,35 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d">Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027</a></td>
+<td>North Reading, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/a340102f-e3bd-4386-a0f5-e6d078f0dd7b">Aircraft Systems Intern</a></td>
+<td>New Century, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/20127?lang=en-us">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dbff52f6-3814-4a48-ba9a-9e1dc527066c">Automation Engineering Intern - Operations</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19992?lang=en-us">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd">Design Certification Engineer Intern</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19771?lang=en-us">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/78d537d0-0816-4f56-9a33-d780bffd7750">Reliability Engineering Intern - Operations</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19990?lang=en-us">Apply</a></td>

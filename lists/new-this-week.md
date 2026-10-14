@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**173 open roles.** 166 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
+**175 open roles.** 168 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/45d19ad1-c41a-453d-ae05-b3e0e7270b42">Display Panel Design Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1136608158836536/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
+<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/399ef308-e85f-4305-8a26-e38149117219">Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027</a></td>
+<td>Westborough, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d858909a-7a4a-4b6b-bd89-74f42a0aa75d">Amazon Robotics - Software Development Engineer Intern/Co-op - 2027</a></td>
+<td>Westborough, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/483b87de-81f2-4681-aa4a-542d189e22bf">2027 Firmware Engineer Intern</a></td>
@@ -36,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89">Data Engineering Intern — Summer 2027</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4449991009">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aa04bc2-9cab-4609-85e9-ac555ebc7771">Intern, Solutions Engineer – Board Test</a></td>
+<td>Novi, Michigan, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54849?lang=en-us">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
@@ -642,13 +698,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f251444-6b5a-437c-80bb-f4760b4f3826">Structural Design Engineer - FEA (Intern)</a></td>
-<td>Sunnyvale, CA<br/>Seattle, WA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1080292111664557/">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c8e77831-c2a2-43f9-a096-3dbc0911021f">ASIC Engineer Intern, Architecture</a></td>
 <td>Sunnyvale, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1096213456288397/">Apply</a></td>
@@ -802,13 +851,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/dcbbddb8-94ce-42d5-8b27-b1671fa7d89f">Manufacturing Test Engineering Intern, Field Requirements &amp; Feedback</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/940553205402689/">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Asm</strong></td>
 <td><a href="https://trueinterview.io/jobs/727089aa-cb1c-46aa-a668-22049f94d6ed">[2027 Summer Internship] Phoenix</a></td>
 <td>US &gt; Arizona &gt; Phoenix</td>
@@ -845,13 +887,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/17a13a55-5202-4fa5-93cb-a623a9b5dbd5">Optical Engineering Intern - Camera, Depth &amp; Cover Window Optics</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1092606640401919/">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e3d1ef6e-9ff1-4068-b431-b201ee2ecf6c">Manufacturing Test Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1866862250969693/">Apply</a></td>
@@ -1156,27 +1191,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3bd299fd-9fc8-453f-8675-1968bef23c74">Data Hall Design Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/689a09a9-bb1f-453b-ad4e-4bceb470ccdd/application">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Memx</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4486bfa-f4a6-465b-bf5c-debfdeab5d55">Information Security Intern, Summer 2027 (Hybrid)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5445236008">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pure Storage</strong></td>
-<td><a href="https://trueinterview.io/jobs/24029bc0-9eb0-425e-967c-d6a9af6a787b">Software Engineer Intern (Summer 2027)</a></td>
-<td>Santa Clara, California<br/>Office - Santa Clara</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/purestorage/jobs/8249749">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Courier Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/720f2fda-78c2-4bcb-ad01-0909f6a2d4a3">Software Engineering Intern (Summer 2027)</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/courierhealth/jobs/5258913007">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

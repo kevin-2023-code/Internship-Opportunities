@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**53 open roles.**
+**52 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/courierhealth/jobs/5258913007">Apply</a></td>
 <td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/77936936-073d-4b84-8bdf-36d6249f7576">Electrical Engineering Intern</a></td>
-<td>New York, NY<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1105729655266553/">Apply</a></td>
-<td align="center">5 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Adobe</strong></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**150 open roles.**
+**152 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/45d19ad1-c41a-453d-ae05-b3e0e7270b42">Display Panel Design Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1136608158836536/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
+<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/399ef308-e85f-4305-8a26-e38149117219">Amazon Robotics - Hardware Development Engineer Intern/Co-op - 2027</a></td>
+<td>Westborough, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10578750/amazon-robotics-hardware-development-engineer-intern-co-op-2027">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Wing</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f8f1c34-6358-451e-91c1-a98b3d31d034">Electrical Engineering Intern, Summer 2027</a></td>
@@ -316,13 +344,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ba9be562-5d5e-4916-b9e3-75b9cdc5e22a">Mechanical Design Intern - Immediate Fill</a></td>
 <td>Los Angeles - HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/773aa23e-1faf-47f9-bd80-701b6c00f4c4/application">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/77936936-073d-4b84-8bdf-36d6249f7576">Electrical Engineering Intern</a></td>
-<td>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1105729655266553/">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -729,13 +750,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/998f364b-8a31-42d3-b63c-ce706906aedb">Semiconductor R&amp;D Process Integration Intern</a></td>
 <td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54305?lang=en-us">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b5d97e1-1811-4eb2-b7b7-15b39418fc01">Analog Design Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Burlington, VT</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Analog-Design-Intern--MS---Summer-2027_2604510-1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

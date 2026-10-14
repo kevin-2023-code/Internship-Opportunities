@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
+<td>Redmond, WA, United States<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/79f5dfe1-a32d-48b8-a34e-16c477b8f8a5">Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1839680137188723/">Apply</a></td>
@@ -72,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington<br/>San Francisco, California</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjn2kthcy9n82taptxq8mm">Apply</a></td>
 <td align="center">10 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f251444-6b5a-437c-80bb-f4760b4f3826">Structural Design Engineer - FEA (Intern)</a></td>
-<td>Seattle, WA<br/>Redmond, WA, United States<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1080292111664557/">Apply</a></td>
-<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>

@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**175 open roles.** 170 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**176 open roles.** 171 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aa04bc2-9cab-4609-85e9-ac555ebc7771">Intern, Solutions Engineer – Board Test</a></td>
+<td>Novi, Michigan, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54849?lang=en-us">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cb2ebca-283f-4151-9d17-9c69dd97e991">HPC – AI Networking Intern - Network Transport</a></td>
