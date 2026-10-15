@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**131 open roles.** 114 in the United States & Canada · 17 elsewhere in the world.
+**130 open roles.** 113 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -505,13 +505,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/afb11c5f-019c-45c9-8008-bd6b1eb5d1c4">Software Engineer, Intern (Summer 2027) - US</a></td>
 <td>New York, NY<br/>San Francisco, CA<br/>Sunnyvale, CA<br/>+2 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8171041">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Opengov</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770">Intern, Software Engineer</a></td>
-<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

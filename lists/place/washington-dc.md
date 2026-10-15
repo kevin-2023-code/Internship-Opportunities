@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**10 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9f4c430d-b9fd-4dd5-bd86-5f44b489aa34">Electrical Engineering Intern | Summer 2027</a></td>
 <td>Washington, DC<br/>Washington, D.C.<br/>Omaha, Nebraska, United States<br/>+7 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441882008">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/db6f861f-68e6-4547-b7fc-5c29840a0cf6">Mechanical Engineering Intern | Summer 2027</a></td>
-<td>Washington, DC<br/>Minneapolis, Minnesota, United States<br/>Washington, D.C.<br/>+8 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

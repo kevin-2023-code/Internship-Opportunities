@@ -5,9 +5,62 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-15T19:36:27.136Z",
+  "listingsChangedAt": "2026-10-15T22:49:04.451Z",
   "count": 1068,
   "listings": [
+    {
+      "id": "6bc7188f-6610-437a-ad40-27f40b186235",
+      "company": "duolingo",
+      "title": "Data Scientist, Intern (PhD)",
+      "locations": [
+        "New York, NY",
+        "Pittsburgh, PA, New York, NY, Pittsburgh, PA"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+      "url": "https://trueinterview.io/jobs/6bc7188f-6610-437a-ad40-27f40b186235",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "120a7b76-b56e-4a92-9555-76b811f7aaff",
+      "company": "duolingo",
+      "title": "Product Manager, MBA Intern",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
+      "url": "https://trueinterview.io/jobs/120a7b76-b56e-4a92-9555-76b811f7aaff",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
     {
       "id": "90d3c059-5a17-4782-b205-04d8a22ebe6e",
       "company": "Meta",
@@ -312,6 +365,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application",
       "url": "https://trueinterview.io/jobs/ff2c3535-2470-49ad-8426-73c46192789b",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "241425a6-ceb4-45f4-adcf-f46cb623af91",
+      "company": "Texas Instruments",
+      "title": "Device Reliability Engineering Intern",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081",
+      "url": "https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
@@ -7684,49 +7762,6 @@
       "updatedAt": "2026-10-01T23:39:13.000Z"
     },
     {
-      "id": "db6f861f-68e6-4547-b7fc-5c29840a0cf6",
-      "company": "Dlr Group",
-      "title": "Mechanical Engineering Intern | Summer 2027",
-      "locations": [
-        "Minneapolis, Minnesota, United States",
-        "Minneapolis",
-        "Washington, D.C.",
-        "Cleveland, Ohio, United States",
-        "Cleveland",
-        "Des Moines, Iowa, United States",
-        "Omaha, Nebraska, United States",
-        "Des Moines",
-        "Omaha",
-        "Orlando, Florida, United States",
-        "Orlando",
-        "Overland Park, Kansas, United States",
-        "Kansas City",
-        "Dallas, Texas, United States",
-        "Houston, Texas, United States",
-        "Dallas",
-        "Houston"
-      ],
-      "cities": [
-        "Washington, DC"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008",
-      "url": "https://trueinterview.io/jobs/db6f861f-68e6-4547-b7fc-5c29840a0cf6",
-      "postedAt": "2026-10-01T16:04:42.000Z",
-      "updatedAt": "2026-10-01T23:32:13.000Z"
-    },
-    {
       "id": "6bed3471-041d-4764-b296-0336036f8d16",
       "company": "Dlr Group",
       "title": "Structural Engineering Intern | Summer 2027",
@@ -10626,31 +10661,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54638?lang=en-us",
       "url": "https://trueinterview.io/jobs/c25ce015-a7a5-420e-949c-e0c9e50ae855",
-      "postedAt": "2026-09-25T00:00:00.000Z",
-      "updatedAt": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "id": "2edad06c-42f8-41ce-8959-e46959343807",
-      "company": "Keysight",
-      "title": "Manufacturing Engineering Intern",
-      "locations": [
-        "Santa Rosa, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54275?lang=en-us",
-      "url": "https://trueinterview.io/jobs/2edad06c-42f8-41ce-8959-e46959343807",
       "postedAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
     },
@@ -17456,38 +17466,6 @@
       "url": "https://trueinterview.io/jobs/6ca070be-5362-4462-bbe2-8688b3a7bd08",
       "postedAt": "2026-09-14T20:03:00.000Z",
       "updatedAt": "2026-09-14T20:03:00.000Z"
-    },
-    {
-      "id": "c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770",
-      "company": "Opengov",
-      "title": "Intern, Software Engineer",
-      "locations": [
-        "US",
-        "Georgia",
-        "Atlanta",
-        "Massachusetts",
-        "Boston"
-      ],
-      "cities": [
-        "Atlanta, GA",
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application",
-      "url": "https://trueinterview.io/jobs/c9c5c8e2-a80d-4527-8bd0-1aeb5cb23770",
-      "postedAt": "2026-09-14T19:52:12.000Z",
-      "updatedAt": "2026-09-14T19:52:12.000Z"
     },
     {
       "id": "cdf6a563-57db-43e4-bcf2-4bf30c3eacb8",

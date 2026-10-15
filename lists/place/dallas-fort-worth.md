@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91">Device Reliability Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc">Data Center Technician, Intern</a></td>
 <td>Fort Worth, TX, United States<br/>Los Lunas, NM, United States<br/>Rayville, LA, United States<br/>+2 more</td>
@@ -64,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9f4c430d-b9fd-4dd5-bd86-5f44b489aa34">Electrical Engineering Intern | Summer 2027</a></td>
 <td>Dallas, Texas, United States<br/>Washington, DC<br/>Washington, D.C.<br/>+7 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441882008">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/db6f861f-68e6-4547-b7fc-5c29840a0cf6">Mechanical Engineering Intern | Summer 2027</a></td>
-<td>Dallas, Texas, United States<br/>Washington, DC<br/>Minneapolis, Minnesota, United States<br/>+8 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441148008">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
