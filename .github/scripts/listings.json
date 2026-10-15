@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-14T21:09:58.460Z",
-  "count": 1068,
+  "listingsChangedAt": "2026-10-15T00:13:47.648Z",
+  "count": 1070,
   "listings": [
     {
       "id": "a7230a8f-0481-4cc8-8aa2-d70a7b0979d1",
@@ -198,7 +198,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -236,6 +236,33 @@
       "url": "https://trueinterview.io/jobs/a5c183ff-d9e9-43da-af87-1b1686f6c3ef",
       "postedAt": "2026-10-14T18:53:39.000Z",
       "updatedAt": "2026-10-14T18:53:39.000Z"
+    },
+    {
+      "id": "194abb05-f4d9-42a0-bfa3-601955e050a4",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Wireless Research (PhD)",
+      "locations": [
+        "Sunnyvale, CA, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2374839409720164/",
+      "url": "https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4",
+      "postedAt": "2026-10-14T18:18:32.000Z",
+      "updatedAt": "2026-10-14T18:18:32.000Z"
     },
     {
       "id": "684ccc7a-9f83-41be-9c83-24598a817a80",
@@ -503,6 +530,34 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
+      "id": "18a0b8c3-9f09-4762-8104-1f1252ae3825",
+      "company": "Cisco",
+      "title": "ASIC Design Engineer I (Intern) - United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "San Jose, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer-I--Intern----United-States_2027790",
+      "url": "https://trueinterview.io/jobs/18a0b8c3-9f09-4762-8104-1f1252ae3825",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "a8dfd26f-960e-4d76-b13c-27b4d8ee1a89",
       "company": "gallup",
       "title": "Data Engineering Intern — Summer 2027",
@@ -530,6 +585,31 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
+      "id": "fc5d4349-8080-4fa0-8834-16f24c199566",
+      "company": "Intel",
+      "title": "Module Engineer PhD Intern New 2027",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineer-PhD-Intern-New-2027_JR0287951",
+      "url": "https://trueinterview.io/jobs/fc5d4349-8080-4fa0-8834-16f24c199566",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "a82d8557-f7a9-427b-967d-3950499b3af7",
       "company": "Intel",
       "title": "Process Integration & Yield Engineering PhD Intern",
@@ -551,6 +631,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086",
       "url": "https://trueinterview.io/jobs/a82d8557-f7a9-427b-967d-3950499b3af7",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "66f8fa1c-9da1-47ae-8ed3-a5d89f08c8a6",
+      "company": "Intel",
+      "title": "Process Integration and Yield Eng PhD Intern, 2027",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Eng-PhD-Intern--2027_JR0288068",
+      "url": "https://trueinterview.io/jobs/66f8fa1c-9da1-47ae-8ed3-a5d89f08c8a6",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -628,6 +733,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application",
       "url": "https://trueinterview.io/jobs/f4790f54-a74b-4d6a-9432-95a2d99ce05c",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "13438a33-2880-4364-a0e7-ac6bc14ae038",
+      "company": "Texas Instruments",
+      "title": "Validation/Char Eng Intern",
+      "locations": [
+        "Santa Clara, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623",
+      "url": "https://trueinterview.io/jobs/13438a33-2880-4364-a0e7-ac6bc14ae038",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -10369,33 +10499,6 @@
       "url": "https://trueinterview.io/jobs/0cd4c835-a9bf-4652-a98b-32e47efb2a9a",
       "postedAt": "2026-09-25T17:29:36.000Z",
       "updatedAt": "2026-09-25T17:29:36.000Z"
-    },
-    {
-      "id": "97690469-b168-4f2d-88fb-559e49df2b6f",
-      "company": "Amazon",
-      "title": "Associate Solutions Architect, AGI-Tech, Intern Cohort - 2027",
-      "locations": [
-        "Seattle, Washington, USA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10560679/associate-solutions-architect-agi-tech-intern-cohort-2027",
-      "url": "https://trueinterview.io/jobs/97690469-b168-4f2d-88fb-559e49df2b6f",
-      "postedAt": "2026-09-25T00:00:00.000Z",
-      "updatedAt": "2026-09-25T00:00:00.000Z"
     },
     {
       "id": "534944c4-ccba-4083-b421-84d1e32f76b8",
@@ -26590,32 +26693,6 @@
       "updatedAt": "2026-08-27T00:00:00.000Z"
     },
     {
-      "id": "00b0722b-bfa4-4c32-a444-4ec34c66a126",
-      "company": "Amazon",
-      "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
-      "locations": [
-        "Westboro, Wisconsin, USA",
-        "Westborough, Massachusetts, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026",
-      "url": "https://trueinterview.io/jobs/00b0722b-bfa4-4c32-a444-4ec34c66a126",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
       "id": "5fac03be-85fb-4a81-9f8c-4c0d1534982d",
       "company": "Amazon",
       "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
@@ -28589,31 +28666,6 @@
       "url": "https://trueinterview.io/jobs/495d9859-82dc-4076-9c17-ffb8fc8b3272",
       "postedAt": "2026-08-17T00:00:00.000Z",
       "updatedAt": "2026-08-17T00:00:00.000Z"
-    },
-    {
-      "id": "1b66c32e-4b91-493f-b988-2e1f3ad56384",
-      "company": "Micron Technology",
-      "title": "Intern - DRAM PI",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43785486",
-      "url": "https://trueinterview.io/jobs/1b66c32e-4b91-493f-b988-2e1f3ad56384",
-      "postedAt": "2026-08-16T00:00:00.000Z",
-      "updatedAt": "2026-08-16T00:00:00.000Z"
     }
   ]
 }
