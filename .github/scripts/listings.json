@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-15T00:13:47.648Z",
-  "count": 1070,
+  "listingsChangedAt": "2026-10-15T05:26:46.319Z",
+  "count": 1071,
   "listings": [
+    {
+      "id": "a05c801d-0a91-4715-8fe4-9ffdca68afa5",
+      "company": "anduril",
+      "title": "Winter 2027 Research Engineer Co-op",
+      "locations": [
+        "Santa Ana, California, United States, Santa Ana, CA (OC-42)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+      "url": "https://trueinterview.io/jobs/a05c801d-0a91-4715-8fe4-9ffdca68afa5",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
     {
       "id": "a7230a8f-0481-4cc8-8aa2-d70a7b0979d1",
       "company": "figure",
@@ -136,6 +161,34 @@
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
     {
+      "id": "7a22d3fc-4f52-4f9c-9b26-d0ae92125d56",
+      "company": "sigmacomputing",
+      "title": "Technical Writer Intern (Summer 2027)",
+      "locations": [
+        "San Francisco, CA, NYC, San Francisco",
+        "New York, NY, NYC, San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003",
+      "url": "https://trueinterview.io/jobs/7a22d3fc-4f52-4f9c-9b26-d0ae92125d56",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
       "id": "bf77ace3-9ce6-4b05-a3dd-065fc63433b8",
       "company": "skydio",
       "title": "Manufacturing Software Engineer Intern - Winter 2027",
@@ -157,6 +210,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application",
       "url": "https://trueinterview.io/jobs/bf77ace3-9ce6-4b05-a3dd-065fc63433b8",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "fc70e54f-4ed5-404d-b500-40fd14d6c836",
+      "company": "skydio",
+      "title": "Process Engineering Intern - Summer 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application",
+      "url": "https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
@@ -1372,33 +1450,6 @@
       "url": "https://trueinterview.io/jobs/e01ddbdf-4f9b-4753-805d-d44da592fcb8",
       "postedAt": "2026-10-13T00:57:34.000Z",
       "updatedAt": "2026-10-13T00:57:34.000Z"
-    },
-    {
-      "id": "537b9971-ebde-40e0-ab1f-a68b0655cf63",
-      "company": "Synopsys",
-      "title": "RTL Design and Verification Internship",
-      "locations": [
-        "Austin, Texas"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.synopsys.com/job/austin/rtl-design-and-verification-internship/44408/101884580864",
-      "url": "https://trueinterview.io/jobs/537b9971-ebde-40e0-ab1f-a68b0655cf63",
-      "postedAt": "2026-10-13T00:03:40.000Z",
-      "updatedAt": "2026-10-13T00:03:40.000Z"
     },
     {
       "id": "c52c2010-8d95-4072-9b07-88fa2a65fcb0",
@@ -6507,31 +6558,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54716?lang=en-us",
       "url": "https://trueinterview.io/jobs/8d0c5928-8a9c-434a-8b03-7356f884a4c9",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "09e38bbf-fc79-4917-8c00-a6743e21562f",
-      "company": "Marvell Technology",
-      "title": "Hardware Engineer Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975-1",
-      "url": "https://trueinterview.io/jobs/09e38bbf-fc79-4917-8c00-a6743e21562f",
       "postedAt": "2026-10-05T00:00:00.000Z",
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },
