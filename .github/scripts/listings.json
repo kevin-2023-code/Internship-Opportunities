@@ -5,9 +5,32 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-15T22:49:04.451Z",
-  "count": 1068,
+  "listingsChangedAt": "2026-10-16T00:55:43.525Z",
+  "count": 1067,
   "listings": [
+    {
+      "id": "32178189-d76e-4c67-bf9c-9af08eac7351",
+      "company": "abridge",
+      "title": "Member of Technical Staff, Intern",
+      "locations": [
+        "SF Office"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application",
+      "url": "https://trueinterview.io/jobs/32178189-d76e-4c67-bf9c-9af08eac7351",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
     {
       "id": "6bc7188f-6610-437a-ad40-27f40b186235",
       "company": "duolingo",
@@ -58,6 +81,29 @@
       "source": "1point3acres",
       "applyUrl": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
       "url": "https://trueinterview.io/jobs/120a7b76-b56e-4a92-9555-76b811f7aaff",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "d9833901-583c-4bab-8c62-dcb027c421f1",
+      "company": "wikimedia-foundation",
+      "title": "Software Engineering Internship Program (2027)",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
+      "url": "https://trueinterview.io/jobs/d9833901-583c-4bab-8c62-dcb027c421f1",
       "postedAt": "2026-10-16T00:00:00.000Z",
       "updatedAt": "2026-10-16T00:00:00.000Z"
     },
@@ -390,6 +436,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081",
       "url": "https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "9674cd49-1156-4b1a-9a2b-f86e65b15079",
+      "company": "Texas Instruments",
+      "title": "Web Marketing Intern - User Experience Design",
+      "locations": [
+        "Dallas, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753",
+      "url": "https://trueinterview.io/jobs/9674cd49-1156-4b1a-9a2b-f86e65b15079",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
@@ -6786,31 +6857,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44777604",
       "url": "https://trueinterview.io/jobs/a2c5d1bf-b324-4e99-954c-17f4ac3f5ad3",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "b3b92f2c-c7ad-4bf6-8278-210e1ff04a43",
-      "company": "Micron Technology",
-      "title": "Intern - Process Integration Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44777866",
-      "url": "https://trueinterview.io/jobs/b3b92f2c-c7ad-4bf6-8278-210e1ff04a43",
       "postedAt": "2026-10-05T00:00:00.000Z",
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },
@@ -28515,81 +28561,6 @@
       "url": "https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff",
       "postedAt": "2026-08-17T14:31:17.000Z",
       "updatedAt": "2026-08-17T14:31:17.000Z"
-    },
-    {
-      "id": "efc5bf92-b4ad-4696-8efa-af469afc4281",
-      "company": "Micron Technology",
-      "title": "Intern - DRAM Design Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "senior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43721274",
-      "url": "https://trueinterview.io/jobs/efc5bf92-b4ad-4696-8efa-af469afc4281",
-      "postedAt": "2026-08-17T00:00:00.000Z",
-      "updatedAt": "2026-08-17T00:00:00.000Z"
-    },
-    {
-      "id": "44f3723e-c2ef-4c0d-8dfb-5549569216c2",
-      "company": "Micron Technology",
-      "title": "Intern - EUV & Materials Lithography",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43721134",
-      "url": "https://trueinterview.io/jobs/44f3723e-c2ef-4c0d-8dfb-5549569216c2",
-      "postedAt": "2026-08-17T00:00:00.000Z",
-      "updatedAt": "2026-08-17T00:00:00.000Z"
-    },
-    {
-      "id": "495d9859-82dc-4076-9c17-ffb8fc8b3272",
-      "company": "Micron Technology",
-      "title": "Intern - Wet Etch Process Development Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43721091",
-      "url": "https://trueinterview.io/jobs/495d9859-82dc-4076-9c17-ffb8fc8b3272",
-      "postedAt": "2026-08-17T00:00:00.000Z",
-      "updatedAt": "2026-08-17T00:00:00.000Z"
     }
   ]
 }
