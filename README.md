@@ -32,7 +32,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-16 05:20 UTC_
+_Last updated: 2026-10-16 10:26 UTC_
 
 **988 open internships** from **235 employers** · **150 posted in the last 7 days** · refreshed hourly
 
@@ -787,10 +787,10 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518">Forward Deployed Engineering Intern, BS/MS, Summer 2027</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518">Forward Deployed Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Sunnyvale, CA<br/>New York, NY</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>KLA</strong></td>
