@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-16 00:55 UTC_
+_Last updated: 2026-10-16 05:20 UTC_
 
 **81 open internships** from **47 employers** · **8 posted in the last 7 days** · refreshed hourly
 
@@ -44,7 +44,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏦 Banks, insurers & asset managers (14)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (7)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (4)](lists/company/fintech.md) · [🏛️ Big Tech (3)](lists/company/big-tech.md) · [+8 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (18)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Scientist (3)](lists/role/data-scientist.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md) · [Security Engineer (1)](lists/role/security-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (19)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Scientist (3)](lists/role/data-scientist.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md) · [Security Engineer (1)](lists/role/security-engineer.md)
 
 📍 **By location** — [🇬🇧 London & the UK (15)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md)
 

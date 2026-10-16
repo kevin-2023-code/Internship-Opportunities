@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-16T00:55:43.525Z",
-  "count": 1067,
+  "listingsChangedAt": "2026-10-16T05:20:49.235Z",
+  "count": 1069,
   "listings": [
     {
       "id": "32178189-d76e-4c67-bf9c-9af08eac7351",
@@ -85,6 +85,33 @@
       "updatedAt": "2026-10-16T00:00:00.000Z"
     },
     {
+      "id": "dfc3df62-133a-46f5-9282-efb1046b06c9",
+      "company": "newsbreak",
+      "title": "Short Drama Creative Editor Intern",
+      "locations": [
+        "Mountain View, California, United States, Mountain View Office"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4722462006",
+      "url": "https://trueinterview.io/jobs/dfc3df62-133a-46f5-9282-efb1046b06c9",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
       "id": "d9833901-583c-4bab-8c62-dcb027c421f1",
       "company": "wikimedia-foundation",
       "title": "Software Engineering Internship Program (2027)",
@@ -94,9 +121,9 @@
       "cities": [],
       "countries": [],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -183,6 +210,31 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
       "url": "https://trueinterview.io/jobs/a7230a8f-0481-4cc8-8aa2-d70a7b0979d1",
+      "postedAt": "2026-10-15T00:00:00.000Z",
+      "updatedAt": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "8e6558e1-113a-4a9b-83a7-8a9835819b24",
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI & HPC Performance Engineering Intern",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397",
+      "url": "https://trueinterview.io/jobs/8e6558e1-113a-4a9b-83a7-8a9835819b24",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
