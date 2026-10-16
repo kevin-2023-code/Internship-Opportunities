@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-16T05:20:49.235Z",
-  "count": 1069,
+  "listingsChangedAt": "2026-10-16T15:05:23.789Z",
+  "count": 1068,
   "listings": [
     {
       "id": "32178189-d76e-4c67-bf9c-9af08eac7351",
@@ -28585,34 +28585,6 @@
       "url": "https://trueinterview.io/jobs/4ceed109-ab77-4df4-9e81-b1dadaaf5a93",
       "postedAt": "2026-08-17T21:17:06.000Z",
       "updatedAt": "2026-08-17T21:17:06.000Z"
-    },
-    {
-      "id": "4ea4bec3-ad23-4131-ba7b-26c79fceb5ff",
-      "company": "Datadog",
-      "title": "Product Management Intern",
-      "locations": [
-        "New York, New York, USA",
-        "New York, NY, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241",
-      "url": "https://trueinterview.io/jobs/4ea4bec3-ad23-4131-ba7b-26c79fceb5ff",
-      "postedAt": "2026-08-17T14:31:17.000Z",
-      "updatedAt": "2026-08-17T14:31:17.000Z"
     }
   ]
 }
