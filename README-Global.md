@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-16 19:10 UTC_
+_Last updated: 2026-10-16 22:22 UTC_
 
-**81 open internships** from **47 employers** · **7 posted in the last 7 days** · refreshed hourly
+**80 open internships** from **46 employers** · **7 posted in the last 7 days** · refreshed hourly
 
-### Browse 81 internships by field
+### Browse 80 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (31)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (9)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (11)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (10)
 
 📱 **[Product & Design](#-product--design)** (9)
 
@@ -42,9 +42,9 @@ _Last updated: 2026-10-16 19:10 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (14)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (7)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🖥️ Hardware, devices & networking (5)](lists/company/hardware-devices.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (4)](lists/company/fintech.md) · [🏛️ Big Tech (3)](lists/company/big-tech.md) · [+8 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (14)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (7)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [🖥️ Hardware, devices & networking (6)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🏤 Mid-sized tech (200–999) (5)](lists/company/mid-size-tech.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (4)](lists/company/fintech.md) · [🌱 Startups (under 200) (4)](lists/company/startups.md) · [+7 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (19)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Scientist (3)](lists/role/data-scientist.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md) · [Security Engineer (1)](lists/role/security-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (18)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Scientist (3)](lists/role/data-scientist.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Security Engineer (2)](lists/role/security-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
 📍 **By location** — [🇬🇧 London & the UK (15)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md)
 
@@ -71,6 +71,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sereact Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a> 🆕</td>
+<td>Stuttgart Schockenriedstr. 17</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Abridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/32178189-d76e-4c67-bf9c-9af08eac7351">Member of Technical Staff, Intern</a> 🆕</td>
@@ -125,7 +132,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d9f6f3d9-39b1-49ab-9193-f3204926df5d">Software Engineer Intern</a></td>
 <td>Tel Aviv, Israel</td>
 <td align="center"><a href="https://www.taboola.com/careers/job/8229871?gh_jid=8229871">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Merkle Science</strong></td>
@@ -153,27 +160,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
 <td>Redwood City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
-<td align="center">27d</td>
+<td align="center">28d</td>
 </tr>
 <tr>
 <td><strong>Abridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe">Software Engineering Intern, Spring</a></td>
 <td>SF Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application">Apply</a></td>
-<td align="center">28d</td>
+<td align="center">29d</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/b380af4f-9ded-4bb7-8b2a-2ec8006b2a88">Software Engineer Intern 2026/2027</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
-<td align="center">29d</td>
+<td align="center">1mo</td>
 </tr>
 </tbody>
 </table>
 
 <details>
-<summary>Show 17 more Software Engineering roles posted earlier</summary>
+<summary>Show 16 more Software Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -290,13 +297,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8b70977d-f312-4d88-ab16-83d2178b93db">Engine Programmer Intern - Unreal Engine</a> 🛂</td>
 <td>London, England, United Kingdom<br/>Cary<br/>London, UK</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f">Electron Configuration Management Intern</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821142003">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -431,13 +431,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
-<td align="center">29d</td>
+<td align="center">1mo</td>
 </tr>
 </tbody>
 </table>
 
 <details>
-<summary>Show 7 more Hardware & Engineering roles posted earlier</summary>
+<summary>Show 6 more Hardware & Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -486,13 +486,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.lever.co/pyka/2702593a-7482-4d2b-93f3-ef97e2cf7df7/apply">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ceed109-ab77-4df4-9e81-b1dadaaf5a93">RF Test Engineer Intern</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7845193003">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -514,7 +507,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bd9b1cf8-dada-4837-ba65-deea340f935d">Next Gen Motion Design Intern - Man vs Machine London</a></td>
 <td>Worldwide<br/>Man vs Machine</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/landor/jobs/8265474">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -535,7 +528,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f5fb76db-fc80-41bc-9600-d1be1b1c866a">Graphic Design Intern</a></td>
 <td>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8003784003">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td><strong>Rundoo</strong></td>
@@ -604,7 +597,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5bb7c498-b82c-4cda-8cc6-eb6968ae9b0f">Summer 2027 - Quant Internship</a></td>
 <td>London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002">Apply</a></td>
-<td align="center">15d</td>
+<td align="center">16d</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>
@@ -618,7 +611,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
-<td align="center">29d</td>
+<td align="center">1mo</td>
 </tr>
 </tbody>
 </table>

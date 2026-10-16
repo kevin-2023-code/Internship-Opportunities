@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**551 open roles.** 548 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**549 open roles.** 546 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -52,6 +52,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/294fc6e4-ce56-4d42-bbf5-a4a2b3cca2bf">Opto-Mechanical Intern</a></td>
 <td>Ann Arbor, MI, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/df09cee0-a48d-429d-b67f-13de5967b702">Mechanical Packaging Engineer Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850">Apply</a></td>
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
@@ -203,13 +210,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de">Signal Integrity Intern</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1134883748976209/">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f00d6241-4dcc-4234-8c5b-60f002799588">Research Scientist Intern, AI &amp; Compute Foundation - MTIA SW (PhD)</a></td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1866761794487684/">Apply</a></td>
@@ -945,13 +945,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9a5303c-3dc9-44d0-8f6d-de933bead34b">R&amp;D Hardware Engineering Internship</a></td>
-<td>Sacramento, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54771?lang=en-us">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f48560ab-f89d-4d11-a9e4-3d2a060b43e4">R&amp;D Usability Engineering Intern</a></td>
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54779?lang=en-us">Apply</a></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b9aad312-a6c7-4ecf-b8ef-c75fdfddcb95">Aviation Human Factors Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20158?lang=en-us">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed846908-e2f4-4b4a-bd27-ea1774160224">Product Management Intern - CTJ - TS</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556983226">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

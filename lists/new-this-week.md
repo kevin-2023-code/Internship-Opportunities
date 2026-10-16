@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**158 open roles.** 151 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
+**153 open roles.** 146 in the United States & Canada · 7 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -78,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dfc3df62-133a-46f5-9282-efb1046b06c9">Short Drama Creative Editor Intern</a></td>
 <td>Mountain View, California, United States, Mountain View Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/newsbreak/jobs/4722462006">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/df09cee0-a48d-429d-b67f-13de5967b702">Mechanical Packaging Engineer Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850">Apply</a></td>
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
@@ -450,13 +457,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872476002?gh_jid=8872476002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de">Signal Integrity Intern</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1134883748976209/">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>IBM</strong></td>
@@ -1039,41 +1039,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446719918906">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Orennia</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2182ed3-5505-4334-b810-e8264a89c458">Transmission Intern</a></td>
-<td>Calgary Headquarters</td>
-<td align="center"><a href="https://boards.greenhouse.io/orennia/jobs/5448157008?gh_jid=5448157008">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/96179d9c-63d5-4b9a-a3bb-37cd1969f8e5">Spring 2027:  Electrical Engineering Co-op, Shark (January to June)</a></td>
-<td>Needham, MA, United States<br/>MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pinterest</strong></td>
-<td><a href="https://trueinterview.io/jobs/f490cc2f-5b58-448a-95d5-fd09b09ecb47">Solutions Engineer Intern 2027 (USA)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/12eac050-b861-486c-a112-91644190167d">Data Scientist Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872482002?gh_jid=8872482002">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Charles River Associates</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b40e231-7058-41c8-9529-c87fb0d35c2f">(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)</a></td>
-<td>New York, NY<br/>Summit, NJ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1086,6 +1051,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sereact Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
+<td>Stuttgart Schockenriedstr. 17</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Abridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/32178189-d76e-4c67-bf9c-9af08eac7351">Member of Technical Staff, Intern</a></td>
@@ -1126,13 +1098,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d2faedc0-48cc-42cb-972f-3ecdab5a63b9">GPSU Cybersecurity Intern - Application Security</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Landor</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd9b1cf8-dada-4837-ba65-deea340f935d">Next Gen Motion Design Intern - Man vs Machine London</a></td>
-<td>Worldwide<br/>Man vs Machine</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/landor/jobs/8265474">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 </tbody>

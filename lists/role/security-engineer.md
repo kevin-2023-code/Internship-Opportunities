@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world.
+**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,6 +134,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sereact Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
+<td>Stuttgart Schockenriedstr. 17</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Guidepoint Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2faedc0-48cc-42cb-972f-3ecdab5a63b9">GPSU Cybersecurity Intern - Application Security</a> 🌐</td>

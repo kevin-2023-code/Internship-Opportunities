@@ -32,6 +32,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/df09cee0-a48d-429d-b67f-13de5967b702">Mechanical Packaging Engineer Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91">Device Reliability Engineering Intern</a></td>
 <td>Dallas, TX, United States</td>
@@ -93,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872579002?gh_jid=8872579002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de">Signal Integrity Intern</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1134883748976209/">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**525 open roles.** 514 in the United States & Canada · 11 elsewhere in the world.
+**524 open roles.** 514 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -894,13 +894,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Alameda HQ</td>
 <td align="center"><a href="https://jobs.lever.co/pyka/2702593a-7482-4d2b-93f3-ef97e2cf7df7/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ceed109-ab77-4df4-9e81-b1dadaaf5a93">RF Test Engineer Intern</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7845193003">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

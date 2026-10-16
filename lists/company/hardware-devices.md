@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**179 open roles.** 174 in the United States & Canada · 5 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**180 open roles.** 174 in the United States & Canada · 6 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/df09cee0-a48d-429d-b67f-13de5967b702">Mechanical Packaging Engineer Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e6558e1-113a-4a9b-83a7-8a9835819b24">AI &amp; HPC Performance Engineering Intern</a></td>
@@ -341,13 +348,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9a5303c-3dc9-44d0-8f6d-de933bead34b">R&amp;D Hardware Engineering Internship</a></td>
-<td>Sacramento, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54771?lang=en-us">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f48560ab-f89d-4d11-a9e4-3d2a060b43e4">R&amp;D Usability Engineering Intern</a></td>
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54779?lang=en-us">Apply</a></td>
@@ -1247,6 +1247,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sereact Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
+<td>Stuttgart Schockenriedstr. 17</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>

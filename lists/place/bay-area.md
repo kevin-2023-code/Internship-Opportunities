@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**334 open roles.**
+**333 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -278,13 +278,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de">Signal Integrity Intern</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1134883748976209/">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f00d6241-4dcc-4234-8c5b-60f002799588">Research Scientist Intern, AI &amp; Compute Foundation - MTIA SW (PhD)</a></td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1866761794487684/">Apply</a></td>

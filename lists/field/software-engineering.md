@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**256 open roles.** 225 in the United States & Canada · 31 elsewhere in the world.
+**255 open roles.** 224 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -292,13 +292,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9a5303c-3dc9-44d0-8f6d-de933bead34b">R&amp;D Hardware Engineering Internship</a></td>
-<td>Sacramento, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54771?lang=en-us">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d5aea309-dc2c-4826-b3b7-24ed43bb4173">Software Development Engineer Intern - 6G Digital Twin and Visualization Platform</a></td>
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54319?lang=en-us">Apply</a></td>
@@ -1605,6 +1598,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Sereact Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
+<td>Stuttgart Schockenriedstr. 17</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Abridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/32178189-d76e-4c67-bf9c-9af08eac7351">Member of Technical Staff, Intern</a></td>
 <td>SF Office</td>
@@ -1813,13 +1813,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom<br/>Cary<br/>London, UK</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f">Electron Configuration Management Intern</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821142003">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>

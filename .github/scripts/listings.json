@@ -5,9 +5,32 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-16T19:10:36.793Z",
-  "count": 1071,
+  "listingsChangedAt": "2026-10-16T22:22:39.687Z",
+  "count": 1068,
   "listings": [
+    {
+      "id": "6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71",
+      "company": "sereact-gmbh",
+      "title": "Cybersecurity Intern",
+      "locations": [
+        "Stuttgart Schockenriedstr. 17"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application",
+      "url": "https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71",
+      "postedAt": "2026-10-17T00:00:00.000Z",
+      "updatedAt": "2026-10-17T00:00:00.000Z"
+    },
     {
       "id": "009bbed3-476e-455a-833e-d5189592aa4e",
       "company": "wsp",
@@ -260,6 +283,31 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4722462006",
       "url": "https://trueinterview.io/jobs/dfc3df62-133a-46f5-9282-efb1046b06c9",
+      "postedAt": "2026-10-16T00:00:00.000Z",
+      "updatedAt": "2026-10-16T00:00:00.000Z"
+    },
+    {
+      "id": "df09cee0-a48d-429d-b67f-13de5967b702",
+      "company": "Nokia",
+      "title": "Mechanical Packaging Engineer Co-op",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850",
+      "url": "https://trueinterview.io/jobs/df09cee0-a48d-429d-b67f-13de5967b702",
       "postedAt": "2026-10-16T00:00:00.000Z",
       "updatedAt": "2026-10-16T00:00:00.000Z"
     },
@@ -1675,31 +1723,6 @@
       "url": "https://trueinterview.io/jobs/61279f54-046a-4353-afef-73003a117e4e",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "14921e4c-6f27-4c4e-8165-a841c96a28de",
-      "company": "Meta",
-      "title": "Signal Integrity Intern",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1134883748976209/",
-      "url": "https://trueinterview.io/jobs/14921e4c-6f27-4c4e-8165-a841c96a28de",
-      "postedAt": "2026-10-12T20:51:29.000Z",
-      "updatedAt": "2026-10-13T20:44:14.000Z"
     },
     {
       "id": "3224c896-808b-484a-92bb-0a67c01a295f",
@@ -5816,31 +5839,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820",
       "url": "https://trueinterview.io/jobs/c9111c5a-fcd9-4d9e-bfef-e6d705bab001",
-      "postedAt": "2026-10-06T00:00:00.000Z",
-      "updatedAt": "2026-10-06T00:00:00.000Z"
-    },
-    {
-      "id": "d9a5303c-3dc9-44d0-8f6d-de933bead34b",
-      "company": "Keysight",
-      "title": "R&D Hardware Engineering Internship",
-      "locations": [
-        "Sacramento, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54771?lang=en-us",
-      "url": "https://trueinterview.io/jobs/d9a5303c-3dc9-44d0-8f6d-de933bead34b",
       "postedAt": "2026-10-06T00:00:00.000Z",
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
@@ -22926,31 +22924,6 @@
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
     {
-      "id": "827fe610-73f5-48e7-8a2f-effdbf90c84d",
-      "company": "Applied Materials",
-      "title": "Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)",
-      "locations": [
-        "Albany, NY, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318309200",
-      "url": "https://trueinterview.io/jobs/827fe610-73f5-48e7-8a2f-effdbf90c84d",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
       "id": "7f73c51c-346b-459d-b17c-a6de6cb6f343",
       "company": "Applied Materials",
       "title": "Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)",
@@ -28606,62 +28579,6 @@
       "url": "https://trueinterview.io/jobs/006cf6e1-49d2-4e4d-870d-7ab1aa242491",
       "postedAt": "2026-08-18T19:00:44.000Z",
       "updatedAt": "2026-08-18T19:00:44.000Z"
-    },
-    {
-      "id": "8fe3ecc8-5283-410f-966a-f0fb076f434f",
-      "company": "Rocket Lab Corporation",
-      "title": "Electron Configuration Management Intern",
-      "locations": [
-        "Auckland, NZ",
-        "Auckland Production Complex Office"
-      ],
-      "cities": [
-        "Auckland"
-      ],
-      "countries": [
-        "New Zealand"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7821142003",
-      "url": "https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f",
-      "postedAt": "2026-08-17T21:31:00.000Z",
-      "updatedAt": "2026-08-17T21:31:00.000Z"
-    },
-    {
-      "id": "4ceed109-ab77-4df4-9e81-b1dadaaf5a93",
-      "company": "Rocket Lab Corporation",
-      "title": "RF Test Engineer Intern",
-      "locations": [
-        "Auckland, NZ",
-        "Auckland Production Complex Office"
-      ],
-      "cities": [
-        "Auckland"
-      ],
-      "countries": [
-        "New Zealand"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7845193003",
-      "url": "https://trueinterview.io/jobs/4ceed109-ab77-4df4-9e81-b1dadaaf5a93",
-      "postedAt": "2026-08-17T21:17:06.000Z",
-      "updatedAt": "2026-08-17T21:17:06.000Z"
     }
   ]
 }

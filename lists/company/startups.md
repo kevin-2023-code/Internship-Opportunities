@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**21 open roles.** 17 in the United States & Canada · 4 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,6 +148,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sereact Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
+<td>Stuttgart Schockenriedstr. 17</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Rundoo</strong></td>
 <td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>

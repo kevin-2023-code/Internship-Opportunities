@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**57 open roles.** 55 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**55 open roles.** Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -401,32 +401,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trueanomalyinc/jobs/5213706007">Apply</a></td>
 <td align="center">18 Aug 2026</td>
-</tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fe3ecc8-5283-410f-966a-f0fb076f434f">Electron Configuration Management Intern</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7821142003">Apply</a></td>
-<td align="center">17 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4ceed109-ab77-4df4-9e81-b1dadaaf5a93">RF Test Engineer Intern</a></td>
-<td>Auckland, NZ<br/>Auckland Production Complex Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7845193003">Apply</a></td>
-<td align="center">17 Aug 2026</td>
 </tr>
 </tbody>
 </table>
