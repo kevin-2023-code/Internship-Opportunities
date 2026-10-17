@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-17T00:56:35.454Z",
-  "count": 1072,
+  "listingsChangedAt": "2026-10-17T05:17:30.989Z",
+  "count": 1073,
   "listings": [
     {
       "id": "8a02d296-3d28-4471-97c7-f8489f93f21c",
@@ -134,6 +134,33 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
       "url": "https://trueinterview.io/jobs/de1f39eb-e441-458c-bd42-e59ee9ede29b",
+      "postedAt": "2026-10-17T00:00:00.000Z",
+      "updatedAt": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "id": "744f12e2-4478-470d-8218-64173887b01c",
+      "company": "weiss-asset-management",
+      "title": "Summer 2028 Internship Interest Form",
+      "locations": [
+        "Boston, Massachusetts, United States"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8894673002",
+      "url": "https://trueinterview.io/jobs/744f12e2-4478-470d-8218-64173887b01c",
       "postedAt": "2026-10-17T00:00:00.000Z",
       "updatedAt": "2026-10-17T00:00:00.000Z"
     },
