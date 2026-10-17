@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**139 open roles.** 134 in the United States & Canada · 5 elsewhere in the world. Everything the employers put up this week.
+**138 open roles.** 133 in the United States & Canada · 5 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -947,13 +947,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>South San Francisco, California, USA, Aviary - SSF</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjr1s8nytwy3bssf29gzg7">Apply</a></td>
 <td align="center">10 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Coinbase</strong></td>
-<td><a href="https://trueinterview.io/jobs/dea01390-fd29-4b13-9a47-97aa3ee021ba">Forward Deployed Engineer Intern (HR Technology)</a></td>
-<td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510">Apply</a></td>
-<td align="center">9 Oct 2026</td>
 </tr>
 </tbody>
 </table>
