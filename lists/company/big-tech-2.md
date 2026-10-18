@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**548 open roles.** 545 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**547 open roles.** 544 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1022,13 +1022,6 @@
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43943810">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7c498c4-102a-42e3-9541-24979f64c84b">Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027</a></td>
-<td>Los Gatos, California, United States of America</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317917022">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

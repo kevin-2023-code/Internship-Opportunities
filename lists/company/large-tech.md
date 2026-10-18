@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**90 open roles.** 83 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**89 open roles.** 82 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -590,13 +590,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arizona-HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7978840003">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nextiva</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ddb30d4-cd6e-4a4f-ad00-49ffa263efb9">Marketing Intern - Data Science</a> 🛂</td>
-<td>Scottsdale, Onsite<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.nextiva.com/company/careers-listing?gh_jid=8687999002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

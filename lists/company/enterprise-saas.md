@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**48 open roles.** 45 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**47 open roles.** 44 in the United States & Canada · 3 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -324,13 +324,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, California<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e/application">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nextiva</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ddb30d4-cd6e-4a4f-ad00-49ffa263efb9">Marketing Intern - Data Science</a> 🛂</td>
-<td>Scottsdale, Onsite<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.nextiva.com/company/careers-listing?gh_jid=8687999002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

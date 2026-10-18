@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**151 open roles.** 142 in the United States & Canada · 9 elsewhere in the world.
+**149 open roles.** 140 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -996,20 +996,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, Santa Clara<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/90892?lang=en-us">Apply</a></td>
 <td align="center">20 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Nextiva</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ddb30d4-cd6e-4a4f-ad00-49ffa263efb9">Marketing Intern - Data Science</a> 🛂</td>
-<td>Scottsdale, Onsite<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.nextiva.com/company/careers-listing?gh_jid=8687999002">Apply</a></td>
-<td align="center">19 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7c498c4-102a-42e3-9541-24979f64c84b">Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027</a></td>
-<td>Los Gatos, California, United States of America</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790317917022">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>
