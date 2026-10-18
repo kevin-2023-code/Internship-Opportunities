@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**6 open roles.** 1 in the United States & Canada · 5 elsewhere in the world.
+**5 open roles.** 1 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -63,13 +63,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo<br/>Porto Alegre, Brazil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/89730055-fa03-444d-aa05-0058946fa436/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/08ede934-fa93-4f19-8496-e338f952f189">IT Operations Intern</a></td>
-<td>Bogota, Colombia<br/>Peru</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7907182003">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>

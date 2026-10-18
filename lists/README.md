@@ -6,7 +6,7 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-18 19:09 UTC_
+_Last updated: 2026-10-18 22:08 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 180 of the 266 employers on this list (87% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -36,7 +36,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 | [💻 Software Engineering](field/software-engineering.md) | 224 | 31 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 140 | 9 |
 | [📱 Product & Design](field/product-and-design.md) | 58 | 9 |
-| [🧰 IT & Support](field/it-and-support.md) | 42 | 6 |
+| [🧰 IT & Support](field/it-and-support.md) | 42 | 5 |
 | [📈 Quantitative Finance](field/quantitative-finance.md) | 11 | 15 |
 
 ---
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **925 of the 1,068** internships on this list (87%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **924 of the 1,067** internships on this list (87%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -58,8 +58,8 @@ _Between them these 23 filters hold **925 of the 1,068** internships on this lis
 | [🚀 Aerospace & defence](company/aerospace-defense.md) | 55 | 0 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏢 Enterprise & business software](company/enterprise-saas.md) | 44 | 3 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 35 | 4 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 30 | 5 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
-| [💳 Fintech, payments & crypto](company/fintech.md) | 20 | 4 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 30 | 4 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
+| [💳 Fintech, payments & crypto](company/fintech.md) | 20 | 3 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🌱 Startups (under 200)](company/startups.md) | 17 | 4 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as fewer than 200 people. An employer the registry does not cover is in no size cut at all. |
 | [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 15 | 5 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [☁️ Developer tools, cloud & data infrastructure](company/dev-infra.md) | 19 | 0 | Every employer the company registry files under Developer tools, cloud & data infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **925 of the 1,068** internships on this lis
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 13 filters hold **533 of the 1,068** internships on this list (50%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 13 filters hold **533 of the 1,067** internships on this list (50%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -105,7 +105,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 20 filters hold **739 of the 1,068** internships on this list (69%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 20 filters hold **738 of the 1,067** internships on this list (69%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -127,8 +127,8 @@ _Between them these 20 filters hold **739 of the 1,068** internships on this lis
 | [🌬️ Chicago](place/chicago.md) | 11 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in IL: Chicago, Evanston, Naperville, Schaumburg, Deerfield, Oak Brook, Northbrook. |
 | [🍑 Atlanta](place/atlanta.md) | 10 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in GA: Atlanta, Alpharetta, Marietta, Sandy Springs, Duluth. |
 | [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 9 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Washington Dc, Washington DC, Arlington VA, Alexandria VA, Reston VA, Herndon VA, Mclean VA, Tysons VA, Vienna VA, Bethesda MD, Rockville MD, College Park MD, and 7 more. |
-| [🌎 México, Brazil & Latin America](place/latam.md) | 1 | 5 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🥐 Montréal & Québec](place/montreal.md) | 6 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in QC: Montreal, MontréAl, Quebec City, Laval, Sherbrooke. |
+| [🌎 México, Brazil & Latin America](place/latam.md) | 1 | 4 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 
 ---
 
@@ -136,7 +136,7 @@ _Between them these 20 filters hold **739 of the 1,068** internships on this lis
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **156 of the 1,068** internships on this list (15%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **156 of the 1,067** internships on this list (15%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-18T19:09:10.482Z",
-  "count": 1068,
+  "listingsChangedAt": "2026-10-18T22:08:24.549Z",
+  "count": 1067,
   "listings": [
     {
       "id": "e797fd74-2c89-4220-a4b6-ddc9358a09bb",
@@ -28567,32 +28567,6 @@
       "url": "https://trueinterview.io/jobs/4d567731-0f47-48f2-82f5-cf5a625061ca",
       "postedAt": "2026-08-20T00:00:00.000Z",
       "updatedAt": "2026-08-20T00:00:00.000Z"
-    },
-    {
-      "id": "08ede934-fa93-4f19-8496-e338f952f189",
-      "company": "Sezzle",
-      "title": "IT Operations Intern",
-      "locations": [
-        "Peru",
-        "Bogota, Colombia"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/sezzle/jobs/7907182003",
-      "url": "https://trueinterview.io/jobs/08ede934-fa93-4f19-8496-e338f952f189",
-      "postedAt": "2026-08-19T21:46:57.000Z",
-      "updatedAt": "2026-08-19T21:46:57.000Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**48 open roles.** 42 in the United States & Canada · 6 elsewhere in the world.
+**47 open roles.** 42 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -357,13 +357,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Indianapolis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/08ede934-fa93-4f19-8496-e338f952f189">IT Operations Intern</a></td>
-<td>Peru<br/>Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7907182003">Apply</a></td>
-<td align="center">19 Aug 2026</td>
 </tr>
 </tbody>
 </table>
