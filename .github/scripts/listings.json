@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-19T05:33:59.419Z",
-  "count": 1045,
+  "listingsChangedAt": "2026-10-19T11:45:33.987Z",
+  "count": 1044,
   "listings": [
     {
       "id": "569a0880-46f4-4516-8947-ac7c179306b9",
@@ -1277,34 +1277,6 @@
       "source": "1point3acres",
       "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007",
       "url": "https://trueinterview.io/jobs/f0865080-85c1-4840-9ca2-0fc7fabd24b9",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "18a0b8c3-9f09-4762-8104-1f1252ae3825",
-      "company": "Cisco",
-      "title": "ASIC Design Engineer I (Intern) - United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "San Jose, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Engineer-I--Intern----United-States_2027790",
-      "url": "https://trueinterview.io/jobs/18a0b8c3-9f09-4762-8104-1f1252ae3825",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
