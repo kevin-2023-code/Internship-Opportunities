@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**67 open roles.** 58 in the United States & Canada · 9 elsewhere in the world.
+**70 open roles.** 61 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Khaite</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a204935-8419-49dd-b9f7-2cfcbf4983a1">Technical Design, Production, RTW Internship, Spring 2027</a></td>
+<td>New York, NY, Crosby</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/khaite/jobs/5456876008">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/30181368-1f4e-4e31-a985-911c8ced2e8e">2027 Intern - Experience Researcher</a></td>
+<td>San Jose, California, United States of America</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd700c24-3ad2-4187-93b7-c2bb4b0589dd">Product Manager MBA Intern, Enterprise AI - Summer 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397928913">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Persona</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ee022ee-f00f-428f-939c-75dc87dcc03c">Product Design, Intern (Summer 2027)</a></td>
