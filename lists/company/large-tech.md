@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**91 open roles.** 84 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**93 open roles.** 86 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Braze</strong></td>
+<td><a href="https://trueinterview.io/jobs/fae2c341-dcd4-4012-858b-798c7f59e1f0">Intern, Software Engineering</a></td>
+<td>New York City</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/braze/jobs/8301086">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Nintendo</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fa6313c-ea1f-4115-8ae5-35fc802882fa">Intern - IT Software Engineer</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://careers.nintendo.com/?gh_jid=4421632009">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
+<td>New York, NY<br/>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

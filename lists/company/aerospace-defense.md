@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**55 open roles.** Space, satellites, defence primes and defence technology.
+**56 open roles.** Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d200687-59dd-4a9a-9707-6d732d2236ae">Ground Systems Engineering Intern Summer 2027</a></td>
+<td>Stennis Space Center, MS, Stennis Facility</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8007202003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cesiumastro</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a02d296-3d28-4471-97c7-f8489f93f21c">Summer 2027 - Flight Dynamics Internship</a></td>

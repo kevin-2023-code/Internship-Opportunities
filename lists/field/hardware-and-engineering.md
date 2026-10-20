@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**514 open roles.** 504 in the United States & Canada · 10 elsewhere in the world.
+**518 open roles.** 508 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -69,6 +69,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d200687-59dd-4a9a-9707-6d732d2236ae">Ground Systems Engineering Intern Summer 2027</a></td>
+<td>Stennis Space Center, MS, Stennis Facility</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8007202003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/107376f2-982b-44d5-adc7-d9ba8f584cae">Thermal Engineer Intern</a></td>
 <td>Sunnyvale, CA</td>
@@ -80,6 +87,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4bf5a4bb-3b88-4e59-8c7a-5cb56aff1aa5">Softgoods Product Design Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1111723361506997/">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/b67c46ce-b97d-4d76-a4ad-46d1c7fc2355">Electrical Engineer Intern</a></td>
+<td>Tempe, AZ, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318982273">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/121d24e1-9461-41a5-9cc4-76e87b62f499">Design Engineering Intern</a></td>
+<td>Yarmouth, Maine, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/18994?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/247a9fc0-9806-440d-8340-024319d38475">Process Integ and Yield Eng PhD Intern Grade 029</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d54148a3-043a-4147-9b5b-3bd158aa6710">Project Engineering Intern (Summer 2027)</a></td>
 <td>Goodyear, Arizona, United States<br/>Coopersville, Michigan, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231491007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/79dd38d3-625e-44b6-bd5f-b38b00514280">Engineering Utilities Intern (Summer 2027)</a></td>
-<td>Goodyear, Arizona, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231477007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8e5ff93f-6bb6-4868-a95f-991e2c94e195">Continuous Improvement Intern (Summer 2027)</a></td>
-<td>Coopersville, Michigan, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231464007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d918423-bd3d-4dda-8492-155b17a0828f">Flight Test Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/079b2d7a-a590-440c-ba63-bfda06c2bbd6">Product Design Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 </tbody>

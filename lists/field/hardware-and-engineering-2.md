@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**514 open roles.** 504 in the United States & Canada · 10 elsewhere in the world.
+**518 open roles.** 508 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fairlife</strong></td>
+<td><a href="https://trueinterview.io/jobs/79dd38d3-625e-44b6-bd5f-b38b00514280">Engineering Utilities Intern (Summer 2027)</a></td>
+<td>Goodyear, Arizona, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231477007">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8e5ff93f-6bb6-4868-a95f-991e2c94e195">Continuous Improvement Intern (Summer 2027)</a></td>
+<td>Coopersville, Michigan, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231464007">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d918423-bd3d-4dda-8492-155b17a0828f">Flight Test Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/079b2d7a-a590-440c-ba63-bfda06c2bbd6">Product Design Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d9a342a-66b8-4285-8e75-ae57b362b78e">Environmental Engineering Intern - Summer 2027</a></td>

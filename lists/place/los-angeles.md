@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**71 open roles.**
+**84 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -40,9 +40,100 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Insomniac Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdc54a35-14fa-430d-beb9-1edaec80491f">Accessibility Intern- Masters or PhD</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6227618004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/67e54196-0259-47a3-9aa3-d9bde4acfb16">Animation Intern (Gameplay)- Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226213004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ff13cff2-87b0-4040-82ef-9df4af8b9915">Character Artist Intern- Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226237004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4554019-6a70-42f3-a7e1-a7cd46764915">Character TD (Rigging) Intern- Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226243004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/467e32b3-6e04-4965-959a-43f389630043">Concept Art Intern- Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226354004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/16432824-092a-44d3-980f-6542d2b61483">Dialogue Intern- Unergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6228761004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1816d397-7764-4858-99a3-feafeb6c93ba">Environment Art Intern- Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6221850004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d6e885d4-33c2-423a-a832-f720cf65025d">Game Design Intern-Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226630004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0ebfc702-e43a-47fe-93ab-cf11b2fe98b6">Gameplay Programming Intern - Undergraduate</a> 🌐</td>
+<td>Remote — United States<br/>United States, Burbank, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226611004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9969e39f-14ac-488e-8d84-369de593ad37">Pod Development Manager Intern- Undergraduate</a></td>
 <td>United States, Burbank, CA, USA-CA-Burbank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6227083004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f02873b1-3a4c-46ae-b187-1a71491a3910">Publishing Project Management Intern - Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226347004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b85afa0-9ac1-4256-9b03-35b3dfb43e0a">Story Intern - Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6227611004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e08bde0e-269d-4dec-9c40-f4e623982703">VFX Intern – Undergraduate-Graduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6228743004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3a0f2e16-ea41-4d6c-8844-5b4451d3a4fd">XDev Props Intern- Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226349004">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
