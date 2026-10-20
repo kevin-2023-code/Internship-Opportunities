@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-20T12:34:11.198Z",
-  "count": 1081,
+  "listingsChangedAt": "2026-10-20T17:41:23.384Z",
+  "count": 1087,
   "listings": [
     {
       "id": "b08b12f5-f2ac-4711-8ba3-59537e754835",
@@ -35,6 +35,139 @@
       "url": "https://trueinterview.io/jobs/b08b12f5-f2ac-4711-8ba3-59537e754835",
       "postedAt": "2026-10-20T11:53:40.000Z",
       "updatedAt": "2026-10-20T11:53:40.000Z"
+    },
+    {
+      "id": "0f703659-e67b-43e7-b14a-c3b8879e9705",
+      "company": "Amazon",
+      "title": "Creative Marketing Intern – Summer 2027",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10584130/creative-marketing-intern-summer-2027",
+      "url": "https://trueinterview.io/jobs/0f703659-e67b-43e7-b14a-c3b8879e9705",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "c91a2739-96f4-4b93-b217-06e76c7ddd03",
+      "company": "Amazon",
+      "title": "Industrial Design Engineer Intern , Summer 2027",
+      "locations": [
+        "Bellevue, Washington, USA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027",
+      "url": "https://trueinterview.io/jobs/c91a2739-96f4-4b93-b217-06e76c7ddd03",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "853e4a9a-3108-4866-adc1-3ee4201058c3",
+      "company": "Amazon",
+      "title": "PDE Intern (Summer),  Summer 2027",
+      "locations": [
+        "Sunnyvale, California, USA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10584152/pde-intern-summer-summer-2027",
+      "url": "https://trueinterview.io/jobs/853e4a9a-3108-4866-adc1-3ee4201058c3",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "9622b45f-c069-46a3-9006-0eea874f7928",
+      "company": "Analog Devices",
+      "title": "Analog Design Engineering Intern (Power Management)",
+      "locations": [
+        "United Kingdom, Edinburgh, SC, Freer"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1",
+      "url": "https://trueinterview.io/jobs/9622b45f-c069-46a3-9006-0eea874f7928",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "6cdcf6be-00f5-44de-8764-09a3ff32076d",
+      "company": "Analog Devices",
+      "title": "Software Tools Engineering Intern",
+      "locations": [
+        "United Kingdom, Edinburgh, SC, Freer"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128",
+      "url": "https://trueinterview.io/jobs/6cdcf6be-00f5-44de-8764-09a3ff32076d",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
       "id": "2daec56f-4429-40b7-8d54-6dda61862054",
@@ -184,6 +317,56 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/clutch/jobs/6228333004",
       "url": "https://trueinterview.io/jobs/ec748939-b9c5-4eca-a301-d41651063396",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "06001a10-14ec-40bd-acbc-df8d32951e4d",
+      "company": "Garmin",
+      "title": "Industrial Designer Intern (Spring 2027)",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/20385?lang=en-us",
+      "url": "https://trueinterview.io/jobs/06001a10-14ec-40bd-acbc-df8d32951e4d",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "d481ae67-242f-49a6-b6ad-f0f31aff1123",
+      "company": "Garmin",
+      "title": "User Interface Designer Intern",
+      "locations": [
+        "Olathe, Kansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.garmin.com/jobs/19938?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d481ae67-242f-49a6-b6ad-f0f31aff1123",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -539,6 +722,31 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
+      "id": "da868fed-27b2-4b9f-a91c-52409189d439",
+      "company": "Intel",
+      "title": "Thin Films Module Engineering - PhD Intern",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Thin-Films-Module-Engineering---PhD-Intern_JR0288074",
+      "url": "https://trueinterview.io/jobs/da868fed-27b2-4b9f-a91c-52409189d439",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
       "id": "d50ad1e4-87d6-4076-ae5c-7ea4dee1915f",
       "company": "khaite",
       "title": "Design Intern, Non-Apparel, Spring 2027",
@@ -666,6 +874,34 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b/application",
       "url": "https://trueinterview.io/jobs/f19fd81e-760a-4c03-a495-453dea6ef265",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "9afeb533-0cb5-4221-88d7-7fa29e47471d",
+      "company": "Microsoft",
+      "title": "Data Center Technicians INTERN",
+      "locations": [
+        "Atlanta, GA, US",
+        "West Des Moines, IA, US"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557043629",
+      "url": "https://trueinterview.io/jobs/9afeb533-0cb5-4221-88d7-7fa29e47471d",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -798,6 +1034,32 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8007202003",
       "url": "https://trueinterview.io/jobs/7d200687-59dd-4a9a-9707-6d732d2236ae",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "3401a11e-44d8-4954-b4c6-1c176d5ab47a",
+      "company": "Texas Instruments",
+      "title": "Software Engineering Intern - Compiler",
+      "locations": [
+        "United States",
+        "Sugar Land, TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+      "url": "https://trueinterview.io/jobs/3401a11e-44d8-4954-b4c6-1c176d5ab47a",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -1241,31 +1503,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
       "url": "https://trueinterview.io/jobs/d72ce57a-2aa8-4bef-9cbb-afc59e058d11",
-      "postedAt": "2026-10-19T00:00:00.000Z",
-      "updatedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "8e2dc28b-9641-4c04-afb0-0705e39ae15a",
-      "company": "Intel",
-      "title": "Cloud Analytics - Application PhD Intern",
-      "locations": [
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Cloud-Analytics---Application-PhD-Intern_JR0288170",
-      "url": "https://trueinterview.io/jobs/8e2dc28b-9641-4c04-afb0-0705e39ae15a",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },
@@ -3481,33 +3718,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027",
       "url": "https://trueinterview.io/jobs/a5581158-3c09-4708-801c-ef64ef4becdd",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "id": "b5524c2d-5b1d-42e0-8a2f-92e05f96be56",
-      "company": "Amazon",
-      "title": "Hardware Development Engineer Intern,  Summer 2027",
-      "locations": [
-        "Sunnyvale, California, USA"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027",
-      "url": "https://trueinterview.io/jobs/b5524c2d-5b1d-42e0-8a2f-92e05f96be56",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
@@ -11376,38 +11586,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1",
       "url": "https://trueinterview.io/jobs/5687feab-b7c5-4ffc-ae77-20439f62e1bb",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "7a9586c8-68b7-461a-91c5-dc4d57fb993b",
-      "company": "NVIDIA",
-      "title": "Image and Data Processing Libraries Intern",
-      "locations": [
-        "Warsaw, Masovian Voivodeship, PL",
-        "Berlin, Berlin, DE",
-        "Zürich, ZH, CH"
-      ],
-      "cities": [
-        "Warsaw",
-        "Berlin"
-      ],
-      "countries": [
-        "Poland",
-        "United States",
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.nvidia.com/careers/job/893397913168",
-      "url": "https://trueinterview.io/jobs/7a9586c8-68b7-461a-91c5-dc4d57fb993b",
       "postedAt": "2026-09-29T00:00:00.000Z",
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
@@ -21178,32 +21356,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047",
       "url": "https://trueinterview.io/jobs/4a66886f-fa2b-4ca9-8931-957fee402638",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
-      "id": "3126a269-ac9d-4d89-b68e-4785e4eb1138",
-      "company": "Intel",
-      "title": "Parametric Test Module Intern",
-      "locations": [
-        "US, Oregon, Hillsboro",
-        "US, Oregon, Hillsboro, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719",
-      "url": "https://trueinterview.io/jobs/3126a269-ac9d-4d89-b68e-4785e4eb1138",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
