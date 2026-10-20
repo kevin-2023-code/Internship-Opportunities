@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**55 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/021a7b61-f472-4ac6-acb2-da536124a6b8">Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/3364701000388712/">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dbda5b3-fe86-4b25-b238-a3a82184445e">Cloud Network Engineering Internship Oportunities</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557037856">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>

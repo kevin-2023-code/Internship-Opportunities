@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**535 open roles.** 532 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**533 open roles.** 530 in the United States & Canada · 3 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -703,13 +703,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dbda5b3-fe86-4b25-b238-a3a82184445e">Cloud Network Engineering Internship Oportunities</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557037856">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 <tr>
@@ -1599,13 +1592,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8b6cdcec-5f50-4db2-a517-bb52574360a3">Optical System Engineer Co-Op</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/57950f0b-7fba-4f19-8c28-bf92eecec14e">Developer Technology Engineering Intern - Compute Performance</a></td>
-<td>Bristol, England, GB<br/>Munich, BY, DE<br/>Zürich, ZH, CH<br/>+2 more</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397939337">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c898f750-bc74-4c04-971f-6404121a7023">Software Engineering Intern, PhD, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Atlanta, GA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/11f4fb7c-d43b-4725-9187-88d852e34752">Software Engineer Intern</a></td>
+<td>Wichita, Kansas, United States</td>
+<td align="center"><a href="https://careers.netapp.com/job/wichita/software-engineer-intern/27600/97792631792">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/6734561e-53d6-4616-8766-cc58cfc5ca13">Software Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

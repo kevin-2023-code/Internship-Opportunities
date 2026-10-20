@@ -18,18 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b08b12f5-f2ac-4711-8ba3-59537e754835">Short-term Research Coop</a></td>
+<td>Cambridge</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137091">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Gallup</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89">Data Engineering Intern — Summer 2027</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4449991009">Apply</a></td>
 <td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3224c896-808b-484a-92bb-0a67c01a295f">Sales Configuration Developer Intern 2027</a></td>
-<td>RESEARCH TRIANGLE PARK, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=135618">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Thinkingbox</strong></td>

@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**46 open roles.**
+**45 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3224c896-808b-484a-92bb-0a67c01a295f">Sales Configuration Developer Intern 2027</a></td>
-<td>RESEARCH TRIANGLE PARK, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=135618">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Woolpert</strong></td>
 <td><a href="https://trueinterview.io/jobs/45f2420a-0118-4673-9b97-bfb0fb56eb74">Water Resource Internship (Summer 2027)</a></td>

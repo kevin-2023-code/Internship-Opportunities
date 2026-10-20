@@ -32,15 +32,15 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-20 06:58 UTC_
+_Last updated: 2026-10-20 12:34 UTC_
 
-**1,004 open internships** from **244 employers** · **158 posted in the last 7 days** · refreshed hourly
+**1,002 open internships** from **244 employers** · **157 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,004 internships by field
+### Browse 1,002 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (229)
+💻 **[Software Engineering](#-software-engineering)** (227)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (142)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (143)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (508)
 
@@ -48,7 +48,7 @@ _Last updated: 2026-10-20 06:58 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (12)
 
-🧰 **[IT & Support](#-it--support)** (39)
+🧰 **[IT & Support](#-it--support)** (38)
 
 ---
 
@@ -64,13 +64,13 @@ _Last updated: 2026-10-20 06:58 UTC_
 
 _Counts are internships in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (532)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (283)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (176)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (86)](lists/company/large-tech.md) · [📱 Consumer internet & media (65)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (56)](lists/company/aerospace-defense.md) · [📐 Engineering & architecture firms (56)](lists/company/engineering-services.md) · [🏢 Enterprise & business software (47)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (35)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (29)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (530)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (282)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (176)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (86)](lists/company/large-tech.md) · [📱 Consumer internet & media (65)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (56)](lists/company/aerospace-defense.md) · [📐 Engineering & architecture firms (56)](lists/company/engineering-services.md) · [🏢 Enterprise & business software (46)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (35)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (29)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Hardware Engineer (149)](lists/role/hardware-engineer.md) · [Software Engineer (114)](lists/role/software-engineer.md) · [Machine Learning Engineer (36)](lists/role/machine-learning-engineer.md) · [Research Scientist (31)](lists/role/research-scientist.md) · [AI Engineer (30)](lists/role/ai-engineer.md) · [Data Engineer (23)](lists/role/data-engineer.md) · [Product Manager (22)](lists/role/product-manager.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Embedded Engineer (20)](lists/role/embedded-engineer.md) · [Data Analyst (17)](lists/role/data-analyst.md) · [+3 more →](lists/README.md)
+🧑‍💻 **By role** — [Hardware Engineer (149)](lists/role/hardware-engineer.md) · [Software Engineer (112)](lists/role/software-engineer.md) · [Machine Learning Engineer (36)](lists/role/machine-learning-engineer.md) · [Research Scientist (32)](lists/role/research-scientist.md) · [AI Engineer (30)](lists/role/ai-engineer.md) · [Data Engineer (23)](lists/role/data-engineer.md) · [Product Manager (22)](lists/role/product-manager.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Embedded Engineer (20)](lists/role/embedded-engineer.md) · [Data Analyst (17)](lists/role/data-analyst.md) · [+3 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (332)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (84)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (73)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (70)](lists/place/boston.md) · [🗽 New York City (56)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (55)](lists/place/seattle.md) · [🎸 Austin (52)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (49)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (46)](lists/place/research-triangle.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (332)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (84)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (73)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (70)](lists/place/boston.md) · [🗽 New York City (56)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (54)](lists/place/seattle.md) · [🎸 Austin (52)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (49)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (45)](lists/place/research-triangle.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (158)](lists/new-this-week.md) · [🌐 Remote (21)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (157)](lists/new-this-week.md) · [🌐 Remote (21)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -255,17 +255,17 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">6d</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3224c896-808b-484a-92bb-0a67c01a295f">Sales Configuration Developer Intern 2027</a></td>
-<td>RESEARCH TRIANGLE PARK, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=135618">Apply</a></td>
-<td align="center">6d</td>
-</tr>
-<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cb2ebca-283f-4151-9d17-9c69dd97e991">HPC – AI Networking Intern - Network Transport</a></td>
 <td>Fort Collins, Colorado, United States of America<br/>Chippewa Falls, Wisconsin</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416">Apply</a></td>
+<td align="center">7d</td>
+</tr>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>
+<td>Los Gatos, California, United States of America</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
 <td align="center">7d</td>
 </tr>
 </tbody>
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 229.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 227.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -645,6 +645,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b08b12f5-f2ac-4711-8ba3-59537e754835">Short-term Research Coop</a> 🆕</td>
+<td>Cambridge</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137091">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f53a487-9981-4f4f-a46f-4c3f1f332fc2">2027 Summer Intern, PhD, Machine Learning - Simulation &amp; Closed-Loop Training</a> 🆕</td>
@@ -811,13 +818,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/e01ddbdf-4f9b-4753-805d-d44da592fcb8">Research Scientist Intern, Language and Agents (PhD)</a></td>
 <td>Bellevue, WA<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2168438160696161/">Apply</a></td>
-<td align="center">7d</td>
-</tr>
-<tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/c52c2010-8d95-4072-9b07-88fa2a65fcb0">Data Intern  - Product Analytics - Winter 2027</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application">Apply</a></td>
 <td align="center">7d</td>
 </tr>
 </tbody>
@@ -1172,7 +1172,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 73 of 142.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 73 of 143.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -2270,13 +2270,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/157e1b75-8ef7-4903-be08-a9a511d745c9">HPC/AI Systems Service Process Improvement Engineer Intern</a></td>
 <td>All, Illinois, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/All-Illinois-United-States-of-America/HPC-AI-Systems-Service-Process-Improvement-Engineer-Intern_1213402">Apply</a></td>
-<td align="center">8d</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dbda5b3-fe86-4b25-b238-a3a82184445e">Cloud Network Engineering Internship Oportunities</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557037856">Apply</a></td>
 <td align="center">8d</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**259 open roles.** 229 in the United States & Canada · 30 elsewhere in the world.
+**257 open roles.** 227 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,13 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872476002?gh_jid=8872476002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3224c896-808b-484a-92bb-0a67c01a295f">Sales Configuration Developer Intern 2027</a></td>
-<td>RESEARCH TRIANGLE PARK, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=135618">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -568,13 +561,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de6796b4-a268-45d2-b7e1-8224d1dc663c">Software Development Engineer Intern, AWS Database - 2027 (US)</a></td>
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/57950f0b-7fba-4f19-8c28-bf92eecec14e">Developer Technology Engineering Intern - Compute Performance</a></td>
-<td>Bristol, England, GB<br/>Munich, BY, DE<br/>Zürich, ZH, CH<br/>+2 more</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397939337">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>

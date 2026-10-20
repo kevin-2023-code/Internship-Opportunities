@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**283 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
+**282 open roles.** Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -687,13 +687,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/25fdbabb-127b-472c-adb9-7a21e734c795">Product Development Engineering Intern</a></td>
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/57950f0b-7fba-4f19-8c28-bf92eecec14e">Developer Technology Engineering Intern - Compute Performance</a></td>
-<td>Bristol, England, GB<br/>Munich, BY, DE<br/>Zürich, ZH, CH<br/>+2 more</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397939337">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>

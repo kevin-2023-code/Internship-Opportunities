@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**152 open roles.** 142 in the United States & Canada · 10 elsewhere in the world.
+**153 open roles.** 143 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b08b12f5-f2ac-4711-8ba3-59537e754835">Short-term Research Coop</a></td>
+<td>Cambridge</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137091">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f53a487-9981-4f4f-a46f-4c3f1f332fc2">2027 Summer Intern, PhD, Machine Learning - Simulation &amp; Closed-Loop Training</a></td>

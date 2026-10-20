@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**162 open roles.** 158 in the United States & Canada · 4 elsewhere in the world. Everything the employers put up this week.
+**161 open roles.** 157 in the United States & Canada · 4 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b08b12f5-f2ac-4711-8ba3-59537e754835">Short-term Research Coop</a></td>
+<td>Cambridge</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137091">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/2daec56f-4429-40b7-8d54-6dda61862054">2027 Field Test Engineer Intern</a></td>
@@ -865,13 +872,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3224c896-808b-484a-92bb-0a67c01a295f">Sales Configuration Developer Intern 2027</a></td>
-<td>RESEARCH TRIANGLE PARK, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=135618">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/f00d6241-4dcc-4234-8c5b-60f002799588">Research Scientist Intern, AI &amp; Compute Foundation - MTIA SW (PhD)</a></td>
 <td>Menlo Park, CA, United States</td>
@@ -1114,13 +1114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/021a7b61-f472-4ac6-acb2-da536124a6b8">Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/3364701000388712/">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518">Forward Deployed Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 </tbody>

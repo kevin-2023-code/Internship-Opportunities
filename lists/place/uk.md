@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**18 open roles.** 4 in the United States & Canada · 14 elsewhere in the world.
+**17 open roles.** 3 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,13 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bristol, England, GB<br/>Munich, BY, DE<br/>Berlin, Berlin, DE<br/>+3 more</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
 <td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/57950f0b-7fba-4f19-8c28-bf92eecec14e">Developer Technology Engineering Intern - Compute Performance</a></td>
-<td>Bristol, England, GB<br/>Munich, BY, DE<br/>Zürich, ZH, CH<br/>+2 more</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397939337">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
