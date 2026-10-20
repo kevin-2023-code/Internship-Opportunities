@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-20T01:25:31.169Z",
+  "listingsChangedAt": "2026-10-20T06:58:14.364Z",
   "count": 1083,
   "listings": [
     {
@@ -1188,6 +1188,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/18994?lang=en-us",
       "url": "https://trueinterview.io/jobs/121d24e1-9461-41a5-9cc4-76e87b62f499",
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "updatedAt": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "id": "d72ce57a-2aa8-4bef-9cbb-afc59e058d11",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Hardware Engineering Design Intern",
+      "locations": [
+        "Roseville, California, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
+      "url": "https://trueinterview.io/jobs/d72ce57a-2aa8-4bef-9cbb-afc59e058d11",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },
@@ -4234,33 +4259,6 @@
       "source": "1point3acres",
       "applyUrl": "https://www.1point3acres.com/jobs/01m4pqpt2jj04x811c5e5fyjg7",
       "url": "https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378",
-      "postedAt": "2026-10-12T00:00:00.000Z",
-      "updatedAt": "2026-10-12T00:00:00.000Z"
-    },
-    {
-      "id": "51436ee1-9cec-45b6-aab7-ac5aa8ecc546",
-      "company": "Hewlett Packard Enterprise",
-      "title": "ASIC Intern",
-      "locations": [
-        "Sunnyvale, California, United States of America"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034",
-      "url": "https://trueinterview.io/jobs/51436ee1-9cec-45b6-aab7-ac5aa8ecc546",
       "postedAt": "2026-10-12T00:00:00.000Z",
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },

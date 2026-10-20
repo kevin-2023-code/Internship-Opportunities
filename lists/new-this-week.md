@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**161 open roles.** 157 in the United States & Canada · 4 elsewhere in the world. Everything the employers put up this week.
+**162 open roles.** 158 in the United States & Canada · 4 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -330,6 +330,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/121d24e1-9461-41a5-9cc4-76e87b62f499">Design Engineering Intern</a></td>
 <td>Yarmouth, Maine, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/18994?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/d72ce57a-2aa8-4bef-9cbb-afc59e058d11">Hardware Engineering Design Intern</a></td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>

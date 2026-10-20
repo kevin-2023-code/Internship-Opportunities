@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-20 01:25 UTC_
+_Last updated: 2026-10-20 06:58 UTC_
 
-**1,004 open internships** from **244 employers** · **157 posted in the last 7 days** · refreshed hourly
+**1,004 open internships** from **244 employers** · **158 posted in the last 7 days** · refreshed hourly
 
 ### Browse 1,004 internships by field
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-20 01:25 UTC_
 
 ### 🔥 Posting the most this week
 
-**Meta** 28 &nbsp;·&nbsp; **Wing** 15 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **KLA** 8 &nbsp;·&nbsp; **Intel** 7 &nbsp;·&nbsp; **Anduril** 6 &nbsp;·&nbsp; **Nokia** 5 &nbsp;·&nbsp; **Adobe** 4 &nbsp;·&nbsp; **Keysight** 4 &nbsp;·&nbsp; **NVIDIA** 4 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 3 &nbsp;·&nbsp; **Sharkninja** 3
+**Meta** 28 &nbsp;·&nbsp; **Wing** 15 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **KLA** 8 &nbsp;·&nbsp; **Intel** 7 &nbsp;·&nbsp; **Anduril** 6 &nbsp;·&nbsp; **Nokia** 5 &nbsp;·&nbsp; **Adobe** 4 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 4 &nbsp;·&nbsp; **Keysight** 4 &nbsp;·&nbsp; **NVIDIA** 4 &nbsp;·&nbsp; **Sharkninja** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 20 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -68,9 +68,9 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🧑‍💻 **By role** — [Hardware Engineer (149)](lists/role/hardware-engineer.md) · [Software Engineer (114)](lists/role/software-engineer.md) · [Machine Learning Engineer (36)](lists/role/machine-learning-engineer.md) · [Research Scientist (31)](lists/role/research-scientist.md) · [AI Engineer (30)](lists/role/ai-engineer.md) · [Data Engineer (23)](lists/role/data-engineer.md) · [Product Manager (22)](lists/role/product-manager.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Embedded Engineer (20)](lists/role/embedded-engineer.md) · [Data Analyst (17)](lists/role/data-analyst.md) · [+3 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (333)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (84)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (73)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (70)](lists/place/boston.md) · [🗽 New York City (56)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (55)](lists/place/seattle.md) · [🎸 Austin (52)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (49)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (46)](lists/place/research-triangle.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (332)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (84)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (73)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (70)](lists/place/boston.md) · [🗽 New York City (56)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (55)](lists/place/seattle.md) · [🎸 Austin (52)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (49)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (46)](lists/place/research-triangle.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (157)](lists/new-this-week.md) · [🌐 Remote (21)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (158)](lists/new-this-week.md) · [🌐 Remote (21)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1268,6 +1268,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">1d</td>
 </tr>
 <tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/d72ce57a-2aa8-4bef-9cbb-afc59e058d11">Hardware Engineering Design Intern</a> 🆕</td>
+<td>Roseville, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168">Apply</a></td>
+<td align="center">1d</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/247a9fc0-9806-440d-8340-024319d38475">Process Integ and Yield Eng PhD Intern Grade 029</a> 🆕</td>
 <td>US, Oregon, Hillsboro, United States of America</td>
@@ -1349,13 +1356,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/df09cee0-a48d-429d-b67f-13de5967b702">Mechanical Packaging Engineer Co-op</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850">Apply</a></td>
-<td align="center">4d</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/90d3c059-5a17-4782-b205-04d8a22ebe6e">Quality &amp; Reliability Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1147882961149284/">Apply</a></td>
 <td align="center">4d</td>
 </tr>
 </tbody>
