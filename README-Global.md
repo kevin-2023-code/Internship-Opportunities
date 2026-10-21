@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-21 00:18 UTC_
+_Last updated: 2026-10-21 05:36 UTC_
 
-**80 open internships** from **48 employers** · **5 posted in the last 7 days** · refreshed hourly
+**81 open internships** from **49 employers** · **6 posted in the last 7 days** · refreshed hourly
 
-### Browse 80 internships by field
+### Browse 81 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (31)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (10)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (10)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (11)
 
 📱 **[Product & Design](#-product--design)** (9)
 
@@ -42,13 +42,13 @@ _Last updated: 2026-10-21 00:18 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (14)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (7)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [🖥️ Hardware, devices & networking (6)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [🏢 Enterprise & business software (4)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (4)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (4)](lists/company/startups.md) · [+7 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (14)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [🖥️ Hardware, devices & networking (6)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🛒 E-commerce & marketplaces (4)](lists/company/ecommerce-marketplace.md) · [🏢 Enterprise & business software (4)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (4)](lists/company/mid-size-tech.md) · [🌱 Startups (under 200) (4)](lists/company/startups.md) · [+7 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (18)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Scientist (3)](lists/role/data-scientist.md) · [Product Manager (3)](lists/role/product-manager.md) · [AI Engineer (2)](lists/role/ai-engineer.md) · [Security Engineer (2)](lists/role/security-engineer.md) · [Data Engineer (1)](lists/role/data-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Full-Stack Engineer (1)](lists/role/full-stack-engineer.md)
 
 📍 **By location** — [🇬🇧 London & the UK (15)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (4)](lists/place/latam.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (5)](lists/new-this-week.md) · [🌐 Remote (5)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (6)](lists/new-this-week.md) · [🌐 Remote (5)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -412,6 +412,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7d651be-c785-496c-997f-b8ffc4d156de">Engineering Intern (6 months internship)</a> 🆕</td>
+<td>Campoverde, Lazio, Italy</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016282473-engineering-intern-6-months-internship-?oga=true">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c00d98d-f516-4d7d-ace0-14617f5e380e">Product Development Engineer - Intern</a></td>

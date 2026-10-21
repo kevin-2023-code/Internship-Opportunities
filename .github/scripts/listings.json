@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T00:18:01.090Z",
-  "count": 1109,
+  "listingsChangedAt": "2026-10-21T05:36:52.130Z",
+  "count": 1112,
   "listings": [
+    {
+      "id": "e7d651be-c785-496c-997f-b8ffc4d156de",
+      "company": "abbvie",
+      "title": "Engineering Intern (6 months internship)",
+      "locations": [
+        "Campoverde, Lazio, Italy"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016282473-engineering-intern-6-months-internship-?oga=true",
+      "url": "https://trueinterview.io/jobs/e7d651be-c785-496c-997f-b8ffc4d156de",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
     {
       "id": "35028c40-844d-4947-9bf6-f3f10b3a9fbf",
       "company": "drivewealth",
@@ -483,6 +508,31 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
+      "id": "6fdc2069-619e-47f3-866b-7fbbc7057042",
+      "company": "Applied Materials",
+      "title": "2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318873835",
+      "url": "https://trueinterview.io/jobs/6fdc2069-619e-47f3-866b-7fbbc7057042",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
       "id": "fae2c341-dcd4-4012-858b-798c7f59e1f0",
       "company": "braze",
       "title": "Intern, Software Engineering",
@@ -629,6 +679,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/19938?lang=en-us",
       "url": "https://trueinterview.io/jobs/d481ae67-242f-49a6-b6ad-f0f31aff1123",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "78aafd37-42d2-467a-9eaa-82729f79100e",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Embedded Software Engineering Intern",
+      "locations": [
+        "Roseville, California, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088",
+      "url": "https://trueinterview.io/jobs/78aafd37-42d2-467a-9eaa-82729f79100e",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
