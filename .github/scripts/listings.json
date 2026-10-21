@@ -5,9 +5,137 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T19:51:00.826Z",
-  "count": 1112,
+  "listingsChangedAt": "2026-10-21T22:56:58.755Z",
+  "count": 1114,
   "listings": [
+    {
+      "id": "ac6868bc-eed8-405b-bb1d-2ec9f9c4f063",
+      "company": "anduril",
+      "title": "2027 Business Operations Engineer Intern",
+      "locations": [
+        "Ashville, Ohio, United States",
+        "Costa Mesa, California, United States, Ashville, OH (Arsenal 1), Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007",
+      "url": "https://trueinterview.io/jobs/ac6868bc-eed8-405b-bb1d-2ec9f9c4f063",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "fc690525-1ad0-4584-812b-28746e11d069",
+      "company": "quera-computing,-inc",
+      "title": "Optical Engineer Co-Op",
+      "locations": [
+        "Boston, MA, USA, Boston"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5460294008",
+      "url": "https://trueinterview.io/jobs/fc690525-1ad0-4584-812b-28746e11d069",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "b5e75fc6-8abe-4fa9-957c-d25af2f53b99",
+      "company": "toku",
+      "title": "AI Operations Intern CL",
+      "locations": [
+        "Chile"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/toku/d0100b7c-7dd1-491b-a088-4d4858188eca/application",
+      "url": "https://trueinterview.io/jobs/b5e75fc6-8abe-4fa9-957c-d25af2f53b99",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "d96dde22-7b6e-47e2-982e-fa70c63c967c",
+      "company": "trace3",
+      "title": "Data & Analytics Intern",
+      "locations": [
+        "Irvine, CA, United States, Irvine"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/trace3/jobs/8274818",
+      "url": "https://trueinterview.io/jobs/d96dde22-7b6e-47e2-982e-fa70c63c967c",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "ac824665-2cbc-44d9-98e2-e2b284c51efd",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Foundational Models for Robotics Research (PhD)",
+      "locations": [
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1078644001656413/",
+      "url": "https://trueinterview.io/jobs/ac824665-2cbc-44d9-98e2-e2b284c51efd",
+      "postedAt": "2026-10-21T18:57:23.000Z",
+      "updatedAt": "2026-10-21T18:57:23.000Z"
+    },
     {
       "id": "e012ee71-c0db-4567-9d25-ad11d16bcac8",
       "company": "Meta",
@@ -212,6 +340,31 @@
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
     {
+      "id": "34cee847-34d9-4180-a364-40121cf5fe42",
+      "company": "Intel",
+      "title": "Information Security Engineer Undergraduate Intern",
+      "locations": [
+        "US, California, Folsom, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588",
+      "url": "https://trueinterview.io/jobs/34cee847-34d9-4180-a364-40121cf5fe42",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
       "id": "65ce4bcc-30ed-488e-99ba-879d5448a690",
       "company": "Keysight",
       "title": "R&D RF/Microwave Engineer Intern",
@@ -358,6 +511,34 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/45044351",
       "url": "https://trueinterview.io/jobs/aebb089d-f8be-49ec-ba8e-c971d9dccf15",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "896137b5-6b71-40ba-9e1b-c0ace2e95871",
+      "company": "Microsoft",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "locations": [
+        "Cambridge, MA, US"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+      "url": "https://trueinterview.io/jobs/896137b5-6b71-40ba-9e1b-c0ace2e95871",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
@@ -905,31 +1086,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/clutch/jobs/6228333004",
       "url": "https://trueinterview.io/jobs/ec748939-b9c5-4eca-a301-d41651063396",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "4dc36bcb-0969-471b-8042-779c72f2f656",
-      "company": "CrowdStrike",
-      "title": "Professional Services Pathfinder Intern - Summer 2027 (Arlington, VA)",
-      "locations": [
-        "USA - Arlington, VA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Pathfinder-Intern---Summer-2027--Arlington--VA-_R30512",
-      "url": "https://trueinterview.io/jobs/4dc36bcb-0969-471b-8042-779c72f2f656",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -7646,33 +7802,6 @@
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
     {
-      "id": "b22cf812-8aa5-4baa-b100-163f056a9fd9",
-      "company": "Salesforce",
-      "title": "Summer 2027 Internship - Content Design",
-      "locations": [
-        "California - San Francisco, United States of America",
-        "Washington - Seattle",
-        "Washington - Bellevue"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1",
-      "url": "https://trueinterview.io/jobs/b22cf812-8aa5-4baa-b100-163f056a9fd9",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
       "id": "99418f87-8a71-4144-b587-122e844e2a17",
       "company": "Texas Instruments",
       "title": "Analog Design Engineering Intern - ATD",
@@ -11116,31 +11245,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923",
       "url": "https://trueinterview.io/jobs/bd19a262-65b2-4b99-9d33-a19bcaa3aac6",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
-      "id": "6d9d01ff-a39b-4efb-9485-4e4909d109fa",
-      "company": "CrowdStrike",
-      "title": "Professional Services Explorer Intern - Summer 2027 (Arlington, VA)",
-      "locations": [
-        "USA - Arlington, VA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155",
-      "url": "https://trueinterview.io/jobs/6d9d01ff-a39b-4efb-9485-4e4909d109fa",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
@@ -20991,35 +21095,6 @@
       "updatedAt": "2026-09-11T19:37:23.000Z"
     },
     {
-      "id": "d880325d-f12a-4a6f-8625-a1e32d8fb14e",
-      "company": "Lyft",
-      "title": "Data Analyst Intern (Summer 2027)",
-      "locations": [
-        "New York, NY",
-        "New York Office",
-        "New York, New York, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002",
-      "url": "https://trueinterview.io/jobs/d880325d-f12a-4a6f-8625-a1e32d8fb14e",
-      "postedAt": "2026-09-11T19:20:57.000Z",
-      "updatedAt": "2026-09-11T19:20:57.000Z"
-    },
-    {
       "id": "1ee9534a-1df8-4c5e-a7d4-86308e3c7e73",
       "company": "Baidu",
       "title": "Forward Deployed Engineer Intern",
@@ -24938,31 +25013,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
       "url": "https://trueinterview.io/jobs/156bb9f6-9e41-476a-8330-8ca65f6eba9c",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "6b4f41b2-7aee-424d-b377-31b89fd0553e",
-      "company": "Applied Materials",
-      "title": "Summer 2027 Business Operations & Management Intern- Bachelor's (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790317926591",
-      "url": "https://trueinterview.io/jobs/6b4f41b2-7aee-424d-b377-31b89fd0553e",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },
