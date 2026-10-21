@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T10:57:52.479Z",
+  "listingsChangedAt": "2026-10-21T15:50:30.746Z",
   "count": 1104,
   "listings": [
     {
@@ -34,6 +34,32 @@
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
     {
+      "id": "9622b45f-c069-46a3-9006-0eea874f7928",
+      "company": "Analog Devices",
+      "title": "Analog Design Engineering Intern",
+      "locations": [
+        "United Kingdom, Edinburgh, SC, Freer"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1",
+      "url": "https://trueinterview.io/jobs/9622b45f-c069-46a3-9006-0eea874f7928",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
       "id": "35028c40-844d-4947-9bf6-f3f10b3a9fbf",
       "company": "drivewealth",
       "title": "AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027",
@@ -56,6 +82,31 @@
       "source": "1point3acres",
       "applyUrl": "https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003",
       "url": "https://trueinterview.io/jobs/35028c40-844d-4947-9bf6-f3f10b3a9fbf",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "7cec2001-4900-4a11-b5f1-7560f943d86a",
+      "company": "Marvell Technology",
+      "title": "Silicon Validation Intern, BS - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1",
+      "url": "https://trueinterview.io/jobs/7cec2001-4900-4a11-b5f1-7560f943d86a",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
@@ -376,32 +427,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://www.amazon.jobs/en/jobs/10584152/pde-intern-summer-summer-2027",
       "url": "https://trueinterview.io/jobs/853e4a9a-3108-4866-adc1-3ee4201058c3",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "9622b45f-c069-46a3-9006-0eea874f7928",
-      "company": "Analog Devices",
-      "title": "Analog Design Engineering Intern (Power Management)",
-      "locations": [
-        "United Kingdom, Edinburgh, SC, Freer"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1",
-      "url": "https://trueinterview.io/jobs/9622b45f-c069-46a3-9006-0eea874f7928",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -13988,31 +14013,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54567?lang=en-us",
       "url": "https://trueinterview.io/jobs/3e4e53ae-1782-4648-b60d-5fe8e9e8570f",
-      "postedAt": "2026-09-23T00:00:00.000Z",
-      "updatedAt": "2026-09-23T00:00:00.000Z"
-    },
-    {
-      "id": "ad58b1b3-c4ac-486a-811a-9885548131bd",
-      "company": "Marvell Technology",
-      "title": "Project Management Intern, MBA - Summer 2027",
-      "locations": [
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Project-Management-Intern--MBA---Summer-2027_2604440",
-      "url": "https://trueinterview.io/jobs/ad58b1b3-c4ac-486a-811a-9885548131bd",
       "postedAt": "2026-09-23T00:00:00.000Z",
       "updatedAt": "2026-09-23T00:00:00.000Z"
     },
