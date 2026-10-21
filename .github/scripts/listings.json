@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T05:36:52.130Z",
-  "count": 1112,
+  "listingsChangedAt": "2026-10-21T10:57:52.479Z",
+  "count": 1104,
   "listings": [
     {
       "id": "e7d651be-c785-496c-997f-b8ffc4d156de",
@@ -1475,6 +1475,56 @@
       "applyUrl": "https://careers.nintendo.com/?gh_jid=4421632009",
       "url": "https://trueinterview.io/jobs/0fa6313c-ea1f-4115-8ae5-35fc802882fa",
       "postedAt": "2026-10-19T19:12:08.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "8cfff8e5-5264-4478-815b-2e59c9937037",
+      "company": "NVIDIA",
+      "title": "Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893398185388",
+      "url": "https://trueinterview.io/jobs/8cfff8e5-5264-4478-815b-2e59c9937037",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "724b9446-16b1-44fd-969c-ef542a874d2e",
+      "company": "NVIDIA",
+      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397883732",
+      "url": "https://trueinterview.io/jobs/724b9446-16b1-44fd-969c-ef542a874d2e",
+      "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
@@ -13412,251 +13462,6 @@
       "updatedAt": "2026-09-24T00:00:00.000Z"
     },
     {
-      "id": "3e2c4840-e722-49ca-931c-0aa116740cb4",
-      "company": "Cisco",
-      "title": "AI Operations Engineer I (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804",
-      "url": "https://trueinterview.io/jobs/3e2c4840-e722-49ca-931c-0aa116740cb4",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "b0675c51-a10a-4c6a-ae0e-5b1114b6ec01",
-      "company": "Cisco",
-      "title": "Engineering Product Management Specialist II (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
-      "url": "https://trueinterview.io/jobs/b0675c51-a10a-4c6a-ae0e-5b1114b6ec01",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "10a80e52-641f-4ef9-80aa-433df7161b71",
-      "company": "Cisco",
-      "title": "Machine Learning Engineer I (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
-      "url": "https://trueinterview.io/jobs/10a80e52-641f-4ef9-80aa-433df7161b71",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "2d8f2a5d-2025-4edf-9c35-c06c9fe47158",
-      "company": "Cisco",
-      "title": "Machine Learning Engineer II (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
-      "url": "https://trueinterview.io/jobs/2d8f2a5d-2025-4edf-9c35-c06c9fe47158",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "36660a24-0541-4d6c-bd13-4da0288b044e",
-      "company": "Cisco",
-      "title": "Software Engineer Data & AI II (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
-      "url": "https://trueinterview.io/jobs/36660a24-0541-4d6c-bd13-4da0288b044e",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "87062633-9832-4728-a94f-3aaa00ee3b0a",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems II (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
-      "url": "https://trueinterview.io/jobs/87062633-9832-4728-a94f-3aaa00ee3b0a",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
-      "id": "1258ff12-3f2f-4e4f-b55b-2f043bfd3b06",
-      "company": "Cisco",
-      "title": "Software Engineer Full Stack / Backend II (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
-      "url": "https://trueinterview.io/jobs/1258ff12-3f2f-4e4f-b55b-2f043bfd3b06",
-      "postedAt": "2026-09-24T00:00:00.000Z",
-      "updatedAt": "2026-09-24T00:00:00.000Z"
-    },
-    {
       "id": "c0e1105a-fef3-48a2-8ec5-acfb33ce794c",
       "company": "Keysight",
       "title": "Semiconductor Advanced Packaging Process Engineering Intern",
@@ -15180,111 +14985,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/91019?lang=en-us",
       "url": "https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "id": "86be2a68-3e72-46d7-a051-989dec6e48bf",
-      "company": "Cisco",
-      "title": "Engineering Product Management Specialist I (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
-      "url": "https://trueinterview.io/jobs/86be2a68-3e72-46d7-a051-989dec6e48bf",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "id": "14fecc37-8d6b-4065-b312-7c808e7c4e9d",
-      "company": "Cisco",
-      "title": "Software Engineer Embedded Systems I (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
-      "url": "https://trueinterview.io/jobs/14fecc37-8d6b-4065-b312-7c808e7c4e9d",
-      "postedAt": "2026-09-21T00:00:00.000Z",
-      "updatedAt": "2026-09-21T00:00:00.000Z"
-    },
-    {
-      "id": "840cbee2-4408-4bc2-8c50-ae291f58da72",
-      "company": "Cisco",
-      "title": "Software Engineer Full Stack / Backend I (Intern) – United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Milpitas, California, US",
-        "RTP, North Carolina, US",
-        "San Francisco, California, US",
-        "San Jose, California, United States of America",
-        "Milpitas, California, United States of America",
-        "Research Triangle Park, North Carolina, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
-      "url": "https://trueinterview.io/jobs/840cbee2-4408-4bc2-8c50-ae291f58da72",
       "postedAt": "2026-09-21T00:00:00.000Z",
       "updatedAt": "2026-09-21T00:00:00.000Z"
     },
