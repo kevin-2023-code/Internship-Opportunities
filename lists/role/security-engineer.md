@@ -27,9 +27,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Adobe</strong></td>
 <td><a href="https://trueinterview.io/jobs/569775d8-569d-4ea2-a4e7-dfb1fa401853">2027 Intern - Security Engineer</a></td>
-<td>Lehi, Utah, United States of America</td>
+<td>San Jose, California, United States of America<br/>Lehi, Utah, United States of America</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000">Apply</a></td>
-<td align="center">19 Oct 2026</td>
+<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
