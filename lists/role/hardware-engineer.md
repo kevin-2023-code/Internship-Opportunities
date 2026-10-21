@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**150 open roles.**
+**149 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -820,13 +820,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd608332-faa1-4f5c-9bb7-c7a9cec2565a">Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027</a></td>
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d0b3e53-d992-4f24-aea0-1692c50d792b">CSG Hardware Engineering Intern</a></td>
-<td>TX, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298216">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
