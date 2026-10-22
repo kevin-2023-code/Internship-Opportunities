@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T01:12:10.363Z",
-  "count": 1120,
+  "listingsChangedAt": "2026-10-22T06:55:42.548Z",
+  "count": 1118,
   "listings": [
     {
       "id": "ac6868bc-eed8-405b-bb1d-2ec9f9c4f063",
@@ -2640,33 +2640,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998",
       "url": "https://trueinterview.io/jobs/f43e56f8-88fe-4473-ad92-19f9d8173cde",
-      "postedAt": "2026-10-19T00:00:00.000Z",
-      "updatedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "8c8ead23-86f7-4948-8582-02e949cdb831",
-      "company": "Adobe",
-      "title": "2027 Intern - Data, AI & Innovation",
-      "locations": [
-        "San Jose, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
-      "url": "https://trueinterview.io/jobs/8c8ead23-86f7-4948-8582-02e949cdb831",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },
@@ -23658,32 +23631,6 @@
       "url": "https://trueinterview.io/jobs/a957c172-c760-4ec0-b1b5-91d6b76935b0",
       "postedAt": "2026-09-08T22:13:14.000Z",
       "updatedAt": "2026-09-08T22:13:14.000Z"
-    },
-    {
-      "id": "a637c10d-21f1-4898-8195-aca2a752eec6",
-      "company": "Coinbase",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Hybrid - San Francisco, CA",
-        "US - Remote Zone 1 (Job Requisitions Only)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "hybrid",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-      "url": "https://trueinterview.io/jobs/a637c10d-21f1-4898-8195-aca2a752eec6",
-      "postedAt": "2026-09-08T22:12:20.000Z",
-      "updatedAt": "2026-09-08T22:12:20.000Z"
     },
     {
       "id": "ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef",

@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**25 open roles.** 20 in the United States & Canada · 5 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a957c172-c760-4ec0-b1b5-91d6b76935b0">Associate Product Manager Intern</a></td>
 <td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
 <td align="center"><a href="https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a637c10d-21f1-4898-8195-aca2a752eec6">Software Engineer Intern</a></td>
-<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

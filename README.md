@@ -32,13 +32,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-22 01:12 UTC_
+_Last updated: 2026-10-22 06:55 UTC_
 
-**1,035 open internships** from **246 employers** · **151 posted in the last 7 days** · refreshed hourly
+**1,033 open internships** from **246 employers** · **150 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,035 internships by field
+### Browse 1,033 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (237)
+💻 **[Software Engineering](#-software-engineering)** (235)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (152)
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-22 01:12 UTC_
 
 ### 🔥 Posting the most this week
 
-**Meta** 26 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Anduril** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **NVIDIA** 6 &nbsp;·&nbsp; **Keysight** 5 &nbsp;·&nbsp; **Adobe** 4 &nbsp;·&nbsp; **Garmin** 4 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Amazon** 3 &nbsp;·&nbsp; **Applied Materials** 3
+**Meta** 26 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Anduril** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **NVIDIA** 6 &nbsp;·&nbsp; **Keysight** 5 &nbsp;·&nbsp; **Garmin** 4 &nbsp;·&nbsp; **Texas Instruments** 4 &nbsp;·&nbsp; **Adobe** 3 &nbsp;·&nbsp; **Amazon** 3 &nbsp;·&nbsp; **Applied Materials** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 25 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -64,13 +64,13 @@ _Last updated: 2026-10-22 01:12 UTC_
 
 _Counts are internships in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (555)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (297)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (170)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (87)](lists/company/large-tech.md) · [📱 Consumer internet & media (75)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (56)](lists/company/aerospace-defense.md) · [📐 Engineering & architecture firms (56)](lists/company/engineering-services.md) · [🏢 Enterprise & business software (48)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (38)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (28)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (554)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (297)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (170)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (86)](lists/company/large-tech.md) · [📱 Consumer internet & media (75)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (56)](lists/company/aerospace-defense.md) · [📐 Engineering & architecture firms (56)](lists/company/engineering-services.md) · [🏢 Enterprise & business software (47)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (38)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (28)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Hardware Engineer (151)](lists/role/hardware-engineer.md) · [Software Engineer (115)](lists/role/software-engineer.md) · [Machine Learning Engineer (37)](lists/role/machine-learning-engineer.md) · [Research Scientist (37)](lists/role/research-scientist.md) · [AI Engineer (31)](lists/role/ai-engineer.md) · [Embedded Engineer (23)](lists/role/embedded-engineer.md) · [Security Engineer (23)](lists/role/security-engineer.md) · [Data Engineer (22)](lists/role/data-engineer.md) · [Data Scientist (22)](lists/role/data-scientist.md) · [Product Manager (22)](lists/role/product-manager.md) · [+3 more →](lists/README.md)
+🧑‍💻 **By role** — [Hardware Engineer (151)](lists/role/hardware-engineer.md) · [Software Engineer (114)](lists/role/software-engineer.md) · [Machine Learning Engineer (37)](lists/role/machine-learning-engineer.md) · [Research Scientist (37)](lists/role/research-scientist.md) · [AI Engineer (31)](lists/role/ai-engineer.md) · [Embedded Engineer (23)](lists/role/embedded-engineer.md) · [Security Engineer (23)](lists/role/security-engineer.md) · [Data Engineer (22)](lists/role/data-engineer.md) · [Data Scientist (22)](lists/role/data-scientist.md) · [Product Manager (22)](lists/role/product-manager.md) · [+3 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (345)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (87)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (76)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (69)](lists/place/boston.md) · [🗽 New York City (60)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (59)](lists/place/seattle.md) · [🎸 Austin (52)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (50)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (33)](lists/place/research-triangle.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (343)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (87)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (76)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (69)](lists/place/boston.md) · [🗽 New York City (60)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (59)](lists/place/seattle.md) · [🎸 Austin (52)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (50)](lists/place/dallas-fort-worth.md) · [🔺 Research Triangle & the Carolinas (33)](lists/place/research-triangle.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [+11 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (151)](lists/new-this-week.md) · [🌐 Remote (22)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (150)](lists/new-this-week.md) · [🌐 Remote (22)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -234,13 +234,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">2d</td>
 </tr>
 <tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c8ead23-86f7-4948-8582-02e949cdb831">2027 Intern - Data, AI &amp; Innovation</a> 🆕</td>
-<td>San Jose, California, United States of America</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997">Apply</a></td>
-<td align="center">3d</td>
-</tr>
-<tr>
 <td><strong>Garmin</strong></td>
 <td><a href="https://trueinterview.io/jobs/bdf55fb4-d263-4c9d-bd9c-0cecdca9a818">Cyber Security Engineer Intern</a> 🆕</td>
 <td>Olathe, Kansas, United States</td>
@@ -266,6 +259,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/8e6558e1-113a-4a9b-83a7-8a9835819b24">AI &amp; HPC Performance Engineering Intern</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397">Apply</a></td>
+<td align="center">7d</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf77ace3-9ce6-4b05-a3dd-065fc63433b8">Manufacturing Software Engineer Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application">Apply</a></td>
 <td align="center">7d</td>
 </tr>
 </tbody>
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 237.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 235.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
