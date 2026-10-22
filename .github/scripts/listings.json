@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-21T22:56:58.755Z",
-  "count": 1114,
+  "listingsChangedAt": "2026-10-22T01:12:10.363Z",
+  "count": 1120,
   "listings": [
     {
       "id": "ac6868bc-eed8-405b-bb1d-2ec9f9c4f063",
@@ -35,6 +35,112 @@
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
     {
+      "id": "5464b61e-72eb-4622-8a4b-0425e74518a3",
+      "company": "anduril",
+      "title": "2027 Business Operations Intern",
+      "locations": [
+        "Costa Mesa, California, United States",
+        "Seattle, Washington, United States, Costa Mesa, CA (OC-00), Seattle, WA (SEA-01)"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007",
+      "url": "https://trueinterview.io/jobs/5464b61e-72eb-4622-8a4b-0425e74518a3",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "0bf16386-6c37-42ae-8107-75b1d5b636d0",
+      "company": "anduril",
+      "title": "Winter 2027 Business Operations Engineer Co-op",
+      "locations": [
+        "Ashville, Ohio, United States",
+        "Costa Mesa, California, United States, Ashville, OH (Arsenal 1), Costa Mesa, CA (OC-00)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007",
+      "url": "https://trueinterview.io/jobs/0bf16386-6c37-42ae-8107-75b1d5b636d0",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "c125e7df-0197-4d88-ad9f-901fae1c212e",
+      "company": "anduril",
+      "title": "Winter 2027 Robotics Engineer Co-op",
+      "locations": [
+        "Quincy, Massachusetts, United States, Quincy, MA (QCY-01)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007",
+      "url": "https://trueinterview.io/jobs/c125e7df-0197-4d88-ad9f-901fae1c212e",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "84d09fb4-10a1-4e60-bf54-5d5c35e57bf9",
+      "company": "crusoe",
+      "title": "Software Engineering Intern, Summer 2027",
+      "locations": [
+        "San Francisco, CA - US"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application",
+      "url": "https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
       "id": "fc690525-1ad0-4584-812b-28746e11d069",
       "company": "quera-computing,-inc",
       "title": "Optical Engineer Co-Op",
@@ -58,6 +164,83 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5460294008",
       "url": "https://trueinterview.io/jobs/fc690525-1ad0-4584-812b-28746e11d069",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "aaef892e-ce22-42f0-9d85-9c71d56ceed4",
+      "company": "sezzle",
+      "title": "Graphic Design: Video Editing Intern",
+      "locations": [
+        "Peru, Bogota, Colombia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sezzle/jobs/8040761003",
+      "url": "https://trueinterview.io/jobs/aaef892e-ce22-42f0-9d85-9c71d56ceed4",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "773af014-3a38-44ba-b773-4753a1c148cd",
+      "company": "sezzle",
+      "title": "Multi Media Design Intern",
+      "locations": [
+        "Peru, Bogota, Colombia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sezzle/jobs/8040759003",
+      "url": "https://trueinterview.io/jobs/773af014-3a38-44ba-b773-4753a1c148cd",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "adcb904a-37ed-4922-ad29-24dd8ec84bda",
+      "company": "tacit",
+      "title": "System Electrical Engineer Intern",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/tacit/cadc8b71-ee79-4b44-951b-da7c5a0142eb/application",
+      "url": "https://trueinterview.io/jobs/adcb904a-37ed-4922-ad29-24dd8ec84bda",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
@@ -531,7 +714,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Security Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -539,6 +722,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
       "url": "https://trueinterview.io/jobs/896137b5-6b71-40ba-9e1b-c0ace2e95871",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "9a06c1df-a418-4a60-8ab3-1513195aa794",
+      "company": "NVIDIA",
+      "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397966334",
+      "url": "https://trueinterview.io/jobs/9a06c1df-a418-4a60-8ab3-1513195aa794",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "0cf57911-57be-4a45-a238-aa30b80d073d",
+      "company": "NVIDIA",
+      "title": "Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
+      "locations": [
+        "Santa Clara, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893397988300",
+      "url": "https://trueinterview.io/jobs/0cf57911-57be-4a45-a238-aa30b80d073d",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
@@ -7698,31 +7931,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1",
       "url": "https://trueinterview.io/jobs/03124a45-0fc3-4941-b270-74bdd62a8bc1",
-      "postedAt": "2026-10-07T00:00:00.000Z",
-      "updatedAt": "2026-10-07T00:00:00.000Z"
-    },
-    {
-      "id": "788c21c6-4938-4c79-b5c9-c6e46752c3ee",
-      "company": "KLA",
-      "title": "Product Development Applications Engineer Intern  (Broadband Plasma Division)",
-      "locations": [
-        "Milpitas, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Applications-Engineer-Intern---Broadband-Plasma-Division-_2641396",
-      "url": "https://trueinterview.io/jobs/788c21c6-4938-4c79-b5c9-c6e46752c3ee",
       "postedAt": "2026-10-07T00:00:00.000Z",
       "updatedAt": "2026-10-07T00:00:00.000Z"
     },
@@ -29444,56 +29652,6 @@
       "url": "https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7",
       "postedAt": "2026-08-24T00:00:00.000Z",
       "updatedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "id": "f4abe9e8-a68a-42da-a25c-c229f178c10f",
-      "company": "Micron Technology",
-      "title": "Intern - Product Yield Enhancement Eng",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43944097",
-      "url": "https://trueinterview.io/jobs/f4abe9e8-a68a-42da-a25c-c229f178c10f",
-      "postedAt": "2026-08-23T00:00:00.000Z",
-      "updatedAt": "2026-08-23T00:00:00.000Z"
-    },
-    {
-      "id": "649fda21-30e5-49c3-9953-ac4dbc4cf1db",
-      "company": "Micron Technology",
-      "title": "Intern - TD Site Industrial Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Site Reliability Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43944098",
-      "url": "https://trueinterview.io/jobs/649fda21-30e5-49c3-9953-ac4dbc4cf1db",
-      "postedAt": "2026-08-23T00:00:00.000Z",
-      "updatedAt": "2026-08-23T00:00:00.000Z"
     }
   ]
 }
