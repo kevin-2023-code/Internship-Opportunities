@@ -5,9 +5,112 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T12:43:05.776Z",
-  "count": 1119,
+  "listingsChangedAt": "2026-10-22T17:47:52.013Z",
+  "count": 1124,
   "listings": [
+    {
+      "id": "1e58caea-c43d-41f7-9d6a-4163ca2c7305",
+      "company": "abbvie",
+      "title": "2027 Project Engineering Co-op (Jan - July) (Undergraduate)",
+      "locations": [
+        "Worcester, MA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016344757-2027-project-engineering-co-op-jan-july-undergraduate-?oga=true",
+      "url": "https://trueinterview.io/jobs/1e58caea-c43d-41f7-9d6a-4163ca2c7305",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "4d352330-1ba8-4e86-87b5-4f95e07bc637",
+      "company": "abbvie",
+      "title": "2027 Validation Engineering Co-Op (Jan-July) (Undergraduate)",
+      "locations": [
+        "Worcester, MA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Quantitative Finance",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016344666-2027-validation-engineering-co-op-jan-july-undergraduate-?oga=true",
+      "url": "https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "46bde70e-8d62-4ec7-aca2-7cff41991f02",
+      "company": "DoorDash",
+      "title": "Mechanical Engineering, Intern - Labs (Summer 2027)",
+      "locations": [
+        "Oakland, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8313401",
+      "url": "https://trueinterview.io/jobs/46bde70e-8d62-4ec7-aca2-7cff41991f02",
+      "postedAt": "2026-10-22T15:41:36.000Z",
+      "updatedAt": "2026-10-22T15:41:36.000Z"
+    },
+    {
+      "id": "beff4ec2-92e3-49fc-868c-53626a560c0b",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Central Applied Science (PhD)",
+      "locations": [
+        "Menlo Park, CA, United States",
+        "New York, NY, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1582569213186235/",
+      "url": "https://trueinterview.io/jobs/beff4ec2-92e3-49fc-868c-53626a560c0b",
+      "postedAt": "2026-10-22T12:55:37.000Z",
+      "updatedAt": "2026-10-22T12:55:37.000Z"
+    },
     {
       "id": "ac6868bc-eed8-405b-bb1d-2ec9f9c4f063",
       "company": "anduril",
@@ -137,6 +240,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application",
       "url": "https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "74e706ae-7474-4e70-8eed-e478fac59d60",
+      "company": "Keysight",
+      "title": "R&D IC Engineering Intern",
+      "locations": [
+        "Colorado Springs, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54191?lang=en-us",
+      "url": "https://trueinterview.io/jobs/74e706ae-7474-4e70-8eed-e478fac59d60",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },

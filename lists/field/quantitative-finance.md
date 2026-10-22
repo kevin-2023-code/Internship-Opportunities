@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**27 open roles.** 12 in the United States & Canada · 15 elsewhere in the world.
+**28 open roles.** 13 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637">2027 Validation Engineering Co-Op (Jan-July) (Undergraduate)</a></td>
+<td>Worcester, MA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016344666-2027-validation-engineering-co-op-jan-july-undergraduate-?oga=true">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Point72</strong></td>
 <td><a href="https://trueinterview.io/jobs/92562b59-26f4-409f-aabe-efbca260b389">2028 Point72 Academy Investment Analyst Summer Internship Program - US</a></td>
