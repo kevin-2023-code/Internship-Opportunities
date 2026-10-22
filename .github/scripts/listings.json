@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T18:08:00.372Z",
-  "count": 1127,
+  "listingsChangedAt": "2026-10-22T19:05:17.819Z",
+  "count": 1129,
   "listings": [
     {
       "id": "1e58caea-c43d-41f7-9d6a-4163ca2c7305",
@@ -57,6 +57,58 @@
       "url": "https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "ed6c99f5-4aef-448d-b18e-0478c964a777",
+      "company": "Meta",
+      "title": "Research Scientist Intern, MSL Agents (PhD)",
+      "locations": [
+        "Menlo Park, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1136354555738164/",
+      "url": "https://trueinterview.io/jobs/ed6c99f5-4aef-448d-b18e-0478c964a777",
+      "postedAt": "2026-10-22T17:15:16.000Z",
+      "updatedAt": "2026-10-22T17:15:16.000Z"
+    },
+    {
+      "id": "989b88d9-a718-45a5-8f34-88f41679161c",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Feed Recommendations (PhD)",
+      "locations": [
+        "Bellevue, WA, United States"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/29044546168568671/",
+      "url": "https://trueinterview.io/jobs/989b88d9-a718-45a5-8f34-88f41679161c",
+      "postedAt": "2026-10-22T17:04:40.000Z",
+      "updatedAt": "2026-10-22T17:04:40.000Z"
     },
     {
       "id": "1c90ba73-aef3-484c-abf0-4f3c5b326519",
