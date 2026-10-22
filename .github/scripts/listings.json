@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T20:06:51.020Z",
-  "count": 1124,
+  "listingsChangedAt": "2026-10-22T21:06:30.194Z",
+  "count": 1129,
   "listings": [
+    {
+      "id": "1e43103f-d226-46d1-8db8-1edb6e3ddaad",
+      "company": "1password",
+      "title": "Developer Intern, Extension Excellence - Winter 2027",
+      "locations": [
+        "Remote (United States",
+        "Canada)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application",
+      "url": "https://trueinterview.io/jobs/1e43103f-d226-46d1-8db8-1edb6e3ddaad",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "b55e7fc9-1095-4025-bb24-50c2d96ac5d5",
+      "company": "abbvie",
+      "title": "2027 Drug Substance Engineering Intern (PhD)",
+      "locations": [
+        "North Chicago, IL, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016353924-2027-drug-substance-engineering-intern-phd-?oga=true",
+      "url": "https://trueinterview.io/jobs/b55e7fc9-1095-4025-bb24-50c2d96ac5d5",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
     {
       "id": "1e58caea-c43d-41f7-9d6a-4163ca2c7305",
       "company": "abbvie",
@@ -57,6 +109,161 @@
       "url": "https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "1b145444-2571-420a-952f-a2a7095d3ad8",
+      "company": "formlabs",
+      "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
+      "locations": [
+        "Somerville, MA, Somerville, Massachusetts"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
+      "url": "https://trueinterview.io/jobs/1b145444-2571-420a-952f-a2a7095d3ad8",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "b6e6dda4-4d09-4cba-8271-2cc3a436a7cc",
+      "company": "skydio",
+      "title": "Frontend Software Engineer Intern - Summer 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application",
+      "url": "https://trueinterview.io/jobs/b6e6dda4-4d09-4cba-8271-2cc3a436a7cc",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "bf8e24d2-9438-4898-8a98-8cae1362bf8a",
+      "company": "toku",
+      "title": "AI Operations Intern BR",
+      "locations": [
+        "Brasil"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e/application",
+      "url": "https://trueinterview.io/jobs/bf8e24d2-9438-4898-8a98-8cae1362bf8a",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "2be396e8-364d-4692-8e42-95a9ea450e5e",
+      "company": "toyota-research-institute",
+      "title": "Human Aware Interactions and Learning Intern",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7/apply",
+      "url": "https://trueinterview.io/jobs/2be396e8-364d-4692-8e42-95a9ea450e5e",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "567bfe03-5353-452d-8e2f-dc006b8c3ed4",
+      "company": "twitch",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+      "url": "https://trueinterview.io/jobs/567bfe03-5353-452d-8e2f-dc006b8c3ed4",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a",
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR Chemistry",
+      "locations": [
+        "San Francisco, CA, United States"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2162858564439476/",
+      "url": "https://trueinterview.io/jobs/2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a",
+      "postedAt": "2026-10-22T19:09:53.000Z",
+      "updatedAt": "2026-10-22T19:09:53.000Z"
     },
     {
       "id": "1c90ba73-aef3-484c-abf0-4f3c5b326519",
@@ -5791,47 +5998,6 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
-      "id": "03250a9b-5432-4c71-90eb-24270b2be951",
-      "company": "Tokyo Electron",
-      "title": "SEMICON Intern",
-      "locations": [
-        "Austin RiverSouth, United States of America",
-        "Fremont",
-        "Phoenix",
-        "Albany",
-        "Boise",
-        "Portland",
-        "North Phoenix (Deer Valley)",
-        "Taylor",
-        "North Chelmsford",
-        "San Jose",
-        "Manassas",
-        "Hillsboro QRS Shared",
-        "Austin MET 15",
-        "Richardson",
-        "Chaska"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/SEMICON-Intern_R26-01940",
-      "url": "https://trueinterview.io/jobs/03250a9b-5432-4c71-90eb-24270b2be951",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
       "id": "01b45155-69b7-4254-b5a3-9a82415e7b20",
       "company": "western-digital",
       "title": "Spring Co-op - Recording Electronics Data Analytics & Optimization",
@@ -10907,31 +11073,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.garmin.com/jobs/20289?lang=en-us",
       "url": "https://trueinterview.io/jobs/055847a5-6d8a-4b6f-bb31-45d7013708cd",
-      "postedAt": "2026-10-02T00:00:00.000Z",
-      "updatedAt": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "id": "9b1a498d-1a3c-4a44-91b0-f785ba144856",
-      "company": "Hewlett Packard Enterprise",
-      "title": "ASIC Engineering Intern",
-      "locations": [
-        "Durham, North Carolina, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Durham-North-Carolina-United-States-of-America/ASIC-Engineering-Intern_1214213",
-      "url": "https://trueinterview.io/jobs/9b1a498d-1a3c-4a44-91b0-f785ba144856",
       "postedAt": "2026-10-02T00:00:00.000Z",
       "updatedAt": "2026-10-02T00:00:00.000Z"
     },
@@ -19910,31 +20051,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44450234",
       "url": "https://trueinterview.io/jobs/6ff98fc4-ef87-428a-a890-0cd086e05e14",
-      "postedAt": "2026-09-15T00:00:00.000Z",
-      "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "6a843639-92fe-41f8-b7b9-c9d48f4e84d5",
-      "company": "Micron Technology",
-      "title": "Intern - Node Development Product Engineer - DRAM Technology",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44477658",
-      "url": "https://trueinterview.io/jobs/6a843639-92fe-41f8-b7b9-c9d48f4e84d5",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
     },
