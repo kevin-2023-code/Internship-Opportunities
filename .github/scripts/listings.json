@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T06:55:42.548Z",
-  "count": 1118,
+  "listingsChangedAt": "2026-10-22T12:43:05.776Z",
+  "count": 1119,
   "listings": [
     {
       "id": "ac6868bc-eed8-405b-bb1d-2ec9f9c4f063",
@@ -11607,6 +11607,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44702762",
       "url": "https://trueinterview.io/jobs/550f8333-f44e-4c47-aa3f-c712de0ec4b3",
+      "postedAt": "2026-10-01T00:00:00.000Z",
+      "updatedAt": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "f3cc5508-ec84-41a5-90d9-e6743e38d779",
+      "company": "Microsoft",
+      "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+      "locations": [
+        "Redmond, WA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+      "url": "https://trueinterview.io/jobs/f3cc5508-ec84-41a5-90d9-e6743e38d779",
       "postedAt": "2026-10-01T00:00:00.000Z",
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
