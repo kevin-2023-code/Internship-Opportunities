@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T17:47:52.013Z",
-  "count": 1124,
+  "listingsChangedAt": "2026-10-22T18:08:00.372Z",
+  "count": 1127,
   "listings": [
     {
       "id": "1e58caea-c43d-41f7-9d6a-4163ca2c7305",
@@ -57,6 +57,35 @@
       "url": "https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "1c90ba73-aef3-484c-abf0-4f3c5b326519",
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR - Physical Engineering AI (PhD)",
+      "locations": [
+        "Seattle, WA, United States",
+        "New York, NY, United States"
+      ],
+      "cities": [
+        "Seattle, WA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1081255008061721/",
+      "url": "https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519",
+      "postedAt": "2026-10-22T16:58:25.000Z",
+      "updatedAt": "2026-10-22T16:58:25.000Z"
     },
     {
       "id": "46bde70e-8d62-4ec7-aca2-7cff41991f02",
@@ -1056,6 +1085,40 @@
       "url": "https://trueinterview.io/jobs/fd8ec3a2-d481-465c-8f28-f858f78b8aa7",
       "postedAt": "2026-10-20T21:16:10.000Z",
       "updatedAt": "2026-10-20T21:16:10.000Z"
+    },
+    {
+      "id": "2e64474b-c287-472c-a2cf-42fb5e35663a",
+      "company": "Meta",
+      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
+      "locations": [
+        "Bellevue, WA, United States",
+        "Menlo Park, CA, United States",
+        "Boston, MA, United States",
+        "New York, NY, United States",
+        "San Francisco, CA, United States"
+      ],
+      "cities": [
+        "Bellevue, WA",
+        "Boston, MA",
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2322361288548512/",
+      "url": "https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a",
+      "postedAt": "2026-10-20T18:55:01.000Z",
+      "updatedAt": "2026-10-20T18:55:01.000Z"
     },
     {
       "id": "ffa2840a-81f9-495a-a647-291b4155bd74",
@@ -2614,6 +2677,40 @@
       "updatedAt": "2026-10-19T21:31:11.000Z"
     },
     {
+      "id": "18ad1337-0d15-4359-a950-60556d989ca1",
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Alignment",
+      "locations": [
+        "Menlo Park, CA, United States",
+        "Seattle, WA, United States",
+        "Boston, MA, United States",
+        "New York, NY, United States",
+        "San Francisco, CA, United States"
+      ],
+      "cities": [
+        "Seattle, WA",
+        "Boston, MA",
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/2356892281747003/",
+      "url": "https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1",
+      "postedAt": "2026-10-19T21:26:00.000Z",
+      "updatedAt": "2026-10-19T21:26:00.000Z"
+    },
+    {
       "id": "3e3d4172-226f-4e3e-b111-402e05f0975c",
       "company": "Meta",
       "title": "Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)",
@@ -3925,31 +4022,6 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application",
       "url": "https://trueinterview.io/jobs/ff2c3535-2470-49ad-8426-73c46192789b",
-      "postedAt": "2026-10-15T00:00:00.000Z",
-      "updatedAt": "2026-10-15T00:00:00.000Z"
-    },
-    {
-      "id": "241425a6-ceb4-45f4-adcf-f46cb623af91",
-      "company": "Texas Instruments",
-      "title": "Device Reliability Engineering Intern",
-      "locations": [
-        "Dallas, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081",
-      "url": "https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91",
       "postedAt": "2026-10-15T00:00:00.000Z",
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
@@ -17578,6 +17650,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.nvidia.com/careers/job/893397562560",
       "url": "https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73",
+      "postedAt": "2026-09-17T00:00:00.000Z",
+      "updatedAt": "2026-09-17T00:00:00.000Z"
+    },
+    {
+      "id": "d8c7be76-8364-4b5b-8df2-fa68801086ba",
+      "company": "Tokyo Electron",
+      "title": "Manufacturing Engineer 2027 Summer Intern",
+      "locations": [
+        "Chaska, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590",
+      "url": "https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },

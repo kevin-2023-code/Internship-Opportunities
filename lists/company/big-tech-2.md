@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**562 open roles.** 558 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**565 open roles.** 561 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a55dce0b-940a-4417-bfcb-80574f5baa20">PhD Research Intern, Fundamental Generative AI - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633487">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6">Smart Manufacturing and Automation Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Tokyo Electron</strong></td>
 <td><a href="https://trueinterview.io/jobs/45837207-8e6c-4d20-8438-a2a62573a31b">Decision Analysis &amp; AI Summer 2027 Intern</a></td>

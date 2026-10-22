@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**157 open roles.** 147 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
+**159 open roles.** 149 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -30,6 +30,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Worcester, MA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016344666-2027-validation-engineering-co-op-jan-july-undergraduate-?oga=true">Apply</a></td>
 <td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
+<td>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>DoorDash</strong></td>
@@ -260,6 +267,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd8ec3a2-d481-465c-8f28-f858f78b8aa7">Research Scientist Intern, Multimodal Behavioral AI (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1428978125312655/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a">Research Scientist Intern, FAIR - Multimodal Foundations (PhD)</a></td>
+<td>Bellevue, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2322361288548512/">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -677,6 +691,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
+<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
@@ -1013,13 +1034,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91">Device Reliability Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9674cd49-1156-4b1a-9a2b-f86e65b15079">Web Marketing Intern - User Experience Design</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753">Apply</a></td>

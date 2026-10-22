@@ -243,13 +243,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91">Device Reliability Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9674cd49-1156-4b1a-9a2b-f86e65b15079">Web Marketing Intern - User Experience Design</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753">Apply</a></td>
@@ -1286,6 +1279,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tokyo Electron</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba">Manufacturing Engineer 2027 Summer Intern</a></td>
+<td>Chaska, United States of America</td>
+<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/163bba15-7280-4679-b616-582870d827a2">Process Engineer Spring 2027 Co-Op</a></td>
 <td>Albany, United States of America</td>
 <td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Process-Engineer-Spring-2027-Co-Op_R26-01554">Apply</a></td>

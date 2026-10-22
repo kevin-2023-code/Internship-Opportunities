@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**60 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
+<td>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/5464b61e-72eb-4622-8a4b-0425e74518a3">2027 Business Operations Intern</a></td>
@@ -53,6 +60,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a">Research Scientist Intern, FAIR - Multimodal Foundations (PhD)</a></td>
+<td>Bellevue, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2322361288548512/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f703659-e67b-43e7-b14a-c3b8879e9705">Creative Marketing Intern – Summer 2027</a></td>
 <td>Seattle, Washington, USA</td>
@@ -75,6 +89,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
+<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>

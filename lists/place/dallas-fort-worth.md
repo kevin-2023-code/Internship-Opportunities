@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**50 open roles.**
+**49 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -33,13 +33,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91">Device Reliability Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9674cd49-1156-4b1a-9a2b-f86e65b15079">Web Marketing Intern - User Experience Design</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753">Apply</a></td>

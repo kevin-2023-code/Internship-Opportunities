@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**562 open roles.** 558 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**565 open roles.** 561 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
+<td>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/46bde70e-8d62-4ec7-aca2-7cff41991f02">Mechanical Engineering, Intern - Labs (Summer 2027)</a></td>
@@ -164,6 +171,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd8ec3a2-d481-465c-8f28-f858f78b8aa7">Research Scientist Intern, Multimodal Behavioral AI (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1428978125312655/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a">Research Scientist Intern, FAIR - Multimodal Foundations (PhD)</a></td>
+<td>Bellevue, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2322361288548512/">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -357,6 +371,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
+<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
@@ -532,13 +553,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91">Device Reliability Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9674cd49-1156-4b1a-9a2b-f86e65b15079">Web Marketing Intern - User Experience Design</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753">Apply</a></td>
@@ -2597,6 +2611,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Tokyo Electron</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba">Manufacturing Engineer 2027 Summer Intern</a></td>
+<td>Chaska, United States of America</td>
+<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/163bba15-7280-4679-b616-582870d827a2">Process Engineer Spring 2027 Co-Op</a></td>
 <td>Albany, United States of America</td>
 <td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Process-Engineer-Spring-2027-Co-Op_R26-01554">Apply</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/17b5a830-4883-4641-90c7-9d349b7658fd">Operations Research, Engineering Analytics Graduate Intern</a></td>
 <td>US, Arizona, Phoenix, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a55dce0b-940a-4417-bfcb-80574f5baa20">PhD Research Intern, Fundamental Generative AI - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633487">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6">Smart Manufacturing and Automation Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

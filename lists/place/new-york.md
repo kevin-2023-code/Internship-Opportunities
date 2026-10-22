@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**61 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
+<td>New York, NY<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/beff4ec2-92e3-49fc-868c-53626a560c0b">Research Scientist Intern, Central Applied Science (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1582569213186235/">Apply</a></td>
@@ -40,6 +47,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a">Research Scientist Intern, FAIR - Multimodal Foundations (PhD)</a></td>
+<td>New York, NY<br/>Bellevue, WA<br/>Boston, MA<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2322361288548512/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ffa2840a-81f9-495a-a647-291b4155bd74">Research Scientist Intern, AI-Driven Neural Interfaces (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1436615821934863/">Apply</a></td>
@@ -86,6 +100,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
+<td>New York, NY<br/>Seattle, WA<br/>Boston, MA<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Duolingo</strong></td>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**345 open roles.**
+**347 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3084cf6b-e7e2-49e8-b422-fe7f9a9d8de2">Research Scientist Intern, PhD — Meta Superintelligence Labs</a></td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1510576574212840/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a">Research Scientist Intern, FAIR - Multimodal Foundations (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA, United States<br/>Bellevue, WA<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2322361288548512/">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -253,6 +260,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f">Research Scientist Intern, Smart Glasses in Wearables AI (PhD)</a></td>
 <td>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1584033410435097/">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA, United States<br/>Seattle, WA<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>

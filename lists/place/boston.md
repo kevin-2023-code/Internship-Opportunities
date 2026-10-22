@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**69 open roles.**
+**71 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,11 +39,25 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a">Research Scientist Intern, FAIR - Multimodal Foundations (PhD)</a></td>
+<td>Boston, MA<br/>Bellevue, WA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2322361288548512/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/2daec56f-4429-40b7-8d54-6dda61862054">2027 Field Test Engineer Intern</a></td>
 <td>Quincy, Massachusetts, United States, Costa Mesa, CA (OC-00), Quincy, MA<br/>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
+<td>Boston, MA<br/>Seattle, WA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Quera Computing, Inc</strong></td>

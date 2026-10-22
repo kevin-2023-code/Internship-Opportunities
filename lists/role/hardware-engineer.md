@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**151 open roles.**
+**150 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,13 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/241425a6-ceb4-45f4-adcf-f46cb623af91">Device Reliability Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016081">Apply</a></td>
-<td align="center">15 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
