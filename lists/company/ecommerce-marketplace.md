@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**43 open roles.** 39 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**45 open roles.** 41 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,6 +26,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
+<td>Arlington, Virginia, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1">Associate Delivery Consultant Intern, National Security, AWS Professional Services</a></td>
+<td>Arlington, Virginia, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0f703659-e67b-43e7-b14a-c3b8879e9705">Creative Marketing Intern – Summer 2027</a></td>
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10584130/creative-marketing-intern-summer-2027">Apply</a></td>

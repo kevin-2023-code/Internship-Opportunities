@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**19 open roles.** 16 in the United States & Canada · 3 elsewhere in the world.
+**18 open roles.** 15 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79acc117-007a-4690-94c9-d9af4b520733">People Analytics Intern</a></td>
 <td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
 <td align="center"><a href="https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee47c9dd-ba60-4d83-85b1-881563d4422a">Sales Business Analyst Intern</a></td>
-<td>Austin RiverSouth, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

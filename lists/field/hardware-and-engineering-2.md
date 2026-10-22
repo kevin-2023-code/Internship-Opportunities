@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**534 open roles.** 522 in the United States & Canada · 12 elsewhere in the world.
+**533 open roles.** 521 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/72a020a8-8492-41c6-8fe0-c0013bc69221">Process Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/de1eee92-61ce-4c4e-81b7-94c6745f623b">Intern - DRAM Customer Enablement Engineering</a></td>

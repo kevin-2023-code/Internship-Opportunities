@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**169 open roles.** 158 in the United States & Canada · 11 elsewhere in the world.
+**165 open roles.** 154 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,20 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed6c99f5-4aef-448d-b18e-0478c964a777">Research Scientist Intern, MSL Agents (PhD)</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1136354555738164/">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/989b88d9-a718-45a5-8f34-88f41679161c">Research Scientist Intern, Feed Recommendations (PhD)</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29044546168568671/">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
 <td>Seattle, WA<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
@@ -893,13 +879,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/45837207-8e6c-4d20-8438-a2a62573a31b">Decision Analysis &amp; AI Summer 2027 Intern</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/e4e2482a-659d-47b7-bb01-cd5e4362f1c7">Winter 2027 Supply Chain Engineer Co-op</a></td>
 <td>Quincy, Massachusetts, United States</td>
@@ -1072,13 +1051,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c304820a-4582-42c5-a845-cafd9633da2d">AI Engineer Intern</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/eudia/jobs/4020078009">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee47c9dd-ba60-4d83-85b1-881563d4422a">Sales Business Analyst Intern</a></td>
-<td>Austin RiverSouth, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

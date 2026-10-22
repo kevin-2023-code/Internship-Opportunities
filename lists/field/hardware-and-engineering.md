@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**534 open roles.** 522 in the United States & Canada · 12 elsewhere in the world.
+**533 open roles.** 521 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2120,13 +2120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/163bba15-7280-4679-b616-582870d827a2">Process Engineer Spring 2027 Co-Op</a></td>
-<td>Albany, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Process-Engineer-Spring-2027-Co-Op_R26-01554">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/2cc5843f-fbe2-4114-9894-be716de3557e">Data Center Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Palo Alto, CA</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5ca6474e-22a1-49cc-9bc6-6e864b18afd7">R&amp;D Packaging and Signal Integrity Intern</a></td>
 <td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54201?lang=en-us">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/72a020a8-8492-41c6-8fe0-c0013bc69221">Process Engineer Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Process-Engineer-Intern--MS---Summer-2027_2603856-1">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

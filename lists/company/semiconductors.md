@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**298 open roles.** 297 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**293 open roles.** 292 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1187,20 +1187,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/887ff975-38ed-465a-9c93-f4fec857ef04">Quality Assurance Engineer Summer 2027 Co-Op</a></td>
-<td>Albany, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Quality-Assurance-Engineer-Summer-2027-Co-Op_R26-01598">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/38fd5725-3a57-44da-a293-61a122be9336">Software Engineer 2027 Summer Intern</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Infineon</strong></td>
 <td><a href="https://trueinterview.io/jobs/f7b0ce80-82ca-431d-8628-f1de7060f0ae">Internship - Assembly Equipment Engineer</a></td>
 <td>Leominster, MA, US</td>
@@ -1285,13 +1271,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/163bba15-7280-4679-b616-582870d827a2">Process Engineer Spring 2027 Co-Op</a></td>
-<td>Albany, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Process-Engineer-Spring-2027-Co-Op_R26-01554">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc">2027 PhD AI Model Optimization &amp; Software Engineer Intern/Co-op</a></td>
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+3 more</td>
@@ -1352,13 +1331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6">Smart Manufacturing and Automation Intern</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/45837207-8e6c-4d20-8438-a2a62573a31b">Decision Analysis &amp; AI Summer 2027 Intern</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -1695,13 +1667,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d910cd6-5e0c-4218-92ea-6b308accf230">Utah: Manufacturing Engineering Intern</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee47c9dd-ba60-4d83-85b1-881563d4422a">Sales Business Analyst Intern</a></td>
-<td>Austin RiverSouth, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

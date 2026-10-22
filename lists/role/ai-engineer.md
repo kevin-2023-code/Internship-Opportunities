@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**34 open roles.** 31 in the United States & Canada · 3 elsewhere in the world.
+**33 open roles.** 30 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -197,13 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3624abc7-e2fb-441f-8f3e-e575285f2900">AI/ML Engineer Intern</a></td>
 <td>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/45837207-8e6c-4d20-8438-a2a62573a31b">Decision Analysis &amp; AI Summer 2027 Intern</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

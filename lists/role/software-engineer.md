@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**132 open roles.** 114 in the United States & Canada · 18 elsewhere in the world.
+**130 open roles.** 112 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -442,20 +442,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60">Software Engineering Internship - Summer 2027</a></td>
 <td>Austin, TX<br/>New York, NY<br/>San Diego, CA, US<br/>+5 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740529">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tokyo Electron</strong></td>
-<td><a href="https://trueinterview.io/jobs/887ff975-38ed-465a-9c93-f4fec857ef04">Quality Assurance Engineer Summer 2027 Co-Op</a></td>
-<td>Albany, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Quality-Assurance-Engineer-Summer-2027-Co-Op_R26-01598">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/38fd5725-3a57-44da-a293-61a122be9336">Software Engineer 2027 Summer Intern</a></td>
-<td>Chaska, United States of America</td>
-<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>

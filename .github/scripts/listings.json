@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T19:05:17.819Z",
-  "count": 1129,
+  "listingsChangedAt": "2026-10-22T20:06:51.020Z",
+  "count": 1124,
   "listings": [
     {
       "id": "1e58caea-c43d-41f7-9d6a-4163ca2c7305",
@@ -57,58 +57,6 @@
       "url": "https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "ed6c99f5-4aef-448d-b18e-0478c964a777",
-      "company": "Meta",
-      "title": "Research Scientist Intern, MSL Agents (PhD)",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1136354555738164/",
-      "url": "https://trueinterview.io/jobs/ed6c99f5-4aef-448d-b18e-0478c964a777",
-      "postedAt": "2026-10-22T17:15:16.000Z",
-      "updatedAt": "2026-10-22T17:15:16.000Z"
-    },
-    {
-      "id": "989b88d9-a718-45a5-8f34-88f41679161c",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Feed Recommendations (PhD)",
-      "locations": [
-        "Bellevue, WA, United States"
-      ],
-      "cities": [
-        "Bellevue, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/29044546168568671/",
-      "url": "https://trueinterview.io/jobs/989b88d9-a718-45a5-8f34-88f41679161c",
-      "postedAt": "2026-10-22T17:04:40.000Z",
-      "updatedAt": "2026-10-22T17:04:40.000Z"
     },
     {
       "id": "1c90ba73-aef3-484c-abf0-4f3c5b326519",
@@ -651,6 +599,56 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016282473-engineering-intern-6-months-internship-?oga=true",
       "url": "https://trueinterview.io/jobs/e7d651be-c785-496c-997f-b8ffc4d156de",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "8cd241f0-e271-4eda-8573-f31f5476c8b9",
+      "company": "Amazon",
+      "title": "Associate Delivery Consultant Intern, AWS Professional Services",
+      "locations": [
+        "Arlington, Virginia, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services",
+      "url": "https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1",
+      "company": "Amazon",
+      "title": "Associate Delivery Consultant Intern, National Security, AWS Professional Services",
+      "locations": [
+        "Arlington, Virginia, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services",
+      "url": "https://trueinterview.io/jobs/f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
@@ -17019,56 +17017,6 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "id": "887ff975-38ed-465a-9c93-f4fec857ef04",
-      "company": "Tokyo Electron",
-      "title": "Quality Assurance Engineer Summer 2027 Co-Op",
-      "locations": [
-        "Albany, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Quality-Assurance-Engineer-Summer-2027-Co-Op_R26-01598",
-      "url": "https://trueinterview.io/jobs/887ff975-38ed-465a-9c93-f4fec857ef04",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "38fd5725-3a57-44da-a293-61a122be9336",
-      "company": "Tokyo Electron",
-      "title": "Software Engineer 2027 Summer Intern",
-      "locations": [
-        "Chaska, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573",
-      "url": "https://trueinterview.io/jobs/38fd5725-3a57-44da-a293-61a122be9336",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
       "id": "850c8505-47ac-4f9b-b249-78432c0f1b57",
       "company": "Rundoo",
       "title": "Product Manager Intern",
@@ -17727,31 +17675,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590",
       "url": "https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "id": "163bba15-7280-4679-b616-582870d827a2",
-      "company": "Tokyo Electron",
-      "title": "Process Engineer Spring 2027 Co-Op",
-      "locations": [
-        "Albany, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Process-Engineer-Spring-2027-Co-Op_R26-01554",
-      "url": "https://trueinterview.io/jobs/163bba15-7280-4679-b616-582870d827a2",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },
@@ -19128,31 +19051,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017994",
       "url": "https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6",
-      "postedAt": "2026-09-16T00:00:00.000Z",
-      "updatedAt": "2026-09-16T00:00:00.000Z"
-    },
-    {
-      "id": "45837207-8e6c-4d20-8438-a2a62573a31b",
-      "company": "Tokyo Electron",
-      "title": "Decision Analysis & AI Summer 2027 Intern",
-      "locations": [
-        "Chaska, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574",
-      "url": "https://trueinterview.io/jobs/45837207-8e6c-4d20-8438-a2a62573a31b",
       "postedAt": "2026-09-16T00:00:00.000Z",
       "updatedAt": "2026-09-16T00:00:00.000Z"
     },
@@ -24783,32 +24681,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017627",
       "url": "https://trueinterview.io/jobs/8d910cd6-5e0c-4218-92ea-6b308accf230",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "updatedAt": "2026-09-08T00:00:00.000Z"
-    },
-    {
-      "id": "ee47c9dd-ba60-4d83-85b1-881563d4422a",
-      "company": "Tokyo Electron",
-      "title": "Sales Business Analyst Intern",
-      "locations": [
-        "Austin RiverSouth",
-        "Austin RiverSouth, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Austin-RiverSouth/Sales-Business-Analyst-Intern_R26-01519",
-      "url": "https://trueinterview.io/jobs/ee47c9dd-ba60-4d83-85b1-881563d4422a",
       "postedAt": "2026-09-08T00:00:00.000Z",
       "updatedAt": "2026-09-08T00:00:00.000Z"
     },
