@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**559 open roles.** 555 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**564 open roles.** 560 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/5377bbbd-84d0-4c78-a10e-d28b29843567">Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis</a></td>
+<td>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1137225375529389/">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbb1241e-aad8-4324-88e5-d47a18baeafc">Design Verification Engineering Intern</a></td>
@@ -41,10 +48,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a46de49-ac8b-4444-9f63-743be271503a">Cybersecurity Engineering Intern</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/75b90e28-cf86-4e94-9a21-c0dad5dd1f56">AI Hardware Engineering Intern</a></td>
+<td>US, California, Santa Clara, United States of America<br/>US, California, Folsom</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/198a7feb-0159-4733-baec-f22b0afd68ae">Facilities Services - Intern, Graduate</a></td>
 <td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+1 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Graduate_JR0288230">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/0196c33c-aaf4-4154-9d5f-ac1edfd28fe3">Coating Manufacturing Engineer Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/55114?lang=en-us">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7201af0c-f65c-463c-acd0-be6837070d39">FPGA Design Intern</a></td>
+<td>Calabasas, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/55150?lang=en-us">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -2071,6 +2106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183">Digital Design Verification Engineering Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e5ce220-f38e-420e-b3d1-554029627482">FY27 Engineering Internship United Kingdom</a></td>
 <td>United Kingdom, Edinburgh, SC, Freer<br/>United Kingdom, Hayes<br/>United Kingdom, Glasgow<br/>+1 more</td>
@@ -2775,48 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e8df3d0-83a1-45af-b312-86b50450e4bc">Product Management Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/b720ffdf-5133-43b9-b4ca-a65c74bc2338">Customer Solutions Manager Intern, AWSI - 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10550549/customer-solutions-manager-intern-awsi-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5fd1f292-17cd-49a3-9895-5df5b432c246">Solutions Architect Intern, AWSI - 2027</a></td>
-<td>Dallas, Texas, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc">2027 PhD AI Model Optimization &amp; Software Engineer Intern/Co-op</a></td>
-<td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+3 more</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92522?lang=en-us">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/3624abc7-e2fb-441f-8f3e-e575285f2900">AI/ML Engineer Intern</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eb9e4369-179a-4f52-98f2-b2e09a7fc909">Algorithm Development Engineer Intern</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aad0be5c-5d41-4084-82a2-6f36bd926aa5">Analog Design Engineer Intern</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles<br/>US, NC, Durham</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

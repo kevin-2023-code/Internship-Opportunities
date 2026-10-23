@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**37 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27e9d88-7c78-47bc-aa4f-2407ccc2eb42">2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency</a></td>
+<td>Mountain View, CA, USA, Mountain View</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8287385">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/830bad93-e9c0-4fd3-96b7-c72c87da4b5c">Software Engineering Intern – AI/ML for Diagnostics &amp; Calibration</a></td>

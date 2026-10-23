@@ -5,9 +5,113 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-23T19:41:48.778Z",
-  "count": 1132,
+  "listingsChangedAt": "2026-10-23T22:48:28.873Z",
+  "count": 1139,
   "listings": [
+    {
+      "id": "85c843af-1e68-409a-8f94-e7008d0daaaf",
+      "company": "epicgames",
+      "title": "Tools Programmer Intern (Graphics)",
+      "locations": [
+        "Cary,North Carolina,United States, Cary"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
+      "url": "https://trueinterview.io/jobs/85c843af-1e68-409a-8f94-e7008d0daaaf",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "updatedAt": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "74b683c7-d48f-4e85-9a49-d5696780eff5",
+      "company": "shield-ai",
+      "title": "June 2027 Co-op - Reliability Engineering #5953",
+      "locations": [
+        "Seattle, Washington, San Diego, California, Boston, Massachusetts"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3/apply",
+      "url": "https://trueinterview.io/jobs/74b683c7-d48f-4e85-9a49-d5696780eff5",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "updatedAt": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "a27e9d88-7c78-47bc-aa4f-2407ccc2eb42",
+      "company": "waymo",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "locations": [
+        "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+      "url": "https://trueinterview.io/jobs/a27e9d88-7c78-47bc-aa4f-2407ccc2eb42",
+      "postedAt": "2026-10-24T00:00:00.000Z",
+      "updatedAt": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "id": "5377bbbd-84d0-4c78-a10e-d28b29843567",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
+      "locations": [
+        "Redmond, WA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.metacareers.com/profile/job_details/1137225375529389/",
+      "url": "https://trueinterview.io/jobs/5377bbbd-84d0-4c78-a10e-d28b29843567",
+      "postedAt": "2026-10-23T19:24:05.000Z",
+      "updatedAt": "2026-10-23T19:24:05.000Z"
+    },
     {
       "id": "ec6a2248-d808-481e-bf8e-f2edc9f3e65c",
       "company": "MongoDB",
@@ -236,6 +340,57 @@
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
+      "id": "9a46de49-ac8b-4444-9f63-743be271503a",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Cybersecurity Engineering Intern",
+      "locations": [
+        "Spring, Texas, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
+      "url": "https://trueinterview.io/jobs/9a46de49-ac8b-4444-9f63-743be271503a",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "75b90e28-cf86-4e94-9a21-c0dad5dd1f56",
+      "company": "Intel",
+      "title": "AI Hardware Engineering Intern",
+      "locations": [
+        "US, California, Santa Clara, United States of America",
+        "US, California, Folsom"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533",
+      "url": "https://trueinterview.io/jobs/75b90e28-cf86-4e94-9a21-c0dad5dd1f56",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
       "id": "198a7feb-0159-4733-baec-f22b0afd68ae",
       "company": "Intel",
       "title": "Facilities Services - Intern, Graduate",
@@ -260,6 +415,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Graduate_JR0288230",
       "url": "https://trueinterview.io/jobs/198a7feb-0159-4733-baec-f22b0afd68ae",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "0196c33c-aaf4-4154-9d5f-ac1edfd28fe3",
+      "company": "Keysight",
+      "title": "Coating Manufacturing Engineer Intern",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/55114?lang=en-us",
+      "url": "https://trueinterview.io/jobs/0196c33c-aaf4-4154-9d5f-ac1edfd28fe3",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "7201af0c-f65c-463c-acd0-be6837070d39",
+      "company": "Keysight",
+      "title": "FPGA Design Intern",
+      "locations": [
+        "Calabasas, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/55150?lang=en-us",
+      "url": "https://trueinterview.io/jobs/7201af0c-f65c-463c-acd0-be6837070d39",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -518,33 +723,6 @@
       "source": "1point3acres",
       "applyUrl": "https://ursamajor.com/careers/?gh_jid=4746887005",
       "url": "https://trueinterview.io/jobs/284b8c5d-ac00-4e95-ba18-47363cbdafd9",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "75e35a27-644b-42b7-8942-83b212f5829f",
-      "company": "waymo",
-      "title": "2027 Summer Intern, PhD, AI Foundations - Recipes",
-      "locations": [
-        "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8306841",
-      "url": "https://trueinterview.io/jobs/75e35a27-644b-42b7-8942-83b212f5829f",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -13922,6 +14100,31 @@
       "updatedAt": "2026-09-28T00:00:00.000Z"
     },
     {
+      "id": "6dce90fd-dad0-47c5-9102-a6f303872183",
+      "company": "Texas Instruments",
+      "title": "Digital Design Verification Engineering Intern",
+      "locations": [
+        "Santa Clara, CA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+      "url": "https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183",
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "updatedAt": "2026-09-28T00:00:00.000Z"
+    },
+    {
       "id": "3b4f9e1d-a543-4859-a21b-2f6b6141db82",
       "company": "Quera Computing, Inc",
       "title": "Internship - Scientific Software and Compilation",
@@ -26117,31 +26320,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1",
       "url": "https://trueinterview.io/jobs/1ec26877-672e-4345-aada-874ebcdf3ce2",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "0b599870-8271-4a6b-890c-cbab349ffce7",
-      "company": "Nokia",
-      "title": "AI-Agent Development Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978",
-      "url": "https://trueinterview.io/jobs/0b599870-8271-4a6b-890c-cbab349ffce7",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
     },

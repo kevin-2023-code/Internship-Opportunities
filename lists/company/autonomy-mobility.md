@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27e9d88-7c78-47bc-aa4f-2407ccc2eb42">2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency</a></td>
+<td>Mountain View, CA, USA, Mountain View</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8287385">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6e6dda4-4d09-4cba-8271-2cc3a436a7cc">Frontend Software Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
@@ -25,14 +32,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/75e35a27-644b-42b7-8942-83b212f5829f">2027 Summer Intern, PhD, AI Foundations - Recipes</a></td>
-<td>Mountain View, CA, USA, Mountain View</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8306841">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e0e5edfc-830c-4d92-87c0-4e4c3cb11e16">Embedded Software Engineer Intern - Winer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34/application">Apply</a></td>

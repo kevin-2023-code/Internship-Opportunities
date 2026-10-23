@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**168 open roles.** 157 in the United States & Canada · 11 elsewhere in the world.
+**169 open roles.** 158 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,17 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27e9d88-7c78-47bc-aa4f-2407ccc2eb42">2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency</a></td>
+<td>Mountain View, CA, USA, Mountain View</td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8287385">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/5377bbbd-84d0-4c78-a10e-d28b29843567">Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis</a></td>
+<td>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1137225375529389/">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/75b90e28-cf86-4e94-9a21-c0dad5dd1f56">AI Hardware Engineering Intern</a></td>
+<td>US, California, Santa Clara, United States of America<br/>US, California, Folsom</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Hardware-Engineering-Intern_JR0287533">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Toyota Research Institute</strong></td>
 <td><a href="https://trueinterview.io/jobs/2be396e8-364d-4692-8e42-95a9ea450e5e">Human Aware Interactions and Learning Intern</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7/apply">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/75e35a27-644b-42b7-8942-83b212f5829f">2027 Summer Intern, PhD, AI Foundations - Recipes</a></td>
-<td>Mountain View, CA, USA, Mountain View</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8306841">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -1079,13 +1093,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b91adc62-c7b8-4e44-80b1-1eea0409af49">Winter 2027 Intern, Data Engineering</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4396622009">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b599870-8271-4a6b-890c-cbab349ffce7">AI-Agent Development Co-op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 <tr>

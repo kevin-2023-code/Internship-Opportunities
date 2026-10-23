@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**81 open roles.** Social, search, streaming, messaging and consumer subscription apps.
+**82 open roles.** Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/5377bbbd-84d0-4c78-a10e-d28b29843567">Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis</a></td>
+<td>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1137225375529389/">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Twitch</strong></td>
 <td><a href="https://trueinterview.io/jobs/567bfe03-5353-452d-8e2f-dc006b8c3ed4">Undergrad Software Engineering Intern (Grad Year: Winter 2027)</a></td>
