@@ -5,9 +5,49 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-23T10:49:19.465Z",
-  "count": 1128,
+  "listingsChangedAt": "2026-10-23T15:34:41.635Z",
+  "count": 1133,
   "listings": [
+    {
+      "id": "ec6a2248-d808-481e-bf8e-f2edc9f3e65c",
+      "company": "MongoDB",
+      "title": "2027 - Software Engineering Intern, AMER",
+      "locations": [
+        "Austin",
+        "New York City",
+        "Palo Alto",
+        "San Francisco",
+        "Seattle",
+        "Austin, TX, United States",
+        "New York, NY, United States",
+        "Palo Alto, CA, United States",
+        "San Francisco, CA, United States",
+        "Seattle, WA, United States"
+      ],
+      "cities": [
+        "Austin, TX",
+        "Palo Alto, CA",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+      "url": "https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c",
+      "postedAt": "2026-10-23T12:57:16.000Z",
+      "updatedAt": "2026-10-23T12:57:16.000Z"
+    },
     {
       "id": "1e43103f-d226-46d1-8db8-1edb6e3ddaad",
       "company": "1password",
@@ -86,6 +126,91 @@
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
+      "id": "dbb1241e-aad8-4324-88e5-d47a18baeafc",
+      "company": "Analog Devices",
+      "title": "Design Verification Engineering Intern",
+      "locations": [
+        "United Kingdom, Edinburgh, SC, Freer"
+      ],
+      "cities": [],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097",
+      "url": "https://trueinterview.io/jobs/dbb1241e-aad8-4324-88e5-d47a18baeafc",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "fe05b1da-3741-4cf7-b40d-88608819a36c",
+      "company": "Cisco",
+      "title": "Software Engineer Embedded Systems I (Co-op) - United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Milpitas, California, US",
+        "RTP, North Carolina, US"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
+      "url": "https://trueinterview.io/jobs/fe05b1da-3741-4cf7-b40d-88608819a36c",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "bd4a6b93-081e-4aab-81ed-c97678d97048",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack / Backend I (Co-op) - United States",
+      "locations": [
+        "San Jose, California, US, United States of America",
+        "Carlsbad, California, US",
+        "San Jose, California, United States of America",
+        "Carlsbad, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+      "url": "https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
       "id": "1b145444-2571-420a-952f-a2a7095d3ad8",
       "company": "formlabs",
       "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
@@ -107,6 +232,34 @@
       "source": "1point3acres",
       "applyUrl": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
       "url": "https://trueinterview.io/jobs/1b145444-2571-420a-952f-a2a7095d3ad8",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "198a7feb-0159-4733-baec-f22b0afd68ae",
+      "company": "Intel",
+      "title": "Facilities Services - Intern, Graduate",
+      "locations": [
+        "US, Oregon, Hillsboro, United States of America",
+        "US, California, Folsom",
+        "US, California, Santa Clara",
+        "US, Arizona, Phoenix"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Graduate_JR0288230",
+      "url": "https://trueinterview.io/jobs/198a7feb-0159-4733-baec-f22b0afd68ae",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
