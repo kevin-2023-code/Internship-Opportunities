@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**349 open roles.**
+**350 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Patreon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2383e987-3082-4a78-856a-1bf51104f83a">Product Manager Intern - Summer 2027</a></td>
+<td>New York, San Francisco<br/>New York, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/b6e6dda4-4d09-4cba-8271-2cc3a436a7cc">Frontend Software Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
@@ -30,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8886605002">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a">Research Scientist Intern, FAIR Chemistry</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2162858564439476/">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>DoorDash</strong></td>
@@ -57,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9">Software Engineering Intern, Summer 2027</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c">Summer 2027 - Process Simulation Engineering Intern - MS/PhD</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556521831">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -291,7 +298,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/107376f2-982b-44d5-adc7-d9ba8f584cae">Thermal Engineer Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1866779221408793/">Apply</a></td>
@@ -2451,13 +2465,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3894c606-615e-435b-8e3d-d21243aabdd9">Industrial Design Intern</a></td>
 <td>Redwood City, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sunday/26320053-5a8c-4005-a7fc-fd771ecabdb6/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
-<td>US, CA, San Jose, Rio Robles<br/>US, NC, Durham, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
 <td align="center">24 Aug 2026</td>
 </tr>
 </tbody>

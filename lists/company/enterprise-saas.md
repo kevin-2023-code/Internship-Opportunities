@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**52 open roles.** 48 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**53 open roles.** 49 in the United States & Canada · 4 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34">Forward Deployed Software Engineer, Internship - Warp Speed</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/896137b5-6b71-40ba-9e1b-c0ace2e95871">Software Engineer: Security &amp; Identity Intern Opportunities for University Students, Cambridge</a></td>

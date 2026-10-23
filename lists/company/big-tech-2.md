@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**560 open roles.** 556 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**558 open roles.** 554 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/17b5a830-4883-4641-90c7-9d349b7658fd">Operations Research, Engineering Analytics Graduate Intern</a></td>
+<td>US, Arizona, Phoenix, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
+<td>Redmond, WA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/a55dce0b-940a-4417-bfcb-80574f5baa20">PhD Research Intern, Fundamental Generative AI - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633487">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6">Smart Manufacturing and Automation Intern</a></td>
@@ -384,13 +405,6 @@
 <td><a href="https://trueinterview.io/jobs/a340102f-e3bd-4386-a0f5-e6d078f0dd7b">Aircraft Systems Intern</a></td>
 <td>New Century, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20127?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd">Design Certification Engineer Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19771?lang=en-us">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -1078,34 +1092,6 @@
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43760110">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d7b95eb-88f3-4bb3-ba76-7a536dc5a478">Intern - Process Development Engineer, Planar DRAM CMP</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43814569">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7">Intern - Realtime Defect Analysis (RDA) Yield Technology</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

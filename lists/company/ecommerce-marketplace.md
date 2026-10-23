@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**45 open roles.** 41 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**47 open roles.** 43 in the United States & Canada · 4 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,6 +26,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2547b159-9d0b-42eb-805a-a318b53cd952">System Development Engineer Intern/Co-op, ROBOTICS -  2027</a></td>
+<td>North Reading, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
 <td>Arlington, Virginia, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
@@ -60,7 +67,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5581158-3c09-4708-801c-ef64ef4becdd">ASIC Engineer Intern, Summer 2027</a></td>
 <td>Sunnyvale, California, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027">Apply</a></td>

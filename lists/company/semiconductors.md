@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**291 open roles.** 290 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**288 open roles.** 287 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c">Summer 2027 - Process Simulation Engineering Intern - MS/PhD</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556521831">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/9622b45f-c069-46a3-9006-0eea874f7928">Analog Design Engineering Intern</a></td>
@@ -2018,34 +2025,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43760110">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d7b95eb-88f3-4bb3-ba76-7a536dc5a478">Intern - Process Development Engineer, Planar DRAM CMP</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43814569">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7">Intern - Realtime Defect Analysis (RDA) Yield Technology</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

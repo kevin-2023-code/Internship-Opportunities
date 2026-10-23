@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**26 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/6675696e-4739-4114-aa68-8f2e3d0f0d35">EW Business Development Intern</a></td>
+<td>Colorado Springs, Colorado, United States<br/>Loveland, Colorado, United States<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/55078?lang=en-us">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/74e706ae-7474-4e70-8eed-e478fac59d60">R&amp;D IC Engineering Intern</a></td>
 <td>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54191?lang=en-us">Apply</a></td>

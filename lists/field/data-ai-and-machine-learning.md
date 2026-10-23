@@ -26,13 +26,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a">Research Scientist Intern, FAIR Chemistry</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2162858564439476/">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
 <td>Seattle, WA<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
@@ -50,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5464b61e-72eb-4622-8a4b-0425e74518a3">2027 Business Operations Intern</a></td>
 <td>Seattle, Washington, United States, Costa Mesa, CA (OC-00), Seattle, WA<br/>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/66132a14-b901-407a-ad77-d5130388c628">Research Intern – Self-evolving Multimodal Foundation Models</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>

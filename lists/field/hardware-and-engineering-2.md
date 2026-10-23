@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**530 open roles.** 518 in the United States & Canada · 12 elsewhere in the world.
+**528 open roles.** 516 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c1cfc9e-dd44-49be-bf51-ed60d230de86">Intern - Photomask Sustaining Engineering</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/43943727">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fe01287-c150-4743-ba8f-5df380f6e23c">Facilities Chemical Engineering Intern</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017820">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9d23e805-8468-494d-a271-958dc2368511">Facilities Controls and Automation Engineering Intern</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017815">Apply</a></td>
@@ -812,34 +826,6 @@
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43760110">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, OR, Beaverton<br/>US, MA, Chelmsford, Alpha</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d7b95eb-88f3-4bb3-ba76-7a536dc5a478">Intern - Process Development Engineer, Planar DRAM CMP</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43814569">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7">Intern - Realtime Defect Analysis (RDA) Yield Technology</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

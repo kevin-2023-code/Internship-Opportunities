@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**87 open roles.** 76 in the United States & Canada · 11 elsewhere in the world.
+**88 open roles.** 77 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Patreon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2383e987-3082-4a78-856a-1bf51104f83a">Product Manager Intern - Summer 2027</a></td>
+<td>New York, NY<br/>New York, San Francisco</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cf57911-57be-4a45-a238-aa30b80d073d">Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027</a></td>

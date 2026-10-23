@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**52 open roles.**
+**53 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Opensesame</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee510f37-73e1-4343-97c2-b4d0bf427c61">AI Product Builder Intern</a> 🌐</td>
+<td>Remote — United States<br/>Remote, Austin</td>
+<td align="center"><a href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>

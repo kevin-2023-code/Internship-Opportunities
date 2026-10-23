@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**95 open roles.** 88 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**96 open roles.** 89 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,6 +30,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8886605002">Apply</a></td>
 <td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34">Forward Deployed Software Engineer, Internship - Warp Speed</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb">Apply</a></td>
+<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

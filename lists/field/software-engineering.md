@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**273 open roles.** 241 in the United States & Canada · 32 elsewhere in the world.
+**275 open roles.** 243 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,17 +25,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/b55e7fc9-1095-4025-bb24-50c2d96ac5d5">2027 Drug Substance Engineering Intern (PhD)</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016353924-2027-drug-substance-engineering-intern-phd-?oga=true">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b145444-2571-420a-952f-a2a7095d3ad8">Manufacturing Test Software Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, MA, Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Opensesame</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee510f37-73e1-4343-97c2-b4d0bf427c61">AI Product Builder Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -78,6 +78,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9">Software Engineering Intern, Summer 2027</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34">Forward Deployed Software Engineer, Internship - Warp Speed</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -205,6 +212,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sugar Land, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>

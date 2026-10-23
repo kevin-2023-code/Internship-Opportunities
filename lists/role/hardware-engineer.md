@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**149 open roles.**
+**147 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -809,13 +809,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd">Design Certification Engineer Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19771?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd608332-faa1-4f5c-9bb7-c7a9cec2565a">Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027</a></td>
 <td>North Reading, Massachusetts, USA</td>
@@ -1052,13 +1045,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+8 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91463?lang=en-us">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

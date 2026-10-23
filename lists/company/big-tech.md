@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**560 open roles.** 556 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**558 open roles.** 554 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,13 +21,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a">Research Scientist Intern, FAIR Chemistry</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2162858564439476/">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
 <td>Seattle, WA<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
@@ -48,10 +41,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2547b159-9d0b-42eb-805a-a318b53cd952">System Development Engineer Intern/Co-op, ROBOTICS -  2027</a></td>
+<td>North Reading, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/6675696e-4739-4114-aa68-8f2e3d0f0d35">EW Business Development Intern</a></td>
+<td>Loveland, Colorado, United States<br/>Colorado Springs, Colorado, United States<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/55078?lang=en-us">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/74e706ae-7474-4e70-8eed-e478fac59d60">R&amp;D IC Engineering Intern</a></td>
 <td>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54191?lang=en-us">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c">Summer 2027 - Process Simulation Engineering Intern - MS/PhD</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556521831">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -398,7 +412,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f5e8916-44fe-4f24-991a-f310ab62a869">Test Engineering Intern</a></td>
 <td>US, NC, Durham, United States of America<br/>US, MA, Wilmington</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Engineering-Intern_R266146">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/17b5a830-4883-4641-90c7-9d349b7658fd">Operations Research, Engineering Analytics Graduate Intern</a></td>
-<td>US, Arizona, Phoenix, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c35be1-bd55-4d25-bf09-9b292b64751e">Data Science: PhD Internship Opportunities - Redmond</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a55dce0b-940a-4417-bfcb-80574f5baa20">PhD Research Intern, Fundamental Generative AI - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633487">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

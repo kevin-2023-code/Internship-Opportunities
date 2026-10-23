@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**530 open roles.** 518 in the United States & Canada · 12 elsewhere in the world.
+**528 open roles.** 516 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -34,10 +34,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2547b159-9d0b-42eb-805a-a318b53cd952">System Development Engineer Intern/Co-op, ROBOTICS -  2027</a></td>
+<td>North Reading, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/6675696e-4739-4114-aa68-8f2e3d0f0d35">EW Business Development Intern</a></td>
+<td>Loveland, Colorado, United States<br/>Colorado Springs, Colorado, United States<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/55078?lang=en-us">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/74e706ae-7474-4e70-8eed-e478fac59d60">R&amp;D IC Engineering Intern</a></td>
 <td>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54191?lang=en-us">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c">Summer 2027 - Process Simulation Engineering Intern - MS/PhD</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556521831">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -2597,13 +2618,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd">Design Certification Engineer Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19771?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/78d537d0-0816-4f56-9a33-d780bffd7750">Reliability Engineering Intern - Operations</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19990?lang=en-us">Apply</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de1eee92-61ce-4c4e-81b7-94c6745f623b">Intern - DRAM Customer Enablement Engineering</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43529407">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1c1cfc9e-dd44-49be-bf51-ed60d230de86">Intern - Photomask Sustaining Engineering</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43943727">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fe01287-c150-4743-ba8f-5df380f6e23c">Facilities Chemical Engineering Intern</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017820">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

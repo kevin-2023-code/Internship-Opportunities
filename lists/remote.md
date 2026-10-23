@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**28 open roles.** 23 in the United States & Canada · 5 elsewhere in the world. Postings the pipeline classified as remote.
+**30 open roles.** 25 in the United States & Canada · 5 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -23,6 +23,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application">Apply</a></td>
 <td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Opensesame</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee510f37-73e1-4343-97c2-b4d0bf427c61">AI Product Builder Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/66132a14-b901-407a-ad77-d5130388c628">Research Intern – Self-evolving Multimodal Foundation Models</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804">Apply</a></td>
+<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Insomniac Games</strong></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-22T21:06:30.194Z",
-  "count": 1129,
+  "listingsChangedAt": "2026-10-23T00:18:43.763Z",
+  "count": 1130,
   "listings": [
     {
       "id": "1e43103f-d226-46d1-8db8-1edb6e3ddaad",
@@ -32,31 +32,6 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application",
       "url": "https://trueinterview.io/jobs/1e43103f-d226-46d1-8db8-1edb6e3ddaad",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "b55e7fc9-1095-4025-bb24-50c2d96ac5d5",
-      "company": "abbvie",
-      "title": "2027 Drug Substance Engineering Intern (PhD)",
-      "locations": [
-        "North Chicago, IL, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990016353924-2027-drug-substance-engineering-intern-phd-?oga=true",
-      "url": "https://trueinterview.io/jobs/b55e7fc9-1095-4025-bb24-50c2d96ac5d5",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -132,6 +107,58 @@
       "source": "1point3acres",
       "applyUrl": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
       "url": "https://trueinterview.io/jobs/1b145444-2571-420a-952f-a2a7095d3ad8",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "ee510f37-73e1-4343-97c2-b4d0bf427c61",
+      "company": "opensesame",
+      "title": "AI Product Builder Intern",
+      "locations": [
+        "Remote, Austin"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
+      "url": "https://trueinterview.io/jobs/ee510f37-73e1-4343-97c2-b4d0bf427c61",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "2383e987-3082-4a78-856a-1bf51104f83a",
+      "company": "patreon",
+      "title": "Product Manager Intern - Summer 2027",
+      "locations": [
+        "New York, San Francisco"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application",
+      "url": "https://trueinterview.io/jobs/2383e987-3082-4a78-856a-1bf51104f83a",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -239,33 +266,6 @@
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
-      "id": "2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a",
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR Chemistry",
-      "locations": [
-        "San Francisco, CA, United States"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/2162858564439476/",
-      "url": "https://trueinterview.io/jobs/2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a",
-      "postedAt": "2026-10-22T19:09:53.000Z",
-      "updatedAt": "2026-10-22T19:09:53.000Z"
-    },
-    {
       "id": "1c90ba73-aef3-484c-abf0-4f3c5b326519",
       "company": "Meta",
       "title": "Research Scientist Intern, FAIR - Physical Engineering AI (PhD)",
@@ -346,6 +346,31 @@
       "url": "https://trueinterview.io/jobs/beff4ec2-92e3-49fc-868c-53626a560c0b",
       "postedAt": "2026-10-22T12:55:37.000Z",
       "updatedAt": "2026-10-22T12:55:37.000Z"
+    },
+    {
+      "id": "2547b159-9d0b-42eb-805a-a318b53cd952",
+      "company": "Amazon",
+      "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
+      "locations": [
+        "North Reading, Massachusetts, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
+      "url": "https://trueinterview.io/jobs/2547b159-9d0b-42eb-805a-a318b53cd952",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
     },
     {
       "id": "ac6868bc-eed8-405b-bb1d-2ec9f9c4f063",
@@ -480,6 +505,33 @@
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
     {
+      "id": "6675696e-4739-4114-aa68-8f2e3d0f0d35",
+      "company": "Keysight",
+      "title": "EW Business Development Intern",
+      "locations": [
+        "Loveland, Colorado, United States",
+        "Colorado Springs, Colorado, United States",
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/55078?lang=en-us",
+      "url": "https://trueinterview.io/jobs/6675696e-4739-4114-aa68-8f2e3d0f0d35",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
       "id": "74e706ae-7474-4e70-8eed-e478fac59d60",
       "company": "Keysight",
       "title": "R&D IC Engineering Intern",
@@ -501,6 +553,58 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54191?lang=en-us",
       "url": "https://trueinterview.io/jobs/74e706ae-7474-4e70-8eed-e478fac59d60",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "1701b07a-2625-4ea1-a45e-64cfaf789c4c",
+      "company": "Lam Research",
+      "title": "Summer 2027 - Process Simulation Engineering Intern - MS/PhD",
+      "locations": [
+        "Fremont, CA, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://careers.lamresearch.com/careers/job/1099556521831",
+      "url": "https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "1555a10b-b78a-4c4a-850d-e00b87a00c34",
+      "company": "Palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+      "url": "https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
@@ -578,6 +682,31 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/sezzle/jobs/8040759003",
       "url": "https://trueinterview.io/jobs/773af014-3a38-44ba-b773-4753a1c148cd",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
+      "id": "66132a14-b901-407a-ad77-d5130388c628",
+      "company": "Sony",
+      "title": "Research Intern – Self-evolving Multimodal Foundation Models",
+      "locations": [
+        "Remote - Virginia, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804",
+      "url": "https://trueinterview.io/jobs/66132a14-b901-407a-ad77-d5130388c628",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
@@ -2966,6 +3095,33 @@
       "url": "https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1",
       "postedAt": "2026-10-19T21:26:00.000Z",
       "updatedAt": "2026-10-19T21:26:00.000Z"
+    },
+    {
+      "id": "b45d061f-2df5-430d-9306-58a31cf99871",
+      "company": "DoorDash",
+      "title": "Operations Research Intern (PhD), Summer 2027",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8273965",
+      "url": "https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871",
+      "postedAt": "2026-10-19T18:18:24.000Z",
+      "updatedAt": "2026-10-19T18:18:24.000Z"
     },
     {
       "id": "3e3d4172-226f-4e3e-b111-402e05f0975c",
@@ -22535,31 +22691,6 @@
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },
     {
-      "id": "1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd",
-      "company": "Garmin",
-      "title": "Design Certification Engineer Intern",
-      "locations": [
-        "Olathe, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19771?lang=en-us",
-      "url": "https://trueinterview.io/jobs/1a505fa6-4d16-4d87-ac5b-45aa5c77a8dd",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "updatedAt": "2026-09-10T00:00:00.000Z"
-    },
-    {
       "id": "78d537d0-0816-4f56-9a33-d780bffd7750",
       "company": "Garmin",
       "title": "Reliability Engineering Intern - Operations",
@@ -29784,111 +29915,6 @@
       "url": "https://trueinterview.io/jobs/3894c606-615e-435b-8e3d-d21243aabdd9",
       "postedAt": "2026-08-24T23:11:16.000Z",
       "updatedAt": "2026-08-24T23:11:16.000Z"
-    },
-    {
-      "id": "02b35a8d-4494-41f9-b25d-9326daf44516",
-      "company": "Analog Devices",
-      "title": "Digital Design Engineer Intern",
-      "locations": [
-        "US, NC, Durham",
-        "US, CA, San Jose, Rio Robles",
-        "US, NC, Durham, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298",
-      "url": "https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516",
-      "postedAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "id": "55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f",
-      "company": "Analog Devices",
-      "title": "Manufacturing Engineer Intern",
-      "locations": [
-        "US, MA, Wilmington",
-        "US, OR, Beaverton",
-        "US, MA, Chelmsford, Alpha",
-        "US, MA, Wilmington, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301",
-      "url": "https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f",
-      "postedAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "id": "7d7b95eb-88f3-4bb3-ba76-7a536dc5a478",
-      "company": "Micron Technology",
-      "title": "Intern - Process Development Engineer, Planar DRAM CMP",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43814569",
-      "url": "https://trueinterview.io/jobs/7d7b95eb-88f3-4bb3-ba76-7a536dc5a478",
-      "postedAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z"
-    },
-    {
-      "id": "132b9229-d307-443b-bccc-548d844c14b7",
-      "company": "Micron Technology",
-      "title": "Intern - Realtime Defect Analysis (RDA) Yield Technology",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43943832",
-      "url": "https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7",
-      "postedAt": "2026-08-24T00:00:00.000Z",
-      "updatedAt": "2026-08-24T00:00:00.000Z"
     }
   ]
 }

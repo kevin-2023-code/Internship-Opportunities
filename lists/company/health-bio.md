@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**19 open roles.** 11 in the United States & Canada · 8 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**18 open roles.** 10 in the United States & Canada · 8 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/b55e7fc9-1095-4025-bb24-50c2d96ac5d5">2027 Drug Substance Engineering Intern (PhD)</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016353924-2027-drug-substance-engineering-intern-phd-?oga=true">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1e58caea-c43d-41f7-9d6a-4163ca2c7305">2027 Project Engineering Co-op (Jan - July) (Undergraduate)</a></td>
 <td>Worcester, MA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016344757-2027-project-engineering-co-op-jan-july-undergraduate-?oga=true">Apply</a></td>

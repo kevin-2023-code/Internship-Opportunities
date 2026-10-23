@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**73 open roles.**
+**72 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -520,13 +520,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Woburn, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/ukV39FwFAbMxjqcrzBvHyi/mechanical-engineering-internship-in-woburn-at-ati">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
-<td>US, MA, Wilmington, United States of America<br/>US, MA, Chelmsford, Alpha<br/>US, OR, Beaverton</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**167 open roles.** 156 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
+**159 open roles.** 148 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -26,13 +26,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>
-<td><a href="https://trueinterview.io/jobs/b55e7fc9-1095-4025-bb24-50c2d96ac5d5">2027 Drug Substance Engineering Intern (PhD)</a></td>
-<td>North Chicago, IL, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016353924-2027-drug-substance-engineering-intern-phd-?oga=true">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1e58caea-c43d-41f7-9d6a-4163ca2c7305">2027 Project Engineering Co-op (Jan - July) (Undergraduate)</a></td>
 <td>Worcester, MA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016344757-2027-project-engineering-co-op-jan-july-undergraduate-?oga=true">Apply</a></td>
@@ -50,6 +43,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1b145444-2571-420a-952f-a2a7095d3ad8">Manufacturing Test Software Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, MA, Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Opensesame</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee510f37-73e1-4343-97c2-b4d0bf427c61">AI Product Builder Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Patreon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2383e987-3082-4a78-856a-1bf51104f83a">Product Manager Intern - Summer 2027</a></td>
+<td>New York, NY<br/>New York, San Francisco</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -75,13 +82,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d7cbef4-a6cc-413a-8dd3-ff77e05bc66a">Research Scientist Intern, FAIR Chemistry</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2162858564439476/">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
 <td>Seattle, WA<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
@@ -99,6 +99,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/beff4ec2-92e3-49fc-868c-53626a560c0b">Research Scientist Intern, Central Applied Science (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1582569213186235/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/2547b159-9d0b-42eb-805a-a318b53cd952">System Development Engineer Intern/Co-op, ROBOTICS -  2027</a></td>
+<td>North Reading, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -138,9 +145,30 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/6675696e-4739-4114-aa68-8f2e3d0f0d35">EW Business Development Intern</a></td>
+<td>Loveland, Colorado, United States<br/>Colorado Springs, Colorado, United States<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/55078?lang=en-us">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/74e706ae-7474-4e70-8eed-e478fac59d60">R&amp;D IC Engineering Intern</a></td>
 <td>Colorado Springs, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54191?lang=en-us">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c">Summer 2027 - Process Simulation Engineering Intern - MS/PhD</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556521831">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34">Forward Deployed Software Engineer, Internship - Warp Speed</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -148,6 +176,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc690525-1ad0-4584-812b-28746e11d069">Optical Engineer Co-Op</a></td>
 <td>Boston, MA, USA, Boston</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5460294008">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/66132a14-b901-407a-ad77-d5130388c628">Research Intern – Self-evolving Multimodal Foundation Models</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -760,7 +795,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
@@ -1009,104 +1051,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/90d3c059-5a17-4782-b205-04d8a22ebe6e">Quality &amp; Reliability Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1147882961149284/">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/a05c801d-0a91-4715-8fe4-9ffdca68afa5">Winter 2027 Research Engineer Co-op</a></td>
-<td>Santa Ana, California, United States, Santa Ana, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figure</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7230a8f-0481-4cc8-8aa2-d70a7b0979d1">Embedded Software Engineering Intern, Platform</a></td>
-<td>San Jose, CA, HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4722086006">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e6558e1-113a-4a9b-83a7-8a9835819b24">AI &amp; HPC Performance Engineering Intern</a></td>
-<td>Spring, Texas, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f220ba5-bad5-42d6-97e1-1f837cce231f">Product Management MBA Intern, Laptop - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725881">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Scoreplay</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae9ed98b-8aca-4ff5-ad4e-b95a20008696">Deployment Engineer - Intern (NYC)</a></td>
-<td>NYC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/scoreplay/d05be21e-391a-4025-a2dd-d69a6bd603a0/application">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/2204f862-b2cd-467d-aa4d-86b8db2e9a25">Spring 2027: Noise &amp; Vibrations Engineering Co-op (January to June)</a></td>
-<td>Needham, MA, United States, MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9b1350c3-cbb5-48b7-914b-f5a2d9cc6b71">Spring 2027: Product Design Engineering Co-op, Ninja (January to June)</a></td>
-<td>Needham, MA, United States, MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0e2bc8ca-ee6f-4721-9c5b-7ecd8dd4a885">Spring 2027: Product Design Engineering Co-op, Shark (January to June)</a></td>
-<td>Needham, MA, United States, MA - Needham</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sigmacomputing</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a22d3fc-4f52-4f9c-9b26-d0ae92125d56">Technical Writer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA, NYC, San Francisco<br/>New York, NY, NYC, San Francisco</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf77ace3-9ce6-4b05-a3dd-065fc63433b8">Manufacturing Software Engineer Intern - Winter 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836">Process Engineering Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Solink</strong></td>
-<td><a href="https://trueinterview.io/jobs/ff2c3535-2470-49ad-8426-73c46192789b">Software Engineer Co-op, Apps</a></td>
-<td>Ottawa Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/9674cd49-1156-4b1a-9a2b-f86e65b15079">Web Marketing Intern - User Experience Design</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb8eabed-95e5-412b-9c65-97b7ace2855f">Transmission Line Engineering Intern - Summer 2027</a></td>
-<td>Meridian, ID, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96802">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
 </tbody>

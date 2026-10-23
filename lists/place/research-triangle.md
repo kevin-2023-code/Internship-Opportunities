@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**32 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -233,13 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Durham, North Carolina, United States of America<br/>Sunnyvale, California, United States of America<br/>San Jose, California, United States of America<br/>+7 more</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625">Apply</a></td>
 <td align="center">28 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/02b35a8d-4494-41f9-b25d-9326daf44516">Digital Design Engineer Intern</a></td>
-<td>US, NC, Durham, United States of America<br/>US, CA, San Jose, Rio Robles</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>

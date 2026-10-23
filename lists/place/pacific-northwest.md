@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**75 open roles.**
+**72 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -520,27 +520,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43760110">Apply</a></td>
 <td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/55ec87d6-59a1-4abf-ab0c-e6481a0ebf7f">Manufacturing Engineer Intern</a></td>
-<td>US, OR, Beaverton<br/>US, MA, Wilmington, United States of America<br/>US, MA, Chelmsford, Alpha</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Manufacturing-Engineer-Intern_R265301">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d7b95eb-88f3-4bb3-ba76-7a536dc5a478">Intern - Process Development Engineer, Planar DRAM CMP</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43814569">Apply</a></td>
-<td align="center">24 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/132b9229-d307-443b-bccc-548d844c14b7">Intern - Realtime Defect Analysis (RDA) Yield Technology</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/43943832">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>
