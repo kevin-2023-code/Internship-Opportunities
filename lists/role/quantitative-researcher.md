@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**12 open roles.** 5 in the United States & Canada · 7 elsewhere in the world.
+**11 open roles.** 4 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Massachusetts, Massachusetts</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Engineers Gate</strong></td>
-<td><a href="https://trueinterview.io/jobs/2eb62339-8523-4e26-953d-fc557e0dd6b3">Quantitative Research Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/engineersgate/jobs/8249666">Apply</a></td>
-<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hudson River Trading</strong></td>

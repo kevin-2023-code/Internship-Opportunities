@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**64 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
 <td>Seattle, WA<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/36a52b08-3bfc-444f-aef4-9fe089b33814">Research Scientist Intern, AI Core Machine Learning (PhD)</a></td>
+<td>Bellevue, WA<br/>Seattle, WA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1648122343381284/">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>

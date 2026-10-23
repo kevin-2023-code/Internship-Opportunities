@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**66 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -190,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd958407-a60f-48b5-9f10-a9e2f2e44c50">Software Engineering Intern (Summer 2027)</a></td>
 <td>New York, NY<br/>NYC<br/>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Engineers Gate</strong></td>
-<td><a href="https://trueinterview.io/jobs/2eb62339-8523-4e26-953d-fc557e0dd6b3">Quantitative Research Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/engineersgate/jobs/8249666">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
