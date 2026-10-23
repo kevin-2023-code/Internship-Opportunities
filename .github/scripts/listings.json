@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-23T00:18:43.763Z",
+  "listingsChangedAt": "2026-10-23T05:37:48.246Z",
   "count": 1130,
   "listings": [
     {
@@ -111,6 +111,34 @@
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
+      "id": "9c0d8134-0522-41bd-949b-c455550bedfe",
+      "company": "man-group",
+      "title": "Systematic Quant Intern",
+      "locations": [
+        "Boston",
+        "Massachusetts, Massachusetts"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+      "url": "https://trueinterview.io/jobs/9c0d8134-0522-41bd-949b-c455550bedfe",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
       "id": "ee510f37-73e1-4343-97c2-b4d0bf427c61",
       "company": "opensesame",
       "title": "AI Product Builder Intern",
@@ -136,11 +164,11 @@
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
-      "id": "2383e987-3082-4a78-856a-1bf51104f83a",
-      "company": "patreon",
-      "title": "Product Manager Intern - Summer 2027",
+      "id": "1555a10b-b78a-4c4a-850d-e00b87a00c34",
+      "company": "palantir",
+      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
       "locations": [
-        "New York, San Francisco"
+        "New York, NY"
       ],
       "cities": [
         "New York, NY"
@@ -149,17 +177,17 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/patreon/ace576d6-f480-43b8-a529-549fefb2046d/application",
-      "url": "https://trueinterview.io/jobs/2383e987-3082-4a78-856a-1bf51104f83a",
-      "postedAt": "2026-10-23T00:00:00.000Z",
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+      "url": "https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34",
+      "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
@@ -262,6 +290,58 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
       "url": "https://trueinterview.io/jobs/567bfe03-5353-452d-8e2f-dc006b8c3ed4",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "284b8c5d-ac00-4e95-ba18-47363cbdafd9",
+      "company": "ursa-major",
+      "title": "2027 Summer Combustion Devices Intern",
+      "locations": [
+        "Berthoud, Colorado"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://ursamajor.com/careers/?gh_jid=4746887005",
+      "url": "https://trueinterview.io/jobs/284b8c5d-ac00-4e95-ba18-47363cbdafd9",
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "updatedAt": "2026-10-23T00:00:00.000Z"
+    },
+    {
+      "id": "75e35a27-644b-42b7-8942-83b212f5829f",
+      "company": "waymo",
+      "title": "2027 Summer Intern, PhD, AI Foundations - Recipes",
+      "locations": [
+        "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8306841",
+      "url": "https://trueinterview.io/jobs/75e35a27-644b-42b7-8942-83b212f5829f",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -578,33 +658,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.lamresearch.com/careers/job/1099556521831",
       "url": "https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c",
-      "postedAt": "2026-10-22T00:00:00.000Z",
-      "updatedAt": "2026-10-22T00:00:00.000Z"
-    },
-    {
-      "id": "1555a10b-b78a-4c4a-850d-e00b87a00c34",
-      "company": "Palantir",
-      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
-      "url": "https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34",
       "postedAt": "2026-10-22T00:00:00.000Z",
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
@@ -2980,33 +3033,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
       "url": "https://trueinterview.io/jobs/3401a11e-44d8-4954-b4c6-1c176d5ab47a",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "5f53a487-9981-4f4f-a46f-4c3f1f332fc2",
-      "company": "waymo",
-      "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
-      "locations": [
-        "Mountain View, California, United States, Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8283558",
-      "url": "https://trueinterview.io/jobs/5f53a487-9981-4f4f-a46f-4c3f1f332fc2",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -13319,31 +13345,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Systems-Quality-Engineer-II--Co-op----United-States_2026915",
       "url": "https://trueinterview.io/jobs/51823b2b-8214-4e56-9468-bcdffa09fc54",
-      "postedAt": "2026-09-29T00:00:00.000Z",
-      "updatedAt": "2026-09-29T00:00:00.000Z"
-    },
-    {
-      "id": "1861afd6-5561-4cdd-be66-1433fcde45da",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Electrical Hardware Engineering Intern",
-      "locations": [
-        "Spring, Texas, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213421",
-      "url": "https://trueinterview.io/jobs/1861afd6-5561-4cdd-be66-1433fcde45da",
       "postedAt": "2026-09-29T00:00:00.000Z",
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
