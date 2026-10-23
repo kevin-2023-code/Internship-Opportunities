@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**275 open roles.** 243 in the United States & Canada · 32 elsewhere in the world.
+**274 open roles.** 242 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1569,13 +1569,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a3d41a96-23d8-4830-b72e-be0a9bea6993">GNC &amp; Flight Software Intern - Spring/Summer 2027</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6ea4918-b78a-48a8-a016-fec81c5d666c">Security Consulting Engineer I (Intern) - United States</a></td>
-<td>RTP, North Carolina, US, United States of America<br/>Research Triangle Park, North Carolina, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 <tr>

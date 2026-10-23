@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-23T05:37:48.246Z",
-  "count": 1130,
+  "listingsChangedAt": "2026-10-23T10:49:19.465Z",
+  "count": 1128,
   "listings": [
     {
       "id": "1e43103f-d226-46d1-8db8-1edb6e3ddaad",
@@ -5009,31 +5009,6 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application",
       "url": "https://trueinterview.io/jobs/f4790f54-a74b-4d6a-9432-95a2d99ce05c",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "13438a33-2880-4364-a0e7-ac6bc14ae038",
-      "company": "Texas Instruments",
-      "title": "Validation/Char Eng Intern",
-      "locations": [
-        "Santa Clara, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623",
-      "url": "https://trueinterview.io/jobs/13438a33-2880-4364-a0e7-ac6bc14ae038",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -26250,33 +26225,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Consulting-Engineer-I--Intern----United-States_2024816",
       "url": "https://trueinterview.io/jobs/2e538a86-7c13-4b3d-b30d-fd4efeb68a04",
-      "postedAt": "2026-09-03T00:00:00.000Z",
-      "updatedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "a6ea4918-b78a-48a8-a016-fec81c5d666c",
-      "company": "Cisco",
-      "title": "Security Consulting Engineer I (Intern) - United States",
-      "locations": [
-        "RTP, North Carolina, US",
-        "Research Triangle Park, North Carolina, United States of America",
-        "RTP, North Carolina, US, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Security-Consulting-Engineer-I--Intern----United-States_2024817",
-      "url": "https://trueinterview.io/jobs/a6ea4918-b78a-48a8-a016-fec81c5d666c",
       "postedAt": "2026-09-03T00:00:00.000Z",
       "updatedAt": "2026-09-03T00:00:00.000Z"
     },

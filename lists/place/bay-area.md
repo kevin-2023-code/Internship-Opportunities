@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**349 open roles.**
+**348 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -533,13 +533,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f4790f54-a74b-4d6a-9432-95a2d99ce05c">Embedded Software Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/13438a33-2880-4364-a0e7-ac6bc14ae038">Validation/Char Eng Intern</a></td>
-<td>Santa Clara, CA, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013623">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
