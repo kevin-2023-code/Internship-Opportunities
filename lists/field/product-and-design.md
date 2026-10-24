@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**87 open roles.** 76 in the United States & Canada · 11 elsewhere in the world.
+**86 open roles.** 75 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -541,13 +541,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Columbus, OH</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/e1dfd8b7-fb8a-4ce9-957f-0706b13195c7/application">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Sunday</strong></td>
-<td><a href="https://trueinterview.io/jobs/3894c606-615e-435b-8e3d-d21243aabdd9">Industrial Design Intern</a></td>
-<td>Redwood City, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sunday/26320053-5a8c-4005-a7fc-fd771ecabdb6/application">Apply</a></td>
-<td align="center">24 Aug 2026</td>
 </tr>
 </tbody>
 </table>
