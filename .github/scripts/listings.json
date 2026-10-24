@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T18:30:16.285Z",
-  "count": 1132,
+  "listingsChangedAt": "2026-10-24T21:21:43.088Z",
+  "count": 1131,
   "listings": [
     {
       "id": "85c843af-1e68-409a-8f94-e7008d0daaaf",
@@ -29925,32 +29925,6 @@
       "url": "https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0",
       "postedAt": "2026-08-25T23:52:00.000Z",
       "updatedAt": "2026-08-25T23:52:00.000Z"
-    },
-    {
-      "id": "08faa839-7029-4acb-b5ff-18596acb752d",
-      "company": "Olsson",
-      "title": "Student Internship - Construction Materials Testing",
-      "locations": [
-        "Olathe, KS",
-        "Olathe"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5396195008",
-      "url": "https://trueinterview.io/jobs/08faa839-7029-4acb-b5ff-18596acb752d",
-      "postedAt": "2026-08-25T19:48:15.000Z",
-      "updatedAt": "2026-08-25T19:48:15.000Z"
     }
   ]
 }

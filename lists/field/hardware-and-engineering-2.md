@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**526 open roles.** 514 in the United States & Canada · 12 elsewhere in the world.
+**525 open roles.** 513 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -804,13 +804,6 @@
 <td><a href="https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0">Winter 2027 Intern, Electrical Engineering</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4382626009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/08faa839-7029-4acb-b5ff-18596acb752d">Student Internship - Construction Materials Testing</a></td>
-<td>Olathe, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396195008">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
