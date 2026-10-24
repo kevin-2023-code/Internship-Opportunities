@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T01:18:00.921Z",
-  "count": 1136,
+  "listingsChangedAt": "2026-10-24T06:44:55.726Z",
+  "count": 1134,
   "listings": [
     {
       "id": "85c843af-1e68-409a-8f94-e7008d0daaaf",
@@ -188,31 +188,6 @@
       "url": "https://trueinterview.io/jobs/a27e9d88-7c78-47bc-aa4f-2407ccc2eb42",
       "postedAt": "2026-10-24T00:00:00.000Z",
       "updatedAt": "2026-10-24T00:00:00.000Z"
-    },
-    {
-      "id": "5377bbbd-84d0-4c78-a10e-d28b29843567",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
-      "locations": [
-        "Redmond, WA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1137225375529389/",
-      "url": "https://trueinterview.io/jobs/5377bbbd-84d0-4c78-a10e-d28b29843567",
-      "postedAt": "2026-10-23T19:24:05.000Z",
-      "updatedAt": "2026-10-23T19:24:05.000Z"
     },
     {
       "id": "ec6a2248-d808-481e-bf8e-f2edc9f3e65c",
@@ -454,7 +429,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Security Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -480,7 +455,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -3845,31 +3820,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996",
       "url": "https://trueinterview.io/jobs/30181368-1f4e-4e31-a985-911c8ced2e8e",
-      "postedAt": "2026-10-19T00:00:00.000Z",
-      "updatedAt": "2026-10-19T00:00:00.000Z"
-    },
-    {
-      "id": "b67c46ce-b97d-4d76-a4ad-46d1c7fc2355",
-      "company": "Applied Materials",
-      "title": "Electrical Engineer Intern",
-      "locations": [
-        "Tempe, AZ, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318982273",
-      "url": "https://trueinterview.io/jobs/b67c46ce-b97d-4d76-a4ad-46d1c7fc2355",
       "postedAt": "2026-10-19T00:00:00.000Z",
       "updatedAt": "2026-10-19T00:00:00.000Z"
     },

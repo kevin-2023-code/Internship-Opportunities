@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**167 open roles.** 156 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
+**165 open roles.** 154 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA, USA, Mountain View</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8287385">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/5377bbbd-84d0-4c78-a10e-d28b29843567">Research Scientist Intern, Wearable Sensing &amp; Human Motion Analysis</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1137225375529389/">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>MongoDB</strong></td>
@@ -974,13 +967,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/30181368-1f4e-4e31-a985-911c8ced2e8e">2027 Intern - Experience Researcher</a></td>
 <td>San Jose, California, United States of America</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/b67c46ce-b97d-4d76-a4ad-46d1c7fc2355">Electrical Engineer Intern</a></td>
-<td>Tempe, AZ, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318982273">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>

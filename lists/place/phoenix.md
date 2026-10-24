@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**30 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, Arizona, Phoenix<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+1 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Graduate_JR0288230">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/b67c46ce-b97d-4d76-a4ad-46d1c7fc2355">Electrical Engineer Intern</a></td>
-<td>Tempe, AZ, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318982273">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**146 open roles.**
+**145 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -65,13 +65,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA<br/>Folsom, CA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45050114">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/b67c46ce-b97d-4d76-a4ad-46d1c7fc2355">Electrical Engineer Intern</a></td>
-<td>Tempe, AZ, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318982273">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
