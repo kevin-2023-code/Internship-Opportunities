@@ -6,7 +6,7 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-24 21:21 UTC_
+_Last updated: 2026-10-24 23:54 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 190 of the 287 employers on this list (84% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -32,7 +32,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 513 | 12 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 512 | 12 |
 | [💻 Software Engineering](field/software-engineering.md) | 245 | 33 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 157 | 12 |
 | [📱 Product & Design](field/product-and-design.md) | 75 | 11 |
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **950 of the 1,131** internships on this list (84%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **950 of the 1,130** internships on this list (84%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,13 +79,13 @@ _Between them these 23 filters hold **950 of the 1,131** internships on this lis
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 13 filters hold **559 of the 1,131** internships on this list (49%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 13 filters hold **558 of the 1,130** internships on this list (49%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Hardware Engineer](role/hardware-engineer.md) | 144 | 0 |
+| [Hardware Engineer](role/hardware-engineer.md) | 143 | 0 |
 | [Software Engineer](role/software-engineer.md) | 123 | 19 |
 | [Research Scientist](role/research-scientist.md) | 42 | 0 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 38 | 0 |
@@ -105,11 +105,11 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 21 filters hold **787 of the 1,131** internships on this list (70%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 21 filters hold **786 of the 1,130** internships on this list (70%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 348 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 347 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 87 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎓 Boston & Cambridge](place/boston.md) | 73 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
 | [🌧️ Portland, Boise & Spokane](place/pacific-northwest.md) | 73 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Portland OR, Hillsboro OR, Beaverton OR, Eugene OR, Vancouver WA, Spokane WA, Boise ID. |
@@ -137,7 +137,7 @@ _Between them these 21 filters hold **787 of the 1,131** internships on this lis
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **189 of the 1,131** internships on this list (17%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **189 of the 1,130** internships on this list (17%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |

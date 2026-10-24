@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**348 open roles.**
+**347 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2445,13 +2445,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>SF</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application">Apply</a></td>
 <td align="center">26 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kodiak</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0">Winter 2027 Intern, Electrical Engineering</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4382626009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>
