@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**527 open roles.** 515 in the United States & Canada · 12 elsewhere in the world.
+**526 open roles.** 514 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -811,13 +811,6 @@
 <td><a href="https://trueinterview.io/jobs/08faa839-7029-4acb-b5ff-18596acb752d">Student Internship - Construction Materials Testing</a></td>
 <td>Olathe, KS</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396195008">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ati</strong></td>
-<td><a href="https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a">Mechanical Engineering Internship</a></td>
-<td>Woburn, Massachusetts, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/ukV39FwFAbMxjqcrzBvHyi/mechanical-engineering-internship-in-woburn-at-ati">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 </tbody>

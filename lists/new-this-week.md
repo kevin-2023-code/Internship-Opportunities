@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**165 open roles.** 154 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
+**164 open roles.** 153 in the United States & Canada · 11 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1087,13 +1087,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95690">Apply</a></td>
 <td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8e0520f-06d3-4aec-a4fe-825b2e04448d">Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1141752241867684/">Apply</a></td>
-<td align="center">16 Oct 2026</td>
 </tr>
 </tbody>
 </table>

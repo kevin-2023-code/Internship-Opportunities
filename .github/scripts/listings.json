@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T11:46:06.131Z",
-  "count": 1133,
+  "listingsChangedAt": "2026-10-24T18:30:16.285Z",
+  "count": 1132,
   "listings": [
     {
       "id": "85c843af-1e68-409a-8f94-e7008d0daaaf",
@@ -29951,31 +29951,6 @@
       "url": "https://trueinterview.io/jobs/08faa839-7029-4acb-b5ff-18596acb752d",
       "postedAt": "2026-08-25T19:48:15.000Z",
       "updatedAt": "2026-08-25T19:48:15.000Z"
-    },
-    {
-      "id": "f417583d-e67f-4a9c-8a2a-74f531b2326a",
-      "company": "Ati",
-      "title": "Mechanical Engineering Internship",
-      "locations": [
-        "Woburn, Massachusetts, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.workable.com/view/ukV39FwFAbMxjqcrzBvHyi/mechanical-engineering-internship-in-woburn-at-ati",
-      "url": "https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a",
-      "postedAt": "2026-08-25T16:02:33.000Z",
-      "updatedAt": "2026-08-25T16:02:33.000Z"
     }
   ]
 }

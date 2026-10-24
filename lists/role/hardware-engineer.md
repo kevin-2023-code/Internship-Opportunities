@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**145 open roles.**
+**144 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1023,13 +1023,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0">Winter 2027 Intern, Electrical Engineering</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4382626009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Ati</strong></td>
-<td><a href="https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a">Mechanical Engineering Internship</a></td>
-<td>Woburn, Massachusetts, United States</td>
-<td align="center"><a href="https://jobs.workable.com/view/ukV39FwFAbMxjqcrzBvHyi/mechanical-engineering-internship-in-woburn-at-ati">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
