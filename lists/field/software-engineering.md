@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**279 open roles.** 246 in the United States & Canada · 33 elsewhere in the world.
+**278 open roles.** 245 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1731,13 +1731,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cupertino, California, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027">Apply</a></td>
 <td align="center">27 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kodiak Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/735f58a8-34c7-47c5-bc5e-f10675530b4a">Controls Intern</a> 🛂</td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4378402009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
 </table>

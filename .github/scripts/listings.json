@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T06:44:55.726Z",
-  "count": 1134,
+  "listingsChangedAt": "2026-10-24T11:46:06.131Z",
+  "count": 1133,
   "listings": [
     {
       "id": "85c843af-1e68-409a-8f94-e7008d0daaaf",
@@ -29976,33 +29976,6 @@
       "url": "https://trueinterview.io/jobs/f417583d-e67f-4a9c-8a2a-74f531b2326a",
       "postedAt": "2026-08-25T16:02:33.000Z",
       "updatedAt": "2026-08-25T16:02:33.000Z"
-    },
-    {
-      "id": "735f58a8-34c7-47c5-bc5e-f10675530b4a",
-      "company": "Kodiak Robotics",
-      "title": "Controls Intern",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": "Other",
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4378402009",
-      "url": "https://trueinterview.io/jobs/735f58a8-34c7-47c5-bc5e-f10675530b4a",
-      "postedAt": "2026-08-24T18:48:58.000Z",
-      "updatedAt": "2026-08-25T10:35:49.000Z"
     }
   ]
 }

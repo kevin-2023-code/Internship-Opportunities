@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**349 open roles.**
+**348 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2451,13 +2451,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e21d861-b85a-48cc-a044-458aab142ac0">Winter 2027 Intern, Electrical Engineering</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4382626009">Apply</a></td>
-<td align="center">25 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Kodiak Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/735f58a8-34c7-47c5-bc5e-f10675530b4a">Controls Intern</a> 🛂</td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4378402009">Apply</a></td>
 <td align="center">25 Aug 2026</td>
 </tr>
 </tbody>
