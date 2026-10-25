@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**11 open roles.** 4 in the United States & Canada · 7 elsewhere in the world.
+**10 open roles.** 3 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>Miami, Florida, United States<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DV Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc64592e-3561-43fe-b708-b59fc32b84b6">Futures &amp; Options Trading Analyst Intern - Summer 2027</a> 🛂</td>
-<td>New York, NY<br/>NYC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4722749005">Apply</a></td>
-<td align="center">26 Aug 2026</td>
 </tr>
 </tbody>
 </table>

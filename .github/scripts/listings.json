@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-24T23:54:43.177Z",
-  "count": 1130,
+  "listingsChangedAt": "2026-10-25T02:38:56.912Z",
+  "count": 1127,
   "listings": [
     {
       "id": "85c843af-1e68-409a-8f94-e7008d0daaaf",
@@ -29817,87 +29817,6 @@
       "url": "https://trueinterview.io/jobs/f47686ce-5223-4275-ac88-4b10c3b8fae5",
       "postedAt": "2026-08-26T20:04:12.000Z",
       "updatedAt": "2026-08-26T20:04:12.000Z"
-    },
-    {
-      "id": "fc64592e-3561-43fe-b708-b59fc32b84b6",
-      "company": "DV Trading",
-      "title": "Futures & Options Trading Analyst Intern - Summer 2027",
-      "locations": [
-        "New York",
-        "NYC"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": "Other",
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4722749005",
-      "url": "https://trueinterview.io/jobs/fc64592e-3561-43fe-b708-b59fc32b84b6",
-      "postedAt": "2026-08-25T21:26:43.000Z",
-      "updatedAt": "2026-08-26T00:30:01.000Z"
-    },
-    {
-      "id": "48625913-3f7f-49bd-9c17-472e3e342181",
-      "company": "Eight Sleep",
-      "title": "Hardware Support & Test Intern",
-      "locations": [
-        "San Francisco",
-        "SF"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": "Other",
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application",
-      "url": "https://trueinterview.io/jobs/48625913-3f7f-49bd-9c17-472e3e342181",
-      "postedAt": "2026-08-25T21:34:20.000Z",
-      "updatedAt": "2026-08-26T00:30:01.000Z"
-    },
-    {
-      "id": "b67eb3b2-c09e-4dea-b86e-e810f0658a3f",
-      "company": "Nokia",
-      "title": "Customer Engineering Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36103",
-      "url": "https://trueinterview.io/jobs/b67eb3b2-c09e-4dea-b86e-e810f0658a3f",
-      "postedAt": "2026-08-26T00:00:00.000Z",
-      "updatedAt": "2026-08-26T00:00:00.000Z"
     }
   ]
 }
