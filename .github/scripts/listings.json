@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-25T20:14:30.600Z",
-  "count": 1127,
+  "listingsChangedAt": "2026-10-25T22:57:45.789Z",
+  "count": 1125,
   "listings": [
     {
       "id": "f71c82d0-59a6-48db-b769-e81475426c99",
@@ -29762,58 +29762,6 @@
       "url": "https://trueinterview.io/jobs/5fac03be-85fb-4a81-9f8c-4c0d1534982d",
       "postedAt": "2026-08-27T00:00:00.000Z",
       "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "bddbb5c1-a510-4ff9-a137-8f8c2989ba0c",
-      "company": "Axon",
-      "title": "2027 US Mechanical Engineering Internship",
-      "locations": [
-        "Arizona, USA",
-        "Arizona-HQ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/axon/jobs/7978840003",
-      "url": "https://trueinterview.io/jobs/bddbb5c1-a510-4ff9-a137-8f8c2989ba0c",
-      "postedAt": "2026-08-26T22:45:42.000Z",
-      "updatedAt": "2026-08-26T22:45:42.000Z"
-    },
-    {
-      "id": "29247ebc-b2f9-4237-be7e-1e35849c3982",
-      "company": "Jensen Hughes",
-      "title": "Intern, Fire Protection Engineering",
-      "locations": [
-        "Concord, California, United States",
-        "Concord, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/jensenhughes/jobs/5405848008",
-      "url": "https://trueinterview.io/jobs/29247ebc-b2f9-4237-be7e-1e35849c3982",
-      "postedAt": "2026-08-26T21:49:20.000Z",
-      "updatedAt": "2026-08-26T21:49:20.000Z"
     }
   ]
 }
