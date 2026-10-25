@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**169 open roles.** 157 in the United States & Canada · 12 elsewhere in the world.
+**170 open roles.** 158 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/f71c82d0-59a6-48db-b769-e81475426c99">Services Data Science Graduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/301413">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Iris North America</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a3fa2f5-fee9-48ac-a445-8558bcbfafcc">Motion Design Intern</a></td>

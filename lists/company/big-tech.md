@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**557 open roles.** 553 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**558 open roles.** 554 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/f71c82d0-59a6-48db-b769-e81475426c99">Services Data Science Graduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/301413">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/dbb1241e-aad8-4324-88e5-d47a18baeafc">Design Verification Engineering Intern</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e8df3d0-83a1-45af-b312-86b50450e4bc">Product Management Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/b720ffdf-5133-43b9-b4ca-a65c74bc2338">Customer Solutions Manager Intern, AWSI - 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10550549/customer-solutions-manager-intern-awsi-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**157 open roles.** 147 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
+**158 open roles.** 148 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dell</strong></td>
+<td><a href="https://trueinterview.io/jobs/f71c82d0-59a6-48db-b769-e81475426c99">Services Data Science Graduate Intern</a></td>
+<td>TX, United States</td>
+<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/301413">Apply</a></td>
+<td align="center">25 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Epicgames</strong></td>
 <td><a href="https://trueinterview.io/jobs/85c843af-1e68-409a-8f94-e7008d0daaaf">Tools Programmer Intern (Graphics)</a></td>

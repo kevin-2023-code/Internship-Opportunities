@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**557 open roles.** 553 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**558 open roles.** 554 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/b720ffdf-5133-43b9-b4ca-a65c74bc2338">Customer Solutions Manager Intern, AWSI - 2027</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10550549/customer-solutions-manager-intern-awsi-2027">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5fd1f292-17cd-49a3-9895-5df5b432c246">Solutions Architect Intern, AWSI - 2027</a></td>
 <td>Dallas, Texas, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027">Apply</a></td>

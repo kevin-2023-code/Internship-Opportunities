@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-25T02:38:56.912Z",
-  "count": 1127,
+  "listingsChangedAt": "2026-10-25T07:59:41.366Z",
+  "count": 1128,
   "listings": [
+    {
+      "id": "f71c82d0-59a6-48db-b769-e81475426c99",
+      "company": "Dell",
+      "title": "Services Data Science Graduate Intern",
+      "locations": [
+        "TX, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/301413",
+      "url": "https://trueinterview.io/jobs/f71c82d0-59a6-48db-b769-e81475426c99",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "updatedAt": "2026-10-25T00:00:00.000Z"
+    },
     {
       "id": "85c843af-1e68-409a-8f94-e7008d0daaaf",
       "company": "epicgames",
