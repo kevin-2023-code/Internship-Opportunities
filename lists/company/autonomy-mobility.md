@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**20 open roles.** 15 in the United States & Canada · 5 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**23 open roles.** 18 in the United States & Canada · 5 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/35dfcee8-36e0-469f-9346-aaa19eaaa8c8">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)</a></td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/217e1d51-b6d1-42b2-ba10-df415b14a193">Autonomy Engineer Intern, Simulation &amp; Robotics, 2027 (HQ)</a></td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1ee58516-e57e-4458-9171-9aeb67ca951a">Manufacturing Intern - Summer 2027</a></td>
+<td>Hayward, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/de1ebd89-5535-46aa-9d20-6c2ebbbbca50">Autonomy Engineer Intern, 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application">Apply</a></td>

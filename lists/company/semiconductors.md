@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**287 open roles.** 286 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**288 open roles.** 287 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -46,9 +46,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/88bfa1a0-6fd0-4040-95f2-18ddced675c6">Analog Design Eng Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tokyo Electron</strong></td>
 <td><a href="https://trueinterview.io/jobs/54d4108e-6dbb-4c23-9e26-5e743a283a1f">Electrical Engineer Intern</a></td>
-<td>Albany, United States of America</td>
+<td>Albany, United States of America<br/>Fremont, United States of America</td>
 <td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Electrical-Engineer-Intern_R26-01995">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>

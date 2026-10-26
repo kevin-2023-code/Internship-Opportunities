@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**350 open roles.**
+**353 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/741b1a26-3ac0-4f83-9e12-eac293705e90">Research Scientist Intern, Robotics</a></td>
-<td>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1471718241508516/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
+<td><strong>Glean</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ea881d2-c281-444f-a23f-7f606e84e4f3">Software Engineer, Intern (Summer 2027)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gleanwork/jobs/4747670005">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/35dfcee8-36e0-469f-9346-aaa19eaaa8c8">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)</a></td>
+<td>San Mateo, California, United States<br/>Zurich, Switzerland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/217e1d51-b6d1-42b2-ba10-df415b14a193">Autonomy Engineer Intern, Simulation &amp; Robotics, 2027 (HQ)</a></td>
+<td>San Mateo, California, United States<br/>Zurich, Switzerland</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1ee58516-e57e-4458-9171-9aeb67ca951a">Manufacturing Intern - Summer 2027</a></td>
+<td>Hayward, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Atlassian</strong></td>
@@ -60,6 +81,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/88bfa1a0-6fd0-4040-95f2-18ddced675c6">Analog Design Eng Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/631b6f5a-8282-4581-a7e1-21e878f33a91">AI/ML Developer Intern</a></td>
 <td>San Jose, California, United States of America</td>
@@ -79,13 +107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA, USA, Mountain View</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8287385">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/1245179a-d6f8-4519-b5a7-4b3d9c87385e">Research Scientist Intern,  Generative AI &amp; Computational Photography (PhD)</a></td>
-<td>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1163507972671947/">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>MongoDB</strong></td>

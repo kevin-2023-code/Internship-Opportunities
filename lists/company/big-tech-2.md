@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**564 open roles.** 560 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**562 open roles.** 558 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9b79a11-2561-47a9-82be-6c11e27a79dd">Security Consultant Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8e24cadf-a338-42bf-8837-9726076859e4">Security Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027">Apply</a></td>
@@ -524,13 +517,6 @@
 <td><a href="https://trueinterview.io/jobs/a340102f-e3bd-4386-a0f5-e6d078f0dd7b">Aircraft Systems Intern</a></td>
 <td>New Century, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20127?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/78d537d0-0816-4f56-9a33-d780bffd7750">Reliability Engineering Intern - Operations</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19990?lang=en-us">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>

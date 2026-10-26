@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**280 open roles.** 247 in the United States & Canada · 33 elsewhere in the world.
+**283 open roles.** 250 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,39 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Glean</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ea881d2-c281-444f-a23f-7f606e84e4f3">Software Engineer, Intern (Summer 2027)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gleanwork/jobs/4747670005">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/35dfcee8-36e0-469f-9346-aaa19eaaa8c8">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)</a></td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/fa88cb47-36f0-4020-95c3-6ac94d59d5d5/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/217e1d51-b6d1-42b2-ba10-df415b14a193">Autonomy Engineer Intern, Simulation &amp; Robotics, 2027 (HQ)</a></td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Trace3</strong></td>
 <td><a href="https://trueinterview.io/jobs/581cf402-3284-49eb-82fd-a7acea9d82a0">Innovation Research &amp; Development Lab Intern</a></td>
 <td>Irvine, CA, United States, Irvine</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8306880">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3892383-1431-48e8-8f53-a758d0b1a8b6">Software Engineering Intern - Quantum Information Science 2027</a></td>
+<td>Multiple Cities, United States</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137674">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>AMD</strong></td>
@@ -184,13 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cambridge, MA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557044765">Apply</a></td>
 <td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/9afe2e82-9f2f-410b-a584-30c2b64222f0">2027 Software Engineering Intern – Agentic AI &amp; Workflow Automation</a></td>
-<td>Armonk, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=129919">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

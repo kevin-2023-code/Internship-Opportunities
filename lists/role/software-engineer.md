@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**141 open roles.** 122 in the United States & Canada · 19 elsewhere in the world.
+**142 open roles.** 123 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Glean</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ea881d2-c281-444f-a23f-7f606e84e4f3">Software Engineer, Intern (Summer 2027)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gleanwork/jobs/4747670005">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/217e1d51-b6d1-42b2-ba10-df415b14a193">Autonomy Engineer Intern, Simulation &amp; Robotics, 2027 (HQ)</a></td>
+<td>Zurich, Switzerland<br/>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Epicgames</strong></td>
 <td><a href="https://trueinterview.io/jobs/85c843af-1e68-409a-8f94-e7008d0daaaf">Tools Programmer Intern (Graphics)</a></td>
@@ -100,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/9afe2e82-9f2f-410b-a584-30c2b64222f0">2027 Software Engineering Intern – Agentic AI &amp; Workflow Automation</a></td>
-<td>Armonk, US</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=129919">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>

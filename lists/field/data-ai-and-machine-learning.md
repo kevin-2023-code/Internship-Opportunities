@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**171 open roles.** 161 in the United States & Canada · 10 elsewhere in the world.
+**169 open roles.** 159 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/741b1a26-3ac0-4f83-9e12-eac293705e90">Research Scientist Intern, Robotics</a></td>
-<td>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1471718241508516/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
@@ -58,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA, USA, Mountain View</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8287385">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/1245179a-d6f8-4519-b5a7-4b3d9c87385e">Research Scientist Intern,  Generative AI &amp; Computational Photography (PhD)</a></td>
-<td>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1163507972671947/">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Toyota Research Institute</strong></td>

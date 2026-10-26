@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**526 open roles.** 514 in the United States & Canada · 12 elsewhere in the world.
+**527 open roles.** 515 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca16e324-1029-40d8-b4f1-98557c61d3a6">Internship - Embedded Systems EngineerInternship - Embedded Systems Engineer</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971856932">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/02b62b5c-a2e3-4073-b0fe-1fca1379fee5">IC Test Intern</a></td>

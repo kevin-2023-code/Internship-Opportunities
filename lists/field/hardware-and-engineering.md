@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**526 open roles.** 514 in the United States & Canada · 12 elsewhere in the world.
+**527 open roles.** 515 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/34cc3d55-5040-409f-9aa0-5a46aa74f178">Civil Engineer Intern - Michels Canada</a></td>
 <td>Saskatchewan, Canada, Canada</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5016290101">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ee58516-e57e-4458-9171-9aeb67ca951a">Manufacturing Intern - Summer 2027</a></td>
+<td>Hayward, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c/application">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -62,9 +69,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/88bfa1a0-6fd0-4040-95f2-18ddced675c6">Analog Design Eng Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tokyo Electron</strong></td>
 <td><a href="https://trueinterview.io/jobs/54d4108e-6dbb-4c23-9e26-5e743a283a1f">Electrical Engineer Intern</a></td>
-<td>Albany, United States of America</td>
+<td>Albany, United States of America<br/>Fremont, United States of America</td>
 <td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Electrical-Engineer-Intern_R26-01995">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
@@ -2680,13 +2694,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/78d537d0-0816-4f56-9a33-d780bffd7750">Reliability Engineering Intern - Operations</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19990?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a66886f-fa2b-4ca9-8931-957fee402638">Module Engineering PhD Intern - Wet Etch</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c62fed8-8980-400a-aecf-db13b69f0269">Internship - Analog Mixed-Signal Design Verification Engineer</a></td>
 <td>Andover, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971881710">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ca16e324-1029-40d8-b4f1-98557c61d3a6">Internship - Embedded Systems EngineerInternship - Embedded Systems Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971856932">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

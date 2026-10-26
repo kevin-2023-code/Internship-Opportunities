@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**564 open roles.** 560 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**562 open roles.** 558 in the United States & Canada · 4 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/741b1a26-3ac0-4f83-9e12-eac293705e90">Research Scientist Intern, Robotics</a></td>
-<td>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1471718241508516/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
@@ -76,9 +69,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/88bfa1a0-6fd0-4040-95f2-18ddced675c6">Analog Design Eng Intern</a></td>
+<td>Santa Clara, CA, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018682">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tokyo Electron</strong></td>
 <td><a href="https://trueinterview.io/jobs/54d4108e-6dbb-4c23-9e26-5e743a283a1f">Electrical Engineer Intern</a></td>
-<td>Albany, United States of America</td>
+<td>Albany, United States of America<br/>Fremont, United States of America</td>
 <td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Albany/Electrical-Engineer-Intern_R26-01995">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
@@ -102,13 +102,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413">Apply</a></td>
 <td align="center">25 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/1245179a-d6f8-4519-b5a7-4b3d9c87385e">Research Scientist Intern,  Generative AI &amp; Computational Photography (PhD)</a></td>
-<td>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1163507972671947/">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f0db4b16-6d87-4d21-bc73-f65ee6c6d1ea">Product Design Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a9b79a11-2561-47a9-82be-6c11e27a79dd">Security Consultant Intern, BS/MS, Summer 2027</a></td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

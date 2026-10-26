@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-26 18:58 UTC_
+_Last updated: 2026-10-26 23:03 UTC_
 
 **86 open internships** from **53 employers** · **10 posted in the last 7 days** · refreshed hourly
 
@@ -139,7 +139,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d2faedc0-48cc-42cb-972f-3ecdab5a63b9">GPSU Cybersecurity Intern - Application Security</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -153,7 +153,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d9f6f3d9-39b1-49ab-9193-f3204926df5d">Software Engineer Intern</a></td>
 <td>Tel Aviv, Israel</td>
 <td align="center"><a href="https://www.taboola.com/careers/job/8229871?gh_jid=8229871">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Merkle Science</strong></td>
@@ -357,6 +357,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
 <td align="center">25d</td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>Show 6 more Data, AI & Machine Learning roles posted earlier</summary>
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
+</thead>
+<tbody>
 <tr>
 <td><strong>Govsignals</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3137908-8fe3-4fcb-90ed-a338ee86c9b5">ENGINEERING INTERN</a> 🌐</td>
@@ -364,17 +375,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>Show 5 more Data, AI & Machine Learning roles posted earlier</summary>
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
-</thead>
-<tbody>
 <tr>
 <td><strong>Telli</strong></td>
 <td><a href="https://trueinterview.io/jobs/71d4717a-95eb-47a1-b926-c61cb3b5cd40">Internship - Deployment Strategist</a></td>
@@ -556,14 +556,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bd9b1cf8-dada-4837-ba65-deea340f935d">Next Gen Motion Design Intern - Man vs Machine London</a></td>
 <td>Worldwide<br/>Man vs Machine</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/landor/jobs/8265474">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/99c83e51-1c61-484d-a72b-22ec4d80ebf7">Next Gen Design Intern</a></td>
 <td>Cincinnati</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/landor/jobs/8261395">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Oliver Agency</strong></td>
@@ -646,7 +646,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5bb7c498-b82c-4cda-8cc6-eb6968ae9b0f">Summer 2027 - Quant Internship</a></td>
 <td>London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002">Apply</a></td>
-<td align="center">25d</td>
+<td align="center">26d</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>
