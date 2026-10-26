@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-26T00:59:55.877Z",
-  "count": 1123,
+  "listingsChangedAt": "2026-10-26T05:53:46.427Z",
+  "count": 1124,
   "listings": [
     {
       "id": "de1ebd89-5535-46aa-9d20-6c2ebbbbca50",
@@ -55,6 +55,33 @@
       "source": "bigtech-careers",
       "applyUrl": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/301413",
       "url": "https://trueinterview.io/jobs/f71c82d0-59a6-48db-b769-e81475426c99",
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "updatedAt": "2026-10-25T00:00:00.000Z"
+    },
+    {
+      "id": "631b6f5a-8282-4581-a7e1-21e878f33a91",
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI/ML Developer Intern",
+      "locations": [
+        "San Jose, California, United States of America"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+      "url": "https://trueinterview.io/jobs/631b6f5a-8282-4581-a7e1-21e878f33a91",
       "postedAt": "2026-10-25T00:00:00.000Z",
       "updatedAt": "2026-10-25T00:00:00.000Z"
     },
