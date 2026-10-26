@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-25T22:57:45.789Z",
-  "count": 1125,
+  "listingsChangedAt": "2026-10-26T00:59:55.877Z",
+  "count": 1123,
   "listings": [
+    {
+      "id": "de1ebd89-5535-46aa-9d20-6c2ebbbbca50",
+      "company": "skydio",
+      "title": "Autonomy Engineer Intern, 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application",
+      "url": "https://trueinterview.io/jobs/de1ebd89-5535-46aa-9d20-6c2ebbbbca50",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "updatedAt": "2026-10-26T00:00:00.000Z"
+    },
     {
       "id": "f71c82d0-59a6-48db-b769-e81475426c99",
       "company": "Dell",
@@ -29685,83 +29710,6 @@
       "url": "https://trueinterview.io/jobs/d34820ad-e03d-4ab5-9649-eb69155b1e79",
       "postedAt": "2026-08-27T16:00:00.000Z",
       "updatedAt": "2026-08-27T16:00:00.000Z"
-    },
-    {
-      "id": "a1342241-5fbd-4168-addc-9e62d58c22ed",
-      "company": "Amazon",
-      "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
-      "locations": [
-        "Cupertino, California, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10517535/asic-engineer-intern-annapurna-labs-2027",
-      "url": "https://trueinterview.io/jobs/a1342241-5fbd-4168-addc-9e62d58c22ed",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "1f199e73-6127-4fec-82fc-b7ed9e6316a6",
-      "company": "Amazon",
-      "title": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
-      "locations": [
-        "Austin, Texas, USA"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027",
-      "url": "https://trueinterview.io/jobs/1f199e73-6127-4fec-82fc-b7ed9e6316a6",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
-    },
-    {
-      "id": "5fac03be-85fb-4a81-9f8c-4c0d1534982d",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
-      "locations": [
-        "Cupertino, California, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
-      "url": "https://trueinterview.io/jobs/5fac03be-85fb-4a81-9f8c-4c0d1534982d",
-      "postedAt": "2026-08-27T00:00:00.000Z",
-      "updatedAt": "2026-08-27T00:00:00.000Z"
     }
   ]
 }
