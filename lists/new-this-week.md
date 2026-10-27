@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**166 open roles.** 156 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
+**165 open roles.** 155 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1100,13 +1100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 </tbody>

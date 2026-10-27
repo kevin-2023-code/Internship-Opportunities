@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-27 17:04 UTC_
+_Last updated: 2026-10-27 18:05 UTC_
 
-**1,045 open internships** from **250 employers** · **156 posted in the last 7 days** · refreshed hourly
+**1,045 open internships** from **250 employers** · **155 posted in the last 7 days** · refreshed hourly
 
 ### Browse 1,045 internships by field
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-27 17:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**Meta** 19 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Micron Technology** 9 &nbsp;·&nbsp; **Amazon** 7 &nbsp;·&nbsp; **Anduril** 7 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **NVIDIA** 5 &nbsp;·&nbsp; **Skydio** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 3 &nbsp;·&nbsp; **Microsoft** 3
+**Meta** 18 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Micron Technology** 9 &nbsp;·&nbsp; **Amazon** 7 &nbsp;·&nbsp; **Anduril** 7 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **NVIDIA** 5 &nbsp;·&nbsp; **Skydio** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 3 &nbsp;·&nbsp; **Microsoft** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 26 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -70,7 +70,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (349)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (89)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (72)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (71)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (65)](lists/place/seattle.md) · [🗽 New York City (64)](lists/place/new-york.md) · [🎸 Austin (50)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (48)](lists/place/dallas-fort-worth.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [🔺 Research Triangle & the Carolinas (27)](lists/place/research-triangle.md) · [+11 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (156)](lists/new-this-week.md) · [🌐 Remote (26)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (155)](lists/new-this-week.md) · [🌐 Remote (26)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -664,7 +664,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🆕 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Dell</strong></td>
@@ -2319,7 +2319,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc">Data Center Technician, Intern</a></td>
 <td>Los Lunas, NM, United States<br/>Rayville, LA, United States<br/>Fort Worth, TX, United States<br/>+2 more</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2185283202380208/">Apply</a></td>
-<td align="center">19d</td>
+<td align="center">20d</td>
 </tr>
 <tr>
 <td><strong>Intuit</strong></td>
