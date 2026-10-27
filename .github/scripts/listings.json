@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-27T21:04:35.337Z",
-  "count": 1132,
+  "listingsChangedAt": "2026-10-27T22:04:53.293Z",
+  "count": 1133,
   "listings": [
     {
       "id": "c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
@@ -32,6 +32,31 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application",
       "url": "https://trueinterview.io/jobs/c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "700819f7-b0a0-4d9d-9039-c42dc7fdfee4",
+      "company": "filevine",
+      "title": "Security Specialist, Intern",
+      "locations": [
+        "Salt Lake City, Utah"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply",
+      "url": "https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },

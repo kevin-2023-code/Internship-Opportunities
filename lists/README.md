@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-27 21:04 UTC_
+_Last updated: 2026-10-27 22:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 189 of the 289 employers on this list (84% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 189 of the 290 employers on this list (84% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -33,7 +33,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 514 | 12 |
-| [💻 Software Engineering](field/software-engineering.md) | 248 | 33 |
+| [💻 Software Engineering](field/software-engineering.md) | 249 | 33 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 161 | 10 |
 | [📱 Product & Design](field/product-and-design.md) | 74 | 11 |
 | [🧰 IT & Support](field/it-and-support.md) | 37 | 5 |
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **949 of the 1,132** internships on this list (84%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **949 of the 1,133** internships on this list (84%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **949 of the 1,132** internships on this lis
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 14 filters hold **560 of the 1,132** internships on this list (49%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 14 filters hold **560 of the 1,133** internships on this list (49%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -106,7 +106,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 21 filters hold **791 of the 1,132** internships on this list (70%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 21 filters hold **792 of the 1,133** internships on this list (70%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -130,7 +130,7 @@ _Between them these 21 filters hold **791 of the 1,132** internships on this lis
 | [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 9 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Washington Dc, Washington DC, Arlington VA, Alexandria VA, Reston VA, Herndon VA, Mclean VA, Tysons VA, Vienna VA, Bethesda MD, Rockville MD, College Park MD, and 7 more. |
 | [🌎 México, Brazil & Latin America](place/latam.md) | 1 | 5 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🥐 Montréal & Québec](place/montreal.md) | 6 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in QC: Montreal, MontréAl, Quebec City, Laval, Sherbrooke. |
-| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 5 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in UT: Salt Lake City, Lehi, Provo, Draper, South Jordan, Sandy, Ogden. |
+| [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 6 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in UT: Salt Lake City, Lehi, Provo, Draper, South Jordan, Sandy, Ogden. |
 
 ---
 
@@ -138,11 +138,11 @@ _Between them these 21 filters hold **791 of the 1,132** internships on this lis
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **191 of the 1,132** internships on this list (17%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **190 of the 1,133** internships on this list (17%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 155 | 11 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 154 | 11 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 26 | 6 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

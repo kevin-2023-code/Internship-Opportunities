@@ -32,13 +32,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-27 21:04 UTC_
+_Last updated: 2026-10-27 22:04 UTC_
 
-**1,046 open internships** from **251 employers** · **155 posted in the last 7 days** · refreshed hourly
+**1,047 open internships** from **252 employers** · **154 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,046 internships by field
+### Browse 1,047 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (248)
+💻 **[Software Engineering](#-software-engineering)** (249)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (161)
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-27 21:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**Meta** 18 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Micron Technology** 9 &nbsp;·&nbsp; **Amazon** 7 &nbsp;·&nbsp; **Anduril** 7 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **NVIDIA** 5 &nbsp;·&nbsp; **Skydio** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 3 &nbsp;·&nbsp; **Microsoft** 3
+**Meta** 16 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Micron Technology** 9 &nbsp;·&nbsp; **Amazon** 7 &nbsp;·&nbsp; **Anduril** 7 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **NVIDIA** 5 &nbsp;·&nbsp; **Skydio** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 3 &nbsp;·&nbsp; **Microsoft** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 25 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -70,7 +70,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (350)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (89)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (72)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (71)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (65)](lists/place/seattle.md) · [🗽 New York City (64)](lists/place/new-york.md) · [🎸 Austin (50)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (48)](lists/place/dallas-fort-worth.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [🔺 Research Triangle & the Carolinas (27)](lists/place/research-triangle.md) · [+11 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (155)](lists/new-this-week.md) · [🌐 Remote (26)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (154)](lists/new-this-week.md) · [🌐 Remote (26)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -93,6 +93,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Filevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a> 🆕</td>
+<td>Salt Lake City, Utah</td>
+<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Glean</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ea881d2-c281-444f-a23f-7f606e84e4f3">Software Engineer, Intern (Summer 2027)</a> 🆕</td>
@@ -259,13 +266,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/0bf16386-6c37-42ae-8107-75b1d5b636d0">Winter 2027 Business Operations Engineer Co-op</a></td>
 <td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States, Ashville, OH (Arsenal 1), Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007">Apply</a></td>
-<td align="center">5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c125e7df-0197-4d88-ad9f-901fae1c212e">Winter 2027 Robotics Engineer Co-op</a></td>
-<td>Quincy, Massachusetts, United States, Quincy, MA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007">Apply</a></td>
 <td align="center">5d</td>
 </tr>
 </tbody>
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 248.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 249.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -797,7 +797,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/fd8ec3a2-d481-465c-8f28-f858f78b8aa7">Research Scientist Intern, Multimodal Behavioral AI (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1428978125312655/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -2389,7 +2389,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/efd81f7f-8f26-4a37-9be4-549cb527777d">Business Systems Engineer Intern, Finance Technology (Summer 2027)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Coworking</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002">Apply</a></td>
-<td align="center">28d</td>
+<td align="center">29d</td>
 </tr>
 </tbody>
 </table>
