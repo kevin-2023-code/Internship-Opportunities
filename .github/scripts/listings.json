@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-27T15:39:11.331Z",
-  "count": 1131,
+  "listingsChangedAt": "2026-10-27T21:04:35.337Z",
+  "count": 1132,
   "listings": [
+    {
+      "id": "c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
+      "company": "42dot",
+      "title": "Internship, Foundation Models",
+      "locations": [
+        "Sunnyvale, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application",
+      "url": "https://trueinterview.io/jobs/c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "5f83d76e-6161-41fd-865e-6f6ba0228ac9",
+      "company": "opusclip",
+      "title": "Customer Experience Test Automation Intern",
+      "locations": [
+        "Burnaby"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818/application",
+      "url": "https://trueinterview.io/jobs/5f83d76e-6161-41fd-865e-6f6ba0228ac9",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
     {
       "id": "4ea881d2-c281-444f-a23f-7f606e84e4f3",
       "company": "glean",
@@ -29859,31 +29909,6 @@
       "url": "https://trueinterview.io/jobs/65475e53-2efb-421e-b6ac-529108cf9bd9",
       "postedAt": "2026-08-28T22:19:06.000Z",
       "updatedAt": "2026-08-28T22:19:06.000Z"
-    },
-    {
-      "id": "ae4ee08a-b5b1-4eda-8cda-afa59ead2173",
-      "company": "Telus Digital",
-      "title": "React Native Intern (Brazil) - Year Round 2027",
-      "locations": [
-        "Porto Alegre, Brazil"
-      ],
-      "cities": [],
-      "countries": [
-        "Brazil"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/telus-digital/de8c4068-e5aa-4f17-8eda-808344ec4d9f/application",
-      "url": "https://trueinterview.io/jobs/ae4ee08a-b5b1-4eda-8cda-afa59ead2173",
-      "postedAt": "2026-08-28T20:44:25.000Z",
-      "updatedAt": "2026-08-28T20:44:25.000Z"
     }
   ]
 }
