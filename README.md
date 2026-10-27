@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-27 15:39 UTC_
+_Last updated: 2026-10-27 17:04 UTC_
 
-**1,045 open internships** from **250 employers** · **157 posted in the last 7 days** · refreshed hourly
+**1,045 open internships** from **250 employers** · **156 posted in the last 7 days** · refreshed hourly
 
 ### Browse 1,045 internships by field
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-27 15:39 UTC_
 
 ### 🔥 Posting the most this week
 
-**Meta** 20 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Micron Technology** 9 &nbsp;·&nbsp; **Amazon** 7 &nbsp;·&nbsp; **Anduril** 7 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **NVIDIA** 5 &nbsp;·&nbsp; **Skydio** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 3 &nbsp;·&nbsp; **Microsoft** 3
+**Meta** 19 &nbsp;·&nbsp; **Insomniac Games** 14 &nbsp;·&nbsp; **Micron Technology** 9 &nbsp;·&nbsp; **Amazon** 7 &nbsp;·&nbsp; **Anduril** 7 &nbsp;·&nbsp; **Keysight** 7 &nbsp;·&nbsp; **Intel** 6 &nbsp;·&nbsp; **Analog Devices** 5 &nbsp;·&nbsp; **NVIDIA** 5 &nbsp;·&nbsp; **Skydio** 5 &nbsp;·&nbsp; **Hewlett Packard Enterprise** 3 &nbsp;·&nbsp; **Microsoft** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 26 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -70,7 +70,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (349)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (89)](lists/place/los-angeles.md) · [🌧️ Portland, Boise & Spokane (72)](lists/place/pacific-northwest.md) · [🎓 Boston & Cambridge (71)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (65)](lists/place/seattle.md) · [🗽 New York City (64)](lists/place/new-york.md) · [🎸 Austin (50)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (48)](lists/place/dallas-fort-worth.md) · [🌵 Phoenix & Arizona (29)](lists/place/phoenix.md) · [🔺 Research Triangle & the Carolinas (27)](lists/place/research-triangle.md) · [+11 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (157)](lists/new-this-week.md) · [🌐 Remote (26)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (156)](lists/new-this-week.md) · [🌐 Remote (26)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -706,14 +706,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
 <td>Seattle, WA<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36a52b08-3bfc-444f-aef4-9fe089b33814">Research Scientist Intern, AI Core Machine Learning (PhD)</a></td>
 <td>Sunnyvale, CA<br/>Bellevue, WA<br/>Seattle, WA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1648122343381284/">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1223,7 +1223,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/c665f79e-7f84-4b80-99dd-acf9769e1507">Technical Program Manager Intern, Reality Labs — 2027</a> 🆕</td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1649069223327170/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1356,7 +1356,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/46bde70e-8d62-4ec7-aca2-7cff41991f02">Mechanical Engineering, Intern - Labs (Summer 2027)</a></td>
 <td>Oakland, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8313401">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -2361,7 +2361,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/4362df05-75d3-4217-8e58-0b94957f1286">IT Service Desk Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/b98359ff-2f74-4e48-a57a-81bb5f5ef7f5/application">Apply</a></td>
-<td align="center">21d</td>
+<td align="center">22d</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>

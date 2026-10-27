@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**167 open roles.** 157 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
+**166 open roles.** 156 in the United States & Canada · 10 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1107,13 +1107,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aedd6dd6-2fc1-4929-bf62-79b85f11cac8">Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2267351860492630/">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 </tbody>
