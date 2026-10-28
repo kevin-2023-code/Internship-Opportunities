@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**38 open roles.** 33 in the United States & Canada · 5 elsewhere in the world.
+**37 open roles.** 33 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -265,13 +265,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dacac964-da32-4959-8969-fc8ffe78923b">Internship - AI (Artificial Intelligence) Engineering</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484434981/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CodeSlice IT Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/7183ea7d-1a71-45af-8b3c-c8aeba02f626">Junior Backend &amp; AI Engineer (Python) – Internship to Full-Time</a></td>
-<td>India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=21c277ba7ce5563f">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
