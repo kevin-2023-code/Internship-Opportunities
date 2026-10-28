@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Apulza</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6f41f87-0cd6-48ff-9d04-2bc251c1f93f">Fall 2026 Software/Cybersecurity Intern (Remote, Part Time)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448322350/">Apply</a></td>
+<td><strong>MIT Lincoln Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/0be54377-d500-468b-8443-344b7cfa474a">Summer Research Program Intern 2027, CI Cybersecurity, Energy Systems (Group 47)</a></td>
+<td>Lexington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484745247/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

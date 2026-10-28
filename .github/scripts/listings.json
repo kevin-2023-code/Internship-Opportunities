@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-28T22:05:05.708Z",
-  "count": 1505,
+  "listingsChangedAt": "2026-10-28T23:04:54.398Z",
+  "count": 1526,
   "listings": [
     {
       "id": "608777e4-6c27-4f99-82df-08d6a4395cda",
@@ -84,15 +84,197 @@
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
     {
-      "id": "a6f41f87-0cd6-48ff-9d04-2bc251c1f93f",
-      "company": "Apulza",
-      "title": "Fall 2026 Software/Cybersecurity Intern (Remote, Part Time)",
+      "id": "eeb2b53d-a0b6-431f-bee9-9876b2a54975",
+      "company": "UPS",
+      "title": "2027 Industrial Engineering Summer Intern - Portland, OR",
       "locations": [
-        "Boston, MA"
+        "Salt Lake City, UT",
+        "Portland, OR",
+        "Atlanta, GA"
       ],
       "cities": [
-        "Boston, MA"
+        "Atlanta, GA"
       ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461331276/",
+      "url": "https://trueinterview.io/jobs/eeb2b53d-a0b6-431f-bee9-9876b2a54975",
+      "postedAt": "2026-10-28T22:28:00.000Z",
+      "updatedAt": "2026-10-28T22:29:00.000Z"
+    },
+    {
+      "id": "a1a79d50-9101-48e0-816c-dc2958fcaf41",
+      "company": "UPS",
+      "title": "2027 Industrial Engineering Summer Intern - Chicago IL",
+      "locations": [
+        "Chicago, IL",
+        "Bayonne, NJ"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460957298/",
+      "url": "https://trueinterview.io/jobs/a1a79d50-9101-48e0-816c-dc2958fcaf41",
+      "postedAt": "2026-10-28T00:40:00.000Z",
+      "updatedAt": "2026-10-28T22:28:00.000Z"
+    },
+    {
+      "id": "4045b84c-08ca-4c3e-832a-75932325e887",
+      "company": "UPS",
+      "title": "2027 Industrial Engineering Summer Intern - Los Angeles CA - Fremont CA",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461333261/",
+      "url": "https://trueinterview.io/jobs/4045b84c-08ca-4c3e-832a-75932325e887",
+      "postedAt": "2026-10-28T22:28:00.000Z",
+      "updatedAt": "2026-10-28T22:28:00.000Z"
+    },
+    {
+      "id": "40f7ad78-6e53-4ad2-bfb1-b8d4c53af5fd",
+      "company": "Windsor Salt Ltd.",
+      "title": "Engineering Co-op Student",
+      "locations": [
+        "Windsor, Ontario, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484738673/",
+      "url": "https://trueinterview.io/jobs/40f7ad78-6e53-4ad2-bfb1-b8d4c53af5fd",
+      "postedAt": "2026-10-28T22:20:00.000Z",
+      "updatedAt": "2026-10-28T22:20:00.000Z"
+    },
+    {
+      "id": "af73e867-7733-4b1d-b5f8-e678cd6fffbe",
+      "company": "TRG",
+      "title": "Full Stack Application Developer Intern (Winter/Spring)",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484743360/",
+      "url": "https://trueinterview.io/jobs/af73e867-7733-4b1d-b5f8-e678cd6fffbe",
+      "postedAt": "2026-10-28T22:18:00.000Z",
+      "updatedAt": "2026-10-28T22:18:00.000Z"
+    },
+    {
+      "id": "896cc4db-34d0-4cb0-a709-acce2048bd70",
+      "company": "Impulse Space",
+      "title": "Test Automation Intern (Summer 2027)",
+      "locations": [
+        "Redondo Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483183707/",
+      "url": "https://trueinterview.io/jobs/896cc4db-34d0-4cb0-a709-acce2048bd70",
+      "postedAt": "2026-10-28T22:17:00.000Z",
+      "updatedAt": "2026-10-28T22:17:00.000Z"
+    },
+    {
+      "id": "39733b46-c5e3-4cb8-a672-fd1579825f76",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Product Engineering Summer/Fall Co-Op (Jun-Dec 2027)",
+      "locations": [
+        "Thousand Oaks, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484736624/",
+      "url": "https://trueinterview.io/jobs/39733b46-c5e3-4cb8-a672-fd1579825f76",
+      "postedAt": "2026-10-28T22:14:00.000Z",
+      "updatedAt": "2026-10-28T22:14:00.000Z"
+    },
+    {
+      "id": "0be54377-d500-468b-8443-344b7cfa474a",
+      "company": "MIT Lincoln Laboratory",
+      "title": "Summer Research Program Intern 2027, CI Cybersecurity, Energy Systems (Group 47)",
+      "locations": [
+        "Lexington, MA"
+      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
@@ -105,10 +287,341 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4448322350/",
-      "url": "https://trueinterview.io/jobs/a6f41f87-0cd6-48ff-9d04-2bc251c1f93f",
-      "postedAt": "2026-10-28T21:35:00.000Z",
-      "updatedAt": "2026-10-28T21:35:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484745247/",
+      "url": "https://trueinterview.io/jobs/0be54377-d500-468b-8443-344b7cfa474a",
+      "postedAt": "2026-10-28T22:13:00.000Z",
+      "updatedAt": "2026-10-28T22:13:00.000Z"
+    },
+    {
+      "id": "539a258c-d8fa-421d-8288-8c02cc67b453",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Product Engineering Intern",
+      "locations": [
+        "Greensboro, NC",
+        "Hillsboro, OR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484480567/",
+      "url": "https://trueinterview.io/jobs/539a258c-d8fa-421d-8288-8c02cc67b453",
+      "postedAt": "2026-10-28T16:00:00.000Z",
+      "updatedAt": "2026-10-28T21:57:00.000Z"
+    },
+    {
+      "id": "e94432c5-a96f-42cc-ab52-e0d3e0c7f86c",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Product Management Intern",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484727825/",
+      "url": "https://trueinterview.io/jobs/e94432c5-a96f-42cc-ab52-e0d3e0c7f86c",
+      "postedAt": "2026-10-28T21:57:00.000Z",
+      "updatedAt": "2026-10-28T21:57:00.000Z"
+    },
+    {
+      "id": "41c48016-0b99-4286-8698-beb970f11cfb",
+      "company": "Golden State Water Company",
+      "title": "Engineering Assistant Intern (109.26)",
+      "locations": [
+        "Rancho Cordova, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484732794/",
+      "url": "https://trueinterview.io/jobs/41c48016-0b99-4286-8698-beb970f11cfb",
+      "postedAt": "2026-10-28T21:56:00.000Z",
+      "updatedAt": "2026-10-28T21:56:00.000Z"
+    },
+    {
+      "id": "f91c1d30-cd17-4999-af1b-00094c5e2101",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Digital Systems Engineering Intern",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484746131/",
+      "url": "https://trueinterview.io/jobs/f91c1d30-cd17-4999-af1b-00094c5e2101",
+      "postedAt": "2026-10-28T21:56:00.000Z",
+      "updatedAt": "2026-10-28T21:56:00.000Z"
+    },
+    {
+      "id": "1dd8c5fa-1629-4277-9dbe-cc493624e88a",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Test Engineering Intern",
+      "locations": [
+        "Greensboro, NC",
+        "Hillsboro, OR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484472862/",
+      "url": "https://trueinterview.io/jobs/1dd8c5fa-1629-4277-9dbe-cc493624e88a",
+      "postedAt": "2026-10-28T16:01:00.000Z",
+      "updatedAt": "2026-10-28T21:56:00.000Z"
+    },
+    {
+      "id": "50ac8031-f0e4-44d6-aac7-41d610b2eff9",
+      "company": "New York Cancer & Blood Specialists",
+      "title": "Intern, IT Service Desk",
+      "locations": [
+        "Ridge, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482551658/",
+      "url": "https://trueinterview.io/jobs/50ac8031-f0e4-44d6-aac7-41d610b2eff9",
+      "postedAt": "2026-10-28T21:55:00.000Z",
+      "updatedAt": "2026-10-28T21:55:00.000Z"
+    },
+    {
+      "id": "373173f0-1195-40d5-b26b-35c987642e95",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Characterization Engineering Intern",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484736587/",
+      "url": "https://trueinterview.io/jobs/373173f0-1195-40d5-b26b-35c987642e95",
+      "postedAt": "2026-10-28T21:55:00.000Z",
+      "updatedAt": "2026-10-28T21:55:00.000Z"
+    },
+    {
+      "id": "7a6597bf-840f-4b98-9bb6-3fb355c330f7",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "RRFIC Design Engineering Intern",
+      "locations": [
+        "Greensboro, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484723996/",
+      "url": "https://trueinterview.io/jobs/7a6597bf-840f-4b98-9bb6-3fb355c330f7",
+      "postedAt": "2026-10-28T21:55:00.000Z",
+      "updatedAt": "2026-10-28T21:55:00.000Z"
+    },
+    {
+      "id": "7241db6a-a1ac-4032-8668-283ce58b60d9",
+      "company": "LinkedIn",
+      "title": "Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484736581/",
+      "url": "https://trueinterview.io/jobs/7241db6a-a1ac-4032-8668-283ce58b60d9",
+      "postedAt": "2026-10-28T21:53:00.000Z",
+      "updatedAt": "2026-10-28T21:53:00.000Z"
+    },
+    {
+      "id": "3504ec56-cc14-4424-a908-054d096261c3",
+      "company": "AeroNex Systems",
+      "title": "Vehicle Integration and Test Engineer Intern, Remote",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484738176/",
+      "url": "https://trueinterview.io/jobs/3504ec56-cc14-4424-a908-054d096261c3",
+      "postedAt": "2026-10-28T19:30:00.000Z",
+      "updatedAt": "2026-10-28T21:52:00.000Z"
+    },
+    {
+      "id": "d34364ee-5313-439b-b1dd-4c3329be62f6",
+      "company": "Skyworks Solutions, Inc.",
+      "title": "Design Engineering Intern",
+      "locations": [
+        "Apopka, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484733731/",
+      "url": "https://trueinterview.io/jobs/d34364ee-5313-439b-b1dd-4c3329be62f6",
+      "postedAt": "2026-10-28T21:52:00.000Z",
+      "updatedAt": "2026-10-28T21:52:00.000Z"
+    },
+    {
+      "id": "2255c691-a609-4d1d-adb0-751b9fe86793",
+      "company": "Cohesity",
+      "title": "Technical Support Engineer - Intern",
+      "locations": [
+        "Cork Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484727816/",
+      "url": "https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793",
+      "postedAt": "2026-10-28T21:51:00.000Z",
+      "updatedAt": "2026-10-28T21:51:00.000Z"
+    },
+    {
+      "id": "6b32f813-4de0-4bdb-8f38-79c10668fbb7",
+      "company": "Ascendria Consulting",
+      "title": "Vehicle Integration and Test Engineer Intern | (Remote)",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482567152/",
+      "url": "https://trueinterview.io/jobs/6b32f813-4de0-4bdb-8f38-79c10668fbb7",
+      "postedAt": "2026-10-28T21:43:00.000Z",
+      "updatedAt": "2026-10-28T21:43:00.000Z"
     },
     {
       "id": "1ead9869-744d-4674-9e32-813361e7e965",
@@ -337,31 +850,6 @@
       "url": "https://trueinterview.io/jobs/a677528a-c79f-46b7-a062-98df01689ab5",
       "postedAt": "2026-10-28T19:32:00.000Z",
       "updatedAt": "2026-10-28T19:32:00.000Z"
-    },
-    {
-      "id": "3504ec56-cc14-4424-a908-054d096261c3",
-      "company": "AeroNex Systems",
-      "title": "Vehicle Integration & Test Engineer Intern, Remote",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484738176/",
-      "url": "https://trueinterview.io/jobs/3504ec56-cc14-4424-a908-054d096261c3",
-      "postedAt": "2026-10-28T19:30:00.000Z",
-      "updatedAt": "2026-10-28T19:30:00.000Z"
     },
     {
       "id": "f1c2cb89-c40d-40d0-8d65-3e72b9d524c5",
@@ -4530,31 +5018,6 @@
       "updatedAt": "2026-10-28T16:01:00.000Z"
     },
     {
-      "id": "1dd8c5fa-1629-4277-9dbe-cc493624e88a",
-      "company": "Skyworks Solutions, Inc.",
-      "title": "Test Engineering Intern",
-      "locations": [
-        "Greensboro, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484472862/",
-      "url": "https://trueinterview.io/jobs/1dd8c5fa-1629-4277-9dbe-cc493624e88a",
-      "postedAt": "2026-10-28T16:01:00.000Z",
-      "updatedAt": "2026-10-28T16:01:00.000Z"
-    },
-    {
       "id": "545fb9b4-8643-4da4-bae6-a031ef04c7b9",
       "company": "Sonos, Inc.",
       "title": "Software Product Management Intern (Seattle)",
@@ -4581,31 +5044,6 @@
       "url": "https://trueinterview.io/jobs/545fb9b4-8643-4da4-bae6-a031ef04c7b9",
       "postedAt": "2026-10-28T16:01:00.000Z",
       "updatedAt": "2026-10-28T16:01:00.000Z"
-    },
-    {
-      "id": "539a258c-d8fa-421d-8288-8c02cc67b453",
-      "company": "Skyworks Solutions, Inc.",
-      "title": "Product Engineering Intern",
-      "locations": [
-        "Greensboro, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484480567/",
-      "url": "https://trueinterview.io/jobs/539a258c-d8fa-421d-8288-8c02cc67b453",
-      "postedAt": "2026-10-28T16:00:00.000Z",
-      "updatedAt": "2026-10-28T16:00:00.000Z"
     },
     {
       "id": "30b90c88-39b2-476b-ab9c-d290e708f721",
@@ -8854,6 +9292,33 @@
       "updatedAt": "2026-10-28T02:40:21.000Z"
     },
     {
+      "id": "7f49e85d-a4b7-4258-81e2-89ae961e8df5",
+      "company": "UPS",
+      "title": "2027 Americas Region Industrial Engineering Summer Intern",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467894974/",
+      "url": "https://trueinterview.io/jobs/7f49e85d-a4b7-4258-81e2-89ae961e8df5",
+      "postedAt": "2026-10-28T01:40:00.000Z",
+      "updatedAt": "2026-10-28T01:40:00.000Z"
+    },
+    {
       "id": "c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
       "company": "42dot",
       "title": "Internship, Foundation Models",
@@ -8877,6 +9342,108 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application",
       "url": "https://trueinterview.io/jobs/c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "8509c84a-8c39-4159-8404-755724aa261c",
+      "company": "Applied Materials",
+      "title": "Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
+      "url": "https://trueinterview.io/jobs/8509c84a-8c39-4159-8404-755724aa261c",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "d8baefdb-3652-411e-a378-f8e02920da80",
+      "company": "Applied Materials",
+      "title": "Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
+      "url": "https://trueinterview.io/jobs/d8baefdb-3652-411e-a378-f8e02920da80",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "1d6d89bf-34e7-40c8-acd8-1c6081f52bc3",
+      "company": "Applied Materials",
+      "title": "Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409",
+      "url": "https://trueinterview.io/jobs/1d6d89bf-34e7-40c8-acd8-1c6081f52bc3",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "1dc284a5-c983-4ad7-9804-ff0263cea8ee",
+      "company": "Applied Materials",
+      "title": "Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652",
+      "url": "https://trueinterview.io/jobs/1dc284a5-c983-4ad7-9804-ff0263cea8ee",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
@@ -9400,6 +9967,31 @@
       "source": "career-sites",
       "applyUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
       "url": "https://trueinterview.io/jobs/525f87d7-d387-406b-8e41-05ab2e96275f",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "95f28c1e-48ab-463e-addc-ec5b4bf8ba49",
+      "company": "UPS",
+      "title": "Summer 2027 Industrial Engineering Co-Op",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459465036/",
+      "url": "https://trueinterview.io/jobs/95f28c1e-48ab-463e-addc-ec5b4bf8ba49",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
@@ -38196,56 +38788,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/91864?lang=en-us",
       "url": "https://trueinterview.io/jobs/d6516e44-4c2b-47b4-8efe-4e2b928e7af2",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "05440603-f7f3-4323-8488-7577eaf387a5",
-      "company": "Garmin",
-      "title": "Aviation Systems Engineer Intern",
-      "locations": [
-        "Olathe, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19754?lang=en-us",
-      "url": "https://trueinterview.io/jobs/05440603-f7f3-4323-8488-7577eaf387a5",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "8a68d523-209b-4434-9e5b-3f4e0e953e69",
-      "company": "Garmin",
-      "title": "Flight Controls Systems Engineer Intern",
-      "locations": [
-        "Olathe, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19755?lang=en-us",
-      "url": "https://trueinterview.io/jobs/8a68d523-209b-4434-9e5b-3f4e0e953e69",
       "postedAt": "2026-09-01T00:00:00.000Z",
       "updatedAt": "2026-09-01T00:00:00.000Z"
     },

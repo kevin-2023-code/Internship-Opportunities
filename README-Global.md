@@ -18,11 +18,11 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-28 22:05 UTC_
+_Last updated: 2026-10-28 23:04 UTC_
 
-**154 open internships** from **108 employers** · **78 posted in the last 7 days** · refreshed hourly
+**155 open internships** from **109 employers** · **79 posted in the last 7 days** · refreshed hourly
 
-### Browse 154 internships by field
+### Browse 155 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (63)
 
@@ -34,7 +34,7 @@ _Last updated: 2026-10-28 22:05 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (17)
 
-🧰 **[IT & Support](#-it--support)** (7)
+🧰 **[IT & Support](#-it--support)** (8)
 
 ---
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (18)](lists/place/singapore.md) · [🇬🇧 London & the UK (17)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (7)](lists/place/switzerland.md) · [🇮🇪 Dublin & Ireland (6)](lists/place/ireland.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🇫🇷 Paris & France (5)](lists/place/france.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (78)](lists/new-this-week.md) · [🌐 Remote (7)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (79)](lists/new-this-week.md) · [🌐 Remote (7)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1103,6 +1103,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cohesity</strong></td>
+<td><a href="https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793">Technical Support Engineer - Intern</a> 🆕</td>
+<td>Cork Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727816/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>LBMC</strong></td>
 <td><a href="https://trueinterview.io/jobs/13bacfbb-fbbb-46dc-9177-7a607a37a2a8">IT Service Desk Intern</a> 🆕</td>
