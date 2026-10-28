@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**35 open roles.** 32 in the United States & Canada · 3 elsewhere in the world.
+**38 open roles.** 33 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lake County, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482505388/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Precision CastParts</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c2a9531-24d2-4fbd-9e89-0f2ec715f5c5">AI Developer Co-op/Internship (January 2027)</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://pcctalentacquisitionportal.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/candidate/so/pm/1/pl/3/opp/24814-AI-Developer-Co-op-Internship-January-2027/en-GB">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -253,6 +260,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/dacac964-da32-4959-8969-fc8ffe78923b">Internship - AI (Artificial Intelligence) Engineering</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484434981/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CodeSlice IT Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/7183ea7d-1a71-45af-8b3c-c8aeba02f626">Junior Backend &amp; AI Engineer (Python) – Internship to Full-Time</a></td>
+<td>India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=21c277ba7ce5563f">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Toku</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5e75fc6-8abe-4fa9-957c-d25af2f53b99">AI Operations Intern CL</a></td>

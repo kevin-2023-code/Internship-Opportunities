@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**544 open roles.** 532 in the United States & Canada · 12 elsewhere in the world.
+**547 open roles.** 534 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Vast</strong></td>
+<td><a href="https://trueinterview.io/jobs/de738f4e-25e5-40bd-8ea4-7a6c51736d01">Emerging Talent - Electrical Internship</a></td>
+<td>Long Beach, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/075c22bc-ca99-4391-876e-8282a1397023">Propulsion Intern Summer 2027</a></td>
+<td>Long Beach, CA<br/>EDC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986792003">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/79b9c5c9-95c9-436c-bb53-c4316072c3f1">Fluid Component Intern Spring 2027</a></td>
+<td>Long Beach, CA<br/>EDC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990365003">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a">Civil Transportation Internship</a></td>
@@ -919,13 +940,6 @@
 <td align="center">31 Aug 2026</td>
 </tr>
 <tr>
-<td><strong>DLB Associates</strong></td>
-<td><a href="https://trueinterview.io/jobs/d07e0929-0abb-415a-a030-8fc67413c939">Engineer Intern 2027</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=b73168a498cc97ef">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee0c5854-9be0-41b0-9a54-fc6c2eb39a55">Intern - ADV DRAM Process Integration Engineer</a></td>
 <td>Boise, ID, US</td>
@@ -951,6 +965,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Envy Electrical and Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/1af5da58-1088-4948-9927-e073875c4efa">Electrical Engineering Intern</a></td>
+<td>Adelaide, South Australia, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483866385/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Synopsys</strong></td>
 <td><a href="https://trueinterview.io/jobs/be6942f6-3d4b-49fb-90d1-a81f50beebbb">Technical Engineering Intern - Design for Test (DFT) Internship</a></td>

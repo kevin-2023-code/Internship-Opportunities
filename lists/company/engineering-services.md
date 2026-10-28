@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**53 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**52 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -379,13 +379,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d9ec5513-da89-4b4b-8741-185b353d74c6">Intern, Civil Engineering</a></td>
 <td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93760">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>DLB Associates</strong></td>
-<td><a href="https://trueinterview.io/jobs/d07e0929-0abb-415a-a030-8fc67413c939">Engineer Intern 2027</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=b73168a498cc97ef">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>

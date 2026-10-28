@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**62 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476593479/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PACCAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/62fe4718-7044-468b-adf2-c0899f1782a5">Summer 2027 - Application Developer Intern (OH)</a></td>
+<td>Kirkland, WA</td>
+<td align="center"><a href="https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-%28OH%29-WA-98033/1451927133/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sonos</strong></td>
+<td><a href="https://trueinterview.io/jobs/e66e989a-a133-4335-9aa1-587b503c684f">Software Engineering Intern (Seattle)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Shield AI</strong></td>
