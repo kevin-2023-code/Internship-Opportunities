@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**5 open roles.** 4 in the United States & Canada · 1 elsewhere in the world.
+**7 open roles.** 5 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/f14a7777-67fb-487d-b3da-17e529dcfbdd">Systems Engineering &amp; Integration Software Testing Intern - Summer 2027</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482516994/">Apply</a></td>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717351/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aeb0b865-6924-4d32-b746-8b01e172f50a">Summer Intern – Software Engineering – Quality Assurance</a></td>
 <td>Golden, Colorado, United States</td>
 <td align="center"><a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/f14a7777-67fb-487d-b3da-17e529dcfbdd">Systems Engineering &amp; Integration Software Testing Intern - Summer 2027</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482516994/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -57,6 +64,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Givaudan</strong></td>
+<td><a href="https://trueinterview.io/jobs/586d9a14-5a42-45cd-a6eb-4a95187560f0">Quality Assurance Intern (m/f/d)</a></td>
+<td>Vernier, Geneva, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484703870/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Opusclip</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f83d76e-6161-41fd-865e-6f6ba0228ac9">Customer Experience Test Automation Intern</a></td>

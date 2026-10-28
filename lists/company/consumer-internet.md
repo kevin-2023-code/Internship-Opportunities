@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**73 open roles.** 70 in the United States & Canada · 3 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**80 open roles.** 77 in the United States & Canada · 3 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,6 +338,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b04c747-0d86-4ec0-83de-55e80724a38d">Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)</a></td>
+<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1139865145249047/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c52527b3-5b52-4ad5-89ea-8c136e68c96f">Research Scientist Intern, Egocentric Vision-Language Models (PhD)</a></td>
+<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2067000203934229/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2b97cca5-db5d-4c35-925a-5eeaa0910f1d">Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)</a></td>
+<td>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2586686598441521/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/021a7b61-f472-4ac6-acb2-da536124a6b8">Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)</a></td>
+<td>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/3364701000388712/">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518">Forward Deployed Engineering Intern, BS/MS, Summer 2027</a></td>
+<td>Sunnyvale, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nbcuniversal</strong></td>
+<td><a href="https://trueinterview.io/jobs/da422d16-9e80-40f7-a7b9-f2cac5f86cf7">Feature Modeling Intern, DreamWorks Animation, Spring 2027</a></td>
+<td>Glendale, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000154731334-feature-modeling-intern-dreamworks-animation-spring-2027?oga=true">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8e77831-c2a2-43f9-a096-3dbc0911021f">ASIC Engineer Intern, Architecture</a></td>
+<td>Sunnyvale, CA<br/>Austin, TX</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1096213456288397/">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Pinterest</strong></td>

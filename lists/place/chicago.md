@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**22 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/60b5c2fb-6c08-4bc0-ba53-c185a762f2ce">Android Applications Developer Intern - Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458281408/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>CCC Intelligent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e46af2b-cc80-4f49-8427-00065799420e">Data Science and AI Internship Interest | Resume Review and Open House</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496772/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/529f86f2-8a64-43ff-baa9-10ecac3362f7">Financial Business Intelligence &amp; Analytics Internship Interest | Resume Review and Open House</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484707456/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/73610f57-3d28-4cc3-84cd-eccd631b2aba">Software Engineering Internship Interest | Resume Review and Open House</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484710397/">Apply</a></td>
@@ -65,20 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Oak Brook, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484463424/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Health Care Service Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/81d5ead4-4d17-4840-825b-98acdb7fb61e">Early Careers – Product Engineering Developer Associate Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://careers.hcsc.com/job/chicago/early-careers-product-engineering-developer-associate-intern/43046/102502053952">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9b47e4cf-d29c-4ec3-85dd-b917ebae31a8">Early Careers – Product Engineering Developer Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://careers.hcsc.com/job/chicago/early-careers-product-engineering-developer-intern/43046/102502053936">Apply</a></td>
-<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Drivewealth</strong></td>

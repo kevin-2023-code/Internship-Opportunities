@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>The Nuclear Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718247/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Panasonic</strong></td>
 <td><a href="https://trueinterview.io/jobs/82ff4817-fa9e-406c-9e80-3a945823cefa">Controls Engineering Intern</a></td>
 <td>Sparks, Nevada, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/51632?lang=en-us">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3bd1e2a5-3392-438b-9fff-5a6827944c49">Materials Engineering Intern</a></td>
+<td>Sparks, Nevada, United States</td>
+<td align="center"><a href="https://careers.na.panasonic.com/jobs/51631?lang=en-us">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
 <tr>

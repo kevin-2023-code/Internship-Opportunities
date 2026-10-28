@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**103 open roles.**
+**105 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fenner Precision Polymers</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae10436e-f4ea-41ba-b31a-d6693a9102ae">Industrial Engineer Intern - Los Angeles, CA</a></td>
+<td>Los Angeles, CA<br/>Lancaster, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465967025/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Impulse Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a31945a-b6e0-42e0-a33a-041199ed3006">Development Test Engineering Intern (Summer 2027)</a></td>
@@ -366,6 +373,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Costa Mesa, California, United States, Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nbcuniversal</strong></td>
+<td><a href="https://trueinterview.io/jobs/da422d16-9e80-40f7-a7b9-f2cac5f86cf7">Feature Modeling Intern, DreamWorks Animation, Spring 2027</a></td>
+<td>Glendale, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NBCUniversal3/744000154731334-feature-modeling-intern-dreamworks-animation-spring-2027?oga=true">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>K2 Space</strong></td>

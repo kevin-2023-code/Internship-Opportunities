@@ -103,6 +103,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4235043-19c2-4415-a8c9-7bb4671ab5f7">Electrical Engineer, Intern - Labs (Summer 2027)</a></td>
+<td>Oakland, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8274095">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
 <td>San Francisco, CA<br/>Sunnyvale, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
@@ -124,13 +131,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>
-<td><a href="https://trueinterview.io/jobs/c06c82b3-de8c-4102-8e5b-fb51cc17d99a">Software Engineer Intern, Machine Learning, PhD (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>San Francisco Office</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b">Hardware Field Quality Engineer Intern (Summer 2027)</a></td>
 <td>Longueuil, Canada<br/>Montreal Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002">Apply</a></td>

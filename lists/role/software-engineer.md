@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**177 open roles.** 149 in the United States & Canada · 28 elsewhere in the world.
+**180 open roles.** 152 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Spectrum</strong></td>
+<td><a href="https://trueinterview.io/jobs/258373a8-59ee-432d-a600-dddb3fecd205">2027 Summer Intern: Software Engineer</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484703592/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cargill</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8433d86-41f4-4762-a03a-4946c6a53f0a">Software Engineer Intern Summer 2027 - Atlanta, GA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448070670/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gauss Management Research &amp; Engineering (GMRE Inc.)</strong></td>
+<td><a href="https://trueinterview.io/jobs/61662601-dd3e-4926-952b-93039486c270">Web Application Developer Intern</a></td>
+<td>South Ogden, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484705285/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
 <td>Marlborough, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484712231/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec">Software Engineer &amp; Computer Science - Summer 2027 Intern (US Person Required)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459071669/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -179,6 +207,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Siemens Healthineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Ciena</strong></td>
 <td><a href="https://trueinterview.io/jobs/2bf69c4b-a9b7-489c-998f-7b77b292c58d">Intern - Software Developer Technician</a></td>
 <td>Quebec City, Canada</td>
@@ -204,20 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ea8f0d80-ca21-4058-85e2-78368e31d5b7">Claims Lab Developer Intern – Summer 2027</a></td>
 <td>Cincinnati, OH</td>
 <td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Health Care Service Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/81d5ead4-4d17-4840-825b-98acdb7fb61e">Early Careers – Product Engineering Developer Associate Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://careers.hcsc.com/job/chicago/early-careers-product-engineering-developer-associate-intern/43046/102502053952">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9b47e4cf-d29c-4ec3-85dd-b917ebae31a8">Early Careers – Product Engineering Developer Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://careers.hcsc.com/job/chicago/early-careers-product-engineering-developer-intern/43046/102502053936">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

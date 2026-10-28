@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**26 open roles.** 24 in the United States & Canada · 2 elsewhere in the world.
+**28 open roles.** 26 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CCC Intelligent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/529f86f2-8a64-43ff-baa9-10ecac3362f7">Financial Business Intelligence &amp; Analytics Internship Interest | Resume Review and Open House</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484707456/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Park National Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/eea8008f-5072-4607-9621-f6f94ec6bd30">Intern - Business Intelligence</a></td>
+<td>Newark, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484104427/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PrizePicks</strong></td>
 <td><a href="https://trueinterview.io/jobs/f58aa130-58ff-40dc-bf7b-50743feed95b">Business Intelligence Intern - Summer 2027</a></td>
