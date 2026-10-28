@@ -5,9 +5,134 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-28T20:05:49.356Z",
-  "count": 1480,
+  "listingsChangedAt": "2026-10-28T21:04:38.196Z",
+  "count": 1497,
   "listings": [
+    {
+      "id": "608777e4-6c27-4f99-82df-08d6a4395cda",
+      "company": "sharkninja",
+      "title": "Spring 2027: Mechanical Engineering Co-op, Ninja (January to June)",
+      "locations": [
+        "Needham, MA, United States, MA - Needham"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006",
+      "url": "https://trueinterview.io/jobs/608777e4-6c27-4f99-82df-08d6a4395cda",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "eb592f11-9ea6-43c1-8105-f0d003a6e2dc",
+      "company": "sharkninja",
+      "title": "Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)",
+      "locations": [
+        "Needham, MA, United States, MA - Needham"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006",
+      "url": "https://trueinterview.io/jobs/eb592f11-9ea6-43c1-8105-f0d003a6e2dc",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "109d67b2-d348-4b56-a64d-f49349ec2053",
+      "company": "subtotal",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application",
+      "url": "https://trueinterview.io/jobs/109d67b2-d348-4b56-a64d-f49349ec2053",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "f8e05d8c-a8b2-432b-8342-371a77f4391e",
+      "company": "Bombardier",
+      "title": "Year-round Flight Sciences Engineering Intern",
+      "locations": [
+        "Wichita, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466563478/",
+      "url": "https://trueinterview.io/jobs/f8e05d8c-a8b2-432b-8342-371a77f4391e",
+      "postedAt": "2026-10-28T19:41:00.000Z",
+      "updatedAt": "2026-10-28T19:41:00.000Z"
+    },
+    {
+      "id": "a2bc5374-9a74-4796-9b78-7cb90cde1f12",
+      "company": "Modern Woodmen of America",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Rock Island, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484731371/",
+      "url": "https://trueinterview.io/jobs/a2bc5374-9a74-4796-9b78-7cb90cde1f12",
+      "postedAt": "2026-10-28T19:41:00.000Z",
+      "updatedAt": "2026-10-28T19:41:00.000Z"
+    },
     {
       "id": "4c9b92ed-cb36-4b72-9fe4-13799983d533",
       "company": "AeroMatrix 12",
@@ -111,6 +236,33 @@
       "updatedAt": "2026-10-28T19:30:00.000Z"
     },
     {
+      "id": "f1c2cb89-c40d-40d0-8d65-3e72b9d524c5",
+      "company": "Parallel",
+      "title": "Product Management Intern",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483750218/",
+      "url": "https://trueinterview.io/jobs/f1c2cb89-c40d-40d0-8d65-3e72b9d524c5",
+      "postedAt": "2026-10-28T19:23:00.000Z",
+      "updatedAt": "2026-10-28T19:23:00.000Z"
+    },
+    {
       "id": "03ec621c-404f-465a-954a-5879202bf411",
       "company": "Intuitive",
       "title": "System Engineer Intern",
@@ -188,6 +340,106 @@
       "updatedAt": "2026-10-28T19:21:00.000Z"
     },
     {
+      "id": "2e2b99ff-8d7d-4429-90c8-a5f454589e48",
+      "company": "FlightSafety International",
+      "title": "Visual Software Engineer Internship - Summer 2027",
+      "locations": [
+        "Greater St. Louis"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481795736/",
+      "url": "https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48",
+      "postedAt": "2026-10-28T19:21:00.000Z",
+      "updatedAt": "2026-10-28T19:21:00.000Z"
+    },
+    {
+      "id": "49b6fc6b-9b0c-43b9-b07e-1d0a5076e5fc",
+      "company": "Bombardier",
+      "title": "Electrical Engineer Intern (Year-round or Summer)",
+      "locations": [
+        "Wichita, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467403960/",
+      "url": "https://trueinterview.io/jobs/49b6fc6b-9b0c-43b9-b07e-1d0a5076e5fc",
+      "postedAt": "2026-10-28T19:19:00.000Z",
+      "updatedAt": "2026-10-28T19:19:00.000Z"
+    },
+    {
+      "id": "50496c2d-d519-4017-be40-a461e0f43fa5",
+      "company": "Packaging Corporation of America",
+      "title": "Mechanical Engineering Co Op/Intern - All Mills",
+      "locations": [
+        "Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4458243907/",
+      "url": "https://trueinterview.io/jobs/50496c2d-d519-4017-be40-a461e0f43fa5",
+      "postedAt": "2026-10-28T19:19:00.000Z",
+      "updatedAt": "2026-10-28T19:19:00.000Z"
+    },
+    {
+      "id": "2c284afe-4bd0-4886-8cca-ae29c799ed86",
+      "company": "Jacobs",
+      "title": "Electrical Engineering Intern - Summer 2027",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484719571/",
+      "url": "https://trueinterview.io/jobs/2c284afe-4bd0-4886-8cca-ae29c799ed86",
+      "postedAt": "2026-10-28T19:17:00.000Z",
+      "updatedAt": "2026-10-28T19:17:00.000Z"
+    },
+    {
       "id": "ed441183-7f1f-4a38-a760-b104c24ad0e7",
       "company": "Ascendria Consulting",
       "title": "Launch Fluids and Operations Engineer Intern",
@@ -209,6 +461,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4482544769/",
       "url": "https://trueinterview.io/jobs/ed441183-7f1f-4a38-a760-b104c24ad0e7",
+      "postedAt": "2026-10-28T19:16:00.000Z",
+      "updatedAt": "2026-10-28T19:16:00.000Z"
+    },
+    {
+      "id": "97b5f2b4-0356-42bb-9a63-d1596051f5b4",
+      "company": "Jacobs",
+      "title": "Bridge Engineering Intern (Dublin)",
+      "locations": [
+        "Dublin, County Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484737037/",
+      "url": "https://trueinterview.io/jobs/97b5f2b4-0356-42bb-9a63-d1596051f5b4",
       "postedAt": "2026-10-28T19:16:00.000Z",
       "updatedAt": "2026-10-28T19:16:00.000Z"
     },
@@ -367,6 +646,56 @@
       "updatedAt": "2026-10-28T19:01:00.000Z"
     },
     {
+      "id": "211ed246-7144-4231-af5a-6847cbf17aac",
+      "company": "Joby Aviation",
+      "title": "Powertrain Mechanical Engineer, Battery (Intern Summer 2027)",
+      "locations": [
+        "San Carlos, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484720408/",
+      "url": "https://trueinterview.io/jobs/211ed246-7144-4231-af5a-6847cbf17aac",
+      "postedAt": "2026-10-28T19:00:00.000Z",
+      "updatedAt": "2026-10-28T19:00:00.000Z"
+    },
+    {
+      "id": "08308356-3125-4c6f-9d20-8f5326286cfc",
+      "company": "Stanley Black & Decker, Inc.",
+      "title": "Industrial Design Engineering Intern, 3D Surfacing - Summer 2027",
+      "locations": [
+        "Towson, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484718250/",
+      "url": "https://trueinterview.io/jobs/08308356-3125-4c6f-9d20-8f5326286cfc",
+      "postedAt": "2026-10-28T19:00:00.000Z",
+      "updatedAt": "2026-10-28T19:00:00.000Z"
+    },
+    {
       "id": "e8c3d0d9-62a8-4a5c-827e-4326866bdc80",
       "company": "DMA - DuCharme, McMillen & Associates, Inc.",
       "title": "Cybersecurity Intern - Summer 2027",
@@ -518,6 +847,31 @@
       "url": "https://trueinterview.io/jobs/647cd0b1-a4b6-4b39-9f2e-bf35031f68fd",
       "postedAt": "2026-10-28T13:55:00.000Z",
       "updatedAt": "2026-10-28T18:48:00.000Z"
+    },
+    {
+      "id": "cc58235c-8bf9-4b45-a49a-df24f6e4471a",
+      "company": "MAHLE",
+      "title": "Internship Machine Learning for Energy-Efficient Vehicle Control and Thermal Management (m/f/d)",
+      "locations": [
+        "Stuttgart, Baden-Württemberg, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480978169/",
+      "url": "https://trueinterview.io/jobs/cc58235c-8bf9-4b45-a49a-df24f6e4471a",
+      "postedAt": "2026-10-28T18:47:00.000Z",
+      "updatedAt": "2026-10-28T18:47:00.000Z"
     },
     {
       "id": "44c55c19-95a3-4d38-a258-d7e41bced654",
@@ -1127,6 +1481,31 @@
       "url": "https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5",
       "postedAt": "2026-10-28T18:21:00.000Z",
       "updatedAt": "2026-10-28T18:21:00.000Z"
+    },
+    {
+      "id": "395cc063-41ea-47b3-9f02-724bc68dfa8c",
+      "company": "Bombardier",
+      "title": "Year-round Avionics Engineering Intern",
+      "locations": [
+        "Wichita, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467408858/",
+      "url": "https://trueinterview.io/jobs/395cc063-41ea-47b3-9f02-724bc68dfa8c",
+      "postedAt": "2026-10-28T18:19:00.000Z",
+      "updatedAt": "2026-10-28T18:19:00.000Z"
     },
     {
       "id": "5b1ef576-8e8a-4570-a430-e6b466d1c15e",
@@ -8507,6 +8886,35 @@
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
     {
+      "id": "98d1c45c-1cb8-4e36-bc0e-add605e2fdd1",
+      "company": "Manulife",
+      "title": "Operations & Data Analyst Co-op (8 Months)",
+      "locations": [
+        "Toronto, Ontario, Canada",
+        "Waterloo, Ontario, Canada"
+      ],
+      "cities": [
+        "Toronto, ON",
+        "Waterloo, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348",
+      "url": "https://trueinterview.io/jobs/98d1c45c-1cb8-4e36-bc0e-add605e2fdd1",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
       "id": "fd1c2bde-b503-4bc1-8e88-5e01c8043c8f",
       "company": "Marvell Technology",
       "title": "Data Science Intern, BS - Summer 2027",
@@ -8812,6 +9220,31 @@
       "source": "career-sites",
       "applyUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
       "url": "https://trueinterview.io/jobs/525f87d7-d387-406b-8e41-05ab2e96275f",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "13cb9f15-174a-49b4-9229-b79a37fd1bef",
+      "company": "USAA",
+      "title": "Data Scientist Intern",
+      "locations": [
+        "Plano, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200",
+      "url": "https://trueinterview.io/jobs/13cb9f15-174a-49b4-9229-b79a37fd1bef",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
