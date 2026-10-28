@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**15 open roles.** 14 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/82ff4817-fa9e-406c-9e80-3a945823cefa">Controls Engineering Intern</a></td>
 <td>Sparks, Nevada, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/51632?lang=en-us">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3bd1e2a5-3392-438b-9fff-5a6827944c49">Materials Engineering Intern</a></td>
-<td>Sparks, Nevada, United States</td>
-<td align="center"><a href="https://careers.na.panasonic.com/jobs/51631?lang=en-us">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
 <tr>
