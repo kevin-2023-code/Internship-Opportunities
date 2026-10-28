@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**140 open roles.**
+**138 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/b59c0113-851e-48e0-8b54-bd38941f2348">Silicon Intern - Physical Design &amp; DFT (USA)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475434262/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/7201af0c-f65c-463c-acd0-be6837070d39">FPGA Design Intern</a></td>
@@ -397,13 +404,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bff3754-c7f5-4096-8b57-5fdc32c11ff9">ASIC Physical Design Coop</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/91d6781f-dff2-48df-abdb-a377600edf23">Mixed Signal Circuit Design Coop</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222">Apply</a></td>
@@ -478,13 +478,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Milpitas, CA, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1">Apply</a></td>
 <td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mill</strong></td>
-<td><a href="https://trueinterview.io/jobs/118c85d7-3a03-4661-a14f-b832415b68bd">Systems Engineering Intern, Fall/Winter 2026</a></td>
-<td>San Bruno, California<br/>Mill</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4735328005">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -673,13 +666,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ae995cdf-f856-4d43-99bb-35ffebbebe1e">Hardware Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3b02f0e9-6bfd-4032-bd07-f0192e29e825">Hardware Engineering Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

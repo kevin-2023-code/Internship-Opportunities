@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**35 open roles.** 29 in the United States & Canada · 6 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**36 open roles.** 30 in the United States & Canada · 6 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/b59c0113-851e-48e0-8b54-bd38941f2348">Silicon Intern - Physical Design &amp; DFT (USA)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475434262/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b145444-2571-420a-952f-a2a7095d3ad8">Manufacturing Test Software Intern (Winter/Spring 2027)</a></td>

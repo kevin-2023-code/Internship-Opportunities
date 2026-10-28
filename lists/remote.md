@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**32 open roles.** 26 in the United States & Canada · 6 elsewhere in the world. Postings the pipeline classified as remote.
+**30 open roles.** 24 in the United States & Canada · 6 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -79,20 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Memx</strong></td>
-<td><a href="https://trueinterview.io/jobs/88540f2e-46b8-4cf7-9e73-2a8bafd42183">Network Engineering Intern, Summer 2027 (Hybrid)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5446002008">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a4486bfa-f4a6-465b-bf5c-debfdeab5d55">Information Security Intern, Summer 2027 (Hybrid)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5445236008">Apply</a></td>
-<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Atlassian</strong></td>

@@ -18,21 +18,21 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-28 13:05 UTC_
+_Last updated: 2026-10-28 14:05 UTC_
 
-**90 open internships** from **57 employers** · **15 posted in the last 7 days** · refreshed hourly
+**92 open internships** from **59 employers** · **17 posted in the last 7 days** · refreshed hourly
 
-### Browse 90 internships by field
+### Browse 92 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (34)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (12)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (13)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (12)
 
 📱 **[Product & Design](#-product--design)** (12)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (15)
+📈 **[Quantitative Finance](#-quantitative-finance)** (16)
 
 🧰 **[IT & Support](#-it--support)** (5)
 
@@ -42,13 +42,13 @@ _Last updated: 2026-10-28 13:05 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏦 Banks, insurers & asset managers (13)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (6)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (6)](lists/company/large-tech.md) · [🏤 Mid-sized tech (200–999) (6)](lists/company/mid-size-tech.md) · [📈 Quant trading & hedge funds (6)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🏛️ Big Tech (5)](lists/company/big-tech.md) · [🌱 Startups (under 200) (5)](lists/company/startups.md) · [+9 more →](lists/README.md)
+🏷️ **By company type** — [🏦 Banks, insurers & asset managers (13)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [📈 Quant trading & hedge funds (7)](lists/company/quant-trading.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [🖥️ Hardware, devices & networking (6)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (6)](lists/company/large-tech.md) · [🏤 Mid-sized tech (200–999) (6)](lists/company/mid-size-tech.md) · [🚗 Autonomy, automotive & mobility (5)](lists/company/autonomy-mobility.md) · [🏛️ Big Tech (5)](lists/company/big-tech.md) · [🌱 Startups (under 200) (5)](lists/company/startups.md) · [+9 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (19)](lists/role/software-engineer.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Product Manager (4)](lists/role/product-manager.md) · [AI Engineer (3)](lists/role/ai-engineer.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Engineer (2)](lists/role/data-engineer.md) · [Data Scientist (2)](lists/role/data-scientist.md) · [Security Engineer (2)](lists/role/security-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md)
+🧑‍💻 **By role** — [Software Engineer (20)](lists/role/software-engineer.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Product Manager (4)](lists/role/product-manager.md) · [AI Engineer (3)](lists/role/ai-engineer.md) · [Data Analyst (3)](lists/role/data-analyst.md) · [Data Engineer (2)](lists/role/data-engineer.md) · [Data Scientist (2)](lists/role/data-scientist.md) · [Security Engineer (2)](lists/role/security-engineer.md) · [Embedded Engineer (1)](lists/role/embedded-engineer.md) · [Machine Learning Engineer (1)](lists/role/machine-learning-engineer.md)
 
-📍 **By location** — [🇬🇧 London & the UK (15)](lists/place/uk.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🇸🇬 Singapore (5)](lists/place/singapore.md)
+📍 **By location** — [🇬🇧 London & the UK (15)](lists/place/uk.md) · [🇸🇬 Singapore (6)](lists/place/singapore.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (15)](lists/new-this-week.md) · [🌐 Remote (6)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (17)](lists/new-this-week.md) · [🌐 Remote (6)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -72,10 +72,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Siemens Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bc188e8-6295-46f6-bf18-33899564ff68">Engineering Graduate Internship Program</a> 🆕</td>
-<td>Muscat, Masqaţ, Oman</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465732808/">Apply</a></td>
+<td><strong>MSA - The Safety Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/627fec7e-8cc0-45ae-b4cd-0ea77fd32be0">Intern: Software Engineer, Product Development (Summer 2027)</a> 🆕</td>
+<td>Greater Pittsburgh Region</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456522084/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -348,6 +348,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/42817e29-a2e3-4f52-bf90-23b75e77cb40">Data Science Project Intern (TikTok LIVE) - 2026 Start</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483854953/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/067ac0a8-4816-464b-aaf6-4d1bb1664843">Deep Learning Research Intern - 2027 - Sydney</a> 🆕</td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457408471/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -669,6 +676,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab973969-7885-4b44-951d-36aa0aeaf143">Quantitative Research Intern</a> 🆕</td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439779958/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Capstone Investment Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/5bb7c498-b82c-4cda-8cc6-eb6968ae9b0f">Summer 2027 - Quant Internship</a></td>

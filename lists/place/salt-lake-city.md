@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**6 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marathon Petroleum Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd7e5d68-fd13-41f6-bd94-d7021c9c0818">Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Spring 2027)</a></td>
+<td>Salt Lake City, UT<br/>Indianapolis, IN<br/>La Palma, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467401066/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Filevine</strong></td>
 <td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>

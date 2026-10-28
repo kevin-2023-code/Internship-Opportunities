@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**50 open roles.**
+**52 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/b52218bc-60bc-4216-b407-0ce092ed1f37">Software Engineering Intern - ADG System R&amp;D</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467790623/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Q2</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5c0e66d-4d00-47fd-9add-1f760941db6b">2027 Summer Internship - Data Science</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465928019/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa9bb623-5b6e-41ad-9d4d-334f56995687">Analog Hardware Design Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467217581/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/5c88fd33-5cb2-4f4e-a955-8be79171ed66">Spring/Summer 2027 Undergrad Technical Writer Co-Op</a></td>
@@ -218,13 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/41a34612-69d9-4ff9-b235-cabb3789d9e9">Software Engineering Intern, MS, Summer 2027</a></td>
 <td>Austin, TX<br/>Mountain View, CA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88">System Technology Research Engineer - (PhD Intern)</a></td>
-<td>US, Texas, Austin<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

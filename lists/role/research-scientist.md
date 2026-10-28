@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**44 open roles.**
+**43 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -309,13 +309,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f954ff71-428f-48ba-befa-248b05d5d022">SAP iXp Intern - AI Research PhD Associate</a></td>
 <td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Research-PhD-Associate-CA-94304/1380808333/">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88">System Technology Research Engineer - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

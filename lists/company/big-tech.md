@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**556 open roles.** 551 in the United States & Canada · 5 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**550 open roles.** 545 in the United States & Canada · 5 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,18 +20,60 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b9c02c4-0afd-40b0-bf24-e00318374b8c">Intern - HBM Data Scientist</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483889120/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fe5275ac-48d1-4b15-bf2f-530477dc7fcf">Intern - AI Engineer Platform</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483878352/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877393/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6faa2d7e-3b0f-4976-af61-4aa4d7150135">Intern – AI &amp; Product Management, Mobile Memory (LPDRAM)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483870603/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2dfe6e9e-0192-4bd5-99d6-d8e5529d9ad5">Intern – CMBU Product Management</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877374/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c28f4a24-02da-4537-826d-3b4f085ed844">Intern - Technical Program Manager, Program Management Office (PMO)</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483885219/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/5736abb7-c07f-42b3-b319-ecb6931f91c5">Production Engineer Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476586561/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/23f431b0-c541-4713-9ca0-51905839a65a">Software Engineer, Intern (Summer 2027) - TOR</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466147913/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa0ad793-bce8-4e90-b00d-f42796d9dbec">Intern - Product Test Development Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45166019">Apply</a></td>
-<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
@@ -1581,13 +1623,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9111c5a-fcd9-4d9e-bfef-e6d705bab001">(Epi) - Module Development Engineer - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/f48560ab-f89d-4d11-a9e4-3d2a060b43e4">R&amp;D Usability Engineering Intern</a></td>
 <td>Santa Rosa, California, United States</td>
@@ -1609,21 +1644,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ab52977f-a3bb-4c7d-9c7e-1f235ab9d090">PLM BI &amp; Analytics Intern</a></td>
-<td>Ann Arbor, MI, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bff3754-c7f5-4096-8b57-5fdc32c11ff9">ASIC Physical Design Coop</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/91d6781f-dff2-48df-abdb-a377600edf23">Mixed Signal Circuit Design Coop</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222">Apply</a></td>
@@ -2201,13 +2222,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/550ed1d6-857f-4778-8d67-627fc29915fa">Research Intern, 2027 Summer U.S.</a></td>
 <td>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8b2731d-41b5-4200-a13a-9c3cbc8aa6a2">Software Engineer Intern, Systems and Infrastructure (PhD)</a></td>
-<td>Sunnyvale, CA<br/>Bellevue, WA<br/>Seattle, WA<br/>+4 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/945520495299801/">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
@@ -2800,23 +2814,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3b02f0e9-6bfd-4032-bd07-f0192e29e825">Hardware Engineering Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f0db4b16-6d87-4d21-bc73-f65ee6c6d1ea">Product Design Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a9b79a11-2561-47a9-82be-6c11e27a79dd">Security Consultant Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

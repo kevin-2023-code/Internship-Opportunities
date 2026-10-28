@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**524 open roles.** 512 in the United States & Canada · 12 elsewhere in the world.
+**544 open roles.** 532 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,195 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/b59c0113-851e-48e0-8b54-bd38941f2348">Silicon Intern - Physical Design &amp; DFT (USA)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475434262/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cummings Electrical</strong></td>
+<td><a href="https://trueinterview.io/jobs/207bf74a-561c-49df-b11f-af398aac082b">Electrical Engineering Intern - Summer 2027</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465916645/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EVONA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2528a714-757e-4bbd-8a95-e9a79c6f7407">Electrical Engineering Intern - Summer 2027</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474983696/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0013b8a1-20d4-4e15-8c62-169fac9ac7f9">Test Engineering Intern - Summer 2027</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474978860/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Los Alamos National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/59f9de8e-f0d0-4253-a254-e7aa163142ca">Graduate Internship - Engineering</a></td>
+<td>Los Alamos, NM</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484464439/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EVONA</strong></td>
+<td><a href="https://trueinterview.io/jobs/611a29e4-2d4a-4042-8f24-a451fd258528">Thermal Engineering Intern - Summer 2027</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474995134/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>L3Harris Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1318446-f08f-4109-9e17-78b6192011dd">Electrical Engineer Intern</a></td>
+<td>Clifton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484453608/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877393/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CRB</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c6947e7-3a7d-4c7b-92d6-2953785002a8">Electrical Engineer Intern (Summer 2027)</a></td>
+<td>Kalamazoo, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467757163/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CMTA, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9147b0fb-2cad-4e98-be22-009ceb23b72d">Mechanical Engineer Intern/Co-op Spring 2027 - Energy Solutions</a></td>
+<td>Fairfax, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459051445/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marathon Petroleum Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd7e5d68-fd13-41f6-bd94-d7021c9c0818">Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Spring 2027)</a></td>
+<td>Indianapolis, IN<br/>Salt Lake City, UT<br/>La Palma, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467401066/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farnsworth Group, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/562a83eb-f663-4b37-b6ff-00b082602dea">Civil or Mechanical Engineering Telecom Co-Op (Jan – Aug 2027)</a></td>
+<td>St Louis, MO<br/>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475425352/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marathon Petroleum Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a85b48f-62a7-4b1e-91bf-500ff73fbf8c">Intern/Co-op - Refining Electrical Engineering (Spring 2027)</a></td>
+<td>Martinez, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4364955182/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/97270ddc-cacf-450b-88f9-2bb2058c4ea2">Intern/Co-op - Refining Mechanical Engineer (Spring 2027)</a></td>
+<td>Kenai, AK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4364960133/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EVONA</strong></td>
+<td><a href="https://trueinterview.io/jobs/228e6aa4-6143-413a-b556-80f459cc9f1a">Mechanical Engineering Intern - Summer 2027</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474986480/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/02957789-a891-453d-bc8f-901acdd3c797">Manufacturing Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476352122/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marathon Petroleum Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/526c9fe2-690e-4f3a-8941-8fae7817bfe5">Refining Chemical Engineering Intern/Co-op Spring 2027</a></td>
+<td>Texas City, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4372160666/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fenner Precision Polymers</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae10436e-f4ea-41ba-b31a-d6693a9102ae">Industrial Engineer Intern</a></td>
+<td>Lancaster, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465967025/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amrize</strong></td>
+<td><a href="https://trueinterview.io/jobs/e44002ab-301d-439a-bae6-d29092586bb3">Electrical Engineer Intern (Summer 2027)</a></td>
+<td>Whitehall, PA<br/>Hagerstown, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474407108/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fenner Precision Polymers</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee1d4325-258e-4e40-a4b5-e68cac133fd8">Electrical Engineer Intern - Summer 2027</a></td>
+<td>Manheim, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465918965/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d9cbcaf7-22c7-4e7d-b7be-2d2ce8d3480f">Mechanical Engineer Intern - NPD - Summer 2027</a></td>
+<td>Manheim, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465922966/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CMTA, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca51ea40-f784-4f5f-a830-2f6a2fbc6049">Electrical Engineer Intern Summer 2027 (multiple locations)</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467709852/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Westinghouse Electric Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/352d1401-79ab-4bfe-9c17-8993d99f1a71">Summer Intern -Electrical Engineering</a></td>
+<td>Cranberry Township, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457170584/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/192810b9-6069-4a22-b866-8ae2ab9e07e1">Summer Intern - Mechanical Engineering</a></td>
+<td>Cranberry Township, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457177544/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/cecb0fc8-0a19-4ff3-8a55-9a3e4557ec74">Mechanical Engineering Co-Op</a></td>
+<td>Eden Prairie, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467208715/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Randstad USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce308774-0cd8-4640-9aaa-88d7d25c8b71">Manufacturing Engineer Co-op Spring 2027</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484442581/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Westinghouse Electric Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c66924b-933e-4648-903e-6e36f8489f41">Summer Intern - Piping Mechanical Engineering</a></td>
+<td>Rock Hill, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475120429/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Lydian</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f4be915-0296-49c1-8348-cca68d47f7e6">Mechanical Engineer Co-op</a></td>
 <td>Boston, MA</td>
@@ -31,13 +220,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/34cc3d55-5040-409f-9aa0-5a46aa74f178">Civil Engineer Intern - Michels Canada</a></td>
 <td>Saskatchewan, Canada, Canada</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5016290101">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa0ad793-bce8-4e90-b00d-f42796d9dbec">Intern - Product Test Development Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45166019">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -1231,13 +1413,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9111c5a-fcd9-4d9e-bfef-e6d705bab001">(Epi) - Module Development Engineer - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/XMLNAME--Epi----Module-Development-Engineer----PhD-Intern-_JR0287820">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Lumentum</strong></td>
 <td><a href="https://trueinterview.io/jobs/8459bf73-1390-4087-b3cf-ae014cfa3818">Internship - MOCVD Process Engineer</a></td>
 <td>USA - NC- Greensboro, United States of America</td>
@@ -1260,13 +1435,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/3bff3754-c7f5-4096-8b57-5fdc32c11ff9">ASIC Physical Design Coop</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41122">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/91d6781f-dff2-48df-abdb-a377600edf23">Mixed Signal Circuit Design Coop</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222">Apply</a></td>
@@ -1628,13 +1796,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648">Apply</a></td>
 <td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mill</strong></td>
-<td><a href="https://trueinterview.io/jobs/118c85d7-3a03-4661-a14f-b832415b68bd">Systems Engineering Intern, Fall/Winter 2026</a></td>
-<td>San Bruno, California<br/>Mill</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4735328005">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Cannondesign</strong></td>
@@ -2240,13 +2401,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3b02f0e9-6bfd-4032-bd07-f0192e29e825">Hardware Engineering Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f0db4b16-6d87-4d21-bc73-f65ee6c6d1ea">Product Design Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027">Apply</a></td>
@@ -2429,13 +2583,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbaec9ff-23ea-4928-8f20-4cac20188d61">CMF Engineering Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20124?lang=en-us">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/21dbeec8-081e-4f04-b516-625dca72eb7a">Electronics Technician Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19948?lang=en-us">Apply</a></td>
@@ -2537,13 +2684,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b0a84d05-15bb-4490-843b-8cfa7bc377d3">2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA)</a></td>
 <td>Gloucester, MA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318404510">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88">System Technology Research Engineer - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -2678,146 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Long Beach, CA<br/>EDC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990365003">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a">Civil Transportation Internship</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5233819007?gh_jid=5233819007">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9e9a23b-7fcf-4027-8ce0-0b2a5580006a">Combustion Devices Intern Spring 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986748003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d">Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027</a></td>
-<td>North Reading, Massachusetts, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/a340102f-e3bd-4386-a0f5-e6d078f0dd7b">Aircraft Systems Intern</a></td>
-<td>New Century, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20127?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a66886f-fa2b-4ca9-8931-957fee402638">Module Engineering PhD Intern - Wet Etch</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Engineering-PhD-Intern---Wet-Etch_JR0287047">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/37af2ee2-225c-440f-8de9-3f7ccceac608">Ph.D. Intern - Advanced Packaging &amp; Physical Integration</a></td>
-<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+4 more</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Advanced-Packaging---Physical-Integration_2604413">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/df815904-d1df-4564-8348-858c5b49ceb4">Turbomachinery Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987210003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7cf5be50-4b5c-4bde-b0a3-e258117cb7e7">Systems Engineering Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987046003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/707c8a9e-08e3-41e2-a433-2ce4d9e4b35f">Integration &amp; Test Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987250003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/55e97733-862d-4545-ac62-706387fc0b61">HITL Engineering Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990268003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/89281711-8c17-4fd5-8c68-76586ca44c45">GNC Intern Summer 2027</a></td>
-<td>Littleton, CO<br/>ASI Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989993003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4be5b5e3-d7d6-40ab-8c98-f48670378da7">Fluid Systems Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986794003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6498c2f4-40f9-40cd-9488-dae9dd92c1ba">Avionics Engineering Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989733003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f8507866-76eb-49fa-a66f-49381e812bbf">Additive Manufacturing Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7984600003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb">Summer 2027 Internship- Mechanical Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/94ef0fe1-5c7d-43d6-ae90-1ea1b27ddb44">Summer 2027 Internship-Manufacturing Engineering</a></td>
-<td>San Leandro, CA - Fremont, CA - Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/463d62c1-1ce8-4eaf-beda-d3e35c6125fa">Municipal Engineering Internship</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5233672007?gh_jid=5233672007">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd608332-faa1-4f5c-9bb7-c7a9cec2565a">Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027</a></td>
-<td>North Reading, Massachusetts, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c930516-2f31-4aa4-bd97-4c1671a8cbb9">2027 Spring Mechanical Engineer Co-op (Gloucester. MA)</a></td>
-<td>Gloucester, MA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318404507">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/84972904-8760-4377-b2bb-dc5e9d58a794">Mechanical Designer Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19912?lang=en-us">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

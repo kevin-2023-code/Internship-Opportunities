@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**63 open roles.**
+**61 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/5736abb7-c07f-42b3-b319-ecb6931f91c5">Production Engineer Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476586561/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/6714a10e-83e8-4a67-af9e-b00a2c5e53a8">2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jpmorganchase.contacthr.com/154044752">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>MongoDB</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
@@ -193,13 +207,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Courier Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/720f2fda-78c2-4bcb-ad01-0909f6a2d4a3">Software Engineering Intern (Summer 2027)</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/courierhealth/jobs/5258913007">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Gemini</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba4a538e-d87d-4eb6-b625-09da4a795a55">Brand Design Intern (Winter 2027)</a></td>
 <td>New York, NY<br/>New York, New York<br/>Gemini North America</td>
@@ -233,13 +240,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, United States<br/>Seattle, Washington, United States<br/>+2 more</td>
 <td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8194291">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8b2731d-41b5-4200-a13a-9c3cbc8aa6a2">Software Engineer Intern, Systems and Infrastructure (PhD)</a></td>
-<td>New York, NY<br/>Sunnyvale, CA<br/>Bellevue, WA<br/>+4 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/945520495299801/">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Notion</strong></td>
@@ -347,13 +347,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ad177f3-e674-4fc3-92e6-8ccc31b25352">Software Engineer Intern, Machine Learning (PhD)</a></td>
-<td>New York, NY<br/>Sunnyvale, CA<br/>Bellevue, WA<br/>+4 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2180490782513668/">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
@@ -379,13 +372,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79acc117-007a-4690-94c9-d9af4b520733">People Analytics Intern</a></td>
 <td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
 <td align="center"><a href="https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a535268-6cc4-412e-81d5-14e361e04321">Software Engineering Intern</a></td>
-<td>New York, NY<br/>Bellevue, WA<br/>Seattle, WA<br/>+1 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1952991802037374/">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**556 open roles.** 551 in the United States & Canada · 5 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**550 open roles.** 545 in the United States & Canada · 5 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9b79a11-2561-47a9-82be-6c11e27a79dd">Security Consultant Intern, BS/MS, Summer 2027</a></td>
+<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8e24cadf-a338-42bf-8837-9726076859e4">Security Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027">Apply</a></td>
@@ -55,13 +62,6 @@
 <td><a href="https://trueinterview.io/jobs/a8c4e735-1516-4c26-9221-1b900016c3ab">User Experience Engineer Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Atlanta, GA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/112499004540887750-user-experience-engineer-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18290116-ca6a-414d-aed3-ee978c4de6a3">User Experience Engineer Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Atlanta, GA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -206,13 +206,6 @@
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbaec9ff-23ea-4928-8f20-4cac20188d61">CMF Engineering Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20124?lang=en-us">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/21dbeec8-081e-4f04-b516-625dca72eb7a">Electronics Technician Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19948?lang=en-us">Apply</a></td>
@@ -311,13 +304,6 @@
 </tr>
 <tr>
 <td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/67887952-1555-413b-b3d0-83db67838cd5">Business Data Scientist Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6bd20267-6820-45a4-90d6-d14c29ff9a4e">Data Scientist, Product Intern, MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027">Apply</a></td>
@@ -342,13 +328,6 @@
 <td><a href="https://trueinterview.io/jobs/41a34612-69d9-4ff9-b235-cabb3789d9e9">Software Engineering Intern, MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c898f750-bc74-4c04-971f-6404121a7023">Software Engineering Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Atlanta, GA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -384,13 +363,6 @@
 <td><a href="https://trueinterview.io/jobs/f4dfdebd-a4d1-4aa4-8b20-c19c43934cf5">Dell Technologies Presales Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298213">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1ef4ab2-960c-4dd5-ad56-5eb80d74dc88">System Technology Research Engineer - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara<br/>US, Texas, Austin</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
@@ -492,13 +464,6 @@
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ad177f3-e674-4fc3-92e6-8ccc31b25352">Software Engineer Intern, Machine Learning (PhD)</a></td>
-<td>Sunnyvale, CA<br/>Bellevue, WA<br/>Seattle, WA<br/>+4 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2180490782513668/">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d">Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027</a></td>
 <td>North Reading, Massachusetts, USA</td>
@@ -574,13 +539,6 @@
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015813">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/5a535268-6cc4-412e-81d5-14e361e04321">Software Engineering Intern</a></td>
-<td>Bellevue, WA<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1952991802037374/">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>

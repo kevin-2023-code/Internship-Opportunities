@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**85 open roles.** 84 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**79 open roles.** 78 in the United States & Canada · 1 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/5736abb7-c07f-42b3-b319-ecb6931f91c5">Production Engineer Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476586561/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e2bb6785-bac1-4451-9a04-6046984c89c5">Research Scientist Intern, Efficient World Foundation Models (PhD)</a></td>
 <td>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1423049949381658/">Apply</a></td>
@@ -425,13 +432,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f8b2731d-41b5-4200-a13a-9c3cbc8aa6a2">Software Engineer Intern, Systems and Infrastructure (PhD)</a></td>
-<td>Sunnyvale, CA<br/>Bellevue, WA<br/>Seattle, WA<br/>+4 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/945520495299801/">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e95eb3d1-6a5d-476c-b1dc-8fcedac2e6f1">Network Production Engineer Intern</a></td>
 <td>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1412139847020398/">Apply</a></td>
@@ -463,13 +463,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ae995cdf-f856-4d43-99bb-35ffebbebe1e">Hardware Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3b02f0e9-6bfd-4032-bd07-f0192e29e825">Hardware Engineering Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/97352132356645574-hardware-engineering-intern-phd-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -530,20 +523,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18290116-ca6a-414d-aed3-ee978c4de6a3">User Experience Engineer Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Atlanta, GA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/117572151191446214-user-experience-engineer-intern-phd-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/67887952-1555-413b-b3d0-83db67838cd5">Business Data Scientist Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/134577198026629830-business-data-scientist-intern-phd-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6bd20267-6820-45a4-90d6-d14c29ff9a4e">Data Scientist, Product Intern, MS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027">Apply</a></td>
@@ -571,13 +550,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c898f750-bc74-4c04-971f-6404121a7023">Software Engineering Intern, PhD, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Atlanta, GA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Newsbreak</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3617224-f501-4c5a-9507-ba0854fcf862">Nearby AI Internship Program - Engineering Track</a></td>
 <td>Mountain View, California, United States<br/>Mountain View Office</td>
@@ -590,20 +562,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA<br/>Sunnyvale, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/baidu/jobs/8197142">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ad177f3-e674-4fc3-92e6-8ccc31b25352">Software Engineer Intern, Machine Learning (PhD)</a></td>
-<td>Sunnyvale, CA<br/>Bellevue, WA<br/>Seattle, WA<br/>+4 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2180490782513668/">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5a535268-6cc4-412e-81d5-14e361e04321">Software Engineering Intern</a></td>
-<td>Bellevue, WA<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1952991802037374/">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**22 open roles.** 21 in the United States & Canada · 1 elsewhere in the world.
+**23 open roles.** 22 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Philips</strong></td>
+<td><a href="https://trueinterview.io/jobs/03014655-3e81-46ae-a4e5-87abb8674c89">Co-op -Embedded Test Engineer - Murrysville, PA-January-June 2027</a></td>
+<td>Murrysville, PA</td>
+<td align="center"><a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/4eb2d2b8-f82f-4954-b62f-34af56c0a90f">Embedded Systems Co-Op</a></td>

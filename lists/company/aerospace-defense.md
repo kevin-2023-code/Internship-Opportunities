@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**57 open roles.** Space, satellites, defence primes and defence technology.
+**63 open roles.** Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/02158f51-7cd2-4dbb-b1a7-fa074594e158">Nondestructive Evaluation (NDE) Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476338582/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/02957789-a891-453d-bc8f-901acdd3c797">Manufacturing Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476352122/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/11ad65ec-9b9a-4574-ab5c-d4ab8ad2c5f2">Data Science Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476352121/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac8fd388-13bc-4d54-9c6e-4005ffc9a4e3">Vehicle Structures &amp; Mechanisms Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476334724/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42ff15cf-4e29-4920-b7c2-e247bacaf091">Launch Fluids and Operations Engineer Intern (Cape Canaveral, FL)</a></td>
+<td>Cape Canaveral, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476341537/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1c781328-4ad8-4ef5-9019-dcb39677b455">Propulsion Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476331852/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/74b683c7-d48f-4e85-9a49-d5696780eff5">June 2027 Co-op - Reliability Engineering #5953</a></td>

@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**24 open roles.** 22 in the United States & Canada · 2 elsewhere in the world.
+**26 open roles.** 24 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Walmart</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d18f401-4991-4f43-8dab-7c2261a546c6">Summer 2027 Intern: Cybersecurity Undergrad</a></td>
+<td>Bentonville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465527875/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/48c26358-534b-4bec-8591-1330a80aab23">Summer 2027 Intern: Cybersecurity Masters</a></td>
+<td>Bentonville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465513920/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/947f7f62-3cc5-40f7-b664-2ad5fff9ca8a">General Cybersecurity Intern - Spring 2027 - CIPHER</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476315409/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a46de49-ac8b-4444-9f63-743be271503a">Cybersecurity Engineering Intern</a></td>
@@ -99,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a5dbfd08-0aa7-44f0-b673-379f1243f5a9">Summer Internship</a></td>
 <td>Burlington, Vermont<br/>Vermont</td>
 <td align="center"><a href="https://www.nuharborsecurity.com/careers?gh_jid=8259956">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Memx</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4486bfa-f4a6-465b-bf5c-debfdeab5d55">Information Security Intern, Summer 2027 (Hybrid)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5445236008">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

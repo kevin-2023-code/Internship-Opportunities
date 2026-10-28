@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**8 open roles.** 7 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MANTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3115d8-cff2-4c1f-a336-1b5a0b3a65ac">CNO Developer Intern</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465233838/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Trace3</strong></td>
 <td><a href="https://trueinterview.io/jobs/581cf402-3284-49eb-82fd-a7acea9d82a0">Innovation Research &amp; Development Lab Intern</a></td>

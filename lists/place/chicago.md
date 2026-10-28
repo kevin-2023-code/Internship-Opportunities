@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**13 open roles.**
+**15 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CNA Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb42962a-64dd-4c4b-9f02-be6c5e132098">Technology Internship Program (Software Engineering)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465267296/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ace Hardware Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5c2a660-f45b-4b3f-a621-6043347215d9">IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484463424/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Drivewealth</strong></td>
 <td><a href="https://trueinterview.io/jobs/35028c40-844d-4947-9bf6-f3f10b3a9fbf">AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027</a></td>

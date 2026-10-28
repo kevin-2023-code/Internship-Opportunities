@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Crown Equipment</strong></td>
+<td><a href="https://trueinterview.io/jobs/846b141e-106b-4e78-9675-80bd3be5fd28">Data Services Analyst Co-Op - Spring 2027 - Indefinite Work Authorization Required</a></td>
+<td>New Bremen, OH</td>
+<td align="center"><a href="https://us-careers.crown.com/job/New-Bremen-Data-Services-Analyst-Co-Op-Spring-2027-Indefinite-Work-Authorization-Required-OH-45869/1443984300/?feedId=291500">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/5464b61e-72eb-4622-8a4b-0425e74518a3">2027 Business Operations Intern</a></td>
 <td>Seattle, Washington, United States, Costa Mesa, CA (OC-00), Seattle, WA<br/>Costa Mesa, California, United States</td>
@@ -44,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>Summit, NJ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/charlesriverassociates/jobs/8263475">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab52977f-a3bb-4c7d-9c7e-1f235ab9d090">PLM BI &amp; Analytics Intern</a></td>
-<td>Ann Arbor, MI, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2">Apply</a></td>
-<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Intuit</strong></td>
