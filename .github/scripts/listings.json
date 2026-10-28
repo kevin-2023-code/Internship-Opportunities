@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-28T21:04:38.196Z",
-  "count": 1497,
+  "listingsChangedAt": "2026-10-28T22:05:05.708Z",
+  "count": 1505,
   "listings": [
     {
       "id": "608777e4-6c27-4f99-82df-08d6a4395cda",
@@ -82,6 +82,134 @@
       "url": "https://trueinterview.io/jobs/109d67b2-d348-4b56-a64d-f49349ec2053",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "a6f41f87-0cd6-48ff-9d04-2bc251c1f93f",
+      "company": "Apulza",
+      "title": "Fall 2026 Software/Cybersecurity Intern (Remote, Part Time)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448322350/",
+      "url": "https://trueinterview.io/jobs/a6f41f87-0cd6-48ff-9d04-2bc251c1f93f",
+      "postedAt": "2026-10-28T21:35:00.000Z",
+      "updatedAt": "2026-10-28T21:35:00.000Z"
+    },
+    {
+      "id": "1ead9869-744d-4674-9e32-813361e7e965",
+      "company": "MeeBoss",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484732722/",
+      "url": "https://trueinterview.io/jobs/1ead9869-744d-4674-9e32-813361e7e965",
+      "postedAt": "2026-10-28T21:32:00.000Z",
+      "updatedAt": "2026-10-28T21:32:00.000Z"
+    },
+    {
+      "id": "dd604285-341a-4375-a87c-89c0dc85964d",
+      "company": "Timmons Group",
+      "title": "Civil Engineering Internship - Summer 2027",
+      "locations": [
+        "Columbia, SC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484734640/",
+      "url": "https://trueinterview.io/jobs/dd604285-341a-4375-a87c-89c0dc85964d",
+      "postedAt": "2026-10-28T21:28:00.000Z",
+      "updatedAt": "2026-10-28T21:28:00.000Z"
+    },
+    {
+      "id": "4fe73be5-ace6-487d-8e8b-ed0b53d1452e",
+      "company": "Lionakis",
+      "title": "Student Intern Summer 2027 - Structural Engineering",
+      "locations": [
+        "Sacramento, CA",
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484738446/",
+      "url": "https://trueinterview.io/jobs/4fe73be5-ace6-487d-8e8b-ed0b53d1452e",
+      "postedAt": "2026-10-28T21:02:00.000Z",
+      "updatedAt": "2026-10-28T21:13:00.000Z"
+    },
+    {
+      "id": "94faeae1-9275-491c-82a4-a657ac7d6bd4",
+      "company": "Tencent",
+      "title": "NLP Research Intern",
+      "locations": [
+        "Seoul Incheon Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "South Korea"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466027882/",
+      "url": "https://trueinterview.io/jobs/94faeae1-9275-491c-82a4-a657ac7d6bd4",
+      "postedAt": "2026-10-28T20:51:00.000Z",
+      "updatedAt": "2026-10-28T20:51:00.000Z"
     },
     {
       "id": "f8e05d8c-a8b2-432b-8342-371a77f4391e",
@@ -1381,6 +1509,33 @@
       "url": "https://trueinterview.io/jobs/20e4e30d-fc84-4918-a435-cf327e118c8a",
       "postedAt": "2026-10-28T18:33:00.000Z",
       "updatedAt": "2026-10-28T18:33:00.000Z"
+    },
+    {
+      "id": "500d9ccf-2e5d-4434-83b6-337e3a4c3034",
+      "company": "Harmonic Inc.",
+      "title": "Software Engineer – Intern",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260188",
+      "url": "https://trueinterview.io/jobs/500d9ccf-2e5d-4434-83b6-337e3a4c3034",
+      "postedAt": "2026-10-28T18:26:07.000Z",
+      "updatedAt": "2026-10-28T18:26:07.000Z"
     },
     {
       "id": "665125e7-9eab-4fa6-8e22-023c5b84abda",
@@ -8858,6 +9013,31 @@
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
     {
+      "id": "a38dc228-9dd5-45f6-ade9-0a976f48fd50",
+      "company": "L3Harris Technologies",
+      "title": "Software Engineering Intern (Carlsbad, CA)",
+      "locations": [
+        "Carlsbad, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.l3harris.com/job/Carlsbad-Software-Engineering-Intern-%28Carlsbad%2C-CA%29-CA-92009/1444689600/",
+      "url": "https://trueinterview.io/jobs/a38dc228-9dd5-45f6-ade9-0a976f48fd50",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
       "id": "8f4be915-0296-49c1-8348-cca68d47f7e6",
       "company": "lydian",
       "title": "Mechanical Engineer Co-op",
@@ -9245,6 +9425,31 @@
       "source": "career-sites",
       "applyUrl": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200",
       "url": "https://trueinterview.io/jobs/13cb9f15-174a-49b4-9229-b79a37fd1bef",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "215b55c5-3797-422c-b114-3060a9c3b4b0",
+      "company": "Valmont Industries, Inc.",
+      "title": "AI & Data Engineering Intern",
+      "locations": [
+        "Omaha, Nebraska, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310",
+      "url": "https://trueinterview.io/jobs/215b55c5-3797-422c-b114-3060a9c3b4b0",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
