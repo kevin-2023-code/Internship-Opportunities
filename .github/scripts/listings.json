@@ -5,9 +5,196 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-28T03:06:03.333Z",
-  "count": 1133,
+  "listingsChangedAt": "2026-10-28T13:05:07.212Z",
+  "count": 1138,
   "listings": [
+    {
+      "id": "8bc188e8-6295-46f6-bf18-33899564ff68",
+      "company": "Siemens Energy",
+      "title": "Engineering Graduate Internship Program",
+      "locations": [
+        "Muscat, Masqaţ, Oman"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465732808/",
+      "url": "https://trueinterview.io/jobs/8bc188e8-6295-46f6-bf18-33899564ff68",
+      "postedAt": "2026-10-28T12:38:00.000Z",
+      "updatedAt": "2026-10-28T12:38:00.000Z"
+    },
+    {
+      "id": "476588aa-b8b8-4c95-baf6-c110bad88b8f",
+      "company": "Tencent",
+      "title": "Big Data Development Engineer Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462158296/",
+      "url": "https://trueinterview.io/jobs/476588aa-b8b8-4c95-baf6-c110bad88b8f",
+      "postedAt": "2026-10-28T12:10:00.000Z",
+      "updatedAt": "2026-10-28T12:10:00.000Z"
+    },
+    {
+      "id": "8cc14969-2e50-4498-864d-c67d3756ec77",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Machine Learning Engineer Intern (Payment) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465961864/",
+      "url": "https://trueinterview.io/jobs/8cc14969-2e50-4498-864d-c67d3756ec77",
+      "postedAt": "2026-10-28T12:10:00.000Z",
+      "updatedAt": "2026-10-28T12:10:00.000Z"
+    },
+    {
+      "id": "42817e29-a2e3-4f52-bf90-23b75e77cb40",
+      "company": "TikTok",
+      "title": "Data Science Project Intern (TikTok LIVE) - 2026 Start",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483854953/",
+      "url": "https://trueinterview.io/jobs/42817e29-a2e3-4f52-bf90-23b75e77cb40",
+      "postedAt": "2026-10-28T11:42:00.000Z",
+      "updatedAt": "2026-10-28T11:42:00.000Z"
+    },
+    {
+      "id": "95f3d46b-cc69-4103-875a-9aa5325c4a13",
+      "company": "ByteDance",
+      "title": "Product Management Intern (Global Payment) - 2026 Start (BS/MS)",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476502715/",
+      "url": "https://trueinterview.io/jobs/95f3d46b-cc69-4103-875a-9aa5325c4a13",
+      "postedAt": "2026-10-28T10:42:00.000Z",
+      "updatedAt": "2026-10-28T10:42:00.000Z"
+    },
+    {
+      "id": "f07df43f-731d-445b-9d0e-31c8b4c147d3",
+      "company": "TikTok",
+      "title": "Product Manager Intern (PGC) - 2027 Summer",
+      "locations": [
+        "San Jose, CA",
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4457199967/",
+      "url": "https://trueinterview.io/jobs/f07df43f-731d-445b-9d0e-31c8b4c147d3",
+      "postedAt": "2026-10-28T10:42:00.000Z",
+      "updatedAt": "2026-10-28T10:42:00.000Z"
+    },
+    {
+      "id": "23f431b0-c541-4713-9ca0-51905839a65a",
+      "company": "DoorDash",
+      "title": "Software Engineer, Intern (Summer 2027) - TOR",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466147913/",
+      "url": "https://trueinterview.io/jobs/23f431b0-c541-4713-9ca0-51905839a65a",
+      "postedAt": "2026-10-28T09:43:00.000Z",
+      "updatedAt": "2026-10-28T09:43:00.000Z"
+    },
     {
       "id": "c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
       "company": "42dot",
@@ -161,6 +348,33 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818/application",
       "url": "https://trueinterview.io/jobs/5f83d76e-6161-41fd-865e-6f6ba0228ac9",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "3600e62c-3f66-4127-be63-5cb0a3418cee",
+      "company": "Scale",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467226376/",
+      "url": "https://trueinterview.io/jobs/3600e62c-3f66-4127-be63-5cb0a3418cee",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
@@ -10798,31 +11012,6 @@
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
     {
-      "id": "d5f5614d-b93c-4b79-bf90-7836b92cd7d0",
-      "company": "Nokia",
-      "title": "AI Engineering Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566",
-      "url": "https://trueinterview.io/jobs/d5f5614d-b93c-4b79-bf90-7836b92cd7d0",
-      "postedAt": "2026-10-06T00:00:00.000Z",
-      "updatedAt": "2026-10-06T00:00:00.000Z"
-    },
-    {
       "id": "3bff3754-c7f5-4096-8b57-5fdc32c11ff9",
       "company": "Nokia",
       "title": "ASIC Physical Design Coop",
@@ -20631,32 +20820,6 @@
       "updatedAt": "2026-09-15T17:54:42.000Z"
     },
     {
-      "id": "68bafa80-397c-4028-ab13-8d6241df5167",
-      "company": "Anduril Industries",
-      "title": "Winter 2027 Systems Engineer Co-op",
-      "locations": [
-        "Quincy, Massachusetts, United States",
-        "Quincy, MA (QCY-01)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007",
-      "url": "https://trueinterview.io/jobs/68bafa80-397c-4028-ab13-8d6241df5167",
-      "postedAt": "2026-09-15T17:53:53.000Z",
-      "updatedAt": "2026-09-15T17:53:53.000Z"
-    },
-    {
       "id": "e4e2482a-659d-47b7-bb01-cd5e4362f1c7",
       "company": "Anduril Industries",
       "title": "Winter 2027 Supply Chain Engineer Co-op",
@@ -21409,42 +21572,6 @@
       "url": "https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
       "postedAt": "2026-09-14T22:59:08.000Z",
       "updatedAt": "2026-09-14T22:59:08.000Z"
-    },
-    {
-      "id": "afb11c5f-019c-45c9-8008-bd6b1eb5d1c4",
-      "company": "DoorDash",
-      "title": "Software Engineer, Intern (Summer 2027) - US",
-      "locations": [
-        "New York, NY",
-        "San Francisco, CA",
-        "Sunnyvale, CA",
-        "Los Angeles, CA",
-        "Seattle, WA",
-        "San Francisco"
-      ],
-      "cities": [
-        "New York, NY",
-        "San Francisco, CA",
-        "Sunnyvale, CA",
-        "Los Angeles, CA",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
-      "url": "https://trueinterview.io/jobs/afb11c5f-019c-45c9-8008-bd6b1eb5d1c4",
-      "postedAt": "2026-09-14T22:51:00.000Z",
-      "updatedAt": "2026-09-14T22:51:00.000Z"
     },
     {
       "id": "ebf6c784-70db-498d-b888-1d5d83183a8b",
