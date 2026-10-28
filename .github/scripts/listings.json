@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-28T01:05:33.935Z",
-  "count": 1125,
+  "listingsChangedAt": "2026-10-28T03:06:03.333Z",
+  "count": 1133,
   "listings": [
     {
       "id": "c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
@@ -57,6 +57,87 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply",
       "url": "https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "8f4be915-0296-49c1-8348-cca68d47f7e6",
+      "company": "lydian",
+      "title": "Mechanical Engineer Co-op",
+      "locations": [
+        "Boston"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/lydian/9a3b543c-cee8-4fd9-b5e5-5d44a6f994ef/application",
+      "url": "https://trueinterview.io/jobs/8f4be915-0296-49c1-8348-cca68d47f7e6",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "e1d601d0-0c04-4b18-8eec-567309264473",
+      "company": "mercor",
+      "title": "Research Engineer Intern - Environments, Data and Post-Training",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca/application",
+      "url": "https://trueinterview.io/jobs/e1d601d0-0c04-4b18-8eec-567309264473",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "75797fc5-c95a-4b74-85aa-5b0749b61674",
+      "company": "mercor",
+      "title": "Research Engineer, Intern – Benchmarking",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "senior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application",
+      "url": "https://trueinterview.io/jobs/75797fc5-c95a-4b74-85aa-5b0749b61674",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
@@ -19664,6 +19745,58 @@
       "updatedAt": "2026-09-16T21:13:06.000Z"
     },
     {
+      "id": "d110cb85-9e22-45e3-948a-3789584ff412",
+      "company": "Ms Consultants, Inc",
+      "title": "MEP Engineer Internship - Summer 2027",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.lever.co/msconsultants/93464961-404e-43b7-91d5-3d51f7f2bf85/apply",
+      "url": "https://trueinterview.io/jobs/d110cb85-9e22-45e3-948a-3789584ff412",
+      "postedAt": "2026-09-16T19:59:46.000Z",
+      "updatedAt": "2026-09-16T19:59:46.000Z"
+    },
+    {
+      "id": "16e45d0d-5312-45eb-ac3c-a198fa4ddf5f",
+      "company": "InterSystems",
+      "title": "Micro-Intern: Web Development (IAP)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/intersystems/jobs/7992646003",
+      "url": "https://trueinterview.io/jobs/16e45d0d-5312-45eb-ac3c-a198fa4ddf5f",
+      "postedAt": "2026-09-16T19:38:23.000Z",
+      "updatedAt": "2026-09-16T19:38:23.000Z"
+    },
+    {
       "id": "090e522d-61dc-47f8-bbfb-ee829bae00ee",
       "company": "InterSystems",
       "title": "Micro-Intern: Angular/FHIR Development (IAP)",
@@ -25874,6 +26007,84 @@
       "url": "https://trueinterview.io/jobs/5d4e95b4-9a40-4fa9-871f-4bcc073bec8d",
       "postedAt": "2026-09-07T00:00:00.000Z",
       "updatedAt": "2026-09-07T00:00:00.000Z"
+    },
+    {
+      "id": "c2494bf8-1aeb-45c7-8087-0cbe65e9ad43",
+      "company": "Hewlett Packard Enterprise",
+      "title": "HPC AI Systems Administrator Intern",
+      "locations": [
+        "Bloomington, Minnesota, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
+      "url": "https://trueinterview.io/jobs/c2494bf8-1aeb-45c7-8087-0cbe65e9ad43",
+      "postedAt": "2026-09-06T00:00:00.000Z",
+      "updatedAt": "2026-09-06T00:00:00.000Z"
+    },
+    {
+      "id": "08997276-000e-4d23-8a6d-185d643e679d",
+      "company": "Clera",
+      "title": "Founding Engineer Intern",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/clera/88d809ef-3c2e-44fb-a16b-6aec14960c46/application",
+      "url": "https://trueinterview.io/jobs/08997276-000e-4d23-8a6d-185d643e679d",
+      "postedAt": "2026-09-05T17:11:50.000Z",
+      "updatedAt": "2026-09-05T17:11:50.000Z"
+    },
+    {
+      "id": "dbfffd8a-9d65-4e77-a1b2-650bf94dc748",
+      "company": "Garner Health",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "New York City, New York",
+        "Headquarters"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004",
+      "url": "https://trueinterview.io/jobs/dbfffd8a-9d65-4e77-a1b2-650bf94dc748",
+      "postedAt": "2026-09-04T21:39:04.000Z",
+      "updatedAt": "2026-09-04T21:39:04.000Z"
     },
     {
       "id": "8bb61b40-ac2f-4b12-9c7f-840c77a405d2",
