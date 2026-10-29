@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**57 open roles.** 44 in the United States & Canada · 13 elsewhere in the world.
+**58 open roles.** 45 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f5927b00-fc54-4176-8306-8cb6062f3084">Support Engineering Intern (AI &amp; Automation Focus)</a></td>
 <td>Tampa, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476735746/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kirk Automations</strong></td>
+<td><a href="https://trueinterview.io/jobs/f54100ee-f7bf-49c1-9d2e-173cfccc5005">Intern AI Programmer</a></td>
+<td>Troy, MI</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=0ad3f700baa9c412">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

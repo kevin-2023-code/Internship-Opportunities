@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**72 open roles.**
+**73 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a872e9d-bd54-4aed-8e9a-e0eec89e1c08">Software Engineer Intern</a></td>
 <td>Seattle, Washington, United States</td>
 <td align="center"><a href="https://careers.docusign.com/careers-home/jobs/30597">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Greif</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e933ef2-cfdf-4ae0-b741-427db4db12f5">2027 Spring Engineering Co-Op</a></td>
+<td>Tacoma, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468311206/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
