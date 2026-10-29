@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**188 open roles.** 158 in the United States & Canada · 30 elsewhere in the world.
+**189 open roles.** 158 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -235,6 +235,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Siemens Healthineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
+<td>Canada<br/>Winnipeg, Canada</td>
+<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Same Day Embroidery</strong></td>
 <td><a href="https://trueinterview.io/jobs/10970d70-ef6a-4b93-99ff-54d34e5f2cd9">Software Developer Intern — Part-Time</a></td>
 <td>San Bernardino, CA</td>
@@ -253,13 +260,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/56da7b8a-6912-4ab9-9032-43f965c78eaa">Software Engineer Co-op (January 2027)</a></td>
 <td>Marlborough, Massachusetts, United States</td>
 <td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Healthineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1135,6 +1135,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>
+<td>Harrow, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>FlightSafety International</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc166842-4933-4b17-8ccc-8c5be25d70c5">Software Engineer Internship - Summer 2027</a></td>

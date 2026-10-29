@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
-<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom</td>
+<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>

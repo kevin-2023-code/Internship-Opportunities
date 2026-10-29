@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**542 open roles.** 476 in the United States & Canada · 66 elsewhere in the world.
+**543 open roles.** 476 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,24 +20,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1e0bf3b-37e6-4e43-9e67-08ca96f14dc7">Structural/Bridge Engineering Intern - Summer 2027</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484769660/">Apply</a></td>
+<td><strong>Arrant Construction</strong></td>
+<td><a href="https://trueinterview.io/jobs/002f90bc-fa7e-4ac7-add5-5786f936f4be">Site engineer Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482569007/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>MasTec Industrial, a MasTec Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c651ee9-3bdb-4a3a-97ef-6d7079ba3aef">Internship - Field Engineering</a></td>
-<td>Louisville, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786285/">Apply</a></td>
+<td><strong>Paramify</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef6dd09c-3450-4f5b-8bed-a463a052af54">Cyber Security Solution Engineer (Intern)</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4393994090/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Shield AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2dee971c-fb2b-4009-9568-cd26c8b900ca">Summer 2027 - Product Support Engineering Intern #6470 &amp; #6442</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484766743/">Apply</a></td>
+<td><strong>Sigmatech</strong></td>
+<td><a href="https://trueinterview.io/jobs/9adcfafc-e1f7-4172-a584-0c622c0fb7ef">Space Systems Engineering Intern</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786445/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1420,6 +1420,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Siemens Healthineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
+<td>Canada<br/>Winnipeg, Canada</td>
+<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Uber</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c86e046-9f5e-47a7-bab7-f7f7e9da1d06">2027 Software Engineering Intern, Canada</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
@@ -1480,13 +1487,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b">Software Engineering Intern (Summer 2027)</a></td>
 <td>Sterling, Virginia, United States</td>
 <td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Healthineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**25 open roles.** 7 in the United States & Canada · 18 elsewhere in the world.
+**27 open roles.** 7 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
-<td>London, England, United Kingdom<br/>New York, NY<br/>Menlo Park, CA</td>
+<td>London, England, United Kingdom<br/>London, United Kingdom<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -78,6 +78,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6602b67-bb02-4f59-aa17-d62fb6aa63c5">Ground Engineering Intern (Dublin)</a></td>
+<td>Manchester, England, United Kingdom<br/>Glasgow, Scotland, United Kingdom<br/>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484784179/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a0374a6c-c731-40df-a379-2b099efbf5c3">Highways &amp; Civils Engineering Intern (Bristol)</a></td>
+<td>Bristol, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484778497/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Axiom Math</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e1c4b49-9166-4d73-b80b-2bf3287de01b">Member of Technical Staff Intern</a></td>

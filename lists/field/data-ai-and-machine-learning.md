@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**243 open roles.** 214 in the United States & Canada · 29 elsewhere in the world.
+**244 open roles.** 215 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -34,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
-<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom</td>
+<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -316,6 +316,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c5c0e66d-4d00-47fd-9add-1f760941db6b">2027 Summer Internship - Data Science</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465928019/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/7080c38c-feab-4e80-8b73-ea58aaa05214">FY27 Intern - Deep Learning Research Internship - Canada (4 Months)</a></td>
+<td>Markham, Canada</td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721828828?domain=qualcomm.com">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**37 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>MasTec Industrial, a MasTec Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c651ee9-3bdb-4a3a-97ef-6d7079ba3aef">Internship - Field Engineering</a></td>
-<td>Louisville, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786285/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Redwire</strong></td>
 <td><a href="https://trueinterview.io/jobs/64ba47c8-356d-423d-a229-0035a7e3e34a">Engineering Intern</a></td>

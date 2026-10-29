@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**610 open roles.** 591 in the United States & Canada · 19 elsewhere in the world.
+**615 open roles.** 593 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e0bf3b-37e6-4e43-9e67-08ca96f14dc7">Structural/Bridge Engineering Intern - Summer 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484769660/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ASML</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa79cd88-00b7-4f11-af11-d0aab1c82edf">Co-op - Optical Engineer (Internship)</a></td>
 <td>Wilton Center, CT</td>
@@ -31,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e4ce4350-d6a7-47bf-93d9-49ff6895b136">Chemical/ Process Engineering Intern -Semiconductor- Summer 2027</a></td>
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484786317/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dee971c-fb2b-4009-9568-cd26c8b900ca">Summer 2027 - Product Support Engineering Intern #6470 &amp; #6442</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484766743/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93a1e677-35b8-4efe-b2ef-38d17ed62880">Internship - Sustaining Product Engineering</a></td>
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993994">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d492eddc-30d4-4eb1-9ca4-f13c7faa2143">Internship - Test and Finish Equipment Engineering</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993439">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f4f6d7a7-8d27-4731-b669-f8b5b8fd0a6f">Internship - Unit Test Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993743">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

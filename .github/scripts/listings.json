@@ -5,9 +5,165 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T02:06:59.599Z",
-  "count": 1589,
+  "listingsChangedAt": "2026-10-29T03:06:20.609Z",
+  "count": 1596,
   "listings": [
+    {
+      "id": "002f90bc-fa7e-4ac7-add5-5786f936f4be",
+      "company": "Arrant Construction",
+      "title": "Site engineer Intern",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482569007/",
+      "url": "https://trueinterview.io/jobs/002f90bc-fa7e-4ac7-add5-5786f936f4be",
+      "postedAt": "2026-10-29T02:38:00.000Z",
+      "updatedAt": "2026-10-29T02:38:00.000Z"
+    },
+    {
+      "id": "ef6dd09c-3450-4f5b-8bed-a463a052af54",
+      "company": "Paramify",
+      "title": "Cyber Security Solution Engineer (Intern)",
+      "locations": [
+        "Lehi, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4393994090/",
+      "url": "https://trueinterview.io/jobs/ef6dd09c-3450-4f5b-8bed-a463a052af54",
+      "postedAt": "2026-10-29T02:28:00.000Z",
+      "updatedAt": "2026-10-29T02:28:00.000Z"
+    },
+    {
+      "id": "9adcfafc-e1f7-4172-a584-0c622c0fb7ef",
+      "company": "Sigmatech",
+      "title": "Space Systems Engineering Intern",
+      "locations": [
+        "Arlington, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484786445/",
+      "url": "https://trueinterview.io/jobs/9adcfafc-e1f7-4172-a584-0c622c0fb7ef",
+      "postedAt": "2026-10-29T02:12:00.000Z",
+      "updatedAt": "2026-10-29T02:12:00.000Z"
+    },
+    {
+      "id": "70611491-8cc1-4993-8ab1-2d5d51fb9916",
+      "company": "Samsara",
+      "title": "Software Engineering Internship - London",
+      "locations": [
+        "Harrow, England, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482565740/",
+      "url": "https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916",
+      "postedAt": "2026-10-29T02:00:00.000Z",
+      "updatedAt": "2026-10-29T02:00:00.000Z"
+    },
+    {
+      "id": "b6602b67-bb02-4f59-aa17-d62fb6aa63c5",
+      "company": "Jacobs",
+      "title": "Ground Engineering Intern (Dublin)",
+      "locations": [
+        "Dublin, County Dublin, Ireland",
+        "Manchester, England, United Kingdom",
+        "Glasgow, Scotland, United Kingdom"
+      ],
+      "cities": [
+        "Dublin",
+        "Manchester"
+      ],
+      "countries": [
+        "Ireland",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484784179/",
+      "url": "https://trueinterview.io/jobs/b6602b67-bb02-4f59-aa17-d62fb6aa63c5",
+      "postedAt": "2026-10-29T01:49:00.000Z",
+      "updatedAt": "2026-10-29T01:49:00.000Z"
+    },
+    {
+      "id": "d4fcce79-af6d-45f0-8e21-9adb1ab4ab5b",
+      "company": "CAREER PANACEA",
+      "title": "Civil Engineering Intern - Perth",
+      "locations": [
+        "Perth, Western Australia, Australia"
+      ],
+      "cities": [],
+      "countries": [
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484774711/",
+      "url": "https://trueinterview.io/jobs/d4fcce79-af6d-45f0-8e21-9adb1ab4ab5b",
+      "postedAt": "2026-10-29T01:44:00.000Z",
+      "updatedAt": "2026-10-29T01:44:00.000Z"
+    },
     {
       "id": "a1e0bf3b-37e6-4e43-9e67-08ca96f14dc7",
       "company": "Jacobs",
@@ -23,7 +179,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -86,29 +242,31 @@
       "updatedAt": "2026-10-29T01:06:00.000Z"
     },
     {
-      "id": "6c651ee9-3bdb-4a3a-97ef-6d7079ba3aef",
-      "company": "MasTec Industrial, a MasTec Company",
-      "title": "Internship - Field Engineering",
+      "id": "a0374a6c-c731-40df-a379-2b099efbf5c3",
+      "company": "Jacobs",
+      "title": "Highways & Civils Engineering Intern (Bristol)",
       "locations": [
-        "Louisville, CO"
+        "Bristol, England, United Kingdom"
       ],
-      "cities": [],
+      "cities": [
+        "Bristol"
+      ],
       "countries": [
-        "United States"
+        "United Kingdom"
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484786285/",
-      "url": "https://trueinterview.io/jobs/6c651ee9-3bdb-4a3a-97ef-6d7079ba3aef",
-      "postedAt": "2026-10-29T01:02:00.000Z",
-      "updatedAt": "2026-10-29T01:02:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484778497/",
+      "url": "https://trueinterview.io/jobs/a0374a6c-c731-40df-a379-2b099efbf5c3",
+      "postedAt": "2026-10-29T01:04:00.000Z",
+      "updatedAt": "2026-10-29T01:04:00.000Z"
     },
     {
       "id": "2dee971c-fb2b-4009-9568-cd26c8b900ca",
@@ -123,7 +281,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -875,7 +1033,8 @@
       "locations": [
         "Menlo Park, CA",
         "New York, NY",
-        "London, England, United Kingdom"
+        "London, England, United Kingdom",
+        "London, United Kingdom"
       ],
       "cities": [
         "New York, NY"
@@ -10738,6 +10897,31 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
+      "id": "7080c38c-feab-4e80-8b73-ea58aaa05214",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://app.eightfold.ai/careers/job/446721828828?domain=qualcomm.com",
+      "url": "https://trueinterview.io/jobs/7080c38c-feab-4e80-8b73-ea58aaa05214",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
       "id": "2315f09b-6323-49fe-8b8b-0b0fb030e4c6",
       "company": "Qualcomm",
       "title": "FY27 Intern - Design Automation & Quality Assurance Engineering Intern - Canada (16 months)",
@@ -10762,6 +10946,32 @@
       "applyUrl": "https://app.eightfold.ai/careers/job/446721349404?domain=qualcomm.com",
       "url": "https://trueinterview.io/jobs/2315f09b-6323-49fe-8b8b-0b0fb030e4c6",
       "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
+      "id": "c57264b2-9df6-40f7-83b5-10e7dce498b5",
+      "company": "Siemens Healthineers",
+      "title": "Software Developer Co-op - Red River College",
+      "locations": [
+        "Canada",
+        "Winnipeg, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142",
+      "url": "https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5",
+      "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
@@ -11566,31 +11776,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4467226376/",
       "url": "https://trueinterview.io/jobs/3600e62c-3f66-4127-be63-5cb0a3418cee",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
-      "id": "c57264b2-9df6-40f7-83b5-10e7dce498b5",
-      "company": "Siemens Healthineers",
-      "title": "Software Developer Co-op - Red River College",
-      "locations": [
-        "Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142",
-      "url": "https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },

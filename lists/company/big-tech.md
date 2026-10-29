@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**571 open roles.** 557 in the United States & Canada · 14 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**572 open roles.** 558 in the United States & Canada · 14 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,7 +22,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
-<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom</td>
+<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -168,6 +168,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/7080c38c-feab-4e80-8b73-ea58aaa05214">FY27 Intern - Deep Learning Research Internship - Canada (4 Months)</a></td>
+<td>Markham, Canada</td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721828828?domain=qualcomm.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2315f09b-6323-49fe-8b8b-0b0fb030e4c6">FY27 Intern - Design Automation &amp; Quality Assurance Engineering Intern - Canada (16 months)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://app.eightfold.ai/careers/job/446721349404?domain=qualcomm.com">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6ded744d-101c-41cd-9844-9add22fd0839">Software Development Engineer Internship - Summer -2027 (USA)</a></td>
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/e366112a-8139-4e8a-94e7-7d74520f7f70">Data Engineering Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20188?lang=en-us">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

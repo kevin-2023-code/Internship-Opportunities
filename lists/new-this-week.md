@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**582 open roles.** 498 in the United States & Canada · 84 elsewhere in the world. Everything the employers put up this week.
+**589 open roles.** 501 in the United States & Canada · 88 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arrant Construction</strong></td>
+<td><a href="https://trueinterview.io/jobs/002f90bc-fa7e-4ac7-add5-5786f936f4be">Site engineer Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482569007/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Paramify</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef6dd09c-3450-4f5b-8bed-a463a052af54">Cyber Security Solution Engineer (Intern)</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4393994090/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sigmatech</strong></td>
+<td><a href="https://trueinterview.io/jobs/9adcfafc-e1f7-4172-a584-0c622c0fb7ef">Space Systems Engineering Intern</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786445/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Jacobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1e0bf3b-37e6-4e43-9e67-08ca96f14dc7">Structural/Bridge Engineering Intern - Summer 2027</a></td>
@@ -38,13 +59,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e4ce4350-d6a7-47bf-93d9-49ff6895b136">Chemical/ Process Engineering Intern -Semiconductor- Summer 2027</a></td>
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484786317/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MasTec Industrial, a MasTec Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c651ee9-3bdb-4a3a-97ef-6d7079ba3aef">Internship - Field Engineering</a></td>
-<td>Louisville, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786285/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -253,7 +267,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
-<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom</td>
+<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
@@ -2548,9 +2562,23 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/7080c38c-feab-4e80-8b73-ea58aaa05214">FY27 Intern - Deep Learning Research Internship - Canada (4 Months)</a></td>
+<td>Markham, Canada</td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721828828?domain=qualcomm.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2315f09b-6323-49fe-8b8b-0b0fb030e4c6">FY27 Intern - Design Automation &amp; Quality Assurance Engineering Intern - Canada (16 months)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://app.eightfold.ai/careers/job/446721349404?domain=qualcomm.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Healthineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
+<td>Canada<br/>Winnipeg, Canada</td>
+<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2722,13 +2750,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Siemens Healthineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>University of South Florida</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed7c3d40-d607-4ce3-90a7-b77958016333">IAE Financial Data Analyst Internship - Spring 2027</a></td>
 <td>Greater Tampa Bay Area</td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6db42e44-b2c1-4884-b886-37593e6110e9">Intern - Scientific Software Engineer - Summer 2027</a></td>
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crown Equipment</strong></td>
-<td><a href="https://trueinterview.io/jobs/846b141e-106b-4e78-9675-80bd3be5fd28">Data Services Analyst Co-Op - Spring 2027 - Indefinite Work Authorization Required</a></td>
-<td>New Bremen, OH</td>
-<td align="center"><a href="https://us-careers.crown.com/job/New-Bremen-Data-Services-Analyst-Co-Op-Spring-2027-Indefinite-Work-Authorization-Required-OH-45869/1443984300/?feedId=291500">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2512747-2880-4c28-b72a-8db2147e81f3">Software Engineering Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26010630">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b62060d-2b59-4fb5-9ab0-bc4e65d7385f">Automation Engineer Intern - Electrical</a></td>
-<td>Olathe, KS</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19337/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

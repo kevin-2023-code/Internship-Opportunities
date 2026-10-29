@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**17 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sigmatech</strong></td>
+<td><a href="https://trueinterview.io/jobs/9adcfafc-e1f7-4172-a584-0c622c0fb7ef">Space Systems Engineering Intern</a></td>
+<td>Arlington, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786445/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Systems Planning &amp; Analysis</strong></td>
 <td><a href="https://trueinterview.io/jobs/16450126-9d5b-444a-b216-753e12c43de0">UI/UX Software Intern - Summer 2027</a></td>

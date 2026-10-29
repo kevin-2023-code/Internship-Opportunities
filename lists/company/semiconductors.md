@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**293 open roles.** 292 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**294 open roles.** 293 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -82,6 +82,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/7080c38c-feab-4e80-8b73-ea58aaa05214">FY27 Intern - Deep Learning Research Internship - Canada (4 Months)</a></td>
+<td>Markham, Canada</td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721828828?domain=qualcomm.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2315f09b-6323-49fe-8b8b-0b0fb030e4c6">FY27 Intern - Design Automation &amp; Quality Assurance Engineering Intern - Canada (16 months)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://app.eightfold.ai/careers/job/446721349404?domain=qualcomm.com">Apply</a></td>

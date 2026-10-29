@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**36 open roles.** 34 in the United States & Canada · 2 elsewhere in the world.
+**37 open roles.** 35 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Paramify</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef6dd09c-3450-4f5b-8bed-a463a052af54">Cyber Security Solution Engineer (Intern)</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4393994090/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CloserStill Media</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b83816f-5a19-4fc4-9fd9-14257de9f4e8">Content Intern - Billington CyberSecurity</a></td>
