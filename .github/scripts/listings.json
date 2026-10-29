@@ -5,9 +5,113 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T04:06:00.817Z",
-  "count": 1597,
+  "listingsChangedAt": "2026-10-29T05:05:22.524Z",
+  "count": 1606,
   "listings": [
+    {
+      "id": "dc40b239-9a9b-4c3b-aab6-67741e105688",
+      "company": "Parker Hannifin",
+      "title": "Spring/Summer Engineering Intern",
+      "locations": [
+        "Mineral Wells, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484789561/",
+      "url": "https://trueinterview.io/jobs/dc40b239-9a9b-4c3b-aab6-67741e105688",
+      "postedAt": "2026-10-29T04:27:00.000Z",
+      "updatedAt": "2026-10-29T04:27:00.000Z"
+    },
+    {
+      "id": "e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4",
+      "company": "Tesla",
+      "title": "Internship, Data Engineer, Energy (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484790573/",
+      "url": "https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4",
+      "postedAt": "2026-10-29T04:26:23.000Z",
+      "updatedAt": "2026-10-29T04:26:23.000Z"
+    },
+    {
+      "id": "1776f4c8-8075-4ebe-b2b8-ffeffedcdad9",
+      "company": "Tesla",
+      "title": "Internship, Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484901116/",
+      "url": "https://trueinterview.io/jobs/1776f4c8-8075-4ebe-b2b8-ffeffedcdad9",
+      "postedAt": "2026-10-29T04:24:00.000Z",
+      "updatedAt": "2026-10-29T04:24:00.000Z"
+    },
+    {
+      "id": "570af846-ab5c-4416-9a0e-0c95546d2bd7",
+      "company": "Merck",
+      "title": "2027 Future Talent Program - Device Development & Technology - Systems & Human Factors Engineering - Co-op",
+      "locations": [
+        "Rahway, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484782865/",
+      "url": "https://trueinterview.io/jobs/570af846-ab5c-4416-9a0e-0c95546d2bd7",
+      "postedAt": "2026-10-29T04:05:00.000Z",
+      "updatedAt": "2026-10-29T04:05:00.000Z"
+    },
     {
       "id": "2907a107-45a6-41a0-aea1-dc18667513d3",
       "company": "Tech Lance Pvt Ltd",
@@ -32,6 +136,31 @@
       "url": "https://trueinterview.io/jobs/2907a107-45a6-41a0-aea1-dc18667513d3",
       "postedAt": "2026-10-29T03:47:00.000Z",
       "updatedAt": "2026-10-29T03:47:00.000Z"
+    },
+    {
+      "id": "1f56002b-44c9-4ac7-bf80-7f5f6de02fea",
+      "company": "Glencore Canada",
+      "title": "May 2027 Mechanical Engineering Co-op",
+      "locations": [
+        "Sparwood, British Columbia, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484792231/",
+      "url": "https://trueinterview.io/jobs/1f56002b-44c9-4ac7-bf80-7f5f6de02fea",
+      "postedAt": "2026-10-29T03:23:00.000Z",
+      "updatedAt": "2026-10-29T03:23:00.000Z"
     },
     {
       "id": "3c44563c-9fc7-4dda-9b73-35606dfeeca2",
@@ -10899,6 +11028,33 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
+      "id": "801fafa4-b206-4b06-9c6d-0eb0c0f639f0",
+      "company": "ING",
+      "title": "INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES",
+      "locations": [
+        "Amsterdam, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.ing.com/en/job/amsterdam/internship-software-engineer-ing-mortgages/3121/46421136448",
+      "url": "https://trueinterview.io/jobs/801fafa4-b206-4b06-9c6d-0eb0c0f639f0",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
       "id": "78fd5193-4849-4d25-8a54-5f066146ef96",
       "company": "JD.com",
       "title": "JD Young Supply Chain Data & AI Analyst Internship",
@@ -11411,6 +11567,87 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4454284077/",
       "url": "https://trueinterview.io/jobs/b56bbd6f-15dc-4a18-a897-fa2f0965cbb9",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "31fdfaa0-8c06-4051-ae9c-9fdd5c67b0f9",
+      "company": "HP",
+      "title": "Software Engineering Intern - HP IQ",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+      "url": "https://trueinterview.io/jobs/31fdfaa0-8c06-4051-ae9c-9fdd5c67b0f9",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "1d4d2dd4-054d-4614-b109-564ff32d2e1f",
+      "company": "HP",
+      "title": "Software Engineering Intern, Connectivity - HP IQ",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
+      "url": "https://trueinterview.io/jobs/1d4d2dd4-054d-4614-b109-564ff32d2e1f",
+      "postedAt": "2026-10-28T00:00:00.000Z",
+      "updatedAt": "2026-10-28T00:00:00.000Z"
+    },
+    {
+      "id": "9e5dbcdf-9822-4b56-a0f5-7c7d7ce5659c",
+      "company": "HP",
+      "title": "Software Quality Assurance Intern",
+      "locations": [
+        "San Francisco, California, United States"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+      "url": "https://trueinterview.io/jobs/9e5dbcdf-9822-4b56-a0f5-7c7d7ce5659c",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
