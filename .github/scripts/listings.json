@@ -5,9 +5,246 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T07:05:37.933Z",
-  "count": 1614,
+  "listingsChangedAt": "2026-10-29T08:07:10.919Z",
+  "count": 1628,
   "listings": [
+    {
+      "id": "32fbf546-53d4-4eb5-9c66-e090d70020d4",
+      "company": "Crédit Agricole CIB",
+      "title": ".NET Software Engineer Intern (Jan 2027 intake)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484902928/",
+      "url": "https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4",
+      "postedAt": "2026-10-29T07:19:00.000Z",
+      "updatedAt": "2026-10-29T07:19:00.000Z"
+    },
+    {
+      "id": "b35b89ee-77d2-4eba-8d2f-984dd32b7719",
+      "company": "Boston Scientific",
+      "title": "Software & Systems Testing Engineering Intern",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484910876/",
+      "url": "https://trueinterview.io/jobs/b35b89ee-77d2-4eba-8d2f-984dd32b7719",
+      "postedAt": "2026-10-29T07:16:00.000Z",
+      "updatedAt": "2026-10-29T07:16:00.000Z"
+    },
+    {
+      "id": "25838819-c0e1-471e-ad18-6dfb1c370996",
+      "company": "Crédit Agricole CIB",
+      "title": "Software Developer Intern (Full-time, Jan-Jun 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484904920/",
+      "url": "https://trueinterview.io/jobs/25838819-c0e1-471e-ad18-6dfb1c370996",
+      "postedAt": "2026-10-29T06:59:00.000Z",
+      "updatedAt": "2026-10-29T07:14:00.000Z"
+    },
+    {
+      "id": "8dc7bd75-3f22-4e8a-b8ac-be9290c03555",
+      "company": "Crédit Agricole CIB",
+      "title": ".Net Software Developer Intern (Full-time, Jan-Jun 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484909777/",
+      "url": "https://trueinterview.io/jobs/8dc7bd75-3f22-4e8a-b8ac-be9290c03555",
+      "postedAt": "2026-10-29T07:04:00.000Z",
+      "updatedAt": "2026-10-29T07:04:00.000Z"
+    },
+    {
+      "id": "d5e5960b-64e5-41e6-83f2-75c3804e6abd",
+      "company": "Crédit Agricole CIB",
+      "title": "Java Software Engineer Intern (Jan 2027 intake)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484914463/",
+      "url": "https://trueinterview.io/jobs/d5e5960b-64e5-41e6-83f2-75c3804e6abd",
+      "postedAt": "2026-10-29T07:02:00.000Z",
+      "updatedAt": "2026-10-29T07:02:00.000Z"
+    },
+    {
+      "id": "3e046d50-f100-4d27-9d5c-6d9eeb0605a3",
+      "company": "Signify",
+      "title": "Global Product Management Intern",
+      "locations": [
+        "Eindhoven, North Brabant, Netherlands"
+      ],
+      "cities": [
+        "Eindhoven"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4430981785/",
+      "url": "https://trueinterview.io/jobs/3e046d50-f100-4d27-9d5c-6d9eeb0605a3",
+      "postedAt": "2026-10-29T06:42:00.000Z",
+      "updatedAt": "2026-10-29T06:42:00.000Z"
+    },
+    {
+      "id": "552113c0-f53b-4a52-90d5-418b3e5c9ef4",
+      "company": "SimpleAI",
+      "title": "Software Engineer (Intern)",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484797997/",
+      "url": "https://trueinterview.io/jobs/552113c0-f53b-4a52-90d5-418b3e5c9ef4",
+      "postedAt": "2026-10-29T06:40:00.000Z",
+      "updatedAt": "2026-10-29T06:40:00.000Z"
+    },
+    {
+      "id": "8602f84c-ca01-47f4-a984-fcda414deedf",
+      "company": "Elford, Inc",
+      "title": "Project Engineer Intern",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484773521/",
+      "url": "https://trueinterview.io/jobs/8602f84c-ca01-47f4-a984-fcda414deedf",
+      "postedAt": "2026-10-29T06:37:00.000Z",
+      "updatedAt": "2026-10-29T06:37:00.000Z"
+    },
+    {
+      "id": "20e52ed6-39be-4483-ac57-993da1aa628a",
+      "company": "Boston Scientific",
+      "title": "Industrial Engineer Intern",
+      "locations": [
+        "Maple Grove, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484918217/",
+      "url": "https://trueinterview.io/jobs/20e52ed6-39be-4483-ac57-993da1aa628a",
+      "postedAt": "2026-10-29T06:33:00.000Z",
+      "updatedAt": "2026-10-29T06:33:00.000Z"
+    },
     {
       "id": "958ea8b2-6da0-405f-a1fc-888fc50e210c",
       "company": "Boston Scientific",
@@ -57,6 +294,109 @@
       "url": "https://trueinterview.io/jobs/90a0bd01-d8fc-4dfd-ae4b-c7a0171ab634",
       "postedAt": "2026-10-29T06:26:00.000Z",
       "updatedAt": "2026-10-29T06:26:00.000Z"
+    },
+    {
+      "id": "c35b7173-db55-43bf-aa4f-65cee111d5e0",
+      "company": "Urschel",
+      "title": "Innovation & Development (I&D) Manufacturing Engineering Intern",
+      "locations": [
+        "Chesterton, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473171353/",
+      "url": "https://trueinterview.io/jobs/c35b7173-db55-43bf-aa4f-65cee111d5e0",
+      "postedAt": "2026-10-29T06:18:00.000Z",
+      "updatedAt": "2026-10-29T06:18:00.000Z"
+    },
+    {
+      "id": "3f373b24-8d01-440b-b529-f5fa9432e9f8",
+      "company": "Tetra Pak",
+      "title": "Quality Assurance Intern",
+      "locations": [
+        "Vancouver, WA"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484003969/",
+      "url": "https://trueinterview.io/jobs/3f373b24-8d01-440b-b529-f5fa9432e9f8",
+      "postedAt": "2026-10-29T06:17:00.000Z",
+      "updatedAt": "2026-10-29T06:17:00.000Z"
+    },
+    {
+      "id": "8789ae2c-d0b1-4f85-8c4f-59533306af24",
+      "company": "HPE Aruba Networking",
+      "title": "Mechanical Design Engineering Intern",
+      "locations": [
+        "Roseville, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484427063/",
+      "url": "https://trueinterview.io/jobs/8789ae2c-d0b1-4f85-8c4f-59533306af24",
+      "postedAt": "2026-10-29T06:11:00.000Z",
+      "updatedAt": "2026-10-29T06:11:00.000Z"
+    },
+    {
+      "id": "cf6dea26-7617-4256-a896-ac109df3499d",
+      "company": "Arc",
+      "title": "Manufacturing Engineering Intern",
+      "locations": [
+        "Torrance, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484907509/",
+      "url": "https://trueinterview.io/jobs/cf6dea26-7617-4256-a896-ac109df3499d",
+      "postedAt": "2026-10-29T05:56:00.000Z",
+      "updatedAt": "2026-10-29T05:56:00.000Z"
     },
     {
       "id": "b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5",
@@ -5695,7 +6035,8 @@
       "company": "Glanua",
       "title": "Civil Engineer Intern",
       "locations": [
-        "Loughrea, County Galway, Ireland"
+        "Loughrea, County Galway, Ireland",
+        "Loughrea, Ireland"
       ],
       "cities": [],
       "countries": [
@@ -11279,6 +11620,33 @@
       "source": "indeed",
       "applyUrl": "https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Data---AI-Analyst-Internship_JR104472",
       "url": "https://trueinterview.io/jobs/78fd5193-4849-4d25-8a54-5f066146ef96",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
+      "id": "0b7f5c97-2c92-40ae-a884-f1fd4edfae1c",
+      "company": "L'Oréal",
+      "title": "4-MONTH INTERNSHIP - Starting January 2027 – Data Analyst & Visualisation - HR Tech – Licence 3 - €1300/month",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers-apply.loreal.com/job/Applicationmethods?jobId=259747",
+      "url": "https://trueinterview.io/jobs/0b7f5c97-2c92-40ae-a884-f1fd4edfae1c",
       "postedAt": "2026-10-28T05:00:00.000Z",
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
