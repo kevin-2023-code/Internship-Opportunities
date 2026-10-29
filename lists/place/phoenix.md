@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**32 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d80cfee-4b6d-4631-bfea-4169ba4c2393">Mechanical Engineer Intern - Test Equipment</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468299578/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sundt Construction</strong></td>
 <td><a href="https://trueinterview.io/jobs/4646ff56-58e3-4418-9c29-fbb11476256d">Advanced Facilities - Intern - Engineer</a></td>

@@ -19,8 +19,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Marathon Petroleum Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/53f29ddf-8b08-4a4b-b8f5-86f484b5d65d">Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Fall 2027)</a></td>
-<td>Washington, DC<br/>Canonsburg, PA<br/>Midland, TX<br/>+3 more</td>
+<td><a href="https://trueinterview.io/jobs/53f29ddf-8b08-4a4b-b8f5-86f484b5d65d">Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summer 2027)</a></td>
+<td>Washington, DC<br/>Denver, CO<br/>Canonsburg, PA<br/>+10 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468247552/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

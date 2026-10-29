@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**40 open roles.** 37 in the United States & Canada · 3 elsewhere in the world.
+**41 open roles.** 38 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Galaxy</strong></td>
+<td><a href="https://trueinterview.io/jobs/34c308c4-d19c-4591-af4b-cb1a033ef516">Off-Cycle 2026 Cybersecurity Internship</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459159613/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bass Pro Shops</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b98d112-7f3e-41d1-b080-a642f4e49e03">Cybersecurity Intern Summer 2027</a></td>
