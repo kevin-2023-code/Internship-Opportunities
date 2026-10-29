@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T05:05:22.524Z",
-  "count": 1606,
+  "listingsChangedAt": "2026-10-29T06:08:27.529Z",
+  "count": 1607,
   "listings": [
+    {
+      "id": "b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Associate Technical Product Manager Internship",
+      "locations": [
+        "Frisco, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484912259/",
+      "url": "https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5",
+      "postedAt": "2026-10-29T05:41:00.000Z",
+      "updatedAt": "2026-10-29T05:41:00.000Z"
+    },
     {
       "id": "dc40b239-9a9b-4c3b-aab6-67741e105688",
       "company": "Parker Hannifin",
@@ -2057,7 +2082,8 @@
       "company": "Skyworks Solutions, Inc.",
       "title": "Product Engineering Summer/Fall Co-Op (Jun-Dec 2027)",
       "locations": [
-        "Thousand Oaks, CA"
+        "Thousand Oaks, CA",
+        "Newbury Park, CA"
       ],
       "cities": [],
       "countries": [

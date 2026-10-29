@@ -260,7 +260,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/39733b46-c5e3-4cb8-a672-fd1579825f76">Product Engineering Summer/Fall Co-Op (Jun-Dec 2027)</a></td>
-<td>Thousand Oaks, CA</td>
+<td>Thousand Oaks, CA<br/>Newbury Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484736624/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>

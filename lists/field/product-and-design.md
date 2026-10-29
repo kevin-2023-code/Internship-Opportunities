@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**116 open roles.** 93 in the United States & Canada · 23 elsewhere in the world.
+**117 open roles.** 94 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5">Summer 2027 Associate Technical Product Manager Internship</a></td>
+<td>Frisco, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484912259/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tech Lance Pvt Ltd</strong></td>
 <td><a href="https://trueinterview.io/jobs/2907a107-45a6-41a0-aea1-dc18667513d3">UI/UX Intern</a></td>

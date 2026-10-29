@@ -32,11 +32,11 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-29 05:05 UTC_
+_Last updated: 2026-10-29 06:08 UTC_
 
-**1,440 open internships** from **497 employers** · **511 posted in the last 7 days** · refreshed hourly
+**1,441 open internships** from **497 employers** · **512 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,440 internships by field
+### Browse 1,441 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (482)
 
@@ -44,7 +44,7 @@ _Last updated: 2026-10-29 05:05 UTC_
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (595)
 
-📱 **[Product & Design](#-product--design)** (93)
+📱 **[Product & Design](#-product--design)** (94)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (12)
 
@@ -66,11 +66,11 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🏷️ **By company type** — [🏛️ Big Tech (558)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (293)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (167)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (101)](lists/company/large-tech.md) · [📱 Consumer internet & media (87)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (75)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (56)](lists/company/enterprise-saas.md) · [📐 Engineering & architecture firms (52)](lists/company/engineering-services.md) · [🛒 E-commerce & marketplaces (41)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (31)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (160)](lists/role/software-engineer.md) · [Hardware Engineer (138)](lists/role/hardware-engineer.md) · [Research Scientist (50)](lists/role/research-scientist.md) · [Machine Learning Engineer (44)](lists/role/machine-learning-engineer.md) · [AI Engineer (39)](lists/role/ai-engineer.md) · [Data Scientist (39)](lists/role/data-scientist.md) · [Security Engineer (35)](lists/role/security-engineer.md) · [Product Manager (34)](lists/role/product-manager.md) · [Data Engineer (31)](lists/role/data-engineer.md) · [Data Analyst (25)](lists/role/data-analyst.md) · [+7 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (160)](lists/role/software-engineer.md) · [Hardware Engineer (138)](lists/role/hardware-engineer.md) · [Research Scientist (50)](lists/role/research-scientist.md) · [Machine Learning Engineer (44)](lists/role/machine-learning-engineer.md) · [AI Engineer (39)](lists/role/ai-engineer.md) · [Data Scientist (39)](lists/role/data-scientist.md) · [Product Manager (35)](lists/role/product-manager.md) · [Security Engineer (35)](lists/role/security-engineer.md) · [Data Engineer (31)](lists/role/data-engineer.md) · [Data Analyst (25)](lists/role/data-analyst.md) · [+7 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (380)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (113)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (86)](lists/place/boston.md) · [🌧️ Portland, Boise & Spokane (79)](lists/place/pacific-northwest.md) · [🗽 New York City (71)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (70)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (64)](lists/place/dallas-fort-worth.md) · [🎸 Austin (55)](lists/place/austin.md) · [🏔️ Denver, Boulder & Colorado (36)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (31)](lists/place/phoenix.md) · [+13 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (380)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (113)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (86)](lists/place/boston.md) · [🌧️ Portland, Boise & Spokane (79)](lists/place/pacific-northwest.md) · [🗽 New York City (71)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (70)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (65)](lists/place/dallas-fort-worth.md) · [🎸 Austin (55)](lists/place/austin.md) · [🏔️ Denver, Boulder & Colorado (36)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (31)](lists/place/phoenix.md) · [+13 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (511)](lists/new-this-week.md) · [🌐 Remote (24)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (512)](lists/new-this-week.md) · [🌐 Remote (24)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1750,6 +1750,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </thead>
 <tbody>
 <tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5">Summer 2027 Associate Technical Product Manager Internship</a> 🆕</td>
+<td>Frisco, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484912259/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Tech Lance Pvt Ltd</strong></td>
 <td><a href="https://trueinterview.io/jobs/2907a107-45a6-41a0-aea1-dc18667513d3">UI/UX Intern</a> 🆕</td>
 <td>United States</td>
@@ -1915,13 +1922,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/06001a10-14ec-40bd-acbc-df8d32951e4d">Industrial Designer Intern (Spring 2027)</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20385?lang=en-us">Apply</a></td>
-<td align="center">9d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d481ae67-242f-49a6-b6ad-f0f31aff1123">User Interface Designer Intern</a></td>
-<td>Olathe, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19938?lang=en-us">Apply</a></td>
 <td align="center">9d</td>
 </tr>
 </tbody>
@@ -2150,7 +2150,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 55 of 93.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 55 of 94.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
