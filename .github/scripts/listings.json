@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T21:05:02.334Z",
-  "count": 1933,
+  "listingsChangedAt": "2026-10-29T22:05:23.056Z",
+  "count": 1942,
   "listings": [
     {
       "id": "eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b",
@@ -110,6 +110,31 @@
       "url": "https://trueinterview.io/jobs/42d975d7-3521-4b1f-9c9d-5372549e9faf",
       "postedAt": "2026-10-29T18:40:00.000Z",
       "updatedAt": "2026-10-29T19:31:00.000Z"
+    },
+    {
+      "id": "7709a155-eec6-4a60-831d-a48668112bb4",
+      "company": "Huawei Canada",
+      "title": "Intern Researcher- AI Agents",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485203598/",
+      "url": "https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4",
+      "postedAt": "2026-10-29T19:12:00.000Z",
+      "updatedAt": "2026-10-29T19:12:00.000Z"
     },
     {
       "id": "c05510b8-1994-4b40-a179-d0d82f59fe0e",
@@ -442,6 +467,81 @@
       "url": "https://trueinterview.io/jobs/e6e205fa-2150-4c67-9847-af59d574ca45",
       "postedAt": "2026-10-29T18:59:00.000Z",
       "updatedAt": "2026-10-29T18:59:00.000Z"
+    },
+    {
+      "id": "c6005c00-7179-4812-8ba1-e1ada4780cee",
+      "company": "NVIDIA",
+      "title": "Firmware Application Engineer (RDSS Intern)",
+      "locations": [
+        "Taipei, Taipei City, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467119641/",
+      "url": "https://trueinterview.io/jobs/c6005c00-7179-4812-8ba1-e1ada4780cee",
+      "postedAt": "2026-10-29T18:57:00.000Z",
+      "updatedAt": "2026-10-29T18:57:00.000Z"
+    },
+    {
+      "id": "23b2b871-e871-4abd-962a-0ceb07ddb441",
+      "company": "NVIDIA",
+      "title": "Server Firmware Developer (RDSS Intern)",
+      "locations": [
+        "Taipei, Taipei City, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467130464/",
+      "url": "https://trueinterview.io/jobs/23b2b871-e871-4abd-962a-0ceb07ddb441",
+      "postedAt": "2026-10-29T18:57:00.000Z",
+      "updatedAt": "2026-10-29T18:57:00.000Z"
+    },
+    {
+      "id": "80135084-0830-404b-9607-006bc6fb056e",
+      "company": "GM Financial",
+      "title": "Intern - Data Engineer",
+      "locations": [
+        "Arlington, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197",
+      "url": "https://trueinterview.io/jobs/80135084-0830-404b-9607-006bc6fb056e",
+      "postedAt": "2026-10-29T18:53:04.000Z",
+      "updatedAt": "2026-10-29T18:53:04.000Z"
     },
     {
       "id": "70927a9a-39c7-4262-9f7a-0be9dd768348",
@@ -1249,6 +1349,107 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4484996892/",
       "url": "https://trueinterview.io/jobs/7339af3e-ef93-4bac-bddb-b4b83a1a13e7",
+      "postedAt": "2026-10-29T17:57:00.000Z",
+      "updatedAt": "2026-10-29T17:57:00.000Z"
+    },
+    {
+      "id": "55eb4d90-22d0-47cd-80eb-13f37a09ec4b",
+      "company": "NVIDIA",
+      "title": "Architecture Energy Modeling Engineering Intern - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466804410/",
+      "url": "https://trueinterview.io/jobs/55eb4d90-22d0-47cd-80eb-13f37a09ec4b",
+      "postedAt": "2026-10-29T17:57:00.000Z",
+      "updatedAt": "2026-10-29T17:57:00.000Z"
+    },
+    {
+      "id": "3ac8129e-3c56-4c63-90ed-a009afae9e2d",
+      "company": "NVIDIA",
+      "title": "Deep Learning Software Engineering Intern, Test Development - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4457658515/",
+      "url": "https://trueinterview.io/jobs/3ac8129e-3c56-4c63-90ed-a009afae9e2d",
+      "postedAt": "2026-10-29T17:57:00.000Z",
+      "updatedAt": "2026-10-29T17:57:00.000Z"
+    },
+    {
+      "id": "f3cd12e2-e148-4b2d-bc5f-23b69e0d8745",
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern, AI - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China",
+        "Beijing, Beijing, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4458300957/",
+      "url": "https://trueinterview.io/jobs/f3cd12e2-e148-4b2d-bc5f-23b69e0d8745",
+      "postedAt": "2026-10-29T17:57:00.000Z",
+      "updatedAt": "2026-10-29T17:57:00.000Z"
+    },
+    {
+      "id": "d3295a46-697e-453e-8295-8d11a48b1a4d",
+      "company": "NVIDIA",
+      "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
+      "locations": [
+        "Taipei, Taipei City, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467121615/",
+      "url": "https://trueinterview.io/jobs/d3295a46-697e-453e-8295-8d11a48b1a4d",
       "postedAt": "2026-10-29T17:57:00.000Z",
       "updatedAt": "2026-10-29T17:57:00.000Z"
     },
@@ -10162,6 +10363,31 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
       "url": "https://trueinterview.io/jobs/0a997860-acab-4845-a41c-479d1696fb82",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "f5f97e8e-7945-43c2-9da2-1da5b7a295ae",
+      "company": "Schweitzer Engineering Laboratories (SEL)",
+      "title": "Engineering Intern",
+      "locations": [
+        "Charlotte, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468",
+      "url": "https://trueinterview.io/jobs/f5f97e8e-7945-43c2-9da2-1da5b7a295ae",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -21360,33 +21586,6 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
-      "id": "e2512747-2880-4c28-b72a-8db2147e81f3",
-      "company": "Emerson",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26010630",
-      "url": "https://trueinterview.io/jobs/e2512747-2880-4c28-b72a-8db2147e81f3",
-      "postedAt": "2026-10-27T05:00:00.000Z",
-      "updatedAt": "2026-10-27T05:00:00.000Z"
-    },
-    {
       "id": "9b62060d-2b59-4fb5-9ab0-bc4e65d7385f",
       "company": "Garmin",
       "title": "Automation Engineer Intern - Electrical",
@@ -21753,6 +21952,33 @@
       "source": "indeed",
       "applyUrl": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-%28OH%29-WA-98033/1451927133/",
       "url": "https://trueinterview.io/jobs/62fe4718-7044-468b-adf2-c0899f1782a5",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "4c0a4b82-9e15-4cdd-94a1-e4a7a3c646ac",
+      "company": "Parsons",
+      "title": "Civil Engineer Diploma Intern (UAE National)",
+      "locations": [
+        "Dubai, UAE"
+      ],
+      "cities": [
+        "Dubai"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.parsons.com/jobs/civil-engineer-diploma-intern-uae-national-r-187770-jobs--internship-program--",
+      "url": "https://trueinterview.io/jobs/4c0a4b82-9e15-4cdd-94a1-e4a7a3c646ac",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
