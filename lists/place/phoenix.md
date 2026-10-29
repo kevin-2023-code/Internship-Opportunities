@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**36 open roles.**
+**37 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4c59954-077b-4051-869f-6bbd47423d18">Electrical Engineer Intern (Summer2027)(Onsite)</a></td>
+<td>Tucson, AZ<br/>McKinney, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476935306/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a98643ea-e4ea-497e-8b15-caebf7b78374">Software Engineer Intern</a></td>
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468296586/">Apply</a></td>
@@ -27,7 +34,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/7254bd2c-0d0e-4afc-bd13-58e42ca1e83f">Technical Support Intern - RTP, Durham, Poughkeepsie &amp; Tucson 2027</a></td>
-<td>Tucson, AZ<br/>Poughkeepsie, AR<br/>Durham, NC</td>
+<td>Tucson, AZ<br/>Poughkeepsie, AR<br/>Durham, NC<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456532057/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

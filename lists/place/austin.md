@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**62 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jabil</strong></td>
+<td><a href="https://trueinterview.io/jobs/0db767cf-28d1-459b-a46e-b26d36b72b0b">Validation Engineer Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483221251/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WhiteWater</strong></td>
 <td><a href="https://trueinterview.io/jobs/a76629c8-a792-4128-b7b0-e83a7f985400">Data Science Intern - Summer 2027</a></td>

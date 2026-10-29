@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**126 open roles.** 96 in the United States & Canada · 30 elsewhere in the world.
+**128 open roles.** 96 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -702,6 +702,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>LionsBot International</strong></td>
+<td><a href="https://trueinterview.io/jobs/771f5576-38aa-4cce-89d6-8083261a6495">Product Insight Loop — Fleet Data, Field Research and UX (Internship)</a></td>
+<td>Punggol, North East Community Development Council, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459168399/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>TP Vision</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6c7ee1e-23ad-44c4-9881-f6d15cc144d6">UI/UX Intern – Digital Customer Experience</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
@@ -826,6 +833,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://grnh.se/lvm7bbh2teu">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Upsight</strong></td>
+<td><a href="https://trueinterview.io/jobs/719259d9-5cfd-4e4f-bbd3-a48a889b8a31">Product Management Intern</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/upsight-product-management-intern-2/?f_pg=4">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>

@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**67 open roles.**
+**68 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4c59954-077b-4051-869f-6bbd47423d18">Electrical Engineer Intern (Summer2027)(Onsite)</a></td>
+<td>McKinney, TX<br/>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476935306/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RoviSys Building Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/66e7ff80-b210-4c9f-88d8-c6082311306a">Systems Engineer Co-op - Summer 2027</a></td>

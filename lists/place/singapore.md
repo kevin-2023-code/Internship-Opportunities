@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**56 open roles.**
+**61 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>LionsBot International</strong></td>
+<td><a href="https://trueinterview.io/jobs/771f5576-38aa-4cce-89d6-8083261a6495">Product Insight Loop — Fleet Data, Field Research and UX (Internship)</a></td>
+<td>Punggol, North East Community Development Council, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459168399/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>All jobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/c474cd05-4a34-4473-9ad7-e19d3e53bc83">Cybersecurity Associate (Intern)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474816637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3aff155-2692-4f57-a733-4e630718e247">[2027 Internship] Standard Cell Library Design Engineer Intern</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457642590/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>JR Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9a42849-8843-457e-8231-b6366a5039b2">Signalling Design Engineer Intern</a></td>
@@ -391,7 +412,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>TenthNode.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fc3a456-3a9b-4c87-a407-c7ebea5afe9d">Forward Deployed Engineer Intern</a> 🌐</td>
+<td>Remote — Singapore<br/>Remote, Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/tenthnode-ai-forward-deployed-engineer-intern/?f_pg=3">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Upsight</strong></td>
+<td><a href="https://trueinterview.io/jobs/719259d9-5cfd-4e4f-bbd3-a48a889b8a31">Product Management Intern</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/upsight-product-management-intern-2/?f_pg=4">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d56b1549-84e3-45f4-861c-e410ed7e9274">Software Engineering Intern (Platform &amp; Integrations)</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>

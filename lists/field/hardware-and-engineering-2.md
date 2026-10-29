@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**646 open roles.** 618 in the United States & Canada · 28 elsewhere in the world.
+**653 open roles.** 625 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,62 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/87e8b92c-9eff-4d49-ae25-baa9766c93e7">Grid Modernization Engineering Intern</a></td>
+<td>Loveland, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54277?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3e4e53ae-1782-4648-b60d-5fe8e9e8570f">RF Engineering Content Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54567?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1eeb765-89ba-436c-8726-82c9cf141090">Security Verification/Validation Engineer Intern, BS - Summer 2027</a></td>
+<td>Chandler, AZ, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/16d161f0-c464-4d7e-8703-222f9fdec589">Intern - ID1 Manufacturing Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44629351">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/59753151-3611-4190-8c64-9494a2e3c877">Intern Design Engineer - HIG HBM</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44547378">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/b33d81ca-2dca-4429-81b0-78ec3d3275af">Hardware Engineer II Intern - United States</a></td>
+<td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, United States of America<br/>+4 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/3223bfce-8ab5-4f17-9662-181a6ac83763">EMC Engineer Intern</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/20216?lang=en-us">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/c23fe1d1-1b24-4900-b2f5-795ae2cfd55f">Electrical Validation Intern, BS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
@@ -237,13 +293,6 @@
 <td><a href="https://trueinterview.io/jobs/93a1e677-35b8-4efe-b2ef-38d17ed62880">Internship - Sustaining Product Engineering</a></td>
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993994">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d492eddc-30d4-4eb1-9ca4-f13c7faa2143">Internship - Test and Finish Equipment Engineering</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993439">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

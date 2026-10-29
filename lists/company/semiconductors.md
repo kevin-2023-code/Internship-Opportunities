@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**290 open roles.** 278 in the United States & Canada · 12 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**289 open roles.** 277 in the United States & Canada · 12 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1303,13 +1303,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93a1e677-35b8-4efe-b2ef-38d17ed62880">Internship - Sustaining Product Engineering</a></td>
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993994">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d492eddc-30d4-4eb1-9ca4-f13c7faa2143">Internship - Test and Finish Equipment Engineering</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993439">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

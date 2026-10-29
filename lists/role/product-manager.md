@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**54 open roles.** 37 in the United States & Canada · 17 elsewhere in the world.
+**55 open roles.** 37 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -378,6 +378,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://grnh.se/lvm7bbh2teu">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Upsight</strong></td>
+<td><a href="https://trueinterview.io/jobs/719259d9-5cfd-4e4f-bbd3-a48a889b8a31">Product Management Intern</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/upsight-product-management-intern-2/?f_pg=4">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>

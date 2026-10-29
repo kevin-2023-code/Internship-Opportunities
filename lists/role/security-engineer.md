@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**41 open roles.** 38 in the United States & Canada · 3 elsewhere in the world.
+**43 open roles.** 39 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Vulcan Materials Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c8a2970-aae7-42e0-92ba-2f9860bd287a">2027 Summer Internship-Cybersecurity</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475473333/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Galaxy</strong></td>
 <td><a href="https://trueinterview.io/jobs/34c308c4-d19c-4591-af4b-cb1a033ef516">Off-Cycle 2026 Cybersecurity Internship</a></td>
@@ -295,6 +302,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>All jobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/c474cd05-4a34-4473-9ad7-e19d3e53bc83">Cybersecurity Associate (Intern)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474816637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hilti Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/980e4cab-9fb3-4538-86bf-919d104f9140">Intern - Cybersecurity (m/f/x)</a></td>

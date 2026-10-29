@@ -5,9 +5,575 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T17:05:02.496Z",
-  "count": 1835,
+  "listingsChangedAt": "2026-10-29T18:06:30.446Z",
+  "count": 1863,
   "listings": [
+    {
+      "id": "3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab",
+      "company": "Amway",
+      "title": "Software Engineer Intern – MAGIC Bonus Calc, Summer 2027 (REQ#43437)",
+      "locations": [
+        "Grand Rapids, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485218043/",
+      "url": "https://trueinterview.io/jobs/3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab",
+      "postedAt": "2026-10-29T17:58:00.000Z",
+      "updatedAt": "2026-10-29T17:58:00.000Z"
+    },
+    {
+      "id": "e6ecd849-9f2d-4c58-b180-54a528194d42",
+      "company": "Worley",
+      "title": "Functional Safety Engineering Intern",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485213167/",
+      "url": "https://trueinterview.io/jobs/e6ecd849-9f2d-4c58-b180-54a528194d42",
+      "postedAt": "2026-10-29T17:53:00.000Z",
+      "updatedAt": "2026-10-29T17:53:00.000Z"
+    },
+    {
+      "id": "4d256be0-8acd-4f0c-a12f-bcae9b5428cc",
+      "company": "STV",
+      "title": "Electrical Engineering Intern - Spring 2027",
+      "locations": [
+        "Oklahoma City, OK"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4457297511/",
+      "url": "https://trueinterview.io/jobs/4d256be0-8acd-4f0c-a12f-bcae9b5428cc",
+      "postedAt": "2026-10-29T17:46:00.000Z",
+      "updatedAt": "2026-10-29T17:46:00.000Z"
+    },
+    {
+      "id": "0d960cd8-634d-40d1-b634-008f6bbf65f3",
+      "company": "Seametrics",
+      "title": "Embedded Engineering Intern",
+      "locations": [
+        "Kent, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485200673/",
+      "url": "https://trueinterview.io/jobs/0d960cd8-634d-40d1-b634-008f6bbf65f3",
+      "postedAt": "2026-10-29T17:37:00.000Z",
+      "updatedAt": "2026-10-29T17:37:00.000Z"
+    },
+    {
+      "id": "3ac89541-696b-4711-a25c-d6e16282da91",
+      "company": "AV",
+      "title": "Aeromechanical Engineering Intern",
+      "locations": [
+        "Moorpark, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485204531/",
+      "url": "https://trueinterview.io/jobs/3ac89541-696b-4711-a25c-d6e16282da91",
+      "postedAt": "2026-10-29T17:31:00.000Z",
+      "updatedAt": "2026-10-29T17:31:00.000Z"
+    },
+    {
+      "id": "a4c12fbf-05da-46e5-8fb6-8bc6be037f22",
+      "company": "Hasbro",
+      "title": "2027 Spring - Packaging Engineer Co-op (Jan - July 2027)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485208065/",
+      "url": "https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22",
+      "postedAt": "2026-10-29T17:28:00.000Z",
+      "updatedAt": "2026-10-29T17:28:00.000Z"
+    },
+    {
+      "id": "92b9d2e8-9dd3-442b-b028-0e39ae8900d5",
+      "company": "Hasbro",
+      "title": "2027 Spring - Electrical Engineering Co-op (Jan - July 2027)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484989722/",
+      "url": "https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5",
+      "postedAt": "2026-10-29T17:25:00.000Z",
+      "updatedAt": "2026-10-29T17:25:00.000Z"
+    },
+    {
+      "id": "efd2c855-b001-45aa-b656-f6f620ea79f6",
+      "company": "Arconic",
+      "title": "Quality Control Engineering Intern",
+      "locations": [
+        "Cranberry Township, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476943476/",
+      "url": "https://trueinterview.io/jobs/efd2c855-b001-45aa-b656-f6f620ea79f6",
+      "postedAt": "2026-10-29T17:24:00.000Z",
+      "updatedAt": "2026-10-29T17:24:00.000Z"
+    },
+    {
+      "id": "dd346008-0f3b-480e-b6e2-b0a46888eef3",
+      "company": "AV",
+      "title": "GNC / Autonomy Engineering Intern",
+      "locations": [
+        "Simi Valley, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484990833/",
+      "url": "https://trueinterview.io/jobs/dd346008-0f3b-480e-b6e2-b0a46888eef3",
+      "postedAt": "2026-10-29T17:23:00.000Z",
+      "updatedAt": "2026-10-29T17:23:00.000Z"
+    },
+    {
+      "id": "fefed995-0fc0-4c40-8fcc-37e65f67cb16",
+      "company": "Bose Corporation",
+      "title": "Audio Machine Learning Intern/Co-op",
+      "locations": [
+        "Bloomfield Hills, MI",
+        "Framingham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476945127/",
+      "url": "https://trueinterview.io/jobs/fefed995-0fc0-4c40-8fcc-37e65f67cb16",
+      "postedAt": "2026-10-29T17:23:00.000Z",
+      "updatedAt": "2026-10-29T17:23:00.000Z"
+    },
+    {
+      "id": "fe462826-08bd-4af5-b2f8-106759f24996",
+      "company": "Salas O'Brien",
+      "title": "Electrical Engineering Intern - Summer 2027",
+      "locations": [
+        "Moore, OK"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475481409/",
+      "url": "https://trueinterview.io/jobs/fe462826-08bd-4af5-b2f8-106759f24996",
+      "postedAt": "2026-10-29T17:22:00.000Z",
+      "updatedAt": "2026-10-29T17:22:00.000Z"
+    },
+    {
+      "id": "3fa64407-0490-4326-aef0-780b0e275020",
+      "company": "Armstrong World Industries",
+      "title": "Electrical Engineer Intern (Macon GA) Job",
+      "locations": [
+        "Macon, GA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4456941773/",
+      "url": "https://trueinterview.io/jobs/3fa64407-0490-4326-aef0-780b0e275020",
+      "postedAt": "2026-10-29T17:20:00.000Z",
+      "updatedAt": "2026-10-29T17:20:00.000Z"
+    },
+    {
+      "id": "befb8b75-f0bb-4aa3-b140-358c85e979a5",
+      "company": "Bose Corporation",
+      "title": "Embedded Software Engineer Co-op - Audio Tech",
+      "locations": [
+        "Atlanta, GA",
+        "Framingham, MA",
+        "Troy, MI",
+        "Bloomfield Hills, MI"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476946077/",
+      "url": "https://trueinterview.io/jobs/befb8b75-f0bb-4aa3-b140-358c85e979a5",
+      "postedAt": "2026-10-29T16:57:00.000Z",
+      "updatedAt": "2026-10-29T17:14:00.000Z"
+    },
+    {
+      "id": "a340a99f-0cc6-4da2-a037-41d8e4b7612f",
+      "company": "Honeywell Technologies",
+      "title": "Embedded Engineer - Summer 2027 Intern (US Person Required)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459087027/",
+      "url": "https://trueinterview.io/jobs/a340a99f-0cc6-4da2-a037-41d8e4b7612f",
+      "postedAt": "2026-10-29T17:14:00.000Z",
+      "updatedAt": "2026-10-29T17:14:00.000Z"
+    },
+    {
+      "id": "fab920ef-0c1a-42f8-913b-29ee76e272de",
+      "company": "Honeywell Technologies",
+      "title": "Artificial Intelligence/Machine Learning - Summer 2027 Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459003367/",
+      "url": "https://trueinterview.io/jobs/fab920ef-0c1a-42f8-913b-29ee76e272de",
+      "postedAt": "2026-10-29T17:06:00.000Z",
+      "updatedAt": "2026-10-29T17:06:00.000Z"
+    },
+    {
+      "id": "1aaf7e5f-89cc-466a-a684-fce0c6b946ec",
+      "company": "Honeywell Technologies",
+      "title": "Software Engineer & Computer Science - Summer 2027 Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459071669/",
+      "url": "https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec",
+      "postedAt": "2026-10-28T17:23:00.000Z",
+      "updatedAt": "2026-10-29T16:59:24.000Z"
+    },
+    {
+      "id": "e4c59954-077b-4051-869f-6bbd47423d18",
+      "company": "Raytheon",
+      "title": "Electrical Engineer Intern (Summer2027)(Onsite)",
+      "locations": [
+        "McKinney, TX",
+        "Tucson, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476935306/",
+      "url": "https://trueinterview.io/jobs/e4c59954-077b-4051-869f-6bbd47423d18",
+      "postedAt": "2026-10-29T16:59:00.000Z",
+      "updatedAt": "2026-10-29T16:59:00.000Z"
+    },
+    {
+      "id": "09e1c4c0-d7ca-4958-b087-ac67d7317124",
+      "company": "Bose Corporation",
+      "title": "Data Analytics Engineer Co-op",
+      "locations": [
+        "Framingham, MA",
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476938445/",
+      "url": "https://trueinterview.io/jobs/09e1c4c0-d7ca-4958-b087-ac67d7317124",
+      "postedAt": "2026-10-29T14:24:00.000Z",
+      "updatedAt": "2026-10-29T16:58:00.000Z"
+    },
+    {
+      "id": "d0282c47-0150-42b0-abb5-962021d5280f",
+      "company": "Woodward, Inc.",
+      "title": "Engineering Co-op - Design Engineering | Zeeland, MI (Summer 2027)",
+      "locations": [
+        "Zeeland, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465589122/",
+      "url": "https://trueinterview.io/jobs/d0282c47-0150-42b0-abb5-962021d5280f",
+      "postedAt": "2026-10-29T16:56:00.000Z",
+      "updatedAt": "2026-10-29T16:56:00.000Z"
+    },
+    {
+      "id": "0db767cf-28d1-459b-a46e-b26d36b72b0b",
+      "company": "Jabil",
+      "title": "Validation Engineer Intern",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483221251/",
+      "url": "https://trueinterview.io/jobs/0db767cf-28d1-459b-a46e-b26d36b72b0b",
+      "postedAt": "2026-10-29T16:53:00.000Z",
+      "updatedAt": "2026-10-29T16:53:00.000Z"
+    },
+    {
+      "id": "7237f6cf-aecb-4993-943b-76aa6035cf47",
+      "company": "Raytheon",
+      "title": "Power Electrical Engineer Intern (Summer 2027) - Onsite",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476925841/",
+      "url": "https://trueinterview.io/jobs/7237f6cf-aecb-4993-943b-76aa6035cf47",
+      "postedAt": "2026-10-29T16:51:00.000Z",
+      "updatedAt": "2026-10-29T16:51:00.000Z"
+    },
+    {
+      "id": "771f5576-38aa-4cce-89d6-8083261a6495",
+      "company": "LionsBot International",
+      "title": "Product Insight Loop — Fleet Data, Field Research and UX (Internship)",
+      "locations": [
+        "Punggol, North East Community Development Council, Singapore"
+      ],
+      "cities": [],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459168399/",
+      "url": "https://trueinterview.io/jobs/771f5576-38aa-4cce-89d6-8083261a6495",
+      "postedAt": "2026-10-29T16:49:00.000Z",
+      "updatedAt": "2026-10-29T16:49:00.000Z"
+    },
     {
       "id": "a98643ea-e4ea-497e-8b15-caebf7b78374",
       "company": "Raytheon",
@@ -34,6 +600,33 @@
       "updatedAt": "2026-10-29T16:48:10.000Z"
     },
     {
+      "id": "c474cd05-4a34-4473-9ad7-e19d3e53bc83",
+      "company": "All jobs",
+      "title": "Cybersecurity Associate (Intern)",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474816637/",
+      "url": "https://trueinterview.io/jobs/c474cd05-4a34-4473-9ad7-e19d3e53bc83",
+      "postedAt": "2026-10-29T16:48:00.000Z",
+      "updatedAt": "2026-10-29T16:48:00.000Z"
+    },
+    {
       "id": "77526c8f-0642-4e13-bebd-82e3881f177b",
       "company": "Enterprise Mobility",
       "title": "Intern - Software Engineer, Summer 2027",
@@ -57,6 +650,108 @@
       "url": "https://trueinterview.io/jobs/77526c8f-0642-4e13-bebd-82e3881f177b",
       "postedAt": "2026-10-29T16:47:00.000Z",
       "updatedAt": "2026-10-29T16:47:00.000Z"
+    },
+    {
+      "id": "d3aff155-2692-4f57-a733-4e630718e247",
+      "company": "MediaTek",
+      "title": "[2027 Internship] Standard Cell Library Design Engineer Intern",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4457642590/",
+      "url": "https://trueinterview.io/jobs/d3aff155-2692-4f57-a733-4e630718e247",
+      "postedAt": "2026-10-29T16:44:00.000Z",
+      "updatedAt": "2026-10-29T16:44:00.000Z"
+    },
+    {
+      "id": "52a95f7f-c2dc-4657-89f1-f710acc12733",
+      "company": "Impulse Space",
+      "title": "Avionics Mechanical Engineering Intern (Summer 2027)",
+      "locations": [
+        "Redondo Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484979796/",
+      "url": "https://trueinterview.io/jobs/52a95f7f-c2dc-4657-89f1-f710acc12733",
+      "postedAt": "2026-10-29T16:43:00.000Z",
+      "updatedAt": "2026-10-29T16:43:00.000Z"
+    },
+    {
+      "id": "e7617912-d9d9-483b-b348-293ab82dd16d",
+      "company": "Jacobs",
+      "title": "VDS (Voice, Data, Security) Engineering Intern - Summer 2027",
+      "locations": [
+        "Conshohocken, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476988984/",
+      "url": "https://trueinterview.io/jobs/e7617912-d9d9-483b-b348-293ab82dd16d",
+      "postedAt": "2026-10-29T16:43:00.000Z",
+      "updatedAt": "2026-10-29T16:43:00.000Z"
+    },
+    {
+      "id": "1c8a2970-aae7-42e0-92ba-2f9860bd287a",
+      "company": "Vulcan Materials Company",
+      "title": "2027 Summer Internship-Cybersecurity",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475473333/",
+      "url": "https://trueinterview.io/jobs/1c8a2970-aae7-42e0-92ba-2f9860bd287a",
+      "postedAt": "2026-10-29T16:34:00.000Z",
+      "updatedAt": "2026-10-29T16:34:00.000Z"
     },
     {
       "id": "ba02229f-f231-44af-847e-1526e0078e62",
@@ -103,6 +798,34 @@
       "url": "https://trueinterview.io/jobs/1f2429d6-ae5b-435a-9f3f-fefbb6eb7604",
       "postedAt": "2026-10-29T16:31:00.000Z",
       "updatedAt": "2026-10-29T16:31:00.000Z"
+    },
+    {
+      "id": "7254bd2c-0d0e-4afc-bd13-58e42ca1e83f",
+      "company": "IBM",
+      "title": "Technical Support Intern - RTP, Durham, Poughkeepsie & Tucson 2027",
+      "locations": [
+        "Poughkeepsie, AR",
+        "Tucson, AZ",
+        "Durham, NC",
+        "Research Park, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4456532057/",
+      "url": "https://trueinterview.io/jobs/7254bd2c-0d0e-4afc-bd13-58e42ca1e83f",
+      "postedAt": "2026-10-29T15:39:00.000Z",
+      "updatedAt": "2026-10-29T16:22:00.000Z"
     },
     {
       "id": "cc3e409d-fd1c-4816-9603-843ed5988068",
@@ -365,33 +1088,6 @@
       "updatedAt": "2026-10-29T15:58:00.000Z"
     },
     {
-      "id": "7254bd2c-0d0e-4afc-bd13-58e42ca1e83f",
-      "company": "IBM",
-      "title": "Technical Support Intern - RTP, Durham, Poughkeepsie & Tucson 2027",
-      "locations": [
-        "Poughkeepsie, AR",
-        "Tucson, AZ",
-        "Durham, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4456532057/",
-      "url": "https://trueinterview.io/jobs/7254bd2c-0d0e-4afc-bd13-58e42ca1e83f",
-      "postedAt": "2026-10-29T15:39:00.000Z",
-      "updatedAt": "2026-10-29T15:56:00.000Z"
-    },
-    {
       "id": "8cd2fc69-763d-43c7-8f23-4c837d04829b",
       "company": "Jacobs",
       "title": "Civil Engineering Intern - Summer 2027 (FED/ARL)",
@@ -442,6 +1138,31 @@
       "url": "https://trueinterview.io/jobs/f6c7ee1e-23ad-44c4-9881-f6d15cc144d6",
       "postedAt": "2026-10-29T15:53:00.000Z",
       "updatedAt": "2026-10-29T15:53:00.000Z"
+    },
+    {
+      "id": "af5971a6-34d9-4051-8511-f4b82138ca5b",
+      "company": "MKS Inc.",
+      "title": "2027 Spring Optical Engineering Intern (R20149)",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466851193/",
+      "url": "https://trueinterview.io/jobs/af5971a6-34d9-4051-8511-f4b82138ca5b",
+      "postedAt": "2026-10-29T15:43:00.000Z",
+      "updatedAt": "2026-10-29T15:43:00.000Z"
     },
     {
       "id": "2f3fdcd2-3ce0-409f-ad57-ce0b2b5c3bcd",
@@ -1472,31 +2193,6 @@
       "updatedAt": "2026-10-29T14:25:00.000Z"
     },
     {
-      "id": "09e1c4c0-d7ca-4958-b087-ac67d7317124",
-      "company": "Bose Corporation",
-      "title": "Data Analytics Engineer Co-op",
-      "locations": [
-        "Framingham, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476938445/",
-      "url": "https://trueinterview.io/jobs/09e1c4c0-d7ca-4958-b087-ac67d7317124",
-      "postedAt": "2026-10-29T14:24:00.000Z",
-      "updatedAt": "2026-10-29T14:24:00.000Z"
-    },
-    {
       "id": "cbcc1c8e-bc79-4b53-bbf3-7716d8c71b6c",
       "company": "Graco",
       "title": "Electrical Engineering Intern",
@@ -1875,6 +2571,33 @@
       "url": "https://trueinterview.io/jobs/079fd68c-b790-469d-83b8-c8f26216cf31",
       "postedAt": "2026-10-29T13:34:00.000Z",
       "updatedAt": "2026-10-29T13:34:00.000Z"
+    },
+    {
+      "id": "7a872e9d-bd54-4aed-8e9a-e0eec89e1c08",
+      "company": "Docusign",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Seattle, Washington, United States"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.docusign.com/careers-home/jobs/30597",
+      "url": "https://trueinterview.io/jobs/7a872e9d-bd54-4aed-8e9a-e0eec89e1c08",
+      "postedAt": "2026-10-29T13:33:00.000Z",
+      "updatedAt": "2026-10-29T13:33:00.000Z"
     },
     {
       "id": "fbd00018-c3a2-4617-9d99-3dc34b1b376b",
@@ -7475,6 +8198,31 @@
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
     {
+      "id": "78ae2751-90e4-4c6d-aed2-50ba8761571d",
+      "company": "First Solar",
+      "title": "Intern- Manufacturing Engineering - Integration (Spring 2027)",
+      "locations": [
+        "Perrysburg, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479370815/",
+      "url": "https://trueinterview.io/jobs/78ae2751-90e4-4c6d-aed2-50ba8761571d",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
       "id": "2d87d862-63de-4f29-8209-1818c2f84d40",
       "company": "Infineon Technologies",
       "title": "Internship - Automation Developer (f/m/div)",
@@ -7626,6 +8374,31 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4457483743/",
       "url": "https://trueinterview.io/jobs/c97b39d1-7976-43be-ba37-53af29df7341",
       "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b",
+      "company": "RTX",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "locations": [
+        "Sterling, Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169",
+      "url": "https://trueinterview.io/jobs/ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b",
+      "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
     {
@@ -11703,31 +12476,6 @@
       "updatedAt": "2026-10-28T17:23:00.000Z"
     },
     {
-      "id": "1aaf7e5f-89cc-466a-a684-fce0c6b946ec",
-      "company": "Honeywell Technologies",
-      "title": "Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4459071669/",
-      "url": "https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec",
-      "postedAt": "2026-10-28T17:23:00.000Z",
-      "updatedAt": "2026-10-28T17:23:00.000Z"
-    },
-    {
       "id": "cc53b4a8-97a4-4df2-aa3c-397f0c5dadb4",
       "company": "Honeywell Technologies",
       "title": "Mechanical Engineering - Summer 2027 Intern",
@@ -12461,31 +13209,6 @@
       "url": "https://trueinterview.io/jobs/5fc90ca2-a92d-4ebc-95c9-b43ff3513dd1",
       "postedAt": "2026-10-28T16:51:00.000Z",
       "updatedAt": "2026-10-28T16:51:00.000Z"
-    },
-    {
-      "id": "66191a5d-8867-4957-9cdc-77177311267b",
-      "company": "Honeywell Technologies",
-      "title": "Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4459075188/",
-      "url": "https://trueinterview.io/jobs/66191a5d-8867-4957-9cdc-77177311267b",
-      "postedAt": "2026-10-28T16:49:00.000Z",
-      "updatedAt": "2026-10-28T16:49:00.000Z"
     },
     {
       "id": "efe6ae80-e015-448f-8e57-7f0d934c58d8",
@@ -18412,31 +19135,6 @@
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
     {
-      "id": "ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b",
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "locations": [
-        "Sterling, Virginia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169",
-      "url": "https://trueinterview.io/jobs/ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
       "id": "3600e62c-3f66-4127-be63-5cb0a3418cee",
       "company": "Scale",
       "title": "Software Engineering Intern (Summer 2027)",
@@ -20225,6 +20923,59 @@
       "source": "indeed",
       "applyUrl": "https://careers.rtx.com/global/en/job/01884039",
       "url": "https://trueinterview.io/jobs/61176f88-307c-4411-ac82-7979fca603a0",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
+      "id": "0fc3a456-3a9b-4c87-a407-c7ebea5afe9d",
+      "company": "TenthNode.ai",
+      "title": "Forward Deployed Engineer Intern",
+      "locations": [
+        "Remote, Singapore",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.internsg.com/job/tenthnode-ai-forward-deployed-engineer-intern/?f_pg=3",
+      "url": "https://trueinterview.io/jobs/0fc3a456-3a9b-4c87-a407-c7ebea5afe9d",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
+      "id": "719259d9-5cfd-4e4f-bbd3-a48a889b8a31",
+      "company": "Upsight",
+      "title": "Product Management Intern",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.internsg.com/job/upsight-product-management-intern-2/?f_pg=4",
+      "url": "https://trueinterview.io/jobs/719259d9-5cfd-4e4f-bbd3-a48a889b8a31",
       "postedAt": "2026-10-26T05:00:00.000Z",
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
@@ -37770,31 +38521,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.infineon.com/careers/job/563808971993994",
       "url": "https://trueinterview.io/jobs/93a1e677-35b8-4efe-b2ef-38d17ed62880",
-      "postedAt": "2026-09-17T00:00:00.000Z",
-      "updatedAt": "2026-09-17T00:00:00.000Z"
-    },
-    {
-      "id": "d492eddc-30d4-4eb1-9ca4-f13c7faa2143",
-      "company": "Infineon",
-      "title": "Internship - Test and Finish Equipment Engineering",
-      "locations": [
-        "Leominster, MA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.infineon.com/careers/job/563808971993439",
-      "url": "https://trueinterview.io/jobs/d492eddc-30d4-4eb1-9ca4-f13c7faa2143",
       "postedAt": "2026-09-17T00:00:00.000Z",
       "updatedAt": "2026-09-17T00:00:00.000Z"
     },

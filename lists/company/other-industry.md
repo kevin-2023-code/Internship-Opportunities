@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**10 open roles.** 7 in the United States & Canada · 3 elsewhere in the world. A real classification that none of the other sectors covers.
+**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hasbro</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208065/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5">2027 Spring - Electrical Engineering Co-op (Jan - July 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989722/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Michels Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/34cc3d55-5040-409f-9aa0-5a46aa74f178">Civil Engineer Intern - Michels Canada</a></td>

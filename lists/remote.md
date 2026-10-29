@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**33 open roles.** 24 in the United States & Canada · 9 elsewhere in the world. Postings the pipeline classified as remote.
+**34 open roles.** 24 in the United States & Canada · 10 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -217,6 +217,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10071">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TenthNode.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fc3a456-3a9b-4c87-a407-c7ebea5afe9d">Forward Deployed Engineer Intern</a> 🌐</td>
+<td>Remote — Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/tenthnode-ai-forward-deployed-engineer-intern/?f_pg=3">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Power Digital</strong></td>

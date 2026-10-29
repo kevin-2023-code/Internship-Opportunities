@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**57 open roles.** 48 in the United States & Canada · 9 elsewhere in the world.
+**59 open roles.** 50 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fefed995-0fc0-4c40-8fcc-37e65f67cb16">Audio Machine Learning Intern/Co-op</a></td>
+<td>Bloomfield Hills, MI<br/>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476945127/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/fab920ef-0c1a-42f8-913b-29ee76e272de">Artificial Intelligence/Machine Learning - Summer 2027 Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459003367/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/91eb6e2b-c461-452c-a2b7-44d85c42cfff">Research Intern - Machine Learning and Optimization - Redmond</a></td>

@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**19 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/befb8b75-f0bb-4aa3-b140-358c85e979a5">Embedded Software Engineer Co-op - Audio Tech</a></td>
+<td>Atlanta, GA<br/>Framingham, MA<br/>Troy, MI<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476946077/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/09e1c4c0-d7ca-4958-b087-ac67d7317124">Data Analytics Engineer Co-op</a></td>
+<td>Atlanta, GA<br/>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476938445/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Spectrum</strong></td>
 <td><a href="https://trueinterview.io/jobs/04201af3-cca4-4148-b549-489f2b829901">2027 Summer Intern: Data Science</a></td>

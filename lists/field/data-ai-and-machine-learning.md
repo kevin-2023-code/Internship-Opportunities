@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**286 open roles.** 236 in the United States & Canada · 50 elsewhere in the world.
+**287 open roles.** 237 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fefed995-0fc0-4c40-8fcc-37e65f67cb16">Audio Machine Learning Intern/Co-op</a></td>
+<td>Bloomfield Hills, MI<br/>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476945127/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/fab920ef-0c1a-42f8-913b-29ee76e272de">Artificial Intelligence/Machine Learning - Summer 2027 Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459003367/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/09e1c4c0-d7ca-4958-b087-ac67d7317124">Data Analytics Engineer Co-op</a></td>
+<td>Atlanta, GA<br/>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476938445/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WhiteWater</strong></td>
 <td><a href="https://trueinterview.io/jobs/a76629c8-a792-4128-b7b0-e83a7f985400">Data Science Intern - Summer 2027</a></td>
@@ -50,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e49adb3a-1544-42fe-be0c-642e7c68cfab">Data Analyst Intern (Summer 2027)</a></td>
 <td>Greensboro, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465565542/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bose Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/09e1c4c0-d7ca-4958-b087-ac67d7317124">Data Analytics Engineer Co-op</a></td>
-<td>Framingham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476938445/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -379,13 +393,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8a204635-3dec-4333-9e00-293b490079d8">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
 <td>Rensselaer, Indiana, United States<br/>Rensselaer, NY</td>
 <td align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/US_Only_University_Relations_Career/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/66191a5d-8867-4957-9cdc-77177311267b">Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern (US Person Required)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459075188/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**115 open roles.**
+**116 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Impulse Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/52a95f7f-c2dc-4657-89f1-f710acc12733">Avionics Mechanical Engineering Intern (Summer 2027)</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484979796/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Antares</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fea7f9a-cf5c-48f2-b685-bd75d7c3a906">Reactor Software Engineering Intern - Summer 2027</a></td>

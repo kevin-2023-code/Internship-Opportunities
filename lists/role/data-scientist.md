@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**54 open roles.** 46 in the United States & Canada · 8 elsewhere in the world.
+**53 open roles.** 45 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8a204635-3dec-4333-9e00-293b490079d8">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
 <td>Rensselaer, Indiana, United States<br/>Rensselaer, NY</td>
 <td align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/US_Only_University_Relations_Career/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/66191a5d-8867-4957-9cdc-77177311267b">Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern (US Person Required)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459075188/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

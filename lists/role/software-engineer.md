@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**210 open roles.** 166 in the United States & Canada · 44 elsewhere in the world.
+**212 open roles.** 168 in the United States & Canada · 44 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amway</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab">Software Engineer Intern – MAGIC Bonus Calc, Summer 2027 (REQ#43437)</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485218043/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec">Software Engineer &amp; Computer Science - Summer 2027 Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459071669/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/a98643ea-e4ea-497e-8b15-caebf7b78374">Software Engineer Intern</a></td>
@@ -43,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a45a4ab-1bda-4d66-aa16-6174996f1785">Software Developer Intern - Aviation &amp; Federal (Kansas City)</a></td>
 <td>Kansas City, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467774654/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Docusign</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a872e9d-bd54-4aed-8e9a-e0eec89e1c08">Software Engineer Intern</a></td>
+<td>Seattle, Washington, United States</td>
+<td align="center"><a href="https://careers.docusign.com/careers-home/jobs/30597">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -155,13 +176,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
 <td>Marlborough, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484712231/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec">Software Engineer &amp; Computer Science - Summer 2027 Intern (US Person Required)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459071669/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
