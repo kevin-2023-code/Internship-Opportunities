@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**59 open roles.** 50 in the United States & Canada · 9 elsewhere in the world.
+**60 open roles.** 51 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,9 +18,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Paylocity</strong></td>
+<td><a href="https://trueinterview.io/jobs/2326a4c1-36ab-41a5-8420-edb6dfe9dea2">Machine Learning Engineer Intern</a></td>
+<td>Pittsford, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472781404/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Bose Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/fefed995-0fc0-4c40-8fcc-37e65f67cb16">Audio Machine Learning Intern/Co-op</a></td>
-<td>Bloomfield Hills, MI<br/>Framingham, MA</td>
+<td>Atlanta, GA<br/>Bloomfield Hills, MI<br/>Framingham, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476945127/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

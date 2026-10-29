@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Bose Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/09e1c4c0-d7ca-4958-b087-ac67d7317124">Data Analytics Engineer Co-op</a></td>
-<td>Atlanta, GA<br/>Framingham, MA</td>
+<td>Atlanta, GA<br/>Framingham, MA<br/>Bloomfield Hills, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476938445/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

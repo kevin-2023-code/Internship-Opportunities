@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**26 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/7339af3e-ef93-4bac-bddb-b4b83a1a13e7">Summer 2027 Product Manager Intern</a></td>
+<td>San Diego, CA<br/>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484996892/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cubic Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/301f5a03-69b7-47d9-9e45-fe4aa1d0c260">Mechanical Engineering Intern</a></td>

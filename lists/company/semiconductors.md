@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**289 open roles.** 277 in the United States & Canada · 12 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**285 open roles.** 273 in the United States & Canada · 12 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1124,13 +1124,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c82ba6a3-df5c-4126-a7ee-1e2c1c06e895">Internship - PDK Engineer</a></td>
-<td>Lexington, KY, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971999082">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc3129d9-5982-459a-a93d-98d07da691f6">Digital IC Design Intern, BS - Summer 2027</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+2 more</td>
@@ -1286,13 +1279,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f7b0ce80-82ca-431d-8628-f1de7060f0ae">Internship - Assembly Equipment Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993440">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/39ae79e1-25c1-4304-8c6b-66dbd2444278">Internship - Calibration Equipment Engineering</a></td>
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993442">Apply</a></td>
@@ -1303,13 +1289,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93a1e677-35b8-4efe-b2ef-38d17ed62880">Internship - Sustaining Product Engineering</a></td>
 <td>Leominster, MA, US</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993994">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f4f6d7a7-8d27-4731-b669-f8b5b8fd0a6f">Internship - Unit Test Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971993743">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
@@ -1527,13 +1506,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5c930516-2f31-4aa4-bd97-4c1671a8cbb9">2027 Spring Mechanical Engineer Co-op (Gloucester. MA)</a></td>
 <td>Gloucester, MA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318404507">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca16e324-1029-40d8-b4f1-98557c61d3a6">Internship - Embedded Systems EngineerInternship - Embedded Systems Engineer</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971856932">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

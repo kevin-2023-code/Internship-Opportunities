@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/7339af3e-ef93-4bac-bddb-b4b83a1a13e7">Summer 2027 Product Manager Intern</a></td>
+<td>Mountain View, CA<br/>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484996892/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/91eb6e2b-c461-452c-a2b7-44d85c42cfff">Research Intern - Machine Learning and Optimization - Redmond</a></td>
 <td>Redmond, WA</td>
@@ -271,13 +278,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5e16902-e9d9-47ef-8379-1374ab623cf9">SAP iXp Intern - Site Speed Performance [Newtown Square, PA]</a></td>
-<td>Newtown Square, PA, US, 19073</td>
-<td align="center"><a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Site-Speed-Performance-Newtown-Square%2C-PA-PA-19073/1437760833/">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f9afebbd-7396-4bce-8d52-ebcb04692e64">SAP iXp Intern - Full-Stack AI Developer</a></td>
 <td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Full-Stack-AI-Developer-CA-94304/1425371233/">Apply</a></td>

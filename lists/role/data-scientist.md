@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**53 open roles.** 45 in the United States & Canada · 8 elsewhere in the world.
+**55 open roles.** 47 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boehringer Ingelheim</strong></td>
+<td><a href="https://trueinterview.io/jobs/f33a40bf-384d-4f7d-8cb0-60e4bcc43f68">CMC Regulatory Data Science Co-Op (Hybrid/On-site)</a></td>
+<td>Ridgefield, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477139901/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia-Pacific LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bd32d31-0f4d-4ace-a119-6a0b1df5a970">Georgia-Pacific Data Science Internship - Atlanta, GA (Summer 2027)</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474843181/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WhiteWater</strong></td>
 <td><a href="https://trueinterview.io/jobs/a76629c8-a792-4128-b7b0-e83a7f985400">Data Science Intern - Summer 2027</a></td>
