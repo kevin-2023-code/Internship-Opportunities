@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**224 open roles.** 179 in the United States & Canada · 45 elsewhere in the world.
+**225 open roles.** 180 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -141,6 +141,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3d7843b0-4ec7-40f4-a6c2-8a75ef3e495e">R&amp;D Software Design Intern</a></td>
 <td>Arden Hills, MN<br/>Arden Hills, Minnesota, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484759981/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HII's Mission Technologies division</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027 - 30942</a></td>
+<td>Crane, Indiana, United States</td>
+<td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

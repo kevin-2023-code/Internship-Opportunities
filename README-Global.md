@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-29 22:05 UTC_
+_Last updated: 2026-10-29 23:04 UTC_
 
 **281 open internships** from **159 employers** · **202 posted in the last 7 days** · refreshed hourly
 
@@ -52,7 +52,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (42)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (22)](lists/company/semiconductors.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🏢 Enterprise & business software (12)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (11)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [🛒 E-commerce & marketplaces (6)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [+10 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (45)](lists/role/software-engineer.md) · [Product Manager (18)](lists/role/product-manager.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [Machine Learning Engineer (10)](lists/role/machine-learning-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Embedded Engineer (5)](lists/role/embedded-engineer.md) · [Security Engineer (4)](lists/role/security-engineer.md) · [Hardware Engineer (3)](lists/role/hardware-engineer.md) · [+6 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (45)](lists/role/software-engineer.md) · [Product Manager (18)](lists/role/product-manager.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [Machine Learning Engineer (10)](lists/role/machine-learning-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Embedded Engineer (5)](lists/role/embedded-engineer.md) · [Security Engineer (4)](lists/role/security-engineer.md) · [Hardware Engineer (3)](lists/role/hardware-engineer.md) · [+7 more →](lists/README.md)
 
 📍 **By location** — [🇸🇬 Singapore (62)](lists/place/singapore.md) · [🇬🇧 London & the UK (24)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (15)](lists/place/greater-china.md) · [🇳🇱 Amsterdam & the Benelux (12)](lists/place/benelux.md) · [🇨🇭 Zürich & Switzerland (12)](lists/place/switzerland.md) · [🇮🇪 Dublin & Ireland (11)](lists/place/ireland.md) · [🇫🇷 Paris & France (8)](lists/place/france.md) · [🇩🇪 Berlin, Munich & Germany (5)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (5)](lists/place/iberia.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [+1 more →](lists/README.md)
 

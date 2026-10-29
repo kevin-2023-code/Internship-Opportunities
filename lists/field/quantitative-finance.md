@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**36 open roles.** 18 in the United States & Canada · 18 elsewhere in the world.
+**37 open roles.** 19 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>PIMCO</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a5a3d09-016c-497d-8a48-52dab392287f">2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager</a></td>
+<td>Newport Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460286303/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b4573445-ec49-412f-a0e7-e425bdc78f48">2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US</a></td>
 <td>Newport Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460276955/">Apply</a></td>

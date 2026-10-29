@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T22:05:23.056Z",
-  "count": 1942,
+  "listingsChangedAt": "2026-10-29T23:04:48.762Z",
+  "count": 1945,
   "listings": [
+    {
+      "id": "6a5a3d09-016c-497d-8a48-52dab392287f",
+      "company": "PIMCO",
+      "title": "2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager",
+      "locations": [
+        "Newport Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460286303/",
+      "url": "https://trueinterview.io/jobs/6a5a3d09-016c-497d-8a48-52dab392287f",
+      "postedAt": "2026-10-29T22:13:00.000Z",
+      "updatedAt": "2026-10-29T22:13:00.000Z"
+    },
+    {
+      "id": "b7bc7517-aa99-4bf6-abf0-69478f14da5c",
+      "company": "Lumicera Health Services",
+      "title": "Summer Intern- IT Support",
+      "locations": [
+        "Appleton, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4397043668/",
+      "url": "https://trueinterview.io/jobs/b7bc7517-aa99-4bf6-abf0-69478f14da5c",
+      "postedAt": "2026-10-29T22:04:00.000Z",
+      "updatedAt": "2026-10-29T22:04:00.000Z"
+    },
     {
       "id": "eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b",
       "company": "FortisBC",
@@ -10156,6 +10206,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4479370815/",
       "url": "https://trueinterview.io/jobs/78ae2751-90e4-4c6d-aed2-50ba8761571d",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "fa9b488d-9dd6-43b2-b707-885e01401b07",
+      "company": "HII's Mission Technologies division",
+      "title": "Software Engineer, Intern - Summer 2027 - 30942",
+      "locations": [
+        "Crane, Indiana, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/",
+      "url": "https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -23048,33 +23123,6 @@
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
     {
-      "id": "57e1c549-2c43-4c11-8303-b372041916c9",
-      "company": "Niantic Spatial",
-      "title": "Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43",
-      "url": "https://trueinterview.io/jobs/57e1c549-2c43-4c11-8303-b372041916c9",
-      "postedAt": "2026-10-26T05:00:00.000Z",
-      "updatedAt": "2026-10-26T05:00:00.000Z"
-    },
-    {
       "id": "3750c7b7-fb5a-487c-b954-8b773e8a0c24",
       "company": "Northrop Grumman",
       "title": "2027 Software Engineer Intern - Azusa CA",
@@ -25179,6 +25227,33 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318749632",
       "url": "https://trueinterview.io/jobs/42f54b77-fdeb-4022-a1f4-a75761843af1",
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "updatedAt": "2026-10-21T00:00:00.000Z"
+    },
+    {
+      "id": "6b4cfb49-abd2-4f13-a2d9-3b599d9c9c89",
+      "company": "Behaviour Interactive",
+      "title": "Technical Animator - 7 Days to Die - Internship Winter 2027 | Animateur·trice technique - 7 Days to Die - Stage Hiver 2027",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/bhvr/2ea4517a-0730-4f28-bcb0-7a643ad62d97",
+      "url": "https://trueinterview.io/jobs/6b4cfb49-abd2-4f13-a2d9-3b599d9c9c89",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },

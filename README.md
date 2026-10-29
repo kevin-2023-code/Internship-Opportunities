@@ -32,11 +32,11 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-29 22:05 UTC_
+_Last updated: 2026-10-29 23:04 UTC_
 
-**1,661 open internships** from **626 employers** · **765 posted in the last 7 days** · refreshed hourly
+**1,664 open internships** from **628 employers** · **767 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,661 internships by field
+### Browse 1,664 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (622)
 
@@ -44,11 +44,11 @@ _Last updated: 2026-10-29 22:05 UTC_
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (624)
 
-📱 **[Product & Design](#-product--design)** (103)
+📱 **[Product & Design](#-product--design)** (104)
 
-📈 **[Quantitative Finance](#-quantitative-finance)** (18)
+📈 **[Quantitative Finance](#-quantitative-finance)** (19)
 
-🧰 **[IT & Support](#-it--support)** (48)
+🧰 **[IT & Support](#-it--support)** (49)
 
 ---
 
@@ -56,7 +56,7 @@ _Last updated: 2026-10-29 22:05 UTC_
 
 **Relativity Space** 20 &nbsp;·&nbsp; **Meta** 16 &nbsp;·&nbsp; **Skyworks Solutions, Inc.** 15 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Raytheon** 10 &nbsp;·&nbsp; **Brunswick Corporation** 8 &nbsp;·&nbsp; **Jacobs** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Siemens** 7 &nbsp;·&nbsp; **WSP in the U.S.** 7 &nbsp;·&nbsp; **Applied Materials** 6 &nbsp;·&nbsp; **Boston Scientific** 6
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 137 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 138 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -66,11 +66,11 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🏷️ **By company type** — [🏛️ Big Tech (530)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (268)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (166)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (105)](lists/company/large-tech.md) · [📱 Consumer internet & media (87)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (73)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (57)](lists/company/enterprise-saas.md) · [📐 Engineering & architecture firms (51)](lists/company/engineering-services.md) · [🛒 E-commerce & marketplaces (38)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (31)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (179)](lists/role/software-engineer.md) · [Hardware Engineer (129)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (51)](lists/role/machine-learning-engineer.md) · [Research Scientist (51)](lists/role/research-scientist.md) · [Data Scientist (48)](lists/role/data-scientist.md) · [AI Engineer (46)](lists/role/ai-engineer.md) · [Product Manager (41)](lists/role/product-manager.md) · [Security Engineer (39)](lists/role/security-engineer.md) · [Data Engineer (31)](lists/role/data-engineer.md) · [Data Analyst (30)](lists/role/data-analyst.md) · [+6 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (180)](lists/role/software-engineer.md) · [Hardware Engineer (129)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (51)](lists/role/machine-learning-engineer.md) · [Research Scientist (51)](lists/role/research-scientist.md) · [Data Scientist (48)](lists/role/data-scientist.md) · [AI Engineer (46)](lists/role/ai-engineer.md) · [Product Manager (41)](lists/role/product-manager.md) · [Security Engineer (39)](lists/role/security-engineer.md) · [Data Engineer (31)](lists/role/data-engineer.md) · [Data Analyst (30)](lists/role/data-analyst.md) · [+7 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (389)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (115)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (82)](lists/place/boston.md) · [🗽 New York City (82)](lists/place/new-york.md) · [🌧️ Portland, Boise & Spokane (80)](lists/place/pacific-northwest.md) · [🌲 Seattle & Puget Sound (73)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (70)](lists/place/dallas-fort-worth.md) · [🎸 Austin (62)](lists/place/austin.md) · [🏔️ Denver, Boulder & Colorado (38)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (38)](lists/place/phoenix.md) · [+13 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (388)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (115)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (82)](lists/place/boston.md) · [🗽 New York City (82)](lists/place/new-york.md) · [🌧️ Portland, Boise & Spokane (80)](lists/place/pacific-northwest.md) · [🌲 Seattle & Puget Sound (73)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (70)](lists/place/dallas-fort-worth.md) · [🎸 Austin (62)](lists/place/austin.md) · [🏔️ Denver, Boulder & Colorado (38)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (38)](lists/place/phoenix.md) · [+13 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (765)](lists/new-this-week.md) · [🌐 Remote (27)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (767)](lists/new-this-week.md) · [🌐 Remote (27)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1384,6 +1384,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </thead>
 <tbody>
 <tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/3103bc83-c75d-45cc-b58e-edd946de7182">Industrialization Engineer Intern (Summer 2027)</a></td>
+<td>Longueuil, Canada<br/>Longueuil Office</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817930002?gh_jid=8817930002">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/09ab014e-389f-410a-8953-c21188c24fde">Winter 2027 Intern/Co-op Development Engineer</a></td>
 <td>Rochester, MN, United States</td>
@@ -1724,13 +1731,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/81830d78-ccd2-40b2-ac06-f8c470130ddb">Intern - ASIC Digital Design</a></td>
 <td>Minneapolis, MN, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44544601">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8791d541-8066-4f69-8524-5de9a2953931">Intern - TSE KEG Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44544643">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -2157,7 +2157,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 56 of 103.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 56 of 104.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -2170,6 +2170,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tbody>
 <tr>
 <td><strong>PIMCO</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a5a3d09-016c-497d-8a48-52dab392287f">2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager</a> 🆕</td>
+<td>Newport Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460286303/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b4573445-ec49-412f-a0e7-e425bdc78f48">2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US</a> 🆕</td>
 <td>Newport Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460276955/">Apply</a></td>
@@ -2322,6 +2329,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </thead>
 <tbody>
 <tr>
+<td><strong>Lumicera Health Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7bc7517-aa99-4bf6-abf0-69478f14da5c">Summer Intern- IT Support</a> 🆕</td>
+<td>Appleton, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4397043668/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>LCS</strong></td>
 <td><a href="https://trueinterview.io/jobs/9800d3d9-6ca3-4c06-9ef5-4fbf8a198652">IT Service Desk Intern</a> 🆕</td>
 <td>Des Moines, IA</td>
@@ -2473,7 +2487,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/a5dbfd08-0aa7-44f0-b673-379f1243f5a9">Summer Internship</a></td>
 <td>Burlington, Vermont<br/>Vermont</td>
 <td align="center"><a href="https://www.nuharborsecurity.com/careers?gh_jid=8259956">Apply</a></td>
-<td align="center">22d</td>
+<td align="center">23d</td>
 </tr>
 <tr>
 <td><strong>Tensorwave</strong></td>
@@ -2488,13 +2502,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td>Ann Arbor, MI, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Digital-Twin-Eng-Apps-Intern_2641775-1">Apply</a></td>
 <td align="center">23d</td>
-</tr>
-<tr>
-<td><strong>Tensorwave</strong></td>
-<td><a href="https://trueinterview.io/jobs/4362df05-75d3-4217-8e58-0b94957f1286">IT Service Desk Intern</a></td>
-<td>Las Vegas, Nevada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/b98359ff-2f74-4e48-a57a-81bb5f5ef7f5/application">Apply</a></td>
-<td align="center">24d</td>
 </tr>
 </tbody>
 </table>
@@ -2652,7 +2659,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 45 of 48.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 45 of 49.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---

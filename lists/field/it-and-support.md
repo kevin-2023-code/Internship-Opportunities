@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**57 open roles.** 48 in the United States & Canada · 9 elsewhere in the world.
+**58 open roles.** 49 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lumicera Health Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7bc7517-aa99-4bf6-abf0-69478f14da5c">Summer Intern- IT Support</a></td>
+<td>Appleton, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4397043668/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>LCS</strong></td>
 <td><a href="https://trueinterview.io/jobs/9800d3d9-6ca3-4c06-9ef5-4fbf8a198652">IT Service Desk Intern</a></td>

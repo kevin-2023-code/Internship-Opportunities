@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**389 open roles.**
+**388 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -540,13 +540,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8b9c3f8d-649b-41c7-8c7c-8808337f9483">Battery Engineering Intern, Cell Engineering (PhD)</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/938682979075854/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Niantic Spatial</strong></td>
-<td><a href="https://trueinterview.io/jobs/57e1c549-2c43-4c11-8303-b372041916c9">Software Engineering Intern (Summer 2027) - Native SDK &amp; Mobile Platforms</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>

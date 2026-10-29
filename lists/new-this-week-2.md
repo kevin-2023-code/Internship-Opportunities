@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**967 open roles.** 765 in the United States & Canada · 202 elsewhere in the world. Everything the employers put up this week.
+**969 open roles.** 767 in the United States & Canada · 202 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Navy Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/56b1416e-0081-4046-a45c-71b8fe0c0491">Summer Associate Internship (Product Security Engineer)</a></td>
+<td>Vienna, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467915763/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba America Electronic Components, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e8f8e9f-887c-4825-9008-e924564c8b7d">5054 SSW Engineer Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482535779/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Assurant</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2e41f42-4ba0-40ba-a510-885a8206ea93">Summer 2027 Intern: Software Engineering Intern</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545499/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BAE Systems, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/51abd403-93be-4a3d-952a-a1a93e01c4df">Electrical Engineering Internship Summer 2027</a></td>
@@ -2137,13 +2158,6 @@
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Niantic Spatial</strong></td>
-<td><a href="https://trueinterview.io/jobs/57e1c549-2c43-4c11-8303-b372041916c9">Software Engineering Intern (Summer 2027) - Native SDK &amp; Mobile Platforms</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/3750c7b7-fb5a-487c-b954-8b773e8a0c24">2027 Software Engineer Intern - Azusa CA</a></td>
 <td>Azusa, CA</td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3f472ec5-b28f-4315-bb00-a20781ee2a6d">Firmware Intern</a></td>
 <td>Lausanne, Vaud, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa8dcff-7a3e-4168-b7d1-c6e05c44c433">Software Testing Intern</a></td>
-<td>Wuhan, Hubei, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942938/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/d94001a8-4e88-4fd1-ab9d-1216973b42a4">Internship - Lab Support Engineer (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474199747/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

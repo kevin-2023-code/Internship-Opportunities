@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**136 open roles.** 103 in the United States & Canada · 33 elsewhere in the world.
+**137 open roles.** 104 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -226,6 +226,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA, Headquarters</td>
 <td align="center"><a href="https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Behaviour Interactive</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b4cfb49-abd2-4f13-a2d9-3b599d9c9c89">Technical Animator - 7 Days to Die - Internship Winter 2027 | Animateur·trice technique - 7 Days to Die - Stage Hiver 2027</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/bhvr/2ea4517a-0730-4f28-bcb0-7a643ad62d97">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>

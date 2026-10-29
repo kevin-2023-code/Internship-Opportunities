@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-10-29 22:05 UTC_
+_Last updated: 2026-10-29 23:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 218 of the 745 employers on this list (53% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 218 of the 747 employers on this list (53% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -16,7 +16,7 @@ _Last updated: 2026-10-29 22:05 UTC_
 
 🏷️ **[By company type](#️-by-company-type)** — Who the employer is: the size cut you were after, or the sector. (23 filters)
 
-🧑‍💻 **[By role](#-by-role)** — The catalog's own role classification, not a keyword search on the title. (16 filters)
+🧑‍💻 **[By role](#-by-role)** — The catalog's own role classification, not a keyword search on the title. (17 filters)
 
 📍 **[By location](#-by-location)** — Metro areas the postings actually resolve to. (30 filters)
 
@@ -35,9 +35,9 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 | [💻 Software Engineering](field/software-engineering.md) | 622 | 133 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 624 | 31 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 246 | 57 |
-| [📱 Product & Design](field/product-and-design.md) | 103 | 33 |
-| [🧰 IT & Support](field/it-and-support.md) | 48 | 9 |
-| [📈 Quantitative Finance](field/quantitative-finance.md) | 18 | 18 |
+| [📱 Product & Design](field/product-and-design.md) | 104 | 33 |
+| [🧰 IT & Support](field/it-and-support.md) | 49 | 9 |
+| [📈 Quantitative Finance](field/quantitative-finance.md) | 19 | 18 |
 
 ---
 
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,026 of the 1,942** internships on this list (53%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,026 of the 1,945** internships on this list (53%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,13 +79,13 @@ _Between them these 23 filters hold **1,026 of the 1,942** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 16 filters hold **861 of the 1,942** internships on this list (44%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 17 filters hold **867 of the 1,945** internships on this list (45%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 179 | 45 |
+| [Software Engineer](role/software-engineer.md) | 180 | 45 |
 | [Hardware Engineer](role/hardware-engineer.md) | 129 | 3 |
 | [AI Engineer](role/ai-engineer.md) | 46 | 16 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 51 | 10 |
@@ -101,6 +101,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 11 | 2 |
 | [Frontend Engineer](role/frontend-engineer.md) | 4 | 2 |
 | [Platform Engineer](role/platform-engineer.md) | 4 | 1 |
+| [Quantitative Developer](role/quantitative-developer.md) | 3 | 2 |
 
 ---
 
@@ -108,11 +109,11 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 30 filters hold **1,192 of the 1,942** internships on this list (61%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 30 filters hold **1,192 of the 1,945** internships on this list (61%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 389 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 388 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 115 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎓 Boston & Cambridge](place/boston.md) | 82 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
 | [🗽 New York City](place/new-york.md) | 82 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
@@ -136,7 +137,7 @@ _Between them these 30 filters hold **1,192 of the 1,942** internships on this l
 | [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 13 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in UT: Salt Lake City, Lehi, Provo, Draper, South Jordan, Sandy, Ogden. |
 | [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 0 | 12 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🇮🇪 Dublin & Ireland](place/ireland.md) | 0 | 11 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🥐 Montréal & Québec](place/montreal.md) | 7 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in QC: Montreal, MontréAl, Quebec City, Laval, Sherbrooke. |
+| [🥐 Montréal & Québec](place/montreal.md) | 8 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in QC: Montreal, MontréAl, Quebec City, Laval, Sherbrooke. |
 | [🇫🇷 Paris & France](place/france.md) | 0 | 8 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [⛰️ Vancouver & British Columbia](place/vancouver.md) | 7 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in BC: Vancouver, Burnaby, Richmond, Surrey, Victoria. |
 | [🌎 México, Brazil & Latin America](place/latam.md) | 1 | 5 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
@@ -149,11 +150,11 @@ _Between them these 30 filters hold **1,192 of the 1,942** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **991 of the 1,942** internships on this list (51%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **993 of the 1,945** internships on this list (51%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 765 | 202 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 767 | 202 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 27 | 10 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---
