@@ -74,9 +74,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab973969-7885-4b44-951d-36aa0aeaf143">Quantitative Research Intern</a></td>
-<td>Singapore, Singapore</td>
+<td>Singapore, Singapore<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439779958/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
+<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Capstone Investment Advisors</strong></td>
