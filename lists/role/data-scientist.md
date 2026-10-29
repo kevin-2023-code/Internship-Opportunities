@@ -41,8 +41,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Sallie Mae</strong></td>
 <td><a href="https://trueinterview.io/jobs/91dffa76-eef8-4068-91a6-c0cf63398248">Data Science &amp; Engineering Intern</a></td>
-<td>Arlington, VA<br/>Newark, DE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484940742/">Apply</a></td>
+<td>Arlington, VA<br/>Newark, Delaware, United States<br/>Arlington, Virginia, United States</td>
+<td align="center"><a href="https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
