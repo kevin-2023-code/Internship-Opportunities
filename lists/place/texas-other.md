@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**22 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoviSys Building Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/66e7ff80-b210-4c9f-88d8-c6082311306a">Systems Engineer Co-op - Summer 2027</a></td>
+<td>Houston, TX<br/>Austin, TX<br/>Dallas, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475714326/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WSP in the U.S.</strong></td>
 <td><a href="https://trueinterview.io/jobs/647cd0b1-a4b6-4b39-9f2e-bf35031f68fd">Power Distribution Design Engineering Intern - Summer 2027</a></td>

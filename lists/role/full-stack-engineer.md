@@ -19,7 +19,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Marketeq Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/bef67aeb-276a-4496-bdfb-9142f876df8a">AI Product Internship ( U.S.A Only)</a></td>
+<td><a href="https://trueinterview.io/jobs/bef67aeb-276a-4496-bdfb-9142f876df8a">AI Product Internship ( Remote, U.S.A Only)</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484702227/">Apply</a></td>
 <td align="center">29 Oct 2026</td>

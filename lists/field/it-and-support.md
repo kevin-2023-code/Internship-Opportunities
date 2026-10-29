@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**52 open roles.** 44 in the United States & Canada · 8 elsewhere in the world.
+**53 open roles.** 45 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Danaher</strong></td>
+<td><a href="https://trueinterview.io/jobs/c61391e4-4f26-40e0-ad8c-7cb6a7a2eb21">IT Analyst Co-op</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474464871/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Fujitsu</strong></td>
 <td><a href="https://trueinterview.io/jobs/80006a31-47a5-43ff-98f4-a3e286b976e0">Network Engineering Co-op</a></td>

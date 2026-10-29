@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>OPSWAT</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5927b00-fc54-4176-8306-8cb6062f3084">Support Engineering Intern (AI &amp; Automation Focus)</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476735746/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3090207-563f-4641-ad2e-88c7e6b540ce">Mobile Software Engineering Intern 2027</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459083109/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459075219/">Apply</a></td>

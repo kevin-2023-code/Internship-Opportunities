@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**136 open roles.** 135 in the United States & Canada · 1 elsewhere in the world.
+**135 open roles.** 134 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -708,13 +708,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f52ee40b-ad37-42aa-834b-79076e056603">Winter 2027 PCB Layout Engineer Co-op</a></td>
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2fafdfdb-dd37-4e3b-974d-3c23c09a6891">Winter 2027 EWIS Harness Engineer Co-op</a></td>
-<td>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236577007?gh_jid=5236577007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 <tr>

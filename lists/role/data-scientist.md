@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**49 open roles.** 41 in the United States & Canada · 8 elsewhere in the world.
+**52 open roles.** 44 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Apexanalytix</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cb8555e-ff7a-4ed9-af5f-fb45d46f726a">Data Science Intern (Summer 2027)</a></td>
+<td>Greensboro, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466584705/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dow Jones</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f960031-784c-42d6-8076-d75ccd1f6daf">Summer 2027 Internship Program - Marketing Data Science Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476929748/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Spectrum</strong></td>
 <td><a href="https://trueinterview.io/jobs/04201af3-cca4-4148-b549-489f2b829901">2027 Summer Intern: Data Science</a></td>
 <td>Sandy Springs, GA</td>
@@ -29,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/91dffa76-eef8-4068-91a6-c0cf63398248">Data Science &amp; Engineering Intern</a></td>
 <td>Arlington, VA<br/>Newark, DE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484940742/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Syngenta Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/a945ff4b-35b2-4338-8641-30d446111777">Data Scientist Intern</a></td>
+<td>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415-data-scientist-intern">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

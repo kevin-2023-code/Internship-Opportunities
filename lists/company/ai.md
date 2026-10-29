@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**21 open roles.** 20 in the United States & Canada · 1 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**22 open roles.** 21 in the United States & Canada · 1 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,6 +37,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/0df05b5e-0c8b-4a45-8cf7-2f0212c01d25">Co-op, Mechatronics Engineer</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://grnh.se/sbx5ejds9us">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Crusoe</strong></td>

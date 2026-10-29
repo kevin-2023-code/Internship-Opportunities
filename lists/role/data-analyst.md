@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**39 open roles.** 26 in the United States & Canada · 13 elsewhere in the world.
+**41 open roles.** 28 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Independence Blue Cross</strong></td>
+<td><a href="https://trueinterview.io/jobs/29bc765a-7b64-4b91-a9cc-bd15d8f30d04">Summer Intern: Data Services Analyst</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951799/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dow Jones</strong></td>
+<td><a href="https://trueinterview.io/jobs/99e77716-8abe-4c5f-b514-10b67ca98653">Summer 2027 Internship Program – Data Analyst Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476944118/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ededge Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/a595e831-6cf5-40d3-a072-0b742d0b819c">Data Analyst Intern</a></td>

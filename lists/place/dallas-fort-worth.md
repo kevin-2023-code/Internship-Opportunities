@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>RoviSys Building Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/66e7ff80-b210-4c9f-88d8-c6082311306a">Systems Engineer Co-op - Summer 2027</a></td>
-<td>Dallas, TX</td>
+<td>Dallas, TX<br/>Austin, TX<br/>Abilene, TX<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475714326/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

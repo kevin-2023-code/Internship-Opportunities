@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**59 open roles.**
+**60 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,9 +18,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>RoviSys Building Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/66e7ff80-b210-4c9f-88d8-c6082311306a">Systems Engineer Co-op - Summer 2027</a></td>
+<td>Austin, TX<br/>Dallas, TX<br/>Abilene, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475714326/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Neuralink</strong></td>
 <td><a href="https://trueinterview.io/jobs/67394d40-d12a-4244-9e59-1c90a6063851">Electrical Engineer Intern, Implant Embedded Systems</a></td>
-<td>Austin, TX</td>
+<td>Austin, TX<br/>South San Francisco, CA<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457640633/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

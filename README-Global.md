@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-29 13:05 UTC_
+_Last updated: 2026-10-29 14:05 UTC_
 
-**217 open internships** from **131 employers** · **139 posted in the last 7 days** · refreshed hourly
+**222 open internships** from **136 employers** · **144 posted in the last 7 days** · refreshed hourly
 
-### Browse 217 internships by field
+### Browse 222 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (89)
+💻 **[Software Engineering](#-software-engineering)** (94)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (46)
 
@@ -50,13 +50,13 @@ _Last updated: 2026-10-29 13:05 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (28)](lists/company/big-tech.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🔬 Semiconductors & chips (12)](lists/company/semiconductors.md) · [🏢 Enterprise & business software (11)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (9)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (6)](lists/company/mid-size-tech.md) · [+9 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (28)](lists/company/big-tech.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🔬 Semiconductors & chips (12)](lists/company/semiconductors.md) · [🏢 Enterprise & business software (11)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (9)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [🏤 Mid-sized tech (200–999) (6)](lists/company/mid-size-tech.md) · [+10 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (39)](lists/role/software-engineer.md) · [Product Manager (17)](lists/role/product-manager.md) · [Data Analyst (13)](lists/role/data-analyst.md) · [AI Engineer (12)](lists/role/ai-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Machine Learning Engineer (6)](lists/role/machine-learning-engineer.md) · [Research Scientist (3)](lists/role/research-scientist.md) · [Security Engineer (3)](lists/role/security-engineer.md) · [Data Engineer (2)](lists/role/data-engineer.md) · [+6 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (40)](lists/role/software-engineer.md) · [Product Manager (17)](lists/role/product-manager.md) · [Data Analyst (13)](lists/role/data-analyst.md) · [AI Engineer (12)](lists/role/ai-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Machine Learning Engineer (6)](lists/role/machine-learning-engineer.md) · [Research Scientist (3)](lists/role/research-scientist.md) · [Security Engineer (3)](lists/role/security-engineer.md) · [Data Engineer (2)](lists/role/data-engineer.md) · [+6 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (50)](lists/place/singapore.md) · [🇬🇧 London & the UK (23)](lists/place/uk.md) · [🇮🇪 Dublin & Ireland (9)](lists/place/ireland.md) · [🇨🇭 Zürich & Switzerland (9)](lists/place/switzerland.md) · [🇫🇷 Paris & France (8)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (7)](lists/place/benelux.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🥐 Montréal & Québec (1)](lists/place/montreal.md)
+📍 **By location** — [🇸🇬 Singapore (52)](lists/place/singapore.md) · [🇬🇧 London & the UK (24)](lists/place/uk.md) · [🇮🇪 Dublin & Ireland (9)](lists/place/ireland.md) · [🇨🇭 Zürich & Switzerland (9)](lists/place/switzerland.md) · [🇫🇷 Paris & France (8)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (7)](lists/place/benelux.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [🥐 Montréal & Québec (1)](lists/place/montreal.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (139)](lists/new-this-week.md) · [🌐 Remote (8)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (144)](lists/new-this-week.md) · [🌐 Remote (8)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -79,6 +79,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Viking Nederland</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f2b71f6-771d-4fd4-93fa-8827f93bafa2">Internship Technical Solution Engineer</a> 🆕</td>
+<td>Venlo, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477169487/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Viking Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/ece535d6-b2b9-4d37-9f88-22f8b04c6874">Internship Technical Solution Engineer</a> 🆕</td>
+<td>Venlo, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475944510/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Sea</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f36788f-23c2-4ddf-a70e-3ba82d9817d1">Security Engineering Intern</a> 🆕</td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458161095/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f506375-902c-4f52-890c-c15ce28ae683">SCADA &amp; IT/OT Engineering Intern</a> 🆕</td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447998882/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a> 🆕</td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476779304/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a> 🆕</td>
@@ -217,41 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/980e4cab-9fb3-4538-86bf-919d104f9140">Intern - Cybersecurity (m/f/x)</a> 🆕</td>
 <td>Buchs (SG), St Gallen, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470135230/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>GSK</strong></td>
-<td><a href="https://trueinterview.io/jobs/38c24e82-bb1a-4786-aea2-6fdacb1fd801">Engineering (Multiple Roles and Locations) Industrial Placement, 2027</a> 🆕</td>
-<td>Ware, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477306162/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a> 🆕</td>
-<td>Harrow, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f10e6f6-f568-41e8-9ebb-d20f5763252f">FY27 Intern - Engineering Internship 2027 - 6 months, Cork</a> 🆕</td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4412113401/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c97b39d1-7976-43be-ba37-53af29df7341">FY27 IT Cloud Engineering Intern - Cork 8 months</a> 🆕</td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457483743/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Patel, Greene &amp; Associates, LLC (PGA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/71079210-d575-41ef-80a5-f265cee587a1">Roadway Engineer Intern</a> 🆕</td>
-<td>Greater Orlando</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484740780/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -396,7 +396,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 43 of 89.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 43 of 94.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -740,7 +740,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/36c5f16f-ecb8-46d3-94a7-6c99ae181703">Robotics Engineering Intern — Limitless Robotics</a> 🆕</td>
 <td>India</td>
 <td align="center"><a href="https://in.indeed.com/viewjob?jk=6402f60358d9969b">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Envy Electrical and Automation</strong></td>
@@ -949,7 +949,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/27b08190-9c94-40df-b337-7c05c24df76e">Intern, Product Management (UI/UX)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476721379/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
@@ -1269,7 +1269,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/525545ce-c6bb-4068-9a45-359fc169eac8">RR-0393497 Service Desk Intern-19</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456895631/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
