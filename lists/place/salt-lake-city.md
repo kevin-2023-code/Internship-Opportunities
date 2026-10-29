@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**7 open roles.**
+**9 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Weber State University Department of Automotive Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/bce4da59-0a3d-4dad-9402-c4a157010a03">Concept Center Engineering Intern</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484765343/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>UPS</strong></td>
 <td><a href="https://trueinterview.io/jobs/eeb2b53d-a0b6-431f-bee9-9876b2a54975">2027 Industrial Engineering Summer Intern - Portland, OR</a></td>
 <td>Salt Lake City, UT<br/>Atlanta, GA<br/>Portland, OR</td>
@@ -29,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd7e5d68-fd13-41f6-bd94-d7021c9c0818">Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Fall 2027)</a></td>
 <td>Salt Lake City, UT<br/>Indianapolis, IN<br/>La Palma, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467401066/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Filevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
+<td>Salt Lake City, Utah</td>
+<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

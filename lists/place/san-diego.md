@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>General Atomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5c7d4b4-86db-4877-8db0-68110f94dc2d">Intern - Engineering Global Corporation</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701399/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc759001-ba01-44f7-acb0-220551f5bb18">Summer 2027: Technical Program Manager (TPM) Intern</a></td>
 <td>San Diego, CA<br/>Mountain View, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467794466/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/9106eda3-4337-4f07-9b56-d00516cbfd4f">Internship- Software Development Engineer in Test</a></td>
-<td>San Diego, California, United States</td>
-<td align="center"><a href="https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

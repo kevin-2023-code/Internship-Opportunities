@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**69 open roles.**
+**70 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -450,6 +450,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Benesch</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f43c729-b239-4f17-b811-f1a051cebeea">Civil Internship #1399</a></td>
+<td>Bellevue, WA<br/>Bellevue, NE<br/>Grand Island, NE<br/>+2 more</td>
+<td align="center"><a href="https://www.benesch.com/job-openings/5239964007?gh_jid=5239964007">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
