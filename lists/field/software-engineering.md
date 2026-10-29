@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**543 open roles.** 476 in the United States & Canada · 67 elsewhere in the world.
+**542 open roles.** 476 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Arrant Construction</strong></td>
-<td><a href="https://trueinterview.io/jobs/002f90bc-fa7e-4ac7-add5-5786f936f4be">Site engineer Intern</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482569007/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Paramify</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef6dd09c-3450-4f5b-8bed-a463a052af54">Cyber Security Solution Engineer (Intern)</a></td>
@@ -62,6 +55,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>FlightSafety International</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc166842-4933-4b17-8ccc-8c5be25d70c5">Software Engineer Internship - Summer 2027</a></td>
+<td>Tulsa Metropolitan Area<br/>Broken Arrow, Oklahoma, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482009283/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Weber State University Department of Automotive Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/bce4da59-0a3d-4dad-9402-c4a157010a03">Concept Center Engineering Intern</a></td>
 <td>Ogden, UT</td>
@@ -71,7 +71,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d7843b0-4ec7-40f4-a6c2-8a75ef3e495e">R&amp;D Software Design Intern</a></td>
-<td>Arden Hills, MN</td>
+<td>Arden Hills, MN<br/>Arden Hills, Minnesota, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484759981/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

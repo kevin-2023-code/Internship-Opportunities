@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**115 open roles.** 92 in the United States & Canada · 23 elsewhere in the world.
+**116 open roles.** 93 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tech Lance Pvt Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/2907a107-45a6-41a0-aea1-dc18667513d3">UI/UX Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484780806/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Consumers Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/40a1f3d8-6d50-4b03-9b28-ff738a2a8c07">Intern/Co-Op-UX Designer</a></td>

@@ -5,33 +5,58 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T03:06:20.609Z",
-  "count": 1596,
+  "listingsChangedAt": "2026-10-29T04:06:00.817Z",
+  "count": 1597,
   "listings": [
     {
-      "id": "002f90bc-fa7e-4ac7-add5-5786f936f4be",
-      "company": "Arrant Construction",
-      "title": "Site engineer Intern",
+      "id": "2907a107-45a6-41a0-aea1-dc18667513d3",
+      "company": "Tech Lance Pvt Ltd",
+      "title": "UI/UX Intern",
       "locations": [
-        "Houston, TX"
+        "United States"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482569007/",
-      "url": "https://trueinterview.io/jobs/002f90bc-fa7e-4ac7-add5-5786f936f4be",
-      "postedAt": "2026-10-29T02:38:00.000Z",
-      "updatedAt": "2026-10-29T02:38:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484780806/",
+      "url": "https://trueinterview.io/jobs/2907a107-45a6-41a0-aea1-dc18667513d3",
+      "postedAt": "2026-10-29T03:47:00.000Z",
+      "updatedAt": "2026-10-29T03:47:00.000Z"
+    },
+    {
+      "id": "3c44563c-9fc7-4dda-9b73-35606dfeeca2",
+      "company": "VertoTech",
+      "title": "Tooling Engineer Intern",
+      "locations": [
+        "California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482585302/",
+      "url": "https://trueinterview.io/jobs/3c44563c-9fc7-4dda-9b73-35606dfeeca2",
+      "postedAt": "2026-10-29T03:07:00.000Z",
+      "updatedAt": "2026-10-29T03:07:00.000Z"
     },
     {
       "id": "ef6dd09c-3450-4f5b-8bed-a463a052af54",
@@ -450,10 +475,13 @@
       "company": "FlightSafety International",
       "title": "Software Engineer Internship - Summer 2027",
       "locations": [
-        "Tulsa Metropolitan Area"
+        "Tulsa Metropolitan Area",
+        "Broken Arrow, Oklahoma, United States"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
@@ -498,7 +526,8 @@
       "company": "Boston Scientific",
       "title": "R&D Software Design Intern",
       "locations": [
-        "Arden Hills, MN"
+        "Arden Hills, MN",
+        "Arden Hills, Minnesota, United States"
       ],
       "cities": [],
       "countries": [
