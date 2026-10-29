@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**25 open roles.** 23 in the United States & Canada · 2 elsewhere in the world.
+**26 open roles.** 24 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Entrust</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e1dad85-1498-442c-be98-e890ec0d0ac2">Firmware Engineering Co-op</a></td>
+<td>Shakopee, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476765466/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mercury Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee78eec0-4101-40d0-b927-52c1c5d74a94">2027 Firmware Engineering Co-Op</a></td>

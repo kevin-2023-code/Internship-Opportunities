@@ -46,6 +46,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
+<td>Milpitas, California, United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
 <td>Menlo Park, CA<br/>New York, NY<br/>London, England, United Kingdom<br/>+1 more</td>
@@ -1338,13 +1345,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76921fe8-a713-4d63-9bd9-54a4cd65ac20">[2027] Applied Scientist - PhD Intern</a></td>
 <td>San Mateo, CA, United States</td>
 <td align="center"><a href="https://careers.roblox.com/jobs/8242621?gh_jid=8242621">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>

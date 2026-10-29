@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**6 open roles.**
+**8 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AXA / France</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4fda21e-f050-4ab1-a206-6be540592600">Stage - M365 Power Platform, Data and AI intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://recrutement.axa.fr/emploi/paris/stage-m365-power-platform-data-and-ai-intern/3441/46243786624">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EQUATIV</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>L'Oréal</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b7f5c97-2c92-40ae-a884-f1fd4edfae1c">4-MONTH INTERNSHIP - Starting January 2027 – Data Analyst &amp; Visualisation - HR Tech – Licence 3 - €1300/month</a></td>

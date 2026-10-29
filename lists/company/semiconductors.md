@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**294 open roles.** 293 in the United States & Canada · 1 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**302 open roles.** 293 in the United States & Canada · 9 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
+<td>Milpitas, California, United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/69ef6a68-7788-467b-8540-1a65f8e69213">Process Integration Development Engineer PhD Intern 2027</a></td>
@@ -1482,13 +1489,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/226a12a1-c061-4097-b7bc-5fa2c286d34d">Intern - ASIC Validation</a></td>
-<td>Minneapolis, MN, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44452976">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/128b58bc-41d7-4174-aaeb-372e01b3a64f">Intern - Firmware Engineer</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44452952">Apply</a></td>
@@ -2080,6 +2080,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e21b5b7b-f522-4a38-af2d-a7b5d896658d">Intern - NAND Probe Product Engineering (Test Mode Integration)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475423612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0bac8f6b-683d-45aa-bf59-d7e8aebcf474">Intern - NAND Process and Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475417919/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/43f52f7a-91fd-4a76-b78c-f7a85aec02cb">Intern- Manufacturing Test Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861694/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ecd6bd03-0e01-4526-9436-ef58591b5bc9">Intern - F10 Process &amp; Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466199738/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bcaf9f3a-8861-4789-8b63-6d2dc2a98599">Intern - F10 Process and Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/538a6c0e-3576-4283-81cf-ebe3590e815c">Intern - NAND Device Engineering AI</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466509866/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b80f087a-a9aa-44a3-a705-b0d11934a14d">Intern - SSD Assembly Process &amp; Equipment Engineering</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466197791/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5a39d522-868c-40a8-bf10-62d732783458">Intern- Solutions Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466506637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Synopsys</strong></td>
 <td><a href="https://trueinterview.io/jobs/be6942f6-3d4b-49fb-90d1-a81f50beebbb">Technical Engineering Intern - Design for Test (DFT) Internship</a></td>

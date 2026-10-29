@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**621 open roles.** 522 in the United States & Canada · 99 elsewhere in the world. Everything the employers put up this week.
+**647 open roles.** 535 in the United States & Canada · 112 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,97 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>UPS</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f49e85d-a4b7-4258-81e2-89ae961e8df5">2027 Americas Region Industrial Engineering Summer Intern</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467894974/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>42dot</strong></td>
+<td><a href="https://trueinterview.io/jobs/c00ecc71-dcf9-4ce2-ba5f-1fca00edf344">Internship, Foundation Models</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c990e9c-7435-4be6-9e78-104b82e00666">Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8509c84a-8c39-4159-8404-755724aa261c">Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8baefdb-3652-411e-a378-f8e02920da80">Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1d6d89bf-34e7-40c8-acd8-1c6081f52bc3">Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1dc284a5-c983-4ad7-9804-ff0263cea8ee">Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA)</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Filevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
+<td>Salt Lake City, Utah</td>
+<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/31fdfaa0-8c06-4051-ae9c-9fdd5c67b0f9">Software Engineering Intern - HP IQ</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1d4d2dd4-054d-4614-b109-564ff32d2e1f">Software Engineering Intern, Connectivity - HP IQ</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9e5dbcdf-9822-4b56-a0f5-7c7d7ce5659c">Software Quality Assurance Intern</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/774f2152-15f0-4892-9e21-a9c601b909a8">Firmware Developer Intern - Poughkeepsie - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564382/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d27b0943-c217-4ea2-80be-ad6206614317">Intern Software Engineer / Agent Engineer - EDA - Austin 2027</a></td>
+<td>Austin, TX<br/>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>L3Harris Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/a38dc228-9dd5-45f6-ade9-0a976f48fd50">Software Engineering Intern (Carlsbad, CA)</a></td>
@@ -882,6 +973,76 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440031213/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e21b5b7b-f522-4a38-af2d-a7b5d896658d">Intern - NAND Probe Product Engineering (Test Mode Integration)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475423612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0bac8f6b-683d-45aa-bf59-d7e8aebcf474">Intern - NAND Process and Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475417919/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/43f52f7a-91fd-4a76-b78c-f7a85aec02cb">Intern- Manufacturing Test Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861694/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ecd6bd03-0e01-4526-9436-ef58591b5bc9">Intern - F10 Process &amp; Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466199738/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bcaf9f3a-8861-4789-8b63-6d2dc2a98599">Intern - F10 Process and Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/538a6c0e-3576-4283-81cf-ebe3590e815c">Intern - NAND Device Engineering AI</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466509866/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b80f087a-a9aa-44a3-a705-b0d11934a14d">Intern - SSD Assembly Process &amp; Equipment Engineering</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466197791/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5a39d522-868c-40a8-bf10-62d732783458">Intern- Solutions Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466506637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trespa</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea91005f-976e-445f-9abb-0ae40243f751">Product Management/ Marketing Communication Intern</a></td>
+<td>Weert, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474122869/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Crédit Agricole CIB</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4">.NET Software Engineer Intern (Jan 2027 intake)</a></td>
 <td>Singapore, Singapore</td>
@@ -1344,6 +1505,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AXA / France</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4fda21e-f050-4ab1-a206-6be540592600">Stage - M365 Power Platform, Data and AI intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://recrutement.axa.fr/emploi/paris/stage-m365-power-platform-data-and-ai-intern/3441/46243786624">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Axiom Math</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e1c4b49-9166-4d73-b80b-2bf3287de01b">Member of Technical Staff Intern</a></td>
 <td>London, United Kingdom</td>
@@ -1351,10 +1519,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>EQUATIV</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>HackerRank Careers</strong></td>
 <td><a href="https://trueinterview.io/jobs/eed9a3bd-ed43-4ef1-9148-b0e8d283938b">AI Researcher Intern</a></td>
 <td>India</td>
 <td align="center"><a href="https://grnh.se/7s4hotje1us">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hilti Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c1ea770-d5dd-4f14-b89e-7ebc8bb738c0">Intern – Civil Engineer for Structural Analysis (m/f/x)</a></td>
+<td>Schaan, Switzerland</td>
+<td align="center"><a href="https://careers.hilti.group/en/jobs/21795-en/intern-civil-engineer-for-structural-analysis-m-f-x/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

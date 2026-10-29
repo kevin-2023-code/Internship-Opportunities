@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**562 open roles.** 487 in the United States & Canada · 75 elsewhere in the world.
+**575 open roles.** 492 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,42 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Rubrik</strong></td>
+<td><a href="https://trueinterview.io/jobs/a41d6358-6647-467f-92a7-ca84dd48dfc6">Software Engineering Winter Internship</a></td>
+<td>Palo Alto, CA HQ Office</td>
+<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f">R&amp;D Embedded Software Intern</a></td>
+<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/e39331a4-3036-44a9-b2c9-366b1f9d010b">AI Assisted Software Development Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c">Automotive Engineering Internship – Summer 2027</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740553">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7140ba79-29ad-4fcb-b799-f93dee8dadf8">Embedded Engineering Internship - Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720737089">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f6d90095-a873-470d-8433-8cfbc563fd04">Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED</a></td>
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740540">Apply</a></td>
@@ -636,6 +671,62 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440031213/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e21b5b7b-f522-4a38-af2d-a7b5d896658d">Intern - NAND Probe Product Engineering (Test Mode Integration)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475423612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0bac8f6b-683d-45aa-bf59-d7e8aebcf474">Intern - NAND Process and Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475417919/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/43f52f7a-91fd-4a76-b78c-f7a85aec02cb">Intern- Manufacturing Test Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861694/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ecd6bd03-0e01-4526-9436-ef58591b5bc9">Intern - F10 Process &amp; Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466199738/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bcaf9f3a-8861-4789-8b63-6d2dc2a98599">Intern - F10 Process and Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b80f087a-a9aa-44a3-a705-b0d11934a14d">Intern - SSD Assembly Process &amp; Equipment Engineering</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466197791/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5a39d522-868c-40a8-bf10-62d732783458">Intern- Solutions Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466506637/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Crédit Agricole CIB</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4">.NET Software Engineer Intern (Jan 2027 intake)</a></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**138 open roles.**
+**137 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -747,13 +747,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/226a12a1-c061-4097-b7bc-5fa2c286d34d">Intern - ASIC Validation</a></td>
-<td>Minneapolis, MN, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44452976">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/db620d2b-fb3c-4881-8ae4-ac30324659f8">Intern - Semiconductor Research &amp; Technology Development</a></td>
 <td>Albany, NY, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44419599">Apply</a></td>

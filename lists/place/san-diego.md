@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**26 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TTM Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/85e605ac-3426-4fb2-b9d0-dcfe4e9fb4a5">Summer 2027 Engineering Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476790727/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>General Atomics</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5c7d4b4-86db-4877-8db0-68110f94dc2d">Intern - Engineering Global Corporation</a></td>

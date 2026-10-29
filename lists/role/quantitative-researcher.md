@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**11 open roles.** 3 in the United States & Canada · 8 elsewhere in the world.
+**12 open roles.** 4 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea5473bb-636c-44f5-baba-815717ea8567">2027 Quantitative Research - Asset Management - Summer Internship - Analyst - United States</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448305425/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Man Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c0d8134-0522-41bd-949b-c455550bedfe">Systematic Quant Intern</a></td>

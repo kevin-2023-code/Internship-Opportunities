@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**197 open roles.** 160 in the United States & Canada · 37 elsewhere in the world.
+**198 open roles.** 160 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d99e433e-70f8-4fe0-bdd0-c5ebdeeb8334">Intern - Software Engineer, CPU Debugger (NTD)</a></td>
 <td>Redmond, Washington, United States</td>
 <td align="center"><a href="https://careers.nintendo.com/?gh_jid=4471972009">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
+<td>Milpitas, California, United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -540,13 +547,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6a375bf2-1a24-4975-a23b-7cba69525e21">Software Engineering Intern – Winter 2027 (U.S. Based)</a></td>
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
@@ -1149,6 +1149,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440031213/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Crédit Agricole CIB</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4">.NET Software Engineer Intern (Jan 2027 intake)</a></td>

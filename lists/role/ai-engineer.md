@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**48 open roles.** 40 in the United States & Canada · 8 elsewhere in the world.
+**50 open roles.** 40 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -310,6 +310,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/538a6c0e-3576-4283-81cf-ebe3590e815c">Intern - NAND Device Engineering AI</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466509866/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
 <td>Timisoara Metropolitan Area</td>
@@ -328,6 +335,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dacac964-da32-4959-8969-fc8ffe78923b">Internship - AI (Artificial Intelligence) Engineering</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484434981/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA / France</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4fda21e-f050-4ab1-a206-6be540592600">Stage - M365 Power Platform, Data and AI intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://recrutement.axa.fr/emploi/paris/stage-m365-power-platform-data-and-ai-intern/3441/46243786624">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

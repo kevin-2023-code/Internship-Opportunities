@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**620 open roles.** 598 in the United States & Canada · 22 elsewhere in the world.
+**626 open roles.** 603 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,49 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64">Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027</a></td>
+<td>Austin, TX<br/>San Diego, CA, US<br/>Boxborough, MA, US<br/>+2 more</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740649">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9">Mechanical Engineering Internship – Summer 2027</a></td>
+<td>Austin, TX<br/>San Diego, CA, US<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741704">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158">Multimedia Engineering Internship – Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740640">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US<br/>+1 more</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0982926c-1b41-49e8-b2a8-63051fc38acc">Wireless Systems Engineering Internship - Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>NJ, US<br/>+1 more</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740637">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/cba04e3c-6b18-4444-a81a-18f33d4195e6">R&amp;D Engineering Intern Summer 2027</a></td>
+<td>Albuquerque, NM<br/>SolAero Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996576003">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9f0e6263-a49c-474e-a057-c37652d7653f">Optical Engineering Intern Summer 2027</a></td>
 <td>Tucson, AZ<br/>Geost Main</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7992102003">Apply</a></td>
@@ -304,13 +346,6 @@
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/226a12a1-c061-4097-b7bc-5fa2c286d34d">Intern - ASIC Validation</a></td>
-<td>Minneapolis, MN, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44452976">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/128b58bc-41d7-4174-aaeb-372e01b3a64f">Intern - Firmware Engineer</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44452952">Apply</a></td>
@@ -1481,6 +1516,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1af5da58-1088-4948-9927-e073875c4efa">Electrical Engineering Intern</a></td>
 <td>Adelaide, South Australia, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483866385/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hilti Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c1ea770-d5dd-4f14-b89e-7ebc8bb738c0">Intern – Civil Engineer for Structural Analysis (m/f/x)</a></td>
+<td>Schaan, Switzerland</td>
+<td align="center"><a href="https://careers.hilti.group/en/jobs/21795-en/intern-civil-engineer-for-structural-analysis-m-f-x/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

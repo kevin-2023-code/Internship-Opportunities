@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**562 open roles.** 487 in the United States & Canada · 75 elsewhere in the world.
+**575 open roles.** 492 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TTM Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/85e605ac-3426-4fb2-b9d0-dcfe4e9fb4a5">Summer 2027 Engineering Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476790727/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trane Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/580022d2-99c8-4a21-ac1c-609161add0d1">Software Development Engineering Intern</a></td>
+<td>St Paul, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466580693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Novelis</strong></td>
+<td><a href="https://trueinterview.io/jobs/10ac8c7b-5b6d-4c3f-bdc0-07ec19c729ff">Automation Engineer Intern</a></td>
+<td>Uhrichsville, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466537647/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Entrust</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e1dad85-1498-442c-be98-e890ec0d0ac2">Firmware Engineering Co-op</a></td>
+<td>Shakopee, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476765466/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alliance Laundry Systems LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c93469f1-aecc-4d30-969d-902d83b2cef4">Innovation Engineer Co-op - Fall Term</a></td>
+<td>Ripon, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466506930/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/b35b89ee-77d2-4eba-8d2f-984dd32b7719">Software &amp; Systems Testing Engineering Intern</a></td>
@@ -178,6 +213,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/349a5600-0752-490b-8fbd-6faa13b9d1b1">PhD Intern, Security Engineer (2027)</a></td>
 <td>San Francisco, CA • New York, NY, US</td>
 <td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
+<td>Milpitas, California, United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2239,13 +2281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/55a49885-ef24-44a6-b328-520099e3581a">Software Engineer, Intern - Labs (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8263774">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/8547f343-74f9-4f5d-89e1-6988b201d941">Embedded Firmware Co-op, Amazon Robotics - Spring 2027</a></td>
 <td>North Reading, Massachusetts, USA</td>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b">Software Engineering Intern</a></td>
 <td>San Francisco, CA (Hybrid)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rubrik</strong></td>
-<td><a href="https://trueinterview.io/jobs/a41d6358-6647-467f-92a7-ca84dd48dfc6">Software Engineering Winter Internship</a></td>
-<td>Palo Alto, CA HQ Office</td>
-<td align="center"><a href="https://www.rubrik.com/company/careers/departments/job.8171088?gh_jid=8171088">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f">R&amp;D Embedded Software Intern</a></td>
-<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/e39331a4-3036-44a9-b2c9-366b1f9d010b">AI Assisted Software Development Co-op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c">Automotive Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740553">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7140ba79-29ad-4fcb-b799-f93dee8dadf8">Embedded Engineering Internship - Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720737089">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

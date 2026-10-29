@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**249 open roles.** 218 in the United States & Canada · 31 elsewhere in the world.
+**251 open roles.** 218 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1556,6 +1556,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/538a6c0e-3576-4283-81cf-ebe3590e815c">Intern - NAND Device Engineering AI</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466509866/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce">Subject Matter Expert - Data Science, Intern</a></td>
 <td>Shenzhen, Guangdong, China</td>
@@ -1644,6 +1651,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/33107ec1-09d0-4cdd-8f42-34c8265dcced">Intern - Data Scientist (Medical Imaging and Computer Vision)</a></td>
 <td>India</td>
 <td align="center"><a href="https://nference.keka.com/careers/jobdetails/93931">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AXA / France</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4fda21e-f050-4ab1-a206-6be540592600">Stage - M365 Power Platform, Data and AI intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://recrutement.axa.fr/emploi/paris/stage-m365-power-platform-data-and-ai-intern/3441/46243786624">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

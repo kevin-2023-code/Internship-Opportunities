@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**6 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440031213/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Signify</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e046d50-f100-4d27-9d5c-6d9eeb0605a3">Global Product Management Intern</a></td>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**118 open roles.** 94 in the United States & Canada · 24 elsewhere in the world.
+**120 open roles.** 94 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -688,6 +688,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Trespa</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea91005f-976e-445f-9abb-0ae40243f751">Product Management/ Marketing Communication Intern</a></td>
+<td>Weert, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474122869/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Signify</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e046d50-f100-4d27-9d5c-6d9eeb0605a3">Global Product Management Intern</a></td>
 <td>Eindhoven, North Brabant, Netherlands</td>
@@ -748,6 +755,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/95f3d46b-cc69-4103-875a-9aa5325c4a13">Product Management Intern (Global Payment) - 2026 Start (BS/MS)</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476502715/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EQUATIV</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

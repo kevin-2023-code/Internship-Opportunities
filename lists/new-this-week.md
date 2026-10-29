@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**621 open roles.** 522 in the United States & Canada · 99 elsewhere in the world. Everything the employers put up this week.
+**647 open roles.** 535 in the United States & Canada · 112 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,90 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aptiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/360bdd0a-f900-4440-a7f3-ef2cb53c2e12">Mechanical Engineering Intern - Tooling</a></td>
+<td>Warren, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477129376/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea5473bb-636c-44f5-baba-815717ea8567">2027 Quantitative Research - Asset Management - Summer Internship - Analyst - United States</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448305425/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trane Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/9de36a70-84d1-4cee-9c2b-0b18a500cfd0">Electrical Engineering Co-op</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475701301/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TTM Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/85e605ac-3426-4fb2-b9d0-dcfe4e9fb4a5">Summer 2027 Engineering Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476790727/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trane Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/580022d2-99c8-4a21-ac1c-609161add0d1">Software Development Engineering Intern</a></td>
+<td>St Paul, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466580693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Novelis</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9a6fa61-bd15-44a8-9b53-521417a7196b">Electrical Engineer Intern</a></td>
+<td>Uhrichsville, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466556117/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/10ac8c7b-5b6d-4c3f-bdc0-07ec19c729ff">Automation Engineer Intern</a></td>
+<td>Uhrichsville, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466537647/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Newport News Shipbuilding, A Division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2fb3c25-fe47-4105-a634-c0c9f0178692">ELECTRICAL ENGINEER SKILLBRIDGE INTERN(PLANT OPERATIONS</a></td>
+<td>Newport News, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4307902230/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alliance Laundry Systems LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9508ba8-2b8d-4848-9534-424cf7efb90c">Manufacturing Process Engineering Co-Op</a></td>
+<td>Ripon, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466545340/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Entrust</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e1dad85-1498-442c-be98-e890ec0d0ac2">Firmware Engineering Co-op</a></td>
+<td>Shakopee, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476765466/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SEH</strong></td>
+<td><a href="https://trueinterview.io/jobs/58e51321-0354-4d07-be4f-0b30c42e5c83">Civil Engineer Intern</a></td>
+<td>Duluth, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467747957/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alliance Laundry Systems LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/c93469f1-aecc-4d30-969d-902d83b2cef4">Innovation Engineer Co-op - Fall Term</a></td>
+<td>Ripon, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466506930/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/b35b89ee-77d2-4eba-8d2f-984dd32b7719">Software &amp; Systems Testing Engineering Intern</a></td>
@@ -339,6 +423,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/349a5600-0752-490b-8fbd-6faa13b9d1b1">PhD Intern, Security Engineer (2027)</a></td>
 <td>San Francisco, CA • New York, NY, US</td>
 <td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
+<td>Milpitas, California, United States</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2726,97 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/10970d70-ef6a-4b93-99ff-54d34e5f2cd9">Software Developer Intern — Part-Time</a></td>
 <td>San Bernardino, CA</td>
 <td align="center"><a href="https://www.indeed.com/viewjob?jk=b6a0fd4491588e7a">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>UPS</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f49e85d-a4b7-4258-81e2-89ae961e8df5">2027 Americas Region Industrial Engineering Summer Intern</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467894974/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>42dot</strong></td>
-<td><a href="https://trueinterview.io/jobs/c00ecc71-dcf9-4ce2-ba5f-1fca00edf344">Internship, Foundation Models</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/42dot/da2487a2-afa1-464e-9f08-bf448e2b2f3b/application">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c990e9c-7435-4be6-9e78-104b82e00666">Summer 2027 Business Intelligence Analyst Intern- Master's (Santa Clara, CA)</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Business-Intelligence-Analyst-Intern--Master-s--Santa-Clara--CA-_R2627411">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8509c84a-8c39-4159-8404-755724aa261c">Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d8baefdb-3652-411e-a378-f8e02920da80">Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1d6d89bf-34e7-40c8-acd8-1c6081f52bc3">Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1dc284a5-c983-4ad7-9804-ff0263cea8ee">Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA)</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Filevine</strong></td>
-<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
-<td>Salt Lake City, Utah</td>
-<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/31fdfaa0-8c06-4051-ae9c-9fdd5c67b0f9">Software Engineering Intern - HP IQ</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1d4d2dd4-054d-4614-b109-564ff32d2e1f">Software Engineering Intern, Connectivity - HP IQ</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9e5dbcdf-9822-4b56-a0f5-7c7d7ce5659c">Software Quality Assurance Intern</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/774f2152-15f0-4892-9e21-a9c601b909a8">Firmware Developer Intern - Poughkeepsie - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564382/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d27b0943-c217-4ea2-80be-ad6206614317">Intern Software Engineer / Agent Engineer - EDA - Austin 2027</a></td>
-<td>Austin, TX<br/>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564384/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

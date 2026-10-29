@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**620 open roles.** 598 in the United States & Canada · 22 elsewhere in the world.
+**626 open roles.** 603 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aptiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/360bdd0a-f900-4440-a7f3-ef2cb53c2e12">Mechanical Engineering Intern - Tooling</a></td>
+<td>Warren, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477129376/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trane Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/9de36a70-84d1-4cee-9c2b-0b18a500cfd0">Electrical Engineering Co-op</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475701301/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Novelis</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9a6fa61-bd15-44a8-9b53-521417a7196b">Electrical Engineer Intern</a></td>
+<td>Uhrichsville, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466556117/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Newport News Shipbuilding, A Division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2fb3c25-fe47-4105-a634-c0c9f0178692">ELECTRICAL ENGINEER SKILLBRIDGE INTERN(PLANT OPERATIONS</a></td>
+<td>Newport News, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4307902230/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alliance Laundry Systems LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a9508ba8-2b8d-4848-9534-424cf7efb90c">Manufacturing Process Engineering Co-Op</a></td>
+<td>Ripon, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466545340/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SEH</strong></td>
+<td><a href="https://trueinterview.io/jobs/58e51321-0354-4d07-be4f-0b30c42e5c83">Civil Engineer Intern</a></td>
+<td>Duluth, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467747957/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/20e52ed6-39be-4483-ac57-993da1aa628a">Industrial Engineer Intern</a></td>
@@ -2776,48 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44544643">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64">Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX<br/>San Diego, CA, US<br/>Boxborough, MA, US<br/>+2 more</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740649">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9">Mechanical Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX<br/>San Diego, CA, US<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741704">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158">Multimedia Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740640">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US<br/>+1 more</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0982926c-1b41-49e8-b2a8-63051fc38acc">Wireless Systems Engineering Internship - Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>NJ, US<br/>+1 more</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740637">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba04e3c-6b18-4444-a81a-18f33d4195e6">R&amp;D Engineering Intern Summer 2027</a></td>
-<td>Albuquerque, NM<br/>SolAero Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7996576003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>
