@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**73 open roles.** 72 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**74 open roles.** 73 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Two Six Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b67b2dd-4bc9-4e7d-9ec2-e581066f9467">Systems Software Engineering Intern</a></td>
+<td>Arlington, Virginia, United States<br/>Arlington, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Shield AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2dee971c-fb2b-4009-9568-cd26c8b900ca">Summer 2027 - Product Support Engineering Intern #6470 &amp; #6442</a></td>

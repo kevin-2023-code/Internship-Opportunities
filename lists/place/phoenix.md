@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**33 open roles.**
+**36 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a98643ea-e4ea-497e-8b15-caebf7b78374">Software Engineer Intern</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468296586/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/7254bd2c-0d0e-4afc-bd13-58e42ca1e83f">Technical Support Intern - RTP, Durham, Poughkeepsie &amp; Tucson 2027</a></td>
+<td>Tucson, AZ<br/>Poughkeepsie, AR<br/>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456532057/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sandhills Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecd738cd-9e1e-4ed2-a203-dd2e3c86704b">Data Scientist Intern - In Office, Scottsdale, AZ only</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447368270/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d80cfee-4b6d-4631-bfea-4169ba4c2393">Mechanical Engineer Intern - Test Equipment</a></td>

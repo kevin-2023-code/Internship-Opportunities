@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**292 open roles.** 280 in the United States & Canada · 12 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**290 open roles.** 278 in the United States & Canada · 12 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1376,13 +1376,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a55dce0b-940a-4417-bfcb-80574f5baa20">PhD Research Intern, Fundamental Generative AI - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633487">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/5735a022-9975-4301-95a2-46584ce8c9d6">Smart Manufacturing and Automation Intern</a></td>
 <td>Dallas, TX, United States</td>
@@ -1545,13 +1538,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c62fed8-8980-400a-aecf-db13b69f0269">Internship - Analog Mixed-Signal Design Verification Engineer</a></td>
-<td>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971881710">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ca16e324-1029-40d8-b4f1-98557c61d3a6">Internship - Embedded Systems EngineerInternship - Embedded Systems Engineer</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971856932">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**53 open roles.**
+**56 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -279,6 +279,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f65cc0a-e2fe-410f-bac3-932ffaedd132">Machine Learning Engineer Project Intern (Recommendation) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://lifeattiktok.com/search/7686439502455212293">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tencent</strong></td>
 <td><a href="https://trueinterview.io/jobs/782e88f6-3982-4dfa-a440-6ae1fbdf026d">Data Science Intern (Analytics), 6-month internship</a></td>
 <td>Singapore, Singapore</td>
@@ -370,11 +377,25 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8eca9ccf-e954-4e0c-9816-a7c21d749406">Software Engineer (Software Integrator) Intern [IDA:00070]</a></td>
+<td>Kallang, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000157968618-software-engineer-software-integrator-intern-ida-00070-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c1ba82f-7284-4a8d-affb-dd79117d4fcc">[NEW] Business Product Management Intern (Spring 2027)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://careers.shopee.sg/job-detail/137671">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Upsight</strong></td>
+<td><a href="https://trueinterview.io/jobs/d56b1549-84e3-45f4-861c-e410ed7e9274">Software Engineering Intern (Platform &amp; Integrations)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>

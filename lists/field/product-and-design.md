@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**125 open roles.** 96 in the United States & Canada · 29 elsewhere in the world.
+**126 open roles.** 96 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -60,6 +60,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Sonos</strong></td>
+<td><a href="https://trueinterview.io/jobs/545fb9b4-8643-4da4-bae6-a031ef04c7b9">Software Product Management Intern (Seattle)</a></td>
+<td>Seattle, Washington, United States</td>
+<td align="center"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e94432c5-a96f-42cc-ab52-e0d3e0c7f86c">Product Management Intern</a></td>
 <td>Greensboro, NC</td>
@@ -106,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/98715ac8-e40e-4edf-ac3b-0eaac26a0f84">RF/Analog IC Design Intern</a></td>
 <td>Fort Lauderdale, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484490357/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sonos, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/545fb9b4-8643-4da4-bae6-a031ef04c7b9">Software Product Management Intern (Seattle)</a></td>
-<td>Seattle, Washington, United States</td>
-<td align="center"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -701,6 +701,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TP Vision</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6c7ee1e-23ad-44c4-9881-f6d15cc144d6">UI/UX Intern – Digital Customer Experience</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967925/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sensirion</strong></td>
 <td><a href="https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3">Intern Product Management • 80-100%</a></td>

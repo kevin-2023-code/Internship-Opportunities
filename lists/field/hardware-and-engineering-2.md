@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**647 open roles.** 619 in the United States & Canada · 28 elsewhere in the world.
+**646 open roles.** 618 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6aa2b905-bcff-4b73-bacf-7111edc6b2bd">Photonic Integrated Circuits Test Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40743">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/94c69ab6-c9d8-43f2-b39b-8240224fff5d">Industrial Engr Intern</a></td>
@@ -335,13 +342,6 @@
 <td><a href="https://trueinterview.io/jobs/14a2e49e-e92d-4d6f-ade5-4dd102b215dd">Coherent Optical Systems Internship</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/taaraconnect/06d29a2a-9913-4c52-b1ba-9236ca086acb/application">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/a767aa3e-de81-4868-8d8d-9ecb5c8abb25">Railroad Track Design - Civil Engineering Internship</a></td>
-<td>Milwaukee, WI<br/>Naperville, IL<br/>Omaha, NE<br/>+6 more</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5240157007?gh_jid=5240157007">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
@@ -801,13 +801,6 @@
 </tr>
 <tr>
 <td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c62fed8-8980-400a-aecf-db13b69f0269">Internship - Analog Mixed-Signal Design Verification Engineer</a></td>
-<td>Andover, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971881710">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ca16e324-1029-40d8-b4f1-98557c61d3a6">Internship - Embedded Systems EngineerInternship - Embedded Systems Engineer</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://jobs.infineon.com/careers/job/563808971856932">Apply</a></td>

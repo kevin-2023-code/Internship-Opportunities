@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**55 open roles.** 47 in the United States & Canada · 8 elsewhere in the world.
+**56 open roles.** 48 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/7254bd2c-0d0e-4afc-bd13-58e42ca1e83f">Technical Support Intern - RTP, Durham, Poughkeepsie &amp; Tucson 2027</a></td>
-<td>Poughkeepsie, AR</td>
+<td>Poughkeepsie, AR<br/>Tucson, AZ<br/>Durham, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456532057/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6277364a-ed15-4b48-8cd5-84366bf05fc6">Intern – Network Engineering</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484969572/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Grimco, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a0a01f4-c07e-45d9-8938-e2a41f1d35b3">IT Support Intern</a></td>
+<td>Sunset Hills, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980149/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**669 open roles.** 552 in the United States & Canada · 117 elsewhere in the world.
+**685 open roles.** 565 in the United States & Canada · 120 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,97 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/638b6972-819a-4b54-82c8-b8da9d53b1bf">Intern - SSD Firmware - CICD</a></td>
+<td>Longmont, CO, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44892749">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pinterest</strong></td>
+<td><a href="https://trueinterview.io/jobs/f490cc2f-5b58-448a-95d5-fd09b09ecb47">Solutions Engineer Intern 2027 (USA)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Replit</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a375bf2-1a24-4975-a23b-7cba69525e21">Software Engineering Intern – Winter 2027 (U.S. Based)</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/8547f343-74f9-4f5d-89e1-6988b201d941">Embedded Firmware Co-op, Amazon Robotics - Spring 2027</a></td>
+<td>North Reading, Massachusetts, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/452133c3-8148-46bd-aab4-998e7f4750c0">Systems Development Engineer Intern, (US) 2027</a></td>
+<td>Bellevue, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/5798fd44-8b76-42e8-9ab2-467efcbccac2">Wireless Networking Intern</a></td>
+<td>San Jose, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Happyrobot Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/34c8a538-ff54-49cd-b43e-0c7625dd0c7f">Product Operations Engineer Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768/application">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b4a7b1b-41ef-47f5-b081-41210715f7d4">Detection &amp; Response Security Engineer, Intern (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1677981003713152/">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fff58fd-a4dc-40ff-98c3-64f849898a59">Security Engineer Posture Management, Intern (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1359570553913180/">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/081feb0a-245b-47ae-9757-05cac95cba21">Product Security Engineer, Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2535222523640873/">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d0307b2-66cd-4e7c-bee3-d4e1f37fc36c">AI Performance Engineering Intern</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3e2722-b175-4503-9cde-825c3ce2b23a">Security Engineer Intern [Winter 2027]</a></td>
+<td>San Jose, CA<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4719593006">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd958407-a60f-48b5-9f10-a9e2f2e44c50">Software Engineering Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA<br/>NYC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Pure Storage</strong></td>
 <td><a href="https://trueinterview.io/jobs/24029bc0-9eb0-425e-967c-d6a9af6a787b">Software Engineer Intern (Summer 2027)</a></td>
@@ -1092,6 +1183,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>JM Family Enterprises, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba02229f-f231-44af-847e-1526e0078e62">Software Engineer Intern</a></td>
+<td>Miami-Fort Lauderdale Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484993031/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>JR Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae177538-1460-4136-9087-50745c747fc5">Intern – Signalling Engineer</a></td>
 <td>Greater Pittsburgh Region</td>
@@ -1638,6 +1736,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8eca9ccf-e954-4e0c-9816-a7c21d749406">Software Engineer (Software Integrator) Intern [IDA:00070]</a></td>
+<td>Kallang, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000157968618-software-engineer-software-integrator-intern-ida-00070-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Beckman Coulter Life Sciences</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef4a8019-9200-4d8e-b0a2-519201f51501">Software Engineering Intern</a></td>
 <td>India</td>
@@ -1692,6 +1797,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33117">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Upsight</strong></td>
+<td><a href="https://trueinterview.io/jobs/d56b1549-84e3-45f4-861c-e410ed7e9274">Software Engineering Intern (Platform &amp; Integrations)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Sardine</strong></td>

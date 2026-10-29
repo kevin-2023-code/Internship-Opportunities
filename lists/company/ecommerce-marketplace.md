@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**44 open roles.** 39 in the United States & Canada · 5 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**43 open roles.** 38 in the United States & Canada · 5 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -198,13 +198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a460bbd3-2e36-404e-9013-c2fdf06e152c">Data Engineer Internship - 2027 (US)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td>↳</td>

@@ -39,6 +39,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Sonos</strong></td>
+<td><a href="https://trueinterview.io/jobs/545fb9b4-8643-4da4-bae6-a031ef04c7b9">Software Product Management Intern (Seattle)</a></td>
+<td>Seattle, Washington, United States</td>
+<td align="center"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e94432c5-a96f-42cc-ab52-e0d3e0c7f86c">Product Management Intern</a></td>
 <td>Greensboro, NC</td>
@@ -64,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bc71d318-9b0a-4c05-ade7-c24b0f0eda79">2027 BNY Summer Internship Program - Product Management (New York, NY)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458278266/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sonos, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/545fb9b4-8643-4da4-bae6-a031ef04c7b9">Software Product Management Intern (Seattle)</a></td>
-<td>Seattle, Washington, United States</td>
-<td align="center"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**54 open roles.** 42 in the United States & Canada · 12 elsewhere in the world.
+**55 open roles.** 43 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea435cf0-4e0d-47e3-9ac1-2f4d560f69c8">Research Intern, Knowledge Engineering &amp; Generative AI</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977446/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>OPSWAT</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5927b00-fc54-4176-8306-8cb6062f3084">Support Engineering Intern (AI &amp; Automation Focus)</a></td>

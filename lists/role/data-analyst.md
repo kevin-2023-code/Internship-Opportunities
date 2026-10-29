@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**42 open roles.** 29 in the United States & Canada · 13 elsewhere in the world.
+**43 open roles.** 29 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,6 +53,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>JM&amp;A Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/b85f3e00-77a3-48c6-b000-9f9643c16e7c">Customer Experience Data Analyst Intern</a></td>
+<td>Deerfield Beach, Florida, United States</td>
+<td align="center"><a href="https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Modern Woodmen of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2bc5374-9a74-4796-9b78-7cb90cde1f12">Data Analyst Intern</a></td>
 <td>Rock Island, IL</td>
@@ -71,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9453906a-63b7-4c12-a5b1-92df99de2bba">2027 Summer PMO/Data Analyst Intern (Chicago, IL)</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466122825/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Propopia</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c0c0306-5cfc-495b-9290-e292e978e26b">Data Analyst Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484472693/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -232,6 +232,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Southeast Toyota Distributors, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f2429d6-ae5b-435a-9f3f-fefbb6eb7604">Customer Experience Data Analyst Intern</a></td>
+<td>Miami-Fort Lauderdale Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970988/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/bbf92211-1819-45e7-895f-8296e753e495">Internship - Data Analyst, Automotive Supply Chain and Production Management</a></td>

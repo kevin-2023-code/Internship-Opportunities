@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**35 open roles.** 17 in the United States & Canada · 18 elsewhere in the world.
+**36 open roles.** 18 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PIMCO</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4573445-ec49-412f-a0e7-e425bdc78f48">2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US</a></td>
+<td>Newport Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460276955/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>American Century Investments</strong></td>
 <td><a href="https://trueinterview.io/jobs/6d6e5140-1da7-4adb-888f-1661a893b05c">Quantitative Research Intern</a></td>
