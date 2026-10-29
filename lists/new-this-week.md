@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**600 open roles.** 512 in the United States & Canada · 88 elsewhere in the world. Everything the employers put up this week.
+**607 open roles.** 515 in the United States & Canada · 92 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,10 +20,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/958ea8b2-6da0-405f-a1fc-888fc50e210c">AI Solutions Engineering Intern</a></td>
+<td>Arden Hills, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484919159/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/90a0bd01-d8fc-4dfd-ae4b-c7a0171ab634">R&amp;D Leads Sustaining Engineer Intern</a></td>
+<td>Arden Hills, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484904862/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>T-Mobile</strong></td>
 <td><a href="https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5">Summer 2027 Associate Technical Product Manager Internship</a></td>
 <td>Frisco, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484912259/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ededge Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/a595e831-6cf5-40d3-a072-0b742d0b819c">Data Analyst Intern</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903614/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8079b080-2e12-4092-9eb7-59e2845f5c35">Intern - Data Science</a></td>
 <td>San Jose, California, United States<br/>Folsom, California, United States</td>
 <td align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Procter &amp; Gamble</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce64aaf0-293c-408b-a1c6-40e4f612f683">R&amp;D PhD Summer Intern: Data Science &amp; AI, Grooming</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474407316/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Regeneron Pharmaceuticals</strong></td>
-<td><a href="https://trueinterview.io/jobs/065745c9-832a-45e2-8395-774f9c56858b">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
-<td>Rensselaer, Indiana, United States</td>
-<td align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RTX</strong></td>
-<td><a href="https://trueinterview.io/jobs/56da7b8a-6912-4ab9-9032-43f965c78eaa">Software Engineer Co-op (January 2027)</a></td>
-<td>Marlborough, Massachusetts, United States</td>
-<td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

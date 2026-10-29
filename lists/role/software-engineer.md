@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**191 open roles.** 160 in the United States & Canada · 31 elsewhere in the world.
+**192 open roles.** 160 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1149,6 +1149,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
+<td>Sheffield, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911456/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Samsara</strong></td>
 <td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**549 open roles.** 482 in the United States & Canada · 67 elsewhere in the world.
+**553 open roles.** 483 in the United States & Canada · 70 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/90a0bd01-d8fc-4dfd-ae4b-c7a0171ab634">R&amp;D Leads Sustaining Engineer Intern</a></td>
+<td>Arden Hills, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484904862/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Parker Hannifin</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc40b239-9a9b-4c3b-aab6-67741e105688">Spring/Summer Engineering Intern</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f">Software Developer Intern</a></td>
 <td>Ontario</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/efb0063f-237a-468c-8a3a-a571bc66f4ee">Software Engineer Intern (2027) - Austin, TX</a></td>
-<td>Austin, TX<br/>In-Office</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

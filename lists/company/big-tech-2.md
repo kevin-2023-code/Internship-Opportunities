@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**572 open roles.** 558 in the United States & Canada · 14 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**574 open roles.** 558 in the United States & Canada · 16 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1133,6 +1133,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
+<td>Sheffield, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911456/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce">Subject Matter Expert - Data Science, Intern</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689651">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/59815202-fac9-4a33-8977-2fb974744951">Amazon Internship Program 2027 | Business &amp; Product Management</a></td>

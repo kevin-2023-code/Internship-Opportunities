@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**31 open roles.** 25 in the United States & Canada · 6 elsewhere in the world.
+**32 open roles.** 26 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ededge Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/a595e831-6cf5-40d3-a072-0b742d0b819c">Data Analyst Intern</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903614/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Florida Atlantic University</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb82c5cc-25fd-436f-b398-c7ae60c5db41">Data Analyst Internship</a></td>

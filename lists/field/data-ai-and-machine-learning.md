@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**245 open roles.** 216 in the United States & Canada · 29 elsewhere in the world.
+**248 open roles.** 218 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/958ea8b2-6da0-405f-a1fc-888fc50e210c">AI Solutions Engineering Intern</a></td>
+<td>Arden Hills, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484919159/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ededge Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/a595e831-6cf5-40d3-a072-0b742d0b819c">Data Analyst Intern</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484903614/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4">Internship, Data Engineer, Energy (Winter/Spring 2027)</a></td>
@@ -1541,6 +1555,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce">Subject Matter Expert - Data Science, Intern</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689651">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon Science</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f576a8c-f395-47d6-854f-44b5f1d9cc25">Applied Scientist Intern</a></td>

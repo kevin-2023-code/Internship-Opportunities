@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**600 open roles.** 512 in the United States & Canada · 88 elsewhere in the world. Everything the employers put up this week.
+**607 open roles.** 515 in the United States & Canada · 92 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce64aaf0-293c-408b-a1c6-40e4f612f683">R&amp;D PhD Summer Intern: Data Science &amp; AI, Grooming</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474407316/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Regeneron Pharmaceuticals</strong></td>
+<td><a href="https://trueinterview.io/jobs/065745c9-832a-45e2-8395-774f9c56858b">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
+<td>Rensselaer, Indiana, United States</td>
+<td align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>RTX</strong></td>
+<td><a href="https://trueinterview.io/jobs/56da7b8a-6912-4ab9-9032-43f965c78eaa">Software Engineer Co-op (January 2027)</a></td>
+<td>Marlborough, Massachusetts, United States</td>
+<td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b">Software Engineering Intern (Summer 2027)</a></td>
 <td>Sterling, Virginia, United States</td>
 <td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169">Apply</a></td>
@@ -811,6 +832,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
+<td>Sheffield, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911456/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hilti Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/980e4cab-9fb3-4538-86bf-919d104f9140">Intern - Cybersecurity (m/f/x)</a></td>
+<td>Buchs (SG), St Gallen, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470135230/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce">Subject Matter Expert - Data Science, Intern</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689651">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GSK</strong></td>
+<td><a href="https://trueinterview.io/jobs/38c24e82-bb1a-4786-aea2-6fdacb1fd801">Engineering (Multiple Roles and Locations) Industrial Placement, 2027</a></td>
+<td>Ware, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477306162/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Samsara</strong></td>
 <td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>

@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-29T06:08:27.529Z",
-  "count": 1607,
+  "listingsChangedAt": "2026-10-29T07:05:37.933Z",
+  "count": 1614,
   "listings": [
+    {
+      "id": "958ea8b2-6da0-405f-a1fc-888fc50e210c",
+      "company": "Boston Scientific",
+      "title": "AI Solutions Engineering Intern",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484919159/",
+      "url": "https://trueinterview.io/jobs/958ea8b2-6da0-405f-a1fc-888fc50e210c",
+      "postedAt": "2026-10-29T06:29:00.000Z",
+      "updatedAt": "2026-10-29T06:29:00.000Z"
+    },
+    {
+      "id": "90a0bd01-d8fc-4dfd-ae4b-c7a0171ab634",
+      "company": "Boston Scientific",
+      "title": "R&D Leads Sustaining Engineer Intern",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484904862/",
+      "url": "https://trueinterview.io/jobs/90a0bd01-d8fc-4dfd-ae4b-c7a0171ab634",
+      "postedAt": "2026-10-29T06:26:00.000Z",
+      "updatedAt": "2026-10-29T06:26:00.000Z"
+    },
     {
       "id": "b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5",
       "company": "T-Mobile",
@@ -32,6 +82,106 @@
       "url": "https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5",
       "postedAt": "2026-10-29T05:41:00.000Z",
       "updatedAt": "2026-10-29T05:41:00.000Z"
+    },
+    {
+      "id": "a595e831-6cf5-40d3-a072-0b742d0b819c",
+      "company": "Ededge Learning",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484903614/",
+      "url": "https://trueinterview.io/jobs/a595e831-6cf5-40d3-a072-0b742d0b819c",
+      "postedAt": "2026-10-29T05:36:00.000Z",
+      "updatedAt": "2026-10-29T05:36:00.000Z"
+    },
+    {
+      "id": "35c30981-85a1-4be7-abc0-59c7d349e404",
+      "company": "Autodesk",
+      "title": "Intern, Software Engineer (Javascript) - 12 months",
+      "locations": [
+        "Sheffield, England, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484911456/",
+      "url": "https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404",
+      "postedAt": "2026-10-29T05:34:00.000Z",
+      "updatedAt": "2026-10-29T05:34:00.000Z"
+    },
+    {
+      "id": "980e4cab-9fb3-4538-86bf-919d104f9140",
+      "company": "Hilti Group",
+      "title": "Intern - Cybersecurity (m/f/x)",
+      "locations": [
+        "Buchs (SG), St Gallen, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470135230/",
+      "url": "https://trueinterview.io/jobs/980e4cab-9fb3-4538-86bf-919d104f9140",
+      "postedAt": "2026-10-29T05:21:00.000Z",
+      "updatedAt": "2026-10-29T05:21:00.000Z"
+    },
+    {
+      "id": "91e1c008-0700-412b-bc16-6b031ad176ce",
+      "company": "Apple",
+      "title": "Subject Matter Expert - Data Science, Intern",
+      "locations": [
+        "Shenzhen, Guangdong, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200689651",
+      "url": "https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce",
+      "postedAt": "2026-10-29T04:29:55.000Z",
+      "updatedAt": "2026-10-29T04:29:55.000Z"
     },
     {
       "id": "dc40b239-9a9b-4c3b-aab6-67741e105688",
@@ -261,6 +411,31 @@
       "url": "https://trueinterview.io/jobs/9adcfafc-e1f7-4172-a584-0c622c0fb7ef",
       "postedAt": "2026-10-29T02:12:00.000Z",
       "updatedAt": "2026-10-29T02:12:00.000Z"
+    },
+    {
+      "id": "38c24e82-bb1a-4786-aea2-6fdacb1fd801",
+      "company": "GSK",
+      "title": "Engineering (Multiple Roles and Locations) Industrial Placement, 2027",
+      "locations": [
+        "Ware, England, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477306162/",
+      "url": "https://trueinterview.io/jobs/38c24e82-bb1a-4786-aea2-6fdacb1fd801",
+      "postedAt": "2026-10-29T02:05:00.000Z",
+      "updatedAt": "2026-10-29T02:05:00.000Z"
     },
     {
       "id": "70611491-8cc1-4993-8ab1-2d5d51fb9916",

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**47 open roles.** 39 in the United States & Canada · 8 elsewhere in the world.
+**48 open roles.** 40 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/958ea8b2-6da0-405f-a1fc-888fc50e210c">AI Solutions Engineering Intern</a></td>
+<td>Arden Hills, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484919159/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>T-Mobile</strong></td>
 <td><a href="https://trueinterview.io/jobs/6ef72846-1d13-4364-bbd3-45362d7e7a52">Summer 2027 Assoc AI Engineer Internship</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**549 open roles.** 482 in the United States & Canada · 67 elsewhere in the world.
+**553 open roles.** 483 in the United States & Canada · 70 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/efb0063f-237a-468c-8a3a-a571bc66f4ee">Software Engineer Intern (2027) - Austin, TX</a></td>
+<td>Austin, TX<br/>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5e16902-e9d9-47ef-8379-1374ab623cf9">SAP iXp Intern - Site Speed Performance [Newtown Square, PA]</a></td>
@@ -601,6 +608,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
+<td>Sheffield, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911456/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hilti Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/980e4cab-9fb3-4538-86bf-919d104f9140">Intern - Cybersecurity (m/f/x)</a></td>
+<td>Buchs (SG), St Gallen, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470135230/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GSK</strong></td>
+<td><a href="https://trueinterview.io/jobs/38c24e82-bb1a-4786-aea2-6fdacb1fd801">Engineering (Multiple Roles and Locations) Industrial Placement, 2027</a></td>
+<td>Ware, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477306162/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Samsara</strong></td>
 <td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>

@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**37 open roles.** 35 in the United States & Canada · 2 elsewhere in the world.
+**38 open roles.** 35 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -274,6 +274,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hilti Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/980e4cab-9fb3-4538-86bf-919d104f9140">Intern - Cybersecurity (m/f/x)</a></td>
+<td>Buchs (SG), St Gallen, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470135230/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sereact Gmbh</strong></td>
 <td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
