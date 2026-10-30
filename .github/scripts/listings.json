@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T19:04:12.229Z",
-  "count": 2170,
+  "listingsChangedAt": "2026-10-30T20:04:45.369Z",
+  "count": 2176,
   "listings": [
     {
       "id": "6a57a759-0c1a-4f90-a6c5-866bd6b0a0a7",
@@ -2282,7 +2282,8 @@
       "company": "Marvin Engineering Company",
       "title": "INTERN (AI DEVELOPER)",
       "locations": [
-        "Los Angeles Metropolitan Area"
+        "Los Angeles Metropolitan Area",
+        "Inglewood, CA"
       ],
       "cities": [],
       "countries": [
@@ -3016,6 +3017,31 @@
       "url": "https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0",
       "postedAt": "2026-10-30T05:04:00.000Z",
       "updatedAt": "2026-10-30T05:05:00.000Z"
+    },
+    {
+      "id": "a69952e0-379a-473e-b0c9-1d2ac7a3c1e2",
+      "company": "Sierra Nevada Corporation",
+      "title": "Firmware Engineering Intern",
+      "locations": [
+        "Folsom, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219",
+      "url": "https://trueinterview.io/jobs/a69952e0-379a-473e-b0c9-1d2ac7a3c1e2",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
     },
     {
       "id": "61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7",
@@ -4106,7 +4132,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484586961/",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
       "url": "https://trueinterview.io/jobs/3a56b46e-08d0-4198-a7a2-dc3aa049f741",
       "postedAt": "2026-10-30T00:41:00.000Z",
       "updatedAt": "2026-10-30T00:41:00.000Z"
@@ -4161,7 +4187,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484805171/",
+      "applyUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
       "url": "https://trueinterview.io/jobs/e32da889-0e91-4cfe-bfc4-52efd8f854f3",
       "postedAt": "2026-10-30T00:39:00.000Z",
       "updatedAt": "2026-10-30T00:39:00.000Z"
@@ -4490,7 +4516,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485279367/",
+      "applyUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826",
       "url": "https://trueinterview.io/jobs/251a87db-26bc-444a-affa-874e806e8485",
       "postedAt": "2026-10-30T00:36:00.000Z",
       "updatedAt": "2026-10-30T00:36:00.000Z"
@@ -6032,6 +6058,31 @@
       "url": "https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28",
       "postedAt": "2026-10-29T21:54:00.000Z",
       "updatedAt": "2026-10-29T21:54:00.000Z"
+    },
+    {
+      "id": "bf7cb3f6-37c2-40d1-a1c8-102404895612",
+      "company": "Syntiant Corp",
+      "title": "Internship - DevOps Machine Learning Infrastructure",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/041E7A875F",
+      "url": "https://trueinterview.io/jobs/bf7cb3f6-37c2-40d1-a1c8-102404895612",
+      "postedAt": "2026-10-29T21:17:46.000Z",
+      "updatedAt": "2026-10-29T21:17:46.000Z"
     },
     {
       "id": "5fb3b1a8-fd3c-40eb-8a81-e7cd64760818",
@@ -14755,6 +14806,33 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "30321836-4a81-4f3c-8a83-9f1eacb2d985",
+      "company": "General Motors (GM)",
+      "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+      "url": "https://trueinterview.io/jobs/30321836-4a81-4f3c-8a83-9f1eacb2d985",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "05b2c03e-4816-4628-b0ed-615a46e23efc",
       "company": "Great American Insurance Group",
       "title": "Content Publishing Developer Intern - Summer 2027",
@@ -14828,6 +14906,32 @@
       "applyUrl": "https://hargroveepc.wd12.myworkdayjobs.com/Hargrove_Careers/job/Houston-TX/Controls---Automation-Engineering-Co-Op_2026-001275",
       "url": "https://trueinterview.io/jobs/e7468517-fe58-460d-b6fe-539cee3148a3",
       "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "fa9b488d-9dd6-43b2-b707-885e01401b07",
+      "company": "HII",
+      "title": "Software Engineer, Intern - Summer 2027",
+      "locations": [
+        "Crane, Indiana, United States",
+        "Crane, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/",
+      "url": "https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07",
+      "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
@@ -14933,6 +15037,31 @@
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721",
       "url": "https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df",
       "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "55743a10-5afe-486c-bc47-ba8b165cd78b",
+      "company": "Leidos",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Annapolis Junction, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&tm_event=view&tm_company=2502",
+      "url": "https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b",
+      "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
@@ -15061,6 +15190,32 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "f5f97e8e-7945-43c2-9da2-1da5b7a295ae",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Engineering Intern",
+      "locations": [
+        "Charlotte, North Carolina, United States",
+        "Charlotte, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468",
+      "url": "https://trueinterview.io/jobs/f5f97e8e-7945-43c2-9da2-1da5b7a295ae",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "baffbe9f-94af-45c2-8527-505f88952693",
       "company": "Siemens Gamesa",
       "title": "Digitalisation Intern (Software Developer)",
@@ -15115,6 +15270,58 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "50127fb3-0a58-4ae3-9d1e-198866e1db68",
+      "company": "Sonos",
+      "title": "Software Partner Engineering Intern (Boston)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1",
+      "url": "https://trueinterview.io/jobs/50127fb3-0a58-4ae3-9d1e-198866e1db68",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "d297459a-94e0-434b-875e-8474ca997718",
+      "company": "The Bernard Group",
+      "title": "Intern, Software Engineer (Data and Python)",
+      "locations": [
+        "Chanhassen, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&ccId=19000101_000001&jobId=605208&lang=en_US",
+      "url": "https://trueinterview.io/jobs/d297459a-94e0-434b-875e-8474ca997718",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "1f65cc0a-e2fe-410f-bac3-932ffaedd132",
       "company": "TikTok",
       "title": "Machine Learning Engineer Project Intern (Recommendation) - 2027 Start",
@@ -15138,6 +15345,31 @@
       "source": "indeed",
       "applyUrl": "https://lifeattiktok.com/search/7686439502455212293",
       "url": "https://trueinterview.io/jobs/1f65cc0a-e2fe-410f-bac3-932ffaedd132",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
+      "company": "Western Magnetics",
+      "title": "Software Engineer - Intern (Jan 2027)",
+      "locations": [
+        "South San Francisco, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882",
+      "url": "https://trueinterview.io/jobs/baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -16166,31 +16398,6 @@
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
     {
-      "id": "fa9b488d-9dd6-43b2-b707-885e01401b07",
-      "company": "HII's Mission Technologies division",
-      "title": "Software Engineer, Intern - Summer 2027 - 30942",
-      "locations": [
-        "Crane, Indiana, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/",
-      "url": "https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07",
-      "postedAt": "2026-10-29T00:00:00.000Z",
-      "updatedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
       "id": "2d87d862-63de-4f29-8209-1818c2f84d40",
       "company": "Infineon Technologies",
       "title": "Internship - Automation Developer (f/m/div)",
@@ -16395,31 +16602,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694",
       "url": "https://trueinterview.io/jobs/0a997860-acab-4845-a41c-479d1696fb82",
-      "postedAt": "2026-10-29T00:00:00.000Z",
-      "updatedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "f5f97e8e-7945-43c2-9da2-1da5b7a295ae",
-      "company": "Schweitzer Engineering Laboratories (SEL)",
-      "title": "Engineering Intern",
-      "locations": [
-        "Charlotte, North Carolina, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468",
-      "url": "https://trueinterview.io/jobs/f5f97e8e-7945-43c2-9da2-1da5b7a295ae",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -34959,6 +35141,33 @@
       "url": "https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1",
       "postedAt": "2026-10-14T14:50:14.000Z",
       "updatedAt": "2026-10-14T14:50:14.000Z"
+    },
+    {
+      "id": "988037b9-4555-4546-9fcd-06afafc280da",
+      "company": "Amazon.com",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B",
+      "url": "https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da",
+      "postedAt": "2026-10-14T05:00:00.000Z",
+      "updatedAt": "2026-10-14T05:00:00.000Z"
     },
     {
       "id": "483b87de-81f2-4681-aa4a-542d189e22bf",
@@ -56436,59 +56645,6 @@
       "url": "https://trueinterview.io/jobs/ead8cecc-b2e5-4096-bf89-c7ec0be0cbfc",
       "postedAt": "2026-08-31T20:30:00.000Z",
       "updatedAt": "2026-08-31T20:30:00.000Z"
-    },
-    {
-      "id": "d9ec5513-da89-4b4b-8741-185b353d74c6",
-      "company": "Wsp",
-      "title": "Intern, Civil Engineering",
-      "locations": [
-        "Vancouver, BC, Canada"
-      ],
-      "cities": [
-        "Vancouver, BC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93760",
-      "url": "https://trueinterview.io/jobs/d9ec5513-da89-4b4b-8741-185b353d74c6",
-      "postedAt": "2026-08-31T19:33:33.000Z",
-      "updatedAt": "2026-08-31T19:33:33.000Z"
-    },
-    {
-      "id": "d6683d47-31a9-4135-adbc-2162ec8f1ba6",
-      "company": "Epic Games",
-      "title": "Frontend Programmer Intern",
-      "locations": [
-        "Cary,North Carolina,United States",
-        "Cary"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Frontend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
-      "url": "https://trueinterview.io/jobs/d6683d47-31a9-4135-adbc-2162ec8f1ba6",
-      "postedAt": "2026-08-31T19:08:30.000Z",
-      "updatedAt": "2026-08-31T19:08:30.000Z"
     }
   ]
 }

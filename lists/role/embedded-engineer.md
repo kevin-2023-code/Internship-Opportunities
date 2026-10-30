@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**32 open roles.** 26 in the United States & Canada · 6 elsewhere in the world.
+**33 open roles.** 27 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sierra Nevada Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a69952e0-379a-473e-b0c9-1d2ac7a3c1e2">Firmware Engineering Intern</a></td>
+<td>Folsom, CA</td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>STMicroelectronics</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcb780e7-1c5e-4fb8-bb74-9aabf6ff4a13">Embedded Software Sensor Algorithm Intern</a></td>

@@ -49,7 +49,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a56b46e-08d0-4198-a7a2-dc3aa049f741">Compiler Software Engineering Intern - Summer 2027</a></td>
 <td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484586961/">Apply</a></td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**51 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**50 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -365,13 +365,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ead8cecc-b2e5-4096-bf89-c7ec0be0cbfc">Engineering Internship - Building Automation Systems</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5399497008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9ec5513-da89-4b4b-8741-185b353d74c6">Intern, Civil Engineering</a></td>
-<td>Vancouver, BC, Canada</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93760">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>

@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Marvin Engineering Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5393e75-fae5-49db-8b04-ec58986768bb">INTERN (AI DEVELOPER)</a></td>
-<td>Los Angeles Metropolitan Area</td>
+<td>Los Angeles Metropolitan Area<br/>Inglewood, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485298816/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
