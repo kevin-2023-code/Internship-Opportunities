@@ -22,7 +22,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da">Intern - Software Engineer, Connectivity (NTD)</a></td>
 <td>Redmond, Washington, United States</td>
 <td align="center"><a href="https://careers.nintendo.com/?gh_jid=4472147009">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
