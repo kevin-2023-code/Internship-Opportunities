@@ -16,6 +16,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1555cb2-8adc-464d-845c-2118078f42b5">Firmware Engineer Co-Op</a></td>
+<td>San Francisco - SF9</td>
+<td align="center"><a href="https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/47316a3f-e13e-4703-8395-955187568a7f">Hardware Intern</a></td>
+<td>Nashua, NH, United States<br/>Nashua, New Hampshire, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000151659973-hardware-intern-?oga=true">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4580675-2708-4408-8656-4ac5698a761c">Summer 2027 Masters Digital Signal Processing Engineer Intern</a></td>
 <td>San Jose, California, United States</td>
@@ -1567,20 +1581,6 @@
 <td><a href="https://trueinterview.io/jobs/40c1ad56-150a-44b9-bada-8d0543a43c6a">Electrical Engineering Co-Op</a></td>
 <td>San Francisco - SF9</td>
 <td align="center"><a href="https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee0c5854-9be0-41b0-9a54-fc6c2eb39a55">Intern - ADV DRAM Process Integration Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44139281">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42ad0f60-eefa-47ca-aba8-233caef91692">Intern - RDA/Metrology-Process Shift Engineer, TD</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44247229">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>

@@ -18,15 +18,15 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-29 23:04 UTC_
+_Last updated: 2026-10-30 00:13 UTC_
 
-**281 open internships** from **159 employers** · **202 posted in the last 7 days** · refreshed hourly
+**280 open internships** from **158 employers** · **199 posted in the last 7 days** · refreshed hourly
 
-### Browse 281 internships by field
+### Browse 280 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (133)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (57)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (56)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (31)
 
@@ -42,7 +42,7 @@ _Last updated: 2026-10-29 23:04 UTC_
 
 **Infineon Technologies** 31 &nbsp;·&nbsp; **NVIDIA** 10 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **SAP** 6 &nbsp;·&nbsp; **TikTok** 5 &nbsp;·&nbsp; **Apple** 4 &nbsp;·&nbsp; **Crédit Agricole CIB** 4 &nbsp;·&nbsp; **TSMC** 4 &nbsp;·&nbsp; **DRW** 3 &nbsp;·&nbsp; **Glanua** 3 &nbsp;·&nbsp; **Jacobs** 3 &nbsp;·&nbsp; **Tencent** 3
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 30 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 28 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -50,13 +50,13 @@ _Last updated: 2026-10-29 23:04 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (42)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (22)](lists/company/semiconductors.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🏢 Enterprise & business software (12)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (11)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [🛒 E-commerce & marketplaces (6)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [+10 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (42)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (22)](lists/company/semiconductors.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🏢 Enterprise & business software (11)](lists/company/enterprise-saas.md) · [🖥️ Hardware, devices & networking (11)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🛒 E-commerce & marketplaces (6)](lists/company/ecommerce-marketplace.md) · [💳 Fintech, payments & crypto (6)](lists/company/fintech.md) · [🏗️ Large tech (1,000–9,999) (6)](lists/company/large-tech.md) · [+10 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (45)](lists/role/software-engineer.md) · [Product Manager (18)](lists/role/product-manager.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Data Analyst (16)](lists/role/data-analyst.md) · [Machine Learning Engineer (10)](lists/role/machine-learning-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Embedded Engineer (5)](lists/role/embedded-engineer.md) · [Security Engineer (4)](lists/role/security-engineer.md) · [Hardware Engineer (3)](lists/role/hardware-engineer.md) · [+7 more →](lists/README.md)
 
 📍 **By location** — [🇸🇬 Singapore (62)](lists/place/singapore.md) · [🇬🇧 London & the UK (24)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (15)](lists/place/greater-china.md) · [🇳🇱 Amsterdam & the Benelux (12)](lists/place/benelux.md) · [🇨🇭 Zürich & Switzerland (12)](lists/place/switzerland.md) · [🇮🇪 Dublin & Ireland (11)](lists/place/ireland.md) · [🇫🇷 Paris & France (8)](lists/place/france.md) · [🇩🇪 Berlin, Munich & Germany (5)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (5)](lists/place/iberia.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [+1 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (202)](lists/new-this-week.md) · [🌐 Remote (10)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (199)](lists/new-this-week.md) · [🌐 Remote (10)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -647,7 +647,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 31 of 57.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 31 of 56.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -803,7 +803,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e7d651be-c785-496c-997f-b8ffc4d156de">Engineering Intern (6 months internship)</a></td>
 <td>Campoverde, Lazio, Italy</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016282473-engineering-intern-6-months-internship-?oga=true">Apply</a></td>
-<td align="center">8d</td>
+<td align="center">9d</td>
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>
@@ -963,7 +963,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f4a297cc-b3af-459c-9114-6cc31748fb12">UX Engineer - Internship(EN)</a> 🆕</td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481212598/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -1061,14 +1061,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/aaef892e-ce22-42f0-9d85-9c71d56ceed4">Graphic Design: Video Editing Intern</a></td>
 <td>Peru, Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8040761003">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/773af014-3a38-44ba-b773-4753a1c148cd">Multi Media Design Intern</a></td>
 <td>Peru, Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8040759003">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td><strong>Landor</strong></td>

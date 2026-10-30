@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**82 open roles.**
+**80 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Capital One</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
+<td>New York, NY<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WSP in the U.S.</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d975d7-3521-4b1f-9c9d-5372549e9faf">Structural Engineering Intern - Summer 2027</a></td>
@@ -253,27 +260,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d50ad1e4-87d6-4076-ae5c-7ea4dee1915f">Design Intern, Non-Apparel, Spring 2027</a></td>
 <td>New York, NY, Crosby</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/khaite/jobs/5457663008">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4a204935-8419-49dd-b9f7-2cfcbf4983a1">Technical Design, Production, RTW Internship, Spring 2027</a></td>
-<td>New York, NY, Crosby</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/khaite/jobs/5456876008">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
-<td>New York, NY<br/>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patreon</strong></td>
-<td><a href="https://trueinterview.io/jobs/0660463c-0c62-457e-bec9-38f857ec3d48">Software Engineering Intern - Summer 2027</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

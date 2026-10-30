@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**388 open roles.**
+**386 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Capital One</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
+<td>San Jose, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd0742c5-08e8-469b-b696-714845d4551a">Arena Engineering Intern (Summer 2027)</a></td>
+<td>San Mateo, CA<br/>San Mateo County, CA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/7339af3e-ef93-4bac-bddb-b4b83a1a13e7">Summer 2027 Product Manager Intern</a></td>
@@ -113,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
 <td>Milpitas, California, United States</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PTC</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd0742c5-08e8-469b-b696-714845d4551a">Arena Engineering Intern (Summer 2027)</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -823,13 +830,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/55ae2f9a-24ab-4723-838c-a9c552e48b73">Intern - SSD Firmware</a></td>
-<td>San Jose, CA<br/>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45044344">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cfff8e5-5264-4478-815b-2e59c9937037">Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
@@ -841,20 +841,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/724b9446-16b1-44fd-969c-ef542a874d2e">Systems Software Intern, Aerial PHY- Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397883732">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patreon</strong></td>
-<td><a href="https://trueinterview.io/jobs/0660463c-0c62-457e-bec9-38f857ec3d48">Software Engineering Intern - Summer 2027</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Point72</strong></td>
-<td><a href="https://trueinterview.io/jobs/92562b59-26f4-409f-aabe-efbca260b389">2028 Point72 Academy Investment Analyst Summer Internship Program - US</a></td>
-<td>United States, Chicago, Florida, New York, San Francisco, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

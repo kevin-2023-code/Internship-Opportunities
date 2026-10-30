@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**112 open roles.** 105 in the United States & Canada · 7 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**110 open roles.** 104 in the United States & Canada · 6 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,13 +183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fae2c341-dcd4-4012-858b-798c7f59e1f0">Intern, Software Engineering</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/braze/jobs/8301086">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
-<td>New York, NY<br/>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -770,13 +763,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Harrow, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3a77ea1-673d-4f5b-9483-d05a83d4490f">Intern Applied AI Solution Consulting (Italy)</a></td>
-<td>Milan, Italy</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>

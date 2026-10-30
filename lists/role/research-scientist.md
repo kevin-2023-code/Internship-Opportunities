@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**54 open roles.** 51 in the United States & Canada · 3 elsewhere in the world.
+**53 open roles.** 50 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -169,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/258ca580-430e-4e36-8537-935dc234c7d4">Summer 2027 Intern - AI Research</a></td>
 <td>California - Palo Alto, United States of America</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sony</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a07e44e-5201-4011-b927-d9df7386d7a6">Research Engineer Intern (Ethical Creative and Protective AI Lab)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

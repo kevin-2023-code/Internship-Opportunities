@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**82 open roles.**
+**84 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c5ef3b0-b571-4097-a5cb-6bfd349a39b7">Product Engineer Intern</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485246133/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Aspen Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/69afe807-8e38-4e0b-8c56-b0b48470a3af">Product Owner Intern — Product Management - Summer 2027</a></td>
@@ -43,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c284afe-4bd0-4886-8cca-ae29c799ed86">Electrical Engineering Intern - Summer 2027</a></td>
 <td>Boston, MA<br/>Conshohocken, PA<br/>Indianapolis, IN<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484719571/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth of Massachusetts</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc4ab13f-f45c-48c0-9926-207be117a126">HR Business Intelligence Co-op Spring 2027</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL&amp;lang=en">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

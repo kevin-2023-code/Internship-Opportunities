@@ -20,6 +20,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/714594cc-f244-42ff-ac50-2d4dd037f4f1">Systems/Process Engineering, Tapeout Operations Intern (Summer 2027)</a></td>
+<td>Essex Junction, VT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481147952/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>enGen</strong></td>
+<td><a href="https://trueinterview.io/jobs/67a707f3-8af1-4193-ad13-db2aebb119f4">Summer 2027 Quality Engineer enGen Undergraduate Intern</a></td>
+<td>Camp Hill, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485235594/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cd47aae-4d8e-4cbf-9ba6-825f64bd58f1">Civil Engineering Intern | Melbourne, FL</a></td>
+<td>Melbourne, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474613836/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/edee1cf6-a0a7-47c2-9b56-711d0eaebd0f">Mechanical Engineering Intern | Melbourne, FL</a></td>
+<td>Melbourne, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474627423/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c21bb17-eeb2-43ae-8908-9e88020a9f0c">Manufacturing Quality Engineer Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485233826/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>WSP in the U.S.</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d975d7-3521-4b1f-9c9d-5372549e9faf">Structural Engineering Intern - Summer 2027</a></td>
 <td>New York, NY<br/>Virginia Beach, VA</td>
@@ -1413,13 +1448,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Clutch Technologies Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec748939-b9c5-4eca-a301-d41651063396">Production Development Engineering Intern (Co-op), Winter 2027</a></td>
-<td>Mississauga, Ontario, Canada, Mississauga</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clutch/jobs/6228333004">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/916a7d84-c11c-4cc4-a705-5c4e8e2c9ffe">Design Verification Graduate Intern 2027</a></td>
 <td>US, Colorado, Fort Collins, United States of America<br/>US, California, Santa Clara</td>
@@ -1435,13 +1463,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b4ddc49-79ba-495e-b38b-9609c69c4e71">Hardware Engineering Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/55112?lang=en-us">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5ae6b90e-2119-4a62-9723-4ef3874cf4f0">Solutions Engineering Intern</a></td>
 <td>San Diego, California, United States<br/>El Segundo, California, United States<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54887?lang=en-us">Apply</a></td>
@@ -1480,13 +1501,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/874aa698-ecc6-4e0c-a3b3-66c5b703f0ad">Intern - Machine Learning Engineering</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45050125">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/55ae2f9a-24ab-4723-838c-a9c552e48b73">Intern - SSD Firmware</a></td>
-<td>San Jose, CA<br/>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45044344">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/abd9ea71-4127-48ed-bb3a-1674f65f9f5e">Test Engineering Intern Spring 2027</a></td>
 <td>Wallops Island, VA<br/>Launch Complex 2</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8003533003">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1555cb2-8adc-464d-845c-2118078f42b5">Firmware Engineer Co-Op</a></td>
-<td>San Francisco - SF9</td>
-<td align="center"><a href="https://www.samsara.com/company/careers/roles/8226602?gh_jid=8226602">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/47316a3f-e13e-4703-8395-955187568a7f">Hardware Intern</a></td>
-<td>Nashua, NH, United States<br/>Nashua, New Hampshire, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000151659973-hardware-intern-?oga=true">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 </tbody>

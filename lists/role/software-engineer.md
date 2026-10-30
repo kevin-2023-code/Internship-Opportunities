@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**225 open roles.** 180 in the United States & Canada · 45 elsewhere in the world.
+**224 open roles.** 179 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
+<td>Richardson, TX<br/>Bend, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239335/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Renewables - Bazefield</strong></td>
 <td><a href="https://trueinterview.io/jobs/26c5da57-03d4-4e0e-bba6-d33948f639a5">Product Designer/Developer Intern</a></td>
 <td>Del Mar, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478488260/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Viasat, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/42c0a21c-4b92-480e-969c-c72a7f6bc699">Software Engineer Intern</a></td>
+<td>Germantown, Maryland, United States</td>
+<td align="center"><a href="https://careers.viasat.com/jobs/7172">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -148,6 +162,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027 - 30942</a></td>
 <td>Crane, Indiana, United States</td>
 <td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SOTI</strong></td>
+<td><a href="https://trueinterview.io/jobs/027beb42-ed00-4639-9694-afcc06449592">Software Developer Intern - SOTI XSight (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -585,38 +606,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cdcf6be-00f5-44de-8764-09a3ff32076d">Software Tools Engineering Intern</a></td>
-<td>United Kingdom, Edinburgh, SC, Freer</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/dedecf26-b235-4c7f-a87b-b94747329bc3">Intern - SMAI Probe AI Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45044247">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
-<td>New York, NY<br/>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patreon</strong></td>
-<td><a href="https://trueinterview.io/jobs/0660463c-0c62-457e-bec9-38f857ec3d48">Software Engineering Intern - Summer 2027</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/3401a11e-44d8-4954-b4c6-1c176d5ab47a">Software Engineering Intern - Compiler</a></td>
-<td>Sugar Land, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

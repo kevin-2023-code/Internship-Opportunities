@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**7 open roles.**
+**8 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Internship List</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
+<td>Burnaby, British Columbia, Canada<br/>Toronto, Ontario, Canada<br/>Oakville, Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>FortisBC</strong></td>
 <td><a href="https://trueinterview.io/jobs/eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b">Engineering Co-op, System Integrity</a></td>

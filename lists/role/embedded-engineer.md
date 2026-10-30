@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**32 open roles.** 27 in the United States & Canada · 5 elsewhere in the world.
+**30 open roles.** 25 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,20 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45227661?domain=micron.com">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/78aafd37-42d2-467a-9eaa-82729f79100e">Embedded Software Engineering Intern</a></td>
-<td>Roseville, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/55ae2f9a-24ab-4723-838c-a9c552e48b73">Intern - SSD Firmware</a></td>
-<td>San Jose, CA<br/>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45044344">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Figure</strong></td>

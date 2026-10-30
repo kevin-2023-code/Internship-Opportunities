@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**969 open roles.** 767 in the United States & Canada · 202 elsewhere in the world. Everything the employers put up this week.
+**975 open roles.** 776 in the United States & Canada · 199 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,69 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Caldera Medical</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bc609a6-fe62-4fa6-afd0-10182baacde6">EMS Engineering Intern 2027</a></td>
+<td>Neuchâtel, Neuchâtel, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484998348/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TP Vision</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6c7ee1e-23ad-44c4-9881-f6d15cc144d6">UI/UX Intern – Digital Customer Experience</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967925/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae177538-1460-4136-9087-50745c747fc5">Intern – Signalling Engineer</a></td>
+<td>Greater Pittsburgh Region</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484964911/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c9a42849-8843-457e-8231-b6366a5039b2">Signalling Design Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980187/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcf9e063-e196-4a23-b47a-b5e75c7611ea">Internship - Test Engineering Support (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456195790/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1e0f31dd-7720-4a60-9ded-df328e63480f">Internship - Assistant for Engineering Lab (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4427981037/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Viking Nederland</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f2b71f6-771d-4fd4-93fa-8827f93bafa2">Internship Technical Solution Engineer</a></td>
+<td>Venlo, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477169487/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/761d6c77-d66b-4c99-9a4a-8929593de62e">Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441980720/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ONWARD Medical</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f472ec5-b28f-4315-bb00-a20781ee2a6d">Firmware Intern</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ASML</strong></td>
 <td><a href="https://trueinterview.io/jobs/8fa8dcff-7a3e-4168-b7d1-c6e05c44c433">Software Testing Intern</a></td>
@@ -1178,27 +1241,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brasil</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e/application">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sezzle</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaef892e-ce22-42f0-9d85-9c71d56ceed4">Graphic Design: Video Editing Intern</a></td>
-<td>Peru, Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8040761003">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/773af014-3a38-44ba-b773-4753a1c148cd">Multi Media Design Intern</a></td>
-<td>Peru, Bogota, Colombia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8040759003">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Toku</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5e75fc6-8abe-4fa9-957c-d25af2f53b99">AI Operations Intern CL</a></td>
-<td>Chile</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/toku/d0100b7c-7dd1-491b-a088-4d4858188eca/application">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 </tbody>
 </table>

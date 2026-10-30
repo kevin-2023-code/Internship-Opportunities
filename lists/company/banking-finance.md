@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**25 open roles.** 8 in the United States & Canada · 17 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**26 open roles.** 9 in the United States & Canada · 17 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Capital One</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
+<td>San Jose, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Manulife</strong></td>
 <td><a href="https://trueinterview.io/jobs/98d1c45c-1cb8-4e36-bc0e-add605e2fdd1">Operations &amp; Data Analyst Co-op (8 Months)</a></td>

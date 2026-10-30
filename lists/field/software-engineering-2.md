@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**755 open roles.** 622 in the United States & Canada · 133 elsewhere in the world.
+**760 open roles.** 627 in the United States & Canada · 133 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,83 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3892383-1431-48e8-8f53-a758d0b1a8b6">Software Engineering Intern - Quantum Information Science 2027</a></td>
+<td>Multiple Cities, United States</td>
+<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137674">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3350697-fb3a-440b-9bd4-fe6b02e476e4">University - 2027 Summer Games Software Developer Intern - Lexington, MA</a></td>
+<td>Lexington, MA</td>
+<td align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/29dff55c-f97e-4132-8b46-2078fad41272">Software Intern Engineer</a></td>
+<td>Dedham, MA</td>
+<td align="center"><a href="https://careers-gdms.icims.com/jobs/75752/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bac55478-ed6d-4354-b736-e7d3d57f0f82">Software Test Engineer Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://careers-gdms.icims.com/jobs/75729/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/3750c7b7-fb5a-487c-b954-8b773e8a0c24">2027 Software Engineer Intern - Azusa CA</a></td>
+<td>Azusa, CA</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340074998859?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/61176f88-307c-4411-ac82-7979fca603a0">Systems Engineering Co-op</a></td>
+<td>Woburn, MA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01884039">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>United Concordia Dental</strong></td>
+<td><a href="https://trueinterview.io/jobs/9aa9a95b-7095-4540-99e1-2af30e87e4db">Summer 2027 Enterprise Architecture Software Engineer &amp; Architect enGen Undergradute Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3c476d9f-9444-46c5-b988-b74352585863">Summer 2027 Provider Delivery Software Engineer enGen Undergraduate Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9282f783-4fb7-420a-9979-d6e0004179af">Summer 2027 Software Engineer enGen Graduate Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f298b6e5-96d2-459b-b4ab-74652062cc4b">Summer 2027 Software Engineer enGen Undergraduate Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c88fd33-5cb2-4f4e-a955-8be79171ed66">Spring/Summer 2027 Undergrad Technical Writer Co-Op</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91082?lang=en-us">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/620afe0e-538d-4b54-9f78-7354fa00e9dd">DevOps Co-Op</a></td>
@@ -184,24 +261,10 @@
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cdcf6be-00f5-44de-8764-09a3ff32076d">Software Tools Engineering Intern</a></td>
-<td>United Kingdom, Edinburgh, SC, Freer</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Braze</strong></td>
 <td><a href="https://trueinterview.io/jobs/fae2c341-dcd4-4012-858b-798c7f59e1f0">Intern, Software Engineering</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/braze/jobs/8301086">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/78aafd37-42d2-467a-9eaa-82729f79100e">Embedded Software Engineering Intern</a></td>
-<td>Roseville, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Embedded-Software-Engineering-Intern_1214088">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -223,27 +286,6 @@
 <td><a href="https://trueinterview.io/jobs/724b9446-16b1-44fd-969c-ef542a874d2e">Systems Software Intern, Aerial PHY- Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397883732">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
-<td>New York, NY<br/>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patreon</strong></td>
-<td><a href="https://trueinterview.io/jobs/0660463c-0c62-457e-bec9-38f857ec3d48">Software Engineering Intern - Summer 2027</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/3401a11e-44d8-4954-b4c6-1c176d5ab47a">Software Engineering Intern - Compiler</a></td>
-<td>Sugar Land, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -1560,13 +1602,6 @@
 <td><a href="https://trueinterview.io/jobs/7a85ee66-c893-441e-8ea5-245505519765">Software Engineer - Intern (Summer 2027)</a></td>
 <td>Redwood City, California, United States</td>
 <td align="center"><a href="https://c3.ai/job-description/8739037002?gh_jid=8739037002">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2b6bc08-b4e5-44c4-a493-66856109e996">Financial Analyst Intern</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://careers.oracle.com/en/sites/jobsearch/job/344176">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>

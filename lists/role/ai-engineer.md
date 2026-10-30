@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**62 open roles.** 46 in the United States & Canada · 16 elsewhere in the world.
+**65 open roles.** 49 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>LBMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcf98283-cdd4-49a9-849b-6ebea7e3771f">Data &amp; AI Engineering Intern - Spring 2027</a></td>
+<td>Brentwood, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250502/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capital One</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
+<td>San Jose, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TaskVerse</strong></td>
+<td><a href="https://trueinterview.io/jobs/08abdd8f-2c89-47d8-a299-7d40df343f54">Gen AI Developer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485231976/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Huawei Canada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4">Intern Researcher- AI Agents</a></td>

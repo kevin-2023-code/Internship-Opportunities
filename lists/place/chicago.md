@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**27 open roles.**
+**26 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Office - Chicago<br/>Office - NYC, Office - NYC</td>
 <td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003">Apply</a></td>
 <td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Point72</strong></td>
-<td><a href="https://trueinterview.io/jobs/92562b59-26f4-409f-aabe-efbca260b389">2028 Point72 Academy Investment Analyst Summer Internship Program - US</a></td>
-<td>United States, Chicago, Florida, New York, San Francisco, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>

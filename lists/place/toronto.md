@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**21 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Internship List</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
+<td>Toronto, Ontario, Canada<br/>Burnaby, British Columbia, Canada<br/>Oakville, Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Huawei Canada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4">Intern Researcher- AI Agents</a></td>
 <td>Markham, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485203598/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SOTI</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b9fbd63-018e-4a55-9ba1-f901798c81e1">QA Intern (May 2027, 12 months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/QA-Intern--May-2027--12-months-_R10610">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/027beb42-ed00-4639-9694-afcc06449592">Software Developer Intern - SOTI XSight (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -58,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Ottawa, ON<br/>Ottawa, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Electronic-Reliability-Engineer-Co-op--Winter-2027-_R031987">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Clutch Technologies Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec748939-b9c5-4eca-a301-d41651063396">Production Development Engineering Intern (Co-op), Winter 2027</a></td>
-<td>Mississauga, Ontario, Canada, Mississauga</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/clutch/jobs/6228333004">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Solink</strong></td>

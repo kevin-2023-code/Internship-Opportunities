@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**969 open roles.** 767 in the United States & Canada · 202 elsewhere in the world. Everything the employers put up this week.
+**975 open roles.** 776 in the United States & Canada · 199 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,160 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enerpac Tool Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/f29744ed-476a-49bf-8d4b-3b813c45c6db">Manufacturing Engineering Intern</a></td>
+<td>Columbus, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482550117/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hatch</strong></td>
+<td><a href="https://trueinterview.io/jobs/f81d9bba-844f-464c-a7dc-68c037815635">Thermal Power Engineering Intern</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466150137/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/dabffe09-4cfd-47ea-aa98-51c6e20c30b1">Systems Test Engineer (SkillBridge Intern) - 26005</a></td>
+<td>Albuquerque, NM</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439904005/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oak Ridge Institute for Science and Education</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5fc1545-96d2-4122-b979-40b53f3b1df2">Summer 2027 AFIT Engineering and Physics Research Internship</a></td>
+<td>Ohio, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715810/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oceaneering</strong></td>
+<td><a href="https://trueinterview.io/jobs/245d079d-7733-4d1b-896b-3f37c3b6a759">IMR System Design Engineering Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717407/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive</strong></td>
+<td><a href="https://trueinterview.io/jobs/4936b346-b62d-439a-ad34-dbc24c4b416a">Manufacturing Software Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719543/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Great American Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd9d4a26-5dfa-4d0d-a7f9-07e046d00deb">Data ITSM Analyst Intern - Summer 2027</a></td>
+<td>Cincinnati, Ohio, United States</td>
+<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-ITSM-Analyst-Intern---Summer-2027_R9814">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/de0f0b55-361e-4926-940e-dff35acbcd2e">INTERNSHIP - Data Science</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484711714/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmonic Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/500d9ccf-2e5d-4434-83b6-337e3a4c3034">Software Engineer – Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260188">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ingredion Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/665125e7-9eab-4fa6-8e22-023c5b84abda">Process Engineering Co-Op</a></td>
+<td>Bedford Park, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467930319/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb6a61ec-bf88-4270-b11f-d0923d47ca50">Cybersecurity Intern</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717410/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ingredion Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8d95cce-eeee-48ac-9b64-f8149b79e369">Engineering Intern</a></td>
+<td>South Sioux City, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466569328/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717351/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bombardier</strong></td>
+<td><a href="https://trueinterview.io/jobs/395cc063-41ea-47b3-9f02-724bc68dfa8c">Year-round Avionics Engineering Intern</a></td>
+<td>Wichita, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467408858/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Nuclear Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718247/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National Laboratory of the Rockies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0b74143-00d1-4274-9aa9-0ead6d742f6d">Post-Undergraduate Intern (Year-Round) - Separations Engineering</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475110565/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/54c53d00-60da-4f86-9283-ef572fdf31e6">Data Science and Business Analytics Intern</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720194/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/60b5c2fb-6c08-4bc0-ba53-c185a762f2ce">Android Applications Developer Intern - Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458281408/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NexGen AI Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5bb824-89f6-442c-b96d-08c1fd231e92">AI Engineer Intern</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482096384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Spectrum</strong></td>
+<td><a href="https://trueinterview.io/jobs/258373a8-59ee-432d-a600-dddb3fecd205">2027 Summer Intern: Software Engineer</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484703592/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kiewit</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7021113-4daf-4b1b-aea7-5fb7991ba2ef">Electrical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027)</a></td>
+<td>Lenexa, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448257492/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allegion</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b2f9524-8aa2-4540-a0d3-aeb3a2254381">Summer Intern - Software Systems Engineering</a></td>
+<td>Golden, Colorado, United States</td>
+<td align="center"><a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Navy Federal Credit Union</strong></td>
 <td><a href="https://trueinterview.io/jobs/56b1416e-0081-4046-a45c-71b8fe0c0491">Summer Associate Internship (Product Security Engineer)</a></td>
@@ -2493,97 +2647,6 @@
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1582569213186235/">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/2547b159-9d0b-42eb-805a-a318b53cd952">System Development Engineer Intern/Co-op, ROBOTICS -  2027</a></td>
-<td>North Reading, Massachusetts, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac6868bc-eed8-405b-bb1d-2ec9f9c4f063">2027 Business Operations Engineer Intern</a></td>
-<td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States, Ashville, OH (Arsenal 1), Costa Mesa, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5464b61e-72eb-4622-8a4b-0425e74518a3">2027 Business Operations Intern</a></td>
-<td>Seattle, Washington, United States, Costa Mesa, CA (OC-00), Seattle, WA<br/>Costa Mesa, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0bf16386-6c37-42ae-8107-75b1d5b636d0">Winter 2027 Business Operations Engineer Co-op</a></td>
-<td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States, Ashville, OH (Arsenal 1), Costa Mesa, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271686007?gh_jid=5271686007">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c125e7df-0197-4d88-ad9f-901fae1c212e">Winter 2027 Robotics Engineer Co-op</a></td>
-<td>Quincy, Massachusetts, United States, Quincy, MA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crusoe</strong></td>
-<td><a href="https://trueinterview.io/jobs/84d09fb4-10a1-4e60-bf54-5d5c35e57bf9">Software Engineering Intern, Summer 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/6675696e-4739-4114-aa68-8f2e3d0f0d35">EW Business Development Intern</a></td>
-<td>Loveland, Colorado, United States<br/>Colorado Springs, Colorado, United States<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/55078?lang=en-us">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74e706ae-7474-4e70-8eed-e478fac59d60">R&amp;D IC Engineering Intern</a></td>
-<td>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54191?lang=en-us">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/1701b07a-2625-4ea1-a45e-64cfaf789c4c">Summer 2027 - Process Simulation Engineering Intern - MS/PhD</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556521831">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Quera Computing, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc690525-1ad0-4584-812b-28746e11d069">Optical Engineer Co-Op</a></td>
-<td>Boston, MA, USA, Boston</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5460294008">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sony</strong></td>
-<td><a href="https://trueinterview.io/jobs/66132a14-b901-407a-ad77-d5130388c628">Research Intern – Self-evolving Multimodal Foundation Models</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tacit</strong></td>
-<td><a href="https://trueinterview.io/jobs/adcb904a-37ed-4922-ad29-24dd8ec84bda">System Electrical Engineer Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tacit/cadc8b71-ee79-4b44-951b-da7c5a0142eb/application">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Trace3</strong></td>
-<td><a href="https://trueinterview.io/jobs/d96dde22-7b6e-47e2-982e-fa70c63c967c">Data &amp; Analytics Intern</a></td>
-<td>Irvine, CA, United States, Irvine</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8274818">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2762,69 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1f2429d6-ae5b-435a-9f3f-fefbb6eb7604">Customer Experience Data Analyst Intern</a></td>
 <td>Miami-Fort Lauderdale Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484970988/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Caldera Medical</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bc609a6-fe62-4fa6-afd0-10182baacde6">EMS Engineering Intern 2027</a></td>
-<td>Neuchâtel, Neuchâtel, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484998348/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TP Vision</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6c7ee1e-23ad-44c4-9881-f6d15cc144d6">UI/UX Intern – Digital Customer Experience</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484967925/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae177538-1460-4136-9087-50745c747fc5">Intern – Signalling Engineer</a></td>
-<td>Greater Pittsburgh Region</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484964911/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c9a42849-8843-457e-8231-b6366a5039b2">Signalling Design Engineer Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980187/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/dcf9e063-e196-4a23-b47a-b5e75c7611ea">Internship - Test Engineering Support (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456195790/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1e0f31dd-7720-4a60-9ded-df328e63480f">Internship - Assistant for Engineering Lab (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4427981037/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Viking Nederland</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f2b71f6-771d-4fd4-93fa-8827f93bafa2">Internship Technical Solution Engineer</a></td>
-<td>Venlo, Limburg, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477169487/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/761d6c77-d66b-4c99-9a4a-8929593de62e">Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441980720/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ONWARD Medical</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f472ec5-b28f-4315-bb00-a20781ee2a6d">Firmware Intern</a></td>
-<td>Lausanne, Vaud, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

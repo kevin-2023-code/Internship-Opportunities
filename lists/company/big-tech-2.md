@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**572 open roles.** 530 in the United States & Canada · 42 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**562 open roles.** 520 in the United States & Canada · 42 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,55 +17,6 @@
 <tbody>
 <tr>
 <td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/02910d73-4127-4f8d-99a4-0c4c2abb863c">Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2cc5843f-fbe2-4114-9894-be716de3557e">Data Center Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Palo Alto, CA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/115313754307994310-data-center-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ae995cdf-f856-4d43-99bb-35ffebbebe1e">Hardware Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/122803627516404422-hardware-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f0db4b16-6d87-4d21-bc73-f65ee6c6d1ea">Product Design Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/135755874491605702-product-design-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a9b79a11-2561-47a9-82be-6c11e27a79dd">Security Consultant Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/139129176165622470-security-consultant-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8e24cadf-a338-42bf-8837-9726076859e4">Security Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/136826798817059526-security-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/76021b46-253e-4839-8409-b13e30bbd044">Silicon Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Sunnyvale, CA<br/>Madison, WI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/88570332985598662-silicon-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/061bc981-fa97-416b-ae4a-6bec2176025f">Silicon Engineering Intern, PhD, Summer 2027</a></td>
 <td>Sunnyvale, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/136529930677560006-silicon-engineering-intern-phd-summer-2027">Apply</a></td>
@@ -903,27 +854,6 @@
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43721128">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee0c5854-9be0-41b0-9a54-fc6c2eb39a55">Intern - ADV DRAM Process Integration Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44139281">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42ad0f60-eefa-47ca-aba8-233caef91692">Intern - RDA/Metrology-Process Shift Engineer, TD</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44247229">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2b6bc08-b4e5-44c4-a493-66856109e996">Financial Analyst Intern</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://careers.oracle.com/en/sites/jobsearch/job/344176">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

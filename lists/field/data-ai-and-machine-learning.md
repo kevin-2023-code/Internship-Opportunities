@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**303 open roles.** 246 in the United States & Canada · 57 elsewhere in the world.
+**306 open roles.** 250 in the United States & Canada · 56 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>LBMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcf98283-cdd4-49a9-849b-6ebea7e3771f">Data &amp; AI Engineering Intern - Spring 2027</a></td>
+<td>Brentwood, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250502/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Capital One</strong></td>
+<td><a href="https://trueinterview.io/jobs/9c7eb94b-5aac-4675-8f5f-9a5af5b51627">Current Master's, AI Engineering Internship Program - Summer 2027</a></td>
+<td>San Jose, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254091/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TaskVerse</strong></td>
+<td><a href="https://trueinterview.io/jobs/08abdd8f-2c89-47d8-a299-7d40df343f54">Gen AI Developer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485231976/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Internship List</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
+<td>Toronto, Ontario, Canada<br/>Burnaby, British Columbia, Canada<br/>Oakville, Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Huawei Canada</strong></td>
 <td><a href="https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4">Intern Researcher- AI Agents</a></td>
@@ -113,6 +141,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ecd738cd-9e1e-4ed2-a203-dd2e3c86704b">Data Scientist Intern - In Office, Scottsdale, AZ only</a></td>
 <td>Scottsdale, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447368270/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth of Massachusetts</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc4ab13f-f45c-48c0-9926-207be117a126">HR Business Intelligence Co-op Spring 2027</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL&amp;lang=en">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -883,13 +918,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/258ca580-430e-4e36-8537-935dc234c7d4">Summer 2027 Intern - AI Research</a></td>
 <td>California - Palo Alto, United States of America</td>
 <td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sony</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a07e44e-5201-4011-b927-d9df7386d7a6">Research Engineer Intern (Ethical Creative and Protective AI Lab)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -2086,13 +2114,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chile</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/toku/d0100b7c-7dd1-491b-a088-4d4858188eca/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3a77ea1-673d-4f5b-9483-d05a83d4490f">Intern Applied AI Solution Consulting (Italy)</a></td>
-<td>Milan, Italy</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon.com</strong></td>

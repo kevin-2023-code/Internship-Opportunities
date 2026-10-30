@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**33 open roles.** 31 in the United States & Canada · 2 elsewhere in the world.
+**34 open roles.** 32 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09e1c4c0-d7ca-4958-b087-ac67d7317124">Data Analytics Engineer Co-op</a></td>
 <td>Atlanta, GA<br/>Framingham, MA<br/>Bloomfield Hills, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476938445/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth of Massachusetts</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc4ab13f-f45c-48c0-9926-207be117a126">HR Business Intelligence Co-op Spring 2027</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL&amp;lang=en">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

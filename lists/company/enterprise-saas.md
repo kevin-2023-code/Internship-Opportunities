@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**69 open roles.** 57 in the United States & Canada · 12 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**65 open roles.** 54 in the United States & Canada · 11 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,20 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fae2c341-dcd4-4012-858b-798c7f59e1f0">Intern, Software Engineering</a></td>
 <td>New York City</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/braze/jobs/8301086">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/9afeb533-0cb5-4221-88d7-7fa29e47471d">Data Center Technicians INTERN</a></td>
-<td>Atlanta, GA<br/>West Des Moines, IA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557043629">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
-<td>New York, NY<br/>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -409,13 +395,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://isnetworld.com/en/about/careers/jobs?gh_jid=6176204004">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
-<tr>
-<td><strong>Oracle</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2b6bc08-b4e5-44c4-a493-66856109e996">Financial Analyst Intern</a></td>
-<td>Nashville, TN, United States</td>
-<td align="center"><a href="https://careers.oracle.com/en/sites/jobsearch/job/344176">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -483,13 +462,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476595070/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3a77ea1-673d-4f5b-9483-d05a83d4490f">Intern Applied AI Solution Consulting (Italy)</a></td>
-<td>Milan, Italy</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Rundoo</strong></td>

@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**58 open roles.** 49 in the United States & Canada · 9 elsewhere in the world.
+**57 open roles.** 48 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/9afeb533-0cb5-4221-88d7-7fa29e47471d">Data Center Technicians INTERN</a></td>
-<td>Atlanta, GA<br/>West Des Moines, IA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557043629">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Scoreplay</strong></td>
