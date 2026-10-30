@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**695 open roles.** 662 in the United States & Canada · 33 elsewhere in the world.
+**700 open roles.** 666 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,35 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/734c38de-7cc6-4c74-9de0-c6cba35265cf">Hardware Engineer II (Co-op) - United States</a></td>
+<td>San Jose, California, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f1bc0ad4-e9c8-4af0-9f71-1e4afdf6d1fb">Mechanical Engineer I (Intern) - United States</a></td>
+<td>San Jose, California, US, United States of America<br/>San Jose, California, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d37dd43-cdb6-4f9d-9cc4-462fc0232c78">Summer 2027 - Process Engineering Intern - PhD</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556374769">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f1ee7df-ee74-4598-8183-ab42a0b597b2">Intern - Compute System Compatibility Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44751869">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e558ac3c-05db-40f3-8c1d-f8f7c8180afa">Intern - DRAM ARCHITECTURE</a></td>
 <td>San Jose, CA<br/>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44702753">Apply</a></td>
@@ -1993,6 +2021,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Schaan, Switzerland</td>
 <td align="center"><a href="https://careers.hilti.group/en/jobs/21795-en/intern-civil-engineer-for-structural-analysis-m-f-x/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cea - Commissariat à l'Energie Atomique</strong></td>
+<td><a href="https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78">Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Parsons</strong></td>

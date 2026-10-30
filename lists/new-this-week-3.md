@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,089 open roles.** 864 in the United States & Canada · 225 elsewhere in the world. Everything the employers put up this week.
+**1,102 open roles.** 874 in the United States & Canada · 228 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,76 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Viasat</strong></td>
+<td><a href="https://trueinterview.io/jobs/7110df1c-55a5-4f13-aea1-8725c02dd1c1">Pointing and Tracking Engineer Intern</a></td>
+<td>Duluth, GA</td>
+<td align="center"><a href="https://careers.viasat.com/jobs/6752?lang=en-us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/081ed40f-f3b6-4b06-a896-4ce0d034f2d7">2027 Sophomore Internship Program - Software Engineer Intern, Ashburn</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1ff74604-ce7e-4776-b4f2-5dbc13d615a9">Software Engineer, Intern - 2027 Ashburn, VA</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f455dc05-fab0-4b69-b1bf-611cd818391e">Software Engineer, Intern - Foster City 2027</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Glean</strong></td>
+<td><a href="https://trueinterview.io/jobs/4ea881d2-c281-444f-a23f-7f606e84e4f3">Software Engineer, Intern (Summer 2027)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gleanwork/jobs/4747670005">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3a3938f-25da-46a3-8ed0-45cf39463565">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Michels Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/34cc3d55-5040-409f-9aa0-5a46aa74f178">Civil Engineer Intern - Michels Canada</a></td>
+<td>Saskatchewan, Canada, Canada</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5016290101">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parallel Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/b724d884-5e9e-45f5-ac78-b2bbc3140b60">Product Management Intern</a></td>
+<td>Los Angeles, CA, Headquarters</td>
+<td align="center"><a href="https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a0a252ab-79cd-4bf4-8803-9257049608af">Software Engineering Intern (Embedded, Backend, Fullstack)</a></td>
+<td>Los Angeles, CA, Headquarters</td>
+<td align="center"><a href="https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Saviynt</strong></td>
+<td><a href="https://trueinterview.io/jobs/64c91c29-619a-456f-aeea-693c3178a09b">Research Scientist Intern - PhD</a></td>
+<td>Milpitas, California</td>
+<td align="center"><a href="https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/35dfcee8-36e0-469f-9346-aaa19eaaa8c8">Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)</a></td>
@@ -1351,6 +1421,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Schneider Electric</strong></td>
+<td><a href="https://trueinterview.io/jobs/0985e3ec-ec34-4f0f-b997-d629005f1079">Stage - Business Data Analyst Intern – Corporate Strategy - H/F</a></td>
+<td>Rueil-Malmaison, France</td>
+<td align="center"><a href="https://careers.se.com/jobs/140284/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Siemens Gamesa</strong></td>
 <td><a href="https://trueinterview.io/jobs/baffbe9f-94af-45c2-8527-505f88952693">Digitalisation Intern (Software Developer)</a></td>
 <td>Kingston upon Hull, United Kingdom</td>
@@ -1848,6 +1925,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>The Estée Lauder Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2a77997-db4d-4cfc-86fe-bd4b88ba7694">Analytical Development Lab Engineer Assistant Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers.elcompanies.com/careers/job/1168276325169?domain=elcompanies.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>TotalEnergies</strong></td>
 <td><a href="https://trueinterview.io/jobs/5b78223f-c5bd-4104-8804-ef48161cb776">Quantitative Development &amp; Data Science Intern</a></td>
 <td>Genève, Switzerland</td>
@@ -1922,6 +2006,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ef4a8019-9200-4d8e-b0a2-519201f51501">Software Engineering Intern</a></td>
 <td>India</td>
 <td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1320608EXTERNALENGLOBAL/Software-Engineering-Intern">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cea - Commissariat à l'Energie Atomique</strong></td>
+<td><a href="https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78">Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

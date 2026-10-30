@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**29 open roles.**
+**30 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/00aac071-21ba-4297-9217-162523bac5df">Intern - Engineer</a></td>
 <td>Poway, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485284829/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E2 Consulting Engineers, LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf286d4b-87e8-4024-9845-d06c35e2de30">Substation Design Engineer Intern –Part Time</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485268314/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

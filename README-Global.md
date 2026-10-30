@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-30 07:05 UTC_
+_Last updated: 2026-10-30 09:05 UTC_
 
-**307 open internships** from **173 employers** · **225 posted in the last 7 days** · refreshed hourly
+**310 open internships** from **176 employers** · **228 posted in the last 7 days** · refreshed hourly
 
-### Browse 307 internships by field
+### Browse 310 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (149)
+💻 **[Software Engineering](#-software-engineering)** (150)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (59)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (60)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (33)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (34)
 
 📱 **[Product & Design](#-product--design)** (36)
 
@@ -52,11 +52,11 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (53)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (29)](lists/company/semiconductors.md) · [🏦 Banks, insurers & asset managers (17)](lists/company/banking-finance.md) · [🖥️ Hardware, devices & networking (15)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (12)](lists/company/enterprise-saas.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🚗 Autonomy, automotive & mobility (7)](lists/company/autonomy-mobility.md) · [🛒 E-commerce & marketplaces (7)](lists/company/ecommerce-marketplace.md) · [🏗️ Large tech (1,000–9,999) (7)](lists/company/large-tech.md) · [+10 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (48)](lists/role/software-engineer.md) · [Product Manager (20)](lists/role/product-manager.md) · [Data Analyst (17)](lists/role/data-analyst.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Machine Learning Engineer (11)](lists/role/machine-learning-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Embedded Engineer (5)](lists/role/embedded-engineer.md) · [QA Engineer (4)](lists/role/qa-engineer.md) · [Security Engineer (4)](lists/role/security-engineer.md) · [+7 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (48)](lists/role/software-engineer.md) · [Product Manager (20)](lists/role/product-manager.md) · [Data Analyst (18)](lists/role/data-analyst.md) · [AI Engineer (16)](lists/role/ai-engineer.md) · [Machine Learning Engineer (11)](lists/role/machine-learning-engineer.md) · [Data Scientist (8)](lists/role/data-scientist.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Embedded Engineer (5)](lists/role/embedded-engineer.md) · [Hardware Engineer (4)](lists/role/hardware-engineer.md) · [QA Engineer (4)](lists/role/qa-engineer.md) · [+7 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (65)](lists/place/singapore.md) · [🇬🇧 London & the UK (28)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (18)](lists/place/greater-china.md) · [🇨🇭 Zürich & Switzerland (13)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (12)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (11)](lists/place/ireland.md) · [🇫🇷 Paris & France (8)](lists/place/france.md) · [🇩🇪 Berlin, Munich & Germany (6)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (5)](lists/place/iberia.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [+2 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (65)](lists/place/singapore.md) · [🇬🇧 London & the UK (28)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (18)](lists/place/greater-china.md) · [🇨🇭 Zürich & Switzerland (13)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (12)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (11)](lists/place/ireland.md) · [🇫🇷 Paris & France (10)](lists/place/france.md) · [🇩🇪 Berlin, Munich & Germany (6)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (5)](lists/place/iberia.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [+2 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (225)](lists/new-this-week.md) · [🌐 Remote (10)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (228)](lists/new-this-week.md) · [🌐 Remote (10)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -403,7 +403,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 44 of 149.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 44 of 150.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -647,7 +647,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 31 of 59.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 31 of 60.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -790,6 +790,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Schaan, Switzerland</td>
 <td align="center"><a href="https://careers.hilti.group/en/jobs/21795-en/intern-civil-engineer-for-structural-analysis-m-f-x/">Apply</a></td>
 <td align="center">2d</td>
+</tr>
+<tr>
+<td><strong>Cea - Commissariat à l'Energie Atomique</strong></td>
+<td><a href="https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78">Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F</a> 🆕</td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Parsons</strong></td>
@@ -984,7 +991,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ea91005f-976e-445f-9abb-0ae40243f751">Product Management/ Marketing Communication Intern</a> 🆕</td>
 <td>Weert, Limburg, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474122869/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Signify</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**811 open roles.** 662 in the United States & Canada · 149 elsewhere in the world.
+**816 open roles.** 666 in the United States & Canada · 150 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>City of Cincinnati</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bfb265d-9a90-4865-95e7-63db1f14f38b">COLLEGE CO-OP (WASTEWATER ENGINEERING) Project Management</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/cincinnati/jobs/5529891/college-co-op-wastewater-engineering-project-management">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac4cb1a8-1afb-4858-82b7-ec0d6cb0d498">COLLEGE CO-OP WASTEWATER ENGINEERING (GIS/Acoustic Sound/LiDar)</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/cincinnati/jobs/5530298/college-co-op-wastewater-engineering-gis-acoustic-sound-lidar">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Fusion Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/6db42e44-b2c1-4884-b886-37593e6110e9">Intern - Scientific Software Engineer - Summer 2027</a></td>
+<td>Devens, MA</td>
+<td align="center"><a href="https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b62060d-2b59-4fb5-9ab0-bc4e65d7385f">Automation Engineer Intern - Electrical</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19337/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>General Dynamics Mission Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/1065b884-0534-4ba4-b9bb-82e6ccd6eaad">Software Engineer - Intern</a></td>
@@ -2583,6 +2611,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>The Estée Lauder Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2a77997-db4d-4cfc-86fe-bd4b88ba7694">Analytical Development Lab Engineer Assistant Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers.elcompanies.com/careers/job/1168276325169?domain=elcompanies.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>VSP Vision</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3b2bdde-9706-4c01-ba04-41b43a1e3006">Internship, Software Engineer</a> 🌐</td>
 <td>Remote</td>
@@ -2791,41 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telli/84542cca-080c-4caf-a335-c3bd2c3b5b2c/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rundoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
-<td>Redwood City</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Abridge</strong></td>
-<td><a href="https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe">Software Engineering Intern, Spring</a></td>
-<td>SF Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Arista Networks</strong></td>
-<td><a href="https://trueinterview.io/jobs/b380af4f-9ded-4bb7-8b2a-2ec8006b2a88">Software Engineer Intern 2026/2027</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Trexo Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/92159811-3be1-4b22-a052-726754c9a172">Forward Deployed Engineering Intern / Co-op Winter 2027</a></td>
-<td>Mississauga</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/9504015b-bd4b-415c-8cf4-70015b84f873/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/05b166f8-1a3b-44b1-820d-5dbdfec96310">Robotics Software Developer Intern / Co-op Winter 2027</a></td>
-<td>Mississauga</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/9edbdb01-5d2e-4252-a0fc-bf1b6606f83f/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

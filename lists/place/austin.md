@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**66 open roles.**
+**67 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/867662c8-2b4d-417b-8e0c-51743eb615c6">ISG Product Management Graduate Internship</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484819756/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Base Power Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/223e7639-292c-4f00-8f92-19d3fda79b5d">Deployments Engineering Intern (Product Launch)</a></td>

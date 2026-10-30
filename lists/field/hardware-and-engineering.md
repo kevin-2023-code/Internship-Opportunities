@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**695 open roles.** 662 in the United States & Canada · 33 elsewhere in the world.
+**700 open roles.** 666 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -248,6 +248,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1419c01b-8590-4175-a36d-6ac69e70aa23">Civil Engineering Intern</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484802076/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Systems Planning &amp; Analysis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1d05198-cbb4-4b32-a3f2-d4e50141de29">Systems Engineering Intern (Summer 2027)</a></td>
+<td>Alexandria, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485276180/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/50182b88-9609-4a0d-8819-ab6527a970f1">Internship, Electromechanical Product Design Engineer, Optimus (Winter/Spring 2027)</a></td>
+<td>Langley, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485274334/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/93864c81-e569-4e22-8e7e-e0f9d12aa6ec">Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264552/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E2 Consulting Engineers, LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf286d4b-87e8-4024-9845-d06c35e2de30">Substation Design Engineer Intern –Part Time</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485268314/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/05974d86-8d20-4a00-9a8b-9c57a61317db">Aerodynamics &amp; Analysis Engineering Internship - Summer 2027</a></td>
 <td>El Segundo, California, United States<br/>225 S Aviation</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010632003">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/734c38de-7cc6-4c74-9de0-c6cba35265cf">Hardware Engineer II (Co-op) - United States</a></td>
-<td>San Jose, California, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f1bc0ad4-e9c8-4af0-9f71-1e4afdf6d1fb">Mechanical Engineer I (Intern) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d37dd43-cdb6-4f9d-9cc4-462fc0232c78">Summer 2027 - Process Engineering Intern - PhD</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556374769">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f1ee7df-ee74-4598-8183-ab42a0b597b2">Intern - Compute System Compatibility Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44751869">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**26 open roles.**
+**27 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Altera</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714">Software Engineer - Factory Apps - Intern</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485269334/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Internship List</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>

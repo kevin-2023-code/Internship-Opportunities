@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**811 open roles.** 662 in the United States & Canada · 149 elsewhere in the world.
+**816 open roles.** 666 in the United States & Canada · 150 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -220,6 +220,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/44020652-fadc-4e72-8b77-f37d5047e73e">SPRING 2027: PRODUCT DESIGN ENGINEERING CO-OP, ADVANCED DEVELOPMENT (JANUARY TO JUNE)</a></td>
 <td>Needham, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485255699/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Altera</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714">Software Engineer - Factory Apps - Intern</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485269334/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>STERIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
+<td>Cooper City, FL<br/>Plymouth, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/736953f2-466f-4969-8de4-ca843638e223">Software Engineering Intern II, (Summer 2027) Onsite</a></td>
+<td>Nashua, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400411/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a2a6592a-a167-4029-9b87-3e4f2a5f5e97">Software Engineering Intern IV, (Summer 2027) Onsite</a></td>
+<td>Nashua, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da">Intern - Software Engineer, Connectivity (NTD)</a></td>
+<td>Redmond, Washington, United States</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4472147009">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1326,13 +1361,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0b83816f-5a19-4fc4-9fd9-14257de9f4e8">Content Intern - Billington CyberSecurity</a></td>
 <td>Chevy Chase, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473973646/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/d99e433e-70f8-4fe0-bdd0-c5ebdeeb8334">Intern - Software Engineer, CPU Debugger (NTD)</a></td>
-<td>Redmond, Washington, United States</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4471972009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2bf69c4b-a9b7-489c-998f-7b77b292c58d">Intern - Software Developer Technician</a></td>
 <td>Quebec City, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>City of Cincinnati</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bfb265d-9a90-4865-95e7-63db1f14f38b">COLLEGE CO-OP (WASTEWATER ENGINEERING) Project Management</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.governmentjobs.com/careers/cincinnati/jobs/5529891/college-co-op-wastewater-engineering-project-management">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ac4cb1a8-1afb-4858-82b7-ec0d6cb0d498">COLLEGE CO-OP WASTEWATER ENGINEERING (GIS/Acoustic Sound/LiDar)</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.governmentjobs.com/careers/cincinnati/jobs/5530298/college-co-op-wastewater-engineering-gis-acoustic-sound-lidar">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/6db42e44-b2c1-4884-b886-37593e6110e9">Intern - Scientific Software Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b62060d-2b59-4fb5-9ab0-bc4e65d7385f">Automation Engineer Intern - Electrical</a></td>
-<td>Olathe, KS</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19337/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

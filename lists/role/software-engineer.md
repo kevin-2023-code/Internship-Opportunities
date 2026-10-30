@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**234 open roles.** 186 in the United States & Canada · 48 elsewhere in the world.
+**236 open roles.** 188 in the United States & Canada · 48 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e32da889-0e91-4cfe-bfc4-52efd8f854f3">AI Systems Software Engineering Intern – Summer 2027</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484805171/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Altera</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714">Software Engineer - Factory Apps - Intern</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485269334/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>STERIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
+<td>Cooper City, FL<br/>Plymouth, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da">Intern - Software Engineer, Connectivity (NTD)</a></td>
+<td>Redmond, Washington, United States</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4472147009">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -162,13 +183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3d7843b0-4ec7-40f4-a6c2-8a75ef3e495e">R&amp;D Software Design Intern</a></td>
 <td>Arden Hills, MN<br/>Arden Hills, Minnesota, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484759981/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/d99e433e-70f8-4fe0-bdd0-c5ebdeeb8334">Intern - Software Engineer, CPU Debugger (NTD)</a></td>
-<td>Redmond, Washington, United States</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4471972009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

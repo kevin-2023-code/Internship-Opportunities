@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**146 open roles.** 110 in the United States & Canada · 36 elsewhere in the world.
+**148 open roles.** 112 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/867662c8-2b4d-417b-8e0c-51743eb615c6">ISG Product Management Graduate Internship</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484819756/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Archer</strong></td>
 <td><a href="https://trueinterview.io/jobs/e02359e7-db98-4ab3-8e0e-6995f6fc0687">OH Product Manager Intern - OVIP</a></td>
@@ -43,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/20f1283c-443e-492f-b893-fbf8ab904efc">UX Researcher Intern – Summer 2027</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485280227/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Behaviour Interactive</strong></td>
+<td><a href="https://trueinterview.io/jobs/f848a685-deb3-432d-bfaa-ad6aeccd9b61">Product Graphic Designer – Internship Winter 2027</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485266274/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

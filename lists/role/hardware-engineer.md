@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**133 open roles.** 130 in the United States & Canada · 3 elsewhere in the world.
+**134 open roles.** 130 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -959,6 +959,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467495710/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cea - Commissariat à l'Energie Atomique</strong></td>
+<td><a href="https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78">Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F</a></td>
+<td>Grenoble, France</td>
+<td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

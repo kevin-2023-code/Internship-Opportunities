@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T08:07:14.024Z",
-  "count": 2076,
+  "listingsChangedAt": "2026-10-30T09:05:33.861Z",
+  "count": 2089,
   "listings": [
+    {
+      "id": "867662c8-2b4d-417b-8e0c-51743eb615c6",
+      "company": "Dell Technologies",
+      "title": "ISG Product Management Graduate Internship",
+      "locations": [
+        "Round Rock, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484819756/",
+      "url": "https://trueinterview.io/jobs/867662c8-2b4d-417b-8e0c-51743eb615c6",
+      "postedAt": "2026-10-30T08:22:00.000Z",
+      "updatedAt": "2026-10-30T08:22:00.000Z"
+    },
     {
       "id": "9607260a-ab5f-4037-b214-b04802366cc9",
       "company": "Reid Middleton",
@@ -2529,6 +2554,60 @@
       "updatedAt": "2026-10-30T00:35:00.000Z"
     },
     {
+      "id": "4a897e0a-b81b-4407-8a61-faff155fa714",
+      "company": "Altera",
+      "title": "Software Engineer - Factory Apps - Intern",
+      "locations": [
+        "Toronto, Ontario, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485269334/",
+      "url": "https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714",
+      "postedAt": "2026-10-30T00:27:00.000Z",
+      "updatedAt": "2026-10-30T00:27:00.000Z"
+    },
+    {
+      "id": "f848a685-deb3-432d-bfaa-ad6aeccd9b61",
+      "company": "Behaviour Interactive",
+      "title": "Product Graphic Designer – Internship Winter 2027",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485266274/",
+      "url": "https://trueinterview.io/jobs/f848a685-deb3-432d-bfaa-ad6aeccd9b61",
+      "postedAt": "2026-10-30T00:27:00.000Z",
+      "updatedAt": "2026-10-30T00:27:00.000Z"
+    },
+    {
       "id": "1419c01b-8590-4175-a36d-6ac69e70aa23",
       "company": "Hatch",
       "title": "Civil Engineering Intern",
@@ -2554,6 +2633,210 @@
       "url": "https://trueinterview.io/jobs/1419c01b-8590-4175-a36d-6ac69e70aa23",
       "postedAt": "2026-10-30T00:27:00.000Z",
       "updatedAt": "2026-10-30T00:27:00.000Z"
+    },
+    {
+      "id": "9939e0e3-aac5-4d57-92b3-0c86c303ea80",
+      "company": "STERIS",
+      "title": "Software Engineering Intern - Summer 2027",
+      "locations": [
+        "Cooper City, FL",
+        "Plymouth, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484773488/",
+      "url": "https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80",
+      "postedAt": "2026-10-29T00:37:00.000Z",
+      "updatedAt": "2026-10-30T00:26:00.000Z"
+    },
+    {
+      "id": "a1d05198-cbb4-4b32-a3f2-d4e50141de29",
+      "company": "Systems Planning & Analysis",
+      "title": "Systems Engineering Intern (Summer 2027)",
+      "locations": [
+        "Alexandria, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485276180/",
+      "url": "https://trueinterview.io/jobs/a1d05198-cbb4-4b32-a3f2-d4e50141de29",
+      "postedAt": "2026-10-30T00:23:00.000Z",
+      "updatedAt": "2026-10-30T00:23:00.000Z"
+    },
+    {
+      "id": "50182b88-9609-4a0d-8819-ab6527a970f1",
+      "company": "Tesla",
+      "title": "Internship, Electromechanical Product Design Engineer, Optimus (Winter/Spring 2027)",
+      "locations": [
+        "Langley, British Columbia, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485274334/",
+      "url": "https://trueinterview.io/jobs/50182b88-9609-4a0d-8819-ab6527a970f1",
+      "postedAt": "2026-10-30T00:22:00.000Z",
+      "updatedAt": "2026-10-30T00:22:00.000Z"
+    },
+    {
+      "id": "93864c81-e569-4e22-8e7e-e0f9d12aa6ec",
+      "company": "Tesla",
+      "title": "Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485264552/",
+      "url": "https://trueinterview.io/jobs/93864c81-e569-4e22-8e7e-e0f9d12aa6ec",
+      "postedAt": "2026-10-30T00:22:00.000Z",
+      "updatedAt": "2026-10-30T00:22:00.000Z"
+    },
+    {
+      "id": "736953f2-466f-4969-8de4-ca843638e223",
+      "company": "BAE Systems, Inc.",
+      "title": "Software Engineering Intern II, (Summer 2027) Onsite",
+      "locations": [
+        "Nashua, NH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483400411/",
+      "url": "https://trueinterview.io/jobs/736953f2-466f-4969-8de4-ca843638e223",
+      "postedAt": "2026-10-30T00:18:00.000Z",
+      "updatedAt": "2026-10-30T00:18:00.000Z"
+    },
+    {
+      "id": "a2a6592a-a167-4029-9b87-3e4f2a5f5e97",
+      "company": "BAE Systems, Inc.",
+      "title": "Software Engineering Intern IV, (Summer 2027) Onsite",
+      "locations": [
+        "Nashua, NH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483091748/",
+      "url": "https://trueinterview.io/jobs/a2a6592a-a167-4029-9b87-3e4f2a5f5e97",
+      "postedAt": "2026-10-30T00:18:00.000Z",
+      "updatedAt": "2026-10-30T00:18:00.000Z"
+    },
+    {
+      "id": "cf286d4b-87e8-4024-9845-d06c35e2de30",
+      "company": "E2 Consulting Engineers, LP",
+      "title": "Substation Design Engineer Intern –Part Time",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485268314/",
+      "url": "https://trueinterview.io/jobs/cf286d4b-87e8-4024-9845-d06c35e2de30",
+      "postedAt": "2026-10-30T00:16:00.000Z",
+      "updatedAt": "2026-10-30T00:16:00.000Z"
+    },
+    {
+      "id": "cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, Connectivity (NTD)",
+      "locations": [
+        "Redmond, Washington, United States",
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.nintendo.com/?gh_jid=4472147009",
+      "url": "https://trueinterview.io/jobs/cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da",
+      "postedAt": "2026-10-29T18:20:04.000Z",
+      "updatedAt": "2026-10-30T00:16:00.000Z"
     },
     {
       "id": "b4303432-9367-4adb-b8d1-1305f27c8530",
@@ -12539,6 +12822,31 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "0985e3ec-ec34-4f0f-b997-d629005f1079",
+      "company": "Schneider Electric",
+      "title": "Stage - Business Data Analyst Intern – Corporate Strategy - H/F",
+      "locations": [
+        "Rueil-Malmaison, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.se.com/jobs/140284/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/0985e3ec-ec34-4f0f-b997-d629005f1079",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "baffbe9f-94af-45c2-8527-505f88952693",
       "company": "Siemens Gamesa",
       "title": "Digitalisation Intern (Software Developer)",
@@ -13305,32 +13613,6 @@
       "url": "https://trueinterview.io/jobs/0b83816f-5a19-4fc4-9fd9-14257de9f4e8",
       "postedAt": "2026-10-29T00:23:00.000Z",
       "updatedAt": "2026-10-29T00:23:00.000Z"
-    },
-    {
-      "id": "d99e433e-70f8-4fe0-bdd0-c5ebdeeb8334",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, CPU Debugger (NTD)",
-      "locations": [
-        "Redmond, Washington, United States",
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://careers.nintendo.com/?gh_jid=4471972009",
-      "url": "https://trueinterview.io/jobs/d99e433e-70f8-4fe0-bdd0-c5ebdeeb8334",
-      "postedAt": "2026-10-28T22:29:59.000Z",
-      "updatedAt": "2026-10-29T00:21:44.000Z"
     },
     {
       "id": "562de453-b29a-4b30-9fb5-bbbf58aad1eb",
@@ -23906,6 +24188,33 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
+      "id": "d2a77997-db4d-4cfc-86fe-bd4b88ba7694",
+      "company": "The Estée Lauder Companies",
+      "title": "Analytical Development Lab Engineer Assistant Intern",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.elcompanies.com/careers/job/1168276325169?domain=elcompanies.com",
+      "url": "https://trueinterview.io/jobs/d2a77997-db4d-4cfc-86fe-bd4b88ba7694",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
       "id": "5b78223f-c5bd-4104-8804-ef48161cb776",
       "company": "TotalEnergies",
       "title": "Quantitative Development & Data Science Intern",
@@ -24886,6 +25195,33 @@
       "source": "indeed",
       "applyUrl": "https://jobs.danaher.com/global/en/job/DANAGLOBALR1320608EXTERNALENGLOBAL/Software-Engineering-Intern",
       "url": "https://trueinterview.io/jobs/ef4a8019-9200-4d8e-b0a2-519201f51501",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
+      "id": "db008136-1660-40e3-a63c-07a7fffabe78",
+      "company": "Cea - Commissariat à l'Energie Atomique",
+      "title": "Internship - Experimentally Grounded Fault Modeling for Pre-Silicon Security Verification-Grenoble-H/F",
+      "locations": [
+        "Grenoble, France"
+      ],
+      "cities": [
+        "Grenoble"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx",
+      "url": "https://trueinterview.io/jobs/db008136-1660-40e3-a63c-07a7fffabe78",
       "postedAt": "2026-10-27T05:00:00.000Z",
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },

@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da">Intern - Software Engineer, Connectivity (NTD)</a></td>
+<td>Redmond, Washington, United States</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4472147009">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/98a8d0db-9797-4f9b-bb0e-78b5d6846845">SDET Intern</a></td>
 <td>Cary, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475715820/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/d99e433e-70f8-4fe0-bdd0-c5ebdeeb8334">Intern - Software Engineer, CPU Debugger (NTD)</a></td>
-<td>Redmond, Washington, United States</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4471972009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

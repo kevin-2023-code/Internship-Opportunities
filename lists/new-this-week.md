@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,089 open roles.** 864 in the United States & Canada · 225 elsewhere in the world. Everything the employers put up this week.
+**1,102 open roles.** 874 in the United States & Canada · 228 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/867662c8-2b4d-417b-8e0c-51743eb615c6">ISG Product Management Graduate Internship</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484819756/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Reid Middleton</strong></td>
 <td><a href="https://trueinterview.io/jobs/9607260a-ab5f-4037-b214-b04802366cc9">Intern, Structural Engineer – WA</a></td>
@@ -566,10 +573,80 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Altera</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714">Software Engineer - Factory Apps - Intern</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485269334/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Behaviour Interactive</strong></td>
+<td><a href="https://trueinterview.io/jobs/f848a685-deb3-432d-bfaa-ad6aeccd9b61">Product Graphic Designer – Internship Winter 2027</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485266274/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hatch</strong></td>
 <td><a href="https://trueinterview.io/jobs/1419c01b-8590-4175-a36d-6ac69e70aa23">Civil Engineering Intern</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484802076/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>STERIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
+<td>Cooper City, FL<br/>Plymouth, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Systems Planning &amp; Analysis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1d05198-cbb4-4b32-a3f2-d4e50141de29">Systems Engineering Intern (Summer 2027)</a></td>
+<td>Alexandria, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485276180/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/50182b88-9609-4a0d-8819-ab6527a970f1">Internship, Electromechanical Product Design Engineer, Optimus (Winter/Spring 2027)</a></td>
+<td>Langley, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485274334/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/93864c81-e569-4e22-8e7e-e0f9d12aa6ec">Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264552/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/736953f2-466f-4969-8de4-ca843638e223">Software Engineering Intern II, (Summer 2027) Onsite</a></td>
+<td>Nashua, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400411/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a2a6592a-a167-4029-9b87-3e4f2a5f5e97">Software Engineering Intern IV, (Summer 2027) Onsite</a></td>
+<td>Nashua, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>E2 Consulting Engineers, LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf286d4b-87e8-4024-9845-d06c35e2de30">Substation Design Engineer Intern –Part Time</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485268314/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nintendo</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da">Intern - Software Engineer, Connectivity (NTD)</a></td>
+<td>Redmond, Washington, United States</td>
+<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4472147009">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2708,13 +2785,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/d99e433e-70f8-4fe0-bdd0-c5ebdeeb8334">Intern - Software Engineer, CPU Debugger (NTD)</a></td>
-<td>Redmond, Washington, United States</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4471972009">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Sophinea Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/562de453-b29a-4b30-9fb5-bbbf58aad1eb">UI/UX Design Intern</a></td>
 <td>Manassas, VA</td>
@@ -2747,76 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a5d2c45-f28c-4352-86aa-ca787d5c0a12">Resilience Engineer Intern (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484752562/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Boston Scientific</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fceaded-ca67-4b46-bb85-bc03cb0aafd6">Software Engineering Intern</a></td>
-<td>Arden Hills, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483716555/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CACI</strong></td>
-<td><a href="https://trueinterview.io/jobs/934376ac-a7cc-41cc-a9a7-50eeae1d08ec">Software Engineering Co-op/Intern - Spring 2027</a></td>
-<td>Rochester, New York, United States</td>
-<td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-spring-2027-rochester-ny-us">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CACI International</strong></td>
-<td><a href="https://trueinterview.io/jobs/232a4372-496e-4130-a4da-1989cbc75720">Software Engineering Co-op/Intern - Spring 2027</a></td>
-<td>Rochester, New York, United States</td>
-<td align="center"><a href="https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/349a5600-0752-490b-8fbd-6faa13b9d1b1">PhD Intern, Security Engineer (2027)</a></td>
-<td>San Francisco, CA • New York, NY, US</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>First Solar</strong></td>
-<td><a href="https://trueinterview.io/jobs/78ae2751-90e4-4c6d-aed2-50ba8761571d">Intern- Manufacturing Engineering - Integration (Spring 2027)</a></td>
-<td>Perrysburg, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479370815/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HII's Mission Technologies division</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027 - 30942</a></td>
-<td>Crane, Indiana, United States</td>
-<td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JM&amp;A Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/b85f3e00-77a3-48c6-b000-9f9643c16e7c">Customer Experience Data Analyst Intern</a></td>
-<td>Deerfield Beach, Florida, United States</td>
-<td align="center"><a href="https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7e31062-22df-42ce-9559-fdb94c1a9dcb">2027 Software Test Engineering Intern- Roy UT</a></td>
-<td>Roy, Utah, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RTX</strong></td>
-<td><a href="https://trueinterview.io/jobs/ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b">Software Engineering Intern (Summer 2027)</a></td>
-<td>Sterling, Virginia, United States<br/>Cedar Rapids, Iowa, United States</td>
-<td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Schonfeld</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a997860-acab-4845-a41c-479d1696fb82">2027 Enterprise AI Intern</a></td>
-<td>New York, NY<br/>New York, New York, United States, New York</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171694">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

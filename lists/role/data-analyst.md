@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**48 open roles.** 31 in the United States & Canada · 17 elsewhere in the world.
+**49 open roles.** 31 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -314,6 +314,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/69a05425-c91b-45ae-bfdb-ef181c11a782">Data Analyst Project Intern (Measurement, CALM) - 2026 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457606066/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schneider Electric</strong></td>
+<td><a href="https://trueinterview.io/jobs/0985e3ec-ec34-4f0f-b997-d629005f1079">Stage - Business Data Analyst Intern – Corporate Strategy - H/F</a></td>
+<td>Rueil-Malmaison, France</td>
+<td align="center"><a href="https://careers.se.com/jobs/140284/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
