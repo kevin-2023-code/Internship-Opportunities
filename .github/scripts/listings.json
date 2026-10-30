@@ -5,9 +5,287 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T06:08:49.710Z",
-  "count": 2062,
+  "listingsChangedAt": "2026-10-30T07:05:21.201Z",
+  "count": 2075,
   "listings": [
+    {
+      "id": "7cc77704-9d90-4b96-adc0-aad39c47b08c",
+      "company": "Stratolaunch",
+      "title": "Manufacturing (Systems) Engineering Intern Summer 2027",
+      "locations": [
+        "Mojave, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484829164/",
+      "url": "https://trueinterview.io/jobs/7cc77704-9d90-4b96-adc0-aad39c47b08c",
+      "postedAt": "2026-10-30T06:34:00.000Z",
+      "updatedAt": "2026-10-30T06:34:00.000Z"
+    },
+    {
+      "id": "f5393e75-fae5-49db-8b04-ec58986768bb",
+      "company": "Marvin Engineering Company",
+      "title": "INTERN (AI DEVELOPER)",
+      "locations": [
+        "Los Angeles Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485298816/",
+      "url": "https://trueinterview.io/jobs/f5393e75-fae5-49db-8b04-ec58986768bb",
+      "postedAt": "2026-10-30T06:33:00.000Z",
+      "updatedAt": "2026-10-30T06:33:00.000Z"
+    },
+    {
+      "id": "1ab5628a-d5f6-4e6b-8cae-8dbd68239a98",
+      "company": "OMCO",
+      "title": "Engineering Intern – Summer 2027",
+      "locations": [
+        "Pierceton, IN",
+        "Wickliffe, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485294723/",
+      "url": "https://trueinterview.io/jobs/1ab5628a-d5f6-4e6b-8cae-8dbd68239a98",
+      "postedAt": "2026-10-30T05:55:00.000Z",
+      "updatedAt": "2026-10-30T06:01:00.000Z"
+    },
+    {
+      "id": "93933461-15b6-4a59-8f16-7956b14b8c4b",
+      "company": "BioSpace",
+      "title": "2027 Summer Intern AI/ML & Data Engineering",
+      "locations": [
+        "Tarrytown, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485288904/",
+      "url": "https://trueinterview.io/jobs/93933461-15b6-4a59-8f16-7956b14b8c4b",
+      "postedAt": "2026-10-30T05:55:00.000Z",
+      "updatedAt": "2026-10-30T05:55:00.000Z"
+    },
+    {
+      "id": "ce9d78ba-a20a-41d0-8462-d374cbf99740",
+      "company": "BioSpace",
+      "title": "2027 Summer Intern Automation, Reliability & Facilities Engineering (IOPS)",
+      "locations": [
+        "Rensselaer, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485294733/",
+      "url": "https://trueinterview.io/jobs/ce9d78ba-a20a-41d0-8462-d374cbf99740",
+      "postedAt": "2026-10-30T05:55:00.000Z",
+      "updatedAt": "2026-10-30T05:55:00.000Z"
+    },
+    {
+      "id": "44c32eba-f820-4f65-bf41-d8db5627c85d",
+      "company": "Mallard Manufacturing",
+      "title": "Engineering Intern – Summer 2027",
+      "locations": [
+        "Sterling, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485287952/",
+      "url": "https://trueinterview.io/jobs/44c32eba-f820-4f65-bf41-d8db5627c85d",
+      "postedAt": "2026-10-30T05:54:00.000Z",
+      "updatedAt": "2026-10-30T05:54:00.000Z"
+    },
+    {
+      "id": "db04ca3c-7b3b-476a-baaf-796c7050a91f",
+      "company": "BAE Systems, Inc.",
+      "title": "Industrial Engineering Intern III (Summer 2027) - Greenlawn, NY",
+      "locations": [
+        "Greenlawn, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483427102/",
+      "url": "https://trueinterview.io/jobs/db04ca3c-7b3b-476a-baaf-796c7050a91f",
+      "postedAt": "2026-10-30T05:53:00.000Z",
+      "updatedAt": "2026-10-30T05:53:00.000Z"
+    },
+    {
+      "id": "9da2b27c-1d5e-4ec0-89a4-3400d469cc0d",
+      "company": "BAE Systems, Inc.",
+      "title": "Manufacturing Engineering Intern III (Summer 2027), Greenlawn, NY",
+      "locations": [
+        "Greenlawn, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483429011/",
+      "url": "https://trueinterview.io/jobs/9da2b27c-1d5e-4ec0-89a4-3400d469cc0d",
+      "postedAt": "2026-10-30T05:53:00.000Z",
+      "updatedAt": "2026-10-30T05:53:00.000Z"
+    },
+    {
+      "id": "1f7c13bc-025c-4844-abc2-238998f05ef2",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Data Analyst - Internship",
+      "locations": [
+        "Tlajomulco de Zúñiga, Jalisco, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485298658/",
+      "url": "https://trueinterview.io/jobs/1f7c13bc-025c-4844-abc2-238998f05ef2",
+      "postedAt": "2026-10-30T05:49:00.000Z",
+      "updatedAt": "2026-10-30T05:49:00.000Z"
+    },
+    {
+      "id": "79978bed-7a41-4cce-8c96-78e512935130",
+      "company": "BioSpace",
+      "title": "2027 Summer Intern Data Science & Digital Innovation (IOPS)",
+      "locations": [
+        "Rensselaer, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485293764/",
+      "url": "https://trueinterview.io/jobs/79978bed-7a41-4cce-8c96-78e512935130",
+      "postedAt": "2026-10-30T05:48:00.000Z",
+      "updatedAt": "2026-10-30T05:48:00.000Z"
+    },
+    {
+      "id": "eef19c78-b2d0-4259-85f6-e3b834282833",
+      "company": "AxoraQ",
+      "title": "Engineering Internship",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483405993/",
+      "url": "https://trueinterview.io/jobs/eef19c78-b2d0-4259-85f6-e3b834282833",
+      "postedAt": "2026-10-30T05:45:00.000Z",
+      "updatedAt": "2026-10-30T05:45:00.000Z"
+    },
     {
       "id": "30984b02-c6a0-44b6-ba3d-88de0b261a10",
       "company": "BioSpace",
@@ -55,6 +333,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4485295680/",
       "url": "https://trueinterview.io/jobs/81c8c8d2-5267-4e97-825e-a85a3825f3ed",
+      "postedAt": "2026-10-30T05:34:00.000Z",
+      "updatedAt": "2026-10-30T05:34:00.000Z"
+    },
+    {
+      "id": "0d74d3ce-73a5-49cc-8dcd-f5fd5f6250e0",
+      "company": "Eversource Energy",
+      "title": "Engineering Intern: Distribution System Modeling and Automation (MA/CT/NH, Hybrid Schedule)",
+      "locations": [
+        "Westwood, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484813663/",
+      "url": "https://trueinterview.io/jobs/0d74d3ce-73a5-49cc-8dcd-f5fd5f6250e0",
       "postedAt": "2026-10-30T05:34:00.000Z",
       "updatedAt": "2026-10-30T05:34:00.000Z"
     },
@@ -182,6 +485,34 @@
       "url": "https://trueinterview.io/jobs/00aac071-21ba-4297-9217-162523bac5df",
       "postedAt": "2026-10-30T05:23:00.000Z",
       "updatedAt": "2026-10-30T05:23:00.000Z"
+    },
+    {
+      "id": "08ccded8-e618-42be-8081-c7fdadeb9dbc",
+      "company": "Autodesk",
+      "title": "Intern, Software Engineer [PDMS-D&M-GDSIMENG]",
+      "locations": [
+        "Singapore, Singapore",
+        "Melbourne, Victoria, Australia"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475462000/",
+      "url": "https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc",
+      "postedAt": "2026-10-29T09:43:00.000Z",
+      "updatedAt": "2026-10-30T05:22:00.000Z"
     },
     {
       "id": "7148c953-9665-437e-bb02-42da7923d47c",
@@ -905,6 +1236,31 @@
       "url": "https://trueinterview.io/jobs/7bfdec1e-0bd7-4852-bdd8-b449788b9519",
       "postedAt": "2026-10-30T03:23:00.000Z",
       "updatedAt": "2026-10-30T03:23:00.000Z"
+    },
+    {
+      "id": "f0ae72d2-b0cb-44e1-a289-88a8dd873751",
+      "company": "WD",
+      "title": "Internship - Data Engineering",
+      "locations": [
+        "Petaling Jaya, Selangor, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483405435/",
+      "url": "https://trueinterview.io/jobs/f0ae72d2-b0cb-44e1-a289-88a8dd873751",
+      "postedAt": "2026-10-30T02:51:00.000Z",
+      "updatedAt": "2026-10-30T02:51:00.000Z"
     },
     {
       "id": "6a21d648-dba1-4de1-8ad0-307c6a7f7eea",
@@ -10618,33 +10974,6 @@
       "updatedAt": "2026-10-29T09:44:00.000Z"
     },
     {
-      "id": "08ccded8-e618-42be-8081-c7fdadeb9dbc",
-      "company": "Autodesk",
-      "title": "Intern, Software Engineer [PDMS-DPM-Engineering]",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475462000/",
-      "url": "https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc",
-      "postedAt": "2026-10-29T09:43:00.000Z",
-      "updatedAt": "2026-10-29T09:43:00.000Z"
-    },
-    {
       "id": "37d10c5a-633a-414d-90d9-110aec1ecf89",
       "company": "Collins Aerospace",
       "title": "Systems Engineer Co-Op (Summer/Fall 2027) - Onsite",
@@ -13499,7 +13828,8 @@
       "company": "RTX",
       "title": "Software Engineering Intern (Summer 2027)",
       "locations": [
-        "Sterling, Virginia, United States"
+        "Sterling, Virginia, United States",
+        "Cedar Rapids, Iowa, United States"
       ],
       "cities": [],
       "countries": [
