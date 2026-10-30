@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T17:04:20.585Z",
+  "listingsChangedAt": "2026-10-30T18:05:35.341Z",
   "count": 2169,
   "listings": [
     {
@@ -8949,6 +8949,33 @@
       "url": "https://trueinterview.io/jobs/af5971a6-34d9-4051-8511-f4b82138ca5b",
       "postedAt": "2026-10-29T15:43:00.000Z",
       "updatedAt": "2026-10-29T15:43:00.000Z"
+    },
+    {
+      "id": "c840678b-8921-4803-a345-11ad05895818",
+      "company": "Cloudflare",
+      "title": "Product Manager Intern (2027) - Austin, TX",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790",
+      "url": "https://trueinterview.io/jobs/c840678b-8921-4803-a345-11ad05895818",
+      "postedAt": "2026-10-29T15:41:37.000Z",
+      "updatedAt": "2026-10-29T15:41:37.000Z"
     },
     {
       "id": "2f3fdcd2-3ce0-409f-ad57-ce0b2b5c3bcd",
@@ -56436,32 +56463,6 @@
       "url": "https://trueinterview.io/jobs/7a85ee66-c893-441e-8ea5-245505519765",
       "postedAt": "2026-08-31T18:09:11.000Z",
       "updatedAt": "2026-08-31T18:09:11.000Z"
-    },
-    {
-      "id": "c73b7488-4e9d-46a6-adb1-c6a1153d0db7",
-      "company": "C3.ai",
-      "title": "Data Science - Intern (Summer 2027)",
-      "locations": [
-        "Redwood City, California, United States",
-        "Redwood City, California"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://c3.ai/job-description/8738918002?gh_jid=8738918002",
-      "url": "https://trueinterview.io/jobs/c73b7488-4e9d-46a6-adb1-c6a1153d0db7",
-      "postedAt": "2026-08-31T18:03:16.000Z",
-      "updatedAt": "2026-08-31T18:03:16.000Z"
     }
   ]
 }
