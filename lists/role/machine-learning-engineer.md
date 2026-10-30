@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**67 open roles.** 55 in the United States & Canada · 12 elsewhere in the world.
+**69 open roles.** 56 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437608438/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BioSpace</strong></td>
 <td><a href="https://trueinterview.io/jobs/93933461-15b6-4a59-8f16-7956b14b8c4b">2027 Summer Intern AI/ML &amp; Data Engineering</a></td>
@@ -436,7 +443,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3179e75-5370-41d5-addf-45136009f9a8">Machine Learning Engineering Internship: Summer 2027</a></td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474884596/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ac8129e-3c56-4c63-90ed-a009afae9e2d">Deep Learning Software Engineering Intern, Test Development - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457658515/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**67 open roles.** 55 in the United States & Canada · 12 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**68 open roles.** 55 in the United States & Canada · 13 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -414,6 +414,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/92d35417-6b84-4704-8463-8f190488a274">Full Stack Developer Intern - SAP Business AI Singapore</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483446111/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>

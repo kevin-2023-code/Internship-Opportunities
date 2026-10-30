@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**325 open roles.** 262 in the United States & Canada · 63 elsewhere in the world.
+**329 open roles.** 263 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437608438/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Federal Express Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/17b7525b-b1c4-42be-a079-e25999bf51fa">Summer 2027 Internship - Revenue Management (Data Science)</a></td>
@@ -1864,6 +1871,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Bosch Building Technologies Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3854499-2151-449b-b135-c8b9207bff06">Intern, Data Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483860595/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MSD</strong></td>
+<td><a href="https://trueinterview.io/jobs/298b90dc-2a97-4483-b865-0c69ec872135">Intern, D&amp;L Data Analyst</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459327099/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>OMNIVISION</strong></td>
 <td><a href="https://trueinterview.io/jobs/17d7cab1-84b7-416b-b96e-8e84b3183ce3">Machine Learning Engineer Intern</a></td>
 <td>Jurong East, West Region, Singapore</td>
@@ -1896,6 +1917,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a85878c0-28b2-485a-8083-9c99d238ccd8">Performance Engineering Intern, Deep Learning and HPC - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484596486/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3179e75-5370-41d5-addf-45136009f9a8">Machine Learning Engineering Internship: Summer 2027</a></td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474884596/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

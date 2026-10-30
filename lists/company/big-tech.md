@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**588 open roles.** 532 in the United States & Canada · 56 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**587 open roles.** 530 in the United States & Canada · 57 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1672,13 +1672,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e9ae6f3-279e-4f7f-aa16-efd4ca054b74">Summer 2027 - Electrical Engineering Intern - BS</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099555447630">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b4a7b1b-41ef-47f5-b081-41210715f7d4">Detection &amp; Response Security Engineer, Intern (Summer 2027)</a></td>
 <td>New York, NY</td>
@@ -1690,13 +1683,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8fff58fd-a4dc-40ff-98c3-64f849898a59">Security Engineer Posture Management, Intern (Summer 2027)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1359570553913180/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc">Data Center Technician, Intern</a></td>
-<td>Los Lunas, NM, United States<br/>Rayville, LA, United States<br/>Fort Worth, TX, United States<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2185283202380208/">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e714abaa-bdc0-42ca-9108-a03676b11f28">PhD Research Intern, Architecture – 2027</a></td>
 <td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73">PhD Research Intern, Generalist Embodied Agents Research - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397562560">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tokyo Electron</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba">Manufacturing Engineer 2027 Summer Intern</a></td>
+<td>Chaska, United States of America</td>
+<td align="center"><a href="https://tel.wd3.myworkdayjobs.com/TEL-Careers/job/Chaska/Manufacturing-Engineer-2027-Summer-Intern_R26-01590">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

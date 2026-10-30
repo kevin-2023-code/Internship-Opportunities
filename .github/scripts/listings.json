@@ -5,9 +5,522 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T11:04:45.219Z",
-  "count": 2135,
+  "listingsChangedAt": "2026-10-30T12:08:06.929Z",
+  "count": 2151,
   "listings": [
+    {
+      "id": "e93b7b48-7cc6-4731-a1ae-b69562d4b4aa",
+      "company": "Pima County",
+      "title": "Engineering Intern - Regional Wastewater Reclamation",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485311813/",
+      "url": "https://trueinterview.io/jobs/e93b7b48-7cc6-4731-a1ae-b69562d4b4aa",
+      "postedAt": "2026-10-30T11:36:00.000Z",
+      "updatedAt": "2026-10-30T11:36:00.000Z"
+    },
+    {
+      "id": "acd6399f-de8a-47f6-b884-c8bca3ab7476",
+      "company": "Marvell Technology",
+      "title": "Hardware Engineer Intern - Bachelor's Degree",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483445130/",
+      "url": "https://trueinterview.io/jobs/acd6399f-de8a-47f6-b884-c8bca3ab7476",
+      "postedAt": "2026-10-30T11:20:00.000Z",
+      "updatedAt": "2026-10-30T11:20:00.000Z"
+    },
+    {
+      "id": "171c7cbf-2b79-4188-be13-3e9c26f7f27e",
+      "company": "CACI International Inc",
+      "title": "Electrical Engineering Co-op/Intern - Spring 2027",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483446118/",
+      "url": "https://trueinterview.io/jobs/171c7cbf-2b79-4188-be13-3e9c26f7f27e",
+      "postedAt": "2026-10-30T11:19:00.000Z",
+      "updatedAt": "2026-10-30T11:19:00.000Z"
+    },
+    {
+      "id": "ae1d6865-6933-445b-bd6e-a2c78671f51e",
+      "company": "CACI International Inc",
+      "title": "Systems Engineering Co-op/Intern - Spring 2027",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483441383/",
+      "url": "https://trueinterview.io/jobs/ae1d6865-6933-445b-bd6e-a2c78671f51e",
+      "postedAt": "2026-10-30T11:19:00.000Z",
+      "updatedAt": "2026-10-30T11:19:00.000Z"
+    },
+    {
+      "id": "b8068d51-661e-4dd7-abfe-3c2037aa6a32",
+      "company": "Torus",
+      "title": "Power Electrical Engineer Intern (Summer 2027)",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468330135/",
+      "url": "https://trueinterview.io/jobs/b8068d51-661e-4dd7-abfe-3c2037aa6a32",
+      "postedAt": "2026-10-30T11:15:00.000Z",
+      "updatedAt": "2026-10-30T11:15:00.000Z"
+    },
+    {
+      "id": "f1806375-3bbd-491f-9e15-d9f128338b14",
+      "company": "GlobalFoundries",
+      "title": "Failure Analysis Engineering Intern (Summer 2027)",
+      "locations": [
+        "Malta, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481157526/",
+      "url": "https://trueinterview.io/jobs/f1806375-3bbd-491f-9e15-d9f128338b14",
+      "postedAt": "2026-10-30T11:10:00.000Z",
+      "updatedAt": "2026-10-30T11:10:00.000Z"
+    },
+    {
+      "id": "ba8ecdaa-ecf4-40ff-ac30-587e42e2b9f5",
+      "company": "Robinson Helicopter Company",
+      "title": "Engineer Intern",
+      "locations": [
+        "Torrance, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467122606/",
+      "url": "https://trueinterview.io/jobs/ba8ecdaa-ecf4-40ff-ac30-587e42e2b9f5",
+      "postedAt": "2026-10-30T11:03:00.000Z",
+      "updatedAt": "2026-10-30T11:03:00.000Z"
+    },
+    {
+      "id": "92d35417-6b84-4704-8463-8f190488a274",
+      "company": "SAP",
+      "title": "Full Stack Developer Intern - SAP Business AI Singapore",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483446111/",
+      "url": "https://trueinterview.io/jobs/92d35417-6b84-4704-8463-8f190488a274",
+      "postedAt": "2026-10-30T11:02:00.000Z",
+      "updatedAt": "2026-10-30T11:02:00.000Z"
+    },
+    {
+      "id": "461a1fe5-0c15-4620-a46a-0ecf878b1039",
+      "company": "Rehlko",
+      "title": "Electrical Engineering Spring/Fall Co-op 2027",
+      "locations": [
+        "Sheboygan, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468364843/",
+      "url": "https://trueinterview.io/jobs/461a1fe5-0c15-4620-a46a-0ecf878b1039",
+      "postedAt": "2026-10-30T10:56:38.000Z",
+      "updatedAt": "2026-10-30T10:56:38.000Z"
+    },
+    {
+      "id": "2418d04a-d1cd-49f7-bc65-887e363f5f42",
+      "company": "WebFX",
+      "title": "IT Support Internship",
+      "locations": [
+        "Harrisburg, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468302594/",
+      "url": "https://trueinterview.io/jobs/2418d04a-d1cd-49f7-bc65-887e363f5f42",
+      "postedAt": "2026-10-30T10:53:00.000Z",
+      "updatedAt": "2026-10-30T10:53:00.000Z"
+    },
+    {
+      "id": "d3854499-2151-449b-b135-c8b9207bff06",
+      "company": "Bosch Building Technologies Europe",
+      "title": "Intern, Data Analyst",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483860595/",
+      "url": "https://trueinterview.io/jobs/d3854499-2151-449b-b135-c8b9207bff06",
+      "postedAt": "2026-10-30T10:49:00.000Z",
+      "updatedAt": "2026-10-30T10:49:00.000Z"
+    },
+    {
+      "id": "99efaa2f-8f11-4689-860f-5355e5b897a4",
+      "company": "Rehlko",
+      "title": "Mechanical or Quality Engineering Spring/Fall Co-op 2027 (Hattiesburg, MS)",
+      "locations": [
+        "Hattiesburg, MS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468329244/",
+      "url": "https://trueinterview.io/jobs/99efaa2f-8f11-4689-860f-5355e5b897a4",
+      "postedAt": "2026-10-30T10:45:00.000Z",
+      "updatedAt": "2026-10-30T10:45:00.000Z"
+    },
+    {
+      "id": "df1f32b6-bb9f-489b-a67e-59f3c5efa71e",
+      "company": "Dill Air Controls Products, LLC",
+      "title": "Engineer Co-Op",
+      "locations": [
+        "Oxford, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484828566/",
+      "url": "https://trueinterview.io/jobs/df1f32b6-bb9f-489b-a67e-59f3c5efa71e",
+      "postedAt": "2026-10-30T10:37:00.000Z",
+      "updatedAt": "2026-10-30T10:37:00.000Z"
+    },
+    {
+      "id": "eca1b756-97a6-42f5-b9e1-7bb872b0ab9d",
+      "company": "Enervexa PowerLabs",
+      "title": "Intern, Launch Fluids & Operations Engineer",
+      "locations": [
+        "Florida, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483423852/",
+      "url": "https://trueinterview.io/jobs/eca1b756-97a6-42f5-b9e1-7bb872b0ab9d",
+      "postedAt": "2026-10-30T10:37:00.000Z",
+      "updatedAt": "2026-10-30T10:37:00.000Z"
+    },
+    {
+      "id": "aa999ce1-13b9-49b0-b852-bdfa38abc350",
+      "company": "Gentherm",
+      "title": "Engineer Co-Op - Spring 2027",
+      "locations": [
+        "Racine, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477468869/",
+      "url": "https://trueinterview.io/jobs/aa999ce1-13b9-49b0-b852-bdfa38abc350",
+      "postedAt": "2026-10-30T10:37:00.000Z",
+      "updatedAt": "2026-10-30T10:37:00.000Z"
+    },
+    {
+      "id": "568ffe4e-a005-4560-adbb-f6906459df96",
+      "company": "HDR",
+      "title": "Substation Electrical Engineering Intern - Physical",
+      "locations": [
+        "Minneapolis, MN",
+        "St Louis Park, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4457655689/",
+      "url": "https://trueinterview.io/jobs/568ffe4e-a005-4560-adbb-f6906459df96",
+      "postedAt": "2026-10-30T09:47:00.000Z",
+      "updatedAt": "2026-10-30T10:37:00.000Z"
+    },
+    {
+      "id": "dba9b18f-4809-4520-9eae-094cdb0b5d64",
+      "company": "Monolithic Power Systems, Inc.",
+      "title": "Applications Engineering Intern",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477492804/",
+      "url": "https://trueinterview.io/jobs/dba9b18f-4809-4520-9eae-094cdb0b5d64",
+      "postedAt": "2026-10-30T10:37:00.000Z",
+      "updatedAt": "2026-10-30T10:37:00.000Z"
+    },
+    {
+      "id": "906e5e29-907e-4d93-85bb-afbaa2e01014",
+      "company": "TRC Companies, Inc.",
+      "title": "Substation Engineering Intern",
+      "locations": [
+        "Golden, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466227951/",
+      "url": "https://trueinterview.io/jobs/906e5e29-907e-4d93-85bb-afbaa2e01014",
+      "postedAt": "2026-10-30T10:37:00.000Z",
+      "updatedAt": "2026-10-30T10:37:00.000Z"
+    },
+    {
+      "id": "515db1c4-c3d1-4970-9d88-568f56f10252",
+      "company": "DRW",
+      "title": "AI/ML Research Intern",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4437608438/",
+      "url": "https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252",
+      "postedAt": "2026-10-30T10:31:00.000Z",
+      "updatedAt": "2026-10-30T10:31:00.000Z"
+    },
+    {
+      "id": "298b90dc-2a97-4483-b865-0c69ec872135",
+      "company": "MSD",
+      "title": "Intern, D&L Data Analyst",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459327099/",
+      "url": "https://trueinterview.io/jobs/298b90dc-2a97-4483-b865-0c69ec872135",
+      "postedAt": "2026-10-30T10:25:00.000Z",
+      "updatedAt": "2026-10-30T10:25:00.000Z"
+    },
     {
       "id": "82610e6f-012f-47c6-a8b0-2d8bd490f997",
       "company": "PIMCO",
@@ -285,31 +798,6 @@
       "url": "https://trueinterview.io/jobs/bfc668b3-8696-4b98-af81-f70bdf9133ca",
       "postedAt": "2026-10-30T09:48:00.000Z",
       "updatedAt": "2026-10-30T09:48:00.000Z"
-    },
-    {
-      "id": "568ffe4e-a005-4560-adbb-f6906459df96",
-      "company": "HDR",
-      "title": "Substation Electrical Engineering Intern - Physical",
-      "locations": [
-        "Minneapolis, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4457655689/",
-      "url": "https://trueinterview.io/jobs/568ffe4e-a005-4560-adbb-f6906459df96",
-      "postedAt": "2026-10-30T09:47:00.000Z",
-      "updatedAt": "2026-10-30T09:47:00.000Z"
     },
     {
       "id": "f8402ace-6964-4645-a371-afb806ab5336",
@@ -4080,6 +4568,83 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4477487079/",
       "url": "https://trueinterview.io/jobs/058ac320-9f21-43ce-8dca-8f1adccb2ef1",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "859baf0c-101f-4468-9e84-c0b79093b3f8",
+      "company": "Rivian",
+      "title": "Engineering Intern - Design for Reliability (Spring 2027 Co-Op)",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467594882/",
+      "url": "https://trueinterview.io/jobs/859baf0c-101f-4468-9e84-c0b79093b3f8",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "1b427417-603d-42f9-94b4-b784729aac5e",
+      "company": "Siemens Energy",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Dubai, Dubai, United Arab Emirates"
+      ],
+      "cities": [
+        "Dubai"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475903255/",
+      "url": "https://trueinterview.io/jobs/1b427417-603d-42f9-94b4-b784729aac5e",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "d3179e75-5370-41d5-addf-45136009f9a8",
+      "company": "Susquehanna International Group",
+      "title": "Machine Learning Engineering Internship: Summer 2027",
+      "locations": [
+        "Hong Kong, Hong Kong SAR"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474884596/",
+      "url": "https://trueinterview.io/jobs/d3179e75-5370-41d5-addf-45136009f9a8",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
@@ -10964,31 +11529,6 @@
       "updatedAt": "2026-10-29T11:11:58.000Z"
     },
     {
-      "id": "93b15e23-d1f7-4045-abbf-51697793cd42",
-      "company": "Emerson",
-      "title": "Electrical Engineering Co-op (Spring 2027)",
-      "locations": [
-        "Rockford, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468315121/",
-      "url": "https://trueinterview.io/jobs/93b15e23-d1f7-4045-abbf-51697793cd42",
-      "postedAt": "2026-10-29T10:35:00.000Z",
-      "updatedAt": "2026-10-29T11:09:00.000Z"
-    },
-    {
       "id": "4b98d112-7f3e-41d1-b080-a642f4e49e03",
       "company": "Bass Pro Shops",
       "title": "Cybersecurity Intern Summer 2027",
@@ -11483,32 +12023,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4468356302/",
       "url": "https://trueinterview.io/jobs/5ed24ea2-8722-44ce-ac62-ec1f8aeb983c",
       "postedAt": "2026-10-29T10:40:00.000Z",
-      "updatedAt": "2026-10-29T10:40:00.000Z"
-    },
-    {
-      "id": "cecb0fc8-0a19-4ff3-8a55-9a3e4557ec74",
-      "company": "Emerson",
-      "title": "Mechanical Engineering Co-op (Summer 2027)",
-      "locations": [
-        "Eden Prairie, MN",
-        "Elyria, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467208715/",
-      "url": "https://trueinterview.io/jobs/cecb0fc8-0a19-4ff3-8a55-9a3e4557ec74",
-      "postedAt": "2026-10-28T10:48:00.000Z",
       "updatedAt": "2026-10-29T10:40:00.000Z"
     },
     {
@@ -12467,31 +12981,6 @@
       "url": "https://trueinterview.io/jobs/1104c92a-8d4d-4b55-b065-b42463868deb",
       "postedAt": "2026-10-29T09:40:00.000Z",
       "updatedAt": "2026-10-29T09:40:00.000Z"
-    },
-    {
-      "id": "27e6015c-5fd3-4ac5-8bce-28c5db1350fa",
-      "company": "Worley",
-      "title": "Mechanical Engineering Intern",
-      "locations": [
-        "Charleston, WV"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476790151/",
-      "url": "https://trueinterview.io/jobs/27e6015c-5fd3-4ac5-8bce-28c5db1350fa",
-      "postedAt": "2026-10-29T09:37:00.000Z",
-      "updatedAt": "2026-10-29T09:37:00.000Z"
     },
     {
       "id": "30026b5a-f531-4b99-b13d-14dcc49063a8",
@@ -15054,31 +15543,6 @@
       "source": "career-sites",
       "applyUrl": "https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-spring-2027-rochester-ny-us",
       "url": "https://trueinterview.io/jobs/934376ac-a7cc-41cc-a9a7-50eeae1d08ec",
-      "postedAt": "2026-10-29T00:00:00.000Z",
-      "updatedAt": "2026-10-29T00:00:00.000Z"
-    },
-    {
-      "id": "232a4372-496e-4130-a4da-1989cbc75720",
-      "company": "CACI International",
-      "title": "Software Engineering Co-op/Intern - Spring 2027",
-      "locations": [
-        "Rochester, New York, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
-      "url": "https://trueinterview.io/jobs/232a4372-496e-4130-a4da-1989cbc75720",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -37027,31 +37491,6 @@
       "updatedAt": "2026-10-08T00:00:00.000Z"
     },
     {
-      "id": "7e9ae6f3-279e-4f7f-aa16-efd4ca054b74",
-      "company": "Lam Research",
-      "title": "Summer 2027 - Electrical Engineering Intern - BS",
-      "locations": [
-        "Fremont, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.lamresearch.com/careers/job/1099555447630",
-      "url": "https://trueinterview.io/jobs/7e9ae6f3-279e-4f7f-aa16-efd4ca054b74",
-      "postedAt": "2026-10-08T00:00:00.000Z",
-      "updatedAt": "2026-10-08T00:00:00.000Z"
-    },
-    {
       "id": "8289679a-7200-450e-83d7-adbd5eb79a71",
       "company": "K2 Space",
       "title": "Mission Operations Engineering Intern – Summer 2027",
@@ -37211,35 +37650,6 @@
       "url": "https://trueinterview.io/jobs/8fff58fd-a4dc-40ff-98c3-64f849898a59",
       "postedAt": "2026-10-07T19:21:10.000Z",
       "updatedAt": "2026-10-07T19:21:10.000Z"
-    },
-    {
-      "id": "f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc",
-      "company": "Meta",
-      "title": "Data Center Technician, Intern",
-      "locations": [
-        "Los Lunas, NM, United States",
-        "Rayville, LA, United States",
-        "Fort Worth, TX, United States",
-        "New Albany, OH, United States",
-        "Huntsville, AL, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/2185283202380208/",
-      "url": "https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc",
-      "postedAt": "2026-10-07T18:02:32.000Z",
-      "updatedAt": "2026-10-07T18:02:32.000Z"
     },
     {
       "id": "081feb0a-245b-47ae-9757-05cac95cba21",

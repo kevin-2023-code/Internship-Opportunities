@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**714 open roles.** 678 in the United States & Canada · 36 elsewhere in the world.
+**715 open roles.** 678 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,42 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>CACI International Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/171c7cbf-2b79-4188-be13-3e9c26f7f27e">Electrical Engineering Co-op/Intern - Spring 2027</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483446118/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Torus</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8068d51-661e-4dd7-abfe-3c2037aa6a32">Power Electrical Engineer Intern (Summer 2027)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468330135/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rehlko</strong></td>
+<td><a href="https://trueinterview.io/jobs/461a1fe5-0c15-4620-a46a-0ecf878b1039">Electrical Engineering Spring/Fall Co-op 2027</a></td>
+<td>Sheboygan, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468364843/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/99efaa2f-8f11-4689-860f-5355e5b897a4">Mechanical or Quality Engineering Spring/Fall Co-op 2027 (Hattiesburg, MS)</a></td>
+<td>Hattiesburg, MS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468329244/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>HDR</strong></td>
+<td><a href="https://trueinterview.io/jobs/568ffe4e-a005-4560-adbb-f6906459df96">Substation Electrical Engineering Intern - Physical</a></td>
+<td>Minneapolis, MN<br/>St Louis Park, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457655689/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4c243ccc-1127-4dcb-b6ab-c21935c375fc">Substation Electrical Engineering Intern - Controls</a></td>
 <td>St Louis Park, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457652673/">Apply</a></td>
@@ -38,13 +73,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bfc668b3-8696-4b98-af81-f70bdf9133ca">2027 Intern - Field Quality Engineer Intern</a></td>
 <td>Shanghai, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450217109/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HDR</strong></td>
-<td><a href="https://trueinterview.io/jobs/568ffe4e-a005-4560-adbb-f6906459df96">Substation Electrical Engineering Intern - Physical</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457655689/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -720,24 +748,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/93b15e23-d1f7-4045-abbf-51697793cd42">Electrical Engineering Co-op (Spring 2027)</a></td>
-<td>Rockford, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468315121/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>S&amp;C Electric Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/d5e91ea2-1935-4011-afdc-ba0baae9c881">Mechanical Engineer Intern - Franklin,WI</a></td>
 <td>Franklin, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476787364/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/cecb0fc8-0a19-4ff3-8a55-9a3e4557ec74">Mechanical Engineering Co-op (Summer 2027)</a></td>
-<td>Eden Prairie, MN<br/>Elyria, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467208715/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -766,13 +780,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9fd53fd0-40fb-4c69-bf14-ebc55ee40c7b">Mechanical Engineering Co-op</a></td>
 <td>Grand Rapids, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475494634/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Worley</strong></td>
-<td><a href="https://trueinterview.io/jobs/27e6015c-5fd3-4ac5-8bce-28c5db1350fa">Mechanical Engineering Intern</a></td>
-<td>Charleston, WV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476790151/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2544,13 +2551,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/32528e80-1593-4208-944f-29d609d29d97">Thermal Engineering Intern</a></td>
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e9ae6f3-279e-4f7f-aa16-efd4ca054b74">Summer 2027 - Electrical Engineering Intern - BS</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099555447630">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>

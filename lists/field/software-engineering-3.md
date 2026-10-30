@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**839 open roles.** 684 in the United States & Canada · 155 elsewhere in the world.
+**850 open roles.** 693 in the United States & Canada · 157 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Axiom Math</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e1c4b49-9166-4d73-b80b-2bf3287de01b">Member of Technical Staff Intern</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2045156-43ca-4733-afdb-92114fdc5f5a">Intern - Embedded Software Engineer</a> 🌐</td>
+<td>Remote — United Kingdom</td>
+<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/99122790">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ING</strong></td>
+<td><a href="https://trueinterview.io/jobs/801fafa4-b206-4b06-9c6d-0eb0c0f639f0">INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES</a></td>
+<td>Amsterdam, Netherlands</td>
+<td align="center"><a href="https://careers.ing.com/en/job/amsterdam/internship-software-engineer-ing-mortgages/3121/46421136448">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Estée Lauder Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2a77997-db4d-4cfc-86fe-bd4b88ba7694">Analytical Development Lab Engineer Assistant Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers.elcompanies.com/careers/job/1168276325169?domain=elcompanies.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>VSP Vision</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3b2bdde-9706-4c01-ba04-41b43a1e3006">Internship, Software Engineer</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10071">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Opusclip</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f83d76e-6161-41fd-865e-6f6ba0228ac9">Customer Experience Test Automation Intern</a></td>
+<td>Burnaby</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818/application">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scale</strong></td>
+<td><a href="https://trueinterview.io/jobs/3600e62c-3f66-4127-be63-5cb0a3418cee">Software Engineering Intern (Summer 2027)</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467226376/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teradata</strong></td>
+<td><a href="https://trueinterview.io/jobs/c12bece7-cc10-4c5e-94a5-0cc047c5c987">Product Support Engineering Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.teradata.com/jobs/220825/product-support-engineering-intern?sid=602">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8eca9ccf-e954-4e0c-9816-a7c21d749406">Software Engineer (Software Integrator) Intern [IDA:00070]</a></td>
+<td>Kallang, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000157968618-software-engineer-software-integrator-intern-ida-00070-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beckman Coulter Life Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef4a8019-9200-4d8e-b0a2-519201f51501">Software Engineering Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1320608EXTERNALENGLOBAL/Software-Engineering-Intern">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts</strong></td>
+<td><a href="https://trueinterview.io/jobs/db84990f-ae3e-44ee-b0eb-0574b20dad11">Software Engineer Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Holcim</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf06fab8-e08a-480c-883e-a37d8bdfe384">R&amp;D Engineer Intern - Calcined Clay</a></td>

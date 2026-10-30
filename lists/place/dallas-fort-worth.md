@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**76 open roles.**
+**75 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -235,14 +235,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6b1a93f-59ea-4ac3-8ecf-dc2528886fdc">Data Center Technician, Intern</a></td>
-<td>Fort Worth, TX, United States<br/>Los Lunas, NM, United States<br/>Rayville, LA, United States<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2185283202380208/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/99418f87-8a71-4144-b587-122e844e2a17">Analog Design Engineering Intern - ATD</a></td>
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924">Apply</a></td>

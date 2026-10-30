@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**134 open roles.** 130 in the United States & Canada · 4 elsewhere in the world.
+**134 open roles.** 129 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -354,14 +354,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e9ae6f3-279e-4f7f-aa16-efd4ca054b74">Summer 2027 - Electrical Engineering Intern - BS</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099555447630">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ab6c72f9-c22d-4b2d-8014-28b5ee67f096">ASIC Design Engineer Intern</a></td>
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180">Apply</a></td>
@@ -939,6 +932,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/acd6399f-de8a-47f6-b884-c8bca3ab7476">Hardware Engineer Intern - Bachelor's Degree</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483445130/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bb12426-8d55-4d00-a014-e1677210fb34">ASIC Engineering Intern, Networking Chip Design - 2027</a></td>

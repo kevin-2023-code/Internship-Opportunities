@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**11 open roles.** 10 in the United States & Canada · 1 elsewhere in the world.
+**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437608438/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Behaviour Interactive</strong></td>
 <td><a href="https://trueinterview.io/jobs/f848a685-deb3-432d-bfaa-ad6aeccd9b61">Product Graphic Designer – Internship Winter 2027</a></td>

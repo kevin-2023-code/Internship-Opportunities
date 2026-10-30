@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Monolithic Power Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/dba9b18f-4809-4520-9eae-094cdb0b5d64">Applications Engineering Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477492804/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>The Voleon Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0a28b51-8e73-45fe-92e4-2b5ed4b264d6">Software Engineer Intern - (Summer 2027)</a></td>
 <td>Berkeley, CA<br/>New York, NY</td>
@@ -1555,13 +1562,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5798fd44-8b76-42e8-9ab2-467efcbccac2">Wireless Networking Intern</a></td>
 <td>San Jose, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e9ae6f3-279e-4f7f-aa16-efd4ca054b74">Summer 2027 - Electrical Engineering Intern - BS</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099555447630">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
