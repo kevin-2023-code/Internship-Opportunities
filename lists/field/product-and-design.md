@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**136 open roles.** 103 in the United States & Canada · 33 elsewhere in the world.
+**138 open roles.** 106 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/edda1e92-bcb4-49bc-ba52-13e3d27061d7">UI/UX Designer Intern (Summer 2027)</a></td>
+<td>San Mateo County, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485234937/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Signify</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8c542fd-7976-4f37-a65f-bc6dc4d3eeea">Product Management Intern, Cooper Lighting Solutions - Spring 2027</a></td>
@@ -264,6 +271,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/06001a10-14ec-40bd-acbc-df8d32951e4d">Industrial Designer Intern (Spring 2027)</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/20385?lang=en-us">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d481ae67-242f-49a6-b6ad-f0f31aff1123">User Interface Designer Intern</a></td>
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/19938?lang=en-us">Apply</a></td>
@@ -365,6 +379,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d50ad1e4-87d6-4076-ae5c-7ea4dee1915f">Design Intern, Non-Apparel, Spring 2027</a></td>
 <td>New York, NY, Crosby</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/khaite/jobs/5457663008">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4a204935-8419-49dd-b9f7-2cfcbf4983a1">Technical Design, Production, RTW Internship, Spring 2027</a></td>
+<td>New York, NY, Crosby</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/khaite/jobs/5456876008">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -811,13 +832,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f4a297cc-b3af-459c-9114-6cc31748fb12">UX Engineer - Internship(EN)</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481212598/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/59815202-fac9-4a33-8977-2fb974744951">Amazon Internship Program 2027 | Business &amp; Product Management</a></td>
-<td>Greater São Paulo Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484730391/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

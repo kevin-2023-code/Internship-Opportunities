@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**34 open roles.** 32 in the United States & Canada · 2 elsewhere in the world.
+**35 open roles.** 33 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76275763-a317-420c-83ed-37a4ca2ab6b4">Data Engineering Intern - Summer 2027</a></td>
 <td>Alexandria, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484771389/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Philips</strong></td>
+<td><a href="https://trueinterview.io/jobs/04df4829-2ad9-4754-9e1c-b364a5f164af">Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027</a></td>
+<td>Murrysville, Pennsylvania, United States</td>
+<td align="center"><a href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

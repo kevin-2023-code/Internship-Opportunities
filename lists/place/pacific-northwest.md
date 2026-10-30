@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**77 open roles.**
+**78 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,6 +155,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dedecf26-b235-4c7f-a87b-b94747329bc3">Intern - SMAI Probe AI Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45044247">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/55ae2f9a-24ab-4723-838c-a9c552e48b73">Intern - SSD Firmware</a></td>
+<td>Boise, ID, US<br/>San Jose, CA</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45044344">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
