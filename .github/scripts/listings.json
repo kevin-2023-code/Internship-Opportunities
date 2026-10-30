@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T14:05:41.462Z",
-  "count": 2168,
+  "listingsChangedAt": "2026-10-30T17:04:20.585Z",
+  "count": 2169,
   "listings": [
+    {
+      "id": "d5351992-89f8-4a7d-9704-2e361c5fa1cc",
+      "company": "Fussball Club Cincinnati LLC (“FC Cincinnati”)",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Cincinnati, Ohio, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003",
+      "url": "https://trueinterview.io/jobs/d5351992-89f8-4a7d-9704-2e361c5fa1cc",
+      "postedAt": "2026-10-30T14:26:32.000Z",
+      "updatedAt": "2026-10-30T14:26:32.000Z"
+    },
     {
       "id": "6b01f696-9595-4501-a4bc-d60643d8b994",
       "company": "Lila Sciences",
@@ -8924,33 +8949,6 @@
       "url": "https://trueinterview.io/jobs/af5971a6-34d9-4051-8511-f4b82138ca5b",
       "postedAt": "2026-10-29T15:43:00.000Z",
       "updatedAt": "2026-10-29T15:43:00.000Z"
-    },
-    {
-      "id": "c840678b-8921-4803-a345-11ad05895818",
-      "company": "Cloudflare",
-      "title": "Product Manager Intern (2027) - Austin, TX",
-      "locations": [
-        "Austin, Texas, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790",
-      "url": "https://trueinterview.io/jobs/c840678b-8921-4803-a345-11ad05895818",
-      "postedAt": "2026-10-29T15:41:37.000Z",
-      "updatedAt": "2026-10-29T15:41:37.000Z"
     },
     {
       "id": "2f3fdcd2-3ce0-409f-ad57-ce0b2b5c3bcd",
@@ -28770,6 +28768,33 @@
       "source": "1point3acres",
       "applyUrl": "https://jobs.ashbyhq.com/skydio/8f4f62b0-a2ea-498d-b78f-6f661b724a3c/application",
       "url": "https://trueinterview.io/jobs/1ee58516-e57e-4458-9171-9aeb67ca951a",
+      "postedAt": "2026-10-27T00:00:00.000Z",
+      "updatedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "id": "afbca280-289c-4daa-90fb-472ea1ddc928",
+      "company": "Strada Education Foundation",
+      "title": "Strada Education Foundation Internship: Clear Outcomes and Data Science Intern",
+      "locations": [
+        "Washington, District of Columbia, United States"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b",
+      "url": "https://trueinterview.io/jobs/afbca280-289c-4daa-90fb-472ea1ddc928",
       "postedAt": "2026-10-27T00:00:00.000Z",
       "updatedAt": "2026-10-27T00:00:00.000Z"
     },

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**327 open roles.** 261 in the United States & Canada · 66 elsewhere in the world.
+**329 open roles.** 263 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fussball Club Cincinnati LLC (“FC Cincinnati”)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5351992-89f8-4a7d-9704-2e361c5fa1cc">Data Analyst Intern</a></td>
+<td>Cincinnati, Ohio, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
@@ -834,6 +841,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c3a3938f-25da-46a3-8ed0-45cf39463565">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Strada Education Foundation</strong></td>
+<td><a href="https://trueinterview.io/jobs/afbca280-289c-4daa-90fb-472ea1ddc928">Strada Education Foundation Internship: Clear Outcomes and Data Science Intern</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States</td>
+<td align="center"><a href="https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

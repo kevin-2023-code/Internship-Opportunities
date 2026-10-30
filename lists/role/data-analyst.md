@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**51 open roles.** 31 in the United States & Canada · 20 elsewhere in the world.
+**52 open roles.** 32 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fussball Club Cincinnati LLC (“FC Cincinnati”)</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5351992-89f8-4a7d-9704-2e361c5fa1cc">Data Analyst Intern</a></td>
+<td>Cincinnati, Ohio, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Internship List</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
