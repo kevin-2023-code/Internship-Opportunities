@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**76 open roles.**
+**75 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -540,13 +540,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/214cf066-56e3-4286-a487-b8b863a9604f">Electrical Engineering Internship - Data Center Facilities</a></td>
 <td>Fort Worth, TX<br/>North Kansas City, MO<br/>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5395994008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a04670c1-81dc-4d4b-b672-837e5e182ae9">Civil Engineering Internship - Roadway</a></td>
-<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)<br/>+7 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405885008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>

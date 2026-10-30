@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**41 open roles.**
+**39 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,20 +289,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Fort Collins, Colorado, United States<br/>Longmont, Colorado, United States<br/>Austin, TX<br/>+7 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91864?lang=en-us">Apply</a></td>
 <td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/63e319c4-d2ac-4fe7-8be3-121bf35e6839">Engineering Internship - Water/Wastewater</a></td>
-<td>Denver, CO<br/>Fayetteville, AR<br/>Phoenix, AZ<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5397436008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5db30053-e87e-4e23-bbc0-39ec7c23ee7a">Civil Engineering Internship - Traffic &amp; Technology</a></td>
-<td>Denver, CO<br/>Overland Park, KS<br/>Oklahoma City, OK<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405819008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

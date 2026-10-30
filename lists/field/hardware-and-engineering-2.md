@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**717 open roles.** 679 in the United States & Canada · 38 elsewhere in the world.
+**703 open roles.** 665 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1868,104 +1868,6 @@
 <td><a href="https://trueinterview.io/jobs/c33f3f75-2923-425b-9de7-fb6f49f8cc43">Electrical Engineering Internship - Substation and Power Generation</a></td>
 <td>Lincoln, NE<br/>Omaha, NE</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5410973008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e1839fa4-98ba-4cf9-8689-c685b9dd74cf">Structural Engineering Internship - Rail Bridge</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405904008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/553e11f0-e23e-47bf-b4a9-f4730ce8b273">Structural Engineering Internship - Bridge</a></td>
-<td>Oklahoma City, OK<br/>Overland Park, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405889008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e40daa5f-2b76-42fd-8787-f26762a268a1">Civil Drafting Internship - Water/Wastewater</a></td>
-<td>North Kansas City, MO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5399464008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ed7d7d56-980b-4708-8cef-3f8010bfbb86">Civil Engineering Internship - Federal Infrastructure Site Design</a></td>
-<td>North Kansas City, MO</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396116008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/73d21ac1-96fb-453f-9865-e7c719649011">Electrical Engineering Internship - Federal Infrastructure</a></td>
-<td>North Kansas City, MO<br/>Overland Park, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396125008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/63e319c4-d2ac-4fe7-8be3-121bf35e6839">Engineering Internship - Water/Wastewater</a></td>
-<td>Denver, CO<br/>Fayetteville, AR<br/>Phoenix, AZ<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5397436008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4b64a054-9cda-45ec-84ac-859fc31b1f34">Mechanical Engineering Internship - Federal Infrastructure</a></td>
-<td>Overland Park, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396095008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0c1b37af-781f-4571-b0a2-2e13b89ac988">Revit Drafting Internship - Mechanical</a></td>
-<td>North Kansas City, MO<br/>Tulsa, OK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396260008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b0102212-9b61-4a64-9cd7-956e2409992e">Structural Engineering Internship - Federal Infrastructure</a></td>
-<td>Overland Park, KS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5396073008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e6b8faff-5b4f-46f9-a0ae-99c76bfebf27">Engineering Internship - Rail Water Resources</a></td>
-<td>Lincoln, NE<br/>Omaha, NE</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405732008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5db30053-e87e-4e23-bbc0-39ec7c23ee7a">Civil Engineering Internship - Traffic &amp; Technology</a></td>
-<td>Denver, CO<br/>Overland Park, KS<br/>Oklahoma City, OK<br/>+3 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405819008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a04670c1-81dc-4d4b-b672-837e5e182ae9">Civil Engineering Internship - Roadway</a></td>
-<td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)<br/>+7 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405885008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/69d49c29-2118-4e89-8206-dfa50f2d06fa">Civil Engineering Internship - Rail Track</a></td>
-<td>Loveland, CO<br/>Omaha, NE</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5405907008">Apply</a></td>
-<td align="center">31 Aug 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ead8cecc-b2e5-4096-bf89-c7ec0be0cbfc">Engineering Internship - Building Automation Systems</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5399497008">Apply</a></td>
 <td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
