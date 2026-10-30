@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**76 open roles.**
+**77 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c4e78e5-27de-4b4c-bb14-f7bf3b07856e">Electrical Engineering for Manufacturing Co-Op (Summer/Fall 2027)</a></td>
+<td>Bellevue, WA<br/>Bellevue, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485291549/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/97060d88-5f1e-413a-bede-2f1711bd862b">UX Designer Intern – Summer 2027</a></td>

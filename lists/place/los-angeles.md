@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**117 open roles.**
+**118 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/740888e4-aa8b-4b43-9912-bf2725e726d3">2027 Electrical Engineer Intern- Redondo Beach CA</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485298582/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Parker Hannifin</strong></td>
 <td><a href="https://trueinterview.io/jobs/44fc4bf6-5737-4514-8d3b-a6f6dfddd731">Quality Engineering Intern</a></td>

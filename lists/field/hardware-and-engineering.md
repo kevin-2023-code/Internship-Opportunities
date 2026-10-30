@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**682 open roles.** 649 in the United States & Canada · 33 elsewhere in the world.
+**693 open roles.** 660 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affiliated Engineers, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/937bc227-e475-4304-af47-12018f68db29">Electrical Engineer Intern</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485293715/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/cca2ed56-8578-45a0-9c4f-39c8d50600dd">2027 Electrical Engineer Intern- Gilbert AZ</a></td>
+<td>Gilbert, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485296676/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/740888e4-aa8b-4b43-9912-bf2725e726d3">2027 Electrical Engineer Intern- Redondo Beach CA</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485298582/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fc85e4a-850d-470f-a135-3defbc5a7d99">2027 Structural Engineer Intern - Gilbert AZ</a></td>
+<td>Gilbert, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485290773/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c4e78e5-27de-4b4c-bb14-f7bf3b07856e">Electrical Engineering for Manufacturing Co-Op (Summer/Fall 2027)</a></td>
+<td>Bellevue, WA<br/>Bellevue, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485291549/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/9297cf84-2b78-4aad-959d-976e8f9f7716">Industrial Engineering Intern (Summer 2027)</a></td>
+<td>Essex Junction, VT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481168054/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/03772de3-446b-48e4-9e05-934444bbea6a">Reliability Engineering Intern (Summer 2027)</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295511/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Burns &amp; McDonnell</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c3f5286-5b7a-4259-94b7-cb36030e6402">Engineering Intern - Transmission &amp; Distribution (St. Louis)</a></td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484800832/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vontier</strong></td>
+<td><a href="https://trueinterview.io/jobs/39b86ee9-57f8-4947-90fa-bd287136bda6">Engineering Intern - Mechanical Engineering (Summer 2027)</a></td>
+<td>Simsbury, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297352/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hartzell Fan Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/337be672-d244-4413-b6f5-81581909b2dc">Manufacturing Engineer CO-OP</a></td>
+<td>Piqua, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485288498/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crafton Tull</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f97896b-be34-4124-a95c-2860cfd22af3">Summer/Student Civil Engineer Intern</a></td>
+<td>Fayetteville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485285710/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Parker Hannifin</strong></td>
 <td><a href="https://trueinterview.io/jobs/44fc4bf6-5737-4514-8d3b-a6f6dfddd731">Quality Engineering Intern</a></td>
@@ -2741,83 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chandler (Office), United States of America</td>
 <td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Chandler-Office/Photolithography-Equipment-Intern---Summer-2027_R-10064587">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hermeus</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8aacb72-3c3e-47e3-89b6-8bccea6199dd">Loads &amp; Dynamics Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.lever.co/hermeus/29c10a11-aa02-4d64-83d0-00001cbd3ac0/apply">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Muon Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/123f1052-cd93-45d7-85e4-21b6cc70cf9e">Thermal Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5253474007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e44fd66f-4d67-49a1-b17d-7ece52be1aec">Quality Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5253432007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Helion</strong></td>
-<td><a href="https://trueinterview.io/jobs/469d60f1-dac7-4d95-b5bf-0b92aa5b6329">Mechanical Engineering Summer 2027 Intern</a></td>
-<td>Everett, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/e94c8dff-3512-46bb-abdf-d4e4f75863ab">AI SOC Power Delivery Pathfinding PhD Intern</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/fda4111d-c802-478a-9862-3e355e4ca648">Custom Solutions Engineering Internship</a></td>
-<td>Santa Clara, California, United States<br/>San Diego, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54611?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aa114280-053e-44b8-ba07-f23a3e4ade14">R&amp;D Electrical Engineering, Intern</a></td>
-<td>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54664?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d592a8c5-d409-4b15-9f72-709416054fb8">RF IC Designer Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54210?lang=en-us">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1716f5a5-0a0b-4e5a-929b-bfe6a218e5fd">Mechatronics Engineering Internship</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5a3cc313-1c40-40db-878d-82b4d984d088">Mechatronics/Systems Engineering Internship</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e7e7827e-c9d1-440b-a640-75774ad1263f">Optical Engineer Intern</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
 </tr>
 </tbody>
 </table>

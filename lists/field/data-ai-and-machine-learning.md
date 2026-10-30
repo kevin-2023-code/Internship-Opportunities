@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**314 open roles.** 256 in the United States & Canada · 58 elsewhere in the world.
+**318 open roles.** 260 in the United States & Canada · 58 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/30984b02-c6a0-44b6-ba3d-88de0b261a10">2027 Summer Intern Genomics, Computational Biology &amp; Translational Data Science</a></td>
+<td>Tarrytown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297710/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc13e61-faef-4ebf-85bc-796dc65c85ac">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485286737/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0">ML Innovation for Products, PhD Research Intern</a></td>
+<td>Sunnyvale, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483410748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Marvin Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4296b483-6ab9-482d-bd5c-1fe3beb125e8">INTERN (AI DEVELOPER)</a></td>
+<td>Inglewood, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405870/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Philo Homes</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b86f257-a094-4ad1-8f4a-da90fdc0a328">Computer Vision Engineering Intern (Bilingual: English/Mandarin)</a></td>

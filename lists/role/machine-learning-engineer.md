@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**65 open roles.** 54 in the United States & Canada · 11 elsewhere in the world.
+**67 open roles.** 56 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc13e61-faef-4ebf-85bc-796dc65c85ac">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485286737/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0">ML Innovation for Products, PhD Research Intern</a></td>
+<td>Sunnyvale, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483410748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Philo Homes</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b86f257-a094-4ad1-8f4a-da90fdc0a328">Computer Vision Engineering Intern (Bilingual: English/Mandarin)</a></td>

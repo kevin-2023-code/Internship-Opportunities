@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**801 open roles.** 654 in the United States & Canada · 147 elsewhere in the world.
+**804 open roles.** 656 in the United States & Canada · 148 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nomad Global Communication Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/135773a7-4e8e-4e2c-b557-b50fb6befe91">Software Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://nomadgcs.bamboohr.com/careers/506?postedDate=2026-10-27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e524250f-e01d-4ac8-8cab-789e7b12fb30">Software Engineering Intern, AI Agents &amp; Backend Infrastructure – 2027</a></td>
+<td>Munich, BY, DE<br/>Berlin, Berlin, DE<br/>DE<br/>+5 more</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PACCAR</strong></td>
 <td><a href="https://trueinterview.io/jobs/62fe4718-7044-468b-adf2-c0899f1782a5">Summer 2027 - Application Developer Intern (OH)</a></td>
@@ -1806,6 +1820,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>iNova Pharmaceuticals</strong></td>
+<td><a href="https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7">Quality Assurance Intern | Jan-June 2027</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484818174/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/4cea20cc-af1d-4820-aaa2-d96b86afbd6c">Intern - Swift Runtimes Engineer</a></td>
 <td>London, England, United Kingdom</td>
@@ -2805,27 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Symphony Communication Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8">Intern, Software Developer</a></td>
-<td>Belfast</td>
-<td align="center"><a href="https://symphony.com/company/apply?gh_jid=8121112">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Oceanus Marine Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb76d489-3a82-49b9-86b3-28951e62fbd4">Software Engineering Intern</a></td>
-<td>Oceanus HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/630a07a6-4af4-4814-a52d-8fee47d4ae97">2027 Software Engineer Program - 12 Month Industrial Placement - Glasgow &amp; London</a></td>
-<td>LONDON, LONDON, United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738">Apply</a></td>
-<td align="center">31 Aug 2026</td>
 </tr>
 </tbody>
 </table>

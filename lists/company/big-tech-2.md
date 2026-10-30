@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**584 open roles.** 532 in the United States & Canada · 52 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**585 open roles.** 533 in the United States & Canada · 52 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73">PhD Research Intern, Generalist Embodied Agents Research - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397562560">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Tokyo Electron</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8c7be76-8364-4b5b-8df2-fa68801086ba">Manufacturing Engineer 2027 Summer Intern</a></td>

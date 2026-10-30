@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**57 open roles.** 49 in the United States & Canada · 8 elsewhere in the world.
+**58 open roles.** 50 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/30984b02-c6a0-44b6-ba3d-88de0b261a10">2027 Summer Intern Genomics, Computational Biology &amp; Translational Data Science</a></td>
+<td>Tarrytown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297710/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Donaldson</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd121b23-ef7a-4d8c-844c-3a6d5326ef0a">Graduate Intern - Modeling and Data Science</a></td>

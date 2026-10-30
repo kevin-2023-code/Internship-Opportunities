@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**38 open roles.**
+**41 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/cca2ed56-8578-45a0-9c4f-39c8d50600dd">2027 Electrical Engineer Intern- Gilbert AZ</a></td>
+<td>Gilbert, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485296676/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fc85e4a-850d-470f-a135-3defbc5a7d99">2027 Structural Engineer Intern - Gilbert AZ</a></td>
+<td>Gilbert, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485290773/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/03772de3-446b-48e4-9e05-934444bbea6a">Reliability Engineering Intern (Summer 2027)</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295511/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mercury Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/53199213-54bf-4756-a433-1ae7a9ea3f1b">2027 Manufacturing Engineering Intern</a></td>

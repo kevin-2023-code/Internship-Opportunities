@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**801 open roles.** 654 in the United States & Canada · 147 elsewhere in the world.
+**804 open roles.** 656 in the United States & Canada · 148 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affiliated Engineers, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/81c8c8d2-5267-4e97-825e-a85a3825f3ed">Technology Services Engineer Intern</a></td>
+<td>Gainesville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295680/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/00aac071-21ba-4297-9217-162523bac5df">Intern - Engineer</a></td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485284829/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e25d9fd8-617d-4508-8bca-564bbde0b972">Transportation Engineer Intern</a></td>
+<td>Doral, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283768/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Beckman Coulter Diagnostics</strong></td>
 <td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a></td>
@@ -1186,13 +1207,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
 <td>Milpitas, California, United States</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parker Hannifin</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc40b239-9a9b-4c3b-aab6-67741e105688">Spring/Summer Engineering Intern</a></td>
-<td>Mineral Wells, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484789561/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ddeb04aa-86cb-4d8f-b37e-c8b004f00352">Localization and QA Automation Developer Co-Op</a></td>
 <td>Vancouver, BC<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Vancouver-Canada/Localization-and-QA-Automation-Developer-Co-Op_R70123">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nomad Global Communication Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/135773a7-4e8e-4e2c-b557-b50fb6befe91">Software Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://nomadgcs.bamboohr.com/careers/506?postedDate=2026-10-27">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/e524250f-e01d-4ac8-8cab-789e7b12fb30">Software Engineering Intern, AI Agents &amp; Backend Infrastructure – 2027</a></td>
-<td>Munich, BY, DE<br/>Berlin, Berlin, DE<br/>DE<br/>+5 more</td>
-<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

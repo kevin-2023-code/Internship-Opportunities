@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**89 open roles.** 86 in the United States & Canada · 3 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**90 open roles.** 87 in the United States & Canada · 3 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0">ML Innovation for Products, PhD Research Intern</a></td>
+<td>Sunnyvale, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483410748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>

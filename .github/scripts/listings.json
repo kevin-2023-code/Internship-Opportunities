@@ -5,9 +5,520 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T05:05:24.388Z",
-  "count": 2043,
+  "listingsChangedAt": "2026-10-30T06:08:49.710Z",
+  "count": 2062,
   "listings": [
+    {
+      "id": "30984b02-c6a0-44b6-ba3d-88de0b261a10",
+      "company": "BioSpace",
+      "title": "2027 Summer Intern Genomics, Computational Biology & Translational Data Science",
+      "locations": [
+        "Tarrytown, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485297710/",
+      "url": "https://trueinterview.io/jobs/30984b02-c6a0-44b6-ba3d-88de0b261a10",
+      "postedAt": "2026-10-30T05:38:00.000Z",
+      "updatedAt": "2026-10-30T05:38:00.000Z"
+    },
+    {
+      "id": "81c8c8d2-5267-4e97-825e-a85a3825f3ed",
+      "company": "Affiliated Engineers, Inc.",
+      "title": "Technology Services Engineer Intern",
+      "locations": [
+        "Gainesville, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485295680/",
+      "url": "https://trueinterview.io/jobs/81c8c8d2-5267-4e97-825e-a85a3825f3ed",
+      "postedAt": "2026-10-30T05:34:00.000Z",
+      "updatedAt": "2026-10-30T05:34:00.000Z"
+    },
+    {
+      "id": "937bc227-e475-4304-af47-12018f68db29",
+      "company": "Affiliated Engineers, Inc.",
+      "title": "Electrical Engineer Intern",
+      "locations": [
+        "Tampa, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485293715/",
+      "url": "https://trueinterview.io/jobs/937bc227-e475-4304-af47-12018f68db29",
+      "postedAt": "2026-10-30T05:32:00.000Z",
+      "updatedAt": "2026-10-30T05:32:00.000Z"
+    },
+    {
+      "id": "cca2ed56-8578-45a0-9c4f-39c8d50600dd",
+      "company": "Northrop Grumman",
+      "title": "2027 Electrical Engineer Intern- Gilbert AZ",
+      "locations": [
+        "Gilbert, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485296676/",
+      "url": "https://trueinterview.io/jobs/cca2ed56-8578-45a0-9c4f-39c8d50600dd",
+      "postedAt": "2026-10-30T05:28:00.000Z",
+      "updatedAt": "2026-10-30T05:28:00.000Z"
+    },
+    {
+      "id": "740888e4-aa8b-4b43-9912-bf2725e726d3",
+      "company": "Northrop Grumman",
+      "title": "2027 Electrical Engineer Intern- Redondo Beach CA",
+      "locations": [
+        "Redondo Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485298582/",
+      "url": "https://trueinterview.io/jobs/740888e4-aa8b-4b43-9912-bf2725e726d3",
+      "postedAt": "2026-10-30T05:27:00.000Z",
+      "updatedAt": "2026-10-30T05:27:00.000Z"
+    },
+    {
+      "id": "8fc85e4a-850d-470f-a135-3defbc5a7d99",
+      "company": "Northrop Grumman",
+      "title": "2027 Structural Engineer Intern - Gilbert AZ",
+      "locations": [
+        "Gilbert, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485290773/",
+      "url": "https://trueinterview.io/jobs/8fc85e4a-850d-470f-a135-3defbc5a7d99",
+      "postedAt": "2026-10-30T05:26:00.000Z",
+      "updatedAt": "2026-10-30T05:26:00.000Z"
+    },
+    {
+      "id": "00aac071-21ba-4297-9217-162523bac5df",
+      "company": "General Atomics",
+      "title": "Intern - Engineer",
+      "locations": [
+        "Poway, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485284829/",
+      "url": "https://trueinterview.io/jobs/00aac071-21ba-4297-9217-162523bac5df",
+      "postedAt": "2026-10-30T05:23:00.000Z",
+      "updatedAt": "2026-10-30T05:23:00.000Z"
+    },
+    {
+      "id": "7148c953-9665-437e-bb02-42da7923d47c",
+      "company": "CapitaLand Investment (CLI)",
+      "title": "Intern, Digital & Technology (Data & AI) (UI/UX & Product Research)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485297057/",
+      "url": "https://trueinterview.io/jobs/7148c953-9665-437e-bb02-42da7923d47c",
+      "postedAt": "2026-10-30T05:15:00.000Z",
+      "updatedAt": "2026-10-30T05:15:00.000Z"
+    },
+    {
+      "id": "7c4e78e5-27de-4b4c-bb14-f7bf3b07856e",
+      "company": "Collins Aerospace",
+      "title": "Electrical Engineering for Manufacturing Co-Op (Summer/Fall 2027)",
+      "locations": [
+        "Bellevue, IA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485291549/",
+      "url": "https://trueinterview.io/jobs/7c4e78e5-27de-4b4c-bb14-f7bf3b07856e",
+      "postedAt": "2026-10-30T05:12:00.000Z",
+      "updatedAt": "2026-10-30T05:12:00.000Z"
+    },
+    {
+      "id": "cfc13e61-faef-4ebf-85bc-796dc65c85ac",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485286737/",
+      "url": "https://trueinterview.io/jobs/cfc13e61-faef-4ebf-85bc-796dc65c85ac",
+      "postedAt": "2026-10-30T05:10:00.000Z",
+      "updatedAt": "2026-10-30T05:10:00.000Z"
+    },
+    {
+      "id": "9297cf84-2b78-4aad-959d-976e8f9f7716",
+      "company": "GlobalFoundries",
+      "title": "Industrial Engineering Intern (Summer 2027)",
+      "locations": [
+        "Essex Junction, VT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481168054/",
+      "url": "https://trueinterview.io/jobs/9297cf84-2b78-4aad-959d-976e8f9f7716",
+      "postedAt": "2026-10-30T05:09:00.000Z",
+      "updatedAt": "2026-10-30T05:09:00.000Z"
+    },
+    {
+      "id": "03772de3-446b-48e4-9e05-934444bbea6a",
+      "company": "Raytheon",
+      "title": "Reliability Engineering Intern (Summer 2027)",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485295511/",
+      "url": "https://trueinterview.io/jobs/03772de3-446b-48e4-9e05-934444bbea6a",
+      "postedAt": "2026-10-30T05:08:00.000Z",
+      "updatedAt": "2026-10-30T05:08:00.000Z"
+    },
+    {
+      "id": "9ce059ba-5d75-446d-a000-e021d6e145e0",
+      "company": "Meta",
+      "title": "ML Innovation for Products, PhD Research Intern",
+      "locations": [
+        "Menlo Park, CA",
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483410748/",
+      "url": "https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0",
+      "postedAt": "2026-10-30T05:04:00.000Z",
+      "updatedAt": "2026-10-30T05:05:00.000Z"
+    },
+    {
+      "id": "61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7",
+      "company": "iNova Pharmaceuticals",
+      "title": "Quality Assurance Intern | Jan-June 2027",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484818174/",
+      "url": "https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7",
+      "postedAt": "2026-10-30T04:57:00.000Z",
+      "updatedAt": "2026-10-30T04:57:00.000Z"
+    },
+    {
+      "id": "1c3f5286-5b7a-4259-94b7-cb36030e6402",
+      "company": "Burns & McDonnell",
+      "title": "Engineering Intern - Transmission & Distribution (St. Louis)",
+      "locations": [
+        "St Louis, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484800832/",
+      "url": "https://trueinterview.io/jobs/1c3f5286-5b7a-4259-94b7-cb36030e6402",
+      "postedAt": "2026-10-30T04:56:57.000Z",
+      "updatedAt": "2026-10-30T04:56:57.000Z"
+    },
+    {
+      "id": "39b86ee9-57f8-4947-90fa-bd287136bda6",
+      "company": "Vontier",
+      "title": "Engineering Intern - Mechanical Engineering (Summer 2027)",
+      "locations": [
+        "Simsbury, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485297352/",
+      "url": "https://trueinterview.io/jobs/39b86ee9-57f8-4947-90fa-bd287136bda6",
+      "postedAt": "2026-10-30T04:54:00.000Z",
+      "updatedAt": "2026-10-30T04:54:00.000Z"
+    },
+    {
+      "id": "e25d9fd8-617d-4508-8bca-564bbde0b972",
+      "company": "Tetra Tech",
+      "title": "Transportation Engineer Intern",
+      "locations": [
+        "Doral, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485283768/",
+      "url": "https://trueinterview.io/jobs/e25d9fd8-617d-4508-8bca-564bbde0b972",
+      "postedAt": "2026-10-30T04:52:00.000Z",
+      "updatedAt": "2026-10-30T04:52:00.000Z"
+    },
+    {
+      "id": "4296b483-6ab9-482d-bd5c-1fe3beb125e8",
+      "company": "The Marvin Group",
+      "title": "INTERN (AI DEVELOPER)",
+      "locations": [
+        "Inglewood, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483405870/",
+      "url": "https://trueinterview.io/jobs/4296b483-6ab9-482d-bd5c-1fe3beb125e8",
+      "postedAt": "2026-10-30T04:51:00.000Z",
+      "updatedAt": "2026-10-30T04:51:00.000Z"
+    },
+    {
+      "id": "337be672-d244-4413-b6f5-81581909b2dc",
+      "company": "Hartzell Fan Inc",
+      "title": "Manufacturing Engineer CO-OP",
+      "locations": [
+        "Piqua, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485288498/",
+      "url": "https://trueinterview.io/jobs/337be672-d244-4413-b6f5-81581909b2dc",
+      "postedAt": "2026-10-30T04:47:00.000Z",
+      "updatedAt": "2026-10-30T04:47:00.000Z"
+    },
+    {
+      "id": "9f97896b-be34-4124-a95c-2860cfd22af3",
+      "company": "Crafton Tull",
+      "title": "Summer/Student Civil Engineer Intern",
+      "locations": [
+        "Fayetteville, AR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485285710/",
+      "url": "https://trueinterview.io/jobs/9f97896b-be34-4124-a95c-2860cfd22af3",
+      "postedAt": "2026-10-30T04:45:00.000Z",
+      "updatedAt": "2026-10-30T04:45:00.000Z"
+    },
     {
       "id": "7b86f257-a094-4ad1-8f4a-da90fdc0a328",
       "company": "Philo Homes",
@@ -11779,31 +12290,6 @@
       "url": "https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce",
       "postedAt": "2026-10-29T04:29:55.000Z",
       "updatedAt": "2026-10-29T04:29:55.000Z"
-    },
-    {
-      "id": "dc40b239-9a9b-4c3b-aab6-67741e105688",
-      "company": "Parker Hannifin",
-      "title": "Spring/Summer Engineering Intern",
-      "locations": [
-        "Mineral Wells, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484789561/",
-      "url": "https://trueinterview.io/jobs/dc40b239-9a9b-4c3b-aab6-67741e105688",
-      "postedAt": "2026-10-29T04:27:00.000Z",
-      "updatedAt": "2026-10-29T04:27:00.000Z"
     },
     {
       "id": "1776f4c8-8075-4ebe-b2b8-ffeffedcdad9",

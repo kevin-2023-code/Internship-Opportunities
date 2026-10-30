@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world.
+**21 open roles.** 17 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,6 +148,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>iNova Pharmaceuticals</strong></td>
+<td><a href="https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7">Quality Assurance Intern | Jan-June 2027</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484818174/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ASML</strong></td>
 <td><a href="https://trueinterview.io/jobs/8fa8dcff-7a3e-4168-b7d1-c6e05c44c433">Software Testing Intern</a></td>

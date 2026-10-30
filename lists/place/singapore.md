@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**63 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CapitaLand Investment (CLI)</strong></td>
+<td><a href="https://trueinterview.io/jobs/7148c953-9665-437e-bb02-42da7923d47c">Intern, Digital &amp; Technology (Data &amp; AI) (UI/UX &amp; Product Research)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297057/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>iNova Pharmaceuticals</strong></td>
+<td><a href="https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7">Quality Assurance Intern | Jan-June 2027</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484818174/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Baidu, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a21d648-dba1-4de1-8ad0-307c6a7f7eea">Product Manager Intern</a></td>

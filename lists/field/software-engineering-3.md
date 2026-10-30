@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**801 open roles.** 654 in the United States & Canada · 147 elsewhere in the world.
+**804 open roles.** 656 in the United States & Canada · 148 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Symphony Communication Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8">Intern, Software Developer</a></td>
+<td>Belfast</td>
+<td align="center"><a href="https://symphony.com/company/apply?gh_jid=8121112">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Oceanus Marine Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb76d489-3a82-49b9-86b3-28951e62fbd4">Software Engineering Intern</a></td>
+<td>Oceanus HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/630a07a6-4af4-4814-a52d-8fee47d4ae97">2027 Software Engineer Program - 12 Month Industrial Placement - Glasgow &amp; London</a></td>
+<td>LONDON, LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738">Apply</a></td>
+<td align="center">31 Aug 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dd7e0708-079a-4b83-a50f-ac4a9cee1cb6">2027 Software Engineer Program - Summer Internship - Dublin</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776172">Apply</a></td>

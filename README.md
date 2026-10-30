@@ -32,17 +32,17 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-30 05:05 UTC_
+_Last updated: 2026-10-30 06:08 UTC_
 
-**1,740 open internships** from **671 employers** · **835 posted in the last 7 days** · refreshed hourly
+**1,757 open internships** from **678 employers** · **852 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,740 internships by field
+### Browse 1,757 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (654)
+💻 **[Software Engineering](#-software-engineering)** (656)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (256)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (260)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (649)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (660)
 
 📱 **[Product & Design](#-product--design)** (110)
 
@@ -54,9 +54,9 @@ _Last updated: 2026-10-30 05:05 UTC_
 
 ### 🔥 Posting the most this week
 
-**Relativity Space** 20 &nbsp;·&nbsp; **Skyworks Solutions, Inc.** 20 &nbsp;·&nbsp; **Meta** 15 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Raytheon** 10 &nbsp;·&nbsp; **Brunswick Corporation** 8 &nbsp;·&nbsp; **Jacobs** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Siemens** 7 &nbsp;·&nbsp; **WSP in the U.S.** 7 &nbsp;·&nbsp; **Applied Materials** 6 &nbsp;·&nbsp; **BAE Systems, Inc.** 6
+**Relativity Space** 20 &nbsp;·&nbsp; **Skyworks Solutions, Inc.** 20 &nbsp;·&nbsp; **Meta** 16 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Raytheon** 11 &nbsp;·&nbsp; **Brunswick Corporation** 8 &nbsp;·&nbsp; **Jacobs** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Siemens** 7 &nbsp;·&nbsp; **WSP in the U.S.** 7 &nbsp;·&nbsp; **Applied Materials** 6 &nbsp;·&nbsp; **BAE Systems, Inc.** 6
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 150 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 154 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -64,13 +64,13 @@ _Last updated: 2026-10-30 05:05 UTC_
 
 _Counts are internships in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (532)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (270)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (164)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (103)](lists/company/large-tech.md) · [📱 Consumer internet & media (86)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (73)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (56)](lists/company/enterprise-saas.md) · [📐 Engineering & architecture firms (51)](lists/company/engineering-services.md) · [🛒 E-commerce & marketplaces (40)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (31)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (533)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (270)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (164)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (103)](lists/company/large-tech.md) · [📱 Consumer internet & media (87)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (73)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (56)](lists/company/enterprise-saas.md) · [📐 Engineering & architecture firms (51)](lists/company/engineering-services.md) · [🛒 E-commerce & marketplaces (40)](lists/company/ecommerce-marketplace.md) · [🏤 Mid-sized tech (200–999) (31)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (188)](lists/role/software-engineer.md) · [Hardware Engineer (130)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (54)](lists/role/machine-learning-engineer.md) · [AI Engineer (51)](lists/role/ai-engineer.md) · [Research Scientist (50)](lists/role/research-scientist.md) · [Data Scientist (49)](lists/role/data-scientist.md) · [Product Manager (43)](lists/role/product-manager.md) · [Security Engineer (39)](lists/role/security-engineer.md) · [Data Engineer (32)](lists/role/data-engineer.md) · [Data Analyst (31)](lists/role/data-analyst.md) · [+8 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (188)](lists/role/software-engineer.md) · [Hardware Engineer (130)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (56)](lists/role/machine-learning-engineer.md) · [AI Engineer (52)](lists/role/ai-engineer.md) · [Data Scientist (50)](lists/role/data-scientist.md) · [Research Scientist (50)](lists/role/research-scientist.md) · [Product Manager (43)](lists/role/product-manager.md) · [Security Engineer (39)](lists/role/security-engineer.md) · [Data Engineer (32)](lists/role/data-engineer.md) · [Data Analyst (31)](lists/role/data-analyst.md) · [+8 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (393)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (117)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (89)](lists/place/boston.md) · [🗽 New York City (83)](lists/place/new-york.md) · [🌧️ Portland, Boise & Spokane (78)](lists/place/pacific-northwest.md) · [🌲 Seattle & Puget Sound (76)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (75)](lists/place/dallas-fort-worth.md) · [🎸 Austin (66)](lists/place/austin.md) · [🏔️ Denver, Boulder & Colorado (41)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (38)](lists/place/phoenix.md) · [+13 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (395)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (118)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (89)](lists/place/boston.md) · [🗽 New York City (83)](lists/place/new-york.md) · [🌧️ Portland, Boise & Spokane (78)](lists/place/pacific-northwest.md) · [🌲 Seattle & Puget Sound (77)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (75)](lists/place/dallas-fort-worth.md) · [🎸 Austin (66)](lists/place/austin.md) · [🏔️ Denver, Boulder & Colorado (41)](lists/place/denver-boulder.md) · [🌵 Phoenix & Arizona (41)](lists/place/phoenix.md) · [+13 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (835)](lists/new-this-week.md) · [🌐 Remote (27)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (852)](lists/new-this-week.md) · [🌐 Remote (27)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -93,6 +93,27 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affiliated Engineers, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/81c8c8d2-5267-4e97-825e-a85a3825f3ed">Technology Services Engineer Intern</a> 🆕</td>
+<td>Gainesville, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295680/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>General Atomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/00aac071-21ba-4297-9217-162523bac5df">Intern - Engineer</a> 🆕</td>
+<td>Poway, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485284829/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e25d9fd8-617d-4508-8bca-564bbde0b972">Transportation Engineer Intern</a> 🆕</td>
+<td>Doral, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283768/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Beckman Coulter Diagnostics</strong></td>
 <td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a> 🆕</td>
@@ -245,27 +266,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/f386cbea-0893-484b-97a3-d7fb1cc95c01">Process Optimization Engineer I - Midstream Natural Gas &amp; NGL Services (Intern to Full-Time Conversion)</a> 🆕</td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485259470/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Lunar Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec076f05-37ac-492a-b5d4-21c36d37ef05">Hardware Test Engineering Intern</a> 🆕</td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245912/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Alamos Gold Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e12466e-4454-4c5b-af0c-9ed201fd2187">Open Pit Engineering Co-op (8 Months)</a> 🆕</td>
-<td>Dubreuilville, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485248418/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Bose Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8bce5c50-309b-4fbb-a2eb-955ed4a6ea53">Acoustic Systems Engineering Co-op</a> 🆕</td>
-<td>Bloomfield Hills, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244975/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 654.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 656.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -645,6 +645,34 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/30984b02-c6a0-44b6-ba3d-88de0b261a10">2027 Summer Intern Genomics, Computational Biology &amp; Translational Data Science</a> 🆕</td>
+<td>Tarrytown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297710/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc13e61-faef-4ebf-85bc-796dc65c85ac">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a> 🆕</td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485286737/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0">ML Innovation for Products, PhD Research Intern</a> 🆕</td>
+<td>Sunnyvale, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483410748/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>The Marvin Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4296b483-6ab9-482d-bd5c-1fe3beb125e8">INTERN (AI DEVELOPER)</a> 🆕</td>
+<td>Inglewood, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405870/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Philo Homes</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b86f257-a094-4ad1-8f4a-da90fdc0a328">Computer Vision Engineering Intern (Bilingual: English/Mandarin)</a> 🆕</td>
@@ -790,34 +818,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/91eb6e2b-c461-452c-a2b7-44d85c42cfff">Research Intern - Machine Learning and Optimization - Redmond</a> 🆕</td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484975613/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea435cf0-4e0d-47e3-9ac1-2f4d560f69c8">Research Intern, Knowledge Engineering &amp; Generative AI</a> 🆕</td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977446/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Sandhills Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecd738cd-9e1e-4ed2-a203-dd2e3c86704b">Data Scientist Intern - In Office, Scottsdale, AZ only</a> 🆕</td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447368270/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Commonwealth of Massachusetts</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc4ab13f-f45c-48c0-9926-207be117a126">HR Business Intelligence Co-op Spring 2027</a> 🆕</td>
-<td>Boston, Massachusetts, United States</td>
-<td align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL&amp;lang=en">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Apexanalytix</strong></td>
-<td><a href="https://trueinterview.io/jobs/e49adb3a-1544-42fe-be0c-642e7c68cfab">Data Analyst Intern (Summer 2027)</a> 🆕</td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465565542/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -1186,7 +1186,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 256.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 260.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1197,6 +1197,83 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Affiliated Engineers, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/937bc227-e475-4304-af47-12018f68db29">Electrical Engineer Intern</a> 🆕</td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485293715/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/cca2ed56-8578-45a0-9c4f-39c8d50600dd">2027 Electrical Engineer Intern- Gilbert AZ</a> 🆕</td>
+<td>Gilbert, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485296676/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/740888e4-aa8b-4b43-9912-bf2725e726d3">2027 Electrical Engineer Intern- Redondo Beach CA</a> 🆕</td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485298582/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fc85e4a-850d-470f-a135-3defbc5a7d99">2027 Structural Engineer Intern - Gilbert AZ</a> 🆕</td>
+<td>Gilbert, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485290773/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c4e78e5-27de-4b4c-bb14-f7bf3b07856e">Electrical Engineering for Manufacturing Co-Op (Summer/Fall 2027)</a> 🆕</td>
+<td>Bellevue, WA<br/>Bellevue, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485291549/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/9297cf84-2b78-4aad-959d-976e8f9f7716">Industrial Engineering Intern (Summer 2027)</a> 🆕</td>
+<td>Essex Junction, VT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481168054/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/03772de3-446b-48e4-9e05-934444bbea6a">Reliability Engineering Intern (Summer 2027)</a> 🆕</td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295511/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Burns &amp; McDonnell</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c3f5286-5b7a-4259-94b7-cb36030e6402">Engineering Intern - Transmission &amp; Distribution (St. Louis)</a> 🆕</td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484800832/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Vontier</strong></td>
+<td><a href="https://trueinterview.io/jobs/39b86ee9-57f8-4947-90fa-bd287136bda6">Engineering Intern - Mechanical Engineering (Summer 2027)</a> 🆕</td>
+<td>Simsbury, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297352/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Hartzell Fan Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/337be672-d244-4413-b6f5-81581909b2dc">Manufacturing Engineer CO-OP</a> 🆕</td>
+<td>Piqua, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485288498/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Crafton Tull</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f97896b-be34-4124-a95c-2860cfd22af3">Summer/Student Civil Engineer Intern</a> 🆕</td>
+<td>Fayetteville, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485285710/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Parker Hannifin</strong></td>
 <td><a href="https://trueinterview.io/jobs/44fc4bf6-5737-4514-8d3b-a6f6dfddd731">Quality Engineering Intern</a> 🆕</td>
@@ -1293,83 +1370,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/6e899555-8520-411c-80fc-1171c96b3d51">Mechanical Engineering Co-Op</a> 🆕</td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484593021/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>RBC Bearings</strong></td>
-<td><a href="https://trueinterview.io/jobs/6515a847-c7de-4393-ae74-17983a66ae51">Manufacturing Engineer Co-op</a> 🆕</td>
-<td>Westminster, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485255928/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Hatch</strong></td>
-<td><a href="https://trueinterview.io/jobs/1419c01b-8590-4175-a36d-6ac69e70aa23">Civil Engineering Intern</a> 🆕</td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484802076/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Systems Planning &amp; Analysis</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1d05198-cbb4-4b32-a3f2-d4e50141de29">Systems Engineering Intern (Summer 2027)</a> 🆕</td>
-<td>Alexandria, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485276180/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/50182b88-9609-4a0d-8819-ab6527a970f1">Internship, Electromechanical Product Design Engineer, Optimus (Winter/Spring 2027)</a> 🆕</td>
-<td>Langley, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485274334/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/93864c81-e569-4e22-8e7e-e0f9d12aa6ec">Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)</a> 🆕</td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485264552/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>E2 Consulting Engineers, LP</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf286d4b-87e8-4024-9845-d06c35e2de30">Substation Design Engineer Intern –Part Time</a> 🆕</td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485268314/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>HPE Aruba Networking</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4303432-9367-4adb-b8d1-1305f27c8530">ASIC Verification Engineering Intern</a> 🆕</td>
-<td>Roseville, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485260369/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Simpson Gumpertz &amp; Heger (SGH)</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b11ed64-bea8-4958-ae68-5133679e630a">Technical Intern, Structural Engineering Summer 2027</a> 🆕</td>
-<td>Oakland, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485253764/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Symbotic</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3292fea-aaaf-4741-beb1-11029301fa1b">Co-Op- Service Readiness Engineer</a> 🆕</td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-Op--Service-Readiness-Engineer_R8374">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>Collins Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d43c0a0-52e2-468c-b258-4e5adfae5781">Manufacturing Engineering Co-op (Summer/Fall 2027)</a> 🆕</td>
-<td>Haltom City, TX<br/>Louisville, KY<br/>Santa Fe Springs, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250650/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>GlobalFoundries</strong></td>
-<td><a href="https://trueinterview.io/jobs/714594cc-f244-42ff-ac50-2d4dd037f4f1">Systems/Process Engineering, Tapeout Operations Intern (Summer 2027)</a> 🆕</td>
-<td>Essex Junction, VT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481147952/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -1738,7 +1738,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 649.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 660.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1859,7 +1859,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5">Summer 2027 Associate Technical Product Manager Internship</a> 🆕</td>
 <td>Frisco, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484912259/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Consumers Energy</strong></td>

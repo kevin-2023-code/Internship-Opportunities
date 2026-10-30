@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,056 open roles.** 835 in the United States & Canada · 221 elsewhere in the world. Everything the employers put up this week.
+**1,075 open roles.** 852 in the United States & Canada · 223 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,125 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/bac55478-ed6d-4354-b736-e7d3d57f0f82">Software Test Engineer Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://careers-gdms.icims.com/jobs/75729/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cfdf238-7df4-4bb6-a557-0d27059ac702">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jpmorganchase.contacthr.com/154034298">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/0df05b5e-0c8b-4a45-8cf7-2f0212c01d25">Co-op, Mechatronics Engineer</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://grnh.se/sbx5ejds9us">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mercedes-Benz Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/eae7eacb-76a4-4cd3-9364-e526902dec8f">Product Management Intern</a></td>
+<td>Mississauga, Canada</td>
+<td align="center"><a href="https://jobs.mercedes-benz.com/product-management-intern-243987-MER00049WH">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/3750c7b7-fb5a-487c-b954-8b773e8a0c24">2027 Software Engineer Intern - Azusa CA</a></td>
+<td>Azusa, CA</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340074998859?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/61176f88-307c-4411-ac82-7979fca603a0">Systems Engineering Co-op</a></td>
+<td>Woburn, MA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01884039">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>United Concordia Dental</strong></td>
+<td><a href="https://trueinterview.io/jobs/9aa9a95b-7095-4540-99e1-2af30e87e4db">Summer 2027 Enterprise Architecture Software Engineer &amp; Architect enGen Undergradute Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3c476d9f-9444-46c5-b988-b74352585863">Summer 2027 Provider Delivery Software Engineer enGen Undergraduate Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9282f783-4fb7-420a-9979-d6e0004179af">Summer 2027 Software Engineer enGen Graduate Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f298b6e5-96d2-459b-b4ab-74652062cc4b">Summer 2027 Software Engineer enGen Undergraduate Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Walt Disney Animation Studios Vancouver</strong></td>
+<td><a href="https://trueinterview.io/jobs/4aca6322-d7d9-4fc6-b54d-a2c0e49888d3">Software Engineer Intern, Pipeline Infrastructure</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://join.disneycareers.com/global/en/job/TWNTWDUS10163949EXTERNALENGLOBAL/Software-Engineer-Intern-Pipeline-Infrastructure">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/599dbfc7-05ac-4080-8a84-29df83d0a33a">Tech Ops Engineer Intern, 2027 Tech Ops Intern</a></td>
+<td>San Diego, California, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c88fd33-5cb2-4f4e-a955-8be79171ed66">Spring/Summer 2027 Undergrad Technical Writer Co-Op</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91082?lang=en-us">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/620afe0e-538d-4b54-9f78-7354fa00e9dd">DevOps Co-Op</a></td>
+<td>US, MA, Boston, United States of America</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cf2e828-e70c-4019-9189-736000a7aeae">2027 Summer Electrical Engineering Intern - BS or MS (Gloucester, MA)</a></td>
+<td>Gloucester, MA, US</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318930657">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae34e8e0-d3d2-4770-8c09-79ebda8b7353">Signal and Power Integrity Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/98beca1a-c87a-4c9c-a4ca-f7d95a684a45">UWB Radar Signal Processing &amp; Algorithms Intern - Summer 2027</a></td>
+<td>Irvine, United States of America</td>
+<td align="center"><a href="https://nxp.wd3.myworkdayjobs.com/careers/job/Irvine/UWB-Radar-Signal-Processing---Algorithms-Intern---Summer-2027_R-10065402">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/de1ebd89-5535-46aa-9d20-6c2ebbbbca50">Autonomy Engineer Intern, 2027</a></td>
@@ -272,6 +391,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CapitaLand Investment (CLI)</strong></td>
+<td><a href="https://trueinterview.io/jobs/7148c953-9665-437e-bb02-42da7923d47c">Intern, Digital &amp; Technology (Data &amp; AI) (UI/UX &amp; Product Research)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485297057/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>iNova Pharmaceuticals</strong></td>
+<td><a href="https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7">Quality Assurance Intern | Jan-June 2027</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484818174/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/4cea20cc-af1d-4820-aaa2-d96b86afbd6c">Intern - Swift Runtimes Engineer</a></td>
