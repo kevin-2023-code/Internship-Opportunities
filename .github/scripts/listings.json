@@ -5,9 +5,86 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T03:06:16.810Z",
-  "count": 2018,
+  "listingsChangedAt": "2026-10-30T04:06:09.690Z",
+  "count": 2025,
   "listings": [
+    {
+      "id": "e3f11b32-a05e-4644-b075-c6b357d56bb2",
+      "company": "Feather Robotics",
+      "title": "Mechanical Design Engineer Intern",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484592864/",
+      "url": "https://trueinterview.io/jobs/e3f11b32-a05e-4644-b075-c6b357d56bb2",
+      "postedAt": "2026-10-30T03:30:00.000Z",
+      "updatedAt": "2026-10-30T03:30:00.000Z"
+    },
+    {
+      "id": "7bfdec1e-0bd7-4852-bdd8-b449788b9519",
+      "company": "NSTAR, now Eversource Energy- Follow our new company page, Eversource Energy",
+      "title": "Engineering Intern: Distribution System Modeling and Automation (MA/CT/NH, Hybrid Schedule)",
+      "locations": [
+        "Westwood, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483097933/",
+      "url": "https://trueinterview.io/jobs/7bfdec1e-0bd7-4852-bdd8-b449788b9519",
+      "postedAt": "2026-10-30T03:23:00.000Z",
+      "updatedAt": "2026-10-30T03:23:00.000Z"
+    },
+    {
+      "id": "6a21d648-dba1-4de1-8ad0-307c6a7f7eea",
+      "company": "Baidu, Inc.",
+      "title": "Product Manager Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484812202/",
+      "url": "https://trueinterview.io/jobs/6a21d648-dba1-4de1-8ad0-307c6a7f7eea",
+      "postedAt": "2026-10-30T02:33:00.000Z",
+      "updatedAt": "2026-10-30T02:33:00.000Z"
+    },
     {
       "id": "021ba770-9859-48cb-8da2-1b394ea0ce81",
       "company": "What's The Move",
@@ -485,6 +562,34 @@
       "url": "https://trueinterview.io/jobs/3a56b46e-08d0-4198-a7a2-dc3aa049f741",
       "postedAt": "2026-10-30T00:41:00.000Z",
       "updatedAt": "2026-10-30T00:41:00.000Z"
+    },
+    {
+      "id": "d44cbac7-979c-4a8a-af56-8aac501c17b0",
+      "company": "Join Our Talent Community",
+      "title": "2027 US Software Engineering Internship (Dedrone)",
+      "locations": [
+        "Sterling, Virginia, United States",
+        "Seattle, Washington, United States"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
+      "url": "https://trueinterview.io/jobs/d44cbac7-979c-4a8a-af56-8aac501c17b0",
+      "postedAt": "2026-10-30T00:39:54.000Z",
+      "updatedAt": "2026-10-30T00:39:54.000Z"
     },
     {
       "id": "e32da889-0e91-4cfe-bfc4-52efd8f854f3",
@@ -10854,6 +10959,33 @@
       "updatedAt": "2026-10-29T05:21:00.000Z"
     },
     {
+      "id": "668e96cb-e203-4d78-b34b-f9ea93359075",
+      "company": "BMO Financial Group",
+      "title": "BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
+      "url": "https://trueinterview.io/jobs/668e96cb-e203-4d78-b34b-f9ea93359075",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "05b2c03e-4816-4628-b0ed-615a46e23efc",
       "company": "Great American Insurance Group",
       "title": "Content Publishing Developer Intern - Summer 2027",
@@ -11033,6 +11165,29 @@
       "source": "indeed",
       "applyUrl": "https://app.eightfold.ai/careers/job/446721858024?domain=qualcomm.com",
       "url": "https://trueinterview.io/jobs/8011d6d1-9287-4c48-9bb2-33e9ab5579aa",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "327138e6-000b-43a7-9043-22f41771826a",
+      "company": "Reonic GmbH",
+      "title": "AI Product Manager Intern - (AI x Greentech) (m/f/d)",
+      "locations": [
+        "Augsburg, Deutschland"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c",
+      "url": "https://trueinterview.io/jobs/327138e6-000b-43a7-9043-22f41771826a",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -12082,6 +12237,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4483716555/",
       "url": "https://trueinterview.io/jobs/2fceaded-ca67-4b46-bb85-bc03cb0aafd6",
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "id": "934376ac-a7cc-41cc-a9a7-50eeae1d08ec",
+      "company": "CACI",
+      "title": "Software Engineering Co-op/Intern - Spring 2027",
+      "locations": [
+        "Rochester, New York, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-spring-2027-rochester-ny-us",
+      "url": "https://trueinterview.io/jobs/934376ac-a7cc-41cc-a9a7-50eeae1d08ec",
       "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T00:00:00.000Z"
     },
@@ -25103,6 +25283,31 @@
       "source": "indeed",
       "applyUrl": "https://grnh.se/sbx5ejds9us",
       "url": "https://trueinterview.io/jobs/0df05b5e-0c8b-4a45-8cf7-2f0212c01d25",
+      "postedAt": "2026-10-26T05:00:00.000Z",
+      "updatedAt": "2026-10-26T05:00:00.000Z"
+    },
+    {
+      "id": "eae7eacb-76a4-4cd3-9364-e526902dec8f",
+      "company": "Mercedes-Benz Group",
+      "title": "Product Management Intern",
+      "locations": [
+        "Mississauga, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.mercedes-benz.com/product-management-intern-243987-MER00049WH",
+      "url": "https://trueinterview.io/jobs/eae7eacb-76a4-4cd3-9364-e526902dec8f",
       "postedAt": "2026-10-26T05:00:00.000Z",
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
@@ -52590,31 +52795,6 @@
       "url": "https://trueinterview.io/jobs/c73b7488-4e9d-46a6-adb1-c6a1153d0db7",
       "postedAt": "2026-08-31T18:03:16.000Z",
       "updatedAt": "2026-08-31T18:03:16.000Z"
-    },
-    {
-      "id": "40c1ad56-150a-44b9-bada-8d0543a43c6a",
-      "company": "Samsara",
-      "title": "Electrical Engineering Co-Op",
-      "locations": [
-        "San Francisco - SF9"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.samsara.com/company/careers/roles/8163118?gh_jid=8163118",
-      "url": "https://trueinterview.io/jobs/40c1ad56-150a-44b9-bada-8d0543a43c6a",
-      "postedAt": "2026-08-31T04:24:42.000Z",
-      "updatedAt": "2026-08-31T04:24:42.000Z"
     }
   ]
 }
