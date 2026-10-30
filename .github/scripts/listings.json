@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T22:04:19.037Z",
-  "count": 2160,
+  "listingsChangedAt": "2026-10-30T23:04:01.062Z",
+  "count": 2152,
   "listings": [
+    {
+      "id": "b572b229-80ec-4964-b230-923e42037261",
+      "company": "Nokia",
+      "title": "Software Engineer Co-op",
+      "locations": [
+        "New Providence, New Jersey, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339",
+      "url": "https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261",
+      "postedAt": "2026-10-30T20:24:21.000Z",
+      "updatedAt": "2026-10-30T20:24:21.000Z"
+    },
+    {
+      "id": "7f453cec-9b6e-4c3a-b980-2f5b92b96418",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+      "locations": [
+        "Mountain View, California, United States"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
+      "url": "https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418",
+      "postedAt": "2026-10-30T20:19:59.000Z",
+      "updatedAt": "2026-10-30T20:19:59.000Z"
+    },
     {
       "id": "7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
       "company": "Nintendo",
@@ -30221,33 +30273,6 @@
       "updatedAt": "2026-10-24T00:00:00.000Z"
     },
     {
-      "id": "a27e9d88-7c78-47bc-aa4f-2407ccc2eb42",
-      "company": "waymo",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
-      "locations": [
-        "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
-      "url": "https://trueinterview.io/jobs/a27e9d88-7c78-47bc-aa4f-2407ccc2eb42",
-      "postedAt": "2026-10-24T00:00:00.000Z",
-      "updatedAt": "2026-10-24T00:00:00.000Z"
-    },
-    {
       "id": "ec6a2248-d808-481e-bf8e-f2edc9f3e65c",
       "company": "MongoDB",
       "title": "2027 - Software Engineering Intern, AMER",
@@ -55936,247 +55961,6 @@
       "url": "https://trueinterview.io/jobs/12ec5ae4-f8f1-41c2-92e4-fc55088bc01b",
       "postedAt": "2026-08-31T23:31:55.000Z",
       "updatedAt": "2026-08-31T23:31:55.000Z"
-    },
-    {
-      "id": "92816d9b-251f-4a03-bf4c-e869ca43e894",
-      "company": "JPMorgan Chase",
-      "title": "2027 Asset Management - Risk Summer Internship Program - London",
-      "locations": [
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894",
-      "url": "https://trueinterview.io/jobs/92816d9b-251f-4a03-bf4c-e869ca43e894",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "c830b96a-09c3-404c-89a1-2a029720e114",
-      "company": "JPMorgan Chase",
-      "title": "2027 Commercial & Investment Banking - Global Markets - Summer Internship - Frankfurt",
-      "locations": [
-        "Frankfurt a. Main, Germany"
-      ],
-      "cities": [],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786047",
-      "url": "https://trueinterview.io/jobs/c830b96a-09c3-404c-89a1-2a029720e114",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "118a0204-b511-4ef7-91de-39b825be1e1d",
-      "company": "JPMorgan Chase",
-      "title": "2027 Commercial & Investment Banking - Global Markets - Summer Internship - London",
-      "locations": [
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517",
-      "url": "https://trueinterview.io/jobs/118a0204-b511-4ef7-91de-39b825be1e1d",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "eff3ddb3-f2fb-480d-b9b7-8360b8aef269",
-      "company": "JPMorgan Chase",
-      "title": "2027 Commercial & Investment Banking - Global Markets - Summer Internship - Paris",
-      "locations": [
-        "Paris, Paris, France"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Trader",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780497",
-      "url": "https://trueinterview.io/jobs/eff3ddb3-f2fb-480d-b9b7-8360b8aef269",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "ceed77bd-fd8e-4d80-87b6-3a6aecb64b4b",
-      "company": "JPMorgan Chase",
-      "title": "2027 Data & AI - Summer Internship -  Glasgow & London",
-      "locations": [
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745",
-      "url": "https://trueinterview.io/jobs/ceed77bd-fd8e-4d80-87b6-3a6aecb64b4b",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "6efd5e0e-9584-437e-bb6e-43157f1866b3",
-      "company": "JPMorgan Chase",
-      "title": "2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London",
-      "locations": [
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342",
-      "url": "https://trueinterview.io/jobs/6efd5e0e-9584-437e-bb6e-43157f1866b3",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "c3b4dd4f-5c0f-441b-83cc-f025f975634c",
-      "company": "JPMorgan Chase",
-      "title": "2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London",
-      "locations": [
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780",
-      "url": "https://trueinterview.io/jobs/c3b4dd4f-5c0f-441b-83cc-f025f975634c",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "630a07a6-4af4-4814-a52d-8fee47d4ae97",
-      "company": "JPMorgan Chase",
-      "title": "2027 Software Engineer Program - 12 Month Industrial Placement - Glasgow & London",
-      "locations": [
-        "LONDON, LONDON, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774738",
-      "url": "https://trueinterview.io/jobs/630a07a6-4af4-4814-a52d-8fee47d4ae97",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "dd7e0708-079a-4b83-a50f-ac4a9cee1cb6",
-      "company": "JPMorgan Chase",
-      "title": "2027 Software Engineer Program - Summer Internship - Dublin",
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "cities": [
-        "Dublin"
-      ],
-      "countries": [
-        "Ireland"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776172",
-      "url": "https://trueinterview.io/jobs/dd7e0708-079a-4b83-a50f-ac4a9cee1cb6",
-      "postedAt": "2026-08-31T23:00:00.000Z",
-      "updatedAt": "2026-08-31T23:00:00.000Z"
     }
   ]
 }
