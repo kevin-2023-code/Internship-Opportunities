@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T21:03:59.278Z",
-  "count": 2163,
+  "listingsChangedAt": "2026-10-30T22:04:19.037Z",
+  "count": 2160,
   "listings": [
+    {
+      "id": "7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
+      "company": "Nintendo",
+      "title": "Intern - Software Engineer, Graphics (NTD)",
+      "locations": [
+        "Redmond, Washington, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.nintendo.com/?gh_jid=4473550009",
+      "url": "https://trueinterview.io/jobs/7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
+      "postedAt": "2026-10-30T19:15:02.000Z",
+      "updatedAt": "2026-10-30T19:15:02.000Z"
+    },
     {
       "id": "10d4a23e-4e3e-4441-bc83-bf4df32cd3ec",
       "company": "SAP IT Business Systeme",
@@ -4933,32 +4958,6 @@
       "updatedAt": "2026-10-30T00:16:00.000Z"
     },
     {
-      "id": "cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, Connectivity (NTD)",
-      "locations": [
-        "Redmond, Washington, United States",
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://careers.nintendo.com/?gh_jid=4472147009",
-      "url": "https://trueinterview.io/jobs/cd1f40bd-f8b9-4e37-8ed5-de9a6f3bb6da",
-      "postedAt": "2026-10-29T18:20:04.000Z",
-      "updatedAt": "2026-10-30T00:16:00.000Z"
-    },
-    {
       "id": "b4303432-9367-4adb-b8d1-1305f27c8530",
       "company": "HPE Aruba Networking",
       "title": "ASIC Verification Engineering Intern",
@@ -5058,6 +5057,89 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4466639886/",
       "url": "https://trueinterview.io/jobs/5eb55ddd-6b2c-45c0-adaf-ad094e4e2e1e",
       "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "cc456c56-839b-42ad-91f6-b0b25ae44f3d",
+      "company": "Cigna Healthcare",
+      "title": "The Cigna Group's Technology Development Program - Data & Analytics Engineering Track Summer Internship",
+      "locations": [
+        "Bloomfield, Connecticut, United States",
+        "St. Louis, Missouri, United States",
+        "Morris Plains, New Jersey, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533",
+      "url": "https://trueinterview.io/jobs/cc456c56-839b-42ad-91f6-b0b25ae44f3d",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "99e77716-8abe-4c5f-b514-10b67ca98653",
+      "company": "Dow Jones",
+      "title": "Summer 2027 Internship Program – Data Analyst Intern",
+      "locations": [
+        "New York, NY",
+        "New York, New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55894",
+      "url": "https://trueinterview.io/jobs/99e77716-8abe-4c5f-b514-10b67ca98653",
+      "postedAt": "2026-10-29T12:28:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "7473a506-d7e5-4dde-b040-3a7740d03e6a",
+      "company": "Dow Jones",
+      "title": "Summer 2027 Internship Program – Software Engineering Intern",
+      "locations": [
+        "New York, NY",
+        "New York, New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892",
+      "url": "https://trueinterview.io/jobs/7473a506-d7e5-4dde-b040-3a7740d03e6a",
+      "postedAt": "2026-10-29T10:58:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
     {
@@ -11392,33 +11474,6 @@
       "updatedAt": "2026-10-29T12:28:00.000Z"
     },
     {
-      "id": "99e77716-8abe-4c5f-b514-10b67ca98653",
-      "company": "Dow Jones",
-      "title": "Summer 2027 Internship Program – Data Analyst Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476944118/",
-      "url": "https://trueinterview.io/jobs/99e77716-8abe-4c5f-b514-10b67ca98653",
-      "postedAt": "2026-10-29T12:28:00.000Z",
-      "updatedAt": "2026-10-29T12:28:00.000Z"
-    },
-    {
       "id": "6f506375-902c-4f52-890c-c15ce28ae683",
       "company": "Siemens",
       "title": "SCADA & IT/OT Engineering Intern",
@@ -12141,33 +12196,6 @@
       "url": "https://trueinterview.io/jobs/3f6f7706-b5b6-4450-98f4-78a3032cd61e",
       "postedAt": "2026-10-29T10:59:00.000Z",
       "updatedAt": "2026-10-29T10:59:00.000Z"
-    },
-    {
-      "id": "7473a506-d7e5-4dde-b040-3a7740d03e6a",
-      "company": "Dow Jones",
-      "title": "Summer 2027 Internship Program – Software Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476929749/",
-      "url": "https://trueinterview.io/jobs/7473a506-d7e5-4dde-b040-3a7740d03e6a",
-      "postedAt": "2026-10-29T10:58:00.000Z",
-      "updatedAt": "2026-10-29T10:58:00.000Z"
     },
     {
       "id": "c33cb035-1d56-458d-91a4-a5a650ba9779",
@@ -56149,119 +56177,6 @@
       "url": "https://trueinterview.io/jobs/dd7e0708-079a-4b83-a50f-ac4a9cee1cb6",
       "postedAt": "2026-08-31T23:00:00.000Z",
       "updatedAt": "2026-08-31T23:00:00.000Z"
-    },
-    {
-      "id": "affb8655-ef42-4d11-b5ef-a03b73dfc712",
-      "company": "Sierra",
-      "title": "Intern, Agent Development (Summer 2027)",
-      "locations": [
-        "San Francisco, CA",
-        "New York, NY"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e/application",
-      "url": "https://trueinterview.io/jobs/affb8655-ef42-4d11-b5ef-a03b73dfc712",
-      "postedAt": "2026-08-31T21:42:19.000Z",
-      "updatedAt": "2026-08-31T21:42:19.000Z"
-    },
-    {
-      "id": "5424d898-6bfd-48cb-9784-23be5f2527d8",
-      "company": "Isn Software Corporation",
-      "title": "Software Developer Internship - Fall 2026",
-      "locations": [
-        "Dallas, Texas, United States",
-        "Dallas"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://isnetworld.com/en/about/careers/jobs?gh_jid=6176204004",
-      "url": "https://trueinterview.io/jobs/5424d898-6bfd-48cb-9784-23be5f2527d8",
-      "postedAt": "2026-08-31T21:28:26.000Z",
-      "updatedAt": "2026-08-31T21:28:26.000Z"
-    },
-    {
-      "id": "214cf066-56e3-4286-a487-b8b863a9604f",
-      "company": "Olsson",
-      "title": "Electrical Engineering Internship - Data Center Facilities",
-      "locations": [
-        "Fort Worth, TX",
-        "North Kansas City, MO",
-        "Omaha, NE",
-        "Fort Worth",
-        "North Kansas City",
-        "Omaha"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5395994008",
-      "url": "https://trueinterview.io/jobs/214cf066-56e3-4286-a487-b8b863a9604f",
-      "postedAt": "2026-08-31T21:15:00.000Z",
-      "updatedAt": "2026-08-31T21:15:00.000Z"
-    },
-    {
-      "id": "c33f3f75-2923-425b-9de7-fb6f49f8cc43",
-      "company": "Olsson",
-      "title": "Electrical Engineering Internship - Substation and Power Generation",
-      "locations": [
-        "Lincoln, NE",
-        "Omaha, NE",
-        "Lincoln",
-        "Omaha"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/olsson/jobs/5410973008",
-      "url": "https://trueinterview.io/jobs/c33f3f75-2923-425b-9de7-fb6f49f8cc43",
-      "postedAt": "2026-08-31T21:14:52.000Z",
-      "updatedAt": "2026-08-31T21:14:52.000Z"
     }
   ]
 }
