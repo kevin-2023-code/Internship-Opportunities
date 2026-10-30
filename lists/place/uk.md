@@ -83,7 +83,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4cea20cc-af1d-4820-aaa2-d96b86afbd6c">Intern - Swift Runtimes Engineer</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692438">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>

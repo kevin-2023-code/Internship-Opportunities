@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**88 open roles.**
+**89 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RSM US LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/857e7549-b049-4ca1-861b-e8f774d77283">Managed IT Services Service Desk Consulting Intern - Winter 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484802637/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SharkNinja France</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f2250d0-8270-4a31-aa37-4827b2ebaa8b">SPRING 2027: MECHANICAL ENGINEERING CO-OP, NINJA (JANUARY TO JUNE)</a></td>
