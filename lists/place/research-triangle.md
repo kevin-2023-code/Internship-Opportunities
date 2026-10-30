@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**37 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,6 +134,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ea2b452a-b0bf-4d3d-bd91-391314b884b4">Value Engineering Intern (Spring Semester 2027)</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476381816/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Corning</strong></td>
+<td><a href="https://trueinterview.io/jobs/553ba846-731c-445d-a9d7-3ff946021813">Packaging Engineer 6-month Co-Op</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://careers.corning.com/us/en/job/78521">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

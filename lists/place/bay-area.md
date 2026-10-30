@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**399 open roles.**
+**400 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -232,6 +232,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df">Software Engineer Intern</a></td>
 <td>Milpitas, California, United States</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skyworks Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/39733b46-c5e3-4cb8-a672-fd1579825f76">Product Engineering Summer/Fall Co-Op (June-Dec '27)</a></td>
+<td>San Jose, CA<br/>Thousand Oaks, CA<br/>Newbury Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484736624/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
