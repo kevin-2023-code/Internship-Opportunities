@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T07:04:03.002Z",
-  "count": 2172,
+  "listingsChangedAt": "2026-10-31T08:05:51.704Z",
+  "count": 2168,
   "listings": [
     {
       "id": "166b4355-6dbd-428c-942f-0a56face66fb",
@@ -29758,6 +29758,32 @@
       "updatedAt": "2026-10-27T00:00:00.000Z"
     },
     {
+      "id": "ab116cfb-9aa7-486e-80ba-3bee6c23af69",
+      "company": "RTX",
+      "title": "Part time Software Engineer Co-op (Remote)",
+      "locations": [
+        "Aurora, Colorado, United States",
+        "Richardson, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452",
+      "url": "https://trueinterview.io/jobs/ab116cfb-9aa7-486e-80ba-3bee6c23af69",
+      "postedAt": "2026-10-27T00:00:00.000Z",
+      "updatedAt": "2026-10-27T00:00:00.000Z"
+    },
+    {
       "id": "64c91c29-619a-456f-aeea-693c3178a09b",
       "company": "saviynt",
       "title": "Research Scientist Intern - PhD",
@@ -30536,6 +30562,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.amd.com/careers-home/jobs/91082?lang=en-us",
       "url": "https://trueinterview.io/jobs/5c88fd33-5cb2-4f4e-a955-8be79171ed66",
+      "postedAt": "2026-10-26T00:00:00.000Z",
+      "updatedAt": "2026-10-26T00:00:00.000Z"
+    },
+    {
+      "id": "3df659fb-110a-4bc1-a688-e025ccd7398e",
+      "company": "American Family Insurance",
+      "title": "Summer 2027 Intern - Data Engineering",
+      "locations": [
+        "Madison, Wisconsin, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674",
+      "url": "https://trueinterview.io/jobs/3df659fb-110a-4bc1-a688-e025ccd7398e",
       "postedAt": "2026-10-26T00:00:00.000Z",
       "updatedAt": "2026-10-26T00:00:00.000Z"
     },
@@ -33218,31 +33269,6 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
-      "id": "cdc54a35-14fa-430d-beb9-1edaec80491f",
-      "company": "insomniac-games",
-      "title": "Accessibility Intern- Masters or PhD",
-      "locations": [
-        "United States, Burbank, CA, USA-CA-Burbank"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6227618004",
-      "url": "https://trueinterview.io/jobs/cdc54a35-14fa-430d-beb9-1edaec80491f",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
       "id": "67e54196-0259-47a3-9aa3-d9bde4acfb16",
       "company": "insomniac-games",
       "title": "Animation Intern (Gameplay)- Undergraduate",
@@ -33389,31 +33415,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6221850004",
       "url": "https://trueinterview.io/jobs/1816d397-7764-4858-99a3-feafeb6c93ba",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "d6e885d4-33c2-423a-a832-f720cf65025d",
-      "company": "insomniac-games",
-      "title": "Game Design Intern-Undergraduate",
-      "locations": [
-        "United States, Burbank, CA, USA-CA-Burbank"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6226630004",
-      "url": "https://trueinterview.io/jobs/d6e885d4-33c2-423a-a832-f720cf65025d",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -36396,33 +36397,6 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
-      "id": "39546a61-97c7-40ed-92bd-6b49f6b311be",
-      "company": "wing",
-      "title": "Machine Learning Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872479002?gh_jid=8872479002",
-      "url": "https://trueinterview.io/jobs/39546a61-97c7-40ed-92bd-6b49f6b311be",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
       "id": "986c4f87-6a3f-400e-85f9-82a58d933254",
       "company": "wing",
       "title": "Manufacturing Engineering Intern, Summer 2027",
@@ -36500,33 +36474,6 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872579002?gh_jid=8872579002",
       "url": "https://trueinterview.io/jobs/31ebf6ea-4cc1-4d07-9d98-4424d7a80c75",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "49c1360a-0cd4-4285-8ef5-94267b69517e",
-      "company": "wing",
-      "title": "Motion Planning Software Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872472002?gh_jid=8872472002",
-      "url": "https://trueinterview.io/jobs/49c1360a-0cd4-4285-8ef5-94267b69517e",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -38809,57 +38756,6 @@
       "url": "https://trueinterview.io/jobs/99c83e51-1c61-484d-a72b-22ec4d80ebf7",
       "postedAt": "2026-10-08T19:03:24.000Z",
       "updatedAt": "2026-10-08T19:03:24.000Z"
-    },
-    {
-      "id": "727089aa-cb1c-46aa-a668-22049f94d6ed",
-      "company": "Asm",
-      "title": "[2027 Summer Internship] Phoenix",
-      "locations": [
-        "US > Arizona > Phoenix"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.asm.com/open-vacancies/?gh_jid=5001135101",
-      "url": "https://trueinterview.io/jobs/727089aa-cb1c-46aa-a668-22049f94d6ed",
-      "postedAt": "2026-10-08T18:52:26.000Z",
-      "updatedAt": "2026-10-08T18:52:26.000Z"
-    },
-    {
-      "id": "732c7b20-22f6-4eba-8850-57f3ff3857ca",
-      "company": "Dlr Group",
-      "title": "High School Design Intern",
-      "locations": [
-        "Houston, Texas, United States",
-        "Houston"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441952008",
-      "url": "https://trueinterview.io/jobs/732c7b20-22f6-4eba-8850-57f3ff3857ca",
-      "postedAt": "2026-10-08T17:52:02.000Z",
-      "updatedAt": "2026-10-08T17:52:02.000Z"
     },
     {
       "id": "76921fe8-a713-4d63-9bd9-54a4cd65ac20",
