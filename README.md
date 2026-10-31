@@ -32,13 +32,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-31 03:05 UTC_
+_Last updated: 2026-10-31 04:04 UTC_
 
-**1,828 open internships** from **733 employers** · **934 posted in the last 7 days** · refreshed hourly
+**1,829 open internships** from **733 employers** · **935 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,828 internships by field
+### Browse 1,829 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (715)
+💻 **[Software Engineering](#-software-engineering)** (716)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (266)
 
@@ -54,7 +54,7 @@ _Last updated: 2026-10-31 03:05 UTC_
 
 ### 🔥 Posting the most this week
 
-**Relativity Space** 20 &nbsp;·&nbsp; **Skyworks Solutions, Inc.** 19 &nbsp;·&nbsp; **Meta** 14 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Raytheon** 11 &nbsp;·&nbsp; **BAE Systems, Inc.** 9 &nbsp;·&nbsp; **Brunswick Corporation** 8 &nbsp;·&nbsp; **Jacobs** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Siemens** 7 &nbsp;·&nbsp; **WSP in the U.S.** 7 &nbsp;·&nbsp; **Applied Materials** 6
+**Relativity Space** 20 &nbsp;·&nbsp; **Skyworks Solutions, Inc.** 19 &nbsp;·&nbsp; **Meta** 14 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Raytheon** 11 &nbsp;·&nbsp; **BAE Systems, Inc.** 9 &nbsp;·&nbsp; **Brunswick Corporation** 8 &nbsp;·&nbsp; **Jacobs** 8 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **Boston Scientific** 7 &nbsp;·&nbsp; **Siemens** 7 &nbsp;·&nbsp; **WSP in the U.S.** 7
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 169 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -66,11 +66,11 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🏷️ **By company type** — [🏛️ Big Tech (526)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (264)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (165)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (102)](lists/company/large-tech.md) · [📱 Consumer internet & media (86)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (73)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (54)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (40)](lists/company/ecommerce-marketplace.md) · [📐 Engineering & architecture firms (34)](lists/company/engineering-services.md) · [🏤 Mid-sized tech (200–999) (30)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (193)](lists/role/software-engineer.md) · [Hardware Engineer (129)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (58)](lists/role/machine-learning-engineer.md) · [Data Scientist (53)](lists/role/data-scientist.md) · [AI Engineer (52)](lists/role/ai-engineer.md) · [Research Scientist (51)](lists/role/research-scientist.md) · [Product Manager (46)](lists/role/product-manager.md) · [Security Engineer (42)](lists/role/security-engineer.md) · [Data Engineer (33)](lists/role/data-engineer.md) · [Data Analyst (31)](lists/role/data-analyst.md) · [+9 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (194)](lists/role/software-engineer.md) · [Hardware Engineer (129)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (58)](lists/role/machine-learning-engineer.md) · [Data Scientist (53)](lists/role/data-scientist.md) · [AI Engineer (52)](lists/role/ai-engineer.md) · [Research Scientist (51)](lists/role/research-scientist.md) · [Product Manager (46)](lists/role/product-manager.md) · [Security Engineer (42)](lists/role/security-engineer.md) · [Data Engineer (33)](lists/role/data-engineer.md) · [Data Analyst (31)](lists/role/data-analyst.md) · [+9 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (399)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (122)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (92)](lists/place/boston.md) · [🗽 New York City (84)](lists/place/new-york.md) · [🌧️ Portland, Boise & Spokane (76)](lists/place/pacific-northwest.md) · [🌲 Seattle & Puget Sound (76)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (73)](lists/place/dallas-fort-worth.md) · [🎸 Austin (66)](lists/place/austin.md) · [🌵 Phoenix & Arizona (40)](lists/place/phoenix.md) · [🏔️ Denver, Boulder & Colorado (37)](lists/place/denver-boulder.md) · [+13 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (399)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (122)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (93)](lists/place/boston.md) · [🗽 New York City (84)](lists/place/new-york.md) · [🌧️ Portland, Boise & Spokane (76)](lists/place/pacific-northwest.md) · [🌲 Seattle & Puget Sound (76)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (73)](lists/place/dallas-fort-worth.md) · [🎸 Austin (66)](lists/place/austin.md) · [🌵 Phoenix & Arizona (40)](lists/place/phoenix.md) · [🏔️ Denver, Boulder & Colorado (37)](lists/place/denver-boulder.md) · [+13 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (934)](lists/new-this-week.md) · [🌐 Remote (27)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (935)](lists/new-this-week.md) · [🌐 Remote (27)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -108,6 +108,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">0d</td>
 </tr>
 <tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec340065-983f-4e7c-ba13-5c048491115b">Software Test Engineer Intern</a> 🆕</td>
+<td>Waltham, Massachusetts, United States</td>
+<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813568250-software-test-engineer-intern-waltham-us-ma-usa">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Nintendo</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc">Intern - Software Engineer, Graphics (NTD)</a> 🆕</td>
 <td>Redmond, Washington, United States</td>
@@ -124,7 +131,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec">SAP iXp Intern - Agile Developer, Business Data Cloud</a> 🆕</td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158811580-sap-ixp-intern-agile-developer-business-data-cloud">Apply</a></td>
 <td align="center">0d</td>
 </tr>
@@ -259,13 +266,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/dba9b18f-4809-4520-9eae-094cdb0b5d64">Applications Engineering Intern</a> 🆕</td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477492804/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>TRC Companies, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/906e5e29-907e-4d93-85bb-afbaa2e01014">Substation Engineering Intern</a> 🆕</td>
-<td>Golden, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466227951/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 715.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 716.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1782,7 +1782,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/2907a107-45a6-41a0-aea1-dc18667513d3">UI/UX Intern</a> 🆕</td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484780806/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>

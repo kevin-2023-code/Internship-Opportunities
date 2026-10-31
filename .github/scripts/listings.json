@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T03:05:17.458Z",
-  "count": 2153,
+  "listingsChangedAt": "2026-10-31T04:04:46.547Z",
+  "count": 2155,
   "listings": [
     {
       "id": "b4006aad-eddf-4f60-8d7f-0474694941c5",
@@ -111,6 +111,31 @@
       "updatedAt": "2026-10-30T20:19:59.000Z"
     },
     {
+      "id": "ec340065-983f-4e7c-ba13-5c048491115b",
+      "company": "Boston Scientific",
+      "title": "Software Test Engineer Intern",
+      "locations": [
+        "Waltham, Massachusetts, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813568250-software-test-engineer-intern-waltham-us-ma-usa",
+      "url": "https://trueinterview.io/jobs/ec340065-983f-4e7c-ba13-5c048491115b",
+      "postedAt": "2026-10-30T20:12:48.000Z",
+      "updatedAt": "2026-10-30T20:12:48.000Z"
+    },
+    {
       "id": "7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
       "company": "Nintendo",
       "title": "Intern - Software Engineer, Graphics (NTD)",
@@ -192,7 +217,8 @@
       "company": "SAP IT Business Systeme",
       "title": "SAP iXp Intern - Agile Developer, Business Data Cloud",
       "locations": [
-        "Vancouver, British Columbia, Canada"
+        "Vancouver, British Columbia, Canada",
+        "Vancouver, Canada"
       ],
       "cities": [
         "Vancouver, BC"
@@ -15247,6 +15273,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.hilti.group/en/jobs/21964-en/intern-mechanical-engineer-finite-element-analysis-m-f-x/",
       "url": "https://trueinterview.io/jobs/a3969f10-cc69-4e05-9795-f82d81bf3a2a",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "7f8439e9-1cb1-4b50-9b4e-510fce22fed8",
+      "company": "HP",
+      "title": "AI Engineering Intern",
+      "locations": [
+        "Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1",
+      "url": "https://trueinterview.io/jobs/7f8439e9-1cb1-4b50-9b4e-510fce22fed8",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },

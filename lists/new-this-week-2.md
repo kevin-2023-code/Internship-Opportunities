@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,185 open roles.** 934 in the United States & Canada · 251 elsewhere in the world. Everything the employers put up this week.
+**1,187 open roles.** 935 in the United States & Canada · 252 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>UPS</strong></td>
+<td><a href="https://trueinterview.io/jobs/eeb2b53d-a0b6-431f-bee9-9876b2a54975">2027 Summer Engineering Intern</a></td>
+<td>Atlanta, GA<br/>Salt Lake City, UT<br/>Portland, OR<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461331276/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Q2</strong></td>
 <td><a href="https://trueinterview.io/jobs/231efa01-2eab-41c2-9857-6cb0adff91a5">2027 Summer Internship - Software Engineer</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/03893886-43bb-44bc-9d02-34df9cdbc7bf">Device Platform Engineering Internship</a></td>
 <td>Brentwood, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474953741/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/5736abb7-c07f-42b3-b319-ecb6931f91c5">Production Engineer Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476586561/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
