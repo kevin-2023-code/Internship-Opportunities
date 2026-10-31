@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**18 open roles.** 10 in the United States & Canada · 8 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**19 open roles.** 11 in the United States & Canada · 8 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,8 +19,15 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>SageSure</strong></td>
+<td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
+<td>Chicago, IL<br/>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Chicago, IL</td>
+<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
