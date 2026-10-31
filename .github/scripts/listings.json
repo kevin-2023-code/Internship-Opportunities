@@ -5,9 +5,136 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T20:04:26.504Z",
-  "count": 2275,
+  "listingsChangedAt": "2026-10-31T21:04:16.406Z",
+  "count": 2281,
   "listings": [
+    {
+      "id": "d8896607-d759-4876-8ef4-cf9183de9025",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
+      "locations": [
+        "Mexico City, Mexico"
+      ],
+      "cities": [
+        "Mexico City"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478037941/",
+      "url": "https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025",
+      "postedAt": "2026-10-31T19:51:00.000Z",
+      "updatedAt": "2026-10-31T19:51:00.000Z"
+    },
+    {
+      "id": "59f8061b-2ca4-4ea0-b8f9-b5ad0d81203b",
+      "company": "Amazon",
+      "title": "2027 Program Manager Intern, Amazon Operations",
+      "locations": [
+        "Riyadh, Riyadh, Saudi Arabia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477830850/",
+      "url": "https://trueinterview.io/jobs/59f8061b-2ca4-4ea0-b8f9-b5ad0d81203b",
+      "postedAt": "2026-10-31T19:39:00.000Z",
+      "updatedAt": "2026-10-31T19:39:00.000Z"
+    },
+    {
+      "id": "67139365-71b6-4a80-9374-ccdba4c858e4",
+      "company": "Economy Polymers & Chemicals",
+      "title": "AI & Business Systems Automation Intern",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485907864/",
+      "url": "https://trueinterview.io/jobs/67139365-71b6-4a80-9374-ccdba4c858e4",
+      "postedAt": "2026-10-31T19:21:00.000Z",
+      "updatedAt": "2026-10-31T19:21:00.000Z"
+    },
+    {
+      "id": "7b2ac2b7-7305-4842-8141-2d65bf113416",
+      "company": "Applied Concepts, Inc.",
+      "title": "Web and Apps Developer - Intern",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485921369/",
+      "url": "https://trueinterview.io/jobs/7b2ac2b7-7305-4842-8141-2d65bf113416",
+      "postedAt": "2026-10-31T19:17:00.000Z",
+      "updatedAt": "2026-10-31T19:17:00.000Z"
+    },
+    {
+      "id": "1074cbb4-2055-4bb1-b63f-1ec35263cbc6",
+      "company": "L3Harris Technologies",
+      "title": "Intern, Information Security Systems Engineer (Salt Lake City, UT)",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478081281/",
+      "url": "https://trueinterview.io/jobs/1074cbb4-2055-4bb1-b63f-1ec35263cbc6",
+      "postedAt": "2026-10-31T19:13:00.000Z",
+      "updatedAt": "2026-10-31T19:13:00.000Z"
+    },
     {
       "id": "f1caff93-9bcf-41be-ae8e-f7561b74dffd",
       "company": "Church & Dwight Co., Inc.",
@@ -34,6 +161,57 @@
       "updatedAt": "2026-10-31T18:42:00.000Z"
     },
     {
+      "id": "1b746c1d-b7a3-4f68-b409-2bad309876da",
+      "company": "NVIDIA",
+      "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
+      "locations": [
+        "Beijing, Beijing, China",
+        "Shenzhen, Guangdong, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468041024/",
+      "url": "https://trueinterview.io/jobs/1b746c1d-b7a3-4f68-b409-2bad309876da",
+      "postedAt": "2026-10-31T18:39:00.000Z",
+      "updatedAt": "2026-10-31T18:39:00.000Z"
+    },
+    {
+      "id": "cfef3a32-8be7-4644-a222-aeda7d8d35fe",
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4458903339/",
+      "url": "https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe",
+      "postedAt": "2026-10-31T18:39:00.000Z",
+      "updatedAt": "2026-10-31T18:39:00.000Z"
+    },
+    {
       "id": "cc56f209-9f66-4786-a8a1-39baa2296b28",
       "company": "Motorola Solutions",
       "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
@@ -57,6 +235,135 @@
       "url": "https://trueinterview.io/jobs/cc56f209-9f66-4786-a8a1-39baa2296b28",
       "postedAt": "2026-10-31T18:16:00.000Z",
       "updatedAt": "2026-10-31T18:16:00.000Z"
+    },
+    {
+      "id": "b676a847-a7d0-4329-a542-c497d0801f47",
+      "company": "Pacific Life",
+      "title": "Summer 2027 Software Engineering Internship",
+      "locations": [
+        "Newport Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477851496/",
+      "url": "https://trueinterview.io/jobs/b676a847-a7d0-4329-a542-c497d0801f47",
+      "postedAt": "2026-10-31T18:13:00.000Z",
+      "updatedAt": "2026-10-31T18:13:00.000Z"
+    },
+    {
+      "id": "6dc15adc-513d-4fb6-987c-4122f8b360d9",
+      "company": "Meta",
+      "title": "Research Scientist Intern, MSL - Agentic Post-Training (PhD)",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483960058/",
+      "url": "https://trueinterview.io/jobs/6dc15adc-513d-4fb6-987c-4122f8b360d9",
+      "postedAt": "2026-10-31T17:39:00.000Z",
+      "updatedAt": "2026-10-31T17:39:00.000Z"
+    },
+    {
+      "id": "96e6932a-340d-4206-bbe9-303074e854ef",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
+      "locations": [
+        "Redmond, WA",
+        "Pittsburgh, PA",
+        "Burlingame, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483950055/",
+      "url": "https://trueinterview.io/jobs/96e6932a-340d-4206-bbe9-303074e854ef",
+      "postedAt": "2026-10-31T11:40:00.000Z",
+      "updatedAt": "2026-10-31T17:39:00.000Z"
+    },
+    {
+      "id": "b38b9ed5-f332-4fd2-9f94-ae777c773261",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Video RecSys (PhD)",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483948556/",
+      "url": "https://trueinterview.io/jobs/b38b9ed5-f332-4fd2-9f94-ae777c773261",
+      "postedAt": "2026-10-31T17:39:00.000Z",
+      "updatedAt": "2026-10-31T17:39:00.000Z"
+    },
+    {
+      "id": "69e5faca-7984-437d-bb4d-2db4846e7443",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485154648/",
+      "url": "https://trueinterview.io/jobs/69e5faca-7984-437d-bb4d-2db4846e7443",
+      "postedAt": "2026-10-31T17:39:00.000Z",
+      "updatedAt": "2026-10-31T17:39:00.000Z"
     },
     {
       "id": "6e485a72-2598-41e1-85d4-d7819506a004",
@@ -1182,32 +1489,6 @@
       "url": "https://trueinterview.io/jobs/4ea494c5-c2ca-41eb-9160-71a450b9d198",
       "postedAt": "2026-10-31T11:47:00.000Z",
       "updatedAt": "2026-10-31T11:47:00.000Z"
-    },
-    {
-      "id": "96e6932a-340d-4206-bbe9-303074e854ef",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
-      "locations": [
-        "Redmond, WA",
-        "Pittsburgh, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4483950055/",
-      "url": "https://trueinterview.io/jobs/96e6932a-340d-4206-bbe9-303074e854ef",
-      "postedAt": "2026-10-31T11:40:00.000Z",
-      "updatedAt": "2026-10-31T11:40:00.000Z"
     },
     {
       "id": "e2e63de5-6abe-4f5e-9602-0065b3ad200e",
@@ -10458,31 +10739,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4457649630/",
       "url": "https://trueinterview.io/jobs/7bb12426-8d55-4d00-a014-e1677210fb34",
-      "postedAt": "2026-10-29T18:41:00.000Z",
-      "updatedAt": "2026-10-29T18:41:00.000Z"
-    },
-    {
-      "id": "450b0c34-1657-41ba-b486-ef96634cc5c9",
-      "company": "NVIDIA",
-      "title": "ASIC Physical Design Intern - 2027",
-      "locations": [
-        "Hsinchu City, Taiwan, Taiwan"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4457662393/",
-      "url": "https://trueinterview.io/jobs/450b0c34-1657-41ba-b486-ef96634cc5c9",
       "postedAt": "2026-10-29T18:41:00.000Z",
       "updatedAt": "2026-10-29T18:41:00.000Z"
     },
@@ -20657,34 +20913,6 @@
       "url": "https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1",
       "postedAt": "2026-10-28T23:35:00.000Z",
       "updatedAt": "2026-10-28T23:40:00.000Z"
-    },
-    {
-      "id": "ca6bbbf4-5af9-4921-a940-22e3195b97ba",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Computer Vision - Video Intelligence (PhD)",
-      "locations": [
-        "Bellevue, WA",
-        "Menlo Park, CA"
-      ],
-      "cities": [
-        "Bellevue, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482572227/",
-      "url": "https://trueinterview.io/jobs/ca6bbbf4-5af9-4921-a940-22e3195b97ba",
-      "postedAt": "2026-10-28T23:16:00.000Z",
-      "updatedAt": "2026-10-28T23:35:00.000Z"
     },
     {
       "id": "3ada76a7-33ab-46b8-97b3-c2c4e1c2424d",
@@ -35629,40 +35857,6 @@
       "updatedAt": "2026-10-20T21:16:10.000Z"
     },
     {
-      "id": "2e64474b-c287-472c-a2cf-42fb5e35663a",
-      "company": "Meta",
-      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
-      "locations": [
-        "Bellevue, WA, United States",
-        "Menlo Park, CA, United States",
-        "Boston, MA, United States",
-        "New York, NY, United States",
-        "San Francisco, CA, United States"
-      ],
-      "cities": [
-        "Bellevue, WA",
-        "Boston, MA",
-        "New York, NY",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/2322361288548512/",
-      "url": "https://trueinterview.io/jobs/2e64474b-c287-472c-a2cf-42fb5e35663a",
-      "postedAt": "2026-10-20T18:55:01.000Z",
-      "updatedAt": "2026-10-20T18:55:01.000Z"
-    },
-    {
       "id": "ffa2840a-81f9-495a-a647-291b4155bd74",
       "company": "Meta",
       "title": "Research Scientist Intern, AI-Driven Neural Interfaces (PhD)",
@@ -44404,33 +44598,6 @@
       "url": "https://trueinterview.io/jobs/04753d31-2f75-4654-9709-505db9088cfe",
       "postedAt": "2026-10-02T15:43:40.000Z",
       "updatedAt": "2026-10-02T15:43:40.000Z"
-    },
-    {
-      "id": "97340c15-89cf-4b47-806c-bac8f2b19465",
-      "company": "Amazon",
-      "title": "(Physical) Security Specialist Intern -  2027 Internship",
-      "locations": [
-        "ES, Huesca",
-        "ES, Zaragoza",
-        "FR, Paris"
-      ],
-      "cities": [],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship",
-      "url": "https://trueinterview.io/jobs/97340c15-89cf-4b47-806c-bac8f2b19465",
-      "postedAt": "2026-10-02T07:00:00.000Z",
-      "updatedAt": "2026-10-02T07:00:00.000Z"
     },
     {
       "id": "3e0cae81-bfe1-4d54-af4c-f25d90dc073f",
@@ -59135,35 +59302,6 @@
       "url": "https://trueinterview.io/jobs/43354d2f-f773-4309-a21b-691cabc315be",
       "postedAt": "2026-09-01T21:49:26.000Z",
       "updatedAt": "2026-09-01T21:49:26.000Z"
-    },
-    {
-      "id": "ac3c3590-42cb-4fc3-9325-6938e9be8a0a",
-      "company": "Valon",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "New York",
-        "San Francisco"
-      ],
-      "cities": [
-        "New York, NY",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64/application",
-      "url": "https://trueinterview.io/jobs/ac3c3590-42cb-4fc3-9325-6938e9be8a0a",
-      "postedAt": "2026-09-01T21:01:57.000Z",
-      "updatedAt": "2026-09-01T21:01:57.000Z"
     }
   ]
 }

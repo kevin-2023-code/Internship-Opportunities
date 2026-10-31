@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**6 open roles.** 1 in the United States & Canada · 5 elsewhere in the world.
+**7 open roles.** 1 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025">Software Development Engineer Intern, Amazon University Talent Acquisition</a></td>
+<td>Mexico City, Mexico</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478037941/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sezzle</strong></td>
 <td><a href="https://trueinterview.io/jobs/aaef892e-ce22-42f0-9d85-9c71d56ceed4">Graphic Design: Video Editing Intern</a></td>
