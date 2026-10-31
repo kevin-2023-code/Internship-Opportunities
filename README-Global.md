@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-31 12:06 UTC_
+_Last updated: 2026-10-31 13:03 UTC_
 
-**331 open internships** from **189 employers** · **257 posted in the last 7 days** · refreshed hourly
+**330 open internships** from **188 employers** · **256 posted in the last 7 days** · refreshed hourly
 
-### Browse 331 internships by field
+### Browse 330 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (156)
+💻 **[Software Engineering](#-software-engineering)** (155)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (68)
 
@@ -52,11 +52,11 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (62)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (32)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (18)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (13)](lists/company/enterprise-saas.md) · [📈 Quant trading & hedge funds (10)](lists/company/quant-trading.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (8)](lists/company/large-tech.md) · [🚗 Autonomy, automotive & mobility (7)](lists/company/autonomy-mobility.md) · [🛒 E-commerce & marketplaces (7)](lists/company/ecommerce-marketplace.md) · [+11 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (46)](lists/role/software-engineer.md) · [Data Analyst (20)](lists/role/data-analyst.md) · [Product Manager (20)](lists/role/product-manager.md) · [AI Engineer (18)](lists/role/ai-engineer.md) · [Machine Learning Engineer (13)](lists/role/machine-learning-engineer.md) · [Data Scientist (7)](lists/role/data-scientist.md) · [Embedded Engineer (6)](lists/role/embedded-engineer.md) · [Hardware Engineer (6)](lists/role/hardware-engineer.md) · [Quantitative Developer (6)](lists/role/quantitative-developer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [+8 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (45)](lists/role/software-engineer.md) · [Data Analyst (20)](lists/role/data-analyst.md) · [Product Manager (20)](lists/role/product-manager.md) · [AI Engineer (18)](lists/role/ai-engineer.md) · [Machine Learning Engineer (13)](lists/role/machine-learning-engineer.md) · [Data Scientist (7)](lists/role/data-scientist.md) · [Embedded Engineer (6)](lists/role/embedded-engineer.md) · [Hardware Engineer (6)](lists/role/hardware-engineer.md) · [Quantitative Developer (6)](lists/role/quantitative-developer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [+8 more →](lists/README.md)
 
 📍 **By location** — [🇸🇬 Singapore (75)](lists/place/singapore.md) · [🇬🇧 London & the UK (27)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (21)](lists/place/greater-china.md) · [🇨🇭 Zürich & Switzerland (15)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (12)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (11)](lists/place/ireland.md) · [🇫🇷 Paris & France (9)](lists/place/france.md) · [🇩🇪 Berlin, Munich & Germany (7)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (5)](lists/place/iberia.md) · [🌎 México, Brazil & Latin America (5)](lists/place/latam.md) · [+2 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (257)](lists/new-this-week.md) · [🌐 Remote (10)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (256)](lists/new-this-week.md) · [🌐 Remote (9)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -389,7 +389,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 42 of 156.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 42 of 155.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 

@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**76 open roles.**
+**75 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -226,13 +226,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
 <td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/e974f8cd-12a6-48cc-ac7b-d8d560cf4cc9">AI-Driven Physical Design Engineering (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro<br/>US, California, Santa Clara, United States of America<br/>US, Colorado, Fort Collins<br/>+2 more</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Driven-Physical-Design-Engineering--PhD-Intern-_JR0287661">Apply</a></td>
-<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Clēnera, Llc</strong></td>

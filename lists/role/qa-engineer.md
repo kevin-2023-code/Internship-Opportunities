@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**22 open roles.** 18 in the United States & Canada · 4 elsewhere in the world.
+**24 open roles.** 20 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bc5a8e6-1b33-4d82-ba0d-6d856138f856">Engineering Intern - Software Test (Spring 2027 Co-Op)</a></td>
+<td>Torrance, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467811665/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Medlaunch Concepts</strong></td>
 <td><a href="https://trueinterview.io/jobs/462875cf-e15f-4ca1-8e39-d5a007c9cc0f">Spring 2026 Internship - AI-Native Automation QA</a></td>
@@ -36,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2f3fdcd2-3ce0-409f-ad57-ce0b2b5c3bcd">Quality Assurance (QA) Intern</a></td>
 <td>Norman, OK</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484967690/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Ordnance and Tactical Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/e275e056-17ad-43ed-84ac-b86a205255ce">Intern, Technical Support (QA Engineer)</a></td>
+<td>Lincoln, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466881564/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
