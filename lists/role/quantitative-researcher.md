@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**16 open roles.** 10 in the United States & Canada · 6 elsewhere in the world.
+**17 open roles.** 11 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/be5af77e-f5fa-4167-8377-a8776373356f">Quantitative Researcher - Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485174389/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PIMCO</strong></td>
 <td><a href="https://trueinterview.io/jobs/82610e6f-012f-47c6-a8b0-2d8bd490f997">2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst</a></td>

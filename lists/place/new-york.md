@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**89 open roles.**
+**90 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>BlackRock</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2295242-0525-4a30-8389-228b7d46ad9e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta</a></td>
+<td>New York, NY<br/>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468689542/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/be5af77e-f5fa-4167-8377-a8776373356f">Quantitative Researcher - Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485174389/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
 <td>Jersey City, NJ<br/>Chicago, IL<br/>Mountain View, CA</td>
@@ -25,14 +39,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>BlackRock</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2295242-0525-4a30-8389-228b7d46ad9e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468689542/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SageSure</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/01406038-1a8f-458d-beef-8e9cbf2f0ad2">Data Ops Engineer Intern</a></td>
 <td>Jersey City, NJ<br/>Cheshire, CT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477894522/">Apply</a></td>

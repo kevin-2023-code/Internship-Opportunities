@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**28 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BlackRock</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2295242-0525-4a30-8389-228b7d46ad9e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta</a></td>
+<td>Atlanta, GA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468689542/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Georgia Tech Research Institute</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2ca8357-f968-4484-9653-fbf94cdbed52">Software Engineering Co-op - Spring 2027 - ASL</a></td>

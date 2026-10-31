@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**18 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**16 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,20 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Merrimack, NH<br/>Re:Build DAPR Engineering</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4729848005">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Zeeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/2046d9f4-ec9e-4a3f-ad84-6eab54dd1c48">Control Engineer Intern</a></td>
-<td>Tulsa, Oklahoma</td>
-<td align="center"><a href="https://jobs.lever.co/zeeco/a2ac4a67-02fd-4e22-ace4-2369878930ec/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/43354d2f-f773-4309-a21b-691cabc315be">Project Engineer Intern</a></td>
-<td>Tulsa, Oklahoma</td>
-<td align="center"><a href="https://jobs.lever.co/zeeco/c51b039a-2cab-44ee-bd33-6181e1b40adc/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

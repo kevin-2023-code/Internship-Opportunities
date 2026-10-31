@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**62 open roles.** 56 in the United States & Canada · 6 elsewhere in the world.
+**63 open roles.** 57 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd40683-883c-4083-96f8-72e146f1f0fe">Applied Scientist Intern, PhD (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157689/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dc15adc-513d-4fb6-987c-4122f8b360d9">Research Scientist Intern, MSL - Agentic Post-Training (PhD)</a></td>

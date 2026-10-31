@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,324 open roles.** 1,044 in the United States & Canada · 280 elsewhere in the world. Everything the employers put up this week.
+**1,331 open roles.** 1,049 in the United States & Canada · 282 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/b483b455-a74e-445d-98c1-150ee44a4efb">Fire Safety Software Engineering Internship</a></td>
+<td>Parsippany-Troy Hills, New Jersey, United States<br/>Parsippany-Troy Hills, NJ</td>
+<td align="center"><a href="https://jobs.siemens.com/en_US/externaljobs/JobDetail/527479">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/903eb4ab-5e8e-4eba-8c5f-f2966b589a54">Electrical Engineering- Intern</a></td>
+<td>Owego, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482526419/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8027c21b-2b1d-4d5f-bae8-0ad28ffa625b">Mechanical Engineer - Internship</a></td>
+<td>Owego, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482532230/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b1962a9-56b2-49d4-971d-9a7b09b25c01">Software Engineering Intern (AI Products)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484481441/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra Nevada Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/30b90c88-39b2-476b-ab9c-d290e708f721">Network Engineer Intern (Summer 2027)</a></td>
+<td>Hagerstown, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482516925/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BNY</strong></td>
 <td><a href="https://trueinterview.io/jobs/0933a654-faf6-4913-a5ae-577c356b1d5a">2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL</a></td>
@@ -1764,6 +1799,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Perplexity</strong></td>
+<td><a href="https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61">Internship - Search Machine Learning Engineer</a></td>
+<td>London, England, United Kingdom<br/>Belgrade, Serbia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468006514/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d326b5b-a744-49f7-bc69-89419f074de0">Software Engineer Intern (Winter 2027)</a></td>
 <td>Dubai, Dubai, United Arab Emirates</td>
@@ -1841,7 +1883,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Perplexity</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693">Internship - Machine Learning Research Engineer</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468008490/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/0bc358c2-36d8-4d73-89bb-8f97458cfa66">Formal Verification Intern</a></td>
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682664">Apply</a></td>
@@ -2776,55 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6da7bacf-5bc3-4746-9e3e-4653e62bd1a0">Process Engineer (PE) Intern</a></td>
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467701733/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e21b5b7b-f522-4a38-af2d-a7b5d896658d">Intern - NAND Probe Product Engineering (Test Mode Integration)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475423612/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0bac8f6b-683d-45aa-bf59-d7e8aebcf474">Intern - NAND Process and Equipment Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475417919/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/43f52f7a-91fd-4a76-b78c-f7a85aec02cb">Intern- Manufacturing Test Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861694/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ecd6bd03-0e01-4526-9436-ef58591b5bc9">Intern - F10 Process &amp; Equipment Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466199738/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bcaf9f3a-8861-4789-8b63-6d2dc2a98599">Intern - F10 Process and Equipment Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861693/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/538a6c0e-3576-4283-81cf-ebe3590e815c">Intern - NAND Device Engineering AI</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466509866/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b80f087a-a9aa-44a3-a705-b0d11934a14d">Intern - SSD Assembly Process &amp; Equipment Engineering</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466197791/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**52 open roles.** 30 in the United States & Canada · 22 elsewhere in the world.
+**53 open roles.** 31 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bombardier</strong></td>
+<td><a href="https://trueinterview.io/jobs/caba8362-5930-4d97-9e27-8811a0fc76c1">Intern/Co-op (Data Analyst)</a></td>
+<td>Red Oak, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441227958/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Internship List</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>

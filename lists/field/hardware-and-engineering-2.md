@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**698 open roles.** 659 in the United States & Canada · 39 elsewhere in the world.
+**696 open roles.** 657 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1812,20 +1812,6 @@
 <td><a href="https://trueinterview.io/jobs/8e219271-5f75-4cdd-9376-05ceeed3d9ef">Electrical Engineer Intern - Fall 2026</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee/application">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Zeeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/2046d9f4-ec9e-4a3f-ad84-6eab54dd1c48">Control Engineer Intern</a></td>
-<td>Tulsa, Oklahoma</td>
-<td align="center"><a href="https://jobs.lever.co/zeeco/a2ac4a67-02fd-4e22-ace4-2369878930ec/apply">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/43354d2f-f773-4309-a21b-691cabc315be">Project Engineer Intern</a></td>
-<td>Tulsa, Oklahoma</td>
-<td align="center"><a href="https://jobs.lever.co/zeeco/c51b039a-2cab-44ee-bd33-6181e1b40adc/apply">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 </tbody>

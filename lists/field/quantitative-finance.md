@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**48 open roles.** 31 in the United States & Canada · 17 elsewhere in the world.
+**51 open roles.** 34 in the United States & Canada · 17 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,16 +19,37 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>BlackRock</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc7840c2-b575-4b23-96dd-185e392947e7">2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco</a></td>
+<td><a href="https://trueinterview.io/jobs/e2295242-0525-4a30-8389-228b7d46ad9e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta</a></td>
+<td>New York, NY<br/>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468689542/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/be5af77e-f5fa-4167-8377-a8776373356f">Quantitative Researcher - Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485174389/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BlackRock</strong></td>
+<td><a href="https://trueinterview.io/jobs/18a422d8-d322-44c3-86d9-10b562c6f90e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco</a></td>
 <td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468695467/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468676813/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2295242-0525-4a30-8389-228b7d46ad9e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468689542/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/a7b5b342-22f0-48b8-950d-9ffc23ad5664">2027 Quantitative Masters Internship Program - Technology - Analytics &amp; Modeling - San Francisco</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468677751/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cc7840c2-b575-4b23-96dd-185e392947e7">2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468695467/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

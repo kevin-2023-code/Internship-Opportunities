@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**372 open roles.** 290 in the United States & Canada · 82 elsewhere in the world.
+**376 open roles.** 292 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,10 +25,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Bombardier</strong></td>
+<td><a href="https://trueinterview.io/jobs/caba8362-5930-4d97-9e27-8811a0fc76c1">Intern/Co-op (Data Analyst)</a></td>
+<td>Red Oak, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441227958/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Church &amp; Dwight Co., Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1caff93-9bcf-41be-ae8e-f7561b74dffd">AI Developer Co-op - Graduate Program (9 Months)</a></td>
 <td>Ewing, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468679563/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd40683-883c-4083-96f8-72e146f1f0fe">Applied Scientist Intern, PhD (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157689/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2067,6 +2081,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Perplexity</strong></td>
+<td><a href="https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61">Internship - Search Machine Learning Engineer</a></td>
+<td>London, England, United Kingdom<br/>Belgrade, Serbia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468006514/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
 <td>Gurgaon, Haryana, India</td>
@@ -2085,6 +2106,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dc0275c0-3ec8-482c-b25d-7c0b424b008f">Research Scientist Intern, Generative AI (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483933152/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Perplexity</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693">Internship - Machine Learning Research Engineer</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468008490/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**413 open roles.**
+**416 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BlackRock</strong></td>
+<td><a href="https://trueinterview.io/jobs/18a422d8-d322-44c3-86d9-10b562c6f90e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468676813/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a7b5b342-22f0-48b8-950d-9ffc23ad5664">2027 Quantitative Masters Internship Program - Technology - Analytics &amp; Modeling - San Francisco</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468677751/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CHEManager International</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdd40683-883c-4083-96f8-72e146f1f0fe">Applied Scientist Intern, PhD (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157689/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dc15adc-513d-4fb6-987c-4122f8b360d9">Research Scientist Intern, MSL - Agentic Post-Training (PhD)</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2390accd-792d-4635-8f3a-ae570209a8cd">Design Verification Intern, MS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Westborough, MA<br/>+2 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9cbcb094-71e8-4bd1-839f-87478d3232ab">Firmware Engineer Intern, BS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Westlake Village, CA</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dada29d6-5d30-4067-9296-1aeb7c1fb066">Firmware Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f1191dba-f477-4692-9ca8-9e27952271e3">Functional Validation Intern, BS - Summer 2027</a></td>
-<td>Santa Clara, CA<br/>Westborough, MA, United States of America<br/>Boise, ID</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 </tbody>

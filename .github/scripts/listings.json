@@ -5,9 +5,65 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T21:04:16.406Z",
-  "count": 2281,
+  "listingsChangedAt": "2026-10-31T22:05:11.300Z",
+  "count": 2286,
   "listings": [
+    {
+      "id": "e2295242-0525-4a30-8389-228b7d46ad9e",
+      "company": "BlackRock",
+      "title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta",
+      "locations": [
+        "New York, NY",
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "New York, NY",
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468689542/",
+      "url": "https://trueinterview.io/jobs/e2295242-0525-4a30-8389-228b7d46ad9e",
+      "postedAt": "2026-10-31T15:58:00.000Z",
+      "updatedAt": "2026-10-31T20:59:00.000Z"
+    },
+    {
+      "id": "be5af77e-f5fa-4167-8377-a8776373356f",
+      "company": "CHEManager International",
+      "title": "Quantitative Researcher - Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485174389/",
+      "url": "https://trueinterview.io/jobs/be5af77e-f5fa-4167-8377-a8776373356f",
+      "postedAt": "2026-10-31T20:20:00.000Z",
+      "updatedAt": "2026-10-31T20:20:00.000Z"
+    },
     {
       "id": "d8896607-d759-4876-8ef4-cf9183de9025",
       "company": "Amazon",
@@ -136,6 +192,85 @@
       "updatedAt": "2026-10-31T19:13:00.000Z"
     },
     {
+      "id": "18a422d8-d322-44c3-86d9-10b562c6f90e",
+      "company": "BlackRock",
+      "title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468676813/",
+      "url": "https://trueinterview.io/jobs/18a422d8-d322-44c3-86d9-10b562c6f90e",
+      "postedAt": "2026-10-31T19:00:00.000Z",
+      "updatedAt": "2026-10-31T19:00:00.000Z"
+    },
+    {
+      "id": "a7b5b342-22f0-48b8-950d-9ffc23ad5664",
+      "company": "BlackRock",
+      "title": "2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468677751/",
+      "url": "https://trueinterview.io/jobs/a7b5b342-22f0-48b8-950d-9ffc23ad5664",
+      "postedAt": "2026-10-31T19:00:00.000Z",
+      "updatedAt": "2026-10-31T19:00:00.000Z"
+    },
+    {
+      "id": "caba8362-5930-4d97-9e27-8811a0fc76c1",
+      "company": "Bombardier",
+      "title": "Intern/Co-op (Data Analyst)",
+      "locations": [
+        "Red Oak, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4441227958/",
+      "url": "https://trueinterview.io/jobs/caba8362-5930-4d97-9e27-8811a0fc76c1",
+      "postedAt": "2026-10-31T19:00:00.000Z",
+      "updatedAt": "2026-10-31T19:00:00.000Z"
+    },
+    {
       "id": "f1caff93-9bcf-41be-ae8e-f7561b74dffd",
       "company": "Church & Dwight Co., Inc.",
       "title": "AI Developer Co-op - Graduate Program (9 Months)",
@@ -260,6 +395,61 @@
       "url": "https://trueinterview.io/jobs/b676a847-a7d0-4329-a542-c497d0801f47",
       "postedAt": "2026-10-31T18:13:00.000Z",
       "updatedAt": "2026-10-31T18:13:00.000Z"
+    },
+    {
+      "id": "fdd40683-883c-4083-96f8-72e146f1f0fe",
+      "company": "CHEManager International",
+      "title": "Applied Scientist Intern, PhD (Summer 2027)",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485157689/",
+      "url": "https://trueinterview.io/jobs/fdd40683-883c-4083-96f8-72e146f1f0fe",
+      "postedAt": "2026-10-31T18:00:00.000Z",
+      "updatedAt": "2026-10-31T18:00:00.000Z"
+    },
+    {
+      "id": "b172fcf2-9b9f-4183-892b-0017cd03af61",
+      "company": "Perplexity",
+      "title": "Internship - Search Machine Learning Engineer",
+      "locations": [
+        "Belgrade, Serbia",
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468006514/",
+      "url": "https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61",
+      "postedAt": "2026-10-31T17:53:00.000Z",
+      "updatedAt": "2026-10-31T17:53:00.000Z"
     },
     {
       "id": "6dc15adc-513d-4fb6-987c-4122f8b360d9",
@@ -753,33 +943,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4468695467/",
       "url": "https://trueinterview.io/jobs/cc7840c2-b575-4b23-96dd-185e392947e7",
-      "postedAt": "2026-10-31T15:58:00.000Z",
-      "updatedAt": "2026-10-31T15:58:00.000Z"
-    },
-    {
-      "id": "e2295242-0525-4a30-8389-228b7d46ad9e",
-      "company": "BlackRock",
-      "title": "2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468689542/",
-      "url": "https://trueinterview.io/jobs/e2295242-0525-4a30-8389-228b7d46ad9e",
       "postedAt": "2026-10-31T15:58:00.000Z",
       "updatedAt": "2026-10-31T15:58:00.000Z"
     },
@@ -3061,6 +3224,33 @@
       "source": "career-sites",
       "applyUrl": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
       "url": "https://trueinterview.io/jobs/b4006aad-eddf-4f60-8d7f-0474694941c5",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "updatedAt": "2026-10-31T00:00:00.000Z"
+    },
+    {
+      "id": "e4f84268-6960-40c7-8f13-c00fc6d27693",
+      "company": "Perplexity",
+      "title": "Internship - Machine Learning Research Engineer",
+      "locations": [
+        "Berlin, Berlin, Germany"
+      ],
+      "cities": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468008490/",
+      "url": "https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693",
       "postedAt": "2026-10-31T00:00:00.000Z",
       "updatedAt": "2026-10-31T00:00:00.000Z"
     },
@@ -59252,56 +59442,6 @@
       "url": "https://trueinterview.io/jobs/69ca853f-b300-47e9-9d7c-991dec6b617c",
       "postedAt": "2026-09-01T22:51:27.000Z",
       "updatedAt": "2026-09-01T22:51:27.000Z"
-    },
-    {
-      "id": "2046d9f4-ec9e-4a3f-ad84-6eab54dd1c48",
-      "company": "Zeeco",
-      "title": "Control Engineer Intern",
-      "locations": [
-        "Tulsa, Oklahoma"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/zeeco/a2ac4a67-02fd-4e22-ace4-2369878930ec/apply",
-      "url": "https://trueinterview.io/jobs/2046d9f4-ec9e-4a3f-ad84-6eab54dd1c48",
-      "postedAt": "2026-09-01T21:52:13.000Z",
-      "updatedAt": "2026-09-01T21:52:13.000Z"
-    },
-    {
-      "id": "43354d2f-f773-4309-a21b-691cabc315be",
-      "company": "Zeeco",
-      "title": "Project Engineer Intern",
-      "locations": [
-        "Tulsa, Oklahoma"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/zeeco/c51b039a-2cab-44ee-bd33-6181e1b40adc/apply",
-      "url": "https://trueinterview.io/jobs/43354d2f-f773-4309-a21b-691cabc315be",
-      "postedAt": "2026-09-01T21:49:26.000Z",
-      "updatedAt": "2026-09-01T21:49:26.000Z"
     }
   ]
 }
