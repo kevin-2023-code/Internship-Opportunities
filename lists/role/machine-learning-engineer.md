@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**71 open roles.** 58 in the United States & Canada · 13 elsewhere in the world.
+**73 open roles.** 60 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bayer</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5d77f82-abbc-4785-abce-b334e1b557a4">Computer Vision and Data Analysis Co-Op</a></td>
+<td>Chesterfield, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485604351/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4fe60e5-f008-40fc-af1e-6ef6d567f6f6">Machine Learning Scientist Intern (Global E-Commerce Content Recommendation) - 2026 Summer (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485101522/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>

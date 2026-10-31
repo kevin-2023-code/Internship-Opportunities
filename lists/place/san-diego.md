@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**30 open roles.**
+**31 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf286d4b-87e8-4024-9845-d06c35e2de30">Substation Design Engineer Intern –Part Time</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485268314/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/29b342a2-5209-448c-9977-d3ca4ebf56c3">2027 Intern Product Support – Data Scientist</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

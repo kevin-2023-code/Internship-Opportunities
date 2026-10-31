@@ -22,7 +22,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418">2027 Summer Intern, PhD, Research Scientist Intern</a></td>
 <td>Mountain View, California, United States</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8337719">Apply</a></td>
-<td align="center">30 Oct 2026</td>
+<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Tesla</strong></td>

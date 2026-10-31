@@ -5,9 +5,118 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T04:04:46.547Z",
-  "count": 2155,
+  "listingsChangedAt": "2026-10-31T05:04:24.553Z",
+  "count": 2159,
   "listings": [
+    {
+      "id": "02a1944d-e4f1-4f69-86c9-3c1befdb6711",
+      "company": "TikTok",
+      "title": "Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start",
+      "locations": [
+        "San Jose, CA",
+        "Seattle, WA"
+      ],
+      "cities": [
+        "San Jose, CA",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485113428/",
+      "url": "https://trueinterview.io/jobs/02a1944d-e4f1-4f69-86c9-3c1befdb6711",
+      "postedAt": "2026-10-31T04:30:00.000Z",
+      "updatedAt": "2026-10-31T04:30:00.000Z"
+    },
+    {
+      "id": "d5d77f82-abbc-4785-abce-b334e1b557a4",
+      "company": "Bayer",
+      "title": "Computer Vision and Data Analysis Co-Op",
+      "locations": [
+        "Chesterfield, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485604351/",
+      "url": "https://trueinterview.io/jobs/d5d77f82-abbc-4785-abce-b334e1b557a4",
+      "postedAt": "2026-10-31T04:04:00.000Z",
+      "updatedAt": "2026-10-31T04:04:00.000Z"
+    },
+    {
+      "id": "7f453cec-9b6e-4c3a-b980-2f5b92b96418",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, PhD, Research Scientist Intern",
+      "locations": [
+        "Mountain View, California, United States",
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
+      "url": "https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418",
+      "postedAt": "2026-10-30T20:19:59.000Z",
+      "updatedAt": "2026-10-31T01:49:00.000Z"
+    },
+    {
+      "id": "e4fe60e5-f008-40fc-af1e-6ef6d567f6f6",
+      "company": "TikTok",
+      "title": "Machine Learning Scientist Intern (Global E-Commerce Content Recommendation) - 2026 Summer (PhD)",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485101522/",
+      "url": "https://trueinterview.io/jobs/e4fe60e5-f008-40fc-af1e-6ef6d567f6f6",
+      "postedAt": "2026-10-31T01:44:00.000Z",
+      "updatedAt": "2026-10-31T01:44:00.000Z"
+    },
     {
       "id": "b4006aad-eddf-4f60-8d7f-0474694941c5",
       "company": "Firework",
@@ -59,6 +168,33 @@
       "updatedAt": "2026-10-30T22:42:23.000Z"
     },
     {
+      "id": "01f53cf5-e13c-4b52-be5f-101ec46b39a9",
+      "company": "ByteDance",
+      "title": "Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485600471/",
+      "url": "https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9",
+      "postedAt": "2026-10-30T20:44:00.000Z",
+      "updatedAt": "2026-10-30T20:44:00.000Z"
+    },
+    {
       "id": "b572b229-80ec-4964-b230-923e42037261",
       "company": "Nokia",
       "title": "Software Engineer Co-op",
@@ -82,33 +218,6 @@
       "url": "https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261",
       "postedAt": "2026-10-30T20:24:21.000Z",
       "updatedAt": "2026-10-30T20:24:21.000Z"
-    },
-    {
-      "id": "7f453cec-9b6e-4c3a-b980-2f5b92b96418",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, PhD, Research Scientist Intern",
-      "locations": [
-        "Mountain View, California, United States"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
-      "url": "https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418",
-      "postedAt": "2026-10-30T20:19:59.000Z",
-      "updatedAt": "2026-10-30T20:19:59.000Z"
     },
     {
       "id": "ec340065-983f-4e7c-ba13-5c048491115b",
@@ -5378,6 +5487,31 @@
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
     {
+      "id": "29b342a2-5209-448c-9977-d3ca4ebf56c3",
+      "company": "Northrop Grumman",
+      "title": "2027 Intern Product Support – Data Scientist",
+      "locations": [
+        "San Diego, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
+      "url": "https://trueinterview.io/jobs/29b342a2-5209-448c-9977-d3ca4ebf56c3",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
       "id": "859baf0c-101f-4468-9e84-c0b79093b3f8",
       "company": "Rivian",
       "title": "Engineering Intern - Design for Reliability (Spring 2027 Co-Op)",
@@ -5478,31 +5612,6 @@
       "source": "career-sites",
       "applyUrl": "https://jobs.thecignagroup.com/us/en/job/26009533/The-Cigna-Group-s-Technology-Development-Program-Data-Analytics-Engineering-Track-Summer-Internship",
       "url": "https://trueinterview.io/jobs/dd2aca16-b61b-49ad-a9da-b18b9fb8cc6d",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "updatedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "id": "c80f409c-22c6-4541-b497-5fa02b744fa5",
-      "company": "University of Miami",
-      "title": "Data Science & AI Intern",
-      "locations": [
-        "Miami, Florida, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144",
-      "url": "https://trueinterview.io/jobs/c80f409c-22c6-4541-b497-5fa02b744fa5",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },

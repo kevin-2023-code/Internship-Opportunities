@@ -46,10 +46,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>University of Miami</strong></td>
-<td><a href="https://trueinterview.io/jobs/c80f409c-22c6-4541-b497-5fa02b744fa5">Data Science &amp; AI Intern</a></td>
-<td>Miami, Florida, United States</td>
-<td align="center"><a href="https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144">Apply</a></td>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/29b342a2-5209-448c-9977-d3ca4ebf56c3">2027 Intern Product Support – Data Scientist</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

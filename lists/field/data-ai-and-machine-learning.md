@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**332 open roles.** 266 in the United States & Canada · 66 elsewhere in the world.
+**335 open roles.** 269 in the United States & Canada · 66 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Bayer</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5d77f82-abbc-4785-abce-b334e1b557a4">Computer Vision and Data Analysis Co-Op</a></td>
+<td>Chesterfield, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485604351/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4fe60e5-f008-40fc-af1e-6ef6d567f6f6">Machine Learning Scientist Intern (Global E-Commerce Content Recommendation) - 2026 Summer (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485101522/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Firework</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4006aad-eddf-4f60-8d7f-0474694941c5">Data Engineer Intern</a></td>
 <td>San Mateo, California, United States</td>
@@ -29,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e7f9ac92-08be-4f4b-9160-7d1a66628ed5">Summer 2027 Business Intelligence Intern</a></td>
 <td>Torrance, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/divergent/jobs/5393519008">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485600471/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -130,10 +151,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>University of Miami</strong></td>
-<td><a href="https://trueinterview.io/jobs/c80f409c-22c6-4541-b497-5fa02b744fa5">Data Science &amp; AI Intern</a></td>
-<td>Miami, Florida, United States</td>
-<td align="center"><a href="https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144">Apply</a></td>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/29b342a2-5209-448c-9977-d3ca4ebf56c3">2027 Intern Product Support – Data Scientist</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
