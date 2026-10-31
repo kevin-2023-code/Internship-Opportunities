@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T01:04:59.613Z",
-  "count": 2150,
+  "listingsChangedAt": "2026-10-31T02:05:58.471Z",
+  "count": 2151,
   "listings": [
+    {
+      "id": "e7f9ac92-08be-4f4b-9160-7d1a66628ed5",
+      "company": "Divergent",
+      "title": "Summer 2027 Business Intelligence Intern",
+      "locations": [
+        "Torrance, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/divergent/jobs/5393519008",
+      "url": "https://trueinterview.io/jobs/e7f9ac92-08be-4f4b-9160-7d1a66628ed5",
+      "postedAt": "2026-10-30T22:42:23.000Z",
+      "updatedAt": "2026-10-30T22:42:23.000Z"
+    },
     {
       "id": "b572b229-80ec-4964-b230-923e42037261",
       "company": "Nokia",
@@ -272,33 +297,6 @@
       "updatedAt": "2026-10-30T12:39:00.000Z"
     },
     {
-      "id": "8a01f69f-6d6d-495d-97b1-075b6faa4804",
-      "company": "Nestlé",
-      "title": "Knowledge Engineering Intern",
-      "locations": [
-        "Lausanne, Vaud, Switzerland"
-      ],
-      "cities": [
-        "Lausanne"
-      ],
-      "countries": [
-        "Switzerland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485347064/",
-      "url": "https://trueinterview.io/jobs/8a01f69f-6d6d-495d-97b1-075b6faa4804",
-      "postedAt": "2026-10-30T12:17:00.000Z",
-      "updatedAt": "2026-10-30T12:17:00.000Z"
-    },
-    {
       "id": "bc6f7d5d-277e-4809-b1c2-39f50160a7bf",
       "company": "Hendler Family Brewing Co.",
       "title": "Software Engineering and IT Co-Op",
@@ -310,9 +308,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5374,6 +5372,33 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4474884596/",
       "url": "https://trueinterview.io/jobs/d3179e75-5370-41d5-addf-45136009f9a8",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "dd2aca16-b61b-49ad-a9da-b18b9fb8cc6d",
+      "company": "The Cigna Group",
+      "title": "The Cigna Group's Technology Development Program - Data & Analytics Engineering Track Summer Internship",
+      "locations": [
+        "Bloomfield, Connecticut, United States",
+        "St. Louis, Missouri, United States",
+        "Parsippany-Troy Hills, New Jersey, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.thecignagroup.com/us/en/job/26009533/The-Cigna-Group-s-Technology-Development-Program-Data-Analytics-Engineering-Track-Summer-Internship",
+      "url": "https://trueinterview.io/jobs/dd2aca16-b61b-49ad-a9da-b18b9fb8cc6d",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
