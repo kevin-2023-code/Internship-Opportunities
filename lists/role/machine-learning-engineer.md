@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**79 open roles.** 65 in the United States & Canada · 14 elsewhere in the world.
+**80 open roles.** 66 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -49,7 +49,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Savannah River Mission Completion</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e1aff9e-f475-477f-95c1-3f2b3b8b8fd5">2027 Summer Intern-Computer Science (Artificial Intelligence/Machine Learning)</a></td>
 <td>Aiken, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485142082/">Apply</a></td>
+<td align="center"><a href="https://careers-lse-srmc.icims.com/jobs/2261/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -106,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0">ML Innovation for Products, PhD Research Intern</a></td>
 <td>Sunnyvale, CA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483410748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BRAIN</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba9e0793-7a60-421d-9d71-9f54898448dc">Machine Learning Engineer, Applied AI Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -314,7 +321,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>

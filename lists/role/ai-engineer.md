@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**81 open roles.** 57 in the United States & Canada · 24 elsewhere in the world.
+**82 open roles.** 58 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Church &amp; Dwight Co., Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1caff93-9bcf-41be-ae8e-f7561b74dffd">AI Developer Co-op - Graduate Program (9 Months)</a></td>
+<td>Ewing, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468679563/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Nissan Motor Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/8ee0363e-da0b-4ce6-94ec-7ba72aac9dc4">AI Agent Architect Intern - Summer 2027 - Farmington Hills, MI</a></td>

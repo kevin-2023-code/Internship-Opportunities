@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**98 open roles.**
+**97 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -482,7 +482,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Amazon.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>Boston, MA</td>
+<td>Boston, MA<br/>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
@@ -694,13 +694,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4dcf1138-c565-49d5-952e-4958406d54a0">Print Optimization Intern (Winter/Spring 2027)</a></td>
 <td>Somerville, Massachusetts</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8172256/apply/?gh_jid=8172256">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4eb7217-51dc-4538-8c4a-e120e0f2ae01">Bridge Design &amp; Structural Engineering Internship</a></td>
-<td>Boston, MA<br/>Chicago, IL</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5227333007?gh_jid=5227333007">Apply</a></td>
 <td align="center">1 Sep 2026</td>
 </tr>
 </tbody>

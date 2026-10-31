@@ -167,7 +167,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>WEX</strong></td>
 <td><a href="https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479">Software Engineer Intern</a></td>
-<td>Maine, United States</td>
+<td>Maine, United States<br/>Remote</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485600033/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
