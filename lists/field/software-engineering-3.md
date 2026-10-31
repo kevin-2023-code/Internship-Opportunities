@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**940 open roles.** 776 in the United States & Canada · 164 elsewhere in the world.
+**939 open roles.** 775 in the United States & Canada · 164 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ab40b7a-b0f3-491f-9ac5-bb9cea55b9a9">System Level Product Engineer (RDSS Intern)</a></td>
-<td>Hsinchu City, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593534/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8b8ae94e-e0b1-45be-baf1-1a5c5cc6c29d">System Level Test Engineer (RDSS Intern)</a></td>
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484592588/">Apply</a></td>

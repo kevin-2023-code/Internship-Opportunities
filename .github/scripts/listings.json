@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T22:05:11.300Z",
-  "count": 2286,
+  "listingsChangedAt": "2026-10-31T23:04:20.273Z",
+  "count": 2285,
   "listings": [
     {
       "id": "e2295242-0525-4a30-8389-228b7d46ad9e",
@@ -59414,34 +59414,6 @@
       "url": "https://trueinterview.io/jobs/8e219271-5f75-4cdd-9376-05ceeed3d9ef",
       "postedAt": "2026-09-01T23:05:41.000Z",
       "updatedAt": "2026-09-01T23:05:41.000Z"
-    },
-    {
-      "id": "69ca853f-b300-47e9-9d7c-991dec6b617c",
-      "company": "Iex Group",
-      "title": "Software Development Engineer in Test Intern",
-      "locations": [
-        "New York",
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://iex.io/careers/apply?gh_jid=8172248",
-      "url": "https://trueinterview.io/jobs/69ca853f-b300-47e9-9d7c-991dec6b617c",
-      "postedAt": "2026-09-01T22:51:27.000Z",
-      "updatedAt": "2026-09-01T22:51:27.000Z"
     }
   ]
 }

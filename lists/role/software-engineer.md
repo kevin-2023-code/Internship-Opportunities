@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**271 open roles.** 221 in the United States & Canada · 50 elsewhere in the world.
+**270 open roles.** 220 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1556,13 +1556,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>US, California, Santa Clara<br/>+2 more</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834">Apply</a></td>
 <td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Iex Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/69ca853f-b300-47e9-9d7c-991dec6b617c">Software Development Engineer in Test Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://iex.io/careers/apply?gh_jid=8172248">Apply</a></td>
-<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

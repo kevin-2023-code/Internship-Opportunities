@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**940 open roles.** 776 in the United States & Canada · 164 elsewhere in the world.
+**939 open roles.** 775 in the United States & Canada · 164 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2640,13 +2640,6 @@
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Iex Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/69ca853f-b300-47e9-9d7c-991dec6b617c">Software Development Engineer in Test Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://iex.io/careers/apply?gh_jid=8172248">Apply</a></td>
-<td align="center">1 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/23b2b871-e871-4abd-962a-0ceb07ddb441">Server Firmware Developer (RDSS Intern)</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467130464/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0ab40b7a-b0f3-491f-9ac5-bb9cea55b9a9">System Level Product Engineer (RDSS Intern)</a></td>
+<td>Hsinchu City, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593534/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
