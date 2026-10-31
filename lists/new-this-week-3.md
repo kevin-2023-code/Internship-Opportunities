@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,179 open roles.** 930 in the United States & Canada · 249 elsewhere in the world. Everything the employers put up this week.
+**1,182 open roles.** 931 in the United States & Canada · 251 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Westinghouse Electric Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e4fb177-3e28-4e38-99e0-519eabaf3ab0">Summer Intern -Computer Engineering / Software Engineering</a></td>
+<td>Cranberry Township, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457165900/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/352d1401-79ab-4bfe-9c17-8993d99f1a71">Summer Intern -Electrical Engineering</a></td>
 <td>Cranberry Township, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457170584/">Apply</a></td>
@@ -937,6 +944,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bc358c2-36d8-4d73-89bb-8f97458cfa66">Formal Verification Intern</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200682664">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6200aa9b-201d-4787-b28f-48070aea4f69">Technical Internship - Apple Wallet, Payments &amp; Commerce</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692619">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Nestlé</strong></td>
 <td><a href="https://trueinterview.io/jobs/8a01f69f-6d6d-495d-97b1-075b6faa4804">Knowledge Engineering Intern</a></td>

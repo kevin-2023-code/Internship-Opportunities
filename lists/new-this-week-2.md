@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,179 open roles.** 930 in the United States & Canada · 249 elsewhere in the world. Everything the employers put up this week.
+**1,182 open roles.** 931 in the United States & Canada · 251 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -297,6 +297,13 @@
 </tr>
 <tr>
 <td><strong>Diversified Automation Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dc2d510-3a6e-47f8-89a6-a29662de452e">Controls Engineering Co-Op</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a38c45e4-cb3b-4a65-9b97-a99346286a1d">Hardware Engineering Co-Op</a></td>
 <td>Louisville, KY</td>
 <td align="center"><a href="https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3">Apply</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/5722f317-246c-4c47-bd1d-13479c43b766">Engineering Co-Op (Spring 2027)</a></td>
 <td>Maumee, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4440089864/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Westinghouse Electric Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e4fb177-3e28-4e38-99e0-519eabaf3ab0">Summer Intern -Computer Engineering / Software Engineering</a></td>
-<td>Cranberry Township, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457165900/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

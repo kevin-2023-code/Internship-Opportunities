@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,179 open roles.** 930 in the United States & Canada · 249 elsewhere in the world. Everything the employers put up this week.
+**1,182 open roles.** 931 in the United States & Canada · 251 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -41,6 +41,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Silver Lake Research Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/87c5d0a6-65fc-4f5f-b62f-b30d42a07db3">AI Automation and Agent Development Internship</a></td>
+<td>Azusa, CA</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=2b61246c14948a66">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec">SAP iXp Intern - Agile Developer, Business Data Cloud</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
@@ -59,13 +66,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1574654f-af09-414b-8734-ca433d948f44">Database Designer Intern - Canada</a></td>
 <td>Canada</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/clinchoice/jobs/5021155101">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fussball Club Cincinnati LLC (“FC Cincinnati”)</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5351992-89f8-4a7d-9704-2e361c5fa1cc">Data Analyst Intern</a></td>
-<td>Cincinnati, Ohio, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1207,6 +1207,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/859baf0c-101f-4468-9e84-c0b79093b3f8">Engineering Intern - Design for Reliability (Spring 2027 Co-Op)</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467594882/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Miami</strong></td>
+<td><a href="https://trueinterview.io/jobs/c80f409c-22c6-4541-b497-5fa02b744fa5">Data Science &amp; AI Intern</a></td>
+<td>Miami, Florida, United States</td>
+<td align="center"><a href="https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2551,13 +2558,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec7628da-3172-49ed-a59d-7af987e7f145">Firmware Engineer Intern (Graduate Level) (Summer 2027)</a></td>
 <td>Delaware, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459602356/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kirk Automations</strong></td>
-<td><a href="https://trueinterview.io/jobs/f54100ee-f7bf-49c1-9d2e-173cfccc5005">Intern AI Programmer</a></td>
-<td>Troy, MI</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=0ad3f700baa9c412">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

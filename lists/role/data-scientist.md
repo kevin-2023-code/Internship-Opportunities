@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**59 open roles.** 52 in the United States & Canada · 7 elsewhere in the world.
+**60 open roles.** 53 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cd121b23-ef7a-4d8c-844c-3a6d5326ef0a">Graduate Intern - Modeling and Data Science</a></td>
 <td>Bloomington, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485299157/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>University of Miami</strong></td>
+<td><a href="https://trueinterview.io/jobs/c80f409c-22c6-4541-b497-5fa02b744fa5">Data Science &amp; AI Intern</a></td>
+<td>Miami, Florida, United States</td>
+<td align="center"><a href="https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

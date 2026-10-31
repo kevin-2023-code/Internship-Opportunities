@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T00:11:04.797Z",
-  "count": 2147,
+  "listingsChangedAt": "2026-10-31T01:04:59.613Z",
+  "count": 2150,
   "listings": [
     {
       "id": "b572b229-80ec-4964-b230-923e42037261",
@@ -48,7 +48,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",
@@ -84,6 +84,58 @@
       "url": "https://trueinterview.io/jobs/7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
       "postedAt": "2026-10-30T19:15:02.000Z",
       "updatedAt": "2026-10-30T19:15:02.000Z"
+    },
+    {
+      "id": "0bc358c2-36d8-4d73-89bb-8f97458cfa66",
+      "company": "Apple",
+      "title": "Formal Verification Intern",
+      "locations": [
+        "Munich, Bavaria, Germany"
+      ],
+      "cities": [
+        "Munich"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200682664",
+      "url": "https://trueinterview.io/jobs/0bc358c2-36d8-4d73-89bb-8f97458cfa66",
+      "postedAt": "2026-10-30T18:49:27.000Z",
+      "updatedAt": "2026-10-30T18:49:27.000Z"
+    },
+    {
+      "id": "87c5d0a6-65fc-4f5f-b62f-b30d42a07db3",
+      "company": "Silver Lake Research Corporation",
+      "title": "AI Automation and Agent Development Internship",
+      "locations": [
+        "Azusa, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=2b61246c14948a66",
+      "url": "https://trueinterview.io/jobs/87c5d0a6-65fc-4f5f-b62f-b30d42a07db3",
+      "postedAt": "2026-10-30T18:15:52.000Z",
+      "updatedAt": "2026-10-30T18:15:52.000Z"
     },
     {
       "id": "10d4a23e-4e3e-4441-bc83-bf4df32cd3ec",
@@ -127,7 +179,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -138,6 +190,33 @@
       "url": "https://trueinterview.io/jobs/6a57a759-0c1a-4f90-a6c5-866bd6b0a0a7",
       "postedAt": "2026-10-30T16:19:43.000Z",
       "updatedAt": "2026-10-30T16:19:43.000Z"
+    },
+    {
+      "id": "6200aa9b-201d-4787-b28f-48070aea4f69",
+      "company": "Apple",
+      "title": "Technical Internship - Apple Wallet, Payments & Commerce",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200692619",
+      "url": "https://trueinterview.io/jobs/6200aa9b-201d-4787-b28f-48070aea4f69",
+      "postedAt": "2026-10-30T16:12:26.000Z",
+      "updatedAt": "2026-10-30T16:12:26.000Z"
     },
     {
       "id": "1574654f-af09-414b-8734-ca433d948f44",
@@ -152,7 +231,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Data & AI",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -163,31 +242,6 @@
       "url": "https://trueinterview.io/jobs/1574654f-af09-414b-8734-ca433d948f44",
       "postedAt": "2026-10-30T15:56:45.000Z",
       "updatedAt": "2026-10-30T15:56:45.000Z"
-    },
-    {
-      "id": "d5351992-89f8-4a7d-9704-2e361c5fa1cc",
-      "company": "Fussball Club Cincinnati LLC (“FC Cincinnati”)",
-      "title": "Data Analyst Intern",
-      "locations": [
-        "Cincinnati, Ohio, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003",
-      "url": "https://trueinterview.io/jobs/d5351992-89f8-4a7d-9704-2e361c5fa1cc",
-      "postedAt": "2026-10-30T14:26:32.000Z",
-      "updatedAt": "2026-10-30T14:26:32.000Z"
     },
     {
       "id": "6b01f696-9595-4501-a4bc-d60643d8b994",
@@ -5320,6 +5374,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4474884596/",
       "url": "https://trueinterview.io/jobs/d3179e75-5370-41d5-addf-45136009f9a8",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "c80f409c-22c6-4541-b497-5fa02b744fa5",
+      "company": "University of Miami",
+      "title": "Data Science & AI Intern",
+      "locations": [
+        "Miami, Florida, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144",
+      "url": "https://trueinterview.io/jobs/c80f409c-22c6-4541-b497-5fa02b744fa5",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
@@ -11373,31 +11452,6 @@
       "updatedAt": "2026-10-29T12:47:00.000Z"
     },
     {
-      "id": "f54100ee-f7bf-49c1-9d2e-173cfccc5005",
-      "company": "Kirk Automations",
-      "title": "Intern AI Programmer",
-      "locations": [
-        "Troy, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=0ad3f700baa9c412",
-      "url": "https://trueinterview.io/jobs/f54100ee-f7bf-49c1-9d2e-173cfccc5005",
-      "postedAt": "2026-10-29T12:44:37.000Z",
-      "updatedAt": "2026-10-29T12:44:37.000Z"
-    },
-    {
       "id": "a4ae0c99-e7bf-4d51-9883-b84acaf1c563",
       "company": "Layup Parts",
       "title": "Electrical Engineering Intern",
@@ -14911,6 +14965,31 @@
       "source": "indeed",
       "applyUrl": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
       "url": "https://trueinterview.io/jobs/668e96cb-e203-4d78-b34b-f9ea93359075",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "9dc2d510-3a6e-47f8-89a6-a29662de452e",
+      "company": "Diversified Automation Inc",
+      "title": "Controls Engineering Co-Op",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d",
+      "url": "https://trueinterview.io/jobs/9dc2d510-3a6e-47f8-89a6-a29662de452e",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
