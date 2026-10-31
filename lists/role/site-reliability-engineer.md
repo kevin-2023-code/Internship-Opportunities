@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**8 open roles.** 6 in the United States & Canada · 2 elsewhere in the world.
+**9 open roles.** 7 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -58,6 +58,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bellevue, WA<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1609178343953401/">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Immuta</strong></td>
+<td><a href="https://trueinterview.io/jobs/73ce5821-d7fa-467b-89db-9f491ed0da44">Platform &amp; Site Reliability Engineering Internship - Summer 2027</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

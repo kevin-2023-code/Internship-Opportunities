@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**351 open roles.** 272 in the United States & Canada · 79 elsewhere in the world.
+**368 open roles.** 287 in the United States & Canada · 81 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1921,6 +1921,111 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/72700c8e-9101-4bb5-875b-31599f2eb316">Customer Care AI Analyst Intern - Summer 2027</a></td>
+<td>Columbus, OH, USA<br/>United States of America</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
+<td>San Francisco, California, United States<br/>New York, NY</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cim Group, Lp</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a5d3216-939f-4937-832d-34c7a82b29aa">Data Science Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Smartlyio</strong></td>
+<td><a href="https://trueinterview.io/jobs/c937133a-7136-4db6-9056-2423c59ccd44">Marketing Science Intern</a></td>
+<td>Chicago, Illinois, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/smartlyio/jobs/6186906004">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Immuta</strong></td>
+<td><a href="https://trueinterview.io/jobs/15b4a087-4cc4-45c8-b322-0311dc34280a">Product Research Internship - Summer 2027</a></td>
+<td>College Park, MD</td>
+<td align="center"><a href="https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Coinbase</strong></td>
+<td><a href="https://trueinterview.io/jobs/79acc117-007a-4690-94c9-d9af4b520733">People Analytics Intern</a></td>
+<td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ec8f4f85-cf8c-4336-8304-7ada9120867c">Machine Learning Engineer Intern</a></td>
+<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42778b18-ccdf-43b3-a92c-e15b1f4fc238">Analytics Engineer Intern</a></td>
+<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15867854-5a48-4e31-b339-da3b242d4da2">Data Science Intern</a></td>
+<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0758c040-c745-4d06-b8d0-d6bd7f0dd8d5">Data Engineer Intern</a></td>
+<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eudia</strong></td>
+<td><a href="https://trueinterview.io/jobs/c304820a-4582-42c5-a845-cafd9633da2d">AI Engineer Intern</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eudia/jobs/4020078009">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kodiak</strong></td>
+<td><a href="https://trueinterview.io/jobs/b91adc62-c7b8-4e44-80b1-1eea0409af49">Winter 2027 Intern, Data Engineering</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4396622009">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wealthsimple</strong></td>
+<td><a href="https://trueinterview.io/jobs/2708ad7d-bcc9-4418-8975-6377ef573e0a">Credit &amp; Fraud Analytics Intern (Winter 2027)</a></td>
+<td>Toronto, Ontario</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application">Apply</a></td>
+<td align="center">3 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/2039f31d-7836-4bbc-a0ec-85bb28fa6569">Data Science/ Data Engineer Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -2485,6 +2590,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo<br/>Brasil<br/>Sorocaba<br/>+1 more</td>
 <td align="center"><a href="https://www.monks.com/careers/6100057004/job?gh_jid=6100057004">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Barnes &amp; Thornburg Llp</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6066ee5-986f-4888-802d-34a84acdaac1">2027 BT RISE Internship - Information Technology Data Intern</a></td>
+<td>Indianapolis</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83">2027 BT RISE Internship - Information Technology AI Intern</a></td>
+<td>Indianapolis</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

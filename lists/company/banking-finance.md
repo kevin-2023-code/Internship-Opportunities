@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**20 open roles.** 12 in the United States & Canada · 8 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**21 open roles.** 13 in the United States & Canada · 8 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,6 +100,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Jersey City, NJ, United States</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790885">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Iex Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/69ca853f-b300-47e9-9d7c-991dec6b617c">Software Development Engineer in Test Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://iex.io/careers/apply?gh_jid=8172248">Apply</a></td>
+<td align="center">1 Sep 2026</td>
 </tr>
 </tbody>
 </table>

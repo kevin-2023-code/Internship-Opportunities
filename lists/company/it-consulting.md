@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**19 open roles.** Systems integrators, management consultancies, outsourcing and staffing.
+**20 open roles.** 19 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -149,6 +149,25 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Rochester, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Gallup</strong></td>
+<td><a href="https://trueinterview.io/jobs/b06ad3d3-2464-4438-80b2-73d07a8e6978">Product Design Intern — Summer 2027</a></td>
+<td>Omaha Riverfront</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4394610009">Apply</a></td>
+<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>
