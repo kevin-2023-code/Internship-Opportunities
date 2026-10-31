@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**61 open roles.** 54 in the United States & Canada · 7 elsewhere in the world.
+**63 open roles.** 54 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -408,6 +408,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Pigment</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7a2145c-11aa-4d1b-959b-0cfb3f365e67">Data Scientist Internship</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/pigment/3401c965-2e1a-426d-8d58-9ca56c5054bf">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/d1941edc-d0b7-4a92-8675-a9aaa2d5a7a0">Internship - Supply Chain Data Scientist</a></td>
 <td>Singapore</td>
@@ -419,6 +426,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8a0403e9-415c-4436-bcdb-9b58a5a2c82f">Internship - Data Scientist</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472004638/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f45af90-da07-4a38-b1f3-6a309640f77d">Data Scientist Intern - Supplier Management Analytics &amp; AI</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Scientist-Intern---Supplier-Management-Analytics---AI_UNI4457-1">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
