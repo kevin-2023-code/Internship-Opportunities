@@ -5,9 +5,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T06:06:32.127Z",
-  "count": 2169,
+  "listingsChangedAt": "2026-10-31T07:04:03.002Z",
+  "count": 2172,
   "listings": [
+    {
+      "id": "166b4355-6dbd-428c-942f-0a56face66fb",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Agent for Recommendation (PhD)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483923591/",
+      "url": "https://trueinterview.io/jobs/166b4355-6dbd-428c-942f-0a56face66fb",
+      "postedAt": "2026-10-31T05:54:00.000Z",
+      "updatedAt": "2026-10-31T05:54:00.000Z"
+    },
+    {
+      "id": "dc0275c0-3ec8-482c-b25d-7c0b424b008f",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI (PhD)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483933152/",
+      "url": "https://trueinterview.io/jobs/dc0275c0-3ec8-482c-b25d-7c0b424b008f",
+      "postedAt": "2026-10-31T05:54:00.000Z",
+      "updatedAt": "2026-10-31T05:54:00.000Z"
+    },
+    {
+      "id": "1da23fdf-3afb-40f3-92c5-6ace38c2826d",
+      "company": "BioSpace",
+      "title": "2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)",
+      "locations": [
+        "North Chicago, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485686040/",
+      "url": "https://trueinterview.io/jobs/1da23fdf-3afb-40f3-92c5-6ace38c2826d",
+      "postedAt": "2026-10-31T05:53:00.000Z",
+      "updatedAt": "2026-10-31T05:53:00.000Z"
+    },
     {
       "id": "ee5c4544-3d7e-4779-bbc1-6d3be3aee54b",
       "company": "BioSpace",
@@ -34,6 +113,31 @@
       "updatedAt": "2026-10-31T05:40:00.000Z"
     },
     {
+      "id": "4e1aff9e-f475-477f-95c1-3f2b3b8b8fd5",
+      "company": "Savannah River Mission Completion",
+      "title": "2027 Summer Intern-Computer Science (Artificial Intelligence/Machine Learning)",
+      "locations": [
+        "Aiken, SC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485142082/",
+      "url": "https://trueinterview.io/jobs/4e1aff9e-f475-477f-95c1-3f2b3b8b8fd5",
+      "postedAt": "2026-10-31T05:39:00.000Z",
+      "updatedAt": "2026-10-31T05:39:00.000Z"
+    },
+    {
       "id": "baae7a59-0c3b-45b0-8344-bb414b5e1479",
       "company": "WEX",
       "title": "Software Engineer Intern",
@@ -57,6 +161,33 @@
       "url": "https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479",
       "postedAt": "2026-10-31T05:31:00.000Z",
       "updatedAt": "2026-10-31T05:31:00.000Z"
+    },
+    {
+      "id": "9063dc10-6670-4b3e-8685-b011f982fead",
+      "company": "Apple",
+      "title": "Intern, Site Reliability Engineer, iCloud",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200691892",
+      "url": "https://trueinterview.io/jobs/9063dc10-6670-4b3e-8685-b011f982fead",
+      "postedAt": "2026-10-30T11:27:45.000Z",
+      "updatedAt": "2026-10-31T05:24:00.000Z"
     },
     {
       "id": "c1e073fe-c212-4772-ba1b-6e683bb6fc6d",
@@ -1144,33 +1275,6 @@
       "url": "https://trueinterview.io/jobs/e93b7b48-7cc6-4731-a1ae-b69562d4b4aa",
       "postedAt": "2026-10-30T11:36:00.000Z",
       "updatedAt": "2026-10-30T11:36:00.000Z"
-    },
-    {
-      "id": "9063dc10-6670-4b3e-8685-b011f982fead",
-      "company": "Apple",
-      "title": "Intern, Site Reliability Engineer, iCloud",
-      "locations": [
-        "London, England, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.apple.com/en-us/details/200691892",
-      "url": "https://trueinterview.io/jobs/9063dc10-6670-4b3e-8685-b011f982fead",
-      "postedAt": "2026-10-30T11:27:45.000Z",
-      "updatedAt": "2026-10-30T11:27:45.000Z"
     },
     {
       "id": "995b6d61-a155-43cf-84b9-31ea944fbc1d",
@@ -17689,32 +17793,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4482570331/",
       "url": "https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1",
       "postedAt": "2026-10-28T23:35:00.000Z",
-      "updatedAt": "2026-10-28T23:40:00.000Z"
-    },
-    {
-      "id": "6ef72846-1d13-4364-bbd3-45362d7e7a52",
-      "company": "T-Mobile",
-      "title": "Summer 2027 Assoc AI Engineer Internship",
-      "locations": [
-        "Overland Park, KS",
-        "Frisco, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484759332/",
-      "url": "https://trueinterview.io/jobs/6ef72846-1d13-4364-bbd3-45362d7e7a52",
-      "postedAt": "2026-10-28T23:27:00.000Z",
       "updatedAt": "2026-10-28T23:40:00.000Z"
     },
     {
