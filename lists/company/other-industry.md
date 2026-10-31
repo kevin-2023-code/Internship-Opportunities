@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world. A real classification that none of the other sectors covers.
+**6 open roles.** 4 in the United States & Canada · 2 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,41 +45,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117445">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Cim Group, Lp</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a5d3216-939f-4937-832d-34c7a82b29aa">Data Science Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b/apply">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fairlife</strong></td>
-<td><a href="https://trueinterview.io/jobs/d54148a3-043a-4147-9b5b-3bd158aa6710">Project Engineering Intern (Summer 2027)</a></td>
-<td>Goodyear, Arizona, United States<br/>Coopersville, Michigan, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231491007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/79dd38d3-625e-44b6-bd5f-b38b00514280">Engineering Utilities Intern (Summer 2027)</a></td>
-<td>Goodyear, Arizona, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231477007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8e5ff93f-6bb6-4868-a95f-991e2c94e195">Continuous Improvement Intern (Summer 2027)</a></td>
-<td>Coopersville, Michigan, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/fairlife/jobs/5231464007">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Northmarq</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8baad8a-5f16-4544-a8eb-e9d937d2d666">Software Engineering Intern, Summer 2027</a></td>
-<td>Minneapolis, Minnesota, United States<br/>Minneapolis, MN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/northmarq/jobs/5414475008">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -105,13 +70,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo<br/>Brasil<br/>Sorocaba<br/>+1 more</td>
 <td align="center"><a href="https://www.monks.com/careers/6100057004/job?gh_jid=6100057004">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>O'connell Electric Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8987a40-9417-4335-a566-b09468148ac7">Electrical Engineer Intern (Summer 2027)</a></td>
-<td>Victor, Rochester, Syracuse</td>
-<td align="center"><a href="https://www.oconnellelectric.com/careers-apply?gh_jid=6182541004">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>
