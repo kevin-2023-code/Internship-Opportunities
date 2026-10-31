@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-30T23:04:01.062Z",
-  "count": 2152,
+  "listingsChangedAt": "2026-10-31T00:11:04.797Z",
+  "count": 2147,
   "listings": [
     {
       "id": "b572b229-80ec-4964-b230-923e42037261",
@@ -5192,6 +5192,33 @@
       "applyUrl": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892",
       "url": "https://trueinterview.io/jobs/7473a506-d7e5-4dde-b040-3a7740d03e6a",
       "postedAt": "2026-10-29T10:58:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "44365ca6-fe2b-4c44-89ed-0a8ceb472660",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
+      "url": "https://trueinterview.io/jobs/44365ca6-fe2b-4c44-89ed-0a8ceb472660",
+      "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
     {
@@ -55786,181 +55813,6 @@
       "url": "https://trueinterview.io/jobs/5cd414d9-0f9e-4fac-b0dd-bcb771d8be92",
       "postedAt": "2026-09-01T18:47:47.000Z",
       "updatedAt": "2026-09-01T18:47:47.000Z"
-    },
-    {
-      "id": "5b714c58-fd1f-4a49-a13b-ac79c9a00f4f",
-      "company": "AMD",
-      "title": "2027 Masters Compiler Engineering Intern / Co-op",
-      "locations": [
-        "US,CA,San Jose",
-        "US,TX,Austin",
-        "San Jose, California, United States",
-        "Santa Clara, California, United States",
-        "Austin, Texas, United States",
-        "Boxborough, Massachusetts, United States",
-        "Fishkill, New York, United States",
-        "Fort Collins, Colorado, United States",
-        "Longmont, Colorado, United States"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/91866?lang=en-us",
-      "url": "https://trueinterview.io/jobs/5b714c58-fd1f-4a49-a13b-ac79c9a00f4f",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "d6516e44-4c2b-47b4-8efe-4e2b928e7af2",
-      "company": "AMD",
-      "title": "2027 Undergrad Compiler Engineering Intern / Co-op",
-      "locations": [
-        "US,TX,Austin",
-        "US,CA,Santa Clara",
-        "Austin, Texas, United States",
-        "Boxborough, Massachusetts, United States",
-        "Fishkill, New York, United States",
-        "Fort Collins, Colorado, United States",
-        "Longmont, Colorado, United States",
-        "Santa Clara, California, United States",
-        "San Jose, California, United States"
-      ],
-      "cities": [
-        "Austin, TX",
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/91864?lang=en-us",
-      "url": "https://trueinterview.io/jobs/d6516e44-4c2b-47b4-8efe-4e2b928e7af2",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "2f03dde2-c35b-4cc6-aff4-0c3930a47dfc",
-      "company": "Micron Technology",
-      "title": "Intern - DRAM Technology DTCO & PPA Assessment Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44139007",
-      "url": "https://trueinterview.io/jobs/2f03dde2-c35b-4cc6-aff4-0c3930a47dfc",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "a324bb52-6ae7-4fb3-a9f1-c55eb7265ddf",
-      "company": "Micron Technology",
-      "title": "Intern - EUV Lithography",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/43721128",
-      "url": "https://trueinterview.io/jobs/a324bb52-6ae7-4fb3-a9f1-c55eb7265ddf",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "1bf9d80a-4964-4eeb-8843-f509bc03da1a",
-      "company": "Panasonic",
-      "title": "Intern - Controls Engineering",
-      "locations": [
-        "Bridgeton, Missouri, United States",
-        "Suwanee, Georgia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.na.panasonic.com/jobs/50757?lang=en-us",
-      "url": "https://trueinterview.io/jobs/1bf9d80a-4964-4eeb-8843-f509bc03da1a",
-      "postedAt": "2026-09-01T00:00:00.000Z",
-      "updatedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "12ec5ae4-f8f1-41c2-92e4-fc55088bc01b",
-      "company": "Antares",
-      "title": "Controls Engineering Intern / Student Researcher",
-      "locations": [
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/antares/92a0d857-1a5f-4edd-bf95-6289a5cd36ea/application",
-      "url": "https://trueinterview.io/jobs/12ec5ae4-f8f1-41c2-92e4-fc55088bc01b",
-      "postedAt": "2026-08-31T23:31:55.000Z",
-      "updatedAt": "2026-08-31T23:31:55.000Z"
     }
   ]
 }
