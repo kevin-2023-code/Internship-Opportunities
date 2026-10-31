@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**402 open roles.**
+**404 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/d96160ae-028e-4079-86b4-9654fe179b6c">Software Engineering - Intern, Bachelor’s</a></td>
+<td>US, California, Santa Clara<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fdef149-3186-44da-b1f1-73998cc6c297">Software Engineering - Intern, Graduate</a></td>
+<td>US, California, Santa Clara<br/>US, Oregon, Hillsboro, United States of America<br/>US, California, Folsom<br/>+2 more</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836">Apply</a></td>
+<td align="center">2 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e219271-5f75-4cdd-9376-05ceeed3d9ef">Electrical Engineer Intern - Fall 2026</a></td>

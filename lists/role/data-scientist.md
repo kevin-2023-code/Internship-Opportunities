@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**60 open roles.** 53 in the United States & Canada · 7 elsewhere in the world.
+**61 open roles.** 54 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -232,6 +232,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1d6d89bf-34e7-40c8-acd8-1c6081f52bc3">Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8adfdd7-ba21-46d3-a2fe-5ce02e588841">University, 2027 Summer Games Data Scientist Intern - Colorado Springs, CO</a></td>
+<td>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
