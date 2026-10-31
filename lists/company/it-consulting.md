@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b21c7934-91e7-42bf-949e-513487b35013">Product Manager Intern 2027 - Lowell</a></td>
+<td>Lowell, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474856164/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>TELUS Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a0cd4d0-d667-45a7-8a3d-63a0ceb05653">Software Engineering Intern (US) - Summer 2027</a></td>

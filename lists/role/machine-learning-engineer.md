@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**77 open roles.** 64 in the United States & Canada · 13 elsewhere in the world.
+**78 open roles.** 65 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Philo Homes</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdc46896-3fc6-4f9b-a786-9cc1c024fd44">Computer Vision Intern (Bilingual: English/Mandarin)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485131430/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1">Master's Machine Learning Engineer, Intern</a></td>

@@ -5,9 +5,261 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T09:04:38.082Z",
-  "count": 2178,
+  "listingsChangedAt": "2026-10-31T10:04:31.756Z",
+  "count": 2189,
   "listings": [
+    {
+      "id": "3ae0b614-4058-4154-a713-6929cbf76a72",
+      "company": "ByteDance",
+      "title": "Software Engineer Project Intern (Developer Infrastructure) - 2027 Start",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477834689/",
+      "url": "https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72",
+      "postedAt": "2026-10-31T09:34:00.000Z",
+      "updatedAt": "2026-10-31T09:34:00.000Z"
+    },
+    {
+      "id": "7552f3ab-d893-4d38-9cff-b47cfc4eceb6",
+      "company": "Lennox",
+      "title": "Cloud Advance Admin/Developer Intern",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468827632/",
+      "url": "https://trueinterview.io/jobs/7552f3ab-d893-4d38-9cff-b47cfc4eceb6",
+      "postedAt": "2026-10-31T09:25:00.000Z",
+      "updatedAt": "2026-10-31T09:25:00.000Z"
+    },
+    {
+      "id": "335c6bf8-628a-4da3-9660-4888a16b78bd",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Software Developer Intern - Charleston, SC",
+      "locations": [
+        "Charleston, SC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460518284/",
+      "url": "https://trueinterview.io/jobs/335c6bf8-628a-4da3-9660-4888a16b78bd",
+      "postedAt": "2026-10-31T09:22:00.000Z",
+      "updatedAt": "2026-10-31T09:22:00.000Z"
+    },
+    {
+      "id": "4125a702-b7d5-48e8-8fa0-cb23e0e2d7c8",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Software Developer Intern - San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459829472/",
+      "url": "https://trueinterview.io/jobs/4125a702-b7d5-48e8-8fa0-cb23e0e2d7c8",
+      "postedAt": "2026-10-31T09:20:00.000Z",
+      "updatedAt": "2026-10-31T09:20:00.000Z"
+    },
+    {
+      "id": "87b58e35-d224-4bf0-930a-a3e84ff0eeda",
+      "company": "Booz Allen Hamilton",
+      "title": "University, 2027 Summer Games Data Scientist Intern - Rome, NY",
+      "locations": [
+        "Rome, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460503549/",
+      "url": "https://trueinterview.io/jobs/87b58e35-d224-4bf0-930a-a3e84ff0eeda",
+      "postedAt": "2026-10-31T09:20:00.000Z",
+      "updatedAt": "2026-10-31T09:20:00.000Z"
+    },
+    {
+      "id": "e11c40a0-ebc7-40cd-bac1-12fb639de3c5",
+      "company": "Lennox",
+      "title": "AI Engineering Intern Summer 2027",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468835425/",
+      "url": "https://trueinterview.io/jobs/e11c40a0-ebc7-40cd-bac1-12fb639de3c5",
+      "postedAt": "2026-10-31T09:20:00.000Z",
+      "updatedAt": "2026-10-31T09:20:00.000Z"
+    },
+    {
+      "id": "f737dbe3-b49c-4f4d-902b-0af1b9810cad",
+      "company": "Booz Allen Hamilton",
+      "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
+      "locations": [
+        "McLean, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459884945/",
+      "url": "https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad",
+      "postedAt": "2026-10-31T09:16:19.000Z",
+      "updatedAt": "2026-10-31T09:16:19.000Z"
+    },
+    {
+      "id": "fc4e8afc-5270-4ba2-bbc3-a52c091627ff",
+      "company": "Parsons Corporation",
+      "title": "Software Engineer Co-Op - TS/SCI",
+      "locations": [
+        "Centreville, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477822908/",
+      "url": "https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff",
+      "postedAt": "2026-10-31T09:16:19.000Z",
+      "updatedAt": "2026-10-31T09:16:19.000Z"
+    },
+    {
+      "id": "1bd2c07e-01a8-4c62-b264-1a4bbe7f41fd",
+      "company": "Lennox",
+      "title": "AI-Enabled Full-Stack Software Engineering Intern",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468834524/",
+      "url": "https://trueinterview.io/jobs/1bd2c07e-01a8-4c62-b264-1a4bbe7f41fd",
+      "postedAt": "2026-10-31T09:15:00.000Z",
+      "updatedAt": "2026-10-31T09:15:00.000Z"
+    },
+    {
+      "id": "b21c7934-91e7-42bf-949e-513487b35013",
+      "company": "IBM",
+      "title": "Product Manager Intern 2027 - Lowell",
+      "locations": [
+        "Lowell, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474856164/",
+      "url": "https://trueinterview.io/jobs/b21c7934-91e7-42bf-949e-513487b35013",
+      "postedAt": "2026-10-31T08:51:00.000Z",
+      "updatedAt": "2026-10-31T08:51:00.000Z"
+    },
     {
       "id": "1eb28376-2fd5-4dd6-ad2d-156093646038",
       "company": "T-Mobile",
@@ -32,6 +284,56 @@
       "url": "https://trueinterview.io/jobs/1eb28376-2fd5-4dd6-ad2d-156093646038",
       "postedAt": "2026-10-31T08:13:00.000Z",
       "updatedAt": "2026-10-31T08:13:00.000Z"
+    },
+    {
+      "id": "be9f288f-42d6-4fb2-9960-306c82e55888",
+      "company": "First Citizens Bank",
+      "title": "2027 Summer Intern - Quantitative Modeling (Raleigh, NC)",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485673413/",
+      "url": "https://trueinterview.io/jobs/be9f288f-42d6-4fb2-9960-306c82e55888",
+      "postedAt": "2026-10-31T06:55:00.000Z",
+      "updatedAt": "2026-10-31T06:55:00.000Z"
+    },
+    {
+      "id": "fdc46896-3fc6-4f9b-a786-9cc1c024fd44",
+      "company": "Philo Homes",
+      "title": "Computer Vision Intern (Bilingual: English/Mandarin)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485131430/",
+      "url": "https://trueinterview.io/jobs/fdc46896-3fc6-4f9b-a786-9cc1c024fd44",
+      "postedAt": "2026-10-31T06:55:00.000Z",
+      "updatedAt": "2026-10-31T06:55:00.000Z"
     },
     {
       "id": "30943450-a8cb-42b7-ace8-dc5392842ab1",
@@ -719,6 +1021,31 @@
       "url": "https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261",
       "postedAt": "2026-10-30T20:24:21.000Z",
       "updatedAt": "2026-10-30T23:41:00.000Z"
+    },
+    {
+      "id": "b8ace4be-f9ec-4d10-bc42-54898435558d",
+      "company": "Brain Co.",
+      "title": "AI Security Engineer Intern (Summer 2027)",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485614759/",
+      "url": "https://trueinterview.io/jobs/b8ace4be-f9ec-4d10-bc42-54898435558d",
+      "postedAt": "2026-10-30T23:23:00.000Z",
+      "updatedAt": "2026-10-30T23:23:00.000Z"
     },
     {
       "id": "e7f9ac92-08be-4f4b-9160-7d1a66628ed5",
@@ -6034,34 +6361,6 @@
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
     {
-      "id": "99e77716-8abe-4c5f-b514-10b67ca98653",
-      "company": "Dow Jones",
-      "title": "Summer 2027 Internship Program – Data Analyst Intern",
-      "locations": [
-        "New York, NY",
-        "New York, New York, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55894",
-      "url": "https://trueinterview.io/jobs/99e77716-8abe-4c5f-b514-10b67ca98653",
-      "postedAt": "2026-10-29T12:28:00.000Z",
-      "updatedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
       "id": "b5fab69a-ea64-451e-a690-0379461d7dcb",
       "company": "HPE",
       "title": "Software Engineering Intern",
@@ -7599,31 +7898,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4440203691/",
       "url": "https://trueinterview.io/jobs/22230259-1272-4c54-8873-ae13e81a70da",
-      "postedAt": "2026-10-29T19:01:00.000Z",
-      "updatedAt": "2026-10-29T19:01:00.000Z"
-    },
-    {
-      "id": "10ee4fb2-91d8-49df-a18d-16dc3efbe546",
-      "company": "Uline",
-      "title": "UX Design Internship - Summer 2027",
-      "locations": [
-        "Pleasant Prairie, WI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4457990167/",
-      "url": "https://trueinterview.io/jobs/10ee4fb2-91d8-49df-a18d-16dc3efbe546",
       "postedAt": "2026-10-29T19:01:00.000Z",
       "updatedAt": "2026-10-29T19:01:00.000Z"
     },

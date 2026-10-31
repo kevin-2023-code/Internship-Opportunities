@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**59 open roles.** 52 in the United States & Canada · 7 elsewhere in the world.
+**60 open roles.** 53 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/87b58e35-d224-4bf0-930a-a3e84ff0eeda">University, 2027 Summer Games Data Scientist Intern - Rome, NY</a></td>
+<td>Rome, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460503549/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Federal Express Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/17b7525b-b1c4-42be-a079-e25999bf51fa">Summer 2027 Internship - Revenue Management (Data Science)</a></td>
