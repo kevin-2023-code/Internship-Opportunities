@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**121 open roles.**
+**123 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -376,6 +376,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Insomniac Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/cdc54a35-14fa-430d-beb9-1edaec80491f">Accessibility Intern- Masters or PhD</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6227618004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/67e54196-0259-47a3-9aa3-d9bde4acfb16">Animation Intern (Gameplay)- Undergraduate</a></td>
 <td>United States, Burbank, CA, USA-CA-Burbank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226213004">Apply</a></td>
@@ -414,6 +421,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1816d397-7764-4858-99a3-feafeb6c93ba">Environment Art Intern- Undergraduate</a></td>
 <td>United States, Burbank, CA, USA-CA-Burbank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6221850004">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d6e885d4-33c2-423a-a832-f720cf65025d">Game Design Intern-Undergraduate</a></td>
+<td>United States, Burbank, CA, USA-CA-Burbank</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226630004">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

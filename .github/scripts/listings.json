@@ -5,9 +5,68 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T08:05:51.704Z",
-  "count": 2168,
+  "listingsChangedAt": "2026-10-31T09:04:38.082Z",
+  "count": 2178,
   "listings": [
+    {
+      "id": "1eb28376-2fd5-4dd6-ad2d-156093646038",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Assoc Product Manager Internship",
+      "locations": [
+        "Overland Park, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485254608/",
+      "url": "https://trueinterview.io/jobs/1eb28376-2fd5-4dd6-ad2d-156093646038",
+      "postedAt": "2026-10-31T08:13:00.000Z",
+      "updatedAt": "2026-10-31T08:13:00.000Z"
+    },
+    {
+      "id": "30943450-a8cb-42b7-ace8-dc5392842ab1",
+      "company": "Stripe",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "locations": [
+        "Toronto, Ontario, Canada",
+        "Seattle, WA",
+        "New York, United States",
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "Toronto, ON",
+        "Seattle, WA",
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "Canada",
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485624767/",
+      "url": "https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1",
+      "postedAt": "2026-10-31T02:55:00.000Z",
+      "updatedAt": "2026-10-31T06:55:00.000Z"
+    },
     {
       "id": "166b4355-6dbd-428c-942f-0a56face66fb",
       "company": "Meta",
@@ -423,6 +482,36 @@
       "updatedAt": "2026-10-31T03:03:00.000Z"
     },
     {
+      "id": "fddf75b4-acb1-4047-8653-c67d615dd877",
+      "company": "Stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "locations": [
+        "San Francisco, CA",
+        "Seattle, WA",
+        "New York, United States",
+        "Toronto, Ontario, Canada"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485356898/",
+      "url": "https://trueinterview.io/jobs/fddf75b4-acb1-4047-8653-c67d615dd877",
+      "postedAt": "2026-10-30T19:03:00.000Z",
+      "updatedAt": "2026-10-31T02:55:00.000Z"
+    },
+    {
       "id": "7f453cec-9b6e-4c3a-b980-2f5b92b96418",
       "company": "Waymo",
       "title": "2027 Summer Intern, PhD, Research Scientist Intern",
@@ -684,6 +773,33 @@
       "updatedAt": "2026-10-30T20:44:00.000Z"
     },
     {
+      "id": "ffc99c63-51f6-48af-b288-922cce09f19b",
+      "company": "Tower Research Capital",
+      "title": "Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468881757/",
+      "url": "https://trueinterview.io/jobs/ffc99c63-51f6-48af-b288-922cce09f19b",
+      "postedAt": "2026-10-30T20:21:00.000Z",
+      "updatedAt": "2026-10-30T20:21:00.000Z"
+    },
+    {
       "id": "ec340065-983f-4e7c-ba13-5c048491115b",
       "company": "Boston Scientific",
       "title": "Software Test Engineer Intern",
@@ -732,33 +848,6 @@
       "url": "https://trueinterview.io/jobs/7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
       "postedAt": "2026-10-30T19:15:02.000Z",
       "updatedAt": "2026-10-30T19:15:02.000Z"
-    },
-    {
-      "id": "fddf75b4-acb1-4047-8653-c67d615dd877",
-      "company": "Stripe",
-      "title": "PhD Machine Learning Engineer, Intern",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485356898/",
-      "url": "https://trueinterview.io/jobs/fddf75b4-acb1-4047-8653-c67d615dd877",
-      "postedAt": "2026-10-30T19:03:00.000Z",
-      "updatedAt": "2026-10-30T19:03:00.000Z"
     },
     {
       "id": "0bc358c2-36d8-4d73-89bb-8f97458cfa66",
@@ -836,6 +925,33 @@
       "url": "https://trueinterview.io/jobs/87c5d0a6-65fc-4f5f-b62f-b30d42a07db3",
       "postedAt": "2026-10-30T18:15:52.000Z",
       "updatedAt": "2026-10-30T18:15:52.000Z"
+    },
+    {
+      "id": "7345330a-22a4-4c97-bc09-0d817df969af",
+      "company": "Electronic Arts (EA)",
+      "title": "Quality Designer Co-op (Summer 2027)",
+      "locations": [
+        "Vancouver, British Columbia, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483463947/",
+      "url": "https://trueinterview.io/jobs/7345330a-22a4-4c97-bc09-0d817df969af",
+      "postedAt": "2026-10-30T17:55:00.000Z",
+      "updatedAt": "2026-10-30T17:55:00.000Z"
     },
     {
       "id": "10d4a23e-4e3e-4441-bc83-bf4df32cd3ec",
@@ -5943,6 +6059,33 @@
       "applyUrl": "https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Data-Analyst-Intern_Job_Req_55894",
       "url": "https://trueinterview.io/jobs/99e77716-8abe-4c5f-b514-10b67ca98653",
       "postedAt": "2026-10-29T12:28:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "b5fab69a-ea64-451e-a690-0379461d7dcb",
+      "company": "HPE",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.hpe.com/us/en/job/1214146/Software-Engineering-Intern",
+      "url": "https://trueinterview.io/jobs/b5fab69a-ea64-451e-a690-0379461d7dcb",
+      "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
     {
@@ -33269,6 +33412,31 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
+      "id": "cdc54a35-14fa-430d-beb9-1edaec80491f",
+      "company": "insomniac-games",
+      "title": "Accessibility Intern- Masters or PhD",
+      "locations": [
+        "United States, Burbank, CA, USA-CA-Burbank"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6227618004",
+      "url": "https://trueinterview.io/jobs/cdc54a35-14fa-430d-beb9-1edaec80491f",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
       "id": "67e54196-0259-47a3-9aa3-d9bde4acfb16",
       "company": "insomniac-games",
       "title": "Animation Intern (Gameplay)- Undergraduate",
@@ -33415,6 +33583,31 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6221850004",
       "url": "https://trueinterview.io/jobs/1816d397-7764-4858-99a3-feafeb6c93ba",
+      "postedAt": "2026-10-20T00:00:00.000Z",
+      "updatedAt": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "d6e885d4-33c2-423a-a832-f720cf65025d",
+      "company": "insomniac-games",
+      "title": "Game Design Intern-Undergraduate",
+      "locations": [
+        "United States, Burbank, CA, USA-CA-Burbank"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6226630004",
+      "url": "https://trueinterview.io/jobs/d6e885d4-33c2-423a-a832-f720cf65025d",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
@@ -36397,6 +36590,33 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
+      "id": "39546a61-97c7-40ed-92bd-6b49f6b311be",
+      "company": "wing",
+      "title": "Machine Learning Engineering Intern, Summer 2027",
+      "locations": [
+        "Palo Alto, California"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://wing.com/careers/8872479002?gh_jid=8872479002",
+      "url": "https://trueinterview.io/jobs/39546a61-97c7-40ed-92bd-6b49f6b311be",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "986c4f87-6a3f-400e-85f9-82a58d933254",
       "company": "wing",
       "title": "Manufacturing Engineering Intern, Summer 2027",
@@ -36474,6 +36694,33 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872579002?gh_jid=8872579002",
       "url": "https://trueinterview.io/jobs/31ebf6ea-4cc1-4d07-9d98-4424d7a80c75",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "49c1360a-0cd4-4285-8ef5-94267b69517e",
+      "company": "wing",
+      "title": "Motion Planning Software Engineering Intern, Summer 2027",
+      "locations": [
+        "Palo Alto, California"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://wing.com/careers/8872472002?gh_jid=8872472002",
+      "url": "https://trueinterview.io/jobs/49c1360a-0cd4-4285-8ef5-94267b69517e",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -38758,30 +39005,55 @@
       "updatedAt": "2026-10-08T19:03:24.000Z"
     },
     {
-      "id": "76921fe8-a713-4d63-9bd9-54a4cd65ac20",
-      "company": "Roblox",
-      "title": "[2027] Applied Scientist - PhD Intern",
+      "id": "727089aa-cb1c-46aa-a668-22049f94d6ed",
+      "company": "Asm",
+      "title": "[2027 Summer Internship] Phoenix",
       "locations": [
-        "San Mateo, CA, United States",
-        "San Mateo, CA"
+        "US > Arizona > Phoenix"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://www.asm.com/open-vacancies/?gh_jid=5001135101",
+      "url": "https://trueinterview.io/jobs/727089aa-cb1c-46aa-a668-22049f94d6ed",
+      "postedAt": "2026-10-08T18:52:26.000Z",
+      "updatedAt": "2026-10-08T18:52:26.000Z"
+    },
+    {
+      "id": "732c7b20-22f6-4eba-8850-57f3ff3857ca",
+      "company": "Dlr Group",
+      "title": "High School Design Intern",
+      "locations": [
+        "Houston, Texas, United States",
+        "Houston"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "1point3acres",
-      "applyUrl": "https://careers.roblox.com/jobs/8242621?gh_jid=8242621",
-      "url": "https://trueinterview.io/jobs/76921fe8-a713-4d63-9bd9-54a4cd65ac20",
-      "postedAt": "2026-10-08T16:04:59.000Z",
-      "updatedAt": "2026-10-08T16:04:59.000Z"
+      "applyUrl": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441952008",
+      "url": "https://trueinterview.io/jobs/732c7b20-22f6-4eba-8850-57f3ff3857ca",
+      "postedAt": "2026-10-08T17:52:02.000Z",
+      "updatedAt": "2026-10-08T17:52:02.000Z"
     },
     {
       "id": "8547f343-74f9-4f5d-89e1-6988b201d941",
