@@ -5,9 +5,243 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T11:03:57.256Z",
-  "count": 2202,
+  "listingsChangedAt": "2026-10-31T12:06:10.371Z",
+  "count": 2203,
   "listings": [
+    {
+      "id": "9f4a3237-5da0-4840-9173-89821144aed3",
+      "company": "Teledyne Brown Engineering",
+      "title": "NHRC Software Engineering Internship (Summer 2027) with Security Clearance",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483940437/",
+      "url": "https://trueinterview.io/jobs/9f4a3237-5da0-4840-9173-89821144aed3",
+      "postedAt": "2026-10-31T11:22:00.000Z",
+      "updatedAt": "2026-10-31T11:22:00.000Z"
+    },
+    {
+      "id": "c45cf213-e5f4-4529-adb0-429f9c257cc6",
+      "company": "SharkNinja",
+      "title": "Spring 2027: HW UX/UI Design Co-op (January through June)",
+      "locations": [
+        "Needham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485689560/",
+      "url": "https://trueinterview.io/jobs/c45cf213-e5f4-4529-adb0-429f9c257cc6",
+      "postedAt": "2026-10-31T11:17:00.000Z",
+      "updatedAt": "2026-10-31T11:17:00.000Z"
+    },
+    {
+      "id": "21711b37-06e4-4906-a9bc-c27ee3fee0cf",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Systematic Trading Internship: Summer 2027",
+      "locations": [
+        "Dublin, County Dublin, Ireland",
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "Dublin",
+        "London"
+      ],
+      "countries": [
+        "Ireland",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4438410723/",
+      "url": "https://trueinterview.io/jobs/21711b37-06e4-4906-a9bc-c27ee3fee0cf",
+      "postedAt": "2026-10-31T11:13:00.000Z",
+      "updatedAt": "2026-10-31T11:13:00.000Z"
+    },
+    {
+      "id": "ae89657e-0edf-45e2-ad7e-8930fa82d337",
+      "company": "Realm Alliance",
+      "title": "Software Engineer - Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459376001/",
+      "url": "https://trueinterview.io/jobs/ae89657e-0edf-45e2-ad7e-8930fa82d337",
+      "postedAt": "2026-10-31T11:12:00.000Z",
+      "updatedAt": "2026-10-31T11:12:00.000Z"
+    },
+    {
+      "id": "8db51465-8d33-4ff8-a998-0da770940f69",
+      "company": "Leica Biosystems",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Vista, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4475248640/",
+      "url": "https://trueinterview.io/jobs/8db51465-8d33-4ff8-a998-0da770940f69",
+      "postedAt": "2026-10-31T11:08:00.000Z",
+      "updatedAt": "2026-10-31T11:08:00.000Z"
+    },
+    {
+      "id": "4b505fee-a838-4aac-b7eb-2704c53f6cb9",
+      "company": "The Minnesota Star Tribune",
+      "title": "User Experience (UX) Internship - Summer 2027",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466954132/",
+      "url": "https://trueinterview.io/jobs/4b505fee-a838-4aac-b7eb-2704c53f6cb9",
+      "postedAt": "2026-10-31T11:05:00.000Z",
+      "updatedAt": "2026-10-31T11:05:00.000Z"
+    },
+    {
+      "id": "c2ca8357-f968-4484-9653-fbf94cdbed52",
+      "company": "Georgia Tech Research Institute",
+      "title": "Software Engineering Co-op - Spring 2027 - ASL",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477697976/",
+      "url": "https://trueinterview.io/jobs/c2ca8357-f968-4484-9653-fbf94cdbed52",
+      "postedAt": "2026-10-31T10:42:00.000Z",
+      "updatedAt": "2026-10-31T10:42:00.000Z"
+    },
+    {
+      "id": "ee25361f-34a1-4713-bc75-f1f765b65d18",
+      "company": "DRW",
+      "title": "FPGA Intern",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4441909156/",
+      "url": "https://trueinterview.io/jobs/ee25361f-34a1-4713-bc75-f1f765b65d18",
+      "postedAt": "2026-10-31T10:31:00.000Z",
+      "updatedAt": "2026-10-31T10:31:00.000Z"
+    },
+    {
+      "id": "6411c7c2-6e86-43a2-b8a2-bbb92a1a2aef",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Systematic Trading Internship - PhD: Summer 2027",
+      "locations": [
+        "Hong Kong, Hong Kong SAR"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4432163841/",
+      "url": "https://trueinterview.io/jobs/6411c7c2-6e86-43a2-b8a2-bbb92a1a2aef",
+      "postedAt": "2026-10-31T10:31:00.000Z",
+      "updatedAt": "2026-10-31T10:31:00.000Z"
+    },
     {
       "id": "73182d32-0261-4670-903f-86b06180565e",
       "company": "Liberty Mutual Insurance",
@@ -248,6 +482,33 @@
       "url": "https://trueinterview.io/jobs/26f068b7-1939-4c53-a05b-1bc8d7af8a04",
       "postedAt": "2026-10-31T09:32:00.000Z",
       "updatedAt": "2026-10-31T09:32:00.000Z"
+    },
+    {
+      "id": "eb306608-905a-495d-adbb-4fc12407d775",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Trading Internship: Summer 2027",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4438424007/",
+      "url": "https://trueinterview.io/jobs/eb306608-905a-495d-adbb-4fc12407d775",
+      "postedAt": "2026-10-31T09:31:00.000Z",
+      "updatedAt": "2026-10-31T09:31:00.000Z"
     },
     {
       "id": "7552f3ab-d893-4d38-9cff-b47cfc4eceb6",
@@ -12552,256 +12813,6 @@
       "url": "https://trueinterview.io/jobs/11039550-a737-46af-b162-e42678fc438a",
       "postedAt": "2026-10-29T13:02:00.000Z",
       "updatedAt": "2026-10-29T13:02:00.000Z"
-    },
-    {
-      "id": "bef67aeb-276a-4496-bdfb-9142f876df8a",
-      "company": "Marketeq Talent",
-      "title": "AI Product Internship ( Remote, U.S.A Only)",
-      "locations": [
-        "Miami, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484702227/",
-      "url": "https://trueinterview.io/jobs/bef67aeb-276a-4496-bdfb-9142f876df8a",
-      "postedAt": "2026-10-28T17:45:00.000Z",
-      "updatedAt": "2026-10-29T13:00:19.000Z"
-    },
-    {
-      "id": "29bc765a-7b64-4b91-a9cc-bd15d8f30d04",
-      "company": "Independence Blue Cross",
-      "title": "Summer Intern: Data Services Analyst",
-      "locations": [
-        "Philadelphia, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484951799/",
-      "url": "https://trueinterview.io/jobs/29bc765a-7b64-4b91-a9cc-bd15d8f30d04",
-      "postedAt": "2026-10-29T13:00:00.000Z",
-      "updatedAt": "2026-10-29T13:00:00.000Z"
-    },
-    {
-      "id": "301f5a03-69b7-47d9-9e45-fe4aa1d0c260",
-      "company": "Cubic Corporation",
-      "title": "Mechanical Engineering Intern",
-      "locations": [
-        "San Diego, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484947586/",
-      "url": "https://trueinterview.io/jobs/301f5a03-69b7-47d9-9e45-fe4aa1d0c260",
-      "postedAt": "2026-10-29T12:59:00.000Z",
-      "updatedAt": "2026-10-29T12:59:00.000Z"
-    },
-    {
-      "id": "5bbabecd-f3c8-47e4-97b5-efeebc0789cb",
-      "company": "Draper",
-      "title": "Mechanical Engineering & System Packaging Co-Op (Spring 2027)",
-      "locations": [
-        "Greater Boston"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475463981/",
-      "url": "https://trueinterview.io/jobs/5bbabecd-f3c8-47e4-97b5-efeebc0789cb",
-      "postedAt": "2026-10-29T12:59:00.000Z",
-      "updatedAt": "2026-10-29T12:59:00.000Z"
-    },
-    {
-      "id": "e275e056-17ad-43ed-84ac-b86a205255ce",
-      "company": "General Dynamics Ordnance and Tactical Systems",
-      "title": "Intern, Technical Support (QA Engineer)",
-      "locations": [
-        "Lincoln, NE"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466881564/",
-      "url": "https://trueinterview.io/jobs/e275e056-17ad-43ed-84ac-b86a205255ce",
-      "postedAt": "2026-10-29T12:58:00.000Z",
-      "updatedAt": "2026-10-29T12:58:00.000Z"
-    },
-    {
-      "id": "a45d4f3f-dae0-48dc-a659-78a48fc8b7b7",
-      "company": "Austal USA",
-      "title": "Program Engineering Intern",
-      "locations": [
-        "Mobile, AL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484956357/",
-      "url": "https://trueinterview.io/jobs/a45d4f3f-dae0-48dc-a659-78a48fc8b7b7",
-      "postedAt": "2026-10-29T12:54:00.000Z",
-      "updatedAt": "2026-10-29T12:54:00.000Z"
-    },
-    {
-      "id": "766b6b3c-0c4c-4173-8875-131b181623a0",
-      "company": "L3Harris Technologies",
-      "title": "Intern, Mechanical Engineer",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484960092/",
-      "url": "https://trueinterview.io/jobs/766b6b3c-0c4c-4173-8875-131b181623a0",
-      "postedAt": "2026-10-29T12:53:00.000Z",
-      "updatedAt": "2026-10-29T12:53:00.000Z"
-    },
-    {
-      "id": "68233618-59de-4bbb-9652-b03c5fa559b6",
-      "company": "CMTA, Inc.",
-      "title": "Solar Engineer Intern/Co-op Summer 2027 - Energy Solutions",
-      "locations": [
-        "Fairfax, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4459058359/",
-      "url": "https://trueinterview.io/jobs/68233618-59de-4bbb-9652-b03c5fa559b6",
-      "postedAt": "2026-10-29T12:00:00.000Z",
-      "updatedAt": "2026-10-29T12:52:00.000Z"
-    },
-    {
-      "id": "3f58c3c7-3fb6-4f8d-97dd-a9e3510e5d85",
-      "company": "Fabcon",
-      "title": "Structural Design Engineering Internship",
-      "locations": [
-        "Eden, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4457636190/",
-      "url": "https://trueinterview.io/jobs/3f58c3c7-3fb6-4f8d-97dd-a9e3510e5d85",
-      "postedAt": "2026-10-29T12:51:00.000Z",
-      "updatedAt": "2026-10-29T12:51:00.000Z"
-    },
-    {
-      "id": "ec7628da-3172-49ed-a59d-7af987e7f145",
-      "company": "Vertiv",
-      "title": "Firmware Engineer Intern (Graduate Level) (Summer 2027)",
-      "locations": [
-        "Delaware, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4459602356/",
-      "url": "https://trueinterview.io/jobs/ec7628da-3172-49ed-a59d-7af987e7f145",
-      "postedAt": "2026-10-29T12:47:00.000Z",
-      "updatedAt": "2026-10-29T12:47:00.000Z"
     },
     {
       "id": "a4ae0c99-e7bf-4d51-9883-b84acaf1c563",
@@ -55054,6 +55065,33 @@
       "url": "https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039",
       "postedAt": "2026-09-04T17:23:31.000Z",
       "updatedAt": "2026-09-04T17:23:31.000Z"
+    },
+    {
+      "id": "96671fb9-c8b7-4506-9d67-ddaa086ebcb5",
+      "company": "General Dynamics Missions System International",
+      "title": "Co-op Winter 2027 - Software Engineering - 8 Months",
+      "locations": [
+        "Ottawa, Ontario, Canada"
+      ],
+      "cities": [
+        "Ottawa, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000147561809-co-op-winter-2027-software-engineering-8-months",
+      "url": "https://trueinterview.io/jobs/96671fb9-c8b7-4506-9d67-ddaa086ebcb5",
+      "postedAt": "2026-09-04T16:15:31.000Z",
+      "updatedAt": "2026-09-04T16:15:31.000Z"
     },
     {
       "id": "668c76b9-362a-4575-81b1-f71c6ee114f5",
