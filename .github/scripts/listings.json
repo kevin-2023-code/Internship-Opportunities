@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T02:05:58.471Z",
-  "count": 2151,
+  "listingsChangedAt": "2026-10-31T03:05:17.458Z",
+  "count": 2153,
   "listings": [
+    {
+      "id": "b4006aad-eddf-4f60-8d7f-0474694941c5",
+      "company": "Firework",
+      "title": "Data Engineer Intern",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
+      "url": "https://trueinterview.io/jobs/b4006aad-eddf-4f60-8d7f-0474694941c5",
+      "postedAt": "2026-10-31T00:00:00.000Z",
+      "updatedAt": "2026-10-31T00:00:00.000Z"
+    },
     {
       "id": "e7f9ac92-08be-4f4b-9160-7d1a66628ed5",
       "company": "Divergent",
@@ -267,6 +292,33 @@
       "url": "https://trueinterview.io/jobs/1574654f-af09-414b-8734-ca433d948f44",
       "postedAt": "2026-10-30T15:56:45.000Z",
       "updatedAt": "2026-10-30T15:56:45.000Z"
+    },
+    {
+      "id": "d12cc35b-1bf7-4428-9bc7-005b7e77f122",
+      "company": "Innovent Technologies Pakistan",
+      "title": "Operations Support Intern – IT & Technology Projects",
+      "locations": [
+        "Abu Dhabi, UAE"
+      ],
+      "cities": [
+        "Abu Dhabi"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ae.indeed.com/viewjob?jk=e869c8d8b8bb3e9b",
+      "url": "https://trueinterview.io/jobs/d12cc35b-1bf7-4428-9bc7-005b7e77f122",
+      "postedAt": "2026-10-30T14:35:11.000Z",
+      "updatedAt": "2026-10-30T14:35:11.000Z"
     },
     {
       "id": "6b01f696-9595-4501-a4bc-d60643d8b994",
@@ -2993,7 +3045,8 @@
       "title": "Intern, Software Engineer [PDMS-D&M-GDSIMENG]",
       "locations": [
         "Singapore, Singapore",
-        "Melbourne, Victoria, Australia"
+        "Melbourne, Victoria, Australia",
+        "Melbourne, Australia"
       ],
       "cities": [
         "Singapore"
