@@ -207,8 +207,8 @@
 <tr>
 <td><strong>Draper</strong></td>
 <td><a href="https://trueinterview.io/jobs/5bbabecd-f3c8-47e4-97b5-efeebc0789cb">Mechanical Engineering &amp; System Packaging Co-Op (Spring 2027)</a></td>
-<td>Greater Boston</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475463981/">Apply</a></td>
+<td>Cambridge, MA<br/>Greater Boston</td>
+<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Co-Op--Spring-2027-_JR002940">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

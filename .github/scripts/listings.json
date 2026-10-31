@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-10-31T14:04:19.234Z",
+  "listingsChangedAt": "2026-10-31T15:04:37.278Z",
   "count": 2243,
   "listings": [
     {
@@ -13656,9 +13656,12 @@
       "company": "Draper",
       "title": "Mechanical Engineering & System Packaging Co-Op (Spring 2027)",
       "locations": [
-        "Greater Boston"
+        "Greater Boston",
+        "Cambridge, MA"
       ],
-      "cities": [],
+      "cities": [
+        "Cambridge"
+      ],
       "countries": [
         "United States"
       ],
@@ -13671,7 +13674,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475463981/",
+      "applyUrl": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Co-Op--Spring-2027-_JR002940",
       "url": "https://trueinterview.io/jobs/5bbabecd-f3c8-47e4-97b5-efeebc0789cb",
       "postedAt": "2026-10-29T12:59:00.000Z",
       "updatedAt": "2026-10-29T12:59:00.000Z"

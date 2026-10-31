@@ -32,7 +32,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-10-31 14:04 UTC_
+_Last updated: 2026-10-31 15:04 UTC_
 
 **1,894 open internships** from **757 employers** · **1,004 posted in the last 7 days** · refreshed hourly
 
@@ -68,7 +68,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🧑‍💻 **By role** — [Software Engineer (214)](lists/role/software-engineer.md) · [Hardware Engineer (130)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (64)](lists/role/machine-learning-engineer.md) · [AI Engineer (55)](lists/role/ai-engineer.md) · [Data Scientist (54)](lists/role/data-scientist.md) · [Research Scientist (54)](lists/role/research-scientist.md) · [Product Manager (50)](lists/role/product-manager.md) · [Security Engineer (46)](lists/role/security-engineer.md) · [Data Engineer (33)](lists/role/data-engineer.md) · [Data Analyst (30)](lists/role/data-analyst.md) · [+9 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (404)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (124)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (96)](lists/place/boston.md) · [🗽 New York City (85)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (83)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (76)](lists/place/dallas-fort-worth.md) · [🌧️ Portland, Boise & Spokane (75)](lists/place/pacific-northwest.md) · [🎸 Austin (65)](lists/place/austin.md) · [🌵 Phoenix & Arizona (40)](lists/place/phoenix.md) · [🏔️ Denver, Boulder & Colorado (38)](lists/place/denver-boulder.md) · [+14 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (404)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (124)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (97)](lists/place/boston.md) · [🗽 New York City (85)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (83)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (76)](lists/place/dallas-fort-worth.md) · [🌧️ Portland, Boise & Spokane (75)](lists/place/pacific-northwest.md) · [🎸 Austin (65)](lists/place/austin.md) · [🌵 Phoenix & Arizona (40)](lists/place/phoenix.md) · [🏔️ Denver, Boulder & Colorado (38)](lists/place/denver-boulder.md) · [+14 more →](lists/README.md)
 
 ⚡ **Quick filters** — [🆕 Posted in the last 7 days (1,004)](lists/new-this-week.md) · [🌐 Remote (29)](lists/remote.md)
 

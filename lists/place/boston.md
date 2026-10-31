@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**96 open roles.**
+**97 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,6 +134,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/35dbfe9a-7d3b-4e3c-97b7-e09dcd573a05">Robotics Engineering Intern</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484956947/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Draper</strong></td>
+<td><a href="https://trueinterview.io/jobs/5bbabecd-f3c8-47e4-97b5-efeebc0789cb">Mechanical Engineering &amp; System Packaging Co-Op (Spring 2027)</a></td>
+<td>Cambridge, MA<br/>Greater Boston</td>
+<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Co-Op--Spring-2027-_JR002940">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
