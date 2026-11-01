@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**404 open roles.**
+**403 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 

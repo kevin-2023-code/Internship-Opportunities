@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**404 open roles.**
+**403 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -35,13 +35,6 @@
 <td>San Francisco, CA<br/>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8176863">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Roblox</strong></td>
-<td><a href="https://trueinterview.io/jobs/f437e9cc-d69d-4a10-b1b2-71b3aa8e6dc4">[Summer 2027] Product Management Intern</a></td>
-<td>San Mateo, CA, United States</td>
-<td align="center"><a href="https://careers.roblox.com/jobs/8143981?gh_jid=8143981">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

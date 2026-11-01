@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**675 open roles.** 635 in the United States & Canada · 40 elsewhere in the world.
+**674 open roles.** 634 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1651,13 +1651,6 @@
 <td><a href="https://trueinterview.io/jobs/874dc8b8-0da2-4ba9-a83c-f0c8912c41c8">Co-op Student, Civil Engineering - Aviation</a></td>
 <td>Toronto, ON, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93659">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Re:build Manufacturing</strong></td>
-<td><a href="https://trueinterview.io/jobs/32c80643-4149-4ccc-9cc3-9484f4ffcaf7">Manufacturing Engineer Intern</a></td>
-<td>Merrimack, NH<br/>Re:Build DAPR Engineering</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4729848005">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

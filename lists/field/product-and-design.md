@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**163 open roles.** 124 in the United States & Canada · 39 elsewhere in the world.
+**162 open roles.** 123 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -876,13 +876,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e9d771b4-43e0-49e1-ae8c-57114cd61f51">Training and Tech Pubs Intern</a></td>
 <td>Wakefield, MA (on-site)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vestmark/jobs/8172029">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Roblox</strong></td>
-<td><a href="https://trueinterview.io/jobs/f437e9cc-d69d-4a10-b1b2-71b3aa8e6dc4">[Summer 2027] Product Management Intern</a></td>
-<td>San Mateo, CA, United States</td>
-<td align="center"><a href="https://careers.roblox.com/jobs/8143981?gh_jid=8143981">Apply</a></td>
 <td align="center">2 Sep 2026</td>
 </tr>
 </tbody>

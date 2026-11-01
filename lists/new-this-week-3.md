@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,356 open roles.** 1,062 in the United States & Canada · 294 elsewhere in the world. Everything the employers put up this week.
+**1,361 open roles.** 1,067 in the United States & Canada · 294 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,42 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>EnvelopiQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/c72481b1-1144-4ef6-954b-ae6f7657dc08">Intern - Design Engineer</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466518705/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Impulse Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a31945a-b6e0-42e0-a33a-041199ed3006">Development Test Engineering Intern (Summer 2027)</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483162940/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/69ef6a68-7788-467b-8540-1a65f8e69213">Process Integration Development Engineer PhD Intern 2027</a></td>
+<td>Hillsboro, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483889748/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National Laboratory of the Rockies</strong></td>
+<td><a href="https://trueinterview.io/jobs/22288666-4019-4a57-bb1f-73713975b892">Post Undergraduate (Fixed term) Intern – Electrical Engineering</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467774618/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>North Wind</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f3e779a-ff46-476b-9230-a8fe73ef2a8f">Intern - Aero/Thermal Engineer</a></td>
+<td>St Paul, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484488473/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/328674c4-953f-4f30-b28a-165bff3b8d89">Intern - Aerodynamic Test Engineer</a></td>
 <td>St Paul, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484477749/">Apply</a></td>
@@ -2790,41 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cbaada13-6cf3-4f1b-816d-1aba5a338592">Internship - System Engineering</a></td>
 <td>Bang Bo, Samut Prakan, Thailand</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4422394761/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c3242cfa-5ae6-4f0c-b648-8e31a5a952cb">Internship/Working Student: Automotive Application Engineering (f/m/div)</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484945210/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/38b872a1-175e-4c21-88d8-90c502352a06">Quantitative Trading Analyst Intern</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440021748/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c3ef90-6998-42df-bbe4-40e2a30f8ac9">Internship - Wafer Test Engineer Operation Test Performance Sustaining</a></td>
-<td>Samut Prakan, Samut Prakan, Thailand</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473783390/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a84ab8b8-3909-4e22-ac5e-7097bd813b8f">Internship- Test Engineering</a></td>
-<td>Melaka, Malacca, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473258291/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fcd142fd-1606-4689-a470-92f832a4e1cd">Internship - Product Test Engineer</a></td>
-<td>Samut Prakan, Samut Prakan, Thailand</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473262234/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

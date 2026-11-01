@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,356 open roles.** 1,062 in the United States & Canada · 294 elsewhere in the world. Everything the employers put up this week.
+**1,361 open roles.** 1,067 in the United States & Canada · 294 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3242cfa-5ae6-4f0c-b648-8e31a5a952cb">Internship/Working Student: Automotive Application Engineering (f/m/div)</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484945210/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/38b872a1-175e-4c21-88d8-90c502352a06">Quantitative Trading Analyst Intern</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440021748/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c3ef90-6998-42df-bbe4-40e2a30f8ac9">Internship - Wafer Test Engineer Operation Test Performance Sustaining</a></td>
+<td>Samut Prakan, Samut Prakan, Thailand</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473783390/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a84ab8b8-3909-4e22-ac5e-7097bd813b8f">Internship- Test Engineering</a></td>
+<td>Melaka, Malacca, Malaysia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473258291/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fcd142fd-1606-4689-a470-92f832a4e1cd">Internship - Product Test Engineer</a></td>
+<td>Samut Prakan, Samut Prakan, Thailand</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473262234/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bbf92211-1819-45e7-895f-8296e753e495">Internship - Data Analyst, Automotive Supply Chain and Production Management</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4438638544/">Apply</a></td>

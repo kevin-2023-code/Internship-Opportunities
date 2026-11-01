@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**17 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
+**16 open roles.** Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -128,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chelmsford, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/cW1fRZDaq6yz35f1wVQSot/controls-engineer-intern---hvac-controls-in-chelmsford-at-albireo-energy">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Re:build Manufacturing</strong></td>
-<td><a href="https://trueinterview.io/jobs/32c80643-4149-4ccc-9cc3-9484f4ffcaf7">Manufacturing Engineer Intern</a></td>
-<td>Merrimack, NH<br/>Re:Build DAPR Engineering</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4729848005">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

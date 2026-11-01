@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**81 open roles.**
+**80 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -394,13 +394,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States<br/>Seattle - United States - Seattle, Washington United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/97308e77-5efb-4e95-afb4-21afc7747141">Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Stripe</strong></td>
