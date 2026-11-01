@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**949 open roles.** 782 in the United States & Canada · 167 elsewhere in the world.
+**947 open roles.** 780 in the United States & Canada · 167 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/15a25775-83b5-4fc4-af29-bbfa84f3a174">Solutions Engineering Intern - Iberia</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://careers.netapp.com/job/madrid/solutions-engineering-intern-iberia/27600/102639938160">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pigment</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc7f6e04-e5eb-4e0b-bca0-97665f8b7775">Internship - Software Engineer (Back, Fullstack)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/pigment/d29b429b-81a5-43f1-abe3-344b8defea7a">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>iNova Pharmaceuticals</strong></td>
 <td><a href="https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7">Quality Assurance Intern | Jan-June 2027</a></td>

@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**67 open roles.** 57 in the United States & Canada · 10 elsewhere in the world.
+**68 open roles.** 58 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,6 +155,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/71eb882d-3fe8-4b16-947b-9989c02c9214">Data Science Intern (Summer 2027)</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466576196/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sanofi</strong></td>
+<td><a href="https://trueinterview.io/jobs/81c2e934-ef4d-445e-9672-ac7aaa24de81">2027 Spring Co-op Process and CMC Data Science, Waltham, MA</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://jobs.sanofi.com/job/-/-/2649/46466013056">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,364 open roles.** 1,072 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
+**1,365 open roles.** 1,073 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1409,6 +1409,13 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Sanofi</strong></td>
+<td><a href="https://trueinterview.io/jobs/81c2e934-ef4d-445e-9672-ac7aaa24de81">2027 Spring Co-op Process and CMC Data Science, Waltham, MA</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://jobs.sanofi.com/job/-/-/2649/46466013056">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Schweitzer Engineering Laboratories</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5f97e8e-7945-43c2-9da2-1da5b7a295ae">Engineering Intern</a></td>
 <td>Charlotte, North Carolina, United States<br/>Charlotte, NC</td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/3645d90d-d4ce-427b-a702-c4b4076c4c96">Electrical Design Engineering Co-op</a></td>
 <td>Cleveland, OH<br/>Akron, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465789702/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Baxter International Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7dc992bc-3ecc-4e9a-96be-ef62f298296f">Co-op Engineering R&amp;D</a></td>
-<td>Skaneateles Falls, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482535185/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**949 open roles.** 782 in the United States & Canada · 167 elsewhere in the world.
+**947 open roles.** 780 in the United States & Canada · 167 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2675,20 +2675,6 @@
 <td align="center"><a href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/c813a195-4132-41b1-bebf-626d9e892e6f">Robotics Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d911d97c-c8a6-41e6-bf75-fb4d3920c245">Software Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2811,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a59799ae-20ae-4cdd-a2b7-12e86b6d33ef">Java Software Engineer Intern</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/15a25775-83b5-4fc4-af29-bbfa84f3a174">Solutions Engineering Intern - Iberia</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://careers.netapp.com/job/madrid/solutions-engineering-intern-iberia/27600/102639938160">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pigment</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc7f6e04-e5eb-4e0b-bca0-97665f8b7775">Internship - Software Engineer (Back, Fullstack)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/pigment/d29b429b-81a5-43f1-abe3-344b8defea7a">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

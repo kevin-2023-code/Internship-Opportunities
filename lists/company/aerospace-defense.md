@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**75 open roles.** 74 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**72 open roles.** 71 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -513,27 +513,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7/apply">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/2039f31d-7836-4bbc-a0ec-85bb28fa6569">Data Science/ Data Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c813a195-4132-41b1-bebf-626d9e892e6f">Robotics Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d911d97c-c8a6-41e6-bf75-fb4d3920c245">Software Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

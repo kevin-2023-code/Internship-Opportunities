@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**39 open roles.** 35 in the United States & Canada · 4 elsewhere in the world.
+**38 open roles.** 34 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -254,13 +254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4396622009">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/2039f31d-7836-4bbc-a0ec-85bb28fa6569">Data Science/ Data Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>

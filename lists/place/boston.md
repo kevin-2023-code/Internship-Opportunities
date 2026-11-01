@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**94 open roles.**
+**95 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,6 +183,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/df3d9cbc-af7e-4b1c-932b-3f3c060d7a17">Technical Program Manager Co-Op</a></td>
 <td>Waltham, MA</td>
 <td align="center"><a href="https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Waltham-Office-POST/Technical-Program-Manager-Co-Op_R3331">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sanofi</strong></td>
+<td><a href="https://trueinterview.io/jobs/81c2e934-ef4d-445e-9672-ac7aaa24de81">2027 Spring Co-op Process and CMC Data Science, Waltham, MA</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://jobs.sanofi.com/job/-/-/2649/46466013056">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

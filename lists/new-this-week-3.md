@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,364 open roles.** 1,072 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
+**1,365 open roles.** 1,073 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Baxter International Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dc992bc-3ecc-4e9a-96be-ef62f298296f">Co-op Engineering R&amp;D</a></td>
+<td>Skaneateles Falls, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482535185/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BorgWarner</strong></td>
 <td><a href="https://trueinterview.io/jobs/e208b3a9-6691-4e35-9e53-0a9d4b1a0e55">Electrical Design Engineer Intern</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0f88c739-1708-4715-ba16-6c3cdf313393">Internship - Automation engineer (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484937520/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sensirion</strong></td>
-<td><a href="https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3">Intern Product Management • 80-100%</a></td>
-<td>Stäfa, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484958138/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

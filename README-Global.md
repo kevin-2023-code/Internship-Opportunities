@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-01 21:04 UTC_
+_Last updated: 2026-11-01 22:04 UTC_
 
 **365 open internships** from **208 employers** · **292 posted in the last 7 days** · refreshed hourly
 
@@ -1350,10 +1350,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Cohesity</strong></td>
-<td><a href="https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793">Technical Support Engineer - Intern</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793">Technical Support Engineer - Intern</a></td>
 <td>Cork Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484727816/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>DXC Technology</strong></td>

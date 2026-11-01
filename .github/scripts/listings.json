@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T21:04:25.103Z",
-  "count": 2279,
+  "listingsChangedAt": "2026-11-01T22:04:09.369Z",
+  "count": 2277,
   "listings": [
     {
       "id": "77eb4340-99dc-4799-bd7a-665cb2d94960",
@@ -20381,6 +20381,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c",
       "url": "https://trueinterview.io/jobs/327138e6-000b-43a7-9043-22f41771826a",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "81c2e934-ef4d-445e-9672-ac7aaa24de81",
+      "company": "Sanofi",
+      "title": "2027 Spring Co-op Process and CMC Data Science, Waltham, MA",
+      "locations": [
+        "Waltham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.sanofi.com/job/-/-/2649/46466013056",
+      "url": "https://trueinterview.io/jobs/81c2e934-ef4d-445e-9672-ac7aaa24de81",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -59116,87 +59141,6 @@
       "url": "https://trueinterview.io/jobs/45deb8fa-28b6-4665-b4df-8f37d5e64c9a",
       "postedAt": "2026-09-02T23:58:52.000Z",
       "updatedAt": "2026-09-02T23:58:52.000Z"
-    },
-    {
-      "id": "2039f31d-7836-4bbc-a0ec-85bb28fa6569",
-      "company": "Hadrian Automation",
-      "title": "Data Science/ Data Engineer Intern",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application",
-      "url": "https://trueinterview.io/jobs/2039f31d-7836-4bbc-a0ec-85bb28fa6569",
-      "postedAt": "2026-09-02T21:47:29.000Z",
-      "updatedAt": "2026-09-02T21:47:29.000Z"
-    },
-    {
-      "id": "c813a195-4132-41b1-bebf-626d9e892e6f",
-      "company": "Hadrian Automation",
-      "title": "Robotics Engineer Intern",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/02e33109-08c5-4db7-8881-67294c172584/application",
-      "url": "https://trueinterview.io/jobs/c813a195-4132-41b1-bebf-626d9e892e6f",
-      "postedAt": "2026-09-02T21:47:12.000Z",
-      "updatedAt": "2026-09-02T21:47:12.000Z"
-    },
-    {
-      "id": "d911d97c-c8a6-41e6-bf75-fb4d3920c245",
-      "company": "Hadrian Automation",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e/application",
-      "url": "https://trueinterview.io/jobs/d911d97c-c8a6-41e6-bf75-fb4d3920c245",
-      "postedAt": "2026-09-02T21:46:58.000Z",
-      "updatedAt": "2026-09-02T21:46:58.000Z"
     }
   ]
 }

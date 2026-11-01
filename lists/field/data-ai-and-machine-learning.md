@@ -662,6 +662,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Sanofi</strong></td>
+<td><a href="https://trueinterview.io/jobs/81c2e934-ef4d-445e-9672-ac7aaa24de81">2027 Spring Co-op Process and CMC Data Science, Waltham, MA</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://jobs.sanofi.com/job/-/-/2649/46466013056">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Florida Atlantic University</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb82c5cc-25fd-436f-b398-c7ae60c5db41">Data Analyst Internship</a></td>
 <td>Boca Raton, FL</td>
@@ -2053,13 +2060,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, Ontario</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hadrian Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/2039f31d-7836-4bbc-a0ec-85bb28fa6569">Data Science/ Data Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application">Apply</a></td>
-<td align="center">2 Sep 2026</td>
 </tr>
 </tbody>
 </table>
