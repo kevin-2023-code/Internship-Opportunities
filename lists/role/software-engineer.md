@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**270 open roles.** 220 in the United States & Canada · 50 elsewhere in the world.
+**271 open roles.** 221 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7b2ac2b7-7305-4842-8141-2d65bf113416">Web and Apps Developer - Intern</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485921369/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>L3Harris Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1074cbb4-2055-4bb1-b63f-1ec35263cbc6">Intern, Information Security Systems Engineer (Salt Lake City, UT)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478081281/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

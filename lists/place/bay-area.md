@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**407 open roles.**
+**408 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -437,6 +437,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2d0a6c5c-f69e-4f15-9a25-122aa605f8e4">Machine Learning Engineer Intern (E-Commerce Recommendation Video) - 2027 Start (PhD）</a></td>
 <td>San Jose, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475724638/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors (GM)</strong></td>
+<td><a href="https://trueinterview.io/jobs/30321836-4a81-4f3c-8a83-9f1eacb2d985">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2390accd-792d-4635-8f3a-ae570209a8cd">Design Verification Intern, MS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Westborough, MA<br/>+2 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9cbcb094-71e8-4bd1-839f-87478d3232ab">Firmware Engineer Intern, BS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Westlake Village, CA</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 </tbody>

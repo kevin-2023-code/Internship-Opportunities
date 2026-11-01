@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,325 open roles.** 1,045 in the United States & Canada · 280 elsewhere in the world. Everything the employers put up this week.
+**1,324 open roles.** 1,045 in the United States & Canada · 279 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -73,13 +73,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a7b5b342-22f0-48b8-950d-9ffc23ad5664">2027 Quantitative Masters Internship Program - Technology - Analytics &amp; Modeling - San Francisco</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468677751/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bombardier</strong></td>
-<td><a href="https://trueinterview.io/jobs/caba8362-5930-4d97-9e27-8811a0fc76c1">Intern/Co-op (Data Analyst)</a></td>
-<td>Red Oak, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441227958/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7254bd2c-0d0e-4afc-bd13-58e42ca1e83f">Technical Support Intern - RTP, Durham, Poughkeepsie &amp; Tucson 2027</a></td>
 <td>Poughkeepsie, AR<br/>Tucson, AZ<br/>Durham, NC<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456532057/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc3e409d-fd1c-4816-9603-843ed5988068">Year at Palantir - Forward Deployed Software Engineer, Internship - USG</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4414777718/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

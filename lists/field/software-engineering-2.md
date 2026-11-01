@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**938 open roles.** 774 in the United States & Canada · 164 elsewhere in the world.
+**939 open roles.** 775 in the United States & Canada · 164 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e857ca2-a4b1-4edd-afdd-e139fd706e02">Spring 2027 Intern - Structural Dynamics Engineer</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484488889/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Moog Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ba99ef6-e20d-463d-85c8-15f3c53766d6">Intern, Systems Engineering</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ab40b7a-b0f3-491f-9ac5-bb9cea55b9a9">System Level Product Engineer (RDSS Intern)</a></td>
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484593534/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8b8ae94e-e0b1-45be-baf1-1a5c5cc6c29d">System Level Test Engineer (RDSS Intern)</a></td>
-<td>Hsinchu City, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484592588/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

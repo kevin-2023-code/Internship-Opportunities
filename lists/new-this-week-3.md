@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,325 open roles.** 1,045 in the United States & Canada · 280 elsewhere in the world. Everything the employers put up this week.
+**1,324 open roles.** 1,045 in the United States & Canada · 279 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1750,13 +1750,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/59f8061b-2ca4-4ea0-b8f9-b5ad0d81203b">2027 Program Manager Intern, Amazon Operations</a></td>
-<td>Riyadh, Riyadh, Saudi Arabia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477830850/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b746c1d-b7a3-4f68-b409-2bad309876da">AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027</a></td>
 <td>Beijing, Beijing, China<br/>Shenzhen, Guangdong, China</td>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ecd6bd03-0e01-4526-9436-ef58591b5bc9">Intern - F10 Process &amp; Equipment Engineer</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466199738/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bcaf9f3a-8861-4789-8b63-6d2dc2a98599">Intern - F10 Process and Equipment Engineer</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466861693/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

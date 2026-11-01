@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**52 open roles.** 48 in the United States & Canada · 4 elsewhere in the world.
+**51 open roles.** 47 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>L3Harris Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/1074cbb4-2055-4bb1-b63f-1ec35263cbc6">Intern, Information Security Systems Engineer (Salt Lake City, UT)</a></td>
-<td>Salt Lake City, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478081281/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>DICK'S Sporting Goods</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e485a72-2598-41e1-85d4-d7819506a004">Cybersecurity - Summer 2027 Corporate Internship</a></td>

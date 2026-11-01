@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**375 open roles.** 291 in the United States & Canada · 84 elsewhere in the world.
+**374 open roles.** 290 in the United States & Canada · 84 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Economy Polymers &amp; Chemicals</strong></td>
-<td><a href="https://trueinterview.io/jobs/67139365-71b6-4a80-9374-ccdba4c858e4">AI &amp; Business Systems Automation Intern</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485907864/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bombardier</strong></td>
-<td><a href="https://trueinterview.io/jobs/caba8362-5930-4d97-9e27-8811a0fc76c1">Intern/Co-op (Data Analyst)</a></td>
-<td>Red Oak, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441227958/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Church &amp; Dwight Co., Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1caff93-9bcf-41be-ae8e-f7561b74dffd">AI Developer Co-op - Graduate Program (9 Months)</a></td>
@@ -617,6 +603,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a595e831-6cf5-40d3-a072-0b742d0b819c">Data Analyst Intern</a></td>
 <td>Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484903614/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors (GM)</strong></td>
+<td><a href="https://trueinterview.io/jobs/30321836-4a81-4f3c-8a83-9f1eacb2d985">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

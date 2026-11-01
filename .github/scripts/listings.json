@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T00:13:21.407Z",
-  "count": 2256,
+  "listingsChangedAt": "2026-11-01T01:04:28.548Z",
+  "count": 2255,
   "listings": [
     {
       "id": "8955a067-ecc7-46e8-a2d7-d91d90844cc3",
@@ -117,31 +117,6 @@
       "updatedAt": "2026-10-31T19:51:00.000Z"
     },
     {
-      "id": "59f8061b-2ca4-4ea0-b8f9-b5ad0d81203b",
-      "company": "Amazon",
-      "title": "2027 Program Manager Intern, Amazon Operations",
-      "locations": [
-        "Riyadh, Riyadh, Saudi Arabia"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4477830850/",
-      "url": "https://trueinterview.io/jobs/59f8061b-2ca4-4ea0-b8f9-b5ad0d81203b",
-      "postedAt": "2026-10-31T19:39:00.000Z",
-      "updatedAt": "2026-10-31T19:39:00.000Z"
-    },
-    {
       "id": "67139365-71b6-4a80-9374-ccdba4c858e4",
       "company": "Economy Polymers & Chemicals",
       "title": "AI & Business Systems Automation Intern",
@@ -154,7 +129,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -205,7 +180,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -267,31 +242,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4468677751/",
       "url": "https://trueinterview.io/jobs/a7b5b342-22f0-48b8-950d-9ffc23ad5664",
-      "postedAt": "2026-10-31T19:00:00.000Z",
-      "updatedAt": "2026-10-31T19:00:00.000Z"
-    },
-    {
-      "id": "caba8362-5930-4d97-9e27-8811a0fc76c1",
-      "company": "Bombardier",
-      "title": "Intern/Co-op (Data Analyst)",
-      "locations": [
-        "Red Oak, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4441227958/",
-      "url": "https://trueinterview.io/jobs/caba8362-5930-4d97-9e27-8811a0fc76c1",
       "postedAt": "2026-10-31T19:00:00.000Z",
       "updatedAt": "2026-10-31T19:00:00.000Z"
     },
@@ -18832,6 +18782,33 @@
       "source": "indeed",
       "applyUrl": "https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3",
       "url": "https://trueinterview.io/jobs/a38c45e4-cb3b-4a65-9b97-a99346286a1d",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "30321836-4a81-4f3c-8a83-9f1eacb2d985",
+      "company": "General Motors (GM)",
+      "title": "2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+      "url": "https://trueinterview.io/jobs/30321836-4a81-4f3c-8a83-9f1eacb2d985",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**938 open roles.** 774 in the United States & Canada · 164 elsewhere in the world.
+**939 open roles.** 775 in the United States & Canada · 164 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8955a067-ecc7-46e8-a2d7-d91d90844cc3">Software Developer Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485914798/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Economy Polymers &amp; Chemicals</strong></td>
+<td><a href="https://trueinterview.io/jobs/67139365-71b6-4a80-9374-ccdba4c858e4">AI &amp; Business Systems Automation Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485907864/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7c7d1d62-a04f-486f-8bcc-80e431faf588">Product Engineering Intern</a></td>
 <td>Ames, IA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465562783/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amentum</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e857ca2-a4b1-4edd-afdd-e139fd706e02">Spring 2027 Intern - Structural Dynamics Engineer</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484488889/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

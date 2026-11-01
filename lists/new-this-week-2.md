@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,325 open roles.** 1,045 in the United States & Canada · 280 elsewhere in the world. Everything the employers put up this week.
+**1,324 open roles.** 1,045 in the United States & Canada · 279 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Palantir Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc3e409d-fd1c-4816-9603-843ed5988068">Year at Palantir - Forward Deployed Software Engineer, Internship - USG</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414777718/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>PIMCO</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4573445-ec49-412f-a0e7-e425bdc78f48">2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US</a></td>
@@ -1140,6 +1133,13 @@
 <td><a href="https://trueinterview.io/jobs/a38c45e4-cb3b-4a65-9b97-a99346286a1d">Hardware Engineering Co-Op</a></td>
 <td>Louisville, KY</td>
 <td align="center"><a href="https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors (GM)</strong></td>
+<td><a href="https://trueinterview.io/jobs/30321836-4a81-4f3c-8a83-9f1eacb2d985">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
