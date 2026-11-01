@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T08:06:01.640Z",
-  "count": 2263,
+  "listingsChangedAt": "2026-11-01T09:04:46.595Z",
+  "count": 2268,
   "listings": [
     {
       "id": "96ddc653-683d-451a-abac-cb0880ce2511",
@@ -33,6 +33,31 @@
       "url": "https://trueinterview.io/jobs/96ddc653-683d-451a-abac-cb0880ce2511",
       "postedAt": "2026-11-01T07:25:00.000Z",
       "updatedAt": "2026-11-01T07:26:00.000Z"
+    },
+    {
+      "id": "7d5dcb87-35bb-4a8e-84de-006477cb35fe",
+      "company": "Reflect Orbital",
+      "title": "Flight Software Engineering Intern",
+      "locations": [
+        "Hawthorne, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461352157/",
+      "url": "https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe",
+      "postedAt": "2026-11-01T07:25:00.000Z",
+      "updatedAt": "2026-11-01T07:25:00.000Z"
     },
     {
       "id": "8c08deb9-4dd4-49da-8be5-9385ba92f90f",
@@ -39769,6 +39794,33 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
+      "id": "be5d9a8e-e78b-4372-b24f-930cebd410a1",
+      "company": "wing",
+      "title": "Data Infra Software Engineering Intern, Summer 2027",
+      "locations": [
+        "Palo Alto, California"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://wing.com/careers/8872471002?gh_jid=8872471002",
+      "url": "https://trueinterview.io/jobs/be5d9a8e-e78b-4372-b24f-930cebd410a1",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "0f8f1c34-6358-451e-91c1-a98b3d31d034",
       "company": "wing",
       "title": "Electrical Engineering Intern, Summer 2027",
@@ -39958,6 +40010,60 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
+      "id": "986c4f87-6a3f-400e-85f9-82a58d933254",
+      "company": "wing",
+      "title": "Manufacturing Engineering Intern, Summer 2027",
+      "locations": [
+        "Palo Alto, California"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://wing.com/careers/8872469002?gh_jid=8872469002",
+      "url": "https://trueinterview.io/jobs/986c4f87-6a3f-400e-85f9-82a58d933254",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "af36f8da-0da8-47f4-bcba-c8e87fcd4100",
+      "company": "wing",
+      "title": "Manufacturing Software Test Intern, Summer 2027",
+      "locations": [
+        "Palo Alto, California"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://wing.com/careers/8872468002?gh_jid=8872468002",
+      "url": "https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
       "id": "31ebf6ea-4cc1-4d07-9d98-4424d7a80c75",
       "company": "wing",
       "title": "Mechanical Engineering Intern, Summer 2027",
@@ -40035,6 +40141,33 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872478002?gh_jid=8872478002",
       "url": "https://trueinterview.io/jobs/029bdbce-4b87-4274-ac6f-e4b5ca1cb3f9",
+      "postedAt": "2026-10-14T00:00:00.000Z",
+      "updatedAt": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "id": "61279f54-046a-4353-afef-73003a117e4e",
+      "company": "wing",
+      "title": "Software Engineering Intern, Summer 2027",
+      "locations": [
+        "Palo Alto, California"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://wing.com/careers/8872476002?gh_jid=8872476002",
+      "url": "https://trueinterview.io/jobs/61279f54-046a-4353-afef-73003a117e4e",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**277 open roles.** 224 in the United States & Canada · 53 elsewhere in the world.
+**278 open roles.** 225 in the United States & Canada · 53 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1023,6 +1023,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/49c1360a-0cd4-4285-8ef5-94267b69517e">Motion Planning Software Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872472002?gh_jid=8872472002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/61279f54-046a-4353-afef-73003a117e4e">Software Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872476002?gh_jid=8872476002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>

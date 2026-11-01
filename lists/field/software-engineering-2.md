@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**944 open roles.** 777 in the United States & Canada · 167 elsewhere in the world.
+**947 open roles.** 780 in the United States & Canada · 167 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f9de5b5-667b-45b6-8682-4854c4dfc692">Protection &amp; Automation Mechanical/Industrial &amp; Systems Engineer Co-Op (North Carolina State University)</a></td>
+<td>Wendell, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466180302/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Daimler Truck North America</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e015f21-bc33-439e-ac71-34918f65bee0">Mechanical Product Design Engineering Intern</a></td>
@@ -1515,6 +1522,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100">Manufacturing Software Test Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872468002?gh_jid=8872468002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/49c1360a-0cd4-4285-8ef5-94267b69517e">Motion Planning Software Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872472002?gh_jid=8872472002">Apply</a></td>
@@ -1525,6 +1539,13 @@
 <td><a href="https://trueinterview.io/jobs/029bdbce-4b87-4274-ac6f-e4b5ca1cb3f9">Simulation Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872478002?gh_jid=8872478002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/61279f54-046a-4353-afef-73003a117e4e">Software Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872476002?gh_jid=8872476002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7">Quality Assurance Intern | Jan-June 2027</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484818174/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cea20cc-af1d-4820-aaa2-d96b86afbd6c">Intern - Swift Runtimes Engineer</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692438">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WD</strong></td>
-<td><a href="https://trueinterview.io/jobs/f0ae72d2-b0cb-44e1-a289-88a8dd873751">Internship - Data Engineering</a></td>
-<td>Petaling Jaya, Selangor, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483405435/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>What's The Move</strong></td>
-<td><a href="https://trueinterview.io/jobs/021ba770-9859-48cb-8da2-1b394ea0ce81">iOS Software Development Internship</a></td>
-<td>Miami-Fort Lauderdale Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283188/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

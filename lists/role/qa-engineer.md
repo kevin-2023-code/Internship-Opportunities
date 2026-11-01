@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**24 open roles.** 20 in the United States & Canada · 4 elsewhere in the world.
+**25 open roles.** 21 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,6 +156,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://careers-gdms.icims.com/jobs/75729/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wing</strong></td>
+<td><a href="https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100">Manufacturing Software Test Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872468002?gh_jid=8872468002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

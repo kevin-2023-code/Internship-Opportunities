@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,335 open roles.** 1,049 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
+**1,336 open roles.** 1,050 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/96ddc653-683d-451a-abac-cb0880ce2511">Intern - AI Solutions Engineer</a></td>
 <td>Effingham, IL<br/>St Louis, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485176919/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Reflect Orbital</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe">Flight Software Engineering Intern</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461352157/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/77526c8f-0642-4e13-bebd-82e3881f177b">Intern - Software Engineer, Summer 2027</a></td>
 <td>St Louis, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466887436/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Impulse Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/52a95f7f-c2dc-4657-89f1-f710acc12733">Avionics Mechanical Engineering Intern (Summer 2027)</a></td>
-<td>Redondo Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484979796/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

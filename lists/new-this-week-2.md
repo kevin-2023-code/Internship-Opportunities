@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,335 open roles.** 1,049 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
+**1,336 open roles.** 1,050 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Impulse Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/52a95f7f-c2dc-4657-89f1-f710acc12733">Avionics Mechanical Engineering Intern (Summer 2027)</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484979796/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Jacobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7617912-d9d9-483b-b348-293ab82dd16d">VDS (Voice, Data, Security) Engineering Intern - Summer 2027</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/2c26d7d9-c090-405a-b912-271fd9d88339">R&amp;D Commercial Product Development Engineer Intern</a></td>
 <td>Parsippany, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482529442/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Elevated Web Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7f3498a-4435-4906-969a-24e60ea39a6b">Product Software Engineering Internship</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484495243/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

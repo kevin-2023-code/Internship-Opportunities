@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,335 open roles.** 1,049 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
+**1,336 open roles.** 1,050 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Elevated Web Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7f3498a-4435-4906-969a-24e60ea39a6b">Product Software Engineering Internship</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484495243/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Stellantis</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b0611db-3293-4cdf-86bf-946f4721ec75">2026 Quality Engineering Kettering Co-Op</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/27638c44-ddcb-4847-9033-b8b6a84a6569">Product Manager Intern (Money Platform) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457615012/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/53336a68-062d-4107-97e7-9a2f3aedf305">Product Manager Program Intern (Money Platform) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457609042/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

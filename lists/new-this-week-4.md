@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,335 open roles.** 1,049 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
+**1,336 open roles.** 1,050 in the United States & Canada · 286 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/53336a68-062d-4107-97e7-9a2f3aedf305">Product Manager Program Intern (Money Platform) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457609042/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0ec2c3b-4fab-4b34-b33b-8cfddc9d562f">Internship - Machine Learning and Data Analytics</a></td>
