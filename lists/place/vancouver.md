@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**14 open roles.**
+**13 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b">Engineering Co-op, System Integrity</a></td>
 <td>Surrey, British Columbia, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475720493/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tetra Pak</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f373b24-8d01-440b-b529-f5fa9432e9f8">Quality Assurance Intern</a></td>
-<td>Vancouver, BC<br/>Vancouver, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484003969/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

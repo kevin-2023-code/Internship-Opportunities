@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**25 open roles.** 21 in the United States & Canada · 4 elsewhere in the world.
+**24 open roles.** 20 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/98a8d0db-9797-4f9b-bb0e-78b5d6846845">SDET Intern</a></td>
 <td>Cary, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475715820/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tetra Pak</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f373b24-8d01-440b-b529-f5fa9432e9f8">Quality Assurance Intern</a></td>
-<td>Vancouver, BC<br/>Vancouver, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484003969/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SharkNinja France</strong></td>
+<td><a href="https://trueinterview.io/jobs/22335208-ceac-4e38-a79b-673da66d5b9d">SPRING 2027: HW UX/UI DESIGN CO-OP (JANUARY THROUGH JUNE)</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485953281/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Publicis Sapient</strong></td>
 <td><a href="https://trueinterview.io/jobs/18568e1f-59e9-4144-9159-cca3211e9166">Product Manager Intern (Class of 2028)</a></td>
 <td>Boston, MA</td>
@@ -211,13 +218,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6ebf045a-2bc1-4911-94aa-b219513cf510">DC Power Product Management MBA Intern (Summer 2027)</a></td>
 <td>Delaware, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459029954/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5">Summer 2027 Associate Technical Product Manager Internship</a></td>
-<td>Frisco, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484912259/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

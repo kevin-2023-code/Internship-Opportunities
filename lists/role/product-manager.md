@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**74 open roles.** 53 in the United States & Canada · 21 elsewhere in the world.
+**73 open roles.** 52 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,13 +127,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6ebf045a-2bc1-4911-94aa-b219513cf510">DC Power Product Management MBA Intern (Summer 2027)</a></td>
 <td>Delaware, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459029954/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5">Summer 2027 Associate Technical Product Manager Internship</a></td>
-<td>Frisco, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484912259/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
