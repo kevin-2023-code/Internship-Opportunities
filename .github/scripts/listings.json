@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T06:06:50.899Z",
-  "count": 2263,
+  "listingsChangedAt": "2026-11-01T07:04:30.575Z",
+  "count": 2264,
   "listings": [
     {
       "id": "8c08deb9-4dd4-49da-8be5-9385ba92f90f",
@@ -297,6 +297,33 @@
       "url": "https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025",
       "postedAt": "2026-10-31T19:51:00.000Z",
       "updatedAt": "2026-10-31T19:51:00.000Z"
+    },
+    {
+      "id": "85241c2c-8d94-47f7-9f60-d3b3ccde63ab",
+      "company": "BlackRock",
+      "title": "2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468681658/",
+      "url": "https://trueinterview.io/jobs/85241c2c-8d94-47f7-9f60-d3b3ccde63ab",
+      "postedAt": "2026-10-31T19:45:00.000Z",
+      "updatedAt": "2026-10-31T19:45:00.000Z"
     },
     {
       "id": "67139365-71b6-4a80-9374-ccdba4c858e4",
@@ -3013,6 +3040,31 @@
       "url": "https://trueinterview.io/jobs/c1e073fe-c212-4772-ba1b-6e683bb6fc6d",
       "postedAt": "2026-10-31T05:20:00.000Z",
       "updatedAt": "2026-10-31T05:20:00.000Z"
+    },
+    {
+      "id": "c2e97f0c-3c29-431f-a1b6-d9f222b2bc58",
+      "company": "Applied Materials",
+      "title": "2027 Spring Electrical Engineer Co-op (Billerica, MA)",
+      "locations": [
+        "Billerica, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790319258769",
+      "url": "https://trueinterview.io/jobs/c2e97f0c-3c29-431f-a1b6-d9f222b2bc58",
+      "postedAt": "2026-10-31T05:00:00.000Z",
+      "updatedAt": "2026-10-31T05:00:00.000Z"
     },
     {
       "id": "33c85e4a-1f45-4b37-b09d-35f6f6545ba5",
@@ -6967,6 +7019,31 @@
       "source": "indeed",
       "applyUrl": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=588751&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=Vmtmhqd3Rp9ruMOdxnha2GZEEUPuXAURWHyGMF0lO6w%3d",
       "url": "https://trueinterview.io/jobs/42b768eb-f030-4470-9520-09b9ace49011",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
+    },
+    {
+      "id": "844450ee-be49-4084-9df8-d216510de970",
+      "company": "Collins Aerospace",
+      "title": "Electrical Engineering Co-op (Winter/Spring 2027)",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.rtx.com/global/en/job/01885823",
+      "url": "https://trueinterview.io/jobs/844450ee-be49-4084-9df8-d216510de970",
       "postedAt": "2026-10-30T05:00:00.000Z",
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },
@@ -21166,7 +21243,8 @@
         "Remote",
         "Remote",
         "Cynthian, Ohio, United States",
-        "United States"
+        "United States",
+        "Texas, United States"
       ],
       "cities": [],
       "countries": [
@@ -39665,33 +39743,6 @@
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
     {
-      "id": "be5d9a8e-e78b-4372-b24f-930cebd410a1",
-      "company": "wing",
-      "title": "Data Infra Software Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872471002?gh_jid=8872471002",
-      "url": "https://trueinterview.io/jobs/be5d9a8e-e78b-4372-b24f-930cebd410a1",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
       "id": "0f8f1c34-6358-451e-91c1-a98b3d31d034",
       "company": "wing",
       "title": "Electrical Engineering Intern, Summer 2027",
@@ -39904,33 +39955,6 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872469002?gh_jid=8872469002",
       "url": "https://trueinterview.io/jobs/986c4f87-6a3f-400e-85f9-82a58d933254",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "af36f8da-0da8-47f4-bcba-c8e87fcd4100",
-      "company": "wing",
-      "title": "Manufacturing Software Test Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872468002?gh_jid=8872468002",
-      "url": "https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
