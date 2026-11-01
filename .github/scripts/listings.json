@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T22:04:09.369Z",
+  "listingsChangedAt": "2026-11-01T23:04:21.652Z",
   "count": 2277,
   "listings": [
+    {
+      "id": "75fa9930-bf89-4402-a49e-8194e6f87abc",
+      "company": "KnowBe4",
+      "title": "Software Engineer Summer Internship",
+      "locations": [
+        "Clearwater, Florida, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
+      "url": "https://trueinterview.io/jobs/75fa9930-bf89-4402-a49e-8194e6f87abc",
+      "postedAt": "2026-11-01T19:25:01.000Z",
+      "updatedAt": "2026-11-01T19:25:01.000Z"
+    },
     {
       "id": "77eb4340-99dc-4799-bd7a-665cb2d94960",
       "company": "Mission Technologies, a division of HII",
@@ -21387,31 +21412,6 @@
       "url": "https://trueinterview.io/jobs/0b83816f-5a19-4fc4-9fd9-14257de9f4e8",
       "postedAt": "2026-10-29T00:23:00.000Z",
       "updatedAt": "2026-10-29T00:23:00.000Z"
-    },
-    {
-      "id": "562de453-b29a-4b30-9fb5-bbbf58aad1eb",
-      "company": "Sophinea Corporation",
-      "title": "UI/UX Design Intern",
-      "locations": [
-        "Manassas, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484762855/",
-      "url": "https://trueinterview.io/jobs/562de453-b29a-4b30-9fb5-bbbf58aad1eb",
-      "postedAt": "2026-10-29T00:10:00.000Z",
-      "updatedAt": "2026-10-29T00:10:00.000Z"
     },
     {
       "id": "f06b7dec-7414-4b71-b36b-b224d2ee4d22",
