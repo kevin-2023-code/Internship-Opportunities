@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T03:06:15.319Z",
-  "count": 2256,
+  "listingsChangedAt": "2026-11-01T04:05:23.657Z",
+  "count": 2257,
   "listings": [
     {
       "id": "3c550206-5662-4352-be73-d94c9dccdb00",
@@ -6806,6 +6806,31 @@
       "source": "indeed",
       "applyUrl": "https://www.3ds.com/careers/jobs/intern-m-f-d-ai-development-engineer-550622",
       "url": "https://trueinterview.io/jobs/13e70f2c-e6d3-419b-a9a6-b0c78bb43038",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
+    },
+    {
+      "id": "a5b667e0-4b6c-4610-a26b-42c8ec5e5858",
+      "company": "DNV",
+      "title": "Data Science Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.dnv.com/job-search/maritime/it-and-software/pune-india/data-science-intern/300001775042998",
+      "url": "https://trueinterview.io/jobs/a5b667e0-4b6c-4610-a26b-42c8ec5e5858",
       "postedAt": "2026-10-30T05:00:00.000Z",
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },
