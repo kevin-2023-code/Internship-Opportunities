@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T18:04:58.522Z",
-  "count": 2285,
+  "listingsChangedAt": "2026-11-01T19:04:31.405Z",
+  "count": 2284,
   "listings": [
+    {
+      "id": "c099f1fc-0d45-4a8f-9aa1-08e28f4575d5",
+      "company": "Oakwood PMS",
+      "title": "AI Software Engineer Internship ( Read description)",
+      "locations": [
+        "Pennsylvania, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485986222/",
+      "url": "https://trueinterview.io/jobs/c099f1fc-0d45-4a8f-9aa1-08e28f4575d5",
+      "postedAt": "2026-11-01T17:55:00.000Z",
+      "updatedAt": "2026-11-01T17:55:00.000Z"
+    },
     {
       "id": "8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
       "company": "Cohere",
@@ -1467,33 +1492,6 @@
       "url": "https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61",
       "postedAt": "2026-10-31T17:53:00.000Z",
       "updatedAt": "2026-10-31T17:53:00.000Z"
-    },
-    {
-      "id": "6cf56660-8a98-4c86-8887-86ea18286d94",
-      "company": "BlockTech",
-      "title": "Quantitative Researcher | Internship | Summer '27",
-      "locations": [
-        "Amsterdam, North Holland, Netherlands"
-      ],
-      "cities": [
-        "Amsterdam"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460375705/",
-      "url": "https://trueinterview.io/jobs/6cf56660-8a98-4c86-8887-86ea18286d94",
-      "postedAt": "2026-10-31T17:42:00.000Z",
-      "updatedAt": "2026-10-31T17:42:00.000Z"
     },
     {
       "id": "69e5faca-7984-437d-bb4d-2db4846e7443",
@@ -59331,33 +59329,6 @@
       "url": "https://trueinterview.io/jobs/c08a1d98-aa2e-4b4e-991d-04a5e710db3c",
       "postedAt": "2026-09-02T19:32:08.000Z",
       "updatedAt": "2026-09-02T19:32:08.000Z"
-    },
-    {
-      "id": "874dc8b8-0da2-4ba9-a83c-f0c8912c41c8",
-      "company": "Wsp",
-      "title": "Co-op Student, Civil Engineering - Aviation",
-      "locations": [
-        "Toronto, ON, Canada"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93659",
-      "url": "https://trueinterview.io/jobs/874dc8b8-0da2-4ba9-a83c-f0c8912c41c8",
-      "postedAt": "2026-09-02T18:22:06.000Z",
-      "updatedAt": "2026-09-02T18:22:06.000Z"
     }
   ]
 }

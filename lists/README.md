@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-01 18:04 UTC_
+_Last updated: 2026-11-01 19:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 220 of the 938 employers on this list (44% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 220 of the 939 employers on this list (44% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -33,11 +33,11 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
 | [💻 Software Engineering](field/software-engineering.md) | 783 | 168 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 635 | 40 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 290 | 89 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 634 | 40 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 291 | 89 |
 | [📱 Product & Design](field/product-and-design.md) | 123 | 39 |
 | [🧰 IT & Support](field/it-and-support.md) | 51 | 12 |
-| [📈 Quantitative Finance](field/quantitative-finance.md) | 36 | 19 |
+| [📈 Quantitative Finance](field/quantitative-finance.md) | 36 | 18 |
 
 ---
 
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,002 of the 2,285** internships on this list (44%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,001 of the 2,284** internships on this list (44%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -58,7 +58,7 @@ _Between them these 23 filters hold **1,002 of the 2,285** internships on this l
 | [🏢 Enterprise & business software](company/enterprise-saas.md) | 55 | 13 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 39 | 7 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 27 | 9 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
-| [📐 Engineering & architecture firms](company/engineering-services.md) | 32 | 0 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [📐 Engineering & architecture firms](company/engineering-services.md) | 31 | 0 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 21 | 8 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💳 Fintech, payments & crypto](company/fintech.md) | 20 | 6 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧠 AI labs & AI infrastructure](company/ai.md) | 21 | 3 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **1,002 of the 2,285** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 19 filters hold **1,060 of the 2,285** internships on this list (46%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 19 filters hold **1,060 of the 2,284** internships on this list (46%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -87,8 +87,8 @@ _Every posting the catalog classified as that role. A posting it could not place
 | :-- | --: | --: |
 | [Software Engineer](role/software-engineer.md) | 225 | 52 |
 | [Hardware Engineer](role/hardware-engineer.md) | 121 | 5 |
+| [AI Engineer](role/ai-engineer.md) | 61 | 25 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 67 | 19 |
-| [AI Engineer](role/ai-engineer.md) | 60 | 25 |
 | [Product Manager](role/product-manager.md) | 52 | 21 |
 | [Data Scientist](role/data-scientist.md) | 57 | 10 |
 | [Research Scientist](role/research-scientist.md) | 53 | 6 |
@@ -98,7 +98,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Embedded Engineer](role/embedded-engineer.md) | 26 | 6 |
 | [QA Engineer](role/qa-engineer.md) | 22 | 4 |
 | [Quantitative Developer](role/quantitative-developer.md) | 17 | 6 |
-| [Quantitative Researcher](role/quantitative-researcher.md) | 11 | 8 |
+| [Quantitative Researcher](role/quantitative-researcher.md) | 11 | 7 |
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 11 | 3 |
 | [Site Reliability Engineer](role/site-reliability-engineer.md) | 7 | 2 |
 | [Platform Engineer](role/platform-engineer.md) | 6 | 1 |
@@ -111,7 +111,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 33 filters hold **1,368 of the 2,285** internships on this list (60%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 33 filters hold **1,366 of the 2,284** internships on this list (60%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -129,7 +129,7 @@ _Between them these 33 filters hold **1,368 of the 2,285** internships on this l
 | [🇬🇧 London & the UK](place/uk.md) | 7 | 29 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 36 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Research Triangle Park, Raleigh NC, Durham NC, Chapel Hill NC, Cary NC, Morrisville NC, Charlotte NC, Greenville SC, Columbia SC. |
 | [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 36 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Washington Dc, Washington DC, Arlington VA, Alexandria VA, Reston VA, Herndon VA, Mclean VA, Tysons VA, Vienna VA, Bethesda MD, Rockville MD, College Park MD, and 7 more. |
-| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 35 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in ON: Toronto, Mississauga, Kitchener, Brampton, Waterloo, Ottawa, Markham, Hamilton, London. |
+| [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 34 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in ON: Toronto, Mississauga, Kitchener, Brampton, Waterloo, Ottawa, Markham, Hamilton, London. |
 | [🏖️ San Diego](place/san-diego.md) | 31 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Diego, La Jolla, Carlsbad, Poway, Oceanside. |
 | [🍑 Atlanta](place/atlanta.md) | 30 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in GA: Atlanta, Alpharetta, Marietta, Sandy Springs, Duluth. |
 | [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 30 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Houston, San Antonio, Spring, The Woodlands, Sugar Land, El Paso, Lubbock, College Station, Richmond. |
@@ -138,8 +138,8 @@ _Between them these 33 filters hold **1,368 of the 2,285** internships on this l
 | [🇨🇭 Zürich & Switzerland](place/switzerland.md) | 2 | 17 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🇫🇷 Paris & France](place/france.md) | 0 | 18 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🏜️ Salt Lake City & Utah](place/salt-lake-city.md) | 15 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in UT: Salt Lake City, Lehi, Provo, Draper, South Jordan, Sandy, Ogden. |
-| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 0 | 14 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [⛰️ Vancouver & British Columbia](place/vancouver.md) | 14 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in BC: Vancouver, Burnaby, Richmond, Surrey, Victoria. |
+| [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 0 | 13 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🇮🇪 Dublin & Ireland](place/ireland.md) | 0 | 13 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🥐 Montréal & Québec](place/montreal.md) | 12 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in QC: Montreal, MontréAl, Quebec City, Laval, Sherbrooke. |
 | [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 0 | 8 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
@@ -155,11 +155,11 @@ _Between them these 33 filters hold **1,368 of the 2,285** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,391 of the 2,285** internships on this list (61%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,391 of the 2,284** internships on this list (61%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 1,070 | 293 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 1,071 | 292 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 29 | 10 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

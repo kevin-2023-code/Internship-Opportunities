@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**55 open roles.** 36 in the United States & Canada · 19 elsewhere in the world.
+**54 open roles.** 36 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,14 +289,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>BlockTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cf56660-8a98-4c86-8887-86ea18286d94">Quantitative Researcher | Internship | Summer '27</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460375705/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/21711b37-06e4-4906-a9bc-c27ee3fee0cf">Quantitative Systematic Trading Internship: Summer 2027</a></td>
 <td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4438410723/">Apply</a></td>
