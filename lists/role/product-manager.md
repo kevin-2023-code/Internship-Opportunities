@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**72 open roles.** 52 in the United States & Canada · 20 elsewhere in the world.
+**73 open roles.** 52 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -399,6 +399,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467883348/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>L'Oréal</strong></td>
+<td><a href="https://trueinterview.io/jobs/e050aa07-e96b-4296-a93f-2abe023e2e73">6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259983">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Baidu, Inc.</strong></td>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**158 open roles.** 121 in the United States & Canada · 37 elsewhere in the world.
+**159 open roles.** 121 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -895,6 +895,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7148c953-9665-437e-bb02-42da7923d47c">Intern, Digital &amp; Technology (Data &amp; AI) (UI/UX &amp; Product Research)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485297057/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>L'Oréal</strong></td>
+<td><a href="https://trueinterview.io/jobs/e050aa07-e96b-4296-a93f-2abe023e2e73">6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259983">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

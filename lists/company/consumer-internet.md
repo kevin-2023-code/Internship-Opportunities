@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**94 open roles.** 87 in the United States & Canada · 7 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**91 open roles.** 84 in the United States & Canada · 7 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,27 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dc15adc-513d-4fb6-987c-4122f8b360d9">Research Scientist Intern, MSL - Agentic Post-Training (PhD)</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483960058/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/96e6932a-340d-4206-bbe9-303074e854ef">Research Scientist Intern, Photorealistic Telepresence (PhD)</a></td>
-<td>Redmond, WA<br/>Pittsburgh, PA<br/>Burlingame, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483950055/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b38b9ed5-f332-4fd2-9f94-ae777c773261">Research Scientist Intern, Video RecSys (PhD)</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483948556/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72">Software Engineer Project Intern (Developer Infrastructure) - 2027 Start</a></td>

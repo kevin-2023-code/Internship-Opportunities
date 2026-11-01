@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Arango</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c550206-5662-4352-be73-d94c9dccdb00">Software Engineer Intern - Arango Cookbooks</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485934151/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TaskVerse</strong></td>
 <td><a href="https://trueinterview.io/jobs/8955a067-ecc7-46e8-a2d7-d91d90844cc3">Software Developer Intern</a></td>
 <td>United States</td>
@@ -45,13 +52,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1074cbb4-2055-4bb1-b63f-1ec35263cbc6">Intern, Information Security Systems Engineer (Salt Lake City, UT)</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478081281/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc56f209-9f66-4786-a8a1-39baa2296b28">Intern - Embedded Software, System, and Test Engineer - 2026</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4375807812/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

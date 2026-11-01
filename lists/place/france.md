@@ -41,6 +41,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>L'Oréal</strong></td>
+<td><a href="https://trueinterview.io/jobs/e050aa07-e96b-4296-a93f-2abe023e2e73">6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259983">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ODDO BHF Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/42bcf467-43fb-4f42-94fd-0e3cb03955f9">AI Engineer Intern (H/F)</a></td>
 <td>Paris, France</td>
@@ -80,13 +87,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>L'Oréal</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b7f5c97-2c92-40ae-a884-f1fd4edfae1c">4-MONTH INTERNSHIP - Starting January 2027 – Data Analyst &amp; Visualisation - HR Tech – Licence 3 - €1300/month</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259747">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

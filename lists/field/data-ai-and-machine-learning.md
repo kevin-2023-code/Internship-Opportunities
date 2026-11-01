@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**374 open roles.** 290 in the United States & Canada · 84 elsewhere in the world.
+**369 open roles.** 286 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,27 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fdd40683-883c-4083-96f8-72e146f1f0fe">Applied Scientist Intern, PhD (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485157689/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dc15adc-513d-4fb6-987c-4122f8b360d9">Research Scientist Intern, MSL - Agentic Post-Training (PhD)</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483960058/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/96e6932a-340d-4206-bbe9-303074e854ef">Research Scientist Intern, Photorealistic Telepresence (PhD)</a></td>
-<td>Redmond, WA<br/>Pittsburgh, PA<br/>Burlingame, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483950055/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b38b9ed5-f332-4fd2-9f94-ae777c773261">Research Scientist Intern, Video RecSys (PhD)</a></td>
-<td>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483948556/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1537,13 +1516,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/57d36234-5bee-443a-b374-f6337fb4a78a">2027 Consumer &amp; Community Banking - Risk Modeling Associate Program - Summer Internship</a></td>
-<td>Wilmington, DE, United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/18149b8e-5d8e-4b18-95c6-cb49ca846639">Global Operations Supplier Process Engineer Co-Op</a></td>
 <td>TX, United States</td>
@@ -2533,13 +2505,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/78fd5193-4849-4d25-8a54-5f066146ef96">JD Young Supply Chain Data &amp; AI Analyst Internship</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Data---AI-Analyst-Internship_JR104472">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>L'Oréal</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b7f5c97-2c92-40ae-a884-f1fd4edfae1c">4-MONTH INTERNSHIP - Starting January 2027 – Data Analyst &amp; Visualisation - HR Tech – Licence 3 - €1300/month</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259747">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
