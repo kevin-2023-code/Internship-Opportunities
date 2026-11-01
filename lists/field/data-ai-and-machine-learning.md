@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**373 open roles.** 287 in the United States & Canada · 86 elsewhere in the world.
+**372 open roles.** 286 in the United States & Canada · 86 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -302,13 +302,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4">Internship, Data Engineer, Energy (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484790573/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/29b342a2-5209-448c-9977-d3ca4ebf56c3">2027 Intern Product Support – Data Scientist</a></td>
-<td>San Diego, California, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

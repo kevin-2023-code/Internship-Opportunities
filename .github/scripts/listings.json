@@ -5,9 +5,166 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T04:05:23.657Z",
-  "count": 2257,
+  "listingsChangedAt": "2026-11-01T06:06:50.899Z",
+  "count": 2263,
   "listings": [
+    {
+      "id": "8c08deb9-4dd4-49da-8be5-9385ba92f90f",
+      "company": "Molina Healthcare",
+      "title": "Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485939595/",
+      "url": "https://trueinterview.io/jobs/8c08deb9-4dd4-49da-8be5-9385ba92f90f",
+      "postedAt": "2026-11-01T05:34:00.000Z",
+      "updatedAt": "2026-11-01T05:34:00.000Z"
+    },
+    {
+      "id": "1d54af28-e2d5-4644-bdc6-14242b5fe6af",
+      "company": "Arm",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Sophia Antipolis, Provence-Alpes-Côte d'Azur, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476868480/",
+      "url": "https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af",
+      "postedAt": "2026-11-01T05:33:00.000Z",
+      "updatedAt": "2026-11-01T05:33:00.000Z"
+    },
+    {
+      "id": "ade1afa9-7ccd-4788-a4d8-013d383d15d3",
+      "company": "Health Care Service Corporation",
+      "title": "Early Careers - Cybersecurity Operations Intern",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485905798/",
+      "url": "https://trueinterview.io/jobs/ade1afa9-7ccd-4788-a4d8-013d383d15d3",
+      "postedAt": "2026-11-01T05:30:00.000Z",
+      "updatedAt": "2026-11-01T05:30:00.000Z"
+    },
+    {
+      "id": "1b6f2a8e-40e0-4ea2-9fcb-8a9f4faabc16",
+      "company": "Nadora Medical Solutions",
+      "title": "Software Engineering Intern (Winter Entry Cohort)",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485180405/",
+      "url": "https://trueinterview.io/jobs/1b6f2a8e-40e0-4ea2-9fcb-8a9f4faabc16",
+      "postedAt": "2026-11-01T05:25:48.000Z",
+      "updatedAt": "2026-11-01T05:25:48.000Z"
+    },
+    {
+      "id": "bcf6e6c0-9525-41d5-8d66-26737c5c9868",
+      "company": "General Dynamics Mission Systems",
+      "title": "DevOps Engineer Intern",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485198156/",
+      "url": "https://trueinterview.io/jobs/bcf6e6c0-9525-41d5-8d66-26737c5c9868",
+      "postedAt": "2026-11-01T05:23:00.000Z",
+      "updatedAt": "2026-11-01T05:23:00.000Z"
+    },
+    {
+      "id": "e6a83c03-29b8-4e06-a54c-501d9099f233",
+      "company": "BlockTech",
+      "title": "Software Engineer | Internship | Summer '27",
+      "locations": [
+        "Singapore",
+        "Amsterdam, North Holland, Netherlands"
+      ],
+      "cities": [
+        "Singapore",
+        "Amsterdam"
+      ],
+      "countries": [
+        "Singapore",
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460372878/",
+      "url": "https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233",
+      "postedAt": "2026-11-01T04:43:00.000Z",
+      "updatedAt": "2026-11-01T05:17:00.000Z"
+    },
     {
       "id": "3c550206-5662-4352-be73-d94c9dccdb00",
       "company": "Arango",
@@ -450,6 +607,33 @@
       "url": "https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61",
       "postedAt": "2026-10-31T17:53:00.000Z",
       "updatedAt": "2026-10-31T17:53:00.000Z"
+    },
+    {
+      "id": "6cf56660-8a98-4c86-8887-86ea18286d94",
+      "company": "BlockTech",
+      "title": "Quantitative Researcher | Internship | Summer '27",
+      "locations": [
+        "Amsterdam, North Holland, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460375705/",
+      "url": "https://trueinterview.io/jobs/6cf56660-8a98-4c86-8887-86ea18286d94",
+      "postedAt": "2026-10-31T17:42:00.000Z",
+      "updatedAt": "2026-10-31T17:42:00.000Z"
     },
     {
       "id": "69e5faca-7984-437d-bb4d-2db4846e7443",
@@ -9216,31 +9400,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4477487079/",
       "url": "https://trueinterview.io/jobs/058ac320-9f21-43ce-8dca-8f1adccb2ef1",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "updatedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "id": "29b342a2-5209-448c-9977-d3ca4ebf56c3",
-      "company": "Northrop Grumman",
-      "title": "2027 Intern Product Support – Data Scientist",
-      "locations": [
-        "San Diego, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
-      "url": "https://trueinterview.io/jobs/29b342a2-5209-448c-9977-d3ca4ebf56c3",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
