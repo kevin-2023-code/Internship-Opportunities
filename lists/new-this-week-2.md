@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Hasbro</strong></td>
+<td><a href="https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5">2027 Spring - Electrical Engineering Co-op (Jan - July 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989722/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Arconic</strong></td>
 <td><a href="https://trueinterview.io/jobs/efd2c855-b001-45aa-b656-f6f620ea79f6">Quality Control Engineering Intern</a></td>
 <td>Cranberry Township, PA</td>
@@ -517,13 +524,6 @@
 <td><a href="https://trueinterview.io/jobs/08930bc3-7b8e-4b74-8f28-cc258074d3a3">College Project Engineer Internship (Indianapolis, Summer 2027)</a></td>
 <td>Indianapolis, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466223933/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sundt Construction</strong></td>
-<td><a href="https://trueinterview.io/jobs/4646ff56-58e3-4418-9c29-fbb11476256d">Advanced Facilities - Intern - Engineer</a></td>
-<td>South Carolina, United States<br/>Tempe, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458308505/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

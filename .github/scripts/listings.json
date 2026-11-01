@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T14:04:22.667Z",
+  "listingsChangedAt": "2026-11-01T15:03:53.036Z",
   "count": 2281,
   "listings": [
     {
@@ -3558,6 +3558,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790319258769",
       "url": "https://trueinterview.io/jobs/c2e97f0c-3c29-431f-a1b6-d9f222b2bc58",
+      "postedAt": "2026-10-31T05:00:00.000Z",
+      "updatedAt": "2026-10-31T05:00:00.000Z"
+    },
+    {
+      "id": "7f081059-966a-4397-8015-c01b148af3bc",
+      "company": "Applied Materials",
+      "title": "2027 Spring Manufacturing Engineer Co-op (Billerica, MA)",
+      "locations": [
+        "Billerica, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790319258821",
+      "url": "https://trueinterview.io/jobs/7f081059-966a-4397-8015-c01b148af3bc",
       "postedAt": "2026-10-31T05:00:00.000Z",
       "updatedAt": "2026-10-31T05:00:00.000Z"
     },
@@ -15104,32 +15129,6 @@
       "url": "https://trueinterview.io/jobs/08930bc3-7b8e-4b74-8f28-cc258074d3a3",
       "postedAt": "2026-10-29T14:14:00.000Z",
       "updatedAt": "2026-10-29T14:14:00.000Z"
-    },
-    {
-      "id": "4646ff56-58e3-4418-9c29-fbb11476256d",
-      "company": "Sundt Construction",
-      "title": "Advanced Facilities - Intern - Engineer",
-      "locations": [
-        "South Carolina, United States",
-        "Tempe, AZ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4458308505/",
-      "url": "https://trueinterview.io/jobs/4646ff56-58e3-4418-9c29-fbb11476256d",
-      "postedAt": "2026-10-29T13:50:00.000Z",
-      "updatedAt": "2026-10-29T14:09:00.000Z"
     },
     {
       "id": "a00f4e05-d64a-4a64-917f-3bae67c8bdf0",
