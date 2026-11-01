@@ -233,18 +233,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>TechPeek Magnus Solutions Pvt. Ltd.</strong></td>
-<td><a href="https://trueinterview.io/jobs/85461307-6c07-4b4b-a887-3786cdf3768d">Machine Learning Intern</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=fa6457e59b881d3e">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mhtechin</strong></td>
 <td><a href="https://trueinterview.io/jobs/33c85e4a-1f45-4b37-b09d-35f6f6545ba5">Forward Deployed Engineer Intern</a> 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://careers.mhtechin.com/index.php/jobs/forward-deployed-engineer-intern/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Desirous Global Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/21e1f0d0-da05-4445-af92-22446068ee4d">AI / ML Intern (Beginner Level)</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://www.desirousgc.com/job/1257">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Honeywell Aerospace</strong></td>

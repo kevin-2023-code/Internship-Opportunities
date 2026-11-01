@@ -5,9 +5,169 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T13:04:20.791Z",
-  "count": 2270,
+  "listingsChangedAt": "2026-11-01T14:04:22.667Z",
+  "count": 2281,
   "listings": [
+    {
+      "id": "31a87483-3430-4e36-b036-7278894f3633",
+      "company": "Annapurna Labs",
+      "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460339361/",
+      "url": "https://trueinterview.io/jobs/31a87483-3430-4e36-b036-7278894f3633",
+      "postedAt": "2026-11-01T13:11:00.000Z",
+      "updatedAt": "2026-11-01T13:11:00.000Z"
+    },
+    {
+      "id": "096a918e-386e-457c-ac62-f65880ddaf50",
+      "company": "West Monroe",
+      "title": "2027 Cybersecurity & Cloud and Infrastructure Consulting Intern",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4458967970/",
+      "url": "https://trueinterview.io/jobs/096a918e-386e-457c-ac62-f65880ddaf50",
+      "postedAt": "2026-11-01T13:11:00.000Z",
+      "updatedAt": "2026-11-01T13:11:00.000Z"
+    },
+    {
+      "id": "3ae511d8-045a-4b0e-af1b-fdf39115288b",
+      "company": "Annapurna Labs",
+      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+      "locations": [
+        "Seattle, WA",
+        "Cupertino, CA",
+        "New York, United States"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460336386/",
+      "url": "https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b",
+      "postedAt": "2026-10-31T15:11:00.000Z",
+      "updatedAt": "2026-11-01T13:04:00.000Z"
+    },
+    {
+      "id": "bbfb5ae5-c177-4c65-be00-a08318259c03",
+      "company": "Labils",
+      "title": "UI/UX Design Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485423052/",
+      "url": "https://trueinterview.io/jobs/bbfb5ae5-c177-4c65-be00-a08318259c03",
+      "postedAt": "2026-11-01T13:01:00.000Z",
+      "updatedAt": "2026-11-01T13:01:00.000Z"
+    },
+    {
+      "id": "97f425b3-6fcb-46d3-b7f1-9aa115f55635",
+      "company": "TikTok",
+      "title": "Data Analyst Intern (Measurement, CALM) - 2027 Start",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4458945728/",
+      "url": "https://trueinterview.io/jobs/97f425b3-6fcb-46d3-b7f1-9aa115f55635",
+      "postedAt": "2026-11-01T13:01:00.000Z",
+      "updatedAt": "2026-11-01T13:01:00.000Z"
+    },
+    {
+      "id": "378802e3-ffe4-4de8-872a-c1e7ab9ee0ff",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Data Scientist Intern - San Diego, CA",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459821527/",
+      "url": "https://trueinterview.io/jobs/378802e3-ffe4-4de8-872a-c1e7ab9ee0ff",
+      "postedAt": "2026-11-01T12:19:00.000Z",
+      "updatedAt": "2026-11-01T12:19:00.000Z"
+    },
     {
       "id": "5325663f-0f3c-45dd-a6dd-a8910f8e9bda",
       "company": "Belvedere Trading, LLC",
@@ -188,6 +348,33 @@
       "url": "https://trueinterview.io/jobs/0df5d8d5-8523-490c-a1b0-8863ae609df0",
       "postedAt": "2026-11-01T11:23:00.000Z",
       "updatedAt": "2026-11-01T11:23:00.000Z"
+    },
+    {
+      "id": "f79c9aba-a082-488b-a7f7-4ef28a374cff",
+      "company": "Booz Allen Hamilton",
+      "title": "University, 2027 Summer Games Data Scientist Intern - Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460512396/",
+      "url": "https://trueinterview.io/jobs/f79c9aba-a082-488b-a7f7-4ef28a374cff",
+      "postedAt": "2026-11-01T10:57:00.000Z",
+      "updatedAt": "2026-11-01T10:57:00.000Z"
     },
     {
       "id": "021ad960-41f4-4851-9f21-7a4f373520b4",
@@ -373,6 +560,31 @@
       "updatedAt": "2026-11-01T07:25:00.000Z"
     },
     {
+      "id": "e2c18595-bc03-4fb4-8dde-ca5e985f5d2e",
+      "company": "Tamizha Media Pvt Ltd",
+      "title": "AI & ML Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://in.indeed.com/viewjob?jk=aa800f51b422fac2",
+      "url": "https://trueinterview.io/jobs/e2c18595-bc03-4fb4-8dde-ca5e985f5d2e",
+      "postedAt": "2026-11-01T06:03:52.000Z",
+      "updatedAt": "2026-11-01T06:03:52.000Z"
+    },
+    {
       "id": "8c08deb9-4dd4-49da-8be5-9385ba92f90f",
       "company": "Molina Healthcare",
       "title": "Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)",
@@ -528,6 +740,58 @@
       "url": "https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233",
       "postedAt": "2026-11-01T04:43:00.000Z",
       "updatedAt": "2026-11-01T05:17:00.000Z"
+    },
+    {
+      "id": "cb595165-9247-4b1f-9ce3-7bd4f1a436e3",
+      "company": "European Space Agency",
+      "title": "Intern in the Galileo and EGNOS Programme Department - System Engineering Section",
+      "locations": [
+        "Toulouse, France"
+      ],
+      "cities": [
+        "Toulouse"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/",
+      "url": "https://trueinterview.io/jobs/cb595165-9247-4b1f-9ce3-7bd4f1a436e3",
+      "postedAt": "2026-11-01T05:00:00.000Z",
+      "updatedAt": "2026-11-01T05:00:00.000Z"
+    },
+    {
+      "id": "c231248d-92f5-419a-893c-341752aeda98",
+      "company": "European Space Agency",
+      "title": "Intern in the Science Operations Department-AI Automation of Product Assurance & Quality Engineering",
+      "locations": [
+        "Villanueva de la Cañada, Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&-Quality-Engineering/1452874133/",
+      "url": "https://trueinterview.io/jobs/c231248d-92f5-419a-893c-341752aeda98",
+      "postedAt": "2026-11-01T05:00:00.000Z",
+      "updatedAt": "2026-11-01T05:00:00.000Z"
     },
     {
       "id": "3c550206-5662-4352-be73-d94c9dccdb00",
@@ -1031,7 +1295,8 @@
       "company": "Qualcomm",
       "title": "FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)",
       "locations": [
-        "Vancouver, British Columbia, Canada"
+        "Vancouver, British Columbia, Canada",
+        "Vancouver, Canada"
       ],
       "cities": [
         "Vancouver, BC"
@@ -1333,32 +1598,6 @@
       "url": "https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c",
       "postedAt": "2026-10-31T16:11:00.000Z",
       "updatedAt": "2026-10-31T16:11:00.000Z"
-    },
-    {
-      "id": "85461307-6c07-4b4b-a887-3786cdf3768d",
-      "company": "TechPeek Magnus Solutions Pvt. Ltd.",
-      "title": "Machine Learning Intern",
-      "locations": [
-        "India",
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://in.indeed.com/viewjob?jk=fa6457e59b881d3e",
-      "url": "https://trueinterview.io/jobs/85461307-6c07-4b4b-a887-3786cdf3768d",
-      "postedAt": "2026-10-31T16:07:22.000Z",
-      "updatedAt": "2026-10-31T16:07:22.000Z"
     },
     {
       "id": "5aa0a310-b1c8-4efe-858a-5745f4abcbe8",
@@ -1778,33 +2017,6 @@
       "url": "https://trueinterview.io/jobs/cf597d8f-3a7d-477b-a2cc-abfdbd5ee077",
       "postedAt": "2026-10-31T15:16:45.000Z",
       "updatedAt": "2026-10-31T15:16:45.000Z"
-    },
-    {
-      "id": "3ae511d8-045a-4b0e-af1b-fdf39115288b",
-      "company": "Annapurna Labs",
-      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460336386/",
-      "url": "https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b",
-      "postedAt": "2026-10-31T15:11:00.000Z",
-      "updatedAt": "2026-10-31T15:11:00.000Z"
     },
     {
       "id": "023e224d-028b-4a77-ab54-907d87f1fe6d",
@@ -3346,6 +3558,33 @@
       "source": "indeed",
       "applyUrl": "https://careers.appliedmaterials.com/careers/job/790319258769",
       "url": "https://trueinterview.io/jobs/c2e97f0c-3c29-431f-a1b6-d9f222b2bc58",
+      "postedAt": "2026-10-31T05:00:00.000Z",
+      "updatedAt": "2026-10-31T05:00:00.000Z"
+    },
+    {
+      "id": "dd265b0c-2db2-4b92-ae28-1a04170f7891",
+      "company": "EGIDE",
+      "title": "C2 Systems Engineering Intern – Radar & Identification (6 months)",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://egide.teamtailor.com/jobs/8646714-c2-systems-engineering-intern-radar-identification-6-months",
+      "url": "https://trueinterview.io/jobs/dd265b0c-2db2-4b92-ae28-1a04170f7891",
       "postedAt": "2026-10-31T05:00:00.000Z",
       "updatedAt": "2026-10-31T05:00:00.000Z"
     },
@@ -7483,6 +7722,29 @@
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },
     {
+      "id": "46266620-df9b-4323-b69b-05772d5225f4",
+      "company": "Kärcher",
+      "title": "Praktikum / Internship User Experience Research (Digital Channel Marketing)",
+      "locations": [
+        "Winnenden, Deutschland"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.kaercher.com/job/Winnenden-Praktikum-Internship-User-Experience-Research-%28Digital-Channel-Marketing%29-71364/1375035855/",
+      "url": "https://trueinterview.io/jobs/46266620-df9b-4323-b69b-05772d5225f4",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
+    },
+    {
       "id": "e050aa07-e96b-4296-a93f-2abe023e2e73",
       "company": "L'Oréal",
       "title": "6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month",
@@ -8138,7 +8400,8 @@
       "company": "Apple",
       "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
       "locations": [
-        "Aachen, North Rhine-Westphalia, Germany"
+        "Aachen, North Rhine-Westphalia, Germany",
+        "Aachen, Deutschland"
       ],
       "cities": [],
       "countries": [
@@ -19333,6 +19596,32 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
+      "id": "21e1f0d0-da05-4445-af92-22446068ee4d",
+      "company": "Desirous Global Consulting",
+      "title": "AI / ML Intern (Beginner Level)",
+      "locations": [
+        "India",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.desirousgc.com/job/1257",
+      "url": "https://trueinterview.io/jobs/21e1f0d0-da05-4445-af92-22446068ee4d",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
       "id": "9dc2d510-3a6e-47f8-89a6-a29662de452e",
       "company": "Diversified Automation Inc",
       "title": "Controls Engineering Co-Op",
@@ -19533,6 +19822,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.hilti.group/en/jobs/21964-en/intern-mechanical-engineer-finite-element-analysis-m-f-x/",
       "url": "https://trueinterview.io/jobs/a3969f10-cc69-4e05-9795-f82d81bf3a2a",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "8a7dadd2-ddcd-4c07-98a5-ad6f3904183e",
+      "company": "Hilti Group",
+      "title": "Internship – Civil Engineer for Modular Support Systems (Structural Analysis) (m/f/x)",
+      "locations": [
+        "Schaan, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.hilti.group/en/jobs/22017-en/internship-civil-engineer-for-modular-support-systems-structural-analysis-m-f-x/",
+      "url": "https://trueinterview.io/jobs/8a7dadd2-ddcd-4c07-98a5-ad6f3904183e",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -31551,31 +31865,6 @@
       "source": "career-sites",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652",
       "url": "https://trueinterview.io/jobs/1dc284a5-c983-4ad7-9804-ff0263cea8ee",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
-      "id": "e8adfdd7-ba21-46d3-a2fe-5ce02e588841",
-      "company": "Booz Allen Hamilton",
-      "title": "University, 2027 Summer Games Data Scientist Intern - Colorado Springs, CO",
-      "locations": [
-        "Colorado Springs, Colorado, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132",
-      "url": "https://trueinterview.io/jobs/e8adfdd7-ba21-46d3-a2fe-5ce02e588841",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },

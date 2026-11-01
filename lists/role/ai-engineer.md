@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**84 open roles.** 60 in the United States & Canada · 24 elsewhere in the world.
+**85 open roles.** 60 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -449,6 +449,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>European Space Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/c231248d-92f5-419a-893c-341752aeda98">Intern in the Science Operations Department-AI Automation of Product Assurance &amp; Quality Engineering</a></td>
+<td>Villanueva de la Cañada, Spain</td>
+<td align="center"><a href="https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&amp;-Quality-Engineering/1452874133/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Fifty-five</strong></td>
 <td><a href="https://trueinterview.io/jobs/82c5dee9-cac0-4592-9857-8aea1aad64dd">Data &amp; AI Engineer Intern (H/F)</a></td>

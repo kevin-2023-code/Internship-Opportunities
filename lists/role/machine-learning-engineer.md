@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**84 open roles.** 66 in the United States & Canada · 18 elsewhere in the world.
+**85 open roles.** 66 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -492,6 +492,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Tamizha Media Pvt Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2c18595-bc03-4fb4-8dde-ca5e985f5d2e">AI &amp; ML Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=aa800f51b422fac2">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b746c1d-b7a3-4f68-b409-2bad309876da">AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027</a></td>
 <td>Beijing, Beijing, China<br/>Shenzhen, Guangdong, China</td>
@@ -506,14 +513,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>TechPeek Magnus Solutions Pvt. Ltd.</strong></td>
-<td><a href="https://trueinterview.io/jobs/85461307-6c07-4b4b-a887-3786cdf3768d">Machine Learning Intern</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=fa6457e59b881d3e">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Perplexity</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693">Internship - Machine Learning Research Engineer</a></td>
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468008490/">Apply</a></td>
@@ -536,7 +536,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/c51cf481-8954-4434-8a83-f696189f8e80">Internship - Machine Learning Research - Speech-to-Speech Translation</a></td>
-<td>Aachen, North Rhine-Westphalia, Germany</td>
+<td>Aachen, North Rhine-Westphalia, Germany<br/>Aachen, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692236">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
@@ -580,6 +580,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a0ec2c3b-4fab-4b34-b33b-8cfddc9d562f">Internship - Machine Learning and Data Analytics</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462195223/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Desirous Global Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/21e1f0d0-da05-4445-af92-22446068ee4d">AI / ML Intern (Beginner Level)</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://www.desirousgc.com/job/1257">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
