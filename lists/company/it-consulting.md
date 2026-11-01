@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**20 open roles.** 19 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,14 +32,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>TELUS Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a0cd4d0-d667-45a7-8a3d-63a0ceb05653">Software Engineering Intern (US) - Summer 2027</a></td>
-<td>Columbus, OH<br/>Charlottesville, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458671061/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/816463fe-cd3d-45e9-804a-7f6d374ab545">SW Developer Intern: Systems Assurance - Austin, TX &amp; Rochester, MN - 2027</a></td>
 <td>Austin, TX<br/>Rochester, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458026525/">Apply</a></td>

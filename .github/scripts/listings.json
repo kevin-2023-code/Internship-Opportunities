@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T15:03:53.036Z",
+  "listingsChangedAt": "2026-11-01T16:04:38.303Z",
   "count": 2281,
   "listings": [
     {
@@ -13,7 +13,9 @@
       "company": "Annapurna Labs",
       "title": "ASIC Engineer Intern, Annapurna Labs - 2027",
       "locations": [
-        "Austin, TX"
+        "Austin, TX",
+        "Seattle, WA",
+        "Cupertino, CA"
       ],
       "cities": [
         "Austin, TX"
@@ -33,7 +35,37 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4460339361/",
       "url": "https://trueinterview.io/jobs/31a87483-3430-4e36-b036-7278894f3633",
       "postedAt": "2026-11-01T13:11:00.000Z",
-      "updatedAt": "2026-11-01T13:11:00.000Z"
+      "updatedAt": "2026-11-01T15:05:00.000Z"
+    },
+    {
+      "id": "3ae511d8-045a-4b0e-af1b-fdf39115288b",
+      "company": "Annapurna Labs",
+      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+      "locations": [
+        "Seattle, WA",
+        "Cupertino, CA",
+        "New York, United States",
+        "Austin, TX"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460336386/",
+      "url": "https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b",
+      "postedAt": "2026-10-31T15:11:00.000Z",
+      "updatedAt": "2026-11-01T14:49:00.000Z"
     },
     {
       "id": "096a918e-386e-457c-ac62-f65880ddaf50",
@@ -61,35 +93,6 @@
       "url": "https://trueinterview.io/jobs/096a918e-386e-457c-ac62-f65880ddaf50",
       "postedAt": "2026-11-01T13:11:00.000Z",
       "updatedAt": "2026-11-01T13:11:00.000Z"
-    },
-    {
-      "id": "3ae511d8-045a-4b0e-af1b-fdf39115288b",
-      "company": "Annapurna Labs",
-      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
-      "locations": [
-        "Seattle, WA",
-        "Cupertino, CA",
-        "New York, United States"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460336386/",
-      "url": "https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b",
-      "postedAt": "2026-10-31T15:11:00.000Z",
-      "updatedAt": "2026-11-01T13:04:00.000Z"
     },
     {
       "id": "bbfb5ae5-c177-4c65-be00-a08318259c03",
@@ -1810,32 +1813,6 @@
       "url": "https://trueinterview.io/jobs/c8e291e9-dbbe-4169-9f10-3a1147fb217b",
       "postedAt": "2026-10-31T07:32:00.000Z",
       "updatedAt": "2026-10-31T15:58:00.000Z"
-    },
-    {
-      "id": "9a0cd4d0-d667-45a7-8a3d-63a0ceb05653",
-      "company": "TELUS Digital",
-      "title": "Software Engineering Intern (US) - Summer 2027",
-      "locations": [
-        "Columbus, OH",
-        "Charlottesville, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4458671061/",
-      "url": "https://trueinterview.io/jobs/9a0cd4d0-d667-45a7-8a3d-63a0ceb05653",
-      "postedAt": "2026-10-31T04:41:00.000Z",
-      "updatedAt": "2026-10-31T15:47:56.000Z"
     },
     {
       "id": "be335bc6-9167-4c25-a56a-1ecf7500a662",
@@ -15129,6 +15106,32 @@
       "url": "https://trueinterview.io/jobs/08930bc3-7b8e-4b74-8f28-cc258074d3a3",
       "postedAt": "2026-10-29T14:14:00.000Z",
       "updatedAt": "2026-10-29T14:14:00.000Z"
+    },
+    {
+      "id": "4646ff56-58e3-4418-9c29-fbb11476256d",
+      "company": "Sundt Construction",
+      "title": "Advanced Facilities - Intern - Engineer",
+      "locations": [
+        "South Carolina, United States",
+        "Tempe, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4458308505/",
+      "url": "https://trueinterview.io/jobs/4646ff56-58e3-4418-9c29-fbb11476256d",
+      "postedAt": "2026-10-29T13:50:00.000Z",
+      "updatedAt": "2026-10-29T14:09:00.000Z"
     },
     {
       "id": "a00f4e05-d64a-4a64-917f-3bae67c8bdf0",
