@@ -5,9 +5,86 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T12:06:07.544Z",
-  "count": 2262,
+  "listingsChangedAt": "2026-11-01T13:04:20.791Z",
+  "count": 2270,
   "listings": [
+    {
+      "id": "5325663f-0f3c-45dd-a6dd-a8910f8e9bda",
+      "company": "Belvedere Trading, LLC",
+      "title": "Quantitative Trading Intern - Summer 2027",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4449218287/",
+      "url": "https://trueinterview.io/jobs/5325663f-0f3c-45dd-a6dd-a8910f8e9bda",
+      "postedAt": "2026-11-01T12:16:00.000Z",
+      "updatedAt": "2026-11-01T12:16:00.000Z"
+    },
+    {
+      "id": "a5e28ab0-a5db-42cf-a980-a3673bd0a702",
+      "company": "Honeywell Aerospace",
+      "title": "Embedded Engineering Intern - Summer 2027 (U.S. Person Required)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460533896/",
+      "url": "https://trueinterview.io/jobs/a5e28ab0-a5db-42cf-a980-a3673bd0a702",
+      "postedAt": "2026-11-01T12:10:00.000Z",
+      "updatedAt": "2026-11-01T12:10:00.000Z"
+    },
+    {
+      "id": "1fb4eb9f-0e50-4c37-97a8-6263549f90c4",
+      "company": "Honeywell Aerospace",
+      "title": "Software Engineering Intern - Summer 2027 (U.S. Person Required)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460537816/",
+      "url": "https://trueinterview.io/jobs/1fb4eb9f-0e50-4c37-97a8-6263549f90c4",
+      "postedAt": "2026-10-31T12:11:00.000Z",
+      "updatedAt": "2026-11-01T12:10:00.000Z"
+    },
     {
       "id": "22335208-ceac-4e38-a79b-673da66d5b9d",
       "company": "SharkNinja France",
@@ -59,35 +136,6 @@
       "url": "https://trueinterview.io/jobs/53d39f9e-d531-4ef5-8077-cd3f20c79c89",
       "postedAt": "2026-11-01T11:08:00.000Z",
       "updatedAt": "2026-11-01T11:33:00.000Z"
-    },
-    {
-      "id": "9d86ce6b-ce53-45bb-ae6a-454f282d5b57",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Software Engineer Intern (Payment) - 2027 Summer",
-      "locations": [
-        "Seattle, WA",
-        "San Jose, CA"
-      ],
-      "cities": [
-        "Seattle, WA",
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466957167/",
-      "url": "https://trueinterview.io/jobs/9d86ce6b-ce53-45bb-ae6a-454f282d5b57",
-      "postedAt": "2026-10-31T11:53:00.000Z",
-      "updatedAt": "2026-11-01T11:27:00.000Z"
     },
     {
       "id": "c4f8acc2-e430-4f71-8de1-41c1cddb1b16",
@@ -1968,31 +2016,6 @@
       "updatedAt": "2026-10-31T12:17:00.000Z"
     },
     {
-      "id": "1fb4eb9f-0e50-4c37-97a8-6263549f90c4",
-      "company": "Honeywell Aerospace",
-      "title": "Software Engineering Intern - Summer 2027",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460537816/",
-      "url": "https://trueinterview.io/jobs/1fb4eb9f-0e50-4c37-97a8-6263549f90c4",
-      "postedAt": "2026-10-31T12:11:00.000Z",
-      "updatedAt": "2026-10-31T12:11:00.000Z"
-    },
-    {
       "id": "6a923221-5a88-4546-b567-6622cb80ceff",
       "company": "TikTok USDS Joint Venture",
       "title": "Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PhD)",
@@ -2125,33 +2148,6 @@
       "url": "https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e",
       "postedAt": "2026-10-31T11:40:00.000Z",
       "updatedAt": "2026-10-31T11:40:00.000Z"
-    },
-    {
-      "id": "5cfdd761-48c8-4b29-89c1-5e0d4abed4c8",
-      "company": "Together AI",
-      "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468011694/",
-      "url": "https://trueinterview.io/jobs/5cfdd761-48c8-4b29-89c1-5e0d4abed4c8",
-      "postedAt": "2026-10-31T11:27:00.000Z",
-      "updatedAt": "2026-10-31T11:27:00.000Z"
     },
     {
       "id": "9f4a3237-5da0-4840-9173-89821144aed3",
@@ -19002,6 +18998,159 @@
       "url": "https://trueinterview.io/jobs/958ea8b2-6da0-405f-a1fc-888fc50e210c",
       "postedAt": "2026-10-29T06:29:00.000Z",
       "updatedAt": "2026-10-29T06:29:00.000Z"
+    },
+    {
+      "id": "90a0bd01-d8fc-4dfd-ae4b-c7a0171ab634",
+      "company": "Boston Scientific",
+      "title": "R&D Leads Sustaining Engineer Intern",
+      "locations": [
+        "Arden Hills, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484904862/",
+      "url": "https://trueinterview.io/jobs/90a0bd01-d8fc-4dfd-ae4b-c7a0171ab634",
+      "postedAt": "2026-10-29T06:26:00.000Z",
+      "updatedAt": "2026-10-29T06:26:00.000Z"
+    },
+    {
+      "id": "c35b7173-db55-43bf-aa4f-65cee111d5e0",
+      "company": "Urschel",
+      "title": "Innovation & Development (I&D) Manufacturing Engineering Intern",
+      "locations": [
+        "Chesterton, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473171353/",
+      "url": "https://trueinterview.io/jobs/c35b7173-db55-43bf-aa4f-65cee111d5e0",
+      "postedAt": "2026-10-29T06:18:00.000Z",
+      "updatedAt": "2026-10-29T06:18:00.000Z"
+    },
+    {
+      "id": "3f373b24-8d01-440b-b529-f5fa9432e9f8",
+      "company": "Tetra Pak",
+      "title": "Quality Assurance Intern",
+      "locations": [
+        "Vancouver, WA"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484003969/",
+      "url": "https://trueinterview.io/jobs/3f373b24-8d01-440b-b529-f5fa9432e9f8",
+      "postedAt": "2026-10-29T06:17:00.000Z",
+      "updatedAt": "2026-10-29T06:17:00.000Z"
+    },
+    {
+      "id": "8789ae2c-d0b1-4f85-8c4f-59533306af24",
+      "company": "HPE Aruba Networking",
+      "title": "Mechanical Design Engineering Intern",
+      "locations": [
+        "Roseville, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484427063/",
+      "url": "https://trueinterview.io/jobs/8789ae2c-d0b1-4f85-8c4f-59533306af24",
+      "postedAt": "2026-10-29T06:11:00.000Z",
+      "updatedAt": "2026-10-29T06:11:00.000Z"
+    },
+    {
+      "id": "cf6dea26-7617-4256-a896-ac109df3499d",
+      "company": "Arc",
+      "title": "Manufacturing Engineering Intern",
+      "locations": [
+        "Torrance, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484907509/",
+      "url": "https://trueinterview.io/jobs/cf6dea26-7617-4256-a896-ac109df3499d",
+      "postedAt": "2026-10-29T05:56:00.000Z",
+      "updatedAt": "2026-10-29T05:56:00.000Z"
+    },
+    {
+      "id": "b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Associate Technical Product Manager Internship",
+      "locations": [
+        "Frisco, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484912259/",
+      "url": "https://trueinterview.io/jobs/b91ae7f8-07b8-4a0d-aafb-89606b0ee4a5",
+      "postedAt": "2026-10-29T05:41:00.000Z",
+      "updatedAt": "2026-10-29T05:41:00.000Z"
     },
     {
       "id": "a595e831-6cf5-40d3-a072-0b742d0b819c",
@@ -43559,6 +43708,31 @@
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
     {
+      "id": "b9327e0a-2136-4ef6-98e8-f5ae4c4946bb",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software development - internship",
+      "locations": [
+        "Aguadilla, Puerto Rico, Puerto Rico"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-development---internship_1213413",
+      "url": "https://trueinterview.io/jobs/b9327e0a-2136-4ef6-98e8-f5ae4c4946bb",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
       "id": "f48560ab-f89d-4d11-a9e4-3d2a060b43e4",
       "company": "Keysight",
       "title": "R&D Usability Engineering Intern",
@@ -43580,6 +43754,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54779?lang=en-us",
       "url": "https://trueinterview.io/jobs/f48560ab-f89d-4d11-a9e4-3d2a060b43e4",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "d5aea309-dc2c-4826-b3b7-24ed43bb4173",
+      "company": "Keysight",
+      "title": "Software Development Engineer Intern - 6G Digital Twin and Visualization Platform",
+      "locations": [
+        "Santa Rosa, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.keysight.com/external/jobs/54319?lang=en-us",
+      "url": "https://trueinterview.io/jobs/d5aea309-dc2c-4826-b3b7-24ed43bb4173",
       "postedAt": "2026-10-06T00:00:00.000Z",
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
@@ -43609,6 +43808,56 @@
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
     {
+      "id": "8459bf73-1390-4087-b3cf-ae014cfa3818",
+      "company": "Lumentum",
+      "title": "Internship - MOCVD Process Engineer",
+      "locations": [
+        "USA - NC- Greensboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---MOCVD-Process-Engineer_20261460",
+      "url": "https://trueinterview.io/jobs/8459bf73-1390-4087-b3cf-ae014cfa3818",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "a59b6e64-be98-4cad-b713-bdb576d755da",
+      "company": "Lumentum",
+      "title": "Internship - Semiconductor Fab Process Engineer",
+      "locations": [
+        "USA - NC- Greensboro, United States of America"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---NC--Greensboro/Internship---Semiconductor-Fab-Process-Engineer_20261462",
+      "url": "https://trueinterview.io/jobs/a59b6e64-be98-4cad-b713-bdb576d755da",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
       "id": "78f72460-4d3d-40a6-98c8-5f9e83c58ae7",
       "company": "Lumentum",
       "title": "Internship - Semiconductor Maintenance Tech",
@@ -43634,6 +43883,31 @@
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
     {
+      "id": "91d6781f-dff2-48df-abdb-a377600edf23",
+      "company": "Nokia",
+      "title": "Mixed Signal Circuit Design Coop",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41222",
+      "url": "https://trueinterview.io/jobs/91d6781f-dff2-48df-abdb-a377600edf23",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
       "id": "355ea7e3-09bc-42ce-bf1d-441f6181f0b6",
       "company": "Nokia",
       "title": "Optical Systems Group Co-op",
@@ -43655,6 +43929,34 @@
       "source": "bigtech-careers",
       "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41218",
       "url": "https://trueinterview.io/jobs/355ea7e3-09bc-42ce-bf1d-441f6181f0b6",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "updatedAt": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "id": "5e9b9f10-336e-40ff-bb29-25f70d718c3d",
+      "company": "NVIDIA",
+      "title": "PCIe Design Verification Intern - Spring 2027",
+      "locations": [
+        "Santa Clara, CA, US",
+        "Austin, TX, US"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://jobs.nvidia.com/careers/job/893398029164",
+      "url": "https://trueinterview.io/jobs/5e9b9f10-336e-40ff-bb29-25f70d718c3d",
       "postedAt": "2026-10-06T00:00:00.000Z",
       "updatedAt": "2026-10-06T00:00:00.000Z"
     },
@@ -50258,31 +50560,6 @@
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
     {
-      "id": "e39331a4-3036-44a9-b2c9-366b1f9d010b",
-      "company": "Nokia",
-      "title": "AI Assisted Software Development Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40535",
-      "url": "https://trueinterview.io/jobs/e39331a4-3036-44a9-b2c9-366b1f9d010b",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
       "id": "87ad6c2d-3bb1-4b96-b6a0-d02f4939826c",
       "company": "QUALCOMM",
       "title": "Automotive Engineering Internship – Summer 2027",
@@ -50304,33 +50581,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446720740553",
       "url": "https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "7140ba79-29ad-4fcb-b799-f93dee8dadf8",
-      "company": "QUALCOMM",
-      "title": "Embedded Engineering Internship - Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Boxborough, MA, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720737089",
-      "url": "https://trueinterview.io/jobs/7140ba79-29ad-4fcb-b799-f93dee8dadf8",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -50387,40 +50637,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446720741668",
       "url": "https://trueinterview.io/jobs/0add9d47-9d5b-4236-bb83-2c674de6a937",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "77828b14-2c53-46d2-a77c-8ff25eb9cefe",
-      "company": "QUALCOMM",
-      "title": "Machine Learning & Artificial Intelligence Engineering Internship – Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Austin, TX, US",
-        "Boxborough, MA, US",
-        "NJ,US",
-        "New York, NY, US",
-        "Raleigh, NC, US",
-        "Santa Clara, CA, US"
-      ],
-      "cities": [
-        "Austin, TX",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740525",
-      "url": "https://trueinterview.io/jobs/77828b14-2c53-46d2-a77c-8ff25eb9cefe",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
@@ -50579,41 +50795,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.qualcomm.com/careers/job/446720740636",
       "url": "https://trueinterview.io/jobs/37a8fa74-c2b0-4689-ae17-4ee7438a1d12",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60",
-      "company": "QUALCOMM",
-      "title": "Software Engineering Internship - Summer 2027",
-      "locations": [
-        "San Diego, CA, US",
-        "Austin, TX, US",
-        "Boxborough, MA, US",
-        "NJ,US",
-        "Tempe, AZ, US",
-        "Irvine, CA, US",
-        "Louisville, KY, US",
-        "New York, NY, US"
-      ],
-      "cities": [
-        "Austin, TX",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.qualcomm.com/careers/job/446720740529",
-      "url": "https://trueinterview.io/jobs/f1fe5ca9-9ee3-4a03-ac3a-ea1e922b5d60",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },

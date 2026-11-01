@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**64 open roles.**
+**65 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eeb2b53d-a0b6-431f-bee9-9876b2a54975">2027 Summer Engineering Intern</a></td>
 <td>Portland, OR<br/>Atlanta, GA<br/>Salt Lake City, UT<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461331276/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Pak</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f373b24-8d01-440b-b529-f5fa9432e9f8">Quality Assurance Intern</a></td>
+<td>Vancouver, WA<br/>Vancouver, BC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484003969/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
