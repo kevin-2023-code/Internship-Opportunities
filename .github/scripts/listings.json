@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T19:04:31.405Z",
-  "count": 2284,
+  "listingsChangedAt": "2026-11-01T20:04:34.015Z",
+  "count": 2281,
   "listings": [
     {
       "id": "c099f1fc-0d45-4a8f-9aa1-08e28f4575d5",
@@ -936,7 +936,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485198156/",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/75769/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/bcf6e6c0-9525-41d5-8d66-26737c5c9868",
       "postedAt": "2026-11-01T05:23:00.000Z",
       "updatedAt": "2026-11-01T05:23:00.000Z"
@@ -40236,7 +40236,8 @@
       "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
       "locations": [
         "Boston, MA",
-        "Sunnyvale, CA"
+        "Sunnyvale, CA",
+        "New York, NY"
       ],
       "cities": [
         "Boston, MA"
@@ -59246,89 +59247,6 @@
       "url": "https://trueinterview.io/jobs/e9d771b4-43e0-49e1-ae8c-57114cd61f51",
       "postedAt": "2026-09-02T20:16:09.000Z",
       "updatedAt": "2026-09-02T20:16:09.000Z"
-    },
-    {
-      "id": "202101ae-ae53-43a6-95c3-ca20f387600e",
-      "company": "Garda Capital Partners",
-      "title": "Trading Analyst Intern, Credit",
-      "locations": [
-        "New York, New York, United States",
-        "NYC (New York)",
-        "NYC (New York) - Investment"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6163540004",
-      "url": "https://trueinterview.io/jobs/202101ae-ae53-43a6-95c3-ca20f387600e",
-      "postedAt": "2026-09-02T19:42:30.000Z",
-      "updatedAt": "2026-09-02T19:42:30.000Z"
-    },
-    {
-      "id": "33e0207c-8a1e-451b-a5f0-c058bbfc40bf",
-      "company": "Garda Capital Partners",
-      "title": "Trading Analyst Intern, Mortgages",
-      "locations": [
-        "New York, New York, United States",
-        "NYC (New York)",
-        "NYC (New York) - Investment"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/gardacp/jobs/6179468004",
-      "url": "https://trueinterview.io/jobs/33e0207c-8a1e-451b-a5f0-c058bbfc40bf",
-      "postedAt": "2026-09-02T19:37:54.000Z",
-      "updatedAt": "2026-09-02T19:37:54.000Z"
-    },
-    {
-      "id": "c08a1d98-aa2e-4b4e-991d-04a5e710db3c",
-      "company": "Wsp",
-      "title": "Power Distribution Design Engineering Intern - Summer 2027",
-      "locations": [
-        "Baton Rouge, LA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94538",
-      "url": "https://trueinterview.io/jobs/c08a1d98-aa2e-4b4e-991d-04a5e710db3c",
-      "postedAt": "2026-09-02T19:32:08.000Z",
-      "updatedAt": "2026-09-02T19:32:08.000Z"
     }
   ]
 }
