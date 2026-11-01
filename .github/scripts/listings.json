@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T20:04:34.015Z",
-  "count": 2281,
+  "listingsChangedAt": "2026-11-01T21:04:25.103Z",
+  "count": 2279,
   "listings": [
+    {
+      "id": "77eb4340-99dc-4799-bd7a-665cb2d94960",
+      "company": "Mission Technologies, a division of HII",
+      "title": "Data Engineer (Skillbridge Intern) - 28499",
+      "locations": [
+        "Augusta, GA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4441134056/",
+      "url": "https://trueinterview.io/jobs/77eb4340-99dc-4799-bd7a-665cb2d94960",
+      "postedAt": "2026-11-01T19:20:00.000Z",
+      "updatedAt": "2026-11-01T19:20:00.000Z"
+    },
     {
       "id": "c099f1fc-0d45-4a8f-9aa1-08e28f4575d5",
       "company": "Oakwood PMS",
@@ -59172,81 +59197,6 @@
       "url": "https://trueinterview.io/jobs/d911d97c-c8a6-41e6-bf75-fb4d3920c245",
       "postedAt": "2026-09-02T21:46:58.000Z",
       "updatedAt": "2026-09-02T21:46:58.000Z"
-    },
-    {
-      "id": "c8baad8a-5f16-4544-a8eb-e9d937d2d666",
-      "company": "Northmarq",
-      "title": "Software Engineering Intern, Summer 2027",
-      "locations": [
-        "Minneapolis, Minnesota, United States",
-        "Minneapolis, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/northmarq/jobs/5414475008",
-      "url": "https://trueinterview.io/jobs/c8baad8a-5f16-4544-a8eb-e9d937d2d666",
-      "postedAt": "2026-09-02T20:21:30.000Z",
-      "updatedAt": "2026-09-02T20:21:30.000Z"
-    },
-    {
-      "id": "cb76d489-3a82-49b9-86b3-28951e62fbd4",
-      "company": "Oceanus Marine Technologies",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Oceanus HQ"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application",
-      "url": "https://trueinterview.io/jobs/cb76d489-3a82-49b9-86b3-28951e62fbd4",
-      "postedAt": "2026-09-02T20:18:40.000Z",
-      "updatedAt": "2026-09-02T20:18:40.000Z"
-    },
-    {
-      "id": "e9d771b4-43e0-49e1-ae8c-57114cd61f51",
-      "company": "Vestmark, Inc",
-      "title": "Training and Tech Pubs Intern",
-      "locations": [
-        "Wakefield, MA (on-site)",
-        "Wakefield, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/vestmark/jobs/8172029",
-      "url": "https://trueinterview.io/jobs/e9d771b4-43e0-49e1-ae8c-57114cd61f51",
-      "postedAt": "2026-09-02T20:16:09.000Z",
-      "updatedAt": "2026-09-02T20:16:09.000Z"
     }
   ]
 }
