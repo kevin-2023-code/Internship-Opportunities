@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**83 open roles.** 66 in the United States & Canada · 17 elsewhere in the world.
+**84 open roles.** 66 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -506,7 +506,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>TechPeek Magnus Solutions Pvt. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/85461307-6c07-4b4b-a887-3786cdf3768d">Machine Learning Intern</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=fa6457e59b881d3e">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Perplexity</strong></td>
 <td><a href="https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693">Internship - Machine Learning Research Engineer</a></td>
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468008490/">Apply</a></td>

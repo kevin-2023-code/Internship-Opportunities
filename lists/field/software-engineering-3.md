@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**939 open roles.** 775 in the United States & Canada · 164 elsewhere in the world.
+**940 open roles.** 775 in the United States & Canada · 165 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/23b2b871-e871-4abd-962a-0ceb07ddb441">Server Firmware Developer (RDSS Intern)</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467130464/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0ab40b7a-b0f3-491f-9ac5-bb9cea55b9a9">System Level Product Engineer (RDSS Intern)</a></td>
+<td>Hsinchu City, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593534/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8b8ae94e-e0b1-45be-baf1-1a5c5cc6c29d">System Level Test Engineer (RDSS Intern)</a></td>
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484592588/">Apply</a></td>
@@ -298,14 +312,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>sv infotech software solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/552e8594-4b69-418f-8ef3-218bdcb3718a">Remote Web Developer Intern</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=5cc4d490b4d7dde3">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fcd142fd-1606-4689-a470-92f832a4e1cd">Internship - Product Test Engineer</a></td>
 <td>Samut Prakan, Samut Prakan, Thailand</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473262234/">Apply</a></td>

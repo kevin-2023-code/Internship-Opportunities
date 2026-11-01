@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**51 open roles.** 30 in the United States & Canada · 21 elsewhere in the world.
+**52 open roles.** 30 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -244,6 +244,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
 <td>Gurgaon, Haryana, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477895308/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Techsol Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/60547672-21f3-490c-9ccb-1012a398735f">Intern - Data Analyst</a></td>
+<td>India</td>
+<td align="center"><a href="https://amberstudent.keka.com/careers/jobdetails/146146">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

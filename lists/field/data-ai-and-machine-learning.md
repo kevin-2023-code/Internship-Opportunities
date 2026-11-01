@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**369 open roles.** 286 in the United States & Canada · 83 elsewhere in the world.
+**372 open roles.** 287 in the United States & Canada · 85 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1516,6 +1516,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/57d36234-5bee-443a-b374-f6337fb4a78a">2027 Consumer &amp; Community Banking - Risk Modeling Associate Program - Summer Internship</a></td>
+<td>Wilmington, DE, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/18149b8e-5d8e-4b18-95c6-cb49ca846639">Global Operations Supplier Process Engineer Co-Op</a></td>
 <td>TX, United States</td>
@@ -2046,10 +2053,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>TechPeek Magnus Solutions Pvt. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/85461307-6c07-4b4b-a887-3786cdf3768d">Machine Learning Intern</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=fa6457e59b881d3e">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
 <td>Gurgaon, Haryana, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477895308/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Techsol Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/60547672-21f3-490c-9ccb-1012a398735f">Intern - Data Analyst</a></td>
+<td>India</td>
+<td align="center"><a href="https://amberstudent.keka.com/careers/jobdetails/146146">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

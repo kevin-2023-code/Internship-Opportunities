@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T02:06:43.992Z",
-  "count": 2252,
+  "listingsChangedAt": "2026-11-01T03:06:15.319Z",
+  "count": 2256,
   "listings": [
     {
       "id": "3c550206-5662-4352-be73-d94c9dccdb00",
@@ -515,9 +515,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -758,6 +758,32 @@
       "url": "https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c",
       "postedAt": "2026-10-31T16:11:00.000Z",
       "updatedAt": "2026-10-31T16:11:00.000Z"
+    },
+    {
+      "id": "85461307-6c07-4b4b-a887-3786cdf3768d",
+      "company": "TechPeek Magnus Solutions Pvt. Ltd.",
+      "title": "Machine Learning Intern",
+      "locations": [
+        "India",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://in.indeed.com/viewjob?jk=fa6457e59b881d3e",
+      "url": "https://trueinterview.io/jobs/85461307-6c07-4b4b-a887-3786cdf3768d",
+      "postedAt": "2026-10-31T16:07:22.000Z",
+      "updatedAt": "2026-10-31T16:07:22.000Z"
     },
     {
       "id": "5aa0a310-b1c8-4efe-858a-5745f4abcbe8",
@@ -2489,6 +2515,31 @@
       "updatedAt": "2026-10-31T08:13:00.000Z"
     },
     {
+      "id": "60547672-21f3-490c-9ccb-1012a398735f",
+      "company": "Techsol Engineers",
+      "title": "Intern - Data Analyst",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://amberstudent.keka.com/careers/jobdetails/146146",
+      "url": "https://trueinterview.io/jobs/60547672-21f3-490c-9ccb-1012a398735f",
+      "postedAt": "2026-10-31T06:59:36.000Z",
+      "updatedAt": "2026-10-31T06:59:36.000Z"
+    },
+    {
       "id": "be9f288f-42d6-4fb2-9960-306c82e55888",
       "company": "First Citizens Bank",
       "title": "2027 Summer Intern - Quantitative Modeling (Raleigh, NC)",
@@ -2778,6 +2829,32 @@
       "url": "https://trueinterview.io/jobs/c1e073fe-c212-4772-ba1b-6e683bb6fc6d",
       "postedAt": "2026-10-31T05:20:00.000Z",
       "updatedAt": "2026-10-31T05:20:00.000Z"
+    },
+    {
+      "id": "33c85e4a-1f45-4b37-b09d-35f6f6545ba5",
+      "company": "mhtechin",
+      "title": "Forward Deployed Engineer Intern",
+      "locations": [
+        "Remote, India",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.mhtechin.com/index.php/jobs/forward-deployed-engineer-intern/",
+      "url": "https://trueinterview.io/jobs/33c85e4a-1f45-4b37-b09d-35f6f6545ba5",
+      "postedAt": "2026-10-31T05:00:00.000Z",
+      "updatedAt": "2026-10-31T05:00:00.000Z"
     },
     {
       "id": "1f46ea66-93f1-4b05-9276-1e3098014406",
@@ -6754,6 +6831,33 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/doctolib/1a05fc07-99a5-4148-8b34-2b644d9ed030",
       "url": "https://trueinterview.io/jobs/0ef67355-c422-400d-b422-25ae60c6593e",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
+    },
+    {
+      "id": "a59799ae-20ae-4cdd-a2b7-12e86b6d33ef",
+      "company": "General Motors (GM)",
+      "title": "Java Software Engineer Intern",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1",
+      "url": "https://trueinterview.io/jobs/a59799ae-20ae-4cdd-a2b7-12e86b6d33ef",
       "postedAt": "2026-10-30T05:00:00.000Z",
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },
@@ -15918,32 +16022,6 @@
       "url": "https://trueinterview.io/jobs/a84ab8b8-3909-4e22-ac5e-7097bd813b8f",
       "postedAt": "2026-10-29T11:12:00.000Z",
       "updatedAt": "2026-10-29T11:12:00.000Z"
-    },
-    {
-      "id": "552e8594-4b69-418f-8ef3-218bdcb3718a",
-      "company": "sv infotech software solutions",
-      "title": "Remote Web Developer Intern",
-      "locations": [
-        "Remote, India",
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Frontend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://in.indeed.com/viewjob?jk=5cc4d490b4d7dde3",
-      "url": "https://trueinterview.io/jobs/552e8594-4b69-418f-8ef3-218bdcb3718a",
-      "postedAt": "2026-10-29T11:11:58.000Z",
-      "updatedAt": "2026-10-29T11:11:58.000Z"
     },
     {
       "id": "4b98d112-7f3e-41d1-b080-a642f4e49e03",
@@ -42689,6 +42767,31 @@
       "url": "https://trueinterview.io/jobs/640aee41-ab6c-4488-8ea7-9c607952b5d0",
       "postedAt": "2026-10-06T22:15:21.000Z",
       "updatedAt": "2026-10-06T22:15:21.000Z"
+    },
+    {
+      "id": "57d36234-5bee-443a-b374-f6337fb4a78a",
+      "company": "JPMorgan Chase",
+      "title": "2027 Consumer & Community Banking - Risk Modeling Associate Program - Summer Internship",
+      "locations": [
+        "Wilmington, DE, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061",
+      "url": "https://trueinterview.io/jobs/57d36234-5bee-443a-b374-f6337fb4a78a",
+      "postedAt": "2026-10-06T20:01:23.000Z",
+      "updatedAt": "2026-10-06T20:01:23.000Z"
     },
     {
       "id": "79967dd1-df30-444a-8a07-fe753ec454ff",

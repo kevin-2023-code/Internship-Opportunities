@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**38 open roles.** 29 in the United States & Canada · 9 elsewhere in the world. Postings the pipeline classified as remote.
+**39 open roles.** 29 in the United States & Canada · 10 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -233,11 +233,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>sv infotech software solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/552e8594-4b69-418f-8ef3-218bdcb3718a">Remote Web Developer Intern</a> 🌐</td>
+<td><strong>TechPeek Magnus Solutions Pvt. Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/85461307-6c07-4b4b-a887-3786cdf3768d">Machine Learning Intern</a> 🌐</td>
 <td>Remote — India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=5cc4d490b4d7dde3">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=fa6457e59b881d3e">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mhtechin</strong></td>
+<td><a href="https://trueinterview.io/jobs/33c85e4a-1f45-4b37-b09d-35f6f6545ba5">Forward Deployed Engineer Intern</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://careers.mhtechin.com/index.php/jobs/forward-deployed-engineer-intern/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Honeywell Aerospace</strong></td>
