@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T17:04:19.046Z",
-  "count": 2283,
+  "listingsChangedAt": "2026-11-01T18:04:58.522Z",
+  "count": 2285,
   "listings": [
+    {
+      "id": "8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
+      "company": "Cohere",
+      "title": "Machine Learning Intern/Co-op (Winter 2027)",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4414192445/",
+      "url": "https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
+      "postedAt": "2026-11-01T16:43:00.000Z",
+      "updatedAt": "2026-11-01T16:43:00.000Z"
+    },
+    {
+      "id": "896709d5-5711-4056-a113-d2322f672bbf",
+      "company": "York Space Systems",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Greenwood Village, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4458418385/",
+      "url": "https://trueinterview.io/jobs/896709d5-5711-4056-a113-d2322f672bbf",
+      "postedAt": "2026-11-01T16:39:00.000Z",
+      "updatedAt": "2026-11-01T16:39:00.000Z"
+    },
     {
       "id": "b1c5dd08-9889-4657-a43c-cccb75e3be4d",
       "company": "Elevated Web Design",
@@ -132,6 +184,31 @@
       "url": "https://trueinterview.io/jobs/d3b6e321-1cc6-4828-923b-21641645ea9c",
       "postedAt": "2026-11-01T15:28:00.000Z",
       "updatedAt": "2026-11-01T15:28:00.000Z"
+    },
+    {
+      "id": "03ea040b-e789-48d0-b284-aade3c7d48c9",
+      "company": "Annapurna Labs",
+      "title": "Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+      "locations": [
+        "Cupertino, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460345281/",
+      "url": "https://trueinterview.io/jobs/03ea040b-e789-48d0-b284-aade3c7d48c9",
+      "postedAt": "2026-11-01T15:16:00.000Z",
+      "updatedAt": "2026-11-01T15:16:00.000Z"
     },
     {
       "id": "31a87483-3430-4e36-b036-7278894f3633",
@@ -1674,33 +1751,6 @@
       "url": "https://trueinterview.io/jobs/63f09f83-2803-4380-9560-0f7123f67ff2",
       "postedAt": "2026-10-31T16:19:00.000Z",
       "updatedAt": "2026-10-31T16:19:00.000Z"
-    },
-    {
-      "id": "8d326b5b-a744-49f7-bc69-89419f074de0",
-      "company": "Cohere",
-      "title": "Software Engineer Intern (Winter 2027)",
-      "locations": [
-        "Dubai, Dubai, United Arab Emirates"
-      ],
-      "cities": [
-        "Dubai"
-      ],
-      "countries": [
-        "United Arab Emirates"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4459440168/",
-      "url": "https://trueinterview.io/jobs/8d326b5b-a744-49f7-bc69-89419f074de0",
-      "postedAt": "2026-10-31T16:14:00.000Z",
-      "updatedAt": "2026-10-31T16:14:00.000Z"
     },
     {
       "id": "a1f062c5-43bc-4624-adc0-95a53909504c",
