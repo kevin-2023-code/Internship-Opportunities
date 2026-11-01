@@ -5,9 +5,86 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-01T09:04:46.595Z",
+  "listingsChangedAt": "2026-11-01T10:04:26.024Z",
   "count": 2268,
   "listings": [
+    {
+      "id": "fd21ced9-65b5-4592-a2b5-e6817987d044",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Data Scientist Intern - Charleston, SC",
+      "locations": [
+        "Charleston, SC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460511422/",
+      "url": "https://trueinterview.io/jobs/fd21ced9-65b5-4592-a2b5-e6817987d044",
+      "postedAt": "2026-11-01T09:23:00.000Z",
+      "updatedAt": "2026-11-01T09:23:00.000Z"
+    },
+    {
+      "id": "aaea4dba-5f88-46ad-b5c6-64884972a6d2",
+      "company": "Booz Allen Hamilton",
+      "title": "University, 2027 Summer Games Software Developer Intern - Rome, NY",
+      "locations": [
+        "Rome, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460509495/",
+      "url": "https://trueinterview.io/jobs/aaea4dba-5f88-46ad-b5c6-64884972a6d2",
+      "postedAt": "2026-11-01T09:22:00.000Z",
+      "updatedAt": "2026-11-01T09:22:00.000Z"
+    },
+    {
+      "id": "18568e1f-59e9-4144-9159-cca3211e9166",
+      "company": "Publicis Sapient",
+      "title": "Product Manager Intern (Class of 2028)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466957557/",
+      "url": "https://trueinterview.io/jobs/18568e1f-59e9-4144-9159-cca3211e9166",
+      "postedAt": "2026-11-01T09:11:00.000Z",
+      "updatedAt": "2026-11-01T09:11:00.000Z"
+    },
     {
       "id": "96ddc653-683d-451a-abac-cb0880ce2511",
       "company": "Midland States Bank",
@@ -41982,31 +42059,6 @@
       "updatedAt": "2026-10-09T00:00:00.000Z"
     },
     {
-      "id": "638b6972-819a-4b54-82c8-b8da9d53b1bf",
-      "company": "Micron Technology",
-      "title": "Intern - SSD Firmware - CICD",
-      "locations": [
-        "Longmont, CO, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44892749",
-      "url": "https://trueinterview.io/jobs/638b6972-819a-4b54-82c8-b8da9d53b1bf",
-      "postedAt": "2026-10-09T00:00:00.000Z",
-      "updatedAt": "2026-10-09T00:00:00.000Z"
-    },
-    {
       "id": "7d91f98f-5f8c-4a95-81a2-3b7bf53b6e7d",
       "company": "NVIDIA",
       "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
@@ -49992,32 +50044,6 @@
       "updatedAt": "2026-09-20T00:00:00.000Z"
     },
     {
-      "id": "96d6b2a4-4e7c-41b4-bbb7-79b077b2c820",
-      "company": "Epic Games",
-      "title": "Tools Programmer Intern",
-      "locations": [
-        "Cary,North Carolina,United States",
-        "Cary"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
-      "url": "https://trueinterview.io/jobs/96d6b2a4-4e7c-41b4-bbb7-79b077b2c820",
-      "postedAt": "2026-09-18T23:04:51.000Z",
-      "updatedAt": "2026-09-18T23:04:51.000Z"
-    },
-    {
       "id": "ec62f64c-0196-496a-a8e7-00676e7fb1a2",
       "company": "Achievers",
       "title": "Software Engineering Co-op - Winter 2027",
@@ -50350,31 +50376,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54353?lang=en-us",
       "url": "https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
-      "postedAt": "2026-09-18T00:00:00.000Z",
-      "updatedAt": "2026-09-18T00:00:00.000Z"
-    },
-    {
-      "id": "81830d78-ccd2-40b2-ac06-f8c470130ddb",
-      "company": "Micron Technology",
-      "title": "Intern - ASIC Digital Design",
-      "locations": [
-        "Minneapolis, MN, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44544601",
-      "url": "https://trueinterview.io/jobs/81830d78-ccd2-40b2-ac06-f8c470130ddb",
       "postedAt": "2026-09-18T00:00:00.000Z",
       "updatedAt": "2026-09-18T00:00:00.000Z"
     },
