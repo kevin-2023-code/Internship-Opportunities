@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T07:06:00.214Z",
-  "count": 2283,
+  "listingsChangedAt": "2026-11-02T08:07:00.663Z",
+  "count": 2280,
   "listings": [
+    {
+      "id": "8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
+      "company": "Roku",
+      "title": "SW Engineer Intern, AI Engineering",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486130285/",
+      "url": "https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
+      "postedAt": "2026-11-02T06:42:00.000Z",
+      "updatedAt": "2026-11-02T06:42:00.000Z"
+    },
     {
       "id": "ffb9778d-940d-4782-9954-a0ac0b8b67c2",
       "company": "Shopee",
@@ -6143,58 +6170,6 @@
       "url": "https://trueinterview.io/jobs/bfc668b3-8696-4b98-af81-f70bdf9133ca",
       "postedAt": "2026-10-30T09:48:00.000Z",
       "updatedAt": "2026-10-30T09:48:00.000Z"
-    },
-    {
-      "id": "f8402ace-6964-4645-a371-afb806ab5336",
-      "company": "JPMorganChase",
-      "title": "2027 Quantitative Research - Markets - Summer Internship - Analyst - United States",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4449434828/",
-      "url": "https://trueinterview.io/jobs/f8402ace-6964-4645-a371-afb806ab5336",
-      "postedAt": "2026-10-30T09:45:00.000Z",
-      "updatedAt": "2026-10-30T09:45:00.000Z"
-    },
-    {
-      "id": "f5a0c674-2058-47fb-b1a2-f760180fc10e",
-      "company": "Badger Meter",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Escondido, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4477408823/",
-      "url": "https://trueinterview.io/jobs/f5a0c674-2058-47fb-b1a2-f760180fc10e",
-      "postedAt": "2026-10-30T09:41:00.000Z",
-      "updatedAt": "2026-10-30T09:41:00.000Z"
     },
     {
       "id": "96069313-894f-45b4-94d9-8bd8780d12b2",
@@ -49499,59 +49474,6 @@
       "url": "https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1",
       "postedAt": "2026-09-23T23:03:16.000Z",
       "updatedAt": "2026-09-23T23:03:16.000Z"
-    },
-    {
-      "id": "2b897d80-5a4b-48e3-853a-3789e8c57fb8",
-      "company": "Atlassian",
-      "title": "Data Scientist Intern, 2027 Summer U.S.",
-      "locations": [
-        "Seattle - United States - Seattle, Washington United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?mode=apply",
-      "url": "https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8",
-      "postedAt": "2026-09-23T22:53:10.000Z",
-      "updatedAt": "2026-09-23T22:53:10.000Z"
-    },
-    {
-      "id": "7bf7b041-7034-4ecd-a2a3-37c67f87583f",
-      "company": "Muon Space",
-      "title": "Junior Help Desk Intern (Summer 2027)",
-      "locations": [
-        "Mountain View, CA",
-        "Muon Mountain View"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5247733007",
-      "url": "https://trueinterview.io/jobs/7bf7b041-7034-4ecd-a2a3-37c67f87583f",
-      "postedAt": "2026-09-23T21:59:55.000Z",
-      "updatedAt": "2026-09-23T21:59:55.000Z"
     },
     {
       "id": "2dbf5871-f396-433d-ab7d-3186527eec0f",
