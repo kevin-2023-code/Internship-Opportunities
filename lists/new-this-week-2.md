@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,377 open roles.** 1,075 in the United States & Canada · 302 elsewhere in the world. Everything the employers put up this week.
+**1,378 open roles.** 1,076 in the United States & Canada · 302 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aspen Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/69afe807-8e38-4e0b-8c56-b0b48470a3af">Product Owner Intern — Product Management - Summer 2027</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466241289/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>STV</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d256be0-8acd-4f0c-a12f-bcae9b5428cc">Electrical Engineering Intern - Spring 2027</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/1891baab-e193-48d6-88ea-4f7118737bca">Electrical Engineering Co-op: Power</a></td>
 <td>Akron, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466102519/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Manitowoc Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/a08302ea-9ac2-4413-98cd-c9be8473f427">Summer 2027 Intern - Cybersecurity</a></td>
-<td>Shady Grove, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476520484/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

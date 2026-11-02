@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**272 open roles.** 239 in the United States & Canada · 33 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**273 open roles.** 240 in the United States & Canada · 33 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786">Internship Program Manager - B4</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480063470/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/69e5faca-7984-437d-bb4d-2db4846e7443">FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)</a></td>

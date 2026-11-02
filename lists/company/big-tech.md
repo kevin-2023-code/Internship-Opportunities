@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**562 open roles.** 494 in the United States & Canada · 68 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**563 open roles.** 495 in the United States & Canada · 68 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786">Internship Program Manager - B4</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480063470/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Motorola Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc56f209-9f66-4786-a8a1-39baa2296b28">Intern - Embedded Software, System, and Test Engineer - 2026</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f9afebbd-7396-4bce-8d52-ebcb04692e64">SAP iXp Intern - Full-Stack AI Developer</a></td>
 <td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Full-Stack-AI-Developer-CA-94304/1425371233/">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b5c6a93a-2d3a-421a-859e-f7fd6b30bddb">SAP iXp Intern - Personalization, Digital Platforms &amp; AI [Newtown Square, PA]</a></td>
-<td>Newtown Square, PA, US, 19073</td>
-<td align="center"><a href="https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Personalization%2C-Digital-Platforms-&amp;amp;-AI-Newtown-Square%2C-PA-PA-19073/1435915433/">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

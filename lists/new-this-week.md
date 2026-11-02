@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,377 open roles.** 1,075 in the United States & Canada · 302 elsewhere in the world. Everything the employers put up this week.
+**1,378 open roles.** 1,076 in the United States & Canada · 302 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b">Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)</a></td>
 <td>Ada, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478300807/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786">Internship Program Manager - B4</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480063470/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e66a95b2-1521-49ca-8b69-d2bd24756d2d">Knowledge Management Data Analyst Intern</a></td>
 <td>North Carolina, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475712538/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aspen Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/69afe807-8e38-4e0b-8c56-b0b48470a3af">Product Owner Intern — Product Management - Summer 2027</a></td>
-<td>Bedford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466241289/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

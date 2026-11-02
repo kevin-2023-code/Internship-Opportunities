@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,377 open roles.** 1,075 in the United States & Canada · 302 elsewhere in the world. Everything the employers put up this week.
+**1,378 open roles.** 1,076 in the United States & Canada · 302 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Manitowoc Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/a08302ea-9ac2-4413-98cd-c9be8473f427">Summer 2027 Intern - Cybersecurity</a></td>
+<td>Shady Grove, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476520484/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e84d369-9e33-4712-997a-b3ca796a548f">RF Electrical Engineer Intern (Summer 2027)(Onsite)</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dcf9e063-e196-4a23-b47a-b5e75c7611ea">Internship - Test Engineering Support (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456195790/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1e0f31dd-7720-4a60-9ded-df328e63480f">Internship - Assistant for Engineering Lab (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4427981037/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

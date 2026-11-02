@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T10:04:42.128Z",
-  "count": 2286,
+  "listingsChangedAt": "2026-11-02T11:04:46.473Z",
+  "count": 2287,
   "listings": [
     {
       "id": "08c6ac07-f1ea-4887-9d33-e19518a4e87b",
@@ -32,6 +32,31 @@
       "url": "https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b",
       "postedAt": "2026-11-02T09:15:15.000Z",
       "updatedAt": "2026-11-02T09:15:15.000Z"
+    },
+    {
+      "id": "89600b69-4671-4f9a-9788-ff748bbca786",
+      "company": "Applied Materials",
+      "title": "Internship Program Manager - B4",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480063470/",
+      "url": "https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786",
+      "postedAt": "2026-11-02T06:55:00.000Z",
+      "updatedAt": "2026-11-02T06:55:00.000Z"
     },
     {
       "id": "8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
