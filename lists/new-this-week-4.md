@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,368 open roles.** 1,073 in the United States & Canada · 295 elsewhere in the world. Everything the employers put up this week.
+**1,367 open roles.** 1,073 in the United States & Canada · 294 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1185,13 +1185,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/04d6df5c-1d7f-4dff-acd5-b56d34741974">Engineering Program Manager (EPM) Intern</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.apple.com/en-gb/details/200691241-2114/engineering-program-manager-epm-intern?board_id=JB001&amp;team=SFTWR">Apply</a></td>
-<td align="center">25 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -32,7 +32,7 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-02 03:05 UTC_
+_Last updated: 2026-11-02 05:05 UTC_
 
 **1,908 open internships** from **784 employers** · **1,073 posted in the last 7 days** · refreshed hourly
 
@@ -1244,14 +1244,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/c2e97f0c-3c29-431f-a1b6-d9f222b2bc58">2027 Spring Electrical Engineer Co-op (Billerica, MA)</a> 🆕</td>
 <td>Billerica, MA</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319258769">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7f081059-966a-4397-8015-c01b148af3bc">2027 Spring Manufacturing Engineer Co-op (Billerica, MA)</a> 🆕</td>
 <td>Billerica, MA</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319258821">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>ChampionX</strong></td>
@@ -1838,7 +1838,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/02a1944d-e4f1-4f69-86c9-3c1befdb6711">Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start</a> 🆕</td>
 <td>San Jose, CA<br/>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485113428/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Electronic Arts (EA)</strong></td>
@@ -2331,10 +2331,10 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>BMO Financial Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/668e96cb-e203-4d78-b34b-f9ea93359075">BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/668e96cb-e203-4d78-b34b-f9ea93359075">BMO Capital Markets Quantitative Trading Analyst – 12–16 Month Co-op</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>
@@ -2424,7 +2424,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/857e7549-b049-4ca1-861b-e8f774d77283">Managed IT Services Service Desk Consulting Intern - Winter 2027</a> 🆕</td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484802637/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Sargento</strong></td>
