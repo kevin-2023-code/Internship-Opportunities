@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T15:04:54.025Z",
-  "count": 2308,
+  "listingsChangedAt": "2026-11-02T16:05:20.141Z",
+  "count": 2309,
   "listings": [
     {
       "id": "1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19",
@@ -34,14 +34,40 @@
       "updatedAt": "2026-11-02T13:37:00.000Z"
     },
     {
-      "id": "c982ef27-4484-4ac5-9796-a2e3636fd3b0",
+      "id": "85ad408f-5d29-4c89-9b7f-945474c75df3",
       "company": "ParetoHealth",
-      "title": "Software Engineering Summer Intern",
+      "title": "Product Manager Summer Intern",
       "locations": [
         "Greater Philadelphia"
       ],
       "cities": [],
       "countries": [],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485729044/",
+      "url": "https://trueinterview.io/jobs/85ad408f-5d29-4c89-9b7f-945474c75df3",
+      "postedAt": "2026-11-02T13:35:00.000Z",
+      "updatedAt": "2026-11-02T13:35:00.000Z"
+    },
+    {
+      "id": "c982ef27-4484-4ac5-9796-a2e3636fd3b0",
+      "company": "ParetoHealth",
+      "title": "Software Engineering Summer Intern",
+      "locations": [
+        "Greater Philadelphia",
+        "Philadelphia, Pennsylvania, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Other",
       "family": "Software",
@@ -51,7 +77,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485717777/",
+      "applyUrl": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
       "url": "https://trueinterview.io/jobs/c982ef27-4484-4ac5-9796-a2e3636fd3b0",
       "postedAt": "2026-11-02T13:22:00.000Z",
       "updatedAt": "2026-11-02T13:22:00.000Z"
@@ -850,6 +876,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4477266269/",
       "url": "https://trueinterview.io/jobs/d786011d-8907-46bc-97cf-1746da3bcf73",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "727f70e8-9c0e-4e2d-878a-7452e53fa4a7",
+      "company": "CoStar Group",
+      "title": "Data Science Intern – Richmond, VA (Summer 2027)",
+      "locations": [
+        "Richmond, Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
+      "url": "https://trueinterview.io/jobs/727f70e8-9c0e-4e2d-878a-7452e53fa4a7",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -59923,35 +59974,6 @@
       "url": "https://trueinterview.io/jobs/2708ad7d-bcc9-4418-8975-6377ef573e0a",
       "postedAt": "2026-09-03T16:08:04.000Z",
       "updatedAt": "2026-09-03T16:08:04.000Z"
-    },
-    {
-      "id": "f17f8ba7-469c-4cfe-a24d-25019abe5023",
-      "company": "DoorDash",
-      "title": "Product Design, Intern (Summer 2027)",
-      "locations": [
-        "San Francisco, CA",
-        "New York, NY"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/8176863",
-      "url": "https://trueinterview.io/jobs/f17f8ba7-469c-4cfe-a24d-25019abe5023",
-      "postedAt": "2026-09-03T15:58:00.000Z",
-      "updatedAt": "2026-09-03T15:58:00.000Z"
     }
   ]
 }

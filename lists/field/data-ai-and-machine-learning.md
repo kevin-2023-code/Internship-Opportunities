@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**391 open roles.** 293 in the United States & Canada · 98 elsewhere in the world.
+**392 open roles.** 294 in the United States & Canada · 98 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/672e79b7-db9d-4ca8-bf72-e9ba72e1ad4f">Quantitative Data Analytics Summer Analyst Program - 2027</a></td>
 <td>Atlanta, GA<br/>Atlanta, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477249887/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CoStar Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/727f70e8-9c0e-4e2d-878a-7452e53fa4a7">Data Science Intern – Richmond, VA (Summer 2027)</a></td>
+<td>Richmond, Virginia, United States</td>
+<td align="center"><a href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
