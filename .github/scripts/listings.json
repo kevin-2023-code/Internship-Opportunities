@@ -5,9 +5,322 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T17:04:16.590Z",
-  "count": 2313,
+  "listingsChangedAt": "2026-11-02T18:05:48.063Z",
+  "count": 2326,
   "listings": [
+    {
+      "id": "81429d5f-3b88-405a-a748-785bbcb8fbde",
+      "company": "IBM",
+      "title": "Confluent - Technical Program Manager - Intern Conversion",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484378295/",
+      "url": "https://trueinterview.io/jobs/81429d5f-3b88-405a-a748-785bbcb8fbde",
+      "postedAt": "2026-11-02T17:06:00.000Z",
+      "updatedAt": "2026-11-02T17:06:00.000Z"
+    },
+    {
+      "id": "38f777f6-9570-40aa-b6f4-611ad793d780",
+      "company": "First Citizens Bank",
+      "title": "2027 Summer Intern - Enterprise Data Analyst, Data Products (Raleigh, NC)",
+      "locations": [
+        "Raleigh, North Carolina, United States",
+        "Raleigh, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.firstcitizens.com/jobs/36234",
+      "url": "https://trueinterview.io/jobs/38f777f6-9570-40aa-b6f4-611ad793d780",
+      "postedAt": "2026-11-02T13:56:00.000Z",
+      "updatedAt": "2026-11-02T17:05:00.000Z"
+    },
+    {
+      "id": "27ecf393-8619-4761-917f-bb9c166f0fde",
+      "company": "IBM",
+      "title": "Confluent - Software Developer - Intern Conversion",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484374568/",
+      "url": "https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde",
+      "postedAt": "2026-11-02T17:03:00.000Z",
+      "updatedAt": "2026-11-02T17:04:00.000Z"
+    },
+    {
+      "id": "85e53129-e797-49a7-a7b8-5cc06d27ea30",
+      "company": "Citadel Securities",
+      "title": "Quantitative Researcher – Post-Doctoral Intern (US)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469332959/",
+      "url": "https://trueinterview.io/jobs/85e53129-e797-49a7-a7b8-5cc06d27ea30",
+      "postedAt": "2026-11-02T16:59:42.000Z",
+      "updatedAt": "2026-11-02T16:59:42.000Z"
+    },
+    {
+      "id": "f6dab4f3-5266-44b4-b409-ddf923eb39ec",
+      "company": "Citadel Securities",
+      "title": "Machine Learning Researcher – PhD Intern (US)",
+      "locations": [
+        "New York, NY",
+        "Miami, FL"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465915237/",
+      "url": "https://trueinterview.io/jobs/f6dab4f3-5266-44b4-b409-ddf923eb39ec",
+      "postedAt": "2026-11-02T16:57:00.000Z",
+      "updatedAt": "2026-11-02T16:58:00.000Z"
+    },
+    {
+      "id": "65caf6ce-3828-440d-8631-709c753adce8",
+      "company": "Citadel",
+      "title": "Machine Learning Researcher – PhD Intern (US)",
+      "locations": [
+        "Miami, FL",
+        "New York City Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465912268/",
+      "url": "https://trueinterview.io/jobs/65caf6ce-3828-440d-8631-709c753adce8",
+      "postedAt": "2026-11-02T16:57:00.000Z",
+      "updatedAt": "2026-11-02T16:57:00.000Z"
+    },
+    {
+      "id": "8a759dfa-a083-4a24-860a-73faa328da55",
+      "company": "Citadel",
+      "title": "Quantitative Researcher – PhD Intern (US)",
+      "locations": [
+        "New York City Metropolitan Area",
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465904320/",
+      "url": "https://trueinterview.io/jobs/8a759dfa-a083-4a24-860a-73faa328da55",
+      "postedAt": "2026-11-02T16:56:00.000Z",
+      "updatedAt": "2026-11-02T16:57:00.000Z"
+    },
+    {
+      "id": "d43ac80b-6f51-4948-bb3a-5b8496ac9add",
+      "company": "Citadel",
+      "title": "Quantitative Researcher – Post-Doctoral Intern (US)",
+      "locations": [
+        "New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469331975/",
+      "url": "https://trueinterview.io/jobs/d43ac80b-6f51-4948-bb3a-5b8496ac9add",
+      "postedAt": "2026-11-02T16:57:00.000Z",
+      "updatedAt": "2026-11-02T16:57:00.000Z"
+    },
+    {
+      "id": "55fc38b5-ca1e-4dc0-880b-90d59f9dc1c0",
+      "company": "Citadel",
+      "title": "Quantitative Research Engineer – PhD Intern (US)",
+      "locations": [
+        "Miami, FL",
+        "New York City Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4439258744/",
+      "url": "https://trueinterview.io/jobs/55fc38b5-ca1e-4dc0-880b-90d59f9dc1c0",
+      "postedAt": "2026-11-02T16:56:00.000Z",
+      "updatedAt": "2026-11-02T16:56:00.000Z"
+    },
+    {
+      "id": "07f3171a-7912-4934-8eb5-1f3fb43fad37",
+      "company": "Citadel Securities",
+      "title": "Quantitative Researcher – PhD Intern (US)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465905365/",
+      "url": "https://trueinterview.io/jobs/07f3171a-7912-4934-8eb5-1f3fb43fad37",
+      "postedAt": "2026-11-02T16:56:00.000Z",
+      "updatedAt": "2026-11-02T16:56:00.000Z"
+    },
+    {
+      "id": "f3ecac82-9bcf-482e-b80b-b7d280b0f5a5",
+      "company": "Citadel Securities",
+      "title": "Quantitative Research Engineer – PhD Intern (US)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465908323/",
+      "url": "https://trueinterview.io/jobs/f3ecac82-9bcf-482e-b80b-b7d280b0f5a5",
+      "postedAt": "2026-11-02T16:54:00.000Z",
+      "updatedAt": "2026-11-02T16:54:00.000Z"
+    },
+    {
+      "id": "86b5d072-13b5-4092-917e-520895fb3253",
+      "company": "Entrust",
+      "title": "AI Developer Intern",
+      "locations": [
+        "Shakopee, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486199630/",
+      "url": "https://trueinterview.io/jobs/86b5d072-13b5-4092-917e-520895fb3253",
+      "postedAt": "2026-11-02T16:49:00.000Z",
+      "updatedAt": "2026-11-02T16:49:00.000Z"
+    },
     {
       "id": "01df0df7-4485-4707-9ae6-861aa6178c79",
       "company": "Qualcomm",
@@ -57,6 +370,35 @@
       "url": "https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763",
       "postedAt": "2026-11-02T16:30:00.000Z",
       "updatedAt": "2026-11-02T16:30:00.000Z"
+    },
+    {
+      "id": "8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
+      "company": "Cohere",
+      "title": "Machine Learning Intern/Co-op (Winter 2027)",
+      "locations": [
+        "San Francisco, CA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4414192445/",
+      "url": "https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
+      "postedAt": "2026-11-01T16:43:00.000Z",
+      "updatedAt": "2026-11-02T16:23:00.000Z"
     },
     {
       "id": "4c0cc9ee-f01e-410c-adca-4fe0b27035c8",
@@ -187,6 +529,32 @@
       "url": "https://trueinterview.io/jobs/d8167563-d684-4548-9384-94012d4c333d",
       "postedAt": "2026-11-02T15:39:00.000Z",
       "updatedAt": "2026-11-02T15:39:00.000Z"
+    },
+    {
+      "id": "13bacdf0-66a7-4c5b-bd12-3fbcff8bdba8",
+      "company": "NOV",
+      "title": "Marketing and Data Analyst Intern",
+      "locations": [
+        "Houston, Texas, United States",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/45288",
+      "url": "https://trueinterview.io/jobs/13bacdf0-66a7-4c5b-bd12-3fbcff8bdba8",
+      "postedAt": "2026-11-02T15:00:39.000Z",
+      "updatedAt": "2026-11-02T15:00:39.000Z"
     },
     {
       "id": "1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19",
@@ -1183,33 +1551,6 @@
       "url": "https://trueinterview.io/jobs/c099f1fc-0d45-4a8f-9aa1-08e28f4575d5",
       "postedAt": "2026-11-01T17:55:00.000Z",
       "updatedAt": "2026-11-01T17:55:00.000Z"
-    },
-    {
-      "id": "8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
-      "company": "Cohere",
-      "title": "Machine Learning Intern/Co-op (Winter 2027)",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4414192445/",
-      "url": "https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
-      "postedAt": "2026-11-01T16:43:00.000Z",
-      "updatedAt": "2026-11-01T16:43:00.000Z"
     },
     {
       "id": "896709d5-5711-4056-a113-d2322f672bbf",

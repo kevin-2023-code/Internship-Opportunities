@@ -20,9 +20,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cohere</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e">Machine Learning Intern/Co-op (Winter 2027)</a></td>
-<td>San Francisco, CA</td>
+<td>San Francisco, CA<br/>United Kingdom<br/>Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4414192445/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
+<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Tenstorrent</strong></td>
