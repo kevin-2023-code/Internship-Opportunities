@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T02:06:50.953Z",
-  "count": 2275,
+  "listingsChangedAt": "2026-11-02T03:05:58.800Z",
+  "count": 2276,
   "listings": [
     {
       "id": "16d30212-7943-4281-9392-099de2d47523",
@@ -227,9 +227,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -7742,6 +7742,31 @@
       "url": "https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0",
       "postedAt": "2026-10-30T05:04:00.000Z",
       "updatedAt": "2026-10-30T05:05:00.000Z"
+    },
+    {
+      "id": "29ee2006-5dce-43c2-a494-4acd71a0debc",
+      "company": "Anaxee Digital Runners Pvt Ltd",
+      "title": "Data Analyst Intern || Oct 2026",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://anaxee.careers-page.com/jobs/3fa36d27-75af-44be-b1b4-370ea4b25643",
+      "url": "https://trueinterview.io/jobs/29ee2006-5dce-43c2-a494-4acd71a0debc",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
     },
     {
       "id": "84f1b461-202a-48ab-887d-b7655925584f",
