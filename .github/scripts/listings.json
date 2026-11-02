@@ -5,15 +5,41 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T09:06:44.043Z",
-  "count": 2284,
+  "listingsChangedAt": "2026-11-02T10:04:42.128Z",
+  "count": 2286,
   "listings": [
+    {
+      "id": "08c6ac07-f1ea-4887-9d33-e19518a4e87b",
+      "company": "Amway",
+      "title": "Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)",
+      "locations": [
+        "Ada, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478300807/",
+      "url": "https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b",
+      "postedAt": "2026-11-02T09:15:15.000Z",
+      "updatedAt": "2026-11-02T09:15:15.000Z"
+    },
     {
       "id": "8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
       "company": "Roku",
       "title": "SW Engineer Intern, AI Engineering",
       "locations": [
-        "San Jose, CA"
+        "San Jose, CA",
+        "San Jose, California, United States"
       ],
       "cities": [
         "San Jose, CA"
@@ -30,10 +56,38 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486130285/",
+      "applyUrl": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
       "url": "https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
       "postedAt": "2026-11-02T06:42:00.000Z",
       "updatedAt": "2026-11-02T06:42:00.000Z"
+    },
+    {
+      "id": "a3d93f91-169f-4a5a-84f7-37fe1bc26304",
+      "company": "Tencent",
+      "title": "Unreal Engine Programmer Intern",
+      "locations": [
+        "Sydney, New South Wales, Australia"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486127165/",
+      "url": "https://trueinterview.io/jobs/a3d93f91-169f-4a5a-84f7-37fe1bc26304",
+      "postedAt": "2026-11-02T06:11:00.000Z",
+      "updatedAt": "2026-11-02T06:11:00.000Z"
     },
     {
       "id": "ffb9778d-940d-4782-9954-a0ac0b8b67c2",
