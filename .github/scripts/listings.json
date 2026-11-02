@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T18:05:48.063Z",
-  "count": 2326,
+  "listingsChangedAt": "2026-11-02T19:04:15.793Z",
+  "count": 2327,
   "listings": [
+    {
+      "id": "89600b69-4671-4f9a-9788-ff748bbca786",
+      "company": "Applied Materials",
+      "title": "Internship Program Manager - B4",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480063470/",
+      "url": "https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786",
+      "postedAt": "2026-11-02T06:55:00.000Z",
+      "updatedAt": "2026-11-02T17:45:00.000Z"
+    },
     {
       "id": "81429d5f-3b88-405a-a748-785bbcb8fbde",
       "company": "IBM",
@@ -996,31 +1021,6 @@
       "updatedAt": "2026-11-02T09:15:15.000Z"
     },
     {
-      "id": "89600b69-4671-4f9a-9788-ff748bbca786",
-      "company": "Applied Materials",
-      "title": "Internship Program Manager - B4",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4480063470/",
-      "url": "https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786",
-      "postedAt": "2026-11-02T06:55:00.000Z",
-      "updatedAt": "2026-11-02T06:55:00.000Z"
-    },
-    {
       "id": "8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
       "company": "Roku",
       "title": "SW Engineer Intern, AI Engineering",
@@ -1374,6 +1374,32 @@
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
+      "id": "c7c484a7-33cd-4850-a087-e09564aec204",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI",
+      "locations": [
+        "Detroit, Michigan, United States",
+        "Royal Oak, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
+      "url": "https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "727f70e8-9c0e-4e2d-878a-7452e53fa4a7",
       "company": "CoStar Group",
       "title": "Data Science Intern – Richmond, VA (Summer 2027)",
@@ -1421,6 +1447,31 @@
       "source": "career-sites",
       "applyUrl": "https://sedgwick.wd1.myworkdayjobs.com/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691",
       "url": "https://trueinterview.io/jobs/526637c5-3223-49e8-b467-43fd95df059d",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "f0cdc428-77f4-4454-8621-d8d3c6a85f45",
+      "company": "Sierra Nevada Corporation",
+      "title": "Data Science Intern (Summer 2027)",
+      "locations": [
+        "Sparks, Nevada, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257",
+      "url": "https://trueinterview.io/jobs/f0cdc428-77f4-4454-8621-d8d3c6a85f45",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -21693,32 +21744,6 @@
       "applyUrl": "https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
       "url": "https://trueinterview.io/jobs/86d6c57c-a212-4171-8755-a849dd8cf883",
       "postedAt": "2026-10-29T05:00:00.000Z",
-      "updatedAt": "2026-10-29T05:00:00.000Z"
-    },
-    {
-      "id": "35732d13-43a5-4422-9511-ee6be77ef1df",
-      "company": "KLA",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Milpitas, California, United States",
-        "Milpitas, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721",
-      "url": "https://trueinterview.io/jobs/35732d13-43a5-4422-9511-ee6be77ef1df",
-      "postedAt": "2026-10-29T00:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
