@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**91 open roles.**
+**92 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BBVA</strong></td>
+<td><a href="https://trueinterview.io/jobs/758398e0-1c41-45fd-b597-5a16fb1b57cf">2027 CIB Cybersecurity Summer Internship</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485761774/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Anonymous</strong></td>
 <td><a href="https://trueinterview.io/jobs/08697132-dc1d-49fb-a564-040bd057d01f">Founding Engineer (Data, ML, Product) Intern</a></td>

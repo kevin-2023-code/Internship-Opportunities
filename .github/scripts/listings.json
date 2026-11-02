@@ -5,9 +5,163 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T21:04:32.038Z",
-  "count": 2332,
+  "listingsChangedAt": "2026-11-02T22:04:52.483Z",
+  "count": 2343,
   "listings": [
+    {
+      "id": "1616fa04-3fed-4f2d-96fd-a1b2d46adc53",
+      "company": "Varda Space Industries",
+      "title": "Site Reliability Internship - Spring 2027",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450745628/",
+      "url": "https://trueinterview.io/jobs/1616fa04-3fed-4f2d-96fd-a1b2d46adc53",
+      "postedAt": "2026-11-02T21:15:00.000Z",
+      "updatedAt": "2026-11-02T21:15:00.000Z"
+    },
+    {
+      "id": "ce44caac-7cce-47a2-8322-56c051e016be",
+      "company": "Varda Space Industries",
+      "title": "Cybersecurity Internship - Spring 2027",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450758010/",
+      "url": "https://trueinterview.io/jobs/ce44caac-7cce-47a2-8322-56c051e016be",
+      "postedAt": "2026-11-02T20:52:00.000Z",
+      "updatedAt": "2026-11-02T20:52:00.000Z"
+    },
+    {
+      "id": "758398e0-1c41-45fd-b597-5a16fb1b57cf",
+      "company": "BBVA",
+      "title": "2027 CIB Cybersecurity Summer Internship",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485761774/",
+      "url": "https://trueinterview.io/jobs/758398e0-1c41-45fd-b597-5a16fb1b57cf",
+      "postedAt": "2026-11-02T20:49:00.000Z",
+      "updatedAt": "2026-11-02T20:49:00.000Z"
+    },
+    {
+      "id": "e0859570-403a-4287-bc55-f6a0ba78dd68",
+      "company": "BehaviorAI",
+      "title": "Machine Learning Engineer Internship — Generative Modeling",
+      "locations": [
+        "New York City Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485763430/",
+      "url": "https://trueinterview.io/jobs/e0859570-403a-4287-bc55-f6a0ba78dd68",
+      "postedAt": "2026-11-02T20:48:00.000Z",
+      "updatedAt": "2026-11-02T20:48:00.000Z"
+    },
+    {
+      "id": "c7c484a7-33cd-4850-a087-e09564aec204",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI",
+      "locations": [
+        "Detroit, Michigan, United States",
+        "Royal Oak, Michigan, United States",
+        "Detroit, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
+      "url": "https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T20:46:00.000Z"
+    },
+    {
+      "id": "30743f30-ada5-4071-b66a-a9574d8c5ec6",
+      "company": "Avista",
+      "title": "Enterprise Technology Intern (Computer Science, Cybersecurity, Information Systems/MIS, Data Analytics/Data Science Majors)",
+      "locations": [
+        "Spokane, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486433237/",
+      "url": "https://trueinterview.io/jobs/30743f30-ada5-4071-b66a-a9574d8c5ec6",
+      "postedAt": "2026-11-02T20:37:00.000Z",
+      "updatedAt": "2026-11-02T20:37:00.000Z"
+    },
     {
       "id": "08697132-dc1d-49fb-a564-040bd057d01f",
       "company": "Anonymous",
@@ -138,11 +292,37 @@
       "updatedAt": "2026-11-02T18:54:00.000Z"
     },
     {
+      "id": "4af3ace3-91d3-46d1-af05-bfe9420ef2fd",
+      "company": "Staples Inc.",
+      "title": "Software Engineer Intern, Marketplace Platform",
+      "locations": [
+        "Framingham, Massachusetts, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/77076",
+      "url": "https://trueinterview.io/jobs/4af3ace3-91d3-46d1-af05-bfe9420ef2fd",
+      "postedAt": "2026-11-02T18:52:08.000Z",
+      "updatedAt": "2026-11-02T18:52:08.000Z"
+    },
+    {
       "id": "b10caa2b-1dc2-4b35-9eb3-311345ff4359",
       "company": "GM Financial",
       "title": "Intern - Cybersecurity",
       "locations": [
-        "Arlington, TX"
+        "Arlington, TX",
+        "Irving, TX"
       ],
       "cities": [],
       "countries": [
@@ -161,6 +341,32 @@
       "url": "https://trueinterview.io/jobs/b10caa2b-1dc2-4b35-9eb3-311345ff4359",
       "postedAt": "2026-11-02T18:52:00.000Z",
       "updatedAt": "2026-11-02T18:52:00.000Z"
+    },
+    {
+      "id": "5557acc9-a6e8-403d-bf6d-337b4776321b",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "Agentic Software Engineering Intern",
+      "locations": [
+        "Durham, North Carolina, United States",
+        "Frisco, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007",
+      "url": "https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b",
+      "postedAt": "2026-11-02T17:26:11.000Z",
+      "updatedAt": "2026-11-02T18:28:21.000Z"
     },
     {
       "id": "fa0b94cf-8a19-4e00-86ae-d48cc83226d9",
@@ -240,32 +446,6 @@
       "updatedAt": "2026-11-02T17:38:24.000Z"
     },
     {
-      "id": "c7c484a7-33cd-4850-a087-e09564aec204",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI",
-      "locations": [
-        "Detroit, Michigan, United States",
-        "Royal Oak, Michigan, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
-      "url": "https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "updatedAt": "2026-11-02T17:32:34.000Z"
-    },
-    {
       "id": "bf641eeb-41b9-4a49-a718-f6aa7ee7d5b6",
       "company": "Toshiba Global Commerce Solutions - External",
       "title": "Data Science & Business Analytics Intern",
@@ -314,31 +494,6 @@
       "url": "https://trueinterview.io/jobs/42087e14-1b5a-4af7-b030-fc293ced00d5",
       "postedAt": "2026-11-02T17:28:01.000Z",
       "updatedAt": "2026-11-02T17:28:01.000Z"
-    },
-    {
-      "id": "5557acc9-a6e8-403d-bf6d-337b4776321b",
-      "company": "Toshiba Global Commerce Solutions - External",
-      "title": "Agentic Software Engineering Intern",
-      "locations": [
-        "Durham, North Carolina, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007",
-      "url": "https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b",
-      "postedAt": "2026-11-02T17:26:11.000Z",
-      "updatedAt": "2026-11-02T17:26:11.000Z"
     },
     {
       "id": "81429d5f-3b88-405a-a748-785bbcb8fbde",
@@ -1679,6 +1834,31 @@
       "updatedAt": "2026-11-02T00:23:00.000Z"
     },
     {
+      "id": "43c0596b-a9d3-477a-895d-466f59ba5051",
+      "company": "Applied Materials",
+      "title": "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
+      "locations": [
+        "Santa Clara, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
+      "url": "https://trueinterview.io/jobs/43c0596b-a9d3-477a-895d-466f59ba5051",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "d598f40c-2cd7-4006-ac55-0fa98ea3dd32",
       "company": "Bank of America",
       "title": "Global Quantitative Research Summer Associate Program - 2027",
@@ -1810,6 +1990,31 @@
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
+      "id": "fc260e33-0b54-476e-9ee3-d621c0ed2141",
+      "company": "RTX",
+      "title": "Stage – Hiver 2027 – Soutien numérique et intelligence d’affaires (Informatique) | Internship - Winter 2027 Digital Support & Business Intelligence Intern (Computer Science)",
+      "locations": [
+        "Longueuil, Quebec, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Soutien-numrique-et-intelligence-d-affaires--Informatique----Internship---Winter-2027-Digital-Support---Business-Intelligence-Intern--Computer-Science-_01866869-1",
+      "url": "https://trueinterview.io/jobs/fc260e33-0b54-476e-9ee3-d621c0ed2141",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "526637c5-3223-49e8-b467-43fd95df059d",
       "company": "Sedgwick",
       "title": "Data Analyst Intern",
@@ -1857,6 +2062,31 @@
       "source": "career-sites",
       "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257",
       "url": "https://trueinterview.io/jobs/f0cdc428-77f4-4454-8621-d8d3c6a85f45",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "locations": [
+        "Southern Pines, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230",
+      "url": "https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -18493,6 +18723,137 @@
       "updatedAt": "2026-10-29T11:51:00.000Z"
     },
     {
+      "id": "dba0b693-77e8-4681-b87c-49bc5dc984e3",
+      "company": "Sensirion",
+      "title": "Intern Product Management • 80-100%",
+      "locations": [
+        "Stäfa, Zurich, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484958138/",
+      "url": "https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3",
+      "postedAt": "2026-10-29T11:51:00.000Z",
+      "updatedAt": "2026-10-29T11:51:00.000Z"
+    },
+    {
+      "id": "db481369-b2da-4be1-bba0-b995dd57a93e",
+      "company": "Apple",
+      "title": "Failure Analysis Engineer Intern - Metal",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200692157",
+      "url": "https://trueinterview.io/jobs/db481369-b2da-4be1-bba0-b995dd57a93e",
+      "postedAt": "2026-10-29T11:46:15.000Z",
+      "updatedAt": "2026-10-29T11:46:15.000Z"
+    },
+    {
+      "id": "fc13c746-00e0-4a56-a112-93c144e5bb1a",
+      "company": "UES",
+      "title": "Intern, Engineering",
+      "locations": [
+        "Ooltewah, TN",
+        "Huntsville, AL",
+        "Tifton, GA",
+        "Knoxville, TN",
+        "Douglasville, GA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468284331/",
+      "url": "https://trueinterview.io/jobs/fc13c746-00e0-4a56-a112-93c144e5bb1a",
+      "postedAt": "2026-10-29T11:01:00.000Z",
+      "updatedAt": "2026-10-29T11:40:00.000Z"
+    },
+    {
+      "id": "1fea7f9a-cf5c-48f2-b685-bd75d7c3a906",
+      "company": "Antares",
+      "title": "Reactor Software Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467976307/",
+      "url": "https://trueinterview.io/jobs/1fea7f9a-cf5c-48f2-b685-bd75d7c3a906",
+      "postedAt": "2026-10-29T11:38:00.000Z",
+      "updatedAt": "2026-10-29T11:38:00.000Z"
+    },
+    {
+      "id": "a8bc1214-1efd-4c2e-8be2-f2d9c01646f4",
+      "company": "CACI International Inc",
+      "title": "Electrical Test Engineering Intern - Summer 2027",
+      "locations": [
+        "Danbury, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479408220/",
+      "url": "https://trueinterview.io/jobs/a8bc1214-1efd-4c2e-8be2-f2d9c01646f4",
+      "postedAt": "2026-10-29T11:38:00.000Z",
+      "updatedAt": "2026-10-29T11:38:00.000Z"
+    },
+    {
       "id": "cbd519d4-c0ec-4b9d-a9b9-f80baeca2d2f",
       "company": "Decagon",
       "title": "Engineering Intern (Summer 2027)",
@@ -33731,58 +34092,6 @@
       "source": "career-sites",
       "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525",
       "url": "https://trueinterview.io/jobs/8509c84a-8c39-4159-8404-755724aa261c",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
-      "id": "d8baefdb-3652-411e-a378-f8e02920da80",
-      "company": "Applied Materials",
-      "title": "Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Scientist-Intern---Master-s--Santa-Clara--CA-_R2627691",
-      "url": "https://trueinterview.io/jobs/d8baefdb-3652-411e-a378-f8e02920da80",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T00:00:00.000Z"
-    },
-    {
-      "id": "1d6d89bf-34e7-40c8-acd8-1c6081f52bc3",
-      "company": "Applied Materials",
-      "title": "Summer 2027 Data Scientist Intern -Bachelor's (Austin, TX)",
-      "locations": [
-        "Austin, Texas, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Data-Scientist-Intern--Bachelor-s--Austin--TX-_R2627409",
-      "url": "https://trueinterview.io/jobs/1d6d89bf-34e7-40c8-acd8-1c6081f52bc3",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T00:00:00.000Z"
     },
@@ -60542,31 +60851,6 @@
       "url": "https://trueinterview.io/jobs/c3c9454d-bd28-464b-a37e-2e08b14d4775",
       "postedAt": "2026-09-04T00:00:00.000Z",
       "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "5c403c52-cf29-43db-91e0-35f460397ac8",
-      "company": "Albireo Energy",
-      "title": "Controls Engineer Intern - HVAC Controls",
-      "locations": [
-        "Chelmsford, Massachusetts, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.workable.com/view/cW1fRZDaq6yz35f1wVQSot/controls-engineer-intern---hvac-controls-in-chelmsford-at-albireo-energy",
-      "url": "https://trueinterview.io/jobs/5c403c52-cf29-43db-91e0-35f460397ac8",
-      "postedAt": "2026-09-03T21:04:45.000Z",
-      "updatedAt": "2026-09-03T21:04:45.000Z"
     }
   ]
 }

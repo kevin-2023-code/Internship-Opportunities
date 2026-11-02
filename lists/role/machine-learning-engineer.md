@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**91 open roles.** 70 in the United States & Canada · 21 elsewhere in the world.
+**92 open roles.** 71 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BehaviorAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0859570-403a-4287-bc55-f6a0ba78dd68">Machine Learning Engineer Internship — Generative Modeling</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485763430/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Anonymous</strong></td>
 <td><a href="https://trueinterview.io/jobs/08697132-dc1d-49fb-a564-040bd057d01f">Founding Engineer (Data, ML, Product) Intern</a></td>
