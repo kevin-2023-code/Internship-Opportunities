@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**381 open roles.** 292 in the United States & Canada · 89 elsewhere in the world.
+**383 open roles.** 292 in the United States & Canada · 91 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2073,6 +2073,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/16d30212-7943-4281-9392-099de2d47523">Machine Learning Intern, Generative SI Applications (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486114299/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/2faabbee-9a7f-4152-9710-1e220ddb1f13">PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4324139789/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/97f425b3-6fcb-46d3-b7f1-9aa115f55635">Data Analyst Intern (Measurement, CALM) - 2027 Start</a></td>

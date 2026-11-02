@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T00:11:32.995Z",
-  "count": 2273,
+  "listingsChangedAt": "2026-11-02T01:05:42.574Z",
+  "count": 2275,
   "listings": [
+    {
+      "id": "16d30212-7943-4281-9392-099de2d47523",
+      "company": "Tesla",
+      "title": "Machine Learning Intern, Generative SI Applications (m/f/d) - Gigafactory Berlin-Brandenburg",
+      "locations": [
+        "Berlin, Berlin, Germany"
+      ],
+      "cities": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486114299/",
+      "url": "https://trueinterview.io/jobs/16d30212-7943-4281-9392-099de2d47523",
+      "postedAt": "2026-11-02T00:23:00.000Z",
+      "updatedAt": "2026-11-02T00:23:00.000Z"
+    },
     {
       "id": "75fa9930-bf89-4402-a49e-8194e6f87abc",
       "company": "KnowBe4",
@@ -83,6 +110,33 @@
       "url": "https://trueinterview.io/jobs/77eb4340-99dc-4799-bd7a-665cb2d94960",
       "postedAt": "2026-11-01T19:20:00.000Z",
       "updatedAt": "2026-11-01T19:20:00.000Z"
+    },
+    {
+      "id": "2faabbee-9a7f-4152-9710-1e220ddb1f13",
+      "company": "SAP",
+      "title": "PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data",
+      "locations": [
+        "Berlin, Berlin, Germany"
+      ],
+      "cities": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4324139789/",
+      "url": "https://trueinterview.io/jobs/2faabbee-9a7f-4152-9710-1e220ddb1f13",
+      "postedAt": "2026-11-01T19:04:00.000Z",
+      "updatedAt": "2026-11-01T19:04:00.000Z"
     },
     {
       "id": "c099f1fc-0d45-4a8f-9aa1-08e28f4575d5",

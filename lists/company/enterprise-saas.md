@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**68 open roles.** 55 in the United States & Canada · 13 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**69 open roles.** 55 in the United States & Canada · 14 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -416,6 +416,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/2faabbee-9a7f-4152-9710-1e220ddb1f13">PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4324139789/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/92d35417-6b84-4704-8463-8f190488a274">Full Stack Developer Intern - SAP Business AI Singapore</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483446111/">Apply</a></td>

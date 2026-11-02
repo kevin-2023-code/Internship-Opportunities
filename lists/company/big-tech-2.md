@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**560 open roles.** 494 in the United States & Canada · 66 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**561 open roles.** 494 in the United States & Canada · 67 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -685,6 +685,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/2faabbee-9a7f-4152-9710-1e220ddb1f13">PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4324139789/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025">Software Development Engineer Intern, Amazon University Talent Acquisition</a></td>

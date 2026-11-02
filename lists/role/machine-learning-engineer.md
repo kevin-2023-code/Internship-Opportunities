@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**86 open roles.** 67 in the United States & Canada · 19 elsewhere in the world.
+**87 open roles.** 67 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -498,6 +498,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/16d30212-7943-4281-9392-099de2d47523">Machine Learning Intern, Generative SI Applications (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486114299/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tamizha Media Pvt Ltd</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2c18595-bc03-4fb4-8dde-ca5e985f5d2e">AI &amp; ML Intern</a></td>

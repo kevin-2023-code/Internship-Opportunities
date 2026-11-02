@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,365 open roles.** 1,073 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
+**1,367 open roles.** 1,073 in the United States & Canada · 294 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1939,6 +1939,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/16d30212-7943-4281-9392-099de2d47523">Machine Learning Intern, Generative SI Applications (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486114299/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/2faabbee-9a7f-4152-9710-1e220ddb1f13">PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data</a></td>
+<td>Berlin, Berlin, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4324139789/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/97f425b3-6fcb-46d3-b7f1-9aa115f55635">Data Analyst Intern (Measurement, CALM) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6f506375-902c-4f52-890c-c15ce28ae683">SCADA &amp; IT/OT Engineering Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447998882/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476779304/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f88c739-1708-4715-ba16-6c3cdf313393">Internship - Automation engineer (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484937520/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,365 open roles.** 1,073 in the United States & Canada · 292 elsewhere in the world. Everything the employers put up this week.
+**1,367 open roles.** 1,073 in the United States & Canada · 294 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476779304/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f88c739-1708-4715-ba16-6c3cdf313393">Internship - Automation engineer (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484937520/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sensirion</strong></td>
 <td><a href="https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3">Intern Product Management • 80-100%</a></td>
