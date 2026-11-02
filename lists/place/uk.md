@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**36 open roles.** 7 in the United States & Canada · 29 elsewhere in the world.
+**35 open roles.** 7 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -104,13 +104,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ee25361f-34a1-4713-bc75-f1f765b65d18">FPGA Intern</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4441909156/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/eb306608-905a-495d-adbb-4fc12407d775">Quantitative Trading Internship: Summer 2027</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438424007/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
