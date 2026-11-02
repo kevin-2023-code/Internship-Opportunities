@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,429 open roles.** 1,115 in the United States & Canada · 314 elsewhere in the world. Everything the employers put up this week.
+**1,428 open roles.** 1,116 in the United States & Canada · 312 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,10 +20,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Anonymous</strong></td>
+<td><a href="https://trueinterview.io/jobs/08697132-dc1d-49fb-a564-040bd057d01f">Founding Engineer (Data, ML, Product) Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486425441/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>CapTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/94110176-5b90-486e-8b21-8d44e283ba02">Consulting Internship: UX/Product Design (Summer 2027)</a></td>
 <td>Richmond, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486188717/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467588632/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -48,6 +62,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>KEEN Footwear</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa0b94cf-8a19-4e00-86ae-d48cc83226d9">Analytics Engineer Intern</a></td>
+<td>Portland, Oregon, United States</td>
+<td align="center"><a href="https://www.keenfootwear.com/careers-list.html?4748305005&amp;gh_jid=4748305005">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786">Internship Program Manager - B4</a></td>
 <td>Santa Clara, CA</td>
@@ -55,10 +76,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Intuitive</strong></td>
+<td><a href="https://trueinterview.io/jobs/72ee7a07-9e41-4152-8f24-d09f5733409e">Data Science Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159210829-data-science-intern">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204">University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI</a></td>
 <td>Detroit, Michigan, United States<br/>Royal Oak, Michigan, United States</td>
 <td align="center"><a href="https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf641eeb-41b9-4a49-a718-f6aa7ee7d5b6">Data Science &amp; Business Analytics Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42087e14-1b5a-4af7-b030-fc293ced00d5">Software Engineering Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b">Agentic Software Engineering Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2680,13 +2729,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>LBMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcf98283-cdd4-49a9-849b-6ebea7e3771f">Data &amp; AI Engineering Intern - Spring 2027</a></td>
-<td>Brentwood, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250502/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Parker Hannifin</strong></td>
 <td><a href="https://trueinterview.io/jobs/543e2360-b705-48d3-9951-611d6e1aa90c">Engineer Intern - Military Flight Controls Division</a></td>
 <td>Irvine, CA</td>
@@ -2775,48 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b7bc7517-aa99-4bf6-abf0-69478f14da5c">Summer Intern- IT Support</a></td>
 <td>Appleton, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4397043668/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
-<td>Richardson, TX<br/>Bend, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239335/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Syntiant Corp</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf7cb3f6-37c2-40d1-a1c8-102404895612">Internship - DevOps Machine Learning Infrastructure</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://apply.workable.com/j/041E7A875F">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Internship List</strong></td>
-<td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
-<td>Toronto, Ontario, Canada<br/>Burnaby, British Columbia, Canada<br/>Oakville, Ontario, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Signify</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8c542fd-7976-4f37-a65f-bc6dc4d3eeea">Product Management Intern, Cooper Lighting Solutions - Spring 2027</a></td>
-<td>Peachtree City, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223089/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FortisBC</strong></td>
-<td><a href="https://trueinterview.io/jobs/eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b">Engineering Co-op, System Integrity</a></td>
-<td>Surrey, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475720493/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Renewables - Bazefield</strong></td>
-<td><a href="https://trueinterview.io/jobs/26c5da57-03d4-4e0e-bba6-d33948f639a5">Product Designer/Developer Intern</a></td>
-<td>Del Mar, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478488260/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

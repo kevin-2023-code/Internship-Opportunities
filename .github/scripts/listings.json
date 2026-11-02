@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T20:04:25.584Z",
-  "count": 2333,
+  "listingsChangedAt": "2026-11-02T21:04:32.038Z",
+  "count": 2332,
   "listings": [
+    {
+      "id": "08697132-dc1d-49fb-a564-040bd057d01f",
+      "company": "Anonymous",
+      "title": "Founding Engineer (Data, ML, Product) Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486425441/",
+      "url": "https://trueinterview.io/jobs/08697132-dc1d-49fb-a564-040bd057d01f",
+      "postedAt": "2026-11-02T19:56:00.000Z",
+      "updatedAt": "2026-11-02T19:56:00.000Z"
+    },
     {
       "id": "94110176-5b90-486e-8b21-8d44e283ba02",
       "company": "CapTech",
@@ -32,6 +59,31 @@
       "url": "https://trueinterview.io/jobs/94110176-5b90-486e-8b21-8d44e283ba02",
       "postedAt": "2026-11-02T19:32:00.000Z",
       "updatedAt": "2026-11-02T19:32:00.000Z"
+    },
+    {
+      "id": "9ed3e36f-8ed8-4a2c-97bb-a5624853f085",
+      "company": "GM Financial",
+      "title": "Intern - Oracle Application Developer",
+      "locations": [
+        "Irving, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467588632/",
+      "url": "https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085",
+      "postedAt": "2026-11-02T19:19:00.000Z",
+      "updatedAt": "2026-11-02T19:19:00.000Z"
     },
     {
       "id": "e8f7e0aa-0abb-4d20-98e1-8e2585294712",
@@ -111,6 +163,31 @@
       "updatedAt": "2026-11-02T18:52:00.000Z"
     },
     {
+      "id": "fa0b94cf-8a19-4e00-86ae-d48cc83226d9",
+      "company": "KEEN Footwear",
+      "title": "Analytics Engineer Intern",
+      "locations": [
+        "Portland, Oregon, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://www.keenfootwear.com/careers-list.html?4748305005&gh_jid=4748305005",
+      "url": "https://trueinterview.io/jobs/fa0b94cf-8a19-4e00-86ae-d48cc83226d9",
+      "postedAt": "2026-11-02T18:18:24.000Z",
+      "updatedAt": "2026-11-02T18:18:24.000Z"
+    },
+    {
       "id": "89600b69-4671-4f9a-9788-ff748bbca786",
       "company": "Applied Materials",
       "title": "Internship Program Manager - B4",
@@ -134,6 +211,33 @@
       "url": "https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786",
       "postedAt": "2026-11-02T06:55:00.000Z",
       "updatedAt": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "id": "72ee7a07-9e41-4152-8f24-d09f5733409e",
+      "company": "Intuitive",
+      "title": "Data Science Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000159210829-data-science-intern",
+      "url": "https://trueinterview.io/jobs/72ee7a07-9e41-4152-8f24-d09f5733409e",
+      "postedAt": "2026-11-02T17:38:24.000Z",
+      "updatedAt": "2026-11-02T17:38:24.000Z"
     },
     {
       "id": "c7c484a7-33cd-4850-a087-e09564aec204",
@@ -160,6 +264,81 @@
       "url": "https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T17:32:34.000Z"
+    },
+    {
+      "id": "bf641eeb-41b9-4a49-a718-f6aa7ee7d5b6",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "Data Science & Business Analytics Intern",
+      "locations": [
+        "Durham, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007",
+      "url": "https://trueinterview.io/jobs/bf641eeb-41b9-4a49-a718-f6aa7ee7d5b6",
+      "postedAt": "2026-11-02T17:28:58.000Z",
+      "updatedAt": "2026-11-02T17:28:58.000Z"
+    },
+    {
+      "id": "42087e14-1b5a-4af7-b030-fc293ced00d5",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Durham, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007",
+      "url": "https://trueinterview.io/jobs/42087e14-1b5a-4af7-b030-fc293ced00d5",
+      "postedAt": "2026-11-02T17:28:01.000Z",
+      "updatedAt": "2026-11-02T17:28:01.000Z"
+    },
+    {
+      "id": "5557acc9-a6e8-403d-bf6d-337b4776321b",
+      "company": "Toshiba Global Commerce Solutions - External",
+      "title": "Agentic Software Engineering Intern",
+      "locations": [
+        "Durham, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007",
+      "url": "https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b",
+      "postedAt": "2026-11-02T17:26:11.000Z",
+      "updatedAt": "2026-11-02T17:26:11.000Z"
     },
     {
       "id": "81429d5f-3b88-405a-a748-785bbcb8fbde",
@@ -12644,31 +12823,6 @@
       "updatedAt": "2026-10-29T23:04:00.000Z"
     },
     {
-      "id": "fcf98283-cdd4-49a9-849b-6ebea7e3771f",
-      "company": "LBMC",
-      "title": "Data & AI Engineering Intern - Spring 2027",
-      "locations": [
-        "Brentwood, TN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485250502/",
-      "url": "https://trueinterview.io/jobs/fcf98283-cdd4-49a9-849b-6ebea7e3771f",
-      "postedAt": "2026-10-29T22:56:00.000Z",
-      "updatedAt": "2026-10-29T22:56:00.000Z"
-    },
-    {
       "id": "543e2360-b705-48d3-9951-611d6e1aa90c",
       "company": "Parker Hannifin",
       "title": "Engineer Intern - Military Flight Controls Division",
@@ -13564,31 +13718,6 @@
       "url": "https://trueinterview.io/jobs/c6005c00-7179-4812-8ba1-e1ada4780cee",
       "postedAt": "2026-10-29T18:57:00.000Z",
       "updatedAt": "2026-10-29T18:57:00.000Z"
-    },
-    {
-      "id": "80135084-0830-404b-9607-006bc6fb056e",
-      "company": "GM Financial",
-      "title": "Intern - Data Engineer",
-      "locations": [
-        "Arlington, Texas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197",
-      "url": "https://trueinterview.io/jobs/80135084-0830-404b-9607-006bc6fb056e",
-      "postedAt": "2026-10-29T18:53:04.000Z",
-      "updatedAt": "2026-10-29T18:53:04.000Z"
     },
     {
       "id": "70927a9a-39c7-4262-9f7a-0be9dd768348",
@@ -18362,137 +18491,6 @@
       "url": "https://trueinterview.io/jobs/91dffa76-eef8-4068-91a6-c0cf63398248",
       "postedAt": "2026-10-29T11:51:00.000Z",
       "updatedAt": "2026-10-29T11:51:00.000Z"
-    },
-    {
-      "id": "dba0b693-77e8-4681-b87c-49bc5dc984e3",
-      "company": "Sensirion",
-      "title": "Intern Product Management • 80-100%",
-      "locations": [
-        "Stäfa, Zurich, Switzerland"
-      ],
-      "cities": [],
-      "countries": [
-        "Switzerland"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484958138/",
-      "url": "https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3",
-      "postedAt": "2026-10-29T11:51:00.000Z",
-      "updatedAt": "2026-10-29T11:51:00.000Z"
-    },
-    {
-      "id": "db481369-b2da-4be1-bba0-b995dd57a93e",
-      "company": "Apple",
-      "title": "Failure Analysis Engineer Intern - Metal",
-      "locations": [
-        "Shanghai, Shanghai, China"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.apple.com/en-us/details/200692157",
-      "url": "https://trueinterview.io/jobs/db481369-b2da-4be1-bba0-b995dd57a93e",
-      "postedAt": "2026-10-29T11:46:15.000Z",
-      "updatedAt": "2026-10-29T11:46:15.000Z"
-    },
-    {
-      "id": "fc13c746-00e0-4a56-a112-93c144e5bb1a",
-      "company": "UES",
-      "title": "Intern, Engineering",
-      "locations": [
-        "Ooltewah, TN",
-        "Huntsville, AL",
-        "Tifton, GA",
-        "Knoxville, TN",
-        "Douglasville, GA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468284331/",
-      "url": "https://trueinterview.io/jobs/fc13c746-00e0-4a56-a112-93c144e5bb1a",
-      "postedAt": "2026-10-29T11:01:00.000Z",
-      "updatedAt": "2026-10-29T11:40:00.000Z"
-    },
-    {
-      "id": "1fea7f9a-cf5c-48f2-b685-bd75d7c3a906",
-      "company": "Antares",
-      "title": "Reactor Software Engineering Intern - Summer 2027",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467976307/",
-      "url": "https://trueinterview.io/jobs/1fea7f9a-cf5c-48f2-b685-bd75d7c3a906",
-      "postedAt": "2026-10-29T11:38:00.000Z",
-      "updatedAt": "2026-10-29T11:38:00.000Z"
-    },
-    {
-      "id": "a8bc1214-1efd-4c2e-8be2-f2d9c01646f4",
-      "company": "CACI International Inc",
-      "title": "Electrical Test Engineering Intern - Summer 2027",
-      "locations": [
-        "Danbury, CT"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4479408220/",
-      "url": "https://trueinterview.io/jobs/a8bc1214-1efd-4c2e-8be2-f2d9c01646f4",
-      "postedAt": "2026-10-29T11:38:00.000Z",
-      "updatedAt": "2026-10-29T11:38:00.000Z"
     },
     {
       "id": "cbd519d4-c0ec-4b9d-a9b9-f80baeca2d2f",
@@ -24232,32 +24230,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4482560709/",
       "url": "https://trueinterview.io/jobs/1f74f892-fd7d-401f-a47e-f5c7c4972c2e",
       "postedAt": "2026-10-28T23:17:00.000Z",
-      "updatedAt": "2026-10-28T23:17:00.000Z"
-    },
-    {
-      "id": "525f87d7-d387-406b-8e41-05ab2e96275f",
-      "company": "T-Mobile",
-      "title": "Summer 2027 Software Engineering Internship",
-      "locations": [
-        "Overland Park, Kansas, United States",
-        "Overland Park, KS"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
-      "url": "https://trueinterview.io/jobs/525f87d7-d387-406b-8e41-05ab2e96275f",
-      "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T23:17:00.000Z"
     },
     {

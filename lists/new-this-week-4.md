@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,429 open roles.** 1,115 in the United States & Canada · 314 elsewhere in the world. Everything the employers put up this week.
+**1,428 open roles.** 1,116 in the United States & Canada · 312 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cea20cc-af1d-4820-aaa2-d96b86afbd6c">Intern - Swift Runtimes Engineer</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692438">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c51cf481-8954-4434-8a83-f696189f8e80">Internship - Machine Learning Research - Speech-to-Speech Translation</a></td>
 <td>Aachen, North Rhine-Westphalia, Germany<br/>Aachen, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692236">Apply</a></td>
@@ -473,21 +480,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Sensirion</strong></td>
-<td><a href="https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3">Intern Product Management • 80-100%</a></td>
-<td>Stäfa, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484958138/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/db481369-b2da-4be1-bba0-b995dd57a93e">Failure Analysis Engineer Intern - Metal</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692157">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7c4f665d-3abb-46d9-a9a7-2ad540b22fc4">Internship - Equipment Integration &amp; Automation Engineer</a></td>
 <td>Samut Prakan, Samut Prakan, Thailand</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470933848/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**404 open roles.** 304 in the United States & Canada · 100 elsewhere in the world.
+**406 open roles.** 306 in the United States & Canada · 100 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Anonymous</strong></td>
+<td><a href="https://trueinterview.io/jobs/08697132-dc1d-49fb-a564-040bd057d01f">Founding Engineer (Data, ML, Product) Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486425441/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KEEN Footwear</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa0b94cf-8a19-4e00-86ae-d48cc83226d9">Analytics Engineer Intern</a></td>
+<td>Portland, Oregon, United States</td>
+<td align="center"><a href="https://www.keenfootwear.com/careers-list.html?4748305005&amp;gh_jid=4748305005">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive</strong></td>
+<td><a href="https://trueinterview.io/jobs/72ee7a07-9e41-4152-8f24-d09f5733409e">Data Science Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159210829-data-science-intern">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204">University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI</a></td>
 <td>Detroit, Michigan, United States<br/>Royal Oak, Michigan, United States</td>
 <td align="center"><a href="https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf641eeb-41b9-4a49-a718-f6aa7ee7d5b6">Data Science &amp; Business Analytics Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -475,13 +503,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>LBMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcf98283-cdd4-49a9-849b-6ebea7e3771f">Data &amp; AI Engineering Intern - Spring 2027</a></td>
-<td>Brentwood, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250502/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>TaskVerse</strong></td>
 <td><a href="https://trueinterview.io/jobs/08abdd8f-2c89-47d8-a299-7d40df343f54">Gen AI Developer Intern</a></td>
 <td>United States</td>
@@ -507,13 +528,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4">Intern Researcher- AI Agents</a></td>
 <td>Markham, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485203598/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GM Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/80135084-0830-404b-9607-006bc6fb056e">Intern - Data Engineer</a></td>
-<td>Arlington, Texas, United States</td>
-<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2816,20 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10581054/applied-scientist-intern?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ubisoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/3aebdea2-1212-49be-a089-9a5f44c90c23">Reporting Data Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)</a></td>
-<td>Paris, IDF, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Govsignals</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3137908-8fe3-4fcb-90ed-a338ee86c9b5">ENGINEERING INTERN</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

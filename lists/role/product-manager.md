@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**81 open roles.** 56 in the United States & Canada · 25 elsewhere in the world.
+**80 open roles.** 56 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -476,13 +476,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485267467/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sensirion</strong></td>
-<td><a href="https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3">Intern Product Management • 80-100%</a></td>
-<td>Stäfa, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484958138/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>

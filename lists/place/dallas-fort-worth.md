@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467588632/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949">Intern - Software Development Engineer</a></td>
 <td>Arlington, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467580870/">Apply</a></td>
@@ -113,13 +120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
 <td>Richardson, TX<br/>Bend, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485239335/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GM Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/80135084-0830-404b-9607-006bc6fb056e">Intern - Data Engineer</a></td>
-<td>Arlington, Texas, United States</td>
-<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

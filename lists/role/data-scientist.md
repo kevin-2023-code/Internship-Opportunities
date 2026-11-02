@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**74 open roles.** 62 in the United States & Canada · 12 elsewhere in the world.
+**76 open roles.** 64 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Intuitive</strong></td>
+<td><a href="https://trueinterview.io/jobs/72ee7a07-9e41-4152-8f24-d09f5733409e">Data Science Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159210829-data-science-intern">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204">University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI</a></td>
 <td>Detroit, Michigan, United States<br/>Royal Oak, Michigan, United States</td>
 <td align="center"><a href="https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf641eeb-41b9-4a49-a718-f6aa7ee7d5b6">Data Science &amp; Business Analytics Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

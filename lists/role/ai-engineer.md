@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**90 open roles.** 63 in the United States & Canada · 27 elsewhere in the world.
+**89 open roles.** 62 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -134,13 +134,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b4d1c809-bf5a-4dc6-b4de-9ed4496ae30b">AI Intern</a></td>
 <td>California, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485262158/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LBMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/fcf98283-cdd4-49a9-849b-6ebea7e3771f">Data &amp; AI Engineering Intern - Spring 2027</a></td>
-<td>Brentwood, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485250502/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

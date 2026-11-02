@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**90 open roles.**
+**91 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anonymous</strong></td>
+<td><a href="https://trueinterview.io/jobs/08697132-dc1d-49fb-a564-040bd057d01f">Founding Engineer (Data, ML, Product) Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486425441/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Citadel Securities</strong></td>
 <td><a href="https://trueinterview.io/jobs/f6dab4f3-5266-44b4-b409-ddf923eb39ec">Machine Learning Researcher – PhD Intern (US)</a></td>

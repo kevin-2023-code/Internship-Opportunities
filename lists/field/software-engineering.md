@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**969 open roles.** 795 in the United States & Canada · 174 elsewhere in the world.
+**967 open roles.** 794 in the United States & Canada · 173 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,6 +21,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467588632/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949">Intern - Software Development Engineer</a></td>
 <td>Arlington, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467580870/">Apply</a></td>
@@ -31,6 +38,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b10caa2b-1dc2-4b35-9eb3-311345ff4359">Intern - Cybersecurity</a></td>
 <td>Arlington, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4471392374/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
+<td><a href="https://trueinterview.io/jobs/42087e14-1b5a-4af7-b030-fc293ced00d5">Software Engineering Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b">Agentic Software Engineering Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -1994,27 +2015,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>UES</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc13c746-00e0-4a56-a112-93c144e5bb1a">Intern, Engineering</a></td>
-<td>Ooltewah, TN<br/>Huntsville, AL<br/>Tifton, GA<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468284331/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Antares</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fea7f9a-cf5c-48f2-b685-bd75d7c3a906">Reactor Software Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467976307/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CACI International Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8bc1214-1efd-4c2e-8be2-f2d9c01646f4">Electrical Test Engineering Intern - Summer 2027</a></td>
-<td>Danbury, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479408220/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Decagon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbd519d4-c0ec-4b9d-a9b9-f80baeca2d2f">Engineering Intern (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
@@ -2526,13 +2526,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/525f87d7-d387-406b-8e41-05ab2e96275f">Summer 2027 Software Engineering Internship</a></td>
-<td>Overland Park, Kansas, United States<br/>Overland Park, KS</td>
-<td align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Spectral AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0cea2e8-0466-4f92-bfdc-27e1531cffee">Hardware Engineering Intern</a></td>
 <td>Dallas, TX</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/500d9ccf-2e5d-4434-83b6-337e3a4c3034">Software Engineer – Intern</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260188">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb6a61ec-bf88-4270-b11f-d0923d47ca50">Cybersecurity Intern</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717410/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**63 open roles.**
+**64 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>KEEN Footwear</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa0b94cf-8a19-4e00-86ae-d48cc83226d9">Analytics Engineer Intern</a></td>
+<td>Portland, Oregon, United States</td>
+<td align="center"><a href="https://www.keenfootwear.com/careers-list.html?4748305005&amp;gh_jid=4748305005">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>UPS</strong></td>
 <td><a href="https://trueinterview.io/jobs/eeb2b53d-a0b6-431f-bee9-9876b2a54975">2027 Summer Engineering Intern</a></td>

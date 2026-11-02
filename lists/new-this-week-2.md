@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,429 open roles.** 1,115 in the United States & Canada · 314 elsewhere in the world. Everything the employers put up this week.
+**1,428 open roles.** 1,116 in the United States & Canada · 312 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
+<td>Richardson, TX<br/>Bend, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239335/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Syntiant Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf7cb3f6-37c2-40d1-a1c8-102404895612">Internship - DevOps Machine Learning Infrastructure</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://apply.workable.com/j/041E7A875F">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Internship List</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
+<td>Toronto, Ontario, Canada<br/>Burnaby, British Columbia, Canada<br/>Oakville, Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Signify</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8c542fd-7976-4f37-a65f-bc6dc4d3eeea">Product Management Intern, Cooper Lighting Solutions - Spring 2027</a></td>
+<td>Peachtree City, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223089/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FortisBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b">Engineering Co-op, System Integrity</a></td>
+<td>Surrey, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475720493/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renewables - Bazefield</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c5da57-03d4-4e0e-bba6-d33948f639a5">Product Designer/Developer Intern</a></td>
+<td>Del Mar, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478488260/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Brunswick Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc7235e1-cd36-4f41-94a8-fb6a4a73a93f">Merucry Marine: Product Management Intern – Parts &amp; Accessories</a></td>
@@ -104,13 +146,6 @@
 <td><a href="https://trueinterview.io/jobs/e6e205fa-2150-4c67-9847-af59d574ca45">Transportation Engineering Intern- Summer 2027</a></td>
 <td>Las Vegas, NV</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466892939/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GM Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/80135084-0830-404b-9607-006bc6fb056e">Intern - Data Engineer</a></td>
-<td>Arlington, Texas, United States</td>
-<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1150,27 +1185,6 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>UES</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc13c746-00e0-4a56-a112-93c144e5bb1a">Intern, Engineering</a></td>
-<td>Ooltewah, TN<br/>Huntsville, AL<br/>Tifton, GA<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468284331/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Antares</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fea7f9a-cf5c-48f2-b685-bd75d7c3a906">Reactor Software Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467976307/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CACI International Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8bc1214-1efd-4c2e-8be2-f2d9c01646f4">Electrical Test Engineering Intern - Summer 2027</a></td>
-<td>Danbury, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479408220/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Decagon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbd519d4-c0ec-4b9d-a9b9-f80baeca2d2f">Engineering Intern (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
@@ -2144,14 +2158,7 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/525f87d7-d387-406b-8e41-05ab2e96275f">Summer 2027 Software Engineering Internship</a></td>
-<td>Overland Park, Kansas, United States<br/>Overland Park, KS</td>
-<td align="center"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ea8ae52f-7a8d-4da0-8f91-ad849de8a084">Research Scientist Intern - Neural Representations Compression</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482553946/">Apply</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/01028d01-bfb7-4b15-a82e-e748b4d9f837">Electrical Engineering Coop (Spring/Summer 2027), Onsite</a></td>
 <td>Cedar Rapids, IA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4446668605/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CCC Intelligent Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e46af2b-cc80-4f49-8427-00065799420e">Data Science and AI Internship Interest | Resume Review and Open House</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496772/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

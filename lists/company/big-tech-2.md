@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**566 open roles.** 494 in the United States & Canada · 72 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**565 open roles.** 494 in the United States & Canada · 71 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -991,13 +991,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5f033635-e877-438f-ab5e-480260d5bdda">2027 Software Dev Engineer Intern - Netherlands</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476796429/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/db481369-b2da-4be1-bba0-b995dd57a93e">Failure Analysis Engineer Intern - Metal</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692157">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
