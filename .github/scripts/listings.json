@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T22:04:52.483Z",
+  "listingsChangedAt": "2026-11-02T23:04:39.539Z",
   "count": 2343,
   "listings": [
     {
@@ -213,6 +213,32 @@
       "url": "https://trueinterview.io/jobs/94110176-5b90-486e-8b21-8d44e283ba02",
       "postedAt": "2026-11-02T19:32:00.000Z",
       "updatedAt": "2026-11-02T19:32:00.000Z"
+    },
+    {
+      "id": "3aa0de4f-1a65-4f95-a3ac-dca77c219044",
+      "company": "Noblis",
+      "title": "Summer 2027 - Data Science and Innovation Intern",
+      "locations": [
+        "Springfield, Missouri, United States",
+        "Reston, Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.noblis.org/jobs/28097",
+      "url": "https://trueinterview.io/jobs/3aa0de4f-1a65-4f95-a3ac-dca77c219044",
+      "postedAt": "2026-11-02T19:21:00.000Z",
+      "updatedAt": "2026-11-02T19:21:00.000Z"
     },
     {
       "id": "9ed3e36f-8ed8-4a2c-97bb-a5624853f085",
@@ -1990,6 +2016,31 @@
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
+      "id": "a721cbf3-8231-4925-842d-da2e79d830d4",
+      "company": "PACCAR",
+      "title": "2027 Summer Internship: Sales Administration Data Analyst - Greenhouse Gas",
+      "locations": [
+        "Denton, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/",
+      "url": "https://trueinterview.io/jobs/a721cbf3-8231-4925-842d-da2e79d830d4",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "fc260e33-0b54-476e-9ee3-d621c0ed2141",
       "company": "RTX",
       "title": "Stage – Hiver 2027 – Soutien numérique et intelligence d’affaires (Informatique) | Internship - Winter 2027 Digital Support & Business Intelligence Intern (Computer Science)",
@@ -2087,6 +2138,31 @@
       "source": "career-sites",
       "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230",
       "url": "https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "60b47dd7-09f3-4fda-8daf-ae503a1e1e9f",
+      "company": "Zebra Technologies",
+      "title": "2027 Summer Internship (US) - Data Scientist",
+      "locations": [
+        "Lincolnshire, Illinois, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
+      "url": "https://trueinterview.io/jobs/60b47dd7-09f3-4fda-8daf-ae503a1e1e9f",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -43533,31 +43609,6 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
-      "id": "373c408c-dc1f-44f2-a129-3dd8b11323a5",
-      "company": "Nokia",
-      "title": "Optoelectronics Test Development Coop",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124",
-      "url": "https://trueinterview.io/jobs/373c408c-dc1f-44f2-a129-3dd8b11323a5",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
       "id": "d8dd81e5-e769-4b17-95af-fcfef291adb9",
       "company": "Nokia",
       "title": "Optoelectronics Test Mech Development Intern",
@@ -43579,56 +43630,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41181",
       "url": "https://trueinterview.io/jobs/d8dd81e5-e769-4b17-95af-fcfef291adb9",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "id": "899d5d0e-2d36-4cd3-b656-5f8f31bf9e64",
-      "company": "Nokia",
-      "title": "Photonic Test Coop",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41182",
-      "url": "https://trueinterview.io/jobs/899d5d0e-2d36-4cd3-b656-5f8f31bf9e64",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "id": "06d7eeec-6ef3-4550-a72c-46f95af3a320",
-      "company": "Nokia",
-      "title": "PIC Process Integration Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41123",
-      "url": "https://trueinterview.io/jobs/06d7eeec-6ef3-4550-a72c-46f95af3a320",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
