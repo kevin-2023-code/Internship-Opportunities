@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**390 open roles.** 292 in the United States & Canada · 98 elsewhere in the world.
+**391 open roles.** 293 in the United States & Canada · 98 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7">SW Engineer Intern, AI Engineering</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bank of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/672e79b7-db9d-4ca8-bf72-e9ba72e1ad4f">Quantitative Data Analytics Summer Analyst Program - 2027</a></td>
+<td>Atlanta, GA<br/>Atlanta, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477249887/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2095,7 +2102,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Activate Interactive Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/90607ea4-5fc0-4aa5-97b1-5b7ce06130b2">Data Science Intern - IN26008</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://apply.workable.com/j/88709D271D">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
 <td><a href="https://trueinterview.io/jobs/8926cb45-5e2c-46d9-9f06-6e720bee2d52">Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4432237112/">Apply</a></td>
@@ -2120,13 +2134,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/97f425b3-6fcb-46d3-b7f1-9aa115f55635">Data Analyst Intern (Measurement, CALM) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458945728/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tamizha Media Pvt Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2c18595-bc03-4fb4-8dde-ca5e985f5d2e">AI &amp; ML Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=aa800f51b422fac2">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>

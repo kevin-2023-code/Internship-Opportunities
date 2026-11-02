@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**23 open roles.** 18 in the United States & Canada · 5 elsewhere in the world.
+**24 open roles.** 19 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,7 +25,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Bank of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/d786011d-8907-46bc-97cf-1746da3bcf73">Quantitative Strategies &amp; Data Group Summer Associate Program - 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477266269/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Belvedere Trading, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/5325663f-0f3c-45dd-a6dd-a8910f8e9bda">Quantitative Trading Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4449218287/">Apply</a></td>

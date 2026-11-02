@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**56 open roles.** 30 in the United States & Canada · 26 elsewhere in the world.
+**57 open roles.** 31 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bank of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/672e79b7-db9d-4ca8-bf72-e9ba72e1ad4f">Quantitative Data Analytics Summer Analyst Program - 2027</a></td>
+<td>Atlanta, GA<br/>Atlanta, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477249887/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Internship List</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>

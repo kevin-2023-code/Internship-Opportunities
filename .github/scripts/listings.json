@@ -5,9 +5,57 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T13:05:31.408Z",
-  "count": 2295,
+  "listingsChangedAt": "2026-11-02T14:05:41.884Z",
+  "count": 2307,
   "listings": [
+    {
+      "id": "1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19",
+      "company": "Bank of America",
+      "title": "Global Technology Summer Analyst 2027 - Cybersecurity Analyst",
+      "locations": [
+        "Denver Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477268212/",
+      "url": "https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19",
+      "postedAt": "2026-11-02T13:37:00.000Z",
+      "updatedAt": "2026-11-02T13:37:00.000Z"
+    },
+    {
+      "id": "c982ef27-4484-4ac5-9796-a2e3636fd3b0",
+      "company": "ParetoHealth",
+      "title": "Software Engineering Summer Intern",
+      "locations": [
+        "Greater Philadelphia"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485717777/",
+      "url": "https://trueinterview.io/jobs/c982ef27-4484-4ac5-9796-a2e3636fd3b0",
+      "postedAt": "2026-11-02T13:22:00.000Z",
+      "updatedAt": "2026-11-02T13:22:00.000Z"
+    },
     {
       "id": "32229bb2-62d2-4bea-8d55-44176ea28e76",
       "company": "Apple",
@@ -35,6 +83,58 @@
       "url": "https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76",
       "postedAt": "2026-11-02T03:49:25.000Z",
       "updatedAt": "2026-11-02T12:35:00.000Z"
+    },
+    {
+      "id": "59ac2d16-7121-490b-a54e-d6eadcc4e3b2",
+      "company": "Shopee",
+      "title": "Product Manager Intern, MPID - Identity Verification (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.shopee.sg/job-detail/137775",
+      "url": "https://trueinterview.io/jobs/59ac2d16-7121-490b-a54e-d6eadcc4e3b2",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T12:32:00.000Z"
+    },
+    {
+      "id": "e6cb4a0a-d274-498b-a6a4-76a43f86161c",
+      "company": "Alaska Airlines",
+      "title": "Intern - Cybersecurity Threat Defense (Summer 2027)",
+      "locations": [
+        "SeaTac, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485474411/",
+      "url": "https://trueinterview.io/jobs/e6cb4a0a-d274-498b-a6a4-76a43f86161c",
+      "postedAt": "2026-11-02T12:27:00.000Z",
+      "updatedAt": "2026-11-02T12:27:00.000Z"
     },
     {
       "id": "baa4285d-3385-4b14-8a3f-3fb6210540cc",
@@ -141,6 +241,33 @@
       "url": "https://trueinterview.io/jobs/d710b258-9bb5-4ae5-80b4-506439b93629",
       "postedAt": "2026-11-02T11:36:00.000Z",
       "updatedAt": "2026-11-02T11:36:00.000Z"
+    },
+    {
+      "id": "4fd9e789-e403-46b3-bcf7-2a6bb9a361c9",
+      "company": "Tecsys Inc.",
+      "title": "Intern - Developer",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.workable.com/view/mpivJfdgcSJjT1NuxcHFMi/hybrid-intern---developer-in-montreal-at-tecsys-inc.",
+      "url": "https://trueinterview.io/jobs/4fd9e789-e403-46b3-bcf7-2a6bb9a361c9",
+      "postedAt": "2026-11-02T11:22:01.000Z",
+      "updatedAt": "2026-11-02T11:22:01.000Z"
     },
     {
       "id": "d63c3c3c-3cdf-4c25-9495-41aabb219c02",
@@ -274,6 +401,31 @@
       "updatedAt": "2026-11-02T10:16:00.000Z"
     },
     {
+      "id": "570a27b1-9101-4d58-b8b5-8f511a39c4f2",
+      "company": "NeuraMach.AI",
+      "title": "UI/UX Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://in.indeed.com/viewjob?jk=2a545fcc066dd429",
+      "url": "https://trueinterview.io/jobs/570a27b1-9101-4d58-b8b5-8f511a39c4f2",
+      "postedAt": "2026-11-02T09:45:10.000Z",
+      "updatedAt": "2026-11-02T09:45:10.000Z"
+    },
+    {
       "id": "08c6ac07-f1ea-4887-9d33-e19518a4e87b",
       "company": "Amway",
       "title": "Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)",
@@ -380,6 +532,60 @@
       "updatedAt": "2026-11-02T06:11:00.000Z"
     },
     {
+      "id": "cd517478-f076-4001-9c29-76645ddea4ba",
+      "company": "Roche",
+      "title": "Device Engineering Intern (Basel, 12 months)",
+      "locations": [
+        "Basel, Switzerland"
+      ],
+      "cities": [
+        "Basel"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.roche.com/de/de/job/202610-127712",
+      "url": "https://trueinterview.io/jobs/cd517478-f076-4001-9c29-76645ddea4ba",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "6725d491-8827-4c45-bff2-d1448e82b909",
+      "company": "Singtel",
+      "title": "Mechanical Engineer Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-Sing/1369792666/",
+      "url": "https://trueinterview.io/jobs/6725d491-8827-4c45-bff2-d1448e82b909",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "ffb9778d-940d-4782-9954-a0ac0b8b67c2",
       "company": "Shopee",
       "title": "Product Analyst Intern, Traffic & Content - Business Intelligence AI Bot (Fall 2026)",
@@ -405,6 +611,33 @@
       "url": "https://trueinterview.io/jobs/ffb9778d-940d-4782-9954-a0ac0b8b67c2",
       "postedAt": "2026-11-02T05:17:00.000Z",
       "updatedAt": "2026-11-02T05:17:00.000Z"
+    },
+    {
+      "id": "90607ea4-5fc0-4aa5-97b1-5b7ce06130b2",
+      "company": "Activate Interactive Pte Ltd",
+      "title": "Data Science Intern - IN26008",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/88709D271D",
+      "url": "https://trueinterview.io/jobs/90607ea4-5fc0-4aa5-97b1-5b7ce06130b2",
+      "postedAt": "2026-11-02T05:14:38.000Z",
+      "updatedAt": "2026-11-02T05:14:38.000Z"
     },
     {
       "id": "8926cb45-5e2c-46d9-9f06-6e720bee2d52",
@@ -513,6 +746,87 @@
       "url": "https://trueinterview.io/jobs/16d30212-7943-4281-9392-099de2d47523",
       "postedAt": "2026-11-02T00:23:00.000Z",
       "updatedAt": "2026-11-02T00:23:00.000Z"
+    },
+    {
+      "id": "d598f40c-2cd7-4006-ac55-0fa98ea3dd32",
+      "company": "Bank of America",
+      "title": "Global Quantitative Research Summer Associate Program - 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "junior",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477258441/",
+      "url": "https://trueinterview.io/jobs/d598f40c-2cd7-4006-ac55-0fa98ea3dd32",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "672e79b7-db9d-4ca8-bf72-e9ba72e1ad4f",
+      "company": "Bank of America",
+      "title": "Quantitative Data Analytics Summer Analyst Program - 2027",
+      "locations": [
+        "Atlanta, NY"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477249887/",
+      "url": "https://trueinterview.io/jobs/672e79b7-db9d-4ca8-bf72-e9ba72e1ad4f",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "d786011d-8907-46bc-97cf-1746da3bcf73",
+      "company": "Bank of America",
+      "title": "Quantitative Strategies & Data Group Summer Associate Program - 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "junior",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477266269/",
+      "url": "https://trueinterview.io/jobs/d786011d-8907-46bc-97cf-1746da3bcf73",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
       "id": "75fa9930-bf89-4402-a49e-8194e6f87abc",
@@ -1397,31 +1711,6 @@
       "url": "https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe",
       "postedAt": "2026-11-01T07:25:00.000Z",
       "updatedAt": "2026-11-01T07:25:00.000Z"
-    },
-    {
-      "id": "e2c18595-bc03-4fb4-8dde-ca5e985f5d2e",
-      "company": "Tamizha Media Pvt Ltd",
-      "title": "AI & ML Intern",
-      "locations": [
-        "India"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://in.indeed.com/viewjob?jk=aa800f51b422fac2",
-      "url": "https://trueinterview.io/jobs/e2c18595-bc03-4fb4-8dde-ca5e985f5d2e",
-      "postedAt": "2026-11-01T06:03:52.000Z",
-      "updatedAt": "2026-11-01T06:03:52.000Z"
     },
     {
       "id": "8c08deb9-4dd4-49da-8be5-9385ba92f90f",
@@ -4246,7 +4535,8 @@
       "company": "Apple",
       "title": "Intern, Site Reliability Engineer, iCloud",
       "locations": [
-        "London, England, United Kingdom"
+        "London, England, United Kingdom",
+        "London, United Kingdom"
       ],
       "cities": [
         "London"
@@ -5130,6 +5420,31 @@
       "url": "https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec",
       "postedAt": "2026-10-30T17:44:32.000Z",
       "updatedAt": "2026-10-30T17:44:32.000Z"
+    },
+    {
+      "id": "122aaeda-5980-465b-9af8-c7739fa10e4a",
+      "company": "A-Tech Fabrications Ltd",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Newton Aycliffe, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://uk.indeed.com/viewjob?jk=a1c47e957131029c",
+      "url": "https://trueinterview.io/jobs/122aaeda-5980-465b-9af8-c7739fa10e4a",
+      "postedAt": "2026-10-30T16:56:54.000Z",
+      "updatedAt": "2026-10-30T16:56:54.000Z"
     },
     {
       "id": "549f9cf9-86ef-430b-87aa-cce0d54fb105",

@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**68 open roles.** 58 in the United States & Canada · 10 elsewhere in the world.
+**69 open roles.** 58 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -435,6 +435,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Activate Interactive Pte Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/90607ea4-5fc0-4aa5-97b1-5b7ce06130b2">Data Science Intern - IN26008</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://apply.workable.com/j/88709D271D">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>DNV</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5b667e0-4b6c-4610-a26b-42c8ec5e5858">Data Science Intern</a></td>
