@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**287 open roles.** 233 in the United States & Canada · 54 elsewhere in the world.
+**286 open roles.** 232 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949">Intern - Software Development Engineer</a></td>
+<td>Arlington, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467580870/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde">Confluent - Software Developer - Intern Conversion</a></td>
@@ -457,13 +464,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Cooper City, FL<br/>Plymouth, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Viasat</strong></td>
-<td><a href="https://trueinterview.io/jobs/42c0a21c-4b92-480e-969c-c72a7f6bc699">Software Engineer Intern</a></td>
-<td>Germantown, Maryland, United States<br/>Germantown, MD</td>
-<td align="center"><a href="https://careers.viasat.com/jobs/7172">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
@@ -1640,13 +1640,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Middlebury, Connecticut, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20080?lang=en-us">Apply</a></td>
 <td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hermeus</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3d41a96-23d8-4830-b72e-be0a9bea6993">GNC &amp; Flight Software Intern - Spring/Summer 2027</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7/apply">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

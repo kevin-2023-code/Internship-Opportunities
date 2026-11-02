@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**89 open roles.** 62 in the United States & Canada · 27 elsewhere in the world.
+**90 open roles.** 63 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,7 +21,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Entrust</strong></td>
 <td><a href="https://trueinterview.io/jobs/86b5d072-13b5-4092-917e-520895fb3253">AI Developer Intern</a></td>
 <td>Shakopee, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486199630/">Apply</a></td>
+<td align="center"><a href="https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7">SW Engineer Intern, AI Engineering</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zebra Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/c96bddb3-725c-4f6b-81b5-ce27bc31a1a7">2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers)</a></td>
+<td>Holtsville, New York, United States</td>
+<td align="center"><a href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

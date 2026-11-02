@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**669 open roles.** 628 in the United States & Canada · 41 elsewhere in the world.
+**668 open roles.** 627 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1602,13 +1602,6 @@
 <td><a href="https://trueinterview.io/jobs/5c403c52-cf29-43db-91e0-35f460397ac8">Controls Engineer Intern - HVAC Controls</a></td>
 <td>Chelmsford, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.workable.com/view/cW1fRZDaq6yz35f1wVQSot/controls-engineer-intern---hvac-controls-in-chelmsford-at-albireo-energy">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9300ec4-de0b-4606-8421-a063a47c2f8e">Summer 2027 Engineering Internship (Los Angeles)</a></td>
-<td>California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application">Apply</a></td>
 <td align="center">3 Sep 2026</td>
 </tr>
 </tbody>

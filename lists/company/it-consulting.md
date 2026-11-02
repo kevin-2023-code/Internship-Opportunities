@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**23 open roles.** 22 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**24 open roles.** 23 in the United States & Canada · 1 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,7 +32,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>General Dynamics Information Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a856c55-91cc-4ab8-9462-a0c2a4c5f48f">Intern - Technical Writer / Data Analytics Analyst</a></td>
+<td>Bossier City, Louisiana, United States</td>
+<td align="center"><a href="https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-LA-Bossier-City/Intern---Technical-Writer---Data-Analytics-Analyst_RQ231236">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/0c6382fe-945f-48cb-ad31-08c5df47e673">QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027</a></td>
 <td>Poughkeepsie, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458034499/">Apply</a></td>

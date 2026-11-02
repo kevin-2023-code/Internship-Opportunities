@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**72 open roles.** 61 in the United States & Canada · 11 elsewhere in the world.
+**74 open roles.** 62 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204">University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI</a></td>
 <td>Detroit, Michigan, United States<br/>Royal Oak, Michigan, United States</td>
 <td align="center"><a href="https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Resideo</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d8f088e-f6be-4223-bae5-58771faf3843">Data Science Intern - Summer 2027</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -456,6 +463,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/e555892b-5bfe-4d9b-b73d-a7a28965491f">Data Science Intern</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Activate Interactive Pte Ltd</strong></td>
 <td><a href="https://trueinterview.io/jobs/90607ea4-5fc0-4aa5-97b1-5b7ce06130b2">Data Science Intern - IN26008</a></td>

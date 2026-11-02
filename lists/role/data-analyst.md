@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**59 open roles.** 33 in the United States & Canada · 26 elsewhere in the world.
+**60 open roles.** 34 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/672e79b7-db9d-4ca8-bf72-e9ba72e1ad4f">Quantitative Data Analytics Summer Analyst Program - 2027</a></td>
 <td>Atlanta, GA<br/>Atlanta, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477249887/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Information Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a856c55-91cc-4ab8-9462-a0c2a4c5f48f">Intern - Technical Writer / Data Analytics Analyst</a></td>
+<td>Bossier City, Louisiana, United States</td>
+<td align="center"><a href="https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-LA-Bossier-City/Intern---Technical-Writer---Data-Analytics-Analyst_RQ231236">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

@@ -5,9 +5,111 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T19:04:15.793Z",
-  "count": 2327,
+  "listingsChangedAt": "2026-11-02T20:04:25.584Z",
+  "count": 2333,
   "listings": [
+    {
+      "id": "94110176-5b90-486e-8b21-8d44e283ba02",
+      "company": "CapTech",
+      "title": "Consulting Internship: UX/Product Design (Summer 2027)",
+      "locations": [
+        "Richmond, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486188717/",
+      "url": "https://trueinterview.io/jobs/94110176-5b90-486e-8b21-8d44e283ba02",
+      "postedAt": "2026-11-02T19:32:00.000Z",
+      "updatedAt": "2026-11-02T19:32:00.000Z"
+    },
+    {
+      "id": "e8f7e0aa-0abb-4d20-98e1-8e2585294712",
+      "company": "Veteran Hiring Solutions",
+      "title": "Technical Product Manager Co-op, AI Strategic Hub (DASH)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486421959/",
+      "url": "https://trueinterview.io/jobs/e8f7e0aa-0abb-4d20-98e1-8e2585294712",
+      "postedAt": "2026-11-02T19:04:00.000Z",
+      "updatedAt": "2026-11-02T19:04:00.000Z"
+    },
+    {
+      "id": "61a6dbbb-68c8-4cc6-bc6f-2801af309949",
+      "company": "GM Financial",
+      "title": "Intern - Software Development Engineer",
+      "locations": [
+        "Arlington, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467580870/",
+      "url": "https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949",
+      "postedAt": "2026-11-02T18:54:00.000Z",
+      "updatedAt": "2026-11-02T18:54:00.000Z"
+    },
+    {
+      "id": "b10caa2b-1dc2-4b35-9eb3-311345ff4359",
+      "company": "GM Financial",
+      "title": "Intern - Cybersecurity",
+      "locations": [
+        "Arlington, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471392374/",
+      "url": "https://trueinterview.io/jobs/b10caa2b-1dc2-4b35-9eb3-311345ff4359",
+      "postedAt": "2026-11-02T18:52:00.000Z",
+      "updatedAt": "2026-11-02T18:52:00.000Z"
+    },
     {
       "id": "89600b69-4671-4f9a-9788-ff748bbca786",
       "company": "Applied Materials",
@@ -32,6 +134,32 @@
       "url": "https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786",
       "postedAt": "2026-11-02T06:55:00.000Z",
       "updatedAt": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "id": "c7c484a7-33cd-4850-a087-e09564aec204",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI",
+      "locations": [
+        "Detroit, Michigan, United States",
+        "Royal Oak, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
+      "url": "https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T17:32:34.000Z"
     },
     {
       "id": "81429d5f-3b88-405a-a748-785bbcb8fbde",
@@ -322,6 +450,60 @@
       "updatedAt": "2026-11-02T16:54:00.000Z"
     },
     {
+      "id": "e1b3dab5-e7da-4ee5-a352-47d0b221dcfe",
+      "company": "Resideo",
+      "title": "Mobile Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816",
+      "url": "https://trueinterview.io/jobs/e1b3dab5-e7da-4ee5-a352-47d0b221dcfe",
+      "postedAt": "2026-11-02T16:50:50.000Z",
+      "updatedAt": "2026-11-02T16:50:50.000Z"
+    },
+    {
+      "id": "4d8f088e-f6be-4223-bae5-58771faf3843",
+      "company": "Resideo",
+      "title": "Data Science Intern - Summer 2027",
+      "locations": [
+        "Austin, Texas, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19817",
+      "url": "https://trueinterview.io/jobs/4d8f088e-f6be-4223-bae5-58771faf3843",
+      "postedAt": "2026-11-02T16:49:21.000Z",
+      "updatedAt": "2026-11-02T16:49:21.000Z"
+    },
+    {
       "id": "86b5d072-13b5-4092-917e-520895fb3253",
       "company": "Entrust",
       "title": "AI Developer Intern",
@@ -341,7 +523,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486199630/",
+      "applyUrl": "https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397",
       "url": "https://trueinterview.io/jobs/86b5d072-13b5-4092-917e-520895fb3253",
       "postedAt": "2026-11-02T16:49:00.000Z",
       "updatedAt": "2026-11-02T16:49:00.000Z"
@@ -1077,6 +1259,31 @@
       "updatedAt": "2026-11-02T06:11:00.000Z"
     },
     {
+      "id": "e555892b-5bfe-4d9b-b73d-a7a28965491f",
+      "company": "HP",
+      "title": "Data Science Intern",
+      "locations": [
+        "Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
+      "url": "https://trueinterview.io/jobs/e555892b-5bfe-4d9b-b73d-a7a28965491f",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "cd517478-f076-4001-9c29-76645ddea4ba",
       "company": "Roche",
       "title": "Device Engineering Intern (Basel, 12 months)",
@@ -1374,32 +1581,6 @@
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
-      "id": "c7c484a7-33cd-4850-a087-e09564aec204",
-      "company": "Booz Allen Hamilton",
-      "title": "University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI",
-      "locations": [
-        "Detroit, Michigan, United States",
-        "Royal Oak, Michigan, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
-      "url": "https://trueinterview.io/jobs/c7c484a7-33cd-4850-a087-e09564aec204",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "updatedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
       "id": "727f70e8-9c0e-4e2d-878a-7452e53fa4a7",
       "company": "CoStar Group",
       "title": "Data Science Intern – Richmond, VA (Summer 2027)",
@@ -1421,6 +1602,31 @@
       "source": "career-sites",
       "applyUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
       "url": "https://trueinterview.io/jobs/727f70e8-9c0e-4e2d-878a-7452e53fa4a7",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "6a856c55-91cc-4ab8-9462-a0c2a4c5f48f",
+      "company": "General Dynamics Information Technology",
+      "title": "Intern - Technical Writer / Data Analytics Analyst",
+      "locations": [
+        "Bossier City, Louisiana, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-LA-Bossier-City/Intern---Technical-Writer---Data-Analytics-Analyst_RQ231236",
+      "url": "https://trueinterview.io/jobs/6a856c55-91cc-4ab8-9462-a0c2a4c5f48f",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -1472,6 +1678,31 @@
       "source": "career-sites",
       "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257",
       "url": "https://trueinterview.io/jobs/f0cdc428-77f4-4454-8621-d8d3c6a85f45",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "c96bddb3-725c-4f6b-81b5-ce27bc31a1a7",
+      "company": "Zebra Technologies",
+      "title": "2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers)",
+      "locations": [
+        "Holtsville, New York, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
+      "url": "https://trueinterview.io/jobs/c96bddb3-725c-4f6b-81b5-ce27bc31a1a7",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -12231,32 +12462,6 @@
       "url": "https://trueinterview.io/jobs/4a501272-c4be-4fdc-ac1f-d38a78e97f4d",
       "postedAt": "2026-10-29T23:35:00.000Z",
       "updatedAt": "2026-10-29T23:35:00.000Z"
-    },
-    {
-      "id": "42c0a21c-4b92-480e-969c-c72a7f6bc699",
-      "company": "Viasat",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Germantown, Maryland, United States",
-        "Germantown, MD"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://careers.viasat.com/jobs/7172",
-      "url": "https://trueinterview.io/jobs/42c0a21c-4b92-480e-969c-c72a7f6bc699",
-      "postedAt": "2026-10-29T19:08:00.000Z",
-      "updatedAt": "2026-10-29T23:27:00.000Z"
     },
     {
       "id": "b4d1c809-bf5a-4dc6-b4de-9ed4496ae30b",
@@ -60390,58 +60595,6 @@
       "url": "https://trueinterview.io/jobs/5c403c52-cf29-43db-91e0-35f460397ac8",
       "postedAt": "2026-09-03T21:04:45.000Z",
       "updatedAt": "2026-09-03T21:04:45.000Z"
-    },
-    {
-      "id": "b9300ec4-de0b-4606-8421-a063a47c2f8e",
-      "company": "The Exploration Company",
-      "title": "Summer 2027 Engineering Internship (Los Angeles)",
-      "locations": [
-        "California"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application",
-      "url": "https://trueinterview.io/jobs/b9300ec4-de0b-4606-8421-a063a47c2f8e",
-      "postedAt": "2026-09-03T19:50:53.000Z",
-      "updatedAt": "2026-09-03T19:50:53.000Z"
-    },
-    {
-      "id": "a3d41a96-23d8-4830-b72e-be0a9bea6993",
-      "company": "Hermeus",
-      "title": "GNC & Flight Software Intern - Spring/Summer 2027",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7/apply",
-      "url": "https://trueinterview.io/jobs/a3d41a96-23d8-4830-b72e-be0a9bea6993",
-      "postedAt": "2026-09-03T19:19:21.000Z",
-      "updatedAt": "2026-09-03T19:19:21.000Z"
     }
   ]
 }
