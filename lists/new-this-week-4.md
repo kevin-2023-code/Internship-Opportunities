@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,373 open roles.** 1,072 in the United States & Canada · 301 elsewhere in the world. Everything the employers put up this week.
+**1,375 open roles.** 1,074 in the United States & Canada · 301 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ONWARD Medical</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f472ec5-b28f-4315-bb00-a20781ee2a6d">Firmware Intern</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fa8dcff-7a3e-4168-b7d1-c6e05c44c433">Software Testing Intern</a></td>
+<td>Wuhan, Hubei, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942938/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/d94001a8-4e88-4fd1-ab9d-1216973b42a4">Internship - Lab Support Engineer (f/m/div)</a></td>

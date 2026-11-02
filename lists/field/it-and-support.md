@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**61 open roles.** 49 in the United States & Canada · 12 elsewhere in the world.
+**62 open roles.** 50 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -240,6 +240,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Coworking</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802222002?gh_jid=8802222002">Apply</a></td>
 <td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bf7b041-7034-4ecd-a2a3-37c67f87583f">Junior Help Desk Intern (Summer 2027)</a></td>
+<td>Mountain View, CA<br/>Muon Mountain View</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5247733007">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

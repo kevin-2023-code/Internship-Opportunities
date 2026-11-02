@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**85 open roles.**
+**86 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,6 +99,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d0a28b51-8e73-45fe-92e4-2b5ed4b264d6">Software Engineer Intern - (Summer 2027)</a></td>
 <td>New York, NY<br/>Berkeley, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459040052/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8402ace-6964-4645-a371-afb806ab5336">2027 Quantitative Research - Markets - Summer Internship - Analyst - United States</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449434828/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,373 open roles.** 1,072 in the United States & Canada · 301 elsewhere in the world. Everything the employers put up this week.
+**1,375 open roles.** 1,074 in the United States & Canada · 301 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fc90ca2-a92d-4ebc-95c9-b43ff3513dd1">Mechanical Engineering Intern</a></td>
+<td>Oak Ridge, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484703172/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gerdau North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/efe6ae80-e015-448f-8e57-7f0d934c58d8">2027 Summer Engineering Internship</a></td>
+<td>Cartersville, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465596665/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>GPD Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/3645d90d-d4ce-427b-a702-c4b4076c4c96">Electrical Design Engineering Co-op</a></td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/761d6c77-d66b-4c99-9a4a-8929593de62e">Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4441980720/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ONWARD Medical</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f472ec5-b28f-4315-bb00-a20781ee2a6d">Firmware Intern</a></td>
-<td>Lausanne, Vaud, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa8dcff-7a3e-4168-b7d1-c6e05c44c433">Software Testing Intern</a></td>
-<td>Wuhan, Hubei, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942938/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

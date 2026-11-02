@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**388 open roles.** 291 in the United States & Canada · 97 elsewhere in the world.
+**389 open roles.** 292 in the United States & Canada · 97 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1773,6 +1773,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.pathai.com/careers/8843495002?gh_jid=8843495002">Apply</a></td>
 <td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b897d80-5a4b-48e3-853a-3789e8c57fb8">Data Scientist Intern, 2027 Summer U.S.</a></td>
+<td>Seattle - United States - Seattle, Washington United States</td>
+<td align="center"><a href="https://globalcareers-atlassian.icims.com/jobs/26271/data-scientist-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>IMC</strong></td>

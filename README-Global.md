@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-02 07:06 UTC_
+_Last updated: 2026-11-02 09:06 UTC_
 
 **375 open internships** from **210 employers** · **301 posted in the last 7 days** · refreshed hourly
 
@@ -196,7 +196,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fbdce853-d856-4531-ac6d-1032321f2215">Algorithm Engineer Intern</a> 🆕</td>
 <td>Jurong East, West Region, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484832441/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Autodesk</strong></td>
@@ -531,14 +531,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/17d7cab1-84b7-416b-b96e-8e84b3183ce3">Machine Learning Engineer Intern</a> 🆕</td>
 <td>Jurong East, West Region, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484834297/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Certis</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6328751-fc3e-45c4-99ba-f3020b87ca68">AI Engineer (Internship)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484818757/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -928,7 +928,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7fd5477d-e9b3-4c22-a729-2b08b0170a28">Visual Content Designer Intern</a> 🆕</td>
 <td>Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485302932/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>CapitaLand Investment (CLI)</strong></td>
@@ -1009,10 +1009,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Trespa</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea91005f-976e-445f-9abb-0ae40243f751">Product Management/ Marketing Communication Intern</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/ea91005f-976e-445f-9abb-0ae40243f751">Product Management/ Marketing Communication Intern</a></td>
 <td>Weert, Limburg, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474122869/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Signify</strong></td>

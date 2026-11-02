@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**405 open roles.**
+**406 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/dada29d6-5d30-4067-9296-1aeb7c1fb066">Firmware Engineer Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513">Apply</a></td>
+<td align="center">4 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f1191dba-f477-4692-9ca8-9e27952271e3">Functional Validation Intern, BS - Summer 2027</a></td>
 <td>Santa Clara, CA<br/>Westborough, MA, United States of America<br/>Boise, ID</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1">Apply</a></td>

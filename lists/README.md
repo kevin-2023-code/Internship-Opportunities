@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-02 08:07 UTC_
+_Last updated: 2026-11-02 09:06 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 219 of the 937 employers on this list (44% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 219 of the 938 employers on this list (44% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,12 +32,12 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 781 | 168 |
+| [💻 Software Engineering](field/software-engineering.md) | 782 | 168 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 628 | 40 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 291 | 97 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 292 | 97 |
 | [📱 Product & Design](field/product-and-design.md) | 123 | 40 |
-| [🧰 IT & Support](field/it-and-support.md) | 49 | 12 |
-| [📈 Quantitative Finance](field/quantitative-finance.md) | 33 | 18 |
+| [🧰 IT & Support](field/it-and-support.md) | 50 | 12 |
+| [📈 Quantitative Finance](field/quantitative-finance.md) | 34 | 18 |
 
 ---
 
@@ -45,17 +45,17 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **995 of the 2,280** internships on this list (44%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **996 of the 2,284** internships on this list (44%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 493 | 68 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🏛️ Big Tech](company/big-tech.md) | 494 | 68 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
 | [🔬 Semiconductors & chips](company/semiconductors.md) | 239 | 33 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 158 | 20 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 107 | 8 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [📱 Consumer internet & media](company/consumer-internet.md) | 85 | 7 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚀 Aerospace & defence](company/aerospace-defense.md) | 71 | 1 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🏢 Enterprise & business software](company/enterprise-saas.md) | 54 | 14 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏢 Enterprise & business software](company/enterprise-saas.md) | 55 | 14 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 39 | 7 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 27 | 9 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
 | [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 21 | 9 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **995 of the 2,280** internships on this lis
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 19 filters hold **1,067 of the 2,280** internships on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 19 filters hold **1,069 of the 2,284** internships on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -90,7 +90,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [AI Engineer](role/ai-engineer.md) | 61 | 27 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 67 | 20 |
 | [Product Manager](role/product-manager.md) | 53 | 22 |
-| [Data Scientist](role/data-scientist.md) | 57 | 10 |
+| [Data Scientist](role/data-scientist.md) | 58 | 10 |
 | [Research Scientist](role/research-scientist.md) | 53 | 6 |
 | [Data Analyst](role/data-analyst.md) | 30 | 26 |
 | [Security Engineer](role/security-engineer.md) | 50 | 5 |
@@ -98,7 +98,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Embedded Engineer](role/embedded-engineer.md) | 25 | 6 |
 | [QA Engineer](role/qa-engineer.md) | 22 | 4 |
 | [Quantitative Developer](role/quantitative-developer.md) | 17 | 6 |
-| [Quantitative Researcher](role/quantitative-researcher.md) | 10 | 7 |
+| [Quantitative Researcher](role/quantitative-researcher.md) | 11 | 7 |
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 11 | 3 |
 | [Site Reliability Engineer](role/site-reliability-engineer.md) | 7 | 2 |
 | [Platform Engineer](role/platform-engineer.md) | 6 | 1 |
@@ -111,16 +111,16 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 33 filters hold **1,364 of the 2,280** internships on this list (60%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 33 filters hold **1,367 of the 2,284** internships on this list (60%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 405 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 406 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 122 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎓 Boston & Cambridge](place/boston.md) | 95 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
-| [🗽 New York City](place/new-york.md) | 85 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
+| [🗽 New York City](place/new-york.md) | 86 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
 | [🇸🇬 Singapore](place/singapore.md) | 0 | 82 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🌲 Seattle & Puget Sound](place/seattle.md) | 79 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
+| [🌲 Seattle & Puget Sound](place/seattle.md) | 80 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
 | [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 66 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Dallas, Fort Worth, Plano, Irving, Richardson, Frisco, Arlington, Mckinney, Addison. |
 | [🌧️ Portland, Boise & Spokane](place/pacific-northwest.md) | 63 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Portland OR, Hillsboro OR, Beaverton OR, Eugene OR, Vancouver WA, Spokane WA, Boise ID. |
 | [🎸 Austin](place/austin.md) | 59 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
@@ -155,11 +155,11 @@ _Between them these 33 filters hold **1,364 of the 2,280** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,401 of the 2,280** internships on this list (61%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,403 of the 2,284** internships on this list (61%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 1,072 | 301 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 1,074 | 301 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 29 | 10 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

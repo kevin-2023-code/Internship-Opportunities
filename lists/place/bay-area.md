@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**405 open roles.**
+**406 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2127,6 +2127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bf7b041-7034-4ecd-a2a3-37c67f87583f">Junior Help Desk Intern (Summer 2027)</a></td>
+<td>Mountain View, CA<br/>Muon Mountain View</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5247733007">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/2dbf5871-f396-433d-ab7d-3186527eec0f">Security Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States<br/>San Francisco - United States - San Francisco, California 94104 United States</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9cbcb094-71e8-4bd1-839f-87478d3232ab">Firmware Engineer Intern, BS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America<br/>Westlake Village, CA</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461">Apply</a></td>
-<td align="center">4 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dada29d6-5d30-4067-9296-1aeb7c1fb066">Firmware Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
