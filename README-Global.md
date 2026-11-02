@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-02 01:05 UTC_
+_Last updated: 2026-11-02 02:06 UTC_
 
 **367 open internships** from **208 employers** · **294 posted in the last 7 days** · refreshed hourly
 
@@ -245,7 +245,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/021ba770-9859-48cb-8da2-1b394ea0ce81">iOS Software Development Internship</a> 🆕</td>
 <td>Miami-Fort Lauderdale Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485283188/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
@@ -677,7 +677,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c67be1ca-1a8e-4d1a-bb9c-567f3bb2027f">Mechanical Engineering Internship (Vocational Placement)</a> 🆕</td>
 <td>Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485282383/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Tesla</strong></td>
@@ -744,17 +744,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6602b67-bb02-4f59-aa17-d62fb6aa63c5">Ground Engineering Intern (Dublin)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/b6602b67-bb02-4f59-aa17-d62fb6aa63c5">Ground Engineering Intern (Dublin)</a></td>
 <td>Dublin, County Dublin, Ireland<br/>Manchester, England, United Kingdom<br/>Glasgow, Scotland, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484784179/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>CAREER PANACEA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4fcce79-af6d-45f0-8e21-9adb1ab4ab5b">Civil Engineering Intern - Perth</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/d4fcce79-af6d-45f0-8e21-9adb1ab4ab5b">Civil Engineering Intern - Perth</a></td>
 <td>Perth, Western Australia, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484774711/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Jacobs</strong></td>

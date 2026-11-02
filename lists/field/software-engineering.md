@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**948 open roles.** 781 in the United States & Canada · 167 elsewhere in the world.
+**949 open roles.** 782 in the United States & Canada · 167 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/75fa9930-bf89-4402-a49e-8194e6f87abc">Software Engineer Summer Internship</a></td>
 <td>Clearwater, Florida, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8919280002">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oakwood PMS</strong></td>
+<td><a href="https://trueinterview.io/jobs/c099f1fc-0d45-4a8f-9aa1-08e28f4575d5">AI Software Engineer Internship ( Read description)</a></td>
+<td>Pennsylvania, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485986222/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aeb0b865-6924-4d32-b746-8b01e172f50a">Summer Intern – Software Engineering – Quality Assurance</a></td>
 <td>Golden, Colorado, United States</td>
 <td align="center"><a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gauss Management Research &amp; Engineering (GMRE Inc.)</strong></td>
-<td><a href="https://trueinterview.io/jobs/61662601-dd3e-4926-952b-93039486c270">Web Application Developer Intern</a></td>
-<td>South Ogden, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484705285/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

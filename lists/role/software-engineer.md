@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**275 open roles.** 224 in the United States & Canada · 51 elsewhere in the world.
+**277 open roles.** 226 in the United States & Canada · 51 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/75fa9930-bf89-4402-a49e-8194e6f87abc">Software Engineer Summer Internship</a></td>
 <td>Clearwater, Florida, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8919280002">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oakwood PMS</strong></td>
+<td><a href="https://trueinterview.io/jobs/c099f1fc-0d45-4a8f-9aa1-08e28f4575d5">AI Software Engineer Internship ( Read description)</a></td>
+<td>Pennsylvania, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485986222/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>York Space Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/896709d5-5711-4056-a113-d2322f672bbf">Software Engineering Intern</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458418385/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>

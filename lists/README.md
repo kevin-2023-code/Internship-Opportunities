@@ -6,7 +6,7 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-02 01:05 UTC_
+_Last updated: 2026-11-02 02:06 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 218 of the 935 employers on this list (44% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -32,9 +32,9 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 781 | 167 |
+| [💻 Software Engineering](field/software-engineering.md) | 782 | 167 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 628 | 40 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 292 | 91 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 291 | 91 |
 | [📱 Product & Design](field/product-and-design.md) | 123 | 39 |
 | [🧰 IT & Support](field/it-and-support.md) | 50 | 12 |
 | [📈 Quantitative Finance](field/quantitative-finance.md) | 34 | 18 |
@@ -79,16 +79,16 @@ _Between them these 23 filters hold **994 of the 2,275** internships on this lis
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 19 filters hold **1,058 of the 2,275** internships on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 19 filters hold **1,059 of the 2,275** internships on this list (47%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 224 | 51 |
+| [Software Engineer](role/software-engineer.md) | 226 | 51 |
 | [Hardware Engineer](role/hardware-engineer.md) | 119 | 5 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 67 | 20 |
-| [AI Engineer](role/ai-engineer.md) | 61 | 25 |
+| [AI Engineer](role/ai-engineer.md) | 60 | 25 |
 | [Product Manager](role/product-manager.md) | 53 | 21 |
 | [Data Scientist](role/data-scientist.md) | 58 | 10 |
 | [Research Scientist](role/research-scientist.md) | 53 | 6 |
