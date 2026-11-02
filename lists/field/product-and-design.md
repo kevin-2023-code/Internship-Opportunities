@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**168 open roles.** 125 in the United States & Canada · 43 elsewhere in the world.
+**167 open roles.** 125 in the United States & Canada · 42 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -916,13 +916,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d710b258-9bb5-4ae5-80b4-506439b93629">Business Program Manager MBA Intern, 2027</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477508989/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NeuraMach.AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/570a27b1-9101-4d58-b8b5-8f511a39c4f2">UI/UX Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=2a545fcc066dd429">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

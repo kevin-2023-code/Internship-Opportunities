@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T14:05:41.884Z",
-  "count": 2307,
+  "listingsChangedAt": "2026-11-02T15:04:54.025Z",
+  "count": 2308,
   "listings": [
     {
       "id": "1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19",
@@ -55,6 +55,31 @@
       "url": "https://trueinterview.io/jobs/c982ef27-4484-4ac5-9796-a2e3636fd3b0",
       "postedAt": "2026-11-02T13:22:00.000Z",
       "updatedAt": "2026-11-02T13:22:00.000Z"
+    },
+    {
+      "id": "3c60cfc0-a1d6-401a-9ec7-e88b5fa13839",
+      "company": "Finbox",
+      "title": "Intern - Software Engineer",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.reczee.com/finbox/kJKi9/apply?_src=Indeed",
+      "url": "https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839",
+      "postedAt": "2026-11-02T12:56:55.000Z",
+      "updatedAt": "2026-11-02T12:56:55.000Z"
     },
     {
       "id": "32229bb2-62d2-4bea-8d55-44176ea28e76",
@@ -243,6 +268,31 @@
       "updatedAt": "2026-11-02T11:36:00.000Z"
     },
     {
+      "id": "ba41586b-4438-4b63-9147-3fb8659c4164",
+      "company": "MYRMC Solutions Pvt Ltd",
+      "title": "Flutter Developer Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://in.indeed.com/viewjob?jk=9fd5c01a70dacb93",
+      "url": "https://trueinterview.io/jobs/ba41586b-4438-4b63-9147-3fb8659c4164",
+      "postedAt": "2026-11-02T11:32:02.000Z",
+      "updatedAt": "2026-11-02T11:32:02.000Z"
+    },
+    {
       "id": "4fd9e789-e403-46b3-bcf7-2a6bb9a361c9",
       "company": "Tecsys Inc.",
       "title": "Intern - Developer",
@@ -399,31 +449,6 @@
       "url": "https://trueinterview.io/jobs/6898ab6e-8813-4b32-879f-9128d14cd3ca",
       "postedAt": "2026-11-02T10:16:00.000Z",
       "updatedAt": "2026-11-02T10:16:00.000Z"
-    },
-    {
-      "id": "570a27b1-9101-4d58-b8b5-8f511a39c4f2",
-      "company": "NeuraMach.AI",
-      "title": "UI/UX Intern",
-      "locations": [
-        "India"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://in.indeed.com/viewjob?jk=2a545fcc066dd429",
-      "url": "https://trueinterview.io/jobs/570a27b1-9101-4d58-b8b5-8f511a39c4f2",
-      "postedAt": "2026-11-02T09:45:10.000Z",
-      "updatedAt": "2026-11-02T09:45:10.000Z"
     },
     {
       "id": "08c6ac07-f1ea-4887-9d33-e19518a4e87b",

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,398 open roles.** 1,088 in the United States & Canada · 310 elsewhere in the world. Everything the employers put up this week.
+**1,399 open roles.** 1,088 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3fbbd71-18b0-4163-8c6f-5d85e121030c">SAP China iXp Intern - Intern Queue Manager for Technical Support - Dalian</a></td>
+<td>Dalian, Liaoning, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477128906/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Applied Materials South East Asia</strong></td>
 <td><a href="https://trueinterview.io/jobs/834a13df-58b7-468b-84ff-753c4ac075a9">Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship)</a></td>

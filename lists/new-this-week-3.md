@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,398 open roles.** 1,088 in the United States & Canada · 310 elsewhere in the world. Everything the employers put up this week.
+**1,399 open roles.** 1,088 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2051,6 +2051,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Finbox</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839">Intern - Software Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.reczee.com/finbox/kJKi9/apply?_src=Indeed">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
 <td>Singapore, Singapore</td>
@@ -2072,6 +2079,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>MYRMC Solutions Pvt Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba41586b-4438-4b63-9147-3fb8659c4164">Flutter Developer Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=9fd5c01a70dacb93">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
 <td>Greater Phoenix Area</td>
@@ -2083,13 +2097,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
 <td>Barcelona, Catalonia, Spain</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NeuraMach.AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/570a27b1-9101-4d58-b8b5-8f511a39c4f2">UI/UX Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=2a545fcc066dd429">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fe969280-b23f-490d-bf37-811305145b9d">System Design Engineer - LDE (RDSS Intern)</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448263401/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3fbbd71-18b0-4163-8c6f-5d85e121030c">SAP China iXp Intern - Intern Queue Manager for Technical Support - Dalian</a></td>
-<td>Dalian, Liaoning, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477128906/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**963 open roles.** 790 in the United States & Canada · 173 elsewhere in the world.
+**965 open roles.** 790 in the United States & Canada · 175 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2765,6 +2765,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Finbox</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839">Intern - Software Engineer</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.reczee.com/finbox/kJKi9/apply?_src=Indeed">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MYRMC Solutions Pvt Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba41586b-4438-4b63-9147-3fb8659c4164">Flutter Developer Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=9fd5c01a70dacb93">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
 <td>Greater Phoenix Area</td>
@@ -2812,20 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Toulouse, France</td>
 <td align="center"><a href="https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025">Software Development Engineer Intern, Amazon University Talent Acquisition</a></td>
-<td>Mexico City, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478037941/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe">Developer Technology Engineering Intern - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458903339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
 </table>

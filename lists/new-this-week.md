@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,398 open roles.** 1,088 in the United States & Canada · 310 elsewhere in the world. Everything the employers put up this week.
+**1,399 open roles.** 1,088 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
