@@ -5,9 +5,117 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T04:06:06.547Z",
-  "count": 2276,
+  "listingsChangedAt": "2026-11-02T06:09:43.378Z",
+  "count": 2282,
   "listings": [
+    {
+      "id": "ffb9778d-940d-4782-9954-a0ac0b8b67c2",
+      "company": "Shopee",
+      "title": "Product Analyst Intern, Traffic & Content - Business Intelligence AI Bot (Fall 2026)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4440213049/",
+      "url": "https://trueinterview.io/jobs/ffb9778d-940d-4782-9954-a0ac0b8b67c2",
+      "postedAt": "2026-11-02T05:17:00.000Z",
+      "updatedAt": "2026-11-02T05:17:00.000Z"
+    },
+    {
+      "id": "8926cb45-5e2c-46d9-9f06-6e720bee2d52",
+      "company": "Shopee",
+      "title": "Business Data Analyst Intern - Commercial Management, Business Development (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4432237112/",
+      "url": "https://trueinterview.io/jobs/8926cb45-5e2c-46d9-9f06-6e720bee2d52",
+      "postedAt": "2026-11-02T02:34:00.000Z",
+      "updatedAt": "2026-11-02T02:34:00.000Z"
+    },
+    {
+      "id": "6cd70c0f-b692-4f06-9516-bd45cc43f3db",
+      "company": "Shopee",
+      "title": "IT Compliance & Cybersecurity Intern, Financial Service (Fall 2026/ Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4437022706/",
+      "url": "https://trueinterview.io/jobs/6cd70c0f-b692-4f06-9516-bd45cc43f3db",
+      "postedAt": "2026-11-02T02:34:00.000Z",
+      "updatedAt": "2026-11-02T02:34:00.000Z"
+    },
+    {
+      "id": "f6210d6a-8b88-4887-8b72-b18a9d7f8d94",
+      "company": "Shopee",
+      "title": "Product Manager Intern, Traffic & Content - Shop Chatbot (Fall 2026)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4447354091/",
+      "url": "https://trueinterview.io/jobs/f6210d6a-8b88-4887-8b72-b18a9d7f8d94",
+      "postedAt": "2026-11-02T02:34:00.000Z",
+      "updatedAt": "2026-11-02T02:34:00.000Z"
+    },
     {
       "id": "16d30212-7943-4281-9392-099de2d47523",
       "company": "Tesla",
@@ -1100,6 +1208,31 @@
       "url": "https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233",
       "postedAt": "2026-11-01T04:43:00.000Z",
       "updatedAt": "2026-11-01T05:17:00.000Z"
+    },
+    {
+      "id": "868a61c8-9162-4748-9e67-61a31badc3ed",
+      "company": "European Space Agency",
+      "title": "Intern in the Galileo and Egnos Programme Department - AI for Galileo System Engineering and MBSE",
+      "locations": [
+        "Noordwijk, Netherlands"
+      ],
+      "cities": [],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-Egnos-Programme-Department-AI-for-Galileo-System-Engineering-and-MBSE/1452922733/",
+      "url": "https://trueinterview.io/jobs/868a61c8-9162-4748-9e67-61a31badc3ed",
+      "postedAt": "2026-11-01T05:00:00.000Z",
+      "updatedAt": "2026-11-01T05:00:00.000Z"
     },
     {
       "id": "cb595165-9247-4b1f-9ce3-7bd4f1a436e3",
@@ -7742,6 +7875,31 @@
       "url": "https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0",
       "postedAt": "2026-10-30T05:04:00.000Z",
       "updatedAt": "2026-10-30T05:05:00.000Z"
+    },
+    {
+      "id": "9daf2067-c8d9-4009-834d-224363e627e9",
+      "company": "Addepto",
+      "title": "AI & Engineering Intern",
+      "locations": [
+        "Warszawa, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://addepto.com/ai-engineering-intern/",
+      "url": "https://trueinterview.io/jobs/9daf2067-c8d9-4009-834d-224363e627e9",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
     },
     {
       "id": "29ee2006-5dce-43c2-a494-4acd71a0debc",
