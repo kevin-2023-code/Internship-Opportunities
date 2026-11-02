@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,401 open roles.** 1,090 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
+**1,407 open roles.** 1,094 in the United States & Canada · 313 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Regeneron</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a204635-3dec-4333-9e00-293b490079d8">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
+<td>Rensselaer, Indiana, United States<br/>Rensselaer, NY</td>
+<td align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/US_Only_University_Relations_Career/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bollinger Shipyards</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5fe3b1a-7cc3-447c-889a-48f728fbc686">Electrical Engineering Intern</a></td>
+<td>Lockport, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467746710/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Home Loan Bank of Indianapolis (FHLBI)</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a490eff-3842-4384-b14e-0c486181c6c8">Network Engineer Intern</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541403/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gauss Management Research &amp; Engineering (GMRE Inc.)</strong></td>
+<td><a href="https://trueinterview.io/jobs/73c8e886-b3a2-4264-8910-0f623cced794">IT Specialist Intern (Tier 1)</a></td>
+<td>South Ogden, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484708213/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Daimler Truck North America</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e015f21-bc33-439e-ac71-34918f65bee0">Mechanical Product Design Engineering Intern</a></td>
@@ -2058,6 +2086,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
+<td>Strasbourg, Grand Est, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763">DevOps Software Engineering Intern</a></td>
+<td>Gdańsk, Pomorskie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485735587/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
+<td>Barcelona, Catalonia, Spain</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ParetoHealth</strong></td>
 <td><a href="https://trueinterview.io/jobs/85ad408f-5d29-4c89-9b7f-945474c75df3">Product Manager Summer Intern</a></td>
 <td>Greater Philadelphia</td>
@@ -2104,13 +2153,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
 <td>Greater Phoenix Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477258436/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2783,48 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/62b25e18-c444-44c6-9973-b3b1d87b7047">2027 Software Dev Engineer Intern - Tel-Aviv, Israel</a></td>
 <td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485223435/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RIVR</strong></td>
-<td><a href="https://trueinterview.io/jobs/74822e79-b696-49ce-ac01-d92c0a17b827">Robotics Wireless &amp; Network Engineer Intern, RIVR</a></td>
-<td>Zurich, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223442/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Baker Hughes</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8517dc7-76f0-4d3f-9bb6-af4ef4037938">Intern - Software Engineering - 2027</a></td>
-<td>Cramlington, England, United Kingdom<br/>Cramlington, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485236928/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence</strong></td>
-<td><a href="https://trueinterview.io/jobs/04185783-f1ac-4632-abc5-fb329f2d480d">AI Intern - Technical Communications (System Design Analysis Group)</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467508571/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mission Technologies, a division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/22230259-1272-4c54-8873-ae13e81a70da">Software Engineer (SkillBridge Intern) - 23875</a></td>
-<td>Greater Roanoke Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440203691/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6005c00-7179-4812-8ba1-e1ada4780cee">Firmware Application Engineer (RDSS Intern)</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467119641/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7bb12426-8d55-4d00-a014-e1677210fb34">ASIC Engineering Intern, Networking Chip Design - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457649630/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,401 open roles.** 1,090 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
+**1,407 open roles.** 1,094 in the United States & Canada · 313 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoboNex 88 Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineer Interns</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484333273/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>London Computer Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/e688e2ba-9a3b-4657-be67-f3fb5d7a79f5">Software Developer Co-op/Intern</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485738248/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plexus Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/49d95df4-9f67-42d5-8e96-c2a4b70fe34a">Intern - Software Engineer (Summer 2027)</a></td>
+<td>Neenah, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486401170/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Elevated Web Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8167563-d684-4548-9384-94012d4c333d">Application Software Engineering Internship</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486400023/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19">Global Technology Summer Analyst 2027 - Cybersecurity Analyst</a></td>
@@ -76,13 +104,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>RoboNex 88 Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484333273/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Federal Reserve Board</strong></td>
 <td><a href="https://trueinterview.io/jobs/6898ab6e-8813-4b32-879f-9128d14cd3ca">Graduate Intern, UX/UI Design</a></td>
 <td>Washington, DC</td>
@@ -136,6 +157,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/727f70e8-9c0e-4e2d-878a-7452e53fa4a7">Data Science Intern – Richmond, VA (Summer 2027)</a></td>
 <td>Richmond, Virginia, United States</td>
 <td align="center"><a href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sedgwick</strong></td>
+<td><a href="https://trueinterview.io/jobs/526637c5-3223-49e8-b467-43fd95df059d">Data Analyst Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sedgwick.wd1.myworkdayjobs.com/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/afcd1849-c1ea-43cc-b208-b13701865868">Systems Engineering Intern - Summer</a></td>
 <td>Charlotte, NC<br/>Indianapolis, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483683210/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/e11f6825-ed98-4027-b7ad-16af24b9fd81">Applications Engineering Internship</a></td>
-<td>Nashville, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485207511/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kiewit</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf06c0d0-0fc2-4fcc-abb2-e3f685a932c1">Design Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
-<td>Lone Tree, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467120693/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Regal Rexnord</strong></td>
-<td><a href="https://trueinterview.io/jobs/b35c8904-11d7-4287-acd1-9f0a224124f1">Engineering Co-Op</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456948504/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sargent &amp; Lundy</strong></td>
-<td><a href="https://trueinterview.io/jobs/b88e1578-eae6-4f27-ae4e-65ee4e209380">Mechanical Engineer Intern - Energy &amp; Industrial (Summer 2027)</a></td>
-<td>Englewood, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466892469/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

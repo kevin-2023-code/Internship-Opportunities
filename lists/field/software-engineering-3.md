@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**965 open roles.** 791 in the United States & Canada · 174 elsewhere in the world.
+**968 open roles.** 794 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cd70c0f-b692-4f06-9516-bd45cc43f3db">IT Compliance &amp; Cybersecurity Intern, Financial Service (Fall 2026/ Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437022706/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Arm</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af">Software Engineer Intern</a></td>
+<td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476868480/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BlockTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233">Software Engineer | Internship | Summer '27</a></td>
+<td>Singapore<br/>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460372878/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>European Space Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb595165-9247-4b1f-9ce3-7bd4f1a436e3">Intern in the Galileo and EGNOS Programme Department - System Engineering Section</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025">Software Development Engineer Intern, Amazon University Talent Acquisition</a></td>
@@ -1164,13 +1192,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Symphony Communication Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8">Intern, Software Developer</a></td>
-<td>Belfast</td>
-<td align="center"><a href="https://symphony.com/company/apply?gh_jid=8121112">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

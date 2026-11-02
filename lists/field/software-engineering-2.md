@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**965 open roles.** 791 in the United States & Canada · 174 elsewhere in the world.
+**968 open roles.** 794 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717351/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bombardier</strong></td>
+<td><a href="https://trueinterview.io/jobs/395cc063-41ea-47b3-9f02-724bc68dfa8c">Year-round Avionics Engineering Intern</a></td>
+<td>Wichita, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467408858/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Nuclear Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718247/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>National Laboratory of the Rockies</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0b74143-00d1-4274-9aa9-0ead6d742f6d">Post-Undergraduate Intern (Year-Round) - Separations Engineering</a></td>
@@ -2765,6 +2786,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763">DevOps Software Engineering Intern</a></td>
+<td>Gdańsk, Pomorskie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485735587/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Finbox</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839">Intern - Software Engineer</a></td>
 <td>India</td>
@@ -2798,34 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Basel, Switzerland</td>
 <td align="center"><a href="https://careers.roche.com/de/de/job/202610-127712">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shopee</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cd70c0f-b692-4f06-9516-bd45cc43f3db">IT Compliance &amp; Cybersecurity Intern, Financial Service (Fall 2026/ Spring 2027)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4437022706/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arm</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af">Software Engineer Intern</a></td>
-<td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476868480/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BlockTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233">Software Engineer | Internship | Summer '27</a></td>
-<td>Singapore<br/>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460372878/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>European Space Agency</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb595165-9247-4b1f-9ce3-7bd4f1a436e3">Intern in the Galileo and EGNOS Programme Department - System Engineering Section</a></td>
-<td>Toulouse, France</td>
-<td align="center"><a href="https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**285 open roles.** 230 in the United States & Canada · 55 elsewhere in the world.
+**287 open roles.** 233 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoboNex 88 Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineer Interns</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484333273/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>London Computer Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/e688e2ba-9a3b-4657-be67-f3fb5d7a79f5">Software Developer Co-op/Intern</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485738248/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plexus Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/49d95df4-9f67-42d5-8e96-c2a4b70fe34a">Intern - Software Engineer (Summer 2027)</a></td>
+<td>Neenah, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486401170/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Alaska Airlines</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a661aca-7d5e-4d7b-8e68-316acd90960d">Intern - Software Engineer (Summer 2027)</a></td>
@@ -2016,13 +2037,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Symphony Communication Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8">Intern, Software Developer</a></td>
-<td>Belfast</td>
-<td align="center"><a href="https://symphony.com/company/apply?gh_jid=8121112">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

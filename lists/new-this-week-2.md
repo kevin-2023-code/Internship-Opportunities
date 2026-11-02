@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,401 open roles.** 1,090 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
+**1,407 open roles.** 1,094 in the United States & Canada · 313 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/e11f6825-ed98-4027-b7ad-16af24b9fd81">Applications Engineering Internship</a></td>
+<td>Nashville, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485207511/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kiewit</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf06c0d0-0fc2-4fcc-abb2-e3f685a932c1">Design Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
+<td>Lone Tree, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467120693/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Regal Rexnord</strong></td>
+<td><a href="https://trueinterview.io/jobs/b35c8904-11d7-4287-acd1-9f0a224124f1">Engineering Co-Op</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456948504/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sargent &amp; Lundy</strong></td>
+<td><a href="https://trueinterview.io/jobs/b88e1578-eae6-4f27-ae4e-65ee4e209380">Mechanical Engineer Intern - Energy &amp; Industrial (Summer 2027)</a></td>
+<td>Englewood, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466892469/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Tampa Electric</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a0bdace-9ef1-46b5-b05d-94c1dcf81b0e">Spring 2027 Student Internship - Engineer (Big Bend)</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/eea8008f-5072-4607-9621-f6f94ec6bd30">Intern - Business Intelligence</a></td>
 <td>Newark, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484104427/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Regeneron</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a204635-3dec-4333-9e00-293b490079d8">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
-<td>Rensselaer, Indiana, United States<br/>Rensselaer, NY</td>
-<td align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/US_Only_University_Relations_Career/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bollinger Shipyards</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5fe3b1a-7cc3-447c-889a-48f728fbc686">Electrical Engineering Intern</a></td>
-<td>Lockport, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467746710/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Federal Home Loan Bank of Indianapolis (FHLBI)</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a490eff-3842-4384-b14e-0c486181c6c8">Network Engineer Intern</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541403/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gauss Management Research &amp; Engineering (GMRE Inc.)</strong></td>
-<td><a href="https://trueinterview.io/jobs/73c8e886-b3a2-4264-8910-0f623cced794">IT Specialist Intern (Tier 1)</a></td>
-<td>South Ogden, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484708213/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

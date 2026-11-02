@@ -25,6 +25,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Sedgwick</strong></td>
+<td><a href="https://trueinterview.io/jobs/526637c5-3223-49e8-b467-43fd95df059d">Data Analyst Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sedgwick.wd1.myworkdayjobs.com/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Internship List</strong></td>
 <td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
 <td>Toronto, Ontario, Canada<br/>Burnaby, British Columbia, Canada<br/>Oakville, Ontario, Canada</td>
@@ -226,13 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
 <td align="center"><a href="https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wealthsimple</strong></td>
-<td><a href="https://trueinterview.io/jobs/2708ad7d-bcc9-4418-8975-6377ef573e0a">Credit &amp; Fraud Analytics Intern (Winter 2027)</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -18,15 +18,15 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-02 16:05 UTC_
+_Last updated: 2026-11-02 17:04 UTC_
 
-**385 open internships** from **216 employers** · **311 posted in the last 7 days** · refreshed hourly
+**386 open internships** from **216 employers** · **313 posted in the last 7 days** · refreshed hourly
 
-### Browse 385 internships by field
+### Browse 386 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (174)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (98)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (99)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (41)
 
@@ -50,13 +50,13 @@ _Last updated: 2026-11-02 16:05 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (70)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (33)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (21)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (14)](lists/company/enterprise-saas.md) · [📈 Quant trading & hedge funds (10)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (9)](lists/company/autonomy-mobility.md) · [🏤 Mid-sized tech (200–999) (9)](lists/company/mid-size-tech.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [📱 Consumer internet & media (8)](lists/company/consumer-internet.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [+10 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (72)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (35)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (21)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (13)](lists/company/enterprise-saas.md) · [📈 Quant trading & hedge funds (10)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (9)](lists/company/autonomy-mobility.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [📱 Consumer internet & media (8)](lists/company/consumer-internet.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [🏗️ Large tech (1,000–9,999) (8)](lists/company/large-tech.md) · [+10 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (55)](lists/role/software-engineer.md) · [AI Engineer (27)](lists/role/ai-engineer.md) · [Data Analyst (26)](lists/role/data-analyst.md) · [Product Manager (25)](lists/role/product-manager.md) · [Machine Learning Engineer (20)](lists/role/machine-learning-engineer.md) · [Data Scientist (11)](lists/role/data-scientist.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Embedded Engineer (6)](lists/role/embedded-engineer.md) · [Research Scientist (6)](lists/role/research-scientist.md) · [Data Engineer (5)](lists/role/data-engineer.md) · [+8 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (54)](lists/role/software-engineer.md) · [AI Engineer (27)](lists/role/ai-engineer.md) · [Data Analyst (26)](lists/role/data-analyst.md) · [Product Manager (25)](lists/role/product-manager.md) · [Machine Learning Engineer (21)](lists/role/machine-learning-engineer.md) · [Data Scientist (11)](lists/role/data-scientist.md) · [Quantitative Researcher (7)](lists/role/quantitative-researcher.md) · [Embedded Engineer (6)](lists/role/embedded-engineer.md) · [Research Scientist (6)](lists/role/research-scientist.md) · [Data Engineer (5)](lists/role/data-engineer.md) · [+8 more →](lists/README.md)
 
 📍 **By location** — [🇸🇬 Singapore (85)](lists/place/singapore.md) · [🇬🇧 London & the UK (29)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (23)](lists/place/greater-china.md) · [🇫🇷 Paris & France (18)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (18)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (13)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (13)](lists/place/ireland.md) · [🇩🇪 Berlin, Munich & Germany (10)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (9)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (7)](lists/place/anz.md) · [+3 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (311)](lists/new-this-week.md) · [🌐 Remote (10)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (313)](lists/new-this-week.md) · [🌐 Remote (10)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -79,6 +79,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763">DevOps Software Engineering Intern</a> 🆕</td>
+<td>Gdańsk, Pomorskie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485735587/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Finbox</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839">Intern - Software Engineer</a> 🆕</td>
@@ -189,14 +196,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/122aaeda-5980-465b-9af8-c7739fa10e4a">Software Developer Intern</a> 🆕</td>
 <td>Newton Aycliffe, United Kingdom</td>
 <td align="center"><a href="https://uk.indeed.com/viewjob?jk=a1c47e957131029c">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/6200aa9b-201d-4787-b28f-48070aea4f69">Technical Internship - Apple Wallet, Payments &amp; Commerce</a> 🆕</td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692619">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Kanadevia Inova</strong></td>
@@ -247,18 +254,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475462000/">Apply</a></td>
 <td align="center">3d</td>
 </tr>
-<tr>
-<td><strong>General Motors (GM)</strong></td>
-<td><a href="https://trueinterview.io/jobs/a59799ae-20ae-4cdd-a2b7-12e86b6d33ef">Java Software Engineer Intern</a> 🆕</td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1">Apply</a></td>
-<td align="center">3d</td>
-</tr>
 </tbody>
 </table>
 
 <details>
-<summary>Show 16 more Software Engineering roles posted earlier</summary>
+<summary>Show 15 more Software Engineering roles posted earlier</summary>
 
 <table>
 <thead>
@@ -370,19 +370,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-<tr>
-<td><strong>Symphony Communication Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8">Intern, Software Developer</a></td>
-<td>Belfast</td>
-<td align="center"><a href="https://symphony.com/company/apply?gh_jid=8121112">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 41 of 174.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 40 of 174.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -394,17 +387,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a> 🆕</td>
+<td>Strasbourg, Grand Est, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a> 🆕</td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a> 🆕</td>
+<td>Barcelona, Catalonia, Spain</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a> 🆕</td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a> 🆕</td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -561,13 +561,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://addepto.com/ai-engineering-intern/">Apply</a></td>
 <td align="center">3d</td>
 </tr>
-<tr>
-<td><strong>Anaxee Digital Runners Pvt Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/29ee2006-5dce-43c2-a494-4acd71a0debc">Data Analyst Intern || Oct 2026</a> 🆕</td>
-<td>India</td>
-<td align="center"><a href="https://anaxee.careers-page.com/jobs/3fa36d27-75af-44be-b1b4-370ea4b25643">Apply</a></td>
-<td align="center">3d</td>
-</tr>
 </tbody>
 </table>
 
@@ -626,7 +619,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 31 of 98.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 31 of 99.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -995,10 +988,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>LionsBot International</strong></td>
-<td><a href="https://trueinterview.io/jobs/771f5576-38aa-4cce-89d6-8083261a6495">Product Insight Loop — Fleet Data, Field Research and UX (Internship)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/771f5576-38aa-4cce-89d6-8083261a6495">Product Insight Loop — Fleet Data, Field Research and UX (Internship)</a></td>
 <td>Punggol, North East Community Development Council, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459168399/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>TP Vision</strong></td>

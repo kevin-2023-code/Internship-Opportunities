@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**565 open roles.** 495 in the United States & Canada · 70 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**567 open roles.** 495 in the United States & Canada · 72 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -693,7 +693,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
+<td>Strasbourg, Grand Est, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763">DevOps Software Engineering Intern</a></td>
+<td>Gdańsk, Pomorskie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485735587/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
+<td>Barcelona, Catalonia, Spain</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
@@ -704,13 +725,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d710b258-9bb5-4ae5-80b4-506439b93629">Business Program Manager MBA Intern, 2027</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477508989/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

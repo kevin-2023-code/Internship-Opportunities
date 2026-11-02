@@ -5,9 +5,189 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T16:05:20.141Z",
-  "count": 2309,
+  "listingsChangedAt": "2026-11-02T17:04:16.590Z",
+  "count": 2313,
   "listings": [
+    {
+      "id": "01df0df7-4485-4707-9ae6-861aa6178c79",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France",
+      "locations": [
+        "Strasbourg, Grand Est, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485743554/",
+      "url": "https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79",
+      "postedAt": "2026-11-02T16:34:00.000Z",
+      "updatedAt": "2026-11-02T16:34:00.000Z"
+    },
+    {
+      "id": "613806e9-dcc5-46f0-87ee-a443432ca763",
+      "company": "Intel",
+      "title": "DevOps Software Engineering Intern",
+      "locations": [
+        "Gdańsk, Pomorskie, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485735587/",
+      "url": "https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763",
+      "postedAt": "2026-11-02T16:30:00.000Z",
+      "updatedAt": "2026-11-02T16:30:00.000Z"
+    },
+    {
+      "id": "4c0cc9ee-f01e-410c-adca-4fe0b27035c8",
+      "company": "RoboNex 88 Technologies",
+      "title": "Software Engineer Interns",
+      "locations": [
+        "New York, NY",
+        "New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484333273/",
+      "url": "https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8",
+      "postedAt": "2026-11-02T10:18:00.000Z",
+      "updatedAt": "2026-11-02T16:18:00.000Z"
+    },
+    {
+      "id": "e688e2ba-9a3b-4657-be67-f3fb5d7a79f5",
+      "company": "London Computer Systems",
+      "title": "Software Developer Co-op/Intern",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485738248/",
+      "url": "https://trueinterview.io/jobs/e688e2ba-9a3b-4657-be67-f3fb5d7a79f5",
+      "postedAt": "2026-11-02T16:10:00.000Z",
+      "updatedAt": "2026-11-02T16:10:00.000Z"
+    },
+    {
+      "id": "49d95df4-9f67-42d5-8e96-c2a4b70fe34a",
+      "company": "Plexus Corp.",
+      "title": "Intern - Software Engineer (Summer 2027)",
+      "locations": [
+        "Neenah, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486401170/",
+      "url": "https://trueinterview.io/jobs/49d95df4-9f67-42d5-8e96-c2a4b70fe34a",
+      "postedAt": "2026-11-02T16:09:00.000Z",
+      "updatedAt": "2026-11-02T16:09:00.000Z"
+    },
+    {
+      "id": "3e4d74e1-c30f-42ba-abb6-6326d957e107",
+      "company": "Apple",
+      "title": "Internship - Machine Learning Research (recurrent models | generative models | interpretability)",
+      "locations": [
+        "Barcelona, Catalonia, Spain"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200692642",
+      "url": "https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107",
+      "postedAt": "2026-11-02T10:17:42.000Z",
+      "updatedAt": "2026-11-02T16:03:00.000Z"
+    },
+    {
+      "id": "d8167563-d684-4548-9384-94012d4c333d",
+      "company": "Elevated Web Design",
+      "title": "Application Software Engineering Internship",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486400023/",
+      "url": "https://trueinterview.io/jobs/d8167563-d684-4548-9384-94012d4c333d",
+      "postedAt": "2026-11-02T15:39:00.000Z",
+      "updatedAt": "2026-11-02T15:39:00.000Z"
+    },
     {
       "id": "1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19",
       "company": "Bank of America",
@@ -394,60 +574,6 @@
       "url": "https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774",
       "postedAt": "2026-11-02T11:05:00.000Z",
       "updatedAt": "2026-11-02T11:05:00.000Z"
-    },
-    {
-      "id": "4c0cc9ee-f01e-410c-adca-4fe0b27035c8",
-      "company": "RoboNex 88 Technologies",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484333273/",
-      "url": "https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8",
-      "postedAt": "2026-11-02T10:18:00.000Z",
-      "updatedAt": "2026-11-02T10:18:00.000Z"
-    },
-    {
-      "id": "3e4d74e1-c30f-42ba-abb6-6326d957e107",
-      "company": "Apple",
-      "title": "Internship - Machine Learning Research (recurrent models | generative models | interpretability)",
-      "locations": [
-        "Barcelona, Catalonia, Spain"
-      ],
-      "cities": [
-        "Barcelona"
-      ],
-      "countries": [
-        "Spain"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.apple.com/en-us/details/200692642",
-      "url": "https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107",
-      "postedAt": "2026-11-02T10:17:42.000Z",
-      "updatedAt": "2026-11-02T10:17:42.000Z"
     },
     {
       "id": "6898ab6e-8813-4b32-879f-9128d14cd3ca",
@@ -901,6 +1027,32 @@
       "source": "career-sites",
       "applyUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140",
       "url": "https://trueinterview.io/jobs/727f70e8-9c0e-4e2d-878a-7452e53fa4a7",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "526637c5-3223-49e8-b467-43fd95df059d",
+      "company": "Sedgwick",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Massachusetts, United States",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://sedgwick.wd1.myworkdayjobs.com/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691",
+      "url": "https://trueinterview.io/jobs/526637c5-3223-49e8-b467-43fd95df059d",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -59924,56 +60076,6 @@
       "url": "https://trueinterview.io/jobs/a3d41a96-23d8-4830-b72e-be0a9bea6993",
       "postedAt": "2026-09-03T19:19:21.000Z",
       "updatedAt": "2026-09-03T19:19:21.000Z"
-    },
-    {
-      "id": "10bee8a2-c18e-426c-94b0-e09bcde0e9b8",
-      "company": "Symphony Communication Services",
-      "title": "Intern, Software Developer",
-      "locations": [
-        "Belfast"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://symphony.com/company/apply?gh_jid=8121112",
-      "url": "https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8",
-      "postedAt": "2026-09-03T16:13:31.000Z",
-      "updatedAt": "2026-09-03T16:13:31.000Z"
-    },
-    {
-      "id": "2708ad7d-bcc9-4418-8975-6377ef573e0a",
-      "company": "Wealthsimple",
-      "title": "Credit & Fraud Analytics Intern (Winter 2027)",
-      "locations": [
-        "Toronto, Ontario"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application",
-      "url": "https://trueinterview.io/jobs/2708ad7d-bcc9-4418-8975-6377ef573e0a",
-      "postedAt": "2026-09-03T16:08:04.000Z",
-      "updatedAt": "2026-09-03T16:08:04.000Z"
     }
   ]
 }

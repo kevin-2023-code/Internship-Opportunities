@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**69 open roles.** 55 in the United States & Canada · 14 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**68 open roles.** 55 in the United States & Canada · 13 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -504,13 +504,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Redwood City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Symphony Communication Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8">Intern, Software Developer</a></td>
-<td>Belfast</td>
-<td align="center"><a href="https://symphony.com/company/apply?gh_jid=8121112">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -1137,16 +1137,16 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
+<td>Barcelona, Catalonia, Spain</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

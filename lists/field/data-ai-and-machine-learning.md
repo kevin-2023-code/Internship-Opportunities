@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**392 open roles.** 294 in the United States & Canada · 98 elsewhere in the world.
+**393 open roles.** 294 in the United States & Canada · 99 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/727f70e8-9c0e-4e2d-878a-7452e53fa4a7">Data Science Intern – Richmond, VA (Summer 2027)</a></td>
 <td>Richmond, Virginia, United States</td>
 <td align="center"><a href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sedgwick</strong></td>
+<td><a href="https://trueinterview.io/jobs/526637c5-3223-49e8-b467-43fd95df059d">Data Analyst Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sedgwick.wd1.myworkdayjobs.com/Sedgwick/job/Telecommuter-MA/Data-Analyst-Intern_R79691">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2068,13 +2075,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4396622009">Apply</a></td>
 <td align="center">4 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Wealthsimple</strong></td>
-<td><a href="https://trueinterview.io/jobs/2708ad7d-bcc9-4418-8975-6377ef573e0a">Credit &amp; Fraud Analytics Intern (Winter 2027)</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28/application">Apply</a></td>
-<td align="center">3 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2088,17 +2088,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
+<td>Strasbourg, Grand Est, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
+<td>Barcelona, Catalonia, Spain</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
-<td>Barcelona, Catalonia, Spain</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

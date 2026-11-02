@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**36 open roles.** 27 in the United States & Canada · 9 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**35 open roles.** 27 in the United States & Canada · 8 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -273,13 +273,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>St. Louis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Symphony Communication Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/10bee8a2-c18e-426c-94b0-e09bcde0e9b8">Intern, Software Developer</a></td>
-<td>Belfast</td>
-<td align="center"><a href="https://symphony.com/company/apply?gh_jid=8121112">Apply</a></td>
-<td align="center">3 Sep 2026</td>
 </tr>
 </tbody>
 </table>

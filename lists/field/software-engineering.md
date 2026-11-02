@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**965 open roles.** 791 in the United States & Canada · 174 elsewhere in the world.
+**968 open roles.** 794 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoboNex 88 Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineer Interns</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484333273/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>London Computer Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/e688e2ba-9a3b-4657-be67-f3fb5d7a79f5">Software Developer Co-op/Intern</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485738248/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plexus Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/49d95df4-9f67-42d5-8e96-c2a4b70fe34a">Intern - Software Engineer (Summer 2027)</a></td>
+<td>Neenah, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486401170/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Elevated Web Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8167563-d684-4548-9384-94012d4c333d">Application Software Engineering Internship</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486400023/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19">Global Technology Summer Analyst 2027 - Cybersecurity Analyst</a></td>
@@ -66,13 +94,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774">Summer 2027 Software Engineering Intern</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450737699/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RoboNex 88 Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484333273/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c8d95cce-eeee-48ac-9b64-f8149b79e369">Engineering Intern</a></td>
 <td>South Sioux City, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466569328/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dassault Systèmes</strong></td>
-<td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717351/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bombardier</strong></td>
-<td><a href="https://trueinterview.io/jobs/395cc063-41ea-47b3-9f02-724bc68dfa8c">Year-round Avionics Engineering Intern</a></td>
-<td>Wichita, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467408858/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718247/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,401 open roles.** 1,090 in the United States & Canada · 311 elsewhere in the world. Everything the employers put up this week.
+**1,407 open roles.** 1,094 in the United States & Canada · 313 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,7 +18,49 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>RIVR</strong></td>
+<td><a href="https://trueinterview.io/jobs/74822e79-b696-49ce-ac01-d92c0a17b827">Robotics Wireless &amp; Network Engineer Intern, RIVR</a></td>
+<td>Zurich, Zurich, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223442/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baker Hughes</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8517dc7-76f0-4d3f-9bb6-af4ef4037938">Intern - Software Engineering - 2027</a></td>
+<td>Cramlington, England, United Kingdom<br/>Cramlington, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485236928/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cadence</strong></td>
+<td><a href="https://trueinterview.io/jobs/04185783-f1ac-4632-abc5-fb329f2d480d">AI Intern - Technical Communications (System Design Analysis Group)</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467508571/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/22230259-1272-4c54-8873-ae13e81a70da">Software Engineer (SkillBridge Intern) - 23875</a></td>
+<td>Greater Roanoke Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4440203691/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6005c00-7179-4812-8ba1-e1ada4780cee">Firmware Application Engineer (RDSS Intern)</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467119641/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7bb12426-8d55-4d00-a014-e1677210fb34">ASIC Engineering Intern, Networking Chip Design - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457649630/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/98712caf-c27b-4657-8290-ab4c3ea68eae">Physical Design Engineer (RDSS Intern)</a></td>
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466588639/">Apply</a></td>
