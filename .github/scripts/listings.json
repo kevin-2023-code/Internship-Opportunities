@@ -5,9 +5,134 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T05:04:43.746Z",
-  "count": 2372,
+  "listingsChangedAt": "2026-11-03T06:07:38.838Z",
+  "count": 2380,
   "listings": [
+    {
+      "id": "94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795",
+      "company": "Constellation Brands",
+      "title": "Intern, Full Stack Engineer",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486808162/",
+      "url": "https://trueinterview.io/jobs/94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795",
+      "postedAt": "2026-11-03T03:12:00.000Z",
+      "updatedAt": "2026-11-03T05:16:00.000Z"
+    },
+    {
+      "id": "77a5eed2-ca46-4456-aaa0-4ae4a0446f93",
+      "company": "Peterbilt Motors Company",
+      "title": "2027 Summer Internship: Software Developer",
+      "locations": [
+        "Denton, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486811228/",
+      "url": "https://trueinterview.io/jobs/77a5eed2-ca46-4456-aaa0-4ae4a0446f93",
+      "postedAt": "2026-11-03T05:12:00.000Z",
+      "updatedAt": "2026-11-03T05:12:00.000Z"
+    },
+    {
+      "id": "8d6d1918-c586-4e36-a985-0a051a43f820",
+      "company": "GlobalFoundries",
+      "title": "Design Verification Engineer Intern (Summer 2027)",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486009751/",
+      "url": "https://trueinterview.io/jobs/8d6d1918-c586-4e36-a985-0a051a43f820",
+      "postedAt": "2026-11-03T05:11:00.000Z",
+      "updatedAt": "2026-11-03T05:11:00.000Z"
+    },
+    {
+      "id": "697f8cc8-69d7-4fc0-9af0-a2ae07c5c6da",
+      "company": "GlobalFoundries",
+      "title": "PDK Design Engineering Intern, Silicon Photonics (Summer 2027)",
+      "locations": [
+        "Malta, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486025170/",
+      "url": "https://trueinterview.io/jobs/697f8cc8-69d7-4fc0-9af0-a2ae07c5c6da",
+      "postedAt": "2026-11-03T05:11:00.000Z",
+      "updatedAt": "2026-11-03T05:11:00.000Z"
+    },
+    {
+      "id": "9bf0b95b-4818-4a1a-bede-4f2dd6140654",
+      "company": "Peterbilt Motors Company",
+      "title": "2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform",
+      "locations": [
+        "Denton, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486499737/",
+      "url": "https://trueinterview.io/jobs/9bf0b95b-4818-4a1a-bede-4f2dd6140654",
+      "postedAt": "2026-11-03T04:33:00.000Z",
+      "updatedAt": "2026-11-03T04:33:00.000Z"
+    },
     {
       "id": "e17b3804-98ba-44ca-ae93-5e751e0d9ff1",
       "company": "onepot",
@@ -32,31 +157,6 @@
       "url": "https://trueinterview.io/jobs/e17b3804-98ba-44ca-ae93-5e751e0d9ff1",
       "postedAt": "2026-11-03T03:25:00.000Z",
       "updatedAt": "2026-11-03T03:25:00.000Z"
-    },
-    {
-      "id": "94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795",
-      "company": "Constellation Brands",
-      "title": "Intern, Full Stack Engineer",
-      "locations": [
-        "Rochester, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486808162/",
-      "url": "https://trueinterview.io/jobs/94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795",
-      "postedAt": "2026-11-03T03:12:00.000Z",
-      "updatedAt": "2026-11-03T03:12:00.000Z"
     },
     {
       "id": "02873853-e9da-490b-b647-c11b1a005c02",
@@ -522,6 +622,31 @@
       "url": "https://trueinterview.io/jobs/5568d237-c106-446b-b4b2-4523ca90903a",
       "postedAt": "2026-11-03T00:03:00.000Z",
       "updatedAt": "2026-11-03T00:03:00.000Z"
+    },
+    {
+      "id": "bc3b5ee8-6cba-4ddb-b197-fbff77c0a9a2",
+      "company": "PACCAR",
+      "title": "2027 Summer Internship: Software Developer",
+      "locations": [
+        "Denton, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/",
+      "url": "https://trueinterview.io/jobs/bc3b5ee8-6cba-4ddb-b197-fbff77c0a9a2",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T00:00:00.000Z"
     },
     {
       "id": "13f8f537-f34d-4541-a075-6c1cc6640d70",
@@ -2660,6 +2785,59 @@
       "updatedAt": "2026-11-02T06:11:00.000Z"
     },
     {
+      "id": "305782cc-b528-49a4-bac4-e6a0f6d58284",
+      "company": "Alaska Airlines",
+      "title": "Engineering Co-op (Summer 2027)",
+      "locations": [
+        "SeaTac, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://corporatejobs-alaskaair.icims.com/jobs/21283/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/305782cc-b528-49a4-bac4-e6a0f6d58284",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "615b795d-c10f-4e49-a4b2-e94b6b52a083",
+      "company": "Draper",
+      "title": "Digital Engineering – Requirements Engineering Co-Op (Spring 2027)",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944",
+      "url": "https://trueinterview.io/jobs/615b795d-c10f-4e49-a4b2-e94b6b52a083",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "d4cfd770-2024-4b51-bb7c-d7df00ef80e6",
       "company": "Enpal",
       "title": "Process Automation Engineer - Internship (f/m/d)",
@@ -2812,6 +2990,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC",
       "url": "https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "7e90744a-3524-4746-a05d-643bc8ac6ae1",
+      "company": "Vertex Pharmaceuticals",
+      "title": "Data, Technology and Engineering Industrial Placement Student (12 months)",
+      "locations": [
+        "Paddington, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Paddington-United-Kingdom/Data--Technology-and-Engineering-Industrial-Placement-Student--12-months-_REQ-30541",
+      "url": "https://trueinterview.io/jobs/7e90744a-3524-4746-a05d-643bc8ac6ae1",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -3205,31 +3408,6 @@
       "source": "career-sites",
       "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
       "url": "https://trueinterview.io/jobs/be5ebe88-995c-4f4a-9706-7a68996ca81c",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "updatedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "c58b4e6f-e8aa-4516-b60a-4394cee8d0c7",
-      "company": "Leidos",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Arlington, Virginia, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
-      "url": "https://trueinterview.io/jobs/c58b4e6f-e8aa-4516-b60a-4394cee8d0c7",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -60425,6 +60603,33 @@
       "url": "https://trueinterview.io/jobs/2a7e951f-072a-45e2-b42c-97d6354f4082",
       "postedAt": "2026-09-08T14:07:37.000Z",
       "updatedAt": "2026-09-08T14:07:37.000Z"
+    },
+    {
+      "id": "5b82d99f-03c2-4b59-bc13-bca5fb8479e2",
+      "company": "Amazon.com",
+      "title": "Data Center Infrastructure Engineer Internship 2027",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.amazon.jobs/jobs/10532883/data-center-infrastructure-engineer-internship-?cmpid=DA_INAD200785B",
+      "url": "https://trueinterview.io/jobs/5b82d99f-03c2-4b59-bc13-bca5fb8479e2",
+      "postedAt": "2026-09-08T05:00:00.000Z",
+      "updatedAt": "2026-09-08T05:00:00.000Z"
     },
     {
       "id": "5ca6474e-22a1-49cc-9bc6-6e864b18afd7",

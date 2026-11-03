@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**655 open roles.** 614 in the United States & Canada · 41 elsewhere in the world.
+**656 open roles.** 615 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Woolpert</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8cd32f0-cd7f-4b90-adb0-8b89f681bb04">Aviation Civil Internship - Utah (Summer 2027)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4428513009">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/45f2420a-0118-4673-9b97-bfb0fb56eb74">Water Resource Internship (Summer 2027)</a></td>
 <td>Columbia, SC<br/>Greenville, SC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4426091009">Apply</a></td>

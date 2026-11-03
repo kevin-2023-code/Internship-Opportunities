@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,459 open roles.** 1,145 in the United States & Canada · 314 elsewhere in the world. Everything the employers put up this week.
+**1,466 open roles.** 1,151 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,49 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Teledyne Qioptiq</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d2c0592-7bc2-452e-9a7d-4fe3de91d9bc">Manufacturing Engineering Intern</a></td>
+<td>Miamisburg, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482210887/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>V2X Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c383f66-ddcf-4e8f-89f8-9b80985938c9">Project Engineering Intern - College Career Fair</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461357438/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loft Orbital</strong></td>
+<td><a href="https://trueinterview.io/jobs/96f05c60-c052-4ea1-a6d7-bc8bd8f3748c">Summer 2027 Internship – Test Engineering</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483097563/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a56b46e-08d0-4198-a7a2-dc3aa049f741">Compiler Software Engineering Intern - Summer 2027</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Join Our Talent Community</strong></td>
+<td><a href="https://trueinterview.io/jobs/d44cbac7-979c-4a8a-af56-8aac501c17b0">2027 US Software Engineering Internship (Dedrone)</a></td>
+<td>Seattle, Washington, United States<br/>Sterling, Virginia, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e32da889-0e91-4cfe-bfc4-52efd8f854f3">AI Systems Software Engineering Intern – Summer 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7245404f-fa71-4a6b-b607-0ad9bb64be96">VLSI CAD Timing Intern, Applied AI - Summer 2027</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484807119/">Apply</a></td>
@@ -2771,48 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/4fe73be5-ace6-487d-8e8b-ed0b53d1452e">Student Intern Summer 2027 - Structural Engineering</a></td>
 <td>Sacramento, CA<br/>Irvine, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484738446/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bombardier</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8e05d8c-a8b2-432b-8342-371a77f4391e">Year-round Flight Sciences Engineering Intern</a></td>
-<td>Wichita, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466563478/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Modern Woodmen of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2bc5374-9a74-4796-9b78-7cb90cde1f12">Data Analyst Intern</a></td>
-<td>Rock Island, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484731371/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AeroMatrix 12</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c9b92ed-cb36-4b72-9fe4-13799983d533">Test Engineer Intern, [Remote]</a></td>
-<td>Mississippi, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541919/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts (EA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8402c5e-25c1-417d-89e3-176a84f4d92a">Product Management Intern, Fan Care Community Care - Summer 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474412134/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Navigant Credit Union</strong></td>
-<td><a href="https://trueinterview.io/jobs/a677528a-c79f-46b7-a062-98df01689ab5">Intern - IT Service Desk</a></td>
-<td>Smithfield, RI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720806/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parallel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1c2cb89-c40d-40d0-8d65-3e72b9d524c5">Product Management Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483750218/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

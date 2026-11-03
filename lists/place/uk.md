@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**36 open roles.** 7 in the United States & Canada · 29 elsewhere in the world.
+**37 open roles.** 7 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -268,7 +268,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b82d99f-03c2-4b59-bc13-bca5fb8479e2">Data Center Infrastructure Engineer Internship 2027</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10532883/data-center-infrastructure-engineer-internship-?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/8bb61b40-ac2f-4b12-9c7f-840c77a405d2">2027 Risk Analyst (DMFI) Intern</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172053">Apply</a></td>
