@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,468 open roles.** 1,153 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
+**1,473 open roles.** 1,157 in the United States & Canada · 316 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>STMicroelectronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcb780e7-1c5e-4fb8-bb74-9aabf6ff4a13">Embedded Software Sensor Algorithm Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273616/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/97060d88-5f1e-413a-bede-2f1711bd862b">UX Designer Intern – Summer 2027</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485271449/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/20f1283c-443e-492f-b893-fbf8ab904efc">UX Researcher Intern – Summer 2027</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485280227/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loft Orbital</strong></td>
+<td><a href="https://trueinterview.io/jobs/97cc1a42-3ac8-4538-823f-97a0be6f3138">Summer 2027 Internship – Mechanical Engineering</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400510/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mission Technologies, a division of HII</strong></td>
 <td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/7a6597bf-840f-4b98-9bb6-3fb355c330f7">RRFIC Design Engineering Intern</a></td>
 <td>Greensboro, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484723996/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LinkedIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/7241db6a-a1ac-4032-8668-283ce58b60d9">Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA)</a></td>
-<td>Mountain View, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000158394370-software-engineer-intern-first-play-summer-2027-mountain-view-ca-">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AeroNex Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/3504ec56-cc14-4424-a908-054d096261c3">Vehicle Integration and Test Engineer Intern, Remote</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738176/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d34364ee-5313-439b-b1dd-4c3329be62f6">Design Engineering Intern</a></td>
-<td>Apopka, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484733731/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ascendria Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b32f813-4de0-4bdb-8f38-79c10668fbb7">Vehicle Integration and Test Engineer Intern | (Remote)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482567152/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
