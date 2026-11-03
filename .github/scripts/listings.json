@@ -5,9 +5,170 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-02T23:04:39.539Z",
-  "count": 2343,
+  "listingsChangedAt": "2026-11-03T00:11:25.175Z",
+  "count": 2337,
   "listings": [
+    {
+      "id": "ed2c0253-d194-410d-b971-d1c273a1d546",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - Central Engineering UX/UI Designer",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486469572/",
+      "url": "https://trueinterview.io/jobs/ed2c0253-d194-410d-b971-d1c273a1d546",
+      "postedAt": "2026-11-02T23:47:00.000Z",
+      "updatedAt": "2026-11-02T23:47:00.000Z"
+    },
+    {
+      "id": "cc60b00a-cba9-43aa-824a-d6b362f512ab",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - IT Product Owner - Costco Travel",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486479156/",
+      "url": "https://trueinterview.io/jobs/cc60b00a-cba9-43aa-824a-d6b362f512ab",
+      "postedAt": "2026-11-02T23:47:00.000Z",
+      "updatedAt": "2026-11-02T23:47:00.000Z"
+    },
+    {
+      "id": "76fe09ef-c411-40eb-ad0b-ed7d1f2336bc",
+      "company": "T-Mobile",
+      "title": "Summer 2027 Product Operations Manager Internship",
+      "locations": [
+        "Bellevue, WA"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486472297/",
+      "url": "https://trueinterview.io/jobs/76fe09ef-c411-40eb-ad0b-ed7d1f2336bc",
+      "postedAt": "2026-11-02T23:41:00.000Z",
+      "updatedAt": "2026-11-02T23:41:00.000Z"
+    },
+    {
+      "id": "5b217327-7793-4a97-9050-76fcad0e1a73",
+      "company": "Costco IT",
+      "title": "CDS Intern - IT Product Owner - Costco Travel",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486476177/",
+      "url": "https://trueinterview.io/jobs/5b217327-7793-4a97-9050-76fcad0e1a73",
+      "postedAt": "2026-11-02T23:33:00.000Z",
+      "updatedAt": "2026-11-02T23:33:00.000Z"
+    },
+    {
+      "id": "380a6139-2f3b-42cd-a55f-feee43da6869",
+      "company": "Costco IT",
+      "title": "CDS Intern - Central Engineering UX/UI Designer",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486462761/",
+      "url": "https://trueinterview.io/jobs/380a6139-2f3b-42cd-a55f-feee43da6869",
+      "postedAt": "2026-11-02T23:31:00.000Z",
+      "updatedAt": "2026-11-02T23:31:00.000Z"
+    },
+    {
+      "id": "59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "locations": [
+        "Southern Pines, North Carolina, United States",
+        "Southern Pines, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230",
+      "url": "https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T22:43:00.000Z"
+    },
     {
       "id": "1616fa04-3fed-4f2d-96fd-a1b2d46adc53",
       "company": "Varda Space Industries",
@@ -32,6 +193,31 @@
       "url": "https://trueinterview.io/jobs/1616fa04-3fed-4f2d-96fd-a1b2d46adc53",
       "postedAt": "2026-11-02T21:15:00.000Z",
       "updatedAt": "2026-11-02T21:15:00.000Z"
+    },
+    {
+      "id": "5e690104-a12f-45d5-8479-f0167924ad3d",
+      "company": "Divergent",
+      "title": "Summer 2027 Production Business Intelligence Intern",
+      "locations": [
+        "Torrance, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/divergent/jobs/5393537008",
+      "url": "https://trueinterview.io/jobs/5e690104-a12f-45d5-8479-f0167924ad3d",
+      "postedAt": "2026-11-02T20:54:23.000Z",
+      "updatedAt": "2026-11-02T20:54:23.000Z"
     },
     {
       "id": "ce44caac-7cce-47a2-8322-56c051e016be",
@@ -2016,6 +2202,78 @@
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
+      "id": "c58b4e6f-e8aa-4516-b60a-4394cee8d0c7",
+      "company": "Leidos",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Arlington, Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980",
+      "url": "https://trueinterview.io/jobs/c58b4e6f-e8aa-4516-b60a-4394cee8d0c7",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "acaed8fa-ac47-454b-8408-d5c9eae20db2",
+      "company": "Motorola Solutions",
+      "title": "Software Engineer Cybersecurity Services - 2027 Summer Internship",
+      "locations": [
+        "Washington, District of Columbia, United States",
+        "Plantation, Florida, United States",
+        "Chicago, Illinois, United States",
+        "Schaumburg, Illinois, United States",
+        "Salt Lake City, Utah, United States",
+        "Ashburn, Virginia, United States",
+        "Alabama, United States",
+        "Arkansas, United States",
+        "Connecticut, United States",
+        "Delaware, United States",
+        "Florida, United States",
+        "Georgia, United States",
+        "Illinois, United States",
+        "Indiana, United States",
+        "Iowa, United States",
+        "Kansas, United States",
+        "Kentucky, United States",
+        "Louisiana, United States",
+        "Maine, United States",
+        "Maryland, United States"
+      ],
+      "cities": [
+        "Washington, DC",
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
+      "url": "https://trueinterview.io/jobs/acaed8fa-ac47-454b-8408-d5c9eae20db2",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "a721cbf3-8231-4925-842d-da2e79d830d4",
       "company": "PACCAR",
       "title": "2027 Summer Internship: Sales Administration Data Analyst - Greenhouse Gas",
@@ -2113,31 +2371,6 @@
       "source": "career-sites",
       "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257",
       "url": "https://trueinterview.io/jobs/f0cdc428-77f4-4454-8621-d8d3c6a85f45",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "updatedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
-      "company": "Sierra Nevada Corporation",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "locations": [
-        "Southern Pines, North Carolina, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230",
-      "url": "https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -43609,6 +43842,31 @@
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
     {
+      "id": "373c408c-dc1f-44f2-a129-3dd8b11323a5",
+      "company": "Nokia",
+      "title": "Optoelectronics Test Development Coop",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124",
+      "url": "https://trueinterview.io/jobs/373c408c-dc1f-44f2-a129-3dd8b11323a5",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
       "id": "d8dd81e5-e769-4b17-95af-fcfef291adb9",
       "company": "Nokia",
       "title": "Optoelectronics Test Mech Development Intern",
@@ -43630,6 +43888,56 @@
       "source": "bigtech-careers",
       "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41181",
       "url": "https://trueinterview.io/jobs/d8dd81e5-e769-4b17-95af-fcfef291adb9",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "899d5d0e-2d36-4cd3-b656-5f8f31bf9e64",
+      "company": "Nokia",
+      "title": "Photonic Test Coop",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41182",
+      "url": "https://trueinterview.io/jobs/899d5d0e-2d36-4cd3-b656-5f8f31bf9e64",
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "updatedAt": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "id": "06d7eeec-6ef3-4550-a72c-46f95af3a320",
+      "company": "Nokia",
+      "title": "PIC Process Integration Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41123",
+      "url": "https://trueinterview.io/jobs/06d7eeec-6ef3-4550-a72c-46f95af3a320",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
@@ -60381,477 +60689,6 @@
       "url": "https://trueinterview.io/jobs/c79820a9-9fdd-49dd-970f-14b90232fbef",
       "postedAt": "2026-09-04T15:43:38.000Z",
       "updatedAt": "2026-09-04T15:43:38.000Z"
-    },
-    {
-      "id": "156bb9f6-9e41-476a-8330-8ca65f6eba9c",
-      "company": "Amazon",
-      "title": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
-      "locations": [
-        "North Reading, Massachusetts, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-co-op-robotics-2027",
-      "url": "https://trueinterview.io/jobs/156bb9f6-9e41-476a-8330-8ca65f6eba9c",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "7f73c51c-346b-459d-b17c-a6de6cb6f343",
-      "company": "Applied Materials",
-      "title": "Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, CA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318081773",
-      "url": "https://trueinterview.io/jobs/7f73c51c-346b-459d-b17c-a6de6cb6f343",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "3b08f413-a6b9-42f7-9041-946f83db0711",
-      "company": "Applied Materials",
-      "title": "Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX)",
-      "locations": [
-        "Austin, TX, US"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790318362440",
-      "url": "https://trueinterview.io/jobs/3b08f413-a6b9-42f7-9041-946f83db0711",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "5a8ed087-d60e-417f-a592-1cf85e362b5d",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Automotive OEM",
-      "locations": [
-        "Novi, Michigan, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/19999?lang=en-us",
-      "url": "https://trueinterview.io/jobs/5a8ed087-d60e-417f-a592-1cf85e362b5d",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "65a0326d-b912-4b79-919a-366e956ca88f",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Aviation Web Development",
-      "locations": [
-        "Middlebury, Connecticut, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/20080?lang=en-us",
-      "url": "https://trueinterview.io/jobs/65a0326d-b912-4b79-919a-366e956ca88f",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "77bbc743-98e1-4fe1-b3b5-316e918e2703",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Mechanical Engineer Intern",
-      "locations": [
-        "Spring, Texas, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393",
-      "url": "https://trueinterview.io/jobs/77bbc743-98e1-4fe1-b3b5-316e918e2703",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "a400fb05-52e4-4d20-a5c9-3c66ded97a63",
-      "company": "Keysight",
-      "title": "Semiconductor Process Engineering Intern- 6+ months Internship",
-      "locations": [
-        "US-CA-Santa Rosa-Bldg 2",
-        "Santa Rosa, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.keysight.com/external/jobs/54166?lang=en-us",
-      "url": "https://trueinterview.io/jobs/a400fb05-52e4-4d20-a5c9-3c66ded97a63",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "29179547-3b0b-4a15-bfb4-076cf435f355",
-      "company": "Marvell Technology",
-      "title": "Application Engineer Intern, MS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Westlake Village, CA",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Application-Engineer-Intern--MS---Summer-2027_2604509",
-      "url": "https://trueinterview.io/jobs/29179547-3b0b-4a15-bfb4-076cf435f355",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "1c24e176-ccf2-41ab-ade4-2af2e754fd79",
-      "company": "Marvell Technology",
-      "title": "Design Verification Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Austin, TX",
-        "Westborough, MA",
-        "Boise, ID",
-        "Morrisville, NC",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--BS---Summer-2027_2604505-1",
-      "url": "https://trueinterview.io/jobs/1c24e176-ccf2-41ab-ade4-2af2e754fd79",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "2390accd-792d-4635-8f3a-ae570209a8cd",
-      "company": "Marvell Technology",
-      "title": "Design Verification Intern, MS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Austin, TX",
-        "Westborough, MA",
-        "Boise, ID",
-        "Morrisville, NC",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-Verification-Intern--MS---Summer-2027_2604506-1",
-      "url": "https://trueinterview.io/jobs/2390accd-792d-4635-8f3a-ae570209a8cd",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "9cbcb094-71e8-4bd1-839f-87478d3232ab",
-      "company": "Marvell Technology",
-      "title": "Firmware Engineer Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Westlake Village, CA",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461",
-      "url": "https://trueinterview.io/jobs/9cbcb094-71e8-4bd1-839f-87478d3232ab",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "dada29d6-5d30-4067-9296-1aeb7c1fb066",
-      "company": "Marvell Technology",
-      "title": "Firmware Engineer Intern, MS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "url": "https://trueinterview.io/jobs/dada29d6-5d30-4067-9296-1aeb7c1fb066",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "f1191dba-f477-4692-9ca8-9e27952271e3",
-      "company": "Marvell Technology",
-      "title": "Functional Validation Intern, BS - Summer 2027",
-      "locations": [
-        "Westborough, MA",
-        "Boise, ID",
-        "Santa Clara, CA",
-        "Westborough, MA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westborough-MA/Functional-Validation-Intern--BS---Summer-2027_2604514-1",
-      "url": "https://trueinterview.io/jobs/f1191dba-f477-4692-9ca8-9e27952271e3",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "a71d54c7-eefb-4dad-b896-4809235ffd26",
-      "company": "Marvell Technology",
-      "title": "Ph.D. Intern - Analog, Mixed Signal & Circuit Design",
-      "locations": [
-        "Santa Clara, CA",
-        "Irvine, CA",
-        "Westlake Village, CA",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Analog--Mixed-Signal---Circuit-Design_2604142",
-      "url": "https://trueinterview.io/jobs/a71d54c7-eefb-4dad-b896-4809235ffd26",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "29f8c289-d129-4e5b-b70d-8fab61380a4d",
-      "company": "Marvell Technology",
-      "title": "Physical Design Engineer Intern, BS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Austin, TX",
-        "Morrisville, NC",
-        "Rochester, MN",
-        "Burlington, VT",
-        "Westborough, MA",
-        "Boise, ID",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--BS---Summer-2027_2604517-1",
-      "url": "https://trueinterview.io/jobs/29f8c289-d129-4e5b-b70d-8fab61380a4d",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "1ec26877-672e-4345-aada-874ebcdf3ce2",
-      "company": "Marvell Technology",
-      "title": "Physical Design Engineer Intern, MS - Summer 2027",
-      "locations": [
-        "Santa Clara, CA",
-        "Austin, TX",
-        "Morrisville, NC",
-        "Rochester, MN",
-        "Burlington, VT",
-        "Westborough, MA",
-        "Boise, ID",
-        "Santa Clara, CA, United States of America"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1",
-      "url": "https://trueinterview.io/jobs/1ec26877-672e-4345-aada-874ebcdf3ce2",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
-    },
-    {
-      "id": "c3c9454d-bd28-464b-a37e-2e08b14d4775",
-      "company": "Nokia",
-      "title": "Optical Test Co-Op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023",
-      "url": "https://trueinterview.io/jobs/c3c9454d-bd28-464b-a37e-2e08b14d4775",
-      "postedAt": "2026-09-04T00:00:00.000Z",
-      "updatedAt": "2026-09-04T00:00:00.000Z"
     }
   ]
 }
