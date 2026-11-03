@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**426 open roles.** 321 in the United States & Canada · 105 elsewhere in the world.
+**427 open roles.** 322 in the United States & Canada · 105 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Labcorp</strong></td>
+<td><a href="https://trueinterview.io/jobs/09576142-5d53-4459-8764-89101f65600f">Co-op - Agentic AI Developer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486842562/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Pacific Northwest National Laboratory</strong></td>
 <td><a href="https://trueinterview.io/jobs/719a47a0-a251-4f6e-b80a-4d6c02e17f44">NSIP PhD Intern - Artificial Intelligence &amp; Data Analytics - SWE Conference</a></td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
 <td>Timisoara Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482544252/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MAHLE</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc58235c-8bf9-4b45-a49a-df24f6e4471a">Internship Machine Learning for Energy-Efficient Vehicle Control and Thermal Management (m/f/d)</a></td>
-<td>Stuttgart, Baden-Württemberg, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480978169/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

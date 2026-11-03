@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,487 open roles.** 1,167 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
+**1,492 open roles.** 1,172 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Base Power Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/223e7639-292c-4f00-8f92-19d3fda79b5d">Deployments Engineering Intern (Product Launch)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485279944/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RSM US LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/857e7549-b049-4ca1-861b-e8f774d77283">Managed IT Services Service Desk Consulting Intern - Winter 2027</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484802637/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jabil</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f88f6ed-ff7b-4c7e-9ce6-bce3d5cf5293">Mechanical System Architect Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483408661/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0db767cf-28d1-459b-a46e-b26d36b72b0b">Validation Engineer Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483221251/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Webber, a Ferrovial company</strong></td>
+<td><a href="https://trueinterview.io/jobs/6872c8e4-1825-4484-af88-3071dd81228c">Webber - Field Engineer Intern - Heavy Civil</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485285446/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SprintRay Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/781a3c88-aae9-4476-a3be-02cfd989697f">Engineering Intern – Materials &amp; Resin Development</a></td>
@@ -2778,41 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/2b9e73b9-b974-426d-8992-8a3b9fa07d9b">Module Integration Design Engineering Intern</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484732817/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5efdf7e0-8cb5-42f7-b30c-cea7df519b26">RF Module Design Engineer Co-op (Winter/Spring 2027)</a></td>
-<td>Cedar Rapids, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456415884/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>UPS</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1a79d50-9101-48e0-816c-dc2958fcaf41">2027 Industrial Engineering Summer Intern - Chicago IL</a></td>
-<td>Chicago, IL<br/>Bayonne, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460957298/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4045b84c-08ca-4c3e-832a-75932325e887">2027 Industrial Engineering Summer Intern - Los Angeles CA - Fremont CA</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461333261/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Windsor Salt Ltd.</strong></td>
-<td><a href="https://trueinterview.io/jobs/40f7ad78-6e53-4ad2-bfb1-b8d4c53af5fd">Engineering Co-op Student</a></td>
-<td>Windsor, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738673/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TRG</strong></td>
-<td><a href="https://trueinterview.io/jobs/af73e867-7733-4b1d-b5f8-e678cd6fffbe">Full Stack Application Developer Intern (Winter/Spring)</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484743360/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,487 open roles.** 1,167 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
+**1,492 open roles.** 1,172 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/5efdf7e0-8cb5-42f7-b30c-cea7df519b26">RF Module Design Engineer Co-op (Winter/Spring 2027)</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456415884/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UPS</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1a79d50-9101-48e0-816c-dc2958fcaf41">2027 Industrial Engineering Summer Intern - Chicago IL</a></td>
+<td>Chicago, IL<br/>Bayonne, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460957298/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4045b84c-08ca-4c3e-832a-75932325e887">2027 Industrial Engineering Summer Intern - Los Angeles CA - Fremont CA</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461333261/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Windsor Salt Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/40f7ad78-6e53-4ad2-bfb1-b8d4c53af5fd">Engineering Co-op Student</a></td>
+<td>Windsor, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738673/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TRG</strong></td>
+<td><a href="https://trueinterview.io/jobs/af73e867-7733-4b1d-b5f8-e678cd6fffbe">Full Stack Application Developer Intern (Winter/Spring)</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484743360/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Impulse Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/896cc4db-34d0-4cb0-a709-acce2048bd70">Test Automation Intern (Summer 2027)</a></td>
@@ -2791,41 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486114299/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/2faabbee-9a7f-4152-9710-1e220ddb1f13">PhD Internship (f/m/d) - AI Research - Foundation Models on Structured Data</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4324139789/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/97f425b3-6fcb-46d3-b7f1-9aa115f55635">Data Analyst Intern (Measurement, CALM) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458945728/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/021ad960-41f4-4851-9f21-7a4f373520b4">Quantitative Research Internship: Summer 2027</a></td>
-<td>Dublin, County Dublin, Ireland<br/>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438405881/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arm</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af">Software Engineer Intern</a></td>
-<td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476868480/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BlockTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233">Software Engineer | Internship | Summer '27</a></td>
-<td>Singapore<br/>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460372878/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

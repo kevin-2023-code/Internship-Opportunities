@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,018 open roles.** 842 in the United States & Canada · 176 elsewhere in the world.
+**1,022 open roles.** 846 in the United States & Canada · 176 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fceaded-ca67-4b46-bb85-bc03cb0aafd6">Software Engineering Intern</a></td>
+<td>Arden Hills, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483716555/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CACI</strong></td>
+<td><a href="https://trueinterview.io/jobs/934376ac-a7cc-41cc-a9a7-50eeae1d08ec">Software Engineering Co-op/Intern - Spring 2027</a></td>
+<td>Rochester, New York, United States</td>
+<td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-spring-2027-rochester-ny-us">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/349a5600-0752-490b-8fbd-6faa13b9d1b1">PhD Intern, Security Engineer (2027)</a></td>
+<td>San Francisco, CA • New York, NY, US</td>
+<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7e31062-22df-42ce-9559-fdb94c1a9dcb">2027 Software Test Engineering Intern- Roy UT</a></td>
+<td>Roy, Utah, United States</td>
+<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RTX</strong></td>
 <td><a href="https://trueinterview.io/jobs/ade7aa2b-fcc0-45bd-8947-cd20e3e9b91b">Software Engineering Intern (Summer 2027)</a></td>
@@ -2786,34 +2814,6 @@
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/241c61dd-a2a9-49fe-a57e-9bb6f6a06699">Winter 2027 Test Automation Engineer Co-op</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Costa Mesa, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3f18fe1-7c6e-4abe-a4b3-b6da58f5239b">Information Technology Intern – Security</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Grammarly</strong></td>
-<td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
-<td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Opengov</strong></td>
-<td><a href="https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8">Product Intern</a></td>
-<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,018 open roles.** 842 in the United States & Canada · 176 elsewhere in the world.
+**1,022 open roles.** 846 in the United States & Canada · 176 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CACI International Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/d84fbe3f-89ca-434b-acf1-967437dca584">Embedded Software Engineering Co-op - Spring 2027</a></td>
+<td>Danbury, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480682139/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KB Signaling</strong></td>
+<td><a href="https://trueinterview.io/jobs/68025d81-98f8-49f2-89cc-24160a23023e">Intern, Software Engineering (Summer 2027)</a></td>
+<td>Melbourne, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486845801/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Labcorp</strong></td>
+<td><a href="https://trueinterview.io/jobs/031f6906-6149-4e04-a38a-9c6480f5a9b0">Co-op - Full-Stack Life Sciences Engineer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486840563/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/72fab0b8-f64c-45c1-893d-a74e9a203907">Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op</a></td>
+<td>Normal, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469996507/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WoodmenLife</strong></td>
 <td><a href="https://trueinterview.io/jobs/aea1021e-d69b-4334-8dfb-f4b4cb8d9a38">2027 Summer Software Engineer Intern</a></td>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a5d2c45-f28c-4352-86aa-ca787d5c0a12">Resilience Engineer Intern (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484752562/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Boston Scientific</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fceaded-ca67-4b46-bb85-bc03cb0aafd6">Software Engineering Intern</a></td>
-<td>Arden Hills, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483716555/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CACI</strong></td>
-<td><a href="https://trueinterview.io/jobs/934376ac-a7cc-41cc-a9a7-50eeae1d08ec">Software Engineering Co-op/Intern - Spring 2027</a></td>
-<td>Rochester, New York, United States</td>
-<td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-spring-2027-rochester-ny-us">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/349a5600-0752-490b-8fbd-6faa13b9d1b1">PhD Intern, Security Engineer (2027)</a></td>
-<td>San Francisco, CA • New York, NY, US</td>
-<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7e31062-22df-42ce-9559-fdb94c1a9dcb">2027 Software Test Engineering Intern- Roy UT</a></td>
-<td>Roy, Utah, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

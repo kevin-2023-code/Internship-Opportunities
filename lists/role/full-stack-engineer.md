@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world.
+**15 open roles.** 12 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Labcorp</strong></td>
+<td><a href="https://trueinterview.io/jobs/031f6906-6149-4e04-a38a-9c6480f5a9b0">Co-op - Full-Stack Life Sciences Engineer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486840563/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Netic</strong></td>
 <td><a href="https://trueinterview.io/jobs/95b5b162-970b-4bc5-92be-a593272afbb3">Full-Stack Software Engineer (Product) - Intern - 2026-2027</a></td>

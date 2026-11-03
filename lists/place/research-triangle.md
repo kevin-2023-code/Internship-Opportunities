@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**39 open roles.**
+**41 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Labcorp</strong></td>
+<td><a href="https://trueinterview.io/jobs/09576142-5d53-4459-8764-89101f65600f">Co-op - Agentic AI Developer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486842562/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/031f6906-6149-4e04-a38a-9c6480f5a9b0">Co-op - Full-Stack Life Sciences Engineer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486840563/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Toshiba Global Commerce Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/42f43239-de0a-40a3-8820-9c4365e8e2a1">Agentic Software Engineering Intern</a></td>

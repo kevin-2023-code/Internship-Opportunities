@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,487 open roles.** 1,167 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
+**1,492 open roles.** 1,172 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CACI International Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/d84fbe3f-89ca-434b-acf1-967437dca584">Embedded Software Engineering Co-op - Spring 2027</a></td>
+<td>Danbury, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480682139/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KB Signaling</strong></td>
+<td><a href="https://trueinterview.io/jobs/68025d81-98f8-49f2-89cc-24160a23023e">Intern, Software Engineering (Summer 2027)</a></td>
+<td>Melbourne, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486845801/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Labcorp</strong></td>
+<td><a href="https://trueinterview.io/jobs/09576142-5d53-4459-8764-89101f65600f">Co-op - Agentic AI Developer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486842562/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/031f6906-6149-4e04-a38a-9c6480f5a9b0">Co-op - Full-Stack Life Sciences Engineer</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486840563/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/72fab0b8-f64c-45c1-893d-a74e9a203907">Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op</a></td>
+<td>Normal, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469996507/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Pacific Northwest National Laboratory</strong></td>
 <td><a href="https://trueinterview.io/jobs/719a47a0-a251-4f6e-b80a-4d6c02e17f44">NSIP PhD Intern - Artificial Intelligence &amp; Data Analytics - SWE Conference</a></td>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a></td>
 <td>Brea, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483416245/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Base Power Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/223e7639-292c-4f00-8f92-19d3fda79b5d">Deployments Engineering Intern (Product Launch)</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485279944/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RSM US LLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/857e7549-b049-4ca1-861b-e8f774d77283">Managed IT Services Service Desk Consulting Intern - Winter 2027</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484802637/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jabil</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f88f6ed-ff7b-4c7e-9ce6-bce3d5cf5293">Mechanical System Architect Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483408661/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0db767cf-28d1-459b-a46e-b26d36b72b0b">Validation Engineer Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483221251/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Webber, a Ferrovial company</strong></td>
-<td><a href="https://trueinterview.io/jobs/6872c8e4-1825-4484-af88-3071dd81228c">Webber - Field Engineer Intern - Heavy Civil</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485285446/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

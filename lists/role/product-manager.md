@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**87 open roles.** 60 in the United States & Canada · 27 elsewhere in the world.
+**88 open roles.** 60 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -623,6 +623,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.apple.com/en-gb/details/200691241-2114/engineering-program-manager-epm-intern?board_id=JB001&amp;team=SFTWR">Apply</a></td>
 <td align="center">25 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Stichd</strong></td>
+<td><a href="https://trueinterview.io/jobs/7651410e-ffbe-452b-a1ed-2d755b61a6b5">Intern Product Management</a></td>
+<td>Den Bosch, Netherlands</td>
+<td align="center"><a href="https://puma.wd502.myworkdayjobs.com/en-US/Work_at_stichd/job/stichd-HQ-s-Hertogenbosch-the-Netherlands/Intern-Product-Management_R43927-1">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Rundoo</strong></td>

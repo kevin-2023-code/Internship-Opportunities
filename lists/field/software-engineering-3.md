@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,018 open roles.** 842 in the United States & Canada · 176 elsewhere in the world.
+**1,022 open roles.** 846 in the United States & Canada · 176 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/241c61dd-a2a9-49fe-a57e-9bb6f6a06699">Winter 2027 Test Automation Engineer Co-op</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Costa Mesa, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3f18fe1-7c6e-4abe-a4b3-b6da58f5239b">Information Technology Intern – Security</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Grammarly</strong></td>
+<td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
+<td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Opengov</strong></td>
+<td><a href="https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8">Product Intern</a></td>
+<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>National Life Insurance Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/51a0a61d-0fa4-4739-9077-7bee505d6e33">IT Application Development Intern (Inforce) – Summer 2027</a></td>

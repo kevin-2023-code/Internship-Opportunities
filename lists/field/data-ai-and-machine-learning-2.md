@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**426 open roles.** 321 in the United States & Canada · 105 elsewhere in the world.
+**427 open roles.** 322 in the United States & Canada · 105 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MAHLE</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc58235c-8bf9-4b45-a49a-df24f6e4471a">Internship Machine Learning for Energy-Efficient Vehicle Control and Thermal Management (m/f/d)</a></td>
+<td>Stuttgart, Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480978169/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/afb2e9d7-dfa9-4e35-a0bd-0531b1cfd657">SAP iXp Intern - CPIT CFA AI Engineer</a></td>
