@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**414 open roles.** 314 in the United States & Canada · 100 elsewhere in the world.
+**416 open roles.** 316 in the United States & Canada · 100 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JD.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/78fd5193-4849-4d25-8a54-5f066146ef96">JD Young Supply Chain Data &amp; AI Analyst Internship</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Data---AI-Analyst-Internship_JR104472">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/8509baf5-d87a-455a-81b2-c81bd3dd1cbc">Research Scientist Intern, Muse RL and Agents Team (PhD)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/2082008865811696/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1f810dd-d405-4368-a429-2c6886cedbf7">Data Science PhD Intern, 2027</a></td>

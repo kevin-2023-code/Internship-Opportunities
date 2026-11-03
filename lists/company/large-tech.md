@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**106 open roles.** 98 in the United States & Canada · 8 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**107 open roles.** 98 in the United States & Canada · 9 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -715,6 +715,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db">Product Management Intern (Summer 2027)</a></td>
+<td>—</td>
+<td align="center"><a href="https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/acd6399f-de8a-47f6-b884-c8bca3ab7476">Hardware Engineer Intern - Bachelor's Degree</a></td>

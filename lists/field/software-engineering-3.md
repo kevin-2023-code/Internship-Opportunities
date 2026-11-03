@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,001 open roles.** 827 in the United States & Canada · 174 elsewhere in the world.
+**1,002 open roles.** 828 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hudl</strong></td>
+<td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>
+<td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/307dd7dd-f774-403a-86c1-ed19152042ad">Flight Software Intern Summer 2027</a></td>
@@ -217,6 +224,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Altheory Technologies Pvt Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/8de134fa-3116-415a-871f-1317522af9fd">Backend Developer Intern</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=4ec69c8d589204b7">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763">DevOps Software Engineering Intern</a></td>
 <td>Gdańsk, Pomorskie, Poland</td>
@@ -228,13 +242,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839">Intern - Software Engineer</a></td>
 <td>India</td>
 <td align="center"><a href="https://jobs.reczee.com/finbox/kJKi9/apply?_src=Indeed">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MYRMC Solutions Pvt Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba41586b-4438-4b63-9147-3fb8659c4164">Flutter Developer Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=9fd5c01a70dacb93">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

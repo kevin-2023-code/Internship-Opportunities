@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**414 open roles.** 314 in the United States & Canada · 100 elsewhere in the world.
+**416 open roles.** 316 in the United States & Canada · 100 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>International Machine Learning Olympiad</strong></td>
+<td><a href="https://trueinterview.io/jobs/02873853-e9da-490b-b647-c11b1a005c02">Machine Learning Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485773285/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>MITRE</strong></td>
 <td><a href="https://trueinterview.io/jobs/65f94030-d1aa-48e0-91b2-7434c18df9b2">AI Engineering Intern</a></td>
 <td>Bedford, MA<br/>McLean, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479785073/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4878259-1eff-484c-972f-098d8837d8d2">SAP iXp Intern - HanaHaus Business Insights Analyst</a></td>
+<td>Newport Beach, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159266069-sap-ixp-intern-hanahaus-business-insights-analyst">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5e83e79b-ab75-4714-9e75-e51c28dc27c3">College Intern - Agentic AI Engineering</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JD.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/78fd5193-4849-4d25-8a54-5f066146ef96">JD Young Supply Chain Data &amp; AI Analyst Internship</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Data---AI-Analyst-Internship_JR104472">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/8509baf5-d87a-455a-81b2-c81bd3dd1cbc">Research Scientist Intern, Muse RL and Agents Team (PhD)</a></td>
-<td>Zürich, Switzerland</td>
-<td align="center"><a href="https://www.metacareers.com/jobs/2082008865811696/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

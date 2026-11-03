@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,467 open roles.** 1,153 in the United States & Canada · 314 elsewhere in the world. Everything the employers put up this week.
+**1,471 open roles.** 1,156 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amcor</strong></td>
+<td><a href="https://trueinterview.io/jobs/caab481c-1a99-42a0-aac4-02bf0772c731">Product Development Engineering Intern</a></td>
+<td>Lawrence, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485275078/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Axiom Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/50b77bb9-1152-4fb2-9db6-9eb2f1d3ae75">Electrical Engineering Intern (Summer 2027)</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484565592/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mercury Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e899555-8520-411c-80fc-1171c96b3d51">Mechanical Engineering Co-Op</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593021/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RBC Bearings</strong></td>
 <td><a href="https://trueinterview.io/jobs/6515a847-c7de-4393-ae74-17983a66ae51">Manufacturing Engineer Co-op</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/49b6fc6b-9b0c-43b9-b07e-1d0a5076e5fc">Electrical Engineer Intern (Year-round or Summer)</a></td>
 <td>Wichita, KS</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467403960/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Packaging Corporation of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/50496c2d-d519-4017-be40-a461e0f43fa5">Mechanical Engineering Co Op/Intern - All Mills</a></td>
-<td>Texas, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458243907/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ascendria Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed441183-7f1f-4a38-a760-b104c24ad0e7">Launch Fluids and Operations Engineer Intern</a></td>
-<td>Florida, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544769/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/102eb930-7936-4ddf-a20e-10897a5e85b1">Cyber Security Engineer Intern</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467288333/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

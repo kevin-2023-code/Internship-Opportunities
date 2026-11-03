@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**300 open roles.** 246 in the United States & Canada · 54 elsewhere in the world.
+**301 open roles.** 247 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -174,7 +174,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Tecsys Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/4fd9e789-e403-46b3-bcf7-2a6bb9a361c9">Intern - Developer</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montréal, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/mpivJfdgcSJjT1NuxcHFMi/hybrid-intern---developer-in-montreal-at-tecsys-inc.">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -183,6 +183,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b">Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)</a></td>
 <td>Ada, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478300807/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zimmer Biomet</strong></td>
+<td><a href="https://trueinterview.io/jobs/46b02aef-b20c-47ef-bf38-05f6b8172393">2027 Spring Co-Op, Software Developer</a></td>
+<td>Montréal, Canada</td>
+<td align="center"><a href="https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13309EXTERNALENUS/2027-Spring-Co-Op-Software-Developer">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

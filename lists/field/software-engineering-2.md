@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,001 open roles.** 827 in the United States & Canada · 174 elsewhere in the world.
+**1,002 open roles.** 828 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b9e73b9-b974-426d-8992-8a3b9fa07d9b">Module Integration Design Engineering Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732817/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5efdf7e0-8cb5-42f7-b30c-cea7df519b26">RF Module Design Engineer Co-op (Winter/Spring 2027)</a></td>
 <td>Cedar Rapids, IA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456415884/">Apply</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudl</strong></td>
-<td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>
-<td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

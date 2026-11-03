@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,467 open roles.** 1,153 in the United States & Canada · 314 elsewhere in the world. Everything the employers put up this week.
+**1,471 open roles.** 1,156 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>International Machine Learning Olympiad</strong></td>
+<td><a href="https://trueinterview.io/jobs/02873853-e9da-490b-b647-c11b1a005c02">Machine Learning Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485773285/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Costco Wholesale</strong></td>
 <td><a href="https://trueinterview.io/jobs/36306fdc-c785-417e-912f-bb8da884900e">CDS Intern - InfoSec AI/ML</a></td>
@@ -38,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65f94030-d1aa-48e0-91b2-7434c18df9b2">AI Engineering Intern</a></td>
 <td>Bedford, MA<br/>McLean, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479785073/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4878259-1eff-484c-972f-098d8837d8d2">SAP iXp Intern - HanaHaus Business Insights Analyst</a></td>
+<td>Newport Beach, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159266069-sap-ixp-intern-hanahaus-business-insights-analyst">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -589,7 +603,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Tecsys Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/4fd9e789-e403-46b3-bcf7-2a6bb9a361c9">Intern - Developer</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montréal, Canada</td>
 <td align="center"><a href="https://jobs.workable.com/view/mpivJfdgcSJjT1NuxcHFMi/hybrid-intern---developer-in-montreal-at-tecsys-inc.">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -619,6 +633,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7">SW Engineer Intern, AI Engineering</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zimmer Biomet</strong></td>
+<td><a href="https://trueinterview.io/jobs/46b02aef-b20c-47ef-bf38-05f6b8172393">2027 Spring Co-Op, Software Developer</a></td>
+<td>Montréal, Canada</td>
+<td align="center"><a href="https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13309EXTERNALENUS/2027-Spring-Co-Op-Software-Developer">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/251a87db-26bc-444a-affa-874e806e8485">DevOps Developer Intern - Summer 2027</a></td>
 <td>Cincinnati, OH</td>
 <td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amcor</strong></td>
-<td><a href="https://trueinterview.io/jobs/caab481c-1a99-42a0-aac4-02bf0772c731">Product Development Engineering Intern</a></td>
-<td>Lawrence, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485275078/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Axiom Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/50b77bb9-1152-4fb2-9db6-9eb2f1d3ae75">Electrical Engineering Intern (Summer 2027)</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484565592/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mercury Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e899555-8520-411c-80fc-1171c96b3d51">Mechanical Engineering Co-Op</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484593021/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

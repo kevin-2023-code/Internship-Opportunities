@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T02:06:44.780Z",
-  "count": 2364,
+  "listingsChangedAt": "2026-11-03T03:05:18.128Z",
+  "count": 2368,
   "listings": [
+    {
+      "id": "02873853-e9da-490b-b647-c11b1a005c02",
+      "company": "International Machine Learning Olympiad",
+      "title": "Machine Learning Engineering Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485773285/",
+      "url": "https://trueinterview.io/jobs/02873853-e9da-490b-b647-c11b1a005c02",
+      "postedAt": "2026-11-03T02:00:00.000Z",
+      "updatedAt": "2026-11-03T02:00:00.000Z"
+    },
     {
       "id": "36306fdc-c785-417e-912f-bb8da884900e",
       "company": "Costco Wholesale",
@@ -86,6 +111,31 @@
       "url": "https://trueinterview.io/jobs/65f94030-d1aa-48e0-91b2-7434c18df9b2",
       "postedAt": "2026-11-03T00:48:00.000Z",
       "updatedAt": "2026-11-03T00:48:00.000Z"
+    },
+    {
+      "id": "f4878259-1eff-484c-972f-098d8837d8d2",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - HanaHaus Business Insights Analyst",
+      "locations": [
+        "Newport Beach, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159266069-sap-ixp-intern-hanahaus-business-insights-analyst",
+      "url": "https://trueinterview.io/jobs/f4878259-1eff-484c-972f-098d8837d8d2",
+      "postedAt": "2026-11-03T00:46:32.000Z",
+      "updatedAt": "2026-11-03T00:46:32.000Z"
     },
     {
       "id": "d00b9225-1d9b-4b22-84e9-a8c82e31a7ce",
@@ -1516,6 +1566,32 @@
       "updatedAt": "2026-11-02T17:04:00.000Z"
     },
     {
+      "id": "8de134fa-3116-415a-871f-1317522af9fd",
+      "company": "Altheory Technologies Pvt Ltd",
+      "title": "Backend Developer Intern",
+      "locations": [
+        "India",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://in.indeed.com/viewjob?jk=4ec69c8d589204b7",
+      "url": "https://trueinterview.io/jobs/8de134fa-3116-415a-871f-1317522af9fd",
+      "postedAt": "2026-11-02T17:02:15.000Z",
+      "updatedAt": "2026-11-02T17:02:15.000Z"
+    },
+    {
       "id": "85e53129-e797-49a7-a7b8-5cc06d27ea30",
       "company": "Citadel Securities",
       "title": "Quantitative Researcher – Post-Doctoral Intern (US)",
@@ -2323,36 +2399,12 @@
       "updatedAt": "2026-11-02T11:36:00.000Z"
     },
     {
-      "id": "ba41586b-4438-4b63-9147-3fb8659c4164",
-      "company": "MYRMC Solutions Pvt Ltd",
-      "title": "Flutter Developer Intern",
-      "locations": [
-        "India"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://in.indeed.com/viewjob?jk=9fd5c01a70dacb93",
-      "url": "https://trueinterview.io/jobs/ba41586b-4438-4b63-9147-3fb8659c4164",
-      "postedAt": "2026-11-02T11:32:02.000Z",
-      "updatedAt": "2026-11-02T11:32:02.000Z"
-    },
-    {
       "id": "4fd9e789-e403-46b3-bcf7-2a6bb9a361c9",
       "company": "Tecsys Inc.",
       "title": "Intern - Developer",
       "locations": [
-        "Montreal, Quebec, Canada"
+        "Montreal, Quebec, Canada",
+        "Montréal, Canada"
       ],
       "cities": [
         "Montreal, QC"
@@ -2608,6 +2660,54 @@
       "source": "indeed",
       "applyUrl": "https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-Sing/1369792666/",
       "url": "https://trueinterview.io/jobs/6725d491-8827-4c45-bff2-d1448e82b909",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "9f5d4477-2ddf-4f65-8083-40991147c1db",
+      "company": "Snowflake",
+      "title": "Product Management Intern (Summer 2027)",
+      "locations": [
+        "ישראל"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC",
+      "url": "https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "46b02aef-b20c-47ef-bf38-05f6b8172393",
+      "company": "Zimmer Biomet",
+      "title": "2027 Spring Co-Op, Software Developer",
+      "locations": [
+        "Montréal, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13309EXTERNALENUS/2027-Spring-Co-Op-Software-Developer",
+      "url": "https://trueinterview.io/jobs/46b02aef-b20c-47ef-bf38-05f6b8172393",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },

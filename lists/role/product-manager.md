@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**83 open roles.** 58 in the United States & Canada · 25 elsewhere in the world.
+**84 open roles.** 58 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -454,6 +454,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d710b258-9bb5-4ae5-80b4-506439b93629">Business Program Manager MBA Intern, 2027</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477508989/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db">Product Management Intern (Summer 2027)</a></td>
+<td>—</td>
+<td align="center"><a href="https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
