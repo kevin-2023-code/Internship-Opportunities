@@ -5,9 +5,136 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T21:04:06.540Z",
-  "count": 2457,
+  "listingsChangedAt": "2026-11-03T22:04:10.352Z",
+  "count": 2466,
   "listings": [
+    {
+      "id": "2ff2c982-80d5-40d4-b08b-d3830890b585",
+      "company": "Marketeq Digital Solutions",
+      "title": "AI Developer Engineering Intern (U.S.A Only)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487047493/",
+      "url": "https://trueinterview.io/jobs/2ff2c982-80d5-40d4-b08b-d3830890b585",
+      "postedAt": "2026-11-03T21:26:00.000Z",
+      "updatedAt": "2026-11-03T21:26:00.000Z"
+    },
+    {
+      "id": "682066b8-6b4a-45cc-a061-ee9f651ce5e5",
+      "company": "Enlighten",
+      "title": "Data Engineer (Skillbridge Intern) - 28499",
+      "locations": [
+        "Augusta, GA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4414956467/",
+      "url": "https://trueinterview.io/jobs/682066b8-6b4a-45cc-a061-ee9f651ce5e5",
+      "postedAt": "2026-11-03T20:50:00.000Z",
+      "updatedAt": "2026-11-03T20:50:00.000Z"
+    },
+    {
+      "id": "4a85e3b3-6b42-4458-bf19-5360bcf455dc",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486093123/",
+      "url": "https://trueinterview.io/jobs/4a85e3b3-6b42-4458-bf19-5360bcf455dc",
+      "postedAt": "2026-11-03T20:49:00.000Z",
+      "updatedAt": "2026-11-03T20:49:00.000Z"
+    },
+    {
+      "id": "e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b",
+      "company": "Ericsson",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Plano, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486078238/",
+      "url": "https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b",
+      "postedAt": "2026-11-03T20:44:00.000Z",
+      "updatedAt": "2026-11-03T20:44:00.000Z"
+    },
+    {
+      "id": "10cd629f-ac34-4ea8-8943-90351bf72428",
+      "company": "Osmose",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485004895/",
+      "url": "https://trueinterview.io/jobs/10cd629f-ac34-4ea8-8943-90351bf72428",
+      "postedAt": "2026-11-03T20:37:00.000Z",
+      "updatedAt": "2026-11-03T20:37:00.000Z"
+    },
     {
       "id": "d3a2ffde-fe10-4b60-8ab3-56fa33623bdc",
       "company": "Firefly Aerospace",
@@ -32,6 +159,31 @@
       "url": "https://trueinterview.io/jobs/d3a2ffde-fe10-4b60-8ab3-56fa33623bdc",
       "postedAt": "2026-11-03T20:36:00.000Z",
       "updatedAt": "2026-11-03T20:36:00.000Z"
+    },
+    {
+      "id": "b88e8640-549b-4de1-9781-cf4190ce0a29",
+      "company": "Procter & Gamble",
+      "title": "R&D PhD Summer Intern: AI Agents for Automated Machine Learning Research",
+      "locations": [
+        "Mason, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468184861/",
+      "url": "https://trueinterview.io/jobs/b88e8640-549b-4de1-9781-cf4190ce0a29",
+      "postedAt": "2026-11-03T20:19:00.000Z",
+      "updatedAt": "2026-11-03T20:19:00.000Z"
     },
     {
       "id": "a29b6c75-bec8-4db8-ae6b-4dc97fb96667",
@@ -109,6 +261,31 @@
       "url": "https://trueinterview.io/jobs/4b63e18a-c7a0-43fd-a274-140e52644f05",
       "postedAt": "2026-11-03T20:15:00.000Z",
       "updatedAt": "2026-11-03T20:15:00.000Z"
+    },
+    {
+      "id": "085b27f8-dc94-40d5-b4ba-62bdb839212a",
+      "company": "Huawei Canada",
+      "title": "Intern Researcher- Computer Vision",
+      "locations": [
+        "Markham, Ontario, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487020203/",
+      "url": "https://trueinterview.io/jobs/085b27f8-dc94-40d5-b4ba-62bdb839212a",
+      "postedAt": "2026-11-03T20:12:00.000Z",
+      "updatedAt": "2026-11-03T20:12:00.000Z"
     },
     {
       "id": "090d1753-28cc-419c-9899-cd03d2f58437",
@@ -265,6 +442,31 @@
       "url": "https://trueinterview.io/jobs/a434c681-3f82-43a2-a1a6-d0f58a32afb0",
       "postedAt": "2026-11-03T19:50:00.000Z",
       "updatedAt": "2026-11-03T19:50:00.000Z"
+    },
+    {
+      "id": "9876f42c-f19e-4925-9feb-7ae7130c1e8e",
+      "company": "Staples Inc.",
+      "title": "Software Engineer Intern (SDS e-Commerce Team)",
+      "locations": [
+        "Framingham, Massachusetts, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/77133",
+      "url": "https://trueinterview.io/jobs/9876f42c-f19e-4925-9feb-7ae7130c1e8e",
+      "postedAt": "2026-11-03T19:38:37.000Z",
+      "updatedAt": "2026-11-03T19:38:37.000Z"
     },
     {
       "id": "db5cca5e-582a-405c-a017-e51f644a2dbb",
@@ -467,6 +669,31 @@
       "url": "https://trueinterview.io/jobs/bf9d7dcf-c1b7-47c0-abeb-7f412057f33a",
       "postedAt": "2026-11-03T18:47:00.000Z",
       "updatedAt": "2026-11-03T18:47:00.000Z"
+    },
+    {
+      "id": "53cccfc1-21f2-4390-9462-cca6cad7c31f",
+      "company": "Symbotic",
+      "title": "Intern- PhD Applied Scientist, Routing",
+      "locations": [
+        "Wilmington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468171798/",
+      "url": "https://trueinterview.io/jobs/53cccfc1-21f2-4390-9462-cca6cad7c31f",
+      "postedAt": "2026-11-03T18:00:00.000Z",
+      "updatedAt": "2026-11-03T18:00:00.000Z"
     },
     {
       "id": "ece4e509-afc1-4791-8423-a7c24a851fb5",
@@ -2627,6 +2854,56 @@
       "updatedAt": "2026-11-03T00:03:00.000Z"
     },
     {
+      "id": "6caa3106-8db1-4652-9d4a-733b14bc5013",
+      "company": "CareSource",
+      "title": "2027 Summer Internship Program - Data Science Intern",
+      "locations": [
+        "Dayton, Ohio, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
+      "url": "https://trueinterview.io/jobs/6caa3106-8db1-4652-9d4a-733b14bc5013",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "id": "9871ab71-f918-4dfe-8c0b-4c9629a3bcbd",
+      "company": "Commonwealth Fusion Systems",
+      "title": "Intern - Software Engineer - Summer 2027",
+      "locations": [
+        "Devens, Massachusetts, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d",
+      "url": "https://trueinterview.io/jobs/9871ab71-f918-4dfe-8c0b-4c9629a3bcbd",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
       "id": "8a5af410-2051-4d90-ba27-8b9a0daebd54",
       "company": "Google",
       "title": "Software Engineer II, Co-op and Marketplaces",
@@ -2650,6 +2927,122 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4477988532/",
       "url": "https://trueinterview.io/jobs/8a5af410-2051-4d90-ba27-8b9a0daebd54",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "id": "55ca3826-dbf3-4e51-9bf4-01b4a3e624e9",
+      "company": "Highmark Health",
+      "title": "Summer 2027 AI Services and Platforms Software Engineer Graduate Intern",
+      "locations": [
+        "Washington, District of Columbia, United States",
+        "New York, New York, United States",
+        "Alabama, United States",
+        "Alaska, United States",
+        "Arizona, United States",
+        "Arkansas, United States",
+        "California, United States",
+        "Colorado, United States",
+        "Connecticut, United States",
+        "Delaware, United States",
+        "District of Columbia, United States",
+        "Florida, United States",
+        "Georgia, United States",
+        "Hawaii, United States",
+        "Idaho, United States",
+        "Illinois, United States",
+        "Indiana, United States",
+        "Iowa, United States",
+        "Kansas, United States",
+        "Kentucky, United States"
+      ],
+      "cities": [
+        "Washington, DC",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322",
+      "url": "https://trueinterview.io/jobs/55ca3826-dbf3-4e51-9bf4-01b4a3e624e9",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "id": "67ea1dee-2fb2-48a6-a4b4-9cff3cc33eb1",
+      "company": "Highmark Health",
+      "title": "Summer 2027 Healthcare Analytics Data Science Graduate Intern",
+      "locations": [
+        "Alabama, United States",
+        "Alaska, United States",
+        "Arizona, United States",
+        "Arkansas, United States",
+        "California, United States",
+        "Colorado, United States",
+        "Connecticut, United States",
+        "Delaware, United States",
+        "District of Columbia, United States",
+        "Florida, United States",
+        "Georgia, United States",
+        "Hawaii, United States",
+        "Idaho, United States",
+        "Illinois, United States",
+        "Indiana, United States",
+        "Iowa, United States",
+        "Kansas, United States",
+        "Kentucky, United States",
+        "Louisiana, United States",
+        "Maine, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345",
+      "url": "https://trueinterview.io/jobs/67ea1dee-2fb2-48a6-a4b4-9cff3cc33eb1",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T00:00:00.000Z"
+    },
+    {
+      "id": "4da04d0f-3459-43b6-93d4-3697330df927",
+      "company": "Northrop Grumman",
+      "title": "2027 Flight Software Engineer Intern - Redondo Beach CA",
+      "locations": [
+        "Manhattan Beach, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
+      "url": "https://trueinterview.io/jobs/4da04d0f-3459-43b6-93d4-3697330df927",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "updatedAt": "2026-11-03T00:00:00.000Z"
     },
@@ -63622,145 +64015,6 @@
       "url": "https://trueinterview.io/jobs/08997276-000e-4d23-8a6d-185d643e679d",
       "postedAt": "2026-09-05T17:11:50.000Z",
       "updatedAt": "2026-09-05T17:11:50.000Z"
-    },
-    {
-      "id": "dbfffd8a-9d65-4e77-a1b2-650bf94dc748",
-      "company": "Garner Health",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "New York City, New York",
-        "Headquarters"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004",
-      "url": "https://trueinterview.io/jobs/dbfffd8a-9d65-4e77-a1b2-650bf94dc748",
-      "postedAt": "2026-09-04T21:39:04.000Z",
-      "updatedAt": "2026-09-04T21:39:04.000Z"
-    },
-    {
-      "id": "8bb61b40-ac2f-4b12-9c7f-840c77a405d2",
-      "company": "Schonfeld Strategic Advisors",
-      "title": "2027 Risk Analyst (DMFI) Intern",
-      "locations": [
-        "London, England, United Kingdom",
-        "London"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
-      "url": "https://trueinterview.io/jobs/8bb61b40-ac2f-4b12-9c7f-840c77a405d2",
-      "postedAt": "2026-09-04T21:30:08.000Z",
-      "updatedAt": "2026-09-04T21:30:08.000Z"
-    },
-    {
-      "id": "f1587313-c74f-42e6-af65-c54a2bca4db8",
-      "company": "Schonfeld Strategic Advisors",
-      "title": "2027 PhD Quantitative Research Intern",
-      "locations": [
-        "Miami, Florida, United States",
-        "Miami",
-        "New York, New York, United States",
-        "New York"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8172076",
-      "url": "https://trueinterview.io/jobs/f1587313-c74f-42e6-af65-c54a2bca4db8",
-      "postedAt": "2026-09-04T21:05:23.000Z",
-      "updatedAt": "2026-09-04T21:25:52.000Z"
-    },
-    {
-      "id": "d0bdc734-b527-49e1-b48a-8361d0d91c0d",
-      "company": "Wsp",
-      "title": "Fire and Life Safety Engineering Intern - Summer 2027",
-      "locations": [
-        "Boston, MA, United States"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94686",
-      "url": "https://trueinterview.io/jobs/d0bdc734-b527-49e1-b48a-8361d0d91c0d",
-      "postedAt": "2026-09-04T21:25:34.000Z",
-      "updatedAt": "2026-09-04T21:25:34.000Z"
-    },
-    {
-      "id": "4857d537-19c7-423d-baf2-159f0191cfd2",
-      "company": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Fixed Income Intern",
-      "locations": [
-        "New York, New York, United States",
-        "New York"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8172055",
-      "url": "https://trueinterview.io/jobs/4857d537-19c7-423d-baf2-159f0191cfd2",
-      "postedAt": "2026-09-04T21:22:57.000Z",
-      "updatedAt": "2026-09-04T21:22:57.000Z"
     }
   ]
 }
