@@ -32,11 +32,11 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-03 22:04 UTC_
+_Last updated: 2026-11-03 23:04 UTC_
 
-**2,052 open internships** from **850 employers** · **1,231 posted in the last 7 days** · refreshed hourly
+**2,051 open internships** from **850 employers** · **1,229 posted in the last 7 days** · refreshed hourly
 
-### Browse 2,052 internships by field
+### Browse 2,051 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (869)
 
@@ -48,13 +48,13 @@ _Last updated: 2026-11-03 22:04 UTC_
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (44)
 
-🧰 **[IT & Support](#-it--support)** (50)
+🧰 **[IT & Support](#-it--support)** (49)
 
 ---
 
 ### 🔥 Posting the most this week
 
-**Relativity Space** 20 &nbsp;·&nbsp; **Skyworks Solutions, Inc.** 19 &nbsp;·&nbsp; **Booz Allen Hamilton** 13 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Meta** 12 &nbsp;·&nbsp; **IBM** 11 &nbsp;·&nbsp; **Raytheon** 11 &nbsp;·&nbsp; **Qualcomm** 10 &nbsp;·&nbsp; **BAE Systems, Inc.** 9 &nbsp;·&nbsp; **BlackRock** 9 &nbsp;·&nbsp; **Brunswick Corporation** 8 &nbsp;·&nbsp; **Collins Aerospace** 8
+**Relativity Space** 20 &nbsp;·&nbsp; **Skyworks Solutions, Inc.** 19 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Booz Allen Hamilton** 12 &nbsp;·&nbsp; **IBM** 11 &nbsp;·&nbsp; **Meta** 11 &nbsp;·&nbsp; **Raytheon** 11 &nbsp;·&nbsp; **Qualcomm** 10 &nbsp;·&nbsp; **BAE Systems, Inc.** 9 &nbsp;·&nbsp; **BlackRock** 9 &nbsp;·&nbsp; **Northrop Grumman** 9 &nbsp;·&nbsp; **Brunswick Corporation** 8
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 228 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -64,13 +64,13 @@ _Last updated: 2026-11-03 22:04 UTC_
 
 _Counts are internships in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (487)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (229)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (152)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (97)](lists/company/large-tech.md) · [📱 Consumer internet & media (86)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (71)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (56)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (37)](lists/company/ecommerce-marketplace.md) · [📐 Engineering & architecture firms (27)](lists/company/engineering-services.md) · [🏤 Mid-sized tech (200–999) (26)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (487)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (229)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (152)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (97)](lists/company/large-tech.md) · [📱 Consumer internet & media (86)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (70)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (56)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (37)](lists/company/ecommerce-marketplace.md) · [📐 Engineering & architecture firms (27)](lists/company/engineering-services.md) · [🏤 Mid-sized tech (200–999) (26)](lists/company/mid-size-tech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (260)](lists/role/software-engineer.md) · [Hardware Engineer (114)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (77)](lists/role/machine-learning-engineer.md) · [AI Engineer (76)](lists/role/ai-engineer.md) · [Data Scientist (70)](lists/role/data-scientist.md) · [Product Manager (61)](lists/role/product-manager.md) · [Security Engineer (57)](lists/role/security-engineer.md) · [Research Scientist (55)](lists/role/research-scientist.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Data Engineer (39)](lists/role/data-engineer.md) · [+9 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (261)](lists/role/software-engineer.md) · [Hardware Engineer (114)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (77)](lists/role/machine-learning-engineer.md) · [AI Engineer (75)](lists/role/ai-engineer.md) · [Data Scientist (70)](lists/role/data-scientist.md) · [Product Manager (61)](lists/role/product-manager.md) · [Security Engineer (57)](lists/role/security-engineer.md) · [Research Scientist (55)](lists/role/research-scientist.md) · [Data Analyst (40)](lists/role/data-analyst.md) · [Data Engineer (39)](lists/role/data-engineer.md) · [+9 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (398)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (127)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (102)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (99)](lists/place/seattle.md) · [🗽 New York City (95)](lists/place/new-york.md) · [🤠 Dallas–Fort Worth (75)](lists/place/dallas-fort-worth.md) · [🎸 Austin (60)](lists/place/austin.md) · [🌧️ Portland, Boise & Spokane (60)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (45)](lists/place/washington-dc.md) · [🔺 Research Triangle & the Carolinas (42)](lists/place/research-triangle.md) · [+13 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (399)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (128)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (102)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (99)](lists/place/seattle.md) · [🗽 New York City (95)](lists/place/new-york.md) · [🤠 Dallas–Fort Worth (73)](lists/place/dallas-fort-worth.md) · [🎸 Austin (60)](lists/place/austin.md) · [🌧️ Portland, Boise & Spokane (60)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (44)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (42)](lists/place/denver-boulder.md) · [+13 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (1,231)](lists/new-this-week.md) · [🌐 Remote (31)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (1,229)](lists/new-this-week.md) · [🌐 Remote (31)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -93,6 +93,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>EJ</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3d8f0bb-60a6-46b7-8f97-30e8099113be">Software Developer Intern</a> 🆕</td>
+<td>East Jordan, Michigan, United States</td>
+<td align="center"><a href="https://myjobs.adp.com/externalej/cx/job-details?reqId=5001235738506">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Firefly Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3a2ffde-fe10-4b60-8ab3-56fa33623bdc">Internship - Software Engineering - Spring 2027</a> 🆕</td>
@@ -259,13 +266,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/a8d2223e-db2e-4e69-b7b5-7fccbd773c5c">Consulting Internship: Software Engineering (Summer 2027)</a> 🆕</td>
 <td>Richmond, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478533406/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td><strong>CACI International Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/d84fbe3f-89ca-434b-acf1-967437dca584">Embedded Software Engineering Co-op - Spring 2027</a> 🆕</td>
-<td>Danbury, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480682139/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -1831,7 +1831,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/40e75538-eeab-4739-8f88-17d329ae7b54">Associate Product Manager Summer Internship (Hybrid)</a> 🆕</td>
 <td>Clearwater, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485411943/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Labils</strong></td>
@@ -2476,13 +2476,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">5d</td>
 </tr>
 <tr>
-<td><strong>Fujitsu</strong></td>
-<td><a href="https://trueinterview.io/jobs/80006a31-47a5-43ff-98f4-a3e286b976e0">Network Engineering Co-op</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459072476/">Apply</a></td>
-<td align="center">5d</td>
-</tr>
-<tr>
 <td><strong>Gallagher</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d1a3b48-2161-446f-9c7c-12638b01730f">Technical Support/Trainer Intern</a></td>
 <td>Canton, OH</td>
@@ -2585,7 +2578,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/a5dbfd08-0aa7-44f0-b673-379f1243f5a9">Summer Internship</a></td>
 <td>Burlington, Vermont<br/>Vermont</td>
 <td align="center"><a href="https://www.nuharborsecurity.com/careers?gh_jid=8259956">Apply</a></td>
-<td align="center">27d</td>
+<td align="center">28d</td>
+</tr>
+<tr>
+<td><strong>Tensorwave</strong></td>
+<td><a href="https://trueinterview.io/jobs/076f95ee-3f2f-4ff2-bbaa-a465e4a092dc">Network Engineering Intern</a></td>
+<td>Las Vegas, Nevada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/27d0af24-e945-4abe-ac7c-56db3c0e636d/application">Apply</a></td>
+<td align="center">28d</td>
 </tr>
 </tbody>
 </table>
@@ -2750,7 +2750,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 46 of 50.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 46 of 49.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---

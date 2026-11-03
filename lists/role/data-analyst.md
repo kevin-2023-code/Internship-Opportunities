@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**67 open roles.** 39 in the United States & Canada · 28 elsewhere in the world.
+**68 open roles.** 40 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cfa5536c-47e6-41f4-95ee-0267e0027e61">Summer Intern - Data Analyst</a></td>
 <td>Chesterfield, Missouri, United States</td>
 <td align="center"><a href="https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Data-Analyst_J29309">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TEPA Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d558d76-6a94-4edc-92bc-a66fbf2fc66e">Environmental Data Analyst Intern - Summer 2027</a></td>
+<td>Denver, Colorado, United States</td>
+<td align="center"><a href="https://wd108.myworkdaysite.com/recruiting/tepa/Tepa/job/Denver-CO/Environmental-Data-Analyst-Intern---Summer-2027_R-00274">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

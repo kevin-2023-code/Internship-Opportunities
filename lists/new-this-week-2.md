@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,572 open roles.** 1,231 in the United States & Canada · 341 elsewhere in the world. Everything the employers put up this week.
+**1,568 open roles.** 1,229 in the United States & Canada · 339 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pentair</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc35ab19-925f-4f2a-a04c-9be5d3f567d8">Product Management Leadership Development Internship Program - Summer 2027</a></td>
+<td>Golden Valley, MN<br/>New Brighton, MN<br/>Brookfield, WI<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448309485/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>GFT</strong></td>
 <td><a href="https://trueinterview.io/jobs/546c8681-afcd-45b7-ac76-b814de2df0bf">Intern - Bridge Engineering</a></td>
@@ -2232,13 +2239,6 @@
 <td><a href="https://trueinterview.io/jobs/b0a4652f-4372-4569-b042-90c94c877b8a">Electrical Engineering Intern 2027</a></td>
 <td>Sheboygan, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468362835/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fujitsu</strong></td>
-<td><a href="https://trueinterview.io/jobs/80006a31-47a5-43ff-98f4-a3e286b976e0">Network Engineering Co-op</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459072476/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

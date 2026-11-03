@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-03 22:04 UTC_
+_Last updated: 2026-11-03 23:04 UTC_
 
-**414 open internships** from **233 employers** · **341 posted in the last 7 days** · refreshed hourly
+**412 open internships** from **233 employers** · **339 posted in the last 7 days** · refreshed hourly
 
-### Browse 414 internships by field
+### Browse 412 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (185)
+💻 **[Software Engineering](#-software-engineering)** (183)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (111)
 
@@ -40,7 +40,7 @@ _Last updated: 2026-11-03 22:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**Infineon Technologies** 31 &nbsp;·&nbsp; **NVIDIA** 21 &nbsp;·&nbsp; **Apple** 10 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **SAP** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **HP** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Amazon** 4 &nbsp;·&nbsp; **Crédit Agricole CIB** 4 &nbsp;·&nbsp; **DRW** 4
+**Infineon Technologies** 29 &nbsp;·&nbsp; **NVIDIA** 21 &nbsp;·&nbsp; **Apple** 10 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **SAP** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **HP** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Amazon** 4 &nbsp;·&nbsp; **Crédit Agricole CIB** 4 &nbsp;·&nbsp; **DRW** 4
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 47 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (87)](lists/place/singapore.md) · [🇬🇧 London & the UK (29)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (25)](lists/place/greater-china.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (20)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (14)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🇩🇪 Berlin, Munich & Germany (13)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (11)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (8)](lists/place/poland-cee.md) · [+3 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (341)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (339)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -361,7 +361,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 38 of 185.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 38 of 183.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
