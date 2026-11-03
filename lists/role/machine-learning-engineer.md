@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**96 open roles.** 75 in the United States & Canada · 21 elsewhere in the world.
+**98 open roles.** 77 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bd3fae5-b2d5-4073-a067-959c6df2fe35">2027 Summer Intern - Research and Development - AI/Machine Learning</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478712034/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c1b7fe4-3fea-42fb-b1b9-edb579ff4cde">Deep Learning Research Intern - Summer 2027 - New York</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477914488/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>General Motors</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9783dfc-ae69-4f38-a77c-66bfbcfa8b89">2027 Summer Intern - Research and Development - Machine Learning for Automation</a></td>
@@ -557,7 +571,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
-<td>Strasbourg, Grand Est, France</td>
+<td>Strasbourg, Grand Est, France<br/>Strasbourg, France</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>

@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**78 open roles.** 65 in the United States & Canada · 13 elsewhere in the world.
+**79 open roles.** 66 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>KB Signaling</strong></td>
+<td><a href="https://trueinterview.io/jobs/34001dfe-45a4-4715-9bd1-fc741b17711d">Intern, Data Scientist (Summer 2027)</a></td>
+<td>Melbourne, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486842817/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Toshiba Global Commerce Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/5568d237-c106-446b-b4b2-4523ca90903a">AI Data Science &amp; Business Analytics Intern</a></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T13:04:36.384Z",
-  "count": 2414,
+  "listingsChangedAt": "2026-11-03T14:04:37.089Z",
+  "count": 2426,
   "listings": [
     {
       "id": "7c3ff36b-2d87-4491-8ec0-249fb3011585",
@@ -34,6 +34,116 @@
       "url": "https://trueinterview.io/jobs/7c3ff36b-2d87-4491-8ec0-249fb3011585",
       "postedAt": "2026-11-03T12:25:00.000Z",
       "updatedAt": "2026-11-03T12:25:00.000Z"
+    },
+    {
+      "id": "03d04376-65f5-4999-9b19-67be71655365",
+      "company": "Meta",
+      "title": "Research Scientist Intern PhD, PAR Safety Evals and Red Teaming",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484656855/",
+      "url": "https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365",
+      "postedAt": "2026-11-03T12:15:00.000Z",
+      "updatedAt": "2026-11-03T12:15:00.000Z"
+    },
+    {
+      "id": "8bd3fae5-b2d5-4073-a067-959c6df2fe35",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - Research and Development - AI/Machine Learning",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478712034/",
+      "url": "https://trueinterview.io/jobs/8bd3fae5-b2d5-4073-a067-959c6df2fe35",
+      "postedAt": "2026-11-03T12:09:00.000Z",
+      "updatedAt": "2026-11-03T12:09:00.000Z"
+    },
+    {
+      "id": "34001dfe-45a4-4715-9bd1-fc741b17711d",
+      "company": "KB Signaling",
+      "title": "Intern, Data Scientist (Summer 2027)",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "cities": [
+        "Melbourne"
+      ],
+      "countries": [
+        "United States",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486842817/",
+      "url": "https://trueinterview.io/jobs/34001dfe-45a4-4715-9bd1-fc741b17711d",
+      "postedAt": "2026-11-03T12:04:00.000Z",
+      "updatedAt": "2026-11-03T12:04:00.000Z"
+    },
+    {
+      "id": "7c1b7fe4-3fea-42fb-b1b9-edb579ff4cde",
+      "company": "IMC Trading",
+      "title": "Deep Learning Research Intern - Summer 2027 - New York",
+      "locations": [
+        "New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477914488/",
+      "url": "https://trueinterview.io/jobs/7c1b7fe4-3fea-42fb-b1b9-edb579ff4cde",
+      "postedAt": "2026-11-03T12:01:00.000Z",
+      "updatedAt": "2026-11-03T12:01:00.000Z"
     },
     {
       "id": "83c24cc5-9fd8-4ec1-8ec5-be3b5f0d3283",
@@ -110,6 +220,33 @@
       "url": "https://trueinterview.io/jobs/a27a5497-057e-423f-81e3-70fc11b2f8e4",
       "postedAt": "2026-11-03T11:36:00.000Z",
       "updatedAt": "2026-11-03T11:36:00.000Z"
+    },
+    {
+      "id": "e0876409-fc42-4216-8d71-306bfe6ba301",
+      "company": "Apple",
+      "title": "CAD Virtuoso Engineering Intern (m/f/d)",
+      "locations": [
+        "Munich, Bavaria, Germany"
+      ],
+      "cities": [
+        "Munich"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200693120",
+      "url": "https://trueinterview.io/jobs/e0876409-fc42-4216-8d71-306bfe6ba301",
+      "postedAt": "2026-11-03T11:35:03.000Z",
+      "updatedAt": "2026-11-03T11:35:03.000Z"
     },
     {
       "id": "d185eafc-6437-465f-96da-7599e36daede",
@@ -239,6 +376,33 @@
       "url": "https://trueinterview.io/jobs/d84fbe3f-89ca-434b-acf1-967437dca584",
       "postedAt": "2026-11-03T11:16:25.000Z",
       "updatedAt": "2026-11-03T11:16:25.000Z"
+    },
+    {
+      "id": "04181187-3349-4bbb-a0c7-4c62235ae756",
+      "company": "Nexthink",
+      "title": "Java Software Engineer (Intern)",
+      "locations": [
+        "Madrid, Spain"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/Nexthink/744000159356655-java-software-engineer-intern-",
+      "url": "https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756",
+      "postedAt": "2026-11-03T11:13:30.000Z",
+      "updatedAt": "2026-11-03T11:13:30.000Z"
     },
     {
       "id": "68025d81-98f8-49f2-89cc-24160a23023e",
@@ -657,6 +821,60 @@
       "url": "https://trueinterview.io/jobs/7ff7987b-7f1c-4522-be26-248a458cce9b",
       "postedAt": "2026-11-03T06:57:00.000Z",
       "updatedAt": "2026-11-03T06:57:00.000Z"
+    },
+    {
+      "id": "f803bdcd-77e8-4f95-bc7a-e095d4c35625",
+      "company": "Ledger",
+      "title": "Products Analytics Engineer - Internship",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2",
+      "url": "https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "3ec81ecc-c8a8-498b-89bd-873f43b4741d",
+      "company": "UBS",
+      "title": "Internship in Digital Channels (Product Manager)",
+      "locations": [
+        "Wrocław, Poland"
+      ],
+      "cities": [
+        "Wrocław"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=353369",
+      "url": "https://trueinterview.io/jobs/3ec81ecc-c8a8-498b-89bd-873f43b4741d",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
       "id": "3c658b82-f7dc-465e-9373-843e22925c7d",
@@ -2757,7 +2975,8 @@
       "company": "Qualcomm",
       "title": "FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France",
       "locations": [
-        "Strasbourg, Grand Est, France"
+        "Strasbourg, Grand Est, France",
+        "Strasbourg, France"
       ],
       "cities": [],
       "countries": [
@@ -2782,7 +3001,8 @@
       "company": "Intel",
       "title": "DevOps Software Engineering Intern",
       "locations": [
-        "Gdańsk, Pomorskie, Poland"
+        "Gdańsk, Pomorskie, Poland",
+        "Gdańsk, Poland"
       ],
       "cities": [],
       "countries": [
@@ -2797,7 +3017,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485735587/",
+      "applyUrl": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633",
       "url": "https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763",
       "postedAt": "2026-11-02T16:30:00.000Z",
       "updatedAt": "2026-11-02T16:30:00.000Z"
@@ -3695,6 +3915,31 @@
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
     {
+      "id": "dba57f1b-b586-4ca0-bff8-08f199082b17",
+      "company": "Holcim",
+      "title": "R&D Engineer Intern - Calcined Clay Cement",
+      "locations": [
+        "Saint-Quentin-Fallavier, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.holcimgroup.com/job/Saint-Quentin-Fallavier-R&D-Engineer-Intern-Calcined-Clay-Cement-38291/1376462957/",
+      "url": "https://trueinterview.io/jobs/dba57f1b-b586-4ca0-bff8-08f199082b17",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "e555892b-5bfe-4d9b-b73d-a7a28965491f",
       "company": "HP",
       "title": "Data Science Intern",
@@ -3716,6 +3961,31 @@
       "source": "indeed",
       "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
       "url": "https://trueinterview.io/jobs/e555892b-5bfe-4d9b-b73d-a7a28965491f",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "df946a49-191e-4bdd-9e54-e32a99831a59",
+      "company": "ITW Performance Polymers",
+      "title": "Process Engineering Co-Op",
+      "locations": [
+        "Clare, Ireland"
+      ],
+      "cities": [],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.itw.com/us/en/job/ITWITWUSJR10942EXTERNALENUS/Process-Engineering-Co-Op",
+      "url": "https://trueinterview.io/jobs/df946a49-191e-4bdd-9e54-e32a99831a59",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -3743,6 +4013,31 @@
       "source": "indeed",
       "applyUrl": "https://recrutement.natixis.com/en/job/internship-6-months-data-scientist-f-m",
       "url": "https://trueinterview.io/jobs/194b37a8-7a7f-466a-a82a-9fee01a9fa79",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "3ec22e11-b9ad-4260-a07f-ebade9ff6ac0",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Wireless R&D, Engineering Internship - 6 month, France",
+      "locations": [
+        "Lannion, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://app.eightfold.ai/careers/job/446721911135?domain=qualcomm.com",
+      "url": "https://trueinterview.io/jobs/3ec22e11-b9ad-4260-a07f-ebade9ff6ac0",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -3872,6 +4167,33 @@
       "source": "indeed",
       "applyUrl": "https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC",
       "url": "https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "cf541c8b-7b2e-4240-a5f9-538f47bae89c",
+      "company": "Veolia",
+      "title": "Energy Engineer Intern",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://veoliauki.wd3.myworkdayjobs.com/VeoliaIrelandCareers/job/Blanchardstown/Energy-Engineer-Intern_JR33810",
+      "url": "https://trueinterview.io/jobs/cf541c8b-7b2e-4240-a5f9-538f47bae89c",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
