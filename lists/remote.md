@@ -247,11 +247,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Altheory Technologies Pvt Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/8de134fa-3116-415a-871f-1317522af9fd">Backend Developer Intern</a> 🌐</td>
+<td><strong>Spearmint technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc">Full Stack AI Developer Intern</a> 🌐</td>
 <td>Remote — India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=4ec69c8d589204b7">Apply</a></td>
-<td align="center">2 Nov 2026</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=7cb2271a0ae03786">Apply</a></td>
+<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Mhtechin</strong></td>

@@ -5,9 +5,35 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T14:04:37.089Z",
-  "count": 2426,
+  "listingsChangedAt": "2026-11-03T15:04:19.678Z",
+  "count": 2430,
   "listings": [
+    {
+      "id": "832b3651-b1ce-4e6b-bef3-957ac0ec4cfc",
+      "company": "Spearmint technologies",
+      "title": "Full Stack AI Developer Intern",
+      "locations": [
+        "Remote, India",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://in.indeed.com/viewjob?jk=7cb2271a0ae03786",
+      "url": "https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc",
+      "postedAt": "2026-11-03T12:47:15.000Z",
+      "updatedAt": "2026-11-03T12:47:15.000Z"
+    },
     {
       "id": "7c3ff36b-2d87-4491-8ec0-249fb3011585",
       "company": "General Motors",
@@ -821,6 +847,31 @@
       "url": "https://trueinterview.io/jobs/7ff7987b-7f1c-4522-be26-248a458cce9b",
       "postedAt": "2026-11-03T06:57:00.000Z",
       "updatedAt": "2026-11-03T06:57:00.000Z"
+    },
+    {
+      "id": "78556070-d5a5-46ed-a26a-ccb570d3d928",
+      "company": "Guardian Industries",
+      "title": "Guardian Kettering Engineering Co-Op",
+      "locations": [
+        "Auburn Hills, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ars2.equest.com/?response_id=1b393cc9818e7b3795895c65ab78363b",
+      "url": "https://trueinterview.io/jobs/78556070-d5a5-46ed-a26a-ccb570d3d928",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
       "id": "f803bdcd-77e8-4f95-bc7a-e095d4c35625",
@@ -2658,32 +2709,6 @@
       "updatedAt": "2026-11-02T17:04:00.000Z"
     },
     {
-      "id": "8de134fa-3116-415a-871f-1317522af9fd",
-      "company": "Altheory Technologies Pvt Ltd",
-      "title": "Backend Developer Intern",
-      "locations": [
-        "India",
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://in.indeed.com/viewjob?jk=4ec69c8d589204b7",
-      "url": "https://trueinterview.io/jobs/8de134fa-3116-415a-871f-1317522af9fd",
-      "postedAt": "2026-11-02T17:02:15.000Z",
-      "updatedAt": "2026-11-02T17:02:15.000Z"
-    },
-    {
       "id": "85e53129-e797-49a7-a7b8-5cc06d27ea30",
       "company": "Citadel Securities",
       "title": "Quantitative Researcher – Post-Doctoral Intern (US)",
@@ -3727,6 +3752,31 @@
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
     {
+      "id": "34464394-96cc-4022-8844-ed360bdb66eb",
+      "company": "colortech inc",
+      "title": "Quality Engineering Coop",
+      "locations": [
+        "Morristown, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.paycomonline.net/v4/ats/web.php/portal/4772B050B5C6CDB7F069E4A9A5904C26/jobs/356990",
+      "url": "https://trueinterview.io/jobs/34464394-96cc-4022-8844-ed360bdb66eb",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "615b795d-c10f-4e49-a4b2-e94b6b52a083",
       "company": "Draper",
       "title": "Digital Engineering – Requirements Engineering Co-Op (Spring 2027)",
@@ -3886,6 +3936,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.lever.co/geocomply-2/a6c7ef11-e1ab-4746-9ef7-d1c5f408b765",
       "url": "https://trueinterview.io/jobs/3df7bdd7-e13c-4e73-b51d-6b6b36b9c533",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "e022da69-2b42-4871-8781-a907c3031d01",
+      "company": "Gorbel Inc",
+      "title": "Mechanical Engineering Co-Op",
+      "locations": [
+        "Victor, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2343-1",
+      "url": "https://trueinterview.io/jobs/e022da69-2b42-4871-8781-a907c3031d01",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -4090,6 +4165,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.roche.com/de/de/job/202610-127712",
       "url": "https://trueinterview.io/jobs/cd517478-f076-4001-9c29-76645ddea4ba",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "4750fda9-368d-471b-bfec-0d069967932e",
+      "company": "Schneider Electric",
+      "title": "Tendering Project Engineer Intern STP27",
+      "locations": [
+        "Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.se.com/jobs/140549/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/4750fda9-368d-471b-bfec-0d069967932e",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
