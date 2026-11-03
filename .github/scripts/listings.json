@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T15:04:19.678Z",
-  "count": 2430,
+  "listingsChangedAt": "2026-11-03T16:05:10.801Z",
+  "count": 2429,
   "listings": [
+    {
+      "id": "4884f200-f496-410e-88f8-a9deb77e581c",
+      "company": "Marketeq Talent",
+      "title": "UX Research & Design - Internship",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486870844/",
+      "url": "https://trueinterview.io/jobs/4884f200-f496-410e-88f8-a9deb77e581c",
+      "postedAt": "2026-11-03T14:16:00.000Z",
+      "updatedAt": "2026-11-03T14:16:00.000Z"
+    },
     {
       "id": "832b3651-b1ce-4e6b-bef3-957ac0ec4cfc",
       "company": "Spearmint technologies",
@@ -3884,6 +3909,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/enpal/8c407089-cfdb-47b8-9e35-de7ce3073148",
       "url": "https://trueinterview.io/jobs/d4cfd770-2024-4b51-bb7c-d7df00ef80e6",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "03b656ea-8f22-46e7-bd62-63992417c322",
+      "company": "Enterpret",
+      "title": "Machine Learning Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://job-boards.greenhouse.io/enterpret/jobs/7723230003",
+      "url": "https://trueinterview.io/jobs/03b656ea-8f22-46e7-bd62-63992417c322",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -62993,87 +63043,6 @@
       "url": "https://trueinterview.io/jobs/668c76b9-362a-4575-81b1-f71c6ee114f5",
       "postedAt": "2026-09-04T16:06:19.000Z",
       "updatedAt": "2026-09-04T16:06:19.000Z"
-    },
-    {
-      "id": "5fcfe5ab-6e0b-41d2-9e26-2345224a198e",
-      "company": "Scale.ai",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
-      "url": "https://trueinterview.io/jobs/5fcfe5ab-6e0b-41d2-9e26-2345224a198e",
-      "postedAt": "2026-09-04T16:00:19.000Z",
-      "updatedAt": "2026-09-04T16:00:19.000Z"
-    },
-    {
-      "id": "8f9597ef-3aae-4320-99d8-a029be87d10d",
-      "company": "General Dynamics Missions System International",
-      "title": "Co-op Winter 2027 - Software Engineering Developer - 16-Months",
-      "locations": [
-        "Calgary, Alberta, Canada"
-      ],
-      "cities": [
-        "Calgary, AB"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000147556214-co-op-winter-2027-software-engineering-developer-16-months",
-      "url": "https://trueinterview.io/jobs/8f9597ef-3aae-4320-99d8-a029be87d10d",
-      "postedAt": "2026-09-04T15:46:03.000Z",
-      "updatedAt": "2026-09-04T15:46:03.000Z"
-    },
-    {
-      "id": "c79820a9-9fdd-49dd-970f-14b90232fbef",
-      "company": "General Dynamics Missions System International",
-      "title": "Co-op Winter 2027 - Software Developer - 8 Months",
-      "locations": [
-        "Ottawa, Ontario, Canada"
-      ],
-      "cities": [
-        "Ottawa, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000147554134-co-op-winter-2027-software-developer-8-months",
-      "url": "https://trueinterview.io/jobs/c79820a9-9fdd-49dd-970f-14b90232fbef",
-      "postedAt": "2026-09-04T15:43:38.000Z",
-      "updatedAt": "2026-09-04T15:43:38.000Z"
     }
   ]
 }
