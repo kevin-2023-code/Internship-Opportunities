@@ -5,9 +5,39 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T09:05:25.400Z",
-  "count": 2398,
+  "listingsChangedAt": "2026-11-03T10:04:21.059Z",
+  "count": 2401,
   "listings": [
+    {
+      "id": "719a47a0-a251-4f6e-b80a-4d6c02e17f44",
+      "company": "Pacific Northwest National Laboratory",
+      "title": "NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference",
+      "locations": [
+        "Richland, Washington, United States",
+        "Seattle, Washington, United States",
+        "Seattle, WA",
+        "Richland, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.pnnl.gov/jobs/12899",
+      "url": "https://trueinterview.io/jobs/719a47a0-a251-4f6e-b80a-4d6c02e17f44",
+      "postedAt": "2026-11-02T22:44:00.000Z",
+      "updatedAt": "2026-11-03T08:54:00.000Z"
+    },
     {
       "id": "76e2837a-6727-4edc-87f7-54e0d172f62e",
       "company": "Pacific Northwest National Laboratory",
@@ -63,6 +93,33 @@
       "url": "https://trueinterview.io/jobs/de6952ac-7a09-4cfb-aeaa-d80cd725e3c8",
       "postedAt": "2026-11-03T08:43:00.000Z",
       "updatedAt": "2026-11-03T08:43:00.000Z"
+    },
+    {
+      "id": "647f9873-243e-4742-b4ca-411cf5b46aef",
+      "company": "Informa",
+      "title": "Data Analyst Internship",
+      "locations": [
+        "Amsterdam, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159322318-data-analyst-internship",
+      "url": "https://trueinterview.io/jobs/647f9873-243e-4742-b4ca-411cf5b46aef",
+      "postedAt": "2026-11-03T08:29:21.000Z",
+      "updatedAt": "2026-11-03T08:29:21.000Z"
     },
     {
       "id": "f058875b-5d1e-4f51-b465-4280b35963cd",
@@ -240,6 +297,31 @@
       "url": "https://trueinterview.io/jobs/45acc3fa-ae77-4aa8-bb5f-244a0c3756fd",
       "postedAt": "2026-11-03T07:25:00.000Z",
       "updatedAt": "2026-11-03T07:25:00.000Z"
+    },
+    {
+      "id": "7ff7987b-7f1c-4522-be26-248a458cce9b",
+      "company": "NVIDIA",
+      "title": "Product Marketing MBA Intern, AI Infrastructure — Summer 2027",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486038029/",
+      "url": "https://trueinterview.io/jobs/7ff7987b-7f1c-4522-be26-248a458cce9b",
+      "postedAt": "2026-11-03T06:57:00.000Z",
+      "updatedAt": "2026-11-03T06:57:00.000Z"
     },
     {
       "id": "3c658b82-f7dc-465e-9373-843e22925c7d",
@@ -1350,34 +1432,6 @@
       "url": "https://trueinterview.io/jobs/058f4e6b-b4fd-4d1a-88a5-cb32f2930a81",
       "postedAt": "2026-11-02T23:20:00.000Z",
       "updatedAt": "2026-11-02T23:20:00.000Z"
-    },
-    {
-      "id": "719a47a0-a251-4f6e-b80a-4d6c02e17f44",
-      "company": "Pacific Northwest National Laboratory",
-      "title": "NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference",
-      "locations": [
-        "Richland, Washington, United States",
-        "Seattle, Washington, United States"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://careers.pnnl.gov/jobs/12899",
-      "url": "https://trueinterview.io/jobs/719a47a0-a251-4f6e-b80a-4d6c02e17f44",
-      "postedAt": "2026-11-02T22:44:00.000Z",
-      "updatedAt": "2026-11-02T22:44:00.000Z"
     },
     {
       "id": "59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
@@ -5091,6 +5145,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&-Quality-Engineering/1452874133/",
       "url": "https://trueinterview.io/jobs/c231248d-92f5-419a-893c-341752aeda98",
+      "postedAt": "2026-11-01T05:00:00.000Z",
+      "updatedAt": "2026-11-01T05:00:00.000Z"
+    },
+    {
+      "id": "b5fa0311-355f-4968-8eeb-a5cae01bbdd2",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)",
+      "locations": [
+        "Zürich, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.metacareers.com/jobs/1886852912490515/",
+      "url": "https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2",
       "postedAt": "2026-11-01T05:00:00.000Z",
       "updatedAt": "2026-11-01T05:00:00.000Z"
     },

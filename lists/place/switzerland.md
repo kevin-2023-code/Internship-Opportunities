@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**20 open roles.** 2 in the United States & Canada · 18 elsewhere in the world.
+**21 open roles.** 2 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -49,6 +49,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Basel, Switzerland</td>
 <td align="center"><a href="https://careers.roche.com/de/de/job/202610-127712">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2">Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Kanadevia Inova</strong></td>

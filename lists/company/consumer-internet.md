@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**93 open roles.** 85 in the United States & Canada · 8 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**94 open roles.** 85 in the United States & Canada · 9 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -630,6 +630,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477508989/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2">Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>

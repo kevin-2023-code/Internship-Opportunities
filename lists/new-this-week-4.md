@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,484 open roles.** 1,166 in the United States & Canada · 318 elsewhere in the world. Everything the employers put up this week.
+**1,487 open roles.** 1,167 in the United States & Canada · 320 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,9 +19,30 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>European Space Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/868a61c8-9162-4748-9e67-61a31badc3ed">Intern in the Galileo and Egnos Programme Department - AI for Galileo System Engineering and MBSE</a></td>
+<td>Noordwijk, Netherlands</td>
+<td align="center"><a href="https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-Egnos-Programme-Department-AI-for-Galileo-System-Engineering-and-MBSE/1452922733/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb595165-9247-4b1f-9ce3-7bd4f1a436e3">Intern in the Galileo and EGNOS Programme Department - System Engineering Section</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c231248d-92f5-419a-893c-341752aeda98">Intern in the Science Operations Department-AI Automation of Product Assurance &amp; Quality Engineering</a></td>
 <td>Villanueva de la Cañada, Spain</td>
 <td align="center"><a href="https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&amp;-Quality-Engineering/1452874133/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2">Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
