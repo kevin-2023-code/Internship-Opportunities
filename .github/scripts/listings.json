@@ -5,9 +5,140 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T01:04:58.081Z",
-  "count": 2357,
+  "listingsChangedAt": "2026-11-03T02:06:44.780Z",
+  "count": 2364,
   "listings": [
+    {
+      "id": "36306fdc-c785-417e-912f-bb8da884900e",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - InfoSec AI/ML",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486465866/",
+      "url": "https://trueinterview.io/jobs/36306fdc-c785-417e-912f-bb8da884900e",
+      "postedAt": "2026-11-03T00:55:14.000Z",
+      "updatedAt": "2026-11-03T00:55:14.000Z"
+    },
+    {
+      "id": "4af3ace3-91d3-46d1-af05-bfe9420ef2fd",
+      "company": "Staples",
+      "title": "Software Engineer Intern, Marketplace Platform",
+      "locations": [
+        "Framingham, Massachusetts, United States",
+        "Framingham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/77076",
+      "url": "https://trueinterview.io/jobs/4af3ace3-91d3-46d1-af05-bfe9420ef2fd",
+      "postedAt": "2026-11-02T18:52:08.000Z",
+      "updatedAt": "2026-11-03T00:54:00.000Z"
+    },
+    {
+      "id": "65f94030-d1aa-48e0-91b2-7434c18df9b2",
+      "company": "MITRE",
+      "title": "AI Engineering Intern",
+      "locations": [
+        "Bedford, MA",
+        "McLean, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479785073/",
+      "url": "https://trueinterview.io/jobs/65f94030-d1aa-48e0-91b2-7434c18df9b2",
+      "postedAt": "2026-11-03T00:48:00.000Z",
+      "updatedAt": "2026-11-03T00:48:00.000Z"
+    },
+    {
+      "id": "d00b9225-1d9b-4b22-84e9-a8c82e31a7ce",
+      "company": "Samsung Semiconductor",
+      "title": "Intern, AI Application Engineer",
+      "locations": [
+        "Folsom, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "AI Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485785816/",
+      "url": "https://trueinterview.io/jobs/d00b9225-1d9b-4b22-84e9-a8c82e31a7ce",
+      "postedAt": "2026-11-03T00:42:00.000Z",
+      "updatedAt": "2026-11-03T00:42:00.000Z"
+    },
+    {
+      "id": "292f4a60-3293-4bee-9379-05de0723cb58",
+      "company": "Costco IT",
+      "title": "CDS Intern - InfoSec AI/ML",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486471359/",
+      "url": "https://trueinterview.io/jobs/292f4a60-3293-4bee-9379-05de0723cb58",
+      "postedAt": "2026-11-03T00:32:00.000Z",
+      "updatedAt": "2026-11-03T00:32:00.000Z"
+    },
     {
       "id": "58a7f456-2440-45fe-bf32-e31680df51db",
       "company": "Shield",
@@ -243,6 +374,56 @@
       "updatedAt": "2026-11-03T00:04:00.000Z"
     },
     {
+      "id": "f88bbe30-4695-487d-a121-0207310719f2",
+      "company": "Toshiba Global Commerce Solutions",
+      "title": "AI Automation & Revenue Ops Intern",
+      "locations": [
+        "Durham, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485774933/",
+      "url": "https://trueinterview.io/jobs/f88bbe30-4695-487d-a121-0207310719f2",
+      "postedAt": "2026-11-03T00:03:00.000Z",
+      "updatedAt": "2026-11-03T00:03:00.000Z"
+    },
+    {
+      "id": "5568d237-c106-446b-b4b2-4523ca90903a",
+      "company": "Toshiba Global Commerce Solutions",
+      "title": "AI Data Science & Business Analytics Intern",
+      "locations": [
+        "Durham, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485785357/",
+      "url": "https://trueinterview.io/jobs/5568d237-c106-446b-b4b2-4523ca90903a",
+      "postedAt": "2026-11-03T00:03:00.000Z",
+      "updatedAt": "2026-11-03T00:03:00.000Z"
+    },
+    {
       "id": "13f8f537-f34d-4541-a075-6c1cc6640d70",
       "company": "Astro Mechanica",
       "title": "Software Engineering Intern",
@@ -318,6 +499,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4486466670/",
       "url": "https://trueinterview.io/jobs/3a369222-e5ed-4388-af90-286bccf998b0",
+      "postedAt": "2026-11-02T23:48:00.000Z",
+      "updatedAt": "2026-11-02T23:48:00.000Z"
+    },
+    {
+      "id": "e2183dcd-5bbb-495c-a42a-0a0f37737595",
+      "company": "Keysight Technologies",
+      "title": "DevSecOps, Intern",
+      "locations": [
+        "Colorado Springs, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484613030/",
+      "url": "https://trueinterview.io/jobs/e2183dcd-5bbb-495c-a42a-0a0f37737595",
       "postedAt": "2026-11-02T23:48:00.000Z",
       "updatedAt": "2026-11-02T23:48:00.000Z"
     },
@@ -661,6 +867,34 @@
       "url": "https://trueinterview.io/jobs/058f4e6b-b4fd-4d1a-88a5-cb32f2930a81",
       "postedAt": "2026-11-02T23:20:00.000Z",
       "updatedAt": "2026-11-02T23:20:00.000Z"
+    },
+    {
+      "id": "719a47a0-a251-4f6e-b80a-4d6c02e17f44",
+      "company": "Pacific Northwest National Laboratory",
+      "title": "NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference",
+      "locations": [
+        "Richland, Washington, United States",
+        "Seattle, Washington, United States"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.pnnl.gov/jobs/12899",
+      "url": "https://trueinterview.io/jobs/719a47a0-a251-4f6e-b80a-4d6c02e17f44",
+      "postedAt": "2026-11-02T22:44:00.000Z",
+      "updatedAt": "2026-11-02T22:44:00.000Z"
     },
     {
       "id": "59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
@@ -1021,31 +1255,6 @@
       "url": "https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949",
       "postedAt": "2026-11-02T18:54:00.000Z",
       "updatedAt": "2026-11-02T18:54:00.000Z"
-    },
-    {
-      "id": "4af3ace3-91d3-46d1-af05-bfe9420ef2fd",
-      "company": "Staples Inc.",
-      "title": "Software Engineer Intern, Marketplace Platform",
-      "locations": [
-        "Framingham, Massachusetts, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/77076",
-      "url": "https://trueinterview.io/jobs/4af3ace3-91d3-46d1-af05-bfe9420ef2fd",
-      "postedAt": "2026-11-02T18:52:08.000Z",
-      "updatedAt": "2026-11-02T18:52:08.000Z"
     },
     {
       "id": "b10caa2b-1dc2-4b35-9eb3-311345ff4359",
@@ -2918,31 +3127,6 @@
       "source": "career-sites",
       "applyUrl": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257",
       "url": "https://trueinterview.io/jobs/f0cdc428-77f4-4454-8621-d8d3c6a85f45",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "updatedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "60b47dd7-09f3-4fda-8daf-ae503a1e1e9f",
-      "company": "Zebra Technologies",
-      "title": "2027 Summer Internship (US) - Data Scientist",
-      "locations": [
-        "Lincolnshire, Illinois, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
-      "url": "https://trueinterview.io/jobs/60b47dd7-09f3-4fda-8daf-ae503a1e1e9f",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
