@@ -21,7 +21,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Valmont Industries, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/4977afa4-51ca-4928-84d1-5d8379f60b9c">Embedded Systems Engineering Intern</a></td>
 <td>Valley, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486470223/">Apply</a></td>
+<td align="center"><a href="https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
