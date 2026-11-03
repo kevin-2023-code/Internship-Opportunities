@@ -5,9 +5,322 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T00:11:25.175Z",
-  "count": 2337,
+  "listingsChangedAt": "2026-11-03T01:04:58.081Z",
+  "count": 2357,
   "listings": [
+    {
+      "id": "58a7f456-2440-45fe-bf32-e31680df51db",
+      "company": "Shield",
+      "title": "Summer 2027 Intern - Embedded Firmware - 5810",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486478762/",
+      "url": "https://trueinterview.io/jobs/58a7f456-2440-45fe-bf32-e31680df51db",
+      "postedAt": "2026-11-03T00:27:00.000Z",
+      "updatedAt": "2026-11-03T00:27:00.000Z"
+    },
+    {
+      "id": "271986b9-5ab8-49cb-9ada-598ad8fea3c5",
+      "company": "Werner",
+      "title": "AI Intern (Summer 2027)",
+      "locations": [
+        "Appleton, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485794880/",
+      "url": "https://trueinterview.io/jobs/271986b9-5ab8-49cb-9ada-598ad8fea3c5",
+      "postedAt": "2026-11-03T00:27:00.000Z",
+      "updatedAt": "2026-11-03T00:27:00.000Z"
+    },
+    {
+      "id": "b5d9ff92-1f0d-4238-bd11-6266fed087eb",
+      "company": "American Express",
+      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ",
+      "locations": [
+        "Phoenix, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485788798/",
+      "url": "https://trueinterview.io/jobs/b5d9ff92-1f0d-4238-bd11-6266fed087eb",
+      "postedAt": "2026-11-03T00:19:00.000Z",
+      "updatedAt": "2026-11-03T00:19:00.000Z"
+    },
+    {
+      "id": "d576ac4e-6ada-495a-b1d8-697e06f54d17",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - Software Engineer - International Depot",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486484107/",
+      "url": "https://trueinterview.io/jobs/d576ac4e-6ada-495a-b1d8-697e06f54d17",
+      "postedAt": "2026-11-03T00:18:00.000Z",
+      "updatedAt": "2026-11-03T00:18:00.000Z"
+    },
+    {
+      "id": "42f43239-de0a-40a3-8820-9c4365e8e2a1",
+      "company": "Toshiba Global Commerce Solutions",
+      "title": "Agentic Software Engineering Intern",
+      "locations": [
+        "Frisco, TX",
+        "Durham, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485783392/",
+      "url": "https://trueinterview.io/jobs/42f43239-de0a-40a3-8820-9c4365e8e2a1",
+      "postedAt": "2026-11-03T00:05:00.000Z",
+      "updatedAt": "2026-11-03T00:18:00.000Z"
+    },
+    {
+      "id": "848b5af4-5651-4811-aed5-b298f5eea1c2",
+      "company": "Zebra Technologies",
+      "title": "2027 Summer Internship (US) - Software Engineer",
+      "locations": [
+        "Holtsville, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484385991/",
+      "url": "https://trueinterview.io/jobs/848b5af4-5651-4811-aed5-b298f5eea1c2",
+      "postedAt": "2026-11-03T00:18:00.000Z",
+      "updatedAt": "2026-11-03T00:18:00.000Z"
+    },
+    {
+      "id": "4bb6f2a8-dd1d-4707-8d75-d029585c3469",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - Software Engineer - IT Retail Media",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486485183/",
+      "url": "https://trueinterview.io/jobs/4bb6f2a8-dd1d-4707-8d75-d029585c3469",
+      "postedAt": "2026-11-03T00:09:00.000Z",
+      "updatedAt": "2026-11-03T00:09:00.000Z"
+    },
+    {
+      "id": "df199d78-a8b0-45ee-84a5-8ebc22b827ce",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - PowerApps Developer - ECM Digital Workflow",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486478194/",
+      "url": "https://trueinterview.io/jobs/df199d78-a8b0-45ee-84a5-8ebc22b827ce",
+      "postedAt": "2026-11-03T00:04:00.000Z",
+      "updatedAt": "2026-11-03T00:04:00.000Z"
+    },
+    {
+      "id": "843cef2b-daa4-4095-b84e-87568f4e4f96",
+      "company": "Costco Wholesale",
+      "title": "CDS Intern - Software Engineer - Costco Travel",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486472540/",
+      "url": "https://trueinterview.io/jobs/843cef2b-daa4-4095-b84e-87568f4e4f96",
+      "postedAt": "2026-11-03T00:04:00.000Z",
+      "updatedAt": "2026-11-03T00:04:00.000Z"
+    },
+    {
+      "id": "13f8f537-f34d-4541-a075-6c1cc6640d70",
+      "company": "Astro Mechanica",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486452765/",
+      "url": "https://trueinterview.io/jobs/13f8f537-f34d-4541-a075-6c1cc6640d70",
+      "postedAt": "2026-11-02T23:58:00.000Z",
+      "updatedAt": "2026-11-02T23:58:00.000Z"
+    },
+    {
+      "id": "337b7ce1-cd21-4b9b-ab2a-2565d992469e",
+      "company": "Skyband Systems",
+      "title": "Spring 2027 Internship: Software Engineering",
+      "locations": [
+        "Kirkland, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486445911/",
+      "url": "https://trueinterview.io/jobs/337b7ce1-cd21-4b9b-ab2a-2565d992469e",
+      "postedAt": "2026-11-02T23:54:00.000Z",
+      "updatedAt": "2026-11-02T23:54:00.000Z"
+    },
+    {
+      "id": "3a369222-e5ed-4388-af90-286bccf998b0",
+      "company": "Costco IT",
+      "title": "CDS Intern - Software Engineer - IT Retail Media",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486466670/",
+      "url": "https://trueinterview.io/jobs/3a369222-e5ed-4388-af90-286bccf998b0",
+      "postedAt": "2026-11-02T23:48:00.000Z",
+      "updatedAt": "2026-11-02T23:48:00.000Z"
+    },
     {
       "id": "ed2c0253-d194-410d-b971-d1c273a1d546",
       "company": "Costco Wholesale",
@@ -50,7 +363,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -63,31 +376,107 @@
       "updatedAt": "2026-11-02T23:47:00.000Z"
     },
     {
-      "id": "76fe09ef-c411-40eb-ad0b-ed7d1f2336bc",
-      "company": "T-Mobile",
-      "title": "Summer 2027 Product Operations Manager Internship",
+      "id": "fb9e72fd-a2b1-4b2c-9dcb-f80c79b2cb07",
+      "company": "Costco IT",
+      "title": "CDS Intern - Software Engineer - International Depot",
       "locations": [
-        "Bellevue, WA"
+        "Seattle, WA"
       ],
       "cities": [
-        "Bellevue, WA"
+        "Seattle, WA"
       ],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486472297/",
-      "url": "https://trueinterview.io/jobs/76fe09ef-c411-40eb-ad0b-ed7d1f2336bc",
-      "postedAt": "2026-11-02T23:41:00.000Z",
-      "updatedAt": "2026-11-02T23:41:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486468449/",
+      "url": "https://trueinterview.io/jobs/fb9e72fd-a2b1-4b2c-9dcb-f80c79b2cb07",
+      "postedAt": "2026-11-02T23:44:00.000Z",
+      "updatedAt": "2026-11-02T23:44:00.000Z"
+    },
+    {
+      "id": "a308f684-a8c5-4f78-851c-6d8aa9c2656c",
+      "company": "Modern Technology Solutions, Inc. (MTSI)",
+      "title": "Software Engineering Intern or Co-Op",
+      "locations": [
+        "Chantilly, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485782590/",
+      "url": "https://trueinterview.io/jobs/a308f684-a8c5-4f78-851c-6d8aa9c2656c",
+      "postedAt": "2026-11-02T23:40:00.000Z",
+      "updatedAt": "2026-11-02T23:40:00.000Z"
+    },
+    {
+      "id": "9a8a1750-297f-42e6-b020-978dc77731ec",
+      "company": "Wellmark Blue Cross and Blue Shield",
+      "title": "Software Engineer Internship – AI Platform Team",
+      "locations": [
+        "Des Moines, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484604867/",
+      "url": "https://trueinterview.io/jobs/9a8a1750-297f-42e6-b020-978dc77731ec",
+      "postedAt": "2026-11-02T23:36:00.000Z",
+      "updatedAt": "2026-11-02T23:36:00.000Z"
+    },
+    {
+      "id": "ca28cc09-c633-4913-a596-837159e16bf0",
+      "company": "The Aerospace Corporation",
+      "title": "2027 Software Engineering Undergrad Intern",
+      "locations": [
+        "El Segundo, California, United States",
+        "El Segundo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102",
+      "url": "https://trueinterview.io/jobs/ca28cc09-c633-4913-a596-837159e16bf0",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T23:34:00.000Z"
     },
     {
       "id": "5b217327-7793-4a97-9050-76fcad0e1a73",
@@ -104,7 +493,7 @@
       ],
       "remote": "onsite",
       "category": "Product & Design",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Product Manager",
       "seniority": "intern",
       "level": "newgrad",
@@ -114,6 +503,32 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4486476177/",
       "url": "https://trueinterview.io/jobs/5b217327-7793-4a97-9050-76fcad0e1a73",
       "postedAt": "2026-11-02T23:33:00.000Z",
+      "updatedAt": "2026-11-02T23:33:00.000Z"
+    },
+    {
+      "id": "4202c7cd-1849-4e21-9055-cbada40860f9",
+      "company": "The Aerospace Corporation",
+      "title": "2027 Software Engineering Grad Intern",
+      "locations": [
+        "El Segundo, California, United States",
+        "El Segundo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101",
+      "url": "https://trueinterview.io/jobs/4202c7cd-1849-4e21-9055-cbada40860f9",
+      "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T23:33:00.000Z"
     },
     {
@@ -142,6 +557,110 @@
       "url": "https://trueinterview.io/jobs/380a6139-2f3b-42cd-a55f-feee43da6869",
       "postedAt": "2026-11-02T23:31:00.000Z",
       "updatedAt": "2026-11-02T23:31:00.000Z"
+    },
+    {
+      "id": "68531b95-0729-4552-9a9e-858ea86d9a43",
+      "company": "Costco IT",
+      "title": "CDS Intern - PowerApps Developer - ECM Digital Workflow",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486466668/",
+      "url": "https://trueinterview.io/jobs/68531b95-0729-4552-9a9e-858ea86d9a43",
+      "postedAt": "2026-11-02T23:30:00.000Z",
+      "updatedAt": "2026-11-02T23:30:00.000Z"
+    },
+    {
+      "id": "5759b262-21de-4999-a703-09c5c8901617",
+      "company": "Costco IT",
+      "title": "CDS Intern - Software Engineer - Costco Travel",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486457973/",
+      "url": "https://trueinterview.io/jobs/5759b262-21de-4999-a703-09c5c8901617",
+      "postedAt": "2026-11-02T23:30:00.000Z",
+      "updatedAt": "2026-11-02T23:30:00.000Z"
+    },
+    {
+      "id": "4977afa4-51ca-4928-84d1-5d8379f60b9c",
+      "company": "Valmont Industries, Inc.",
+      "title": "Embedded Systems Engineering Intern",
+      "locations": [
+        "Valley, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486470223/",
+      "url": "https://trueinterview.io/jobs/4977afa4-51ca-4928-84d1-5d8379f60b9c",
+      "postedAt": "2026-11-02T23:28:00.000Z",
+      "updatedAt": "2026-11-02T23:28:00.000Z"
+    },
+    {
+      "id": "058f4e6b-b4fd-4d1a-88a5-cb32f2930a81",
+      "company": "Toshiba Global Commerce Solutions",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Durham, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485788253/",
+      "url": "https://trueinterview.io/jobs/058f4e6b-b4fd-4d1a-88a5-cb32f2930a81",
+      "postedAt": "2026-11-02T23:20:00.000Z",
+      "updatedAt": "2026-11-02T23:20:00.000Z"
     },
     {
       "id": "59b7eaff-3853-4fb3-8b3f-86980fc14c3d",
@@ -2202,6 +2721,56 @@
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
+      "id": "a7ec2321-46bc-4275-a2b3-5a1e94113494",
+      "company": "JM&A Group",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Deerfield Beach, Florida, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182",
+      "url": "https://trueinterview.io/jobs/a7ec2321-46bc-4275-a2b3-5a1e94113494",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
+      "id": "be5ebe88-995c-4f4a-9706-7a68996ca81c",
+      "company": "Leidos",
+      "title": "Data Science Intern",
+      "locations": [
+        "Arlington, Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049",
+      "url": "https://trueinterview.io/jobs/be5ebe88-995c-4f4a-9706-7a68996ca81c",
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "updatedAt": "2026-11-02T00:00:00.000Z"
+    },
+    {
       "id": "c58b4e6f-e8aa-4516-b60a-4394cee8d0c7",
       "company": "Leidos",
       "title": "Software Engineering Intern",
@@ -2227,49 +2796,27 @@
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
     {
-      "id": "acaed8fa-ac47-454b-8408-d5c9eae20db2",
-      "company": "Motorola Solutions",
-      "title": "Software Engineer Cybersecurity Services - 2027 Summer Internship",
+      "id": "0959a49c-c778-4002-b806-53715d03360c",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Colorado Springs",
       "locations": [
-        "Washington, District of Columbia, United States",
-        "Plantation, Florida, United States",
-        "Chicago, Illinois, United States",
-        "Schaumburg, Illinois, United States",
-        "Salt Lake City, Utah, United States",
-        "Ashburn, Virginia, United States",
-        "Alabama, United States",
-        "Arkansas, United States",
-        "Connecticut, United States",
-        "Delaware, United States",
-        "Florida, United States",
-        "Georgia, United States",
-        "Illinois, United States",
-        "Indiana, United States",
-        "Iowa, United States",
-        "Kansas, United States",
-        "Kentucky, United States",
-        "Louisiana, United States",
-        "Maine, United States",
-        "Maryland, United States"
+        "Colorado Springs, Colorado, United States"
       ],
-      "cities": [
-        "Washington, DC",
-        "Chicago, IL"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
+      "category": "Other",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "career-sites",
-      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250",
-      "url": "https://trueinterview.io/jobs/acaed8fa-ac47-454b-8408-d5c9eae20db2",
+      "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+      "url": "https://trueinterview.io/jobs/0959a49c-c778-4002-b806-53715d03360c",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -2396,31 +2943,6 @@
       "source": "career-sites",
       "applyUrl": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
       "url": "https://trueinterview.io/jobs/60b47dd7-09f3-4fda-8daf-ae503a1e1e9f",
-      "postedAt": "2026-11-02T00:00:00.000Z",
-      "updatedAt": "2026-11-02T00:00:00.000Z"
-    },
-    {
-      "id": "c96bddb3-725c-4f6b-81b5-ce27bc31a1a7",
-      "company": "Zebra Technologies",
-      "title": "2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers)",
-      "locations": [
-        "Holtsville, New York, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
-      "url": "https://trueinterview.io/jobs/c96bddb3-725c-4f6b-81b5-ce27bc31a1a7",
       "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T00:00:00.000Z"
     },
@@ -16170,32 +16692,6 @@
       "url": "https://trueinterview.io/jobs/1c8a2970-aae7-42e0-92ba-2f9860bd287a",
       "postedAt": "2026-10-29T16:34:00.000Z",
       "updatedAt": "2026-10-29T16:34:00.000Z"
-    },
-    {
-      "id": "ba02229f-f231-44af-847e-1526e0078e62",
-      "company": "JM Family Enterprises, Inc.",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Miami-Fort Lauderdale Area",
-        "Deerfield Beach, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jmfamily.wd1.myworkdayjobs.com/en-US/JMFamily_External/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
-      "url": "https://trueinterview.io/jobs/ba02229f-f231-44af-847e-1526e0078e62",
-      "postedAt": "2026-10-29T16:33:00.000Z",
-      "updatedAt": "2026-10-29T16:33:00.000Z"
     },
     {
       "id": "1f2429d6-ae5b-435a-9f3f-fefbb6eb7604",

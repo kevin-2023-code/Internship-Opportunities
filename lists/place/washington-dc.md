@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**41 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Modern Technology Solutions, Inc. (MTSI)</strong></td>
+<td><a href="https://trueinterview.io/jobs/a308f684-a8c5-4f78-851c-6d8aa9c2656c">Software Engineering Intern or Co-Op</a></td>
+<td>Chantilly, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485782590/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Noblis</strong></td>
 <td><a href="https://trueinterview.io/jobs/3aa0de4f-1a65-4f95-a3ac-dca77c219044">Summer 2027 - Data Science and Innovation Intern</a></td>
@@ -40,16 +47,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/c58b4e6f-e8aa-4516-b60a-4394cee8d0c7">Software Engineering Intern</a></td>
+<td><a href="https://trueinterview.io/jobs/be5ebe88-995c-4f4a-9706-7a68996ca81c">Data Science Intern</a></td>
 <td>Arlington, Virginia, United States</td>
-<td align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980">Apply</a></td>
+<td align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Data-Science-Intern_R-00196049">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/acaed8fa-ac47-454b-8408-d5c9eae20db2">Software Engineer Cybersecurity Services - 2027 Summer Internship</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Chicago, Illinois, United States<br/>+18 more</td>
-<td align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250">Apply</a></td>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c58b4e6f-e8aa-4516-b60a-4394cee8d0c7">Software Engineering Intern</a></td>
+<td>Arlington, Virginia, United States</td>
+<td align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
