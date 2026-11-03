@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**416 open roles.** 316 in the United States & Canada · 100 elsewhere in the world.
+**417 open roles.** 317 in the United States & Canada · 100 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e83e79b-ab75-4714-9e75-e51c28dc27c3">College Intern - Agentic AI Engineering</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>JD.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/78fd5193-4849-4d25-8a54-5f066146ef96">JD Young Supply Chain Data &amp; AI Analyst Internship</a></td>

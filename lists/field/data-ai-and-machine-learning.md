@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**416 open roles.** 316 in the United States & Canada · 100 elsewhere in the world.
+**417 open roles.** 317 in the United States & Canada · 100 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Onepot</strong></td>
+<td><a href="https://trueinterview.io/jobs/e17b3804-98ba-44ca-ae93-5e751e0d9ff1">Research Intern, Machine Learning</a></td>
+<td>South San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486493690/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>International Machine Learning Olympiad</strong></td>
 <td><a href="https://trueinterview.io/jobs/02873853-e9da-490b-b647-c11b1a005c02">Machine Learning Engineering Intern</a></td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/eed9a3bd-ed43-4ef1-9148-b0e8d283938b">AI Researcher Intern</a></td>
 <td>India</td>
 <td align="center"><a href="https://grnh.se/7s4hotje1us">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e83e79b-ab75-4714-9e75-e51c28dc27c3">College Intern - Agentic AI Engineering</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

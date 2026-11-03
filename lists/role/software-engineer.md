@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**301 open roles.** 247 in the United States & Canada · 54 elsewhere in the world.
+**302 open roles.** 248 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795">Intern, Full Stack Engineer</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486808162/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Staples</strong></td>
 <td><a href="https://trueinterview.io/jobs/4af3ace3-91d3-46d1-af05-bfe9420ef2fd">Software Engineer Intern, Marketplace Platform</a></td>

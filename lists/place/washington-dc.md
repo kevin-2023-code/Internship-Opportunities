@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**43 open roles.**
+**44 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a308f684-a8c5-4f78-851c-6d8aa9c2656c">Software Engineering Intern or Co-Op</a></td>
 <td>Chantilly, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485782590/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Technology Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/0176f815-0393-48f2-8584-1e625876947f">Software Engineering Intern or Co-Op</a></td>
+<td>Chantilly, Virginia, United States</td>
+<td align="center"><a href="https://talent.mtsi-va.com/careers/job/1133916569242-software-engineering-intern-or-co-op-chantilly-va">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

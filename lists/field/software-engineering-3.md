@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,002 open roles.** 828 in the United States & Canada · 174 elsewhere in the world.
+**1,004 open roles.** 830 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bba87d2-2fba-4c86-af7d-9d81db4cbbe5">Test Engineering Intern - Avionics Summer 2027</a></td>
+<td>Long Beach, CA<br/>RL Headquarters</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
+<td>New York, NY<br/>New York, New York, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Hudl</strong></td>
 <td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>

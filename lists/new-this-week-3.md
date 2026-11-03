@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,471 open roles.** 1,156 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
+**1,474 open roles.** 1,159 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuitive</strong></td>
+<td><a href="https://trueinterview.io/jobs/03ec621c-404f-465a-954a-5879202bf411">System Engineer Intern</a></td>
+<td>Blacksburg, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723462/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ferrovias</strong></td>
+<td><a href="https://trueinterview.io/jobs/06b4931a-4bcc-41b4-8e15-7c7a8354b91b">Mechanical Engineering Intern</a></td>
+<td>Ohio, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538253/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bombardier</strong></td>
+<td><a href="https://trueinterview.io/jobs/49b6fc6b-9b0c-43b9-b07e-1d0a5076e5fc">Electrical Engineer Intern (Year-round or Summer)</a></td>
+<td>Wichita, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467403960/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Packaging Corporation of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/50496c2d-d519-4017-be40-a461e0f43fa5">Mechanical Engineering Co Op/Intern - All Mills</a></td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/166b4355-6dbd-428c-942f-0a56face66fb">Research Scientist Intern, Agent for Recommendation (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483923591/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dc0275c0-3ec8-482c-b25d-7c0b424b008f">Research Scientist Intern, Generative AI (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483933152/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/9063dc10-6670-4b3e-8685-b011f982fead">Intern, Site Reliability Engineer, iCloud</a></td>
-<td>London, England, United Kingdom<br/>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200691892">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EGIDE</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd265b0c-2db2-4b92-ae28-1a04170f7891">C2 Systems Engineering Intern – Radar &amp; Identification (6 months)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://egide.teamtailor.com/jobs/8646714-c2-systems-engineering-intern-radar-identification-6-months">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**95 open roles.** 74 in the United States & Canada · 21 elsewhere in the world.
+**96 open roles.** 75 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Onepot</strong></td>
+<td><a href="https://trueinterview.io/jobs/e17b3804-98ba-44ca-ae93-5e751e0d9ff1">Research Intern, Machine Learning</a></td>
+<td>South San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486493690/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>International Machine Learning Olympiad</strong></td>
 <td><a href="https://trueinterview.io/jobs/02873853-e9da-490b-b647-c11b1a005c02">Machine Learning Engineering Intern</a></td>

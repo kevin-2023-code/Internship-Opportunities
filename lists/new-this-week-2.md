@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,471 open roles.** 1,156 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
+**1,474 open roles.** 1,159 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/7245404f-fa71-4a6b-b607-0ad9bb64be96">VLSI CAD Timing Intern, Applied AI - Summer 2027</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484807119/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4">Internship, Data Engineer, Energy (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790573/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Great American Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/251a87db-26bc-444a-affa-874e806e8485">DevOps Developer Intern - Summer 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Amcor</strong></td>
 <td><a href="https://trueinterview.io/jobs/caab481c-1a99-42a0-aac4-02bf0772c731">Product Development Engineering Intern</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/f1c2cb89-c40d-40d0-8d65-3e72b9d524c5">Product Management Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483750218/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive</strong></td>
-<td><a href="https://trueinterview.io/jobs/03ec621c-404f-465a-954a-5879202bf411">System Engineer Intern</a></td>
-<td>Blacksburg, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723462/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ferrovias</strong></td>
-<td><a href="https://trueinterview.io/jobs/06b4931a-4bcc-41b4-8e15-7c7a8354b91b">Mechanical Engineering Intern</a></td>
-<td>Ohio, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538253/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bombardier</strong></td>
-<td><a href="https://trueinterview.io/jobs/49b6fc6b-9b0c-43b9-b07e-1d0a5076e5fc">Electrical Engineer Intern (Year-round or Summer)</a></td>
-<td>Wichita, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467403960/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

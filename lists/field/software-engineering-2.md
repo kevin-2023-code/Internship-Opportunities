@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,002 open roles.** 828 in the United States & Canada · 174 elsewhere in the world.
+**1,004 open roles.** 830 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/71a98f85-db59-4d5f-8027-372714ee7494">Design and Verification Engineer Intern</a></td>
+<td>Beavercreek, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484748384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mitsubishi Power Americas</strong></td>
+<td><a href="https://trueinterview.io/jobs/735d75bd-f38c-4b50-8dae-ddf106102403">Engineering Associate, Electrical Internship</a></td>
+<td>Lake Mary, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484763076/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b9e73b9-b974-426d-8992-8a3b9fa07d9b">Module Integration Design Engineering Intern</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/380ccfa4-5e4b-4030-9c74-36db80a30d44">Stagiaire en développement logiciel / Software Developer Intern</a></td>
 <td>Montreal, QC</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bba87d2-2fba-4c86-af7d-9d81db4cbbe5">Test Engineering Intern - Avionics Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schonfeld Strategic Advisors</strong></td>
-<td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

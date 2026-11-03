@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,002 open roles.** 828 in the United States & Canada · 174 elsewhere in the world.
+**1,004 open roles.** 830 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795">Intern, Full Stack Engineer</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486808162/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Costco Wholesale</strong></td>
 <td><a href="https://trueinterview.io/jobs/36306fdc-c785-417e-912f-bb8da884900e">CDS Intern - InfoSec AI/ML</a></td>
@@ -234,6 +241,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/30743f30-ada5-4071-b66a-a9574d8c5ec6">Enterprise Technology Intern (Computer Science, Cybersecurity, Information Systems/MIS, Data Analytics/Data Science Majors)</a></td>
 <td>Spokane, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486433237/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Technology Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/0176f815-0393-48f2-8584-1e625876947f">Software Engineering Intern or Co-Op</a></td>
+<td>Chantilly, Virginia, United States</td>
+<td align="center"><a href="https://talent.mtsi-va.com/careers/job/1133916569242-software-engineering-intern-or-co-op-chantilly-va">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bc68ce71-0609-4573-96dc-3da07248b81a">2027 Internship - Frontend Engineer (UI)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484757309/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/71a98f85-db59-4d5f-8027-372714ee7494">Design and Verification Engineer Intern</a></td>
-<td>Beavercreek, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484748384/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mitsubishi Power Americas</strong></td>
-<td><a href="https://trueinterview.io/jobs/735d75bd-f38c-4b50-8dae-ddf106102403">Engineering Associate, Electrical Internship</a></td>
-<td>Lake Mary, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484763076/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

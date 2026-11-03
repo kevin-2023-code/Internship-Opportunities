@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,471 open roles.** 1,156 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
+**1,474 open roles.** 1,159 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Onepot</strong></td>
+<td><a href="https://trueinterview.io/jobs/e17b3804-98ba-44ca-ae93-5e751e0d9ff1">Research Intern, Machine Learning</a></td>
+<td>South San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486493690/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795">Intern, Full Stack Engineer</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486808162/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>International Machine Learning Olympiad</strong></td>
 <td><a href="https://trueinterview.io/jobs/02873853-e9da-490b-b647-c11b1a005c02">Machine Learning Engineering Intern</a></td>
@@ -325,6 +339,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/30743f30-ada5-4071-b66a-a9574d8c5ec6">Enterprise Technology Intern (Computer Science, Cybersecurity, Information Systems/MIS, Data Analytics/Data Science Majors)</a></td>
 <td>Spokane, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486433237/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Technology Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/0176f815-0393-48f2-8584-1e625876947f">Software Engineering Intern or Co-Op</a></td>
+<td>Chantilly, Virginia, United States</td>
+<td align="center"><a href="https://talent.mtsi-va.com/careers/job/1133916569242-software-engineering-intern-or-co-op-chantilly-va">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e32da889-0e91-4cfe-bfc4-52efd8f854f3">AI Systems Software Engineering Intern – Summer 2027</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7245404f-fa71-4a6b-b607-0ad9bb64be96">VLSI CAD Timing Intern, Applied AI - Summer 2027</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484807119/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9f4d45e-a73a-4bc5-a710-c75a4f3e2fe4">Internship, Data Engineer, Energy (Winter/Spring 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484790573/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Great American Insurance Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/251a87db-26bc-444a-affa-874e806e8485">DevOps Developer Intern - Summer 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
