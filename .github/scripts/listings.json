@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T04:05:20.916Z",
-  "count": 2371,
+  "listingsChangedAt": "2026-11-03T05:04:43.746Z",
+  "count": 2372,
   "listings": [
     {
       "id": "e17b3804-98ba-44ca-ae93-5e751e0d9ff1",
@@ -23,8 +23,8 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -2660,6 +2660,33 @@
       "updatedAt": "2026-11-02T06:11:00.000Z"
     },
     {
+      "id": "d4cfd770-2024-4b51-bb7c-d7df00ef80e6",
+      "company": "Enpal",
+      "title": "Process Automation Engineer - Internship (f/m/d)",
+      "locations": [
+        "Berlin, Deutschland"
+      ],
+      "cities": [
+        "Berlin"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/enpal/8c407089-cfdb-47b8-9e35-de7ce3073148",
+      "url": "https://trueinterview.io/jobs/d4cfd770-2024-4b51-bb7c-d7df00ef80e6",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "e555892b-5bfe-4d9b-b73d-a7a28965491f",
       "company": "HP",
       "title": "Data Science Intern",
@@ -2708,6 +2735,33 @@
       "source": "indeed",
       "applyUrl": "https://careers.roche.com/de/de/job/202610-127712",
       "url": "https://trueinterview.io/jobs/cd517478-f076-4001-9c29-76645ddea4ba",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "2985cd32-75be-47f3-9da3-09b86a12cdd4",
+      "company": "Singtel",
+      "title": "AI Product Manager & Builder Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://groupcareers.singtel.com/job/AI-Product-Manager-&-Builder-Intern-Sing/1369793766/",
+      "url": "https://trueinterview.io/jobs/2985cd32-75be-47f3-9da3-09b86a12cdd4",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -51937,36 +51991,6 @@
       "url": "https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8",
       "postedAt": "2026-09-25T00:00:00.000Z",
       "updatedAt": "2026-09-25T00:00:00.000Z"
-    },
-    {
-      "id": "14af2c6c-a57d-4ee9-8c39-9929735b28de",
-      "company": "Blp Digital Ag",
-      "title": "Customer Success Engineer (Internship)",
-      "locations": [
-        "Munich",
-        "Zurich"
-      ],
-      "cities": [
-        "Munich",
-        "Zurich"
-      ],
-      "countries": [
-        "Germany",
-        "Switzerland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/blp-digital/ce72e400-9109-4366-baf8-9363493f7c55/application",
-      "url": "https://trueinterview.io/jobs/14af2c6c-a57d-4ee9-8c39-9929735b28de",
-      "postedAt": "2026-09-24T23:23:23.000Z",
-      "updatedAt": "2026-09-24T23:23:23.000Z"
     },
     {
       "id": "6138bc3d-7c93-431c-8da9-613df7f944a7",
