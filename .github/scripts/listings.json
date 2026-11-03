@@ -5,9 +5,216 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T12:06:20.361Z",
-  "count": 2407,
+  "listingsChangedAt": "2026-11-03T13:04:36.384Z",
+  "count": 2414,
   "listings": [
+    {
+      "id": "7c3ff36b-2d87-4491-8ec0-249fb3011585",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468168706/",
+      "url": "https://trueinterview.io/jobs/7c3ff36b-2d87-4491-8ec0-249fb3011585",
+      "postedAt": "2026-11-03T12:25:00.000Z",
+      "updatedAt": "2026-11-03T12:25:00.000Z"
+    },
+    {
+      "id": "83c24cc5-9fd8-4ec1-8ec5-be3b5f0d3283",
+      "company": "RSJ Investments",
+      "title": "C# Developer pro interní informační systém",
+      "locations": [
+        "Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484652754/",
+      "url": "https://trueinterview.io/jobs/83c24cc5-9fd8-4ec1-8ec5-be3b5f0d3283",
+      "postedAt": "2026-11-03T11:56:00.000Z",
+      "updatedAt": "2026-11-03T11:56:00.000Z"
+    },
+    {
+      "id": "5b00187c-2021-4c20-a5cd-152ad3192c34",
+      "company": "JobsInPython",
+      "title": "Software Engineer Intern - Arango Cookbooks",
+      "locations": [
+        "Indiana, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484657873/",
+      "url": "https://trueinterview.io/jobs/5b00187c-2021-4c20-a5cd-152ad3192c34",
+      "postedAt": "2026-11-03T11:47:00.000Z",
+      "updatedAt": "2026-11-03T11:47:00.000Z"
+    },
+    {
+      "id": "a27a5497-057e-423f-81e3-70fc11b2f8e4",
+      "company": "OnLogic",
+      "title": "Firmware Engineering Co-op",
+      "locations": [
+        "South Burlington, VT",
+        "Cary, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460621712/",
+      "url": "https://trueinterview.io/jobs/a27a5497-057e-423f-81e3-70fc11b2f8e4",
+      "postedAt": "2026-11-03T11:36:00.000Z",
+      "updatedAt": "2026-11-03T11:36:00.000Z"
+    },
+    {
+      "id": "d185eafc-6437-465f-96da-7599e36daede",
+      "company": "CACI International Inc",
+      "title": "Cleared Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Denver, CO"
+      ],
+      "cities": [
+        "Denver, CO"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481059137/",
+      "url": "https://trueinterview.io/jobs/d185eafc-6437-465f-96da-7599e36daede",
+      "postedAt": "2026-11-03T11:35:00.000Z",
+      "updatedAt": "2026-11-03T11:35:00.000Z"
+    },
+    {
+      "id": "b9783dfc-ae69-4f38-a77c-66bfbcfa8b89",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - Research and Development - Machine Learning for Automation",
+      "locations": [
+        "Warren, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478595716/",
+      "url": "https://trueinterview.io/jobs/b9783dfc-ae69-4f38-a77c-66bfbcfa8b89",
+      "postedAt": "2026-11-03T11:28:00.000Z",
+      "updatedAt": "2026-11-03T11:28:00.000Z"
+    },
+    {
+      "id": "86d8b6d9-5e20-4613-b84e-805e7f92b268",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470255209/",
+      "url": "https://trueinterview.io/jobs/86d8b6d9-5e20-4613-b84e-805e7f92b268",
+      "postedAt": "2026-11-03T11:21:00.000Z",
+      "updatedAt": "2026-11-03T11:21:00.000Z"
+    },
+    {
+      "id": "a8d2223e-db2e-4e69-b7b5-7fccbd773c5c",
+      "company": "CapTech",
+      "title": "Consulting Internship: Software Engineering (Summer 2027)",
+      "locations": [
+        "Richmond, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478533406/",
+      "url": "https://trueinterview.io/jobs/a8d2223e-db2e-4e69-b7b5-7fccbd773c5c",
+      "postedAt": "2026-11-03T11:19:00.000Z",
+      "updatedAt": "2026-11-03T11:19:00.000Z"
+    },
     {
       "id": "d84fbe3f-89ca-434b-acf1-967437dca584",
       "company": "CACI International Inc",
@@ -1090,6 +1297,33 @@
       "url": "https://trueinterview.io/jobs/5568d237-c106-446b-b4b2-4523ca90903a",
       "postedAt": "2026-11-03T00:03:00.000Z",
       "updatedAt": "2026-11-03T00:03:00.000Z"
+    },
+    {
+      "id": "8a5af410-2051-4d90-ba27-8b9a0daebd54",
+      "company": "Google",
+      "title": "Software Engineer II, Co-op and Marketplaces",
+      "locations": [
+        "Zurich, Zurich, Switzerland"
+      ],
+      "cities": [
+        "Zurich"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477988532/",
+      "url": "https://trueinterview.io/jobs/8a5af410-2051-4d90-ba27-8b9a0daebd54",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T00:00:00.000Z"
     },
     {
       "id": "bc3b5ee8-6cba-4ddb-b197-fbff77c0a9a2",
@@ -18902,34 +19136,6 @@
       "url": "https://trueinterview.io/jobs/8fa28736-6688-4317-9412-6237bcfb7152",
       "postedAt": "2026-10-29T15:20:00.000Z",
       "updatedAt": "2026-10-29T15:20:00.000Z"
-    },
-    {
-      "id": "931bfed2-807f-4adf-952a-51d411adbe61",
-      "company": "Zimmer Biomet",
-      "title": "2027 Spring Co-Op, Development Engineer",
-      "locations": [
-        "Warsaw, IN"
-      ],
-      "cities": [
-        "Warsaw"
-      ],
-      "countries": [
-        "United States",
-        "Poland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467114036/",
-      "url": "https://trueinterview.io/jobs/931bfed2-807f-4adf-952a-51d411adbe61",
-      "postedAt": "2026-10-29T15:19:00.000Z",
-      "updatedAt": "2026-10-29T15:19:00.000Z"
     },
     {
       "id": "7a243593-489b-4422-964d-ac343a3cc51a",
@@ -46312,31 +46518,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54715?lang=en-us",
       "url": "https://trueinterview.io/jobs/84c1d86a-5f02-4e23-baed-d69f47151ea3",
-      "postedAt": "2026-10-12T00:00:00.000Z",
-      "updatedAt": "2026-10-12T00:00:00.000Z"
-    },
-    {
-      "id": "fee5cfd6-c396-40ac-8a3e-ace668c81322",
-      "company": "KLA",
-      "title": "AI/ML Software Engineer - Intern",
-      "locations": [
-        "Ann Arbor, MI, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
-      "url": "https://trueinterview.io/jobs/fee5cfd6-c396-40ac-8a3e-ace668c81322",
       "postedAt": "2026-10-12T00:00:00.000Z",
       "updatedAt": "2026-10-12T00:00:00.000Z"
     },
