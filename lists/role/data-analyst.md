@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**61 open roles.** 35 in the United States & Canada · 26 elsewhere in the world.
+**62 open roles.** 35 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -279,6 +279,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Forvia</strong></td>
+<td><a href="https://trueinterview.io/jobs/70e29999-7900-4a90-884f-29253af8f04b">HR Data Analyst intern</a></td>
+<td>Nanterre, France</td>
+<td align="center"><a href="https://jobs.faurecia.com/careers/job/563087417782454">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,473 open roles.** 1,157 in the United States & Canada · 316 elsewhere in the world. Everything the employers put up this week.
+**1,484 open roles.** 1,166 in the United States & Canada · 318 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,69 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Feather Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f11b32-a05e-4644-b075-c6b357d56bb2">Mechanical Design Engineer Intern</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484592864/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NSTAR, now Eversource Energy- Follow our new company page, Eversource Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bfdec1e-0bd7-4852-bdd8-b449788b9519">Engineering Intern: Distribution System Modeling and Automation (MA/CT/NH, Hybrid Schedule)</a></td>
+<td>Westwood, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483097933/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baypath Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfdeb395-5615-4041-adec-bd3706cbf25d">Software Engineer Intern</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://ca.indeed.com/viewjob?jk=6d5de4e1bb0c5a9e">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Biasly</strong></td>
+<td><a href="https://trueinterview.io/jobs/c27e1927-af48-44ea-a1e4-409a651fa82d">UX Design Internship</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483098683/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Independence Blue Cross</strong></td>
+<td><a href="https://trueinterview.io/jobs/a720ed38-3601-4518-9e01-7b756a02d75d">Summer Intern: Platform Service Engineering</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://ibxhome.referrals.selectminds.com/jobs/summer-intern-platform-service-engineering-7366">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/e796c040-4bcc-43ca-bb41-b7f13706823a">Intern, Systems Software Engineering</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sargento</strong></td>
+<td><a href="https://trueinterview.io/jobs/77dccc9e-6f03-492c-ad96-46f6981326bf">IT Network Administrator Intern</a></td>
+<td>Plymouth, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484804123/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa79cd88-00b7-4f11-af11-d0aab1c82edf">Co-Op - Optical Engineer (Internship)</a></td>
+<td>Wilton Center, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484771726/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0f97581c-2e2a-4e6f-8a16-b6dcae443884">Internship - Mechatronics Engineer</a></td>
+<td>Wilton Center, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485280282/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>STMicroelectronics</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcb780e7-1c5e-4fb8-bb74-9aabf6ff4a13">Embedded Software Sensor Algorithm Intern</a></td>
@@ -2750,69 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/896cc4db-34d0-4cb0-a709-acce2048bd70">Test Automation Intern (Summer 2027)</a></td>
 <td>Redondo Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483183707/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MIT Lincoln Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/0be54377-d500-468b-8443-344b7cfa474a">Summer Research Program Intern 2027, CI Cybersecurity, Energy Systems (Group 47)</a></td>
-<td>Lexington, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484745247/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/539a258c-d8fa-421d-8288-8c02cc67b453">Product Engineering Intern</a></td>
-<td>Greensboro, NC<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484480567/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e94432c5-a96f-42cc-ab52-e0d3e0c7f86c">Product Management Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727825/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Golden State Water Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/41c48016-0b99-4286-8698-beb970f11cfb">Engineering Assistant Intern (109.26)</a></td>
-<td>Rancho Cordova, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732794/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f91c1d30-cd17-4999-af1b-00094c5e2101">Digital Systems Engineering Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484746131/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1dd8c5fa-1629-4277-9dbe-cc493624e88a">Test Engineering Intern</a></td>
-<td>Greensboro, NC<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484472862/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>New York Cancer &amp; Blood Specialists</strong></td>
-<td><a href="https://trueinterview.io/jobs/50ac8031-f0e4-44d6-aac7-41d610b2eff9">Intern, IT Service Desk</a></td>
-<td>Ridge, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482551658/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/373173f0-1195-40d5-b26b-35c987642e95">Characterization Engineering Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484736587/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a6597bf-840f-4b98-9bb6-3fb355c330f7">RRFIC Design Engineering Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723996/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

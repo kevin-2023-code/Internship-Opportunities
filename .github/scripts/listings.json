@@ -5,9 +5,217 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T08:06:23.219Z",
-  "count": 2387,
+  "listingsChangedAt": "2026-11-03T09:05:25.400Z",
+  "count": 2398,
   "listings": [
+    {
+      "id": "76e2837a-6727-4edc-87f7-54e0d172f62e",
+      "company": "Pacific Northwest National Laboratory",
+      "title": "NSIP Masters Intern - Artificial Intelligence & Data Analytics - SWE Conference",
+      "locations": [
+        "Seattle, WA",
+        "Richland, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486017781/",
+      "url": "https://trueinterview.io/jobs/76e2837a-6727-4edc-87f7-54e0d172f62e",
+      "postedAt": "2026-11-03T08:43:00.000Z",
+      "updatedAt": "2026-11-03T08:43:00.000Z"
+    },
+    {
+      "id": "de6952ac-7a09-4cfb-aeaa-d80cd725e3c8",
+      "company": "Pacific Northwest National Laboratory",
+      "title": "NSIP Undergraduate Intern – Artificial Intelligence & Data Analytics - SWE Conference",
+      "locations": [
+        "Seattle, WA",
+        "Richland, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486011800/",
+      "url": "https://trueinterview.io/jobs/de6952ac-7a09-4cfb-aeaa-d80cd725e3c8",
+      "postedAt": "2026-11-03T08:43:00.000Z",
+      "updatedAt": "2026-11-03T08:43:00.000Z"
+    },
+    {
+      "id": "f058875b-5d1e-4f51-b465-4280b35963cd",
+      "company": "WoodmenLife",
+      "title": "2027 Summer AI Engineer Intern",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486013999/",
+      "url": "https://trueinterview.io/jobs/f058875b-5d1e-4f51-b465-4280b35963cd",
+      "postedAt": "2026-11-03T08:04:00.000Z",
+      "updatedAt": "2026-11-03T08:04:00.000Z"
+    },
+    {
+      "id": "1045f4aa-2a03-47da-b366-45c563396551",
+      "company": "WoodmenLife",
+      "title": "2027 Summer Product Owner Intern",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486032133/",
+      "url": "https://trueinterview.io/jobs/1045f4aa-2a03-47da-b366-45c563396551",
+      "postedAt": "2026-11-03T08:04:00.000Z",
+      "updatedAt": "2026-11-03T08:04:00.000Z"
+    },
+    {
+      "id": "aea1021e-d69b-4334-8dfb-f4b4cb8d9a38",
+      "company": "WoodmenLife",
+      "title": "2027 Summer Software Engineer Intern",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486011995/",
+      "url": "https://trueinterview.io/jobs/aea1021e-d69b-4334-8dfb-f4b4cb8d9a38",
+      "postedAt": "2026-11-03T08:04:00.000Z",
+      "updatedAt": "2026-11-03T08:04:00.000Z"
+    },
+    {
+      "id": "7ee0529a-f3f7-453e-bdc1-0646b0e167a2",
+      "company": "Vaccine Vets",
+      "title": "Software Engineering Intern (Japanese Speaking Preferred)",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486837055/",
+      "url": "https://trueinterview.io/jobs/7ee0529a-f3f7-453e-bdc1-0646b0e167a2",
+      "postedAt": "2026-11-03T08:01:00.000Z",
+      "updatedAt": "2026-11-03T08:01:00.000Z"
+    },
+    {
+      "id": "de44ae50-01da-4fcd-a5c9-88c35b9fb8a8",
+      "company": "GlobalFoundries",
+      "title": "Device Engineering Intern, Silicon Photonics (Summer 2027)",
+      "locations": [
+        "Malta, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486023406/",
+      "url": "https://trueinterview.io/jobs/de44ae50-01da-4fcd-a5c9-88c35b9fb8a8",
+      "postedAt": "2026-11-03T07:46:00.000Z",
+      "updatedAt": "2026-11-03T07:46:00.000Z"
+    },
+    {
+      "id": "df66c33e-bbe4-4376-b4e3-0fc3abcf461d",
+      "company": "WoodmenLife",
+      "title": "2027 Summer Cybersecurity Intern",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486028274/",
+      "url": "https://trueinterview.io/jobs/df66c33e-bbe4-4376-b4e3-0fc3abcf461d",
+      "postedAt": "2026-11-03T07:36:00.000Z",
+      "updatedAt": "2026-11-03T07:36:00.000Z"
+    },
     {
       "id": "45acc3fa-ae77-4aa8-bb5f-244a0c3756fd",
       "company": "Valency Networks Private Limited",
@@ -32,6 +240,31 @@
       "url": "https://trueinterview.io/jobs/45acc3fa-ae77-4aa8-bb5f-244a0c3756fd",
       "postedAt": "2026-11-03T07:25:00.000Z",
       "updatedAt": "2026-11-03T07:25:00.000Z"
+    },
+    {
+      "id": "3c658b82-f7dc-465e-9373-843e22925c7d",
+      "company": "Walmart",
+      "title": "Summer 2026 MBA Intern Conversion: 2027 APD Senior Product Manager (MBA)",
+      "locations": [
+        "Bentonville, AR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484642135/",
+      "url": "https://trueinterview.io/jobs/3c658b82-f7dc-465e-9373-843e22925c7d",
+      "postedAt": "2026-11-03T05:46:00.000Z",
+      "updatedAt": "2026-11-03T05:46:00.000Z"
     },
     {
       "id": "94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795",
@@ -2969,6 +3202,31 @@
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
     {
+      "id": "70e29999-7900-4a90-884f-29253af8f04b",
+      "company": "Forvia",
+      "title": "HR Data Analyst intern",
+      "locations": [
+        "Nanterre, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.faurecia.com/careers/job/563087417782454",
+      "url": "https://trueinterview.io/jobs/70e29999-7900-4a90-884f-29253af8f04b",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "3df7bdd7-e13c-4e73-b51d-6b6b36b9c533",
       "company": "GeoComply",
       "title": "Forward Deployed Engineer Intern (FDE)",
@@ -3042,6 +3300,33 @@
       "source": "indeed",
       "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1",
       "url": "https://trueinterview.io/jobs/e555892b-5bfe-4d9b-b73d-a7a28965491f",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "194b37a8-7a7f-466a-a82a-9fee01a9fa79",
+      "company": "Natixis",
+      "title": "Internship - 6 months - Data Scientist - F/M",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recrutement.natixis.com/en/job/internship-6-months-data-scientist-f-m",
+      "url": "https://trueinterview.io/jobs/194b37a8-7a7f-466a-a82a-9fee01a9fa79",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
