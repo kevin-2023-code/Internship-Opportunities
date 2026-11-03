@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T18:05:54.999Z",
-  "count": 2440,
+  "listingsChangedAt": "2026-11-03T19:04:03.966Z",
+  "count": 2439,
   "listings": [
     {
       "id": "24bef4f5-42f6-46f3-b05a-f886b2815cd2",
@@ -111,6 +111,33 @@
       "updatedAt": "2026-11-03T16:38:00.000Z"
     },
     {
+      "id": "0763aa70-d870-4114-900f-abfabcf82664",
+      "company": "The New York Times",
+      "title": "Advertising Business Data Analyst Intern",
+      "locations": [
+        "New York, New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005",
+      "url": "https://trueinterview.io/jobs/0763aa70-d870-4114-900f-abfabcf82664",
+      "postedAt": "2026-11-03T16:16:14.000Z",
+      "updatedAt": "2026-11-03T16:16:14.000Z"
+    },
+    {
       "id": "49f97901-f8a2-4ae3-ba75-5ff6386e0cb0",
       "company": "Microsoft",
       "title": "Business Program Manager, Global Intern Experience & Innovation",
@@ -187,6 +214,31 @@
       "url": "https://trueinterview.io/jobs/c64ffd6f-582d-4d59-968d-74ebf5bb0bbd",
       "postedAt": "2026-11-03T16:02:00.000Z",
       "updatedAt": "2026-11-03T16:10:00.000Z"
+    },
+    {
+      "id": "5244124c-7316-4a5d-8856-952a674e91c7",
+      "company": "Dell Technologies",
+      "title": "CSG Software Engineering Undergraduate Intern",
+      "locations": [
+        "Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
+      "url": "https://trueinterview.io/jobs/5244124c-7316-4a5d-8856-952a674e91c7",
+      "postedAt": "2026-11-03T16:09:25.000Z",
+      "updatedAt": "2026-11-03T16:09:25.000Z"
     },
     {
       "id": "eaba15f6-e995-4f05-961a-bc25b59bf77d",
@@ -63255,81 +63307,6 @@
       "url": "https://trueinterview.io/jobs/ce93d10f-7969-4561-afac-5250f88d08b0",
       "postedAt": "2026-09-04T19:04:08.000Z",
       "updatedAt": "2026-09-04T19:04:08.000Z"
-    },
-    {
-      "id": "8d918423-bd3d-4dda-8492-155b17a0828f",
-      "company": "Skydio",
-      "title": "Flight Test Intern - Summer 2027",
-      "locations": [
-        "San Mateo, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/skydio/3eb06d6e-b6f0-4814-a80a-f1c43075873b/application",
-      "url": "https://trueinterview.io/jobs/8d918423-bd3d-4dda-8492-155b17a0828f",
-      "postedAt": "2026-09-04T19:01:54.000Z",
-      "updatedAt": "2026-09-04T19:01:54.000Z"
-    },
-    {
-      "id": "079b2d7a-a590-440c-ba63-bfda06c2bbd6",
-      "company": "Skydio",
-      "title": "Product Design Engineer Intern - Summer 2027",
-      "locations": [
-        "San Mateo, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/skydio/e541e878-567c-4c03-add8-baf19c63418f/application",
-      "url": "https://trueinterview.io/jobs/079b2d7a-a590-440c-ba63-bfda06c2bbd6",
-      "postedAt": "2026-09-04T18:58:21.000Z",
-      "updatedAt": "2026-09-04T18:58:21.000Z"
-    },
-    {
-      "id": "7d9a342a-66b8-4285-8e75-ae57b362b78e",
-      "company": "Wsp",
-      "title": "Environmental Engineering Intern - Summer 2027",
-      "locations": [
-        "Oakland, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94393",
-      "url": "https://trueinterview.io/jobs/7d9a342a-66b8-4285-8e75-ae57b362b78e",
-      "postedAt": "2026-09-04T18:55:43.000Z",
-      "updatedAt": "2026-09-04T18:55:43.000Z"
     }
   ]
 }
