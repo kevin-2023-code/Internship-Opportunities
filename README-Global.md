@@ -18,11 +18,11 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-03 17:04 UTC_
+_Last updated: 2026-11-03 18:05 UTC_
 
-**412 open internships** from **231 employers** · **336 posted in the last 7 days** · refreshed hourly
+**411 open internships** from **231 employers** · **336 posted in the last 7 days** · refreshed hourly
 
-### Browse 412 internships by field
+### Browse 411 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (184)
 
@@ -30,7 +30,7 @@ _Last updated: 2026-11-03 17:04 UTC_
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (43)
 
-📱 **[Product & Design](#-product--design)** (48)
+📱 **[Product & Design](#-product--design)** (47)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (16)
 
@@ -50,9 +50,9 @@ _Last updated: 2026-11-03 17:04 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (76)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (36)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (22)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (13)](lists/company/enterprise-saas.md) · [📱 Consumer internet & media (10)](lists/company/consumer-internet.md) · [🚗 Autonomy, automotive & mobility (9)](lists/company/autonomy-mobility.md) · [🏗️ Large tech (1,000–9,999) (9)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [+10 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (76)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (36)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (21)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (13)](lists/company/enterprise-saas.md) · [📱 Consumer internet & media (10)](lists/company/consumer-internet.md) · [🚗 Autonomy, automotive & mobility (9)](lists/company/autonomy-mobility.md) · [🏗️ Large tech (1,000–9,999) (9)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (9)](lists/company/quant-trading.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [+10 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (58)](lists/role/software-engineer.md) · [AI Engineer (29)](lists/role/ai-engineer.md) · [Product Manager (29)](lists/role/product-manager.md) · [Data Analyst (28)](lists/role/data-analyst.md) · [Machine Learning Engineer (22)](lists/role/machine-learning-engineer.md) · [Data Scientist (13)](lists/role/data-scientist.md) · [Data Engineer (7)](lists/role/data-engineer.md) · [Research Scientist (7)](lists/role/research-scientist.md) · [Embedded Engineer (6)](lists/role/embedded-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [+8 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (58)](lists/role/software-engineer.md) · [AI Engineer (29)](lists/role/ai-engineer.md) · [Data Analyst (28)](lists/role/data-analyst.md) · [Product Manager (28)](lists/role/product-manager.md) · [Machine Learning Engineer (22)](lists/role/machine-learning-engineer.md) · [Data Scientist (13)](lists/role/data-scientist.md) · [Data Engineer (7)](lists/role/data-engineer.md) · [Research Scientist (7)](lists/role/research-scientist.md) · [Embedded Engineer (6)](lists/role/embedded-engineer.md) · [Quantitative Researcher (6)](lists/role/quantitative-researcher.md) · [+8 more →](lists/README.md)
 
 📍 **By location** — [🇸🇬 Singapore (87)](lists/place/singapore.md) · [🇬🇧 London & the UK (30)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (23)](lists/place/greater-china.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (20)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (14)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🇩🇪 Berlin, Munich & Germany (13)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (11)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (8)](lists/place/poland-cee.md) · [+3 more →](lists/README.md)
 
@@ -531,7 +531,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61">Internship - Search Machine Learning Engineer</a> 🆕</td>
 <td>London, England, United Kingdom<br/>Belgrade, Serbia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468006514/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
@@ -789,21 +789,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a338e90a-01f0-4b60-a5d4-ce02bd587c3b">Civil Engineer Intern</a></td>
 <td>Loughrea, County Galway, Ireland<br/>Loughrea, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483891746/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fb13f7dc-f387-444a-b143-00b1eb5eedcf">Electrical Engineer Intern</a></td>
 <td>Loughrea, County Galway, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483894695/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/55e38f70-556d-4408-a823-382b26a7d25b">Mechanical Engineer Intern</a></td>
 <td>Loughrea, County Galway, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483896543/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 </tbody>
 </table>
@@ -1012,7 +1012,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b43c0905-8188-4190-b3fa-146823f4593b">Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)</a></td>
 <td>Rotkreuz, Zug, Switzerland<br/>Zug, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484989853/">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>LionsBot International</strong></td>
@@ -1081,7 +1081,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </table>
 
 <details>
-<summary>Show 6 more Product & Design roles posted earlier</summary>
+<summary>Show 5 more Product & Design roles posted earlier</summary>
 
 <table>
 <thead>
@@ -1123,19 +1123,12 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4394610009">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-<tr>
-<td><strong>Sereact Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039">Product Manager Intern (m/f/d)</a></td>
-<td>Stuttgart Schockenriedstr. 17</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d/application">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
 </tbody>
 </table>
 
 </details>
 
-**Showing 31 of 48.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 30 of 47.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,528 open roles.** 1,192 in the United States & Canada · 336 elsewhere in the world. Everything the employers put up this week.
+**1,530 open roles.** 1,194 in the United States & Canada · 336 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>New York Air Brake</strong></td>
+<td><a href="https://trueinterview.io/jobs/24bef4f5-42f6-46f3-b05a-f886b2815cd2">Intern, Software Engineer</a></td>
+<td>Watertown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487013218/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>OrphaNova Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e932a932-60b1-450c-af28-807183fab508">AI Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484699259/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sandhills Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/54267b69-9885-464b-ae88-fa8d4325d162">Data Scientist Intern - In Office, Lincoln, NE only</a></td>
+<td>Lincoln, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4182948897/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/5492b303-bfdb-4e72-9d19-883613e91f44">AI/Data Science Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474011998/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/49f97901-f8a2-4ae3-ba75-5ff6386e0cb0">Business Program Manager, Global Intern Experience &amp; Innovation</a></td>
@@ -829,13 +857,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/86b5d072-13b5-4092-917e-520895fb3253">AI Developer Intern</a></td>
 <td>Shakopee, MN</td>
 <td align="center"><a href="https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e">Machine Learning Intern/Co-op (Winter 2027)</a></td>
-<td>San Francisco, CA<br/>United Kingdom<br/>Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414192445/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0d74d3ce-73a5-49cc-8dcd-f5fd5f6250e0">Engineering Intern: Distribution System Modeling and Automation (MA/CT/NH, Hybrid Schedule)</a></td>
 <td>Westwood, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484813663/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Affiliated Engineers, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/937bc227-e475-4304-af47-12018f68db29">Electrical Engineer Intern</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485293715/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/cca2ed56-8578-45a0-9c4f-39c8d50600dd">2027 Electrical Engineer Intern- Gilbert AZ</a></td>
-<td>Gilbert, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485296676/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8fc85e4a-850d-470f-a135-3defbc5a7d99">2027 Structural Engineer Intern - Gilbert AZ</a></td>
-<td>Gilbert, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485290773/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

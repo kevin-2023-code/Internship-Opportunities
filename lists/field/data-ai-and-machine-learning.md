@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**437 open roles.** 328 in the United States & Canada · 109 elsewhere in the world.
+**438 open roles.** 329 in the United States & Canada · 109 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>OrphaNova Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e932a932-60b1-450c-af28-807183fab508">AI Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484699259/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sandhills Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/54267b69-9885-464b-ae88-fa8d4325d162">Data Scientist Intern - In Office, Lincoln, NE only</a></td>
+<td>Lincoln, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4182948897/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/5492b303-bfdb-4e72-9d19-883613e91f44">AI/Data Science Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474011998/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Media Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e28bcb8-e43a-4f40-a8cf-26e185206782">AI Software Engineering Intern (U.S.A Only)</a></td>
@@ -248,13 +269,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/86b5d072-13b5-4092-917e-520895fb3253">AI Developer Intern</a></td>
 <td>Shakopee, MN</td>
 <td align="center"><a href="https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e">Machine Learning Intern/Co-op (Winter 2027)</a></td>
-<td>San Francisco, CA<br/>United Kingdom<br/>Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414192445/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -1959,13 +1973,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad37100e-f3ed-4d81-844f-6ab7a2f0419d">AI R&amp;D Engineer Co-op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Genscript/probio</strong></td>
 <td><a href="https://trueinterview.io/jobs/5cfd1033-ccce-4607-b6a3-c5c5515314b6">AI Intern, Enterprise Agent Development</a></td>
 <td>Piscataway, New Jersey, United States<br/>USA- Piscataway, NJ</td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/21e1f0d0-da05-4445-af92-22446068ee4d">AI / ML Intern (Beginner Level)</a> 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://www.desirousgc.com/job/1257">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/44bc0422-6b97-4f05-9f8a-86e0bfa5373f">AI &amp; Data Engineering Intern</a></td>
-<td>Spain</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

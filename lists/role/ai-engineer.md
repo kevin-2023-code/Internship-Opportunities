@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**99 open roles.** 70 in the United States & Canada · 29 elsewhere in the world.
+**100 open roles.** 71 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>OrphaNova Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e932a932-60b1-450c-af28-807183fab508">AI Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484699259/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Media Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e28bcb8-e43a-4f40-a8cf-26e185206782">AI Software Engineering Intern (U.S.A Only)</a></td>

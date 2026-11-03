@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**79 open roles.** 66 in the United States & Canada · 13 elsewhere in the world.
+**81 open roles.** 68 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sandhills Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/54267b69-9885-464b-ae88-fa8d4325d162">Data Scientist Intern - In Office, Lincoln, NE only</a></td>
+<td>Lincoln, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4182948897/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/5492b303-bfdb-4e72-9d19-883613e91f44">AI/Data Science Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474011998/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>KB Signaling</strong></td>
 <td><a href="https://trueinterview.io/jobs/34001dfe-45a4-4715-9bd1-fc741b17711d">Intern, Data Scientist (Summer 2027)</a></td>

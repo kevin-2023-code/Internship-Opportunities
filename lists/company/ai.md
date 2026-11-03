@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**23 open roles.** 20 in the United States & Canada · 3 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e">Machine Learning Intern/Co-op (Winter 2027)</a></td>
-<td>San Francisco, CA<br/>United Kingdom<br/>Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414192445/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Lila Sciences</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b01f696-9595-4501-a4bc-d60643d8b994">Co-Op, SCADA Engineer</a></td>

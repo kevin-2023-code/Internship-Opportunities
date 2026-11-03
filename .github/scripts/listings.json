@@ -5,9 +5,111 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T17:04:28.036Z",
-  "count": 2439,
+  "listingsChangedAt": "2026-11-03T18:05:54.999Z",
+  "count": 2440,
   "listings": [
+    {
+      "id": "24bef4f5-42f6-46f3-b05a-f886b2815cd2",
+      "company": "New York Air Brake",
+      "title": "Intern, Software Engineer",
+      "locations": [
+        "Watertown, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487013218/",
+      "url": "https://trueinterview.io/jobs/24bef4f5-42f6-46f3-b05a-f886b2815cd2",
+      "postedAt": "2026-11-03T17:15:00.000Z",
+      "updatedAt": "2026-11-03T17:15:00.000Z"
+    },
+    {
+      "id": "e932a932-60b1-450c-af28-807183fab508",
+      "company": "OrphaNova Labs",
+      "title": "AI Engineering Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484699259/",
+      "url": "https://trueinterview.io/jobs/e932a932-60b1-450c-af28-807183fab508",
+      "postedAt": "2026-11-03T16:54:00.000Z",
+      "updatedAt": "2026-11-03T16:54:00.000Z"
+    },
+    {
+      "id": "54267b69-9885-464b-ae88-fa8d4325d162",
+      "company": "Sandhills Global",
+      "title": "Data Scientist Intern - In Office, Lincoln, NE only",
+      "locations": [
+        "Lincoln, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4182948897/",
+      "url": "https://trueinterview.io/jobs/54267b69-9885-464b-ae88-fa8d4325d162",
+      "postedAt": "2026-11-03T16:54:00.000Z",
+      "updatedAt": "2026-11-03T16:54:00.000Z"
+    },
+    {
+      "id": "5492b303-bfdb-4e72-9d19-883613e91f44",
+      "company": "Haystack",
+      "title": "AI/Data Science Intern",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474011998/",
+      "url": "https://trueinterview.io/jobs/5492b303-bfdb-4e72-9d19-883613e91f44",
+      "postedAt": "2026-11-03T16:38:00.000Z",
+      "updatedAt": "2026-11-03T16:38:00.000Z"
+    },
     {
       "id": "49f97901-f8a2-4ae3-ba75-5ff6386e0cb0",
       "company": "Microsoft",
@@ -3387,35 +3489,6 @@
       "url": "https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763",
       "postedAt": "2026-11-02T16:30:00.000Z",
       "updatedAt": "2026-11-02T16:30:00.000Z"
-    },
-    {
-      "id": "8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
-      "company": "Cohere",
-      "title": "Machine Learning Intern/Co-op (Winter 2027)",
-      "locations": [
-        "San Francisco, CA",
-        "United Kingdom",
-        "Canada"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4414192445/",
-      "url": "https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e",
-      "postedAt": "2026-11-01T16:43:00.000Z",
-      "updatedAt": "2026-11-02T16:23:00.000Z"
     },
     {
       "id": "4c0cc9ee-f01e-410c-adca-4fe0b27035c8",
@@ -51890,31 +51963,6 @@
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
     {
-      "id": "ad37100e-f3ed-4d81-844f-6ab7a2f0419d",
-      "company": "Nokia",
-      "title": "AI R&D Engineer Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677",
-      "url": "https://trueinterview.io/jobs/ad37100e-f3ed-4d81-844f-6ab7a2f0419d",
-      "postedAt": "2026-10-01T00:00:00.000Z",
-      "updatedAt": "2026-10-01T00:00:00.000Z"
-    },
-    {
       "id": "afd265ad-4a11-4e84-8584-a42d5c0701cc",
       "company": "NXP Semiconductors",
       "title": "Photolithography Equipment Intern - Summer 2027",
@@ -63282,29 +63330,6 @@
       "url": "https://trueinterview.io/jobs/7d9a342a-66b8-4285-8e75-ae57b362b78e",
       "postedAt": "2026-09-04T18:55:43.000Z",
       "updatedAt": "2026-09-04T18:55:43.000Z"
-    },
-    {
-      "id": "cba60f27-40e3-4e1a-a438-338d60def039",
-      "company": "Sereact Gmbh",
-      "title": "Product Manager Intern (m/f/d)",
-      "locations": [
-        "Stuttgart Schockenriedstr. 17"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d/application",
-      "url": "https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039",
-      "postedAt": "2026-09-04T17:23:31.000Z",
-      "updatedAt": "2026-09-04T17:23:31.000Z"
     }
   ]
 }

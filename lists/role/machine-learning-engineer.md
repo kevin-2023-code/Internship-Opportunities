@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**99 open roles.** 77 in the United States & Canada · 22 elsewhere in the world.
+**97 open roles.** 75 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -92,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65caf6ce-3828-440d-8631-709c753adce8">Machine Learning Researcher – PhD Intern (US)</a></td>
 <td>Miami, FL<br/>New York City Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465912268/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e">Machine Learning Intern/Co-op (Winter 2027)</a></td>
-<td>San Francisco, CA<br/>United Kingdom<br/>Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414192445/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -471,13 +464,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tualatin, OR, US</td>
 <td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556323254">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad37100e-f3ed-4d81-844f-6ab7a2f0419d">AI R&amp;D Engineer Co-op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Dandy</strong></td>

@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**90 open roles.** 61 in the United States & Canada · 29 elsewhere in the world.
+**89 open roles.** 61 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -651,13 +651,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Redwood City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rundoo/b7d71a5a-4a88-4e97-a6db-e0446eefb389/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sereact Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039">Product Manager Intern (m/f/d)</a></td>
-<td>Stuttgart Schockenriedstr. 17</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

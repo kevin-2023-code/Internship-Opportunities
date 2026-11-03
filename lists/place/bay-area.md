@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Haystack</strong></td>
+<td><a href="https://trueinterview.io/jobs/5492b303-bfdb-4e72-9d19-883613e91f44">AI/Data Science Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474011998/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>General Motors</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c3ff36b-2d87-4491-8ec0-249fb3011585">2027 Summer Intern - Digital Product: Embedded and Systems Engineering</a></td>
 <td>Mountain View, CA</td>
@@ -80,13 +87,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72ee7a07-9e41-4152-8f24-d09f5733409e">Data Science Intern</a></td>
 <td>Sunnyvale, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159210829-data-science-intern">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cohere</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d797ac0-6b41-4b12-9bf5-a4979a5e632e">Machine Learning Intern/Co-op (Winter 2027)</a></td>
-<td>San Francisco, CA<br/>United Kingdom<br/>Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414192445/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

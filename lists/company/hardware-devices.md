@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**175 open roles.** 153 in the United States & Canada · 22 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**173 open roles.** 152 in the United States & Canada · 21 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -732,14 +732,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad37100e-f3ed-4d81-844f-6ab7a2f0419d">AI R&amp;D Engineer Co-op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40677">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fda4111d-c802-478a-9862-3e355e4ca648">Custom Solutions Engineering Internship</a></td>
 <td>Santa Clara, California, United States<br/>San Diego, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54611?lang=en-us">Apply</a></td>
@@ -1246,13 +1239,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — Poland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sereact Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039">Product Manager Intern (m/f/d)</a></td>
-<td>Stuttgart Schockenriedstr. 17</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

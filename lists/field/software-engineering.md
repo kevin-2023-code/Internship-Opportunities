@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,037 open roles.** 853 in the United States & Canada · 184 elsewhere in the world.
+**1,038 open roles.** 854 in the United States & Canada · 184 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>New York Air Brake</strong></td>
+<td><a href="https://trueinterview.io/jobs/24bef4f5-42f6-46f3-b05a-f886b2815cd2">Intern, Software Engineer</a></td>
+<td>Watertown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487013218/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Siemens Digital Industries Software</strong></td>
 <td><a href="https://trueinterview.io/jobs/48f09592-91eb-433a-bdaa-2128e632b143">Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1776f4c8-8075-4ebe-b2b8-ffeffedcdad9">Internship, Distributed Systems Software Engineer, Energy Engineering (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484901116/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Merck</strong></td>
-<td><a href="https://trueinterview.io/jobs/570af846-ab5c-4416-9a0e-0c95546d2bd7">2027 Future Talent Program - Device Development &amp; Technology - Systems &amp; Human Factors Engineering - Co-op</a></td>
-<td>Rahway, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484782865/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

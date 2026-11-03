@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**181 open roles.** 133 in the United States & Canada · 48 elsewhere in the world.
+**180 open roles.** 133 in the United States & Canada · 47 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1288,13 +1288,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Omaha Riverfront</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4394610009">Apply</a></td>
 <td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sereact Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039">Product Manager Intern (m/f/d)</a></td>
-<td>Stuttgart Schockenriedstr. 17</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sereact/7549093b-0918-4136-ac47-81063ded166d/application">Apply</a></td>
-<td align="center">4 Sep 2026</td>
 </tr>
 </tbody>
 </table>

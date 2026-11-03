@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,037 open roles.** 853 in the United States & Canada · 184 elsewhere in the world.
+**1,038 open roles.** 854 in the United States & Canada · 184 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Merck</strong></td>
+<td><a href="https://trueinterview.io/jobs/570af846-ab5c-4416-9a0e-0c95546d2bd7">2027 Future Talent Program - Device Development &amp; Technology - Systems &amp; Human Factors Engineering - Co-op</a></td>
+<td>Rahway, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484782865/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Paramify</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef6dd09c-3450-4f5b-8bed-a463a052af54">Cyber Security Solution Engineer (Intern)</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/f9afebbd-7396-4bce-8d52-ebcb04692e64">SAP iXp Intern - Full-Stack AI Developer</a></td>
 <td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-Full-Stack-AI-Developer-CA-94304/1425371233/">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/02910d73-4127-4f8d-99a4-0c4c2abb863c">Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/114405557703451334-customer-and-partner-solutions-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 </tbody>

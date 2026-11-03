@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**437 open roles.** 328 in the United States & Canada · 109 elsewhere in the world.
+**438 open roles.** 329 in the United States & Canada · 109 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/44bc0422-6b97-4f05-9f8a-86e0bfa5373f">AI &amp; Data Engineering Intern</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI---Data-Engineering-Intern_UNI4517-1">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7f8439e9-1cb1-4b50-9b4e-510fce22fed8">AI Engineering Intern</a></td>
 <td>Spain</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Engineering-Intern_UNI4353-1">Apply</a></td>
