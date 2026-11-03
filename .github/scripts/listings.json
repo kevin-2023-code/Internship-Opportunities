@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T06:07:38.838Z",
-  "count": 2380,
+  "listingsChangedAt": "2026-11-03T07:05:09.964Z",
+  "count": 2382,
   "listings": [
     {
       "id": "94c3d51f-ba3b-4e6d-9bb6-c69dc8ad2795",
@@ -2861,6 +2861,58 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/enpal/8c407089-cfdb-47b8-9e35-de7ce3073148",
       "url": "https://trueinterview.io/jobs/d4cfd770-2024-4b51-bb7c-d7df00ef80e6",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "3df7bdd7-e13c-4e73-b51d-6b6b36b9c533",
+      "company": "GeoComply",
+      "title": "Forward Deployed Engineer Intern (FDE)",
+      "locations": [
+        "Vancouver, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.lever.co/geocomply-2/a6c7ef11-e1ab-4746-9ef7-d1c5f408b765",
+      "url": "https://trueinterview.io/jobs/3df7bdd7-e13c-4e73-b51d-6b6b36b9c533",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "7ed4292c-4c17-4829-87cc-091439cb05c6",
+      "company": "HNTB Corporation",
+      "title": "Co-op Engineer: Electrical and Traction Power - Spring 2027",
+      "locations": [
+        "Chelmsford, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chelmsford-MA-Lexington/Co-op-Engineer--Electrical-and-Traction-Power---Spring-2027_R-32290-1",
+      "url": "https://trueinterview.io/jobs/7ed4292c-4c17-4829-87cc-091439cb05c6",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },

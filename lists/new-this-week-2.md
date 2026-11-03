@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,466 open roles.** 1,151 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
+**1,468 open roles.** 1,153 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>
+<td>Crane, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801282/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SharkNinja France</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f2250d0-8270-4a31-aa37-4827b2ebaa8b">SPRING 2027: MECHANICAL ENGINEERING CO-OP, NINJA (JANUARY TO JUNE)</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485260302/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Teledyne Qioptiq</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d2c0592-7bc2-452e-9a7d-4fe3de91d9bc">Manufacturing Engineering Intern</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6b32f813-4de0-4bdb-8f38-79c10668fbb7">Vehicle Integration and Test Engineer Intern | (Remote)</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482567152/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Timmons Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd604285-341a-4375-a87c-89c0dc85964d">Civil Engineering Internship - Summer 2027</a></td>
-<td>Columbia, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484734640/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lionakis</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fe73be5-ace6-487d-8e8b-ed0b53d1452e">Student Intern Summer 2027 - Structural Engineering</a></td>
-<td>Sacramento, CA<br/>Irvine, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738446/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

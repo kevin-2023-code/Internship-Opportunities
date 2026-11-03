@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**97 open roles.**
+**98 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/615b795d-c10f-4e49-a4b2-e94b6b52a083">Digital Engineering – Requirements Engineering Co-Op (Spring 2027)</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HNTB Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ed4292c-4c17-4829-87cc-091439cb05c6">Co-op Engineer: Electrical and Traction Power - Spring 2027</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chelmsford-MA-Lexington/Co-op-Engineer--Electrical-and-Traction-Power---Spring-2027_R-32290-1">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,010 open roles.** 835 in the United States & Canada · 175 elsewhere in the world.
+**1,012 open roles.** 837 in the United States & Canada · 175 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -423,6 +423,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/615b795d-c10f-4e49-a4b2-e94b6b52a083">Digital Engineering – Requirements Engineering Co-Op (Spring 2027)</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GeoComply</strong></td>
+<td><a href="https://trueinterview.io/jobs/3df7bdd7-e13c-4e73-b51d-6b6b36b9c533">Forward Deployed Engineer Intern (FDE)</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/geocomply-2/a6c7ef11-e1ab-4746-9ef7-d1c5f408b765">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HNTB Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ed4292c-4c17-4829-87cc-091439cb05c6">Co-op Engineer: Electrical and Traction Power - Spring 2027</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chelmsford-MA-Lexington/Co-op-Engineer--Electrical-and-Traction-Power---Spring-2027_R-32290-1">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/027beb42-ed00-4639-9694-afcc06449592">Software Developer Intern - SOTI XSight (May 2027 12 Months)</a></td>
 <td>Mississauga, Ontario, Canada</td>
 <td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-XSight--May-2027-12-Months-_R10611">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Subtotal</strong></td>
-<td><a href="https://trueinterview.io/jobs/109d67b2-d348-4b56-a64d-f49349ec2053">Software Engineering Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>VSP Vision Care</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3b2bdde-9706-4c01-ba04-41b43a1e3006">Internship, Software Engineer</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10071">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

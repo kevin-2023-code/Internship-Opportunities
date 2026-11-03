@@ -32,13 +32,13 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-03 06:07 UTC_
+_Last updated: 2026-11-03 07:05 UTC_
 
-**1,989 open internships** from **823 employers** · **1,151 posted in the last 7 days** · refreshed hourly
+**1,991 open internships** from **825 employers** · **1,153 posted in the last 7 days** · refreshed hourly
 
-### Browse 1,989 internships by field
+### Browse 1,991 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (835)
+💻 **[Software Engineering](#-software-engineering)** (837)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (317)
 
@@ -68,9 +68,9 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🧑‍💻 **By role** — [Software Engineer (250)](lists/role/software-engineer.md) · [Hardware Engineer (113)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (75)](lists/role/machine-learning-engineer.md) · [AI Engineer (65)](lists/role/ai-engineer.md) · [Data Scientist (65)](lists/role/data-scientist.md) · [Product Manager (58)](lists/role/product-manager.md) · [Security Engineer (56)](lists/role/security-engineer.md) · [Research Scientist (53)](lists/role/research-scientist.md) · [Data Engineer (37)](lists/role/data-engineer.md) · [Data Analyst (35)](lists/role/data-analyst.md) · [+9 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (398)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (126)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (97)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (96)](lists/place/seattle.md) · [🗽 New York City (92)](lists/place/new-york.md) · [🤠 Dallas–Fort Worth (72)](lists/place/dallas-fort-worth.md) · [🌧️ Portland, Boise & Spokane (60)](lists/place/pacific-northwest.md) · [🎸 Austin (57)](lists/place/austin.md) · [🏛️ Washington DC & Northern Virginia (43)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (39)](lists/place/denver-boulder.md) · [+14 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (398)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (126)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (98)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (96)](lists/place/seattle.md) · [🗽 New York City (92)](lists/place/new-york.md) · [🤠 Dallas–Fort Worth (72)](lists/place/dallas-fort-worth.md) · [🌧️ Portland, Boise & Spokane (60)](lists/place/pacific-northwest.md) · [🎸 Austin (57)](lists/place/austin.md) · [🏛️ Washington DC & Northern Virginia (43)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (39)](lists/place/denver-boulder.md) · [+14 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (1,151)](lists/new-this-week.md) · [🌐 Remote (31)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (1,153)](lists/new-this-week.md) · [🌐 Remote (31)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 835.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 837.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -811,7 +811,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7">SW Engineer Intern, AI Engineering</a> 🆕</td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Bank of America</strong></td>
@@ -1919,10 +1919,10 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>Archer</strong></td>
-<td><a href="https://trueinterview.io/jobs/e02359e7-db98-4ab3-8e0e-6995f6fc0687">OH Product Manager Intern - OVIP</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/e02359e7-db98-4ab3-8e0e-6995f6fc0687">OH Product Manager Intern - OVIP</a></td>
 <td>Kansas City, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484813837/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 </tbody>
 </table>
@@ -2341,7 +2341,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/be9f288f-42d6-4fb2-9960-306c82e55888">2027 Summer Intern - Quantitative Modeling (Raleigh, NC)</a> 🆕</td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485673413/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>PIMCO</strong></td>

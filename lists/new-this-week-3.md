@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,466 open roles.** 1,151 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
+**1,468 open roles.** 1,153 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Timmons Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd604285-341a-4375-a87c-89c0dc85964d">Civil Engineering Internship - Summer 2027</a></td>
+<td>Columbia, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484734640/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lionakis</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fe73be5-ace6-487d-8e8b-ed0b53d1452e">Student Intern Summer 2027 - Structural Engineering</a></td>
+<td>Sacramento, CA<br/>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738446/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bombardier</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8e05d8c-a8b2-432b-8342-371a77f4391e">Year-round Flight Sciences Engineering Intern</a></td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dd265b0c-2db2-4b92-ae28-1a04170f7891">C2 Systems Engineering Intern – Radar &amp; Identification (6 months)</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://egide.teamtailor.com/jobs/8646714-c2-systems-engineering-intern-radar-identification-6-months">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mhtechin</strong></td>
-<td><a href="https://trueinterview.io/jobs/33c85e4a-1f45-4b37-b09d-35f6f6545ba5">Forward Deployed Engineer Intern</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://careers.mhtechin.com/index.php/jobs/forward-deployed-engineer-intern/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Perplexity</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693">Internship - Machine Learning Research Engineer</a></td>
-<td>Berlin, Berlin, Germany</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468008490/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,466 open roles.** 1,151 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
+**1,468 open roles.** 1,153 in the United States & Canada · 315 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -703,6 +703,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/615b795d-c10f-4e49-a4b2-e94b6b52a083">Digital Engineering – Requirements Engineering Co-Op (Spring 2027)</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GeoComply</strong></td>
+<td><a href="https://trueinterview.io/jobs/3df7bdd7-e13c-4e73-b51d-6b6b36b9c533">Forward Deployed Engineer Intern (FDE)</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/geocomply-2/a6c7ef11-e1ab-4746-9ef7-d1c5f408b765">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HNTB Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ed4292c-4c17-4829-87cc-091439cb05c6">Co-op Engineer: Electrical and Traction Power - Spring 2027</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chelmsford-MA-Lexington/Co-op-Engineer--Electrical-and-Traction-Power---Spring-2027_R-32290-1">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/97cc1a42-3ac8-4538-823f-97a0be6f3138">Summer 2027 Internship – Mechanical Engineering</a></td>
 <td>Golden, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483400510/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mission Technologies, a division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>
-<td>Crane, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801282/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SharkNinja France</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f2250d0-8270-4a31-aa37-4827b2ebaa8b">SPRING 2027: MECHANICAL ENGINEERING CO-OP, NINJA (JANUARY TO JUNE)</a></td>
-<td>Needham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485260302/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
