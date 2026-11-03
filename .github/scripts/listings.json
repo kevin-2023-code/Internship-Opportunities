@@ -5,9 +5,273 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T16:05:10.801Z",
-  "count": 2429,
+  "listingsChangedAt": "2026-11-03T17:04:28.036Z",
+  "count": 2439,
   "listings": [
+    {
+      "id": "49f97901-f8a2-4ae3-ba75-5ff6386e0cb0",
+      "company": "Microsoft",
+      "title": "Business Program Manager, Global Intern Experience & Innovation",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487002040/",
+      "url": "https://trueinterview.io/jobs/49f97901-f8a2-4ae3-ba75-5ff6386e0cb0",
+      "postedAt": "2026-11-03T16:12:00.000Z",
+      "updatedAt": "2026-11-03T16:12:00.000Z"
+    },
+    {
+      "id": "48f09592-91eb-433a-bdaa-2128e632b143",
+      "company": "Siemens Digital Industries Software",
+      "title": "Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)",
+      "locations": [
+        "State College, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477962462/",
+      "url": "https://trueinterview.io/jobs/48f09592-91eb-433a-bdaa-2128e632b143",
+      "postedAt": "2026-11-03T16:12:00.000Z",
+      "updatedAt": "2026-11-03T16:12:00.000Z"
+    },
+    {
+      "id": "c64ffd6f-582d-4d59-968d-74ebf5bb0bbd",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Highlands Ranch, CO",
+        "Littleton, CO",
+        "Huntsville, AL",
+        "King of Prussia, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484691394/",
+      "url": "https://trueinterview.io/jobs/c64ffd6f-582d-4d59-968d-74ebf5bb0bbd",
+      "postedAt": "2026-11-03T16:02:00.000Z",
+      "updatedAt": "2026-11-03T16:10:00.000Z"
+    },
+    {
+      "id": "eaba15f6-e995-4f05-961a-bc25b59bf77d",
+      "company": "Lockheed Martin",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Fort Worth, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484698016/",
+      "url": "https://trueinterview.io/jobs/eaba15f6-e995-4f05-961a-bc25b59bf77d",
+      "postedAt": "2026-11-03T16:08:00.000Z",
+      "updatedAt": "2026-11-03T16:08:00.000Z"
+    },
+    {
+      "id": "f80ddcc8-2424-4228-b95b-21d2364ded19",
+      "company": "Siemens Digital Industries Software",
+      "title": "Numerical Software Engineer Intern: Strategic Student Program",
+      "locations": [
+        "Cambridge, England, United Kingdom"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477589801/",
+      "url": "https://trueinterview.io/jobs/f80ddcc8-2424-4228-b95b-21d2364ded19",
+      "postedAt": "2026-11-03T16:08:00.000Z",
+      "updatedAt": "2026-11-03T16:08:00.000Z"
+    },
+    {
+      "id": "e5598513-f227-4514-9293-c53622eec568",
+      "company": "Revolut",
+      "title": "Internship Programme 2027: Information Security Engineer (Appsec)",
+      "locations": [
+        "United Arab Emirates",
+        "Poland",
+        "Porto, Porto, Portugal",
+        "Portugal"
+      ],
+      "cities": [
+        "Porto"
+      ],
+      "countries": [
+        "United Arab Emirates",
+        "Poland",
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4433233279/",
+      "url": "https://trueinterview.io/jobs/e5598513-f227-4514-9293-c53622eec568",
+      "postedAt": "2026-11-03T16:00:00.000Z",
+      "updatedAt": "2026-11-03T16:00:00.000Z"
+    },
+    {
+      "id": "3e28bcb8-e43a-4f40-a8cf-26e185206782",
+      "company": "Marketeq Media Inc.",
+      "title": "AI Software Engineering Intern (U.S.A Only)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484682557/",
+      "url": "https://trueinterview.io/jobs/3e28bcb8-e43a-4f40-a8cf-26e185206782",
+      "postedAt": "2026-11-03T15:32:00.000Z",
+      "updatedAt": "2026-11-03T15:32:00.000Z"
+    },
+    {
+      "id": "7854617f-f5a1-4f24-84f3-7375d33ba0f8",
+      "company": "Equanimo.AI",
+      "title": "AI Engineer – Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486877918/",
+      "url": "https://trueinterview.io/jobs/7854617f-f5a1-4f24-84f3-7375d33ba0f8",
+      "postedAt": "2026-11-03T15:29:00.000Z",
+      "updatedAt": "2026-11-03T15:29:00.000Z"
+    },
+    {
+      "id": "d0d91a23-3d80-4d34-be64-9669097f3231",
+      "company": "Tyler Technologies",
+      "title": "DevOps Engineer Intern, Summer 2027",
+      "locations": [
+        "Plano, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "DevOps Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469994651/",
+      "url": "https://trueinterview.io/jobs/d0d91a23-3d80-4d34-be64-9669097f3231",
+      "postedAt": "2026-11-03T15:19:00.000Z",
+      "updatedAt": "2026-11-03T15:19:00.000Z"
+    },
+    {
+      "id": "6cd0bff1-878a-456f-88cf-545d9045ebb8",
+      "company": "Snapmint",
+      "title": "AI Creative Experience Design Intern",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "cities": [
+        "Bengaluru"
+      ],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486826429/",
+      "url": "https://trueinterview.io/jobs/6cd0bff1-878a-456f-88cf-545d9045ebb8",
+      "postedAt": "2026-11-03T15:13:00.000Z",
+      "updatedAt": "2026-11-03T15:13:00.000Z"
+    },
     {
       "id": "4884f200-f496-410e-88f8-a9deb77e581c",
       "company": "Marketeq Talent",
@@ -899,6 +1163,31 @@
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
+      "id": "dcc2e434-09fa-4f13-a47a-908bbe19123a",
+      "company": "INVIDI Technologies Corporation",
+      "title": "#2026-D-0052 Software Developer Intern",
+      "locations": [
+        "India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://invidi.bamboohr.com/careers/895?postedDate=2026-11-03",
+      "url": "https://trueinterview.io/jobs/dcc2e434-09fa-4f13-a47a-908bbe19123a",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "f803bdcd-77e8-4f95-bc7a-e095d4c35625",
       "company": "Ledger",
       "title": "Products Analytics Engineer - Internship",
@@ -922,6 +1211,33 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2",
       "url": "https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "4cc6a4a8-bb3c-41fe-829e-361f1c7162e9",
+      "company": "Siemens",
+      "title": "Industrial AI & Software Engineering Intern",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.siemens.com/externaljobs/JobDetail/527726",
+      "url": "https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -62989,60 +63305,6 @@
       "url": "https://trueinterview.io/jobs/cba60f27-40e3-4e1a-a438-338d60def039",
       "postedAt": "2026-09-04T17:23:31.000Z",
       "updatedAt": "2026-09-04T17:23:31.000Z"
-    },
-    {
-      "id": "96671fb9-c8b7-4506-9d67-ddaa086ebcb5",
-      "company": "General Dynamics Missions System International",
-      "title": "Co-op Winter 2027 - Software Engineering - 8 Months",
-      "locations": [
-        "Ottawa, Ontario, Canada"
-      ],
-      "cities": [
-        "Ottawa, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000147561809-co-op-winter-2027-software-engineering-8-months",
-      "url": "https://trueinterview.io/jobs/96671fb9-c8b7-4506-9d67-ddaa086ebcb5",
-      "postedAt": "2026-09-04T16:15:31.000Z",
-      "updatedAt": "2026-09-04T16:15:31.000Z"
-    },
-    {
-      "id": "668c76b9-362a-4575-81b1-f71c6ee114f5",
-      "company": "Man Group",
-      "title": "Quant Researcher Internship",
-      "locations": [
-        "London"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
-      "url": "https://trueinterview.io/jobs/668c76b9-362a-4575-81b1-f71c6ee114f5",
-      "postedAt": "2026-09-04T16:06:19.000Z",
-      "updatedAt": "2026-09-04T16:06:19.000Z"
     }
   ]
 }
