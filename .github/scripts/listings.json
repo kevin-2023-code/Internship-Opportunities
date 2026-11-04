@@ -5,9 +5,109 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T09:04:58.883Z",
-  "count": 2514,
+  "listingsChangedAt": "2026-11-04T10:05:22.262Z",
+  "count": 2519,
   "listings": [
+    {
+      "id": "4220b57b-81fb-436a-946e-1594a4d4362d",
+      "company": "Hira",
+      "title": "AI Engineering Intern",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486361381/",
+      "url": "https://trueinterview.io/jobs/4220b57b-81fb-436a-946e-1594a4d4362d",
+      "postedAt": "2026-11-04T09:40:00.000Z",
+      "updatedAt": "2026-11-04T09:40:00.000Z"
+    },
+    {
+      "id": "fe736972-f72e-43a2-b7bb-3fca9b7ba938",
+      "company": "Epic Games",
+      "title": "Engine Programmer Intern",
+      "locations": [
+        "Cary, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468798024/",
+      "url": "https://trueinterview.io/jobs/fe736972-f72e-43a2-b7bb-3fca9b7ba938",
+      "postedAt": "2026-11-04T09:16:48.000Z",
+      "updatedAt": "2026-11-04T09:16:48.000Z"
+    },
+    {
+      "id": "a34870fc-3e4e-43c7-a359-285e64b9cf42",
+      "company": "CNH",
+      "title": "Purchasing Data Analyst Intern",
+      "locations": [
+        "Oak Brook, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461560832/",
+      "url": "https://trueinterview.io/jobs/a34870fc-3e4e-43c7-a359-285e64b9cf42",
+      "postedAt": "2026-11-04T09:11:00.000Z",
+      "updatedAt": "2026-11-04T09:11:00.000Z"
+    },
+    {
+      "id": "013403c0-4b8a-4516-b096-0c84cba288ba",
+      "company": "Hira",
+      "title": "Machine Learning Engineer Intern",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486367115/",
+      "url": "https://trueinterview.io/jobs/013403c0-4b8a-4516-b096-0c84cba288ba",
+      "postedAt": "2026-11-04T09:05:00.000Z",
+      "updatedAt": "2026-11-04T09:05:00.000Z"
+    },
     {
       "id": "4d1e405f-3328-4698-98ed-154be4a8e0d9",
       "company": "Hira",
@@ -32,6 +132,31 @@
       "url": "https://trueinterview.io/jobs/4d1e405f-3328-4698-98ed-154be4a8e0d9",
       "postedAt": "2026-11-04T08:33:00.000Z",
       "updatedAt": "2026-11-04T08:33:00.000Z"
+    },
+    {
+      "id": "5cbac2f7-b234-44d2-96fc-746077ece699",
+      "company": "Lawrence Livermore National Laboratory",
+      "title": "Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027",
+      "locations": [
+        "Livermore, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487211808/",
+      "url": "https://trueinterview.io/jobs/5cbac2f7-b234-44d2-96fc-746077ece699",
+      "postedAt": "2026-11-04T08:25:00.000Z",
+      "updatedAt": "2026-11-04T08:25:00.000Z"
     },
     {
       "id": "5244124c-7316-4a5d-8856-952a674e91c7",
@@ -66,7 +191,8 @@
       "company": "Google",
       "title": "Silicon Manufacturing Intern, 2027",
       "locations": [
-        "Taipei, Taipei City, Taiwan"
+        "Taipei, Taipei City, Taiwan",
+        "Taipei, Taipei, Taiwan"
       ],
       "cities": [],
       "countries": [
