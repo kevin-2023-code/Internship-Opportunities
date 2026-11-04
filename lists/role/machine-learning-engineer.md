@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**100 open roles.** 78 in the United States & Canada · 22 elsewhere in the world.
+**103 open roles.** 81 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ahold Delhaize USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e8883a4-e4ed-475c-9db5-bcad034ed88d">AI/ML Engineer Co-op</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487070692/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2e921cf-1a47-45d2-b5bb-b08bd98a9c79">AI/ML Engineer Intern, Summer 2027</a></td>
+<td>Rockville, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485044143/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RoboForce</strong></td>
+<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Engramme</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd14dec2-8e57-4fb3-a538-451e255bb194">Machine Learning Engineer (Co-op / extended internship)</a></td>

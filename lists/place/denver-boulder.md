@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**43 open roles.**
+**42 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d185eafc-6437-465f-96da-7599e36daede">Cleared Software Engineer Intern - Summer 2027</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481059137/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TEPA Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d558d76-6a94-4edc-92bc-a66fbf2fc66e">Environmental Data Analyst Intern - Summer 2027</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://wd108.myworkdaysite.com/recruiting/tepa/Tepa/job/Denver-CO/Environmental-Data-Analyst-Intern---Summer-2027_R-00274">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

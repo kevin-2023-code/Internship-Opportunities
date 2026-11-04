@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2e921cf-1a47-45d2-b5bb-b08bd98a9c79">AI/ML Engineer Intern, Summer 2027</a></td>
+<td>Rockville, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485044143/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>MITRE</strong></td>
 <td><a href="https://trueinterview.io/jobs/65f94030-d1aa-48e0-91b2-7434c18df9b2">AI Engineering Intern</a></td>
 <td>McLean, VA<br/>Bedford, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479785073/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Highmark Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/55ca3826-dbf3-4e51-9bf4-01b4a3e624e9">Summer 2027 AI Services and Platforms Software Engineer Graduate Intern</a></td>
-<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>New York, NY<br/>+19 more</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

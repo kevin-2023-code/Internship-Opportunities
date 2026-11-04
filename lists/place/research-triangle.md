@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**42 open roles.**
+**43 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>First Citizens Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/d815c4ef-70aa-49f3-806c-9b8497156cef">2027 Summer Intern - Applied AI (Raleigh, NC)</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487066747/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>OnLogic</strong></td>
 <td><a href="https://trueinterview.io/jobs/a27a5497-057e-423f-81e3-70fc11b2f8e4">Firmware Engineering Co-op</a></td>

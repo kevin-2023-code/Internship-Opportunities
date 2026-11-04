@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**458 open roles.** 346 in the United States & Canada · 112 elsewhere in the world.
+**460 open roles.** 348 in the United States & Canada · 112 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Webs IT Solution</strong></td>
+<td><a href="https://trueinterview.io/jobs/244d62fa-bcb0-4363-9405-4792e6982a1c">DATA ANALYST INTERN</a></td>
+<td>India</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485205784/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ac8129e-3c56-4c63-90ed-a009afae9e2d">Deep Learning Software Engineering Intern, Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457658515/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f3cd12e2-e148-4b2d-bc5f-23b69e0d8745">Developer Technology Engineering Intern, AI - 2027</a></td>
 <td>Shanghai, Shanghai, China<br/>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458300957/">Apply</a></td>

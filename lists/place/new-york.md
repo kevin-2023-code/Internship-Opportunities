@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**95 open roles.**
+**96 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/2409be04-0e46-4745-a0ba-18177a2d957c">AI Research Internship (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487089716/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vatic Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f77ca5-a299-43ab-9d81-3ef8e196b9a5">AI Research Internship (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485028237/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>RoboNex 88 Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b63e18a-c7a0-43fd-a274-140e52644f05">Software-Engineering Intern</a></td>
@@ -50,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7c1b7fe4-3fea-42fb-b1b9-edb579ff4cde">Deep Learning Research Intern - Summer 2027 - New York</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477914488/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Highmark Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/55ca3826-dbf3-4e51-9bf4-01b4a3e624e9">Summer 2027 AI Services and Platforms Software Engineer Graduate Intern</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>Washington, DC<br/>+19 more</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

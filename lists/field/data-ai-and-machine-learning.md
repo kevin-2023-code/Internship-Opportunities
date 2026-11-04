@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**458 open roles.** 346 in the United States & Canada · 112 elsewhere in the world.
+**460 open roles.** 348 in the United States & Canada · 112 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ahold Delhaize USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e8883a4-e4ed-475c-9db5-bcad034ed88d">AI/ML Engineer Co-op</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487070692/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>First Citizens Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/d815c4ef-70aa-49f3-806c-9b8497156cef">2027 Summer Intern - Applied AI (Raleigh, NC)</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487066747/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vatic Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f77ca5-a299-43ab-9d81-3ef8e196b9a5">AI Research Internship (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485028237/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2e921cf-1a47-45d2-b5bb-b08bd98a9c79">AI/ML Engineer Intern, Summer 2027</a></td>
+<td>Rockville, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485044143/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RoboForce</strong></td>
+<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Engramme</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd14dec2-8e57-4fb3-a538-451e255bb194">Machine Learning Engineer (Co-op / extended internship)</a></td>
@@ -273,30 +308,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Highmark Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/55ca3826-dbf3-4e51-9bf4-01b4a3e624e9">Summer 2027 AI Services and Platforms Software Engineer Graduate Intern</a></td>
-<td>Washington, DC<br/>New York, NY<br/>Washington, District of Columbia, United States<br/>+19 more</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/67ea1dee-2fb2-48a6-a4b4-9cff3cc33eb1">Summer 2027 Healthcare Analytics Data Science Graduate Intern</a></td>
 <td>Alabama, United States<br/>Alaska, United States<br/>Arizona, United States<br/>+17 more</td>
 <td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Reinsurance Group of America, Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfa5536c-47e6-41f4-95ee-0267e0027e61">Summer Intern - Data Analyst</a></td>
-<td>Chesterfield, Missouri, United States</td>
-<td align="center"><a href="https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Data-Analyst_J29309">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TEPA Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d558d76-6a94-4edc-92bc-a66fbf2fc66e">Environmental Data Analyst Intern - Summer 2027</a></td>
-<td>Denver, Colorado, United States</td>
-<td align="center"><a href="https://wd108.myworkdaysite.com/recruiting/tepa/Tepa/job/Denver-CO/Environmental-Data-Analyst-Intern---Summer-2027_R-00274">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ebee3ee5-d0eb-43c3-851e-aeb9354ffaa6">DATA ANALYST INTERN</a></td>
 <td>India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485220021/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Webs IT Solution</strong></td>
-<td><a href="https://trueinterview.io/jobs/244d62fa-bcb0-4363-9405-4792e6982a1c">DATA ANALYST INTERN</a></td>
-<td>India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485205784/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ac8129e-3c56-4c63-90ed-a009afae9e2d">Deep Learning Software Engineering Intern, Test Development - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457658515/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

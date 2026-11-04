@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**106 open roles.** 76 in the United States & Canada · 30 elsewhere in the world.
+**105 open roles.** 75 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b5d9ff92-1f0d-4238-bd11-6266fed087eb">Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485788798/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Highmark Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/55ca3826-dbf3-4e51-9bf4-01b4a3e624e9">Summer 2027 AI Services and Platforms Software Engineer Graduate Intern</a></td>
-<td>Washington, DC<br/>New York, NY<br/>Washington, District of Columbia, United States<br/>+19 more</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
