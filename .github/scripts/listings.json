@@ -5,9 +5,112 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-03T23:04:18.825Z",
-  "count": 2463,
+  "listingsChangedAt": "2026-11-04T00:11:35.073Z",
+  "count": 2471,
   "listings": [
+    {
+      "id": "30c3e725-37de-4f5e-9e84-4c1401f2a59a",
+      "company": "SAP",
+      "title": "SAP Labs iXp Intern – Software Developer (AI & Backend)",
+      "locations": [
+        "Brno, South Moravia, Czechia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485008083/",
+      "url": "https://trueinterview.io/jobs/30c3e725-37de-4f5e-9e84-4c1401f2a59a",
+      "postedAt": "2026-11-03T23:30:00.000Z",
+      "updatedAt": "2026-11-03T23:30:00.000Z"
+    },
+    {
+      "id": "606a2904-23dc-4713-ac5c-de9099c0d664",
+      "company": "SAP",
+      "title": "SAP iXp Intern - Solution Support Engineer - Customer Data Solutions",
+      "locations": [
+        "Budapest, Budapest, Hungary"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476465192/",
+      "url": "https://trueinterview.io/jobs/606a2904-23dc-4713-ac5c-de9099c0d664",
+      "postedAt": "2026-11-03T23:06:00.000Z",
+      "updatedAt": "2026-11-03T23:06:00.000Z"
+    },
+    {
+      "id": "4cc6a4a8-bb3c-41fe-829e-361f1c7162e9",
+      "company": "Siemens",
+      "title": "Industrial AI & Software Engineering Intern",
+      "locations": [
+        "Singapore",
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.siemens.com/externaljobs/JobDetail/527726",
+      "url": "https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T22:55:00.000Z"
+    },
+    {
+      "id": "f697e432-ca93-41bb-8f11-f0a575eab7a1",
+      "company": "EJ",
+      "title": "Pricing & Data Analyst Intern",
+      "locations": [
+        "East Jordan, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://myjobs.adp.com/externalej/cx/job-details?reqId=5001236029506",
+      "url": "https://trueinterview.io/jobs/f697e432-ca93-41bb-8f11-f0a575eab7a1",
+      "postedAt": "2026-11-03T21:39:49.000Z",
+      "updatedAt": "2026-11-03T21:39:49.000Z"
+    },
     {
       "id": "2ff2c982-80d5-40d4-b08b-d3830890b585",
       "company": "Marketeq Digital Solutions",
@@ -32,6 +135,34 @@
       "url": "https://trueinterview.io/jobs/2ff2c982-80d5-40d4-b08b-d3830890b585",
       "postedAt": "2026-11-03T21:26:00.000Z",
       "updatedAt": "2026-11-03T21:26:00.000Z"
+    },
+    {
+      "id": "9d3fcce2-6f48-48c0-b3e9-42790148ace3",
+      "company": "Global Relay",
+      "title": "Co-op Java Developer - Winter 2027",
+      "locations": [
+        "Halifax, Nova Scotia, Canada",
+        "Vancouver, British Columbia, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004",
+      "url": "https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3",
+      "postedAt": "2026-11-03T21:11:53.000Z",
+      "updatedAt": "2026-11-03T21:11:53.000Z"
     },
     {
       "id": "682066b8-6b4a-45cc-a061-ee9f651ce5e5",
@@ -107,31 +238,6 @@
       "url": "https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b",
       "postedAt": "2026-11-03T20:44:00.000Z",
       "updatedAt": "2026-11-03T20:44:00.000Z"
-    },
-    {
-      "id": "c3d8f0bb-60a6-46b7-8f97-30e8099113be",
-      "company": "EJ",
-      "title": "Software Developer Intern",
-      "locations": [
-        "East Jordan, Michigan, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://myjobs.adp.com/externalej/cx/job-details?reqId=5001235738506",
-      "url": "https://trueinterview.io/jobs/c3d8f0bb-60a6-46b7-8f97-30e8099113be",
-      "postedAt": "2026-11-03T20:40:20.000Z",
-      "updatedAt": "2026-11-03T20:40:20.000Z"
     },
     {
       "id": "10cd629f-ac34-4ea8-8943-90351bf72428",
@@ -2181,33 +2287,6 @@
       "applyUrl": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/",
       "url": "https://trueinterview.io/jobs/bc3b5ee8-6cba-4ddb-b197-fbff77c0a9a2",
       "postedAt": "2026-11-03T00:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
-      "id": "4cc6a4a8-bb3c-41fe-829e-361f1c7162e9",
-      "company": "Siemens",
-      "title": "Industrial AI & Software Engineering Intern",
-      "locations": [
-        "Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.siemens.com/externaljobs/JobDetail/527726",
-      "url": "https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9",
-      "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
@@ -4471,34 +4550,6 @@
       "url": "https://trueinterview.io/jobs/f3ecac82-9bcf-482e-b80b-b7d280b0f5a5",
       "postedAt": "2026-11-02T16:54:00.000Z",
       "updatedAt": "2026-11-02T16:54:00.000Z"
-    },
-    {
-      "id": "e1b3dab5-e7da-4ee5-a352-47d0b221dcfe",
-      "company": "Resideo",
-      "title": "Mobile Software Engineer Intern - Summer 2027",
-      "locations": [
-        "Austin, Texas, United States",
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Mobile Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816",
-      "url": "https://trueinterview.io/jobs/e1b3dab5-e7da-4ee5-a352-47d0b221dcfe",
-      "postedAt": "2026-11-02T16:50:50.000Z",
-      "updatedAt": "2026-11-02T16:50:50.000Z"
     },
     {
       "id": "4d8f088e-f6be-4223-bae5-58771faf3843",
@@ -9753,6 +9804,81 @@
       "url": "https://trueinterview.io/jobs/e11c40a0-ebc7-40cd-bac1-12fb639de3c5",
       "postedAt": "2026-10-31T09:20:00.000Z",
       "updatedAt": "2026-10-31T09:20:00.000Z"
+    },
+    {
+      "id": "f737dbe3-b49c-4f4d-902b-0af1b9810cad",
+      "company": "Booz Allen Hamilton",
+      "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
+      "locations": [
+        "McLean, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459884945/",
+      "url": "https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad",
+      "postedAt": "2026-10-31T09:16:19.000Z",
+      "updatedAt": "2026-10-31T09:16:19.000Z"
+    },
+    {
+      "id": "fc4e8afc-5270-4ba2-bbc3-a52c091627ff",
+      "company": "Parsons Corporation",
+      "title": "Software Engineer Co-Op - TS/SCI",
+      "locations": [
+        "Centreville, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477822908/",
+      "url": "https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff",
+      "postedAt": "2026-10-31T09:16:19.000Z",
+      "updatedAt": "2026-10-31T09:16:19.000Z"
+    },
+    {
+      "id": "1bd2c07e-01a8-4c62-b264-1a4bbe7f41fd",
+      "company": "Lennox",
+      "title": "AI-Enabled Full-Stack Software Engineering Intern",
+      "locations": [
+        "Richardson, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468834524/",
+      "url": "https://trueinterview.io/jobs/1bd2c07e-01a8-4c62-b264-1a4bbe7f41fd",
+      "postedAt": "2026-10-31T09:15:00.000Z",
+      "updatedAt": "2026-10-31T09:15:00.000Z"
     },
     {
       "id": "b21c7934-91e7-42bf-949e-513487b35013",
@@ -23363,6 +23489,81 @@
       "url": "https://trueinterview.io/jobs/b0a4652f-4372-4569-b042-90c94c877b8a",
       "postedAt": "2026-10-29T11:19:00.000Z",
       "updatedAt": "2026-10-29T11:19:00.000Z"
+    },
+    {
+      "id": "80006a31-47a5-43ff-98f4-a3e286b976e0",
+      "company": "Fujitsu",
+      "title": "Network Engineering Co-op",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459072476/",
+      "url": "https://trueinterview.io/jobs/80006a31-47a5-43ff-98f4-a3e286b976e0",
+      "postedAt": "2026-10-29T11:15:00.000Z",
+      "updatedAt": "2026-10-29T11:15:00.000Z"
+    },
+    {
+      "id": "b1c3ef90-6998-42df-bbe4-40e2a30f8ac9",
+      "company": "Infineon Technologies",
+      "title": "Internship - Wafer Test Engineer Operation Test Performance Sustaining",
+      "locations": [
+        "Samut Prakan, Samut Prakan, Thailand"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473783390/",
+      "url": "https://trueinterview.io/jobs/b1c3ef90-6998-42df-bbe4-40e2a30f8ac9",
+      "postedAt": "2026-10-29T11:12:00.000Z",
+      "updatedAt": "2026-10-29T11:12:00.000Z"
+    },
+    {
+      "id": "a84ab8b8-3909-4e22-ac5e-7097bd813b8f",
+      "company": "Infineon Technologies",
+      "title": "Internship- Test Engineering",
+      "locations": [
+        "Melaka, Malacca, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473258291/",
+      "url": "https://trueinterview.io/jobs/a84ab8b8-3909-4e22-ac5e-7097bd813b8f",
+      "postedAt": "2026-10-29T11:12:00.000Z",
+      "updatedAt": "2026-10-29T11:12:00.000Z"
     },
     {
       "id": "4b98d112-7f3e-41d1-b080-a642f4e49e03",
