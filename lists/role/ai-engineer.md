@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**113 open roles.** 81 in the United States & Canada · 32 elsewhere in the world.
+**114 open roles.** 82 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brain Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c2c29e7-d895-44d0-b253-15b14edddd68">AI Product Engineer Co-Op Intern, Winter 2027</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479235942/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Prokraya</strong></td>
 <td><a href="https://trueinterview.io/jobs/54946cac-8765-4c9a-9c35-61f9f70c418a">AI Engineering Intern</a></td>

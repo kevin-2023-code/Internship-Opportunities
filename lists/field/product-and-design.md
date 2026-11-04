@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**181 open roles.** 134 in the United States & Canada · 47 elsewhere in the world.
+**182 open roles.** 135 in the United States & Canada · 47 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Vertiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/8661d4d7-1e51-41b2-a22e-bd22f39248e8">UI/UX Design Intern (Summer 2027)</a></td>
+<td>Fort Lauderdale, FL<br/>Huntsville, AL<br/>Delaware, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479052120/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>KEEN</strong></td>
 <td><a href="https://trueinterview.io/jobs/b994938b-957c-4392-b701-5e5da1f5d7a3">AI Product Management Intern</a></td>

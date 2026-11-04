@@ -5,9 +5,94 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T12:06:38.605Z",
-  "count": 2525,
+  "listingsChangedAt": "2026-11-04T13:04:04.459Z",
+  "count": 2529,
   "listings": [
+    {
+      "id": "8661d4d7-1e51-41b2-a22e-bd22f39248e8",
+      "company": "Vertiv",
+      "title": "UI/UX Design Intern (Summer 2027)",
+      "locations": [
+        "Fort Lauderdale, FL",
+        "Huntsville, AL",
+        "Delaware, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479052120/",
+      "url": "https://trueinterview.io/jobs/8661d4d7-1e51-41b2-a22e-bd22f39248e8",
+      "postedAt": "2026-11-04T12:09:00.000Z",
+      "updatedAt": "2026-11-04T12:33:00.000Z"
+    },
+    {
+      "id": "840f63bd-b4bf-4c09-afe0-549b7bf75e06",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - Digital Product: Software Engineering",
+      "locations": [
+        "Austin, TX",
+        "Warren, MI",
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468162978/",
+      "url": "https://trueinterview.io/jobs/840f63bd-b4bf-4c09-afe0-549b7bf75e06",
+      "postedAt": "2026-11-04T11:57:00.000Z",
+      "updatedAt": "2026-11-04T12:28:00.000Z"
+    },
+    {
+      "id": "7c3ff36b-2d87-4491-8ec0-249fb3011585",
+      "company": "General Motors",
+      "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
+      "locations": [
+        "Mountain View, CA",
+        "Warren, MI",
+        "Milford, MI"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468168706/",
+      "url": "https://trueinterview.io/jobs/7c3ff36b-2d87-4491-8ec0-249fb3011585",
+      "postedAt": "2026-11-03T12:25:00.000Z",
+      "updatedAt": "2026-11-04T12:25:00.000Z"
+    },
     {
       "id": "147bc7c3-d68c-44c0-b541-a607e95bbc67",
       "company": "Beckman Coulter Diagnostics",
@@ -32,6 +117,108 @@
       "url": "https://trueinterview.io/jobs/147bc7c3-d68c-44c0-b541-a607e95bbc67",
       "postedAt": "2026-11-04T11:37:00.000Z",
       "updatedAt": "2026-11-04T11:37:00.000Z"
+    },
+    {
+      "id": "4c2c29e7-d895-44d0-b253-15b14edddd68",
+      "company": "Brain Co.",
+      "title": "AI Product Engineer Co-Op Intern, Winter 2027",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479235942/",
+      "url": "https://trueinterview.io/jobs/4c2c29e7-d895-44d0-b253-15b14edddd68",
+      "postedAt": "2026-11-04T11:36:00.000Z",
+      "updatedAt": "2026-11-04T11:36:00.000Z"
+    },
+    {
+      "id": "42f0a346-81ec-412a-9f6d-d63da77f7d9b",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Product Development Portal (Spring Co-Op)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470244916/",
+      "url": "https://trueinterview.io/jobs/42f0a346-81ec-412a-9f6d-d63da77f7d9b",
+      "postedAt": "2026-11-04T11:20:00.000Z",
+      "updatedAt": "2026-11-04T11:20:00.000Z"
+    },
+    {
+      "id": "9134aad2-47c8-4e60-8a84-44d63277d59f",
+      "company": "Brain Co.",
+      "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479247234/",
+      "url": "https://trueinterview.io/jobs/9134aad2-47c8-4e60-8a84-44d63277d59f",
+      "postedAt": "2026-11-04T11:18:00.000Z",
+      "updatedAt": "2026-11-04T11:18:00.000Z"
+    },
+    {
+      "id": "17fbdeb8-a760-4050-9d6f-478d0e75fe48",
+      "company": "Brain Co.",
+      "title": "AI Security Engineer Co-Op Intern, Winter 2027",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479242586/",
+      "url": "https://trueinterview.io/jobs/17fbdeb8-a760-4050-9d6f-478d0e75fe48",
+      "postedAt": "2026-11-04T11:18:00.000Z",
+      "updatedAt": "2026-11-04T11:18:00.000Z"
     },
     {
       "id": "58edef69-5956-48f7-a45c-d474ff1052d2",
@@ -2895,33 +3082,6 @@
       "url": "https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc",
       "postedAt": "2026-11-03T12:47:15.000Z",
       "updatedAt": "2026-11-03T12:47:15.000Z"
-    },
-    {
-      "id": "7c3ff36b-2d87-4491-8ec0-249fb3011585",
-      "company": "General Motors",
-      "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468168706/",
-      "url": "https://trueinterview.io/jobs/7c3ff36b-2d87-4491-8ec0-249fb3011585",
-      "postedAt": "2026-11-03T12:25:00.000Z",
-      "updatedAt": "2026-11-03T12:25:00.000Z"
     },
     {
       "id": "8bd3fae5-b2d5-4073-a067-959c6df2fe35",
@@ -32988,31 +33148,6 @@
       "updatedAt": "2026-10-28T18:13:00.000Z"
     },
     {
-      "id": "258373a8-59ee-432d-a600-dddb3fecd205",
-      "company": "Spectrum",
-      "title": "2027 Summer Intern: Software Engineer",
-      "locations": [
-        "Greenwood Village, CO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484703592/",
-      "url": "https://trueinterview.io/jobs/258373a8-59ee-432d-a600-dddb3fecd205",
-      "postedAt": "2026-10-28T18:01:00.000Z",
-      "updatedAt": "2026-10-28T18:06:00.000Z"
-    },
-    {
       "id": "b7021113-4daf-4b1b-aea7-5fb7991ba2ef",
       "company": "Kiewit",
       "title": "Electrical Design Intern - Kiewit Industrial & Water Engineering (Summer 2027)",
@@ -38724,31 +38859,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4440089864/",
       "url": "https://trueinterview.io/jobs/5722f317-246c-4c47-bd1d-13479c43b766",
-      "postedAt": "2026-10-28T11:48:00.000Z",
-      "updatedAt": "2026-10-28T11:48:00.000Z"
-    },
-    {
-      "id": "6e4fb177-3e28-4e38-99e0-519eabaf3ab0",
-      "company": "Westinghouse Electric Company",
-      "title": "Summer Intern -Computer Engineering / Software Engineering",
-      "locations": [
-        "Cranberry Township, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4457165900/",
-      "url": "https://trueinterview.io/jobs/6e4fb177-3e28-4e38-99e0-519eabaf3ab0",
       "postedAt": "2026-10-28T11:48:00.000Z",
       "updatedAt": "2026-10-28T11:48:00.000Z"
     },
