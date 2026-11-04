@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**479 open roles.** 356 in the United States & Canada · 123 elsewhere in the world.
+**483 open roles.** 359 in the United States & Canada · 124 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bosch Building Technologies Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3854499-2151-449b-b135-c8b9207bff06">Intern, Data Analyst</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483860595/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fifty-five</strong></td>
+<td><a href="https://trueinterview.io/jobs/82c5dee9-cac0-4592-9857-8aea1aad64dd">Data &amp; AI Engineer Intern (H/F)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://apply.workable.com/j/448A52D1A0">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MSD</strong></td>
+<td><a href="https://trueinterview.io/jobs/298b90dc-2a97-4483-b865-0c69ec872135">Intern, D&amp;L Data Analyst</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459327099/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OMNIVISION</strong></td>
+<td><a href="https://trueinterview.io/jobs/17d7cab1-84b7-416b-b96e-8e84b3183ce3">Machine Learning Engineer Intern</a></td>
+<td>Jurong East, West Region, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484834297/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Certis</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6328751-fc3e-45c4-99ba-f3020b87ca68">AI Engineer (Internship)</a></td>
@@ -508,6 +536,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8163c7ad-d1f6-4ef4-8aba-a51417396c14">Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689711-1731?board_id=JB001">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon.com</strong></td>
 <td><a href="https://trueinterview.io/jobs/a97a29bd-8c6b-4ccf-b839-185d56dd4455">Applied Scientist Intern</a></td>
 <td>Zürich, Switzerland</td>
@@ -541,13 +576,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telli/821f603f-69f5-475e-8200-56120cae7241/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Monks</strong></td>
-<td><a href="https://trueinterview.io/jobs/40f92665-889c-43c0-993c-2eac9c354249">[Campus Monks] Data Analytics Intern</a></td>
-<td>São Paulo<br/>Brasil<br/>Sorocaba<br/>+1 more</td>
-<td align="center"><a href="https://www.monks.com/careers/6100057004/job?gh_jid=6100057004">Apply</a></td>
-<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Barnes &amp; Thornburg Llp</strong></td>

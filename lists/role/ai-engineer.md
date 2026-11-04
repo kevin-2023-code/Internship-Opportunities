@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**114 open roles.** 82 in the United States & Canada · 32 elsewhere in the world.
+**115 open roles.** 82 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -812,6 +812,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chile</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/toku/d0100b7c-7dd1-491b-a088-4d4858188eca/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/8163c7ad-d1f6-4ef4-8aba-a51417396c14">Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689711-1731?board_id=JB001">Apply</a></td>
+<td align="center">18 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Rundoo</strong></td>

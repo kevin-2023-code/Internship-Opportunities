@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**662 open roles.** 618 in the United States & Canada · 44 elsewhere in the world.
+**662 open roles.** 617 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -933,13 +933,6 @@
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/061bc981-fa97-416b-ae4a-6bec2176025f">Silicon Engineering Intern, PhD, Summer 2027</a></td>
-<td>Sunnyvale, CA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/136529930677560006-silicon-engineering-intern-phd-summer-2027">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Ms Consultants, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/d110cb85-9e22-45e3-948a-3789584ff412">MEP Engineer Internship - Summer 2027</a></td>
 <td>Columbus, OH</td>
@@ -1860,6 +1853,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Alameda HQ</td>
 <td align="center"><a href="https://jobs.lever.co/pyka/2702593a-7482-4d2b-93f3-ef97e2cf7df7/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ab6e229-2083-45d0-b20f-9ed26510cd61">PMU Silicon Validation Intern (m/f/d)</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200682232-1731?board_id=JB001">Apply</a></td>
+<td align="center">6 Sep 2026</td>
 </tr>
 </tbody>
 </table>
