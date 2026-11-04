@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T19:03:44.439Z",
-  "count": 2577,
+  "listingsChangedAt": "2026-11-04T20:04:49.374Z",
+  "count": 2580,
   "listings": [
     {
       "id": "1f431059-5fe5-4e41-b412-adc16b7f9c9b",
@@ -1543,7 +1543,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487221687/",
+      "applyUrl": "https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440",
       "url": "https://trueinterview.io/jobs/6cdcc1cf-566c-4f87-a6b4-d444b125b11b",
       "postedAt": "2026-11-04T07:50:00.000Z",
       "updatedAt": "2026-11-04T07:50:00.000Z"
@@ -1675,6 +1675,31 @@
       "url": "https://trueinterview.io/jobs/a8e1b585-caa4-498d-81ce-896492f935fb",
       "postedAt": "2026-11-04T06:42:00.000Z",
       "updatedAt": "2026-11-04T06:42:00.000Z"
+    },
+    {
+      "id": "a2944604-9cc0-4103-a7b8-713248cdf457",
+      "company": "GEI Consultants",
+      "title": "Web Developer Intern",
+      "locations": [
+        "Rancho Cordova, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jointeamgei.geiconsultants.com/jobs/17706557-web-developer-intern?tm_job=856288&tm_event=view&tm_company=90289",
+      "url": "https://trueinterview.io/jobs/a2944604-9cc0-4103-a7b8-713248cdf457",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
       "id": "dfe01d43-51d6-4055-ae98-00246a3166f5",
@@ -2353,7 +2378,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487068281/",
+      "applyUrl": "https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696",
       "url": "https://trueinterview.io/jobs/b5386059-bc73-44f3-a33e-c9242e676133",
       "postedAt": "2026-11-04T00:11:00.000Z",
       "updatedAt": "2026-11-04T00:11:00.000Z"
@@ -2380,7 +2405,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487058689/",
+      "applyUrl": "https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2",
       "url": "https://trueinterview.io/jobs/1db47f60-bba2-42cb-b315-02338c639004",
       "postedAt": "2026-11-04T00:09:00.000Z",
       "updatedAt": "2026-11-04T00:09:00.000Z"
@@ -2457,6 +2482,32 @@
       "source": "career-sites",
       "applyUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Intelligence--Power-BI--Intern---Summer-2027_R9843",
       "url": "https://trueinterview.io/jobs/77bc7cc3-c8de-4b28-b645-4fdf6ecd6713",
+      "postedAt": "2026-11-04T00:00:00.000Z",
+      "updatedAt": "2026-11-04T00:00:00.000Z"
+    },
+    {
+      "id": "c858b7c6-d905-47e8-96f1-70696d0eeefb",
+      "company": "Leidos",
+      "title": "Software Engineering & AI Intern",
+      "locations": [
+        "Shiloh, Illinois, United States",
+        "Odenton, Maryland, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
+      "url": "https://trueinterview.io/jobs/c858b7c6-d905-47e8-96f1-70696d0eeefb",
       "postedAt": "2026-11-04T00:00:00.000Z",
       "updatedAt": "2026-11-04T00:00:00.000Z"
     },
@@ -2687,7 +2738,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486306038/",
+      "applyUrl": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194",
       "url": "https://trueinterview.io/jobs/1a6514f1-4dc4-4692-82de-fba586d5625e",
       "postedAt": "2026-11-04T00:00:00.000Z",
       "updatedAt": "2026-11-04T00:00:00.000Z"
@@ -2916,7 +2967,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487065377/",
+      "applyUrl": "https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1",
       "url": "https://trueinterview.io/jobs/fd14dec2-8e57-4fb3-a538-451e255bb194",
       "postedAt": "2026-11-03T23:17:00.000Z",
       "updatedAt": "2026-11-03T23:17:00.000Z"
@@ -3004,7 +3055,8 @@
       "company": "Electronic Arts",
       "title": "Anticheat Engineer Intern - Summer 2027",
       "locations": [
-        "Austin, Texas, United States"
+        "Austin, Texas, United States",
+        "Austin, TX"
       ],
       "cities": [
         "Austin, TX"
@@ -3152,6 +3204,31 @@
       "url": "https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3",
       "postedAt": "2026-11-03T21:11:53.000Z",
       "updatedAt": "2026-11-03T21:11:53.000Z"
+    },
+    {
+      "id": "a077cb37-735d-459b-9db0-e4566c7b9123",
+      "company": "Starkey",
+      "title": "Software Engineering Internship",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting2.ultipro.com/STA1003STARK/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a&postingId=6b9c732b-b313-4283-91dc-8be58811b5b6",
+      "url": "https://trueinterview.io/jobs/a077cb37-735d-459b-9db0-e4566c7b9123",
+      "postedAt": "2026-11-03T20:52:49.000Z",
+      "updatedAt": "2026-11-03T20:52:49.000Z"
     },
     {
       "id": "682066b8-6b4a-45cc-a061-ee9f651ce5e5",
@@ -5072,6 +5149,31 @@
       "updatedAt": "2026-11-03T06:57:00.000Z"
     },
     {
+      "id": "c6ffd6d8-20d6-4549-be77-16c8019815b3",
+      "company": "Avis Budget Group",
+      "title": "Accelerate - Transformation Engineer Summer 2027 Intern",
+      "locations": [
+        "Parsippany-Troy Hills, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388",
+      "url": "https://trueinterview.io/jobs/c6ffd6d8-20d6-4549-be77-16c8019815b3",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
       "company": "CGI",
       "title": "Winter 2027 : AI Developer Co-op (8 months)",
@@ -5095,6 +5197,31 @@
       "source": "indeed",
       "applyUrl": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1026-2812&BRID=1345069&sbdid=936",
       "url": "https://trueinterview.io/jobs/3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a",
+      "company": "CNH Industrial",
+      "title": "Firmware Software Intern",
+      "locations": [
+        "Oak Brook, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://join.cnh.com/job/Firmware-Software-Intern/5623-en_US",
+      "url": "https://trueinterview.io/jobs/ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -5196,6 +5323,61 @@
       "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25749&siteid=5764&PageType=JobDetails&jobid=772259",
       "url": "https://trueinterview.io/jobs/62c1b31d-fac4-435e-a594-3742c51e7c90",
       "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "235134df-418d-4966-afd4-57d50eb5a109",
+      "company": "HP",
+      "title": "Software Engineering Intern, AIML Platform - HP IQ",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1",
+      "url": "https://trueinterview.io/jobs/235134df-418d-4966-afd4-57d50eb5a109",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "6deaafdd-efe9-485d-882e-7b0f4ff99fa9",
+      "company": "HP",
+      "title": "Software Engineering Intern, Product & Developer Productivity - HP IQ",
+      "locations": [
+        "San Francisco, California, United States",
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
+      "url": "https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9",
+      "postedAt": "2026-11-03T00:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
@@ -6245,33 +6427,6 @@
       "source": "career-sites",
       "applyUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345",
       "url": "https://trueinterview.io/jobs/67ea1dee-2fb2-48a6-a4b4-9cff3cc33eb1",
-      "postedAt": "2026-11-03T00:00:00.000Z",
-      "updatedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "6deaafdd-efe9-485d-882e-7b0f4ff99fa9",
-      "company": "HP",
-      "title": "Software Engineering Intern, Product & Developer Productivity - HP IQ",
-      "locations": [
-        "San Francisco, California, United States"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
-      "url": "https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "updatedAt": "2026-11-03T00:00:00.000Z"
     },
@@ -47508,34 +47663,6 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
-      "id": "55ae2f9a-24ab-4723-838c-a9c552e48b73",
-      "company": "Micron Technology",
-      "title": "Intern - SSD Firmware",
-      "locations": [
-        "San Jose, CA, US",
-        "Boise, ID, US"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/45044344",
-      "url": "https://trueinterview.io/jobs/55ae2f9a-24ab-4723-838c-a9c552e48b73",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
       "id": "9afeb533-0cb5-4221-88d7-7fa29e47471d",
       "company": "Microsoft",
       "title": "Data Center Technicians INTERN",
@@ -54424,56 +54551,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44777604",
       "url": "https://trueinterview.io/jobs/a2c5d1bf-b324-4e99-954c-17f4ac3f5ad3",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "543ed716-3bb7-4ae2-8d3d-5d57fd99151a",
-      "company": "Micron Technology",
-      "title": "Intern - SMAI TD AI Engineering Team",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44777622",
-      "url": "https://trueinterview.io/jobs/543ed716-3bb7-4ae2-8d3d-5d57fd99151a",
-      "postedAt": "2026-10-05T00:00:00.000Z",
-      "updatedAt": "2026-10-05T00:00:00.000Z"
-    },
-    {
-      "id": "aa5552a0-3a6a-4e86-ab00-b13247a0bf57",
-      "company": "Micron Technology",
-      "title": "Intern - SSD Architecture Modeling",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/44777731",
-      "url": "https://trueinterview.io/jobs/aa5552a0-3a6a-4e86-ab00-b13247a0bf57",
       "postedAt": "2026-10-05T00:00:00.000Z",
       "updatedAt": "2026-10-05T00:00:00.000Z"
     },

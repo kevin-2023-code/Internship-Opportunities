@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**30 open roles.** 28 in the United States & Canada · 2 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**31 open roles.** 29 in the United States & Canada · 2 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6e19d5eb-cf12-4900-973d-34cb4a0d0e8b">Quantum Data Analyst Intern 2027</a></td>
 <td>Cambridge, MA<br/>San Jose, CA<br/>Yorktown Heights, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466910257/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/c858b7c6-d905-47e8-96f1-70696d0eeefb">Software Engineering &amp; AI Intern</a></td>
+<td>Shiloh, Illinois, United States<br/>Odenton, Maryland, United States</td>
+<td align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

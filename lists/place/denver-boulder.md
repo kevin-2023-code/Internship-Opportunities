@@ -28,7 +28,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Trimble Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a6514f1-4dc4-4692-82de-fba586d5625e">AI Developer Intern</a></td>
 <td>Westminster, CO<br/>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486306038/">Apply</a></td>
+<td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

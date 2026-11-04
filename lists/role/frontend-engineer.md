@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**7 open roles.** 6 in the United States & Canada · 1 elsewhere in the world.
+**8 open roles.** 7 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>GEI Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2944604-9cc0-4103-a7b8-713248cdf457">Web Developer Intern</a></td>
+<td>Rancho Cordova, CA</td>
+<td align="center"><a href="https://jointeamgei.geiconsultants.com/jobs/17706557-web-developer-intern?tm_job=856288&amp;tm_event=view&amp;tm_company=90289">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Plusgrade</strong></td>
 <td><a href="https://trueinterview.io/jobs/fdb447b1-720e-47b7-85d2-4c7a795fe3e2">UI/UX Design and Frontend Engineer Intern</a></td>
