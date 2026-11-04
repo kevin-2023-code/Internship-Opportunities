@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**51 open roles.** 42 in the United States & Canada · 9 elsewhere in the world.
+**52 open roles.** 43 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Peterbilt Motors Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/2aa03880-e4fb-44d2-86f1-40c073c7eed6">2027 Summer Internship: Data Engineer</a></td>
+<td>Denton, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487285787/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Medpace</strong></td>
 <td><a href="https://trueinterview.io/jobs/ca58a2a6-88bc-4295-af30-6b2c5bbc171e">Data Engineer Intern - Spring 2027</a></td>

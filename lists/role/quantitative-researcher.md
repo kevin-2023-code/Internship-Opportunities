@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**24 open roles.** 17 in the United States & Canada · 7 elsewhere in the world.
+**25 open roles.** 17 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,6 +150,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Tower Research Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a6c41e4-04d7-4ff3-ad6e-8d749e46bbb0">Quantitative Researcher Intern, PhD or Postdoc</a></td>
+<td>Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461595875/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6e4b90fc-1fc6-40f1-a504-b0bf603d6c50">Quantitative Researcher Intern, Bachelor's or Master's</a></td>
 <td>Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461711074/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,114 open roles.** 918 in the United States & Canada · 196 elsewhere in the world.
+**1,122 open roles.** 923 in the United States & Canada · 199 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b4a7b1b-41ef-47f5-b081-41210715f7d4">Detection &amp; Response Security Engineer, Intern (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1677981003713152/">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8fff58fd-a4dc-40ff-98c3-64f849898a59">Security Engineer Posture Management, Intern (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1359570553913180/">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/081feb0a-245b-47ae-9757-05cac95cba21">Product Security Engineer, Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2535222523640873/">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d0307b2-66cd-4e7c-bee3-d4e1f37fc36c">AI Performance Engineering Intern</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3e2722-b175-4503-9cde-825c3ce2b23a">Security Engineer Intern [Winter 2027]</a></td>
+<td>San Jose, CA<br/>HQ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4719593006">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sigmacomputing</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd958407-a60f-48b5-9f10-a9e2f2e44c50">Software Engineering Intern (Summer 2027)</a></td>
@@ -853,6 +888,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
+<td>Bratislava, Bratislava, Slovakia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/001c7801-95d2-4f32-aa69-f1cf1755cb91">iXP Intern Developer Security</a></td>
+<td>Sofia, Sofia City, Bulgaria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454215765/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/60e687a2-e288-4f06-a509-3779767d4855">Software Engineering Intern, Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460205184/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/49995702-af80-46cd-950a-360a8fb88184">AI Full-Stack Engineer Intern (TikTok Shop - SEA) - 2027 Start</a></td>

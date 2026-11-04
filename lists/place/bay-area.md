@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**403 open roles.**
+**405 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4385389613/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
+<td>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478153489/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Whatnot</strong></td>
 <td><a href="https://trueinterview.io/jobs/33d3a991-c104-460e-aabd-35630f8151be">Software Engineer Intern (Summer 2027)</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b54893f1-da05-4fb4-a07c-c6d8049954b1">User Research Intern</a></td>
 <td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
 <td align="center"><a href="https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6e64a532-b78e-4489-b0d3-05867b2bae42">Product Design Intern</a></td>
-<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a957c172-c760-4ec0-b1b5-91d6b76935b0">Associate Product Manager Intern</a></td>
-<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8168322?gh_jid=8168322">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

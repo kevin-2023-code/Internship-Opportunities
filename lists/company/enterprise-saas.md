@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**75 open roles.** 60 in the United States & Canada · 15 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**77 open roles.** 61 in the United States & Canada · 16 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478153489/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f431059-5fe5-4e41-b412-adc16b7f9c9b">Software Engineer, Teamwork Experiences Internship Opportunities</a></td>
@@ -451,6 +458,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/001c7801-95d2-4f32-aa69-f1cf1755cb91">iXP Intern Developer Security</a></td>
+<td>Sofia, Sofia City, Bulgaria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454215765/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30c3e725-37de-4f5e-9e84-4c1401f2a59a">SAP Labs iXp Intern – Software Developer (AI &amp; Backend)</a></td>
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485008083/">Apply</a></td>

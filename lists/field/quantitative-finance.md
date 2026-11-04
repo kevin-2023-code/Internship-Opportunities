@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**63 open roles.** 47 in the United States & Canada · 16 elsewhere in the world.
+**67 open roles.** 48 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tower Research Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1f3e705-34ff-4a2c-8e67-23c9bc1d770d">Quantitative Trader Intern, PhD</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479208298/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Acadian Asset Management</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c3d179e-5a53-41db-b75f-d04109e555bb">Quantitative Investment Internship Program - Summer 2027</a></td>
@@ -358,6 +365,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tower Research Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a6c41e4-04d7-4ff3-ad6e-8d749e46bbb0">Quantitative Researcher Intern, PhD or Postdoc</a></td>
+<td>Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461595875/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/58583ed9-0dcc-4645-b152-104354969d2c">Quantitative Trading Internship (Summer 2027 - Shanghai)</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467603402/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5a79bfe8-99f6-4b26-835c-6813bb97226d">Quantitative Trading Internship (Taiwan) - 2027</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467389756/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tower Research Capital</strong></td>
 <td><a href="https://trueinterview.io/jobs/6e4b90fc-1fc6-40f1-a504-b0bf603d6c50">Quantitative Researcher Intern, Bachelor's or Master's</a></td>

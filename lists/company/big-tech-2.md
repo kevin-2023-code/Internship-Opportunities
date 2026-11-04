@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**571 open roles.** 481 in the United States & Canada · 90 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**574 open roles.** 481 in the United States & Canada · 93 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -594,6 +594,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
+<td>Bratislava, Bratislava, Slovakia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/001c7801-95d2-4f32-aa69-f1cf1755cb91">iXP Intern Developer Security</a></td>
+<td>Sofia, Sofia City, Bulgaria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454215765/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/60e687a2-e288-4f06-a509-3779767d4855">Software Engineering Intern, Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460205184/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f">Silicon Manufacturing Intern, 2027</a></td>

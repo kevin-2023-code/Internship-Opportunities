@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**491 open roles.** 366 in the United States & Canada · 125 elsewhere in the world.
+**492 open roles.** 367 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Peterbilt Motors Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/2aa03880-e4fb-44d2-86f1-40c073c7eed6">2027 Summer Internship: Data Engineer</a></td>
+<td>Denton, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487285787/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>BCG X</strong></td>
 <td><a href="https://trueinterview.io/jobs/b575ec89-feeb-47e3-a3a7-f41b108d9436">Forward Deployed AI Scientist, Internship, Campus, United States - BCG X</a></td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c231248d-92f5-419a-893c-341752aeda98">Intern in the Science Operations Department-AI Automation of Product Assurance &amp; Quality Engineering</a></td>
 <td>Villanueva de la Cañada, Spain</td>
 <td align="center"><a href="https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&amp;-Quality-Engineering/1452874133/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2">Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)</a></td>
-<td>Zürich, Switzerland</td>
-<td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,631 open roles.** 1,284 in the United States & Canada · 347 elsewhere in the world. Everything the employers put up this week.
+**1,644 open roles.** 1,291 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
+<td>Auburn Hills, Michigan, United States</td>
+<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Moog Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
+<td>Torrance, California, United States</td>
+<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/85c58ce9-ebea-48d5-9889-733bf9c04caa">Intern Robotics Software Engineering</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486501913/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tower Research Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1f3e705-34ff-4a2c-8e67-23c9bc1d770d">Quantitative Trader Intern, PhD</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479208298/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
+<td>Marlborough, MA<br/>Maple Grove, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487520849/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Peterbilt Motors Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/2aa03880-e4fb-44d2-86f1-40c073c7eed6">2027 Summer Internship: Data Engineer</a></td>
+<td>Denton, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487285787/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4385389613/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/03b998d0-cbc6-46a3-90e4-8d9c3793c5d1">Software Engineer Intern (Multiple Levels) - 30069</a></td>
+<td>Columbia, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460637104/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478153489/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f431059-5fe5-4e41-b412-adc16b7f9c9b">Software Engineer, Teamwork Experiences Internship Opportunities</a></td>
@@ -580,13 +643,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>BorgWarner</strong></td>
-<td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
-<td>Auburn Hills, Michigan, United States</td>
-<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Great American Insurance Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/77bc7cc3-c8de-4b28-b645-4fdf6ecd6713">Business Intelligence (Power BI) Intern - Summer 2027</a></td>
 <td>Cincinnati, Ohio, United States</td>
@@ -598,13 +654,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c858b7c6-d905-47e8-96f1-70696d0eeefb">Software Engineering &amp; AI Intern</a></td>
 <td>Shiloh, Illinois, United States<br/>Odenton, Maryland, United States</td>
 <td align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Moog Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
-<td>Torrance, California, United States</td>
-<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8db51465-8d33-4ff8-a998-0da770940f69">Software Engineering Intern</a></td>
 <td>Vista, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475248640/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Minnesota Star Tribune</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b505fee-a838-4aac-b7eb-2704c53f6cb9">User Experience (UX) Internship - Summer 2027</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466954132/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Georgia Tech Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2ca8357-f968-4484-9653-fbf94cdbed52">Software Engineering Co-op - Spring 2027 - ASL</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477697976/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Liberty Mutual Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e">Cybersecurity Co-op (January - June 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460370875/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
-<td>Normal, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468019657/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Georgia Tech Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e">General Cybersecurity Graduate Intern - CIPHER- Spring 2027</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477810555/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/e45314db-29fb-4cb0-9959-6c2a72e6c7fd">Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476866058/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

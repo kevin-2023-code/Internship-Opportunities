@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,631 open roles.** 1,284 in the United States & Canada · 347 elsewhere in the world. Everything the employers put up this week.
+**1,644 open roles.** 1,291 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RoviSys Building Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/66e7ff80-b210-4c9f-88d8-c6082311306a">Systems Engineer Co-op - Summer 2027</a></td>
+<td>Austin, TX<br/>Dallas, TX<br/>Abilene, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475714326/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Southwire Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/867bef2b-76d0-48f5-836d-bdd85b1295f3">Product Design Engineering Intern</a></td>
+<td>Youngsville, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467796544/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vertiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ebf045a-2bc1-4911-94aa-b219513cf510">DC Power Product Management MBA Intern (Summer 2027)</a></td>
+<td>Delaware, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459029954/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neuralink</strong></td>
+<td><a href="https://trueinterview.io/jobs/67394d40-d12a-4244-9e59-1c90a6063851">Electrical Engineer Intern, Implant Embedded Systems</a></td>
+<td>Austin, TX<br/>South San Francisco, CA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457640633/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OPSWAT</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5927b00-fc54-4176-8306-8cb6062f3084">Support Engineering Intern (AI &amp; Automation Focus)</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476735746/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Independence Blue Cross</strong></td>
+<td><a href="https://trueinterview.io/jobs/29bc765a-7b64-4b91-a9cc-bd15d8f30d04">Summer Intern: Data Services Analyst</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951799/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cubic Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/301f5a03-69b7-47d9-9e45-fe4aa1d0c260">Mechanical Engineering Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484947586/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Draper</strong></td>
 <td><a href="https://trueinterview.io/jobs/5bbabecd-f3c8-47e4-97b5-efeebc0789cb">Mechanical Engineering &amp; System Packaging Co-Op (Spring 2027)</a></td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/2528a714-757e-4bbd-8a95-e9a79c6f7407">Electrical Engineering Intern - Summer 2027</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474983696/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nova Biomedical</strong></td>
-<td><a href="https://trueinterview.io/jobs/9919a414-5289-463c-9a10-a30839101481">Consumables Engineering Co-Op</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466530531/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EVONA</strong></td>
-<td><a href="https://trueinterview.io/jobs/0013b8a1-20d4-4e15-8c62-169fac9ac7f9">Test Engineering Intern - Summer 2027</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474978860/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Los Alamos National Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/59f9de8e-f0d0-4253-a254-e7aa163142ca">Graduate Internship - Engineering</a></td>
-<td>Los Alamos, NM</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484464439/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ace Hardware Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5c2a660-f45b-4b3f-a621-6043347215d9">IT Associate Software Engineer 2027 Summer Internship (Full Time/Paid/12 weeks)</a></td>
-<td>Oak Brook, IL</td>
-<td align="center"><a href="https://acehardware.wd1.myworkdayjobs.com/en-US/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EVONA</strong></td>
-<td><a href="https://trueinterview.io/jobs/611a29e4-2d4a-4042-8f24-a451fd258528">Thermal Engineering Intern - Summer 2027</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474995134/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b9c02c4-0afd-40b0-bf24-e00318374b8c">Intern - HBM Data Scientist</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483889120/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>L3Harris Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1318446-f08f-4109-9e17-78b6192011dd">Electrical Engineer Intern</a></td>
-<td>Clifton, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484453608/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

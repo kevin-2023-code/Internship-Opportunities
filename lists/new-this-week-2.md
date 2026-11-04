@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,631 open roles.** 1,284 in the United States & Canada · 347 elsewhere in the world. Everything the employers put up this week.
+**1,644 open roles.** 1,291 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Minnesota Star Tribune</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b505fee-a838-4aac-b7eb-2704c53f6cb9">User Experience (UX) Internship - Summer 2027</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466954132/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ca8357-f968-4484-9653-fbf94cdbed52">Software Engineering Co-op - Spring 2027 - ASL</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477697976/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Liberty Mutual Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e">Cybersecurity Co-op (January - June 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460370875/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
+<td>Normal, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468019657/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e">General Cybersecurity Graduate Intern - CIPHER- Spring 2027</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477810555/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/e45314db-29fb-4cb0-9959-6c2a72e6c7fd">Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476866058/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72">Software Engineer Project Intern (Developer Infrastructure) - 2027 Start</a></td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/508b7cb8-b4e9-45aa-af3e-ee0168be9493">Intern - Engineering ADAS Perception Features</a></td>
 <td>Auburn Hills, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466557740/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RoviSys Building Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/66e7ff80-b210-4c9f-88d8-c6082311306a">Systems Engineer Co-op - Summer 2027</a></td>
-<td>Austin, TX<br/>Dallas, TX<br/>Abilene, TX<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475714326/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Southwire Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/867bef2b-76d0-48f5-836d-bdd85b1295f3">Product Design Engineering Intern</a></td>
-<td>Youngsville, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467796544/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vertiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ebf045a-2bc1-4911-94aa-b219513cf510">DC Power Product Management MBA Intern (Summer 2027)</a></td>
-<td>Delaware, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459029954/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Neuralink</strong></td>
-<td><a href="https://trueinterview.io/jobs/67394d40-d12a-4244-9e59-1c90a6063851">Electrical Engineer Intern, Implant Embedded Systems</a></td>
-<td>Austin, TX<br/>South San Francisco, CA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457640633/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OPSWAT</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5927b00-fc54-4176-8306-8cb6062f3084">Support Engineering Intern (AI &amp; Automation Focus)</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476735746/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Independence Blue Cross</strong></td>
-<td><a href="https://trueinterview.io/jobs/29bc765a-7b64-4b91-a9cc-bd15d8f30d04">Summer Intern: Data Services Analyst</a></td>
-<td>Philadelphia, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484951799/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cubic Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/301f5a03-69b7-47d9-9e45-fe4aa1d0c260">Mechanical Engineering Intern</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484947586/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**10 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,6 +21,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/001c7801-95d2-4f32-aa69-f1cf1755cb91">iXP Intern Developer Security</a></td>
+<td>Sofia, Sofia City, Bulgaria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454215765/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30c3e725-37de-4f5e-9e84-4c1401f2a59a">SAP Labs iXp Intern – Software Developer (AI &amp; Backend)</a></td>
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485008083/">Apply</a></td>

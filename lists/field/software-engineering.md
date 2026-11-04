@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,114 open roles.** 918 in the United States & Canada · 196 elsewhere in the world.
+**1,122 open roles.** 923 in the United States & Canada · 199 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
+<td>Auburn Hills, Michigan, United States</td>
+<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Moog Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
+<td>Torrance, California, United States</td>
+<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/85c58ce9-ebea-48d5-9889-733bf9c04caa">Intern Robotics Software Engineering</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486501913/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
+<td>Marlborough, MA<br/>Maple Grove, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487520849/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4385389613/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/03b998d0-cbc6-46a3-90e4-8d9c3793c5d1">Software Engineer Intern (Multiple Levels) - 30069</a></td>
+<td>Columbia, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460637104/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478153489/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f431059-5fe5-4e41-b412-adc16b7f9c9b">Software Engineer, Teamwork Experiences Internship Opportunities</a></td>
@@ -325,20 +374,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0d675ce0-b599-4cce-ad62-cb6872569848">IT Software Development Intern (Summer 2027)</a></td>
 <td>Spring Grove, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487064299/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BorgWarner</strong></td>
-<td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
-<td>Auburn Hills, Michigan, United States</td>
-<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Moog Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
-<td>Torrance, California, United States</td>
-<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7ac43e71-c200-45e8-976d-5902998d6872">Renewable Energy Engineering Process Safety Documentation Intern</a></td>
 <td>Folsom, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476934981/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
-<td>Holland, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a243593-489b-4422-964d-ac343a3cc51a">Software Engineering Co-op</a></td>
-<td>Liberty, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976336/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc731646-0b5f-4d59-8125-9a741cea6751">Test Engineering Intern</a></td>
-<td>Norman, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970440/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GAF</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b2a365f-62d4-4735-b602-1799b47fe16c">Project Engineer Co-Op</a></td>
-<td>Shafter, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474800254/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

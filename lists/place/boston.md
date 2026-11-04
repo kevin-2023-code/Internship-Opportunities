@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**109 open roles.**
+**110 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
+<td>Marlborough, MA<br/>Maple Grove, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487520849/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>BCG X</strong></td>
 <td><a href="https://trueinterview.io/jobs/b575ec89-feeb-47e3-a3a7-f41b108d9436">Forward Deployed AI Scientist, Internship, Campus, United States - BCG X</a></td>

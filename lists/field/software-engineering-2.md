@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,114 open roles.** 918 in the United States & Canada · 196 elsewhere in the world.
+**1,122 open roles.** 923 in the United States & Canada · 199 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
+<td>Holland, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7a243593-489b-4422-964d-ac343a3cc51a">Software Engineering Co-op</a></td>
+<td>Liberty, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976336/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fc731646-0b5f-4d59-8125-9a741cea6751">Test Engineering Intern</a></td>
+<td>Norman, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970440/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GAF</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b2a365f-62d4-4735-b602-1799b47fe16c">Project Engineer Co-Op</a></td>
+<td>Shafter, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474800254/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Alcon</strong></td>
 <td><a href="https://trueinterview.io/jobs/77673275-3f77-4939-8fa6-0cbb4e7d338c">2027 Spring/Summer LS Engineering Co-op</a></td>
@@ -2779,41 +2814,6 @@
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768/application">Apply</a></td>
 <td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b4a7b1b-41ef-47f5-b081-41210715f7d4">Detection &amp; Response Security Engineer, Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1677981003713152/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8fff58fd-a4dc-40ff-98c3-64f849898a59">Security Engineer Posture Management, Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1359570553913180/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/081feb0a-245b-47ae-9757-05cac95cba21">Product Security Engineer, Intern (Summer 2027)</a></td>
-<td>New York, NY<br/>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2535222523640873/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d0307b2-66cd-4e7c-bee3-d4e1f37fc36c">AI Performance Engineering Intern</a></td>
-<td>Spring, Texas, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-Performance-Engineering-Intern_1213417">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figure</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae3e2722-b175-4503-9cde-825c3ce2b23a">Security Engineer Intern [Winter 2027]</a></td>
-<td>San Jose, CA<br/>HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4719593006">Apply</a></td>
-<td align="center">6 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**491 open roles.** 366 in the United States & Canada · 125 elsewhere in the world.
+**492 open roles.** 367 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2">Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)</a></td>
+<td>Zürich, Switzerland</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b746c1d-b7a3-4f68-b409-2bad309876da">AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027</a></td>

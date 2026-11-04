@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**265 open roles.** 226 in the United States & Canada · 39 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**266 open roles.** 226 in the United States & Canada · 40 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1613,6 +1613,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/60e687a2-e288-4f06-a509-3779767d4855">Software Engineering Intern, Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460205184/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cd91d546-b760-4a8d-b341-305331caa99f">Software Engineering Intern, DGX Cloud Test Development - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477931783/">Apply</a></td>
