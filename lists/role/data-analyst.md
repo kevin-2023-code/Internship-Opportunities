@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**70 open roles.** 41 in the United States & Canada · 29 elsewhere in the world.
+**71 open roles.** 42 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Beckman Coulter Diagnostics</strong></td>
+<td><a href="https://trueinterview.io/jobs/147bc7c3-d68c-44c0-b541-a607e95bbc67">IT Data Analyst Intern</a></td>
+<td>Brea, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468921374/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CNH</strong></td>
 <td><a href="https://trueinterview.io/jobs/a34870fc-3e4e-43c7-a359-285e64b9cf42">Purchasing Data Analyst Intern</a></td>

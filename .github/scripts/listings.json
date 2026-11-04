@@ -5,9 +5,86 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T11:04:52.565Z",
-  "count": 2522,
+  "listingsChangedAt": "2026-11-04T12:06:38.605Z",
+  "count": 2525,
   "listings": [
+    {
+      "id": "147bc7c3-d68c-44c0-b541-a607e95bbc67",
+      "company": "Beckman Coulter Diagnostics",
+      "title": "IT Data Analyst Intern",
+      "locations": [
+        "Brea, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468921374/",
+      "url": "https://trueinterview.io/jobs/147bc7c3-d68c-44c0-b541-a607e95bbc67",
+      "postedAt": "2026-11-04T11:37:00.000Z",
+      "updatedAt": "2026-11-04T11:37:00.000Z"
+    },
+    {
+      "id": "58edef69-5956-48f7-a45c-d474ff1052d2",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Design Automation (Spring 2027 Co-Op)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469991636/",
+      "url": "https://trueinterview.io/jobs/58edef69-5956-48f7-a45c-d474ff1052d2",
+      "postedAt": "2026-11-04T11:16:00.000Z",
+      "updatedAt": "2026-11-04T11:16:00.000Z"
+    },
+    {
+      "id": "7a1c4697-6182-44a3-b40c-b6af051d866e",
+      "company": "Ensemble Health Partners",
+      "title": "Data Scientist Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4441369974/",
+      "url": "https://trueinterview.io/jobs/7a1c4697-6182-44a3-b40c-b6af051d866e",
+      "postedAt": "2026-11-04T11:07:00.000Z",
+      "updatedAt": "2026-11-04T11:07:00.000Z"
+    },
     {
       "id": "be57c8c4-6ead-46a2-845e-d9d66f82965b",
       "company": "Rivian",
