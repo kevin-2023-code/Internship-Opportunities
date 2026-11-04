@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,593 open roles.** 1,243 in the United States & Canada · 350 elsewhere in the world. Everything the employers put up this week.
+**1,545 open roles.** 1,210 in the United States & Canada · 335 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gentherm</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa999ce1-13b9-49b0-b852-bdfa38abc350">Engineer Co-Op - Spring 2027</a></td>
+<td>Racine, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477468869/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>HDR</strong></td>
 <td><a href="https://trueinterview.io/jobs/568ffe4e-a005-4560-adbb-f6906459df96">Substation Electrical Engineering Intern - Physical</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/3f373b24-8d01-440b-b529-f5fa9432e9f8">Quality Assurance Intern</a></td>
 <td>Vancouver, BC<br/>Vancouver, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484003969/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HPE Aruba Networking</strong></td>
-<td><a href="https://trueinterview.io/jobs/8789ae2c-d0b1-4f85-8c4f-59533306af24">Mechanical Design Engineering Intern</a></td>
-<td>Roseville, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484427063/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

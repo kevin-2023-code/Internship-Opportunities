@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,593 open roles.** 1,243 in the United States & Canada · 350 elsewhere in the world. Everything the employers put up this week.
+**1,545 open roles.** 1,210 in the United States & Canada · 335 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sunlife</strong></td>
+<td><a href="https://trueinterview.io/jobs/b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e">Business Operations Software Engineer - 2027 Co-op</a></td>
+<td>Milwaukee, WI<br/>Portland, ME<br/>Wellesley, MA<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487098006/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1525cb9-1cda-4605-8430-b6e71ce3642a">Internship, Compensation Data Analyst (Winter/Spring 2027)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487081781/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>targetjobs UK</strong></td>
+<td><a href="https://trueinterview.io/jobs/f684ddeb-7a34-41ae-8033-42053f0f1c9e">Software Engineering Internship</a></td>
+<td>Dundee, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486341076/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Jobverse.io</strong></td>
 <td><a href="https://trueinterview.io/jobs/2409be04-0e46-4745-a0ba-18177a2d957c">AI Research Internship (Summer 2027)</a></td>
@@ -73,13 +94,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e2e921cf-1a47-45d2-b5bb-b08bd98a9c79">AI/ML Engineer Intern, Summer 2027</a></td>
 <td>Rockville, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485044143/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sunlife</strong></td>
-<td><a href="https://trueinterview.io/jobs/b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e">Business Operations Software Engineer - 2027 Co-op</a></td>
-<td>Milwaukee, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487098006/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -892,13 +906,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
 <td>Quebec, Quebec, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/9871ab71-f918-4dfe-8c0b-4c9629a3bcbd">Intern - Software Engineer - Summer 2027</a></td>
-<td>Devens, Massachusetts, United States</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eca1b756-97a6-42f5-b9e1-7bb872b0ab9d">Intern, Launch Fluids &amp; Operations Engineer</a></td>
 <td>Florida, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483423852/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gentherm</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa999ce1-13b9-49b0-b852-bdfa38abc350">Engineer Co-Op - Spring 2027</a></td>
-<td>Racine, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477468869/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

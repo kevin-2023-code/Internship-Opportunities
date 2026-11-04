@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-04 04:05 UTC_
+_Last updated: 2026-11-04 05:04 UTC_
 
-**423 open internships** from **235 employers** · **350 posted in the last 7 days** · refreshed hourly
+**423 open internships** from **235 employers** · **335 posted in the last 7 days** · refreshed hourly
 
 ### Browse 423 internships by field
 
@@ -40,9 +40,9 @@ _Last updated: 2026-11-04 04:05 UTC_
 
 ### 🔥 Posting the most this week
 
-**Infineon Technologies** 31 &nbsp;·&nbsp; **NVIDIA** 21 &nbsp;·&nbsp; **Apple** 11 &nbsp;·&nbsp; **SAP** 10 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **HP** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Tencent** 5 &nbsp;·&nbsp; **Amazon** 4 &nbsp;·&nbsp; **Crédit Agricole CIB** 4
+**Infineon Technologies** 31 &nbsp;·&nbsp; **NVIDIA** 21 &nbsp;·&nbsp; **Apple** 11 &nbsp;·&nbsp; **SAP** 10 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Shopee** 5 &nbsp;·&nbsp; **Tencent** 5 &nbsp;·&nbsp; **Amazon** 4 &nbsp;·&nbsp; **Crédit Agricole CIB** 4
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 47 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 44 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (88)](lists/place/singapore.md) · [🇬🇧 London & the UK (29)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (26)](lists/place/greater-china.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (20)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (14)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🇩🇪 Berlin, Munich & Germany (13)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (12)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (10)](lists/place/poland-cee.md) · [+3 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (350)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (335)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -531,21 +531,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/868a61c8-9162-4748-9e67-61a31badc3ed">Intern in the Galileo and Egnos Programme Department - AI for Galileo System Engineering and MBSE</a> 🆕</td>
 <td>Noordwijk, Netherlands</td>
 <td align="center"><a href="https://jobs.esa.int/job/Noordwijk-Intern-in-the-Galileo-and-Egnos-Programme-Department-AI-for-Galileo-System-Engineering-and-MBSE/1452922733/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c231248d-92f5-419a-893c-341752aeda98">Intern in the Science Operations Department-AI Automation of Product Assurance &amp; Quality Engineering</a> 🆕</td>
 <td>Villanueva de la Cañada, Spain</td>
 <td align="center"><a href="https://jobs.esa.int/job/Villanueva-de-la-Ca%C3%B1ada-Intern-in-the-Science-Operations-Department-AI-Automation-of-Product-Assurance-&amp;-Quality-Engineering/1452874133/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2">Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)</a> 🆕</td>
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 </tbody>
 </table>
@@ -740,14 +740,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a3969f10-cc69-4e05-9795-f82d81bf3a2a">Intern – Mechanical Engineer – Finite Element Analysis (m/f/x)</a></td>
 <td>Schaan, Switzerland</td>
 <td align="center"><a href="https://careers.hilti.group/en/jobs/21964-en/intern-mechanical-engineer-finite-element-analysis-m-f-x/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8a7dadd2-ddcd-4c07-98a5-ad6f3904183e">Internship – Civil Engineer for Modular Support Systems (Structural Analysis) (m/f/x)</a></td>
 <td>Schaan, Switzerland</td>
 <td align="center"><a href="https://careers.hilti.group/en/jobs/22017-en/internship-civil-engineer-for-modular-support-systems-structural-analysis-m-f-x/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Jacobs</strong></td>
@@ -977,14 +977,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/46266620-df9b-4323-b69b-05772d5225f4">Praktikum / Internship User Experience Research (Digital Channel Marketing)</a></td>
 <td>Winnenden, Deutschland</td>
 <td align="center"><a href="https://careers.kaercher.com/job/Winnenden-Praktikum-Internship-User-Experience-Research-%28Digital-Channel-Marketing%29-71364/1375035855/">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>L'Oréal</strong></td>
 <td><a href="https://trueinterview.io/jobs/e050aa07-e96b-4296-a93f-2abe023e2e73">6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://careers-apply.loreal.com/job/Applicationmethods?jobId=259983">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Baidu, Inc.</strong></td>
@@ -1061,7 +1061,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/327138e6-000b-43a7-9043-22f41771826a">AI Product Manager Intern - (AI x Greentech) (m/f/d)</a></td>
 <td>Augsburg, Deutschland</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Van Lanschot Kempen</strong></td>
@@ -1179,21 +1179,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/66b36857-beaf-475c-b6c6-503527cefa83">DeFi Quant Trader Intern (Credit)</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/86d6c57c-a212-4171-8755-a849dd8cf883">Innovation Quant Developer: Intern - DeFi/Corporate Development</a></td>
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>TotalEnergies</strong></td>
 <td><a href="https://trueinterview.io/jobs/5b78223f-c5bd-4104-8804-ef48161cb776">Quantitative Development &amp; Data Science Intern</a></td>
 <td>Genève, Switzerland</td>
 <td align="center"><a href="https://jobs.totalenergies.com/fr_FR/careers/JobDetail/Quantitative-Development-Data-Science-Intern/85607">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 </tbody>
 </table>
@@ -1311,14 +1311,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c49329af-d959-4cbc-83bb-822e770016cb">Robotics Wireless &amp; Network Engineer Intern, RIVR</a></td>
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10592306/robotics-wireless--network-engineer-intern-rivr?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/ad90e731-0a82-415d-abb1-eea2619c22e8">FY27 Intern- AI-Driven Power Modeling for Evaluating Power Management Mechanisms in NoC Architectures - Guyancourt, 6 months</a></td>
 <td>Guyancourt, France</td>
 <td align="center"><a href="https://app.eightfold.ai/careers/job/446721854346?domain=qualcomm.com">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Cohesity</strong></td>

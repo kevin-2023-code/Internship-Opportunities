@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**462 open roles.** 348 in the United States & Canada · 114 elsewhere in the world.
+**463 open roles.** 349 in the United States & Canada · 114 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3179e75-5370-41d5-addf-45136009f9a8">Machine Learning Engineering Internship: Summer 2027</a></td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474884596/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cadence</strong></td>
 <td><a href="https://trueinterview.io/jobs/04185783-f1ac-4632-abc5-fb329f2d480d">AI Intern - Technical Communications (System Design Analysis Group)</a></td>

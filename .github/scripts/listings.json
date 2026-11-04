@@ -5,9 +5,91 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T04:05:26.032Z",
-  "count": 2498,
+  "listingsChangedAt": "2026-11-04T05:04:46.644Z",
+  "count": 2499,
   "listings": [
+    {
+      "id": "b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e",
+      "company": "Sunlife",
+      "title": "Business Operations Software Engineer - 2027 Co-op",
+      "locations": [
+        "Milwaukee, WI",
+        "Portland, ME",
+        "Wellesley, MA",
+        "Greater Milwaukee",
+        "Greater Hartford",
+        "Kansas City, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487098006/",
+      "url": "https://trueinterview.io/jobs/b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e",
+      "postedAt": "2026-11-04T00:15:00.000Z",
+      "updatedAt": "2026-11-04T04:10:00.000Z"
+    },
+    {
+      "id": "c1525cb9-1cda-4605-8430-b6e71ce3642a",
+      "company": "Tesla",
+      "title": "Internship, Compensation Data Analyst (Winter/Spring 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487081781/",
+      "url": "https://trueinterview.io/jobs/c1525cb9-1cda-4605-8430-b6e71ce3642a",
+      "postedAt": "2026-11-04T03:43:00.000Z",
+      "updatedAt": "2026-11-04T03:43:00.000Z"
+    },
+    {
+      "id": "f684ddeb-7a34-41ae-8033-42053f0f1c9e",
+      "company": "targetjobs UK",
+      "title": "Software Engineering Internship",
+      "locations": [
+        "Dundee, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486341076/",
+      "url": "https://trueinterview.io/jobs/f684ddeb-7a34-41ae-8033-42053f0f1c9e",
+      "postedAt": "2026-11-04T03:40:00.000Z",
+      "updatedAt": "2026-11-04T03:40:00.000Z"
+    },
     {
       "id": "2409be04-0e46-4745-a0ba-18177a2d957c",
       "company": "Jobverse.io",
@@ -262,31 +344,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4485044143/",
       "url": "https://trueinterview.io/jobs/e2e921cf-1a47-45d2-b5bb-b08bd98a9c79",
-      "postedAt": "2026-11-04T00:15:00.000Z",
-      "updatedAt": "2026-11-04T00:15:00.000Z"
-    },
-    {
-      "id": "b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e",
-      "company": "Sunlife",
-      "title": "Business Operations Software Engineer - 2027 Co-op",
-      "locations": [
-        "Milwaukee, WI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487098006/",
-      "url": "https://trueinterview.io/jobs/b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e",
       "postedAt": "2026-11-04T00:15:00.000Z",
       "updatedAt": "2026-11-04T00:15:00.000Z"
     },
@@ -3854,31 +3911,6 @@
       "source": "career-sites",
       "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
       "url": "https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795",
-      "postedAt": "2026-11-03T00:00:00.000Z",
-      "updatedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "9871ab71-f918-4dfe-8c0b-4c9629a3bcbd",
-      "company": "Commonwealth Fusion Systems",
-      "title": "Intern - Software Engineer - Summer 2027",
-      "locations": [
-        "Devens, Massachusetts, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d",
-      "url": "https://trueinterview.io/jobs/9871ab71-f918-4dfe-8c0b-4c9629a3bcbd",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "updatedAt": "2026-11-03T00:00:00.000Z"
     },
