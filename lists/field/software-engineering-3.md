@@ -16,13 +16,6 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a9586c8-68b7-461a-91c5-dc4d57fb993b">Image and Data Processing Libraries Intern</a></td>
-<td>Warsaw, Masovian Voivodeship, PL<br/>Berlin, Berlin, DE<br/>Zürich, ZH, CH</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397913168">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Gitai</strong></td>
 <td><a href="https://trueinterview.io/jobs/3652228e-5c2f-4869-8700-5253db3fc2e6">Field-Deployed Software Engineering Intern</a></td>
 <td>Los Angeles, California, United States</td>
@@ -135,7 +128,14 @@
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>General Dynamics Missions System International</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcab24a3-dd5b-4385-b656-e737f94ccbf1">Co-op Winter 2027 - Software Engineering - 4-8 months</a></td>
+<td>Cole Harbour 30, Nova Scotia, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000151059868-co-op-winter-2027-software-engineering-4-8-months">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe">Semiconductor Systems Automation Intern</a></td>
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>

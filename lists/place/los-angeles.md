@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**128 open roles.**
+**127 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -498,13 +498,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d6e885d4-33c2-423a-a832-f720cf65025d">Game Design Intern-Undergraduate</a></td>
 <td>United States, Burbank, CA, USA-CA-Burbank</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226630004">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0ebfc702-e43a-47fe-93ab-cf11b2fe98b6">Gameplay Programming Intern - Undergraduate</a> 🌐</td>
-<td>Remote — United States<br/>United States, Burbank, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226611004">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

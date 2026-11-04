@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**463 open roles.** 349 in the United States & Canada · 114 elsewhere in the world.
+**471 open roles.** 351 in the United States & Canada · 120 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1525cb9-1cda-4605-8430-b6e71ce3642a">Internship, Compensation Data Analyst (Winter/Spring 2027)</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487081781/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/30058373-b075-47da-8abe-e28d292a1cab">Internship- Business Systems AI</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487200173/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trilogy Health Services, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf6fb490-02d5-496e-b4a4-0743719dab76">Information Systems Developer of AI Intern</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487086276/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2475,6 +2489,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/649453f0-6973-49f0-8cc6-8074167d4402">Internship - AI Application Engineer</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486336493/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2c39b0ff-7edd-4777-9fc7-740a594bc871">Internship - Research Engineer for Speech/Audio Signal Processing</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486338431/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/13d1faae-e98c-4a91-b3f1-65ad1cb1a350">Internship - Research engineer for data science and machine learning</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486330586/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bd22b881-ae1a-4e4b-9043-5f2336bd4cd0">Internship - Audio-Visual AI Research Scientist</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454244460/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/643ec76c-7a7a-4dda-a495-e07c187df99a">Internship - Research Engineer for Natural Language Processing</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454243488/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/57e6cb6d-9a3b-4515-8712-d894c9a54d6e">Internship - Researcher / Natural Language Processing (NLP) for Multimodal Machine Learning</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454257388/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/f077a066-1ce0-43ab-92ea-56a530d15ec0">Software Engineer Intern (Full-Stack &amp; AI Agents) - Shanghai</a></td>
 <td>Shanghai, Shanghai, China</td>
@@ -2773,62 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/13e70f2c-e6d3-419b-a9a6-b0c78bb43038">Intern (m/f/d) AI Development Engineer</a></td>
 <td>München, Deutschland</td>
 <td align="center"><a href="https://www.3ds.com/careers/jobs/intern-m-f-d-ai-development-engineer-550622">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DNV</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5b667e0-4b6c-4610-a26b-42c8ec5e5858">Data Science Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.dnv.com/job-search/maritime/it-and-software/pune-india/data-science-intern/300001775042998">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Doctolib</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ef67355-c422-400d-b422-25ae60c6593e">Machine Learning Engineer Intern (x/f/m)</a></td>
-<td>Levallois-Perret, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/doctolib/1a05fc07-99a5-4148-8b34-2b644d9ed030">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ODDO BHF Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/42bcf467-43fb-4f42-94fd-0e3cb03955f9">AI Engineer Intern (H/F)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://recrutement.altays-progiciels.com/oddo/de/offres/ai-engineer-intern-hf-2898932.html?page=9">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OPmobility</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fcb2e9a-9535-4f6c-bfc5-fdc1b6fbff90">INTERNSHIP - R&amp;D Engineer - AI Applications for Product Development &amp; Injection Processes (M/F)</a></td>
-<td>Sainte-Julie, France</td>
-<td align="center"><a href="https://careers.opmobility.com/job/Sainte-Julie-France-INTERNSHIP-R&amp;D-Engineer-AI-Applications-for-Product-Development-&amp;-Injection-Processes-%28MF%29/1452940333/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pigment</strong></td>
-<td><a href="https://trueinterview.io/jobs/c7a2145c-11aa-4d1b-959b-0cfb3f365e67">Data Scientist Internship</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/pigment/3401c965-2e1a-426d-8d58-9ca56c5054bf">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TP ICAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/81cebbc7-9a96-440a-8abe-be8b1bb3abca">Off-Cycle Internship - Big Data Analyst - LCM Paris, March 2027 start</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://tp.wd107.myworkdayjobs.com/en-US/TP-ICAP/job/Paris/Off-Cycle-Internship---Big-Data-Analyst---LCM-Paris--March-2027-start_R5991">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/c51cf481-8954-4434-8a83-f696189f8e80">Internship - Machine Learning Research - Speech-to-Speech Translation</a></td>
-<td>Aachen, North Rhine-Westphalia, Germany<br/>Aachen, Deutschland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692236">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/a85878c0-28b2-485a-8083-9c99d238ccd8">Performance Engineering Intern, Deep Learning and HPC - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484596486/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

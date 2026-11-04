@@ -5,9 +5,171 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T05:04:46.644Z",
-  "count": 2499,
+  "listingsChangedAt": "2026-11-04T06:07:21.797Z",
+  "count": 2508,
   "listings": [
+    {
+      "id": "649453f0-6973-49f0-8cc6-8074167d4402",
+      "company": "Sony",
+      "title": "Internship - AI Application Engineer",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486336493/",
+      "url": "https://trueinterview.io/jobs/649453f0-6973-49f0-8cc6-8074167d4402",
+      "postedAt": "2026-11-04T05:01:00.000Z",
+      "updatedAt": "2026-11-04T05:01:00.000Z"
+    },
+    {
+      "id": "2c39b0ff-7edd-4777-9fc7-740a594bc871",
+      "company": "Sony",
+      "title": "Internship - Research Engineer for Speech/Audio Signal Processing",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486338431/",
+      "url": "https://trueinterview.io/jobs/2c39b0ff-7edd-4777-9fc7-740a594bc871",
+      "postedAt": "2026-11-04T04:56:00.000Z",
+      "updatedAt": "2026-11-04T04:56:00.000Z"
+    },
+    {
+      "id": "13d1faae-e98c-4a91-b3f1-65ad1cb1a350",
+      "company": "Sony",
+      "title": "Internship - Research engineer for data science and machine learning",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486330586/",
+      "url": "https://trueinterview.io/jobs/13d1faae-e98c-4a91-b3f1-65ad1cb1a350",
+      "postedAt": "2026-11-04T04:46:00.000Z",
+      "updatedAt": "2026-11-04T04:46:00.000Z"
+    },
+    {
+      "id": "bd22b881-ae1a-4e4b-9043-5f2336bd4cd0",
+      "company": "Sony",
+      "title": "Internship - Audio-Visual AI Research Scientist",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4454244460/",
+      "url": "https://trueinterview.io/jobs/bd22b881-ae1a-4e4b-9043-5f2336bd4cd0",
+      "postedAt": "2026-11-04T04:31:00.000Z",
+      "updatedAt": "2026-11-04T04:31:00.000Z"
+    },
+    {
+      "id": "643ec76c-7a7a-4dda-a495-e07c187df99a",
+      "company": "Sony",
+      "title": "Internship - Research Engineer for Natural Language Processing",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4454243488/",
+      "url": "https://trueinterview.io/jobs/643ec76c-7a7a-4dda-a495-e07c187df99a",
+      "postedAt": "2026-11-04T04:31:00.000Z",
+      "updatedAt": "2026-11-04T04:31:00.000Z"
+    },
+    {
+      "id": "57e6cb6d-9a3b-4515-8712-d894c9a54d6e",
+      "company": "Sony",
+      "title": "Internship - Researcher / Natural Language Processing (NLP) for Multimodal Machine Learning",
+      "locations": [
+        "Tokyo, Japan"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4454257388/",
+      "url": "https://trueinterview.io/jobs/57e6cb6d-9a3b-4515-8712-d894c9a54d6e",
+      "postedAt": "2026-11-04T04:31:00.000Z",
+      "updatedAt": "2026-11-04T04:31:00.000Z"
+    },
     {
       "id": "b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e",
       "company": "Sunlife",
@@ -89,6 +251,56 @@
       "url": "https://trueinterview.io/jobs/f684ddeb-7a34-41ae-8033-42053f0f1c9e",
       "postedAt": "2026-11-04T03:40:00.000Z",
       "updatedAt": "2026-11-04T03:40:00.000Z"
+    },
+    {
+      "id": "30058373-b075-47da-8abe-e28d292a1cab",
+      "company": "ASML",
+      "title": "Internship- Business Systems AI",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487200173/",
+      "url": "https://trueinterview.io/jobs/30058373-b075-47da-8abe-e28d292a1cab",
+      "postedAt": "2026-11-04T02:57:00.000Z",
+      "updatedAt": "2026-11-04T02:57:00.000Z"
+    },
+    {
+      "id": "bf6fb490-02d5-496e-b4a4-0743719dab76",
+      "company": "Trilogy Health Services, LLC",
+      "title": "Information Systems Developer of AI Intern",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487086276/",
+      "url": "https://trueinterview.io/jobs/bf6fb490-02d5-496e-b4a4-0743719dab76",
+      "postedAt": "2026-11-04T02:57:00.000Z",
+      "updatedAt": "2026-11-04T02:57:00.000Z"
     },
     {
       "id": "2409be04-0e46-4745-a0ba-18177a2d957c",
@@ -3011,6 +3223,31 @@
       "source": "indeed",
       "applyUrl": "https://secure.entertimeonline.com/ta/KPAY1001560.careers?ShowJob=906113667",
       "url": "https://trueinterview.io/jobs/68d2d2ed-5473-413f-970a-96faaef4af1d",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "7a27c632-abf7-4b5c-8198-4938dd6765fd",
+      "company": "Fives",
+      "title": "Co-Op: Electrical Engineering",
+      "locations": [
+        "Hebron, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://career.fivesgroup.com/career?company=fives&career_ns=job_listing&career_job_req_id=6504&lang=en_US",
+      "url": "https://trueinterview.io/jobs/7a27c632-abf7-4b5c-8198-4938dd6765fd",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -44912,32 +45149,6 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
-      "id": "0ebfc702-e43a-47fe-93ab-cf11b2fe98b6",
-      "company": "insomniac-games",
-      "title": "Gameplay Programming Intern - Undergraduate",
-      "locations": [
-        "United States, Burbank, CA",
-        "United States, Remote, USA-CA-Burbank"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6226611004",
-      "url": "https://trueinterview.io/jobs/0ebfc702-e43a-47fe-93ab-cf11b2fe98b6",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
       "id": "9969e39f-14ac-488e-8d84-369de593ad37",
       "company": "insomniac-games",
       "title": "Pod Development Manager Intern- Undergraduate",
@@ -56760,6 +56971,31 @@
       "url": "https://trueinterview.io/jobs/d769a851-991d-48fa-ae24-b0370bcc83db",
       "postedAt": "2026-09-22T19:03:10.000Z",
       "updatedAt": "2026-09-22T19:03:10.000Z"
+    },
+    {
+      "id": "dcab24a3-dd5b-4385-b656-e737f94ccbf1",
+      "company": "General Dynamics Missions System International",
+      "title": "Co-op Winter 2027 - Software Engineering - 4-8 months",
+      "locations": [
+        "Cole Harbour 30, Nova Scotia, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.smartrecruiters.com/GDMSI/744000151059868-co-op-winter-2027-software-engineering-4-8-months",
+      "url": "https://trueinterview.io/jobs/dcab24a3-dd5b-4385-b656-e737f94ccbf1",
+      "postedAt": "2026-09-22T14:42:07.000Z",
+      "updatedAt": "2026-09-22T14:42:07.000Z"
     },
     {
       "id": "b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22",

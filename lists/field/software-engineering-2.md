@@ -2277,13 +2277,6 @@
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Insomniac Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ebfc702-e43a-47fe-93ab-cf11b2fe98b6">Gameplay Programming Intern - Undergraduate</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/insomniac/jobs/6226611004">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/dedecf26-b235-4c7f-a87b-b94747329bc3">Intern - SMAI Probe AI Engineer</a></td>
 <td>Boise, ID, US</td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a9586c8-68b7-461a-91c5-dc4d57fb993b">Image and Data Processing Libraries Intern</a></td>
+<td>Warsaw, Masovian Voivodeship, PL<br/>Berlin, Berlin, DE<br/>Zürich, ZH, CH</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397913168">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
