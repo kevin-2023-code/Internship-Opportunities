@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T02:06:15.717Z",
-  "count": 2489,
+  "listingsChangedAt": "2026-11-04T03:05:34.176Z",
+  "count": 2496,
   "listings": [
     {
       "id": "2409be04-0e46-4745-a0ba-18177a2d957c",
@@ -189,6 +189,31 @@
       "url": "https://trueinterview.io/jobs/e3f77ca5-a299-43ab-9d81-3ef8e196b9a5",
       "postedAt": "2026-11-04T00:26:00.000Z",
       "updatedAt": "2026-11-04T00:26:00.000Z"
+    },
+    {
+      "id": "fbbe54a8-8070-4598-9d2c-f75127021450",
+      "company": "TruStage",
+      "title": "IT - Innovation & AI Technology Internship (Hybrid)",
+      "locations": [
+        "Madison, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485031390/",
+      "url": "https://trueinterview.io/jobs/fbbe54a8-8070-4598-9d2c-f75127021450",
+      "postedAt": "2026-11-04T00:21:00.000Z",
+      "updatedAt": "2026-11-04T00:21:00.000Z"
     },
     {
       "id": "e2e921cf-1a47-45d2-b5bb-b08bd98a9c79",
@@ -809,7 +834,8 @@
       "title": "Co-op Java Developer - Winter 2027",
       "locations": [
         "Halifax, Nova Scotia, Canada",
-        "Vancouver, British Columbia, Canada"
+        "Vancouver, British Columbia, Canada",
+        "Halifax, Canada"
       ],
       "cities": [
         "Vancouver, BC"
@@ -1939,6 +1965,31 @@
       "updatedAt": "2026-11-03T15:13:00.000Z"
     },
     {
+      "id": "c4aaa627-2ed6-4033-90e1-af1c1086d43f",
+      "company": "Botpress",
+      "title": "Software Developer Intern - WINTER 2027",
+      "locations": [
+        "Montréal, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/959E328ECA",
+      "url": "https://trueinterview.io/jobs/c4aaa627-2ed6-4033-90e1-af1c1086d43f",
+      "postedAt": "2026-11-03T15:01:44.000Z",
+      "updatedAt": "2026-11-03T15:01:44.000Z"
+    },
+    {
       "id": "4884f200-f496-410e-88f8-a9deb77e581c",
       "company": "Marketeq Talent",
       "title": "UX Research & Design - Internship",
@@ -2804,6 +2855,33 @@
       "updatedAt": "2026-11-03T06:57:00.000Z"
     },
     {
+      "id": "3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
+      "company": "CGI",
+      "title": "Winter 2027 : AI Developer Co-op (8 months)",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1026-2812&BRID=1345069&sbdid=936",
+      "url": "https://trueinterview.io/jobs/3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "68d2d2ed-5473-413f-970a-96faaef4af1d",
       "company": "Fareway Stores, Inc.",
       "title": "IBM I RPG Developer Internship",
@@ -2850,6 +2928,31 @@
       "source": "indeed",
       "applyUrl": "https://ars2.equest.com/?response_id=1b393cc9818e7b3795895c65ab78363b",
       "url": "https://trueinterview.io/jobs/78556070-d5a5-46ed-a26a-ccb570d3d928",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "62c1b31d-fac4-435e-a594-3742c51e7c90",
+      "company": "Halifax Regional Municipality",
+      "title": "Student Business Analytics Developer (Co-op)",
+      "locations": [
+        "Halifax, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25749&siteid=5764&PageType=JobDetails&jobid=772259",
+      "url": "https://trueinterview.io/jobs/62c1b31d-fac4-435e-a594-3742c51e7c90",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -2906,6 +3009,34 @@
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
+      "id": "70029149-0444-4be8-9e4a-00ce92175816",
+      "company": "Leidos",
+      "title": "Intern Engineer",
+      "locations": [
+        "Newcastle, Australia",
+        "Canberra, Australia"
+      ],
+      "cities": [
+        "Canberra"
+      ],
+      "countries": [
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.leidos.com/jobs/18440465-graduate-engineer?tm_job=R-00196094&tm_event=view&tm_company=2502",
+      "url": "https://trueinterview.io/jobs/70029149-0444-4be8-9e4a-00ce92175816",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "bc3b5ee8-6cba-4ddb-b197-fbff77c0a9a2",
       "company": "PACCAR",
       "title": "2027 Summer Internship: Software Developer",
@@ -2929,6 +3060,33 @@
       "applyUrl": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/",
       "url": "https://trueinterview.io/jobs/bc3b5ee8-6cba-4ddb-b197-fbff77c0a9a2",
       "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "90d59032-17fe-4a68-8dd1-118f657a2e6b",
+      "company": "Schneider Electric",
+      "title": "Data Analyst Intern STP27",
+      "locations": [
+        "Barcelona, Spain"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.se.com/jobs/140214/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/90d59032-17fe-4a68-8dd1-118f657a2e6b",
+      "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
@@ -5330,7 +5488,8 @@
       "company": "Apple",
       "title": "Internship - Machine Learning Research (recurrent models | generative models | interpretability)",
       "locations": [
-        "Barcelona, Catalonia, Spain"
+        "Barcelona, Catalonia, Spain",
+        "Barcelona, Spain"
       ],
       "cities": [
         "Barcelona"
@@ -6391,6 +6550,31 @@
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
     {
+      "id": "589b67b4-1b8c-40a5-b505-10202e060e5b",
+      "company": "Schneider Electric",
+      "title": "Engineer Services Tendering Intern STP27",
+      "locations": [
+        "Sevilla, Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.se.com/jobs/140088/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/589b67b4-1b8c-40a5-b505-10202e060e5b",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
       "id": "4750fda9-368d-471b-bfec-0d069967932e",
       "company": "Schneider Electric",
       "title": "Tendering Project Engineer Intern STP27",
@@ -6514,6 +6698,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC",
       "url": "https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T06:00:00.000Z"
+    },
+    {
+      "id": "37794521-8428-418b-ac16-ef74ee46302f",
+      "company": "Survalent",
+      "title": "Quality and Infrastructure, Co-op SmartVu Developer",
+      "locations": [
+        "Mississauga, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.fitzii.com/job/101120?s=in",
+      "url": "https://trueinterview.io/jobs/37794521-8428-418b-ac16-ef74ee46302f",
       "postedAt": "2026-11-02T06:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
@@ -38624,31 +38833,6 @@
       "source": "indeed",
       "applyUrl": "https://jobs.localjobnetwork.com/j/t-internship-software-engineering-intern-coop-e-mide-technology-l-woburn,-ma-jobs-j88737228.html",
       "url": "https://trueinterview.io/jobs/2e1bfa7d-c9e0-4ba4-9b1c-f5316d6f8e6d",
-      "postedAt": "2026-10-28T05:00:00.000Z",
-      "updatedAt": "2026-10-28T05:00:00.000Z"
-    },
-    {
-      "id": "7080c38c-feab-4e80-8b73-ea58aaa05214",
-      "company": "Qualcomm",
-      "title": "FY27 Intern - Deep Learning Research Internship - Canada (4 Months)",
-      "locations": [
-        "Markham, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://app.eightfold.ai/careers/job/446721828828?domain=qualcomm.com",
-      "url": "https://trueinterview.io/jobs/7080c38c-feab-4e80-8b73-ea58aaa05214",
       "postedAt": "2026-10-28T05:00:00.000Z",
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
