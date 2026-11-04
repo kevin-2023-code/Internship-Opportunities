@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**471 open roles.** 351 in the United States & Canada · 120 elsewhere in the world.
+**474 open roles.** 354 in the United States & Canada · 120 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cdcc1cf-566c-4f87-a6b4-d444b125b11b">IA Research Engineer (Kernels) Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487221687/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365">Research Scientist Intern PhD, PAR Safety Evals and Red Teaming</a></td>
+<td>New York, NY<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484656855/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/bba776fc-a672-48fc-a864-f56c362d3e28">Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486349386/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f9f844a-a2fd-4cf9-ad1f-8db4ba87cb79">Research Scientist Intern, Robotic Control Policy (PhD)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485063093/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/c1525cb9-1cda-4605-8430-b6e71ce3642a">Internship, Compensation Data Analyst (Winter/Spring 2027)</a></td>
@@ -199,13 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7854617f-f5a1-4f24-84f3-7375d33ba0f8">AI Engineer – Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486877918/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365">Research Scientist Intern PhD, PAR Safety Evals and Red Teaming</a></td>
-<td>New York, NY<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484656855/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2808,27 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/29ee2006-5dce-43c2-a494-4acd71a0debc">Data Analyst Intern || Oct 2026</a></td>
 <td>India</td>
 <td align="center"><a href="https://anaxee.careers-page.com/jobs/3fa36d27-75af-44be-b1b4-370ea4b25643">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AXA / France</strong></td>
-<td><a href="https://trueinterview.io/jobs/84f1b461-202a-48ab-887d-b7655925584f">Internship - HR Data Engineer</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://careers.axa.com/jobs/29970/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CMA CGM</strong></td>
-<td><a href="https://trueinterview.io/jobs/42b768eb-f030-4470-9520-09b9ace49011">Internship - Developer Intern - AI-Augmented Applications (M/F)</a></td>
-<td>Marseille, France</td>
-<td align="center"><a href="https://career2.successfactors.eu/career?career%5fns=job%5flisting&amp;company=C0002716868P&amp;navBarLevel=JOB%5fSEARCH&amp;rcm%5fsite%5flocale=en%5fGB&amp;career_job_req_id=588751&amp;selected_lang=en_GB&amp;jobAlertController_jobAlertId=&amp;jobAlertController_jobAlertName=&amp;browserTimeZone=America/Chicago&amp;_s.crb=Vmtmhqd3Rp9ruMOdxnha2GZEEUPuXAURWHyGMF0lO6w%3d">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dassault Systèmes</strong></td>
-<td><a href="https://trueinterview.io/jobs/13e70f2c-e6d3-419b-a9a6-b0c78bb43038">Intern (m/f/d) AI Development Engineer</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://www.3ds.com/careers/jobs/intern-m-f-d-ai-development-engineer-550622">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

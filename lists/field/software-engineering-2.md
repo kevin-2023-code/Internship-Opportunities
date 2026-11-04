@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,073 open roles.** 883 in the United States & Canada · 190 elsewhere in the world.
+**1,075 open roles.** 885 in the United States & Canada · 190 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>S&amp;C Electric Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/23db6ac0-f389-4b4b-8d04-8afdbbe51cec">Tool Design Engineer Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476792092/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bass Pro Shops</strong></td>
+<td><a href="https://trueinterview.io/jobs/241471a4-7b70-447c-8b1a-bd8e2cb8fe2b">IT Developer Intern Summer 2027</a></td>
+<td>Springfield, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468257655/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Crux Subsurface, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/5ed24ea2-8722-44ce-ac62-ec1f8aeb983c">Engineer Intern</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/49e7aa29-5c25-425d-9664-27cd0ab23e38">EDA AI/ML Software Intern</a></td>
 <td>Calabasas, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54582?lang=en-us">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a9586c8-68b7-461a-91c5-dc4d57fb993b">Image and Data Processing Libraries Intern</a></td>
-<td>Warsaw, Masovian Voivodeship, PL<br/>Berlin, Berlin, DE<br/>Zürich, ZH, CH</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397913168">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 </tbody>

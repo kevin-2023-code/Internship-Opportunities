@@ -5,9 +5,192 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T08:06:17.864Z",
-  "count": 2508,
+  "listingsChangedAt": "2026-11-04T09:04:58.883Z",
+  "count": 2514,
   "listings": [
+    {
+      "id": "4d1e405f-3328-4698-98ed-154be4a8e0d9",
+      "company": "Hira",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486352622/",
+      "url": "https://trueinterview.io/jobs/4d1e405f-3328-4698-98ed-154be4a8e0d9",
+      "postedAt": "2026-11-04T08:33:00.000Z",
+      "updatedAt": "2026-11-04T08:33:00.000Z"
+    },
+    {
+      "id": "5244124c-7316-4a5d-8856-952a674e91c7",
+      "company": "Dell Technologies",
+      "title": "CSG Software Engineering Undergraduate Intern",
+      "locations": [
+        "Texas, United States",
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
+      "url": "https://trueinterview.io/jobs/5244124c-7316-4a5d-8856-952a674e91c7",
+      "postedAt": "2026-11-03T16:09:25.000Z",
+      "updatedAt": "2026-11-04T08:24:00.000Z"
+    },
+    {
+      "id": "a0792704-412e-47ab-9bab-029f311fea2f",
+      "company": "Google",
+      "title": "Silicon Manufacturing Intern, 2027",
+      "locations": [
+        "Taipei, Taipei City, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486347723/",
+      "url": "https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f",
+      "postedAt": "2026-11-04T07:55:00.000Z",
+      "updatedAt": "2026-11-04T07:55:00.000Z"
+    },
+    {
+      "id": "6cdcc1cf-566c-4f87-a6b4-d444b125b11b",
+      "company": "Etched",
+      "title": "IA Research Engineer (Kernels) Intern",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487221687/",
+      "url": "https://trueinterview.io/jobs/6cdcc1cf-566c-4f87-a6b4-d444b125b11b",
+      "postedAt": "2026-11-04T07:50:00.000Z",
+      "updatedAt": "2026-11-04T07:50:00.000Z"
+    },
+    {
+      "id": "03d04376-65f5-4999-9b19-67be71655365",
+      "company": "Meta",
+      "title": "Research Scientist Intern PhD, PAR Safety Evals and Red Teaming",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4484656855/",
+      "url": "https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365",
+      "postedAt": "2026-11-03T12:15:00.000Z",
+      "updatedAt": "2026-11-04T07:42:00.000Z"
+    },
+    {
+      "id": "96b4efa3-74e9-4579-a9e8-81495003f905",
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Information Security Engineer",
+      "locations": [
+        "Los Angeles Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487226304/",
+      "url": "https://trueinterview.io/jobs/96b4efa3-74e9-4579-a9e8-81495003f905",
+      "postedAt": "2026-11-04T07:40:00.000Z",
+      "updatedAt": "2026-11-04T07:40:00.000Z"
+    },
+    {
+      "id": "bba776fc-a672-48fc-a864-f56c362d3e28",
+      "company": "NVIDIA",
+      "title": "Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486349386/",
+      "url": "https://trueinterview.io/jobs/bba776fc-a672-48fc-a864-f56c362d3e28",
+      "postedAt": "2026-11-04T07:33:00.000Z",
+      "updatedAt": "2026-11-04T07:33:00.000Z"
+    },
     {
       "id": "64bb4193-bb19-4dd4-98ea-e11489fbef6f",
       "company": "General Matter",
@@ -57,6 +240,31 @@
       "url": "https://trueinterview.io/jobs/a8e1b585-caa4-498d-81ce-896492f935fb",
       "postedAt": "2026-11-04T06:42:00.000Z",
       "updatedAt": "2026-11-04T06:42:00.000Z"
+    },
+    {
+      "id": "2f9f844a-a2fd-4cf9-ad1f-8db4ba87cb79",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Robotic Control Policy (PhD)",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485063093/",
+      "url": "https://trueinterview.io/jobs/2f9f844a-a2fd-4cf9-ad1f-8db4ba87cb79",
+      "postedAt": "2026-11-04T05:33:00.000Z",
+      "updatedAt": "2026-11-04T05:33:00.000Z"
     },
     {
       "id": "649453f0-6973-49f0-8cc6-8074167d4402",
@@ -2124,31 +2332,6 @@
       "updatedAt": "2026-11-03T16:10:00.000Z"
     },
     {
-      "id": "5244124c-7316-4a5d-8856-952a674e91c7",
-      "company": "Dell Technologies",
-      "title": "CSG Software Engineering Undergraduate Intern",
-      "locations": [
-        "Texas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217",
-      "url": "https://trueinterview.io/jobs/5244124c-7316-4a5d-8856-952a674e91c7",
-      "postedAt": "2026-11-03T16:09:25.000Z",
-      "updatedAt": "2026-11-03T16:09:25.000Z"
-    },
-    {
       "id": "eaba15f6-e995-4f05-961a-bc25b59bf77d",
       "company": "Lockheed Martin",
       "title": "Software Engineering Intern",
@@ -2436,34 +2619,6 @@
       "url": "https://trueinterview.io/jobs/7c3ff36b-2d87-4491-8ec0-249fb3011585",
       "postedAt": "2026-11-03T12:25:00.000Z",
       "updatedAt": "2026-11-03T12:25:00.000Z"
-    },
-    {
-      "id": "03d04376-65f5-4999-9b19-67be71655365",
-      "company": "Meta",
-      "title": "Research Scientist Intern PhD, PAR Safety Evals and Red Teaming",
-      "locations": [
-        "Menlo Park, CA",
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484656855/",
-      "url": "https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365",
-      "postedAt": "2026-11-03T12:15:00.000Z",
-      "updatedAt": "2026-11-03T12:15:00.000Z"
     },
     {
       "id": "8bd3fae5-b2d5-4073-a067-959c6df2fe35",

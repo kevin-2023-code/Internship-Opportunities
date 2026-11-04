@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365">Research Scientist Intern PhD, PAR Safety Evals and Red Teaming</a></td>
+<td>New York, NY<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484656855/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Jobverse.io</strong></td>
 <td><a href="https://trueinterview.io/jobs/2409be04-0e46-4745-a0ba-18177a2d957c">AI Research Internship (Summer 2027)</a></td>
 <td>New York, NY</td>
@@ -50,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0763aa70-d870-4114-900f-abfabcf82664">Advertising Business Data Analyst Intern</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365">Research Scientist Intern PhD, PAR Safety Evals and Red Teaming</a></td>
-<td>New York, NY<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484656855/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

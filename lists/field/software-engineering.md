@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,073 open roles.** 883 in the United States & Canada · 190 elsewhere in the world.
+**1,075 open roles.** 885 in the United States & Canada · 190 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Hira</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d1e405f-3328-4698-98ed-154be4a8e0d9">Software Engineer Intern</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486352622/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/5244124c-7316-4a5d-8856-952a674e91c7">CSG Software Engineering Undergraduate Intern</a></td>
+<td>Austin, TX<br/>Texas, United States</td>
+<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>General Matter</strong></td>
+<td><a href="https://trueinterview.io/jobs/96b4efa3-74e9-4579-a9e8-81495003f905">Summer 2027 Internship - Information Security Engineer</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487226304/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/64bb4193-bb19-4dd4-98ea-e11489fbef6f">Summer 2027 Internship - Embedded Software Engineering</a></td>
 <td>Los Angeles Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487226360/">Apply</a></td>
@@ -244,14 +265,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Dell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/5244124c-7316-4a5d-8856-952a674e91c7">CSG Software Engineering Undergraduate Intern</a></td>
-<td>Texas, United States</td>
-<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/eaba15f6-e995-4f05-961a-bc25b59bf77d">Software Engineering Intern</a></td>
 <td>Fort Worth, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484698016/">Apply</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/18de8b91-2269-4fbf-a7bf-0d6e7eeed8fa">Design Quality Assurance (DQA) Co-op</a></td>
 <td>Chelmsford, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475447249/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>S&amp;C Electric Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/23db6ac0-f389-4b4b-8d04-8afdbbe51cec">Tool Design Engineer Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476792092/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bass Pro Shops</strong></td>
-<td><a href="https://trueinterview.io/jobs/241471a4-7b70-447c-8b1a-bd8e2cb8fe2b">IT Developer Intern Summer 2027</a></td>
-<td>Springfield, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468257655/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

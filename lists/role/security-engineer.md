@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**63 open roles.** 57 in the United States & Canada · 6 elsewhere in the world.
+**64 open roles.** 58 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Matter</strong></td>
+<td><a href="https://trueinterview.io/jobs/96b4efa3-74e9-4579-a9e8-81495003f905">Summer 2027 Internship - Information Security Engineer</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487226304/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WoodmenLife</strong></td>
 <td><a href="https://trueinterview.io/jobs/df66c33e-bbe4-4376-b4e3-0fc3abcf461d">2027 Summer Cybersecurity Intern</a></td>

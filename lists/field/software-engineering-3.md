@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,073 open roles.** 883 in the United States & Canada · 190 elsewhere in the world.
+**1,075 open roles.** 885 in the United States & Canada · 190 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a9586c8-68b7-461a-91c5-dc4d57fb993b">Image and Data Processing Libraries Intern</a></td>
+<td>Warsaw, Masovian Voivodeship, PL<br/>Berlin, Berlin, DE<br/>Zürich, ZH, CH</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397913168">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Gitai</strong></td>
 <td><a href="https://trueinterview.io/jobs/3652228e-5c2f-4869-8700-5253db3fc2e6">Field-Deployed Software Engineering Intern</a></td>
