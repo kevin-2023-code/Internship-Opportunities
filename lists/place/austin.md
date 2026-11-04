@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>General Motors</strong></td>
 <td><a href="https://trueinterview.io/jobs/840f63bd-b4bf-4c09-afe0-549b7bf75e06">2027 Summer Intern - Digital Product: Software Engineering</a></td>
-<td>Austin, TX<br/>Warren, MI<br/>Mountain View, CA</td>
+<td>Austin, TX<br/>Warren, MI<br/>Mountain View, CA<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468162978/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
