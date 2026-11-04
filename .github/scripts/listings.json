@@ -5,9 +5,109 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T10:05:22.262Z",
-  "count": 2519,
+  "listingsChangedAt": "2026-11-04T11:04:52.565Z",
+  "count": 2522,
   "listings": [
+    {
+      "id": "be57c8c4-6ead-46a2-845e-d9d66f82965b",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
+      "locations": [
+        "Plymouth, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469981991/",
+      "url": "https://trueinterview.io/jobs/be57c8c4-6ead-46a2-845e-d9d66f82965b",
+      "postedAt": "2026-11-04T10:28:00.000Z",
+      "updatedAt": "2026-11-04T10:28:00.000Z"
+    },
+    {
+      "id": "ca58a2a6-88bc-4295-af30-6b2c5bbc171e",
+      "company": "Medpace",
+      "title": "Data Engineer Intern - Spring 2027",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451463450/",
+      "url": "https://trueinterview.io/jobs/ca58a2a6-88bc-4295-af30-6b2c5bbc171e",
+      "postedAt": "2026-11-04T10:22:00.000Z",
+      "updatedAt": "2026-11-04T10:22:00.000Z"
+    },
+    {
+      "id": "5bd39372-7acb-4efc-8d64-ef01d1e2f7eb",
+      "company": "Medpace",
+      "title": "Python Developer Internship - Summer 2027",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478180378/",
+      "url": "https://trueinterview.io/jobs/5bd39372-7acb-4efc-8d64-ef01d1e2f7eb",
+      "postedAt": "2026-11-04T10:22:00.000Z",
+      "updatedAt": "2026-11-04T10:22:00.000Z"
+    },
+    {
+      "id": "54946cac-8765-4c9a-9c35-61f9f70c418a",
+      "company": "Prokraya",
+      "title": "AI Engineering Intern",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485065818/",
+      "url": "https://trueinterview.io/jobs/54946cac-8765-4c9a-9c35-61f9f70c418a",
+      "postedAt": "2026-11-04T10:02:00.000Z",
+      "updatedAt": "2026-11-04T10:02:00.000Z"
+    },
     {
       "id": "4220b57b-81fb-436a-946e-1594a4d4362d",
       "company": "Hira",
@@ -25788,33 +25888,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4457692099/",
       "url": "https://trueinterview.io/jobs/bdc8a05c-e19c-4613-b682-4e1f5b4251bc",
-      "postedAt": "2026-10-29T10:27:00.000Z",
-      "updatedAt": "2026-10-29T10:27:00.000Z"
-    },
-    {
-      "id": "9e2437cb-5f20-487f-9a9e-011b08ff8ffe",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (Monetization Technology - Ads Core Global) - 2027 Summer",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4477138357/",
-      "url": "https://trueinterview.io/jobs/9e2437cb-5f20-487f-9a9e-011b08ff8ffe",
       "postedAt": "2026-10-29T10:27:00.000Z",
       "updatedAt": "2026-10-29T10:27:00.000Z"
     },
