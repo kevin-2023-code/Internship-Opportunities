@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**15 open roles.** 8 in the United States & Canada · 7 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**16 open roles.** 8 in the United States & Canada · 8 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,7 +100,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Nabla</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ca692e7-2824-4d5b-ad6f-b1d034cd8702">Machine Learning Internship 2026</a></td>
+<td>Paris office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Abridge</strong></td>
 <td><a href="https://trueinterview.io/jobs/33ea0f89-148c-4e49-8a7f-b666a8948bbe">Software Engineering Intern, Spring</a></td>
 <td>SF Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application">Apply</a></td>
