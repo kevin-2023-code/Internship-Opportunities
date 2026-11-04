@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T07:04:58.597Z",
-  "count": 2509,
+  "listingsChangedAt": "2026-11-04T08:06:17.864Z",
+  "count": 2508,
   "listings": [
+    {
+      "id": "64bb4193-bb19-4dd4-98ea-e11489fbef6f",
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Embedded Software Engineering",
+      "locations": [
+        "Los Angeles Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487226360/",
+      "url": "https://trueinterview.io/jobs/64bb4193-bb19-4dd4-98ea-e11489fbef6f",
+      "postedAt": "2026-11-04T06:50:00.000Z",
+      "updatedAt": "2026-11-04T06:50:00.000Z"
+    },
+    {
+      "id": "a8e1b585-caa4-498d-81ce-896492f935fb",
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Software Engineering",
+      "locations": [
+        "Los Angeles Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487220481/",
+      "url": "https://trueinterview.io/jobs/a8e1b585-caa4-498d-81ce-896492f935fb",
+      "postedAt": "2026-11-04T06:42:00.000Z",
+      "updatedAt": "2026-11-04T06:42:00.000Z"
+    },
     {
       "id": "649453f0-6973-49f0-8cc6-8074167d4402",
       "company": "Sony",
@@ -3175,31 +3225,6 @@
       "updatedAt": "2026-11-03T06:57:00.000Z"
     },
     {
-      "id": "1967c0d3-31b9-4aec-bd9e-814360c060ba",
-      "company": "Bose",
-      "title": "Electrical Engineering Co-op — FPGA and Audio Research Platforms",
-      "locations": [
-        "Framingham, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://careers.bose.com/us/en/job/R29366",
-      "url": "https://trueinterview.io/jobs/1967c0d3-31b9-4aec-bd9e-814360c060ba",
-      "postedAt": "2026-11-03T06:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
       "id": "3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
       "company": "CGI",
       "title": "Winter 2027 : AI Developer Co-op (8 months)",
@@ -4321,31 +4346,6 @@
       "source": "career-sites",
       "applyUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
       "url": "https://trueinterview.io/jobs/ef385eb6-92c4-4057-8aa9-3185621c6831",
-      "postedAt": "2026-11-03T00:00:00.000Z",
-      "updatedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "a913d126-e6db-4610-a999-23bccb2cb384",
-      "company": "T-Mobile",
-      "title": "Summer 2027 T-Ads Software Engineering Internship",
-      "locations": [
-        "Philadelphia, Pennsylvania, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234",
-      "url": "https://trueinterview.io/jobs/a913d126-e6db-4610-a999-23bccb2cb384",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "updatedAt": "2026-11-03T00:00:00.000Z"
     },
@@ -39046,34 +39046,6 @@
       "source": "career-sites",
       "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
       "url": "https://trueinterview.io/jobs/31fdfaa0-8c06-4051-ae9c-9fdd5c67b0f9",
-      "postedAt": "2026-10-28T00:00:00.000Z",
-      "updatedAt": "2026-10-28T05:00:00.000Z"
-    },
-    {
-      "id": "1d4d2dd4-054d-4614-b109-564ff32d2e1f",
-      "company": "HP",
-      "title": "Software Engineering Intern, Connectivity - HP IQ",
-      "locations": [
-        "San Francisco, California, United States",
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1",
-      "url": "https://trueinterview.io/jobs/1d4d2dd4-054d-4614-b109-564ff32d2e1f",
       "postedAt": "2026-10-28T00:00:00.000Z",
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
