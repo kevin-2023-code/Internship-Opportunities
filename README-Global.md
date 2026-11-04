@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-04 06:07 UTC_
+_Last updated: 2026-11-04 07:04 UTC_
 
-**429 open internships** from **236 employers** · **341 posted in the last 7 days** · refreshed hourly
+**429 open internships** from **236 employers** · **340 posted in the last 7 days** · refreshed hourly
 
 ### Browse 429 internships by field
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (88)](lists/place/singapore.md) · [🇬🇧 London & the UK (29)](lists/place/uk.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (26)](lists/place/greater-china.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (20)](lists/place/switzerland.md) · [🇳🇱 Amsterdam & the Benelux (14)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🇩🇪 Berlin, Munich & Germany (13)](lists/place/germany.md) · [🇪🇸 Madrid, Barcelona & Iberia (12)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (10)](lists/place/poland-cee.md) · [+4 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (341)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (340)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -182,7 +182,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a3d93f91-169f-4a5a-84f7-37fe1bc26304">Unreal Engine Programmer Intern</a> 🆕</td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486127165/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>BLP</strong></td>
@@ -1054,7 +1054,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3e046d50-f100-4d27-9d5c-6d9eeb0605a3">Global Product Management Intern</a></td>
 <td>Eindhoven, North Brabant, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4430981785/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Reonic GmbH</strong></td>

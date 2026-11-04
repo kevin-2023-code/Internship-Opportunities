@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T06:07:21.797Z",
-  "count": 2508,
+  "listingsChangedAt": "2026-11-04T07:04:58.597Z",
+  "count": 2509,
   "listings": [
     {
       "id": "649453f0-6973-49f0-8cc6-8074167d4402",
@@ -3173,6 +3173,31 @@
       "url": "https://trueinterview.io/jobs/7ff7987b-7f1c-4522-be26-248a458cce9b",
       "postedAt": "2026-11-03T06:57:00.000Z",
       "updatedAt": "2026-11-03T06:57:00.000Z"
+    },
+    {
+      "id": "1967c0d3-31b9-4aec-bd9e-814360c060ba",
+      "company": "Bose",
+      "title": "Electrical Engineering Co-op — FPGA and Audio Research Platforms",
+      "locations": [
+        "Framingham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.bose.com/us/en/job/R29366",
+      "url": "https://trueinterview.io/jobs/1967c0d3-31b9-4aec-bd9e-814360c060ba",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
       "id": "3284f3b4-55ce-4d58-b3e5-2d139b695cfc",

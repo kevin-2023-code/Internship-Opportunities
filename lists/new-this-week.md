@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,554 open roles.** 1,213 in the United States & Canada · 341 elsewhere in the world. Everything the employers put up this week.
+**1,554 open roles.** 1,214 in the United States & Canada · 340 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -696,6 +696,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7ff7987b-7f1c-4522-be26-248a458cce9b">Product Marketing MBA Intern, AI Infrastructure — Summer 2027</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486038029/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bose</strong></td>
+<td><a href="https://trueinterview.io/jobs/1967c0d3-31b9-4aec-bd9e-814360c060ba">Electrical Engineering Co-op — FPGA and Audio Research Platforms</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://careers.bose.com/us/en/job/R29366">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/461a1fe5-0c15-4620-a46a-0ecf878b1039">Electrical Engineering Spring/Fall Co-op 2027</a></td>
 <td>Sheboygan, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468364843/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WebFX</strong></td>
-<td><a href="https://trueinterview.io/jobs/2418d04a-d1cd-49f7-bc65-887e363f5f42">IT Support Internship</a></td>
-<td>Harrisburg, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468302594/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
