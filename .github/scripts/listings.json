@@ -5,9 +5,439 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T21:04:18.252Z",
-  "count": 2593,
+  "listingsChangedAt": "2026-11-04T22:04:41.927Z",
+  "count": 2613,
   "listings": [
+    {
+      "id": "75bd697e-0f0a-478f-8eb7-b62ddf3d895f",
+      "company": "Hira",
+      "title": "Data Engineer Intern (Summer 2027)",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486528272/",
+      "url": "https://trueinterview.io/jobs/75bd697e-0f0a-478f-8eb7-b62ddf3d895f",
+      "postedAt": "2026-11-04T21:03:00.000Z",
+      "updatedAt": "2026-11-04T21:03:00.000Z"
+    },
+    {
+      "id": "2306e1f0-45ea-49bc-a068-8e7313d9e21b",
+      "company": "Whataburger",
+      "title": "Data Scientist Intern",
+      "locations": [
+        "San Antonio, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476697124/",
+      "url": "https://trueinterview.io/jobs/2306e1f0-45ea-49bc-a068-8e7313d9e21b",
+      "postedAt": "2026-11-04T20:56:00.000Z",
+      "updatedAt": "2026-11-04T20:56:00.000Z"
+    },
+    {
+      "id": "096efb99-6e84-4f75-825d-2bd71c0a687b",
+      "company": "Microchip Technology Inc.",
+      "title": "Intern (Data Analyst)",
+      "locations": [
+        "Gresham, OR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487506859/",
+      "url": "https://trueinterview.io/jobs/096efb99-6e84-4f75-825d-2bd71c0a687b",
+      "postedAt": "2026-11-04T20:54:00.000Z",
+      "updatedAt": "2026-11-04T20:54:00.000Z"
+    },
+    {
+      "id": "36130515-0419-4026-bf87-a93cfb9f5e7d",
+      "company": "Toyota Research Institute",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+      "locations": [
+        "Los Altos, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487535321/",
+      "url": "https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d",
+      "postedAt": "2026-11-04T20:52:00.000Z",
+      "updatedAt": "2026-11-04T20:52:00.000Z"
+    },
+    {
+      "id": "66d1e565-3f80-47fa-86a3-0d2b8fa2f200",
+      "company": "Smith+Nephew",
+      "title": "Intern AI Center of Excellence Data Science",
+      "locations": [
+        "Pittsburgh, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486505598/",
+      "url": "https://trueinterview.io/jobs/66d1e565-3f80-47fa-86a3-0d2b8fa2f200",
+      "postedAt": "2026-11-04T20:48:00.000Z",
+      "updatedAt": "2026-11-04T20:48:00.000Z"
+    },
+    {
+      "id": "e7110df1-1ec3-4c94-b045-bb563cc5a1da",
+      "company": "Smith+Nephew",
+      "title": "Intern AI Engineer R&D",
+      "locations": [
+        "Andover, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486522241/",
+      "url": "https://trueinterview.io/jobs/e7110df1-1ec3-4c94-b045-bb563cc5a1da",
+      "postedAt": "2026-11-04T20:46:00.000Z",
+      "updatedAt": "2026-11-04T20:46:00.000Z"
+    },
+    {
+      "id": "d4083b02-d2c8-4ed6-9ea5-7079431e9886",
+      "company": "Vantor",
+      "title": "AI Engineer Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470643837/",
+      "url": "https://trueinterview.io/jobs/d4083b02-d2c8-4ed6-9ea5-7079431e9886",
+      "postedAt": "2026-11-04T20:46:00.000Z",
+      "updatedAt": "2026-11-04T20:46:00.000Z"
+    },
+    {
+      "id": "6330f1a7-06cb-4c10-a8e8-cb4aed50e51c",
+      "company": "Tencent",
+      "title": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470619472/",
+      "url": "https://trueinterview.io/jobs/6330f1a7-06cb-4c10-a8e8-cb4aed50e51c",
+      "postedAt": "2026-11-04T20:45:00.000Z",
+      "updatedAt": "2026-11-04T20:45:00.000Z"
+    },
+    {
+      "id": "dcd83ce1-7825-461a-8846-09333e477045",
+      "company": "AmTrust Financial Services, Inc.",
+      "title": "IT Data Engineer Internship - Summer 2027",
+      "locations": [
+        "Dallas, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486524389/",
+      "url": "https://trueinterview.io/jobs/dcd83ce1-7825-461a-8846-09333e477045",
+      "postedAt": "2026-11-04T20:44:00.000Z",
+      "updatedAt": "2026-11-04T20:44:00.000Z"
+    },
+    {
+      "id": "9761dd08-725b-4c18-b462-ea6795705a7e",
+      "company": "Quadric",
+      "title": "AI Kernel Engineer Intern",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487523748/",
+      "url": "https://trueinterview.io/jobs/9761dd08-725b-4c18-b462-ea6795705a7e",
+      "postedAt": "2026-11-04T20:40:00.000Z",
+      "updatedAt": "2026-11-04T20:40:00.000Z"
+    },
+    {
+      "id": "39d9ce55-b8b3-45a5-81a8-bb9693d3d5f7",
+      "company": "Quadric",
+      "title": "Deep Learning Compiler Intern",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487516908/",
+      "url": "https://trueinterview.io/jobs/39d9ce55-b8b3-45a5-81a8-bb9693d3d5f7",
+      "postedAt": "2026-11-04T20:40:00.000Z",
+      "updatedAt": "2026-11-04T20:40:00.000Z"
+    },
+    {
+      "id": "553b78d1-887d-43d1-9609-305bd56e6bfa",
+      "company": "Symbotic",
+      "title": "Intern- Data Engineer",
+      "locations": [
+        "Wilmington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468176351/",
+      "url": "https://trueinterview.io/jobs/553b78d1-887d-43d1-9609-305bd56e6bfa",
+      "postedAt": "2026-11-04T20:40:00.000Z",
+      "updatedAt": "2026-11-04T20:40:00.000Z"
+    },
+    {
+      "id": "6b573236-b813-4b7f-84f3-9ea2e887f24c",
+      "company": "METY Foundation",
+      "title": "Full-Stack Developer Intern",
+      "locations": [
+        "Leesburg, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487534251/",
+      "url": "https://trueinterview.io/jobs/6b573236-b813-4b7f-84f3-9ea2e887f24c",
+      "postedAt": "2026-11-04T20:29:00.000Z",
+      "updatedAt": "2026-11-04T20:29:00.000Z"
+    },
+    {
+      "id": "29426c8f-8c93-4820-8926-17e8472d1648",
+      "company": "Parsons Corporation",
+      "title": "AI/ML Engineering Intern Summer 2027",
+      "locations": [
+        "Centreville, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487507849/",
+      "url": "https://trueinterview.io/jobs/29426c8f-8c93-4820-8926-17e8472d1648",
+      "postedAt": "2026-11-04T20:28:00.000Z",
+      "updatedAt": "2026-11-04T20:28:00.000Z"
+    },
+    {
+      "id": "3c15baa9-d3ae-4205-849b-08f6b9bb3df5",
+      "company": "TransTech Group",
+      "title": "Business Data Analyst Intern - Hybrid",
+      "locations": [
+        "Cleveland, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4466570875/",
+      "url": "https://trueinterview.io/jobs/3c15baa9-d3ae-4205-849b-08f6b9bb3df5",
+      "postedAt": "2026-11-04T20:23:00.000Z",
+      "updatedAt": "2026-11-04T20:23:00.000Z"
+    },
+    {
+      "id": "107b212f-5c73-445b-9a6f-45951bb103d0",
+      "company": "Marketeq Digital Solutions",
+      "title": "UX/UI Design Research Intern ( U.S.A Only )",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487538318/",
+      "url": "https://trueinterview.io/jobs/107b212f-5c73-445b-9a6f-45951bb103d0",
+      "postedAt": "2026-11-04T20:17:00.000Z",
+      "updatedAt": "2026-11-04T20:17:00.000Z"
+    },
+    {
+      "id": "abd5ef85-1c00-4e2e-b2f8-60c34fbcb6b0",
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning for Biology and Healthcare",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479520297/",
+      "url": "https://trueinterview.io/jobs/abd5ef85-1c00-4e2e-b2f8-60c34fbcb6b0",
+      "postedAt": "2026-11-04T20:13:00.000Z",
+      "updatedAt": "2026-11-04T20:13:00.000Z"
+    },
     {
       "id": "01b45980-969a-449e-ae95-e4914ddd5bc5",
       "company": "BorgWarner",
@@ -65,7 +495,8 @@
       "company": "Smith+Nephew",
       "title": "Intern Robotics Software Engineering",
       "locations": [
-        "Pittsburgh, PA"
+        "Pittsburgh, PA",
+        "Pittsburgh, Pennsylvania, United States"
       ],
       "cities": [],
       "countries": [
@@ -80,7 +511,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486501913/",
+      "applyUrl": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
       "url": "https://trueinterview.io/jobs/85c58ce9-ebea-48d5-9889-733bf9c04caa",
       "postedAt": "2026-11-04T20:02:00.000Z",
       "updatedAt": "2026-11-04T20:02:00.000Z"
@@ -111,6 +542,120 @@
       "url": "https://trueinterview.io/jobs/c1f3e705-34ff-4a2c-8e67-23c9bc1d770d",
       "postedAt": "2026-11-04T19:59:00.000Z",
       "updatedAt": "2026-11-04T19:59:00.000Z"
+    },
+    {
+      "id": "1009746d-446a-4313-94e2-07b20b54fc2c",
+      "company": "BCG X",
+      "title": "Forward Deployed AI Engineer, Internship, Campus, United States - BCG X",
+      "locations": [
+        "Boston, MA",
+        "Chicago, IL",
+        "New York, NY"
+      ],
+      "cities": [
+        "Boston, MA",
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478169746/",
+      "url": "https://trueinterview.io/jobs/1009746d-446a-4313-94e2-07b20b54fc2c",
+      "postedAt": "2026-11-04T16:22:00.000Z",
+      "updatedAt": "2026-11-04T19:58:00.000Z"
+    },
+    {
+      "id": "b575ec89-feeb-47e3-a3a7-f41b108d9436",
+      "company": "BCG X",
+      "title": "Forward Deployed AI Scientist, Internship, Campus, United States - BCG X",
+      "locations": [
+        "Chicago, IL",
+        "Boston, MA",
+        "New York, NY",
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Chicago, IL",
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478176470/",
+      "url": "https://trueinterview.io/jobs/b575ec89-feeb-47e3-a3a7-f41b108d9436",
+      "postedAt": "2026-11-04T16:22:00.000Z",
+      "updatedAt": "2026-11-04T19:58:00.000Z"
+    },
+    {
+      "id": "525eba98-f4af-4b28-ad88-ad1444311c18",
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning and Statistics",
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United States",
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479519304/",
+      "url": "https://trueinterview.io/jobs/525eba98-f4af-4b28-ad88-ad1444311c18",
+      "postedAt": "2026-11-04T19:58:00.000Z",
+      "updatedAt": "2026-11-04T19:58:00.000Z"
+    },
+    {
+      "id": "fb19d825-8d7e-48e6-8890-d5c3d82c6e58",
+      "company": "Siemens",
+      "title": "Data Analyst and Business Intelligence Intern",
+      "locations": [
+        "Alpharetta, GA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469417087/",
+      "url": "https://trueinterview.io/jobs/fb19d825-8d7e-48e6-8890-d5c3d82c6e58",
+      "postedAt": "2026-11-04T19:58:00.000Z",
+      "updatedAt": "2026-11-04T19:58:00.000Z"
     },
     {
       "id": "7209e44b-de26-4432-b337-e3ef05fa685d",
@@ -295,6 +840,33 @@
       "updatedAt": "2026-11-04T19:17:00.000Z"
     },
     {
+      "id": "fae5068d-552c-4750-aaa2-cae13b9ec0d6",
+      "company": "Chubb",
+      "title": "Business Intelligence Intern",
+      "locations": [
+        "Chicago, Illinois, United States"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335",
+      "url": "https://trueinterview.io/jobs/fae5068d-552c-4750-aaa2-cae13b9ec0d6",
+      "postedAt": "2026-11-04T18:57:00.000Z",
+      "updatedAt": "2026-11-04T18:57:00.000Z"
+    },
+    {
       "id": "60e687a2-e288-4f06-a509-3779767d4855",
       "company": "NVIDIA",
       "title": "Software Engineering Intern, Test Development - 2027",
@@ -345,6 +917,31 @@
       "updatedAt": "2026-11-04T17:12:00.000Z"
     },
     {
+      "id": "5acb1c5c-47e6-4d7a-a087-3ed6bbebe39a",
+      "company": "Amazon",
+      "title": "2027 Business Developer Intern, Amazon Payments",
+      "locations": [
+        "Cape Town, Western Cape, South Africa"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479065597/",
+      "url": "https://trueinterview.io/jobs/5acb1c5c-47e6-4d7a-a087-3ed6bbebe39a",
+      "postedAt": "2026-11-04T16:57:00.000Z",
+      "updatedAt": "2026-11-04T16:57:00.000Z"
+    },
+    {
       "id": "1f431059-5fe5-4e41-b412-adc16b7f9c9b",
       "company": "Microsoft",
       "title": "Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -369,35 +966,6 @@
       "url": "https://trueinterview.io/jobs/1f431059-5fe5-4e41-b412-adc16b7f9c9b",
       "postedAt": "2026-11-03T19:07:53.000Z",
       "updatedAt": "2026-11-04T16:43:00.000Z"
-    },
-    {
-      "id": "b575ec89-feeb-47e3-a3a7-f41b108d9436",
-      "company": "BCG X",
-      "title": "Forward Deployed AI Scientist, Internship, Campus, United States - BCG X",
-      "locations": [
-        "Chicago, IL",
-        "Boston, MA"
-      ],
-      "cities": [
-        "Chicago, IL",
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4478176470/",
-      "url": "https://trueinterview.io/jobs/b575ec89-feeb-47e3-a3a7-f41b108d9436",
-      "postedAt": "2026-11-04T16:22:00.000Z",
-      "updatedAt": "2026-11-04T16:36:00.000Z"
     },
     {
       "id": "f17b93d6-8a6e-426d-8959-024a88882ab0",
@@ -448,35 +1016,6 @@
       "url": "https://trueinterview.io/jobs/5a40d816-efc6-4d39-8220-5062e266bfa7",
       "postedAt": "2026-11-04T16:26:00.000Z",
       "updatedAt": "2026-11-04T16:26:00.000Z"
-    },
-    {
-      "id": "1009746d-446a-4313-94e2-07b20b54fc2c",
-      "company": "BCG X",
-      "title": "Forward Deployed AI Engineer, Internship, Campus, United States - BCG X",
-      "locations": [
-        "Boston, MA",
-        "Chicago, IL"
-      ],
-      "cities": [
-        "Boston, MA",
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4478169746/",
-      "url": "https://trueinterview.io/jobs/1009746d-446a-4313-94e2-07b20b54fc2c",
-      "postedAt": "2026-11-04T16:22:00.000Z",
-      "updatedAt": "2026-11-04T16:22:00.000Z"
     },
     {
       "id": "828a1f39-301e-4be6-835b-9ec1ed0860cc",
@@ -11614,33 +12153,6 @@
       "url": "https://trueinterview.io/jobs/b676a847-a7d0-4329-a542-c497d0801f47",
       "postedAt": "2026-10-31T18:13:00.000Z",
       "updatedAt": "2026-10-31T18:13:00.000Z"
-    },
-    {
-      "id": "fdd40683-883c-4083-96f8-72e146f1f0fe",
-      "company": "CHEManager International",
-      "title": "Applied Scientist Intern, PhD (Summer 2027)",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485157689/",
-      "url": "https://trueinterview.io/jobs/fdd40683-883c-4083-96f8-72e146f1f0fe",
-      "postedAt": "2026-10-31T18:00:00.000Z",
-      "updatedAt": "2026-10-31T18:00:00.000Z"
     },
     {
       "id": "b172fcf2-9b9f-4183-892b-0017cd03af61",
