@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,144 open roles.** 940 in the United States & Canada · 204 elsewhere in the world.
+**1,143 open roles.** 938 in the United States & Canada · 205 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@
 <tbody>
 <tr>
 <td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b05c10d-5b0e-4616-b9e3-3a290536bb84">Logistics Systems Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872483002?gh_jid=8872483002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100">Manufacturing Software Test Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872468002?gh_jid=8872468002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/49c1360a-0cd4-4285-8ef5-94267b69517e">Motion Planning Software Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872472002?gh_jid=8872472002">Apply</a></td>
@@ -1007,6 +993,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9847f50e-a0d6-4764-ae62-8e79d5311f28">Software Engineering Intern - 2027</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486576686/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/13d48f2e-b54c-4b96-9a2c-5b1cd3b49610">Software Developer Intern - Entry Level Sales Program 2027</a></td>

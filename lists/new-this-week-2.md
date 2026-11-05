@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,656 open roles.** 1,306 in the United States & Canada · 350 elsewhere in the world. Everything the employers put up this week.
+**1,661 open roles.** 1,308 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BlackRock</strong></td>
+<td><a href="https://trueinterview.io/jobs/85241c2c-8d94-47f7-9f60-d3b3ccde63ab">2027 Quantitative Masters Internship Program - Sales &amp; Relationship Management - Institutional Wealth - Chicago</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468681658/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Economy Polymers &amp; Chemicals</strong></td>
+<td><a href="https://trueinterview.io/jobs/67139365-71b6-4a80-9374-ccdba4c858e4">AI &amp; Business Systems Automation Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485907864/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Applied Concepts, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b2ac2b7-7305-4842-8141-2d65bf113416">Web and Apps Developer - Intern</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/2f3fdcd2-3ce0-409f-ad57-ce0b2b5c3bcd">Quality Assurance (QA) Intern</a></td>
 <td>Norman, OK</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484967690/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ea435cf0-4e0d-47e3-9ac1-2f4d560f69c8">Research Intern, Knowledge Engineering &amp; Generative AI</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977446/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/275e685b-b56b-4976-a549-28bbe2fe89ff">Mechanical Engineering Intern/Co-Op</a></td>
-<td>Ogden, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970572/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

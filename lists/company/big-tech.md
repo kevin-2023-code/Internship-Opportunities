@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**581 open roles.** 488 in the United States & Canada · 93 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**585 open roles.** 489 in the United States & Canada · 96 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,38 +20,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
+<td>Chicago, IL<br/>Austin, TX<br/>San Jose, CA<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
+<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599858/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
+<td>Austin, TX<br/>Omaha, NE<br/>Scottsdale, AZ<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485580782/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
-<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
-<td>Austin, TX<br/>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a">Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485598010/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1081,13 +1095,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f">Research Scientist Intern, Smart Glasses in Wearables AI (PhD)</a></td>
 <td>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1584033410435097/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850">Intern – Process Engineer ID1</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44139024">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/e714abaa-bdc0-42ca-9108-a03676b11f28">PhD Research Intern, Architecture – 2027</a></td>
-<td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

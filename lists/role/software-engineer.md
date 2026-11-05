@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**357 open roles.** 293 in the United States & Canada · 64 elsewhere in the world.
+**355 open roles.** 291 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,8 +20,15 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Omaha, NE</td>
+<td>Chicago, IL<br/>Austin, TX<br/>San Jose, CA<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Interbiz Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0f10a87-2009-4182-ae2d-7e282e02820a">Software Engineer Intern</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485585973/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -368,13 +375,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9">Software Engineering Intern, Product &amp; Developer Productivity - HP IQ</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>PACCAR</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc3b5ee8-6cba-4ddb-b197-fbff77c0a9a2">2027 Summer Internship: Software Developer</a></td>
 <td>Denton, Texas, United States<br/>Denton, TX</td>
@@ -435,20 +435,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/843cef2b-daa4-4095-b84e-87568f4e4f96">CDS Intern - Software Engineer - Costco Travel</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486472540/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/4da04d0f-3459-43b6-93d4-3697330df927">2027 Flight Software Engineer Intern - Redondo Beach CA</a></td>
-<td>Manhattan Beach, California, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ef385eb6-92c4-4057-8aa9-3185621c6831">2027 Ground Software Engineer Intern - Redondo Beach CA</a></td>
-<td>Redondo Beach, California, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

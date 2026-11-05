@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**108 open roles.**
+**107 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -534,13 +534,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>New York, NY<br/>Seattle, WA<br/>Boston, MA<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Duolingo</strong></td>

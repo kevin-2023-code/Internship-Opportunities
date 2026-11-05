@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**115 open roles.**
+**114 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -604,13 +604,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Quincy, Massachusetts, United States, Costa Mesa, CA (OC-00), Quincy, MA<br/>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>Boston, MA<br/>Seattle, WA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Quera Computing, Inc</strong></td>

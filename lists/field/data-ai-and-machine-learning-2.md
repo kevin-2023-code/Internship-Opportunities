@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**523 open roles.** 389 in the United States & Canada · 134 elsewhere in the world.
+**525 open roles.** 390 in the United States & Canada · 135 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Delivery Hero</strong></td>
+<td><a href="https://trueinterview.io/jobs/67cd4cd4-fabd-49bc-9e6b-3abc892155c5">Intern, Data Engineer - People &amp; Culture</a></td>
+<td>Berlin, Deutschland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000159550368-intern-data-engineer-people-culture">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/649453f0-6973-49f0-8cc6-8074167d4402">Internship - AI Application Engineer</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486336493/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2c39b0ff-7edd-4777-9fc7-740a594bc871">Internship - Research Engineer for Speech/Audio Signal Processing</a></td>
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486338431/">Apply</a></td>

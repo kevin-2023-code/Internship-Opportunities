@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**95 open roles.** 84 in the United States & Canada · 11 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**97 open roles.** 84 in the United States & Canada · 13 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485580782/">Apply</a></td>
@@ -274,13 +281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f">Research Scientist Intern, Smart Glasses in Wearables AI (PhD)</a></td>
 <td>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1584033410435097/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
@@ -618,7 +618,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485575938/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fa702ec-5e3b-4c40-b4ab-31a60be77e5f">Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486594201/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f">Silicon Manufacturing Intern, 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486347723/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**97 open roles.**
+**96 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -439,13 +439,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>

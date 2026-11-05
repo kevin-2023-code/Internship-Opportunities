@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**66 open roles.** 56 in the United States & Canada · 10 elsewhere in the world.
+**67 open roles.** 56 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9df95b0-b5e7-41b6-98b6-35e291e1ce8e">Research Scientist Intern (Monetization Technology - Ads Core) - 2027 Start (PhD)</a></td>
@@ -271,13 +278,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
@@ -421,6 +421,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485575938/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sony</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c39b0ff-7edd-4777-9fc7-740a594bc871">Internship - Research Engineer for Speech/Audio Signal Processing</a></td>

@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**29 open roles.** 23 in the United States & Canada · 6 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**30 open roles.** 24 in the United States & Canada · 6 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,23 +19,30 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
+<td>Chicago, IL<br/>Austin, TX<br/>San Jose, CA<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
-<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ</td>
+<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
-<td>Austin, TX<br/>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599858/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
+<td>Austin, TX<br/>Omaha, NE<br/>Scottsdale, AZ<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

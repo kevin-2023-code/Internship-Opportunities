@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,656 open roles.** 1,306 in the United States & Canada · 350 elsewhere in the world. Everything the employers put up this week.
+**1,661 open roles.** 1,308 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens Gamesa</strong></td>
+<td><a href="https://trueinterview.io/jobs/baffbe9f-94af-45c2-8527-505f88952693">Digitalisation Intern (Software Developer)</a></td>
+<td>Kingston upon Hull, United Kingdom</td>
+<td align="center"><a href="https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Digitalisation-Intern-Software-Developer-/306369">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f65cc0a-e2fe-410f-bac3-932ffaedd132">Machine Learning Engineer Project Intern (Recommendation) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://lifeattiktok.com/search/7686439502455212293">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wood</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa9a27b3-b515-4a3c-9a25-9e7043a6f2d2">Piping Design Engineering- Internship</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33229">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/36190058-7122-4672-839d-89abef092cc3">Piping Stress Engineering - Internship</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33228">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce">Subject Matter Expert - Data Science, Intern</a></td>
+<td>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689651">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>GSK</strong></td>
 <td><a href="https://trueinterview.io/jobs/38c24e82-bb1a-4786-aea2-6fdacb1fd801">Engineering (Multiple Roles and Locations) Industrial Placement, 2027</a></td>

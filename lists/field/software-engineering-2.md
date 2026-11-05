@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,144 open roles.** 940 in the United States & Canada · 204 elsewhere in the world.
+**1,143 open roles.** 938 in the United States & Canada · 205 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2081,13 +2081,6 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/31fdfaa0-8c06-4051-ae9c-9fdd5c67b0f9">Software Engineering Intern - HP IQ</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mide Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e1bfa7d-c9e0-4ba4-9b1c-f5316d6f8e6d">Internship - Software Engineering Intern/ Co-op</a></td>
 <td>Woburn, MA</td>
@@ -2134,13 +2127,6 @@
 <td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
 <td>Salt Lake City, Utah</td>
 <td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e5dbcdf-9822-4b56-a0f5-7c7d7ce5659c">Software Quality Assurance Intern</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2799,20 @@
 <td><a href="https://trueinterview.io/jobs/e4b887eb-adaa-41f9-8fc8-6c0b397745cb">Guidance, Navigation, and Controls Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872475002?gh_jid=8872475002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1b05c10d-5b0e-4616-b9e3-3a290536bb84">Logistics Systems Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872483002?gh_jid=8872483002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100">Manufacturing Software Test Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872468002?gh_jid=8872468002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 </tbody>

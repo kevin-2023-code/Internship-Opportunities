@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**413 open roles.**
+**414 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
+<td>San Jose, CA<br/>Chicago, IL<br/>Austin, TX<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
+<td>San Jose, CA<br/>Chicago, IL<br/>Scottsdale, AZ<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599858/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
+<td>San Jose, CA<br/>Austin, TX<br/>Omaha, NE<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/637b67da-aa62-4cd1-879c-614b688d783e">Software Engineering Intern - Applications, Infotainment &amp; Mobile (January - August 2027)</a></td>
+<td>Palo Alto, CA<br/>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462367332/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a></td>
 <td>Sunnyvale, CA</td>
@@ -27,14 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
-<td>San Jose, CA<br/>Chicago, IL<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a">Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485598010/">Apply</a></td>
@@ -276,13 +311,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7ff7987b-7f1c-4522-be26-248a458cce9b">Product Marketing MBA Intern, AI Infrastructure — Summer 2027</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486038029/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9">Software Engineering Intern, Product &amp; Developer Productivity - HP IQ</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -986,13 +1014,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/31fdfaa0-8c06-4051-ae9c-9fdd5c67b0f9">Software Engineering Intern - HP IQ</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>42dot</strong></td>
 <td><a href="https://trueinterview.io/jobs/c00ecc71-dcf9-4ce2-ba5f-1fca00edf344">Internship, Foundation Models</a></td>
 <td>Sunnyvale, CA</td>
@@ -1018,13 +1039,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1dc284a5-c983-4ad7-9804-ff0263cea8ee">Summer 2027 Data/Finance Analyst Intern- Bachelor's (Santa Clara, CA)</a></td>
 <td>Santa Clara, California, United States</td>
 <td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Finance-Analyst-Intern--Bachelor-s--Santa-Clara--CA-_R2626652">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e5dbcdf-9822-4b56-a0f5-7c7d7ce5659c">Software Quality Assurance Intern</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1445,13 +1459,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f">Research Scientist Intern, Smart Glasses in Wearables AI (PhD)</a></td>
 <td>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1584033410435097/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>San Francisco, CA<br/>Menlo Park, CA, United States<br/>Seattle, WA<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb">Summer 2027 Internship- Mechanical Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

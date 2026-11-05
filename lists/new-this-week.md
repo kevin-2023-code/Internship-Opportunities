@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,656 open roles.** 1,306 in the United States & Canada · 350 elsewhere in the world. Everything the employers put up this week.
+**1,661 open roles.** 1,308 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,6 +20,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
+<td>Chicago, IL<br/>Austin, TX<br/>San Jose, CA<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
+<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599858/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
+<td>Austin, TX<br/>Omaha, NE<br/>Scottsdale, AZ<br/>+2 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Interbiz Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0f10a87-2009-4182-ae2d-7e282e02820a">Software Engineer Intern</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485585973/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/637b67da-aa62-4cd1-879c-614b688d783e">Software Engineering Intern - Applications, Infotainment &amp; Mobile (January - August 2027)</a></td>
+<td>Palo Alto, CA<br/>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462367332/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GEMINO AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba22b29c-56d1-4ec9-b0a0-35682cadbcd4">Software Engineering Intern: Dominican Republic (4–6 months, on-site</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486579198/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a></td>
 <td>Sunnyvale, CA</td>
@@ -27,31 +83,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
-<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
-<td>Austin, TX<br/>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a">Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485598010/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1665,13 +1700,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9">Software Engineering Intern, Product &amp; Developer Productivity - HP IQ</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Kabam</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a2cc207-7c2e-49e4-9890-b2a1f53d6712">Operations Product Manager Co-Op</a></td>
 <td>Vancouver, BC<br/>Vancouver, Canada</td>
@@ -1879,20 +1907,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/67ea1dee-2fb2-48a6-a4b4-9cff3cc33eb1">Summer 2027 Healthcare Analytics Data Science Graduate Intern</a></td>
 <td>Alabama, United States<br/>Alaska, United States<br/>Arizona, United States<br/>+17 more</td>
 <td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/4da04d0f-3459-43b6-93d4-3697330df927">2027 Flight Software Engineer Intern - Redondo Beach CA</a></td>
-<td>Manhattan Beach, California, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ef385eb6-92c4-4057-8aa9-3185621c6831">2027 Ground Software Engineer Intern - Redondo Beach CA</a></td>
-<td>Redondo Beach, California, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/be5af77e-f5fa-4167-8377-a8776373356f">Quantitative Researcher - Intern</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485174389/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BlackRock</strong></td>
-<td><a href="https://trueinterview.io/jobs/85241c2c-8d94-47f7-9f60-d3b3ccde63ab">2027 Quantitative Masters Internship Program - Sales &amp; Relationship Management - Institutional Wealth - Chicago</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468681658/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Economy Polymers &amp; Chemicals</strong></td>
-<td><a href="https://trueinterview.io/jobs/67139365-71b6-4a80-9374-ccdba4c858e4">AI &amp; Business Systems Automation Intern</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485907864/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,656 open roles.** 1,306 in the United States & Canada · 350 elsewhere in the world. Everything the employers put up this week.
+**1,661 open roles.** 1,308 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,20 @@
 <tbody>
 <tr>
 <td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea435cf0-4e0d-47e3-9ac1-2f4d560f69c8">Research Intern, Knowledge Engineering &amp; Generative AI</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484977446/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/275e685b-b56b-4976-a549-28bbe2fe89ff">Mechanical Engineering Intern/Co-Op</a></td>
+<td>Ogden, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970572/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1b3749c7-ffd2-4c00-9f82-7c32efaf71b4">Controls Engineering Internship/Co-op</a></td>
 <td>Auburn Hills, MI<br/>Holland, MI<br/>Liberty, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484961911/">Apply</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/4c6947e7-3a7d-4c7b-92d6-2953785002a8">Electrical Engineer Intern (Summer 2027)</a></td>
 <td>Kalamazoo, MI<br/>Kansas City, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467757163/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sigma</strong></td>
-<td><a href="https://trueinterview.io/jobs/241edf4a-2626-4aac-b1e9-1e627fa1c8b4">Software Engineering Intern (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523702/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apexanalytix</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c5aea9d-b807-4636-9a88-d444dc03d93e">Automation Developer Intern (Summer 2027)</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465565541/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

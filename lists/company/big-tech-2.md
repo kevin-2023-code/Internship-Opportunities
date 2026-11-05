@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**581 open roles.** 488 in the United States & Canada · 93 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**585 open roles.** 489 in the United States & Canada · 96 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e714abaa-bdc0-42ca-9108-a03676b11f28">PhD Research Intern, Architecture – 2027</a></td>
+<td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73">PhD Research Intern, Generalist Embodied Agents Research - 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397562560">Apply</a></td>
@@ -643,6 +650,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/9847f50e-a0d6-4764-ae62-8e79d5311f28">Software Engineering Intern - 2027</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486576686/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485575938/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fa702ec-5e3b-4c40-b4ab-31a60be77e5f">Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486594201/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/79fe8566-69ba-4b43-a5d6-25c5386adab5">AI Software Engineering Intern</a></td>

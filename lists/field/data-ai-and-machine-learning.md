@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**523 open roles.** 389 in the United States & Canada · 134 elsewhere in the world.
+**525 open roles.** 390 in the United States & Canada · 135 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599858/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9df95b0-b5e7-41b6-98b6-35e291e1ce8e">Research Scientist Intern (Monetization Technology - Ads Core) - 2027 Start (PhD)</a></td>
@@ -2065,13 +2079,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/18ad1337-0d15-4359-a950-60556d989ca1">Research Scientist Intern, AI Alignment</a></td>
-<td>Seattle, WA<br/>Boston, MA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2356892281747003/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
@@ -2755,6 +2762,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485575938/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Huawei</strong></td>
 <td><a href="https://trueinterview.io/jobs/024abf44-b324-48d1-9065-8ba015cc45d2">Intern - Software Engineer, Spatial AI Agent Platform</a></td>
 <td>Munich, Bavaria, Germany</td>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/92f961dc-af3f-4723-a1ce-fe5db949021e">Data Analyst Intern</a></td>
 <td>Spain</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Delivery Hero</strong></td>
-<td><a href="https://trueinterview.io/jobs/67cd4cd4-fabd-49bc-9e6b-3abc892155c5">Intern, Data Engineer - People &amp; Culture</a></td>
-<td>Berlin, Deutschland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000159550368-intern-data-engineer-people-culture">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sony</strong></td>
-<td><a href="https://trueinterview.io/jobs/649453f0-6973-49f0-8cc6-8074167d4402">Internship - AI Application Engineer</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486336493/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

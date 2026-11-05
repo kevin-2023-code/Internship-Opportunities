@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
-<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ</td>
+<td>Chicago, IL<br/>San Jose, CA<br/>Scottsdale, AZ<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487712244/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>

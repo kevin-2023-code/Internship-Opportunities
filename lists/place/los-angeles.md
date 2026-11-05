@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/637b67da-aa62-4cd1-879c-614b688d783e">Software Engineering Intern - Applications, Infotainment &amp; Mobile (January - August 2027)</a></td>
+<td>Irvine, CA<br/>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462367332/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Moog Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
 <td>Torrance, California, United States</td>
@@ -50,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7ee0529a-f3f7-453e-bdc1-0646b0e167a2">Software Engineering Intern (Japanese Speaking Preferred)</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486837055/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef385eb6-92c4-4057-8aa9-3185621c6831">2027 Ground Software Engineer Intern - Redondo Beach CA</a></td>
-<td>Redondo Beach, California, United States</td>
-<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
