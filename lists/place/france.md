@@ -20,6 +20,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Brevo</strong></td>
+<td><a href="https://trueinterview.io/jobs/f972e840-2962-46ef-a732-e70803d321ce">Forward Deployed Engineer Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/brevo/68d1927e-c983-49e3-8f17-ac2576dcb5ae">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ledger</strong></td>
 <td><a href="https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625">Products Analytics Engineer - Internship</a></td>
 <td>Paris, France</td>
@@ -66,13 +73,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/84f1b461-202a-48ab-887d-b7655925584f">Internship - HR Data Engineer</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://careers.axa.com/jobs/29970/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CMA CGM</strong></td>
-<td><a href="https://trueinterview.io/jobs/42b768eb-f030-4470-9520-09b9ace49011">Internship - Developer Intern - AI-Augmented Applications (M/F)</a></td>
-<td>Marseille, France</td>
-<td align="center"><a href="https://career2.successfactors.eu/career?career%5fns=job%5flisting&amp;company=C0002716868P&amp;navBarLevel=JOB%5fSEARCH&amp;rcm%5fsite%5flocale=en%5fGB&amp;career_job_req_id=588751&amp;selected_lang=en_GB&amp;jobAlertController_jobAlertId=&amp;jobAlertController_jobAlertName=&amp;browserTimeZone=America/Chicago&amp;_s.crb=Vmtmhqd3Rp9ruMOdxnha2GZEEUPuXAURWHyGMF0lO6w%3d">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

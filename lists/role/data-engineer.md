@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**56 open roles.** 47 in the United States & Canada · 9 elsewhere in the world.
+**57 open roles.** 47 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -358,6 +358,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/0176ba6c-127f-4457-98e0-8355e74b7165">Business Intelligence &amp; Data Analytics Intern</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Business-Intelligence---Data-Analytics-Intern_UNI4522">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Delivery Hero</strong></td>
 <td><a href="https://trueinterview.io/jobs/67cd4cd4-fabd-49bc-9e6b-3abc892155c5">Intern, Data Engineer - People &amp; Culture</a></td>

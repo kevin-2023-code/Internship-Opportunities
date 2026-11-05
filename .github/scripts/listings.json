@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T02:06:40.996Z",
-  "count": 2631,
+  "listingsChangedAt": "2026-11-05T03:05:38.481Z",
+  "count": 2642,
   "listings": [
+    {
+      "id": "7bd23df7-9068-4f7d-9bef-d5878c7e7ef5",
+      "company": "Sparengine",
+      "title": "Product Designer Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486554462/",
+      "url": "https://trueinterview.io/jobs/7bd23df7-9068-4f7d-9bef-d5878c7e7ef5",
+      "postedAt": "2026-11-05T02:13:00.000Z",
+      "updatedAt": "2026-11-05T02:13:00.000Z"
+    },
     {
       "id": "5f421082-7f85-4a37-aa05-b93620c27b4d",
       "company": "Figma",
@@ -520,6 +545,31 @@
       "url": "https://trueinterview.io/jobs/10af8991-996f-4468-9664-3456338b510c",
       "postedAt": "2026-11-04T23:15:00.000Z",
       "updatedAt": "2026-11-04T23:33:00.000Z"
+    },
+    {
+      "id": "23149deb-1a60-467b-b238-f872444d4bd8",
+      "company": "K1 Investment Management",
+      "title": "AI Intern",
+      "locations": [
+        "Manhattan Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486519958/",
+      "url": "https://trueinterview.io/jobs/23149deb-1a60-467b-b238-f872444d4bd8",
+      "postedAt": "2026-11-04T23:32:00.000Z",
+      "updatedAt": "2026-11-04T23:32:00.000Z"
     },
     {
       "id": "8533a0e4-60a1-4c01-bd8d-4cb2422cc183",
@@ -2211,6 +2261,33 @@
       "updatedAt": "2026-11-04T14:17:00.000Z"
     },
     {
+      "id": "7876d8c2-7378-493e-bbaf-57180810b444",
+      "company": "Nexthink",
+      "title": "Software Engineer (Intern)",
+      "locations": [
+        "Madrid, Spain"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/Nexthink/744000159632958-software-engineer-intern-",
+      "url": "https://trueinterview.io/jobs/7876d8c2-7378-493e-bbaf-57180810b444",
+      "postedAt": "2026-11-04T13:30:00.000Z",
+      "updatedAt": "2026-11-04T13:30:00.000Z"
+    },
+    {
       "id": "8c3d179e-5a53-41db-b75f-d04109e555bb",
       "company": "Acadian Asset Management",
       "title": "Quantitative Investment Internship Program - Summer 2027",
@@ -3166,6 +3243,85 @@
       "updatedAt": "2026-11-04T06:42:00.000Z"
     },
     {
+      "id": "8edc1a62-386c-4ce6-bf5d-7439435a0fbc",
+      "company": "Air Liquide",
+      "title": "Data Analyst & Quality - Internship (H/F)",
+      "locations": [
+        "Bagneux, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://airliquidehr.wd3.myworkdayjobs.com/de-DE/AirLiquideExternalCareer/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522",
+      "url": "https://trueinterview.io/jobs/8edc1a62-386c-4ce6-bf5d-7439435a0fbc",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "f972e840-2962-46ef-a732-e70803d321ce",
+      "company": "Brevo",
+      "title": "Forward Deployed Engineer Intern",
+      "locations": [
+        "Paris, France"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.lever.co/brevo/68d1927e-c983-49e3-8f17-ac2576dcb5ae",
+      "url": "https://trueinterview.io/jobs/f972e840-2962-46ef-a732-e70803d321ce",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "89331eac-ebea-4702-a415-17c62aa754d4",
+      "company": "Coty",
+      "title": "Data analyst and digitalization intern",
+      "locations": [
+        "Barcelona, Spain"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.coty.com/job/Barcelona-Data-analyst-and-digitalization-intern-B-08018/1454369233/",
+      "url": "https://trueinterview.io/jobs/89331eac-ebea-4702-a415-17c62aa754d4",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
       "id": "a2944604-9cc0-4103-a7b8-713248cdf457",
       "company": "GEI Consultants",
       "title": "Web Developer Intern",
@@ -3187,6 +3343,110 @@
       "source": "indeed",
       "applyUrl": "https://jointeamgei.geiconsultants.com/jobs/17706557-web-developer-intern?tm_job=856288&tm_event=view&tm_company=90289",
       "url": "https://trueinterview.io/jobs/a2944604-9cc0-4103-a7b8-713248cdf457",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "9d3fcce2-6f48-48c0-b3e9-42790148ace3",
+      "company": "Global Relay",
+      "title": "Co-op Java Developer - Winter 2027",
+      "locations": [
+        "Halifax, Nova Scotia, Canada",
+        "Vancouver, British Columbia, Canada",
+        "Halifax, Canada"
+      ],
+      "cities": [
+        "Vancouver, BC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004",
+      "url": "https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3",
+      "postedAt": "2026-11-03T21:11:53.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "0176ba6c-127f-4457-98e0-8355e74b7165",
+      "company": "HP",
+      "title": "Business Intelligence & Data Analytics Intern",
+      "locations": [
+        "Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Business-Intelligence---Data-Analytics-Intern_UNI4522",
+      "url": "https://trueinterview.io/jobs/0176ba6c-127f-4457-98e0-8355e74b7165",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "92f961dc-af3f-4723-a1ce-fe5db949021e",
+      "company": "HP",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1",
+      "url": "https://trueinterview.io/jobs/92f961dc-af3f-4723-a1ce-fe5db949021e",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "f27f21a9-549d-4c90-82c4-e04d1beda0a9",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)",
+      "locations": [
+        "Markham, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://app.eightfold.ai/careers/job/446721969461?domain=qualcomm.com",
+      "url": "https://trueinterview.io/jobs/f27f21a9-549d-4c90-82c4-e04d1beda0a9",
       "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
@@ -3213,6 +3473,34 @@
       "applyUrl": "https://careers.stryker.com/quality-engineer-co-op/job/8CD367AE00AA977047E4D909F0EDD776",
       "url": "https://trueinterview.io/jobs/dfe01d43-51d6-4055-ae98-00246a3166f5",
       "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "6f1834a7-2467-4b59-8365-bf2849f29be0",
+      "company": "Teledyne FLIR",
+      "title": "Software Engineering Coop",
+      "locations": [
+        "Waterloo, Ontario, Canada",
+        "Waterloo, Canada"
+      ],
+      "cities": [
+        "Waterloo, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845",
+      "url": "https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0",
+      "postedAt": "2026-11-04T00:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
@@ -4156,33 +4444,6 @@
       "updatedAt": "2026-11-04T00:00:00.000Z"
     },
     {
-      "id": "6f1834a7-2467-4b59-8365-bf2849f29be0",
-      "company": "Teledyne Technologies Incorporated",
-      "title": "Software Engineering Coop",
-      "locations": [
-        "Waterloo, Ontario, Canada"
-      ],
-      "cities": [
-        "Waterloo, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845",
-      "url": "https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0",
-      "postedAt": "2026-11-04T00:00:00.000Z",
-      "updatedAt": "2026-11-04T00:00:00.000Z"
-    },
-    {
       "id": "1a6514f1-4dc4-4692-82de-fba586d5625e",
       "company": "Trimble Inc.",
       "title": "AI Developer Intern",
@@ -4615,35 +4876,6 @@
       "url": "https://trueinterview.io/jobs/2ff2c982-80d5-40d4-b08b-d3830890b585",
       "postedAt": "2026-11-03T21:26:00.000Z",
       "updatedAt": "2026-11-03T21:26:00.000Z"
-    },
-    {
-      "id": "9d3fcce2-6f48-48c0-b3e9-42790148ace3",
-      "company": "Global Relay",
-      "title": "Co-op Java Developer - Winter 2027",
-      "locations": [
-        "Halifax, Nova Scotia, Canada",
-        "Vancouver, British Columbia, Canada",
-        "Halifax, Canada"
-      ],
-      "cities": [
-        "Vancouver, BC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004",
-      "url": "https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3",
-      "postedAt": "2026-11-03T21:11:53.000Z",
-      "updatedAt": "2026-11-03T21:11:53.000Z"
     },
     {
       "id": "a077cb37-735d-459b-9db0-e4566c7b9123",
@@ -5804,6 +6036,33 @@
       "updatedAt": "2026-11-03T14:16:00.000Z"
     },
     {
+      "id": "04181187-3349-4bbb-a0c7-4c62235ae756",
+      "company": "Nexthink",
+      "title": "Java Software Engineer (Intern)",
+      "locations": [
+        "Madrid, Spain"
+      ],
+      "cities": [
+        "Madrid"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.smartrecruiters.com/Nexthink/744000159356655-java-software-engineer-intern-",
+      "url": "https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756",
+      "postedAt": "2026-11-03T11:13:30.000Z",
+      "updatedAt": "2026-11-03T13:56:17.000Z"
+    },
+    {
       "id": "832b3651-b1ce-4e6b-bef3-957ac0ec4cfc",
       "company": "Spearmint technologies",
       "title": "Full Stack AI Developer Intern",
@@ -6142,33 +6401,6 @@
       "url": "https://trueinterview.io/jobs/d84fbe3f-89ca-434b-acf1-967437dca584",
       "postedAt": "2026-11-03T11:16:25.000Z",
       "updatedAt": "2026-11-03T11:16:25.000Z"
-    },
-    {
-      "id": "04181187-3349-4bbb-a0c7-4c62235ae756",
-      "company": "Nexthink",
-      "title": "Java Software Engineer (Intern)",
-      "locations": [
-        "Madrid, Spain"
-      ],
-      "cities": [
-        "Madrid"
-      ],
-      "countries": [
-        "Spain"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.smartrecruiters.com/Nexthink/744000159356655-java-software-engineer-intern-",
-      "url": "https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756",
-      "postedAt": "2026-11-03T11:13:30.000Z",
-      "updatedAt": "2026-11-03T11:13:30.000Z"
     },
     {
       "id": "68025d81-98f8-49f2-89cc-24160a23023e",
@@ -6589,6 +6821,57 @@
       "updatedAt": "2026-11-03T06:57:00.000Z"
     },
     {
+      "id": "b283bcdb-4875-437f-80d0-dd7b5b1de048",
+      "company": "Amadeus",
+      "title": "Internship - AI Developer Engineer",
+      "locations": [
+        "Nice, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://amadeus.wd502.myworkdayjobs.com/en-US/jobs/job/Nice/Internship---AI-Developer-Engineer_R38604",
+      "url": "https://trueinterview.io/jobs/b283bcdb-4875-437f-80d0-dd7b5b1de048",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "a3eecfb5-dc70-4304-bfb1-54e99fe05fca",
+      "company": "Arlo Technologies",
+      "title": "Firmware Developer Co-op",
+      "locations": [
+        "Richmond, British Columbia, Canada",
+        "Richmond, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445",
+      "url": "https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca",
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "c6ffd6d8-20d6-4549-be77-16c8019815b3",
       "company": "Avis Budget Group",
       "title": "Accelerate - Transformation Engineer Summer 2027 Intern",
@@ -6610,6 +6893,31 @@
       "source": "indeed",
       "applyUrl": "https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388",
       "url": "https://trueinterview.io/jobs/c6ffd6d8-20d6-4549-be77-16c8019815b3",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "82f1427a-1743-4ee4-b7a0-67d62338d358",
+      "company": "CEVA Logistics",
+      "title": "INTERNSHIP - Data Analyst (Finance) March 2027",
+      "locations": [
+        "Courbevoie, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=593699&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=bJn8AWr9AYDXOW2Ed7BcxCxZn%2fsFmk5tjelchk4dObM%3d",
+      "url": "https://trueinterview.io/jobs/82f1427a-1743-4ee4-b7a0-67d62338d358",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -6638,6 +6946,32 @@
       "applyUrl": "https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J1026-2812&BRID=1345069&sbdid=936",
       "url": "https://trueinterview.io/jobs/3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
       "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "e7900962-2d0e-4ce9-8d34-3aef0c243795",
+      "company": "Ciena",
+      "title": "Stagiaire en développement logiciel - Software developer Intern/Co-op",
+      "locations": [
+        "Quebec, Quebec, Canada",
+        "Quebec City, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
+      "url": "https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795",
+      "postedAt": "2026-11-03T00:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
@@ -6712,6 +7046,31 @@
       "source": "indeed",
       "applyUrl": "https://career.fivesgroup.com/career?company=fives&career_ns=job_listing&career_job_req_id=6504&lang=en_US",
       "url": "https://trueinterview.io/jobs/7a27c632-abf7-4b5c-8198-4938dd6765fd",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
+      "id": "a8bf1d55-4976-418b-8356-443cffb81f41",
+      "company": "GMV",
+      "title": "Internship: Advanced object characterisation engineer",
+      "locations": [
+        "Ramonville-Saint-Agne, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://gmv.csod.com/ux/ats/careersite/4/home/requisition/5168?c=gmv&lang=en-US",
+      "url": "https://trueinterview.io/jobs/a8bf1d55-4976-418b-8356-443cffb81f41",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -7698,31 +8057,6 @@
       "updatedAt": "2026-11-03T00:03:00.000Z"
     },
     {
-      "id": "a3eecfb5-dc70-4304-bfb1-54e99fe05fca",
-      "company": "Arlo Technologies",
-      "title": "Firmware Developer Co-op",
-      "locations": [
-        "Richmond, British Columbia, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445",
-      "url": "https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca",
-      "postedAt": "2026-11-03T00:00:00.000Z",
-      "updatedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
       "id": "6caa3106-8db1-4652-9d4a-733b14bc5013",
       "company": "CareSource",
       "title": "2027 Summer Internship Program - Data Science Intern",
@@ -7744,31 +8078,6 @@
       "source": "career-sites",
       "applyUrl": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306",
       "url": "https://trueinterview.io/jobs/6caa3106-8db1-4652-9d4a-733b14bc5013",
-      "postedAt": "2026-11-03T00:00:00.000Z",
-      "updatedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "e7900962-2d0e-4ce9-8d34-3aef0c243795",
-      "company": "Ciena",
-      "title": "Stagiaire en développement logiciel - Software developer Intern/Co-op",
-      "locations": [
-        "Quebec, Quebec, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
-      "url": "https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795",
       "postedAt": "2026-11-03T00:00:00.000Z",
       "updatedAt": "2026-11-03T00:00:00.000Z"
     },
@@ -18940,31 +19249,6 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9",
       "url": "https://trueinterview.io/jobs/ba9e0793-7a60-421d-9d71-9f54898448dc",
-      "postedAt": "2026-10-30T05:00:00.000Z",
-      "updatedAt": "2026-10-30T05:00:00.000Z"
-    },
-    {
-      "id": "42b768eb-f030-4470-9520-09b9ace49011",
-      "company": "CMA CGM",
-      "title": "Internship - Developer Intern - AI-Augmented Applications (M/F)",
-      "locations": [
-        "Marseille, France"
-      ],
-      "cities": [],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=588751&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=Vmtmhqd3Rp9ruMOdxnha2GZEEUPuXAURWHyGMF0lO6w%3d",
-      "url": "https://trueinterview.io/jobs/42b768eb-f030-4470-9520-09b9ace49011",
       "postedAt": "2026-10-30T05:00:00.000Z",
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },

@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**16 open roles.** 15 in the United States & Canada · 1 elsewhere in the world.
+**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c4aaa627-2ed6-4033-90e1-af1c1086d43f">Software Developer Intern - WINTER 2027</a></td>
 <td>Montréal, Canada</td>
 <td align="center"><a href="https://apply.workable.com/j/959E328ECA">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
+<td>Quebec City, Canada<br/>Quebec, Quebec, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

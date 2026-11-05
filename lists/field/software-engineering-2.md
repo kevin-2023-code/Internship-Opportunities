@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,134 open roles.** 933 in the United States & Canada · 201 elsewhere in the world.
+**1,138 open roles.** 934 in the United States & Canada · 204 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Valeo</strong></td>
+<td><a href="https://trueinterview.io/jobs/379515a8-66a7-47ea-90df-32a5c87d2b15">Application Engineering Intern (Year-Round)</a></td>
+<td>Troy, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467906401/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Jacobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e3552c0-99ab-4bb9-ab07-48b3ba4df6f3">Water Engineering Intern – Summer 2027</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6cb2ebca-283f-4151-9d17-9c69dd97e991">HPC – AI Networking Intern - Network Transport</a></td>
 <td>Fort Collins, Colorado, United States of America<br/>Chippewa Falls, Wisconsin</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>
-<td>Los Gatos, California, United States of America</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
 </tbody>

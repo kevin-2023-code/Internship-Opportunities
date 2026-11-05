@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**116 open roles.** 89 in the United States & Canada · 27 elsewhere in the world.
+**117 open roles.** 90 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/013403c0-4b8a-4516-b096-0c84cba288ba">Machine Learning Engineer Intern</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486367115/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/f27f21a9-549d-4c90-82c4-e04d1beda0a9">FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)</a></td>
+<td>Markham, Canada</td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721969461?domain=qualcomm.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

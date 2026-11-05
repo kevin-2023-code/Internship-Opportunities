@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,134 open roles.** 933 in the United States & Canada · 201 elsewhere in the world.
+**1,138 open roles.** 934 in the United States & Canada · 204 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sparengine</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd23df7-9068-4f7d-9bef-d5878c7e7ef5">Product Designer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486554462/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
@@ -391,6 +398,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Global Relay</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
+<td>Vancouver, BC<br/>Halifax, Nova Scotia, Canada<br/>Vancouver, British Columbia, Canada<br/>+1 more</td>
+<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Teledyne FLIR</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0">Software Engineering Coop</a></td>
+<td>Waterloo, Ontario, Canada<br/>Waterloo, Canada</td>
+<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Sunlife</strong></td>
 <td><a href="https://trueinterview.io/jobs/b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e">Business Operations Software Engineer - 2027 Co-op</a></td>
 <td>Milwaukee, WI<br/>Portland, ME<br/>Wellesley, MA<br/>+3 more</td>
@@ -482,13 +503,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Teledyne Technologies Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0">Software Engineering Coop</a></td>
-<td>Waterloo, Ontario, Canada</td>
-<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Trimble Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/1a6514f1-4dc4-4692-82de-fba586d5625e">AI Developer Intern</a></td>
 <td>Westminster, CO<br/>Dayton, OH</td>
@@ -528,13 +542,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a8537de8-21e6-4eaf-aa4d-5f058f8bb838">Firmware Engineering Co-Op</a></td>
 <td>Waltham, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487043721/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Global Relay</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
-<td>Vancouver, BC<br/>Halifax, Nova Scotia, Canada<br/>Vancouver, British Columbia, Canada<br/>+1 more</td>
-<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -755,10 +762,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Arlo Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
+<td>Richmond, British Columbia, Canada<br/>Richmond, Canada</td>
+<td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Avis Budget Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/c6ffd6d8-20d6-4549-be77-16c8019815b3">Accelerate - Transformation Engineer Summer 2027 Intern</a></td>
 <td>Parsippany-Troy Hills, NJ</td>
 <td align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
+<td>Quebec, Quebec, Canada<br/>Quebec City, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -913,20 +934,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f88bbe30-4695-487d-a121-0207310719f2">AI Automation &amp; Revenue Ops Intern</a></td>
 <td>Durham, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485774933/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arlo Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
-<td>Richmond, British Columbia, Canada</td>
-<td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
-<td>Quebec, Quebec, Canada</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2b67b2dd-4bc9-4e7d-9ec2-e581066f9467">Systems Software Engineering Intern</a></td>
 <td>Arlington, Virginia, United States<br/>Arlington, VA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Valeo</strong></td>
-<td><a href="https://trueinterview.io/jobs/379515a8-66a7-47ea-90df-32a5c87d2b15">Application Engineering Intern (Year-Round)</a></td>
-<td>Troy, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467906401/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

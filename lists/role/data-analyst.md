@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**77 open roles.** 47 in the United States & Canada · 30 elsewhere in the world.
+**81 open roles.** 47 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -366,10 +366,38 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Air Liquide</strong></td>
+<td><a href="https://trueinterview.io/jobs/8edc1a62-386c-4ce6-bf5d-7439435a0fbc">Data Analyst &amp; Quality - Internship (H/F)</a></td>
+<td>Bagneux, France</td>
+<td align="center"><a href="https://airliquidehr.wd3.myworkdayjobs.com/de-DE/AirLiquideExternalCareer/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coty</strong></td>
+<td><a href="https://trueinterview.io/jobs/89331eac-ebea-4702-a415-17c62aa754d4">Data analyst and digitalization intern</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://careers.coty.com/job/Barcelona-Data-analyst-and-digitalization-intern-B-08018/1454369233/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/92f961dc-af3f-4723-a1ce-fe5db949021e">Data Analyst Intern</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Informa</strong></td>
 <td><a href="https://trueinterview.io/jobs/647f9873-243e-4742-b4ca-411cf5b46aef">Data Analyst Internship</a></td>
 <td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/InformaGroupPlc/744000159322318-data-analyst-internship">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CEVA Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/82f1427a-1743-4ee4-b7a0-67d62338d358">INTERNSHIP - Data Analyst (Finance) March 2027</a></td>
+<td>Courbevoie, France</td>
+<td align="center"><a href="https://career2.successfactors.eu/career?career%5fns=job%5flisting&amp;company=C0002716868P&amp;navBarLevel=JOB%5fSEARCH&amp;rcm%5fsite%5flocale=en%5fGB&amp;career_job_req_id=593699&amp;selected_lang=en_GB&amp;jobAlertController_jobAlertId=&amp;jobAlertController_jobAlertName=&amp;browserTimeZone=America/Chicago&amp;_s.crb=bJn8AWr9AYDXOW2Ed7BcxCxZn%2fsFmk5tjelchk4dObM%3d">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

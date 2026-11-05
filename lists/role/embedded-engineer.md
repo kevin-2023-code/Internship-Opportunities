@@ -81,6 +81,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Arlo Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
+<td>Richmond, British Columbia, Canada<br/>Richmond, Canada</td>
+<td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>CNH Industrial</strong></td>
 <td><a href="https://trueinterview.io/jobs/ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a">Firmware Software Intern</a></td>
 <td>Oak Brook, IL</td>
@@ -92,13 +99,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/58a7f456-2440-45fe-bf32-e31680df51db">Summer 2027 Intern - Embedded Firmware - 5810</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arlo Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
-<td>Richmond, British Columbia, Canada</td>
-<td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

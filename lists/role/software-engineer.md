@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**354 open roles.** 291 in the United States & Canada · 63 elsewhere in the world.
+**355 open roles.** 291 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,6 +165,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Global Relay</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
+<td>Vancouver, BC<br/>Halifax, Nova Scotia, Canada<br/>Vancouver, British Columbia, Canada<br/>+1 more</td>
+<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Sunlife</strong></td>
 <td><a href="https://trueinterview.io/jobs/b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e">Business Operations Software Engineer - 2027 Co-op</a></td>
 <td>Milwaukee, WI<br/>Portland, ME<br/>Wellesley, MA<br/>+3 more</td>
@@ -232,13 +239,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/49196dd6-de8d-4b50-ba1e-425925ddb620">Anticheat Engineer Intern - Summer 2027</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Global Relay</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
-<td>Vancouver, BC<br/>Halifax, Nova Scotia, Canada<br/>Vancouver, British Columbia, Canada<br/>+1 more</td>
-<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -333,6 +333,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
+<td>Quebec, Quebec, Canada<br/>Quebec City, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Fareway Stores, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/68d2d2ed-5473-413f-970a-96faaef4af1d">IBM I RPG Developer Internship</a></td>
 <td>Johnston, IA</td>
@@ -414,13 +421,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/843cef2b-daa4-4095-b84e-87568f4e4f96">CDS Intern - Software Engineer - Costco Travel</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486472540/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
-<td>Quebec, Quebec, Canada</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2099,6 +2099,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5acb1c5c-47e6-4d7a-a087-3ed6bbebe39a">2027 Business Developer Intern, Amazon Payments</a></td>
 <td>Cape Town, Western Cape, South Africa</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479065597/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nexthink</strong></td>
+<td><a href="https://trueinterview.io/jobs/7876d8c2-7378-493e-bbaf-57180810b444">Software Engineer (Intern)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Nexthink/744000159632958-software-engineer-intern-">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

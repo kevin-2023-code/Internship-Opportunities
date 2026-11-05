@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,657 open roles.** 1,304 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
+**1,668 open roles.** 1,307 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sandhills Global</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecd738cd-9e1e-4ed2-a203-dd2e3c86704b">Data Scientist Intern - In Office, Scottsdale, AZ only</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447368270/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Grimco, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a0a01f4-c07e-45d9-8938-e2a41f1d35b3">IT Support Intern</a></td>
+<td>Sunset Hills, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980149/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Johnson &amp; Johnson MedTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fb69dbb-8fff-47cc-845d-20e2ec3d1edf">GTO Manufacturing Engineering Co-Op</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6d7bf8f4-284d-4192-b580-21169ae6caf6">Civil Engineering Co-op: Power</a></td>
 <td>Columbus, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465795620/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a27a86a-b26f-499a-adfa-73eddfd86f82">Data &amp; Control Systems Engineer Intern</a></td>
-<td>Kiln, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476331853/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PACK Power, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/d02a78a1-632b-476f-b099-af690135e4e2">Field Engineer Intern (Summer 2027 Internship)</a></td>
-<td>West Fargo, ND</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483570560/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GE Vernova</strong></td>
-<td><a href="https://trueinterview.io/jobs/be6a9569-9306-4e90-b291-e1fd618c9853">GE Vernova Controls Product Management Intern - Summer 2027</a></td>
-<td>Greenville, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459003223/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

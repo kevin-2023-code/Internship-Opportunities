@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Global Relay</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Halifax, Nova Scotia, Canada<br/>+1 more</td>
+<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Stryker</strong></td>
 <td><a href="https://trueinterview.io/jobs/dfe01d43-51d6-4055-ae98-00246a3166f5">Quality Engineer, Co-op</a></td>
 <td>Burnaby, Canada</td>
@@ -25,10 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Global Relay</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Halifax, Nova Scotia, Canada<br/>+1 more</td>
-<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
+<td><strong>Arlo Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
+<td>Richmond, British Columbia, Canada<br/>Richmond, Canada</td>
+<td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -36,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2a2cc207-7c2e-49e4-9890-b2a1f53d6712">Operations Product Manager Co-Op</a></td>
 <td>Vancouver, BC<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arlo Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
-<td>Richmond, British Columbia, Canada</td>
-<td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

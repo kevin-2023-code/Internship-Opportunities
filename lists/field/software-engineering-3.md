@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,134 open roles.** 933 in the United States & Canada · 201 elsewhere in the world.
+**1,138 open roles.** 934 in the United States & Canada · 204 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Netflix</strong></td>
+<td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>
+<td>Los Gatos, California, United States of America</td>
+<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/206eeeb0-0dd4-4548-9a68-8232302d0e76">Enterprise Platform Technical Marketing Engineer Intern - Summer 2027</a></td>
@@ -1001,10 +1008,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Nexthink</strong></td>
+<td><a href="https://trueinterview.io/jobs/7876d8c2-7378-493e-bbaf-57180810b444">Software Engineer (Intern)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Nexthink/744000159632958-software-engineer-intern-">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/49995702-af80-46cd-950a-360a8fb88184">AI Full-Stack Engineer Intern (TikTok Shop - SEA) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469022076/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Brevo</strong></td>
+<td><a href="https://trueinterview.io/jobs/f972e840-2962-46ef-a732-e70803d321ce">Forward Deployed Engineer Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/brevo/68d1927e-c983-49e3-8f17-ac2576dcb5ae">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1061,6 +1082,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756">Java Software Engineer (Intern)</a></td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Nexthink/744000159356655-java-software-engineer-intern-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GMV</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8bf1d55-4976-418b-8356-443cffb81f41">Internship: Advanced object characterisation engineer</a></td>
+<td>Ramonville-Saint-Agne, France</td>
+<td align="center"><a href="https://gmv.csod.com/ux/ats/careersite/4/home/requisition/5168?c=gmv&amp;lang=en-US">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

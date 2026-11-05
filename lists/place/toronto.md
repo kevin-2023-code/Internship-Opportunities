@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Teledyne FLIR</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0">Software Engineering Coop</a></td>
+<td>Waterloo, Ontario, Canada<br/>Waterloo, Canada</td>
+<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Plusgrade</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dfd8737-bf48-496d-b341-2108e3749bea">Data Science Intern</a></td>
 <td>Toronto, Ontario, Canada</td>
@@ -29,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fdb447b1-720e-47b7-85d2-4c7a795fe3e2">UI/UX Design and Frontend Engineer Intern</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/UI-UX-Design-and-Frontend-Engineer-Intern_JR100231">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Teledyne Technologies Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0">Software Engineering Coop</a></td>
-<td>Waterloo, Ontario, Canada</td>
-<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

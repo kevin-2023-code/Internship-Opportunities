@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,657 open roles.** 1,304 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
+**1,668 open roles.** 1,307 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Federal Reserve Board</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf3b9a46-a3e9-43cc-b8a9-60666a254d86">Summer 2027 Intern – Software Developer – IT</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477837993/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/18d7769d-6ca9-4a6d-9599-1a35bfc108f8">Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466618183/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8fc1cf6-f1fc-4487-b146-42f0cb9bff09">Site Reliability Engineer Intern - OneIT - Rochester, MN</a></td>
+<td>Rochester, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466298969/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ancestry</strong></td>
 <td><a href="https://trueinterview.io/jobs/810f1fad-abe2-4f59-8440-76cb33aa98aa">Machine Learning Engineer, Co-op</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
 <td>Holland, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sandhills Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/ecd738cd-9e1e-4ed2-a203-dd2e3c86704b">Data Scientist Intern - In Office, Scottsdale, AZ only</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447368270/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Grimco, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a0a01f4-c07e-45d9-8938-e2a41f1d35b3">IT Support Intern</a></td>
-<td>Sunset Hills, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980149/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

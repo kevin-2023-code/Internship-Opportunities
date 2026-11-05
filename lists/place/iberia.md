@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**14 open roles.**
+**16 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nexthink</strong></td>
+<td><a href="https://trueinterview.io/jobs/7876d8c2-7378-493e-bbaf-57180810b444">Software Engineer (Intern)</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Nexthink/744000159632958-software-engineer-intern-">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coty</strong></td>
+<td><a href="https://trueinterview.io/jobs/89331eac-ebea-4702-a415-17c62aa754d4">Data analyst and digitalization intern</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://careers.coty.com/job/Barcelona-Data-analyst-and-digitalization-intern-B-08018/1454369233/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Wood</strong></td>
 <td><a href="https://trueinterview.io/jobs/9903fab6-c519-488c-ace8-6fcb90859b7e">Electrical Engineer - Internship</a></td>

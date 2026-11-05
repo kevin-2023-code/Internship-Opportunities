@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**514 open roles.** 387 in the United States & Canada · 127 elsewhere in the world.
+**521 open roles.** 389 in the United States & Canada · 132 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -59,6 +59,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
 <td>Milpitas, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>K1 Investment Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/23149deb-1a60-467b-b238-f872444d4bd8">AI Intern</a></td>
+<td>Manhattan Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486519958/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -325,6 +332,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bba776fc-a672-48fc-a864-f56c362d3e28">Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486349386/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/f27f21a9-549d-4c90-82c4-e04d1beda0a9">FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)</a></td>
+<td>Markham, Canada</td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721969461?domain=qualcomm.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2762,6 +2776,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Air Liquide</strong></td>
+<td><a href="https://trueinterview.io/jobs/8edc1a62-386c-4ce6-bf5d-7439435a0fbc">Data Analyst &amp; Quality - Internship (H/F)</a></td>
+<td>Bagneux, France</td>
+<td align="center"><a href="https://airliquidehr.wd3.myworkdayjobs.com/de-DE/AirLiquideExternalCareer/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coty</strong></td>
+<td><a href="https://trueinterview.io/jobs/89331eac-ebea-4702-a415-17c62aa754d4">Data analyst and digitalization intern</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://careers.coty.com/job/Barcelona-Data-analyst-and-digitalization-intern-B-08018/1454369233/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/0176ba6c-127f-4457-98e0-8355e74b7165">Business Intelligence &amp; Data Analytics Intern</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Business-Intelligence---Data-Analytics-Intern_UNI4522">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/92f961dc-af3f-4723-a1ce-fe5db949021e">Data Analyst Intern</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Delivery Hero</strong></td>
 <td><a href="https://trueinterview.io/jobs/67cd4cd4-fabd-49bc-9e6b-3abc892155c5">Intern, Data Engineer - People &amp; Culture</a></td>
 <td>Berlin, Deutschland</td>
@@ -2788,48 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486330586/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd22b881-ae1a-4e4b-9043-5f2336bd4cd0">Internship - Audio-Visual AI Research Scientist</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454244460/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/643ec76c-7a7a-4dda-a495-e07c187df99a">Internship - Research Engineer for Natural Language Processing</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454243488/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/57e6cb6d-9a3b-4515-8712-d894c9a54d6e">Internship - Researcher / Natural Language Processing (NLP) for Multimodal Machine Learning</a></td>
-<td>Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454257388/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/f077a066-1ce0-43ab-92ea-56a530d15ec0">Software Engineer Intern (Full-Stack &amp; AI Agents) - Shanghai</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200690042">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9">Industrial AI &amp; Software Engineering Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527726">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apache Industrial</strong></td>
-<td><a href="https://trueinterview.io/jobs/366d443e-a4ac-48ea-b039-3cbea68b998a">AI Implementation Intern</a></td>
-<td>Greater Houston</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487057263/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 </tbody>
 </table>

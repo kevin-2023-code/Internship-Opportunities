@@ -69,7 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Ciena</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
-<td>Quebec, Quebec, Canada</td>
+<td>Quebec, Quebec, Canada<br/>Quebec City, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
