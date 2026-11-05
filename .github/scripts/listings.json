@@ -5,9 +5,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-04T22:04:41.927Z",
-  "count": 2613,
+  "listingsChangedAt": "2026-11-05T00:11:38.761Z",
+  "count": 2610,
   "listings": [
+    {
+      "id": "10af8991-996f-4468-9664-3456338b510c",
+      "company": "T-Mobile",
+      "title": "Summer 2027 UX Design Internship",
+      "locations": [
+        "New York, NY",
+        "Philadelphia, PA"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487559696/",
+      "url": "https://trueinterview.io/jobs/10af8991-996f-4468-9664-3456338b510c",
+      "postedAt": "2026-11-04T23:15:00.000Z",
+      "updatedAt": "2026-11-04T23:33:00.000Z"
+    },
+    {
+      "id": "8533a0e4-60a1-4c01-bd8d-4cb2422cc183",
+      "company": "Pattern",
+      "title": "UX Design Intern - Summer 2027",
+      "locations": [
+        "Lehi, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487567006/",
+      "url": "https://trueinterview.io/jobs/8533a0e4-60a1-4c01-bd8d-4cb2422cc183",
+      "postedAt": "2026-11-04T22:49:00.000Z",
+      "updatedAt": "2026-11-04T22:49:00.000Z"
+    },
+    {
+      "id": "0c3c3504-4298-4968-9709-1daf59c46403",
+      "company": "COREL",
+      "title": "AI Software Developer Intern",
+      "locations": [
+        "Canada",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=69805dbf-d10e-4118-99f6-cb47a709a502&jobId=590093",
+      "url": "https://trueinterview.io/jobs/0c3c3504-4298-4968-9709-1daf59c46403",
+      "postedAt": "2026-11-04T21:56:10.000Z",
+      "updatedAt": "2026-11-04T21:56:10.000Z"
+    },
     {
       "id": "75bd697e-0f0a-478f-8eb7-b62ddf3d895f",
       "company": "Hira",
@@ -13458,113 +13537,6 @@
       "url": "https://trueinterview.io/jobs/6411c7c2-6e86-43a2-b8a2-bbb92a1a2aef",
       "postedAt": "2026-10-31T10:31:00.000Z",
       "updatedAt": "2026-10-31T10:31:00.000Z"
-    },
-    {
-      "id": "73182d32-0261-4670-903f-86b06180565e",
-      "company": "Liberty Mutual Insurance",
-      "title": "Cybersecurity Co-op (January - June 2027)",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460370875/",
-      "url": "https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e",
-      "postedAt": "2026-10-31T10:20:33.000Z",
-      "updatedAt": "2026-10-31T10:20:33.000Z"
-    },
-    {
-      "id": "aea87df7-18c8-4e06-8c73-6059e95543c2",
-      "company": "TikTok",
-      "title": "AI Product Manager Intern (TikTok Live-Revenue) - 2027 Start",
-      "locations": [
-        "Sydney, New South Wales, Australia"
-      ],
-      "cities": [
-        "Sydney"
-      ],
-      "countries": [
-        "United Kingdom",
-        "Australia"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467883348/",
-      "url": "https://trueinterview.io/jobs/aea87df7-18c8-4e06-8c73-6059e95543c2",
-      "postedAt": "2026-10-31T10:12:00.000Z",
-      "updatedAt": "2026-10-31T10:12:00.000Z"
-    },
-    {
-      "id": "96e04efa-c630-4752-b4b9-3241546ecc18",
-      "company": "Rivian",
-      "title": "Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)",
-      "locations": [
-        "Normal, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468019657/",
-      "url": "https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18",
-      "postedAt": "2026-10-31T10:07:00.000Z",
-      "updatedAt": "2026-10-31T10:07:00.000Z"
-    },
-    {
-      "id": "34dbab2d-d75c-4d43-8376-d850121a999e",
-      "company": "Georgia Tech Research Institute",
-      "title": "General Cybersecurity Graduate Intern - CIPHER- Spring 2027",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4477810555/",
-      "url": "https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e",
-      "postedAt": "2026-10-31T09:53:00.000Z",
-      "updatedAt": "2026-10-31T09:53:00.000Z"
     },
     {
       "id": "91324f15-75ba-4df9-a853-a224073f2fcc",
@@ -31068,31 +31040,6 @@
       "source": "indeed",
       "applyUrl": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1",
       "url": "https://trueinterview.io/jobs/50127fb3-0a58-4ae3-9d1e-198866e1db68",
-      "postedAt": "2026-10-29T05:00:00.000Z",
-      "updatedAt": "2026-10-29T05:00:00.000Z"
-    },
-    {
-      "id": "d297459a-94e0-434b-875e-8474ca997718",
-      "company": "The Bernard Group",
-      "title": "Intern, Software Engineer (Data and Python)",
-      "locations": [
-        "Chanhassen, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&ccId=19000101_000001&jobId=605208&lang=en_US",
-      "url": "https://trueinterview.io/jobs/d297459a-94e0-434b-875e-8474ca997718",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -67757,31 +67704,6 @@
       "url": "https://trueinterview.io/jobs/5ab6e229-2083-45d0-b20f-9ed26510cd61",
       "postedAt": "2026-09-06T05:00:00.000Z",
       "updatedAt": "2026-09-06T05:00:00.000Z"
-    },
-    {
-      "id": "c2494bf8-1aeb-45c7-8087-0cbe65e9ad43",
-      "company": "Hewlett Packard Enterprise",
-      "title": "HPC AI Systems Administrator Intern",
-      "locations": [
-        "Bloomington, Minnesota, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396",
-      "url": "https://trueinterview.io/jobs/c2494bf8-1aeb-45c7-8087-0cbe65e9ad43",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "updatedAt": "2026-09-06T00:00:00.000Z"
     }
   ]
 }
