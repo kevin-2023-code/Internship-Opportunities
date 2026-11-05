@@ -5,9 +5,87 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T04:05:50.000Z",
-  "count": 2643,
+  "listingsChangedAt": "2026-11-05T05:04:58.455Z",
+  "count": 2645,
   "listings": [
+    {
+      "id": "79fe8566-69ba-4b43-a5d6-25c5386adab5",
+      "company": "Intel",
+      "title": "AI Software Engineering Intern",
+      "locations": [
+        "Shanghai, Shanghai, China",
+        "Beijing, Beijing, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486563619/",
+      "url": "https://trueinterview.io/jobs/79fe8566-69ba-4b43-a5d6-25c5386adab5",
+      "postedAt": "2026-11-05T04:20:00.000Z",
+      "updatedAt": "2026-11-05T04:20:00.000Z"
+    },
+    {
+      "id": "ed8b1620-eeca-4341-9425-02abbdaae767",
+      "company": "GM Financial",
+      "title": "Intern - Cloud Engineer",
+      "locations": [
+        "Irving, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486558689/",
+      "url": "https://trueinterview.io/jobs/ed8b1620-eeca-4341-9425-02abbdaae767",
+      "postedAt": "2026-11-05T04:16:00.000Z",
+      "updatedAt": "2026-11-05T04:16:00.000Z"
+    },
+    {
+      "id": "cc93f7f1-317b-41f6-9000-d2f3279a7d3b",
+      "company": "Flow Traders",
+      "title": "Quantitative Trading Intern Summer 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476460197/",
+      "url": "https://trueinterview.io/jobs/cc93f7f1-317b-41f6-9000-d2f3279a7d3b",
+      "postedAt": "2026-11-05T03:09:00.000Z",
+      "updatedAt": "2026-11-05T03:09:00.000Z"
+    },
     {
       "id": "7bd23df7-9068-4f7d-9bef-d5878c7e7ef5",
       "company": "Sparengine",
@@ -68534,29 +68612,6 @@
       "url": "https://trueinterview.io/jobs/84e67284-4da5-4b6d-9113-bf20a2168027",
       "postedAt": "2026-09-07T00:00:00.000Z",
       "updatedAt": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "id": "5ab6e229-2083-45d0-b20f-9ed26510cd61",
-      "company": "Apple",
-      "title": "PMU Silicon Validation Intern (m/f/d)",
-      "locations": [
-        "München, Deutschland"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.apple.com/en-us/details/200682232-1731?board_id=JB001",
-      "url": "https://trueinterview.io/jobs/5ab6e229-2083-45d0-b20f-9ed26510cd61",
-      "postedAt": "2026-09-06T05:00:00.000Z",
-      "updatedAt": "2026-09-06T05:00:00.000Z"
     }
   ]
 }

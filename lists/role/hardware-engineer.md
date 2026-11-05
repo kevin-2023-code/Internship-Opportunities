@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**120 open roles.** 113 in the United States & Canada · 7 elsewhere in the world.
+**119 open roles.** 113 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -861,13 +861,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Grenoble, France</td>
 <td align="center"><a href="https://www.emploi.cea.fr/offre-de-emploi/emploi-internship-experimentally-grounded-fault-modeling-for-pre-silicon-security-verification-grenoble-h-f_42332.aspx">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ab6e229-2083-45d0-b20f-9ed26510cd61">PMU Silicon Validation Intern (m/f/d)</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200682232-1731?board_id=JB001">Apply</a></td>
-<td align="center">6 Sep 2026</td>
 </tr>
 </tbody>
 </table>
