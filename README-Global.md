@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-05 19:03 UTC_
+_Last updated: 2026-11-05 20:04 UTC_
 
-**475 open internships** from **248 employers** · **328 posted in the last 7 days** · refreshed hourly
+**475 open internships** from **248 employers** · **323 posted in the last 7 days** · refreshed hourly
 
 ### Browse 475 internships by field
 
@@ -40,7 +40,7 @@ _Last updated: 2026-11-05 19:03 UTC_
 
 ### 🔥 Posting the most this week
 
-**Infineon Technologies** 30 &nbsp;·&nbsp; **NVIDIA** 23 &nbsp;·&nbsp; **Apple** 12 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **SAP** 7 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **Qualcomm** 5
+**Infineon Technologies** 30 &nbsp;·&nbsp; **NVIDIA** 23 &nbsp;·&nbsp; **Apple** 12 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 6 &nbsp;·&nbsp; **SAP** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Tencent** 5
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 44 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (92)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (34)](lists/place/greater-china.md) · [🇬🇧 London & the UK (31)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (23)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (21)](lists/place/germany.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (16)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (16)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🏰 Warsaw, Kraków & Central Europe (11)](lists/place/poland-cee.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (328)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (323)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -112,14 +112,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a> 🆕</td>
 <td>Bratislava, Bratislava, Slovakia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/001c7801-95d2-4f32-aa69-f1cf1755cb91">iXP Intern Developer Security</a> 🆕</td>
 <td>Sofia, Sofia City, Bulgaria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454215765/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>

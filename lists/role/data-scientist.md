@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**93 open roles.** 78 in the United States & Canada · 15 elsewhere in the world.
+**95 open roles.** 80 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487701762/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amica Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/e651ef98-5a45-456b-af40-495506cdf8d3">Marketing Data Science Intern</a></td>
+<td>Lincoln, Rhode Island, United States</td>
+<td align="center"><a href="https://amica.wd503.myworkdayjobs.com/CareersAmica/job/Lincoln-RI/Marketing-Data-Science-Intern_JR00276">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Walmart</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b9b4b0b-3cb5-4667-97dd-2d7e742d7d7d">(USA) Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern</a></td>
+<td>Bentonville, Arkansas, United States</td>
+<td align="center"><a href="https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

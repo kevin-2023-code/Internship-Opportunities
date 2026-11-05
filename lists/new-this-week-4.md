@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,448 open roles.** 1,120 in the United States & Canada · 328 elsewhere in the world. Everything the employers put up this week.
+**1,441 open roles.** 1,118 in the United States & Canada · 323 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/d710b258-9bb5-4ae5-80b4-506439b93629">Business Program Manager MBA Intern, 2027</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477508989/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bank of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
-<td>Greater Phoenix Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477258436/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Tencent</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3d93f91-169f-4a5a-84f7-37fe1bc26304">Unreal Engine Programmer Intern</a></td>
@@ -1716,41 +1702,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/94faeae1-9275-491c-82a4-a657ac7d6bd4">NLP Research Intern</a></td>
 <td>Seoul Incheon Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466027882/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/782e88f6-3982-4dfa-a440-6ae1fbdf026d">Data Science Intern (Analytics), 6-month internship</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461104774/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FlightSafety International</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
-<td>Greater St. Louis</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/97b5f2b4-0356-42bb-9a63-d1596051f5b4">Bridge Engineering Intern (Dublin)</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484737037/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rakuten Viki</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f048243-f541-4ea4-8182-5e93212545dc">Intern, UX (Content Design)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431660136/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
-<td>Timisoara Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544252/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

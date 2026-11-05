@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,180 open roles.** 974 in the United States & Canada · 206 elsewhere in the world.
+**1,189 open roles.** 983 in the United States & Canada · 206 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,70 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8bce5c50-309b-4fbb-a2eb-955ed4a6ea53">Acoustic Systems Engineering Co-op</a></td>
+<td>Bloomfield Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485244975/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dennis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dc6a196-7aea-4935-b85e-b17dd1e9db95">Packaging Engineer Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484572837/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pratt &amp; Whitney</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a501272-c4be-4fdc-ac1f-d38a78e97f4d">F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)</a></td>
+<td>East Hartford, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485261044/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Reserve Board</strong></td>
+<td><a href="https://trueinterview.io/jobs/62f066eb-10e8-4164-83a2-5eb6e9154436">Summer 2027 Intern – Security Analyst – IT</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485230919/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parker Hannifin</strong></td>
+<td><a href="https://trueinterview.io/jobs/543e2360-b705-48d3-9951-611d6e1aa90c">Engineer Intern - Military Flight Controls Division</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485251349/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas-New Mexico Power (TNMP)</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e510bab-4aed-4079-961f-e12ce760ac6e">2027 Summer Engineering Internship (Houston Area)</a></td>
+<td>Texas City, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483144415/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd0742c5-08e8-469b-b696-714845d4551a">Arena Engineering Intern (Summer 2027)</a></td>
+<td>San Mateo, CA<br/>San Mateo County, CA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecd1b0bf-f425-4aa4-ad3a-96fd0af2abef">Applications Engineering Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485236418/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9c5ef3b0-b571-4097-a5cb-6bfd349a39b7">Product Engineer Intern</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485246133/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d641c2d9-6dce-4a09-a389-60a320e25746">Research Engineering Intern</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485239343/">Apply</a></td>
@@ -2751,69 +2814,6 @@
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91082?lang=en-us">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>American Family Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/3df659fb-110a-4bc1-a688-e025ccd7398e">Summer 2027 Intern - Data Engineering</a></td>
-<td>Madison, Wisconsin, United States</td>
-<td align="center"><a href="https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/620afe0e-538d-4b54-9f78-7354fa00e9dd">DevOps Co-Op</a></td>
-<td>US, MA, Boston, United States of America</td>
-<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/de1ebd89-5535-46aa-9d20-6c2ebbbbca50">Autonomy Engineer Intern, 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b/application">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/483b30ae-c27d-47a5-9158-45fd8265ba0f">Intern - Embedded Software Engineer</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45227661?domain=micron.com">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Epicgames</strong></td>
-<td><a href="https://trueinterview.io/jobs/85c843af-1e68-409a-8f94-e7008d0daaaf">Tools Programmer Intern (Graphics)</a></td>
-<td>Cary, North Carolina, United States, Cary</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figure</strong></td>
-<td><a href="https://trueinterview.io/jobs/268f6f6e-fc78-472a-9a80-8683f5658af5">Developer Productivity Intern [Winter 2027]</a></td>
-<td>San Jose, CA, HQ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4724521006">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
-<td>Austin, TX<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>1password</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e43103f-d226-46d1-8db8-1edb6e3ddaad">Developer Intern, Extension Excellence - Winter 2027</a> 🌐</td>
-<td>Remote — United States, Canada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048">Software Engineer Full Stack / Backend I (Co-op) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 </tbody>
 </table>

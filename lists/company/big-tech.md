@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**586 open roles.** 488 in the United States & Canada · 98 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**585 open roles.** 487 in the United States & Canada · 98 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -595,13 +595,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/c665f79e-7f84-4b80-99dd-acf9769e1507">Technical Program Manager Intern, Reality Labs — 2027</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1649069223327170/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8b9c3f8d-649b-41c7-8c7c-8808337f9483">Battery Engineering Intern, Cell Engineering (PhD)</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/938682979075854/">Apply</a></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850">Intern – Process Engineer ID1</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44139024">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e714abaa-bdc0-42ca-9108-a03676b11f28">PhD Research Intern, Architecture – 2027</a></td>
+<td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 </tbody>

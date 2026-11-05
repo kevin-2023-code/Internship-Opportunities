@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T19:03:55.652Z",
-  "count": 2720,
+  "listingsChangedAt": "2026-11-05T20:04:42.250Z",
+  "count": 2731,
   "listings": [
+    {
+      "id": "4fe70514-8cf2-487d-8e33-88a3d7b5111d",
+      "company": "KeenStack",
+      "title": "ServiceNow Developer Internship",
+      "locations": [
+        "Chandler, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=f768ac1e26df7405",
+      "url": "https://trueinterview.io/jobs/4fe70514-8cf2-487d-8e33-88a3d7b5111d",
+      "postedAt": "2026-11-05T17:44:14.000Z",
+      "updatedAt": "2026-11-05T17:44:14.000Z"
+    },
     {
       "id": "16833f48-15c8-4c7a-8613-f79fe9bbc8f0",
       "company": "Tencent",
@@ -59,6 +84,31 @@
       "url": "https://trueinterview.io/jobs/88642dc7-b0e9-4a1a-bea3-1bdefaf1df45",
       "postedAt": "2026-11-05T16:33:00.000Z",
       "updatedAt": "2026-11-05T16:33:00.000Z"
+    },
+    {
+      "id": "cafd8dc0-65ba-4d1d-8efc-b92a99b899de",
+      "company": "Lumbermen's",
+      "title": "Software Developer Internship",
+      "locations": [
+        "Grand Rapids, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
+      "url": "https://trueinterview.io/jobs/cafd8dc0-65ba-4d1d-8efc-b92a99b899de",
+      "postedAt": "2026-11-05T16:23:46.000Z",
+      "updatedAt": "2026-11-05T16:23:46.000Z"
     },
     {
       "id": "7dc0029b-24be-4aa7-a7fb-c69cfb092c2c",
@@ -736,7 +786,8 @@
       "company": "RR Donnelley",
       "title": "Software Developer Intern",
       "locations": [
-        "Warrenville, Illinois, United States"
+        "Warrenville, Illinois, United States",
+        "Warrenville, IL"
       ],
       "cities": [],
       "countries": [
@@ -754,7 +805,7 @@
       "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000159883639-software-developer-intern",
       "url": "https://trueinterview.io/jobs/f9d3de09-c9ba-4ecf-879b-f4eb5d5bc49a",
       "postedAt": "2026-11-05T14:31:14.000Z",
-      "updatedAt": "2026-11-05T14:31:14.000Z"
+      "updatedAt": "2026-11-05T14:31:15.000Z"
     },
     {
       "id": "bee10cac-0ed5-4023-a1df-fa9d2a1d70fe",
@@ -1902,6 +1953,32 @@
       "updatedAt": "2026-11-05T07:08:11.000Z"
     },
     {
+      "id": "074e3ff7-6507-4346-815a-046899c7e74d",
+      "company": "Axiom Consultants",
+      "title": "AI Developer Intern",
+      "locations": [
+        "Rockville, MD",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.applicantpro.com/openings/axiomconsultants/jobs/4268287-499465",
+      "url": "https://trueinterview.io/jobs/074e3ff7-6507-4346-815a-046899c7e74d",
+      "postedAt": "2026-11-05T07:00:00.000Z",
+      "updatedAt": "2026-11-05T07:00:00.000Z"
+    },
+    {
       "id": "877585e3-703b-49a7-8706-336ff76c01c1",
       "company": "FM",
       "title": "Research Engineer Intern",
@@ -1952,6 +2029,31 @@
       "updatedAt": "2026-11-05T06:26:00.000Z"
     },
     {
+      "id": "2bb50976-b544-4436-bd11-e9a3ca48fa35",
+      "company": "Cognizant",
+      "title": "Software Engineering Internship – TriZetto Product House",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.cognizant.com/global-en/jobs/47945/software-engineering-internship-trizetto-product-house/",
+      "url": "https://trueinterview.io/jobs/2bb50976-b544-4436-bd11-e9a3ca48fa35",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
       "id": "51261dd3-f6cb-4104-b8e7-b88431856b1c",
       "company": "Hilti Group",
       "title": "Intern - Data Science (Global IT) [m/f/x]",
@@ -1974,6 +2076,88 @@
       "applyUrl": "https://careers.hilti.group/en/jobs/22245-en/intern-data-science-global-it-m-f-x/",
       "url": "https://trueinterview.io/jobs/51261dd3-f6cb-4104-b8e7-b88431856b1c",
       "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
+      "id": "ae216860-baad-4890-a279-5c9812e7347f",
+      "company": "Legrand",
+      "title": "Firmware Engineering Intern",
+      "locations": [
+        "Reno, NV"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1809",
+      "url": "https://trueinterview.io/jobs/ae216860-baad-4890-a279-5c9812e7347f",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
+      "id": "eeee4851-4cda-48bc-845b-8398672537dc",
+      "company": "PCI Pharma Services",
+      "title": "Automation Engineer Intern",
+      "locations": [
+        "Rockford, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://pciservices.wd1.myworkdayjobs.com/en-US/External/job/Rockford-IL-USA/Automation-Engineer-Intern_JR120427",
+      "url": "https://trueinterview.io/jobs/eeee4851-4cda-48bc-845b-8398672537dc",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
+      "id": "c19f2c41-3b4c-4602-8bd3-0050e5626d12",
+      "company": "Shield",
+      "title": "June 2027 Co-Op - Software Engineer Intern",
+      "locations": [
+        "San Diego, California, United States",
+        "Washington, District of Columbia, United States",
+        "Dallas, Texas, United States",
+        "Seattle, Washington, United States",
+        "San Diego, CA"
+      ],
+      "cities": [
+        "Washington, DC",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
+      "url": "https://trueinterview.io/jobs/c19f2c41-3b4c-4602-8bd3-0050e5626d12",
+      "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T06:00:00.000Z"
     },
     {
@@ -2627,6 +2811,31 @@
       "updatedAt": "2026-11-05T00:08:00.000Z"
     },
     {
+      "id": "e651ef98-5a45-456b-af40-495506cdf8d3",
+      "company": "Amica Insurance",
+      "title": "Marketing Data Science Intern",
+      "locations": [
+        "Lincoln, Rhode Island, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://amica.wd503.myworkdayjobs.com/CareersAmica/job/Lincoln-RI/Marketing-Data-Science-Intern_JR00276",
+      "url": "https://trueinterview.io/jobs/e651ef98-5a45-456b-af40-495506cdf8d3",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
       "id": "39ac0202-5efa-4f6b-881e-e95c1557b5b6",
       "company": "Astranis Space Technologies",
       "title": "Software Engineer Backend Intern (Summer 2027)",
@@ -2679,31 +2888,6 @@
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
     {
-      "id": "6da97825-8951-472e-ad1e-388a1dcfeb41",
-      "company": "JM&A Group",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Deerfield Beach, Florida, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
-      "url": "https://trueinterview.io/jobs/6da97825-8951-472e-ad1e-388a1dcfeb41",
-      "postedAt": "2026-11-05T00:00:00.000Z",
-      "updatedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
       "id": "d9cc171f-7939-4bf8-b67b-389bff4c1ff6",
       "company": "Little Caesars Pizza",
       "title": "Intern, UI/UX",
@@ -2750,6 +2934,56 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4450134756/",
       "url": "https://trueinterview.io/jobs/54c8d3eb-26ef-4d08-98e8-7337c0d09d6f",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "46bc734e-2eee-4b2e-86cf-59afd2df4b9e",
+      "company": "SOTI",
+      "title": "Software Developer Intern - Android (May 2027 - 12 Months)",
+      "locations": [
+        "Mississauga, Ontario, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
+      "url": "https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "3b9b4b0b-3cb5-4667-97dd-2d7e742d7d7d",
+      "company": "Walmart",
+      "title": "(USA) Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
+      "locations": [
+        "Bentonville, Arkansas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828",
+      "url": "https://trueinterview.io/jobs/3b9b4b0b-3cb5-4667-97dd-2d7e742d7d7d",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
@@ -5605,6 +5839,31 @@
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
+      "id": "ad2e24c5-1d4c-462c-b2d1-47bc16faa56b",
+      "company": "Charter Manufacturing",
+      "title": "Automation and Controls Engineer Intern - Year Round",
+      "locations": [
+        "Saukville, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Automation-and-Controls-Engineer-Intern---Year-Round_R08074",
+      "url": "https://trueinterview.io/jobs/ad2e24c5-1d4c-462c-b2d1-47bc16faa56b",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
       "id": "89331eac-ebea-4702-a415-17c62aa754d4",
       "company": "Coty",
       "title": "Data analyst and digitalization intern",
@@ -5657,6 +5916,31 @@
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
+      "id": "12fa83ee-66ed-48a8-8be6-de384db26caa",
+      "company": "General Dynamics Mission Systems",
+      "title": "SW Engineering Intern (Port Orchard)",
+      "locations": [
+        "Port Orchard, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers-gdms.icims.com/jobs/78349/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/12fa83ee-66ed-48a8-8be6-de384db26caa",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
       "id": "9d3fcce2-6f48-48c0-b3e9-42790148ace3",
       "company": "Global Relay",
       "title": "Co-op Java Developer - Winter 2027",
@@ -5683,6 +5967,31 @@
       "applyUrl": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004",
       "url": "https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3",
       "postedAt": "2026-11-03T21:11:53.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "35dd5def-20a7-4292-881b-f967032f814e",
+      "company": "Hewlett Packard Enterprise | HPE",
+      "title": "Systems/Software Testing Engineer Cloud & On-Premise Intern",
+      "locations": [
+        "San Juan, PR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.hpe.com/us/en/job/HPE1US1218105EXTERNALENUS/Systems-Software-Testing-Engineer-Cloud-On-Premise-Intern",
+      "url": "https://trueinterview.io/jobs/35dd5def-20a7-4292-881b-f967032f814e",
+      "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
@@ -5732,6 +6041,31 @@
       "source": "indeed",
       "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1",
       "url": "https://trueinterview.io/jobs/92f961dc-af3f-4723-a1ce-fe5db949021e",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "93d8df4e-c971-4842-96f9-7b7ecc2c5b60",
+      "company": "Plus3 IT Systems",
+      "title": "Cloud Engineer Intern",
+      "locations": [
+        "Reston, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://p3it.bamboohr.com/careers/37?postedDate=2026-11-04",
+      "url": "https://trueinterview.io/jobs/93d8df4e-c971-4842-96f9-7b7ecc2c5b60",
       "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
@@ -18263,31 +18597,6 @@
       "url": "https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0",
       "postedAt": "2026-10-30T18:41:00.000Z",
       "updatedAt": "2026-10-30T18:41:00.000Z"
-    },
-    {
-      "id": "87c5d0a6-65fc-4f5f-b62f-b30d42a07db3",
-      "company": "Silver Lake Research Corporation",
-      "title": "AI Automation and Agent Development Internship",
-      "locations": [
-        "Azusa, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=2b61246c14948a66",
-      "url": "https://trueinterview.io/jobs/87c5d0a6-65fc-4f5f-b62f-b30d42a07db3",
-      "postedAt": "2026-10-30T18:15:52.000Z",
-      "updatedAt": "2026-10-30T18:15:52.000Z"
     },
     {
       "id": "7345330a-22a4-4c97-bc09-0d817df969af",
@@ -47711,31 +48020,6 @@
       "url": "https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a",
       "postedAt": "2026-10-26T17:43:40.000Z",
       "updatedAt": "2026-10-26T17:43:40.000Z"
-    },
-    {
-      "id": "c665f79e-7f84-4b80-99dd-acf9769e1507",
-      "company": "Meta",
-      "title": "Technical Program Manager Intern, Reality Labs — 2027",
-      "locations": [
-        "Menlo Park, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Hardware & Engineering",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1649069223327170/",
-      "url": "https://trueinterview.io/jobs/c665f79e-7f84-4b80-99dd-acf9769e1507",
-      "postedAt": "2026-10-26T16:52:37.000Z",
-      "updatedAt": "2026-10-26T16:52:37.000Z"
     },
     {
       "id": "8b9c3f8d-649b-41c7-8c7c-8808337f9483",

@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**42 open roles.** 35 in the United States & Canada · 7 elsewhere in the world.
+**43 open roles.** 36 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5">Intern - Firmware Engineer - Fall 2026</a></td>
 <td>Fort Collins, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469048992/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Legrand</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae216860-baad-4890-a279-5c9812e7347f">Firmware Engineering Intern</a></td>
+<td>Reno, NV</td>
+<td align="center"><a href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1809">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

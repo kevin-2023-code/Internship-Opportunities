@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**542 open roles.** 403 in the United States & Canada · 139 elsewhere in the world.
+**545 open roles.** 406 in the United States & Canada · 139 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -132,6 +132,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Axiom Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/074e3ff7-6507-4346-815a-046899c7e74d">AI Developer Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/axiomconsultants/jobs/4268287-499465">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>FM</strong></td>
 <td><a href="https://trueinterview.io/jobs/877585e3-703b-49a7-8706-336ff76c01c1">Research Engineer Intern</a></td>
 <td>Norwood, MA</td>
@@ -157,6 +164,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/12e91040-bc3d-4b11-83af-786119db62b1">AI/ML Intern, Long-Term Memory &amp; Multimodal SLMs for Automotive Agents</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487538929/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amica Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/e651ef98-5a45-456b-af40-495506cdf8d3">Marketing Data Science Intern</a></td>
+<td>Lincoln, Rhode Island, United States</td>
+<td align="center"><a href="https://amica.wd503.myworkdayjobs.com/CareersAmica/job/Lincoln-RI/Marketing-Data-Science-Intern_JR00276">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Walmart</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b9b4b0b-3cb5-4667-97dd-2d7e742d7d7d">(USA) Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern</a></td>
+<td>Bentonville, Arkansas, United States</td>
+<td align="center"><a href="https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-J-Street-Offices-Suite-2-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Last-Mile-Delivery-Data-Science-Intern_R-2686828">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2797,27 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>College Park, MD</td>
 <td align="center"><a href="https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Coinbase</strong></td>
-<td><a href="https://trueinterview.io/jobs/79acc117-007a-4690-94c9-d9af4b520733">People Analytics Intern</a></td>
-<td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ec8f4f85-cf8c-4336-8304-7ada9120867c">Machine Learning Engineer Intern</a></td>
-<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42778b18-ccdf-43b3-a92c-e15b1f4fc238">Analytics Engineer Intern</a></td>
-<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

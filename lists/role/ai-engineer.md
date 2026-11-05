@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**125 open roles.** 89 in the United States & Canada · 36 elsewhere in the world.
+**126 open roles.** 90 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b949ee3d-b003-438c-885b-e302ce84b684">R&amp;D Data Analytics, AI and Production Systems - Summer 2027 Internship (Masters or PhD)</a></td>
 <td>Bloomington, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483083953/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Axiom Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/074e3ff7-6507-4346-815a-046899c7e74d">AI Developer Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/axiomconsultants/jobs/4268287-499465">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

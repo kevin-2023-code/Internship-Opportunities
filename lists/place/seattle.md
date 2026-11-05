@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**94 open roles.**
+**95 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19f2c41-3b4c-4602-8bd3-0050e5626d12">June 2027 Co-Op - Software Engineer Intern</a></td>
+<td>Seattle, Washington, United States<br/>Washington, DC<br/>San Diego, California, United States<br/>+2 more</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f431059-5fe5-4e41-b412-adc16b7f9c9b">Software Engineer, Teamwork Experiences Internship Opportunities</a></td>

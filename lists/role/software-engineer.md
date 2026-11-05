@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**372 open roles.** 307 in the United States & Canada · 65 elsewhere in the world.
+**374 open roles.** 309 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>KeenStack</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fe70514-8cf2-487d-8e33-88a3d7b5111d">ServiceNow Developer Internship</a></td>
+<td>Chandler, AZ</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=f768ac1e26df7405">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lumbermen's</strong></td>
+<td><a href="https://trueinterview.io/jobs/cafd8dc0-65ba-4d1d-8efc-b92a99b899de">Software Developer Internship</a></td>
+<td>Grand Rapids, Michigan, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lumbermens/jobs/5474346008">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/f39e4a39-024b-4502-974b-2823c2b08774">SW Developer Intern | Enterprise Platform-as-a-Service - Durham, NC - 2027</a></td>
@@ -144,6 +158,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19f2c41-3b4c-4602-8bd3-0050e5626d12">June 2027 Co-Op - Software Engineer Intern</a></td>
+<td>Washington, DC<br/>Seattle, Washington, United States<br/>San Diego, California, United States<br/>+2 more</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
@@ -197,13 +218,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911">AI Software Engineering Internship</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487581009/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JM&amp;A Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/6da97825-8951-472e-ad1e-388a1dcfeb41">Software Engineer Intern</a></td>
-<td>Deerfield Beach, Florida, United States</td>
-<td align="center"><a href="https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**47 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Axiom Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/074e3ff7-6507-4346-815a-046899c7e74d">AI Developer Intern</a> 🌐</td>
+<td>Remote — United States<br/>Rockville, MD</td>
+<td align="center"><a href="https://www.applicantpro.com/openings/axiomconsultants/jobs/4268287-499465">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19f2c41-3b4c-4602-8bd3-0050e5626d12">June 2027 Co-Op - Software Engineer Intern</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Seattle, Washington, United States<br/>+2 more</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Mission Technologies, a division of HII</strong></td>
 <td><a href="https://trueinterview.io/jobs/03b998d0-cbc6-46a3-90e4-8d9c3793c5d1">Software Engineer Intern (Multiple Levels) - 30069</a></td>
 <td>Columbia, MD</td>
@@ -29,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc06ea8b-0252-4f41-b26b-c01c9fb9b969">Security Engineer Intern (Security &amp; Privacy) - 2027 Summer</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459271371/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plus3 IT Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/93d8df4e-c971-4842-96f9-7b7ecc2c5b60">Cloud Engineer Intern</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://p3it.bamboohr.com/careers/37?postedDate=2026-11-04">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

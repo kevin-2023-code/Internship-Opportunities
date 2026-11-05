@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**96 open roles.** 65 in the United States & Canada · 31 elsewhere in the world.
+**95 open roles.** 64 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -317,13 +317,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA, Headquarters</td>
 <td align="center"><a href="https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/c665f79e-7f84-4b80-99dd-acf9769e1507">Technical Program Manager Intern, Reality Labs — 2027</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1649069223327170/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Mercedes-Benz Group</strong></td>

@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**27 open roles.** 23 in the United States & Canada · 4 elsewhere in the world.
+**28 open roles.** 24 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -39,7 +39,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Hewlett Packard Enterprise | HPE</strong></td>
+<td><a href="https://trueinterview.io/jobs/35dd5def-20a7-4292-881b-f967032f814e">Systems/Software Testing Engineer Cloud &amp; On-Premise Intern</a></td>
+<td>San Juan, PR</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1218105EXTERNALENUS/Systems-Software-Testing-Engineer-Cloud-On-Premise-Intern">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/0c6382fe-945f-48cb-ad31-08c5df47e673">QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027</a></td>
 <td>Poughkeepsie, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458034499/">Apply</a></td>

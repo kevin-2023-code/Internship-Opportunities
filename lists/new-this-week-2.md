@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,448 open roles.** 1,120 in the United States & Canada · 328 elsewhere in the world. Everything the employers put up this week.
+**1,441 open roles.** 1,118 in the United States & Canada · 323 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,97 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Elevated Web Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8167563-d684-4548-9384-94012d4c333d">Application Software Engineering Internship</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486400023/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NOV</strong></td>
+<td><a href="https://trueinterview.io/jobs/13bacdf0-66a7-4c5b-bd12-3fbcff8bdba8">Marketing and Data Analyst Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/45288">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bank of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19">Global Technology Summer Analyst 2027 - Cybersecurity Analyst</a></td>
+<td>Denver Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477268212/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ParetoHealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/c982ef27-4484-4ac5-9796-a2e3636fd3b0">Software Engineering Summer Intern</a></td>
+<td>Greater Philadelphia<br/>Philadelphia, Pennsylvania, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alaska Airlines</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6cb4a0a-d274-498b-a6a4-76a43f86161c">Intern - Cybersecurity Threat Defense (Summer 2027)</a></td>
+<td>SeaTac, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485474411/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/baa4285d-3385-4b14-8a3f-3fb6210540cc">FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468400152/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alaska Airlines</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a661aca-7d5e-4d7b-8e68-316acd90960d">Intern - Software Engineer (Summer 2027)</a></td>
+<td>SeaTac, WA</td>
+<td align="center"><a href="https://corporatejobs-alaskaair.icims.com/jobs/21277/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Belvedere Trading, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/f44b7f49-da30-4a66-8e43-0c9531eb68cf">Quantitative Trading Intern - Winter Quarter 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449210463/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tecsys Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fd9e789-e403-46b3-bcf7-2a6bb9a361c9">Intern - Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montréal, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/mpivJfdgcSJjT1NuxcHFMi/hybrid-intern---developer-in-montreal-at-tecsys-inc.">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Nuclear Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774">Summer 2027 Software Engineering Intern</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450737699/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Reserve Board</strong></td>
+<td><a href="https://trueinterview.io/jobs/6898ab6e-8813-4b32-879f-9128d14cd3ca">Graduate Intern, UX/UI Design</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486132726/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amway</strong></td>
+<td><a href="https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b">Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)</a></td>
+<td>Ada, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478300807/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Roku</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7">SW Engineer Intern, AI Engineering</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Alaska Airlines</strong></td>
 <td><a href="https://trueinterview.io/jobs/305782cc-b528-49a4-bac4-e6a0f6d58284">Engineering Co-op (Summer 2027)</a></td>
@@ -1196,13 +1287,6 @@
 <td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467599758/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Silver Lake Research Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/87c5d0a6-65fc-4f5f-b62f-b30d42a07db3">AI Automation and Agent Development Internship</a></td>
-<td>Azusa, CA</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=2b61246c14948a66">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2729,90 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/177ec1c6-3f67-4bf1-be01-4f039b17aedc">Civil Engineering Intern - Highway Design</a></td>
 <td>Albany, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475979335/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Swinerton</strong></td>
-<td><a href="https://trueinterview.io/jobs/dda6aa5b-9502-435d-b5a7-534cfe7ba230">Project Engineer Intern</a></td>
-<td>New York, NY<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465904136/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6e205fa-2150-4c67-9847-af59d574ca45">Transportation Engineering Intern- Summer 2027</a></td>
-<td>Las Vegas, NV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466892939/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brunswick Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/70927a9a-39c7-4262-9f7a-0be9dd768348">Mercury Marine: Quality Engineering Co-op</a></td>
-<td>Fond du Lac, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387319/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Black &amp; Veatch</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6eeb58b-cb1d-4e2e-b92c-cd8b40eba77f">Electrical Engineer Intern - BESS</a></td>
-<td>Overland Park, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467165309/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Paylocity</strong></td>
-<td><a href="https://trueinterview.io/jobs/2326a4c1-36ab-41a5-8420-edb6dfe9dea2">Machine Learning Engineer Intern</a></td>
-<td>Pittsford, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472781404/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5799cf2e-a55b-4685-bac4-df4b4f19b734">Software Engineering Intern, AI Labs</a></td>
-<td>Pittsford, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473038702/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OneFourTwo Design Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c55d1302-c49e-41b4-9cd5-021d9d051a47">Structural Engineering Intern (Summer 2027)</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457158508/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brunswick Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5ec33f1-de88-4761-8e7c-f4413825b3d2">Mercury Marine: Drives &amp; Propulsion Systems Engineering Intern</a></td>
-<td>Oshkosh, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459039774/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cargill</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f3060a2-571d-4a66-a762-f19a8e5beaa3">Engineer Co-op January 2027- Multiple U.S Locations</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446669768/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Carrier</strong></td>
-<td><a href="https://trueinterview.io/jobs/afcd1849-c1ea-43cc-b208-b13701865868">Systems Engineering Intern - Summer</a></td>
-<td>Charlotte, NC<br/>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483683210/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/e11f6825-ed98-4027-b7ad-16af24b9fd81">Applications Engineering Internship</a></td>
-<td>Nashville, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485207511/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kiewit</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf06c0d0-0fc2-4fcc-abb2-e3f685a932c1">Design Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
-<td>Lone Tree, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467120693/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

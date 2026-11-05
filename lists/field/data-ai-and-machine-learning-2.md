@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**542 open roles.** 403 in the United States & Canada · 139 elsewhere in the world.
+**545 open roles.** 406 in the United States & Canada · 139 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@
 <tbody>
 <tr>
 <td><strong>Coinbase</strong></td>
+<td><a href="https://trueinterview.io/jobs/79acc117-007a-4690-94c9-d9af4b520733">People Analytics Intern</a></td>
+<td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ec8f4f85-cf8c-4336-8304-7ada9120867c">Machine Learning Engineer Intern</a></td>
+<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42778b18-ccdf-43b3-a92c-e15b1f4fc238">Analytics Engineer Intern</a></td>
+<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
+<td align="center"><a href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/15867854-5a48-4e31-b339-da3b242d4da2">Data Science Intern</a></td>
 <td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
 <td align="center"><a href="https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462">Apply</a></td>
