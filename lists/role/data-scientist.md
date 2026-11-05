@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**91 open roles.** 77 in the United States & Canada · 14 elsewhere in the world.
+**92 open roles.** 78 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Businessolver</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b3d6d3b-ff17-4a8f-9d89-6e2a8ed06f02">Business Intelligence Analyst Internship - Innovation &amp; Data Science (Remote)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479558700/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Omya</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a82a2f7-3228-4521-b6a9-edb0ad0b98ae">Data Scientist Spring Co-Op 2027</a></td>

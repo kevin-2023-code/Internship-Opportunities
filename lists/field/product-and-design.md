@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/2388232c-e4f1-4b10-98a5-bd8507d8f29b">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4277122877/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Clearwater Analytics</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e380b98-d3a0-4d2e-9b59-e4997aff720c">UX/UI/Technical Content Intern</a></td>
 <td>New York, NY</td>
@@ -331,13 +338,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477487079/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PTC</strong></td>
-<td><a href="https://trueinterview.io/jobs/edda1e92-bcb4-49bc-ba52-13e3d27061d7">UI/UX Designer Intern (Summer 2027)</a></td>
-<td>San Mateo County, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485234937/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Signify</strong></td>
