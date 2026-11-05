@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**26 open roles.** 18 in the United States & Canada · 8 elsewhere in the world.
+**28 open roles.** 19 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stevens Capital Management LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c0a2357-f2a1-47c3-bf4f-9c50f3e29512">PhD Internship - Quantitative Research Analyst</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476291715/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621">Quantitative Research Internship - PhD: Summer 2027</a></td>
@@ -157,6 +164,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Tower Research Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5042bf0-9c17-4423-b6c9-7e05d4dcec93">Quantitative Research Internship - 6 Months, Central Execution Research</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453146059/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5a6c41e4-04d7-4ff3-ad6e-8d749e46bbb0">Quantitative Researcher Intern, PhD or Postdoc</a></td>
 <td>Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461595875/">Apply</a></td>

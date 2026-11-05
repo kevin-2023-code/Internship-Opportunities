@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**42 open roles.** 31 in the United States & Canada · 11 elsewhere in the world. Postings the pipeline classified as remote.
+**41 open roles.** 30 in the United States & Canada · 11 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -58,13 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10071">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Deltek</strong></td>
-<td><a href="https://trueinterview.io/jobs/587914f4-d954-4965-b418-2dbc67f2f3dc">Software Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.deltek.com/job/24082210/software-engineering-intern-remote/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Nomad Global Communication Solutions</strong></td>

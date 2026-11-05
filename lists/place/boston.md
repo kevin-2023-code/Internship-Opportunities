@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**116 open roles.**
+**117 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>LSEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8b7698c-c6ad-448f-8b7c-4faecaa07bd4">Intern - Quantitative Services</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478473726/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Johnson &amp; Johnson Innovative Medicine</strong></td>
 <td><a href="https://trueinterview.io/jobs/ceaa4067-0ae4-4cdf-a299-6f78ee4bbc88">AI/ML/Data Science Intern</a></td>

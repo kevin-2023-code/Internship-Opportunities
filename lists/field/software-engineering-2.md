@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,189 open roles.** 983 in the United States & Canada · 206 elsewhere in the world.
+**1,194 open roles.** 987 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>bioMérieux</strong></td>
+<td><a href="https://trueinterview.io/jobs/5eb55ddd-6b2c-45c0-adaf-ad094e4e2e1e">System Engineering Co-op</a></td>
+<td>Hazelwood, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466639886/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cigna Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc456c56-839b-42ad-91f6-b0b25ae44f3d">The Cigna Group's Technology Development Program - Data &amp; Analytics Engineering Track Summer Internship</a></td>
+<td>Bloomfield, Connecticut, United States<br/>St. Louis, Missouri, United States<br/>Morris Plains, New Jersey, United States</td>
+<td align="center"><a href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HPE</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5fab69a-ea64-451e-a690-0379461d7dcb">Software Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/1214146/Software-Engineering-Intern">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/859baf0c-101f-4468-9e84-c0b79093b3f8">Engineering Intern - Design for Reliability (Spring 2027 Co-Op)</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467594882/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Cigna Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd2aca16-b61b-49ad-a9da-b18b9fb8cc6d">The Cigna Group's Technology Development Program - Data &amp; Analytics Engineering Track Summer Internship</a></td>
+<td>Bloomfield, Connecticut, United States<br/>St. Louis, Missouri, United States<br/>Parsippany-Troy Hills, New Jersey, United States</td>
+<td align="center"><a href="https://jobs.thecignagroup.com/us/en/job/26009533/The-Cigna-Group-s-Technology-Development-Program-Data-Analytics-Engineering-Track-Summer-Internship">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lunar Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec076f05-37ac-492a-b5d4-21c36d37ef05">Hardware Test Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485245912/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alamos Gold Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e12466e-4454-4c5b-af0c-9ed201fd2187">Open Pit Engineering Co-op (8 Months)</a></td>
+<td>Dubreuilville, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485248418/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bose Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/8bce5c50-309b-4fbb-a2eb-955ed4a6ea53">Acoustic Systems Engineering Co-op</a></td>
@@ -2403,13 +2452,6 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Deltek</strong></td>
-<td><a href="https://trueinterview.io/jobs/587914f4-d954-4965-b418-2dbc67f2f3dc">Software Engineering Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers.deltek.com/job/24082210/software-engineering-intern-remote/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mide Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e1bfa7d-c9e0-4ba4-9b1c-f5316d6f8e6d">Internship - Software Engineering Intern/ Co-op</a></td>
 <td>Woburn, MA</td>
@@ -2771,48 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/61176f88-307c-4411-ac82-7979fca603a0">Systems Engineering Co-op</a></td>
 <td>Woburn, MA</td>
 <td align="center"><a href="https://careers.rtx.com/global/en/job/01884039">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>United Concordia Dental</strong></td>
-<td><a href="https://trueinterview.io/jobs/9aa9a95b-7095-4540-99e1-2af30e87e4db">Summer 2027 Enterprise Architecture Software Engineer &amp; Architect enGen Undergradute Intern</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Architecture-Software-Engineer---Architect-enGen-Undergradute-Intern_J289821">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3c476d9f-9444-46c5-b988-b74352585863">Summer 2027 Provider Delivery Software Engineer enGen Undergraduate Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9282f783-4fb7-420a-9979-d6e0004179af">Summer 2027 Software Engineer enGen Graduate Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f298b6e5-96d2-459b-b4ab-74652062cc4b">Summer 2027 Software Engineer enGen Undergraduate Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Walt Disney Animation Studios Vancouver</strong></td>
-<td><a href="https://trueinterview.io/jobs/4aca6322-d7d9-4fc6-b54d-a2c0e49888d3">Software Engineer Intern, Pipeline Infrastructure</a></td>
-<td>Vancouver, BC<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://join.disneycareers.com/global/en/job/TWNTWDUS10163949EXTERNALENGLOBAL/Software-Engineer-Intern-Pipeline-Infrastructure">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c88fd33-5cb2-4f4e-a955-8be79171ed66">Spring/Summer 2027 Undergrad Technical Writer Co-Op</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91082?lang=en-us">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 </tbody>
