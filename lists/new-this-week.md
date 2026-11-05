@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,663 open roles.** 1,309 in the United States & Canada · 354 elsewhere in the world. Everything the employers put up this week.
+**1,648 open roles.** 1,297 in the United States & Canada · 351 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Medpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/8045a93e-d9da-4cce-ab87-9b751f4ea69d">Software QA Test Engineer Intern - Spring 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451474423/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plante Moran</strong></td>
+<td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
+<td>Denver, CO<br/>Southfield, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460650736/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621">Quantitative Research Internship - PhD: Summer 2027</a></td>
@@ -50,7 +71,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>
-<td>San Jose, CA</td>
+<td>San Jose, California, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487701762/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
@@ -64,7 +85,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Chicago, IL<br/>Austin, TX<br/>San Jose, CA<br/>+2 more</td>
+<td>Chicago, Illinois, United States<br/>Austin, TX<br/>San Jose, California, United States<br/>+4 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd21ced9-65b5-4592-a2b5-e6817987d044">University - 2027 Summer Games Data Scientist Intern - Charleston, SC</a></td>
 <td>Charleston, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460511422/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aaea4dba-5f88-46ad-b5c6-64884972a6d2">University, 2027 Summer Games Software Developer Intern - Rome, NY</a></td>
-<td>Rome, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460509495/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Publicis Sapient</strong></td>
-<td><a href="https://trueinterview.io/jobs/18568e1f-59e9-4144-9159-cca3211e9166">Product Manager Intern (Class of 2028)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466957557/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Midland States Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/96ddc653-683d-451a-abac-cb0880ce2511">Intern - AI Solutions Engineer</a></td>
-<td>Effingham, IL<br/>St Louis, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485176919/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 </tbody>

@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-05 11:04 UTC_
+_Last updated: 2026-11-05 12:06 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 221 of the 1,101 employers on this list (39% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 221 of the 1,102 employers on this list (39% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,7 +32,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 939 | 205 |
+| [💻 Software Engineering](field/software-engineering.md) | 942 | 205 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 619 | 47 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 393 | 136 |
 | [📱 Product & Design](field/product-and-design.md) | 145 | 49 |
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,035 of the 2,665** internships on this list (39%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,035 of the 2,668** internships on this list (39%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **1,035 of the 2,665** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 20 filters hold **1,358 of the 2,665** internships on this list (51%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 20 filters hold **1,360 of the 2,668** internships on this list (51%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -92,13 +92,13 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Product Manager](role/product-manager.md) | 65 | 30 |
 | [Data Scientist](role/data-scientist.md) | 76 | 14 |
 | [Data Analyst](role/data-analyst.md) | 46 | 34 |
-| [Security Engineer](role/security-engineer.md) | 63 | 6 |
+| [Security Engineer](role/security-engineer.md) | 64 | 6 |
 | [Research Scientist](role/research-scientist.md) | 57 | 11 |
 | [Data Engineer](role/data-engineer.md) | 47 | 10 |
 | [Embedded Engineer](role/embedded-engineer.md) | 34 | 7 |
 | [Quantitative Developer](role/quantitative-developer.md) | 23 | 7 |
+| [QA Engineer](role/qa-engineer.md) | 22 | 4 |
 | [Quantitative Researcher](role/quantitative-researcher.md) | 18 | 8 |
-| [QA Engineer](role/qa-engineer.md) | 21 | 4 |
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 14 | 4 |
 | [Site Reliability Engineer](role/site-reliability-engineer.md) | 9 | 2 |
 | [DevOps Engineer](role/devops-engineer.md) | 8 | 1 |
@@ -112,7 +112,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 33 filters hold **1,578 of the 2,665** internships on this list (59%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 33 filters hold **1,580 of the 2,668** internships on this list (59%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -123,12 +123,12 @@ _Between them these 33 filters hold **1,578 of the 2,665** internships on this l
 | [🌲 Seattle & Puget Sound](place/seattle.md) | 95 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in WA: Seattle, Redmond, Issaquah, Sammamish, Bellevue, Kirkland, Renton, Bothell, Everett, Tacoma. |
 | [🇸🇬 Singapore](place/singapore.md) | 0 | 92 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🤠 Dallas–Fort Worth](place/dallas-fort-worth.md) | 78 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Dallas, Fort Worth, Plano, Irving, Richardson, Frisco, Arlington, Mckinney, Addison. |
-| [🎸 Austin](place/austin.md) | 67 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
+| [🎸 Austin](place/austin.md) | 68 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Austin, Pflugerville, Round Rock, Cedar Park, Bastrop, Georgetown. |
 | [🌧️ Portland, Boise & Spokane](place/pacific-northwest.md) | 58 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Portland OR, Hillsboro OR, Beaverton OR, Eugene OR, Vancouver WA, Spokane WA, Boise ID. |
 | [🏛️ Washington DC & Northern Virginia](place/washington-dc.md) | 47 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Washington Dc, Washington DC, Arlington VA, Alexandria VA, Reston VA, Herndon VA, Mclean VA, Tysons VA, Vienna VA, Bethesda MD, Rockville MD, College Park MD, and 7 more. |
 | [🌬️ Chicago](place/chicago.md) | 45 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in IL: Chicago, Evanston, Naperville, Schaumburg, Deerfield, Oak Brook, Northbrook. |
+| [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 44 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CO: Denver, Boulder, Broomfield, Louisville, Longmont, Colorado Springs, Fort Collins, Golden, Westminster, Aurora. |
 | [🔺 Research Triangle & the Carolinas](place/research-triangle.md) | 44 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: Research Triangle Park, Raleigh NC, Durham NC, Chapel Hill NC, Cary NC, Morrisville NC, Charlotte NC, Greenville SC, Columbia SC. |
-| [🏔️ Denver, Boulder & Colorado](place/denver-boulder.md) | 43 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CO: Denver, Boulder, Broomfield, Louisville, Longmont, Colorado Springs, Fort Collins, Golden, Westminster, Aurora. |
 | [🇬🇧 London & the UK](place/uk.md) | 7 | 30 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🍁 Toronto, Waterloo & Ottawa](place/toronto.md) | 37 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in ON: Toronto, Mississauga, Kitchener, Brampton, Waterloo, Ottawa, Markham, Hamilton, London. |
 | [🏮 Beijing, Shanghai, Taipei & Hong Kong](place/greater-china.md) | 1 | 34 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
@@ -156,11 +156,11 @@ _Between them these 33 filters hold **1,578 of the 2,665** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,696 of the 2,665** internships on this list (64%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,681 of the 2,668** internships on this list (63%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 1,309 | 354 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 1,297 | 351 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 30 | 11 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

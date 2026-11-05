@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,663 open roles.** 1,309 in the United States & Canada · 354 elsewhere in the world. Everything the employers put up this week.
+**1,648 open roles.** 1,297 in the United States & Canada · 351 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/aaea4dba-5f88-46ad-b5c6-64884972a6d2">University, 2027 Summer Games Software Developer Intern - Rome, NY</a></td>
+<td>Rome, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460509495/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Publicis Sapient</strong></td>
+<td><a href="https://trueinterview.io/jobs/18568e1f-59e9-4144-9159-cca3211e9166">Product Manager Intern (Class of 2028)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466957557/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Midland States Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/96ddc653-683d-451a-abac-cb0880ce2511">Intern - AI Solutions Engineer</a></td>
+<td>Effingham, IL<br/>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485176919/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Reflect Orbital</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe">Flight Software Engineering Intern</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/b4573445-ec49-412f-a0e7-e425bdc78f48">2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US</a></td>
 <td>Newport Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460276955/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WhiteWater</strong></td>
-<td><a href="https://trueinterview.io/jobs/a76629c8-a792-4128-b7b0-e83a7f985400">Data Science Intern - Summer 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387129/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>York Space Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/199c5c61-2da9-4986-9526-a4e04fd811fd">Ground Software Engineering Intern</a></td>
-<td>Greenwood Village, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466552755/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c284afe-4bd0-4886-8cca-ae29c799ed86">Electrical Engineering Intern - Summer 2027</a></td>
-<td>Boston, MA<br/>Conshohocken, PA<br/>Indianapolis, IN<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719571/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

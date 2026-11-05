@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,663 open roles.** 1,309 in the United States & Canada · 354 elsewhere in the world. Everything the employers put up this week.
+**1,648 open roles.** 1,297 in the United States & Canada · 351 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WhiteWater</strong></td>
+<td><a href="https://trueinterview.io/jobs/a76629c8-a792-4128-b7b0-e83a7f985400">Data Science Intern - Summer 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387129/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>York Space Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/199c5c61-2da9-4986-9526-a4e04fd811fd">Ground Software Engineering Intern</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466552755/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c284afe-4bd0-4886-8cca-ae29c799ed86">Electrical Engineering Intern - Summer 2027</a></td>
+<td>Boston, MA<br/>Conshohocken, PA<br/>Indianapolis, IN<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719571/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/91eb6e2b-c461-452c-a2b7-44d85c42cfff">Research Intern - Machine Learning and Optimization - Redmond</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/065b187f-259e-4a64-8a58-ec1b1213ff83">Software Engineering Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465942171/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tenstorrent</strong></td>
-<td><a href="https://trueinterview.io/jobs/453128b0-389e-44ad-a25d-7f824b9229a1">AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (USA)</a></td>
-<td>Austin, TX<br/>Austin, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475423635/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GMRE</strong></td>
-<td><a href="https://trueinterview.io/jobs/62641aba-38e3-4960-bb0c-add09792c76a">Web Application Developer Intern</a></td>
-<td>South Weber, Utah, United States<br/>South Ogden, UT</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4621147">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mercury Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca9dd9db-9888-48a7-8403-59f7d29d4fa8">2027 Information &amp; Engineering Systems Intern</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466597016/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

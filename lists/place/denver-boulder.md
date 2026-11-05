@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**43 open roles.**
+**44 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Plante Moran</strong></td>
+<td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
+<td>Denver, CO<br/>Southfield, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460650736/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/c55d1590-d3d4-420f-9c43-7e5a1c8b89c5">Java Software Developer-INTERN</a></td>

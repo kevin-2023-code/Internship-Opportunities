@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**67 open roles.**
+**68 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,9 +18,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Austin, TX<br/>Chicago, IL<br/>San Jose, CA<br/>+2 more</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>Chicago, Illinois, United States<br/>+4 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>

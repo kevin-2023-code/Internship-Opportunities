@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Scottsdale, AZ<br/>Chicago, IL<br/>Austin, TX<br/>+2 more</td>
+<td>Scottsdale, AZ<br/>Scottsdale, Arizona, United States<br/>Chicago, Illinois, United States<br/>+4 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>

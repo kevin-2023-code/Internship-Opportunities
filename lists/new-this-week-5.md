@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,663 open roles.** 1,309 in the United States & Canada · 354 elsewhere in the world. Everything the employers put up this week.
+**1,648 open roles.** 1,297 in the United States & Canada · 351 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,90 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>OLIX</strong></td>
-<td><a href="https://trueinterview.io/jobs/2cbd2038-87ae-42ed-8c19-66e25bcc79a0">Software Engineering Intern</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/olix/a2365ad7-3b5d-4f6e-a917-2586efc6a07e">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad90e731-0a82-415d-abb1-eea2619c22e8">FY27 Intern- AI-Driven Power Modeling for Evaluating Power Management Mechanisms in NoC Architectures - Guyancourt, 6 months</a></td>
-<td>Guyancourt, France</td>
-<td align="center"><a href="https://app.eightfold.ai/careers/job/446721854346?domain=qualcomm.com">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Reonic GmbH</strong></td>
-<td><a href="https://trueinterview.io/jobs/327138e6-000b-43a7-9043-22f41771826a">AI Product Manager Intern - (AI x Greentech) (m/f/d)</a></td>
-<td>Augsburg, Deutschland</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Schneider Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/0985e3ec-ec34-4f0f-b997-d629005f1079">Stage - Business Data Analyst Intern – Corporate Strategy - H/F</a></td>
-<td>Rueil-Malmaison, France</td>
-<td align="center"><a href="https://careers.se.com/jobs/140284/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Gamesa</strong></td>
-<td><a href="https://trueinterview.io/jobs/baffbe9f-94af-45c2-8527-505f88952693">Digitalisation Intern (Software Developer)</a></td>
-<td>Kingston upon Hull, United Kingdom</td>
-<td align="center"><a href="https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Digitalisation-Intern-Software-Developer-/306369">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f65cc0a-e2fe-410f-bac3-932ffaedd132">Machine Learning Engineer Project Intern (Recommendation) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://lifeattiktok.com/search/7686439502455212293">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wood</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa9a27b3-b515-4a3c-9a25-9e7043a6f2d2">Piping Design Engineering- Internship</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33229">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/36190058-7122-4672-839d-89abef092cc3">Piping Stress Engineering - Internship</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33228">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/91e1c008-0700-412b-bc16-6b031ad176ce">Subject Matter Expert - Data Science, Intern</a></td>
-<td>Shenzhen, Guangdong, China</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200689651">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GSK</strong></td>
-<td><a href="https://trueinterview.io/jobs/38c24e82-bb1a-4786-aea2-6fdacb1fd801">Engineering (Multiple Roles and Locations) Industrial Placement, 2027</a></td>
-<td>Ware, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477306162/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>
-<td>Harrow, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6602b67-bb02-4f59-aa17-d62fb6aa63c5">Ground Engineering Intern (Dublin)</a></td>
-<td>Dublin, County Dublin, Ireland<br/>Manchester, England, United Kingdom<br/>Glasgow, Scotland, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484784179/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>CAREER PANACEA</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4fcce79-af6d-45f0-8e21-9adb1ab4ab5b">Civil Engineering Intern - Perth</a></td>
@@ -435,27 +351,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/476588aa-b8b8-4c95-baf6-c110bad88b8f">Big Data Development Engineer Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462158296/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa117f40-ce67-4392-8467-5b7f490aa8d9">Application Engineer Intern - Automotive Products</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484438969/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/42817e29-a2e3-4f52-bf90-23b75e77cb40">Data Science Project Intern (TikTok LIVE) - 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483854953/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Envy Electrical and Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/1af5da58-1088-4948-9927-e073875c4efa">Electrical Engineering Intern</a></td>
-<td>Adelaide, South Australia, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483866385/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

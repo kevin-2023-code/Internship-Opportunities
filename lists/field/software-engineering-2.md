@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,144 open roles.** 939 in the United States & Canada · 205 elsewhere in the world.
+**1,147 open roles.** 942 in the United States & Canada · 205 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AV</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd346008-0f3b-480e-b6e2-b0a46888eef3">GNC / Autonomy Engineering Intern</a></td>
+<td>Simi Valley, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990833/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/befb8b75-f0bb-4aa3-b140-358c85e979a5">Embedded Software Engineer Co-op - Audio Tech</a></td>
+<td>Atlanta, GA<br/>Framingham, MA<br/>Troy, MI<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476946077/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec">Software Engineer &amp; Computer Science - Summer 2027 Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459071669/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Woodward, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0282c47-0150-42b0-abb5-962021d5280f">Engineering Co-op - Design Engineering | Zeeland, MI (Summer 2027)</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/a5c183ff-d9e9-43da-af87-1b1686f6c3ef">Summer 2027: Cybersecurity Compliance Intern</a></td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pebl</strong></td>
-<td><a href="https://trueinterview.io/jobs/04ff52c4-a9c6-458a-89b9-14ef8724b5ca">Software Engineering, Intern</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/49ef0dd0-1107-40df-8daa-f866dea43748">Execution &amp; Topology Software Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872477002?gh_jid=8872477002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e4b887eb-adaa-41f9-8fc8-6c0b397745cb">Guidance, Navigation, and Controls Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872475002?gh_jid=8872475002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 </tbody>

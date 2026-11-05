@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,144 open roles.** 939 in the United States & Canada · 205 elsewhere in the world.
+**1,147 open roles.** 942 in the United States & Canada · 205 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Medpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/8045a93e-d9da-4cce-ab87-9b751f4ea69d">Software QA Test Engineer Intern - Spring 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451474423/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plante Moran</strong></td>
+<td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
+<td>Denver, CO<br/>Southfield, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460650736/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ascend Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/c42fb8b2-c0e1-4f67-9385-c4058169c6df">Intern - Software Engineering</a></td>
 <td>Leawood, KS</td>
@@ -29,7 +50,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Chicago, IL<br/>Austin, TX<br/>San Jose, CA<br/>+2 more</td>
+<td>Chicago, Illinois, United States<br/>Austin, TX<br/>San Jose, California, United States<br/>+4 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/efd2c855-b001-45aa-b656-f6f620ea79f6">Quality Control Engineering Intern</a></td>
 <td>Cranberry Township, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476943476/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AV</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd346008-0f3b-480e-b6e2-b0a46888eef3">GNC / Autonomy Engineering Intern</a></td>
-<td>Simi Valley, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990833/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bose Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/befb8b75-f0bb-4aa3-b140-358c85e979a5">Embedded Software Engineer Co-op - Audio Tech</a></td>
-<td>Atlanta, GA<br/>Framingham, MA<br/>Troy, MI<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476946077/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/1aaf7e5f-89cc-466a-a684-fce0c6b946ec">Software Engineer &amp; Computer Science - Summer 2027 Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459071669/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

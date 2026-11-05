@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**25 open roles.** 21 in the United States & Canada · 4 elsewhere in the world.
+**26 open roles.** 22 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Medpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/8045a93e-d9da-4cce-ab87-9b751f4ea69d">Software QA Test Engineer Intern - Spring 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451474423/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/7b6de084-55c4-40d6-b85d-9a27a09a7fed">QA/Test Engineer Intern-Tucson, AZ</a></td>

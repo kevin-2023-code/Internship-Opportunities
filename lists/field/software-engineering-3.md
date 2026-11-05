@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,144 open roles.** 939 in the United States & Canada · 205 elsewhere in the world.
+**1,147 open roles.** 942 in the United States & Canada · 205 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Pebl</strong></td>
+<td><a href="https://trueinterview.io/jobs/04ff52c4-a9c6-458a-89b9-14ef8724b5ca">Software Engineering, Intern</a></td>
+<td>Toronto, Ontario</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Wing</strong></td>
+<td><a href="https://trueinterview.io/jobs/49ef0dd0-1107-40df-8daa-f866dea43748">Execution &amp; Topology Software Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872477002?gh_jid=8872477002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e4b887eb-adaa-41f9-8fc8-6c0b397745cb">Guidance, Navigation, and Controls Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872475002?gh_jid=8872475002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1b05c10d-5b0e-4616-b9e3-3a290536bb84">Logistics Systems Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872483002?gh_jid=8872483002">Apply</a></td>
