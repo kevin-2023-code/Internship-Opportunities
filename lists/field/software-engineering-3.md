@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,138 open roles.** 934 in the United States & Canada · 204 elsewhere in the world.
+**1,140 open roles.** 936 in the United States & Canada · 204 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wing</strong></td>
+<td><a href="https://trueinterview.io/jobs/61279f54-046a-4353-afef-73003a117e4e">Software Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872476002?gh_jid=8872476002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cb2ebca-283f-4151-9d17-9c69dd97e991">HPC – AI Networking Intern - Network Transport</a></td>
+<td>Fort Collins, Colorado, United States of America<br/>Chippewa Falls, Wisconsin</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Netflix</strong></td>
 <td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,668 open roles.** 1,307 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
+**1,669 open roles.** 1,308 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459077236/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GPD Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d7bf8f4-284d-4192-b580-21169ae6caf6">Civil Engineering Co-op: Power</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465795620/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a27a86a-b26f-499a-adfa-73eddfd86f82">Data &amp; Control Systems Engineer Intern</a></td>
@@ -755,13 +769,6 @@
 <td><a href="https://trueinterview.io/jobs/dee4702a-40d8-44cd-947f-9900b374de96">Software Engineer Co-op</a></td>
 <td>Burnaby, Canada</td>
 <td align="center"><a href="https://xradar.bamboohr.com/careers/203?postedDate=2026-10-28">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec</strong></td>
-<td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
-<td>Schenectady, NY</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/38c24e82-bb1a-4786-aea2-6fdacb1fd801">Engineering (Multiple Roles and Locations) Industrial Placement, 2027</a></td>
 <td>Ware, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477306162/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>
-<td>Harrow, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

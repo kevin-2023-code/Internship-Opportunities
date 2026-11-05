@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,668 open roles.** 1,307 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
+**1,669 open roles.** 1,308 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>South Jersey Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ac43e71-c200-45e8-976d-5902998d6872">Renewable Energy Engineering Process Safety Documentation Intern</a></td>
+<td>Folsom, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476934981/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
+<td>Holland, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41">Robotics Software Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476354109/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verkada</strong></td>
-<td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459077236/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GPD Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d7bf8f4-284d-4192-b580-21169ae6caf6">Civil Engineering Co-op: Power</a></td>
-<td>Columbus, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465795620/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

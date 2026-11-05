@@ -69,7 +69,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
-<td>Marlborough, MA<br/>Maple Grove, MN</td>
+<td>Marlborough, MA<br/>Maple Grove, MN<br/>Georgetown, Massachusetts, United States<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487520849/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>

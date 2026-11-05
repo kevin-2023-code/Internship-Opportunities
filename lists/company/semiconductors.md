@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**267 open roles.** 227 in the United States & Canada · 40 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**266 open roles.** 226 in the United States & Canada · 40 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1030,13 +1030,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/63e9eca4-61a7-4d31-a984-7aa10a4c3e06">Intern - Signal Integrity</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44702761">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183">Digital Design Verification Engineering Intern</a></td>
-<td>Santa Clara, CA, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>

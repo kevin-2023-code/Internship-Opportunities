@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,668 open roles.** 1,307 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
+**1,669 open roles.** 1,308 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -31,6 +31,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SK hynix memory solutions America Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6894f916-9e2f-4d49-bd4f-11801a9c0841">Software Engineer Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -337,7 +344,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
-<td>Marlborough, MA<br/>Maple Grove, MN</td>
+<td>Marlborough, MA<br/>Maple Grove, MN<br/>Georgetown, Massachusetts, United States<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487520849/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
@@ -944,6 +951,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>CACI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b17838bd-87e3-4ae2-a4a9-ca6ff3748496">Software Engineering Co-op/Intern - Summer 2027</a></td>
+<td>Rochester, New York, United States</td>
+<td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-summer-2027-rochester-ny-us">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Great American Insurance Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/77bc7cc3-c8de-4b28-b645-4fdf6ecd6713">Business Intelligence (Power BI) Intern - Summer 2027</a></td>
 <td>Cincinnati, Ohio, United States</td>
@@ -974,7 +988,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/07cfb136-42bd-4edd-b4a9-775c31211786">2027 Spring Co-op Software Engineer Intern – McClellan CA</a></td>
-<td>McClellan Place, California, United States</td>
+<td>McClellan Place, California, United States<br/>McClellan Park, California, United States</td>
 <td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/69e5faca-7984-437d-bb4d-2db4846e7443">FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485154648/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DICK'S Sporting Goods</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e485a72-2598-41e1-85d4-d7819506a004">Cybersecurity - Summer 2027 Corporate Internship</a></td>
-<td>Coraopolis, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475227979/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Atomics</strong></td>
-<td><a href="https://trueinterview.io/jobs/22b7cf02-1e3d-432b-96d6-cf4399f69ac6">Intern - Software/ Computer Engineering, Computer Science</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469535507/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

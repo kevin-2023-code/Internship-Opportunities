@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,138 open roles.** 934 in the United States & Canada · 204 elsewhere in the world.
+**1,140 open roles.** 936 in the United States & Canada · 204 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SK hynix memory solutions America Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6894f916-9e2f-4d49-bd4f-11801a9c0841">Software Engineer Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -120,7 +127,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
-<td>Marlborough, MA<br/>Maple Grove, MN</td>
+<td>Marlborough, MA<br/>Maple Grove, MN<br/>Georgetown, Massachusetts, United States<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487520849/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
@@ -468,6 +475,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>CACI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b17838bd-87e3-4ae2-a4a9-ca6ff3748496">Software Engineering Co-op/Intern - Summer 2027</a></td>
+<td>Rochester, New York, United States</td>
+<td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-summer-2027-rochester-ny-us">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae30db5e-2a5c-4795-9dad-a613aa88b931">2027 Cybersecurity Software Engineering Intern - Roy UT</a></td>
 <td>Clearfield, Utah, United States</td>
@@ -491,7 +505,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/07cfb136-42bd-4edd-b4a9-775c31211786">2027 Spring Co-op Software Engineer Intern – McClellan CA</a></td>
-<td>McClellan Place, California, United States</td>
+<td>McClellan Place, California, United States<br/>McClellan Park, California, United States</td>
 <td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc3e409d-fd1c-4816-9603-843ed5988068">Year at Palantir - Forward Deployed Software Engineer, Internship - USG</a></td>
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4414777718/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>York Space Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/199c5c61-2da9-4986-9526-a4e04fd811fd">Ground Software Engineering Intern</a></td>
-<td>Greenwood Village, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466552755/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Two Six Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b67b2dd-4bc9-4e7d-9ec2-e581066f9467">Systems Software Engineering Intern</a></td>
-<td>Arlington, Virginia, United States<br/>Arlington, VA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

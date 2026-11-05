@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**665 open roles.** 619 in the United States & Canada · 46 elsewhere in the world.
+**664 open roles.** 618 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -517,13 +517,6 @@
 <td><a href="https://trueinterview.io/jobs/58322058-d385-4509-8b7c-75b5c7fd8d46">Quality Control Intern</a></td>
 <td>De Soto, Kansas, United States</td>
 <td align="center"><a href="https://careers.na.panasonic.com/jobs/51283?lang=en-us">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183">Digital Design Verification Engineering Intern</a></td>
-<td>Santa Clara, CA, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>

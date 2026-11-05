@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,668 open roles.** 1,307 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
+**1,669 open roles.** 1,308 in the United States & Canada · 361 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DICK'S Sporting Goods</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e485a72-2598-41e1-85d4-d7819506a004">Cybersecurity - Summer 2027 Corporate Internship</a></td>
+<td>Coraopolis, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475227979/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/22b7cf02-1e3d-432b-96d6-cf4399f69ac6">Intern - Software/ Computer Engineering, Computer Science</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469535507/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Federal Reserve Board</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf3b9a46-a3e9-43cc-b8a9-60666a254d86">Summer 2027 Intern – Software Developer – IT</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/f8ebdfca-c03e-46f2-8491-b5d0b2212d3f">Drainage Engineer Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
 <td>Lone Tree, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467118703/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>South Jersey Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ac43e71-c200-45e8-976d-5902998d6872">Renewable Energy Engineering Process Safety Documentation Intern</a></td>
-<td>Folsom, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476934981/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
-<td>Holland, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**121 open roles.** 114 in the United States & Canada · 7 elsewhere in the world.
+**120 open roles.** 113 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -555,13 +555,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1">Apply</a></td>
 <td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183">Digital Design Verification Engineering Intern</a></td>
-<td>Santa Clara, CA, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380">Apply</a></td>
-<td align="center">28 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>

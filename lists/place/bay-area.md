@@ -27,6 +27,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>SK hynix memory solutions America Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6894f916-9e2f-4d49-bd4f-11801a9c0841">Software Engineer Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Mercedes-Benz Research &amp; Development North America, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/12e91040-bc3d-4b11-83af-786119db62b1">AI/ML Intern, Long-Term Memory &amp; Multimodal SLMs for Automotive Agents</a></td>
 <td>San Jose, CA</td>
@@ -2244,13 +2251,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397892835">Apply</a></td>
 <td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dce90fd-dad0-47c5-9102-a6f303872183">Digital Design Verification Engineering Intern</a></td>
-<td>Santa Clara, CA, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380">Apply</a></td>
-<td align="center">28 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Pebl</strong></td>

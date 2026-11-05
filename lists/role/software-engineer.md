@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**355 open roles.** 291 in the United States & Canada · 64 elsewhere in the world.
+**356 open roles.** 292 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SK hynix memory solutions America Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/6894f916-9e2f-4d49-bd4f-11801a9c0841">Software Engineer Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -195,7 +202,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/07cfb136-42bd-4edd-b4a9-775c31211786">2027 Spring Co-op Software Engineer Intern – McClellan CA</a></td>
-<td>McClellan Place, California, United States</td>
+<td>McClellan Place, California, United States<br/>McClellan Park, California, United States</td>
 <td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
