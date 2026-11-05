@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**112 open roles.** 85 in the United States & Canada · 27 elsewhere in the world.
+**116 open roles.** 89 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mercedes-Benz Research &amp; Development North America, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/12e91040-bc3d-4b11-83af-786119db62b1">AI/ML Intern, Long-Term Memory &amp; Multimodal SLMs for Automotive Agents</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487538929/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ac84e9-41bb-46f2-add7-79ce33c711fc">Internship - Machine Learning and image-based EUV system setup</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487578597/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4be514c-5228-4ce5-b474-32a282527ddd">DSP/ML Research Engineer Co-op | Spring 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487555852/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6f65bdf1-c1d3-4c0a-ae79-4b0ae64d99ed">DSP/ML Research Engineer Intern | Summer 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487561849/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RoboForce</strong></td>
+<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Toyota Research Institute</strong></td>
 <td><a href="https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d">Automated Driving Advanced Development Intern, Machine Learning Research</a></td>
@@ -93,13 +128,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4425105258/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RoboForce</strong></td>
-<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Engramme</strong></td>

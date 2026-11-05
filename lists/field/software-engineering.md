@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,133 open roles.** 932 in the United States & Canada · 201 elsewhere in the world.
+**1,134 open roles.** 933 in the United States & Canada · 201 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Express Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e7d9d10-181d-47b0-af9b-6bc9b760d482">BI Developer Intern (Summer 2027)</a></td>
+<td>Memphis, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487592052/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/05f39d5d-9802-433d-9298-8bb4937ef79b">Software Development Engineer Intern</a></td>
@@ -777,13 +791,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/235134df-418d-4966-afd4-57d50eb5a109">Software Engineering Intern, AIML Platform - HP IQ</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9">Software Engineering Intern, Product &amp; Developer Productivity - HP IQ</a></td>
 <td>San Francisco, California, United States</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/379515a8-66a7-47ea-90df-32a5c87d2b15">Application Engineering Intern (Year-Round)</a></td>
 <td>Troy, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467906401/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e3552c0-99ab-4bb9-ab07-48b3ba4df6f3">Water Engineering Intern – Summer 2027</a></td>
-<td>Kansas City, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387970/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

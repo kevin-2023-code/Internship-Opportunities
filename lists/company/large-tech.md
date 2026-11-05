@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**112 open roles.** 103 in the United States & Canada · 9 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**113 open roles.** 104 in the United States & Canada · 9 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478153489/">Apply</a></td>

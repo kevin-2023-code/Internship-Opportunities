@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,651 open roles.** 1,298 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
+**1,657 open roles.** 1,304 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Johnson &amp; Johnson MedTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fb69dbb-8fff-47cc-845d-20e2ec3d1edf">GTO Manufacturing Engineering Co-Op</a></td>
+<td>Cornelia, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468295762/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth of Massachusetts</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc4ab13f-f45c-48c0-9926-207be117a126">HR Business Intelligence Co-op Spring 2027</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL&amp;lang=en">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brunswick Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fa28736-6688-4317-9412-6237bcfb7152">Mechanical Engineer Co-op/Intern</a></td>
+<td>Lowell, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458501648/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a243593-489b-4422-964d-ac343a3cc51a">Software Engineering Co-op</a></td>
+<td>Liberty, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976336/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fc731646-0b5f-4d59-8125-9a741cea6751">Test Engineering Intern</a></td>
+<td>Norman, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970440/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GAF</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b2a365f-62d4-4735-b602-1799b47fe16c">Project Engineer Co-Op</a></td>
+<td>Shafter, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474800254/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Alcon</strong></td>
+<td><a href="https://trueinterview.io/jobs/77673275-3f77-4939-8fa6-0cbb4e7d338c">2027 Spring/Summer LS Engineering Co-op</a></td>
+<td>Johns Creek, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476769759/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hubbell Incorporated</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c069389-184b-4e33-865f-e74ac92e35e7">2027 Summer Intern: Engineering - Mechanical</a></td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/be6a9569-9306-4e90-b291-e1fd618c9853">GE Vernova Controls Product Management Intern - Summer 2027</a></td>
 <td>Greenville, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459003223/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GPD Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ae20f74-b785-404f-b01e-852f2dcd8f90">Electrical Engineering Co-op: Energy</a></td>
-<td>Akron, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466148326/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Old Mission</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1fd3975-2a33-45d9-8438-c35e5e75972d">Software Engineer – 2027 Internship Program (June Start)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869900/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476335675/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Campbell's Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc77f98-06ff-45dc-92ac-b620003f8012">Packaging Engineer Co-Op</a></td>
-<td>Camden, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466564453/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Whitman, Requardt and Associates, LLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9bd87ad-8170-4403-a5c5-0c74eba12b02">Protective Design Engineer - Intern</a></td>
-<td>Baltimore, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879559/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/680a185c-3a0e-452d-a1ae-14c17bd510de">Integrated Performance Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476349155/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

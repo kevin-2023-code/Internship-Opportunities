@@ -5,9 +5,140 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T01:05:07.636Z",
-  "count": 2624,
+  "listingsChangedAt": "2026-11-05T02:06:40.996Z",
+  "count": 2631,
   "listings": [
+    {
+      "id": "5f421082-7f85-4a37-aa05-b93620c27b4d",
+      "company": "Figma",
+      "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+      "locations": [
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486525946/",
+      "url": "https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d",
+      "postedAt": "2026-11-05T01:25:00.000Z",
+      "updatedAt": "2026-11-05T01:25:00.000Z"
+    },
+    {
+      "id": "cda34f92-806f-4431-8a06-96332f68b17d",
+      "company": "Thomson Reuters",
+      "title": "Research Scientist Intern",
+      "locations": [
+        "Eagan, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486550129/",
+      "url": "https://trueinterview.io/jobs/cda34f92-806f-4431-8a06-96332f68b17d",
+      "postedAt": "2026-11-05T00:54:00.000Z",
+      "updatedAt": "2026-11-05T00:54:00.000Z"
+    },
+    {
+      "id": "12e91040-bc3d-4b11-83af-786119db62b1",
+      "company": "Mercedes-Benz Research & Development North America, Inc.",
+      "title": "AI/ML Intern, Long-Term Memory & Multimodal SLMs for Automotive Agents",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487538929/",
+      "url": "https://trueinterview.io/jobs/12e91040-bc3d-4b11-83af-786119db62b1",
+      "postedAt": "2026-11-05T00:48:00.000Z",
+      "updatedAt": "2026-11-05T00:48:00.000Z"
+    },
+    {
+      "id": "3e7d9d10-181d-47b0-af9b-6bc9b760d482",
+      "company": "Federal Express Corporation",
+      "title": "BI Developer Intern (Summer 2027)",
+      "locations": [
+        "Memphis, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487592052/",
+      "url": "https://trueinterview.io/jobs/3e7d9d10-181d-47b0-af9b-6bc9b760d482",
+      "postedAt": "2026-11-05T00:46:00.000Z",
+      "updatedAt": "2026-11-05T00:46:00.000Z"
+    },
+    {
+      "id": "18ac84e9-41bb-46f2-add7-79ce33c711fc",
+      "company": "ASML",
+      "title": "Internship - Machine Learning and image-based EUV system setup",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Hardware & Engineering",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487578597/",
+      "url": "https://trueinterview.io/jobs/18ac84e9-41bb-46f2-add7-79ce33c711fc",
+      "postedAt": "2026-11-05T00:45:00.000Z",
+      "updatedAt": "2026-11-05T00:45:00.000Z"
+    },
     {
       "id": "13d48f2e-b54c-4b96-9a2c-5b1cd3b49610",
       "company": "IBM",
@@ -261,6 +392,106 @@
       "url": "https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "f4be514c-5228-4ce5-b474-32a282527ddd",
+      "company": "Bose Corporation",
+      "title": "DSP/ML Research Engineer Co-op | Spring 2027",
+      "locations": [
+        "Framingham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487555852/",
+      "url": "https://trueinterview.io/jobs/f4be514c-5228-4ce5-b474-32a282527ddd",
+      "postedAt": "2026-11-04T23:59:00.000Z",
+      "updatedAt": "2026-11-04T23:59:00.000Z"
+    },
+    {
+      "id": "6f65bdf1-c1d3-4c0a-ae79-4b0ae64d99ed",
+      "company": "Bose Corporation",
+      "title": "DSP/ML Research Engineer Intern | Summer 2027",
+      "locations": [
+        "Framingham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487561849/",
+      "url": "https://trueinterview.io/jobs/6f65bdf1-c1d3-4c0a-ae79-4b0ae64d99ed",
+      "postedAt": "2026-11-04T23:59:00.000Z",
+      "updatedAt": "2026-11-04T23:59:00.000Z"
+    },
+    {
+      "id": "b516cb3f-8291-4649-8121-48cc808e0468",
+      "company": "Constellation Brands",
+      "title": "Intern, AI & Automation Engineering",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487572240/",
+      "url": "https://trueinterview.io/jobs/b516cb3f-8291-4649-8121-48cc808e0468",
+      "postedAt": "2026-11-04T23:59:00.000Z",
+      "updatedAt": "2026-11-04T23:59:00.000Z"
+    },
+    {
+      "id": "212f56f2-60ba-42ca-9bde-1ec79cd8ce05",
+      "company": "RoboForce",
+      "title": "Machine Learning Engineer Intern, AI & Robotics",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487058885/",
+      "url": "https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05",
+      "postedAt": "2026-11-03T23:59:00.000Z",
+      "updatedAt": "2026-11-04T23:59:00.000Z"
     },
     {
       "id": "10af8991-996f-4468-9664-3456338b510c",
@@ -3978,31 +4209,6 @@
       "updatedAt": "2026-11-04T00:00:00.000Z"
     },
     {
-      "id": "212f56f2-60ba-42ca-9bde-1ec79cd8ce05",
-      "company": "RoboForce",
-      "title": "Machine Learning Engineer Intern, AI & Robotics",
-      "locations": [
-        "Milpitas, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487058885/",
-      "url": "https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05",
-      "postedAt": "2026-11-03T23:59:00.000Z",
-      "updatedAt": "2026-11-03T23:59:00.000Z"
-    },
-    {
       "id": "b994938b-957c-4392-b701-5e5da1f5d7a3",
       "company": "KEEN",
       "title": "AI Product Management Intern",
@@ -6556,33 +6762,6 @@
       "source": "indeed",
       "applyUrl": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25749&siteid=5764&PageType=JobDetails&jobid=772259",
       "url": "https://trueinterview.io/jobs/62c1b31d-fac4-435e-a594-3742c51e7c90",
-      "postedAt": "2026-11-03T06:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
-      "id": "235134df-418d-4966-afd4-57d50eb5a109",
-      "company": "HP",
-      "title": "Software Engineering Intern, AIML Platform - HP IQ",
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1",
-      "url": "https://trueinterview.io/jobs/235134df-418d-4966-afd4-57d50eb5a109",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },

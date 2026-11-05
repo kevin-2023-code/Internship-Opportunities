@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**76 open roles.** 46 in the United States & Canada · 30 elsewhere in the world.
+**77 open roles.** 47 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Federal Express Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e7d9d10-181d-47b0-af9b-6bc9b760d482">BI Developer Intern (Summer 2027)</a></td>
+<td>Memphis, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487592052/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microchip Technology Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/096efb99-6e84-4f75-825d-2bd71c0a687b">Intern (Data Analyst)</a></td>

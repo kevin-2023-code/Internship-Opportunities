@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,651 open roles.** 1,298 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
+**1,657 open roles.** 1,304 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>GPD Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ae20f74-b785-404f-b01e-852f2dcd8f90">Electrical Engineering Co-op: Energy</a></td>
+<td>Akron, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466148326/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Old Mission</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1fd3975-2a33-45d9-8438-c35e5e75972d">Software Engineer – 2027 Internship Program (June Start)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869900/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476335675/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Campbell's Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cc77f98-06ff-45dc-92ac-b620003f8012">Packaging Engineer Co-Op</a></td>
+<td>Camden, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466564453/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Whitman, Requardt and Associates, LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9bd87ad-8170-4403-a5c5-0c74eba12b02">Protective Design Engineer - Intern</a></td>
+<td>Baltimore, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879559/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/680a185c-3a0e-452d-a1ae-14c17bd510de">Integrated Performance Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476349155/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ashby</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab7db9a7-5792-4595-9bcf-be7ed0e58ed3">Software Engineer – 2027 Internship Program (June Start)</a></td>
@@ -692,13 +741,6 @@
 <td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
 <td>Schenectady, NY</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>UPS</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f49e85d-a4b7-4258-81e2-89ae961e8df5">2027 Americas Region Industrial Engineering Summer Intern</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467894974/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
@@ -2783,48 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f4a297cc-b3af-459c-9114-6cc31748fb12">UX Engineer - Internship(EN)</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481212598/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Science</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f576a8c-f395-47d6-854f-44b5f1d9cc25">Applied Scientist Intern</a></td>
-<td>Zurich, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482557727/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patel, Greene &amp; Associates, LLC (PGA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/71079210-d575-41ef-80a5-f265cee587a1">Roadway Engineer Intern</a></td>
-<td>Greater Orlando</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484740780/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cohesity</strong></td>
-<td><a href="https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793">Technical Support Engineer - Intern</a></td>
-<td>Cork Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727816/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/94faeae1-9275-491c-82a4-a657ac7d6bd4">NLP Research Intern</a></td>
-<td>Seoul Incheon Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466027882/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/782e88f6-3982-4dfa-a440-6ae1fbdf026d">Data Science Intern (Analytics), 6-month internship</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461104774/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FlightSafety International</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
-<td>Greater St. Louis</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

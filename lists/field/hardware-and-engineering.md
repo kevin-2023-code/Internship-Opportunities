@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**664 open roles.** 618 in the United States & Canada · 46 elsewhere in the world.
+**665 open roles.** 619 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ac84e9-41bb-46f2-add7-79ce33c711fc">Internship - Machine Learning and image-based EUV system setup</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487578597/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Badger Meter</strong></td>
 <td><a href="https://trueinterview.io/jobs/6784ee1c-a5da-4e17-a22f-b35b662bd435">Firmware Test Engineer Intern</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de205d4f-e726-470c-9005-6761e67ccc71">Electrical Engineering Labs Intern</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4e772a37-c89e-4f70-90e1-3a7d226baabe">PCB Layout Automation Intern</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/PCB-Layout-Automation-Intern_1214127">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

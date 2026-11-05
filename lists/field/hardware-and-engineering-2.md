@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**664 open roles.** 618 in the United States & Canada · 46 elsewhere in the world.
+**665 open roles.** 619 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e772a37-c89e-4f70-90e1-3a7d226baabe">PCB Layout Automation Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/PCB-Layout-Automation-Intern_1214127">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Lumentum</strong></td>
 <td><a href="https://trueinterview.io/jobs/8459bf73-1390-4087-b3cf-ae014cfa3818">Internship - MOCVD Process Engineer</a></td>

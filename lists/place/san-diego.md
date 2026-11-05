@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**33 open roles.**
+**34 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ac84e9-41bb-46f2-add7-79ce33c711fc">Internship - Machine Learning and image-based EUV system setup</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487578597/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/30058373-b075-47da-8abe-e28d292a1cab">Internship- Business Systems AI</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487200173/">Apply</a></td>

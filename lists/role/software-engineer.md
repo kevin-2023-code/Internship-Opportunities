@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**353 open roles.** 290 in the United States & Canada · 63 elsewhere in the world.
+**354 open roles.** 291 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/05f39d5d-9802-433d-9298-8bb4937ef79b">Software Development Engineer Intern</a></td>

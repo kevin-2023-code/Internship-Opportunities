@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,651 open roles.** 1,298 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
+**1,657 open roles.** 1,304 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ancestry</strong></td>
+<td><a href="https://trueinterview.io/jobs/810f1fad-abe2-4f59-8440-76cb33aa98aa">Machine Learning Engineer, Co-op</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477858941/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aether Field</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dc7e81c-3144-460e-b281-c9a127446d06">Programmer Analyst Intern</a></td>
+<td>Waller, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483945656/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Copart</strong></td>
+<td><a href="https://trueinterview.io/jobs/03d83d40-c25b-4c02-8240-7949f8325956">Software Engineering Intern</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441252060/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Reserve Board</strong></td>
+<td><a href="https://trueinterview.io/jobs/63f09f83-2803-4380-9560-0f7123f67ff2">Summer 2027 Intern – Cloud Engineer – IT</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477846467/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
+<td>San Luis Obispo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483943670/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Celestica</strong></td>
+<td><a href="https://trueinterview.io/jobs/5aa0a310-b1c8-4efe-858a-5745f4abcbe8">Student Intern, AI / Data Science</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468015714/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SageSure</strong></td>
+<td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
+<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Bitdeer (NASDAQ: BTDR)</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ddba54d-9ef1-4d9e-ac1b-b57787c8bf80">Research Engineer-Model Efficiency (Intern)</a></td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6a0a01f4-c07e-45d9-8938-e2a41f1d35b3">IT Support Intern</a></td>
 <td>Sunset Hills, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484980149/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Johnson &amp; Johnson MedTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fb69dbb-8fff-47cc-845d-20e2ec3d1edf">GTO Manufacturing Engineering Co-Op</a></td>
-<td>Cornelia, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468295762/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth of Massachusetts</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc4ab13f-f45c-48c0-9926-207be117a126">HR Business Intelligence Co-op Spring 2027</a></td>
-<td>Boston, Massachusetts, United States</td>
-<td align="center"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006KL&amp;lang=en">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brunswick Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fa28736-6688-4317-9412-6237bcfb7152">Mechanical Engineer Co-op/Intern</a></td>
-<td>Lowell, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458501648/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a243593-489b-4422-964d-ac343a3cc51a">Software Engineering Co-op</a></td>
-<td>Liberty, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976336/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc731646-0b5f-4d59-8125-9a741cea6751">Test Engineering Intern</a></td>
-<td>Norman, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970440/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GAF</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b2a365f-62d4-4735-b602-1799b47fe16c">Project Engineer Co-Op</a></td>
-<td>Shafter, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474800254/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Alcon</strong></td>
-<td><a href="https://trueinterview.io/jobs/77673275-3f77-4939-8fa6-0cbb4e7d338c">2027 Spring/Summer LS Engineering Co-op</a></td>
-<td>Johns Creek, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476769759/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**119 open roles.** 86 in the United States & Canada · 33 elsewhere in the world.
+**120 open roles.** 87 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/b516cb3f-8291-4649-8121-48cc808e0468">Intern, AI &amp; Automation Engineering</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487572240/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Smith+Nephew</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7110df1-1ec3-4c94-b045-bb563cc5a1da">Intern AI Engineer R&amp;D</a></td>

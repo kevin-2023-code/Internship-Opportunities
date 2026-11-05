@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,133 open roles.** 932 in the United States & Canada · 201 elsewhere in the world.
+**1,134 open roles.** 933 in the United States & Canada · 201 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e3552c0-99ab-4bb9-ab07-48b3ba4df6f3">Water Engineering Intern – Summer 2027</a></td>
+<td>Kansas City, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387970/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Burns &amp; McDonnell</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a45a4ab-1bda-4d66-aa16-6174996f1785">Software Developer Intern - Aviation &amp; Federal (Kansas City)</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>
 <td>Los Gatos, California, United States of America</td>
 <td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/206eeeb0-0dd4-4548-9a68-8232302d0e76">Enterprise Platform Technical Marketing Engineer Intern - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397828680">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**509 open roles.** 382 in the United States & Canada · 127 elsewhere in the world.
+**514 open roles.** 387 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/cda34f92-806f-4431-8a06-96332f68b17d">Research Scientist Intern</a></td>
+<td>Eagan, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486550129/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercedes-Benz Research &amp; Development North America, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/12e91040-bc3d-4b11-83af-786119db62b1">AI/ML Intern, Long-Term Memory &amp; Multimodal SLMs for Automotive Agents</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487538929/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4be514c-5228-4ce5-b474-32a282527ddd">DSP/ML Research Engineer Co-op | Spring 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487555852/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6f65bdf1-c1d3-4c0a-ae79-4b0ae64d99ed">DSP/ML Research Engineer Intern | Summer 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487561849/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/b516cb3f-8291-4649-8121-48cc808e0468">Intern, AI &amp; Automation Engineering</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487572240/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RoboForce</strong></td>
+<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hira</strong></td>
 <td><a href="https://trueinterview.io/jobs/75bd697e-0f0a-478f-8eb7-b62ddf3d895f">Data Engineer Intern (Summer 2027)</a></td>
@@ -368,13 +410,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4425105258/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RoboForce</strong></td>
-<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Engramme</strong></td>
@@ -2794,41 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/366d443e-a4ac-48ea-b039-3cbea68b998a">AI Implementation Intern</a></td>
 <td>Greater Houston</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487057263/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Atlas AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/a29b6c75-bec8-4db8-ae6b-4dc97fb96667">AI Data Engineer Intern</a></td>
-<td>Greater Indianapolis</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486089480/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ece4e509-afc1-4791-8423-a7c24a851fb5">Software Engineering Intern, AI Agent Test Development - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477932693/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Spearmint technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc">Full Stack AI Developer Intern</a> 🌐</td>
-<td>Remote — India</td>
-<td align="center"><a href="https://in.indeed.com/viewjob?jk=7cb2271a0ae03786">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Informa</strong></td>
-<td><a href="https://trueinterview.io/jobs/647f9873-243e-4742-b4ca-411cf5b46aef">Data Analyst Internship</a></td>
-<td>Amsterdam, Netherlands</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/InformaGroupPlc/744000159322318-data-analyst-internship">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ledger</strong></td>
-<td><a href="https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625">Products Analytics Engineer - Internship</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

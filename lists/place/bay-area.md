@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**409 open roles.**
+**410 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,11 +20,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
+<td>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercedes-Benz Research &amp; Development North America, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/12e91040-bc3d-4b11-83af-786119db62b1">AI/ML Intern, Long-Term Memory &amp; Multimodal SLMs for Automotive Agents</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487538929/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/5a0d37f3-a99b-4013-8fc1-1a9f86943874">Software Engineering Intern - Connected Systems (January - August 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462350505/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RoboForce</strong></td>
+<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Toyota Research Institute</strong></td>
@@ -181,13 +202,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>RoboForce</strong></td>
-<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Engramme</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd14dec2-8e57-4fb3-a538-451e255bb194">Machine Learning Engineer (Co-op / extended internship)</a></td>
 <td>San Francisco, CA</td>
@@ -231,13 +245,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/235134df-418d-4966-afd4-57d50eb5a109">Software Engineering Intern, AIML Platform - HP IQ</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9">Software Engineering Intern, Product &amp; Developer Productivity - HP IQ</a></td>
 <td>San Francisco, California, United States</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de2b2752-49c6-46c9-8ba8-56b9e702d9fb">Technical Support Engineering Intern - Summer 2027</a></td>
 <td>San Mateo, CA United States<br/>Bay-HQ office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5233011007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Coinbase</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec8f4f85-cf8c-4336-8304-7ada9120867c">Machine Learning Engineer Intern</a></td>
-<td>Hybrid - San Francisco, CA<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

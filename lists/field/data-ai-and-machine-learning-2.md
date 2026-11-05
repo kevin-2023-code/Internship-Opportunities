@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**509 open roles.** 382 in the United States & Canada · 127 elsewhere in the world.
+**514 open roles.** 387 in the United States & Canada · 127 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Atlas AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/a29b6c75-bec8-4db8-ae6b-4dc97fb96667">AI Data Engineer Intern</a></td>
+<td>Greater Indianapolis</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486089480/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/ece4e509-afc1-4791-8423-a7c24a851fb5">Software Engineering Intern, AI Agent Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477932693/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Spearmint technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc">Full Stack AI Developer Intern</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://in.indeed.com/viewjob?jk=7cb2271a0ae03786">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Informa</strong></td>
+<td><a href="https://trueinterview.io/jobs/647f9873-243e-4742-b4ca-411cf5b46aef">Data Analyst Internship</a></td>
+<td>Amsterdam, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/InformaGroupPlc/744000159322318-data-analyst-internship">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ledger</strong></td>
+<td><a href="https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625">Products Analytics Engineer - Internship</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Schneider Electric</strong></td>
 <td><a href="https://trueinterview.io/jobs/90d59032-17fe-4a68-8dd1-118f657a2e6b">Data Analyst Intern STP27</a></td>

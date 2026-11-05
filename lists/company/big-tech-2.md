@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**575 open roles.** 482 in the United States & Canada · 93 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**576 open roles.** 483 in the United States & Canada · 93 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/adfddf3b-0a30-40a9-a7cf-0953d00cdf3a">Summer 2027: Product Design Intern</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-product-design-intern/27595/100620927648">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/02910d73-4127-4f8d-99a4-0c4c2abb863c">Customer and Partner Solutions Engineering Intern, BS/MS, Summer 2027</a></td>

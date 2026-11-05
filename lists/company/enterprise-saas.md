@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**79 open roles.** 63 in the United States & Canada · 16 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**81 open roles.** 65 in the United States & Canada · 16 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/cda34f92-806f-4431-8a06-96332f68b17d">Research Scientist Intern</a></td>
+<td>Eagan, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486550129/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/abd5ef85-1c00-4e2e-b2f8-60c34fbcb6b0">Research Intern - Machine Learning for Biology and Healthcare</a></td>

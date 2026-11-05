@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,133 open roles.** 932 in the United States & Canada · 201 elsewhere in the world.
+**1,134 open roles.** 933 in the United States & Canada · 201 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/206eeeb0-0dd4-4548-9a68-8232302d0e76">Enterprise Platform Technical Marketing Engineer Intern - Summer 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397828680">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/873ac989-8336-4415-a934-8880c8c384c3">Sparse Linear Algebra Libraries Intern - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893398124010">Apply</a></td>

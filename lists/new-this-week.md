@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,651 open roles.** 1,298 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
+**1,657 open roles.** 1,304 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f421082-7f85-4a37-aa05-b93620c27b4d">PhD Intern, Software Engineer - Interaction Design (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486525946/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Thomson Reuters</strong></td>
+<td><a href="https://trueinterview.io/jobs/cda34f92-806f-4431-8a06-96332f68b17d">Research Scientist Intern</a></td>
+<td>Eagan, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486550129/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercedes-Benz Research &amp; Development North America, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/12e91040-bc3d-4b11-83af-786119db62b1">AI/ML Intern, Long-Term Memory &amp; Multimodal SLMs for Automotive Agents</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487538929/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Federal Express Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e7d9d10-181d-47b0-af9b-6bc9b760d482">BI Developer Intern (Summer 2027)</a></td>
+<td>Memphis, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487592052/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/18ac84e9-41bb-46f2-add7-79ce33c711fc">Internship - Machine Learning and image-based EUV system setup</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487578597/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/05f39d5d-9802-433d-9298-8bb4937ef79b">Software Development Engineer Intern</a></td>
@@ -60,6 +95,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487581009/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4be514c-5228-4ce5-b474-32a282527ddd">DSP/ML Research Engineer Co-op | Spring 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487555852/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6f65bdf1-c1d3-4c0a-ae79-4b0ae64d99ed">DSP/ML Research Engineer Intern | Summer 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487561849/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/b516cb3f-8291-4649-8121-48cc808e0468">Intern, AI &amp; Automation Engineering</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487572240/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RoboForce</strong></td>
+<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>T-Mobile</strong></td>
@@ -923,13 +986,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>RoboForce</strong></td>
-<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>KEEN</strong></td>
 <td><a href="https://trueinterview.io/jobs/b994938b-957c-4392-b701-5e5da1f5d7a3">AI Product Management Intern</a></td>
 <td>Portland, OR</td>
@@ -1505,13 +1561,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/235134df-418d-4966-afd4-57d50eb5a109">Software Engineering Intern, AIML Platform - HP IQ</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6deaafdd-efe9-485d-882e-7b0f4ff99fa9">Software Engineering Intern, Product &amp; Developer Productivity - HP IQ</a></td>
 <td>San Francisco, California, United States</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1">Apply</a></td>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c8fc1cf6-f1fc-4487-b146-42f0cb9bff09">Site Reliability Engineer Intern - OneIT - Rochester, MN</a></td>
 <td>Rochester, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466298969/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ancestry</strong></td>
-<td><a href="https://trueinterview.io/jobs/810f1fad-abe2-4f59-8440-76cb33aa98aa">Machine Learning Engineer, Co-op</a></td>
-<td>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477858941/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aether Field</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dc7e81c-3144-460e-b281-c9a127446d06">Programmer Analyst Intern</a></td>
-<td>Waller, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483945656/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Copart</strong></td>
-<td><a href="https://trueinterview.io/jobs/03d83d40-c25b-4c02-8240-7949f8325956">Software Engineering Intern</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441252060/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Federal Reserve Board</strong></td>
-<td><a href="https://trueinterview.io/jobs/63f09f83-2803-4380-9560-0f7123f67ff2">Summer 2027 Intern – Cloud Engineer – IT</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477846467/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
-<td>San Luis Obispo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483943670/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Celestica</strong></td>
-<td><a href="https://trueinterview.io/jobs/5aa0a310-b1c8-4efe-858a-5745f4abcbe8">Student Intern, AI / Data Science</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468015714/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
