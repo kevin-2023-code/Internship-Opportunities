@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**121 open roles.** 93 in the United States & Canada · 28 elsewhere in the world.
+**122 open roles.** 94 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b149830-1a0a-4c24-bd4a-1664e64eecf8">2027 Intern - AI/ML Engineer - Capacity &amp; Performance Engineering, Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479706643/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e866c7de-0ac4-40ff-8b38-3b5bbfe5d429">2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479702745/">Apply</a></td>

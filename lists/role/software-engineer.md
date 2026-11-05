@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**360 open roles.** 295 in the United States & Canada · 65 elsewhere in the world.
+**361 open roles.** 296 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b02dc34e-f28b-4930-b6d4-b34f459620fb">SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459571213/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e427cc25-6ca1-4497-ae7f-0c159b5749a8">2027 Summer Intern, MS/PhD, Software Engineer</a></td>

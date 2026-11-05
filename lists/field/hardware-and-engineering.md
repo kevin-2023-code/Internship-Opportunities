@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**666 open roles.** 619 in the United States & Canada · 47 elsewhere in the world.
+**665 open roles.** 618 in the United States & Canada · 47 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2261,13 +2261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dbb4dda3-6975-462e-b5c7-a547752efe17">ASIC Engineering Intern, Design Verification (Silicon Engineering)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1079763448023260/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/85317df8-ccbc-4422-adaf-3e71a3a8eab7">CST Application Engineer Intern - Silicon</a></td>
 <td>San Jose, CA<br/>SAN JOSE, United States of America</td>
 <td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Silicon_R56655">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/de205d4f-e726-470c-9005-6761e67ccc71">Electrical Engineering Labs Intern</a></td>
+<td>Spring, Texas, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Labs-Intern_1213083">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

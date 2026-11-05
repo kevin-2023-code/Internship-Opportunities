@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**32 open roles.** 28 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**34 open roles.** 30 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b02dc34e-f28b-4930-b6d4-b34f459620fb">SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459571213/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7f298a2f-0fa0-4faa-be81-9389a31ea7f7">Back-End Developer Intern 2027 -Tucson, AZ</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459557667/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7b6de084-55c4-40d6-b85d-9a27a09a7fed">QA/Test Engineer Intern-Tucson, AZ</a></td>
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456512970/">Apply</a></td>

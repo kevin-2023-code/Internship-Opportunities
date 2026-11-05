@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,153 open roles.** 947 in the United States & Canada · 206 elsewhere in the world.
+**1,160 open roles.** 954 in the United States & Canada · 206 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b02dc34e-f28b-4930-b6d4-b34f459620fb">SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459571213/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7f298a2f-0fa0-4faa-be81-9389a31ea7f7">Back-End Developer Intern 2027 -Tucson, AZ</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459557667/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9d7561d-531c-49e0-943a-9e0fc7d4f881">Software Engineering Intern, Frontend</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469637742/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Central Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/044ca062-ded2-416b-93a4-dfab5f992323">Software Engineering Intern</a></td>
+<td>Van Wert, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469000580/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Advanced Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5">Intern - Firmware Engineer - Fall 2026</a></td>
+<td>Fort Collins, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469048992/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Johnson &amp; Johnson MedTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe">Software Test Engineering Co-op (RLM)</a></td>
+<td>Danvers, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471185700/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motion</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ba8a5bd-ac5e-4541-98a9-20654cf8f1f8">Cloud SRE Intern</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462088592/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e427cc25-6ca1-4497-ae7f-0c159b5749a8">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab">Software Engineer Intern – MAGIC Bonus Calc, Summer 2027 (REQ#43437)</a></td>
 <td>Grand Rapids, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485218043/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RS&amp;H</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba2996ce-7bea-40b9-9be3-8b895d6b4098">Roadway/Traffic Control Engineering Intern - Summer 2027</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468309700/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GM Performance Power Units</strong></td>
-<td><a href="https://trueinterview.io/jobs/3514243a-a168-463e-b78a-03ed80a619ec">Simulation Engineer Intern (Summer 2027)</a></td>
-<td>Concord, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485213179/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Worley</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6ecd849-9f2d-4c58-b180-54a528194d42">Functional Safety Engineering Intern</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485213167/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Georgia-Pacific LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ae7ce32-a057-41b2-b39a-a92686222b7d">Georgia-Pacific Engineering Intern - Halsey, OR (Summer 2027)</a></td>
-<td>Halsey, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466216538/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Greif</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e933ef2-cfdf-4ae0-b741-427db4db12f5">2027 Spring Engineering Co-Op</a></td>
-<td>Tacoma, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468311206/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Worthington Steel</strong></td>
-<td><a href="https://trueinterview.io/jobs/5c8bd774-bc52-48ec-ae8e-859d16c9d928">Engineering Intern</a></td>
-<td>Rome, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208029/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Etched</strong></td>
-<td><a href="https://trueinterview.io/jobs/a196228f-b2d6-48e3-8c18-b5c5122492f1">Core Engineering Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467729470/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

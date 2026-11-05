@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**41 open roles.** 34 in the United States & Canada · 7 elsewhere in the world.
+**42 open roles.** 35 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Advanced Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5">Intern - Firmware Engineer - Fall 2026</a></td>
+<td>Fort Collins, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469048992/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Badger Meter</strong></td>
 <td><a href="https://trueinterview.io/jobs/6784ee1c-a5da-4e17-a22f-b35b662bd435">Firmware Test Engineer Intern</a></td>

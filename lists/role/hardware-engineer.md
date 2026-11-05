@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**121 open roles.** 114 in the United States & Canada · 7 elsewhere in the world.
+**120 open roles.** 113 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -211,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dbb4dda3-6975-462e-b5c7-a547752efe17">ASIC Engineering Intern, Design Verification (Silicon Engineering)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1079763448023260/">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>

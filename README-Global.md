@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-05 15:04 UTC_
+_Last updated: 2026-11-05 16:05 UTC_
 
-**472 open internships** from **248 employers** · **345 posted in the last 7 days** · refreshed hourly
+**472 open internships** from **248 employers** · **342 posted in the last 7 days** · refreshed hourly
 
 ### Browse 472 internships by field
 
@@ -42,7 +42,7 @@ _Last updated: 2026-11-05 15:04 UTC_
 
 **Infineon Technologies** 30 &nbsp;·&nbsp; **NVIDIA** 23 &nbsp;·&nbsp; **Apple** 12 &nbsp;·&nbsp; **SAP** 11 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Tencent** 5
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 51 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 49 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (92)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (34)](lists/place/greater-china.md) · [🇬🇧 London & the UK (31)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (22)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (21)](lists/place/germany.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇪🇸 Madrid, Barcelona & Iberia (16)](lists/place/iberia.md) · [🇳🇱 Amsterdam & the Benelux (15)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🏰 Warsaw, Kraków & Central Europe (11)](lists/place/poland-cee.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (345)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (342)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -203,7 +203,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e5598513-f227-4514-9293-c53622eec568">Internship Programme 2027: Information Security Engineer (Appsec)</a> 🆕</td>
 <td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>Poland<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4433233279/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Nexthink</strong></td>
@@ -921,7 +921,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6cd0bff1-878a-456f-88cf-545d9045ebb8">AI Creative Experience Design Intern</a> 🆕</td>
 <td>Bengaluru, Karnataka, India</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486826429/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>UBS</strong></td>
@@ -1040,7 +1040,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f6c7ee1e-23ad-44c4-9881-f6d15cc144d6">UI/UX Intern – Digital Customer Experience</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484967925/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Sensirion</strong></td>

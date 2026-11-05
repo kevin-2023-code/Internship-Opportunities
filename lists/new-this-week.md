@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,560 open roles.** 1,215 in the United States & Canada · 345 elsewhere in the world. Everything the employers put up this week.
+**1,557 open roles.** 1,215 in the United States & Canada · 342 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b02dc34e-f28b-4930-b6d4-b34f459620fb">SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459571213/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7f298a2f-0fa0-4faa-be81-9389a31ea7f7">Back-End Developer Intern 2027 -Tucson, AZ</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459557667/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b149830-1a0a-4c24-bd4a-1664e64eecf8">2027 Intern - AI/ML Engineer - Capacity &amp; Performance Engineering, Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479706643/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9d7561d-531c-49e0-943a-9e0fc7d4f881">Software Engineering Intern, Frontend</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469637742/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Central Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/044ca062-ded2-416b-93a4-dfab5f992323">Software Engineering Intern</a></td>
+<td>Van Wert, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469000580/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Advanced Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5">Intern - Firmware Engineer - Fall 2026</a></td>
+<td>Fort Collins, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469048992/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3443775-83aa-4770-b7ac-e8eaecd5246c">UX Design Research Intern ( U.S.A Only )</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487774212/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Johnson &amp; Johnson MedTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe">Software Test Engineering Co-op (RLM)</a></td>
+<td>Danvers, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471185700/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motion</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ba8a5bd-ac5e-4541-98a9-20654cf8f1f8">Cloud SRE Intern</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462088592/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e427cc25-6ca1-4497-ae7f-0c159b5749a8">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
@@ -2754,69 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c099f1fc-0d45-4a8f-9aa1-08e28f4575d5">AI Software Engineer Internship ( Read description)</a></td>
 <td>Pennsylvania, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485986222/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>York Space Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/896709d5-5711-4056-a113-d2322f672bbf">Software Engineering Intern</a></td>
-<td>Greenwood Village, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458418385/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Elevated Web Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c5dd08-9889-4657-a43c-cccb75e3be4d">Platform Software Engineering Internship</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485973434/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/0c6382fe-945f-48cb-ad31-08c5df47e673">QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458034499/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/afe1b605-f453-4314-9212-3e7c0a29a537">Software Dev Engineer Internship - Embedded Development (Linux)</a></td>
-<td>Dresden, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469205599/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/77994a6b-8f34-48a6-994f-14ed53c7f2d7">Back End Developer Intern - Poughkeepsie, NY - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458021553/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3b6e321-1cc6-4828-923b-21641645ea9c">2027 Summer Intern: Engineering - Software</a></td>
-<td>St Louis, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460528336/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Annapurna Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/03ea040b-e789-48d0-b284-aade3c7d48c9">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Cupertino, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460345281/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/31a87483-3430-4e36-b036-7278894f3633">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Austin, TX<br/>Seattle, WA<br/>Cupertino, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460339361/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b">Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Seattle, WA<br/>Cupertino, CA<br/>New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460336386/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 </tbody>

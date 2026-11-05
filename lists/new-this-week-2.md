@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,560 open roles.** 1,215 in the United States & Canada · 345 elsewhere in the world. Everything the employers put up this week.
+**1,557 open roles.** 1,215 in the United States & Canada · 342 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,69 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>York Space Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/896709d5-5711-4056-a113-d2322f672bbf">Software Engineering Intern</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458418385/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Elevated Web Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/b1c5dd08-9889-4657-a43c-cccb75e3be4d">Platform Software Engineering Internship</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485973434/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/0c6382fe-945f-48cb-ad31-08c5df47e673">QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458034499/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/afe1b605-f453-4314-9212-3e7c0a29a537">Software Dev Engineer Internship - Embedded Development (Linux)</a></td>
+<td>Dresden, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469205599/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/77994a6b-8f34-48a6-994f-14ed53c7f2d7">Back End Developer Intern - Poughkeepsie, NY - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458021553/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3b6e321-1cc6-4828-923b-21641645ea9c">2027 Summer Intern: Engineering - Software</a></td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460528336/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Annapurna Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/03ea040b-e789-48d0-b284-aade3c7d48c9">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Cupertino, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460345281/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/31a87483-3430-4e36-b036-7278894f3633">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Austin, TX<br/>Seattle, WA<br/>Cupertino, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460339361/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b">Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Seattle, WA<br/>Cupertino, CA<br/>New York, United States<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460336386/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>West Monroe</strong></td>
 <td><a href="https://trueinterview.io/jobs/096a918e-386e-457c-ac62-f65880ddaf50">2027 Cybersecurity &amp; Cloud and Infrastructure Consulting Intern</a></td>
@@ -2750,69 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/fefed995-0fc0-4c40-8fcc-37e65f67cb16">Audio Machine Learning Intern/Co-op</a></td>
 <td>Atlanta, GA<br/>Bloomfield Hills, MI<br/>Framingham, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476945127/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a340a99f-0cc6-4da2-a037-41d8e4b7612f">Embedded Engineer - Summer 2027 Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459087027/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hasbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208065/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5">2027 Spring - Electrical Engineering Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989722/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arconic</strong></td>
-<td><a href="https://trueinterview.io/jobs/efd2c855-b001-45aa-b656-f6f620ea79f6">Quality Control Engineering Intern</a></td>
-<td>Cranberry Township, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476943476/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AV</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd346008-0f3b-480e-b6e2-b0a46888eef3">GNC / Autonomy Engineering Intern</a></td>
-<td>Simi Valley, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990833/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salas O'Brien</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe462826-08bd-4af5-b2f8-106759f24996">Electrical Engineering Intern - Summer 2027</a></td>
-<td>Moore, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475481409/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Armstrong World Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3fa64407-0490-4326-aef0-780b0e275020">Electrical Engineer Intern (Macon GA) Job</a></td>
-<td>Macon, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456941773/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bose Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/befb8b75-f0bb-4aa3-b140-358c85e979a5">Embedded Software Engineer Co-op - Audio Tech</a></td>
-<td>Atlanta, GA<br/>Framingham, MA<br/>Troy, MI<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476946077/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/062c98b3-ec89-4627-98e5-e470eca24753">Lean Industrial Engineer Co-Op - Spring 2027 (UT Arlington)</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466822476/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

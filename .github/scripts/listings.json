@@ -5,9 +5,240 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T15:04:38.944Z",
-  "count": 2683,
+  "listingsChangedAt": "2026-11-05T16:05:52.610Z",
+  "count": 2691,
   "listings": [
+    {
+      "id": "b02dc34e-f28b-4930-b6d4-b34f459620fb",
+      "company": "IBM",
+      "title": "SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459571213/",
+      "url": "https://trueinterview.io/jobs/b02dc34e-f28b-4930-b6d4-b34f459620fb",
+      "postedAt": "2026-11-05T15:29:00.000Z",
+      "updatedAt": "2026-11-05T15:29:00.000Z"
+    },
+    {
+      "id": "7f298a2f-0fa0-4faa-be81-9389a31ea7f7",
+      "company": "IBM",
+      "title": "Back-End Developer Intern 2027 -Tucson, AZ",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459557667/",
+      "url": "https://trueinterview.io/jobs/7f298a2f-0fa0-4faa-be81-9389a31ea7f7",
+      "postedAt": "2026-11-05T15:22:00.000Z",
+      "updatedAt": "2026-11-05T15:22:00.000Z"
+    },
+    {
+      "id": "0b149830-1a0a-4c24-bd4a-1664e64eecf8",
+      "company": "General Motors",
+      "title": "2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479706643/",
+      "url": "https://trueinterview.io/jobs/0b149830-1a0a-4c24-bd4a-1664e64eecf8",
+      "postedAt": "2026-11-05T15:14:00.000Z",
+      "updatedAt": "2026-11-05T15:14:00.000Z"
+    },
+    {
+      "id": "b9d7561d-531c-49e0-943a-9e0fc7d4f881",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, Frontend",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469637742/",
+      "url": "https://trueinterview.io/jobs/b9d7561d-531c-49e0-943a-9e0fc7d4f881",
+      "postedAt": "2026-11-05T15:07:00.000Z",
+      "updatedAt": "2026-11-05T15:07:00.000Z"
+    },
+    {
+      "id": "044ca062-ded2-416b-93a4-dfab5f992323",
+      "company": "Central Insurance",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Van Wert, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469000580/",
+      "url": "https://trueinterview.io/jobs/044ca062-ded2-416b-93a4-dfab5f992323",
+      "postedAt": "2026-11-05T15:00:00.000Z",
+      "updatedAt": "2026-11-05T15:00:00.000Z"
+    },
+    {
+      "id": "36fbe705-3837-45d7-bedc-0b8fbdf081b5",
+      "company": "Advanced Energy",
+      "title": "Intern - Firmware Engineer - Fall 2026",
+      "locations": [
+        "Fort Collins, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469048992/",
+      "url": "https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5",
+      "postedAt": "2026-11-05T14:38:00.000Z",
+      "updatedAt": "2026-11-05T14:38:00.000Z"
+    },
+    {
+      "id": "a3443775-83aa-4770-b7ac-e8eaecd5246c",
+      "company": "Marketeq Digital Solutions",
+      "title": "UX Design Research Intern ( U.S.A Only )",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487774212/",
+      "url": "https://trueinterview.io/jobs/a3443775-83aa-4770-b7ac-e8eaecd5246c",
+      "postedAt": "2026-11-05T14:35:00.000Z",
+      "updatedAt": "2026-11-05T14:35:00.000Z"
+    },
+    {
+      "id": "bee10cac-0ed5-4023-a1df-fa9d2a1d70fe",
+      "company": "Johnson & Johnson MedTech",
+      "title": "Software Test Engineering Co-op (RLM)",
+      "locations": [
+        "Danvers, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471185700/",
+      "url": "https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe",
+      "postedAt": "2026-11-05T14:30:00.000Z",
+      "updatedAt": "2026-11-05T14:30:00.000Z"
+    },
+    {
+      "id": "5ba8a5bd-ac5e-4541-98a9-20654cf8f1f8",
+      "company": "Motion",
+      "title": "Cloud SRE Intern",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462088592/",
+      "url": "https://trueinterview.io/jobs/5ba8a5bd-ac5e-4541-98a9-20654cf8f1f8",
+      "postedAt": "2026-11-05T14:19:00.000Z",
+      "updatedAt": "2026-11-05T14:19:00.000Z"
+    },
     {
       "id": "e427cc25-6ca1-4497-ae7f-0c159b5749a8",
       "company": "Waymo",
@@ -52422,33 +52653,6 @@
       "url": "https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80",
       "postedAt": "2026-10-14T17:45:09.000Z",
       "updatedAt": "2026-10-14T17:45:09.000Z"
-    },
-    {
-      "id": "dbb4dda3-6975-462e-b5c7-a547752efe17",
-      "company": "Meta",
-      "title": "ASIC Engineering Intern, Design Verification (Silicon Engineering)",
-      "locations": [
-        "Sunnyvale, CA, United States"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1079763448023260/",
-      "url": "https://trueinterview.io/jobs/dbb4dda3-6975-462e-b5c7-a547752efe17",
-      "postedAt": "2026-10-14T17:37:06.000Z",
-      "updatedAt": "2026-10-14T17:37:06.000Z"
     },
     {
       "id": "02bf2ffc-6c9d-475f-83ec-eabb639dfa31",

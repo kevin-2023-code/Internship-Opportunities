@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,560 open roles.** 1,215 in the United States & Canada · 345 elsewhere in the world. Everything the employers put up this week.
+**1,557 open roles.** 1,215 in the United States & Canada · 342 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,69 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a340a99f-0cc6-4da2-a037-41d8e4b7612f">Embedded Engineer - Summer 2027 Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459087027/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hasbro</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208065/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5">2027 Spring - Electrical Engineering Co-op (Jan - July 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989722/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arconic</strong></td>
+<td><a href="https://trueinterview.io/jobs/efd2c855-b001-45aa-b656-f6f620ea79f6">Quality Control Engineering Intern</a></td>
+<td>Cranberry Township, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476943476/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AV</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd346008-0f3b-480e-b6e2-b0a46888eef3">GNC / Autonomy Engineering Intern</a></td>
+<td>Simi Valley, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484990833/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salas O'Brien</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe462826-08bd-4af5-b2f8-106759f24996">Electrical Engineering Intern - Summer 2027</a></td>
+<td>Moore, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475481409/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Armstrong World Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/3fa64407-0490-4326-aef0-780b0e275020">Electrical Engineer Intern (Macon GA) Job</a></td>
+<td>Macon, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456941773/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/befb8b75-f0bb-4aa3-b140-358c85e979a5">Embedded Software Engineer Co-op - Audio Tech</a></td>
+<td>Atlanta, GA<br/>Framingham, MA<br/>Troy, MI<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476946077/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/062c98b3-ec89-4627-98e5-e470eca24753">Lean Industrial Engineer Co-Op - Spring 2027 (UT Arlington)</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466822476/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Honeywell Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/fab920ef-0c1a-42f8-913b-29ee76e272de">Artificial Intelligence/Machine Learning - Summer 2027 Intern</a></td>
@@ -2750,69 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/17feb347-397e-46f8-9a2d-2bc2b51f8cd4">2027 Summer Analyst, Engineering (Data Centers)</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476347413/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d61f2b1-b764-44d1-b1a3-96bfdc7d4bad">Electrical CAD Engineer Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484481561/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/80d583ef-fd07-466c-bf1d-66291a8873bb">IC Layout Engineering Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484482499/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1ac4f959-66cb-4270-b5a0-fd104981660b">RF Design Engineering Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484482505/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/98715ac8-e40e-4edf-ac3b-0eaac26a0f84">RF/Analog IC Design Intern</a></td>
-<td>Fort Lauderdale, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484490357/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ac5b97df-85d2-40a0-a758-8d157528d639">RFIC Design Engineer Intern</a></td>
-<td>Chelmsford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484471924/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stellantis</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d55480b-3564-4b78-a31a-da1a8ef2ff21">2026 Engineering Kettering Co-Op</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446290856/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>F5</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b7bc3a8-7664-466d-99f6-abeaaafa3e47">Software Development Engineer Intern (Seattle, WA)</a></td>
-<td>San Jose, CA<br/>Greater Seattle Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476558031/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GAF</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c26d7d9-c090-405a-b912-271fd9d88339">R&amp;D Commercial Product Development Engineer Intern</a></td>
-<td>Parsippany, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482529442/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Elevated Web Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7f3498a-4435-4906-969a-24e60ea39a6b">Product Software Engineering Internship</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484495243/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

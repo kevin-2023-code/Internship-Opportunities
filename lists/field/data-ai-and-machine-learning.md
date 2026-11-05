@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**536 open roles.** 398 in the United States & Canada · 138 elsewhere in the world.
+**537 open roles.** 399 in the United States & Canada · 138 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b149830-1a0a-4c24-bd4a-1664e64eecf8">2027 Intern - AI/ML Engineer - Capacity &amp; Performance Engineering, Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479706643/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Businessolver</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b3d6d3b-ff17-4a8f-9d89-6e2a8ed06f02">Business Intelligence Analyst Internship - Innovation &amp; Data Science (Remote)</a></td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9b078aef-1abc-4686-ae31-3aa0a40b7c67">Data Analyst Intern</a></td>
 <td>Dubai, Dubai, United Arab Emirates</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486714186/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e9eb6bc-f76b-4708-a109-4d25f1f0c556">Internship - Software Engineering - AI-Augmented Static Code Analysis</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200687209">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,153 open roles.** 947 in the United States & Canada · 206 elsewhere in the world.
+**1,160 open roles.** 954 in the United States & Canada · 206 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
+<td>New York, NY<br/>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Patreon</strong></td>
+<td><a href="https://trueinterview.io/jobs/0660463c-0c62-457e-bec9-38f857ec3d48">Software Engineering Intern - Summer 2027</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/3401a11e-44d8-4954-b4c6-1c176d5ab47a">Software Engineering Intern - Compiler</a></td>
+<td>Sugar Land, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdf55fb4-d263-4c9d-bd9c-0cecdca9a818">Cyber Security Engineer Intern</a></td>
+<td>Olathe, Kansas, United States</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/20420?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qorvo</strong></td>
+<td><a href="https://trueinterview.io/jobs/01db267e-c9b1-44fb-8983-bb5f9be34c80">Data Engineering Intern</a></td>
+<td>Bend, Oregon, United States</td>
+<td align="center"><a href="https://careers.qorvo.com/job/Bend-Data-Engineering-Intern-OR-97703/1431485300/">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/a05c801d-0a91-4715-8fe4-9ffdca68afa5">Winter 2027 Research Engineer Co-op</a></td>
+<td>Santa Ana, California, United States, Santa Ana, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Figure</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7230a8f-0481-4cc8-8aa2-d70a7b0979d1">Embedded Software Engineering Intern, Platform</a></td>

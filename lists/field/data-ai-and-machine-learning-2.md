@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**536 open roles.** 398 in the United States & Canada · 138 elsewhere in the world.
+**537 open roles.** 399 in the United States & Canada · 138 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e9eb6bc-f76b-4708-a109-4d25f1f0c556">Internship - Software Engineering - AI-Augmented Static Code Analysis</a></td>
+<td>Munich, Bavaria, Germany</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200687209">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a></td>

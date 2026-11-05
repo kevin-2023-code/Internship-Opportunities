@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**32 open roles.** 26 in the United States & Canada · 6 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**33 open roles.** 27 in the United States & Canada · 6 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9d7561d-531c-49e0-943a-9e0fc7d4f881">Software Engineering Intern, Frontend</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469637742/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>

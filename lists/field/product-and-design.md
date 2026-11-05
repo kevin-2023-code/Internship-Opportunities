@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**195 open roles.** 146 in the United States & Canada · 49 elsewhere in the world.
+**196 open roles.** 147 in the United States & Canada · 49 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3443775-83aa-4770-b7ac-e8eaecd5246c">UX Design Research Intern ( U.S.A Only )</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487774212/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/2388232c-e4f1-4b10-98a5-bd8507d8f29b">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>

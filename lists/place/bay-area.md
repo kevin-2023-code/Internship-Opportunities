@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b149830-1a0a-4c24-bd4a-1664e64eecf8">2027 Intern - AI/ML Engineer - Capacity &amp; Performance Engineering, Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479706643/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/e427cc25-6ca1-4497-ae7f-0c159b5749a8">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
 <td>Mountain View, CA</td>
@@ -1690,13 +1697,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dbb4dda3-6975-462e-b5c7-a547752efe17">ASIC Engineering Intern, Design Verification (Silicon Engineering)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1079763448023260/">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
