@@ -5,9 +5,200 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T05:04:58.455Z",
-  "count": 2645,
+  "listingsChangedAt": "2026-11-05T06:07:27.721Z",
+  "count": 2652,
   "listings": [
+    {
+      "id": "63ac2891-dc50-47d6-9593-61f7b5138a26",
+      "company": "Meta",
+      "title": "ASIC Engineering Intern, Formal Verification",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485580782/",
+      "url": "https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26",
+      "postedAt": "2026-11-05T05:06:00.000Z",
+      "updatedAt": "2026-11-05T05:06:00.000Z"
+    },
+    {
+      "id": "7db7d9a3-3514-4e19-a330-44aff89059ab",
+      "company": "PayPal",
+      "title": "Cybersecurity Intern - Summer 2027",
+      "locations": [
+        "Scottsdale, AZ",
+        "Chicago, IL",
+        "San Jose, CA"
+      ],
+      "cities": [
+        "Chicago, IL",
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487712244/",
+      "url": "https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab",
+      "postedAt": "2026-11-05T05:06:00.000Z",
+      "updatedAt": "2026-11-05T05:06:00.000Z"
+    },
+    {
+      "id": "e32a5675-e4a6-423b-8933-7f69170a77bc",
+      "company": "PayPal",
+      "title": "Mobile Engineer Intern - Summer 2027",
+      "locations": [
+        "Austin, TX",
+        "Omaha, NE"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487598915/",
+      "url": "https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc",
+      "postedAt": "2026-11-05T05:06:00.000Z",
+      "updatedAt": "2026-11-05T05:06:00.000Z"
+    },
+    {
+      "id": "4fcd40f4-d805-4143-b834-7598d3d82c9a",
+      "company": "Meta",
+      "title": "Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485598010/",
+      "url": "https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a",
+      "postedAt": "2026-11-05T05:04:00.000Z",
+      "updatedAt": "2026-11-05T05:04:00.000Z"
+    },
+    {
+      "id": "2752805b-c5a2-402a-8ade-74d4f59a37bc",
+      "company": "PayPal",
+      "title": "Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487599855/",
+      "url": "https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc",
+      "postedAt": "2026-11-05T05:04:00.000Z",
+      "updatedAt": "2026-11-05T05:04:00.000Z"
+    },
+    {
+      "id": "f9df95b0-b5e7-41b6-98b6-35e291e1ce8e",
+      "company": "TikTok",
+      "title": "Research Scientist Intern (Monetization Technology - Ads Core) - 2027 Start (PhD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486577154/",
+      "url": "https://trueinterview.io/jobs/f9df95b0-b5e7-41b6-98b6-35e291e1ce8e",
+      "postedAt": "2026-11-05T05:02:11.000Z",
+      "updatedAt": "2026-11-05T05:02:11.000Z"
+    },
+    {
+      "id": "024abf44-b324-48d1-9065-8ba015cc45d2",
+      "company": "Huawei",
+      "title": "Intern - Software Engineer, Spatial AI Agent Platform",
+      "locations": [
+        "Munich, Bavaria, Germany"
+      ],
+      "cities": [
+        "Munich"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486558716/",
+      "url": "https://trueinterview.io/jobs/024abf44-b324-48d1-9065-8ba015cc45d2",
+      "postedAt": "2026-11-05T04:42:00.000Z",
+      "updatedAt": "2026-11-05T04:42:00.000Z"
+    },
     {
       "id": "79fe8566-69ba-4b43-a5d6-25c5386adab5",
       "company": "Intel",
@@ -58,6 +249,33 @@
       "url": "https://trueinterview.io/jobs/ed8b1620-eeca-4341-9425-02abbdaae767",
       "postedAt": "2026-11-05T04:16:00.000Z",
       "updatedAt": "2026-11-05T04:16:00.000Z"
+    },
+    {
+      "id": "5f2c7110-ca3a-450a-a73b-1c9909eabc69",
+      "company": "Tencent",
+      "title": "Advertising Product Manager Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450229237/",
+      "url": "https://trueinterview.io/jobs/5f2c7110-ca3a-450a-a73b-1c9909eabc69",
+      "postedAt": "2026-11-05T03:11:00.000Z",
+      "updatedAt": "2026-11-05T03:11:00.000Z"
     },
     {
       "id": "cc93f7f1-317b-41f6-9000-d2f3279a7d3b",
@@ -57458,38 +57676,6 @@
       "url": "https://trueinterview.io/jobs/a9902b5e-bb3b-4aa5-947f-d24a144eeda8",
       "postedAt": "2026-10-01T16:00:00.000Z",
       "updatedAt": "2026-10-01T16:00:00.000Z"
-    },
-    {
-      "id": "04b653c3-8e82-493a-aa34-e46335359b81",
-      "company": "Stripe",
-      "title": "Data Analyst, Intern",
-      "locations": [
-        "New York, Seattle, South San Francisco HQ",
-        "New York, New York, United States",
-        "Seattle, Washington, United States",
-        "San Francisco, California, United States"
-      ],
-      "cities": [
-        "New York, NY",
-        "Seattle, WA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://stripe.com/jobs/search?gh_jid=8194291",
-      "url": "https://trueinterview.io/jobs/04b653c3-8e82-493a-aa34-e46335359b81",
-      "postedAt": "2026-10-01T15:05:29.000Z",
-      "updatedAt": "2026-10-01T15:05:29.000Z"
     },
     {
       "id": "734c38de-7cc6-4c74-9de0-c6cba35265cf",

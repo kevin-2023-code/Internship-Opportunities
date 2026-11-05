@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**109 open roles.**
+**108 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -645,13 +645,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/146eaa5d-2972-42a9-94f2-f92fb3d1a922">Data Analyst - Internship</a></td>
 <td>New York, NY<br/>New York, New York</td>
 <td align="center"><a href="https://seatgeek.com/jobs/8247554?gh_jid=8247554">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/04b653c3-8e82-493a-aa34-e46335359b81">Data Analyst, Intern</a></td>
-<td>New York, NY<br/>New York, New York, United States<br/>Seattle, Washington, United States<br/>+2 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8194291">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
