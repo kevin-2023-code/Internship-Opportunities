@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**46 open roles.** 38 in the United States & Canada · 8 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**45 open roles.** 38 in the United States & Canada · 7 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -301,13 +301,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cape Town, Western Cape, South Africa</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479065597/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025">Software Development Engineer Intern, Amazon University Talent Acquisition</a></td>
-<td>Mexico City, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478037941/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>

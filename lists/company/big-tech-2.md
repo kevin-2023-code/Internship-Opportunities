@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**576 open roles.** 482 in the United States & Canada · 94 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**575 open roles.** 482 in the United States & Canada · 93 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -754,13 +754,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8896607-d759-4876-8ef4-cf9183de9025">Software Development Engineer Intern, Amazon University Talent Acquisition</a></td>
-<td>Mexico City, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478037941/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>

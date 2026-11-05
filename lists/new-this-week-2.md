@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,637 open roles.** 1,288 in the United States & Canada · 349 elsewhere in the world. Everything the employers put up this week.
+**1,651 open roles.** 1,298 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bitdeer (NASDAQ: BTDR)</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ddba54d-9ef1-4d9e-ac1b-b57787c8bf80">Research Engineer-Model Efficiency (Intern)</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448421222/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BlackRock</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc7840c2-b575-4b23-96dd-185e392947e7">2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468695467/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nissan Motor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ee0363e-da0b-4ce6-94ec-7ba72aac9dc4">AI Agent Architect Intern - Summer 2027 - Farmington Hills, MI</a></td>
+<td>Farmington Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477691884/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SageSure</strong></td>
+<td><a href="https://trueinterview.io/jobs/01406038-1a8f-458d-beef-8e9cbf2f0ad2">Data Ops Engineer Intern</a></td>
+<td>Cheshire, CT<br/>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477894522/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8a9ef974-ce0a-452e-8ec6-56162b0a2094">Data Scientist Intern</a></td>
+<td>Jersey City, NJ<br/>Cheshire, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478000251/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Options Clearing Corporation (OCC)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8e291e9-dbbe-4169-9f10-3a1147fb217b">Summer Intern - Quantitative Risk Management</a></td>
+<td>Greater Chicago Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468803502/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662">Systems Test Automation Engineering Intern</a></td>
+<td>Kokomo, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476848948/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
@@ -181,6 +230,27 @@
 <td><a href="https://trueinterview.io/jobs/c2ca8357-f968-4484-9653-fbf94cdbed52">Software Engineering Co-op - Spring 2027 - ASL</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477697976/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Liberty Mutual Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e">Cybersecurity Co-op (January - June 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460370875/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
+<td>Normal, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468019657/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e">General Cybersecurity Graduate Intern - CIPHER- Spring 2027</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477810555/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2743,76 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/77673275-3f77-4939-8fa6-0cbb4e7d338c">2027 Spring/Summer LS Engineering Co-op</a></td>
 <td>Johns Creek, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476769759/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/6c069389-184b-4e33-865f-e74ac92e35e7">2027 Summer Intern: Engineering - Mechanical</a></td>
-<td>Portsmouth, NH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448321042/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/0204818b-e6dc-468a-88d8-8610bcf542a0">Intern - Automation/I&amp;C Engineer</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4336598421/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mott MacDonald</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f4a9c19-4a7a-44c1-8690-a975f95795c4">Electrical Engineering Internship - 2027</a></td>
-<td>Austin, TX<br/>The Woodlands, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476936935/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Marathon Petroleum Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/53f29ddf-8b08-4a4b-b8f5-86f484b5d65d">Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summer 2027)</a></td>
-<td>Washington, DC<br/>Denver, CO<br/>Canonsburg, PA<br/>+10 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468247552/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bollinger Shipyards</strong></td>
-<td><a href="https://trueinterview.io/jobs/709e37d3-2a95-4610-aab1-c3a647f7f396">Naval Architect Intern</a></td>
-<td>Metairie, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467752667/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Constellation</strong></td>
-<td><a href="https://trueinterview.io/jobs/eef4b2bd-11a0-4a6e-a342-f4a63c0e3601">Summer 2027 Engineering Intern - Ontario, NY</a></td>
-<td>Ontario, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475712216/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4d9a71ff-83e5-485e-8a76-59c43a098562">Summer 2027 Engineering Internship - Pottstown, PA</a></td>
-<td>Pottstown, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475718024/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cd4fdca-4486-4c32-a265-0f0fb4358e4f">2027 Summer Intern: Engineering - Utility Automation</a></td>
-<td>Boonton, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468304868/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>nVent</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1d37f65-8fdc-4223-8b64-8a912951e971">Engineering Lab Co-Op (Jan - August 2027)</a></td>
-<td>Anoka, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468299736/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d80cfee-4b6d-4631-bfea-4169ba4c2393">Mechanical Engineer Intern - Test Equipment</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468299578/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

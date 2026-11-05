@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,637 open roles.** 1,288 in the United States & Canada · 349 elsewhere in the world. Everything the employers put up this week.
+**1,651 open roles.** 1,298 in the United States & Canada · 353 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,76 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c069389-184b-4e33-865f-e74ac92e35e7">2027 Summer Intern: Engineering - Mechanical</a></td>
+<td>Portsmouth, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448321042/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CRB</strong></td>
+<td><a href="https://trueinterview.io/jobs/0204818b-e6dc-468a-88d8-8610bcf542a0">Intern - Automation/I&amp;C Engineer</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4336598421/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mott MacDonald</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f4a9c19-4a7a-44c1-8690-a975f95795c4">Electrical Engineering Internship - 2027</a></td>
+<td>Austin, TX<br/>The Woodlands, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476936935/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marathon Petroleum Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/53f29ddf-8b08-4a4b-b8f5-86f484b5d65d">Intern/Co-op - Midstream Natural Gas and NGL Services Chemical/Mechanical/Civil/Petroleum/Electrical Engineering (Summer 2027)</a></td>
+<td>Washington, DC<br/>Denver, CO<br/>Canonsburg, PA<br/>+10 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468247552/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bollinger Shipyards</strong></td>
+<td><a href="https://trueinterview.io/jobs/709e37d3-2a95-4610-aab1-c3a647f7f396">Naval Architect Intern</a></td>
+<td>Metairie, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467752667/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Constellation</strong></td>
+<td><a href="https://trueinterview.io/jobs/eef4b2bd-11a0-4a6e-a342-f4a63c0e3601">Summer 2027 Engineering Intern - Ontario, NY</a></td>
+<td>Ontario, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475712216/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4d9a71ff-83e5-485e-8a76-59c43a098562">Summer 2027 Engineering Internship - Pottstown, PA</a></td>
+<td>Pottstown, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475718024/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/9cd4fdca-4486-4c32-a265-0f0fb4358e4f">2027 Summer Intern: Engineering - Utility Automation</a></td>
+<td>Boonton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468304868/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>nVent</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1d37f65-8fdc-4223-8b64-8a912951e971">Engineering Lab Co-Op (Jan - August 2027)</a></td>
+<td>Anoka, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468299736/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d80cfee-4b6d-4631-bfea-4169ba4c2393">Mechanical Engineer Intern - Test Equipment</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468299578/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Revolute Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/35dbfe9a-7d3b-4e3c-97b7-e09dcd573a05">Robotics Engineering Intern</a></td>
@@ -2743,76 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/680a185c-3a0e-452d-a1ae-14c17bd510de">Integrated Performance Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476349155/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ashby</strong></td>
-<td><a href="https://trueinterview.io/jobs/ab7db9a7-5792-4595-9bcf-be7ed0e58ed3">Software Engineer – 2027 Internship Program (June Start)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483889315/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parker Hannifin</strong></td>
-<td><a href="https://trueinterview.io/jobs/946fbab6-f0cd-4acf-8948-88c2a9f135e1">Rotary Actuator Engineering Co-op - Spring 2027</a></td>
-<td>Wadsworth, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467937100/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Avynera Studios</strong></td>
-<td><a href="https://trueinterview.io/jobs/397cdf4a-b3d4-489a-9b12-5c7bb1b861dd">Components Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482510762/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Marathon Petroleum Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd7e5d68-fd13-41f6-bd94-d7021c9c0818">Intern/Co-op - Midstream Logistics and Storage Mechanical/Civil/Electrical Engineering (Fall 2027)</a></td>
-<td>Indianapolis, IN<br/>Salt Lake City, UT<br/>La Palma, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467401066/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/21e51ebf-2f60-4b10-98e6-168c2a5526a6">Factory Test Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476333861/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/29b79905-4e5c-4918-92b6-39c4abe43577">Weld Development Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476340602/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/38c4da75-a0df-4431-aba5-74bb4ca420dc">Avionics Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476345355/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2a13d69d-ed67-444a-a5a0-67e9057f8510">Software Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476337648/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/01c497e5-711b-4030-ae66-f42709ea0d21">Vehicle Systems Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476331855/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6eb25e83-e7b3-40e0-bc01-c38f81bf092e">Components Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476351089/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

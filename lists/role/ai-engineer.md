@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**120 open roles.** 87 in the United States & Canada · 33 elsewhere in the world.
+**119 open roles.** 86 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>COREL</strong></td>
-<td><a href="https://trueinterview.io/jobs/0c3c3504-4298-4968-9709-1daf59c46403">AI Software Developer Intern</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=69805dbf-d10e-4118-99f6-cb47a709a502&amp;jobId=590093">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Smith+Nephew</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7110df1-1ec3-4c94-b045-bb563cc5a1da">Intern AI Engineer R&amp;D</a></td>
@@ -99,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bf6fb490-02d5-496e-b4a4-0743719dab76">Information Systems Developer of AI Intern</a></td>
 <td>Louisville, KY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487086276/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/c858b7c6-d905-47e8-96f1-70696d0eeefb">Software Engineering &amp; AI Intern</a></td>
-<td>Shiloh, Illinois, United States<br/>Odenton, Maryland, United States</td>
-<td align="center"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -267,6 +253,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4b39f308-a5b1-4b4a-9586-d5f458eecb6e">2027 Newell Brands Intern- Sales AI &amp; Analytics Developer Intern</a></td>
 <td>Huntersville, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468852361/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
+<td>Normal, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468019657/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
