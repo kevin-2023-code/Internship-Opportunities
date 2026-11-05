@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T14:05:02.823Z",
-  "count": 2667,
+  "listingsChangedAt": "2026-11-05T15:04:38.944Z",
+  "count": 2683,
   "listings": [
     {
       "id": "e427cc25-6ca1-4497-ae7f-0c159b5749a8",
@@ -21418,9 +21418,12 @@
       "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
       "locations": [
         "Aachen, North Rhine-Westphalia, Germany",
-        "Aachen, Deutschland"
+        "Aachen, Deutschland",
+        "Cambridge, England, United Kingdom"
       ],
-      "cities": [],
+      "cities": [
+        "Cambridge"
+      ],
       "countries": [
         "Germany"
       ],
@@ -23406,6 +23409,31 @@
       "updatedAt": "2026-10-29T23:35:00.000Z"
     },
     {
+      "id": "8bce5c50-309b-4fbb-a2eb-955ed4a6ea53",
+      "company": "Bose Corporation",
+      "title": "Acoustic Systems Engineering Co-op",
+      "locations": [
+        "Bloomfield Hills, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485244975/",
+      "url": "https://trueinterview.io/jobs/8bce5c50-309b-4fbb-a2eb-955ed4a6ea53",
+      "postedAt": "2026-10-29T23:35:00.000Z",
+      "updatedAt": "2026-10-29T23:35:00.000Z"
+    },
+    {
       "id": "2dc6a196-7aea-4935-b85e-b17dd1e9db95",
       "company": "Dennis Group",
       "title": "Packaging Engineer Intern",
@@ -23431,6 +23459,393 @@
       "url": "https://trueinterview.io/jobs/2dc6a196-7aea-4935-b85e-b17dd1e9db95",
       "postedAt": "2026-10-29T23:35:00.000Z",
       "updatedAt": "2026-10-29T23:35:00.000Z"
+    },
+    {
+      "id": "4a501272-c4be-4fdc-ac1f-d38a78e97f4d",
+      "company": "Pratt & Whitney",
+      "title": "F135 Engine Core Upgrade (ECU) Propulsion Systems Analysis Engineering Intern (Summer 2027) (Onsite)",
+      "locations": [
+        "East Hartford, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485261044/",
+      "url": "https://trueinterview.io/jobs/4a501272-c4be-4fdc-ac1f-d38a78e97f4d",
+      "postedAt": "2026-10-29T23:35:00.000Z",
+      "updatedAt": "2026-10-29T23:35:00.000Z"
+    },
+    {
+      "id": "b4d1c809-bf5a-4dc6-b4de-9ed4496ae30b",
+      "company": "CodeConductor.AI",
+      "title": "AI Intern",
+      "locations": [
+        "California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485262158/",
+      "url": "https://trueinterview.io/jobs/b4d1c809-bf5a-4dc6-b4de-9ed4496ae30b",
+      "postedAt": "2026-10-29T23:24:00.000Z",
+      "updatedAt": "2026-10-29T23:24:00.000Z"
+    },
+    {
+      "id": "74822e79-b696-49ce-ac01-d92c0a17b827",
+      "company": "RIVR",
+      "title": "Robotics Wireless & Network Engineer Intern, RIVR",
+      "locations": [
+        "Zurich, Zurich, Switzerland"
+      ],
+      "cities": [
+        "Zurich"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485223442/",
+      "url": "https://trueinterview.io/jobs/74822e79-b696-49ce-ac01-d92c0a17b827",
+      "postedAt": "2026-10-29T23:21:00.000Z",
+      "updatedAt": "2026-10-29T23:21:00.000Z"
+    },
+    {
+      "id": "62f066eb-10e8-4164-83a2-5eb6e9154436",
+      "company": "Federal Reserve Board",
+      "title": "Summer 2027 Intern – Security Analyst – IT",
+      "locations": [
+        "Washington, DC"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485230919/",
+      "url": "https://trueinterview.io/jobs/62f066eb-10e8-4164-83a2-5eb6e9154436",
+      "postedAt": "2026-10-29T23:17:00.000Z",
+      "updatedAt": "2026-10-29T23:17:00.000Z"
+    },
+    {
+      "id": "edda1e92-bcb4-49bc-ba52-13e3d27061d7",
+      "company": "PTC",
+      "title": "UI/UX Designer Intern (Summer 2027)",
+      "locations": [
+        "San Mateo County, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485234937/",
+      "url": "https://trueinterview.io/jobs/edda1e92-bcb4-49bc-ba52-13e3d27061d7",
+      "postedAt": "2026-10-29T23:17:00.000Z",
+      "updatedAt": "2026-10-29T23:17:00.000Z"
+    },
+    {
+      "id": "714594cc-f244-42ff-ac50-2d4dd037f4f1",
+      "company": "GlobalFoundries",
+      "title": "Systems/Process Engineering, Tapeout Operations Intern (Summer 2027)",
+      "locations": [
+        "Essex Junction, VT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481147952/",
+      "url": "https://trueinterview.io/jobs/714594cc-f244-42ff-ac50-2d4dd037f4f1",
+      "postedAt": "2026-10-29T23:10:00.000Z",
+      "updatedAt": "2026-10-29T23:10:00.000Z"
+    },
+    {
+      "id": "c196abe9-c5d2-4253-835e-1aff4b038492",
+      "company": "bioMérieux",
+      "title": "Hardware Co-op",
+      "locations": [
+        "Hazelwood, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465566257/",
+      "url": "https://trueinterview.io/jobs/c196abe9-c5d2-4253-835e-1aff4b038492",
+      "postedAt": "2026-10-29T23:05:00.000Z",
+      "updatedAt": "2026-10-29T23:05:00.000Z"
+    },
+    {
+      "id": "c8517dc7-76f0-4d3f-9bb6-af4ef4037938",
+      "company": "Baker Hughes",
+      "title": "Intern - Software Engineering - 2027",
+      "locations": [
+        "Cramlington, England, United Kingdom",
+        "Cramlington, United Kingdom"
+      ],
+      "cities": [],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485236928/",
+      "url": "https://trueinterview.io/jobs/c8517dc7-76f0-4d3f-9bb6-af4ef4037938",
+      "postedAt": "2026-10-29T23:04:00.000Z",
+      "updatedAt": "2026-10-29T23:04:00.000Z"
+    },
+    {
+      "id": "543e2360-b705-48d3-9951-611d6e1aa90c",
+      "company": "Parker Hannifin",
+      "title": "Engineer Intern - Military Flight Controls Division",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485251349/",
+      "url": "https://trueinterview.io/jobs/543e2360-b705-48d3-9951-611d6e1aa90c",
+      "postedAt": "2026-10-29T22:56:00.000Z",
+      "updatedAt": "2026-10-29T22:56:00.000Z"
+    },
+    {
+      "id": "67a707f3-8af1-4193-ad13-db2aebb119f4",
+      "company": "enGen",
+      "title": "Summer 2027 Quality Engineer enGen Undergraduate Intern",
+      "locations": [
+        "Camp Hill, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485235594/",
+      "url": "https://trueinterview.io/jobs/67a707f3-8af1-4193-ad13-db2aebb119f4",
+      "postedAt": "2026-10-29T22:54:00.000Z",
+      "updatedAt": "2026-10-29T22:54:00.000Z"
+    },
+    {
+      "id": "08abdd8f-2c89-47d8-a299-7d40df343f54",
+      "company": "TaskVerse",
+      "title": "Gen AI Developer Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485231976/",
+      "url": "https://trueinterview.io/jobs/08abdd8f-2c89-47d8-a299-7d40df343f54",
+      "postedAt": "2026-10-29T22:54:00.000Z",
+      "updatedAt": "2026-10-29T22:54:00.000Z"
+    },
+    {
+      "id": "5e510bab-4aed-4079-961f-e12ce760ac6e",
+      "company": "Texas-New Mexico Power (TNMP)",
+      "title": "2027 Summer Engineering Internship (Houston Area)",
+      "locations": [
+        "Texas City, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4483144415/",
+      "url": "https://trueinterview.io/jobs/5e510bab-4aed-4079-961f-e12ce760ac6e",
+      "postedAt": "2026-10-29T22:53:00.000Z",
+      "updatedAt": "2026-10-29T22:53:00.000Z"
+    },
+    {
+      "id": "6cd47aae-4d8e-4cbf-9ba6-825f64bd58f1",
+      "company": "IMEG",
+      "title": "Civil Engineering Intern | Melbourne, FL",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "cities": [
+        "Melbourne"
+      ],
+      "countries": [
+        "United States",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474613836/",
+      "url": "https://trueinterview.io/jobs/6cd47aae-4d8e-4cbf-9ba6-825f64bd58f1",
+      "postedAt": "2026-10-29T22:51:00.000Z",
+      "updatedAt": "2026-10-29T22:51:00.000Z"
+    },
+    {
+      "id": "edee1cf6-a0a7-47c2-9b56-711d0eaebd0f",
+      "company": "IMEG",
+      "title": "Mechanical Engineering Intern | Melbourne, FL",
+      "locations": [
+        "Melbourne, FL"
+      ],
+      "cities": [
+        "Melbourne"
+      ],
+      "countries": [
+        "United States",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474627423/",
+      "url": "https://trueinterview.io/jobs/edee1cf6-a0a7-47c2-9b56-711d0eaebd0f",
+      "postedAt": "2026-10-29T22:51:00.000Z",
+      "updatedAt": "2026-10-29T22:51:00.000Z"
+    },
+    {
+      "id": "dd0742c5-08e8-469b-b696-714845d4551a",
+      "company": "PTC",
+      "title": "Arena Engineering Intern (Summer 2027)",
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo County, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955",
+      "url": "https://trueinterview.io/jobs/dd0742c5-08e8-469b-b696-714845d4551a",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T22:32:00.000Z"
     },
     {
       "id": "ecd1b0bf-f425-4aa4-ad3a-96fd0af2abef",
