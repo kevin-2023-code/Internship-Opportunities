@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,458 open roles.** 1,129 in the United States & Canada · 329 elsewhere in the world. Everything the employers put up this week.
+**1,457 open roles.** 1,127 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,90 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecd1b0bf-f425-4aa4-ad3a-96fd0af2abef">Applications Engineering Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485236418/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6c21bb17-eeb2-43ae-8908-9e88020a9f0c">Manufacturing Quality Engineer Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485233826/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9c5ef3b0-b571-4097-a5cb-6bfd349a39b7">Product Engineer Intern</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485246133/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d641c2d9-6dce-4a09-a389-60a320e25746">Research Engineering Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239343/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PIMCO</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a5a3d09-016c-497d-8a48-52dab392287f">2027 PhD/MFE Summer Intern – Quantitative Portfolio Manager</a></td>
+<td>Newport Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460286303/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumicera Health Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7bc7517-aa99-4bf6-abf0-69478f14da5c">Summer Intern- IT Support</a></td>
+<td>Appleton, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4397043668/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
+<td>Richardson, TX<br/>Bend, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239335/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Syntiant Corp</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf7cb3f6-37c2-40d1-a1c8-102404895612">Internship - DevOps Machine Learning Infrastructure</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://apply.workable.com/j/041E7A875F">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Internship List</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fb3b1a8-fd3c-40eb-8a81-e7cd64760818">Data Analyst Intern (Winter/January 2027, 12 Months)</a></td>
+<td>Toronto, Ontario, Canada<br/>Burnaby, British Columbia, Canada<br/>Oakville, Ontario, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Signify</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8c542fd-7976-4f37-a65f-bc6dc4d3eeea">Product Management Intern, Cooper Lighting Solutions - Spring 2027</a></td>
+<td>Peachtree City, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223089/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>FortisBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b">Engineering Co-op, System Integrity</a></td>
+<td>Surrey, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475720493/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renewables - Bazefield</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c5da57-03d4-4e0e-bba6-d33948f639a5">Product Designer/Developer Intern</a></td>
+<td>Del Mar, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478488260/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Brunswick Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc7235e1-cd36-4f41-94a8-fb6a4a73a93f">Merucry Marine: Product Management Intern – Parts &amp; Accessories</a></td>
@@ -2220,104 +2304,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484745247/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/539a258c-d8fa-421d-8288-8c02cc67b453">Product Engineering Intern</a></td>
-<td>Greensboro, NC<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484480567/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e94432c5-a96f-42cc-ab52-e0d3e0c7f86c">Product Management Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727825/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Golden State Water Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/41c48016-0b99-4286-8698-beb970f11cfb">Engineering Assistant Intern (109.26)</a></td>
-<td>Rancho Cordova, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732794/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f91c1d30-cd17-4999-af1b-00094c5e2101">Digital Systems Engineering Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484746131/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1dd8c5fa-1629-4277-9dbe-cc493624e88a">Test Engineering Intern</a></td>
-<td>Greensboro, NC<br/>Hillsboro, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484472862/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>New York Cancer &amp; Blood Specialists</strong></td>
-<td><a href="https://trueinterview.io/jobs/50ac8031-f0e4-44d6-aac7-41d610b2eff9">Intern, IT Service Desk</a></td>
-<td>Ridge, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482551658/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/373173f0-1195-40d5-b26b-35c987642e95">Characterization Engineering Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484736587/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a6597bf-840f-4b98-9bb6-3fb355c330f7">RRFIC Design Engineering Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723996/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LinkedIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/7241db6a-a1ac-4032-8668-283ce58b60d9">Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA)</a></td>
-<td>Mountain View, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000158394370-software-engineer-intern-first-play-summer-2027-mountain-view-ca-">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AeroNex Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/3504ec56-cc14-4424-a908-054d096261c3">Vehicle Integration and Test Engineer Intern, Remote</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738176/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d34364ee-5313-439b-b1dd-4c3329be62f6">Design Engineering Intern</a></td>
-<td>Apopka, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484733731/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ascendria Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b32f813-4de0-4bdb-8f38-79c10668fbb7">Vehicle Integration and Test Engineer Intern | (Remote)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482567152/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Timmons Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd604285-341a-4375-a87c-89c0dc85964d">Civil Engineering Internship - Summer 2027</a></td>
-<td>Columbia, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484734640/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lionakis</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fe73be5-ace6-487d-8e8b-ed0b53d1452e">Student Intern Summer 2027 - Structural Engineering</a></td>
-<td>Sacramento, CA<br/>Irvine, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738446/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2367,6 +2353,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/11f4b141-c52f-4c8b-acb3-37a4af444131">AI Product Manager Intern, Game Development</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479828651/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2829cf1f-cf01-4114-a275-cf79cf512542">Product Manager Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479832552/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0">Product Manager Intern, User Acquisition</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479837326/">Apply</a></td>

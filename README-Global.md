@@ -18,11 +18,11 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-05 21:04 UTC_
+_Last updated: 2026-11-05 22:04 UTC_
 
-**482 open internships** from **249 employers** · **329 posted in the last 7 days** · refreshed hourly
+**484 open internships** from **249 employers** · **330 posted in the last 7 days** · refreshed hourly
 
-### Browse 482 internships by field
+### Browse 484 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (207)
 
@@ -30,7 +30,7 @@ _Last updated: 2026-11-05 21:04 UTC_
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (48)
 
-📱 **[Product & Design](#-product--design)** (50)
+📱 **[Product & Design](#-product--design)** (52)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (23)
 
@@ -40,7 +40,7 @@ _Last updated: 2026-11-05 21:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**Infineon Technologies** 30 &nbsp;·&nbsp; **NVIDIA** 23 &nbsp;·&nbsp; **Apple** 12 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 6 &nbsp;·&nbsp; **SAP** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Tesla** 5
+**Infineon Technologies** 30 &nbsp;·&nbsp; **NVIDIA** 23 &nbsp;·&nbsp; **Apple** 12 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 6 &nbsp;·&nbsp; **SAP** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **Qualcomm** 5
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 46 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -52,11 +52,11 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (98)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (42)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (30)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (16)](lists/company/enterprise-saas.md) · [📈 Quant trading & hedge funds (16)](lists/company/quant-trading.md) · [📱 Consumer internet & media (14)](lists/company/consumer-internet.md) · [🚗 Autonomy, automotive & mobility (12)](lists/company/autonomy-mobility.md) · [🏗️ Large tech (1,000–9,999) (9)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [+10 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (65)](lists/role/software-engineer.md) · [AI Engineer (37)](lists/role/ai-engineer.md) · [Data Analyst (35)](lists/role/data-analyst.md) · [Product Manager (31)](lists/role/product-manager.md) · [Machine Learning Engineer (28)](lists/role/machine-learning-engineer.md) · [Data Scientist (16)](lists/role/data-scientist.md) · [Research Scientist (11)](lists/role/research-scientist.md) · [Data Engineer (10)](lists/role/data-engineer.md) · [Quantitative Developer (9)](lists/role/quantitative-developer.md) · [Quantitative Researcher (9)](lists/role/quantitative-researcher.md) · [+11 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (65)](lists/role/software-engineer.md) · [AI Engineer (37)](lists/role/ai-engineer.md) · [Data Analyst (35)](lists/role/data-analyst.md) · [Product Manager (33)](lists/role/product-manager.md) · [Machine Learning Engineer (28)](lists/role/machine-learning-engineer.md) · [Data Scientist (16)](lists/role/data-scientist.md) · [Research Scientist (11)](lists/role/research-scientist.md) · [Data Engineer (10)](lists/role/data-engineer.md) · [Quantitative Developer (9)](lists/role/quantitative-developer.md) · [Quantitative Researcher (9)](lists/role/quantitative-researcher.md) · [+11 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (92)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (34)](lists/place/greater-china.md) · [🇬🇧 London & the UK (33)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (23)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (21)](lists/place/germany.md) · [🇫🇷 Paris & France (21)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (16)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (16)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🏰 Warsaw, Kraków & Central Europe (11)](lists/place/poland-cee.md) · [+5 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (92)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (34)](lists/place/greater-china.md) · [🇬🇧 London & the UK (33)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (23)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (21)](lists/place/germany.md) · [🇫🇷 Paris & France (21)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (18)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (16)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🏰 Warsaw, Kraków & Central Europe (11)](lists/place/poland-cee.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (329)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (330)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -904,6 +904,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/11f4b141-c52f-4c8b-acb3-37a4af444131">AI Product Manager Intern, Game Development</a> 🆕</td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479828651/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2829cf1f-cf01-4114-a275-cf79cf512542">Product Manager Intern</a> 🆕</td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479832552/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0">Product Manager Intern, User Acquisition</a> 🆕</td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479837326/">Apply</a></td>
@@ -1063,20 +1077,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457615012/">Apply</a></td>
 <td align="center">7d</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/53336a68-062d-4107-97e7-9a2f3aedf305">Product Manager Program Intern (Money Platform) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457609042/">Apply</a></td>
-<td align="center">7d</td>
-</tr>
-<tr>
-<td><strong>Trespa</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea91005f-976e-445f-9abb-0ae40243f751">Product Management/ Marketing Communication Intern</a></td>
-<td>Weert, Limburg, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474122869/">Apply</a></td>
-<td align="center">7d</td>
-</tr>
 </tbody>
 </table>
 
@@ -1128,7 +1128,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 30 of 50.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
+**Showing 30 of 52.** [Every Product & Design role, newest first →](lists/field/product-and-design.md)
 
 ## 📈 Quantitative Finance
 
@@ -1381,7 +1381,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793">Technical Support Engineer - Intern</a></td>
 <td>Cork Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484727816/">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td><strong>DXC Technology</strong></td>

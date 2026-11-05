@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**198 open roles.** 148 in the United States & Canada · 50 elsewhere in the world.
+**203 open roles.** 151 in the United States & Canada · 52 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/eaec6c85-7cda-465c-9aef-aab687f2df7a">Software Product Management Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487576021/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7">Product Manager Spring Co-op 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453039527/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shure</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7f29a7e-f088-4840-a39f-5a4cc01a9365">User Experience Design (UX) Intern</a></td>
+<td>Niles, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461387753/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Little Caesars Pizza</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9cc171f-7939-4bf8-b67b-389bff4c1ff6">Intern, UI/UX</a></td>
+<td>Detroit, Michigan, United States</td>
+<td align="center"><a href="https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Digital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3443775-83aa-4770-b7ac-e8eaecd5246c">UX Design Research Intern ( U.S.A Only )</a></td>
@@ -50,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a">Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485598010/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Little Caesars Pizza</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9cc171f-7939-4bf8-b67b-389bff4c1ff6">Intern, UI/UX</a></td>
-<td>Detroit, Michigan, United States</td>
-<td align="center"><a href="https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1067,6 +1088,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/11f4b141-c52f-4c8b-acb3-37a4af444131">AI Product Manager Intern, Game Development</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479828651/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2829cf1f-cf01-4114-a275-cf79cf512542">Product Manager Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479832552/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0">Product Manager Intern, User Acquisition</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479837326/">Apply</a></td>

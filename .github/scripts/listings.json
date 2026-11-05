@@ -5,9 +5,138 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T21:04:07.260Z",
-  "count": 2746,
+  "listingsChangedAt": "2026-11-05T22:04:52.590Z",
+  "count": 2760,
   "listings": [
+    {
+      "id": "58536b1b-e544-4c58-9502-efc5cb1901fa",
+      "company": "Raytheon",
+      "title": "Internship – Raytheon Systems Security Engineer -Onsite",
+      "locations": [
+        "Tewksbury, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487785897/",
+      "url": "https://trueinterview.io/jobs/58536b1b-e544-4c58-9502-efc5cb1901fa",
+      "postedAt": "2026-11-05T20:42:00.000Z",
+      "updatedAt": "2026-11-05T20:42:00.000Z"
+    },
+    {
+      "id": "eaec6c85-7cda-465c-9aef-aab687f2df7a",
+      "company": "HP",
+      "title": "Software Product Management Intern",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487576021/",
+      "url": "https://trueinterview.io/jobs/eaec6c85-7cda-465c-9aef-aab687f2df7a",
+      "postedAt": "2026-11-05T20:34:00.000Z",
+      "updatedAt": "2026-11-05T20:34:00.000Z"
+    },
+    {
+      "id": "2c9da9ff-c61c-4c18-b10d-e7c2825a7730",
+      "company": "Eluvio",
+      "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488030782/",
+      "url": "https://trueinterview.io/jobs/2c9da9ff-c61c-4c18-b10d-e7c2825a7730",
+      "postedAt": "2026-11-05T20:27:00.000Z",
+      "updatedAt": "2026-11-05T20:27:00.000Z"
+    },
+    {
+      "id": "9e8441a5-4df3-4ddd-aadc-6c76cb81cb5e",
+      "company": "Ingredion Incorporated",
+      "title": "AI & Data Scientist Intern",
+      "locations": [
+        "Westchester, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462096671/",
+      "url": "https://trueinterview.io/jobs/9e8441a5-4df3-4ddd-aadc-6c76cb81cb5e",
+      "postedAt": "2026-11-05T20:27:00.000Z",
+      "updatedAt": "2026-11-05T20:27:00.000Z"
+    },
+    {
+      "id": "338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7",
+      "company": "IBM",
+      "title": "Product Manager Spring Co-op 2027",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4453039527/",
+      "url": "https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7",
+      "postedAt": "2026-11-05T20:24:00.000Z",
+      "updatedAt": "2026-11-05T20:24:00.000Z"
+    },
     {
       "id": "0ec232c3-1183-4af7-8616-1c949c52cd44",
       "company": "Tower Research Capital",
@@ -144,6 +273,56 @@
       "updatedAt": "2026-11-05T20:06:00.000Z"
     },
     {
+      "id": "36130515-0419-4026-bf87-a93cfb9f5e7d",
+      "company": "Toyota Research Institute",
+      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
+      "locations": [
+        "Los Altos, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487535321/",
+      "url": "https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d",
+      "postedAt": "2026-11-04T20:52:00.000Z",
+      "updatedAt": "2026-11-05T20:05:00.000Z"
+    },
+    {
+      "id": "9f8fe6a3-a4a0-4fa1-a2bf-35b8ee8ed060",
+      "company": "Hays Electrical Services",
+      "title": "Intern - Data Analyst",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471122455/",
+      "url": "https://trueinterview.io/jobs/9f8fe6a3-a4a0-4fa1-a2bf-35b8ee8ed060",
+      "postedAt": "2026-11-05T19:59:00.000Z",
+      "updatedAt": "2026-11-05T19:59:00.000Z"
+    },
+    {
       "id": "c5042bf0-9c17-4423-b6c9-7e05d4dcec93",
       "company": "Tower Research Capital",
       "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
@@ -169,6 +348,33 @@
       "url": "https://trueinterview.io/jobs/c5042bf0-9c17-4423-b6c9-7e05d4dcec93",
       "postedAt": "2026-11-05T19:59:00.000Z",
       "updatedAt": "2026-11-05T19:59:00.000Z"
+    },
+    {
+      "id": "5d595a4b-f73c-448f-bbbe-55267f94db8c",
+      "company": "Together AI",
+      "title": "Hardware Security Engineer Intern (Summer 2027)",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488042359/",
+      "url": "https://trueinterview.io/jobs/5d595a4b-f73c-448f-bbbe-55267f94db8c",
+      "postedAt": "2026-11-05T19:52:00.000Z",
+      "updatedAt": "2026-11-05T19:52:00.000Z"
     },
     {
       "id": "5a0d37f3-a99b-4013-8fc1-1a9f86943874",
@@ -401,6 +607,188 @@
       "url": "https://trueinterview.io/jobs/3de4194c-2a35-4bdb-99a6-0b9c4ef120fe",
       "postedAt": "2026-11-05T19:15:00.000Z",
       "updatedAt": "2026-11-05T19:15:00.000Z"
+    },
+    {
+      "id": "11f4b141-c52f-4c8b-acb3-37a4af444131",
+      "company": "Tencent",
+      "title": "AI Product Manager Intern, Game Development",
+      "locations": [
+        "Amsterdam, North Holland, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479828651/",
+      "url": "https://trueinterview.io/jobs/11f4b141-c52f-4c8b-acb3-37a4af444131",
+      "postedAt": "2026-11-05T19:12:00.000Z",
+      "updatedAt": "2026-11-05T19:12:00.000Z"
+    },
+    {
+      "id": "d7f29a7e-f088-4840-a39f-5a4cc01a9365",
+      "company": "Shure",
+      "title": "User Experience Design (UX) Intern",
+      "locations": [
+        "Niles, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461387753/",
+      "url": "https://trueinterview.io/jobs/d7f29a7e-f088-4840-a39f-5a4cc01a9365",
+      "postedAt": "2026-11-05T19:04:00.000Z",
+      "updatedAt": "2026-11-05T19:04:00.000Z"
+    },
+    {
+      "id": "7e93c300-bbcd-4528-b673-6703ebb8a328",
+      "company": "onsemi",
+      "title": "Spring 2027 - Semiconductor AI Specialist Intern",
+      "locations": [
+        "Gresham, OR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477020123/",
+      "url": "https://trueinterview.io/jobs/7e93c300-bbcd-4528-b673-6703ebb8a328",
+      "postedAt": "2026-11-05T18:59:00.000Z",
+      "updatedAt": "2026-11-05T18:59:00.000Z"
+    },
+    {
+      "id": "2829cf1f-cf01-4114-a275-cf79cf512542",
+      "company": "Tencent",
+      "title": "Product Manager Intern",
+      "locations": [
+        "Amsterdam, North Holland, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479832552/",
+      "url": "https://trueinterview.io/jobs/2829cf1f-cf01-4114-a275-cf79cf512542",
+      "postedAt": "2026-11-05T18:12:00.000Z",
+      "updatedAt": "2026-11-05T18:12:00.000Z"
+    },
+    {
+      "id": "d9cc171f-7939-4bf8-b67b-389bff4c1ff6",
+      "company": "Little Caesars Pizza",
+      "title": "Intern, UI/UX",
+      "locations": [
+        "Detroit, Michigan, United States",
+        "Detroit, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673",
+      "url": "https://trueinterview.io/jobs/d9cc171f-7939-4bf8-b67b-389bff4c1ff6",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T18:04:00.000Z"
+    },
+    {
+      "id": "8dc68db8-79a7-49b8-9d99-35547bb7c555",
+      "company": "Meta",
+      "title": "Research Scientist Intern, AI Maps (PhD)",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485842574/",
+      "url": "https://trueinterview.io/jobs/8dc68db8-79a7-49b8-9d99-35547bb7c555",
+      "postedAt": "2026-11-05T17:59:00.000Z",
+      "updatedAt": "2026-11-05T17:59:00.000Z"
+    },
+    {
+      "id": "b9d59308-e649-4902-bfac-a02bdb747edb",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD)",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485845375/",
+      "url": "https://trueinterview.io/jobs/b9d59308-e649-4902-bfac-a02bdb747edb",
+      "postedAt": "2026-11-05T17:59:00.000Z",
+      "updatedAt": "2026-11-05T17:59:00.000Z"
     },
     {
       "id": "4fe70514-8cf2-487d-8e33-88a3d7b5111d",
@@ -3325,31 +3713,6 @@
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
     {
-      "id": "d9cc171f-7939-4bf8-b67b-389bff4c1ff6",
-      "company": "Little Caesars Pizza",
-      "title": "Intern, UI/UX",
-      "locations": [
-        "Detroit, Michigan, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673",
-      "url": "https://trueinterview.io/jobs/d9cc171f-7939-4bf8-b67b-389bff4c1ff6",
-      "postedAt": "2026-11-05T00:00:00.000Z",
-      "updatedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
       "id": "5e8c1305-68e5-4005-ad23-d3a75da13829",
       "company": "LSEG",
       "title": "Intern - Software Engineer",
@@ -3425,6 +3788,31 @@
       "source": "career-sites",
       "applyUrl": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
       "url": "https://trueinterview.io/jobs/e6074268-d682-4457-928f-9cb7974cd3d4",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "a5475c88-08a0-4694-9383-ac4b9f64e918",
+      "company": "Procter & Gamble",
+      "title": "R&D PhD Summer Intern - AI Research Engineer",
+      "locations": [
+        "Mason, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468937273/",
+      "url": "https://trueinterview.io/jobs/a5475c88-08a0-4694-9383-ac4b9f64e918",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
@@ -3781,31 +4169,6 @@
       "url": "https://trueinterview.io/jobs/096efb99-6e84-4f75-825d-2bd71c0a687b",
       "postedAt": "2026-11-04T20:54:00.000Z",
       "updatedAt": "2026-11-04T20:54:00.000Z"
-    },
-    {
-      "id": "36130515-0419-4026-bf87-a93cfb9f5e7d",
-      "company": "Toyota Research Institute",
-      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
-      "locations": [
-        "Los Altos, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487535321/",
-      "url": "https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d",
-      "postedAt": "2026-11-04T20:52:00.000Z",
-      "updatedAt": "2026-11-04T20:52:00.000Z"
     },
     {
       "id": "66d1e565-3f80-47fa-86a3-0d2b8fa2f200",

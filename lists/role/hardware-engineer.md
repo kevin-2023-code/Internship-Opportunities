@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**121 open roles.** 114 in the United States & Canada · 7 elsewhere in the world.
+**122 open roles.** 115 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Onsemi</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e93c300-bbcd-4528-b673-6703ebb8a328">Spring 2027 - Semiconductor AI Specialist Intern</a></td>
+<td>Gresham, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477020123/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/e49f3c0c-8a16-43a8-bad5-69528e52c497">Supply Chain Hardware Developer Intern 2027</a></td>

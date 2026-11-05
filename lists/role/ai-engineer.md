@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**128 open roles.** 91 in the United States & Canada · 37 elsewhere in the world.
+**129 open roles.** 92 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e6074268-d682-4457-928f-9cb7974cd3d4">Software Engineer, Internship - Sovereign AI Systems</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5475c88-08a0-4694-9383-ac4b9f64e918">R&amp;D PhD Summer Intern - AI Research Engineer</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468937273/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,458 open roles.** 1,129 in the United States & Canada · 329 elsewhere in the world. Everything the employers put up this week.
+**1,457 open roles.** 1,127 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/58536b1b-e544-4c58-9502-efc5cb1901fa">Internship – Raytheon Systems Security Engineer -Onsite</a></td>
+<td>Tewksbury, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487785897/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>HP</strong></td>
+<td><a href="https://trueinterview.io/jobs/eaec6c85-7cda-465c-9aef-aab687f2df7a">Software Product Management Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487576021/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Eluvio</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c9da9ff-c61c-4c18-b10d-e7c2825a7730">Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)</a></td>
+<td>Berkeley, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488030782/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ingredion Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e8441a5-4df3-4ddd-aadc-6c76cb81cb5e">AI &amp; Data Scientist Intern</a></td>
+<td>Westchester, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462096671/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7">Product Manager Spring Co-op 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453039527/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Elevated Web Design</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8e59ae9-ce13-40aa-b9a4-99a763466c69">ML Software Engineering Internship</a></td>
@@ -38,6 +73,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af0d4d28-a495-4dec-af46-2858e04bab5c">Intern, Developer IT</a></td>
 <td>Detroit, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487799873/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toyota Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d">Automated Driving Advanced Development Intern, Machine Learning Research</a></td>
+<td>Los Altos, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487535321/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hays Electrical Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f8fe6a3-a4a0-4fa1-a2bf-35b8ee8ed060">Intern - Data Analyst</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471122455/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Together AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d595a4b-f73c-448f-bbbe-55267f94db8c">Hardware Security Engineer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488042359/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -87,6 +143,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3de4194c-2a35-4bdb-99a6-0b9c4ef120fe">Summer Embedded Developer Intern</a></td>
 <td>Columbia, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488009966/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shure</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7f29a7e-f088-4840-a39f-5a4cc01a9365">User Experience Design (UX) Intern</a></td>
+<td>Niles, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461387753/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Onsemi</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e93c300-bbcd-4528-b673-6703ebb8a328">Spring 2027 - Semiconductor AI Specialist Intern</a></td>
+<td>Gresham, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477020123/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Little Caesars Pizza</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9cc171f-7939-4bf8-b67b-389bff4c1ff6">Intern, UI/UX</a></td>
+<td>Detroit, Michigan, United States</td>
+<td align="center"><a href="https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dc68db8-79a7-49b8-9d99-35547bb7c555">Research Scientist Intern, AI Maps (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485842574/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b9d59308-e649-4902-bfac-a02bdb747edb">Research Scientist Intern, Humanoid Control &amp; Dexterous Manipulation (PhD)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485845375/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -741,13 +832,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Little Caesars Pizza</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9cc171f-7939-4bf8-b67b-389bff4c1ff6">Intern, UI/UX</a></td>
-<td>Detroit, Michigan, United States</td>
-<td align="center"><a href="https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>LSEG</strong></td>
 <td><a href="https://trueinterview.io/jobs/5e8c1305-68e5-4005-ad23-d3a75da13829">Intern - Software Engineer</a></td>
 <td>New York, NY</td>
@@ -759,6 +843,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e6074268-d682-4457-928f-9cb7974cd3d4">Software Engineer, Internship - Sovereign AI Systems</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5475c88-08a0-4694-9383-ac4b9f64e918">R&amp;D PhD Summer Intern - AI Research Engineer</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468937273/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -857,13 +948,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/096efb99-6e84-4f75-825d-2bd71c0a687b">Intern (Data Analyst)</a></td>
 <td>Gresham, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487506859/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toyota Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d">Automated Driving Advanced Development Intern, Machine Learning Research</a></td>
-<td>Los Altos, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487535321/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2733,90 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e8f7e0aa-0abb-4d20-98e1-8e2585294712">Technical Product Manager Co-op, AI Strategic Hub (DASH)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486421959/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GM Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949">Intern - Software Development Engineer</a></td>
-<td>Arlington, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467580870/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b10caa2b-1dc2-4b35-9eb3-311345ff4359">Intern - Cybersecurity</a></td>
-<td>Arlington, TX<br/>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471392374/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
-<td><a href="https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b">Agentic Software Engineering Intern</a></td>
-<td>Durham, North Carolina, United States<br/>Frisco, Texas, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>KEEN Footwear</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa0b94cf-8a19-4e00-86ae-d48cc83226d9">Analytics Engineer Intern</a></td>
-<td>Portland, Oregon, United States</td>
-<td align="center"><a href="https://www.keenfootwear.com/careers-list.html?4748305005&amp;gh_jid=4748305005">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td><a href="https://trueinterview.io/jobs/89600b69-4671-4f9a-9788-ff748bbca786">Internship Program Manager - B4</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480063470/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive</strong></td>
-<td><a href="https://trueinterview.io/jobs/72ee7a07-9e41-4152-8f24-d09f5733409e">Data Science Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159210829-data-science-intern">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf641eeb-41b9-4a49-a718-f6aa7ee7d5b6">Data Science &amp; Business Analytics Intern</a></td>
-<td>Durham, North Carolina, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5276963007">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/42087e14-1b5a-4af7-b030-fc293ced00d5">Software Engineering Intern</a></td>
-<td>Durham, North Carolina, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/81429d5f-3b88-405a-a748-785bbcb8fbde">Confluent - Technical Program Manager - Intern Conversion</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484378295/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>First Citizens Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/38f777f6-9570-40aa-b6f4-611ad793d780">2027 Summer Intern - Enterprise Data Analyst, Data Products (Raleigh, NC)</a></td>
-<td>Raleigh, North Carolina, United States<br/>Raleigh, NC</td>
-<td align="center"><a href="https://jobs.firstcitizens.com/jobs/36234">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde">Confluent - Software Developer - Intern Conversion</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484374568/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Citadel Securities</strong></td>
-<td><a href="https://trueinterview.io/jobs/85e53129-e797-49a7-a7b8-5cc06d27ea30">Quantitative Researcher – Post-Doctoral Intern (US)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469332959/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

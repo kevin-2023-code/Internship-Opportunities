@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**37 open roles.** 33 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**38 open roles.** 34 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7">Product Manager Spring Co-op 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453039527/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/479346bd-acd5-4764-8e62-b17ca66c0110">Software Engineer Intern 2027</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485846284/">Apply</a></td>

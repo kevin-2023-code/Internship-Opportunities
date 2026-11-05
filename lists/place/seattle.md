@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**95 open roles.**
+**97 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c19f2c41-3b4c-4602-8bd3-0050e5626d12">June 2027 Co-Op - Software Engineer Intern</a></td>
 <td>Seattle, Washington, United States<br/>Washington, DC<br/>San Diego, California, United States<br/>+3 more</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/8dc68db8-79a7-49b8-9d99-35547bb7c555">Research Scientist Intern, AI Maps (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485842574/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b9d59308-e649-4902-bfac-a02bdb747edb">Research Scientist Intern, Humanoid Control &amp; Dexterous Manipulation (PhD)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485845375/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

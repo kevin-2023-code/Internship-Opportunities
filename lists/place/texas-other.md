@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**32 open roles.**
+**33 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hays Electrical Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f8fe6a3-a4a0-4fa1-a2bf-35b8ee8ed060">Intern - Data Analyst</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471122455/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Whataburger</strong></td>
 <td><a href="https://trueinterview.io/jobs/2306e1f0-45ea-49bc-a068-8e7313d9e21b">Data Scientist Intern</a></td>

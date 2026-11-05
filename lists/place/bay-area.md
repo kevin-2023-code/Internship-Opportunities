@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**417 open roles.**
+**420 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Eluvio</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c9da9ff-c61c-4c18-b10d-e7c2825a7730">Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)</a></td>
+<td>Berkeley, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488030782/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7">Product Manager Spring Co-op 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453039527/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toyota Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d">Automated Driving Advanced Development Intern, Machine Learning Research</a></td>
+<td>Los Altos, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487535321/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Together AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d595a4b-f73c-448f-bbbe-55267f94db8c">Hardware Security Engineer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488042359/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/5a0d37f3-a99b-4013-8fc1-1a9f86943874">Software Engineering Intern - Connected Systems (January - August 2027)</a></td>
@@ -185,13 +213,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
 <td>Milpitas, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toyota Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d">Automated Driving Advanced Development Intern, Machine Learning Research</a></td>
-<td>Los Altos, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487535321/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
 <td>San Francisco, CA<br/>Mexico City, Mexico<br/>Flex - Mexico</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
-<td>San Francisco, California, United States<br/>New York, NY</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/90738bb8-0f77-46d8-927c-0381a9d29dd1">2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92346?lang=en-us">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2e2729c3-c320-4259-993e-46adb4b9d65b">2027 PhD Optical &amp; Photonics Engineering Intern/Co-Op</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92358?lang=en-us">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

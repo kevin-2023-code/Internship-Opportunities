@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,194 open roles.** 987 in the United States & Canada · 207 elsewhere in the world.
+**1,196 open roles.** 989 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2a6592a-a167-4029-9b87-3e4f2a5f5e97">Software Engineering Intern IV, (Summer 2027) Onsite</a></td>
+<td>Nashua, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Marathon Petroleum Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f386cbea-0893-484b-97a3-d7fb1cc95c01">Process Optimization Engineer I - Midstream Natural Gas &amp; NGL Services (Intern to Full-Time Conversion)</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485259470/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>bioMérieux</strong></td>
 <td><a href="https://trueinterview.io/jobs/5eb55ddd-6b2c-45c0-adaf-ad094e4e2e1e">System Engineering Co-op</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/bac55478-ed6d-4354-b736-e7d3d57f0f82">Software Test Engineer Intern</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://careers-gdms.icims.com/jobs/75729/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/3750c7b7-fb5a-487c-b954-8b773e8a0c24">2027 Software Engineer Intern - Azusa CA</a></td>
-<td>Azusa, CA</td>
-<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340074998859?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/61176f88-307c-4411-ac82-7979fca603a0">Systems Engineering Co-op</a></td>
-<td>Woburn, MA</td>
-<td align="center"><a href="https://careers.rtx.com/global/en/job/01884039">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 </tbody>

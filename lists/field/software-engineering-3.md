@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,194 open roles.** 987 in the United States & Canada · 207 elsewhere in the world.
+**1,196 open roles.** 989 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/3750c7b7-fb5a-487c-b954-8b773e8a0c24">2027 Software Engineer Intern - Azusa CA</a></td>
+<td>Azusa, CA</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340074998859?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/61176f88-307c-4411-ac82-7979fca603a0">Systems Engineering Co-op</a></td>
+<td>Woburn, MA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01884039">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>United Concordia Dental</strong></td>
 <td><a href="https://trueinterview.io/jobs/9aa9a95b-7095-4540-99e1-2af30e87e4db">Summer 2027 Enterprise Architecture Software Engineer &amp; Architect enGen Undergradute Intern</a></td>

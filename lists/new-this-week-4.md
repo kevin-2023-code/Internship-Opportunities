@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,458 open roles.** 1,129 in the United States & Canada · 329 elsewhere in the world. Everything the employers put up this week.
+**1,457 open roles.** 1,127 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1814,13 +1814,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/71079210-d575-41ef-80a5-f265cee587a1">Roadway Engineer Intern</a></td>
 <td>Greater Orlando</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484740780/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cohesity</strong></td>
-<td><a href="https://trueinterview.io/jobs/2255c691-a609-4d1d-adb0-751b9fe86793">Technical Support Engineer - Intern</a></td>
-<td>Cork Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484727816/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**549 open roles.** 408 in the United States & Canada · 141 elsewhere in the world.
+**555 open roles.** 414 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Newsbreak</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3617224-f501-4c5a-9507-ba0854fcf862">Nearby AI Internship Program - Engineering Track</a></td>
+<td>Mountain View, California, United States<br/>Mountain View Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/65bb4f66-47c0-4b9d-b301-9906cd87e515">Software Engineer Intern, Machine Learning (Summer 2027)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Coworking</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/72700c8e-9101-4bb5-875b-31599f2eb316">Customer Care AI Analyst Intern - Summer 2027</a></td>
+<td>Columbus, OH, USA<br/>United States of America</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
+<td>San Francisco, California, United States<br/>New York, NY</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cim Group, Lp</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a5d3216-939f-4937-832d-34c7a82b29aa">Data Science Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b/apply">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Smartlyio</strong></td>
 <td><a href="https://trueinterview.io/jobs/c937133a-7136-4db6-9056-2423c59ccd44">Marketing Science Intern</a></td>

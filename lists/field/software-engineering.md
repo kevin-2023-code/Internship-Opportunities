@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,194 open roles.** 987 in the United States & Canada · 207 elsewhere in the world.
+**1,196 open roles.** 989 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/58536b1b-e544-4c58-9502-efc5cb1901fa">Internship – Raytheon Systems Security Engineer -Onsite</a></td>
+<td>Tewksbury, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487785897/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/c19f2c41-3b4c-4602-8bd3-0050e5626d12">June 2027 Co-Op - Software Engineer Intern</a></td>
 <td>Washington, DC<br/>Seattle, Washington, United States<br/>San Diego, California, United States<br/>+3 more</td>
@@ -31,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af0d4d28-a495-4dec-af46-2858e04bab5c">Intern, Developer IT</a></td>
 <td>Detroit, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487799873/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Together AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d595a4b-f73c-448f-bbbe-55267f94db8c">Hardware Security Engineer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488042359/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/736953f2-466f-4969-8de4-ca843638e223">Software Engineering Intern II, (Summer 2027) Onsite</a></td>
 <td>Nashua, NH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483400411/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a2a6592a-a167-4029-9b87-3e4f2a5f5e97">Software Engineering Intern IV, (Summer 2027) Onsite</a></td>
-<td>Nashua, NH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483091748/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Marathon Petroleum Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/f386cbea-0893-484b-97a3-d7fb1cc95c01">Process Optimization Engineer I - Midstream Natural Gas &amp; NGL Services (Intern to Full-Time Conversion)</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485259470/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
