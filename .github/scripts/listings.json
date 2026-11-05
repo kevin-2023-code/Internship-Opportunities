@@ -5,9 +5,196 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T09:05:45.880Z",
-  "count": 2654,
+  "listingsChangedAt": "2026-11-05T10:04:55.093Z",
+  "count": 2664,
   "listings": [
+    {
+      "id": "65766bc1-b930-4363-bce7-022cd15340f7",
+      "company": "Clearwater Analytics",
+      "title": "Quant Developer Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459568468/",
+      "url": "https://trueinterview.io/jobs/65766bc1-b930-4363-bce7-022cd15340f7",
+      "postedAt": "2026-11-05T09:17:16.000Z",
+      "updatedAt": "2026-11-05T09:39:00.000Z"
+    },
+    {
+      "id": "0e380b98-d3a0-4d2e-9b59-e4997aff720c",
+      "company": "Clearwater Analytics",
+      "title": "UX/UI/Technical Content Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459585247/",
+      "url": "https://trueinterview.io/jobs/0e380b98-d3a0-4d2e-9b59-e4997aff720c",
+      "postedAt": "2026-11-05T09:39:00.000Z",
+      "updatedAt": "2026-11-05T09:39:00.000Z"
+    },
+    {
+      "id": "f67a5b2c-2b09-4f01-992f-413c75e5403e",
+      "company": "Shopee",
+      "title": "Product Manager Intern — AI Commerce (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486588318/",
+      "url": "https://trueinterview.io/jobs/f67a5b2c-2b09-4f01-992f-413c75e5403e",
+      "postedAt": "2026-11-05T09:13:00.000Z",
+      "updatedAt": "2026-11-05T09:13:00.000Z"
+    },
+    {
+      "id": "bd65d621-8061-4608-a57a-b06b54b33621",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Research Internship - PhD: Summer 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4431533760/",
+      "url": "https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621",
+      "postedAt": "2026-11-05T09:11:00.000Z",
+      "updatedAt": "2026-11-05T09:11:00.000Z"
+    },
+    {
+      "id": "c42fb8b2-c0e1-4f67-9385-c4058169c6df",
+      "company": "Ascend Learning",
+      "title": "Intern - Software Engineering",
+      "locations": [
+        "Leawood, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471129906/",
+      "url": "https://trueinterview.io/jobs/c42fb8b2-c0e1-4f67-9385-c4058169c6df",
+      "postedAt": "2026-11-05T09:06:00.000Z",
+      "updatedAt": "2026-11-05T09:06:00.000Z"
+    },
+    {
+      "id": "cafba895-120e-43fc-9813-00fdf2382a1f",
+      "company": "PayPal",
+      "title": "Data Scientist Intern - Summer 2027",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487701762/",
+      "url": "https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f",
+      "postedAt": "2026-11-05T08:53:00.000Z",
+      "updatedAt": "2026-11-05T08:53:00.000Z"
+    },
+    {
+      "id": "7807c2f2-3e48-47a7-9337-9c91619d14a0",
+      "company": "PayPal",
+      "title": "Machine Learning Engineer PhD Intern - Summer 2027",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487712250/",
+      "url": "https://trueinterview.io/jobs/7807c2f2-3e48-47a7-9337-9c91619d14a0",
+      "postedAt": "2026-11-05T08:53:00.000Z",
+      "updatedAt": "2026-11-05T08:53:00.000Z"
+    },
     {
       "id": "9847f50e-a0d6-4764-ae62-8e79d5311f28",
       "company": "NVIDIA",
@@ -66,6 +253,31 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4487599855/",
       "url": "https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc",
       "postedAt": "2026-11-05T05:04:00.000Z",
+      "updatedAt": "2026-11-05T08:16:00.000Z"
+    },
+    {
+      "id": "76d1c241-d450-4328-948e-e0961a331a89",
+      "company": "SoTalent",
+      "title": "Creative Design & UX Research Intern",
+      "locations": [
+        "California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485590898/",
+      "url": "https://trueinterview.io/jobs/76d1c241-d450-4328-948e-e0961a331a89",
+      "postedAt": "2026-11-05T08:16:00.000Z",
       "updatedAt": "2026-11-05T08:16:00.000Z"
     },
     {
@@ -242,7 +454,8 @@
       "company": "Google",
       "title": "Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027",
       "locations": [
-        "Taipei, Taipei City, Taiwan"
+        "Taipei, Taipei City, Taiwan",
+        "Taipei, Taipei, Taiwan"
       ],
       "cities": [],
       "countries": [
@@ -291,6 +504,56 @@
       "updatedAt": "2026-11-05T07:50:00.000Z"
     },
     {
+      "id": "dfd53f7e-fe52-4bc8-a602-7053ce48fbfc",
+      "company": "Google",
+      "title": "Mechanical Engineer Intern, PhD, Summer 2027",
+      "locations": [
+        "Taipei, Taipei, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/98194553416098502",
+      "url": "https://trueinterview.io/jobs/dfd53f7e-fe52-4bc8-a602-7053ce48fbfc",
+      "postedAt": "2026-11-05T07:08:11.000Z",
+      "updatedAt": "2026-11-05T07:08:11.000Z"
+    },
+    {
+      "id": "877585e3-703b-49a7-8706-336ff76c01c1",
+      "company": "FM",
+      "title": "Research Engineer Intern",
+      "locations": [
+        "Norwood, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487724159/",
+      "url": "https://trueinterview.io/jobs/877585e3-703b-49a7-8706-336ff76c01c1",
+      "postedAt": "2026-11-05T06:55:00.000Z",
+      "updatedAt": "2026-11-05T06:55:00.000Z"
+    },
+    {
       "id": "ba22b29c-56d1-4ec9-b0a0-35682cadbcd4",
       "company": "GEMINO AI",
       "title": "Software Engineering Intern: Dominican Republic (4–6 months, on-site",
@@ -314,6 +577,31 @@
       "url": "https://trueinterview.io/jobs/ba22b29c-56d1-4ec9-b0a0-35682cadbcd4",
       "postedAt": "2026-11-05T06:26:00.000Z",
       "updatedAt": "2026-11-05T06:26:00.000Z"
+    },
+    {
+      "id": "f50d8a38-1ea6-4b0a-adc8-a2032c472a38",
+      "company": "Northrop Grumman",
+      "title": "2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD",
+      "locations": [
+        "Baltimore, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487708730/",
+      "url": "https://trueinterview.io/jobs/f50d8a38-1ea6-4b0a-adc8-a2032c472a38",
+      "postedAt": "2026-11-05T05:55:00.000Z",
+      "updatedAt": "2026-11-05T05:55:00.000Z"
     },
     {
       "id": "63ac2891-dc50-47d6-9593-61f7b5138a26",
@@ -65203,33 +65491,6 @@
       "url": "https://trueinterview.io/jobs/11f4fb7c-d43b-4725-9187-88d852e34752",
       "postedAt": "2026-09-14T14:33:10.000Z",
       "updatedAt": "2026-09-14T14:33:10.000Z"
-    },
-    {
-      "id": "6734561e-53d6-4616-8766-cc58cfc5ca13",
-      "company": "Atlassian",
-      "title": "Software Engineer Intern, 2027 Summer U.S.",
-      "locations": [
-        "San Francisco - United States - San Francisco, California 94104 United States",
-        "Remote - Remote",
-        "Seattle - United States - Seattle, Washington United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job?mode=apply",
-      "url": "https://trueinterview.io/jobs/6734561e-53d6-4616-8766-cc58cfc5ca13",
-      "postedAt": "2026-09-14T14:23:10.000Z",
-      "updatedAt": "2026-09-14T14:23:10.000Z"
     },
     {
       "id": "b0a84d05-15bb-4490-843b-8cfa7bc377d3",
