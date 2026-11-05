@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**415 open roles.**
+**417 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e4bd8f5-75d1-4bd5-8ca5-82e7971c171b">2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op</a></td>
+<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92350?lang=en-us">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/37af2ee2-225c-440f-8de9-3f7ccceac608">Ph.D. Intern - Advanced Packaging &amp; Physical Integration</a></td>
+<td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+4 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---Advanced-Packaging---Physical-Integration_2604413">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
 <td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>

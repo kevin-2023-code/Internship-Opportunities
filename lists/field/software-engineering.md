@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,147 open roles.** 942 in the United States & Canada · 205 elsewhere in the world.
+**1,150 open roles.** 945 in the United States & Canada · 205 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motion</strong></td>
+<td><a href="https://trueinterview.io/jobs/413bc9bf-80b4-45bd-b8de-50611a2d3dfb">Cloud Developer Intern</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462086603/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rippling</strong></td>
+<td><a href="https://trueinterview.io/jobs/97d272c2-d917-4439-86ac-58c46ac338e2">Full Stack Software Engineer Intern - Summer 2027</a></td>
+<td>Seattle, WA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470493320/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Daikin Comfort</strong></td>
+<td><a href="https://trueinterview.io/jobs/f18da521-af8b-43e1-91a9-80d446ea86be">Programmer Analyst Intern, Summer 2027</a></td>
+<td>Waller, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461339575/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Covestro</strong></td>
+<td><a href="https://trueinterview.io/jobs/5966ae45-a92b-4873-a4e3-9e41b944be08">Supply Chain Application Developer Co-Op</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479552847/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AMETEK</strong></td>
+<td><a href="https://trueinterview.io/jobs/a56d92f7-b441-4477-a32b-c8f9aa62fc4a">Intern, Junior Python Developer</a></td>
+<td>Wayne, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470613861/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Medpace</strong></td>
 <td><a href="https://trueinterview.io/jobs/8045a93e-d9da-4cce-ab87-9b751f4ea69d">Software QA Test Engineer Intern - Spring 2027</a></td>
@@ -294,13 +329,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Rippling</strong></td>
-<td><a href="https://trueinterview.io/jobs/97d272c2-d917-4439-86ac-58c46ac338e2">Full Stack Software Engineer Intern - Summer 2027</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470493320/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3656080d-f8d5-4be8-be91-8f03581f4546">Software Engineer Intern - Backend Focused - Summer 2027</a></td>
 <td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470491426/">Apply</a></td>
@@ -654,13 +682,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d3a2ffde-fe10-4b60-8ab3-56fa33623bdc">Internship - Software Engineering - Spring 2027</a></td>
 <td>Cedar Park, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485007903/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RoboNex 88 Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b63e18a-c7a0-43fd-a274-140e52644f05">Software-Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485018203/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3ac89541-696b-4711-a25c-d6e16282da91">Aeromechanical Engineering Intern</a></td>
 <td>Moorpark, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485204531/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a340a99f-0cc6-4da2-a037-41d8e4b7612f">Embedded Engineer - Summer 2027 Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459087027/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hasbro</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208065/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arconic</strong></td>
-<td><a href="https://trueinterview.io/jobs/efd2c855-b001-45aa-b656-f6f620ea79f6">Quality Control Engineering Intern</a></td>
-<td>Cranberry Township, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476943476/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

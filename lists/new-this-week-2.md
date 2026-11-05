@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,648 open roles.** 1,297 in the United States & Canada · 351 elsewhere in the world. Everything the employers put up this week.
+**1,609 open roles.** 1,261 in the United States & Canada · 348 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,49 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>The Nuclear Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/53d39f9e-d531-4ef5-8077-cd3f20c79c89">Spring 2027 AI/ML Engineering Intern</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450748417/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok USDS Joint Venture</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4f8acc2-e430-4f71-8de1-41c1cddb1b16">AI Agent Engineer Intern (Payment Data Intelligence) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466940465/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/0df5d8d5-8523-490c-a1b0-8863ae609df0">University, 2027 Summer Games Software Developer Intern - Colorado Springs, CO</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460504527/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f79c9aba-a082-488b-a7f7-4ef28a374cff">University, 2027 Summer Games Data Scientist Intern - Atlanta, GA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460512396/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4265fb2-167c-4088-88b3-80028768df1e">Software Project Engineer Intern (Summer 2027) Onsite</a></td>
+<td>Windsor Locks, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469525131/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd21ced9-65b5-4592-a2b5-e6817987d044">University - 2027 Summer Games Data Scientist Intern - Charleston, SC</a></td>
+<td>Charleston, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460511422/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/aaea4dba-5f88-46ad-b5c6-64884972a6d2">University, 2027 Summer Games Software Developer Intern - Rome, NY</a></td>
 <td>Rome, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460509495/">Apply</a></td>
@@ -2771,48 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/77526c8f-0642-4e13-bebd-82e3881f177b">Intern - Software Engineer, Summer 2027</a></td>
 <td>St Louis, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466887436/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Impulse Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/52a95f7f-c2dc-4657-89f1-f710acc12733">Avionics Mechanical Engineering Intern (Summer 2027)</a></td>
-<td>Redondo Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484979796/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7617912-d9d9-483b-b348-293ab82dd16d">VDS (Voice, Data, Security) Engineering Intern - Summer 2027</a></td>
-<td>Conshohocken, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476988984/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vulcan Materials Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c8a2970-aae7-42e0-92ba-2f9860bd287a">2027 Summer Internship-Cybersecurity</a></td>
-<td>Birmingham, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475473333/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/7254bd2c-0d0e-4afc-bd13-58e42ca1e83f">Technical Support Intern - RTP, Durham, Poughkeepsie &amp; Tucson 2027</a></td>
-<td>Poughkeepsie, AR<br/>Tucson, AZ<br/>Durham, NC<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456532057/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc3e409d-fd1c-4816-9603-843ed5988068">Year at Palantir - Forward Deployed Software Engineer, Internship - USG</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4414777718/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PIMCO</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4573445-ec49-412f-a0e7-e425bdc78f48">2027 Summer Intern – PhD Quant Research Analyst, Client Solutions &amp; Analytics, US</a></td>
-<td>Newport Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460276955/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

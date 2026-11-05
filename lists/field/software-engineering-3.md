@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,147 open roles.** 942 in the United States & Canada · 205 elsewhere in the world.
+**1,150 open roles.** 945 in the United States & Canada · 205 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf77ace3-9ce6-4b05-a3dd-065fc63433b8">Manufacturing Software Engineer Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Solink</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff2c3535-2470-49ad-8426-73c46192789b">Software Engineer Co-op, Apps</a></td>
+<td>Ottawa Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5c183ff-d9e9-43da-af87-1b1686f6c3ef">Summer 2027: Cybersecurity Compliance Intern</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-cybersecurity-compliance-intern/27595/101955844192">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Pebl</strong></td>
 <td><a href="https://trueinterview.io/jobs/04ff52c4-a9c6-458a-89b9-14ef8724b5ca">Software Engineering, Intern</a></td>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**122 open roles.** 87 in the United States & Canada · 35 elsewhere in the world.
+**123 open roles.** 88 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Seagate Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/b949ee3d-b003-438c-885b-e302ce84b684">R&amp;D Data Analytics, AI and Production Systems - Summer 2027 Internship (Masters or PhD)</a></td>
+<td>Bloomington, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483083953/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Constellation Brands</strong></td>
 <td><a href="https://trueinterview.io/jobs/b516cb3f-8291-4649-8121-48cc808e0468">Intern, AI &amp; Automation Engineering</a></td>

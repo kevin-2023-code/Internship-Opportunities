@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**529 open roles.** 393 in the United States & Canada · 136 elsewhere in the world.
+**533 open roles.** 396 in the United States & Canada · 137 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Omya</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a82a2f7-3228-4521-b6a9-edb0ad0b98ae">Data Scientist Spring Co-Op 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451422346/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Seagate Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/b949ee3d-b003-438c-885b-e302ce84b684">R&amp;D Data Analytics, AI and Production Systems - Summer 2027 Internship (Masters or PhD)</a></td>
+<td>Bloomington, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483083953/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/931f3a39-72ec-4970-b4e5-7df4280a7095">Data Engineer Intern (Data Platfrom TikTok BP) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469056609/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>
@@ -2783,6 +2804,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b078aef-1abc-4686-ae31-3aa0a40b7c67">Data Analyst Intern</a></td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486714186/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a></td>
 <td>Singapore, Singapore</td>
@@ -2802,34 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shanghai, Shanghai, China<br/>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486563619/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc860679-9cfe-40d8-ab44-a3b81df704fd">Data Analyst Internship, Vehicle Operations – EMEA Business Analytics</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487587168/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ec4901c-fec8-4a83-8def-088cf25bea89">Data Scientist Intern - Entry Level Sales Program 2027</a></td>
-<td>Markham, Wales, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485552087/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/54c8d3eb-26ef-4d08-98e8-7337c0d09d6f">2027 Shanghai Machine Learning Engineer Summer Internship</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450134756/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec7728a3-0d2a-4a8b-8eb5-49d99bcc3817">2027 Summer Intern, PhD, Machine Learning, Simulation Realism</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478156974/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
 </tr>
 </tbody>
 </table>

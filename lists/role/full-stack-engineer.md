@@ -18,17 +18,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Rippling</strong></td>
+<td><a href="https://trueinterview.io/jobs/97d272c2-d917-4439-86ac-58c46ac338e2">Full Stack Software Engineer Intern - Summer 2027</a></td>
+<td>Seattle, WA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470493320/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>METY Foundation</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b573236-b813-4b7f-84f3-9ea2e887f24c">Full-Stack Developer Intern</a></td>
 <td>Leesburg, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487534251/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rippling</strong></td>
-<td><a href="https://trueinterview.io/jobs/97d272c2-d917-4439-86ac-58c46ac338e2">Full Stack Software Engineer Intern - Summer 2027</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470493320/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

@@ -18,15 +18,15 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-05 12:06 UTC_
+_Last updated: 2026-11-05 13:05 UTC_
 
-**469 open internships** from **247 employers** · **351 posted in the last 7 days** · refreshed hourly
+**470 open internships** from **247 employers** · **348 posted in the last 7 days** · refreshed hourly
 
-### Browse 469 internships by field
+### Browse 470 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (205)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (136)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (137)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (47)
 
@@ -40,9 +40,9 @@ _Last updated: 2026-11-05 12:06 UTC_
 
 ### 🔥 Posting the most this week
 
-**Infineon Technologies** 30 &nbsp;·&nbsp; **NVIDIA** 23 &nbsp;·&nbsp; **Apple** 11 &nbsp;·&nbsp; **SAP** 11 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **Qualcomm** 5
+**Infineon Technologies** 30 &nbsp;·&nbsp; **NVIDIA** 23 &nbsp;·&nbsp; **Apple** 11 &nbsp;·&nbsp; **SAP** 11 &nbsp;·&nbsp; **Micron Technology** 8 &nbsp;·&nbsp; **TikTok** 7 &nbsp;·&nbsp; **HP** 6 &nbsp;·&nbsp; **Shopee** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **Qualcomm** 5 &nbsp;·&nbsp; **Tencent** 5
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 50 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 51 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -52,11 +52,11 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (97)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (42)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (29)](lists/company/hardware-devices.md) · [🏢 Enterprise & business software (16)](lists/company/enterprise-saas.md) · [📱 Consumer internet & media (14)](lists/company/consumer-internet.md) · [📈 Quant trading & hedge funds (13)](lists/company/quant-trading.md) · [🚗 Autonomy, automotive & mobility (12)](lists/company/autonomy-mobility.md) · [🏗️ Large tech (1,000–9,999) (9)](lists/company/large-tech.md) · [🏦 Banks, insurers & asset managers (8)](lists/company/banking-finance.md) · [🧬 Health, biotech & medical devices (8)](lists/company/health-bio.md) · [+10 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (64)](lists/role/software-engineer.md) · [AI Engineer (35)](lists/role/ai-engineer.md) · [Data Analyst (34)](lists/role/data-analyst.md) · [Product Manager (30)](lists/role/product-manager.md) · [Machine Learning Engineer (28)](lists/role/machine-learning-engineer.md) · [Data Scientist (14)](lists/role/data-scientist.md) · [Research Scientist (11)](lists/role/research-scientist.md) · [Data Engineer (10)](lists/role/data-engineer.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Embedded Engineer (7)](lists/role/embedded-engineer.md) · [+10 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (64)](lists/role/software-engineer.md) · [AI Engineer (35)](lists/role/ai-engineer.md) · [Data Analyst (35)](lists/role/data-analyst.md) · [Product Manager (30)](lists/role/product-manager.md) · [Machine Learning Engineer (28)](lists/role/machine-learning-engineer.md) · [Data Scientist (14)](lists/role/data-scientist.md) · [Research Scientist (11)](lists/role/research-scientist.md) · [Data Engineer (10)](lists/role/data-engineer.md) · [Quantitative Researcher (8)](lists/role/quantitative-researcher.md) · [Embedded Engineer (7)](lists/role/embedded-engineer.md) · [+10 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (92)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (34)](lists/place/greater-china.md) · [🇬🇧 London & the UK (30)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (22)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (20)](lists/place/germany.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇪🇸 Madrid, Barcelona & Iberia (16)](lists/place/iberia.md) · [🇳🇱 Amsterdam & the Benelux (15)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🏰 Warsaw, Kraków & Central Europe (11)](lists/place/poland-cee.md) · [+4 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (92)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (34)](lists/place/greater-china.md) · [🇬🇧 London & the UK (30)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (22)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (20)](lists/place/germany.md) · [🇫🇷 Paris & France (20)](lists/place/france.md) · [🇪🇸 Madrid, Barcelona & Iberia (16)](lists/place/iberia.md) · [🇳🇱 Amsterdam & the Benelux (15)](lists/place/benelux.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🏰 Warsaw, Kraków & Central Europe (11)](lists/place/poland-cee.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (351)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (348)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -380,6 +380,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Siemens Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b078aef-1abc-4686-ae31-3aa0a40b7c67">Data Analyst Intern</a> 🆕</td>
+<td>Dubai, Dubai, United Arab Emirates</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486714186/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a> 🆕</td>
 <td>Singapore, Singapore</td>
@@ -545,13 +552,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc">Full Stack AI Developer Intern</a> 🆕 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://in.indeed.com/viewjob?jk=7cb2271a0ae03786">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Informa</strong></td>
-<td><a href="https://trueinterview.io/jobs/647f9873-243e-4742-b4ca-411cf5b46aef">Data Analyst Internship</a> 🆕</td>
-<td>Amsterdam, Netherlands</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/InformaGroupPlc/744000159322318-data-analyst-internship">Apply</a></td>
 <td align="center">2d</td>
 </tr>
 </tbody>
@@ -619,7 +619,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 32 of 136.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 32 of 137.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -942,7 +942,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/59ac2d16-7121-490b-a54e-d6eadcc4e3b2">Product Manager Intern, MPID - Identity Verification (Spring 2027)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://careers.shopee.sg/job-detail/137775">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>
