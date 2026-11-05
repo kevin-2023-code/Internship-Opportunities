@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T18:05:20.272Z",
-  "count": 2718,
+  "listingsChangedAt": "2026-11-05T19:03:55.652Z",
+  "count": 2720,
   "listings": [
     {
       "id": "16833f48-15c8-4c7a-8613-f79fe9bbc8f0",
@@ -238,6 +238,33 @@
       "updatedAt": "2026-11-05T16:03:00.000Z"
     },
     {
+      "id": "394d7a68-730e-4430-987f-380bd10238f2",
+      "company": "Acumatica",
+      "title": "Intern Developer/ Stagiaire développeur",
+      "locations": [
+        "Montreal, Quebec, Canada"
+      ],
+      "cities": [
+        "Montreal, QC"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.smartrecruiters.com/Acumatica/744000159911799-intern-developer-stagiaire-developpeur-",
+      "url": "https://trueinterview.io/jobs/394d7a68-730e-4430-987f-380bd10238f2",
+      "postedAt": "2026-11-05T15:59:22.000Z",
+      "updatedAt": "2026-11-05T15:59:22.000Z"
+    },
+    {
       "id": "18658796-6c4e-4c69-9a9a-9ae774d26019",
       "company": "Skydio",
       "title": "Software Engineer Intern - Summer 2027",
@@ -284,6 +311,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4485836030/",
       "url": "https://trueinterview.io/jobs/5d18e0c8-39ee-41f3-aee8-761abcce79c0",
+      "postedAt": "2026-11-05T15:56:00.000Z",
+      "updatedAt": "2026-11-05T15:56:00.000Z"
+    },
+    {
+      "id": "f631394d-5db6-4ad8-bbfc-9e27f5fcc66e",
+      "company": "PatientPoint - Invite Only",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4751023005",
+      "url": "https://trueinterview.io/jobs/f631394d-5db6-4ad8-bbfc-9e27f5fcc66e",
       "postedAt": "2026-11-05T15:56:00.000Z",
       "updatedAt": "2026-11-05T15:56:00.000Z"
     },

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,492 open roles.** 1,153 in the United States & Canada · 339 elsewhere in the world. Everything the employers put up this week.
+**1,448 open roles.** 1,120 in the United States & Canada · 328 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alaska Airlines</strong></td>
+<td><a href="https://trueinterview.io/jobs/305782cc-b528-49a4-bac4-e6a0f6d58284">Engineering Co-op (Summer 2027)</a></td>
+<td>SeaTac, WA</td>
+<td align="center"><a href="https://corporatejobs-alaskaair.icims.com/jobs/21283/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/43c0596b-a9d3-477a-895d-466f59ba5051">Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>colortech inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/34464394-96cc-4022-8844-ed360bdb66eb">Quality Engineering Coop</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/bf06c0d0-0fc2-4fcc-abb2-e3f685a932c1">Design Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
 <td>Lone Tree, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467120693/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Regal Rexnord</strong></td>
-<td><a href="https://trueinterview.io/jobs/b35c8904-11d7-4287-acd1-9f0a224124f1">Engineering Co-Op</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456948504/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sargent &amp; Lundy</strong></td>
-<td><a href="https://trueinterview.io/jobs/b88e1578-eae6-4f27-ae4e-65ee4e209380">Mechanical Engineer Intern - Energy &amp; Industrial (Summer 2027)</a></td>
-<td>Englewood, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466892469/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

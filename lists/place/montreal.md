@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world.
+**18 open roles.** 17 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Acumatica</strong></td>
+<td><a href="https://trueinterview.io/jobs/394d7a68-730e-4430-987f-380bd10238f2">Intern Developer/ Stagiaire développeur</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Acumatica/744000159911799-intern-developer-stagiaire-developpeur-">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Botpress</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4aaa627-2ed6-4033-90e1-af1c1086d43f">Software Developer Intern - WINTER 2027</a></td>
