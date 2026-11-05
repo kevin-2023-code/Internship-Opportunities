@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**122 open roles.** 94 in the United States & Canada · 28 elsewhere in the world.
+**125 open roles.** 97 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AQR Capital Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/88642dc7-b0e9-4a1a-bea3-1bdefaf1df45">2027 PhD Summer Associate, Machine Learning Research</a></td>
+<td>Greenwich, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470624768/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rippling</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f3f3915-36f4-4d6a-98f4-d0b7630d10d6">Machine Learning Software Engineer Intern - Summer 2027</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470483813/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Johnson &amp; Johnson Innovative Medicine</strong></td>
+<td><a href="https://trueinterview.io/jobs/ceaa4067-0ae4-4cdf-a299-6f78ee4bbc88">AI/ML/Data Science Intern</a></td>
+<td>Boston, MA<br/>New York, NY<br/>Spring House, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479547667/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>General Motors</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b149830-1a0a-4c24-bd4a-1664e64eecf8">2027 Intern - AI/ML Engineer - Capacity &amp; Performance Engineering, Autonomous Vehicles</a></td>

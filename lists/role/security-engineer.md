@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**70 open roles.** 64 in the United States & Canada · 6 elsewhere in the world.
+**71 open roles.** 65 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/96b4efa3-74e9-4579-a9e8-81495003f905">Summer 2027 Internship - Information Security Engineer</a></td>
 <td>Los Angeles Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487226304/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TMX GROUP</strong></td>
+<td><a href="https://trueinterview.io/jobs/914a4a4a-aae7-4e43-8ce7-5927501cb758">Junior Cybersecurity Operations Analyst Intern</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

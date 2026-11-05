@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T17:04:36.672Z",
-  "count": 2707,
+  "listingsChangedAt": "2026-11-05T18:05:20.272Z",
+  "count": 2718,
   "listings": [
+    {
+      "id": "16833f48-15c8-4c7a-8613-f79fe9bbc8f0",
+      "company": "Tencent",
+      "title": "Product Manager Intern, User Acquisition",
+      "locations": [
+        "Amsterdam, North Holland, Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479837326/",
+      "url": "https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0",
+      "postedAt": "2026-11-05T16:47:00.000Z",
+      "updatedAt": "2026-11-05T16:47:00.000Z"
+    },
+    {
+      "id": "88642dc7-b0e9-4a1a-bea3-1bdefaf1df45",
+      "company": "AQR Capital Management",
+      "title": "2027 PhD Summer Associate, Machine Learning Research",
+      "locations": [
+        "Greenwich, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "junior",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470624768/",
+      "url": "https://trueinterview.io/jobs/88642dc7-b0e9-4a1a-bea3-1bdefaf1df45",
+      "postedAt": "2026-11-05T16:33:00.000Z",
+      "updatedAt": "2026-11-05T16:33:00.000Z"
+    },
     {
       "id": "7dc0029b-24be-4aa7-a7fb-c69cfb092c2c",
       "company": "Layup Parts",
@@ -57,6 +109,33 @@
       "url": "https://trueinterview.io/jobs/b9d31f4e-721d-4551-a9a9-13557bb93128",
       "postedAt": "2026-11-05T16:17:00.000Z",
       "updatedAt": "2026-11-05T16:17:00.000Z"
+    },
+    {
+      "id": "1f3f3915-36f4-4d6a-98f4-d0b7630d10d6",
+      "company": "Rippling",
+      "title": "Machine Learning Software Engineer Intern - Summer 2027",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470483813/",
+      "url": "https://trueinterview.io/jobs/1f3f3915-36f4-4d6a-98f4-d0b7630d10d6",
+      "postedAt": "2026-11-05T16:12:00.000Z",
+      "updatedAt": "2026-11-05T16:12:00.000Z"
     },
     {
       "id": "ef2c4529-1806-4644-9e91-ea5bd889cde2",
@@ -207,6 +286,36 @@
       "url": "https://trueinterview.io/jobs/5d18e0c8-39ee-41f3-aee8-761abcce79c0",
       "postedAt": "2026-11-05T15:56:00.000Z",
       "updatedAt": "2026-11-05T15:56:00.000Z"
+    },
+    {
+      "id": "ceaa4067-0ae4-4cdf-a299-6f78ee4bbc88",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "title": "AI/ML/Data Science Intern",
+      "locations": [
+        "Spring House, PA",
+        "Boston, MA",
+        "New York, NY"
+      ],
+      "cities": [
+        "Boston, MA",
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479547667/",
+      "url": "https://trueinterview.io/jobs/ceaa4067-0ae4-4cdf-a299-6f78ee4bbc88",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T15:54:00.000Z"
     },
     {
       "id": "e49f3c0c-8a16-43a8-bad5-69528e52c497",
@@ -644,6 +753,56 @@
       "url": "https://trueinterview.io/jobs/5ba8a5bd-ac5e-4541-98a9-20654cf8f1f8",
       "postedAt": "2026-11-05T14:19:00.000Z",
       "updatedAt": "2026-11-05T14:19:00.000Z"
+    },
+    {
+      "id": "42dec916-f467-460f-a7da-b9df96819a71",
+      "company": "Anduril Industries",
+      "title": "Winter 2027 Research Engineer Co-op",
+      "locations": [
+        "Santa Ana, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479756629/",
+      "url": "https://trueinterview.io/jobs/42dec916-f467-460f-a7da-b9df96819a71",
+      "postedAt": "2026-11-05T13:54:00.000Z",
+      "updatedAt": "2026-11-05T13:54:00.000Z"
+    },
+    {
+      "id": "aa064312-0fce-4937-9d40-bbb0b929aa52",
+      "company": "Hearst",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Carmel, Indiana, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://job-boards.greenhouse.io/hearst/jobs/4466334009",
+      "url": "https://trueinterview.io/jobs/aa064312-0fce-4937-9d40-bbb0b929aa52",
+      "postedAt": "2026-11-05T13:52:13.000Z",
+      "updatedAt": "2026-11-05T13:52:13.000Z"
     },
     {
       "id": "99827b50-1d8f-4cf1-b584-9ceafbeb220f",
@@ -1741,6 +1900,31 @@
       "updatedAt": "2026-11-05T06:26:00.000Z"
     },
     {
+      "id": "51261dd3-f6cb-4104-b8e7-b88431856b1c",
+      "company": "Hilti Group",
+      "title": "Intern - Data Science (Global IT) [m/f/x]",
+      "locations": [
+        "Buchs, Switzerland"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.hilti.group/en/jobs/22245-en/intern-data-science-global-it-m-f-x/",
+      "url": "https://trueinterview.io/jobs/51261dd3-f6cb-4104-b8e7-b88431856b1c",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
       "id": "f50d8a38-1ea6-4b0a-adc8-a2032c472a38",
       "company": "Northrop Grumman",
       "title": "2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD",
@@ -2464,6 +2648,31 @@
       "source": "career-sites",
       "applyUrl": "https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
       "url": "https://trueinterview.io/jobs/6da97825-8951-472e-ad1e-388a1dcfeb41",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "d9cc171f-7939-4bf8-b67b-389bff4c1ff6",
+      "company": "Little Caesars Pizza",
+      "title": "Intern, UI/UX",
+      "locations": [
+        "Detroit, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ilitch.wd5.myworkdayjobs.com/LC/job/Detroit-MI/Intern--UI-UX_R9673",
+      "url": "https://trueinterview.io/jobs/d9cc171f-7939-4bf8-b67b-389bff4c1ff6",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
@@ -5500,6 +5709,33 @@
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
+      "id": "a65b1050-f080-4b4c-8081-f7b6500aa5b0",
+      "company": "Roche",
+      "title": "Internship Process Engineer (for 12 months in Basel)",
+      "locations": [
+        "Basel, Switzerland"
+      ],
+      "cities": [
+        "Basel"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.roche.com/de/de/job/202610-127127",
+      "url": "https://trueinterview.io/jobs/a65b1050-f080-4b4c-8081-f7b6500aa5b0",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
       "id": "dfe01d43-51d6-4055-ae98-00246a3166f5",
       "company": "Stryker",
       "title": "Quality Engineer, Co-op",
@@ -5550,6 +5786,60 @@
       "applyUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845",
       "url": "https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0",
       "postedAt": "2026-11-04T00:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "914a4a4a-aae7-4e43-8ce7-5927501cb758",
+      "company": "TMX GROUP",
+      "title": "Junior Cybersecurity Operations Analyst Intern",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671",
+      "url": "https://trueinterview.io/jobs/914a4a4a-aae7-4e43-8ce7-5927501cb758",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "455f29d9-6009-468d-aebf-f898a1fcf678",
+      "company": "TMX GROUP",
+      "title": "Security Engineering Intern",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656",
+      "url": "https://trueinterview.io/jobs/455f29d9-6009-468d-aebf-f898a1fcf678",
+      "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
     {
