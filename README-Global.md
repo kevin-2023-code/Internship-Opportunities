@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-05 22:04 UTC_
+_Last updated: 2026-11-05 23:04 UTC_
 
-**484 open internships** from **249 employers** · **330 posted in the last 7 days** · refreshed hourly
+**484 open internships** from **249 employers** · **329 posted in the last 7 days** · refreshed hourly
 
 ### Browse 484 internships by field
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (92)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (34)](lists/place/greater-china.md) · [🇬🇧 London & the UK (33)](lists/place/uk.md) · [🇨🇭 Zürich & Switzerland (23)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (21)](lists/place/germany.md) · [🇫🇷 Paris & France (21)](lists/place/france.md) · [🇳🇱 Amsterdam & the Benelux (18)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (16)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [🏰 Warsaw, Kraków & Central Europe (11)](lists/place/poland-cee.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (330)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (329)](lists/new-this-week.md) · [🌐 Remote (11)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -552,7 +552,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9">Industrial AI &amp; Software Engineering Intern</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527726">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 </tbody>
 </table>

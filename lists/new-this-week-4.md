@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,457 open roles.** 1,127 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
+**1,444 open roles.** 1,115 in the United States & Canada · 329 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,90 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>GMV</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8bf1d55-4976-418b-8356-443cffb81f41">Internship: Advanced object characterisation engineer</a></td>
-<td>Ramonville-Saint-Agne, France</td>
-<td align="center"><a href="https://gmv.csod.com/ux/ats/careersite/4/home/requisition/5168?c=gmv&amp;lang=en-US">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>INVIDI Technologies Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/dcc2e434-09fa-4f13-a47a-908bbe19123a">#2026-D-0052 Software Developer Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://invidi.bamboohr.com/careers/895?postedDate=2026-11-03">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ledger</strong></td>
-<td><a href="https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625">Products Analytics Engineer - Internship</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/70029149-0444-4be8-9e4a-00ce92175816">Intern Engineer</a></td>
-<td>Canberra, Australia<br/>Newcastle, Australia</td>
-<td align="center"><a href="https://careers.leidos.com/jobs/18440465-graduate-engineer?tm_job=R-00196094&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Procter &amp; Gamble</strong></td>
-<td><a href="https://trueinterview.io/jobs/e148b21b-4fd6-41a9-9bef-e14236ec6e60">Innovation &amp; Materials Engineer Intern (m/f/x)</a></td>
-<td>Mequinensa / Mequinenza, Spain</td>
-<td align="center"><a href="https://www.pgcareers.com/global/en/job/R000161898">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Schneider Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/90d59032-17fe-4a68-8dd1-118f657a2e6b">Data Analyst Intern STP27</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://careers.se.com/jobs/140214/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UBS</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ec81ecc-c8a8-498b-89bd-873f43b4741d">Internship in Digital Channels (Product Manager)</a></td>
-<td>Wrocław, Poland</td>
-<td align="center"><a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&amp;siteid=5012&amp;PageType=JobDetails&amp;jobid=353369">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wood</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6a14454-1623-4ee2-88f0-663566b699b7">Instrumentation &amp; Control Engineer - Internship</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33318">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a5af410-2051-4d90-ba27-8b9a0daebd54">Software Engineer II, Co-op and Marketplaces</a></td>
-<td>Zurich, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477988532/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
-<td>Strasbourg, Grand Est, France<br/>Strasbourg, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/613806e9-dcc5-46f0-87ee-a443432ca763">DevOps Software Engineering Intern</a></td>
-<td>Gdańsk, Pomorskie, Poland<br/>Gdańsk, Poland</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e4d74e1-c30f-42ba-abb6-6326d957e107">Internship - Machine Learning Research (recurrent models | generative models | interpretability)</a></td>
-<td>Barcelona, Catalonia, Spain<br/>Barcelona, Spain</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>ParetoHealth</strong></td>
 <td><a href="https://trueinterview.io/jobs/85ad408f-5d29-4c89-9b7f-945474c75df3">Product Manager Summer Intern</a></td>
@@ -1807,13 +1723,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2f576a8c-f395-47d6-854f-44b5f1d9cc25">Applied Scientist Intern</a></td>
 <td>Zurich, Zurich, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482557727/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patel, Greene &amp; Associates, LLC (PGA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/71079210-d575-41ef-80a5-f265cee587a1">Roadway Engineer Intern</a></td>
-<td>Greater Orlando</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484740780/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

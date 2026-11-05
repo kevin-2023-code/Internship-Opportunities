@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,457 open roles.** 1,127 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
+**1,444 open roles.** 1,115 in the United States & Canada · 329 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -825,6 +825,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/b56efb2a-dca1-470e-b63a-ba1fe9522c50">Software Test Intern</a></td>
+<td>Auburn Hills, Michigan, United States</td>
+<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Elevated Web Design</strong></td>
 <td><a href="https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911">AI Software Engineering Internship</a></td>
 <td>United States</td>
@@ -864,6 +871,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e">Software Developer Intern - Android (May 2027 - 12 Months)</a></td>
 <td>Mississauga, Ontario, Canada</td>
 <td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef340606-e08a-437f-b8a6-17d251c75764">Software Developer Intern (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3aa0de4f-1a65-4f95-a3ac-dca77c219044">Summer 2027 - Data Science and Innovation Intern</a></td>
 <td>Springfield, Missouri, United States<br/>Reston, Virginia, United States</td>
 <td align="center"><a href="https://careers.noblis.org/jobs/28097">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GM Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467588632/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Veteran Hiring Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8f7e0aa-0abb-4d20-98e1-8e2585294712">Technical Product Manager Co-op, AI Strategic Hub (DASH)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486421959/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

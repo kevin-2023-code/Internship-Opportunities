@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,196 open roles.** 989 in the United States & Canada · 207 elsewhere in the world.
+**1,198 open roles.** 991 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -475,6 +475,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/b56efb2a-dca1-470e-b63a-ba1fe9522c50">Software Test Intern</a></td>
+<td>Auburn Hills, Michigan, United States</td>
+<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Elevated Web Design</strong></td>
 <td><a href="https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911">AI Software Engineering Internship</a></td>
 <td>United States</td>
@@ -500,6 +507,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e">Software Developer Intern - Android (May 2027 - 12 Months)</a></td>
 <td>Mississauga, Ontario, Canada</td>
 <td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef340606-e08a-437f-b8a6-17d251c75764">Software Developer Intern (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714">Software Engineer - Factory Apps - Intern</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485269334/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>STERIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
-<td>Cooper City, FL<br/>Plymouth, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BAE Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/736953f2-466f-4969-8de4-ca843638e223">Software Engineering Intern II, (Summer 2027) Onsite</a></td>
-<td>Nashua, NH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400411/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

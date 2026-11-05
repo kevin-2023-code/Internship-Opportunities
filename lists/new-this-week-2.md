@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,457 open roles.** 1,127 in the United States & Canada · 330 elsewhere in the world. Everything the employers put up this week.
+**1,444 open roles.** 1,115 in the United States & Canada · 329 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467588632/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veteran Hiring Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/e8f7e0aa-0abb-4d20-98e1-8e2585294712">Technical Product Manager Co-op, AI Strategic Hub (DASH)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486421959/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GM Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949">Intern - Software Development Engineer</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6cd47aae-4d8e-4cbf-9ba6-825f64bd58f1">Civil Engineering Intern | Melbourne, FL</a></td>
 <td>Melbourne, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474613836/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/edee1cf6-a0a7-47c2-9b56-711d0eaebd0f">Mechanical Engineering Intern | Melbourne, FL</a></td>
-<td>Melbourne, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474627423/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PTC</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd0742c5-08e8-469b-b696-714845d4551a">Arena Engineering Intern (Summer 2027)</a></td>
-<td>San Mateo, CA<br/>San Mateo County, CA</td>
-<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

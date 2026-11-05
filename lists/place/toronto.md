@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**40 open roles.**
+**41 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e">Software Developer Intern - Android (May 2027 - 12 Months)</a></td>
 <td>Mississauga, Ontario, Canada</td>
 <td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef340606-e08a-437f-b8a6-17d251c75764">Software Developer Intern (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

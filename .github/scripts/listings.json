@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T22:04:52.590Z",
-  "count": 2760,
+  "listingsChangedAt": "2026-11-05T23:04:21.209Z",
+  "count": 2762,
   "listings": [
     {
       "id": "58536b1b-e544-4c58-9502-efc5cb1901fa",
@@ -3688,6 +3688,31 @@
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
     {
+      "id": "b56efb2a-dca1-470e-b63a-ba1fe9522c50",
+      "company": "BorgWarner",
+      "title": "Software Test Intern",
+      "locations": [
+        "Auburn Hills, Michigan, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1",
+      "url": "https://trueinterview.io/jobs/b56efb2a-dca1-470e-b63a-ba1fe9522c50",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
       "id": "72b494f6-f809-43a6-8b37-1ff512282911",
       "company": "Elevated Web Design",
       "title": "AI Software Engineering Internship",
@@ -3863,6 +3888,31 @@
       "source": "career-sites",
       "applyUrl": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650",
       "url": "https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "ef340606-e08a-437f-b8a6-17d251c75764",
+      "company": "SOTI",
+      "title": "Software Developer Intern (May 2027 12 Months)",
+      "locations": [
+        "Mississauga, Ontario, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655",
+      "url": "https://trueinterview.io/jobs/ef340606-e08a-437f-b8a6-17d251c75764",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },

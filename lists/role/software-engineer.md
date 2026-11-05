@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**379 open roles.** 314 in the United States & Canada · 65 elsewhere in the world.
+**380 open roles.** 315 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -260,6 +260,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e8c1305-68e5-4005-ad23-d3a75da13829">Intern - Software Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478484226/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SOTI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef340606-e08a-437f-b8a6-17d251c75764">Software Developer Intern (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

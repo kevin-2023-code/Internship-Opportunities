@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,196 open roles.** 989 in the United States & Canada · 207 elsewhere in the world.
+**1,198 open roles.** 991 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>STERIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
+<td>Cooper City, FL<br/>Plymouth, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/736953f2-466f-4969-8de4-ca843638e223">Software Engineering Intern II, (Summer 2027) Onsite</a></td>
+<td>Nashua, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400411/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a2a6592a-a167-4029-9b87-3e4f2a5f5e97">Software Engineering Intern IV, (Summer 2027) Onsite</a></td>
 <td>Nashua, NH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483091748/">Apply</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/d3892383-1431-48e8-8f53-a758d0b1a8b6">Software Engineering Intern - Quantum Information Science 2027</a></td>
 <td>Multiple Cities, United States</td>
 <td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137674">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3350697-fb3a-440b-9bd4-fe6b02e476e4">University - 2027 Summer Games Software Developer Intern - Lexington, MA</a></td>
-<td>Lexington, MA</td>
-<td align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Mission Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/bac55478-ed6d-4354-b736-e7d3d57f0f82">Software Test Engineer Intern</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://careers-gdms.icims.com/jobs/75729/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 </tbody>

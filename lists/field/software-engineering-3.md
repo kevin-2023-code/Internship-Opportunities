@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,196 open roles.** 989 in the United States & Canada · 207 elsewhere in the world.
+**1,198 open roles.** 991 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3350697-fb3a-440b-9bd4-fe6b02e476e4">University - 2027 Summer Games Software Developer Intern - Lexington, MA</a></td>
+<td>Lexington, MA</td>
+<td align="center"><a href="https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/bac55478-ed6d-4354-b736-e7d3d57f0f82">Software Test Engineer Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://careers-gdms.icims.com/jobs/75729/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/3750c7b7-fb5a-487c-b954-8b773e8a0c24">2027 Software Engineer Intern - Azusa CA</a></td>
