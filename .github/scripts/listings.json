@@ -5,9 +5,37 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-05T10:04:55.093Z",
-  "count": 2664,
+  "listingsChangedAt": "2026-11-05T11:04:25.485Z",
+  "count": 2665,
   "listings": [
+    {
+      "id": "bd65d621-8061-4608-a57a-b06b54b33621",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Research Internship - PhD: Summer 2027",
+      "locations": [
+        "New York, NY",
+        "Hong Kong, Hong Kong SAR"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4431533760/",
+      "url": "https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621",
+      "postedAt": "2026-11-05T09:11:00.000Z",
+      "updatedAt": "2026-11-05T09:41:00.000Z"
+    },
     {
       "id": "65766bc1-b930-4363-bce7-022cd15340f7",
       "company": "Clearwater Analytics",
@@ -88,33 +116,6 @@
       "url": "https://trueinterview.io/jobs/f67a5b2c-2b09-4f01-992f-413c75e5403e",
       "postedAt": "2026-11-05T09:13:00.000Z",
       "updatedAt": "2026-11-05T09:13:00.000Z"
-    },
-    {
-      "id": "bd65d621-8061-4608-a57a-b06b54b33621",
-      "company": "Susquehanna International Group",
-      "title": "Quantitative Research Internship - PhD: Summer 2027",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4431533760/",
-      "url": "https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621",
-      "postedAt": "2026-11-05T09:11:00.000Z",
-      "updatedAt": "2026-11-05T09:11:00.000Z"
     },
     {
       "id": "c42fb8b2-c0e1-4f67-9385-c4058169c6df",
@@ -1250,6 +1251,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4487581009/",
       "url": "https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "54c8d3eb-26ef-4d08-98e8-7337c0d09d6f",
+      "company": "Optiver",
+      "title": "2027 Shanghai Machine Learning Engineer Summer Internship",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450134756/",
+      "url": "https://trueinterview.io/jobs/54c8d3eb-26ef-4d08-98e8-7337c0d09d6f",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
