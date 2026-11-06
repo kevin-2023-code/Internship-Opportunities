@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-06 04:05 UTC_
+_Last updated: 2026-11-06 05:05 UTC_
 
-**2,304 open internships** from **976 employers** · **1,086 posted in the last 7 days** · refreshed hourly
+**2,304 open internships** from **976 employers** · **1,066 posted in the last 7 days** · refreshed hourly
 
 ### Browse 2,304 internships by field
 
@@ -54,9 +54,9 @@ _Last updated: 2026-11-06 04:05 UTC_
 
 ### 🔥 Posting the most this week
 
-**IBM** 19 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Booz Allen Hamilton** 12 &nbsp;·&nbsp; **Meta** 10 &nbsp;·&nbsp; **Qualcomm** 10 &nbsp;·&nbsp; **BlackRock** 9 &nbsp;·&nbsp; **Brunswick Corporation** 9 &nbsp;·&nbsp; **General Motors** 9 &nbsp;·&nbsp; **Northrop Grumman** 9 &nbsp;·&nbsp; **TikTok** 9 &nbsp;·&nbsp; **CNH** 8 &nbsp;·&nbsp; **Rivian** 8
+**IBM** 19 &nbsp;·&nbsp; **JR Automation** 13 &nbsp;·&nbsp; **Booz Allen Hamilton** 12 &nbsp;·&nbsp; **Meta** 10 &nbsp;·&nbsp; **BlackRock** 9 &nbsp;·&nbsp; **Brunswick Corporation** 9 &nbsp;·&nbsp; **General Motors** 9 &nbsp;·&nbsp; **Northrop Grumman** 9 &nbsp;·&nbsp; **TikTok** 9 &nbsp;·&nbsp; **CNH** 8 &nbsp;·&nbsp; **Rivian** 8 &nbsp;·&nbsp; **BAE Systems, Inc.** 7
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 199 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 195 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -66,11 +66,11 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🏷️ **By company type** — [🏛️ Big Tech (487)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (225)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (152)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (104)](lists/company/large-tech.md) · [📱 Consumer internet & media (83)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (76)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (63)](lists/company/enterprise-saas.md) · [🛒 E-commerce & marketplaces (38)](lists/company/ecommerce-marketplace.md) · [🧾 IT services & consulting (35)](lists/company/it-consulting.md) · [💳 Fintech, payments & crypto (28)](lists/company/fintech.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (326)](lists/role/software-engineer.md) · [Hardware Engineer (115)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (100)](lists/role/machine-learning-engineer.md) · [AI Engineer (94)](lists/role/ai-engineer.md) · [Data Scientist (84)](lists/role/data-scientist.md) · [Product Manager (66)](lists/role/product-manager.md) · [Security Engineer (66)](lists/role/security-engineer.md) · [Research Scientist (61)](lists/role/research-scientist.md) · [Data Analyst (49)](lists/role/data-analyst.md) · [Data Engineer (49)](lists/role/data-engineer.md) · [+11 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (327)](lists/role/software-engineer.md) · [Hardware Engineer (115)](lists/role/hardware-engineer.md) · [Machine Learning Engineer (100)](lists/role/machine-learning-engineer.md) · [AI Engineer (94)](lists/role/ai-engineer.md) · [Data Scientist (84)](lists/role/data-scientist.md) · [Product Manager (66)](lists/role/product-manager.md) · [Security Engineer (66)](lists/role/security-engineer.md) · [Research Scientist (61)](lists/role/research-scientist.md) · [Data Analyst (49)](lists/role/data-analyst.md) · [Data Engineer (49)](lists/role/data-engineer.md) · [+11 more →](lists/README.md)
 
 📍 **By location** — [🌉 SF Bay Area (424)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (137)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (119)](lists/place/boston.md) · [🗽 New York City (113)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (97)](lists/place/seattle.md) · [🤠 Dallas–Fort Worth (81)](lists/place/dallas-fort-worth.md) · [🎸 Austin (71)](lists/place/austin.md) · [🌧️ Portland, Boise & Spokane (58)](lists/place/pacific-northwest.md) · [🏛️ Washington DC & Northern Virginia (53)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (46)](lists/place/denver-boulder.md) · [+14 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (1,086)](lists/new-this-week.md) · [🌐 Remote (31)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (1,066)](lists/new-this-week.md) · [🌐 Remote (31)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1363,14 +1363,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/c2e97f0c-3c29-431f-a1b6-d9f222b2bc58">2027 Spring Electrical Engineer Co-op (Billerica, MA)</a></td>
 <td>Billerica, MA</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319258769">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7f081059-966a-4397-8015-c01b148af3bc">2027 Spring Manufacturing Engineer Co-op (Billerica, MA)</a></td>
 <td>Billerica, MA</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319258821">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 </tbody>
 </table>
@@ -1810,7 +1810,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a">Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027</a> 🆕</td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485598010/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>T-Mobile</strong></td>
@@ -2445,7 +2445,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/857e7549-b049-4ca1-861b-e8f774d77283">Managed IT Services Service Desk Consulting Intern - Winter 2027</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484802637/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Sargento</strong></td>

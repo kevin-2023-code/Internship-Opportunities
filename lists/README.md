@@ -6,7 +6,7 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-06 04:05 UTC_
+_Last updated: 2026-11-06 05:05 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 225 of the 1,156 employers on this list (38% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -79,13 +79,13 @@ _Between them these 23 filters hold **1,055 of the 2,788** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 21 filters hold **1,462 of the 2,788** internships on this list (52%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 21 filters hold **1,463 of the 2,788** internships on this list (52%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 326 | 65 |
+| [Software Engineer](role/software-engineer.md) | 327 | 65 |
 | [AI Engineer](role/ai-engineer.md) | 94 | 37 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 100 | 28 |
 | [Hardware Engineer](role/hardware-engineer.md) | 115 | 7 |
@@ -158,11 +158,11 @@ _Between them these 34 filters hold **1,637 of the 2,788** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,434 of the 2,788** internships on this list (51%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,397 of the 2,788** internships on this list (50%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 1,086 | 315 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 1,066 | 297 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 31 | 11 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

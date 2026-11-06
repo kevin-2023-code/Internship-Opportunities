@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**391 open roles.** 326 in the United States & Canada · 65 elsewhere in the world.
+**392 open roles.** 327 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bc5fffdc-8e55-4286-ab58-345ca948cc1d">Software Engineer, Intern</a></td>
 <td>San Francisco, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DWYER INSTRUMENTS, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/98145c12-4c25-4149-9428-9119fe6d0973">Software Engineering Intern</a></td>
+<td>Westerville, Ohio, United States</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
