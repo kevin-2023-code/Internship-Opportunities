@@ -5,9 +5,219 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-06T01:04:47.866Z",
-  "count": 2775,
+  "listingsChangedAt": "2026-11-06T02:06:33.162Z",
+  "count": 2788,
   "listings": [
+    {
+      "id": "88b2cbae-e0ef-4a67-9aa0-0412ea764e76",
+      "company": "Nationwide",
+      "title": "Summer 2027 Generative AI Internship",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485867448/",
+      "url": "https://trueinterview.io/jobs/88b2cbae-e0ef-4a67-9aa0-0412ea764e76",
+      "postedAt": "2026-11-06T00:58:57.000Z",
+      "updatedAt": "2026-11-06T00:58:57.000Z"
+    },
+    {
+      "id": "7fb1b7e5-b10a-4d36-8a2e-f2373d3e3165",
+      "company": "Daiichi Sankyo",
+      "title": "AI/ML Automation Pipelines Intern",
+      "locations": [
+        "Basking Ridge, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488039990/",
+      "url": "https://trueinterview.io/jobs/7fb1b7e5-b10a-4d36-8a2e-f2373d3e3165",
+      "postedAt": "2026-11-06T00:56:00.000Z",
+      "updatedAt": "2026-11-06T00:56:00.000Z"
+    },
+    {
+      "id": "7e64e3ef-5ec0-41e5-8268-b63aff0656f7",
+      "company": "V2X Inc",
+      "title": "AI Intern - Junior",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486925934/",
+      "url": "https://trueinterview.io/jobs/7e64e3ef-5ec0-41e5-8268-b63aff0656f7",
+      "postedAt": "2026-11-06T00:53:00.000Z",
+      "updatedAt": "2026-11-06T00:53:00.000Z"
+    },
+    {
+      "id": "15a81a1a-0b71-4a0f-ab76-137e92b3b438",
+      "company": "V2X Inc",
+      "title": "AI Intern - Senior",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486937323/",
+      "url": "https://trueinterview.io/jobs/15a81a1a-0b71-4a0f-ab76-137e92b3b438",
+      "postedAt": "2026-11-06T00:53:00.000Z",
+      "updatedAt": "2026-11-06T00:53:00.000Z"
+    },
+    {
+      "id": "fc88522a-21be-4c54-b897-3e71db64eb6d",
+      "company": "Raft",
+      "title": "AI/ML Intern - Summer 2027",
+      "locations": [
+        "McLean, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486948062/",
+      "url": "https://trueinterview.io/jobs/fc88522a-21be-4c54-b897-3e71db64eb6d",
+      "postedAt": "2026-11-06T00:51:00.000Z",
+      "updatedAt": "2026-11-06T00:51:00.000Z"
+    },
+    {
+      "id": "2719cbb4-1d2d-45cc-aea2-fa5e74f8642d",
+      "company": "Trinzic",
+      "title": "Defense & Intel (D&I) - Software Engineering Internship",
+      "locations": [
+        "Orlando, FL",
+        "Lexington, MA",
+        "Kihei, HI",
+        "King of Prussia, PA",
+        "Huntsville, AL",
+        "Colorado Springs, CO",
+        "El Segundo, CA",
+        "Ann Arbor, MI",
+        "Chantilly, VA",
+        "Beavercreek, OH",
+        "Lexington Park, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488085673/",
+      "url": "https://trueinterview.io/jobs/2719cbb4-1d2d-45cc-aea2-fa5e74f8642d",
+      "postedAt": "2026-11-06T00:40:00.000Z",
+      "updatedAt": "2026-11-06T00:40:00.000Z"
+    },
+    {
+      "id": "3571327a-e26d-4ee8-8b0f-c6cd69396128",
+      "company": "GALLO",
+      "title": "Winegrowing Research Data Analyst Internship 2027",
+      "locations": [
+        "Modesto, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462936616/",
+      "url": "https://trueinterview.io/jobs/3571327a-e26d-4ee8-8b0f-c6cd69396128",
+      "postedAt": "2026-11-06T00:38:00.000Z",
+      "updatedAt": "2026-11-06T00:38:00.000Z"
+    },
+    {
+      "id": "ea65a2a9-35ba-4c30-8f46-759abc008e76",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "title": "2027 Internship - Maritime Software Development - Ocean Systems and Engineering",
+      "locations": [
+        "Laurel, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4485885257/",
+      "url": "https://trueinterview.io/jobs/ea65a2a9-35ba-4c30-8f46-759abc008e76",
+      "postedAt": "2026-11-06T00:32:00.000Z",
+      "updatedAt": "2026-11-06T00:32:00.000Z"
+    },
     {
       "id": "af5fbbf4-ca1b-40d6-a8a8-f0c19e9190e8",
       "company": "Riverside Research",
@@ -32,6 +242,33 @@
       "url": "https://trueinterview.io/jobs/af5fbbf4-ca1b-40d6-a8a8-f0c19e9190e8",
       "postedAt": "2026-11-06T00:20:35.000Z",
       "updatedAt": "2026-11-06T00:20:35.000Z"
+    },
+    {
+      "id": "9b2fe2f8-ad03-4bbd-b56f-e13769d232f7",
+      "company": "Citi",
+      "title": "Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486926247/",
+      "url": "https://trueinterview.io/jobs/9b2fe2f8-ad03-4bbd-b56f-e13769d232f7",
+      "postedAt": "2026-11-06T00:18:00.000Z",
+      "updatedAt": "2026-11-06T00:18:00.000Z"
     },
     {
       "id": "f9e61823-5d2c-4f3d-b3a5-b5005faec3c3",
@@ -101,9 +338,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -128,9 +365,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -168,6 +405,31 @@
       "url": "https://trueinterview.io/jobs/bc5fffdc-8e55-4286-ab58-345ca948cc1d",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T23:05:00.000Z"
+    },
+    {
+      "id": "98145c12-4c25-4149-9428-9119fe6d0973",
+      "company": "DWYER INSTRUMENTS, LLC",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Westerville, Ohio, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548",
+      "url": "https://trueinterview.io/jobs/98145c12-4c25-4149-9428-9119fe6d0973",
+      "postedAt": "2026-11-05T23:02:30.000Z",
+      "updatedAt": "2026-11-05T23:02:30.000Z"
     },
     {
       "id": "72a54163-a4ae-4a14-acb0-3c82b2fcff10",
@@ -247,6 +509,34 @@
       "url": "https://trueinterview.io/jobs/0ba6a364-beaf-4dab-bcaa-b139b3ab10a3",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T22:45:00.000Z"
+    },
+    {
+      "id": "954bc900-2cbf-4186-9b1f-1cf1f9bdd077",
+      "company": "State Farm",
+      "title": "Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist",
+      "locations": [
+        "Tempe, Arizona, United States",
+        "Dunwoody, Georgia, United States",
+        "Bloomington, Illinois, United States",
+        "Richardson, Texas, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.statefarm.com/main/jobs/46227",
+      "url": "https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077",
+      "postedAt": "2026-11-05T22:25:00.000Z",
+      "updatedAt": "2026-11-05T22:25:00.000Z"
     },
     {
       "id": "86397898-514e-401d-b4aa-4cdc3be62d9e",
@@ -4126,33 +4416,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4450134756/",
       "url": "https://trueinterview.io/jobs/54c8d3eb-26ef-4d08-98e8-7337c0d09d6f",
-      "postedAt": "2026-11-05T00:00:00.000Z",
-      "updatedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "id": "e6074268-d682-4457-928f-9cb7974cd3d4",
-      "company": "Palantir Technologies",
-      "title": "Software Engineer, Internship - Sovereign AI Systems",
-      "locations": [
-        "New York, New York, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
-      "url": "https://trueinterview.io/jobs/e6074268-d682-4457-928f-9cb7974cd3d4",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
@@ -25752,6 +26015,81 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4477626534/",
       "url": "https://trueinterview.io/jobs/50f4e60d-9c45-43dd-bfe6-04bf1eb50cb5",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "1b94ed8d-b2f4-48c0-bb08-64211cd02970",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
+      "locations": [
+        "Foster City, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
+      "url": "https://trueinterview.io/jobs/1b94ed8d-b2f4-48c0-bb08-64211cd02970",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "82f7d1aa-6367-4ec1-9ea3-14bc9ba7bc3e",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+      "locations": [
+        "Foster City, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+      "url": "https://trueinterview.io/jobs/82f7d1aa-6367-4ec1-9ea3-14bc9ba7bc3e",
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "updatedAt": "2026-10-30T00:00:00.000Z"
+    },
+    {
+      "id": "2de578ad-9c2c-4431-be10-ab59f9234981",
+      "company": "Zoox",
+      "title": "Software Engineer Intern, Software Systems [Summer 2027]",
+      "locations": [
+        "Foster City, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
+      "url": "https://trueinterview.io/jobs/2de578ad-9c2c-4431-be10-ab59f9234981",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },

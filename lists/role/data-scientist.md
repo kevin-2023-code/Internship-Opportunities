@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**99 open roles.** 83 in the United States & Canada · 16 elsewhere in the world.
+**100 open roles.** 84 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Basking Ridge, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488052402/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Farm</strong></td>
+<td><a href="https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077">Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist</a></td>
+<td>Tempe, Arizona, United States<br/>Dunwoody, Georgia, United States<br/>Bloomington, Illinois, United States<br/>+1 more</td>
+<td align="center"><a href="https://jobs.statefarm.com/main/jobs/46227">Apply</a></td>
+<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Ingredion Incorporated</strong></td>
