@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,227 open roles.** 1,019 in the United States & Canada · 208 elsewhere in the world.
+**1,230 open roles.** 1,022 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Commonwealth Fusion Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/6db42e44-b2c1-4884-b886-37593e6110e9">Intern - Scientific Software Engineer - Summer 2027</a></td>
+<td>Devens, MA</td>
+<td align="center"><a href="https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Garmin</strong></td>
+<td><a href="https://trueinterview.io/jobs/9b62060d-2b59-4fb5-9ab0-bc4e65d7385f">Automation Engineer Intern - Electrical</a></td>
+<td>Olathe, KS</td>
+<td align="center"><a href="https://careers.garmin.com/jobs/19337/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/1065b884-0534-4ba4-b9bb-82e6ccd6eaad">Software Engineer - Intern</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://careers-gdms.icims.com/jobs/75626/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Great American Insurance Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea8f0d80-ca21-4058-85e2-78368e31d5b7">Claims Lab Developer Intern – Summer 2027</a></td>
@@ -2805,27 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33117">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TenthNode.ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fc3a456-3a9b-4c87-a407-c7ebea5afe9d">Forward Deployed Engineer Intern</a> 🌐</td>
-<td>Remote — Singapore</td>
-<td align="center"><a href="https://www.internsg.com/job/tenthnode-ai-forward-deployed-engineer-intern/?f_pg=3">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Upsight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d56b1549-84e3-45f4-861c-e410ed7e9274">Software Engineering Intern (Platform &amp; Integrations)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sardine</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
-<td>North America</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
 </tr>
 </tbody>
 </table>

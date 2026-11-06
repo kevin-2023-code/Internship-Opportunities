@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,227 open roles.** 1,019 in the United States & Canada · 208 elsewhere in the world.
+**1,230 open roles.** 1,022 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TenthNode.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fc3a456-3a9b-4c87-a407-c7ebea5afe9d">Forward Deployed Engineer Intern</a> 🌐</td>
+<td>Remote — Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/tenthnode-ai-forward-deployed-engineer-intern/?f_pg=3">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Upsight</strong></td>
+<td><a href="https://trueinterview.io/jobs/d56b1549-84e3-45f4-861c-e410ed7e9274">Software Engineering Intern (Platform &amp; Integrations)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sardine</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
+<td>North America</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Toku</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf8e24d2-9438-4898-8a98-8cae1362bf8a">AI Operations Intern BR</a></td>

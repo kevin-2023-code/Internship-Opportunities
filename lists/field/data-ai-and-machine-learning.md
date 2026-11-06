@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**581 open roles.** 439 in the United States & Canada · 142 elsewhere in the world.
+**581 open roles.** 440 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ef4bcf4-7073-45d0-86f6-f7ea184bb778">Data Scientist, Intern</a></td>
 <td>New York, NY<br/>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480310279/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASM</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
+<td>Greater Phoenix Area<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://www.asm.com/open-vacancies/intern-product-intelligence-engineering-aiml-5029228101?gh_jid=5029228101">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Calabasas, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54606?lang=en-us">Apply</a></td>
 <td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/550ed1d6-857f-4778-8d67-627fc29915fa">Research Intern, 2027 Summer U.S.</a></td>
-<td>Seattle - United States - Seattle, Washington United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

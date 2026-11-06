@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,093 open roles.** 886 in the United States & Canada · 207 elsewhere in the world. Everything the employers put up this week.
+**1,084 open roles.** 878 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Feather Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3f11b32-a05e-4644-b075-c6b357d56bb2">Mechanical Design Engineer Intern</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484592864/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NSTAR, now Eversource Energy- Follow our new company page, Eversource Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bfdec1e-0bd7-4852-bdd8-b449788b9519">Engineering Intern: Distribution System Modeling and Automation (MA/CT/NH, Hybrid Schedule)</a></td>
+<td>Westwood, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483097933/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baypath Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfdeb395-5615-4041-adec-bd3706cbf25d">Software Engineer Intern</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://ca.indeed.com/viewjob?jk=6d5de4e1bb0c5a9e">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Biasly</strong></td>
 <td><a href="https://trueinterview.io/jobs/c27e1927-af48-44ea-a1e4-409a651fa82d">UX Design Internship</a></td>
@@ -540,83 +561,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5444306008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Signify</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8c542fd-7976-4f37-a65f-bc6dc4d3eeea">Product Management Intern, Cooper Lighting Solutions - Spring 2027</a></td>
-<td>Peachtree City, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223089/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FortisBC</strong></td>
-<td><a href="https://trueinterview.io/jobs/eccca0dd-1e6f-4199-84fc-ce6cd6c39e2b">Engineering Co-op, System Integrity</a></td>
-<td>Surrey, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475720493/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Renewables - Bazefield</strong></td>
-<td><a href="https://trueinterview.io/jobs/26c5da57-03d4-4e0e-bba6-d33948f639a5">Product Designer/Developer Intern</a></td>
-<td>Del Mar, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478488260/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brunswick Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc7235e1-cd36-4f41-94a8-fb6a4a73a93f">Merucry Marine: Product Management Intern – Parts &amp; Accessories</a></td>
-<td>Fond du Lac, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459022934/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/42d975d7-3521-4b1f-9c9d-5372549e9faf">Structural Engineering Intern - Summer 2027</a></td>
-<td>New York, NY<br/>Virginia Beach, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467107720/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Huawei Canada</strong></td>
-<td><a href="https://trueinterview.io/jobs/7709a155-eec6-4a60-831d-a48668112bb4">Intern Researcher- AI Agents</a></td>
-<td>Markham, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485203598/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crown Equipment Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/c05510b8-1994-4b40-a179-d0d82f59fe0e">Marketing Digital UX Co-Op - Summer 2027</a></td>
-<td>New Bremen, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468316153/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/b39a3623-fdaf-4285-80d0-37f2555fe403">Civil Engineering Intern- Summer 2027</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466897791/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brunswick Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fd36b19-817e-481b-a53b-029323932073">Mercury Marine - Foundry Engineering Co-op</a></td>
-<td>Fond du Lac, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459044486/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RK Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/17814726-9fa6-40db-a60e-659e2a646d3f">Project Engineer Intern- Summer 2027</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465937278/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/87d08b86-e1ad-4c1d-9f4b-efcf040efb02">Geotechnical Engineering Intern - Summer 2027</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475496097/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -629,13 +573,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ASM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
-<td>Greater Phoenix Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488119402/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Mercari, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>

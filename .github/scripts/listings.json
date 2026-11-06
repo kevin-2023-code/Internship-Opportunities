@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-06T19:03:44.203Z",
-  "count": 2823,
+  "listingsChangedAt": "2026-11-06T20:04:37.699Z",
+  "count": 2826,
   "listings": [
     {
       "id": "6cf5351d-45b6-4460-9b1c-2ed8e9063b8b",
@@ -707,10 +707,13 @@
       "company": "ASM",
       "title": "Intern, Product Intelligence Engineering (AI/ML)",
       "locations": [
-        "Greater Phoenix Area"
+        "Greater Phoenix Area",
+        "Phoenix, AZ"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
@@ -720,7 +723,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488119402/",
+      "applyUrl": "https://www.asm.com/open-vacancies/intern-product-intelligence-engineering-aiml-5029228101?gh_jid=5029228101",
       "url": "https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05",
       "postedAt": "2026-11-06T12:59:00.000Z",
       "updatedAt": "2026-11-06T12:59:00.000Z"
@@ -1376,7 +1379,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488089219/",
+      "applyUrl": "https://careers-riversideresearch.icims.com/jobs/4461/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/af5fbbf4-ca1b-40d6-a8a8-f0c19e9190e8",
       "postedAt": "2026-11-06T00:20:35.000Z",
       "updatedAt": "2026-11-06T00:20:35.000Z"
@@ -1718,7 +1721,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485868332/",
+      "applyUrl": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233",
       "url": "https://trueinterview.io/jobs/86397898-514e-401d-b4aa-4cdc3be62d9e",
       "postedAt": "2026-11-05T22:20:00.000Z",
       "updatedAt": "2026-11-05T22:20:00.000Z"
@@ -4780,6 +4783,31 @@
       "updatedAt": "2026-11-05T06:00:00.000Z"
     },
     {
+      "id": "3866d14f-a73e-40ae-a934-819a068bb246",
+      "company": "Cintas",
+      "title": "IT Intern - Engineer - Customer Channels",
+      "locations": [
+        "Mason, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/",
+      "url": "https://trueinterview.io/jobs/3866d14f-a73e-40ae-a934-819a068bb246",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
       "id": "2bb50976-b544-4436-bd11-e9a3ca48fa35",
       "company": "Cognizant",
       "title": "Software Engineering Internship – TriZetto Product House",
@@ -4826,6 +4854,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.hilti.group/en/jobs/22245-en/intern-data-science-global-it-m-f-x/",
       "url": "https://trueinterview.io/jobs/51261dd3-f6cb-4104-b8e7-b88431856b1c",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
+      "id": "93d4e73b-050a-47a3-ab6f-d67cbccc2683",
+      "company": "Lockheed Martin",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com",
+      "url": "https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683",
       "postedAt": "2026-11-05T06:00:00.000Z",
       "updatedAt": "2026-11-05T06:00:00.000Z"
     },
@@ -9731,7 +9784,8 @@
       "title": "2027 Spring Co-op Software Engineer Intern – McClellan CA",
       "locations": [
         "McClellan Place, California, United States",
-        "McClellan Park, California, United States"
+        "McClellan Park, California, United States",
+        "McClellan Park, CA"
       ],
       "cities": [],
       "countries": [
@@ -36788,6 +36842,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&tm_event=view&tm_company=2502",
       "url": "https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "id": "92f4e34e-8bba-4095-812f-17516964e7fa",
+      "company": "Northrop Grumman",
+      "title": "2027 S/W Embedded Engineering Intern – Sykesville MD",
+      "locations": [
+        "Sykesville, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.northropgrumman.com/careers/job/1340075072464?code=JB-17946&domain=ngc.com",
+      "url": "https://trueinterview.io/jobs/92f4e34e-8bba-4095-812f-17516964e7fa",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,227 open roles.** 1,019 in the United States & Canada · 208 elsewhere in the world.
+**1,230 open roles.** 1,022 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stratolaunch</strong></td>
+<td><a href="https://trueinterview.io/jobs/7cc77704-9d90-4b96-adc0-aad39c47b08c">Manufacturing (Electrical) Engineering Intern Summer 2027</a></td>
+<td>Mojave, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484829164/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enercon Services, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/369d7e1c-29e9-4857-abbe-52da46c1dbc1">Intern- Asset Integrity &amp; Corrosion Control Engineer – Energy Group</a></td>
+<td>Spring, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484819315/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>BioSpace</strong></td>
 <td><a href="https://trueinterview.io/jobs/a2b8c77a-7731-45d7-86e2-91911b7efd1a">2027 Summer Intern Quality Assurance Compliance &amp; Quality Systems (IOPS)</a></td>
@@ -1294,6 +1308,13 @@
 <td><a href="https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b">Software Developer Intern</a></td>
 <td>Annapolis Junction, MD</td>
 <td align="center"><a href="https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/92f4e34e-8bba-4095-812f-17516964e7fa">2027 S/W Embedded Engineering Intern – Sykesville MD</a></td>
+<td>Sykesville, MD</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075072464?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/09afc3ec-5904-4732-8ae4-3bc25aa15914">Systems Engineering Co-op</a></td>
 <td>Saint Petersburg, FL</td>
 <td align="center"><a href="https://careers.rtx.com/global/en/job/01884435">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/6db42e44-b2c1-4884-b886-37593e6110e9">Intern - Scientific Software Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Garmin</strong></td>
-<td><a href="https://trueinterview.io/jobs/9b62060d-2b59-4fb5-9ab0-bc4e65d7385f">Automation Engineer Intern - Electrical</a></td>
-<td>Olathe, KS</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/19337/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Mission Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/1065b884-0534-4ba4-b9bb-82e6ccd6eaad">Software Engineer - Intern</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://careers-gdms.icims.com/jobs/75626/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**391 open roles.** 326 in the United States & Canada · 65 elsewhere in the world.
+**392 open roles.** 327 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -63,7 +63,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Riverside Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/af5fbbf4-ca1b-40d6-a8a8-f0c19e9190e8">Software Applications Intern</a></td>
 <td>Fairborn, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488089219/">Apply</a></td>
+<td align="center"><a href="https://careers-riversideresearch.icims.com/jobs/4461/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -302,6 +302,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d0f10a87-2009-4182-ae2d-7e282e02820a">Software Engineer Intern</a></td>
 <td>Tempe, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485585973/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683">Software Developer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

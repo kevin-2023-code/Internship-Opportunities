@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**136 open roles.** 107 in the United States & Canada · 29 elsewhere in the world.
+**136 open roles.** 108 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6cf5351d-45b6-4460-9b1c-2ed8e9063b8b">Machine Learning PhD Intern: Spring 2027</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASM</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
+<td>Greater Phoenix Area<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://www.asm.com/open-vacancies/intern-product-intelligence-engineering-aiml-5029228101?gh_jid=5029228101">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -778,13 +785,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>ASM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
-<td>Greater Phoenix Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488119402/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Optiver</strong></td>
 <td><a href="https://trueinterview.io/jobs/54c8d3eb-26ef-4d08-98e8-7337c0d09d6f">2027 Shanghai Machine Learning Engineer Summer Internship</a></td>

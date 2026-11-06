@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,227 open roles.** 1,019 in the United States & Canada · 208 elsewhere in the world.
+**1,230 open roles.** 1,022 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -205,7 +205,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Riverside Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/af5fbbf4-ca1b-40d6-a8a8-f0c19e9190e8">Software Applications Intern</a></td>
 <td>Fairborn, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488089219/">Apply</a></td>
+<td align="center"><a href="https://careers-riversideresearch.icims.com/jobs/4461/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Sierra Nevada Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/86397898-514e-401d-b4aa-4cdc3be62d9e">Firmware Engineer Intern (Summer 2027)</a></td>
 <td>Sparks, NV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485868332/">Apply</a></td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -643,10 +643,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Cintas</strong></td>
+<td><a href="https://trueinterview.io/jobs/3866d14f-a73e-40ae-a934-819a068bb246">IT Intern - Engineer - Customer Channels</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Cognizant</strong></td>
 <td><a href="https://trueinterview.io/jobs/2bb50976-b544-4436-bd11-e9a3ca48fa35">Software Engineering Internship – TriZetto Product House</a></td>
 <td>United States</td>
 <td align="center"><a href="https://careers.cognizant.com/global-en/jobs/47945/software-engineering-internship-trizetto-product-house/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683">Software Developer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2bf82ea7-45f7-4fa4-a5e4-aac3585093b7">Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485307316/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stratolaunch</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cc77704-9d90-4b96-adc0-aad39c47b08c">Manufacturing (Electrical) Engineering Intern Summer 2027</a></td>
-<td>Mojave, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484829164/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Enercon Services, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/369d7e1c-29e9-4857-abbe-52da46c1dbc1">Intern- Asset Integrity &amp; Corrosion Control Engineer – Energy Group</a></td>
-<td>Spring, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484819315/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

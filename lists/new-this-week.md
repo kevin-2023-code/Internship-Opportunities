@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,093 open roles.** 886 in the United States & Canada · 207 elsewhere in the world. Everything the employers put up this week.
+**1,084 open roles.** 878 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -209,6 +209,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>ASM</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
+<td>Greater Phoenix Area<br/>Phoenix, AZ</td>
+<td align="center"><a href="https://www.asm.com/open-vacancies/intern-product-intelligence-engineering-aiml-5029228101?gh_jid=5029228101">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>State Farm</strong></td>
 <td><a href="https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077">Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist</a></td>
 <td>Atlanta, GA<br/>Tempe, Arizona, United States<br/>Dunwoody, Georgia, United States<br/>+4 more</td>
@@ -373,7 +380,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Riverside Research</strong></td>
 <td><a href="https://trueinterview.io/jobs/af5fbbf4-ca1b-40d6-a8a8-f0c19e9190e8">Software Applications Intern</a></td>
 <td>Fairborn, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488089219/">Apply</a></td>
+<td align="center"><a href="https://careers-riversideresearch.icims.com/jobs/4461/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -464,7 +471,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Sierra Nevada Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/86397898-514e-401d-b4aa-4cdc3be62d9e">Firmware Engineer Intern (Summer 2027)</a></td>
 <td>Sparks, NV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485868332/">Apply</a></td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1154,10 +1161,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Cintas</strong></td>
+<td><a href="https://trueinterview.io/jobs/3866d14f-a73e-40ae-a934-819a068bb246">IT Intern - Engineer - Customer Channels</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Cognizant</strong></td>
 <td><a href="https://trueinterview.io/jobs/2bb50976-b544-4436-bd11-e9a3ca48fa35">Software Engineering Internship – TriZetto Product House</a></td>
 <td>United States</td>
 <td align="center"><a href="https://careers.cognizant.com/global-en/jobs/47945/software-engineering-internship-trizetto-product-house/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683">Software Developer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
 <td>Richmond, British Columbia, Canada<br/>Richmond, Canada</td>
 <td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Avis Budget Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6ffd6d8-20d6-4549-be77-16c8019815b3">Accelerate - Transformation Engineer Summer 2027 Intern</a></td>
-<td>Parsippany-Troy Hills, NJ</td>
-<td align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CGI</strong></td>
-<td><a href="https://trueinterview.io/jobs/3284f3b4-55ce-4d58-b3e5-2d139b695cfc">Winter 2027 : AI Developer Co-op (8 months)</a></td>
-<td>Toronto, ON<br/>Toronto, Canada</td>
-<td align="center"><a href="https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&amp;clid=21001&amp;JobID=J1026-2812&amp;BRID=1345069&amp;sbdid=936">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ciena</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
-<td>Quebec, Quebec, Canada<br/>Quebec City, Canada</td>
-<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

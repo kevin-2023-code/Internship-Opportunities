@@ -28,7 +28,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Sierra Nevada Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/86397898-514e-401d-b4aa-4cdc3be62d9e">Firmware Engineer Intern (Summer 2027)</a></td>
 <td>Sparks, NV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485868332/">Apply</a></td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

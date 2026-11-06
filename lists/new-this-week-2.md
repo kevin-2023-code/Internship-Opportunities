@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,093 open roles.** 886 in the United States & Canada · 207 elsewhere in the world. Everything the employers put up this week.
+**1,084 open roles.** 878 in the United States & Canada · 206 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Avis Budget Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6ffd6d8-20d6-4549-be77-16c8019815b3">Accelerate - Transformation Engineer Summer 2027 Intern</a></td>
+<td>Parsippany-Troy Hills, NJ</td>
+<td align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CGI</strong></td>
+<td><a href="https://trueinterview.io/jobs/3284f3b4-55ce-4d58-b3e5-2d139b695cfc">Winter 2027 : AI Developer Co-op (8 months)</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&amp;clid=21001&amp;JobID=J1026-2812&amp;BRID=1345069&amp;sbdid=936">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795">Stagiaire en développement logiciel - Software developer Intern/Co-op</a></td>
+<td>Quebec, Quebec, Canada<br/>Quebec City, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CNH Industrial</strong></td>
 <td><a href="https://trueinterview.io/jobs/ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a">Firmware Software Intern</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/781a3c88-aae9-4476-a3be-02cfd989697f">Engineering Intern – Materials &amp; Resin Development</a></td>
 <td>Huntington Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485289132/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Feather Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3f11b32-a05e-4644-b075-c6b357d56bb2">Mechanical Design Engineer Intern</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484592864/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NSTAR, now Eversource Energy- Follow our new company page, Eversource Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bfdec1e-0bd7-4852-bdd8-b449788b9519">Engineering Intern: Distribution System Modeling and Automation (MA/CT/NH, Hybrid Schedule)</a></td>
-<td>Westwood, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483097933/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Baypath Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfdeb395-5615-4041-adec-bd3706cbf25d">Software Engineer Intern</a> 🌐</td>
-<td>Remote — Canada</td>
-<td align="center"><a href="https://ca.indeed.com/viewjob?jk=6d5de4e1bb0c5a9e">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
