@@ -5,9 +5,213 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-06T15:04:38.275Z",
-  "count": 2800,
+  "listingsChangedAt": "2026-11-06T16:04:52.094Z",
+  "count": 2807,
   "listings": [
+    {
+      "id": "966d2341-1439-4066-a321-59d8dc9d149d",
+      "company": "IBM",
+      "title": "Back-End Developer Intern 2027 -Houston, TX",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4459552786/",
+      "url": "https://trueinterview.io/jobs/966d2341-1439-4066-a321-59d8dc9d149d",
+      "postedAt": "2026-11-06T15:36:31.000Z",
+      "updatedAt": "2026-11-06T15:36:31.000Z"
+    },
+    {
+      "id": "00ddc021-2345-489b-8e5e-7da222e9488c",
+      "company": "Symbotic",
+      "title": "Co-op - Software Engineer",
+      "locations": [
+        "Wilmington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470984232/",
+      "url": "https://trueinterview.io/jobs/00ddc021-2345-489b-8e5e-7da222e9488c",
+      "postedAt": "2026-11-06T15:36:31.000Z",
+      "updatedAt": "2026-11-06T15:36:31.000Z"
+    },
+    {
+      "id": "d4889da2-dd07-4bd8-9d9a-6d3db035daa8",
+      "company": "Ramp",
+      "title": "Software Engineering Intern, Android",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469641583/",
+      "url": "https://trueinterview.io/jobs/d4889da2-dd07-4bd8-9d9a-6d3db035daa8",
+      "postedAt": "2026-11-06T15:16:44.000Z",
+      "updatedAt": "2026-11-06T15:16:44.000Z"
+    },
+    {
+      "id": "d46e6e63-4897-4f03-b29f-7752735a175a",
+      "company": "Motion",
+      "title": "Web Developer Intern",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462426948/",
+      "url": "https://trueinterview.io/jobs/d46e6e63-4897-4f03-b29f-7752735a175a",
+      "postedAt": "2026-11-06T15:14:00.000Z",
+      "updatedAt": "2026-11-06T15:14:00.000Z"
+    },
+    {
+      "id": "a5d8b989-2e22-4d28-9939-dcc1f359a928",
+      "company": "Advantive",
+      "title": "AI & Systems Intern",
+      "locations": [
+        "Tampa, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469615248/",
+      "url": "https://trueinterview.io/jobs/a5d8b989-2e22-4d28-9939-dcc1f359a928",
+      "postedAt": "2026-11-06T15:10:00.000Z",
+      "updatedAt": "2026-11-06T15:10:00.000Z"
+    },
+    {
+      "id": "26d806ab-708c-48aa-8977-baa3d11189fe",
+      "company": "Tinder",
+      "title": "Android Engineer Intern",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487300422/",
+      "url": "https://trueinterview.io/jobs/26d806ab-708c-48aa-8977-baa3d11189fe",
+      "postedAt": "2026-11-06T14:34:00.000Z",
+      "updatedAt": "2026-11-06T14:34:00.000Z"
+    },
+    {
+      "id": "950920b6-edfa-4562-ba07-7447f1fbac27",
+      "company": "Motion",
+      "title": "Software Engineer - QA Analyst Intern",
+      "locations": [
+        "Birmingham, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462424989/",
+      "url": "https://trueinterview.io/jobs/950920b6-edfa-4562-ba07-7447f1fbac27",
+      "postedAt": "2026-11-06T14:21:00.000Z",
+      "updatedAt": "2026-11-06T14:21:00.000Z"
+    },
+    {
+      "id": "147081d9-1d37-40a9-a24a-f48f41e814a8",
+      "company": "Hubbell Incorporated",
+      "title": "2027 Summer Intern: Product Marketing - UX Design",
+      "locations": [
+        "St Louis, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462858713/",
+      "url": "https://trueinterview.io/jobs/147081d9-1d37-40a9-a24a-f48f41e814a8",
+      "postedAt": "2026-11-06T14:16:00.000Z",
+      "updatedAt": "2026-11-06T14:16:00.000Z"
+    },
     {
       "id": "9ef4bcf4-7073-45d0-86f6-f7ea184bb778",
       "company": "Duolingo",
@@ -4271,31 +4475,6 @@
       "url": "https://trueinterview.io/jobs/cc93f7f1-317b-41f6-9000-d2f3279a7d3b",
       "postedAt": "2026-11-05T03:09:00.000Z",
       "updatedAt": "2026-11-05T03:09:00.000Z"
-    },
-    {
-      "id": "7bd23df7-9068-4f7d-9bef-d5878c7e7ef5",
-      "company": "Sparengine",
-      "title": "Product Designer Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486554462/",
-      "url": "https://trueinterview.io/jobs/7bd23df7-9068-4f7d-9bef-d5878c7e7ef5",
-      "postedAt": "2026-11-05T02:13:00.000Z",
-      "updatedAt": "2026-11-05T02:13:00.000Z"
     },
     {
       "id": "5f421082-7f85-4a37-aa05-b93620c27b4d",
