@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**81 open roles.**
+**82 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richardson, Texas, United States<br/>Richardson, TX<br/>Atlanta, GA<br/>+4 more</td>
 <td align="center"><a href="https://jobs.statefarm.com/main/jobs/46227">Apply</a></td>
 <td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Welltower</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d7a44c7-03f5-4953-9a7b-a93cd879d67b">Summer '27 Intern - IT Support Analyst</a></td>
+<td>Dallas, TX, 75225<br/>Toronto, ON, M5H1T1, CAN<br/>Toledo, OH, 43615</td>
+<td align="center"><a href="https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=9be87685-cfd7-4837-ba22-a3be51a1b8f6">Apply</a></td>
+<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Tenet Healthcare Corporation</strong></td>
