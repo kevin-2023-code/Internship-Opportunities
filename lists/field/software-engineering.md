@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,245 open roles.** 1,037 in the United States & Canada · 208 elsewhere in the world.
+**1,247 open roles.** 1,038 in the United States & Canada · 209 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -345,14 +345,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Apex</strong></td>
 <td><a href="https://trueinterview.io/jobs/92eee9b9-a859-43cd-9250-11b14b85450d">Ground Software Engineering Internship (Spring or Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488047890/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb1aed20-69b6-447c-b273-063b5bf982bb">Software Engineering Internship, Test &amp; Automation (Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488068162/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -380,7 +380,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Apex</strong></td>
 <td><a href="https://trueinterview.io/jobs/b63b965b-2ff9-4a3e-b20c-dafb55de7ea2">Software Engineering Internship, Embedded Systems (Spring or Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488060572/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -533,8 +533,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/18658796-6c4e-4c69-9a9a-9ae774d26019">Software Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479742277/">Apply</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2372,55 +2372,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/816463fe-cd3d-45e9-804a-7f6d374ab545">SW Developer Intern: Systems Assurance - Austin, TX &amp; Rochester, MN - 2027</a></td>
-<td>Austin, TX<br/>Rochester, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458026525/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Armadin</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1e36767-0330-4ee7-97f4-1f63aa9952a8">Summer 2027 Internship - Member of Technical Staff - Frontend</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479242044/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dayton Freight Lines, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d35d3210-fb25-44c8-90cd-0cb5dc992688">Software Developer Intern</a></td>
-<td>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469149547/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Acron Aviation</strong></td>
-<td><a href="https://trueinterview.io/jobs/af27e7ba-c234-4b7d-a52d-f8f4d519a510">Software Engineer Intern - St. Pete Site</a></td>
-<td>St. Petersburg, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466933868/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Netic</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ea494c5-c2ca-41eb-9160-71a450b9d198">Software Engineer (Agent Platform) - Intern - 2026-2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438444966/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teledyne Brown Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f4a3237-5da0-4840-9173-89821144aed3">NHRC Software Engineering Internship (Summer 2027) with Security Clearance</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483940437/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bc5a8e6-1b33-4d82-ba0d-6d856138f856">Engineering Intern - Software Test (Spring 2027 Co-Op)</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467811665/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Realm Alliance</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae89657e-0edf-45e2-ad7e-8930fa82d337">Software Engineer - Intern</a></td>
 <td>United States</td>
@@ -2624,6 +2575,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad52c39-3334-4ba2-94c5-ffb3a0866cd8">Transportation Engineering Co-op (Spring 2027)</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec">SAP iXp Intern - Agile Developer, Business Data Cloud</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
@@ -2817,6 +2775,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1763f73d-ad97-4a47-9365-625f08ea234c">Systems Engineering Coop - Spring/Summer- Onsite</a></td>
 <td>Jamestown, ND</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468875956/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aptiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/222c69ec-d644-4fed-bdc5-9f17a1112cea">Embedded Software - Engineering Intern</a></td>
+<td>Walnut Creek, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477661182/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Badger Meter</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5a0c674-2058-47fb-b1a2-f760180fc10e">Software Engineering Intern</a></td>
+<td>Escondido, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477408823/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Langan Engineering &amp; Environmental Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/96069313-894f-45b4-94d9-8bd8780d12b2">Intern/Co-op – Site/Civil Engineer (Spring 2027)</a></td>
+<td>Cleveland, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477193512/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lennox</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b0ea72a-0493-452d-b6b0-4c10504b6c1d">Hardware Engineering Spring Coop</a></td>
+<td>Carrollton, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468822762/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ascendria Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbf3a81e-a71d-40e3-b18e-cd40e896b409">Test Engineer Intern</a></td>
+<td>New Orleans, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483423745/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/25fcca83-6c80-49a3-b7a0-14894e2d8ce6">University - 2027 Summer Games Software Developer Intern - El Segundo, CA</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459835001/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

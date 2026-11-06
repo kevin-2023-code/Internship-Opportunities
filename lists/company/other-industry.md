@@ -20,15 +20,15 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208065/">Apply</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4472758009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5">2027 Spring - Electrical Engineering Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989722/">Apply</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4472128009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

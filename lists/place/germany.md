@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**21 open roles.**
+**23 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,6 +53,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200693120">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Proxima Fusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/b355ec2f-ecd2-46b7-b680-15384e49e3f1">Intern/Working Student, Alpha Engineering Design Team</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/proxima-fusion/9fd42d90-2c8b-4e5c-ac56-b77750329fb7">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>BLP</strong></td>
@@ -146,7 +153,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">18 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Lyceum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e971910-b44e-431c-97b6-7b8eb244df43">Forward Deployed Engineer – AI Inference (Intern)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyceum/7483d9e7-f14f-4315-81a9-dc560419d749">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f">PHY Cellular Firmware Engineer Internship</a></td>
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001">Apply</a></td>

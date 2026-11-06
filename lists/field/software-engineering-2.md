@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,245 open roles.** 1,037 in the United States & Canada · 208 elsewhere in the world.
+**1,247 open roles.** 1,038 in the United States & Canada · 209 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,48 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Aptiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/222c69ec-d644-4fed-bdc5-9f17a1112cea">Embedded Software - Engineering Intern</a></td>
-<td>Walnut Creek, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477661182/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Badger Meter</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5a0c674-2058-47fb-b1a2-f760180fc10e">Software Engineering Intern</a></td>
-<td>Escondido, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477408823/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Langan Engineering &amp; Environmental Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/96069313-894f-45b4-94d9-8bd8780d12b2">Intern/Co-op – Site/Civil Engineer (Spring 2027)</a></td>
-<td>Cleveland, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477193512/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b0ea72a-0493-452d-b6b0-4c10504b6c1d">Hardware Engineering Spring Coop</a></td>
-<td>Carrollton, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468822762/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ascendria Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbf3a81e-a71d-40e3-b18e-cd40e896b409">Test Engineer Intern</a></td>
-<td>New Orleans, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483423745/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/25fcca83-6c80-49a3-b7a0-14894e2d8ce6">University - 2027 Summer Games Software Developer Intern - El Segundo, CA</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459835001/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>TTM Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/80ca425d-6808-4606-9490-58c9e98d2fbe">RF/Microwave Engineering Intern</a></td>
@@ -697,8 +655,8 @@
 <tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208065/">Apply</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4472758009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2771,48 @@
 <td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
 <td>Canada<br/>Winnipeg, Canada</td>
 <td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Uber</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c86e046-9f5e-47a7-bab7-f7f7e9da1d06">2027 Software Engineering Intern, Canada</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://tnl2.jometer.com/v2/job?jz=5wqzsc093f0b2979e1ec2b478225b796169f4MAAAKAAAAABQ">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xradar</strong></td>
+<td><a href="https://trueinterview.io/jobs/dee4702a-40d8-44cd-947f-9900b374de96">Software Engineer Co-op</a></td>
+<td>Burnaby, Canada</td>
+<td align="center"><a href="https://xradar.bamboohr.com/careers/203?postedDate=2026-10-28">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wabtec</strong></td>
+<td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
+<td>Schenectady, NY</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Filevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
+<td>Salt Lake City, Utah</td>
+<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/774f2152-15f0-4892-9e21-a9c601b909a8">Firmware Developer Intern - Poughkeepsie - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564382/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d27b0943-c217-4ea2-80be-ad6206614317">Intern Software Engineer / Agent Engineer - EDA - Austin 2027</a></td>
+<td>Austin, TX<br/>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564384/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

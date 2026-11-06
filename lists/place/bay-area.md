@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**432 open roles.**
+**436 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -41,7 +41,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/18714ac0-f3fd-4681-a62e-0342cded64db">UX Product Design Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tinder</strong></td>
 <td><a href="https://trueinterview.io/jobs/9dbfadeb-3885-4d9b-aa7d-d9334bd53dea">Backend Engineer Intern</a></td>
 <td>Palo Alto, CA<br/>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486995499/">Apply</a></td>
@@ -162,8 +169,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/18658796-6c4e-4c69-9a9a-9ae774d26019">Software Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479742277/">Apply</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -612,27 +619,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f">[Summer 2027] Software Engineer Intern</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4449149254/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Armadin</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1e36767-0330-4ee7-97f4-1f63aa9952a8">Summer 2027 Internship - Member of Technical Staff - Frontend</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479242044/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok USDS Joint Venture</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a923221-5a88-4546-b567-6622cb80ceff">Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466960029/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Netic</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ea494c5-c2ca-41eb-9160-71a450b9d198">Software Engineer (Agent Platform) - Intern - 2026-2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438444966/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1511,7 +1497,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc6db7cf-025f-43e3-8b36-c9f846f9520d">Electrical Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0f2ddd61-4a28-4e77-93c2-5c1209dcc34f">Wireless Hardware Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/32b3815b-513b-4904-afda-df5fd452b526">Mobile Software Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffa2840a-81f9-495a-a647-291b4155bd74">Research Scientist Intern, AI-Driven Neural Interfaces (PhD)</a></td>
 <td>Menlo Park, CA, United States<br/>Burlingame, CA, United States<br/>New York, NY</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1436615821934863/">Apply</a></td>
@@ -1786,7 +1793,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836">Process Engineering Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
+<td>San Mateo, California, United States<br/>Hayward, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
@@ -2456,6 +2463,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Mill</strong></td>
+<td><a href="https://trueinterview.io/jobs/61253945-4f0c-4566-be99-229288ad6dfd">Product Design Engineering Intern, Summer 2027</a></td>
+<td>San Bruno, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4737767005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4580675-2708-4408-8656-4ac5698a761c">Summer 2027 Masters Digital Signal Processing Engineer Intern</a></td>
 <td>San Jose, California, United States</td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397711858">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Grammarly</strong></td>
-<td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
-<td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da">Summer 2027: PhD AI Research Intern</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

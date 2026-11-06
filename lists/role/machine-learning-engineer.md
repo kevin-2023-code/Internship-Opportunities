@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/006fa3ca-1006-4c70-9245-9cef4bff7c8f">Machine Learning — PhD Intern (Modeling and Data Analysis)</a></td>
+<td>Calabasas, CA<br/>Santa Rosa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486287418/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Rivian</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf419613-54ab-4d99-8a66-05da9de6763c">UIUC Research Park Intern - ML AI Motor Controls Algorithm</a></td>
 <td>Champaign, IL</td>
@@ -407,13 +414,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/810f1fad-abe2-4f59-8440-76cb33aa98aa">Machine Learning Engineer, Co-op</a></td>
 <td>Lehi, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477858941/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok USDS Joint Venture</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a923221-5a88-4546-b567-6622cb80ceff">Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466960029/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

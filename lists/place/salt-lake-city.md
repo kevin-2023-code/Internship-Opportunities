@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**16 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,7 +21,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Pattern</strong></td>
 <td><a href="https://trueinterview.io/jobs/8533a0e4-60a1-4c01-bd8d-4cb2422cc183">UX Design Intern - Summer 2027</a></td>
 <td>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487567006/">Apply</a></td>
+<td align="center"><a href="https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -121,6 +121,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Lehi, Utah, United States of America<br/>San Jose, California, United States of America</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pattern</strong></td>
+<td><a href="https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09">AI Automation Engineer Intern</a></td>
+<td>Lehi, UT, US</td>
+<td align="center"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Woolpert</strong></td>

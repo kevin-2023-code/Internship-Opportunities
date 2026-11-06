@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**595 open roles.** 451 in the United States & Canada · 144 elsewhere in the world.
+**597 open roles.** 453 in the United States & Canada · 144 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/c4875a70-5656-444e-9db0-d537d124a375">Summer 2027: Business Data Analyst Intern, Strategy &amp; Planning</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gas South</strong></td>
+<td><a href="https://trueinterview.io/jobs/693922dc-4e2c-40bd-863a-1e869127c991">Spring Junior Analyst Co-Op</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gassouth/jobs/8247655">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Coveo</strong></td>
 <td><a href="https://trueinterview.io/jobs/52213e72-7b88-4716-a920-7a1d80a597bf">Corporate Business Intelligence Intern, Winter 2027</a></td>
@@ -588,6 +602,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Ledger</strong></td>
+<td><a href="https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625">Products Analytics Engineer - Internship</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Informa</strong></td>
 <td><a href="https://trueinterview.io/jobs/647f9873-243e-4742-b4ca-411cf5b46aef">Data Analyst Internship</a></td>
 <td>Amsterdam, Netherlands</td>
@@ -606,13 +627,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/82f1427a-1743-4ee4-b7a0-67d62338d358">INTERNSHIP - Data Analyst (Finance) March 2027</a></td>
 <td>Courbevoie, France</td>
 <td align="center"><a href="https://career2.successfactors.eu/career?career%5fns=job%5flisting&amp;company=C0002716868P&amp;navBarLevel=JOB%5fSEARCH&amp;rcm%5fsite%5flocale=en%5fGB&amp;career_job_req_id=593699&amp;selected_lang=en_GB&amp;jobAlertController_jobAlertId=&amp;jobAlertController_jobAlertName=&amp;browserTimeZone=America/Chicago&amp;_s.crb=bJn8AWr9AYDXOW2Ed7BcxCxZn%2fsFmk5tjelchk4dObM%3d">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ledger</strong></td>
-<td><a href="https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625">Products Analytics Engineer - Internship</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -753,13 +767,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61">Internship - Search Machine Learning Engineer</a></td>
 <td>London, England, United Kingdom<br/>Belgrade, Serbia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468006514/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
-<td>Gurgaon, Haryana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477895308/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1321,6 +1328,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200685035-4170?board_id=JB001">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lyceum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e971910-b44e-431c-97b6-7b8eb244df43">Forward Deployed Engineer – AI Inference (Intern)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyceum/7483d9e7-f14f-4315-81a9-dc560419d749">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NCS</strong></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**123 open roles.** 116 in the United States & Canada · 7 elsewhere in the world.
+**122 open roles.** 115 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -81,20 +81,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9637acd9-8815-4d7d-83e9-6a7dca7da4e8">FY27 Intern - Silicon Validation Internship - Canada (16 months)</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467869193/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e">Intern Hardware Engineer Digital PDTE</a></td>
-<td>Tijuana, Baja California, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476806288/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>HPE Aruba Networking</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4303432-9367-4adb-b8d1-1305f27c8530">ASIC Verification Engineering Intern</a></td>
 <td>Roseville, CA</td>
@@ -170,6 +156,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Silicon-Validation-Intern--BS---Summer-2027_2603850-1">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f2ddd61-4a28-4e77-93c2-5c1209dcc34f">Wireless Hardware Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea">Apply</a></td>
+<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meter</strong></td>

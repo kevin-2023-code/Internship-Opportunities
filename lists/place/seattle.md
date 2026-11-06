@@ -186,13 +186,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>TikTok USDS Joint Venture</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a923221-5a88-4546-b567-6622cb80ceff">Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PhD)</a></td>
-<td>Seattle, WA<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466960029/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1">Master's Machine Learning Engineer, Intern</a></td>
 <td>Seattle, WA<br/>Toronto, Ontario, Canada<br/>New York, NY<br/>+1 more</td>
@@ -646,6 +639,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Hub - Seattle<br/>Hub - San Francisco<br/>Hub - New York</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Join Our Talent Community</strong></td>
+<td><a href="https://trueinterview.io/jobs/823c9e92-46f6-44e0-b2cd-a2386469c5ce">AfroTech 2026 Software Engineering Internship</a></td>
+<td>Seattle, Washington, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003">Apply</a></td>
+<td align="center">12 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Microsoft</strong></td>

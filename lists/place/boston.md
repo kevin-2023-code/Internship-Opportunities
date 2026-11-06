@@ -242,13 +242,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/c45cf213-e5f4-4529-adb0-429f9c257cc6">Spring 2027: HW UX/UI Design Co-op (January through June)</a></td>
-<td>Needham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485689560/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Liberty Mutual Insurance</strong></td>
 <td><a href="https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e">Cybersecurity Co-op (January - June 2027)</a></td>
 <td>Boston, MA</td>
@@ -267,6 +260,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467599758/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad52c39-3334-4ba2-94c5-ffb3a0866cd8">Transportation Engineering Co-op (Spring 2027)</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -328,15 +328,15 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485208065/">Apply</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4472758009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/92b9d2e8-9dd3-442b-b028-0e39ae8900d5">2027 Spring - Electrical Engineering Co-op (Jan - July 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989722/">Apply</a></td>
+<td>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4472128009">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

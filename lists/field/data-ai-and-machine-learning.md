@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**595 open roles.** 451 in the United States & Canada · 144 elsewhere in the world.
+**597 open roles.** 453 in the United States & Canada · 144 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/006fa3ca-1006-4c70-9245-9cef4bff7c8f">Machine Learning — PhD Intern (Modeling and Data Analysis)</a></td>
+<td>Calabasas, CA<br/>Santa Rosa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486287418/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SPX Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab546aaa-6b6a-46d7-8978-f3b1f841ef89">Software Engineering Generative AI Intern</a></td>
+<td>Elk Grove Village, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488423805/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/9d03eb9c-ffe7-4a92-b096-731b73806c6d">AI Foundations - Research Scientist - Research Internship - 2027</a></td>
@@ -1434,13 +1448,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>TikTok USDS Joint Venture</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a923221-5a88-4546-b567-6622cb80ceff">Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466960029/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Rivian</strong></td>
 <td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
 <td>Normal, IL</td>
@@ -2199,8 +2206,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>HackerRank</strong></td>
 <td><a href="https://trueinterview.io/jobs/4cfb0473-43fc-401f-9588-775faae1b0e3">AI Researcher Intern</a></td>
-<td>Lake County, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482505388/">Apply</a></td>
+<td>Lake County, IN<br/>Onsite in Bangalore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hackerrank/jobs/8281055">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2589,6 +2596,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Pattern</strong></td>
+<td><a href="https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09">AI Automation Engineer Intern</a></td>
+<td>Lehi, UT, US</td>
+<td align="center"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Cisco</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7878c67-7641-49ff-b48b-59497f04cb1c">Software Engineer Data &amp; AI PhD (Intern) - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>Chicago, Illinois, United States of America<br/>Santa Monica, California, United States of America<br/>+1 more</td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US<br/>CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725773">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4875a70-5656-444e-9db0-d537d124a375">Summer 2027: Business Data Analyst Intern, Strategy &amp; Planning</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gas South</strong></td>
-<td><a href="https://trueinterview.io/jobs/693922dc-4e2c-40bd-863a-1e869127c991">Spring Junior Analyst Co-Op</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gassouth/jobs/8247655">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 </tbody>
 </table>

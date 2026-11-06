@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**101 open roles.** 87 in the United States & Canada · 14 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**99 open roles.** 86 in the United States & Canada · 13 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -368,13 +368,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Duolingo</strong></td>
-<td><a href="https://trueinterview.io/jobs/120a7b76-b56e-4a92-9555-76b811f7aaff">Product Manager, MBA Intern</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Newsbreak</strong></td>
 <td><a href="https://trueinterview.io/jobs/dfc3df62-133a-46f5-9282-efb1046b06c9">Short Drama Creative Editor Intern</a></td>
 <td>Mountain View, California, United States, Mountain View Office</td>
@@ -688,14 +681,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
-<td>Gurgaon, Haryana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477895308/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/166b4355-6dbd-428c-942f-0a56face66fb">Research Scientist Intern, Agent for Recommendation (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483923591/">Apply</a></td>

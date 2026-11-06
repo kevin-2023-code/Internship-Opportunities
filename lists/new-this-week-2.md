@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,105 open roles.** 901 in the United States & Canada · 204 elsewhere in the world. Everything the employers put up this week.
+**1,082 open roles.** 881 in the United States & Canada · 201 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/c64ffd6f-582d-4d59-968d-74ebf5bb0bbd">Software Engineer Intern - Summer 2027</a></td>
+<td>Highlands Ranch, CO<br/>Littleton, CO<br/>Huntsville, AL<br/>+1 more</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477529588?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eaba15f6-e995-4f05-961a-bc25b59bf77d">Software Engineering Intern</a></td>
+<td>Fort Worth, TX</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477240661?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Media Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e28bcb8-e43a-4f40-a8cf-26e185206782">AI Software Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484682557/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Equanimo.AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/7854617f-f5a1-4f24-84f3-7375d33ba0f8">AI Engineer – Intern</a></td>
@@ -1647,90 +1668,6 @@
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/816463fe-cd3d-45e9-804a-7f6d374ab545">SW Developer Intern: Systems Assurance - Austin, TX &amp; Rochester, MN - 2027</a></td>
-<td>Austin, TX<br/>Rochester, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458026525/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Armadin</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1e36767-0330-4ee7-97f4-1f63aa9952a8">Summer 2027 Internship - Member of Technical Staff - Frontend</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479242044/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vertiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca330bf6-264a-44d5-8c84-a7515e3f1064">UX Design Intern (Summer 2027)</a></td>
-<td>Westerville, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469254129/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dayton Freight Lines, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d35d3210-fb25-44c8-90cd-0cb5dc992688">Software Developer Intern</a></td>
-<td>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469149547/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok USDS Joint Venture</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a923221-5a88-4546-b567-6622cb80ceff">Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466960029/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Acron Aviation</strong></td>
-<td><a href="https://trueinterview.io/jobs/af27e7ba-c234-4b7d-a52d-f8f4d519a510">Software Engineer Intern - St. Pete Site</a></td>
-<td>St. Petersburg, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466933868/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/9637acd9-8815-4d7d-83e9-6a7dca7da4e8">FY27 Intern - Silicon Validation Internship - Canada (16 months)</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467869193/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Netic</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ea494c5-c2ca-41eb-9160-71a450b9d198">Software Engineer (Agent Platform) - Intern - 2026-2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438444966/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e">Intern Hardware Engineer Digital PDTE</a></td>
-<td>Tijuana, Baja California, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476806288/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teledyne Brown Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f4a3237-5da0-4840-9173-89821144aed3">NHRC Software Engineering Internship (Summer 2027) with Security Clearance</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483940437/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bc5a8e6-1b33-4d82-ba0d-6d856138f856">Engineering Intern - Software Test (Spring 2027 Co-Op)</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467811665/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/c45cf213-e5f4-4529-adb0-429f9c257cc6">Spring 2027: HW UX/UI Design Co-op (January through June)</a></td>
-<td>Needham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485689560/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Realm Alliance</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae89657e-0edf-45e2-ad7e-8930fa82d337">Software Engineer - Intern</a></td>
 <td>United States</td>
@@ -2127,6 +2064,13 @@
 <td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467599758/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad52c39-3334-4ba2-94c5-ffb3a0866cd8">Transportation Engineering Co-op (Spring 2027)</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2757,62 @@
 <td><a href="https://trueinterview.io/jobs/7c4e78e5-27de-4b4c-bb14-f7bf3b07856e">Electrical Engineering for Manufacturing Co-Op (Summer/Fall 2027)</a></td>
 <td>Bellevue, WA<br/>Bellevue, IA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485291549/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfc13e61-faef-4ebf-85bc-796dc65c85ac">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485286737/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/9297cf84-2b78-4aad-959d-976e8f9f7716">Industrial Engineering Intern (Summer 2027)</a></td>
+<td>Essex Junction, VT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481168054/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/03772de3-446b-48e4-9e05-934444bbea6a">Reliability Engineering Intern (Summer 2027)</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485295511/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ce059ba-5d75-446d-a000-e021d6e145e0">ML Innovation for Products, PhD Research Intern</a></td>
+<td>Sunnyvale, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483410748/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BRAIN</strong></td>
+<td><a href="https://trueinterview.io/jobs/a654f490-c982-445a-aefb-dbcabe08bef1">AI Platform Engineer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ba9e0793-7a60-421d-9d71-9f54898448dc">Machine Learning Engineer, Applied AI Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/844450ee-be49-4084-9df8-d216510de970">Electrical Engineering Co-op (Winter/Spring 2027)</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01885823">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise | HPE</strong></td>
+<td><a href="https://trueinterview.io/jobs/011a0b9f-2abb-4b72-b274-b1a6c4d6fa8e">Software Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1214146EXTERNALENUS/Software-Engineering-Intern">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

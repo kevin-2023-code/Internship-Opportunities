@@ -130,13 +130,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/c45cf213-e5f4-4529-adb0-429f9c257cc6">Spring 2027: HW UX/UI Design Co-op (January through June)</a></td>
-<td>Needham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485689560/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1">Master's Machine Learning Engineer, Intern</a></td>
 <td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
@@ -652,6 +645,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/633a023a-6455-463b-940d-478230e345cc">Intern - Information Security (Cybersecurity)</a></td>
 <td>Lake St. Louis, MO or Mandan, ND<br/>Lake Saint Louis, MO<br/>Mandan, ND</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191724">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tanium</strong></td>
+<td><a href="https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243">Software Engineering Intern – Summer 2027</a></td>
+<td>Durham, NC (Hybrid)<br/>Emeryville, CA (Hybrid)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8181017">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>

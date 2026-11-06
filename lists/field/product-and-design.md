@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**208 open roles.** 156 in the United States & Canada · 52 elsewhere in the world.
+**206 open roles.** 154 in the United States & Canada · 52 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/18714ac0-f3fd-4681-a62e-0342cded64db">UX Product Design Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hubbell Incorporated</strong></td>
 <td><a href="https://trueinterview.io/jobs/147081d9-1d37-40a9-a24a-f48f41e814a8">2027 Summer Intern: Product Marketing - UX Design</a></td>
@@ -105,7 +112,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Pattern</strong></td>
 <td><a href="https://trueinterview.io/jobs/8533a0e4-60a1-4c01-bd8d-4cb2422cc183">UX Design Intern - Summer 2027</a></td>
 <td>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487567006/">Apply</a></td>
+<td align="center"><a href="https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -274,20 +281,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf597d8f-3a7d-477b-a2cc-abfdbd5ee077">Product Design (UX) - Summer 2027 Corporate Internship</a></td>
 <td>Coraopolis, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475226934/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vertiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca330bf6-264a-44d5-8c84-a7515e3f1064">UX Design Intern (Summer 2027)</a></td>
-<td>Westerville, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469254129/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SharkNinja</strong></td>
-<td><a href="https://trueinterview.io/jobs/c45cf213-e5f4-4529-adb0-429f9c257cc6">Spring 2027: HW UX/UI Design Co-op (January through June)</a></td>
-<td>Needham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485689560/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -772,13 +765,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/persona/a50a3137-1c9a-4947-9f4e-1a4ef26c2bec/application">Apply</a></td>
 <td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Duolingo</strong></td>
-<td><a href="https://trueinterview.io/jobs/120a7b76-b56e-4a92-9555-76b811f7aaff">Product Manager, MBA Intern</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002">Apply</a></td>
-<td align="center">16 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Newsbreak</strong></td>

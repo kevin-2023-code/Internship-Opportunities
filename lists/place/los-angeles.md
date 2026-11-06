@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**150 open roles.**
+**152 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -84,21 +84,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Apex</strong></td>
 <td><a href="https://trueinterview.io/jobs/92eee9b9-a859-43cd-9250-11b14b85450d">Ground Software Engineering Internship (Spring or Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488047890/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb1aed20-69b6-447c-b273-063b5bf982bb">Software Engineering Internship, Test &amp; Automation (Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488068162/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b63b965b-2ff9-4a3e-b20c-dafb55de7ea2">Software Engineering Internship, Embedded Systems (Spring or Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488060572/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -211,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc56f209-9f66-4786-a8a1-39baa2296b28">Intern - Embedded Software, System, and Test Engineer - 2026</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4375807812/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bc5a8e6-1b33-4d82-ba0d-6d856138f856">Engineering Intern - Software Test (Spring 2027 Co-Op)</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467811665/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -711,6 +704,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Apex</strong></td>
+<td><a href="https://trueinterview.io/jobs/e378045f-faf1-4805-9fcc-897d5e55ac8a">Mission Integration Engineer Internship (Spring or Summer 2027)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/be3c0535-d2e8-4129-855d-c79b23c0c68e">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Nbcuniversal</strong></td>
 <td><a href="https://trueinterview.io/jobs/da422d16-9e80-40f7-a7b9-f2cac5f86cf7">Feature Modeling Intern, DreamWorks Animation, Spring 2027</a></td>
 <td>Glendale, CALIFORNIA, United States</td>
@@ -949,7 +949,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Vast</strong></td>
+<td><a href="https://trueinterview.io/jobs/080839d2-7797-4e7f-b6d0-9afc2f6d7f8b">Emerging Talent - Mechanical/Aerospace Engineering Internship</a></td>
+<td>Long Beach, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/c9e9a23b-7fcf-4027-8ce0-0b2a5580006a">Combustion Devices Intern Spring 2027</a></td>
 <td>Long Beach, CA<br/>EDC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986748003">Apply</a></td>
@@ -989,6 +996,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Apex</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5d6e0e3-b4ac-46ff-87ea-70b668e15567">Avionics Test Engineering Internship (Spring 2027)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>

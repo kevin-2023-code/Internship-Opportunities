@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**32 open roles.** 20 in the United States & Canada · 12 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**35 open roles.** 24 in the United States & Canada · 11 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,9 +19,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/18714ac0-f3fd-4681-a62e-0342cded64db">UX Product Design Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/18658796-6c4e-4c69-9a9a-9ae774d26019">Software Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479742277/">Apply</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -131,8 +138,29 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836">Process Engineering Intern - Summer 2027</a></td>
+<td><a href="https://trueinterview.io/jobs/fc6db7cf-025f-43e3-8b36-c9f846f9520d">Electrical Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0f2ddd61-4a28-4e77-93c2-5c1209dcc34f">Wireless Hardware Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/32b3815b-513b-4904-afda-df5fd452b526">Mobile Software Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836">Process Engineering Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States<br/>Hayward, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
@@ -198,14 +226,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8aa090-c51f-4474-b86f-84a9f45443c9">2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</a></td>
-<td>Warsaw, Mazowieckie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468043959/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7ceb73fc-ebf9-4373-b4b4-960bd62ae01d">Industrial Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
 <td>Grünheide, Brandenburg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485260738/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**432 open roles.**
+**436 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,21 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Grammarly</strong></td>
+<td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
+<td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Intuit</strong></td>
+<td><a href="https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da">Summer 2027: PhD AI Research Intern</a></td>
+<td>Mountain View, California</td>
+<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4">Summer 2027: Software Engineering Intern - Cybersecurity</a></td>
 <td>Mountain View, California</td>
 <td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616">Apply</a></td>
@@ -128,6 +142,13 @@
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Tanium</strong></td>
+<td><a href="https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243">Software Engineering Intern – Summer 2027</a></td>
+<td>Emeryville, CA (Hybrid)<br/>Durham, NC (Hybrid)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8181017">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/37af2ee2-225c-440f-8de9-3f7ccceac608">Ph.D. Intern - Advanced Packaging &amp; Physical Integration</a></td>
 <td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+4 more</td>
@@ -230,6 +251,13 @@
 <td><a href="https://trueinterview.io/jobs/c0eea68f-7103-4aec-8025-e70e6668ecaf">Software Engineer Intern, Cloud Platform</a></td>
 <td>San Francisco Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vercel</strong></td>
+<td><a href="https://trueinterview.io/jobs/e95b574b-cc8b-4891-8b1e-11cd1770443d">Software Engineering Intern - Summer '27</a></td>
+<td>Hybrid - San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6181759004">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

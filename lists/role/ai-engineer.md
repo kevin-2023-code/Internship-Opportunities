@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**138 open roles.** 99 in the United States & Canada · 39 elsewhere in the world.
+**141 open roles.** 101 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SPX Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab546aaa-6b6a-46d7-8978-f3b1f841ef89">Software Engineering Generative AI Intern</a></td>
+<td>Elk Grove Village, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488423805/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Alcon</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
@@ -503,8 +510,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>HackerRank</strong></td>
 <td><a href="https://trueinterview.io/jobs/4cfb0473-43fc-401f-9588-775faae1b0e3">AI Researcher Intern</a></td>
-<td>Lake County, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482505388/">Apply</a></td>
+<td>Lake County, IN<br/>Onsite in Bangalore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hackerrank/jobs/8281055">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -548,6 +555,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States of America</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998">Apply</a></td>
 <td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pattern</strong></td>
+<td><a href="https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09">AI Automation Engineer Intern</a></td>
+<td>Lehi, UT, US</td>
+<td align="center"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -966,6 +980,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200689711-1731?board_id=JB001">Apply</a></td>
 <td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lyceum</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e971910-b44e-431c-97b6-7b8eb244df43">Forward Deployed Engineer – AI Inference (Intern)</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/lyceum/7483d9e7-f14f-4315-81a9-dc560419d749">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NCS</strong></td>

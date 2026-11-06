@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,105 open roles.** 901 in the United States & Canada · 204 elsewhere in the world. Everything the employers put up this week.
+**1,082 open roles.** 881 in the United States & Canada · 201 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/006fa3ca-1006-4c70-9245-9cef4bff7c8f">Machine Learning — PhD Intern (Modeling and Data Analysis)</a></td>
+<td>Calabasas, CA<br/>Santa Rosa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486287418/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SPX Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab546aaa-6b6a-46d7-8978-f3b1f841ef89">Software Engineering Generative AI Intern</a></td>
+<td>Elk Grove Village, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488423805/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Optiver</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac2837cf-94c0-4a2e-81a5-55d1bd9b810c">FPGA Engineer Intern (Summer 2027 - Chicago)</a></td>
@@ -227,6 +241,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
 <td>Cary HQ, NC, US<br/>Cary, NC</td>
 <td align="center"><a href="https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/18714ac0-f3fd-4681-a62e-0342cded64db">UX Product Design Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -660,14 +681,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Apex</strong></td>
 <td><a href="https://trueinterview.io/jobs/92eee9b9-a859-43cd-9250-11b14b85450d">Ground Software Engineering Internship (Spring or Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488047890/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cb1aed20-69b6-447c-b273-063b5bf982bb">Software Engineering Internship, Test &amp; Automation (Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488068162/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -695,7 +716,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Apex</strong></td>
 <td><a href="https://trueinterview.io/jobs/b63b965b-2ff9-4a3e-b20c-dafb55de7ea2">Software Engineering Internship, Embedded Systems (Spring or Summer 2027)</a></td>
 <td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488060572/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -988,8 +1009,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/18658796-6c4e-4c69-9a9a-9ae774d26019">Software Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479742277/">Apply</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1661,7 +1682,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Pattern</strong></td>
 <td><a href="https://trueinterview.io/jobs/8533a0e4-60a1-4c01-bd8d-4cb2422cc183">UX Design Intern - Summer 2027</a></td>
 <td>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487567006/">Apply</a></td>
+<td align="center"><a href="https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/48f09592-91eb-433a-bdaa-2128e632b143">Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)</a></td>
 <td>State College, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477962462/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/c64ffd6f-582d-4d59-968d-74ebf5bb0bbd">Software Engineer Intern - Summer 2027</a></td>
-<td>Highlands Ranch, CO<br/>Littleton, CO<br/>Huntsville, AL<br/>+1 more</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477529588?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eaba15f6-e995-4f05-961a-bc25b59bf77d">Software Engineering Intern</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477240661?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Marketeq Media Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e28bcb8-e43a-4f40-a8cf-26e185206782">AI Software Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484682557/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

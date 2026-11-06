@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,245 open roles.** 1,037 in the United States & Canada · 208 elsewhere in the world.
+**1,247 open roles.** 1,038 in the United States & Canada · 209 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,48 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Uber</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c86e046-9f5e-47a7-bab7-f7f7e9da1d06">2027 Software Engineering Intern, Canada</a></td>
-<td>Toronto, ON<br/>Toronto, Canada</td>
-<td align="center"><a href="https://tnl2.jometer.com/v2/job?jz=5wqzsc093f0b2979e1ec2b478225b796169f4MAAAKAAAAABQ">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Xradar</strong></td>
-<td><a href="https://trueinterview.io/jobs/dee4702a-40d8-44cd-947f-9900b374de96">Software Engineer Co-op</a></td>
-<td>Burnaby, Canada</td>
-<td align="center"><a href="https://xradar.bamboohr.com/careers/203?postedDate=2026-10-28">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec</strong></td>
-<td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
-<td>Schenectady, NY</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Filevine</strong></td>
-<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
-<td>Salt Lake City, Utah</td>
-<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/774f2152-15f0-4892-9e21-a9c601b909a8">Firmware Developer Intern - Poughkeepsie - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564382/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d27b0943-c217-4ea2-80be-ad6206614317">Intern Software Engineer / Agent Engineer - EDA - Austin 2027</a></td>
-<td>Austin, TX<br/>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564384/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>RTX</strong></td>
 <td><a href="https://trueinterview.io/jobs/56da7b8a-6912-4ab9-9032-43f965c78eaa">Software Engineer Co-op (January 2027)</a></td>
@@ -562,6 +520,13 @@
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/32b3815b-513b-4904-afda-df5fd452b526">Mobile Software Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ddbe4d-1edf-48b8-b177-93ef4040181b">Enterprise Security Engineer, Intern (Summer 2027)</a></td>
 <td>New York, NY<br/>Menlo Park, CA, United States</td>
@@ -742,6 +707,13 @@
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872476002?gh_jid=8872476002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex</strong></td>
+<td><a href="https://trueinterview.io/jobs/e378045f-faf1-4805-9fcc-897d5e55ac8a">Mission Integration Engineer Internship (Spring or Summer 2027)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/be3c0535-d2e8-4129-855d-c79b23c0c68e">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -1178,6 +1150,13 @@
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Mill</strong></td>
+<td><a href="https://trueinterview.io/jobs/61253945-4f0c-4566-be99-229288ad6dfd">Product Design Engineering Intern, Summer 2027</a></td>
+<td>San Bruno, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4737767005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
 <td>Seattle, Washington, USA</td>
@@ -1500,6 +1479,13 @@
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Join Our Talent Community</strong></td>
+<td><a href="https://trueinterview.io/jobs/823c9e92-46f6-44e0-b2cd-a2386469c5ce">AfroTech 2026 Software Engineering Internship</a></td>
+<td>Seattle, Washington, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003">Apply</a></td>
+<td align="center">12 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Baidu</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ee9534a-1df8-4c5e-a7d4-86308e3c7e73">Forward Deployed Engineer Intern</a></td>
 <td>Mountain View, CA<br/>Sunnyvale, CA</td>
@@ -1542,6 +1528,13 @@
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Tanium</strong></td>
+<td><a href="https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243">Software Engineering Intern – Summer 2027</a></td>
+<td>Durham, NC (Hybrid)<br/>Emeryville, CA (Hybrid)</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8181017">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
@@ -1554,6 +1547,13 @@
 <td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
 <td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Apex</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5d6e0e3-b4ac-46ff-87ea-70b668e15567">Avionics Test Engineering Internship (Spring 2027)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
@@ -1651,6 +1651,13 @@
 <td><a href="https://trueinterview.io/jobs/b1d47b9c-c2b2-49c2-b497-4b5316ed3c8d">Software Engineer, Intern</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vercel</strong></td>
+<td><a href="https://trueinterview.io/jobs/e95b574b-cc8b-4891-8b1e-11cd1770443d">Software Engineering Intern - Summer '27</a></td>
+<td>Hybrid - San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6181759004">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
@@ -1757,6 +1764,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Brevo</strong></td>
+<td><a href="https://trueinterview.io/jobs/f972e840-2962-46ef-a732-e70803d321ce">Forward Deployed Engineer Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/brevo/68d1927e-c983-49e3-8f17-ac2576dcb5ae">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Nexthink</strong></td>
 <td><a href="https://trueinterview.io/jobs/7876d8c2-7378-493e-bbaf-57180810b444">Software Engineer (Intern)</a></td>
 <td>Madrid, Spain</td>
@@ -1768,13 +1782,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/49995702-af80-46cd-950a-360a8fb88184">AI Full-Stack Engineer Intern (TikTok Shop - SEA) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469022076/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brevo</strong></td>
-<td><a href="https://trueinterview.io/jobs/f972e840-2962-46ef-a732-e70803d321ce">Forward Deployed Engineer Intern</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/brevo/68d1927e-c983-49e3-8f17-ac2576dcb5ae">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1890,6 +1897,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Proxima Fusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/b355ec2f-ecd2-46b7-b680-15384e49e3f1">Intern/Working Student, Alpha Engineering Design Team</a></td>
+<td>Munich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/proxima-fusion/9fd42d90-2c8b-4e5c-ac56-b77750329fb7">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
 <td>Greater Phoenix Area</td>
@@ -1999,13 +2013,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe">Developer Technology Engineering Intern - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458903339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8aa090-c51f-4474-b86f-84a9f45443c9">2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</a></td>
-<td>Warsaw, Mazowieckie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468043959/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/fa117f40-ce67-4392-8467-5b7f490aa8d9">Application Engineer Intern - Automotive Products</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484438969/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Axiom Math</strong></td>
-<td><a href="https://trueinterview.io/jobs/1e1c4b49-9166-4d73-b80b-2bf3287de01b">Member of Technical Staff Intern</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

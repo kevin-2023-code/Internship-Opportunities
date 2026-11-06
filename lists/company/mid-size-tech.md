@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**35 open roles.** 27 in the United States & Canada · 8 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**36 open roles.** 28 in the United States & Canada · 8 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -204,6 +204,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9f727db0-ad24-44e2-abcd-06d36a60021b">Cloud Tech Support Engineer - Co-op</a></td>
 <td>United States of America</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wasabi/jobs/5418393008">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vercel</strong></td>
+<td><a href="https://trueinterview.io/jobs/e95b574b-cc8b-4891-8b1e-11cd1770443d">Software Engineering Intern - Summer '27</a></td>
+<td>Hybrid - San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6181759004">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

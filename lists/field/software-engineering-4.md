@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,245 open roles.** 1,037 in the United States & Canada · 208 elsewhere in the world.
+**1,247 open roles.** 1,038 in the United States & Canada · 209 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Axiom Math</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e1c4b49-9166-4d73-b80b-2bf3287de01b">Member of Technical Staff Intern</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Honeywell Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2045156-43ca-4733-afdb-92114fdc5f5a">Intern - Embedded Software Engineer</a> 🌐</td>
@@ -240,6 +247,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Tel Aviv, Israel</td>
 <td align="center"><a href="https://www.taboola.com/careers/job/8229871?gh_jid=8229871">Apply</a></td>
 <td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HackerRank</strong></td>
+<td><a href="https://trueinterview.io/jobs/45c5c5be-b785-4fa5-b3b0-29a9b1ec1e0b">Software Development Engineer Intern</a></td>
+<td>Onsite in Bangalore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hackerrank/jobs/8229735">Apply</a></td>
+<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Merkle Science</strong></td>

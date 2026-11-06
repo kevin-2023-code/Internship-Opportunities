@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**102 open roles.** 69 in the United States & Canada · 33 elsewhere in the world.
+**101 open roles.** 68 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -361,14 +361,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Duolingo</strong></td>
-<td><a href="https://trueinterview.io/jobs/120a7b76-b56e-4a92-9555-76b811f7aaff">Product Manager, MBA Intern</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2f220ba5-bad5-42d6-97e1-1f837cce231f">Product Management MBA Intern, Laptop - Summer 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725881">Apply</a></td>

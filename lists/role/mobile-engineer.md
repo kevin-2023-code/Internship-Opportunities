@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
+**11 open roles.** 10 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,6 +79,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458281408/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/32b3815b-513b-4904-afda-df5fd452b526">Mobile Software Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52">Apply</a></td>
+<td align="center">20 Oct 2026</td>
 </tr>
 </tbody>
 </table>
