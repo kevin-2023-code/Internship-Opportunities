@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-06T14:05:20.294Z",
-  "count": 2792,
+  "listingsChangedAt": "2026-11-06T15:04:38.275Z",
+  "count": 2800,
   "listings": [
     {
       "id": "9ef4bcf4-7073-45d0-86f6-f7ea184bb778",
@@ -18790,6 +18790,219 @@
       "url": "https://trueinterview.io/jobs/c2ca8357-f968-4484-9653-fbf94cdbed52",
       "postedAt": "2026-10-31T10:42:00.000Z",
       "updatedAt": "2026-10-31T10:42:00.000Z"
+    },
+    {
+      "id": "ee25361f-34a1-4713-bc75-f1f765b65d18",
+      "company": "DRW",
+      "title": "FPGA Intern",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4441909156/",
+      "url": "https://trueinterview.io/jobs/ee25361f-34a1-4713-bc75-f1f765b65d18",
+      "postedAt": "2026-10-31T10:31:00.000Z",
+      "updatedAt": "2026-10-31T10:31:00.000Z"
+    },
+    {
+      "id": "6411c7c2-6e86-43a2-b8a2-bbb92a1a2aef",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Systematic Trading Internship - PhD: Summer 2027",
+      "locations": [
+        "Hong Kong, Hong Kong SAR"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4432163841/",
+      "url": "https://trueinterview.io/jobs/6411c7c2-6e86-43a2-b8a2-bbb92a1a2aef",
+      "postedAt": "2026-10-31T10:31:00.000Z",
+      "updatedAt": "2026-10-31T10:31:00.000Z"
+    },
+    {
+      "id": "73182d32-0261-4670-903f-86b06180565e",
+      "company": "Liberty Mutual Insurance",
+      "title": "Cybersecurity Co-op (January - June 2027)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460370875/",
+      "url": "https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e",
+      "postedAt": "2026-10-31T10:20:33.000Z",
+      "updatedAt": "2026-10-31T10:20:33.000Z"
+    },
+    {
+      "id": "aea87df7-18c8-4e06-8c73-6059e95543c2",
+      "company": "TikTok",
+      "title": "AI Product Manager Intern (TikTok Live-Revenue) - 2027 Start",
+      "locations": [
+        "Sydney, New South Wales, Australia"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4467883348/",
+      "url": "https://trueinterview.io/jobs/aea87df7-18c8-4e06-8c73-6059e95543c2",
+      "postedAt": "2026-10-31T10:12:00.000Z",
+      "updatedAt": "2026-10-31T10:12:00.000Z"
+    },
+    {
+      "id": "96e04efa-c630-4752-b4b9-3241546ecc18",
+      "company": "Rivian",
+      "title": "Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)",
+      "locations": [
+        "Normal, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4468019657/",
+      "url": "https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18",
+      "postedAt": "2026-10-31T10:07:00.000Z",
+      "updatedAt": "2026-10-31T10:07:00.000Z"
+    },
+    {
+      "id": "34dbab2d-d75c-4d43-8376-d850121a999e",
+      "company": "Georgia Tech Research Institute",
+      "title": "General Cybersecurity Graduate Intern - CIPHER- Spring 2027",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477810555/",
+      "url": "https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e",
+      "postedAt": "2026-10-31T09:53:00.000Z",
+      "updatedAt": "2026-10-31T09:53:00.000Z"
+    },
+    {
+      "id": "91324f15-75ba-4df9-a853-a224073f2fcc",
+      "company": "Booz Allen Hamilton",
+      "title": "University - 2027 Summer Games Software Developer Intern - Atlanta, GA",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4460516339/",
+      "url": "https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc",
+      "postedAt": "2026-10-31T09:48:00.000Z",
+      "updatedAt": "2026-10-31T09:48:00.000Z"
+    },
+    {
+      "id": "e45314db-29fb-4cb0-9959-6c2a72e6c7fd",
+      "company": "TikTok",
+      "title": "Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4476866058/",
+      "url": "https://trueinterview.io/jobs/e45314db-29fb-4cb0-9959-6c2a72e6c7fd",
+      "postedAt": "2026-10-31T09:41:00.000Z",
+      "updatedAt": "2026-10-31T09:41:00.000Z"
     },
     {
       "id": "3ae0b614-4058-4154-a713-6929cbf76a72",
