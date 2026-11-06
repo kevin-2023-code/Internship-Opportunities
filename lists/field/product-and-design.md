@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**205 open roles.** 153 in the United States & Canada · 52 elsewhere in the world.
+**208 open roles.** 156 in the United States & Canada · 52 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -879,10 +879,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Seatgeek</strong></td>
+<td><a href="https://trueinterview.io/jobs/302620d2-7469-4219-b6c9-62b5d5c54f5b">UX Design - Internship</a></td>
+<td>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://seatgeek.com/jobs/8248125?gh_jid=8248125">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Attentive</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7ef1680-6f96-4a32-8af4-15f6252656ae">Product Management Intern, Agentic Integrations</a></td>
 <td>United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/attentive/jobs/4429880009">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fortune Brands Innovations</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd0250ed-c5c4-4780-9216-915bb84d1cc5">Product Manager Intern</a></td>
+<td>Deerfield, ILLINOIS, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000152963619-product-manager-intern">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
@@ -1030,6 +1044,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ccc3c8c5-4d61-49de-86bb-4dd25080db83">UX Research Intern (Summer 2027)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fortune Brands Innovations</strong></td>
+<td><a href="https://trueinterview.io/jobs/aaae746b-536a-4742-bbba-de00e6959715">Product Management Intern, B2B Security</a></td>
+<td>Deerfield, ILLINOIS, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098-product-management-intern-b2b-security">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

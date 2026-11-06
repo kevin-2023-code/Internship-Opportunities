@@ -161,7 +161,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>STMicroelectronics</strong></td>
 <td><a href="https://trueinterview.io/jobs/fcb780e7-1c5e-4fb8-bb74-9aabf6ff4a13">Embedded Software Sensor Algorithm Intern</a></td>
 <td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485273616/">Apply</a></td>
+<td align="center"><a href="https://stmicroelectronics.eightfold.ai/careers/job/563637173607734">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

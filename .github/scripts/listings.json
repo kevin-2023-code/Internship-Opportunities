@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-06T21:03:55.783Z",
-  "count": 2844,
+  "listingsChangedAt": "2026-11-06T22:04:22.702Z",
+  "count": 2866,
   "listings": [
+    {
+      "id": "ac2837cf-94c0-4a2e-81a5-55d1bd9b810c",
+      "company": "Optiver",
+      "title": "FPGA Engineer Intern (Summer 2027 - Chicago)",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4440469024/",
+      "url": "https://trueinterview.io/jobs/ac2837cf-94c0-4a2e-81a5-55d1bd9b810c",
+      "postedAt": "2026-11-06T21:41:00.000Z",
+      "updatedAt": "2026-11-06T21:41:00.000Z"
+    },
     {
       "id": "58528065-3e6c-47be-9c60-cf9cbe9ed1d1",
       "company": "Allied Consultants, Inc.",
@@ -34,6 +61,58 @@
       "url": "https://trueinterview.io/jobs/58528065-3e6c-47be-9c60-cf9cbe9ed1d1",
       "postedAt": "2026-11-06T20:49:40.000Z",
       "updatedAt": "2026-11-06T20:49:40.000Z"
+    },
+    {
+      "id": "8718124f-230a-4b9f-87f2-5382d968a84e",
+      "company": "Susquehanna International Group",
+      "title": "Quantitative Systematic Trading Internship – Master's: Summer 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4431545628/",
+      "url": "https://trueinterview.io/jobs/8718124f-230a-4b9f-87f2-5382d968a84e",
+      "postedAt": "2026-11-06T20:48:00.000Z",
+      "updatedAt": "2026-11-06T20:48:00.000Z"
+    },
+    {
+      "id": "2f7de81a-9e66-439f-a172-87dbcceb776d",
+      "company": "IMC Trading",
+      "title": "Quantitative Trader Intern 2027",
+      "locations": [
+        "Hong Kong, Hong Kong SAR"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Trader",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4452930184/",
+      "url": "https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d",
+      "postedAt": "2026-11-06T20:43:00.000Z",
+      "updatedAt": "2026-11-06T20:43:00.000Z"
     },
     {
       "id": "a311e3fc-4765-424c-bbb7-8eaf2257a483",
@@ -322,6 +401,33 @@
       "updatedAt": "2026-11-06T20:16:00.000Z"
     },
     {
+      "id": "f7f6206b-292c-4eef-843b-e11e3a19738f",
+      "company": "Tinder",
+      "title": "Machine Learning Engineer Intern",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486978923/",
+      "url": "https://trueinterview.io/jobs/f7f6206b-292c-4eef-843b-e11e3a19738f",
+      "postedAt": "2026-11-06T20:16:00.000Z",
+      "updatedAt": "2026-11-06T20:16:00.000Z"
+    },
+    {
       "id": "d7c2a55e-67ea-413b-87c4-fb7e9c4debe4",
       "company": "Career Launch Tech Initiative",
       "title": "Software Engineer Intern",
@@ -399,6 +505,32 @@
       "url": "https://trueinterview.io/jobs/253b5b29-24f1-47e4-a343-2bfdfeac066f",
       "postedAt": "2026-11-06T20:10:00.000Z",
       "updatedAt": "2026-11-06T20:10:00.000Z"
+    },
+    {
+      "id": "f8a5ab89-0f9c-40aa-8844-8b3188732793",
+      "company": "Alcon",
+      "title": "2027 Summer Software, Data & AI Engineering Interns",
+      "locations": [
+        "Goleta, CA",
+        "Lake Forest, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463121980/",
+      "url": "https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793",
+      "postedAt": "2026-11-06T20:03:00.000Z",
+      "updatedAt": "2026-11-06T20:08:00.000Z"
     },
     {
       "id": "b7ae094b-72e5-4c3b-a808-620f9fd668ac",
@@ -526,6 +658,31 @@
       "updatedAt": "2026-11-06T19:56:00.000Z"
     },
     {
+      "id": "fe88be16-e8e7-46d5-a91c-7cd132889751",
+      "company": "Shure",
+      "title": "Mobile Applications (iOS) Intern",
+      "locations": [
+        "Niles, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4461388759/",
+      "url": "https://trueinterview.io/jobs/fe88be16-e8e7-46d5-a91c-7cd132889751",
+      "postedAt": "2026-11-06T19:49:00.000Z",
+      "updatedAt": "2026-11-06T19:54:00.000Z"
+    },
+    {
       "id": "0a65033c-3a7c-4acb-94a8-a99f79251ac4",
       "company": "Tenet Healthcare",
       "title": "Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX",
@@ -577,6 +734,33 @@
       "updatedAt": "2026-11-06T19:45:00.000Z"
     },
     {
+      "id": "f625647f-04a5-4aa7-972f-9e7f91d23695",
+      "company": "InfiniteQuant",
+      "title": "Quantitative Researcher - 2027 Summer Internship",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488163610/",
+      "url": "https://trueinterview.io/jobs/f625647f-04a5-4aa7-972f-9e7f91d23695",
+      "postedAt": "2026-11-06T19:39:00.000Z",
+      "updatedAt": "2026-11-06T19:39:00.000Z"
+    },
+    {
       "id": "97814173-be12-4f66-b318-dc8da2b50dea",
       "company": "U-Haul",
       "title": "Data Analyst Spring Internship",
@@ -626,6 +810,34 @@
       "url": "https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b",
       "postedAt": "2026-11-06T05:00:00.000Z",
       "updatedAt": "2026-11-06T18:19:00.000Z"
+    },
+    {
+      "id": "2e784e31-fd4e-42ad-94cf-15caa95e7d17",
+      "company": "Point72",
+      "title": "2027 Trader Summer Intern (12-week program)",
+      "locations": [
+        "Tokyo, Tokyo, Japan",
+        "Hong Kong SAR"
+      ],
+      "cities": [
+        "Tokyo"
+      ],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Trader",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488199206/",
+      "url": "https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17",
+      "postedAt": "2026-11-06T17:42:00.000Z",
+      "updatedAt": "2026-11-06T17:42:00.000Z"
     },
     {
       "id": "6cf5351d-45b6-4460-9b1c-2ed8e9063b8b",
@@ -1769,6 +1981,58 @@
       "updatedAt": "2026-11-06T10:24:00.000Z"
     },
     {
+      "id": "796a3a52-a669-461f-b982-ffc8be2e3ec7",
+      "company": "IMC Trading",
+      "title": "Hardware Machine Learning PhD Research Internship",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4469636248/",
+      "url": "https://trueinterview.io/jobs/796a3a52-a669-461f-b982-ffc8be2e3ec7",
+      "postedAt": "2026-11-06T09:42:00.000Z",
+      "updatedAt": "2026-11-06T09:42:00.000Z"
+    },
+    {
+      "id": "3b39ad09-e679-49af-874a-cbcc3ddf1130",
+      "company": "Susquehanna International Group",
+      "title": "Derivatives Sales Trader Co-op with Drexel University",
+      "locations": [
+        "Bala-Cynwyd, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Trader",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4477336459/",
+      "url": "https://trueinterview.io/jobs/3b39ad09-e679-49af-874a-cbcc3ddf1130",
+      "postedAt": "2026-11-06T09:42:00.000Z",
+      "updatedAt": "2026-11-06T09:42:00.000Z"
+    },
+    {
       "id": "419cd4c4-706f-469c-81c0-cc3a241ed2b0",
       "company": "CACI International",
       "title": "Software Engineering Co-op - Spring 2027",
@@ -2633,13 +2897,17 @@
       "company": "Tower Research Capital",
       "title": "Quantitative Developer Intern",
       "locations": [
-        "Paris, Île-de-France, France"
-      ],
-      "cities": [
+        "Paris, Île-de-France, France",
+        "Singapore",
         "Paris"
       ],
+      "cities": [
+        "Paris",
+        "Singapore"
+      ],
       "countries": [
-        "France"
+        "France",
+        "Singapore"
       ],
       "remote": "onsite",
       "category": "Quantitative Finance",
@@ -2650,7 +2918,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4462047871/",
+      "applyUrl": "https://www.tower-research.com/open-positions/?gh_jid=8138524",
       "url": "https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44",
       "postedAt": "2026-11-05T20:15:00.000Z",
       "updatedAt": "2026-11-05T20:15:00.000Z"
@@ -2814,33 +3082,6 @@
       "updatedAt": "2026-11-05T19:59:00.000Z"
     },
     {
-      "id": "c5042bf0-9c17-4423-b6c9-7e05d4dcec93",
-      "company": "Tower Research Capital",
-      "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
-      "locations": [
-        "London, England, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4453146059/",
-      "url": "https://trueinterview.io/jobs/c5042bf0-9c17-4423-b6c9-7e05d4dcec93",
-      "postedAt": "2026-11-05T19:59:00.000Z",
-      "updatedAt": "2026-11-05T19:59:00.000Z"
-    },
-    {
       "id": "5d595a4b-f73c-448f-bbbe-55267f94db8c",
       "company": "Together AI",
       "title": "Hardware Security Engineer Intern (Summer 2027)",
@@ -2894,33 +3135,6 @@
       "url": "https://trueinterview.io/jobs/5a0d37f3-a99b-4013-8fc1-1a9f86943874",
       "postedAt": "2026-11-05T00:08:00.000Z",
       "updatedAt": "2026-11-05T19:48:00.000Z"
-    },
-    {
-      "id": "7294de2f-b6ab-46c6-b55e-fab54aa33195",
-      "company": "Tower Research Capital",
-      "title": "Quantitative Trader/Researcher Summer Internship 2027",
-      "locations": [
-        "London, England, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Trader",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4462068281/",
-      "url": "https://trueinterview.io/jobs/7294de2f-b6ab-46c6-b55e-fab54aa33195",
-      "postedAt": "2026-11-05T19:39:00.000Z",
-      "updatedAt": "2026-11-05T19:39:00.000Z"
     },
     {
       "id": "479346bd-acd5-4764-8e62-b17ca66c0110",
@@ -3455,7 +3669,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468596712/",
+      "applyUrl": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53",
       "url": "https://trueinterview.io/jobs/7dc0029b-24be-4aa7-a7fb-c69cfb092c2c",
       "postedAt": "2026-11-05T16:17:00.000Z",
       "updatedAt": "2026-11-05T16:17:00.000Z"
@@ -7167,33 +7381,6 @@
       "updatedAt": "2026-11-04T20:02:00.000Z"
     },
     {
-      "id": "c1f3e705-34ff-4a2c-8e67-23c9bc1d770d",
-      "company": "Tower Research Capital",
-      "title": "Quantitative Trader Intern, PhD",
-      "locations": [
-        "New York, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Trader",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4479208298/",
-      "url": "https://trueinterview.io/jobs/c1f3e705-34ff-4a2c-8e67-23c9bc1d770d",
-      "postedAt": "2026-11-04T19:59:00.000Z",
-      "updatedAt": "2026-11-04T19:59:00.000Z"
-    },
-    {
       "id": "1009746d-446a-4313-94e2-07b20b54fc2c",
       "company": "BCG X",
       "title": "Forward Deployed AI Engineer, Internship, Campus, United States - BCG X",
@@ -7542,31 +7729,6 @@
       "url": "https://trueinterview.io/jobs/60e687a2-e288-4f06-a509-3779767d4855",
       "postedAt": "2026-11-04T18:48:00.000Z",
       "updatedAt": "2026-11-04T18:48:00.000Z"
-    },
-    {
-      "id": "5a6c41e4-04d7-4ff3-ad6e-8d749e46bbb0",
-      "company": "Tower Research Capital",
-      "title": "Quantitative Researcher Intern, PhD or Postdoc",
-      "locations": [
-        "Hong Kong SAR"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4461595875/",
-      "url": "https://trueinterview.io/jobs/5a6c41e4-04d7-4ff3-ad6e-8d749e46bbb0",
-      "postedAt": "2026-11-04T17:12:00.000Z",
-      "updatedAt": "2026-11-04T17:12:00.000Z"
     },
     {
       "id": "5acb1c5c-47e6-4d7a-a087-3ed6bbebe39a",
@@ -11498,31 +11660,6 @@
       "updatedAt": "2026-11-03T18:51:00.000Z"
     },
     {
-      "id": "6e4b90fc-1fc6-40f1-a504-b0bf603d6c50",
-      "company": "Tower Research Capital",
-      "title": "Quantitative Researcher Intern, Bachelor's or Master's",
-      "locations": [
-        "Hong Kong SAR"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4461711074/",
-      "url": "https://trueinterview.io/jobs/6e4b90fc-1fc6-40f1-a504-b0bf603d6c50",
-      "postedAt": "2026-11-03T18:51:00.000Z",
-      "updatedAt": "2026-11-03T18:51:00.000Z"
-    },
-    {
       "id": "cd91d546-b760-4a8d-b341-305331caa99f",
       "company": "NVIDIA",
       "title": "Software Engineering Intern, DGX Cloud Test Development - 2027",
@@ -13619,6 +13756,34 @@
       "url": "https://trueinterview.io/jobs/697f8cc8-69d7-4fc0-9af0-a2ae07c5c6da",
       "postedAt": "2026-11-03T05:11:00.000Z",
       "updatedAt": "2026-11-03T05:11:00.000Z"
+    },
+    {
+      "id": "247f28d0-f85e-437c-af11-5f229b26640f",
+      "company": "Aurora Innovation",
+      "title": "Safety & Systems Engineering Intern",
+      "locations": [
+        "Mountain View, CA",
+        "Pittsburgh, PA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+      "url": "https://trueinterview.io/jobs/247f28d0-f85e-437c-af11-5f229b26640f",
+      "postedAt": "2026-11-03T04:45:44.000Z",
+      "updatedAt": "2026-11-03T04:45:44.000Z"
     },
     {
       "id": "9bf0b95b-4818-4a1a-bede-4f2dd6140654",
@@ -21672,33 +21837,6 @@
       "updatedAt": "2026-10-30T20:44:00.000Z"
     },
     {
-      "id": "ffc99c63-51f6-48af-b288-922cce09f19b",
-      "company": "Tower Research Capital",
-      "title": "Stagiaire en développement de logiciels (été 2027) / Software Developer Intern (Summer 2027)",
-      "locations": [
-        "Montreal, Quebec, Canada"
-      ],
-      "cities": [
-        "Montreal, QC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468881757/",
-      "url": "https://trueinterview.io/jobs/ffc99c63-51f6-48af-b288-922cce09f19b",
-      "postedAt": "2026-10-30T20:21:00.000Z",
-      "updatedAt": "2026-10-30T20:21:00.000Z"
-    },
-    {
       "id": "ec340065-983f-4e7c-ba13-5c048491115b",
       "company": "Boston Scientific",
       "title": "Software Test Engineer Intern",
@@ -24222,7 +24360,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485298816/",
+      "applyUrl": "https://jobs.marvingroup.com/job/Inglewood-INTERN-%28AI-DEVELOPER%29-CA-90302/1445228600/",
       "url": "https://trueinterview.io/jobs/f5393e75-fae5-49db-8b04-ec58986768bb",
       "postedAt": "2026-10-30T06:33:00.000Z",
       "updatedAt": "2026-10-30T06:33:00.000Z"
@@ -26353,7 +26491,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485273616/",
+      "applyUrl": "https://stmicroelectronics.eightfold.ai/careers/job/563637173607734",
       "url": "https://trueinterview.io/jobs/fcb780e7-1c5e-4fb8-bb74-9aabf6ff4a13",
       "postedAt": "2026-10-30T01:01:00.000Z",
       "updatedAt": "2026-10-30T01:01:00.000Z"
@@ -27718,10 +27856,12 @@
       "company": "Lunar Energy",
       "title": "Hardware Test Engineering Intern",
       "locations": [
-        "San Francisco, CA"
+        "San Francisco, CA",
+        "Mountain View, CA"
       ],
       "cities": [
-        "San Francisco, CA"
+        "San Francisco, CA",
+        "Mountain View, CA"
       ],
       "countries": [
         "United States"
@@ -27735,7 +27875,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485245912/",
+      "applyUrl": "https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004",
       "url": "https://trueinterview.io/jobs/ec076f05-37ac-492a-b5d4-21c36d37ef05",
       "postedAt": "2026-10-29T23:56:00.000Z",
       "updatedAt": "2026-10-29T23:56:00.000Z"
@@ -31204,7 +31344,8 @@
       "title": "Systems Software Engineering Intern",
       "locations": [
         "Arlington, Virginia, United States",
-        "Arlington, VA"
+        "Arlington, VA",
+        "Arlington, Virginia"
       ],
       "cities": [],
       "countries": [
@@ -33425,7 +33566,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466224373/",
+      "applyUrl": "https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa",
       "url": "https://trueinterview.io/jobs/a4ae0c99-e7bf-4d51-9883-b84acaf1c563",
       "postedAt": "2026-10-29T12:40:00.000Z",
       "updatedAt": "2026-10-29T12:40:00.000Z"
@@ -33828,7 +33969,8 @@
       "company": "Antares",
       "title": "Reactor Software Engineering Intern - Summer 2027",
       "locations": [
-        "Los Angeles, CA"
+        "Los Angeles, CA",
+        "Los Angeles"
       ],
       "cities": [
         "Los Angeles, CA"
@@ -33845,7 +33987,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467976307/",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3",
       "url": "https://trueinterview.io/jobs/1fea7f9a-cf5c-48f2-b685-bd75d7c3a906",
       "postedAt": "2026-10-29T11:38:00.000Z",
       "updatedAt": "2026-10-29T11:38:00.000Z"
@@ -38282,7 +38424,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482009283/",
+      "applyUrl": "https://careers.flightsafety.com/job/Broken-Arrow-Software-Engineer-%28Simulation-Development%29-Internship-Summer-2027-OK-74012/1442009800/",
       "url": "https://trueinterview.io/jobs/fc166842-4933-4b17-8ccc-8c5be25d70c5",
       "postedAt": "2026-10-29T00:36:00.000Z",
       "updatedAt": "2026-10-29T00:36:00.000Z"
@@ -44916,6 +45058,32 @@
       "updatedAt": "2026-10-28T14:49:00.000Z"
     },
     {
+      "id": "5b458574-2e37-4739-9ae4-6e11e884c4cf",
+      "company": "Evr",
+      "title": "May 2027 Mechanical Engineering Co-op",
+      "locations": [
+        "Sparwood, BC",
+        "Elkford, BC"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/evr/d67574c7-5d34-4d4b-83ae-3ef92fb77806",
+      "url": "https://trueinterview.io/jobs/5b458574-2e37-4739-9ae4-6e11e884c4cf",
+      "postedAt": "2026-10-28T14:42:52.000Z",
+      "updatedAt": "2026-10-28T14:42:52.000Z"
+    },
+    {
       "id": "51ac6764-f214-48cd-9519-09f51ff1a96b",
       "company": "CPF Board",
       "title": "[2027 H1 Term-time Internship] Software Engineering Intern (DSD)",
@@ -46710,7 +46878,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482500971/",
+      "applyUrl": "https://jobs.janushenderson.com/job/Denver-Application-Engineer-Intern-CO-80206/1444442600/",
       "url": "https://trueinterview.io/jobs/fb5d3e84-4adc-40f4-8aa6-fbf3fa57a4f9",
       "postedAt": "2026-10-28T12:43:00.000Z",
       "updatedAt": "2026-10-28T12:43:00.000Z"
@@ -53157,6 +53325,31 @@
       "updatedAt": "2026-10-22T00:00:00.000Z"
     },
     {
+      "id": "dfdadcb9-e244-41bf-abff-5e407c785557",
+      "company": "walrus",
+      "title": "Full Stack Developer Intern",
+      "locations": [
+        "New York City (Hybrid)"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "hybrid",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application",
+      "url": "https://trueinterview.io/jobs/dfdadcb9-e244-41bf-abff-5e407c785557",
+      "postedAt": "2026-10-22T00:00:00.000Z",
+      "updatedAt": "2026-10-22T00:00:00.000Z"
+    },
+    {
       "id": "ac824665-2cbc-44d9-98e2-e2b284c51efd",
       "company": "Meta",
       "title": "Research Scientist Intern, Foundational Models for Robotics Research (PhD)",
@@ -59463,6 +59656,33 @@
       "updatedAt": "2026-10-08T17:52:02.000Z"
     },
     {
+      "id": "7d50d46b-b66c-41f0-af62-8c6aad4d5f60",
+      "company": "NCS",
+      "title": "[Uni - Jan till Jun 2027] Business & Strategy Analyst Intern (AI and Smart Systems)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/NCS3/6000000001472450--uni-jan-till-jun-2027-business-strategy-analyst-intern-ai-and-smart-systems-",
+      "url": "https://trueinterview.io/jobs/7d50d46b-b66c-41f0-af62-8c6aad4d5f60",
+      "postedAt": "2026-10-08T07:17:01.000Z",
+      "updatedAt": "2026-10-08T07:17:01.000Z"
+    },
+    {
       "id": "8547f343-74f9-4f5d-89e1-6988b201d941",
       "company": "Amazon",
       "title": "Embedded Firmware Co-op, Amazon Robotics - Spring 2027",
@@ -62504,6 +62724,33 @@
       "updatedAt": "2026-10-01T21:14:24.000Z"
     },
     {
+      "id": "302620d2-7469-4219-b6c9-62b5d5c54f5b",
+      "company": "Seatgeek",
+      "title": "UX Design - Internship",
+      "locations": [
+        "New York, New York"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://seatgeek.com/jobs/8248125?gh_jid=8248125",
+      "url": "https://trueinterview.io/jobs/302620d2-7469-4219-b6c9-62b5d5c54f5b",
+      "postedAt": "2026-10-01T21:05:40.000Z",
+      "updatedAt": "2026-10-01T21:05:40.000Z"
+    },
+    {
       "id": "c4875a70-5656-444e-9db0-d537d124a375",
       "company": "Intuit",
       "title": "Summer 2027: Business Data Analyst Intern, Strategy & Planning",
@@ -62828,6 +63075,31 @@
       "url": "https://trueinterview.io/jobs/a9902b5e-bb3b-4aa5-947f-d24a144eeda8",
       "postedAt": "2026-10-01T16:00:00.000Z",
       "updatedAt": "2026-10-01T16:00:00.000Z"
+    },
+    {
+      "id": "bd0250ed-c5c4-4780-9216-915bb84d1cc5",
+      "company": "Fortune Brands Innovations",
+      "title": "Product Manager Intern",
+      "locations": [
+        "Deerfield, ILLINOIS, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/FortuneBrands/744000152963619-product-manager-intern",
+      "url": "https://trueinterview.io/jobs/bd0250ed-c5c4-4780-9216-915bb84d1cc5",
+      "postedAt": "2026-10-01T14:41:13.000Z",
+      "updatedAt": "2026-10-01T14:41:13.000Z"
     },
     {
       "id": "734c38de-7cc6-4c74-9de0-c6cba35265cf",
@@ -64833,6 +65105,33 @@
       "url": "https://trueinterview.io/jobs/30f6cb62-0278-470d-96e1-20e62f40866f",
       "postedAt": "2026-09-25T19:09:36.000Z",
       "updatedAt": "2026-09-25T19:09:36.000Z"
+    },
+    {
+      "id": "7de40d5d-7ac1-4ada-9b47-c03c4789e499",
+      "company": "NCS",
+      "title": "[Uni - Jan till Jun 2027] Robotics and Physical AI Engineer Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/NCS3/6000000001436844--uni-jan-till-jun-2027-robotics-and-physical-ai-engineer-intern",
+      "url": "https://trueinterview.io/jobs/7de40d5d-7ac1-4ada-9b47-c03c4789e499",
+      "postedAt": "2026-09-25T03:38:59.000Z",
+      "updatedAt": "2026-09-25T03:38:59.000Z"
     },
     {
       "id": "534944c4-ccba-4083-b421-84d1e32f76b8",
@@ -67094,6 +67393,33 @@
       "updatedAt": "2026-09-18T19:04:04.000Z"
     },
     {
+      "id": "7a3142fa-b07c-4620-b2b4-8bac6f282415",
+      "company": "Antares",
+      "title": "Space Mechanical Design Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81",
+      "url": "https://trueinterview.io/jobs/7a3142fa-b07c-4620-b2b4-8bac6f282415",
+      "postedAt": "2026-09-18T03:20:18.000Z",
+      "updatedAt": "2026-09-18T03:20:18.000Z"
+    },
+    {
       "id": "bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f",
       "company": "Keysight",
       "title": "R&D Embedded Software Intern",
@@ -68785,6 +69111,33 @@
       "updatedAt": "2026-09-16T16:01:30.000Z"
     },
     {
+      "id": "3832850e-60a3-47ad-ad00-1e44ae8c6740",
+      "company": "Antares",
+      "title": "Quality Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f",
+      "url": "https://trueinterview.io/jobs/3832850e-60a3-47ad-ad00-1e44ae8c6740",
+      "postedAt": "2026-09-16T05:45:17.000Z",
+      "updatedAt": "2026-09-16T05:45:17.000Z"
+    },
+    {
       "id": "b720ffdf-5133-43b9-b4ca-a65c74bc2338",
       "company": "Amazon",
       "title": "Customer Solutions Manager Intern, AWSI - 2027",
@@ -69227,6 +69580,33 @@
       "url": "https://trueinterview.io/jobs/771f6685-8f58-4e55-968c-66b2392fb60e",
       "postedAt": "2026-09-15T16:47:39.000Z",
       "updatedAt": "2026-09-15T16:47:39.000Z"
+    },
+    {
+      "id": "6dff53d1-1a2f-4070-a4b6-4c2ce1822ac9",
+      "company": "AppLovin",
+      "title": "Machine Learning Engineering Intern (2027 Summer Internship)",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006",
+      "url": "https://trueinterview.io/jobs/6dff53d1-1a2f-4070-a4b6-4c2ce1822ac9",
+      "postedAt": "2026-09-15T02:20:54.000Z",
+      "updatedAt": "2026-09-15T02:20:54.000Z"
     },
     {
       "id": "0562979c-2be1-41ce-89b1-6af9cfee7b8b",
@@ -69970,6 +70350,31 @@
       "updatedAt": "2026-09-14T17:03:10.000Z"
     },
     {
+      "id": "d062b064-9a94-4e35-ba3a-a73be6867353",
+      "company": "Evr",
+      "title": "May 2027 Mining Engineering Co-op",
+      "locations": [
+        "Sparwood, BC"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/evr/c8c717c4-3cf9-40cc-a700-d022b3925714",
+      "url": "https://trueinterview.io/jobs/d062b064-9a94-4e35-ba3a-a73be6867353",
+      "postedAt": "2026-09-14T16:52:49.000Z",
+      "updatedAt": "2026-09-14T16:52:49.000Z"
+    },
+    {
       "id": "cbf0e7f7-d564-4c89-83c9-e3b2a7162bef",
       "company": "Cyvl",
       "title": "Hardware Engineering Intern",
@@ -70162,6 +70567,58 @@
       "url": "https://trueinterview.io/jobs/11f4fb7c-d43b-4725-9187-88d852e34752",
       "postedAt": "2026-09-14T14:33:10.000Z",
       "updatedAt": "2026-09-14T14:33:10.000Z"
+    },
+    {
+      "id": "90c183fe-99cc-486c-809d-c682bcf6cf5f",
+      "company": "Antares",
+      "title": "Nuclear Operations & Licensing Engineering Intern - Summer 2027",
+      "locations": [
+        "Idaho Falls"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1",
+      "url": "https://trueinterview.io/jobs/90c183fe-99cc-486c-809d-c682bcf6cf5f",
+      "postedAt": "2026-09-14T06:20:25.000Z",
+      "updatedAt": "2026-09-14T06:20:25.000Z"
+    },
+    {
+      "id": "ce0d388b-3733-4a72-bda3-cc508ab9459f",
+      "company": "Antares",
+      "title": "IT Helpdesk Intern - Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df",
+      "url": "https://trueinterview.io/jobs/ce0d388b-3733-4a72-bda3-cc508ab9459f",
+      "postedAt": "2026-09-14T05:14:11.000Z",
+      "updatedAt": "2026-09-14T05:14:11.000Z"
     },
     {
       "id": "b0a84d05-15bb-4490-843b-8cfa7bc377d3",
@@ -70919,6 +71376,31 @@
       "updatedAt": "2026-09-11T16:47:07.000Z"
     },
     {
+      "id": "aaae746b-536a-4742-bbba-de00e6959715",
+      "company": "Fortune Brands Innovations",
+      "title": "Product Management Intern, B2B Security",
+      "locations": [
+        "Deerfield, ILLINOIS, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/FortuneBrands/744000149058098-product-management-intern-b2b-security",
+      "url": "https://trueinterview.io/jobs/aaae746b-536a-4742-bbba-de00e6959715",
+      "postedAt": "2026-09-11T15:45:08.000Z",
+      "updatedAt": "2026-09-11T15:45:08.000Z"
+    },
+    {
       "id": "ad6bdd0c-de24-4b8b-8bb1-785fec9aab38",
       "company": "Amazon",
       "title": "Data Center Engineering Operations Technician Internship",
@@ -71601,6 +72083,87 @@
       "url": "https://trueinterview.io/jobs/047889e2-2c67-4074-9343-8159e1c856ef",
       "postedAt": "2026-09-10T16:02:22.000Z",
       "updatedAt": "2026-09-10T16:02:22.000Z"
+    },
+    {
+      "id": "92eee58c-f22b-4b9e-9adf-8335b3531360",
+      "company": "Antares",
+      "title": "Nuclear Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8",
+      "url": "https://trueinterview.io/jobs/92eee58c-f22b-4b9e-9adf-8335b3531360",
+      "postedAt": "2026-09-10T05:29:18.000Z",
+      "updatedAt": "2026-09-10T05:29:18.000Z"
+    },
+    {
+      "id": "ef7d45fb-62c8-40d2-a23e-85a42128af9a",
+      "company": "Antares",
+      "title": "Mechanical Engineering Design Intern - Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62",
+      "url": "https://trueinterview.io/jobs/ef7d45fb-62c8-40d2-a23e-85a42128af9a",
+      "postedAt": "2026-09-10T04:47:10.000Z",
+      "updatedAt": "2026-09-10T04:47:10.000Z"
+    },
+    {
+      "id": "1a3803db-5dc1-4259-82f0-e6c229d6659c",
+      "company": "Antares",
+      "title": "Electrical Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d",
+      "url": "https://trueinterview.io/jobs/1a3803db-5dc1-4259-82f0-e6c229d6659c",
+      "postedAt": "2026-09-10T04:08:11.000Z",
+      "updatedAt": "2026-09-10T04:08:11.000Z"
     },
     {
       "id": "cc70a28b-fdaf-44fb-9a3d-dea382dd4d5d",
@@ -73255,6 +73818,31 @@
       "url": "https://trueinterview.io/jobs/2a7e951f-072a-45e2-b42c-97d6354f4082",
       "postedAt": "2026-09-08T14:07:37.000Z",
       "updatedAt": "2026-09-08T14:07:37.000Z"
+    },
+    {
+      "id": "6b0ccab6-3fca-44e6-8230-f028c2fdb4e0",
+      "company": "Wake Research",
+      "title": "AI Engineering Intern (Remote)",
+      "locations": [
+        "Fort Washington, Pennsylvania, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/M3USA/744000148244649-ai-engineering-intern-remote-",
+      "url": "https://trueinterview.io/jobs/6b0ccab6-3fca-44e6-8230-f028c2fdb4e0",
+      "postedAt": "2026-09-08T13:47:05.000Z",
+      "updatedAt": "2026-09-08T13:47:05.000Z"
     },
     {
       "id": "5b82d99f-03c2-4b59-bc13-bca5fb8479e2",
