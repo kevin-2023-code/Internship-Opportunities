@@ -84,7 +84,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/69e5faca-7984-437d-bb4d-2db4846e7443">FY27 Intern - Camera HW ASIC Verification Intern - Canada (12 or 16 months)</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485154648/">Apply</a></td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721829462?domain=qualcomm.com">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
 <td>Boise, ID</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877393/">Apply</a></td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45166480?domain=micron.com">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1657,7 +1657,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
 <td>Strasbourg, Grand Est, France<br/>Strasbourg, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721901932?domain=qualcomm.com">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

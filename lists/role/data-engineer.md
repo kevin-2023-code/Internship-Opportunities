@@ -18,18 +18,18 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tenet Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
+<td>Dallas, Texas, United States<br/>Dallas, TX</td>
+<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>West Bend Insurance Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/a34511f5-d27e-440d-a9a5-41aaf6cc2574">Summer 2027 Internship – Data Solution Engineer</a></td>
 <td>West Bend, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469615279/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Cboe Global Markets</strong></td>

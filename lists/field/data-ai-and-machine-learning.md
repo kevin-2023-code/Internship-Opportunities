@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**581 open roles.** 440 in the United States & Canada · 141 elsewhere in the world.
+**588 open roles.** 447 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d03eb9c-ffe7-4a92-b096-731b73806c6d">AI Foundations - Research Scientist - Research Internship - 2027</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460762327/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf419613-54ab-4d99-8a66-05da9de6763c">UIUC Research Park Intern - ML AI Motor Controls Algorithm</a></td>
+<td>Champaign, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487317813/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tinder</strong></td>
+<td><a href="https://trueinterview.io/jobs/9598752c-ecdb-40d3-b8db-b9041c696f00">Data Scientist Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486995495/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TalenTech Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/253b5b29-24f1-47e4-a343-2bfdfeac066f">Artificial Intelligence/Machine Learning Engineer 2 - Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488194682/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shure</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8e4ecbb-23f9-43e4-b93e-b3bd75ebacf2">Artificial Intelligence (AI) Engineering Intern</a></td>
+<td>Niles, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461390753/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>National Laboratory of the Rockies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca8c5a05-0101-4559-b734-763ad3edeb93">Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479151937/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tenet Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
+<td>Dallas, Texas, United States<br/>Dallas, TX</td>
+<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>U-Haul</strong></td>
+<td><a href="https://trueinterview.io/jobs/97814173-be12-4f66-b318-dc8da2b50dea">Data Analyst Spring Internship</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488180482/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAS</strong></td>
+<td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
+<td>Cary HQ, NC, US<br/>Cary, NC</td>
+<td align="center"><a href="https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Elucid</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cf5351d-45b6-4460-9b1c-2ed8e9063b8b">Machine Learning PhD Intern: Spring 2027</a></td>
@@ -38,6 +101,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a5d8b989-2e22-4d28-9939-dcc1f359a928">AI &amp; Systems Intern</a></td>
 <td>Tampa, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469615248/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab88a95c-386c-4aad-af9c-dafdcc6fd610">Cost &amp; Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458051489/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -125,13 +195,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SAS</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
-<td>Cary HQ, NC, US</td>
-<td align="center"><a href="https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Nationwide</strong></td>
 <td><a href="https://trueinterview.io/jobs/88b2cbae-e0ef-4a67-9aa0-0412ea764e76">Summer 2027 Generative AI Internship</a></td>
 <td>Columbus, OH</td>
@@ -199,13 +262,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0da1771d-e6c6-4fe1-903a-97c4ae52fd47">Global Revenue Operations Analytics: Data Analyst Intern</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=14977">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -352,21 +408,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>
 <td>San Jose, California, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487701762/">Apply</a></td>
+<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7807c2f2-3e48-47a7-9337-9c91619d14a0">Machine Learning Engineer PhD Intern - Summer 2027</a></td>
 <td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712250/">Apply</a></td>
+<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922983152">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
 <td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599858/">Apply</a></td>
+<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922983149">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -727,13 +783,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/03d04376-65f5-4999-9b19-67be71655365">Research Scientist Intern PhD, PAR Safety Evals and Red Teaming</a></td>
-<td>New York, NY<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484656855/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/bba776fc-a672-48fc-a864-f56c362d3e28">Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027</a></td>
 <td>Santa Clara, CA</td>
@@ -863,7 +912,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b">Data Analyst Intern</a></td>
 <td>Plano, TX<br/>Plano, Texas, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486078238/">Apply</a></td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -982,7 +1031,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Labcorp</strong></td>
 <td><a href="https://trueinterview.io/jobs/09576142-5d53-4459-8764-89101f65600f">Co-op - Agentic AI Developer</a></td>
 <td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486842562/">Apply</a></td>
+<td align="center"><a href="https://careers.labcorp.com/global/en/job/2639201">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1892,7 +1941,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1811645993254851/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2769,55 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York</td>
 <td align="center"><a href="https://seatgeek.com/jobs/8247554?gh_jid=8247554">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Genscript/probio</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cfd1033-ccce-4607-b6a3-c5c5515314b6">AI Intern, Enterprise Agent Development</a></td>
-<td>Piscataway, New Jersey, United States<br/>USA- Piscataway, NJ</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5253581007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dandy</strong></td>
-<td><a href="https://trueinterview.io/jobs/d128b8e7-c50f-4ce5-b3e1-fa574d16d4b0">Summer 2027 Internship - PhD Research Intern</a></td>
-<td>USA - New York NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a16510c-bd9b-4922-a72e-27c96b04c516">2027 Applied Science Internship - United States - Master's Student Science Recruiting</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/09d3fd89-8543-415d-a17e-b0432e8e81ea">2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI &amp; Robotics</a></td>
-<td>San Francisco, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4fca36cb-e338-49bc-b878-b284fb06cf9f">PhD Economics Intern – Reduced Form Causal Inference, Summer 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0d0a964c-ae6d-4a1b-b01e-40499c1e4e8d">PhD Economics Intern – Structural IO, Summer 2027</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/f154672d-9ff2-4f00-a32d-aa5ade5f1c54">EDA AI/ML Layout Engineering Intern</a></td>
-<td>Calabasas, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54606?lang=en-us">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
 </table>

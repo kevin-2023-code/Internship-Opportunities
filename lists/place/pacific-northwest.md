@@ -84,7 +84,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
 <td>Boise, ID</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877393/">Apply</a></td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45166480?domain=micron.com">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

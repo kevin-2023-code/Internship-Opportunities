@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,230 open roles.** 1,022 in the United States & Canada · 208 elsewhere in the world.
+**1,241 open roles.** 1,033 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,83 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Xradar</strong></td>
+<td><a href="https://trueinterview.io/jobs/dee4702a-40d8-44cd-947f-9900b374de96">Software Engineer Co-op</a></td>
+<td>Burnaby, Canada</td>
+<td align="center"><a href="https://xradar.bamboohr.com/careers/203?postedDate=2026-10-28">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wabtec</strong></td>
+<td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
+<td>Schenectady, NY</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Filevine</strong></td>
+<td><a href="https://trueinterview.io/jobs/700819f7-b0a0-4d9d-9039-c42dc7fdfee4">Security Specialist, Intern</a></td>
+<td>Salt Lake City, Utah</td>
+<td align="center"><a href="https://jobs.lever.co/filevine/47d66dab-ae72-4256-90d3-8d9e82904370/apply">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/774f2152-15f0-4892-9e21-a9c601b909a8">Firmware Developer Intern - Poughkeepsie - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564382/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d27b0943-c217-4ea2-80be-ad6206614317">Intern Software Engineer / Agent Engineer - EDA - Austin 2027</a></td>
+<td>Austin, TX<br/>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456564384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RTX</strong></td>
+<td><a href="https://trueinterview.io/jobs/56da7b8a-6912-4ab9-9032-43f965c78eaa">Software Engineer Co-op (January 2027)</a></td>
+<td>Marlborough, Massachusetts, United States</td>
+<td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chatham Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/85a49c9f-f58a-4f8c-93ae-6bfb86c5d491">2027 Software Engineering Intern</a></td>
+<td>Denver, CO<br/>Kennett Square, PA</td>
+<td align="center"><a href="https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bf69c4b-a9b7-489c-998f-7b77b292c58d">Intern - Software Developer Technician</a></td>
+<td>Quebec City, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of Cincinnati</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bfb265d-9a90-4865-95e7-63db1f14f38b">COLLEGE CO-OP (WASTEWATER ENGINEERING) Project Management</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/cincinnati/jobs/5529891/college-co-op-wastewater-engineering-project-management">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac4cb1a8-1afb-4858-82b7-ec0d6cb0d498">COLLEGE CO-OP WASTEWATER ENGINEERING (GIS/Acoustic Sound/LiDar)</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.governmentjobs.com/careers/cincinnati/jobs/5530298/college-co-op-wastewater-engineering-gis-acoustic-sound-lidar">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/09afc3ec-5904-4732-8ae4-3bc25aa15914">Systems Engineering Co-op</a></td>
+<td>Saint Petersburg, FL</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01884435">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Commonwealth Fusion Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/6db42e44-b2c1-4884-b886-37593e6110e9">Intern - Scientific Software Engineer - Summer 2027</a></td>
@@ -1984,7 +2061,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>
 <td>Singapore, Singapore<br/>Melbourne, Victoria, Australia<br/>Melbourne, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475462000/">Apply</a></td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154217864">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2124,7 +2201,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Baker Hughes</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8517dc7-76f0-4d3f-9bb6-af4ef4037938">Intern - Software Engineering - 2027</a></td>
 <td>Cramlington, England, United Kingdom<br/>Cramlington, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485236928/">Apply</a></td>
+<td align="center"><a href="https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR171503EXTERNALENGLOBAL/Intern-Software-Engineering-2027">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2488,7 +2565,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
 <td>Sheffield, England, United Kingdom<br/>Sheffield, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911456/">Apply</a></td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154045294">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2749,83 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Burnaby</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818/application">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Scale</strong></td>
-<td><a href="https://trueinterview.io/jobs/3600e62c-3f66-4127-be63-5cb0a3418cee">Software Engineering Intern (Summer 2027)</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467226376/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teradata</strong></td>
-<td><a href="https://trueinterview.io/jobs/c12bece7-cc10-4c5e-94a5-0cc047c5c987">Product Support Engineering Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://careers.teradata.com/jobs/220825/product-support-engineering-intern?sid=602">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/8eca9ccf-e954-4e0c-9816-a7c21d749406">Software Engineer (Software Integrator) Intern [IDA:00070]</a></td>
-<td>Kallang, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000157968618-software-engineer-software-integrator-intern-ida-00070-">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Beckman Coulter Life Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef4a8019-9200-4d8e-b0a2-519201f51501">Software Engineering Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1320608EXTERNALENGLOBAL/Software-Engineering-Intern">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td><a href="https://trueinterview.io/jobs/db84990f-ae3e-44ee-b0eb-0574b20dad11">Software Engineer Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Holcim</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf06fab8-e08a-480c-883e-a37d8bdfe384">R&amp;D Engineer Intern - Calcined Clay</a></td>
-<td>Saint-Quentin-Fallavier, France</td>
-<td align="center"><a href="https://careers.holcimgroup.com/job/Saint-Quentin-Fallavier-R&amp;D-Engineer-Intern-Calcined-Clay-38291/1375970757/">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fa69dd36-d3ec-4f5a-a7ec-393437a23db6">R&amp;D Engineer Intern - Ecopact 2.0/Biochar</a></td>
-<td>Saint-Quentin-Fallavier, France</td>
-<td align="center"><a href="https://careers.holcimgroup.com/job/Saint-Quentin-Fallavier-R&amp;D-Engineer-Intern-Ecopact-2_0Biochar-38291/1375971257/">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Natixis</strong></td>
-<td><a href="https://trueinterview.io/jobs/91181dc8-6eab-47ec-be18-50b0ec81175f">Internship - 6 months - Developer fullstack Web &amp; Sales Solutions (F/H)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://recrutement.natixis.com/en/job/internship-6-months-developer-fullstack-web-sales-solutions-f-h">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teradata</strong></td>
-<td><a href="https://trueinterview.io/jobs/feb68436-238d-4138-895c-359908d8ba3c">Intern Engineering</a></td>
-<td>India</td>
-<td align="center"><a href="https://careers.teradata.com/jobs/220809/intern-engineering?sid=602">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WALLBOX</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ee5cbf6-4700-4ff7-9237-d9d1a22357d8">Software Engineer Intern</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://wallbox.bamboohr.com/careers/293?postedDate=2026-10-27">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wood</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc8bc52a-95a6-4d30-9789-f5760c434bfd">Technical Safety Engineer - Internship</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33117">Apply</a></td>
-<td align="center">27 Oct 2026</td>
 </tr>
 </tbody>
 </table>

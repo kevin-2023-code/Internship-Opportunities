@@ -1244,7 +1244,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Roche</strong></td>
 <td><a href="https://trueinterview.io/jobs/b43c0905-8188-4190-b3fa-146823f4593b">Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)</a></td>
 <td>Rotkreuz, Zug, Switzerland<br/>Zug, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989853/">Apply</a></td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-127757">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

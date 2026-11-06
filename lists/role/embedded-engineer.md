@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**46 open roles.** 39 in the United States & Canada · 7 elsewhere in the world.
+**47 open roles.** 40 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Inversion</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fe500af-193c-4a3c-ade0-cbc146932d76">Avionics Embedded Software Engineer - Summer Internship 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480180604/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Advanced Energy</strong></td>
 <td><a href="https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5">Intern - Firmware Engineer, Undergraduate</a></td>
@@ -35,7 +42,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Parsons Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/3de4194c-2a35-4bdb-99a6-0b9c4ef120fe">Summer Embedded Developer Intern</a></td>
 <td>Columbia, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488009966/">Apply</a></td>
+<td align="center"><a href="https://jobs.parsons.com/jobs/summer-embedded-developer-intern-columbia-r-188299-jobs--internship-program--">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -70,7 +77,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bcfcf47-fd15-4245-9aa1-4eb81d397049">Embedded Software Engineer Intern - Summer 2027</a></td>
 <td>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485505343/">Apply</a></td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477363529?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

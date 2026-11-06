@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**82 open roles.**
+**81 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tenet Healthcare</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
+<td>Dallas, Texas, United States<br/>Dallas, TX</td>
+<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>State Farm</strong></td>
 <td><a href="https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077">Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist</a></td>
 <td>Richardson, Texas, United States<br/>Richardson, TX<br/>Atlanta, GA<br/>+4 more</td>
@@ -29,13 +36,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d7a44c7-03f5-4953-9a7b-a93cd879d67b">Summer '27 Intern - IT Support Analyst</a></td>
 <td>Dallas, TX, 75225<br/>Toronto, ON, M5H1T1, CAN<br/>Toledo, OH, 43615</td>
 <td align="center"><a href="https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=9be87685-cfd7-4837-ba22-a3be51a1b8f6">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>GM Financial</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed8b1620-eeca-4341-9425-02abbdaae767">Intern - Cloud Engineer</a></td>
 <td>Irving, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486558689/">Apply</a></td>
+<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/261245">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -77,14 +77,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b">Data Analyst Intern</a></td>
 <td>Plano, TX<br/>Plano, Texas, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486078238/">Apply</a></td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/eaba15f6-e995-4f05-961a-bc25b59bf77d">Software Engineering Intern</a></td>
 <td>Fort Worth, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484698016/">Apply</a></td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477240661?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -142,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Frisco, Texas, United States<br/>Durham, North Carolina, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Concepts, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b2ac2b7-7305-4842-8141-2d65bf113416">Web and Apps Developer - Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485921369/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Lennox</strong></td>
@@ -217,7 +210,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
 <td>Richardson, TX<br/>Bend, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239335/">Apply</a></td>
+<td align="center"><a href="https://careers.skyworksinc.com/job/Software-Engineer-Intern/78751-en_US">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -273,7 +266,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>TRG</strong></td>
 <td><a href="https://trueinterview.io/jobs/af73e867-7733-4b1d-b5f8-e678cd6fffbe">Full Stack Application Developer Intern (Winter/Spring)</a></td>
 <td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484743360/">Apply</a></td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

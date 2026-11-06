@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**121 open roles.**
+**122 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d03eb9c-ffe7-4a92-b096-731b73806c6d">AI Foundations - Research Scientist - Research Internship - 2027</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460762327/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Elucid</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cf5351d-45b6-4460-9b1c-2ed8e9063b8b">Machine Learning PhD Intern: Spring 2027</a></td>
@@ -35,7 +42,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Trinzic</strong></td>
 <td><a href="https://trueinterview.io/jobs/2719cbb4-1d2d-45cc-aea2-fa5e74f8642d">Defense &amp; Intel (D&amp;I) - Software Engineering Internship</a></td>
 <td>Lexington, MA<br/>Orlando, FL<br/>Kihei, HI<br/>+8 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488085673/">Apply</a></td>
+<td align="center"><a href="https://careers.trinzic.com/us/en/job/R3001235">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -112,7 +119,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
 <td>Marlborough, MA<br/>Maple Grove, MN<br/>Georgetown, Massachusetts, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487520849/">Apply</a></td>
+<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813743813-urology-r-d-software-engineering-co-op-maple-grove-us-mn-united-states-n-a">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -266,7 +273,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Lila Sciences</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b01f696-9595-4501-a4bc-d60643d8b994">Co-Op, SCADA Engineer</a></td>
 <td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485336431/">Apply</a></td>
+<td align="center"><a href="https://grnh.se/qseubvv59us">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -462,14 +469,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
 <td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717351/">Apply</a></td>
+<td align="center"><a href="https://www.3ds.com/careers/jobs/internship-cfd-qa-software-engineer-550213">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
 <td>Marlborough, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484712231/">Apply</a></td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01885371">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -483,7 +490,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>RTX</strong></td>
 <td><a href="https://trueinterview.io/jobs/18b73324-4e69-40cc-a594-2629a5537e11">Hardware Electrical Engineering Co-Op (Spring 2027)</a></td>
 <td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484708169/">Apply</a></td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01883598">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

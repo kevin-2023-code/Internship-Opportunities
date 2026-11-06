@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**141 open roles.**
+**144 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Inversion</strong></td>
+<td><a href="https://trueinterview.io/jobs/5fe500af-193c-4a3c-ade0-cbc146932d76">Avionics Embedded Software Engineer - Summer Internship 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480180604/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Career Launch Tech Initiative</strong></td>
+<td><a href="https://trueinterview.io/jobs/c00f75d8-a96e-4147-abab-93b5712f81e6">Software Engineering Intern (Volunteer)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487305751/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7c2a55e-67ea-413b-87c4-fb7e9c4debe4">Software Engineer Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485125167/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e8e429b-ca29-48cc-bcfb-b8566b0e1023">Software Engineering Intern - Vehicle Controls (January - August 2027)</a></td>
+<td>Irvine, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463551826/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tinder</strong></td>
 <td><a href="https://trueinterview.io/jobs/9dbfadeb-3885-4d9b-aa7d-d9334bd53dea">Backend Engineer Intern</a></td>
@@ -49,7 +77,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Trinzic</strong></td>
 <td><a href="https://trueinterview.io/jobs/2719cbb4-1d2d-45cc-aea2-fa5e74f8642d">Defense &amp; Intel (D&amp;I) - Software Engineering Internship</a></td>
 <td>El Segundo, CA<br/>Orlando, FL<br/>Lexington, MA<br/>+8 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488085673/">Apply</a></td>
+<td align="center"><a href="https://careers.trinzic.com/us/en/job/R3001235">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -309,13 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4045b84c-08ca-4c3e-832a-75932325e887">2027 Industrial Engineering Summer Intern - Los Angeles CA - Fremont CA</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461333261/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Impulse Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/896cc4db-34d0-4cb0-a709-acce2048bd70">Test Automation Intern (Summer 2027)</a></td>
-<td>Redondo Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483183707/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

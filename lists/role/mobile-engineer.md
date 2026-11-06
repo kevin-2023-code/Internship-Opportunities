@@ -49,7 +49,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
 <td>Austin, TX<br/>Omaha, NE<br/>Scottsdale, AZ<br/>+2 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487598915/">Apply</a></td>
+<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922982818">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

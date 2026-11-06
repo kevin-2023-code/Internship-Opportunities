@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**9 open roles.** 8 in the United States & Canada · 1 elsewhere in the world.
+**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shure</strong></td>
+<td><a href="https://trueinterview.io/jobs/d69afd8c-a795-4c6d-9b3b-a35ece296e27">Cloud DevOps Engineer Intern</a></td>
+<td>Niles, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461389722/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tyler Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0d91a23-3d80-4d34-be64-9669097f3231">DevOps Engineer Intern, Summer 2027</a></td>

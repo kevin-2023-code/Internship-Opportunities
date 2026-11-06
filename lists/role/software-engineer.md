@@ -18,6 +18,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>MedPro Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/a311e3fc-4765-424c-bbb7-8eaf2257a483">Intern - Application Developer</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488407778/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MeeBoss</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c4a3ec0-0693-4d21-a23d-b8406e94ea96">Software Engineer Intern at ClassHour</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488178917/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Arconic</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc40301b-55f1-4439-ba94-cc9a59e49114">Software Developer Intern</a></td>
+<td>Davenport, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471618840/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Career Launch Tech Initiative</strong></td>
+<td><a href="https://trueinterview.io/jobs/d7c2a55e-67ea-413b-87c4-fb7e9c4debe4">Software Engineer Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485125167/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hadrian</strong></td>
 <td><a href="https://trueinterview.io/jobs/aeec53c3-964e-4c3b-92c6-ef3eabd74f46">Software Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
@@ -294,7 +322,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
 <td>Chicago, Illinois, United States<br/>Austin, TX<br/>San Jose, California, United States<br/>+4 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599855/">Apply</a></td>
+<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -413,7 +441,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/c55d1590-d3d4-420f-9c43-7e5a1c8b89c5">Java Software Developer-INTERN</a></td>
 <td>Colorado Springs, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485505354/">Apply</a></td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477760376?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -560,7 +588,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>American Express</strong></td>
 <td><a href="https://trueinterview.io/jobs/090d1753-28cc-419c-9899-cd03d2f58437">Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA</a></td>
 <td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486076587/">Apply</a></td>
+<td align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26015722">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -595,14 +623,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>New York Air Brake</strong></td>
 <td><a href="https://trueinterview.io/jobs/24bef4f5-42f6-46f3-b05a-f886b2815cd2">Intern, Software Engineer</a></td>
 <td>Watertown, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487013218/">Apply</a></td>
+<td align="center"><a href="https://careers.knorr-bremse.com/job/Watertown-Intern%2C-Software-Engineer-NY-13601/1453971933/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/c64ffd6f-582d-4d59-968d-74ebf5bb0bbd">Software Engineer Intern - Summer 2027</a></td>
 <td>Highlands Ranch, CO<br/>Littleton, CO<br/>Huntsville, AL<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484691394/">Apply</a></td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477529588?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -637,7 +665,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>WoodmenLife</strong></td>
 <td><a href="https://trueinterview.io/jobs/aea1021e-d69b-4334-8dfb-f4b4cb8d9a38">2027 Summer Software Engineer Intern</a></td>
 <td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486011995/">Apply</a></td>
+<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2923">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -700,7 +728,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Costco Wholesale</strong></td>
 <td><a href="https://trueinterview.io/jobs/d576ac4e-6ada-495a-b1d8-697e06f54d17">CDS Intern - Software Engineer - International Depot</a></td>
 <td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486484107/">Apply</a></td>
+<td align="center"><a href="https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&amp;cws=41&amp;rid=10993">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -708,27 +736,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/42f43239-de0a-40a3-8820-9c4365e8e2a1">Agentic Software Engineering Intern</a></td>
 <td>Frisco, TX<br/>Durham, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485783392/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco Wholesale</strong></td>
-<td><a href="https://trueinterview.io/jobs/4bb6f2a8-dd1d-4707-8d75-d029585c3469">CDS Intern - Software Engineer - IT Retail Media</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486485183/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/df199d78-a8b0-45ee-84a5-8ebc22b827ce">CDS Intern - PowerApps Developer - ECM Digital Workflow</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486478194/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/843cef2b-daa4-4095-b84e-87568f4e4f96">CDS Intern - Software Engineer - Costco Travel</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486472540/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -756,7 +763,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Keysight Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2183dcd-5bbb-495c-a42a-0a0f37737595">DevSecOps, Intern</a></td>
 <td>Colorado Springs, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484613030/">Apply</a></td>
+<td align="center"><a href="https://jobs.keysight.com/jobs/55072/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -826,7 +833,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Plexus Corp.</strong></td>
 <td><a href="https://trueinterview.io/jobs/49d95df4-9f67-42d5-8e96-c2a4b70fe34a">Intern - Software Engineer (Summer 2027)</a></td>
 <td>Neenah, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486401170/">Apply</a></td>
+<td align="center"><a href="https://jobs.plexus.com/careers/job/1099551218197?domain=plexus.com">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -956,13 +963,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Applied Concepts, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b2ac2b7-7305-4842-8141-2d65bf113416">Web and Apps Developer - Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485921369/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>L3Harris Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/1074cbb4-2055-4bb1-b63f-1ec35263cbc6">Intern, Information Security Systems Engineer (Salt Lake City, UT)</a></td>
 <td>Salt Lake City, UT</td>
@@ -1001,7 +1001,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
 <td>San Luis Obispo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483943670/">Apply</a></td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477676855?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1120,7 +1120,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>WEX</strong></td>
 <td><a href="https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479">Software Engineer Intern</a></td>
 <td>Maine, United States<br/>Remote</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485600033/">Apply</a></td>
+<td align="center"><a href="https://careers.wexinc.com/us/en/job/R22585/Software-Engineer-Intern">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1253,14 +1253,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>STERIS</strong></td>
 <td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
 <td>Cooper City, FL<br/>Plymouth, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
+<td align="center"><a href="https://careers.steris.com/us/en/job/56672">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
 <td>Richardson, TX<br/>Bend, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485239335/">Apply</a></td>
+<td align="center"><a href="https://careers.skyworksinc.com/job/Software-Engineer-Intern/78751-en_US">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1372,7 +1372,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Boston Scientific</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d7843b0-4ec7-40f4-a6c2-8a75ef3e495e">R&amp;D Software Design Intern</a></td>
 <td>Arden Hills, MN<br/>Arden Hills, Minnesota, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484759981/">Apply</a></td>
+<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813862687-r-d-software-design-intern-arden-hills-us-mn-united-states-n-a">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1428,7 +1428,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
 <td>Marlborough, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484712231/">Apply</a></td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01885371">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1512,7 +1512,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/e741aa0e-5da1-4875-bf30-79a23bb38898">Intern - Product Yield Software Engineer</a></td>
 <td>Boise, ID</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483877393/">Apply</a></td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45166480?domain=micron.com">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2476,7 +2476,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>
 <td>Singapore, Singapore<br/>Melbourne, Victoria, Australia<br/>Melbourne, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475462000/">Apply</a></td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154217864">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2574,7 +2574,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
 <td>Sheffield, England, United Kingdom<br/>Sheffield, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911456/">Apply</a></td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154045294">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

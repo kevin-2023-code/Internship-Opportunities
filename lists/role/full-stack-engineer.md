@@ -42,7 +42,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Labcorp</strong></td>
 <td><a href="https://trueinterview.io/jobs/031f6906-6149-4e04-a38a-9c6480f5a9b0">Co-op - Full-Stack Life Sciences Engineer</a></td>
 <td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486840563/">Apply</a></td>
+<td align="center"><a href="https://careers.labcorp.com/global/en/job/2639083">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>TRG</strong></td>
 <td><a href="https://trueinterview.io/jobs/af73e867-7733-4b1d-b5f8-e678cd6fffbe">Full Stack Application Developer Intern (Winter/Spring)</a></td>
 <td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484743360/">Apply</a></td>
+<td align="center"><a href="https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

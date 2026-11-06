@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**136 open roles.** 108 in the United States & Canada · 28 elsewhere in the world.
+**139 open roles.** 111 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf419613-54ab-4d99-8a66-05da9de6763c">UIUC Research Park Intern - ML AI Motor Controls Algorithm</a></td>
+<td>Champaign, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487317813/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TalenTech Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/253b5b29-24f1-47e4-a343-2bfdfeac066f">Artificial Intelligence/Machine Learning Engineer 2 - Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488194682/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>National Laboratory of the Rockies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca8c5a05-0101-4559-b734-763ad3edeb93">Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479151937/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Elucid</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cf5351d-45b6-4460-9b1c-2ed8e9063b8b">Machine Learning PhD Intern: Spring 2027</a></td>
@@ -140,14 +161,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/7807c2f2-3e48-47a7-9337-9c91619d14a0">Machine Learning Engineer PhD Intern - Summer 2027</a></td>
 <td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487712250/">Apply</a></td>
+<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922983152">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
 <td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487599858/">Apply</a></td>
+<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922983149">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -817,7 +838,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
 <td>Strasbourg, Grand Est, France<br/>Strasbourg, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721901932?domain=qualcomm.com">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

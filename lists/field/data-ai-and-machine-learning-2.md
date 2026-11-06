@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**581 open roles.** 440 in the United States & Canada · 141 elsewhere in the world.
+**588 open roles.** 447 in the United States & Canada · 141 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Genscript/probio</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cfd1033-ccce-4607-b6a3-c5c5515314b6">AI Intern, Enterprise Agent Development</a></td>
+<td>Piscataway, New Jersey, United States<br/>USA- Piscataway, NJ</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5253581007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Dandy</strong></td>
+<td><a href="https://trueinterview.io/jobs/d128b8e7-c50f-4ce5-b3e1-fa574d16d4b0">Summer 2027 Internship - PhD Research Intern</a></td>
+<td>USA - New York NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/8a16510c-bd9b-4922-a72e-27c96b04c516">2027 Applied Science Internship - United States - Master's Student Science Recruiting</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564586/2027-applied-science-internship-united-states-master-s-student-science-recruiting">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/09d3fd89-8543-415d-a17e-b0432e8e81ea">2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI &amp; Robotics</a></td>
+<td>San Francisco, California, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4fca36cb-e338-49bc-b878-b284fb06cf9f">PhD Economics Intern – Reduced Form Causal Inference, Summer 2027</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564111/phd-economics-intern-reduced-form-causal-inference-summer-2027">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0d0a964c-ae6d-4a1b-b01e-40499c1e4e8d">PhD Economics Intern – Structural IO, Summer 2027</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/f154672d-9ff2-4f00-a32d-aa5ade5f1c54">EDA AI/ML Layout Engineering Intern</a></td>
+<td>Calabasas, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54606?lang=en-us">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/550ed1d6-857f-4778-8d67-627fc29915fa">Research Intern, 2027 Summer U.S.</a></td>
@@ -549,7 +598,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
 <td>Strasbourg, Grand Est, France<br/>Strasbourg, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721901932?domain=qualcomm.com">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -703,7 +752,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dc0275c0-3ec8-482c-b25d-7c0b424b008f">Research Scientist Intern, Generative AI (PhD)</a></td>
 <td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483933152/">Apply</a></td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1127102149763705/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

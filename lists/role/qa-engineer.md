@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**30 open roles.** 25 in the United States & Canada · 5 elsewhere in the world.
+**29 open roles.** 24 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -130,13 +130,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Impulse Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/896cc4db-34d0-4cb0-a709-acce2048bd70">Test Automation Intern (Summer 2027)</a></td>
-<td>Redondo Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483183707/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/45063ba1-f9e7-44f5-aba1-043a76d70243">IT Quality Assurance Intern - Spring 2027</a></td>
 <td>Lisle, IL</td>
@@ -147,7 +140,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Dassault Systèmes</strong></td>
 <td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
 <td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717351/">Apply</a></td>
+<td align="center"><a href="https://www.3ds.com/careers/jobs/internship-cfd-qa-software-engineer-550213">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

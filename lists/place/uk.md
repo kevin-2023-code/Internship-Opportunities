@@ -21,7 +21,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
 <td>London, England, United Kingdom<br/>London, United Kingdom<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482570331/">Apply</a></td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1811645993254851/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-06 20:04 UTC_
+_Last updated: 2026-11-06 21:03 UTC_
 
 **486 open internships** from **250 employers** · **206 posted in the last 7 days** · refreshed hourly
 
@@ -91,7 +91,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a> 🆕</td>
 <td>Veldhoven, North Brabant, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Mercari, Inc.</strong></td>
@@ -641,7 +641,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/9fa702ec-5e3b-4c40-b4ab-31a60be77e5f">Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027</a> 🆕</td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486594201/">Apply</a></td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127174656267297478">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 <tr>
@@ -655,7 +655,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f">Silicon Manufacturing Intern, 2027</a> 🆕</td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486347723/">Apply</a></td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/102906012280726214">Apply</a></td>
 <td align="center">2d</td>
 </tr>
 <tr>
@@ -753,7 +753,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>ONWARD Medical</strong></td>
 <td><a href="https://trueinterview.io/jobs/49891cd0-4498-489b-ad7f-a580e0d157d6">Mechanical Engineering Intern</a></td>
 <td>Lausanne, Vaud, Switzerland<br/>Lausanne, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973043/">Apply</a></td>
+<td align="center"><a href="https://onwardmedical.careers.hibob.com/jobs/ccc27101-e939-40a1-8a0e-829cf5050a05">Apply</a></td>
 <td align="center">8d</td>
 </tr>
 <tr>
@@ -1053,7 +1053,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Roche</strong></td>
 <td><a href="https://trueinterview.io/jobs/b43c0905-8188-4190-b3fa-146823f4593b">Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)</a></td>
 <td>Rotkreuz, Zug, Switzerland<br/>Zug, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989853/">Apply</a></td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-127757">Apply</a></td>
 <td align="center">8d</td>
 </tr>
 <tr>
@@ -1151,7 +1151,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a> 🆕</td>
 <td>Paris, Île-de-France, France</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462047871/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>

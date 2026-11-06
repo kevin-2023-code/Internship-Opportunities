@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**96 open roles.**
+**93 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -105,28 +105,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Costco Wholesale</strong></td>
 <td><a href="https://trueinterview.io/jobs/d576ac4e-6ada-495a-b1d8-697e06f54d17">CDS Intern - Software Engineer - International Depot</a></td>
 <td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486484107/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4bb6f2a8-dd1d-4707-8d75-d029585c3469">CDS Intern - Software Engineer - IT Retail Media</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486485183/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/df199d78-a8b0-45ee-84a5-8ebc22b827ce">CDS Intern - PowerApps Developer - ECM Digital Workflow</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486478194/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/843cef2b-daa4-4095-b84e-87568f4e4f96">CDS Intern - Software Engineer - Costco Travel</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486472540/">Apply</a></td>
+<td align="center"><a href="https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&amp;cws=41&amp;rid=10993">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

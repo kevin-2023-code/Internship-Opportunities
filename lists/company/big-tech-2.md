@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**585 open roles.** 487 in the United States & Canada · 98 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**584 open roles.** 486 in the United States & Canada · 98 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/e714abaa-bdc0-42ca-9108-a03676b11f28">PhD Research Intern, Architecture – 2027</a></td>
-<td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73">PhD Research Intern, Generalist Embodied Agents Research - 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397562560">Apply</a></td>
@@ -661,7 +654,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/9fa702ec-5e3b-4c40-b4ab-31a60be77e5f">Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486594201/">Apply</a></td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127174656267297478">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -710,7 +703,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f">Silicon Manufacturing Intern, 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486347723/">Apply</a></td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/102906012280726214">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -780,7 +773,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/01df0df7-4485-4707-9ae6-861aa6178c79">FY27 Intern - ML Compiler Research Intern - 6 months, Strasbourg, France</a></td>
 <td>Strasbourg, Grand Est, France<br/>Strasbourg, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485743554/">Apply</a></td>
+<td align="center"><a href="https://app.eightfold.ai/careers/job/446721901932?domain=qualcomm.com">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -864,7 +857,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/dc0275c0-3ec8-482c-b25d-7c0b424b008f">Research Scientist Intern, Generative AI (PhD)</a></td>
 <td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483933152/">Apply</a></td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1127102149763705/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -920,7 +913,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>
 <td>Singapore, Singapore<br/>Melbourne, Victoria, Australia<br/>Melbourne, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475462000/">Apply</a></td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154217864">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1165,7 +1158,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
 <td>Sheffield, England, United Kingdom<br/>Sheffield, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484911456/">Apply</a></td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154045294">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

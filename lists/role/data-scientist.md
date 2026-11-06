@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**100 open roles.** 84 in the United States & Canada · 16 elsewhere in the world.
+**101 open roles.** 85 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tinder</strong></td>
+<td><a href="https://trueinterview.io/jobs/9598752c-ecdb-40d3-b8db-b9041c696f00">Data Scientist Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486995495/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAS</strong></td>
+<td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
+<td>Cary HQ, NC, US<br/>Cary, NC</td>
+<td align="center"><a href="https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Duolingo</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ef4bcf4-7073-45d0-86f6-f7ea184bb778">Data Scientist, Intern</a></td>
 <td>New York, NY<br/>Pittsburgh, PA</td>
@@ -29,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077">Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist</a></td>
 <td>Atlanta, GA<br/>Tempe, Arizona, United States<br/>Dunwoody, Georgia, United States<br/>+4 more</td>
 <td align="center"><a href="https://jobs.statefarm.com/main/jobs/46227">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAS</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
-<td>Cary HQ, NC, US</td>
-<td align="center"><a href="https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -70,7 +77,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>
 <td>San Jose, California, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487701762/">Apply</a></td>
+<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

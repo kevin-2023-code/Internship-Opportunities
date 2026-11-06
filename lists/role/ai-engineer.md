@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**133 open roles.** 96 in the United States & Canada · 37 elsewhere in the world.
+**134 open roles.** 97 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Shure</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8e4ecbb-23f9-43e4-b93e-b3bd75ebacf2">Artificial Intelligence (AI) Engineering Intern</a></td>
+<td>Niles, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461390753/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Digital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/6162e404-eb83-453b-aabe-f57599582c41">AI Workflow Engineering Intern (U.S.A Only)</a></td>
@@ -217,7 +224,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Labcorp</strong></td>
 <td><a href="https://trueinterview.io/jobs/09576142-5d53-4459-8764-89101f65600f">Co-op - Agentic AI Developer</a></td>
 <td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486842562/">Apply</a></td>
+<td align="center"><a href="https://careers.labcorp.com/global/en/job/2639201">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

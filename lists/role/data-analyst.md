@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**85 open roles.** 50 in the United States & Canada · 35 elsewhere in the world.
+**87 open roles.** 52 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>U-Haul</strong></td>
+<td><a href="https://trueinterview.io/jobs/97814173-be12-4f66-b318-dc8da2b50dea">Data Analyst Spring Internship</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488180482/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/ab88a95c-386c-4aad-af9c-dafdcc6fd610">Cost &amp; Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458051489/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GALLO</strong></td>
 <td><a href="https://trueinterview.io/jobs/3571327a-e26d-4ee8-8b0f-c6cd69396128">Winegrowing Research Data Analyst Internship 2027</a></td>
@@ -112,7 +126,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b">Data Analyst Intern</a></td>
 <td>Plano, TX<br/>Plano, Texas, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486078238/">Apply</a></td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

@@ -21,7 +21,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Parsons Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/3de4194c-2a35-4bdb-99a6-0b9c4ef120fe">Summer Embedded Developer Intern</a></td>
 <td>Columbia, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488009966/">Apply</a></td>
+<td align="center"><a href="https://jobs.parsons.com/jobs/summer-embedded-developer-intern-columbia-r-188299-jobs--internship-program--">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SAS</strong></td>
 <td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
-<td>Cary HQ, NC, US</td>
+<td>Cary HQ, NC, US<br/>Cary, NC</td>
 <td align="center"><a href="https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
@@ -56,14 +56,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Labcorp</strong></td>
 <td><a href="https://trueinterview.io/jobs/09576142-5d53-4459-8764-89101f65600f">Co-op - Agentic AI Developer</a></td>
 <td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486842562/">Apply</a></td>
+<td align="center"><a href="https://careers.labcorp.com/global/en/job/2639201">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/031f6906-6149-4e04-a38a-9c6480f5a9b0">Co-op - Full-Stack Life Sciences Engineer</a></td>
 <td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486840563/">Apply</a></td>
+<td align="center"><a href="https://careers.labcorp.com/global/en/job/2639083">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

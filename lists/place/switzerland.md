@@ -96,7 +96,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Roche</strong></td>
 <td><a href="https://trueinterview.io/jobs/b43c0905-8188-4190-b3fa-146823f4593b">Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)</a></td>
 <td>Rotkreuz, Zug, Switzerland<br/>Zug, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484989853/">Apply</a></td>
+<td align="center"><a href="https://careers.roche.com/de/de/job/202610-127757">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/49891cd0-4498-489b-ad7f-a580e0d157d6">Mechanical Engineering Intern</a></td>
 <td>Lausanne, Vaud, Switzerland<br/>Lausanne, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973043/">Apply</a></td>
+<td align="center"><a href="https://onwardmedical.careers.hibob.com/jobs/ccc27101-e939-40a1-8a0e-829cf5050a05">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

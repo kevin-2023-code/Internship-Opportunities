@@ -44,7 +44,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>
 <td>Melbourne, Victoria, Australia<br/>Melbourne, Australia<br/>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475462000/">Apply</a></td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154217864">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

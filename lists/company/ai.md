@@ -28,7 +28,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Lila Sciences</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b01f696-9595-4501-a4bc-d60643d8b994">Co-Op, SCADA Engineer</a></td>
 <td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485336431/">Apply</a></td>
+<td align="center"><a href="https://grnh.se/qseubvv59us">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

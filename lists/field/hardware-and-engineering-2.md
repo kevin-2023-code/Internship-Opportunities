@@ -1564,7 +1564,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/9fa702ec-5e3b-4c40-b4ab-31a60be77e5f">Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486594201/">Apply</a></td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127174656267297478">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1578,7 +1578,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f">Silicon Manufacturing Intern, 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486347723/">Apply</a></td>
+<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/102906012280726214">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1676,7 +1676,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>ONWARD Medical</strong></td>
 <td><a href="https://trueinterview.io/jobs/49891cd0-4498-489b-ad7f-a580e0d157d6">Mechanical Engineering Intern</a></td>
 <td>Lausanne, Vaud, Switzerland<br/>Lausanne, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973043/">Apply</a></td>
+<td align="center"><a href="https://onwardmedical.careers.hibob.com/jobs/ccc27101-e939-40a1-8a0e-829cf5050a05">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1753,7 +1753,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Glanua</strong></td>
 <td><a href="https://trueinterview.io/jobs/a338e90a-01f0-4b60-a5d4-ce02bd587c3b">Civil Engineer Intern</a></td>
 <td>Loughrea, County Galway, Ireland<br/>Loughrea, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483891746/">Apply</a></td>
+<td align="center"><a href="https://api.occupop.com/shared/job/civil-engineer-intern-4a98d/indeed">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,230 open roles.** 1,022 in the United States & Canada · 208 elsewhere in the world.
+**1,241 open roles.** 1,033 in the United States & Canada · 208 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Scale</strong></td>
+<td><a href="https://trueinterview.io/jobs/3600e62c-3f66-4127-be63-5cb0a3418cee">Software Engineering Intern (Summer 2027)</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467226376/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teradata</strong></td>
+<td><a href="https://trueinterview.io/jobs/c12bece7-cc10-4c5e-94a5-0cc047c5c987">Product Support Engineering Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.teradata.com/jobs/220825/product-support-engineering-intern?sid=602">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8eca9ccf-e954-4e0c-9816-a7c21d749406">Software Engineer (Software Integrator) Intern [IDA:00070]</a></td>
+<td>Kallang, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000157968618-software-engineer-software-integrator-intern-ida-00070-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beckman Coulter Life Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef4a8019-9200-4d8e-b0a2-519201f51501">Software Engineering Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1320608EXTERNALENGLOBAL/Software-Engineering-Intern">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts</strong></td>
+<td><a href="https://trueinterview.io/jobs/db84990f-ae3e-44ee-b0eb-0574b20dad11">Software Engineer Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Holcim</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf06fab8-e08a-480c-883e-a37d8bdfe384">R&amp;D Engineer Intern - Calcined Clay</a></td>
+<td>Saint-Quentin-Fallavier, France</td>
+<td align="center"><a href="https://careers.holcimgroup.com/job/Saint-Quentin-Fallavier-R&amp;D-Engineer-Intern-Calcined-Clay-38291/1375970757/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fa69dd36-d3ec-4f5a-a7ec-393437a23db6">R&amp;D Engineer Intern - Ecopact 2.0/Biochar</a></td>
+<td>Saint-Quentin-Fallavier, France</td>
+<td align="center"><a href="https://careers.holcimgroup.com/job/Saint-Quentin-Fallavier-R&amp;D-Engineer-Intern-Ecopact-2_0Biochar-38291/1375971257/">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Natixis</strong></td>
+<td><a href="https://trueinterview.io/jobs/91181dc8-6eab-47ec-be18-50b0ec81175f">Internship - 6 months - Developer fullstack Web &amp; Sales Solutions (F/H)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://recrutement.natixis.com/en/job/internship-6-months-developer-fullstack-web-sales-solutions-f-h">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teradata</strong></td>
+<td><a href="https://trueinterview.io/jobs/feb68436-238d-4138-895c-359908d8ba3c">Intern Engineering</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.teradata.com/jobs/220809/intern-engineering?sid=602">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WALLBOX</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ee5cbf6-4700-4ff7-9237-d9d1a22357d8">Software Engineer Intern</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://wallbox.bamboohr.com/careers/293?postedDate=2026-10-27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wood</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc8bc52a-95a6-4d30-9789-f5760c434bfd">Technical Safety Engineer - Internship</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33117">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>TenthNode.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fc3a456-3a9b-4c87-a407-c7ebea5afe9d">Forward Deployed Engineer Intern</a> 🌐</td>
