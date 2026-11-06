@@ -5,9 +5,140 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-06T05:05:00.077Z",
-  "count": 2788,
+  "listingsChangedAt": "2026-11-06T13:04:51.042Z",
+  "count": 2793,
   "listings": [
+    {
+      "id": "358ae83c-4fee-4a13-b955-f17c7c84a0d5",
+      "company": "Advanced Energy",
+      "title": "Intern - Firmware Engineer, Undergraduate",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470975470/",
+      "url": "https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5",
+      "postedAt": "2026-11-06T12:32:00.000Z",
+      "updatedAt": "2026-11-06T12:32:00.000Z"
+    },
+    {
+      "id": "83a634c3-4b9e-4314-8d9d-0a2d8934af54",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Research Scientist Intern (Enterprise AI Agent) - 2026 Start (PhD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462778970/",
+      "url": "https://trueinterview.io/jobs/83a634c3-4b9e-4314-8d9d-0a2d8934af54",
+      "postedAt": "2026-11-06T11:59:00.000Z",
+      "updatedAt": "2026-11-06T11:59:00.000Z"
+    },
+    {
+      "id": "21004bcb-87dc-420d-adf4-074d10db8bcd",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479199937/",
+      "url": "https://trueinterview.io/jobs/21004bcb-87dc-420d-adf4-074d10db8bcd",
+      "postedAt": "2026-11-06T11:51:00.000Z",
+      "updatedAt": "2026-11-06T11:51:00.000Z"
+    },
+    {
+      "id": "ff2caac9-be9d-4723-bb8d-128a475f6a14",
+      "company": "TikTok",
+      "title": "POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486973728/",
+      "url": "https://trueinterview.io/jobs/ff2caac9-be9d-4723-bb8d-128a475f6a14",
+      "postedAt": "2026-11-06T11:22:00.000Z",
+      "updatedAt": "2026-11-06T11:22:00.000Z"
+    },
+    {
+      "id": "acd1d307-051c-4a40-aba5-c15e32ce0829",
+      "company": "Mercari, Inc.",
+      "title": "Class of 2028 / Security Engineer Internship- Mercari Group",
+      "locations": [
+        "Minato, Tokyo, Japan"
+      ],
+      "cities": [],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4407185352/",
+      "url": "https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829",
+      "postedAt": "2026-11-06T10:24:00.000Z",
+      "updatedAt": "2026-11-06T10:24:00.000Z"
+    },
     {
       "id": "88b2cbae-e0ef-4a67-9aa0-0412ea764e76",
       "company": "Nationwide",
