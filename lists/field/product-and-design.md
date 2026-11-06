@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**205 open roles.** 153 in the United States & Canada · 52 elsewhere in the world.
+**204 open roles.** 152 in the United States & Canada · 52 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -274,13 +274,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cf597d8f-3a7d-477b-a2cc-abfdbd5ee077">Product Design (UX) - Summer 2027 Corporate Internship</a></td>
 <td>Coraopolis, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475226934/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Vertiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca330bf6-264a-44d5-8c84-a7515e3f1064">UX Design Intern (Summer 2027)</a></td>
-<td>Westerville, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469254129/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

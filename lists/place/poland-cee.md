@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**11 open roles.**
+**10 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,13 +53,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Gdańsk, Pomorskie, Poland<br/>Gdańsk, Poland</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8aa090-c51f-4474-b86f-84a9f45443c9">2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</a></td>
-<td>Warsaw, Mazowieckie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468043959/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NXP Semiconductors</strong></td>

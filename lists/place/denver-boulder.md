@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**46 open roles.**
+**47 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5c3a51e-68d4-427e-a19c-c0adbcab5137">Software Engineering Intern (Summer 2027)</a></td>
+<td>Aurora, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488109467/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Trinzic</strong></td>
 <td><a href="https://trueinterview.io/jobs/2719cbb4-1d2d-45cc-aea2-fa5e74f8642d">Defense &amp; Intel (D&amp;I) - Software Engineering Internship</a></td>

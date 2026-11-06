@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**34 open roles.** 22 in the United States & Canada · 12 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**31 open roles.** 20 in the United States & Canada · 11 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,20 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93864c81-e569-4e22-8e7e-e0f9d12aa6ec">Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485264552/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/82f7d1aa-6367-4ec1-9ea3-14bc9ba7bc3e">Software Engineer Intern, Software Platforms &amp; Product [Summer 2027]</a></td>
-<td>Foster City, California, United States</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2de578ad-9c2c-4431-be10-ab59f9234981">Software Engineer Intern, Software Systems [Summer 2027]</a></td>
-<td>Foster City, California, United States</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -212,14 +198,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8aa090-c51f-4474-b86f-84a9f45443c9">2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</a></td>
-<td>Warsaw, Mazowieckie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468043959/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7ceb73fc-ebf9-4373-b4b4-960bd62ae01d">Industrial Engineering Internship (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
 <td>Grünheide, Brandenburg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485260738/">Apply</a></td>

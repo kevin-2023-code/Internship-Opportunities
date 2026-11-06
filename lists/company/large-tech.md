@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**114 open roles.** 105 in the United States & Canada · 9 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**115 open roles.** 106 in the United States & Canada · 9 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/d97c64f3-961c-4606-a4fa-5e16c1003454">Software Engineering Intern, Backend</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469628984/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d4889da2-dd07-4bd8-9d9a-6d3db035daa8">Software Engineering Intern, Android</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469641583/">Apply</a></td>

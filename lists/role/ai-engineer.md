@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**132 open roles.** 95 in the United States & Canada · 37 elsewhere in the world.
+**133 open roles.** 96 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/6162e404-eb83-453b-aabe-f57599582c41">AI Workflow Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488167450/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Advantive</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5d8b989-2e22-4d28-9939-dcc1f359a928">AI &amp; Systems Intern</a></td>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**393 open roles.** 328 in the United States & Canada · 65 elsewhere in the world.
+**385 open roles.** 321 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Hadrian</strong></td>
+<td><a href="https://trueinterview.io/jobs/aeec53c3-964e-4c3b-92c6-ef3eabd74f46">Software Engineer Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460442880/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc2ecd54-a8d4-4e9e-93e3-e85e41711ac4">Student Intern - Software Developer - Spring 2027 - ASL</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471108994/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Symbotic</strong></td>
 <td><a href="https://trueinterview.io/jobs/00ddc021-2345-489b-8e5e-7da222e9488c">Co-op - Software Engineer</a></td>
 <td>Wilmington, MA</td>
@@ -29,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/21004bcb-87dc-420d-adf4-074d10db8bcd">Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479199937/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bloom</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0becf81-1fa8-4f7e-b182-2423ec56d630">Software Engineer Intern (Zebra Technologies)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486973243/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -998,41 +1019,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/816463fe-cd3d-45e9-804a-7f6d374ab545">SW Developer Intern: Systems Assurance - Austin, TX &amp; Rochester, MN - 2027</a></td>
-<td>Austin, TX<br/>Rochester, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458026525/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Armadin</strong></td>
-<td><a href="https://trueinterview.io/jobs/d1e36767-0330-4ee7-97f4-1f63aa9952a8">Summer 2027 Internship - Member of Technical Staff - Frontend</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479242044/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dayton Freight Lines, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/d35d3210-fb25-44c8-90cd-0cb5dc992688">Software Developer Intern</a></td>
-<td>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469149547/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Acron Aviation</strong></td>
-<td><a href="https://trueinterview.io/jobs/af27e7ba-c234-4b7d-a52d-f8f4d519a510">Software Engineer Intern - St. Pete Site</a></td>
-<td>St. Petersburg, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466933868/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Netic</strong></td>
-<td><a href="https://trueinterview.io/jobs/4ea494c5-c2ca-41eb-9160-71a450b9d198">Software Engineer (Agent Platform) - Intern - 2026-2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438444966/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Realm Alliance</strong></td>
 <td><a href="https://trueinterview.io/jobs/ae89657e-0edf-45e2-ad7e-8930fa82d337">Software Engineer - Intern</a></td>
 <td>United States</td>
@@ -1187,13 +1173,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>CNH</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3c2f833-f69e-40bf-8b23-806185cd675b">Software Engineer Intern</a></td>
-<td>Oak Brook, IL<br/>Greater Sioux Falls Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467996664/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Beckman Coulter Diagnostics</strong></td>
 <td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a></td>
 <td>Brea, CA</td>
@@ -1233,20 +1212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
 <td>Cooper City, FL<br/>Plymouth, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484773488/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/82f7d1aa-6367-4ec1-9ea3-14bc9ba7bc3e">Software Engineer Intern, Software Platforms &amp; Product [Summer 2027]</a></td>
-<td>Foster City, California, United States</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2de578ad-9c2c-4431-be10-ab59f9234981">Software Engineer Intern, Software Systems [Summer 2027]</a></td>
-<td>Foster City, California, United States</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2048,25 +2013,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/9756c8c4-63fe-4f44-aa84-7ad9e20562fe">Software Engineer Intern, Mobile (Winter 2027)</a></td>
-<td>San Francisco, California<br/>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
 <td>Seattle, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc">Apply</a></td>
 <td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Seatgeek</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc3069a-33ea-48fa-8c29-7bae48b6e061">Software Engineer - Internship</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://seatgeek.com/jobs/8227553?gh_jid=8227553">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
@@ -2456,13 +2407,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe">Developer Technology Engineering Intern - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458903339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8aa090-c51f-4474-b86f-84a9f45443c9">2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</a></td>
-<td>Warsaw, Mazowieckie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468043959/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

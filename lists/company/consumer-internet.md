@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**98 open roles.** 84 in the United States & Canada · 14 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**99 open roles.** 86 in the United States & Canada · 13 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Tinder</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dbfadeb-3885-4d9b-aa7d-d9334bd53dea">Backend Engineer Intern</a></td>
+<td>Palo Alto, CA<br/>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486995499/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0206b00b-7347-4549-8bf7-00d149bfb341">iOS Engineer Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486984758/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/26d806ab-708c-48aa-8977-baa3d11189fe">Android Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487300422/">Apply</a></td>
@@ -667,14 +681,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
-<td>Gurgaon, Haryana, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477895308/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/166b4355-6dbd-428c-942f-0a56face66fb">Research Scientist Intern, Agent for Recommendation (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483923591/">Apply</a></td>

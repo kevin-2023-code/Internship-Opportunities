@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**30 open roles.** 25 in the United States & Canada · 5 elsewhere in the world.
+**29 open roles.** 24 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662">Systems Test Automation Engineering Intern</a></td>
 <td>Kokomo, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476848948/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bc5a8e6-1b33-4d82-ba0d-6d856138f856">Engineering Intern - Software Test (Spring 2027 Co-Op)</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467811665/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

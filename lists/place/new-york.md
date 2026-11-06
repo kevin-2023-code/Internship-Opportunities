@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**114 open roles.**
+**112 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/d97c64f3-961c-4606-a4fa-5e16c1003454">Software Engineering Intern, Backend</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469628984/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d4889da2-dd07-4bd8-9d9a-6d3db035daa8">Software Engineering Intern, Android</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469641583/">Apply</a></td>
@@ -29,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ef4bcf4-7073-45d0-86f6-f7ea184bb778">Data Scientist, Intern</a></td>
 <td>New York, NY<br/>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480310279/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bloom</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0becf81-1fa8-4f7e-b182-2423ec56d630">Software Engineer Intern (Zebra Technologies)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486973243/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -68,13 +82,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Clearwater Analytics</strong></td>
-<td><a href="https://trueinterview.io/jobs/65766bc1-b930-4363-bce7-022cd15340f7">Quant Developer Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459568468/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0e380b98-d3a0-4d2e-9b59-e4997aff720c">UX/UI/Technical Content Intern</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459585247/">Apply</a></td>
@@ -302,13 +309,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
 <td>Jersey City, NJ<br/>Chicago, IL<br/>Mountain View, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Two Sigma</strong></td>
-<td><a href="https://trueinterview.io/jobs/023e224d-028b-4a77-ab54-907d87f1fe6d">AI Research Scientist - Intern [2027 Summer]</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4438439116/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -688,20 +688,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York</td>
 <td align="center"><a href="https://seatgeek.com/jobs/8247554?gh_jid=8247554">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/9756c8c4-63fe-4f44-aa84-7ad9e20562fe">Software Engineer Intern, Mobile (Winter 2027)</a></td>
-<td>New York, NY<br/>New York, New York<br/>San Francisco, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Seatgeek</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc3069a-33ea-48fa-8c29-7bae48b6e061">Software Engineer - Internship</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://seatgeek.com/jobs/8227553?gh_jid=8227553">Apply</a></td>
-<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Coinbase</strong></td>

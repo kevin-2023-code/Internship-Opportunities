@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**36 open roles.** 28 in the United States & Canada · 8 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**35 open roles.** 27 in the United States & Canada · 8 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montreal, QC</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897/application">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/9756c8c4-63fe-4f44-aa84-7ad9e20562fe">Software Engineer Intern, Mobile (Winter 2027)</a></td>
-<td>San Francisco, California<br/>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>

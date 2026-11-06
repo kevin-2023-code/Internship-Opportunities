@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,218 open roles.** 1,010 in the United States & Canada · 208 elsewhere in the world.
+**1,217 open roles.** 1,010 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise | HPE</strong></td>
+<td><a href="https://trueinterview.io/jobs/011a0b9f-2abb-4b72-b274-b1a6c4d6fa8e">Software Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1214146EXTERNALENUS/Software-Engineering-Intern">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Itron</strong></td>
+<td><a href="https://trueinterview.io/jobs/0bf0b563-96f7-43dc-bb6f-6a8ce6050705">Intern - Systems Engineer (Spring 2027)</a></td>
+<td>West Union, SC</td>
+<td align="center"><a href="https://itron.wd5.myworkdayjobs.com/en-US/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra Nevada Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a69952e0-379a-473e-b0c9-1d2ac7a3c1e2">Firmware Engineering Intern</a></td>
+<td>Folsom, CA</td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tetra Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e25d9fd8-617d-4508-8bca-564bbde0b972">Transportation Engineer Intern</a></td>
+<td>Doral, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485283768/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Beckman Coulter Diagnostics</strong></td>
+<td><a href="https://trueinterview.io/jobs/38aa1b40-c3ba-450a-a254-e941bfcb661c">Intern - Application Integration Developer</a></td>
+<td>Brea, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483416245/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Base Power Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/223e7639-292c-4f00-8f92-19d3fda79b5d">Deployments Engineering Intern (Product Launch)</a></td>
@@ -195,20 +230,6 @@
 <td><a href="https://trueinterview.io/jobs/dd2aca16-b61b-49ad-a9da-b18b9fb8cc6d">The Cigna Group's Technology Development Program - Data &amp; Analytics Engineering Track Summer Internship</a></td>
 <td>Bloomfield, Connecticut, United States<br/>St. Louis, Missouri, United States<br/>Parsippany-Troy Hills, New Jersey, United States</td>
 <td align="center"><a href="https://jobs.thecignagroup.com/us/en/job/26009533/The-Cigna-Group-s-Technology-Development-Program-Data-Analytics-Engineering-Track-Summer-Internship">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zoox</strong></td>
-<td><a href="https://trueinterview.io/jobs/82f7d1aa-6367-4ec1-9ea3-14bc9ba7bc3e">Software Engineer Intern, Software Platforms &amp; Product [Summer 2027]</a></td>
-<td>Foster City, California, United States</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2de578ad-9c2c-4431-be10-ab59f9234981">Software Engineer Intern, Software Systems [Summer 2027]</a></td>
-<td>Foster City, California, United States</td>
-<td align="center"><a href="https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -692,13 +713,6 @@
 <td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7a243593-489b-4422-964d-ac343a3cc51a">Software Engineering Co-op</a></td>
-<td>Liberty, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484976336/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/b800a051-718e-4522-9ec5-927fb82f3026">Spring &amp; Summer 2027 Cybersecurity Engineer Co-op</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.careers.peraton.com/jobs/spring-summer-2027-cybersecurity-engineer-co-op-san-diego-california-172836-jobs--cms-engineering--">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Philips</strong></td>
-<td><a href="https://trueinterview.io/jobs/03014655-3e81-46ae-a4e5-87abb8674c89">Co-op -Embedded Test Engineer - Murrysville, PA-January-June 2027</a></td>
-<td>Murrysville, PA</td>
-<td align="center"><a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Protagonist</strong></td>
-<td><a href="https://trueinterview.io/jobs/67bf9a8f-8db5-401f-ade7-ff98445f0f2e">Software Engineering Intern</a></td>
-<td>Silver Spring, MD<br/>Arlington, VA</td>
-<td align="center"><a href="https://grnh.se/d4uvfeju4us">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

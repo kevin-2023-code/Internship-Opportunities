@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,218 open roles.** 1,010 in the United States & Canada · 208 elsewhere in the world.
+**1,217 open roles.** 1,010 in the United States & Canada · 207 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Philips</strong></td>
+<td><a href="https://trueinterview.io/jobs/03014655-3e81-46ae-a4e5-87abb8674c89">Co-op -Embedded Test Engineer - Murrysville, PA-January-June 2027</a></td>
+<td>Murrysville, PA</td>
+<td align="center"><a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Protagonist</strong></td>
+<td><a href="https://trueinterview.io/jobs/67bf9a8f-8db5-401f-ade7-ff98445f0f2e">Software Engineering Intern</a></td>
+<td>Silver Spring, MD<br/>Arlington, VA</td>
+<td align="center"><a href="https://grnh.se/d4uvfeju4us">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Rochester Regional Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/08fe7093-5558-43c8-a232-d1924d30c7d5">RIT Co-op: Security Engineering</a></td>
@@ -989,13 +1003,6 @@
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Notion</strong></td>
-<td><a href="https://trueinterview.io/jobs/9756c8c4-63fe-4f44-aa84-7ad9e20562fe">Software Engineer Intern, Mobile (Winter 2027)</a></td>
-<td>San Francisco, California<br/>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
 <td>Seattle, Washington, USA</td>
@@ -1007,13 +1014,6 @@
 <td><a href="https://trueinterview.io/jobs/2dbf5871-f396-433d-ab7d-3186527eec0f">Security Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Seatgeek</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc3069a-33ea-48fa-8c29-7bae48b6e061">Software Engineer - Internship</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://seatgeek.com/jobs/8227553?gh_jid=8227553">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -1810,13 +1810,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe">Developer Technology Engineering Intern - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458903339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d8aa090-c51f-4474-b86f-84a9f45443c9">2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</a></td>
-<td>Warsaw, Mazowieckie, Poland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468043959/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2826,6 +2819,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hawthorne, HQ1 - Hawthorne</td>
 <td align="center"><a href="https://www.1point3acres.com/jobs/01m4hk38vcby2tv79d5ndt34m2">Apply</a></td>
 <td align="center">10 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nabla</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ca692e7-2824-4d5b-ad6f-b1d034cd8702">Machine Learning Internship 2026</a></td>
+<td>Paris office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf/application">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 </tbody>
 </table>

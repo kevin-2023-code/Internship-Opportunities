@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**138 open roles.**
+**140 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tinder</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dbfadeb-3885-4d9b-aa7d-d9334bd53dea">Backend Engineer Intern</a></td>
+<td>Los Angeles, CA<br/>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486995499/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0206b00b-7347-4549-8bf7-00d149bfb341">iOS Engineer Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486984758/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hadrian</strong></td>
+<td><a href="https://trueinterview.io/jobs/aeec53c3-964e-4c3b-92c6-ef3eabd74f46">Software Engineer Intern</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460442880/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tinder</strong></td>
 <td><a href="https://trueinterview.io/jobs/26d806ab-708c-48aa-8977-baa3d11189fe">Android Engineer Intern</a></td>
@@ -162,13 +183,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc56f209-9f66-4786-a8a1-39baa2296b28">Intern - Embedded Software, System, and Test Engineer - 2026</a></td>
 <td>Irvine, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4375807812/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bc5a8e6-1b33-4d82-ba0d-6d856138f856">Engineering Intern - Software Test (Spring 2027 Co-Op)</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467811665/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

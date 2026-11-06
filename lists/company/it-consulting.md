@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**40 open roles.** 36 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**44 open roles.** 40 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,9 +19,44 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d0b56c5-ef59-4686-902c-8bfdf026559d">Back End Developer Intern - NY POK RK - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477322479/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0f6ffbc0-0522-4194-b4ee-56fe94ddfe73">Back End Developer Intern - NY POK BS - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477316764/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d34417e9-fc21-46dd-8a92-44bc97cad048">Back End Developer Intern - NY POK JO - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477331214/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c3013f1e-c52a-4f26-aaab-a72e17ee0805">Back End Developer Intern - NY POK CC - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477332169/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/966d2341-1439-4066-a321-59d8dc9d149d">Back-End Developer Intern 2027 -Houston, TX</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459552786/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/55f30f89-4a32-44ed-94e3-721db1a911b1">Back End Developer Intern - NY POK JS - 2027</a></td>
+<td>Poughkeepsie, AR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477332170/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -155,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c8fc1cf6-f1fc-4487-b146-42f0cb9bff09">Site Reliability Engineer Intern - OneIT - Rochester, MN</a></td>
 <td>Rochester, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466298969/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/816463fe-cd3d-45e9-804a-7f6d374ab545">SW Developer Intern: Systems Assurance - Austin, TX &amp; Rochester, MN - 2027</a></td>
-<td>Austin, TX<br/>Rochester, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458026525/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

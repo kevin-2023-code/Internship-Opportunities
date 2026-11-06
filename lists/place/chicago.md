@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**45 open roles.**
+**44 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,13 +142,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448582391/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CNH</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3c2f833-f69e-40bf-8b23-806185cd675b">Software Engineer Intern</a></td>
-<td>Oak Brook, IL<br/>Greater Sioux Falls Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467996664/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Archer</strong></td>

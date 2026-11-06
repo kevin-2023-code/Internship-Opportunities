@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**53 open roles.**
+**54 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Raft</strong></td>
+<td><a href="https://trueinterview.io/jobs/01406246-689e-4f15-b8de-4ebc76d8313e">Full Stack Engineering Intern - Summer 2027</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486925957/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fc88522a-21be-4c54-b897-3e71db64eb6d">AI/ML Intern - Summer 2027</a></td>
 <td>McLean, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486948062/">Apply</a></td>

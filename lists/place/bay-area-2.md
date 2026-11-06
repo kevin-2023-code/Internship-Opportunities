@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**431 open roles.**
+**426 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,41 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/f954ff71-428f-48ba-befa-248b05d5d022">SAP iXp Intern - AI Research PhD Associate</a></td>
-<td>Palo Alto, CA, US, 94304</td>
-<td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Research-PhD-Associate-CA-94304/1380808333/">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/6bd20267-6820-45a4-90d6-d14c29ff9a4e">Data Scientist, Product Intern, MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Ann Arbor, MI, USA</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ca00983-0d56-45f0-8ee1-9cca58c08327">Software Engineering Intern, BS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/41a34612-69d9-4ff9-b235-cabb3789d9e9">Software Engineering Intern, MS, Summer 2027</a></td>
-<td>Mountain View, CA<br/>Austin, TX</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/15445053-6c9a-46bc-b8b0-27ff4e49edae">IC Validation Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>Westlake Village, CA</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515-1">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/dd5f848a-1cdc-458f-a9b8-a7bae29fe06b">PhD Research Intern, Autonomous Systems and Physical AI Research - 2027</a></td>
