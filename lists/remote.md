@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
+**46 open roles.** 33 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -176,6 +176,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d1df299-ac06-4992-a0b9-e767ea283a13">Competitive Intelligence AI Engineering Intern - Summer 2027</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Datacor</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b0fa42f-20f5-4b0e-9d17-712b6373f9d9">Summer 2027 AI Engineer Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/datacor/jobs/5242412007">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>

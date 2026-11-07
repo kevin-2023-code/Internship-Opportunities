@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**45 open roles.** 8 in the United States & Canada · 37 elsewhere in the world.
+**46 open roles.** 8 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -301,6 +301,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bristol, UK<br/>Cambridge, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8879329002">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>parallel wireless</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f9fc40b-c766-4161-acf7-222af87c515e">PHY SW Engineer - 12 Month Internship (July 2027)</a></td>
+<td>Bristol</td>
+<td align="center"><a href="https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Capstone Investment Advisors</strong></td>

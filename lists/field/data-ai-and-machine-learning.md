@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**613 open roles.** 466 in the United States & Canada · 147 elsewhere in the world.
+**619 open roles.** 471 in the United States & Canada · 148 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -167,6 +167,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Genfare</strong></td>
+<td><a href="https://trueinterview.io/jobs/318bf626-706e-4cee-8372-7ff2aa4b73b6">Software Engineering Generative AI Intern</a></td>
+<td>Elk Grove Village, Illinois</td>
+<td align="center"><a href="https://career8.successfactors.com/career?career_ns=job_listing&amp;company=SPX&amp;rcm_site_locale=en_US&amp;career_job_req_id=74569">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Elucid</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cf5351d-45b6-4460-9b1c-2ed8e9063b8b">Machine Learning PhD Intern: Spring 2027</a></td>
 <td>Boston, MA</td>
@@ -283,6 +290,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/796a3a52-a669-461f-b982-ffc8be2e3ec7">Hardware Machine Learning PhD Research Internship</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469636248/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAS Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3dfdb47-61e7-4f55-a298-e56122a24942">Summer 2027 - Data Scientist Intern</a></td>
+<td>Cary HQ, NC, US</td>
+<td align="center"><a href="https://erp-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -1226,7 +1240,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a8a1750-297f-42e6-b020-978dc77731ec">Software Engineer Internship – AI Platform Team</a></td>
-<td>Des Moines, IA</td>
+<td>Des Moines, IA<br/>Des Moines, Iowa, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000159260808-software-engineer-internship-ai-platform-team">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/640aee41-ab6c-4488-8ea7-9c607952b5d0">Data Engineering Intern (January 2027)</a></td>
 <td>Boise, Idaho, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/clenera/jobs/5259423007">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan Chase</strong></td>
-<td><a href="https://trueinterview.io/jobs/57d36234-5bee-443a-b374-f6337fb4a78a">2027 Consumer &amp; Community Banking - Risk Modeling Associate Program - Summer Internship</a></td>
-<td>Wilmington, DE, United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796061">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/18149b8e-5d8e-4b18-95c6-cb49ca846639">Global Operations Supplier Process Engineer Co-Op</a></td>
-<td>TX, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298595">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

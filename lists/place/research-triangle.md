@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**49 open roles.**
+**50 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
 <td>Cary HQ, NC, US<br/>Cary, NC</td>
 <td align="center"><a href="https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAS Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3dfdb47-61e7-4f55-a298-e56122a24942">Summer 2027 - Data Scientist Intern</a></td>
+<td>Cary HQ, NC, US</td>
+<td align="center"><a href="https://erp-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -279,14 +286,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Dlr Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f4c430d-b9fd-4dd5-bd86-5f44b489aa34">Electrical Engineering Intern | Summer 2027</a></td>
-<td>Charlotte, North Carolina, United States<br/>Washington, DC<br/>Washington, D.C.<br/>+7 more</td>
+<td>Charlotte, North Carolina, United States<br/>Washington, DC<br/>Denver, Colorado, United States<br/>+13 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441882008">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6bed3471-041d-4764-b296-0336036f8d16">Structural Engineering Intern | Summer 2027</a></td>
-<td>Charlotte, North Carolina, United States<br/>Omaha, Nebraska, United States<br/>Dallas, Texas, United States<br/>+2 more</td>
+<td>Charlotte, North Carolina, United States<br/>Los Angeles, California, United States<br/>Denver, Colorado, United States<br/>+6 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dlrgroup/jobs/5441877008">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>

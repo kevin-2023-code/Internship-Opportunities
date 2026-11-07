@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**6 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Winnipeg, Canada<br/>Canada</td>
 <td align="center"><a href="https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op---Red-River-College_R-30142">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb2ec9cf-e663-4f87-89a5-839fb2eda6a4">Field Engineering Co-op</a></td>
+<td>Edmonton, Alberta, Canada<br/>Nanticoke, Ontario, Canada<br/>Fort McMurray, Alberta, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157394280-field-engineering-co-op">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Orennia</strong></td>

@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**123 open roles.** 115 in the United States & Canada · 8 elsewhere in the world.
+**124 open roles.** 116 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -99,6 +99,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b4303432-9367-4adb-b8d1-1305f27c8530">ASIC Verification Engineering Intern</a></td>
 <td>Roseville, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485260369/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/224e8a51-f9be-4365-8e0d-d6cb0f18dc0f">Silicon Photonics Packaging Engineer Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40848">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
