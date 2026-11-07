@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**82 open roles.** 65 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**83 open roles.** 66 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -296,6 +296,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States of America<br/>San Francisco, California, United States of America</td>
 <td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261">Apply</a></td>
 <td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rf Smart</strong></td>
+<td><a href="https://trueinterview.io/jobs/28427d60-8cb2-4a29-9477-880186596087">Service Delivery Intern (IT Helpdesk) - Summer 2027</a></td>
+<td>Jacksonville, Florida, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rfsmart/jobs/5425409008">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Atlassian</strong></td>

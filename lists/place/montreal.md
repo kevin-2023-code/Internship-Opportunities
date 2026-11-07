@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**17 open roles.** 16 in the United States & Canada · 1 elsewhere in the world.
+**19 open roles.** 18 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mistral</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f25862a-b95d-4031-b9f4-155bb12b0878">AI Scientist Intern - (Internship, Masters or Phd)</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>London, England, United Kingdom<br/>+3 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488452035/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Acumatica</strong></td>
 <td><a href="https://trueinterview.io/jobs/394d7a68-730e-4430-987f-380bd10238f2">Intern Developer/ Stagiaire développeur</a></td>
@@ -82,6 +89,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Behaviour Interactive</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3eedb0-1284-4623-b219-7a14264d1853">Product Graphic Designer - Internship Winter 2027 | Designer Graphique Produit – Stage Hiver 2027</a></td>
+<td>Montreal, QC</td>
+<td align="center"><a href="https://jobs.lever.co/bhvr/3b2070c4-972a-485b-a2ee-f7f6cff3c116">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6b4cfb49-abd2-4f13-a2d9-3b599d9c9c89">Technical Animator - 7 Days to Die - Internship Winter 2027 | Animateur·trice technique - 7 Days to Die - Stage Hiver 2027</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
 <td align="center"><a href="https://jobs.lever.co/bhvr/2ea4517a-0730-4f28-bcb0-7a643ad62d97">Apply</a></td>
