@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**47 open roles.** 43 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**48 open roles.** 44 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,6 +261,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Poughkeepsie, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456564384/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Trace3</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7a1012e-a96b-433c-909b-74ce7f2e423f">Solutions Architect Intern</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8328124">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Peraton</strong></td>

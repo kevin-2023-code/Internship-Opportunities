@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**54 open roles.**
+**55 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -254,6 +254,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mississauga, Ontario, Canada, Mississauga</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/clutch/jobs/6228333004">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kepler Communications Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a7008c6-6aba-4bb3-b034-22d707e97c18">Software Engineering Intern (January 2027)</a></td>
+<td>Toronto, Ontario</td>
+<td align="center"><a href="https://jobs.lever.co/kepler/5514238a-8301-49f1-8116-26d38ea0900c">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Solink</strong></td>

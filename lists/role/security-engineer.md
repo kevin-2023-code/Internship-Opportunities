@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**92 open roles.** 83 in the United States & Canada · 9 elsewhere in the world.
+**93 open roles.** 83 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -672,6 +672,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Drees &amp; Sommer Digital Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c59e65e-0882-4fb3-ac0c-d3333e43a09b">INTERNSHIP - Cybersecurity</a></td>
+<td>Málaga, Andalucía, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/DreesSommerSE/744000153103394-internship-cybersecurity">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

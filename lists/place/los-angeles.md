@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**185 open roles.**
+**186 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -981,6 +981,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/92eb7c7a-d5e6-4745-a463-efc581891b28">Additive Engineering Intern (Spring 2027)</a></td>
 <td>Los Angeles, CA (On-site)<br/>Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8013423003">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jetzero</strong></td>
+<td><a href="https://trueinterview.io/jobs/58d935f8-ec00-4b02-81c5-7b82026e38cd">2027 Engineering Summer Internship</a></td>
+<td>Long Beach, CA<br/>Greensboro, NC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/jetzero/jobs/5437110008">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
