@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,367 open roles.** 1,140 in the United States & Canada · 227 elsewhere in the world.
+**1,385 open roles.** 1,155 in the United States & Canada · 230 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Electronic Arts</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a57a759-0c1a-4f90-a6c5-866bd6b0a0a7">Quality Designer Co-op (Summer 2027)</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Quality-Designer-Co-op/216286">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Fusion Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4169451-0a8b-4104-96d4-b00b1f28ee98">Intern - R&amp;D Test Engineer - Spring or Summer 2027</a></td>
+<td>Devens, MA &amp; Somerville, MA</td>
+<td align="center"><a href="https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Johnson &amp; Johnson MedTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/c70bd738-6a0b-4731-8b1e-bd4b9ea3d094">Software Engineering Co-Op, Spring 2027</a></td>
@@ -1188,7 +1202,7 @@
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4f9f1a3-c0f5-40ed-ba98-a202558bcf6c">Embedded Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459085098/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1286,7 +1300,7 @@
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3090207-563f-4641-ad2e-88c7e6b540ce">Mobile Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459083109/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5219131007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2560,14 +2574,14 @@
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459075219/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5213881007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f">Backend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459086087/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210813007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2595,7 +2609,7 @@
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459077236/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/07c4da04-93f4-4e51-89cc-8d05d1907ee9">Software Engineering Internship - Enrollment and Credentialing Services</a></td>
 <td>Brentwood, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474961388/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Walmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d18f401-4991-4f43-8dab-7c2261a546c6">Summer 2027 Intern: Cybersecurity Undergrad</a></td>
-<td>Bentonville, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465527875/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/7cb80617-87a4-4448-ad76-5ba6d9ae9ff1">Engineering Internship - Fire Protection</a></td>
-<td>Dallas, TX<br/>Tulsa, OK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5428797008">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

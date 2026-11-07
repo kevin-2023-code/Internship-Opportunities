@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**31 open roles.** 20 in the United States & Canada · 11 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**36 open roles.** 20 in the United States & Canada · 16 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -205,6 +205,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/96377c3e-3b9d-45a2-b061-9cdddd4d08bb">2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8350719">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee25361f-34a1-4713-bc75-f1f765b65d18">FPGA Intern</a></td>
 <td>London, England, United Kingdom</td>
@@ -219,11 +226,39 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/74c11239-f77a-48a4-90e3-7f518a98aa68">2027 AI Forward Deployed Engineer Intern</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311595">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4810d2ba-909b-4896-b1b2-065e929f5ebc">2027 Index Rebalancing Quantitative Research Intern</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Capstone Investment Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/5bb7c498-b82c-4cda-8cc6-eb6968ae9b0f">Summer 2027 - Quant Internship</a></td>
 <td>London</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002">Apply</a></td>
 <td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/474a9701-e594-44bc-b495-b2a280668af2">2027 Quantitative Research Intern</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4d9238e-1ca2-4c6a-aa8b-102e71135f55">2027 Quantitative C++ Developer Intern</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Man Group</strong></td>

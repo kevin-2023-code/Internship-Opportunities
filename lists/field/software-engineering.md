@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,367 open roles.** 1,140 in the United States & Canada · 227 elsewhere in the world.
+**1,385 open roles.** 1,155 in the United States & Canada · 230 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8368cfa-c01a-4b19-a9fe-4763363ed6f8">Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487377768/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Varda Space Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/2416388a-21b6-4223-8144-5ccfec4623a4">Site Reliability Internship - Summer 2027</a></td>
@@ -416,6 +423,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/419cd4c4-706f-469c-81c0-cc3a241ed2b0">Software Engineering Co-op - Spring 2027</a></td>
 <td>King of Prussia, PA</td>
 <td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154411567">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Draper</strong></td>
+<td><a href="https://trueinterview.io/jobs/19ece388-b416-4c40-a6c7-379f05881326">GNC Systems Engineering Co-Op (Spring 2027)</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Co-Op--Spring-2027-_JR003131">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/549f9cf9-86ef-430b-87aa-cce0d54fb105">Software Engineer Co-Op - Spring/Summer 2027</a></td>
 <td>Pittsford, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468675612/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a57a759-0c1a-4f90-a6c5-866bd6b0a0a7">Quality Designer Co-op (Summer 2027)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Quality-Designer-Co-op/216286">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4169451-0a8b-4104-96d4-b00b1f28ee98">Intern - R&amp;D Test Engineer - Spring or Summer 2027</a></td>
-<td>Devens, MA &amp; Somerville, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**24 open roles.** 21 in the United States & Canada · 3 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**25 open roles.** 22 in the United States & Canada · 3 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -35,7 +35,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4f9f1a3-c0f5-40ed-ba98-a202558bcf6c">Embedded Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459085098/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -49,32 +49,39 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3090207-563f-4641-ad2e-88c7e6b540ce">Mobile Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459083109/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5219131007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459075219/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5213881007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f">Backend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459086087/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210813007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459077236/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>1password</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b9150fb-b71e-4e19-9cfe-b55b406d3f67">IT Intern, IT Support - Winter 2027</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1e43103f-d226-46d1-8db8-1edb6e3ddaad">Developer Intern, Extension Excellence - Winter 2027</a> 🌐</td>
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application">Apply</a></td>

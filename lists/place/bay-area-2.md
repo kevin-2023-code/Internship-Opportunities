@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**470 open roles.**
+**480 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,76 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/ace07a34-3f6d-4636-af89-755c656cd5a2">Production Engineering Intern</a></td>
+<td>Menlo Park, CA, United States<br/>Bellevue, WA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1609178343953401/">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7">Summer 2027 PhD AI Research Infrastructure,  RL Post-Training Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90950?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cbcad0d4-aa10-4648-926d-9a63a41dc67f">Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90910?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1">Summer 2027 PhD Technical Program Manager, AI Research Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91019?lang=en-us">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc3129d9-5982-459a-a93d-98d07da691f6">Digital IC Design Intern, BS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+2 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1">Digital IC Design Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+2 more</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fd9f286-1c7e-4b18-91e0-cad0ca68a1e7">PhD Research Intern, Learning Embodied Skills from Human Data - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633492">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2a88e3f-b9bb-4f23-8d35-a8a0dbb8f747">PhD Research Intern, Networking - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397623550">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rundoo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
+<td>Redwood City<br/>San Mateo, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1a5c276-0406-48c6-aef5-f933a55e2b1d">RTL Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Fable Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b">Software Engineering Intern</a></td>

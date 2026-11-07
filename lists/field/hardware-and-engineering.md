@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**706 open roles.** 651 in the United States & Canada · 55 elsewhere in the world.
+**710 open roles.** 655 in the United States & Canada · 55 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -38,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7e93c300-bbcd-4528-b673-6703ebb8a328">Spring 2027 - Semiconductor AI Specialist Intern</a></td>
 <td>Gresham, OR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477020123/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Coffman Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/c63bdc8d-0ccd-45b7-a4bc-224d0473bfee">Mechanical Engineering Intern</a></td>
+<td>Spokane, Washington, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000159944319-mechanical-engineering-intern">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -146,6 +153,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/63ea73a7-e608-40b4-aa2d-d507169158bd">Integration &amp; Test - Mechanical Engineering Intern [Winter 2027]</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4726631006">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Samsung Semiconductor</strong></td>
 <td><a href="https://trueinterview.io/jobs/d00b9225-1d9b-4b22-84e9-a8c82e31a7ce">Intern, AI Application Engineer</a></td>
 <td>Folsom, CA</td>
@@ -192,6 +206,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/beed7efc-bd5e-43d5-b6a2-4861f508843e">Chemical Engineering Student - Lake Utopia Paper - 8 Month Co-op - Winter 2027</a></td>
 <td>Utopia, NB, Canada</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13071">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Resideo</strong></td>
+<td><a href="https://trueinterview.io/jobs/65d422fc-5fcf-4aab-afd9-e8c215c2c11e">Mechanical Engineering Intern - Summer 2027</a></td>
+<td>Golden Valley, MN, United States</td>
+<td align="center"><a href="https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19815">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2449,6 +2470,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Eqt Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/17b5ed23-3a70-4e5a-8a79-33d7005c7767">Civil Engineering Services Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5450028008">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/483b87de-81f2-4681-aa4a-542d189e22bf">2027 Firmware Engineer Intern</a></td>
 <td>Costa Mesa, California, United States, Costa Mesa, CA</td>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72006414-4dff-47eb-8e4b-3230ecbb97b8">2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318629980">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b28b86b0-cb8e-46fc-87d8-b16441f34101">2027 Summer Intern - Process Engineer - PhD, (Santa Clara)</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790318630081">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/819d7eab-3f07-4a17-8f2d-ee140afb8600">ASIC Engineer Intern</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Engineer-Intern_1216555">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/eadb1e59-5086-4004-9162-2319e7f4c4a1">Quantum Application Engineering &amp; Business Development Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54643?lang=en-us">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b7d8472-681a-469d-abe8-64d3f1d35cb9">Mechanical Engineering Intern</a></td>
-<td>Ann Arbor, MI, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
 </tbody>

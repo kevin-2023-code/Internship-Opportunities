@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**25 open roles.**
+**26 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -123,6 +123,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Stuttgart, Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480978169/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>

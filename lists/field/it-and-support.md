@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**69 open roles.** 54 in the United States & Canada · 15 elsewhere in the world.
+**70 open roles.** 55 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -111,8 +111,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Extreme Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4668267-3701-4f56-be9a-8c4674055cc6">Intern - Lab/TAC Network Engineer</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482570484/">Apply</a></td>
+<td>Morrisville, NC<br/>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -156,6 +156,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>1password</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b9150fb-b71e-4e19-9cfe-b55b406d3f67">IT Intern, IT Support - Winter 2027</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>

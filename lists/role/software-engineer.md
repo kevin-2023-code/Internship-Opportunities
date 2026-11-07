@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**410 open roles.** 340 in the United States & Canada · 70 elsewhere in the world.
+**413 open roles.** 343 in the United States & Canada · 70 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8368cfa-c01a-4b19-a9fe-4763363ed6f8">Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487377768/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PriVii Care</strong></td>
 <td><a href="https://trueinterview.io/jobs/b14b8913-e3f5-434c-8899-8b11393f47b2">Software Engineer Intern / Fellowship (Frontend, Mobile &amp; Full-Stack)</a></td>
@@ -1763,17 +1770,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Epicgames</strong></td>
-<td><a href="https://trueinterview.io/jobs/85c843af-1e68-409a-8f94-e7008d0daaaf">Tools Programmer Intern (Graphics)</a></td>
-<td>Cary, North Carolina, United States, Cary</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Figure</strong></td>
 <td><a href="https://trueinterview.io/jobs/268f6f6e-fc78-472a-9a80-8683f5658af5">Developer Productivity Intern [Winter 2027]</a></td>
 <td>San Jose, CA, HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4724521006">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Epicgames</strong></td>
+<td><a href="https://trueinterview.io/jobs/85c843af-1e68-409a-8f94-e7008d0daaaf">Tools Programmer Intern (Graphics)</a></td>
+<td>Cary, North Carolina, United States, Cary</td>
+<td align="center"><a href="https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004">Apply</a></td>
 <td align="center">24 Oct 2026</td>
 </tr>
 <tr>
@@ -1831,6 +1838,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rhoda AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fabe698-f2e9-44fd-9d69-db8493ec8953">Software Engineer Intern, Rhoda Platform</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>LinkedIn</strong></td>
@@ -2809,27 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wikimedia/jobs/8268853">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Taktile</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8cff64d-c2d8-4f48-b524-fcac1cd29d0e">Software Engineer Internship for HPI Students</a></td>
-<td>Berlin Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nabla</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ca692e7-2824-4d5b-ad6f-b1d034cd8702">Machine Learning Internship 2026</a></td>
-<td>Paris office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf/application">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Taktile</strong></td>
-<td><a href="https://trueinterview.io/jobs/8985d0c2-6918-4dc6-9088-8494ca22219b">Software Engineer Intern</a></td>
-<td>Iasi Office<br/>Berlin Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1">Apply</a></td>
-<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

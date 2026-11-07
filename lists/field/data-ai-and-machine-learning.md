@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**623 open roles.** 476 in the United States & Canada · 147 elsewhere in the world.
+**628 open roles.** 479 in the United States & Canada · 149 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/dec759af-4615-47d8-bb3f-7d8978772a4b">Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487398294/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Parspec</strong></td>
+<td><a href="https://trueinterview.io/jobs/487541b2-8ea6-4381-84ea-2fb5cdf0d58f">Applied AI Engineer Intern</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488494256/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Mistral</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f25862a-b95d-4031-b9f4-155bb12b0878">AI Scientist Intern - (Internship, Masters or Phd)</a></td>
@@ -2596,7 +2610,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Drivewealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/12b8dea8-159f-4781-bef9-9fee84072c4a">AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027</a></td>
+<td>Office - Chicago<br/>Office - NYC</td>
+<td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/ffa2840a-81f9-495a-a647-291b4155bd74">Research Scientist Intern, AI-Driven Neural Interfaces (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1436615821934863/">Apply</a></td>
@@ -2797,27 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA<br/>New York, NY</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027">Apply</a></td>
 <td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d91f98f-5f8c-4a95-81a2-3b7bf53b6e7d">Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398025428">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/12eac050-b861-486c-a112-91644190167d">Data Scientist Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872482002?gh_jid=8872482002">Apply</a></td>
-<td align="center">8 Oct 2026</td>
 </tr>
 </tbody>
 </table>

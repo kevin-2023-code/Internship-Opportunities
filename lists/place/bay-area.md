@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**470 open roles.**
+**480 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee5cd08a-fcdd-412e-b9c6-b69462ed53ea">GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487601099/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dec759af-4615-47d8-bb3f-7d8978772a4b">Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487398294/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c8368cfa-c01a-4b19-a9fe-4763363ed6f8">Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487377768/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Parspec</strong></td>
+<td><a href="https://trueinterview.io/jobs/487541b2-8ea6-4381-84ea-2fb5cdf0d58f">Applied AI Engineer Intern</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488494256/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pinterest</strong></td>
+<td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
+<td>San Francisco, CA<br/>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Mistral</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f25862a-b95d-4031-b9f4-155bb12b0878">AI Scientist Intern - (Internship, Masters or Phd)</a></td>
@@ -580,6 +615,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/63ea73a7-e608-40b4-aa2d-d507169158bd">Integration &amp; Test - Mechanical Engineering Intern [Winter 2027]</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4726631006">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Astro Mechanica</strong></td>
 <td><a href="https://trueinterview.io/jobs/13f8f537-f34d-4541-a075-6c1cc6640d70">Software Engineering Intern</a></td>
 <td>San Francisco, CA</td>
@@ -961,7 +1003,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4f9f1a3-c0f5-40ed-ba98-a202558bcf6c">Embedded Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459085098/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -982,7 +1024,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3090207-563f-4641-ad2e-88c7e6b540ce">Mobile Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459083109/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5219131007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -1192,14 +1234,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459075219/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5213881007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f">Backend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459086087/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210813007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1213,7 +1255,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459077236/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1599,6 +1641,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2712c474-04d6-4d17-90dd-4503571f6774">Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR</a></td>
 <td>Burlingame, CA, United States<br/>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1075160338670575/">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rhoda AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fabe698-f2e9-44fd-9d69-db8493ec8953">Software Engineer Intern, Rhoda Platform</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
@@ -2183,6 +2239,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/e540c605-6543-4ac5-84fb-395a037d6d62">Deployment Engineering Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4721113006">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518">Forward Deployed Engineering Intern, BS/MS, Summer 2027</a></td>
 <td>Sunnyvale, CA<br/>New York, NY</td>
@@ -2477,6 +2540,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Profluent</strong></td>
+<td><a href="https://trueinterview.io/jobs/5763f214-c283-46a0-8e7b-36016892e79c">Intern, Software Engineering</a></td>
+<td>Emeryville, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/profluent/jobs/5441955008">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Muon Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed7d8822-0fcd-41eb-b597-99f0702f6cea">Electrical Engineering Intern (Summer 2027)</a></td>
 <td>San Jose, CA</td>
@@ -2748,76 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA, US, 94304</td>
 <td align="center"><a href="https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Technical-Program-Manager%2C-AI-&amp;amp;-Machine-Learning-CA-94304/1439806333/">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ace07a34-3f6d-4636-af89-755c656cd5a2">Production Engineering Intern</a></td>
-<td>Menlo Park, CA, United States<br/>Bellevue, WA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1609178343953401/">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f1a65b7-8454-4bfe-b300-455365c682e7">Summer 2027 PhD AI Research Infrastructure,  RL Post-Training Intern</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90950?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbcad0d4-aa10-4648-926d-9a63a41dc67f">Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/90910?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/95d03e98-b996-4d7e-b2f4-7d23b4b09db1">Summer 2027 PhD Technical Program Manager, AI Research Intern</a></td>
-<td>Santa Clara, California, United States</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91019?lang=en-us">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc3129d9-5982-459a-a93d-98d07da691f6">Digital IC Design Intern, BS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+2 more</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--BS---Summer-2027_2604827-1">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/65eda20d-d0a6-4849-9485-b94905d220f1">Digital IC Design Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America<br/>Austin, TX<br/>Irvine, CA<br/>+2 more</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fd9f286-1c7e-4b18-91e0-cad0ca68a1e7">PhD Research Intern, Learning Embodied Skills from Human Data - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633492">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f2a88e3f-b9bb-4f23-8d35-a8a0dbb8f747">PhD Research Intern, Networking - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397623550">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rundoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
-<td>Redwood City<br/>San Mateo, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Etched</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1a5c276-0406-48c6-aef5-f933a55e2b1d">RTL Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/etched/157ed4f4-6e3b-4ec9-b93f-3e363e92041e/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

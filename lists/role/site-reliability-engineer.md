@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**13 open roles.** 11 in the United States & Canada · 2 elsewhere in the world.
+**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,6 +106,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/850bd560-3115-450d-a9e1-efea1cfaf96e">Site Reliability Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467192775/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/9063dc10-6670-4b3e-8685-b011f982fead">Intern, Site Reliability Engineer, iCloud</a></td>

@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**57 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Coffman Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/c63bdc8d-0ccd-45b7-a4bc-224d0473bfee">Mechanical Engineering Intern</a></td>
+<td>Spokane, Washington, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000159944319-mechanical-engineering-intern">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>KEEN</strong></td>
 <td><a href="https://trueinterview.io/jobs/b994938b-957c-4392-b701-5e5da1f5d7a3">AI Product Management Intern</a></td>

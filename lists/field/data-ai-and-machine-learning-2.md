@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**623 open roles.** 476 in the United States & Canada · 147 elsewhere in the world.
+**628 open roles.** 479 in the United States & Canada · 149 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d91f98f-5f8c-4a95-81a2-3b7bf53b6e7d">Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398025428">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wing</strong></td>
+<td><a href="https://trueinterview.io/jobs/12eac050-b861-486c-a112-91644190167d">Data Scientist Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872482002?gh_jid=8872482002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Charles River Associates</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b40e231-7058-41c8-9529-c87fb0d35c2f">(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)</a></td>
@@ -1456,6 +1477,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/74c11239-f77a-48a4-90e3-7f518a98aa68">2027 AI Forward Deployed Engineer Intern</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311595">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Roche</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff495b7a-ad0e-45e8-b8bf-9f43d45cb09e">Internship - Software and Data Engineer (for 12 months in Rotkreuz)</a></td>
 <td>Zug, Switzerland</td>
@@ -1468,6 +1496,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/powerdigitalmarketing/jobs/5274510007">Apply</a></td>
 <td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Graphcore</strong></td>

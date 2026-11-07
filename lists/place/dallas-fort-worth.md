@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**75 open roles.**
+**76 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -471,6 +471,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arlington, TX</td>
 <td align="center"><a href="https://jobs.lever.co/espace/a9147805-46e7-4b43-bbea-738a1fa1c88c/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Vusion</strong></td>
+<td><a href="https://trueinterview.io/jobs/a84ba5c4-f6f1-4648-bd87-f07f7289645e">Engineering Intern</a></td>
+<td>Dallas, Texas, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VusionGroupSA/744000149935589-engineering-intern-">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>

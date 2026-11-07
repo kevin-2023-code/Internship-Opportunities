@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**37 open roles.** 28 in the United States & Canada · 9 elsewhere in the world.
+**38 open roles.** 28 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -287,6 +287,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Düsseldorf, North Rhine-Westphalia, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Statkraft1/744000155025589-intern-quantitative-portfolio-management-m-f-d-">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schonfeld Strategic Advisors</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4d9238e-1ca2-4c6a-aa8b-102e71135f55">2027 Quantitative C++ Developer Intern</a></td>
+<td>Hong Kong, Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
 </table>

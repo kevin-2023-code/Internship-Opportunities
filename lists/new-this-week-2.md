@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,028 open roles.** 854 in the United States & Canada · 174 elsewhere in the world. Everything the employers put up this week.
+**1,012 open roles.** 839 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Plusgrade</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdb447b1-720e-47b7-85d2-4c7a795fe3e2">UI/UX Design and Frontend Engineer Intern</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/UI-UX-Design-and-Frontend-Engineer-Intern_JR100231">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rippling</strong></td>
+<td><a href="https://trueinterview.io/jobs/be1cf73b-1c02-4455-902f-1a7e5da2f79c">Machine Learning Software Engineer Intern - Winter 2027</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4425105258/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trimble Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a6514f1-4dc4-4692-82de-fba586d5625e">AI Developer Intern</a></td>
+<td>Westminster, CO<br/>Dayton, OH</td>
+<td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>KEEN</strong></td>
+<td><a href="https://trueinterview.io/jobs/b994938b-957c-4392-b701-5e5da1f5d7a3">AI Product Management Intern</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486899986/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Seagate Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e20d534-e7ca-426f-a5df-ba4f8365e2f7">Summer Intern - Software Engineering</a></td>
+<td>Shakopee, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485039098/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Starkey Hearing</strong></td>
+<td><a href="https://trueinterview.io/jobs/643a3f74-724b-47f0-b078-f26ce5555425">Software Engineering Internship</a></td>
+<td>Eden Prairie, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487070484/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Arrowstreet Capital, Limited Partnership</strong></td>
 <td><a href="https://trueinterview.io/jobs/df1cf163-5492-4288-85ca-d59843884d3b">Software Engineer Intern, Summer 2027</a></td>
@@ -678,6 +720,13 @@
 <td><a href="https://trueinterview.io/jobs/02873853-e9da-490b-b647-c11b1a005c02">Machine Learning Engineering Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485773285/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Figure</strong></td>
+<td><a href="https://trueinterview.io/jobs/63ea73a7-e608-40b4-aa2d-d507169158bd">Integration &amp; Test - Mechanical Engineering Intern [Winter 2027]</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4726631006">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1427,6 +1476,13 @@
 <td><a href="https://trueinterview.io/jobs/a721cbf3-8231-4925-842d-da2e79d830d4">2027 Summer Internship: Sales Administration Data Analyst - Greenhouse Gas</a></td>
 <td>Denton, Texas, United States</td>
 <td align="center"><a href="https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Resideo</strong></td>
+<td><a href="https://trueinterview.io/jobs/65d422fc-5fcf-4aab-afd9-e8c215c2c11e">Mechanical Engineering Intern - Summer 2027</a></td>
+<td>Golden Valley, MN, United States</td>
+<td align="center"><a href="https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19815">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2757,62 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/48485b0a-8c64-4d03-ae68-089e41be1e56">Electrical Engineering Intern (Summer 2027)</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477465844/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aptiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec71649f-3d38-4e8e-8d82-ab079a0d17a2">Engineering Intern</a></td>
-<td>Walnut Creek, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477655267/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Collins Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1763f73d-ad97-4a47-9365-625f08ea234c">Systems Engineering Coop - Spring/Summer- Onsite</a></td>
-<td>Jamestown, ND</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468875956/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aptiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/222c69ec-d644-4fed-bdc5-9f17a1112cea">Embedded Software - Engineering Intern</a></td>
-<td>Walnut Creek, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477661182/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NXP Semiconductors</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfc668b3-8696-4b98-af81-f70bdf9133ca">2027 Intern - Field Quality Engineer Intern</a></td>
-<td>Shanghai, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450217109/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorganChase</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8402ace-6964-4645-a371-afb806ab5336">2027 Quantitative Research - Markets - Summer Internship - Analyst - United States</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449434828/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Badger Meter</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5a0c674-2058-47fb-b1a2-f760180fc10e">Software Engineering Intern</a></td>
-<td>Escondido, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477408823/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Langan Engineering &amp; Environmental Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/96069313-894f-45b4-94d9-8bd8780d12b2">Intern/Co-op – Site/Civil Engineer (Spring 2027)</a></td>
-<td>Cleveland, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477193512/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zurn Elkay Water Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/525188c2-eca3-475e-a498-df2c0713dc39">Product Management Intern (Summer 2027)</a></td>
-<td>Paso Robles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467599788/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Pinterest</strong></td>
 <td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>

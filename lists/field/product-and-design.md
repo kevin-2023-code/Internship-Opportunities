@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**213 open roles.** 158 in the United States & Canada · 55 elsewhere in the world.
+**214 open roles.** 159 in the United States & Canada · 55 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,9 +18,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee5cd08a-fcdd-412e-b9c6-b69462ed53ea">GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487601099/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pinterest</strong></td>
 <td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>

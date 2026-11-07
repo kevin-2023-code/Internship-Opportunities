@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**134 open roles.**
+**135 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/00ddc021-2345-489b-8e5e-7da222e9488c">Co-op - Software Engineer</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470984232/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Draper</strong></td>
+<td><a href="https://trueinterview.io/jobs/19ece388-b416-4c40-a6c7-379f05881326">GNC Systems Engineering Co-Op (Spring 2027)</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Co-Op--Spring-2027-_JR003131">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

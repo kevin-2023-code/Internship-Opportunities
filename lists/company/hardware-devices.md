@@ -118,8 +118,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Extreme Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4668267-3701-4f56-be9a-8c4674055cc6">Intern - Lab/TAC Network Engineer</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482570484/">Apply</a></td>
+<td>Morrisville, NC<br/>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**123 open roles.**
+**125 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pinterest</strong></td>
+<td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
+<td>New York, NY<br/>Seattle, WA<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3cf7acc-aa71-47a0-a46c-2eb4aa237d99">Software Engineering Intern, iOS (Summer 2027)</a></td>
@@ -569,6 +576,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, San Francisco</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849/application">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Drivewealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/12b8dea8-159f-4781-bef9-9fee84072c4a">AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027</a></td>
+<td>Office - NYC<br/>Office - Chicago</td>
+<td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

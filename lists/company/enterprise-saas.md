@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**84 open roles.** 68 in the United States & Canada · 16 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**85 open roles.** 68 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -598,6 +598,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3a77ea1-673d-4f5b-9483-d05a83d4490f">Intern Applied AI Solution Consulting (Italy)</a></td>
 <td>Milan, Italy</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003">Apply</a></td>

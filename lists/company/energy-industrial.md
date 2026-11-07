@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**21 open roles.** 20 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**28 open roles.** 27 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -74,6 +74,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Eqt Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/67ea51fe-8696-4d2a-919a-7172bc9e0454">Compression Engineer Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5451105008">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/17b5ed23-3a70-4e5a-8a79-33d7005c7767">Civil Engineering Services Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5450028008">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Panasonic</strong></td>
 <td><a href="https://trueinterview.io/jobs/82ff4817-fa9e-406c-9e80-3a945823cefa">Controls Engineering Intern</a></td>
 <td>Sparks, Nevada, United States</td>
@@ -95,6 +109,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Eqt Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe6c2921-364a-47fc-b29f-f5227a1767f3">Water Infrastructure Engineering Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/674331a6-c0b1-430d-8a04-30cbcf7a411e">Production Engineering Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d78ea098-b7ea-4905-917f-34bc98eeb290">Production Facility Engineering Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5425078008">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Altalink</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e57cdd3-80e9-430b-a124-a20d8610da31">Co-Op Students (Operations and Projects)</a></td>
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
@@ -107,6 +142,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Rochester, NY<br/>Re:Build Optimation Technology</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eqt Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/536cb1d7-6d64-4eb9-a80f-d6061a985eea">Data Engineering Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5422414008">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3bb1d4d6-35d0-47a1-93ab-0e322fb7ee4a">Midstream Facilities Engineer Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5420621008">Apply</a></td>
+<td align="center">15 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Enviva</strong></td>

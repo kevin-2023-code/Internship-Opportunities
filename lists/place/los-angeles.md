@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**164 open roles.**
+**165 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -520,6 +520,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA, United States, Irvine</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8306880">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Parallel Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/544ad2e1-49d2-4748-8ebe-8b22f2d37c90">Hardware Engineering Intern (Mechanical &amp; Electrical)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>

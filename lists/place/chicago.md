@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**50 open roles.**
+**51 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -289,6 +289,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Office - Chicago<br/>Office - NYC, Office - NYC</td>
 <td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/12b8dea8-159f-4781-bef9-9fee84072c4a">AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027</a></td>
+<td>Office - Chicago<br/>Office - NYC</td>
+<td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Point72</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**143 open roles.** 127 in the United States & Canada · 16 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**145 open roles.** 128 in the United States & Canada · 17 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Pinterest</strong></td>
 <td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>Seattle, WA</td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
@@ -210,14 +210,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4f9f1a3-c0f5-40ed-ba98-a202558bcf6c">Embedded Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459085098/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f3090207-563f-4641-ad2e-88c7e6b540ce">Mobile Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459083109/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5219131007">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -258,22 +258,22 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Extreme Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4668267-3701-4f56-be9a-8c4674055cc6">Intern - Lab/TAC Network Engineer</a></td>
-<td>Morrisville, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482570484/">Apply</a></td>
+<td>Morrisville, NC<br/>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.lever.co/extremenetworks/c3017f47-8150-44ae-8522-71fd28657e25">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459075219/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5213881007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f">Backend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459086087/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210813007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Verkada</strong></td>
 <td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459077236/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -324,6 +324,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>1password</strong></td>
+<td><a href="https://trueinterview.io/jobs/1b9150fb-b71e-4e19-9cfe-b55b406d3f67">IT Intern, IT Support - Winter 2027</a> 🌐</td>
+<td>Remote — United States, Canada</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>MongoDB</strong></td>
@@ -948,6 +955,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3a77ea1-673d-4f5b-9483-d05a83d4490f">Intern Applied AI Solution Consulting (Italy)</a></td>
 <td>Milan, Italy</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003">Apply</a></td>
