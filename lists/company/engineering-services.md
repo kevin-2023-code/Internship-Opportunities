@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**36 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**38 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,7 +32,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/597223d6-741f-48d5-8c46-737d7319c73b">Geotechnical Engineering Intern - Winter/Spring 2027</a></td>
+<td>Las Cruces, NM, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98280">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/2fca5636-6aeb-49dd-b0ab-aa97edb13c0b">Engineering Internship - Rail Public Projects</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5458376008">Apply</a></td>
@@ -47,6 +54,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c57733d-eacd-40e7-b8e4-f27fcb8ca7e3">Civil Engineering Co-op - Spring 2027</a></td>
+<td>Boston, MA<br/>Worcester, MA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97831">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/009bbed3-476e-455a-833e-d5189592aa4e">Intern, Process Engineering</a></td>
 <td>Vancouver, BC, Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95690">Apply</a></td>
