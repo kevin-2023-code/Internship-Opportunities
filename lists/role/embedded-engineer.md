@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**49 open roles.** 41 in the United States & Canada · 8 elsewhere in the world.
+**50 open roles.** 42 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -74,13 +74,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Badger Meter</strong></td>
-<td><a href="https://trueinterview.io/jobs/6784ee1c-a5da-4e17-a22f-b35b662bd435">Firmware Test Engineer Intern</a></td>
-<td>Milwaukee, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487575424/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Etched</strong></td>
 <td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
 <td>San Jose, CA</td>
@@ -141,6 +134,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
 <td>Richmond, British Columbia, Canada<br/>Richmond, Canada</td>
 <td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CNH Industrial</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a">Firmware Software Intern</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://join.cnh.com/job/Firmware-Software-Intern/5623-en_US">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -295,6 +295,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/14eec42f-6630-489a-83a8-553de6b27aa1">Firmware Engineering Intern</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States<br/>US - Austin</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8841894002">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keenfinity</strong></td>
+<td><a href="https://trueinterview.io/jobs/698c73fd-4184-4d48-925d-cb3490f45cb3">Embedded Firmware Engineer Co-Op</a></td>
+<td>Fairport, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151397189-embedded-firmware-engineer-co-op">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>

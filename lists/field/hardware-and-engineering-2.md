@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**720 open roles.** 663 in the United States & Canada · 57 elsewhere in the world.
+**720 open roles.** 661 in the United States & Canada · 59 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -118,13 +118,6 @@
 <td><a href="https://trueinterview.io/jobs/96179d9c-63d5-4b9a-a3bb-37cd1969f8e5">Spring 2027:  Electrical Engineering Co-op, Shark (January to June)</a></td>
 <td>Needham, MA, United States<br/>MA - Needham</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Asm</strong></td>
-<td><a href="https://trueinterview.io/jobs/727089aa-cb1c-46aa-a668-22049f94d6ed">[2027 Summer Internship] Phoenix</a></td>
-<td>US &gt; Arizona &gt; Phoenix</td>
-<td align="center"><a href="https://www.asm.com/open-vacancies/?gh_jid=5001135101">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
@@ -1269,13 +1262,6 @@
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/91dd23f2-18fb-4b3c-aa0e-42fdc70127fe">Electrical Engineering Intern</a></td>
-<td>BUFFALO, NY, United States</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28158">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Contoro Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/74a7fb43-a3d7-4b61-a99f-64914ae41318">Robotics Engineer Intern - Test &amp; Validation</a></td>
 <td>Austin, TX</td>
@@ -2009,6 +1995,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bc214d0-aceb-4d3c-94ef-a2ba88e3087d">GHD Summer Internship Program 2026/27 - TAURANGA, New Zealand - Structural Engineering Intern</a></td>
+<td>TAURANGA, BAY OF PLENTY, New Zealand</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29294">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bb12426-8d55-4d00-a014-e1677210fb34">ASIC Engineering Intern, Networking Chip Design - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
@@ -2266,6 +2259,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Alameda HQ</td>
 <td align="center"><a href="https://jobs.lever.co/pyka/2702593a-7482-4d2b-93f3-ef97e2cf7df7/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7089ab65-c76a-4b55-a39f-3e98362a05e6">Electrical Engineering Internship - Winter/Spring 2027 (Early Interest)</a></td>
+<td>Alameda HQ</td>
+<td align="center"><a href="https://jobs.lever.co/pyka/d4f88bcd-8891-4192-91fc-23643a3d8c1c">Apply</a></td>
+<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

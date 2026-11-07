@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**34 open roles.** 27 in the United States & Canada · 7 elsewhere in the world.
+**35 open roles.** 28 in the United States & Canada · 7 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -198,6 +198,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872468002?gh_jid=8872468002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keenfinity</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc9df6cc-3890-4fee-8ff6-80d9a1c7b390">Software Test Automation Co-Op</a></td>
+<td>Fairport, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151395769-software-test-automation-co-op">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>

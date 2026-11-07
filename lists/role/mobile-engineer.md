@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world.
+**15 open roles.** 13 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,6 +50,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26d806ab-708c-48aa-8977-baa3d11189fe">Android Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487300422/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Match Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f70d937-2617-480c-8c75-d0cdd8e2b4a4">Android Engineer Intern</a></td>
+<td>Los Angeles, California</td>
+<td align="center"><a href="https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ea45da10-c5a5-4515-bfbc-561ccdb8ee9a">iOS Engineer Intern</a></td>
+<td>Los Angeles, California<br/>Palo Alto, California</td>
+<td align="center"><a href="https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -112,6 +126,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Miami-Fort Lauderdale Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485283188/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zynga</strong></td>
+<td><a href="https://trueinterview.io/jobs/6510e6db-02cc-4119-b692-4db2ca58d4bc">Mobile Developer Intern (C++)</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6212933004">Apply</a></td>
+<td align="center">1 Oct 2026</td>
 </tr>
 </tbody>
 </table>

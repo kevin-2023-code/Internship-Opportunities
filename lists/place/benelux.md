@@ -58,13 +58,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Tesla</strong></td>
-<td><a href="https://trueinterview.io/jobs/dc860679-9cfe-40d8-ab44-a3b81df704fd">Data Analyst Internship, Vehicle Operations – EMEA Business Analytics</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487587168/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>BlockTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233">Software Engineer | Internship | Summer '27</a></td>
 <td>Amsterdam, North Holland, Netherlands<br/>Singapore</td>
@@ -147,6 +140,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Amsterdam, Netherlands</td>
 <td align="center"><a href="https://grnh.se/lvm7bbh2teu">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keenfinity</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5a2b375-2c3b-4210-be21-2c69ffb794a9">Software Engineering Intern – Device Simulation &amp; Digital Twin (February 2027)</a></td>
+<td>Eindhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000153766721-software-engineering-intern-device-simulation-digital-twin-february-2027-">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 </tbody>
 </table>

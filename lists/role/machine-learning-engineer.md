@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**152 open roles.** 121 in the United States & Canada · 31 elsewhere in the world.
+**152 open roles.** 122 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -83,7 +83,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>ASM</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
-<td>Greater Phoenix Area<br/>Phoenix, AZ</td>
+<td>Greater Phoenix Area<br/>Phoenix, AZ<br/>US &gt; Arizona &gt; Phoenix</td>
 <td align="center"><a href="https://www.asm.com/open-vacancies/intern-product-intelligence-engineering-aiml-5029228101?gh_jid=5029228101">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
@@ -141,6 +141,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/da98f26d-043f-42f4-9613-d7d821da487c">AI/ML Engineering Co-op - Spring 2027</a></td>
 <td>King of Prussia, PA</td>
 <td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154411568">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Match Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/357333a7-ffc8-4b4e-acf4-d81835213ed7">Machine Learning Engineer Intern</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -877,13 +884,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/54c8d3eb-26ef-4d08-98e8-7337c0d09d6f">2027 Shanghai Machine Learning Engineer Summer Internship</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450134756/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec7728a3-0d2a-4a8b-8eb5-49d99bcc3817">2027 Summer Intern, PhD, Machine Learning, Simulation Realism</a></td>
 <td>London, England, United Kingdom</td>
@@ -928,7 +928,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Enterpret</strong></td>
 <td><a href="https://trueinterview.io/jobs/03b656ea-8f22-46e7-bd62-63992417c322">Machine Learning Intern</a></td>
-<td>India</td>
+<td>Bengaluru<br/>India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/enterpret/jobs/7723230003">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>

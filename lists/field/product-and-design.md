@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**216 open roles.** 161 in the United States & Canada · 55 elsewhere in the world.
+**217 open roles.** 161 in the United States & Canada · 56 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1477,6 +1477,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Den Bosch, Netherlands</td>
 <td align="center"><a href="https://puma.wd502.myworkdayjobs.com/en-US/Work_at_stichd/job/stichd-HQ-s-Hertogenbosch-the-Netherlands/Intern-Product-Management_R43927-1">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zynga</strong></td>
+<td><a href="https://trueinterview.io/jobs/b56c4037-ae47-4be1-aab3-380ec343ff3c">Product Manager Intern</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6221172004">Apply</a></td>
+<td align="center">9 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Landor</strong></td>

@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**51 open roles.**
+**52 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,6 +85,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70f429f7-a128-4dc9-b7fa-5ccc14ecc955">Firmware Software Intern</a></td>
 <td>Oak Brook, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487041894/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CNH Industrial</strong></td>
+<td><a href="https://trueinterview.io/jobs/ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a">Firmware Software Intern</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://join.cnh.com/job/Firmware-Software-Intern/5623-en_US">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
