@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**216 open roles.** 161 in the United States & Canada · 55 elsewhere in the world.
+**217 open roles.** 161 in the United States & Canada · 56 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,6 +44,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfe87efc-356f-480c-8ae3-b450342fed2a">Program Manager, Infrastructure Operations Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8">Apply</a></td>
+<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Skydio</strong></td>
@@ -489,7 +496,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/c840678b-8921-4803-a345-11ad05895818">Product Manager Intern (2027) - Austin, TX</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>In-Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -554,13 +561,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1c2cb89-c40d-40d0-8d65-3e72b9d524c5">Product Management Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483750218/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/08308356-3125-4c6f-9d20-8f5326286cfc">Industrial Design Engineering Intern, 3D Surfacing - Summer 2027</a></td>
-<td>Towson, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718250/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1318,6 +1318,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/40420dfc-b4a6-410c-b7d8-c883c0826f3b">Product Manager Intern (2027) - London, UK</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/50328762-27dc-407b-9211-7b8cb523ba81">Product Manager Intern (2027) - Lisbon, PT</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sensirion</strong></td>
 <td><a href="https://trueinterview.io/jobs/dba0b693-77e8-4681-b87c-49bc5dc984e3">Intern Product Management • 80-100%</a></td>
 <td>Stäfa, Zurich, Switzerland</td>
@@ -1357,13 +1371,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f4a297cc-b3af-459c-9114-6cc31748fb12">UX Engineer - Internship(EN)</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481212598/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rakuten Viki</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f048243-f541-4ea4-8182-5e93212545dc">Intern, UX (Content Design)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431660136/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,484 open roles.** 1,221 in the United States & Canada · 263 elsewhere in the world.
+**1,483 open roles.** 1,221 in the United States & Canada · 262 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>The Campbell's Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc77f98-06ff-45dc-92ac-b620003f8012">Packaging Engineer Co-Op</a></td>
-<td>Camden, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466564453/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Whitman, Requardt and Associates, LLP</strong></td>
 <td><a href="https://trueinterview.io/jobs/f9bd87ad-8170-4403-a5c5-0c74eba12b02">Protective Design Engineer - Intern</a></td>
@@ -1374,20 +1367,6 @@
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Eqt Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/67ea51fe-8696-4d2a-919a-7172bc9e0454">Compression Engineer Intern</a></td>
-<td>Canonsburg, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5451105008">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SK hynix memory solutions America Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/5716dad2-e081-485c-986d-0b35779b359a">Quality Assurance Test Engineer Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Pebl</strong></td>
 <td><a href="https://trueinterview.io/jobs/04ff52c4-a9c6-458a-89b9-14ef8724b5ca">Software Engineering, Intern</a></td>
 <td>Toronto, Ontario</td>
@@ -2011,6 +1990,20 @@
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Enova</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766">Software Engineer Internship Summer 2027 (Hybrid)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8239619">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Coffman Engineers</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7dcb230-719f-4d25-8c61-40bb4c5f7200">Fire Protection Engineering Intern</a></td>
+<td>Fulton, Maryland, United States<br/>Raleigh, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000152406562-fire-protection-engineering-intern-">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/49e7aa29-5c25-425d-9664-27cd0ab23e38">EDA AI/ML Software Intern</a></td>
 <td>Calabasas, California, United States</td>
@@ -2219,6 +2212,13 @@
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>
 <td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qumulo</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f751e01-6a20-4f5b-8619-33fc015b8894">Software Development Engineer (Seattle) - Internship 2027</a></td>
+<td>Seattle (hybrid)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>G2</strong></td>
@@ -2627,6 +2627,13 @@
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Tkda</strong></td>
+<td><a href="https://trueinterview.io/jobs/62863c9a-d397-4a8e-a827-58f48045ff3d">2027 Summer Intern - Water/Wastewater Engineering</a></td>
+<td>Bloomington, Minnesota</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/68d6edf0-1fd4-461b-b5fa-f279bd7eb73f">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/6ca00983-0d56-45f0-8ee1-9cca58c08327">Software Engineering Intern, BS, Summer 2027</a></td>
 <td>Mountain View, CA<br/>Austin, TX</td>
@@ -2807,13 +2814,6 @@
 <td>Indianapolis, IN, United States</td>
 <td align="center"><a href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Apex</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5d6e0e3-b4ac-46ff-87ea-70b668e15567">Avionics Test Engineering Internship (Spring 2027)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

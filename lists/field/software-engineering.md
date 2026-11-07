@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,484 open roles.** 1,221 in the United States & Canada · 263 elsewhere in the world.
+**1,483 open roles.** 1,221 in the United States & Canada · 262 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -458,6 +458,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5">Intern - Firmware Engineer, Undergraduate</a></td>
 <td>Eden Prairie, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470975470/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d159745-99f5-4d12-9bc1-cbca58fefece">Actuation Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1eec51d3-41c8-445f-817a-65c732a573a2">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485139309/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tevora</strong></td>
-<td><a href="https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387">Cybersecurity Internship Summer 2027 - Threat</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

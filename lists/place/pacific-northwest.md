@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**58 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -211,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a82d8557-f7a9-427b-967d-3950499b3af7">Process Integration &amp; Yield Engineering PhD Intern</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/66f8fa1c-9da1-47ae-8ed3-a5d89f08c8a6">Process Integration and Yield Eng PhD Intern, 2027</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Eng-PhD-Intern--2027_JR0288068">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>

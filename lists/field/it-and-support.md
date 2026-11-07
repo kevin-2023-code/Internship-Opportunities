@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**72 open roles.** 57 in the United States & Canada · 15 elsewhere in the world.
+**73 open roles.** 57 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -429,6 +429,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/3579caf9-276c-405d-bf30-8f166cbbf5ce">AIP Intern - IT Support Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Huntington Ingalls Industries, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/58df61ed-64e6-48fb-91ba-d459ef706c82">Systems Administrator (Skillbridge Intern 1) - 31053</a></td>
 <td>MD - Columbia - Grantchester Way</td>
@@ -499,6 +506,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>QuantumDiamonds</strong></td>
+<td><a href="https://trueinterview.io/jobs/997c05ae-3d79-423e-8f48-72e29ad93575">IT Specialist Intern (f/m/d)</a></td>
+<td>Munich HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantumdiamonds/19e0203c-363c-49b9-8ca7-9fe7f8ce23a7">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a></td>
 <td>ES, Huesca<br/>ES, Zaragoza</td>
@@ -525,13 +539,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Indianapolis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177/application">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Datadog</strong></td>
-<td><a href="https://trueinterview.io/jobs/31d4a9ab-24d3-41f0-b787-ab470cf54e1f">IT Support Technician Intern</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

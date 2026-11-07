@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**424 open roles.** 346 in the United States & Canada · 78 elsewhere in the world.
+**423 open roles.** 347 in the United States & Canada · 76 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2113,6 +2113,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Enova</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766">Software Engineer Internship Summer 2027 (Hybrid)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8239619">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ac8caa1-c1f5-4fff-af6d-67b4d6fc7208">Software Engineer Internship – Marketing and Digital Team</a></td>
 <td>Des Moines, Iowa, United States</td>
@@ -2160,6 +2167,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Rosa, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>
 <td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qumulo</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f751e01-6a20-4f5b-8619-33fc015b8894">Software Development Engineer (Seattle) - Internship 2027</a></td>
+<td>Seattle (hybrid)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183">Apply</a></td>
+<td align="center">21 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Singlestore</strong></td>
@@ -2421,13 +2435,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Semgrep</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0eea68f-7103-4aec-8025-e70e6668ecaf">Software Engineer Intern, Cloud Platform</a></td>
-<td>San Francisco Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OnePay</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1d47b9c-c2b2-49c2-b497-4b5316ed3c8d">Software Engineer, Intern</a> 🌐</td>
 <td>Remote — United States</td>
@@ -2457,7 +2464,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/575c38aa-519a-419b-a8f9-bbcee50f3417">Intern - Software Automation Engineer</a></td>
 <td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487379400/">Apply</a></td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2823,13 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Barcelona, Spain</td>
 <td align="center"><a href="https://wallbox.bamboohr.com/careers/293?postedDate=2026-10-27">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sardine</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
-<td>North America</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
 </tr>
 </tbody>
 </table>

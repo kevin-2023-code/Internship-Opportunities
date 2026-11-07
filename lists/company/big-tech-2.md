@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**581 open roles.** 475 in the United States & Canada · 106 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**571 open roles.** 467 in the United States & Canada · 104 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,63 +16,7 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US<br/>+1 more</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/37a8fa74-c2b0-4689-ae17-4ee7438a1d12">Security (Product, Systems, Cyber) Engineering Internship - Summer 2027</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740636">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0982926c-1b41-49e8-b2a8-63051fc38acc">Wireless Systems Engineering Internship - Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>NJ, US<br/>+1 more</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740637">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ded744d-101c-41cd-9844-9add22fd0839">Software Development Engineer Internship - Summer -2027 (USA)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5781389-dfd5-4db6-8ef7-fe38c7bfdf6e">Mechanical Engineer Intern</a></td>
-<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54325?lang=en-us">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/10af23ea-a626-424e-81d5-5332afcc71e9">Semiconductor Process Development Engineering Intern</a></td>
-<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54323?lang=en-us">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850">Intern – Process Engineer ID1</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44139024">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/e714abaa-bdc0-42ca-9108-a03676b11f28">PhD Research Intern, Architecture – 2027</a></td>
-<td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
-<td align="center">17 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9b9e3518-edab-4624-8ed6-1db1ac1e8c73">PhD Research Intern, Generalist Embodied Agents Research - 2027</a></td>
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397562560">Apply</a></td>
@@ -556,7 +500,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/575c38aa-519a-419b-a8f9-bbcee50f3417">Intern - Software Automation Engineer</a></td>
 <td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487379400/">Apply</a></td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -1156,20 +1100,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
-<td>Timisoara Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544252/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d5bc47f0-60b3-42f2-97b1-56174ef5e447">Internship – Full-Stack Developer for SAP Build Process Automation F/M</a></td>
-<td>Levallois-Perret, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474445858/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/497015ba-bd55-4704-b9f3-ac49c7b61189">SAP iXP Intern - Cloud DevOps &amp; Automation Engineering</a></td>
 <td>Sofia, Sofia City, Bulgaria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475147793/">Apply</a></td>

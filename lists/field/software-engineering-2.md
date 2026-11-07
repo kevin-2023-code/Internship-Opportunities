@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,484 open roles.** 1,221 in the United States & Canada · 263 elsewhere in the world.
+**1,483 open roles.** 1,221 in the United States & Canada · 262 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Tevora</strong></td>
+<td><a href="https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387">Cybersecurity Internship Summer 2027 - Threat</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2f820346-f8a9-43b1-9cdd-088480d3c247">Cybersecurity Internship Summer 2027 - Solutions</a></td>
 <td>Irvine, CA<br/>Fairfax, VA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d">Apply</a></td>
@@ -2151,21 +2158,7 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/102eb930-7936-4ddf-a20e-10897a5e85b1">Cyber Security Engineer Intern</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467288333/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/45063ba1-f9e7-44f5-aba1-043a76d70243">IT Quality Assurance Intern - Spring 2027</a></td>
-<td>Lisle, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458520964/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e8c3d0d9-62a8-4a5c-827e-4326866bdc80">Cybersecurity Intern - Summer 2027</a></td>
 <td>Fort Wayne, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476509041/">Apply</a></td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Campbell's Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cc77f98-06ff-45dc-92ac-b620003f8012">Packaging Engineer Co-Op</a></td>
+<td>Camden, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466564453/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

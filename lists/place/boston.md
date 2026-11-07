@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**139 open roles.**
+**138 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -785,13 +785,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9db72285-bb0a-4eab-b6c9-fb58b82e3197">Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>Boston, MA<br/>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>

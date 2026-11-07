@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**131 open roles.**
+**130 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -674,13 +674,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA, NYC, San Francisco<br/>New York, NY, NYC, San Francisco</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>New York, NY<br/>Boston, MA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>

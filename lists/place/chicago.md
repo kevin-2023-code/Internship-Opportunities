@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**52 open roles.**
+**53 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,6 +338,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Deerfield, ILLINOIS, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000152963619-product-manager-intern">Apply</a></td>
 <td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enova</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766">Software Engineer Internship Summer 2027 (Hybrid)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8239619">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Gelber Group</strong></td>

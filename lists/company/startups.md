@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**23 open roles.** 20 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -148,13 +148,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8ca173ec-9f62-456b-86e1-8a5f1448d813">Forward Deployed Engineer, Intern</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Semgrep</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0eea68f-7103-4aec-8025-e70e6668ecaf">Software Engineer Intern, Cloud Platform</a></td>
-<td>San Francisco Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

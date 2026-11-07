@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**648 open roles.** 491 in the United States & Canada · 157 elsewhere in the world.
+**646 open roles.** 488 in the United States & Canada · 158 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,20 +21,6 @@
 <td>San Jose, California, US, United States of America<br/>Chicago, Illinois, United States of America<br/>Santa Monica, California, United States of America<br/>+1 more</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1758435721926913/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>Boston, MA<br/>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Gallup</strong></td>
@@ -643,13 +629,6 @@
 <td><a href="https://trueinterview.io/jobs/eadec26f-4864-483c-895b-a9f88a327770">Data Engineering Intern - AI &amp; Analytics (January - August 2027)</a></td>
 <td>Palo Alto, California<br/>Irvine, California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wake Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b0ccab6-3fca-44e6-8230-f028c2fdb4e0">AI Engineering Intern (Remote)</a></td>
-<td>Fort Washington, Pennsylvania, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/M3USA/744000148244649-ai-engineering-intern-remote-">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
@@ -1470,13 +1449,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
-<td>Timisoara Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544252/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>MAHLE</strong></td>
 <td><a href="https://trueinterview.io/jobs/cc58235c-8bf9-4b45-a49a-df24f6e4471a">Internship Machine Learning for Energy-Efficient Vehicle Control and Thermal Management (m/f/d)</a></td>
 <td>Stuttgart, Baden-Württemberg, Germany</td>
@@ -1582,6 +1554,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>NielsenIQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/67c6252e-3afa-44d2-a11e-05c4c2c46540">Data Operation Analyst Intern (Mandarin Speaker)</a></td>
+<td>KL Eco City Bangsar, 14, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000157965649-data-operation-analyst-intern-mandarin-speaker-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Roche</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff495b7a-ad0e-45e8-b8bf-9f43d45cb09e">Internship - Software and Data Engineer (for 12 months in Rotkreuz)</a></td>
 <td>Zug, Switzerland</td>
@@ -1643,6 +1622,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10581054/applied-scientist-intern?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/70878ea7-dcaf-47ec-adcc-aee56e0325b7">Software Engineer Intern AI/ML - Warsaw (2027)</a></td>
+<td>PL-Warsaw-Lixa C</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>

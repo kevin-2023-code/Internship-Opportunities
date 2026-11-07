@@ -258,7 +258,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/c840678b-8921-4803-a345-11ad05895818">Product Manager Intern (2027) - Austin, TX</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>In-Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>

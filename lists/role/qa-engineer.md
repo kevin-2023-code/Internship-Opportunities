@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**37 open roles.** 28 in the United States & Canada · 9 elsewhere in the world.
+**36 open roles.** 26 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,13 +137,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/45063ba1-f9e7-44f5-aba1-043a76d70243">IT Quality Assurance Intern - Spring 2027</a></td>
-<td>Lisle, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458520964/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Dassault Systèmes</strong></td>
 <td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
 <td>Waltham, MA</td>
@@ -184,13 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://careers-gdms.icims.com/jobs/75729/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SK hynix memory solutions America Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/5716dad2-e081-485c-986d-0b35779b359a">Quality Assurance Test Engineer Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Wing</strong></td>
@@ -266,6 +252,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kyiv, Ukraine</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b3d19ab-94d0-4f15-b724-6cf4e0041704">AIP Intern - Software Quality Assurance Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948-aip-intern-software-quality-assurance-track">Apply</a></td>
+<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Toshiba Global Commerce Solutions - External</strong></td>

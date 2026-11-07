@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**156 open roles.** 125 in the United States & Canada · 31 elsewhere in the world.
+**155 open roles.** 123 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -760,20 +760,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1758435721926913/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>Boston, MA<br/>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Wing</strong></td>
 <td><a href="https://trueinterview.io/jobs/39546a61-97c7-40ed-92bd-6b49f6b311be">Machine Learning Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
@@ -1092,6 +1078,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Seoul, Korea</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/moloco/jobs/8044892003">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/70878ea7-dcaf-47ec-adcc-aee56e0325b7">Software Engineer Intern AI/ML - Warsaw (2027)</a></td>
+<td>PL-Warsaw-Lixa C</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>

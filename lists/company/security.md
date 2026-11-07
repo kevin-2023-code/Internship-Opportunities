@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**27 open roles.** 23 in the United States & Canada · 4 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**26 open roles.** 22 in the United States & Canada · 4 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -169,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de2b2752-49c6-46c9-8ba8-56b9e702d9fb">Technical Support Engineering Intern - Summer 2027</a></td>
 <td>San Mateo, CA United States<br/>Bay-HQ office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5233011007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Semgrep</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0eea68f-7103-4aec-8025-e70e6668ecaf">Software Engineer Intern, Cloud Platform</a></td>
-<td>San Francisco Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

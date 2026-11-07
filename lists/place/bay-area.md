@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**502 open roles.**
+**493 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,6 +150,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6bce5ea5-8198-4344-99e2-8978df882db7">Software Design Engineer Intern</a></td>
 <td>San Francisco, CA<br/>Seattle, WA<br/>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486285909/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfe87efc-356f-480c-8ae3-b450342fed2a">Program Manager, Infrastructure Operations Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -706,10 +713,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/a603a2a4-9f45-4f96-af06-afb2687fc7d1">Hardware Engineer Intern, Vehicle Systems [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Intuitive Surgical</strong></td>
 <td><a href="https://trueinterview.io/jobs/1f0223de-1203-4f34-8bd5-2cce9271c9b0">AI/ML Engineer Intern</a></td>
 <td>Sunnyvale, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159218439-ai-ml-engineer-intern">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/98721d5b-63e9-41a2-b991-b19e9f08a734">Hardware Engineer Intern, Vehicle Development [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bb979d41-b4d1-4683-9bf3-e90d3a6121f5">Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -1235,27 +1263,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7241db6a-a1ac-4032-8668-283ce58b60d9">Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA)</a></td>
 <td>Mountain View, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000158394370-software-engineer-intern-first-play-summer-2027-mountain-view-ca-">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/102eb930-7936-4ddf-a20e-10897a5e85b1">Cyber Security Engineer Intern</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467288333/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f440fb8-e3f9-47e0-94de-490680d607c8">Robotics Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484730130/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Joby Aviation</strong></td>
-<td><a href="https://trueinterview.io/jobs/211ed246-7144-4231-af5a-6847cbf17aac">Powertrain Mechanical Engineer, Battery (Intern Summer 2027)</a></td>
-<td>San Carlos, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720408/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2155,69 +2162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4">Research Scientist Intern, Wireless Research (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2374839409720164/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1758435721926913/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
-<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>Sunnyvale, CA<br/>Boston, MA<br/>New York, NY</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SK hynix memory solutions America Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/5716dad2-e081-485c-986d-0b35779b359a">Quality Assurance Test Engineer Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Gallup</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89">Data Engineering Intern — Summer 2027</a></td>
 <td>San Francisco, CA</td>
@@ -2818,6 +2762,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, California, United States<br/>San Diego, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54611?lang=en-us">Apply</a></td>
 <td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/1716f5a5-0a0b-4e5a-929b-bfe6a218e5fd">Mechatronics Engineering Internship</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5a3cc313-1c40-40db-878d-82b4d984d088">Mechatronics/Systems Engineering Internship</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e7e7827e-c9d1-440b-a640-75774ad1263f">Optical Engineer Intern</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Marvell Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5687feab-b7c5-4ffc-ae77-20439f62e1bb">AMS Validation Intern, BS - Summer 2027</a></td>
+<td>Santa Clara, CA, United States of America</td>
+<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/95dbfbaf-1c8c-4403-954e-27be9e2fed84">PhD Research Intern, AI Accelerator Design and VLSI - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397892835">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Pebl</strong></td>
+<td><a href="https://trueinterview.io/jobs/416402d6-7136-48b2-a386-4724a6a1b956">Associate Product Manager Intern</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8">Applications Engineering  Intern</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1">Apply</a></td>
+<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

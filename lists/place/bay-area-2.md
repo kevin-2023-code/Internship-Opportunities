@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**502 open roles.**
+**493 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,62 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/1716f5a5-0a0b-4e5a-929b-bfe6a218e5fd">Mechatronics Engineering Internship</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5a3cc313-1c40-40db-878d-82b4d984d088">Mechatronics/Systems Engineering Internship</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e7e7827e-c9d1-440b-a640-75774ad1263f">Optical Engineer Intern</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5687feab-b7c5-4ffc-ae77-20439f62e1bb">AMS Validation Intern, BS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AMS-Validation-Intern_2603863-1">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/95dbfbaf-1c8c-4403-954e-27be9e2fed84">PhD Research Intern, AI Accelerator Design and VLSI - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397892835">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pebl</strong></td>
-<td><a href="https://trueinterview.io/jobs/416402d6-7136-48b2-a386-4724a6a1b956">Associate Product Manager Intern</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8">Applications Engineering  Intern</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Envoy</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bae841d-6ce3-4e54-92ed-ca5964db3e9f">Solutions Engineering Intern</a></td>
@@ -713,13 +657,6 @@
 <td><a href="https://trueinterview.io/jobs/7c599368-ff88-4ee7-afad-188e4991b760">Electromechanical Design Engineering Intern (January - August 2027)</a></td>
 <td>Palo Alto, California<br/>Irvine, California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/be70e02f-46d3-488e-b3c2-8dadc3bb34b8">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Semgrep</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0eea68f-7103-4aec-8025-e70e6668ecaf">Software Engineer Intern, Cloud Platform</a></td>
-<td>San Francisco Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**981 open roles.** 809 in the United States & Canada · 172 elsewhere in the world. Everything the employers put up this week.
+**987 open roles.** 814 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -318,6 +318,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76c89d7f-ac4a-4e6d-a66d-4b89a5f974dc">Firmware Engineer Co-op</a></td>
 <td>Indianapolis, IN</td>
 <td align="center"><a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1321509EXTERNALENGLOBAL/Firmware-Engineer-Co-op">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfe87efc-356f-480c-8ae3-b450342fed2a">Program Manager, Infrastructure Operations Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -871,6 +878,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26ae9e81-08ee-4ea0-8d5c-169a072aeccc">Research Scientist Intern - Video Generation</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486972902/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d159745-99f5-4d12-9bc1-cbca58fefece">Actuation Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1eec51d3-41c8-445f-817a-65c732a573a2">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
 <td>Vancouver, BC<br/>Halifax, Nova Scotia, Canada<br/>Vancouver, British Columbia, Canada<br/>+1 more</td>
 <td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise | HPE</strong></td>
-<td><a href="https://trueinterview.io/jobs/35dd5def-20a7-4292-881b-f967032f814e">Systems/Software Testing Engineer Cloud &amp; On-Premise Intern</a></td>
-<td>San Juan, PR</td>
-<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1218105EXTERNALENUS/Systems-Software-Testing-Engineer-Cloud-On-Premise-Intern">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Plus3 IT Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/93d8df4e-c971-4842-96f9-7b7ecc2c5b60">Cloud Engineer Intern</a></td>
-<td>Reston, VA</td>
-<td align="center"><a href="https://p3it.bamboohr.com/careers/37?postedDate=2026-11-04">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,484 open roles.** 1,221 in the United States & Canada · 263 elsewhere in the world.
+**1,483 open roles.** 1,221 in the United States & Canada · 262 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apex</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5d6e0e3-b4ac-46ff-87ea-70b668e15567">Avionics Test Engineering Internship (Spring 2027)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/307dd7dd-f774-403a-86c1-ed19152042ad">Flight Software Intern Summer 2027</a></td>
@@ -135,13 +142,6 @@
 <td align="center">8 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Semgrep</strong></td>
-<td><a href="https://trueinterview.io/jobs/c0eea68f-7103-4aec-8025-e70e6668ecaf">Software Engineer Intern, Cloud Platform</a></td>
-<td>San Francisco Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>OnePay</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1d47b9c-c2b2-49c2-b497-4b5316ed3c8d">Software Engineer, Intern</a> 🌐</td>
 <td>Remote — United States</td>
@@ -185,7 +185,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/575c38aa-519a-419b-a8f9-bbcee50f3417">Intern - Software Automation Engineer</a></td>
 <td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487379400/">Apply</a></td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -1302,13 +1302,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5bc47f0-60b3-42f2-97b1-56174ef5e447">Internship – Full-Stack Developer for SAP Build Process Automation F/M</a></td>
-<td>Levallois-Perret, Île-de-France, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474445858/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>MediaTek</strong></td>
 <td><a href="https://trueinterview.io/jobs/44c55c19-95a3-4d38-a258-d7e41bced654">[2027 Internship] Custom IC Layout Engineer Intern</a></td>
 <td>Singapore</td>
@@ -1533,6 +1526,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>QuantumDiamonds</strong></td>
+<td><a href="https://trueinterview.io/jobs/e46f48c6-56eb-4e39-a4ad-dcaf1f4d105d">Research Software Engineering Intern (f/m/d)</a></td>
+<td>Munich HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantumdiamonds/a83adc60-6c2e-4aff-9acf-c16fd150f35a">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hiya</strong></td>
 <td><a href="https://trueinterview.io/jobs/a79668f8-1118-4774-b794-da13db98e28a">Engineering Intern (London, Summer 2027)</a></td>
 <td>London, UK</td>
@@ -1586,6 +1586,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e6becd6b-d7ac-41b7-b80c-85a49e76b7df">ESG Digitalization Intern – Software &amp; Data Engineering</a></td>
 <td>Zürich, Zurich, Switzerland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000157078341-esg-digitalization-intern-software-data-engineering">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b3d19ab-94d0-4f15-b724-6cf4e0041704">AIP Intern - Software Quality Assurance Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948-aip-intern-software-quality-assurance-track">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/448b778b-3e42-4214-8da3-5a17198387e8">AIP Intern - Cybersecurity Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938-aip-intern-cybersecurity-track">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
@@ -1684,20 +1698,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098">Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Taktile</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8cff64d-c2d8-4f48-b524-fcac1cd29d0e">Software Engineer Internship for HPI Students</a></td>
-<td>Berlin Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zynga</strong></td>
-<td><a href="https://trueinterview.io/jobs/c05259f8-7b49-4c6d-839b-09f0d0f867fc">Software Engineer Intern - Two Dots</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
@@ -2006,13 +2006,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/261a54d4-bad1-445a-9aa2-51cfcb7faa1b">Software Engineering Intern</a></td>
 <td>Paris, France<br/>Madrid, Spain</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Qube Research &amp; Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/528ba7f4-a13e-4d1c-aeeb-2e8681e746e2">2027 – Graduate or Internship, Infrastructure Engineer</a></td>
-<td>London, Paris</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

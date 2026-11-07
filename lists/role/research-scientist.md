@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**79 open roles.** 68 in the United States & Canada · 11 elsewhere in the world.
+**78 open roles.** 67 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -390,13 +390,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4">Research Scientist Intern, Wireless Research (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2374839409720164/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/76ca107c-1e69-4dbe-8e23-4383250770db">Research Scientist Intern, Robotics Hardware (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2105411693413958/">Apply</a></td>

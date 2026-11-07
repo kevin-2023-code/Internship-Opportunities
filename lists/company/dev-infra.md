@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**25 open roles.** 17 in the United States & Canada · 8 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/c840678b-8921-4803-a345-11ad05895818">Product Manager Intern (2027) - Austin, TX</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>In-Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -163,6 +163,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/40420dfc-b4a6-410c-b7d8-c883c0826f3b">Product Manager Intern (2027) - London, UK</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/50328762-27dc-407b-9211-7b8cb523ba81">Product Manager Intern (2027) - Lisbon, PT</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Redgate</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7c298a4-cbd1-4c79-bf3d-0764cde53096">Software Engineer Intern</a></td>
 <td>Cambridge</td>
@@ -171,6 +185,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/70878ea7-dcaf-47ec-adcc-aee56e0325b7">Software Engineer Intern AI/ML - Warsaw (2027)</a></td>
+<td>PL-Warsaw-Lixa C</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e86d1c1b-4d94-4e37-9399-c0bdb08dd96d">Software Engineer Intern - Berlin (2027)</a></td>
 <td>DE-Berlin-Trion Building</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8">Apply</a></td>
@@ -181,13 +202,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/261a54d4-bad1-445a-9aa2-51cfcb7faa1b">Software Engineering Intern</a></td>
 <td>Paris, France<br/>Madrid, Spain</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/31d4a9ab-24d3-41f0-b787-ab470cf54e1f">IT Support Technician Intern</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

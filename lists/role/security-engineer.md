@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**93 open roles.** 83 in the United States & Canada · 10 elsewhere in the world.
+**93 open roles.** 82 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -333,13 +333,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/102eb930-7936-4ddf-a20e-10897a5e85b1">Cyber Security Engineer Intern</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467288333/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8c3d0d9-62a8-4a5c-827e-4326866bdc80">Cybersecurity Intern - Summer 2027</a></td>
 <td>Fort Wayne, IN</td>
@@ -644,6 +637,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Buchs (SG), St Gallen, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470135230/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/448b778b-3e42-4214-8da3-5a17198387e8">AIP Intern - Cybersecurity Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938-aip-intern-cybersecurity-track">Apply</a></td>
+<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Makipeople</strong></td>

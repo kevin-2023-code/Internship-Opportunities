@@ -146,6 +146,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/15aabaf7-b6c9-4e64-bee3-82b40033632c">Mechanical Engineering Co-Op</a></td>
+<td>North Kingstown, RI<br/>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>GlobalFoundries</strong></td>
 <td><a href="https://trueinterview.io/jobs/de44ae50-01da-4fcd-a5c9-88c35b9fb8a8">Device Engineering Intern, Silicon Photonics (Summer 2027)</a></td>
 <td>Malta, NY</td>
@@ -157,13 +164,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a27c632-abf7-4b5c-8198-4938dd6765fd">Co-Op: Electrical Engineering</a></td>
 <td>Hebron, KY</td>
 <td align="center"><a href="https://career.fivesgroup.com/career?company=fives&amp;career_ns=job_listing&amp;career_job_req_id=6504&amp;lang=en_US">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>REGENT Craft, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/15aabaf7-b6c9-4e64-bee3-82b40033632c">Mechanical Engineering Co-Op</a></td>
-<td>North Kingstown, RI</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -186,6 +186,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Folsom, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485785816/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/a603a2a4-9f45-4f96-af06-afb2687fc7d1">Hardware Engineer Intern, Vehicle Systems [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/98721d5b-63e9-41a2-b991-b19e9f08a734">Hardware Engineer Intern, Vehicle Development [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bb979d41-b4d1-4683-9bf3-e90d3a6121f5">Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Re:build Manufacturing</strong></td>
@@ -1371,20 +1392,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intuitive</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f440fb8-e3f9-47e0-94de-490680d607c8">Robotics Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484730130/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Joby Aviation</strong></td>
-<td><a href="https://trueinterview.io/jobs/211ed246-7144-4231-af5a-6847cbf17aac">Powertrain Mechanical Engineer, Battery (Intern Summer 2027)</a></td>
-<td>San Carlos, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720408/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Blue Ventis</strong></td>
 <td><a href="https://trueinterview.io/jobs/f3cbe47d-7fbc-4cde-b272-7a2dcac482fc">Mechanical Engineering Intern</a></td>
 <td>Louisville, KY</td>
@@ -2449,6 +2456,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Tkda</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e3f1bc8-96b4-4246-b45a-12ff78775e9b">2027 Summer Intern - Civil Engineering, Transportation (Rail)</a></td>
+<td>Riverside, California</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/19f3a4e2-cf97-4527-8acd-0e0a6e2bceb3">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Xona Space Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/8915acb4-9e9a-41fc-b69b-690b326fdf11">Mechanical Engineering Co-op</a></td>
 <td>Burlingame, California</td>
@@ -2540,55 +2554,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4">Research Scientist Intern, Wireless Research (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2374839409720164/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
-<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Eqt Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/17b5ed23-3a70-4e5a-8a79-33d7005c7767">Civil Engineering Services Intern</a></td>
-<td>Canonsburg, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5450028008">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/483b87de-81f2-4681-aa4a-542d189e22bf">2027 Firmware Engineer Intern</a></td>
 <td>Costa Mesa, California, United States, Costa Mesa, CA</td>
@@ -2607,13 +2572,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a82d8557-f7a9-427b-967d-3950499b3af7">Process Integration &amp; Yield Engineering PhD Intern</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/66f8fa1c-9da1-47ae-8ed3-a5d89f08c8a6">Process Integration and Yield Eng PhD Intern, 2027</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Eng-PhD-Intern--2027_JR0288068">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2775,48 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9475feaa-e5b3-418d-990e-8c542b771bd2">Thermal/Mechanical Engineering Intern</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Thermal-Mechanical-Engineering-Intern_1213398">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/767a2a06-bf69-4c79-858a-bee824f16520">VLSI Design Verification Intern</a></td>
+<td>Ft. Collins, Colorado, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Intern_1213399">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ee82d091-5cd5-4b2d-99d8-17735c74cce7">VLSI Logic Design Intern</a></td>
+<td>Chippewa Falls, Wisconsin, United States of America<br/>Ft. Collins, Colorado, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Logic-Design-Intern_1213411">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a612b3f-7b6b-436a-8802-2f6f23fdd619">Internship – R&amp;D Product Engineer</a></td>
+<td>Leominster, MA, US</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971972671">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2ee1ecb-8197-45ae-8b11-162f3eb4ed43">Process Integration Development Engineer PhD Intern New 2027</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/97d7259a-075f-49c3-9010-76f4b0863679">R&amp;D Engineer 1, Hardware Intern</a></td>
+<td>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54648?lang=en-us">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/84c1d86a-5f02-4e23-baed-d69f47151ea3">Service Tech Intern</a></td>
+<td>Roseville, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54715?lang=en-us">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 </tbody>

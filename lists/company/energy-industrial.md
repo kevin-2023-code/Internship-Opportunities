@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**29 open roles.** 28 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**27 open roles.** 26 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,20 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484718247/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Eqt Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/67ea51fe-8696-4d2a-919a-7172bc9e0454">Compression Engineer Intern</a></td>
-<td>Canonsburg, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5451105008">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/17b5ed23-3a70-4e5a-8a79-33d7005c7767">Civil Engineering Services Intern</a></td>
-<td>Canonsburg, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5450028008">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Panasonic</strong></td>

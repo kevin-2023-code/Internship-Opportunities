@@ -60,6 +60,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/a603a2a4-9f45-4f96-af06-afb2687fc7d1">Hardware Engineer Intern, Vehicle Systems [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/98721d5b-63e9-41a2-b991-b19e9f08a734">Hardware Engineer Intern, Vehicle Development [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bb979d41-b4d1-4683-9bf3-e90d3a6121f5">Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Annapurna Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/03ea040b-e789-48d0-b284-aade3c7d48c9">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
 <td>Cupertino, CA</td>
@@ -247,27 +268,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
-<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Wing</strong></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**981 open roles.** 809 in the United States & Canada · 172 elsewhere in the world. Everything the employers put up this week.
+**987 open roles.** 814 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mercury Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467599758/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Fusion Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/b82995ff-fcc7-4554-94bc-5b6a950df30a">Intern - Structural Engineer - Summer 2027</a></td>
+<td>Devens, MA</td>
+<td align="center"><a href="https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Base Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f56921b-500d-41c5-8eb6-5966702f61d6">Manufacturing Test Engineering Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apex Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cad52c39-3334-4ba2-94c5-ffb3a0866cd8">Transportation Engineering Co-op (Spring 2027)</a></td>
+<td>Quincy, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts (EA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/7345330a-22a4-4c97-bc09-0d817df969af">Quality Designer Co-op (Summer 2027)</a></td>
+<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483463947/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec">SAP iXp Intern - Agile Developer, Business Data Cloud</a></td>
@@ -108,7 +143,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/575c38aa-519a-419b-a8f9-bbcee50f3417">Intern - Software Automation Engineer</a></td>
 <td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487379400/">Apply</a></td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -151,6 +186,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a5af0777-cf18-4ee0-99df-ad5eeef168b6">Game Designer Intern</a></td>
 <td>China - Shanghai</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/3579caf9-276c-405d-bf30-8f166cbbf5ce">AIP Intern - IT Support Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

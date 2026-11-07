@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**109 open roles.** 95 in the United States & Canada · 14 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**102 open roles.** 88 in the United States & Canada · 14 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -443,55 +443,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1147882961149284/">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4">Research Scientist Intern, Wireless Research (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2374839409720164/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1758435721926913/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
-<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>

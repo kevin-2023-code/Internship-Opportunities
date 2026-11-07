@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**581 open roles.** 475 in the United States & Canada · 106 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**571 open roles.** 467 in the United States & Canada · 104 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1350,55 +1350,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4">Research Scientist Intern, Wireless Research (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2374839409720164/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1758435721926913/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
-<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc5d4349-8080-4fa0-8834-16f24c199566">Module Engineer PhD Intern New 2027</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
@@ -1410,13 +1361,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a82d8557-f7a9-427b-967d-3950499b3af7">Process Integration &amp; Yield Engineering PhD Intern</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration---Yield-Engineering-PhD-Intern_JR0288086">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/66f8fa1c-9da1-47ae-8ed3-a5d89f08c8a6">Process Integration and Yield Eng PhD Intern, 2027</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Eng-PhD-Intern--2027_JR0288068">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
@@ -2818,6 +2762,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740540">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US<br/>+1 more</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/37a8fa74-c2b0-4689-ae17-4ee7438a1d12">Security (Product, Systems, Cyber) Engineering Internship - Summer 2027</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740636">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0982926c-1b41-49e8-b2a8-63051fc38acc">Wireless Systems Engineering Internship - Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Boxborough, MA, US<br/>NJ, US<br/>+1 more</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740637">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ded744d-101c-41cd-9844-9add22fd0839">Software Development Engineer Internship - Summer -2027 (USA)</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5781389-dfd5-4db6-8ef7-fe38c7bfdf6e">Mechanical Engineer Intern</a></td>
+<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54325?lang=en-us">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/10af23ea-a626-424e-81d5-5332afcc71e9">Semiconductor Process Development Engineering Intern</a></td>
+<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54323?lang=en-us">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/add7cb69-e8ed-4340-af4c-a1b11ed6e850">Intern – Process Engineer ID1</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44139024">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e714abaa-bdc0-42ca-9108-a03676b11f28">PhD Research Intern, Architecture – 2027</a></td>
+<td>Seattle, WA<br/>Santa Clara, CA, US<br/>Westford, MA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633491">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

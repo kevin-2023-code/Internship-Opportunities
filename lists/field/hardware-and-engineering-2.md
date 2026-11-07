@@ -16,48 +16,6 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/767a2a06-bf69-4c79-858a-bee824f16520">VLSI Design Verification Intern</a></td>
-<td>Ft. Collins, Colorado, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Intern_1213399">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee82d091-5cd5-4b2d-99d8-17735c74cce7">VLSI Logic Design Intern</a></td>
-<td>Chippewa Falls, Wisconsin, United States of America<br/>Ft. Collins, Colorado, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/VLSI-Logic-Design-Intern_1213411">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a612b3f-7b6b-436a-8802-2f6f23fdd619">Internship – R&amp;D Product Engineer</a></td>
-<td>Leominster, MA, US</td>
-<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971972671">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/f2ee1ecb-8197-45ae-8b11-162f3eb4ed43">Process Integration Development Engineer PhD Intern New 2027</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-Development-Engineer-PhD-Intern-New-2027_JR0287977">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/97d7259a-075f-49c3-9010-76f4b0863679">R&amp;D Engineer 1, Hardware Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54648?lang=en-us">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/84c1d86a-5f02-4e23-baed-d69f47151ea3">Service Tech Intern</a></td>
-<td>Roseville, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54715?lang=en-us">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Micron Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f2cb4ab-4ee3-4ccb-83db-0f67a676d848">Intern - ID1 ATE PI Engineer</a></td>
 <td>Boise, ID, US</td>
@@ -1539,6 +1497,48 @@
 <td><a href="https://trueinterview.io/jobs/cbf0e7f7-d564-4c89-83c9-e3b2a7162bef">Hardware Engineering Intern</a></td>
 <td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tkda</strong></td>
+<td><a href="https://trueinterview.io/jobs/859e2e82-625d-4d21-9b31-01973e629767">2027 Summer Intern - Civil Engineering, Water Resources</a></td>
+<td>Bloomington, Minnesota</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/3e308d5f-2e53-4318-a257-17c9c8b5d92e">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7eafe9fd-ae0f-49d4-ab3a-d3f79cf0f7ff">2027 Summer Intern - Civil Engineering, Traffic</a></td>
+<td>Bloomington, Minnesota</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/125fe207-006f-4a01-8ea6-006e080a48ca">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b5687dbd-e1b6-4b53-9311-79e568049100">2027 Summer Intern, Structural Engineering - Buildings &amp; Facilities</a></td>
+<td>Bloomington, Minnesota</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/62a210f0-a58b-4817-9885-2c876d4ea222">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/50f281f6-132a-4e66-82ff-08931c019a43">2027 Summer Intern - Mechanical Engineering</a></td>
+<td>Bloomington, Minnesota</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/a21189fd-0377-4a16-b075-71053a28e750">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/20a1fa72-acf5-4094-b777-834b7bfb4b86">2027 Summer Intern - Electrical Engineering</a></td>
+<td>Bloomington, Minnesota</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/f59b3fca-34fd-4339-8034-5a48109434dc">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/80a94216-6f9d-41a6-9cdf-565bb2f8a260">2027 Summer Intern - Civil Engineering, Aviation</a></td>
+<td>Bloomington, Minnesota</td>
+<td align="center"><a href="https://jobs.lever.co/tkda/b01b4c2f-24d4-4c19-be31-8986c4064074">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

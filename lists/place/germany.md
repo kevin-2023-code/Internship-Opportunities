@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**27 open roles.**
+**28 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,6 +125,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>QuantumDiamonds</strong></td>
+<td><a href="https://trueinterview.io/jobs/e46f48c6-56eb-4e39-a4ad-dcaf1f4d105d">Research Software Engineering Intern (f/m/d)</a></td>
+<td>Munich HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantumdiamonds/a83adc60-6c2e-4aff-9acf-c16fd150f35a">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/997c05ae-3d79-423e-8f48-72e29ad93575">IT Specialist Intern (f/m/d)</a></td>
+<td>Munich HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/quantumdiamonds/19e0203c-363c-49b9-8ca7-9fe7f8ce23a7">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Celonis</strong></td>
 <td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
 <td>Munich, Germany</td>
@@ -151,13 +165,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200689729-1731?board_id=JB001">Apply</a></td>
 <td align="center">18 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Taktile</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8cff64d-c2d8-4f48-b524-fcac1cd29d0e">Software Engineer Internship for HPI Students</a></td>
-<td>Berlin Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Statkraft</strong></td>

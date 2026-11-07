@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**28 open roles.** 1 in the United States & Canada · 27 elsewhere in the world.
+**27 open roles.** 1 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -216,13 +216,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/261a54d4-bad1-445a-9aa2-51cfcb7faa1b">Software Engineering Intern</a></td>
 <td>Paris, France<br/>Madrid, Spain</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/31d4a9ab-24d3-41f0-b787-ab470cf54e1f">IT Support Technician Intern</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

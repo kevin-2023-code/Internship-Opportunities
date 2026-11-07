@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**981 open roles.** 809 in the United States & Canada · 172 elsewhere in the world. Everything the employers put up this week.
+**987 open roles.** 814 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hewlett Packard Enterprise | HPE</strong></td>
+<td><a href="https://trueinterview.io/jobs/35dd5def-20a7-4292-881b-f967032f814e">Systems/Software Testing Engineer Cloud &amp; On-Premise Intern</a></td>
+<td>San Juan, PR</td>
+<td align="center"><a href="https://careers.hpe.com/us/en/job/HPE1US1218105EXTERNALENUS/Systems-Software-Testing-Engineer-Cloud-On-Premise-Intern">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plus3 IT Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/93d8df4e-c971-4842-96f9-7b7ecc2c5b60">Cloud Engineer Intern</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://p3it.bamboohr.com/careers/37?postedDate=2026-11-04">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/f27f21a9-549d-4c90-82c4-e04d1beda0a9">FY27 Intern - Machine Learning Engineering Internship - Canada (4 months)</a></td>
@@ -356,6 +370,13 @@
 <td><a href="https://trueinterview.io/jobs/d3a2ffde-fe10-4b60-8ab3-56fa33623bdc">Internship - Software Engineering - Spring 2027</a></td>
 <td>Cedar Park, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485007903/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/15aabaf7-b6c9-4e64-bee3-82b40033632c">Mechanical Engineering Co-Op</a></td>
+<td>North Kingstown, RI<br/>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -856,13 +877,6 @@
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>REGENT Craft, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/15aabaf7-b6c9-4e64-bee3-82b40033632c">Mechanical Engineering Co-Op</a></td>
-<td>North Kingstown, RI</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Walmart</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c658b82-f7dc-465e-9373-843e22925c7d">Summer 2026 MBA Intern Conversion: 2027 APD Senior Product Manager (MBA)</a></td>
 <td>Bentonville, AR</td>
@@ -1269,6 +1283,13 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/a603a2a4-9f45-4f96-af06-afb2687fc7d1">Hardware Engineer Intern, Vehicle Systems [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Toshiba Global Commerce Solutions - External</strong></td>
 <td><a href="https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b">Agentic Software Engineering Intern</a></td>
 <td>Durham, North Carolina, United States<br/>Frisco, Texas, United States</td>
@@ -1283,10 +1304,24 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/98721d5b-63e9-41a2-b991-b19e9f08a734">Hardware Engineer Intern, Vehicle Development [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>KEEN Footwear</strong></td>
 <td><a href="https://trueinterview.io/jobs/fa0b94cf-8a19-4e00-86ae-d48cc83226d9">Analytics Engineer Intern</a></td>
 <td>Portland, Oregon, United States</td>
 <td align="center"><a href="https://www.keenfootwear.com/careers-list.html?4748305005&amp;gh_jid=4748305005">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb979d41-b4d1-4683-9bf3-e90d3a6121f5">Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2778,41 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/98f7208f-2ca4-48ab-a8ec-694a1d5f4406">Intern - Mechanical and Magnet Engineer - Spring or Summer 2027</a></td>
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mercury Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467599758/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/b82995ff-fcc7-4554-94bc-5b6a950df30a">Intern - Structural Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Base Power</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f56921b-500d-41c5-8eb6-5966702f61d6">Manufacturing Test Engineering Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cad52c39-3334-4ba2-94c5-ffb3a0866cd8">Transportation Engineering Co-op (Spring 2027)</a></td>
-<td>Quincy, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts (EA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/7345330a-22a4-4c97-bc09-0d817df969af">Quality Designer Co-op (Summer 2027)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483463947/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**102 open roles.** 70 in the United States & Canada · 32 elsewhere in the world.
+**105 open roles.** 71 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,7 +32,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfe87efc-356f-480c-8ae3-b450342fed2a">Program Manager, Infrastructure Operations Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff2caac9-be9d-4723-bb8d-128a475f6a14">POI Content Product Manager Intern (TikTok Local Services) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486973728/">Apply</a></td>
@@ -251,7 +258,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/c840678b-8921-4803-a345-11ad05895818">Product Manager Intern (2027) - Austin, TX</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td>Austin, TX<br/>Austin, Texas, United States<br/>In-Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
@@ -623,6 +630,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485267467/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/40420dfc-b4a6-410c-b7d8-c883c0826f3b">Product Manager Intern (2027) - London, UK</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/50328762-27dc-407b-9211-7b8cb523ba81">Product Manager Intern (2027) - Lisbon, PT</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Sensirion</strong></td>

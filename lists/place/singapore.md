@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**100 open roles.**
+**99 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -549,13 +549,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/782e88f6-3982-4dfa-a440-6ae1fbdf026d">Data Science Intern (Analytics), 6-month internship</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461104774/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rakuten Viki</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f048243-f541-4ea4-8182-5e93212545dc">Intern, UX (Content Design)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431660136/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

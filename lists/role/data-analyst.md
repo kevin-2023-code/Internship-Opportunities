@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**90 open roles.** 55 in the United States & Canada · 35 elsewhere in the world.
+**91 open roles.** 55 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -630,6 +630,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/GBR-London/JD-Young-Supply-Chain-Data---AI-Analyst-Internship_JR104472">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NielsenIQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/67c6252e-3afa-44d2-a11e-05c4c2c46540">Data Operation Analyst Intern (Mandarin Speaker)</a></td>
+<td>KL Eco City Bangsar, 14, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000157965649-data-operation-analyst-intern-mandarin-speaker-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Ubisoft</strong></td>

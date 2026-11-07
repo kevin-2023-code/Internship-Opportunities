@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**161 open roles.** 114 in the United States & Canada · 47 elsewhere in the world.
+**158 open roles.** 112 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -627,13 +627,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b5606da-5f02-437b-b4e2-b9e024c4678e">Software Engineer Intern - AI</a></td>
 <td>Ann Arbor, MI, United States of America</td>
@@ -806,13 +799,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eadec26f-4864-483c-895b-a9f88a327770">Data Engineering Intern - AI &amp; Analytics (January - August 2027)</a></td>
 <td>Palo Alto, California<br/>Irvine, California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wake Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b0ccab6-3fca-44e6-8230-f028c2fdb4e0">AI Engineering Intern (Remote)</a></td>
-<td>Fort Washington, Pennsylvania, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/M3USA/744000148244649-ai-engineering-intern-remote-">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
@@ -1053,13 +1039,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
-<td>Timisoara Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544252/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/afb2e9d7-dfa9-4e35-a0bd-0531b1cfd657">SAP iXp Intern - CPIT CFA AI Engineer</a></td>
 <td>Budapest, Budapest, Hungary</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474466004/">Apply</a></td>

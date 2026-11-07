@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**43 open roles.** 30 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**47 open roles.** 34 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,6 +53,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfe87efc-356f-480c-8ae3-b450342fed2a">Program Manager, Infrastructure Operations Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/18714ac0-f3fd-4681-a62e-0342cded64db">UX Product Design Intern - Winter 2027</a></td>
 <td>San Mateo, California, United States</td>
@@ -79,6 +86,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487081781/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/a603a2a4-9f45-4f96-af06-afb2687fc7d1">Hardware Engineer Intern, Vehicle Systems [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/98721d5b-63e9-41a2-b991-b19e9f08a734">Hardware Engineer Intern, Vehicle Development [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bb979d41-b4d1-4683-9bf3-e90d3a6121f5">Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded">Apply</a></td>
+<td align="center">2 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Waymo</strong></td>

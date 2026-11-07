@@ -481,13 +481,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
-<td>Redmond, WA, United States<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/76ca107c-1e69-4dbe-8e23-4383250770db">Research Scientist Intern, Robotics Hardware (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2105411693413958/">Apply</a></td>
@@ -624,6 +617,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a5244c9d-6532-4b44-91b7-daeaca2a6463">Summer 2027 - Mechanical Engineering Intern</a></td>
 <td>Seattle, Washington<br/>Dallas, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc/apply">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qumulo</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f751e01-6a20-4f5b-8619-33fc015b8894">Software Development Engineer (Seattle) - Internship 2027</a></td>
+<td>Seattle (hybrid)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183">Apply</a></td>
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
