@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**24 open roles.** 1 in the United States & Canada · 23 elsewhere in the world.
+**25 open roles.** 1 in the United States & Canada · 24 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -133,6 +133,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476595070/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/8817ca39-32de-479a-b752-8b1de61f37bd">2028 Field Applications Engineering Intern</a></td>
+<td>WARSZAWA, Poland<br/>Eindhoven, Netherlands<br/>Japan<br/>+2 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25010389">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>

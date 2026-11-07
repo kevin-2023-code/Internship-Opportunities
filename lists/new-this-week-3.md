@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,024 open roles.** 830 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**1,020 open roles.** 827 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Savannah River Mission Completion</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e1aff9e-f475-477f-95c1-3f2b3b8b8fd5">2027 Summer Intern-Computer Science (Artificial Intelligence/Machine Learning)</a></td>
-<td>Aiken, SC</td>
-<td align="center"><a href="https://careers-lse-srmc.icims.com/jobs/2261/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>WEX</strong></td>
 <td><a href="https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479">Software Engineer Intern</a></td>
@@ -149,13 +142,6 @@
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418">2027 Summer Intern, PhD, Research Scientist Intern</a></td>
-<td>Mountain View, California, United States</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8337719">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/e4fe60e5-f008-40fc-af1e-6ef6d567f6f6">Machine Learning Scientist Intern (Global E-Commerce Content Recommendation) - 2026 Summer (PhD)</a></td>
 <td>Seattle, WA</td>
@@ -216,13 +202,6 @@
 <td><a href="https://trueinterview.io/jobs/e7f9ac92-08be-4f4b-9160-7d1a66628ed5">Summer 2027 Business Intelligence Intern</a></td>
 <td>Torrance, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/divergent/jobs/5393519008">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/f06778ce-796c-4a6f-86d3-790f4fd3c260">Intern - Electrical/Electromechanical Engineer - Spring 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
@@ -340,6 +319,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3579caf9-276c-405d-bf30-8f166cbbf5ce">AIP Intern - IT Support Track</a></td>
 <td>Kuala Lumpur, Malaysia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/92dbe38d-2a70-47af-a962-e36484242ef2">Intern - Industrial Engineer (5 of 5)</a></td>
+<td>Johor Bahru, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160070507-intern-industrial-engineer-5-of-5-">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -707,13 +693,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec7728a3-0d2a-4a8b-8eb5-49d99bcc3817">2027 Summer Intern, PhD, Machine Learning, Simulation Realism</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478156974/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/db199445-0a8c-4eb8-b125-43efee7b890f">Undergraduate Placement Year 2027 – Manufacturing Engineering Intern</a></td>
 <td>Chesterfield, England, United Kingdom</td>
@@ -886,13 +865,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9">Industrial AI &amp; Software Engineering Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527726">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apache Industrial</strong></td>
-<td><a href="https://trueinterview.io/jobs/366d443e-a4ac-48ea-b039-3cbea68b998a">AI Implementation Intern</a></td>
-<td>Greater Houston</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487057263/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

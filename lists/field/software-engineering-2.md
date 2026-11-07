@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,610 open roles.** 1,280 in the United States & Canada · 330 elsewhere in the world.
+**1,612 open roles.** 1,283 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -226,13 +226,6 @@
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418">2027 Summer Intern, PhD, Research Scientist Intern</a></td>
-<td>Mountain View, California, United States</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8337719">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Medlaunch Concepts</strong></td>
 <td><a href="https://trueinterview.io/jobs/462875cf-e15f-4ca1-8e39-d5a007c9cc0f">Spring 2026 Internship - AI-Native Automation QA</a></td>
 <td>Clearwater, FL</td>
@@ -335,6 +328,13 @@
 <td><a href="https://trueinterview.io/jobs/f0d72156-7d73-4cab-9197-e3dd4cc80418">Intern, SRAM Design Engineer</a></td>
 <td>San Jose, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/39a72e5b-e0b6-4c5f-ba19-d9719ff21b24">Engineering Intern</a></td>
+<td>Columbus, Ohio, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158807040-engineering-intern">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1371,6 +1371,13 @@
 <td><a href="https://trueinterview.io/jobs/0a45a4ab-1bda-4d66-aa16-6174996f1785">Software Developer Intern - Aviation &amp; Federal (Kansas City)</a></td>
 <td>Kansas City, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467774654/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/555bf1ad-5c23-4ab6-9141-0ff53ceb630f">Digital Engineering Intern (BIM) – AECOM Hunt</a></td>
+<td>Dallas, Texas, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158556674-digital-engineering-intern-bim-aecom-hunt">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/2c26d7d9-c090-405a-b912-271fd9d88339">R&amp;D Commercial Product Development Engineer Intern</a></td>
 <td>Parsippany, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482529442/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Elevated Web Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7f3498a-4435-4906-969a-24e60ea39a6b">Product Software Engineering Internship</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484495243/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

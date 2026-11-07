@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**35 open roles.** 1 in the United States & Canada · 34 elsewhere in the world.
+**36 open roles.** 1 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -237,6 +237,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6bec8a15-bb11-4fde-9b1b-cb54c3442247">Backend Engineer Intern (6 months starting February 2027)</a></td>
 <td>Paris</td>
 <td align="center"><a href="https://jobs.lever.co/equativ/bc00695c-eb9a-4f50-bb4d-f186892fbb3d">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/198ebe45-0ed6-48c7-b20e-123b572076dd">Data Business Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000155221189-data-business-analyst-assistant-internship-6-month-january-2027-w-m-nb-">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>

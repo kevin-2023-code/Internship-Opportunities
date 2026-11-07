@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,024 open roles.** 830 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**1,020 open roles.** 827 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cair Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c40e687-951f-498f-b1c2-3a57d74431f6">Software Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488739551/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/d380ffca-7439-4a87-8e95-0cb30cc414e1">Research Intern - Machine Learning at MSR NYC</a></td>
@@ -205,7 +212,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
 <td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470022954/">Apply</a></td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8227640">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -549,20 +556,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6b8b275b-8ae9-4f01-9e38-1e456b1d3391">Full Stack Developer Intern</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487352728/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/54942787-f270-4dd7-b544-ff6419be8c77">2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487372146/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aa60f051-d947-49fd-a2be-229a7c5ed591">2027 Summer Intern, PhD, Machine Learning - Generative World Models &amp; Controllable Simulation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487358441/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2703,7 +2696,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AECOM</strong></td>
 <td><a href="https://trueinterview.io/jobs/57a00530-69f4-461c-8181-49a19f12a838">Civil Engineering Intern</a></td>
-<td>Waterloo, ON<br/>Waterloo, Iowa, United States</td>
+<td>Waterloo, ON<br/>Waterloo, Iowa, United States<br/>Boston, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159707760-civil-engineering-intern">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/514b51ee-1e14-4b1a-9375-9220dce937df">Salesforce Developer Intern - Summer 2027</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479203343/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Oceaneering</strong></td>
+<td><a href="https://trueinterview.io/jobs/96f03e20-392a-4f6b-9771-95240c4d7c8c">Power Platform Developer Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479062700/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

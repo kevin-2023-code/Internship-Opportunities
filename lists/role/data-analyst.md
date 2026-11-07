@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**91 open roles.** 52 in the United States & Canada · 39 elsewhere in the world.
+**91 open roles.** 51 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -319,13 +319,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Charles River Associates</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b40e231-7058-41c8-9529-c87fb0d35c2f">(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer 2027)</a></td>
 <td>New York, NY<br/>Summit, NJ</td>
@@ -623,6 +616,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>KL Eco City Bangsar, 14, Malaysia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000157965649-data-operation-analyst-intern-mandarin-speaker-">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/198ebe45-0ed6-48c7-b20e-123b572076dd">Data Business Analyst Assistant – Internship (6-month) January 2027 (W/M/NB)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000155221189-data-business-analyst-assistant-internship-6-month-january-2027-w-m-nb-">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Delivery Hero</strong></td>

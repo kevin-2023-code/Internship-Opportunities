@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**52 open roles.** 11 in the United States & Canada · 41 elsewhere in the world.
+**50 open roles.** 11 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,14 +121,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec7728a3-0d2a-4a8b-8eb5-49d99bcc3817">2027 Summer Intern, PhD, Machine Learning, Simulation Realism</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478156974/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Roku</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6ba5009c-0bfb-4bd4-b72f-70aa59583577">AI Engineering Internship Program (Summer 2027)</a></td>
 <td>Manchester, United Kingdom<br/>Cambridge, United Kingdom</td>
 <td align="center"><a href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954">Apply</a></td>
@@ -385,13 +378,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, England, United Kingdom<br/>London, UK</td>
 <td align="center"><a href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schonfeld Strategic Advisors</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8187178">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

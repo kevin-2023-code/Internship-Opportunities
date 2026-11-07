@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,024 open roles.** 830 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**1,020 open roles.** 827 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Oceaneering</strong></td>
-<td><a href="https://trueinterview.io/jobs/96f03e20-392a-4f6b-9771-95240c4d7c8c">Power Platform Developer Intern</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479062700/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/00fb2f8e-b12d-44d0-81f4-0e77e8d3517a">Software Engineer Intern - Summer 2027 (DV Commodities)</a></td>
@@ -657,13 +650,6 @@
 <td><a href="https://trueinterview.io/jobs/49196dd6-de8d-4b50-ba1e-425925ddb620">Anticheat Engineer Intern - Summer 2027</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8537de8-21e6-4eaf-aa4d-5f058f8bb838">Firmware Engineering Co-Op</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487043721/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1780,6 +1766,13 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/779e53ab-66d7-4922-bcb2-62c2cde09f46">Civil Engineering Transit Intern</a></td>
+<td>Chicago, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159130421-civil-engineering-transit-intern">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Alaska Airlines</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6cb4a0a-d274-498b-a6a4-76a43f86161c">Intern - Cybersecurity Threat Defense (Summer 2027)</a></td>
 <td>SeaTac, WA</td>
@@ -2497,7 +2490,7 @@
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f">[Summer 2027] Software Engineer Intern</a></td>
 <td>San Mateo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449149254/">Apply</a></td>
+<td align="center"><a href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/ee5c4544-3d7e-4779-bbc1-6d3be3aee54b">2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</a></td>
 <td>North Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485671784/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Savannah River Mission Completion</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e1aff9e-f475-477f-95c1-3f2b3b8b8fd5">2027 Summer Intern-Computer Science (Artificial Intelligence/Machine Learning)</a></td>
+<td>Aiken, SC</td>
+<td align="center"><a href="https://careers-lse-srmc.icims.com/jobs/2261/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

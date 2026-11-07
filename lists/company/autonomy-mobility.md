@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**50 open roles.** 37 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**44 open roles.** 33 in the United States & Canada · 11 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,7 +21,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
 <td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470022954/">Apply</a></td>
+<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8227640">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -58,20 +58,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.tesla.com/careers/search/job/289240">Apply</a></td>
 <td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/54942787-f270-4dd7-b544-ff6419be8c77">2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487372146/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aa60f051-d947-49fd-a2be-229a7c5ed591">2027 Summer Intern, PhD, Machine Learning - Generative World Models &amp; Controllable Simulation</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487358441/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Zoox</strong></td>
@@ -128,13 +114,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Foster City, CA</td>
 <td align="center"><a href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418">2027 Summer Intern, PhD, Research Scientist Intern</a></td>
-<td>Mountain View, California, United States</td>
-<td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8337719">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Tesla</strong></td>
@@ -250,13 +229,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Harbinger Motors Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378">Intern, Battery Test</a></td>
-<td>Garden Grove, CA, Garden Grove</td>
-<td align="center"><a href="https://www.1point3acres.com/jobs/01m4pqpt2jj04x811c5e5fyjg7">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/72122b74-bca3-4b8d-86fd-bc78aa36d05f">Intern, Test Engineering</a></td>
 <td>Garden Grove, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007">Apply</a></td>
@@ -303,14 +275,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec7728a3-0d2a-4a8b-8eb5-49d99bcc3817">2027 Summer Intern, PhD, Machine Learning, Simulation Realism</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478156974/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tesla</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/16d30212-7943-4281-9392-099de2d47523">Machine Learning Intern, Generative SI Applications (m/f/d) - Gigafactory Berlin-Brandenburg</a></td>
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486114299/">Apply</a></td>
@@ -371,13 +336,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Alameda HQ</td>
 <td align="center"><a href="https://jobs.lever.co/pyka/2702593a-7482-4d2b-93f3-ef97e2cf7df7/apply">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7089ab65-c76a-4b55-a39f-3e98362a05e6">Electrical Engineering Internship - Winter/Spring 2027 (Early Interest)</a></td>
-<td>Alameda HQ</td>
-<td align="center"><a href="https://jobs.lever.co/pyka/d4f88bcd-8891-4192-91fc-23643a3d8c1c">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

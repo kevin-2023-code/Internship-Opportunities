@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**47 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**48 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,20 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5458376008">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd1f61a0-c37a-463d-b59e-0e4bccf73bfc">Substation Electrical Engineering Intern - Summer 2027</a></td>
-<td>Spring, TX, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Egis Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/0cfe1151-c18e-4d2c-b241-9991ef37b91e">Civil Engineering Intern</a></td>
-<td>Round Rock, Texas, United States<br/>Harrisburg, Pennsylvania, United States<br/>Tampa, Florida, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156433609-civil-engineering-intern">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
@@ -256,6 +242,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/dca3daa8-18f7-4f77-876b-eb00ee25da2c">Transportation Engineering Intern- Fall 2026</a></td>
+<td>Albuquerque, NM, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96119">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Walker Consultants</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3ab6cc0-8b89-4bff-acd5-65db65cb14a9">Structural Engineering Intern - Summer 2027</a></td>
 <td>Minneapolis, MN</td>
@@ -271,6 +264,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/9dd992f3-c059-4ca5-8084-486222029098">Transportation Engineering Intern- Spring 2027</a></td>
+<td>Philadelphia, PA, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96027">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/99f805ec-9ae0-4f3f-be9f-faeb05f088fe">Transportation Engineering Intern- Summer 2027</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96023">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a3175504-1945-4ae2-b0c7-d2a1584750be">Lighting Design Intern - Summer 2027</a></td>
 <td>Arlington, VA, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95805">Apply</a></td>
