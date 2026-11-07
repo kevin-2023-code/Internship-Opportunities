@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**212 open roles.** 158 in the United States & Canada · 54 elsewhere in the world.
+**213 open roles.** 158 in the United States & Canada · 55 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1491,6 +1491,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8003784003">Apply</a></td>
 <td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Gameloft</strong></td>
+<td><a href="https://trueinterview.io/jobs/63ae6329-2ca1-4faa-b50c-99327baa6c78">UI UX Designer Intern</a></td>
+<td>Hanoi, Ha Noi, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000150312827-ui-ux-designer-intern">Apply</a></td>
+<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Rundoo</strong></td>

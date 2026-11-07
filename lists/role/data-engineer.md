@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**62 open roles.** 52 in the United States & Canada · 10 elsewhere in the world.
+**61 open roles.** 52 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -455,13 +455,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/govsignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b82d99f-03c2-4b59-bc13-bca5fb8479e2">Data Center Infrastructure Engineer Internship 2027</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10532883/data-center-infrastructure-engineer-internship-?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

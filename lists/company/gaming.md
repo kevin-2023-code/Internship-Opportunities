@@ -2,7 +2,7 @@
 
 # 🎮 Gaming & interactive
 
-**12 open roles.** 10 in the United States & Canada · 2 elsewhere in the world. Games, game engines and interactive entertainment.
+**13 open roles.** 10 in the United States & Canada · 3 elsewhere in the world. Games, game engines and interactive entertainment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -112,6 +112,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hanoi, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000154035310-game-designer-intern">Apply</a></td>
 <td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/63ae6329-2ca1-4faa-b50c-99327baa6c78">UI UX Designer Intern</a></td>
+<td>Hanoi, Ha Noi, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000150312827-ui-ux-designer-intern">Apply</a></td>
+<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>
