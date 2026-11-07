@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,061 open roles.** 871 in the United States & Canada · 190 elsewhere in the world. Everything the employers put up this week.
+**1,057 open roles.** 867 in the United States & Canada · 190 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1346,10 +1346,24 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/3134dc4f-7af7-4d05-9153-4aea65e71e4e">Mechanical Engineer Co-op July-December</a></td>
+<td>Mansfield, MA, United States</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>General Dynamics Information Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a856c55-91cc-4ab8-9462-a0c2a4c5f48f">Intern - Technical Writer / Data Analytics Analyst</a></td>
 <td>Bossier City, Louisiana, United States</td>
 <td align="center"><a href="https://gdit.wd5.myworkdayjobs.com/GDIT_EarlyTalent/job/USA-LA-Bossier-City/Intern---Technical-Writer---Data-Analytics-Analyst_RQ231236">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>J.D. Irving, Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/beed7efc-bd5e-43d5-b6a2-4861f508843e">Chemical Engineering Student - Lake Utopia Paper - 8 Month Co-op - Winter 2027</a></td>
+<td>Utopia, NB, Canada</td>
+<td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13071">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/ac3e65cb-0900-4862-885a-6832f8e8e33f">Electrical Engineering Co-op - Summer 2027</a></td>
 <td>Kent, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477474171/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TTM Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/80ca425d-6808-4606-9490-58c9e98d2fbe">RF/Microwave Engineering Intern</a></td>
-<td>Farmingdale, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468696246/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TSMC</strong></td>
-<td><a href="https://trueinterview.io/jobs/dbb9f061-dbba-41e4-8f55-804b9cbad051">[Summer 2027] TSMC AZ Internship Opportunities - Engineering Roles</a></td>
-<td>Austin, TX<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4429622061/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**211 open roles.** 158 in the United States & Canada · 53 elsewhere in the world.
+**212 open roles.** 158 in the United States & Canada · 54 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1470,6 +1470,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cincinnati</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/landor/jobs/8261395">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gameloft</strong></td>
+<td><a href="https://trueinterview.io/jobs/20191dfd-abc0-4607-86f2-76b00d9ec17c">Game Designer Intern</a></td>
+<td>Hanoi, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000154035310-game-designer-intern">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Oliver Agency</strong></td>
