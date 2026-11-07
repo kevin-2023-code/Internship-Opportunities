@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**17 open roles.** 15 in the United States & Canada · 2 elsewhere in the world.
+**18 open roles.** 16 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/de5970e4-48aa-4f52-a395-dd71510b116f">Android Platform Software Engineering Intern - Summer 2027</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121058/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3cf7acc-aa71-47a0-a46c-2eb4aa237d99">Software Engineering Intern, iOS (Summer 2027)</a></td>

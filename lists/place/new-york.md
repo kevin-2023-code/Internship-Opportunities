@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**139 open roles.**
+**143 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488725444/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
+<td>New York, NY<br/>San Jose, CA<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/caf9bc25-9d3d-48c2-9e05-8ea14c45aac2">Quantitative Research Internship – Master's: Summer 2027</a></td>
@@ -251,8 +265,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/00fb2f8e-b12d-44d0-81f4-0e77e8d3517a">Software Engineer Intern - Summer 2027 (DV Commodities)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451627273/">Apply</a></td>
+<td>New York, NY<br/>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -363,29 +377,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
-<td>Jersey City, NJ<br/>Chicago, IL<br/>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/01406038-1a8f-458d-beef-8e9cbf2f0ad2">Data Ops Engineer Intern</a></td>
-<td>Jersey City, NJ<br/>Cheshire, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477894522/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8a9ef974-ce0a-452e-8ec6-56162b0a2094">Data Scientist Intern</a></td>
-<td>Jersey City, NJ<br/>Cheshire, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478000251/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Jersey City, NJ<br/>Chicago, IL<br/>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
+<td>Jersey City, NJ<br/>Jersey City, New Jersey, United States<br/>Chicago, Illinois, United States<br/>+1 more</td>
+<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -830,6 +823,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e3727b-655a-432d-8231-e1717accfc0c">DESIGN ENGINEER INTERN</a></td>
+<td>Queens, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015853286-design-engineer-intern">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Seatgeek</strong></td>
 <td><a href="https://trueinterview.io/jobs/30aab32a-8842-4665-bb8a-ebe72b6f2b6e">Security Engineer - Internship</a></td>
 <td>New York, NY<br/>New York, New York</td>
@@ -956,10 +956,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9a29b7c-4639-414c-9906-e48b4b091083">Software Developer Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733138005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/618a777e-a72a-4ebf-8cc7-36b3ac22581e">Quantitative Research Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733133005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9a2339dc-1265-4caa-8c58-0e19a6dc235e">Quantitative Trading Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4702083005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439">Client Platforms Engineer Intern - Summer 2027</a></td>
+<td>New York, NY<br/>London<br/>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732700005">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>

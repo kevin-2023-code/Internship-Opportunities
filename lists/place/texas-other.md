@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**37 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alcon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
+<td>Houston, TX<br/>Goleta, CA<br/>Lake Forest, CA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Axiom Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/36afd261-12e8-4f24-885c-e10ba4d4e0e8">Software Engineering Intern (Summer 2027)</a></td>

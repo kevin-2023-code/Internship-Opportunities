@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**100 open roles.**
+**101 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -150,6 +150,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f6210d6a-8b88-4887-8b72-b18a9d7f8d94">Product Manager Intern, Traffic &amp; Content - Shop Chatbot (Fall 2026)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447354091/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/200f674b-02e7-4395-a2c0-9008a79d0916">NPI Engineering Intern (AI-Assisted Operations)</a></td>
+<td>Singapore<br/>Malaysia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

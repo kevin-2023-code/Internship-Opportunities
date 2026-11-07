@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**29 open roles.** 28 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**28 open roles.** 27 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -205,13 +205,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Leandro, CA - Fremont, CA - Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e31f3df-5ae6-4213-86be-117962a3bc9d">TNC Nuclear Interns 2027</a></td>
-<td>Columbia, SC<br/>Columbia, South Carolina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5418204008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

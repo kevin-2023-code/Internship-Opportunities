@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**48 open roles.** 44 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**51 open roles.** 46 in the United States & Canada · 5 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
+<td>San Jose, CA<br/>New York, NY<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9d03eb9c-ffe7-4a92-b096-731b73806c6d">AI Foundations - Research Scientist - Research Internship - 2027</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460762327/">Apply</a></td>
@@ -325,6 +332,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/megazone/66b2d2e9-1b13-40d0-a4d4-e4599fd418ca/application">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/40b91e63-898e-4d87-a911-d01137fbc86c">Data Engineer Co-op 2027</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -364,6 +378,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Canberra, Australia<br/>Newcastle, Australia</td>
 <td align="center"><a href="https://careers.leidos.com/jobs/18440465-graduate-engineer?tm_job=R-00196094&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/e80e950e-6743-436c-96ca-e20f5e875d50">Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</a></td>
+<td>Leideleng, Distrikt Luxemburg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865-internship-wavestone-luxembourg-cybersecurity-artificial-intelligence-consulting">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 </tbody>
 </table>

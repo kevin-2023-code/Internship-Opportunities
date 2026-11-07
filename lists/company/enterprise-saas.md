@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**86 open roles.** 69 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**87 open roles.** 70 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488725444/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Thomson Reuters</strong></td>
 <td><a href="https://trueinterview.io/jobs/0b49b03a-1aed-4780-aaa8-a4996b65ac7c">Applied Scientist Intern</a></td>

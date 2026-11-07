@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**47 open roles.** 34 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**49 open roles.** 36 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470022954/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fe276706-da02-40f0-8395-89632e86c07b">2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470765698/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a46145d-a145-4b1f-ad9c-eb599500bf5d">Internship, Data Analyst, People Products (Winter/Spring 2027)</a></td>

@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**52 open roles.** 44 in the United States & Canada · 8 elsewhere in the world.
+**53 open roles.** 45 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -153,7 +153,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/58a7f456-2440-45fe-bf32-e31680df51db">Summer 2027 Intern - Embedded Firmware - 5810</a></td>
-<td>Dallas, TX</td>
+<td>Dallas, TX<br/>Dallas, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
@@ -260,6 +260,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a7230a8f-0481-4cc8-8aa2-d70a7b0979d1">Embedded Software Engineering Intern, Platform</a></td>
 <td>San Jose, CA, HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4722086006">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/86329e1e-18de-45a2-b18b-603ea97ba696">Embedded C/C++ SW Developer Co-op/Intern</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>

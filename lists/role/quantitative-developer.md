@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**38 open roles.** 29 in the United States & Canada · 9 elsewhere in the world.
+**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -161,7 +161,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f068b7-1939-4c53-a05b-1bc8d7af8a04">Quantitative Risk Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448582391/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719118005">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -219,6 +219,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a2339dc-1265-4caa-8c58-0e19a6dc235e">Quantitative Trading Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4702083005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

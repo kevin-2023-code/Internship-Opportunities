@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**96 open roles.** 83 in the United States & Canada · 13 elsewhere in the world.
+**98 open roles.** 83 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -700,6 +700,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Málaga, Andalucía, Spain</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/DreesSommerSE/744000153103394-internship-cybersecurity">Apply</a></td>
 <td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/e80e950e-6743-436c-96ca-e20f5e875d50">Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</a></td>
+<td>Leideleng, Distrikt Luxemburg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865-internship-wavestone-luxembourg-cybersecurity-artificial-intelligence-consulting">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1440859c-0175-4d9f-9966-4e288bfe3f19">Security Engineer Intern - Summer 2027</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

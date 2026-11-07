@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**208 open roles.** 169 in the United States & Canada · 39 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**211 open roles.** 171 in the United States & Canada · 40 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/de5970e4-48aa-4f52-a395-dd71510b116f">Android Platform Software Engineering Intern - Summer 2027</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121058/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3903cd9-67d6-4772-a6ae-710abb1f3d72">Automation Engineer Co-op/Intern</a></td>
@@ -337,6 +344,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8e6558e1-113a-4a9b-83a7-8a9835819b24">AI &amp; HPC Performance Engineering Intern</a></td>
 <td>Spring, Texas, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/86329e1e-18de-45a2-b18b-603ea97ba696">Embedded C/C++ SW Developer Co-op/Intern</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
@@ -1236,8 +1250,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
-<td>Bratislava, Bratislava, Slovakia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
+<td>Bratislava, Bratislava, Slovakia<br/>Slovakia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40494">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1285,7 +1299,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/200f674b-02e7-4395-a2c0-9008a79d0916">NPI Engineering Intern (AI-Assisted Operations)</a></td>
-<td>Malaysia</td>
+<td>Singapore<br/>Malaysia</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -1449,6 +1463,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001">Apply</a></td>
 <td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/712bf8c8-bbf4-4754-8086-842613578e34">Developer DevOps Intern</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>

@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**587 open roles.** 474 in the United States & Canada · 113 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**590 open roles.** 476 in the United States & Canada · 114 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@
 <tbody>
 <tr>
 <td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d90095-a873-470d-8433-8cfbc563fd04">Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740540">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US<br/>+1 more</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/37a8fa74-c2b0-4689-ae17-4ee7438a1d12">Security (Product, Systems, Cyber) Engineering Internship - Summer 2027</a></td>
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740636">Apply</a></td>
@@ -611,8 +625,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
-<td>Bratislava, Bratislava, Slovakia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
+<td>Bratislava, Bratislava, Slovakia<br/>Slovakia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40494">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -758,7 +772,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/200f674b-02e7-4395-a2c0-9008a79d0916">NPI Engineering Intern (AI-Assisted Operations)</a></td>
-<td>Malaysia</td>
+<td>Singapore<br/>Malaysia</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -1328,6 +1342,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>ES, Huesca<br/>ES, Zaragoza</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
 <td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/712bf8c8-bbf4-4754-8086-842613578e34">Developer DevOps Intern</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736">Apply</a></td>
+<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Western Digital</strong></td>

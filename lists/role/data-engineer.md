@@ -165,13 +165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/01406038-1a8f-458d-beef-8e9cbf2f0ad2">Data Ops Engineer Intern</a></td>
-<td>Cheshire, CT<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477894522/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Firework</strong></td>
 <td><a href="https://trueinterview.io/jobs/b4006aad-eddf-4f60-8d7f-0474694941c5">Data Engineer Intern</a></td>
 <td>San Mateo, California, United States</td>
@@ -365,6 +358,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e85853e3-bad2-4aff-ac80-3c6e3a722271">Data Engineer Intern (Summer 2027)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Megazone Cloud Us</strong></td>
+<td><a href="https://trueinterview.io/jobs/40b91e63-898e-4d87-a911-d01137fbc86c">Data Engineer Co-op 2027</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

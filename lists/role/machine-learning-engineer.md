@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**157 open roles.** 125 in the United States & Canada · 32 elsewhere in the world.
+**158 open roles.** 126 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hendrickson</strong></td>
+<td><a href="https://trueinterview.io/jobs/836037a9-71ba-458b-833c-915c80119083">Machine Learning Co-Op (Spring 2027)</a></td>
+<td>Canton, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471673979/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>

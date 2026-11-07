@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**751 open roles.** 686 in the United States & Canada · 65 elsewhere in the world.
+**754 open roles.** 689 in the United States & Canada · 65 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -909,6 +909,34 @@
 <td><a href="https://trueinterview.io/jobs/66e5e93d-352d-49a6-9f48-7ddbd2b4d7e9">Bridge Engineer Internship</a></td>
 <td>Helena, MT</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422947009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6b0a73f9-76c8-48f0-bd43-b758dda340e0">Structural Engineer Internship - Hydraulic Structures</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422894009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bbb7c5f2-54f1-4a84-9366-b9bf5388ef59">Electrical Engineer Internship</a></td>
+<td>Spokane, WA<br/>Bend, OR</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422847009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8628193c-cf7a-427e-a203-968b172fd64d">Civil Engineer Internship</a></td>
+<td>Spokane, WA<br/>Bozeman, MT<br/>Sheridan, WY<br/>+7 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422540009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cfa5aa92-2e85-4728-a762-65e67c96417f">Civil Engineer Internship - Natural Resources</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422534009">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
@@ -2008,13 +2036,6 @@
 <td><a href="https://trueinterview.io/jobs/979c6b7b-c1c7-40b7-a0ef-de8ec8c51058">Electrical Engineer Intern - Summer 2027</a></td>
 <td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e31f3df-5ae6-4213-86be-117962a3bc9d">TNC Nuclear Interns 2027</a></td>
-<td>Columbia, SC<br/>Columbia, South Carolina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5418204008">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

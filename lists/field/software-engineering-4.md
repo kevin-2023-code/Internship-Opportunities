@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,512 open roles.** 1,236 in the United States & Canada · 276 elsewhere in the world.
+**1,526 open roles.** 1,244 in the United States & Canada · 282 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,49 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Didi Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a425a8b-91b2-402b-9e74-0f84e535c5a2">Motion Planning Engineer (PhD, Intern)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/didi/jobs/8198303">Apply</a></td>
+<td align="center">12 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Xcimer Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/9035d284-0b4b-44cd-a32b-9f654522ed69">Summer 2027 Internship - Optical Engineering</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Baidu</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ee9534a-1df8-4c5e-a7d4-86308e3c7e73">Forward Deployed Engineer Intern</a></td>
+<td>Mountain View, CA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/baidu/jobs/8197142">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Commure</strong></td>
+<td><a href="https://trueinterview.io/jobs/df99235f-6439-4087-a1b7-c1edaf17e289">Software Engineering Intern, Summer 2027</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Missions System International</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f2460b7-1727-4885-8e90-aa2f7d79f0df">Co-op Winter 2027 DevOps Engineering - 8-16 Months</a></td>
+<td>Ottawa, Ontario, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000149071040-co-op-winter-2027-devops-engineering-8-16-months">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Lyft</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
+<td>Mexico City, Mexico<br/>San Francisco, CA<br/>Montreal, QC<br/>+4 more</td>
+<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c4a9d2e9-c246-493f-9de3-d264e85553e4">Software Engineer Intern, Test Automation (Summer 2027)</a></td>
 <td>Montreal, QC<br/>Montreal, Canada</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002">Apply</a></td>
@@ -48,6 +90,13 @@
 <td><a href="https://trueinterview.io/jobs/adf4bdca-b579-4c07-8d1a-f5c0434d8c5b">Summer 2027 Internship - Computational and Software Engineering</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9a29b7c-4639-414c-9906-e48b4b091083">Software Developer Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733138005">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -97,6 +146,13 @@
 <td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>
 <td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439">Client Platforms Engineer Intern - Summer 2027</a></td>
+<td>London<br/>New York, NY<br/>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732700005">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
@@ -233,6 +289,13 @@
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/48ddc36f-e925-42b2-8e91-3b4f7901db37">Summer 2027 - Software Engineer Intern</a></td>
+<td>Washington, DC<br/>Seattle, Washington<br/>San Diego, California<br/>+2 more</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Rf Smart</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4436e99-fa32-4026-b1e0-aee61627c35c">Software Support Engineer Internship (NetSuite) - Summer 2027</a></td>
 <td>Highlands Ranch, Colorado, United States<br/>US West</td>
@@ -258,13 +321,6 @@
 <td><a href="https://trueinterview.io/jobs/8ca173ec-9f62-456b-86e1-8a5f1448d813">Forward Deployed Engineer, Intern</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OnePay</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1d47b9c-c2b2-49c2-b497-4b5316ed3c8d">Software Engineer, Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
@@ -373,8 +429,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
-<td>Bratislava, Bratislava, Slovakia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
+<td>Bratislava, Bratislava, Slovakia<br/>Slovakia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40494">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1589,13 +1645,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Scale</strong></td>
-<td><a href="https://trueinterview.io/jobs/3600e62c-3f66-4127-be63-5cb0a3418cee">Software Engineering Intern (Summer 2027)</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467226376/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Teradata</strong></td>
 <td><a href="https://trueinterview.io/jobs/c12bece7-cc10-4c5e-94a5-0cc047c5c987">Product Support Engineering Intern</a></td>
 <td>India</td>
@@ -1691,6 +1740,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a79668f8-1118-4774-b794-da13db98e28a">Engineering Intern (London, Summer 2027)</a></td>
 <td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c283257-d7ef-4a41-85c8-c5f35704a0b2">Intern, Application Engineer</a></td>
+<td>Edinburgh, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000157804996-intern-application-engineer">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
@@ -1890,6 +1946,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">14 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6422698-11b6-442a-a0ca-9aff389a13d9">Intern, Product Engineering</a></td>
+<td>Lviv, Ukraine</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Taktile</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8cff64d-c2d8-4f48-b524-fcac1cd29d0e">Software Engineer Internship for HPI Students</a></td>
 <td>Berlin Office</td>
@@ -2044,6 +2107,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/b527973e-f432-4ced-a773-74a7c41ba25a">Software Engineering Intern (2027 Start) - London</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Drees &amp; Sommer Digital Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/1c59e65e-0882-4fb3-ac0c-d3333e43a09b">INTERNSHIP - Cybersecurity</a></td>
 <td>Málaga, Andalucía, Spain</td>
@@ -2079,6 +2149,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/712bf8c8-bbf4-4754-8086-842613578e34">Developer DevOps Intern</a></td>
+<td>Brazil</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Merkle Science</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b62587f-3f41-4247-9955-09dd865d4a07">Software Engineer - Intern (Frontend)</a></td>
 <td>Bangalore</td>
@@ -2098,6 +2175,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berkeley</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Terranova/7ba048ea-818d-46b5-8ff8-3ce58d39bcc6">Apply</a></td>
 <td align="center">26 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/e80e950e-6743-436c-96ca-e20f5e875d50">Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</a></td>
+<td>Leideleng, Distrikt Luxemburg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865-internship-wavestone-luxembourg-cybersecurity-artificial-intelligence-consulting">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1440859c-0175-4d9f-9966-4e288bfe3f19">Security Engineer Intern - Summer 2027</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Real Time Innovations</strong></td>
@@ -2126,6 +2217,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>SF Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application">Apply</a></td>
 <td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/35f5307b-3cdb-4908-b832-5cee56489e54">2027 Software Developer Intern (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733880005">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Western Digital</strong></td>

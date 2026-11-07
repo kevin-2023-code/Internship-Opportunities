@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**162 open roles.** 113 in the United States & Canada · 49 elsewhere in the world.
+**166 open roles.** 116 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488725444/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
+<td>San Jose, CA<br/>New York, NY<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alcon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
+<td>Goleta, CA<br/>Lake Forest, CA<br/>Houston, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Parspec</strong></td>
 <td><a href="https://trueinterview.io/jobs/487541b2-8ea6-4381-84ea-2fb5cdf0d58f">Applied AI Engineer Intern</a></td>
@@ -43,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ab546aaa-6b6a-46d7-8978-f3b1f841ef89">Software Engineering Generative AI Intern</a></td>
 <td>Elk Grove Village, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488423805/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Alcon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
-<td>Goleta, CA<br/>Lake Forest, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -307,8 +321,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Samsung Semiconductor</strong></td>
 <td><a href="https://trueinterview.io/jobs/d00b9225-1d9b-4b22-84e9-a8c82e31a7ce">Intern, AI Application Engineer</a></td>
-<td>Folsom, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485785816/">Apply</a></td>
+<td>Folsom, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -547,6 +561,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4cfb0473-43fc-401f-9588-775faae1b0e3">AI Researcher Intern</a></td>
 <td>Lake County, IN<br/>Onsite in Bangalore</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/hackerrank/jobs/8281055">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/52491507-2ea5-4d5e-9969-d296702be756">Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM)</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -914,7 +935,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/200f674b-02e7-4395-a2c0-9008a79d0916">NPI Engineering Intern (AI-Assisted Operations)</a></td>
-<td>Malaysia</td>
+<td>Singapore<br/>Malaysia</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -1154,6 +1175,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83">2027 BT RISE Internship - Information Technology AI Intern</a></td>
 <td>Indianapolis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kandou AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5ad97aa-ff3b-4f7e-ae1c-8a91a3f2c047">Internship - AI Engineer</a></td>
+<td>Saint-Sulpice</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/kandou-ai/19c7570c-8941-4777-9e61-dbacd81b94e8">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

@@ -167,8 +167,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
+<td>Chicago, Illinois, United States<br/>Mountain View, California, United States<br/>Jersey City, NJ<br/>+1 more</td>
+<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

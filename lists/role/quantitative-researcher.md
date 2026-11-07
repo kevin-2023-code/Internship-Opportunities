@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**31 open roles.** 22 in the United States & Canada · 9 elsewhere in the world.
+**33 open roles.** 23 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -171,6 +171,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/618a777e-a72a-4ebf-8cc7-36b3ac22581e">Quantitative Research Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733133005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -224,6 +231,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448">Apply</a></td>
 <td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3cf0f7-f453-4f77-8baf-802380adcc87">2027 Quantitative Research Intern (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733877005">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>

@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**111 open roles.** 90 in the United States & Canada · 21 elsewhere in the world.
+**110 open roles.** 89 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -288,13 +288,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5aa0a310-b1c8-4efe-858a-5745f4abcbe8">Student Intern, AI / Data Science</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468015714/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a9ef974-ce0a-452e-8ec6-56162b0a2094">Data Scientist Intern</a></td>
-<td>Jersey City, NJ<br/>Cheshire, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478000251/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

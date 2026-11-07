@@ -599,13 +599,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/2dbf5871-f396-433d-ab7d-3186527eec0f">Security Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States<br/>Seattle - United States - Seattle, Washington United States</td>
@@ -709,6 +702,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bellevue, WA (Hybrid)<br/>Emeryville, CA (Hybrid)<br/>Addison, TX Office<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8189328">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/48ddc36f-e925-42b2-8e91-3b4f7901db37">Summer 2027 - Software Engineer Intern</a></td>
+<td>Seattle, Washington<br/>Washington, DC<br/>San Diego, California<br/>+2 more</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010">Apply</a></td>
+<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

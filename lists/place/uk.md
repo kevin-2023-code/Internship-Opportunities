@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**49 open roles.** 11 in the United States & Canada · 38 elsewhere in the world.
+**51 open roles.** 11 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -254,17 +254,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Scale</strong></td>
-<td><a href="https://trueinterview.io/jobs/3600e62c-3f66-4127-be63-5cb0a3418cee">Software Engineering Intern (Summer 2027)</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467226376/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Hiya</strong></td>
 <td><a href="https://trueinterview.io/jobs/a79668f8-1118-4774-b794-da13db98e28a">Engineering Intern (London, Summer 2027)</a></td>
 <td>London, UK</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hiya/046212dd-41e3-46e7-a8ba-48cff5a7f947">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c283257-d7ef-4a41-85c8-c5f35704a0b2">Intern, Application Engineer</a></td>
+<td>Edinburgh, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000157804996-intern-application-engineer">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
@@ -338,6 +338,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/b527973e-f432-4ced-a773-74a7c41ba25a">Software Engineering Intern (2027 Start) - London</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Capstone Investment Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/5bb7c498-b82c-4cda-8cc6-eb6968ae9b0f">Summer 2027 - Quant Internship</a></td>
 <td>London</td>
@@ -350,6 +357,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101">Apply</a></td>
 <td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1440859c-0175-4d9f-9966-4e288bfe3f19">Security Engineer Intern - Summer 2027</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Voleon</strong></td>

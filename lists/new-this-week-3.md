@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**999 open roles.** 817 in the United States & Canada · 182 elsewhere in the world. Everything the employers put up this week.
+**998 open roles.** 818 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Firework</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4006aad-eddf-4f60-8d7f-0474694941c5">Data Engineer Intern</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Farmers Mutual Hail Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8e61fe8-f380-477e-b559-652e442834ae">Software Developer Intern</a></td>
+<td>West Des Moines, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481958857/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261">Software Engineer Co-op</a></td>
+<td>New Providence, New Jersey, United States<br/>New Providence, NJ</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Brain Co.</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8ace4be-f9ec-4d10-bc42-54898435558d">AI Security Engineer Intern (Summer 2027)</a></td>
@@ -107,31 +128,17 @@
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0d72156-7d73-4cab-9197-e3dd4cc80418">Intern, SRAM Design Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Toyota Research Institute</strong></td>
 <td><a href="https://trueinterview.io/jobs/f1a264ee-49db-41e6-8901-7ee888a3ed32">Accelerated Science Intern, Machine Learning/Agentic AI</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/549f9cf9-86ef-430b-87aa-cce0d54fb105">Software Engineer Co-Op - Spring/Summer 2027</a></td>
-<td>Pittsford, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468675612/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a57a759-0c1a-4f90-a6c5-866bd6b0a0a7">Quality Designer Co-op (Summer 2027)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Quality-Designer-Co-op/216286">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4169451-0a8b-4104-96d4-b00b1f28ee98">Intern - R&amp;D Test Engineer - Spring or Summer 2027</a></td>
-<td>Devens, MA &amp; Somerville, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
@@ -450,8 +457,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
-<td>Bratislava, Bratislava, Slovakia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
+<td>Bratislava, Bratislava, Slovakia<br/>Slovakia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40494">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -1213,7 +1220,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/200f674b-02e7-4395-a2c0-9008a79d0916">NPI Engineering Intern (AI-Assisted Operations)</a></td>
-<td>Malaysia</td>
+<td>Singapore<br/>Malaysia</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -1404,20 +1411,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0bc358c2-36d8-4d73-89bb-8f97458cfa66">Formal Verification Intern</a></td>
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682664">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>A-Tech Fabrications Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/122aaeda-5980-465b-9af8-c7739fa10e4a">Software Developer Intern</a></td>
-<td>Newton Aycliffe, United Kingdom</td>
-<td align="center"><a href="https://uk.indeed.com/viewjob?jk=a1c47e957131029c">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/6200aa9b-201d-4787-b28f-48070aea4f69">Technical Internship - Apple Wallet, Payments &amp; Commerce</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692619">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

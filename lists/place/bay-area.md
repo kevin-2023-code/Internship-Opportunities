@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**502 open roles.**
+**509 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
+<td>San Jose, CA<br/>New York, NY<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470022954/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fe276706-da02-40f0-8395-89632e86c07b">2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470765698/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WD</strong></td>
 <td><a href="https://trueinterview.io/jobs/ef0240af-0e6d-41bf-b383-d6f6222f782a">Summer 2027 Intern - Software Engineering</a></td>
@@ -699,6 +720,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Genmd</strong></td>
+<td><a href="https://trueinterview.io/jobs/4df6d620-88a7-476a-aa1a-b23113956bf4">Member of Technical Staff Intern, Applied AI</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Astro Mechanica</strong></td>
 <td><a href="https://trueinterview.io/jobs/13f8f537-f34d-4541-a075-6c1cc6640d70">Software Engineering Intern</a></td>
 <td>San Francisco, CA</td>
@@ -813,8 +841,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
-<td>Mountain View, CA<br/>Chicago, IL<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
+<td>Mountain View, California, United States<br/>Chicago, Illinois, United States<br/>Jersey City, NJ<br/>+1 more</td>
+<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -822,13 +850,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc7840c2-b575-4b23-96dd-185e392947e7">2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468695467/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Mountain View, CA<br/>Chicago, IL<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -920,6 +941,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485600471/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0d72156-7d73-4cab-9197-e3dd4cc80418">Intern, SRAM Design Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1424,6 +1452,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1e1c4b49-9166-4d73-b80b-2bf3287de01b">Member of Technical Staff Intern</a></td>
 <td>Palo Alto, CA<br/>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/52491507-2ea5-4d5e-9969-d296702be756">Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM)</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1881156a-2267-4b24-a6ac-c647e26d4f8d">Intern, RTL Power Macromodeling Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/08fa082d-1b97-4531-8a3e-50d1eb183d08">Intern, Power-Thermal Simulation Software Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1b9cc1d6-4c11-4724-9cb1-71d4fbebc0d5">Electrical Engineering Intern</a></td>
 <td>San Carlos, CA<br/>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/base-power/7284737d-7e04-43e0-af1f-858103f64e97">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7c2cc40e-3cf7-4b77-b8bf-cfdae7e730cb">Mechanical Engineering Intern</a></td>
-<td>San Carlos, CA<br/>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Muon Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4680b55-25a8-4642-9df9-5ac64ec61c34">Flight Software Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5247725007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/123f1052-cd93-45d7-85e4-21b6cc70cf9e">Thermal Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5253474007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e44fd66f-4d67-49a1-b17d-7ece52be1aec">Quality Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5253432007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/93a1ecf8-c031-4f51-8499-07fcb0f0360d">GNC Software Engineering Intern (Summer 2027)</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5252680007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e884cee8-9cbd-4086-b0d9-e6d10f692382">GNC Hardware Engineering Intern (Summer 2027)</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5252677007">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/d806dc99-571f-47a3-86a5-710c27cc49c3">2027 MBA Intern – Product Manager</a></td>
-<td>San Jose, California, United States of America<br/>San Francisco, California, United States of America</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 </tbody>

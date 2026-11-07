@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**655 open roles.** 491 in the United States & Canada · 164 elsewhere in the world.
+**659 open roles.** 494 in the United States & Canada · 165 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488725444/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
+<td>San Jose, CA<br/>New York, NY<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hendrickson</strong></td>
+<td><a href="https://trueinterview.io/jobs/836037a9-71ba-458b-833c-915c80119083">Machine Learning Co-Op (Spring 2027)</a></td>
+<td>Canton, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471673979/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alcon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
+<td>Goleta, CA<br/>Lake Forest, CA<br/>Houston, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Morgan 6 LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/129f2791-eb2f-49c6-840f-cfc554291197">Data Analyst / Data Scientist Intern</a></td>
@@ -185,13 +213,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/253b5b29-24f1-47e4-a343-2bfdfeac066f">Artificial Intelligence/Machine Learning Engineer 2 - Intern</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488194682/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Alcon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
-<td>Goleta, CA<br/>Lake Forest, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -1588,20 +1609,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/01406038-1a8f-458d-beef-8e9cbf2f0ad2">Data Ops Engineer Intern</a></td>
-<td>Cheshire, CT<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477894522/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8a9ef974-ce0a-452e-8ec6-56162b0a2094">Data Scientist Intern</a></td>
-<td>Jersey City, NJ<br/>Cheshire, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478000251/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Newell Brands</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b39f308-a5b1-4b4a-9586-d5f458eecb6e">2027 Newell Brands Intern- Sales AI &amp; Analytics Developer Intern</a></td>
 <td>Huntersville, NC</td>
@@ -2393,6 +2400,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/52491507-2ea5-4d5e-9969-d296702be756">Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM)</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>42dot</strong></td>
 <td><a href="https://trueinterview.io/jobs/c00ecc71-dcf9-4ce2-ba5f-1fca00edf344">Internship, Foundation Models</a></td>
 <td>Sunnyvale, CA</td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d8e0520f-06d3-4aec-a4fe-825b2e04448d">Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1141752241867684/">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pattern</strong></td>
-<td><a href="https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09">AI Automation Engineer Intern</a></td>
-<td>Lehi, UT, US</td>
-<td align="center"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7878c67-7641-49ff-b48b-59497f04cb1c">Software Engineer Data &amp; AI PhD (Intern) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>Chicago, Illinois, United States of America<br/>Santa Monica, California, United States of America<br/>+1 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611">Apply</a></td>
 <td align="center">16 Oct 2026</td>
 </tr>
 </tbody>

@@ -132,15 +132,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
+<td>Chicago, Illinois, United States<br/>Mountain View, California, United States<br/>Jersey City, NJ<br/>+1 more</td>
+<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -154,7 +147,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f068b7-1939-4c53-a05b-1bc8d7af8a04">Quantitative Risk Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448582391/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719118005">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -252,7 +245,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/e590b4f8-9e7b-4c04-8bae-64c3a98fb52e">Database Engineer Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475125458/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4741016005">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -366,6 +359,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Deerfield, ILLINOIS, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098-product-management-intern-b2b-security">Apply</a></td>
 <td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439">Client Platforms Engineer Intern - Summer 2027</a></td>
+<td>Chicago, IL<br/>London<br/>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732700005">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Smartlyio</strong></td>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**655 open roles.** 491 in the United States & Canada · 164 elsewhere in the world.
+**659 open roles.** 494 in the United States & Canada · 165 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pattern</strong></td>
+<td><a href="https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09">AI Automation Engineer Intern</a></td>
+<td>Lehi, UT, US</td>
+<td align="center"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7878c67-7641-49ff-b48b-59497f04cb1c">Software Engineer Data &amp; AI PhD (Intern) - United States</a></td>
+<td>San Jose, California, US, United States of America<br/>Chicago, Illinois, United States of America<br/>Santa Monica, California, United States of America<br/>+1 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
@@ -576,6 +590,13 @@
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Megazone Cloud Us</strong></td>
+<td><a href="https://trueinterview.io/jobs/40b91e63-898e-4d87-a911-d01137fbc86c">Data Engineer Co-op 2027</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb">Ph.D. Intern - AI/ML &amp; Design Automation</a></td>
 <td>Austin, TX<br/>Santa Clara, CA, United States of America<br/>Irvine, CA<br/>+6 more</td>
@@ -1038,7 +1059,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/200f674b-02e7-4395-a2c0-9008a79d0916">NPI Engineering Intern (AI-Assisted Operations)</a></td>
-<td>Malaysia</td>
+<td>Singapore<br/>Malaysia</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
@@ -1803,6 +1824,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83">2027 BT RISE Internship - Information Technology AI Intern</a></td>
 <td>Indianapolis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kandou AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5ad97aa-ff3b-4f7e-ae1c-8a91a3f2c047">Internship - AI Engineer</a></td>
+<td>Saint-Sulpice</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/kandou-ai/19c7570c-8941-4777-9e61-dbacd81b94e8">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>

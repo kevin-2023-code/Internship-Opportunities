@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**86 open roles.** 61 in the United States & Canada · 25 elsewhere in the world.
+**89 open roles.** 63 in the United States & Canada · 26 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -273,7 +273,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f068b7-1939-4c53-a05b-1bc8d7af8a04">Quantitative Risk Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448582391/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719118005">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -444,6 +444,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/618a777e-a72a-4ebf-8cc7-36b3ac22581e">Quantitative Research Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733133005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9a2339dc-1265-4caa-8c58-0e19a6dc235e">Quantitative Trading Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4702083005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
 </tbody>
 </table>
 
@@ -601,6 +615,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae3cf0f7-f453-4f77-8baf-802380adcc87">2027 Quantitative Research Intern (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733877005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

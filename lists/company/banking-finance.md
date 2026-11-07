@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**22 open roles.** 14 in the United States & Canada · 8 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**19 open roles.** 11 in the United States & Canada · 8 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -34,29 +34,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/01406038-1a8f-458d-beef-8e9cbf2f0ad2">Data Ops Engineer Intern</a></td>
-<td>Cheshire, CT<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477894522/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8a9ef974-ce0a-452e-8ec6-56162b0a2094">Data Scientist Intern</a></td>
-<td>Jersey City, NJ<br/>Cheshire, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478000251/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
+<td>Chicago, Illinois, United States<br/>Mountain View, California, United States<br/>Jersey City, NJ<br/>+1 more</td>
+<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

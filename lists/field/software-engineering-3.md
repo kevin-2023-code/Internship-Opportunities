@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,512 open roles.** 1,236 in the United States & Canada · 276 elsewhere in the world.
+**1,526 open roles.** 1,244 in the United States & Canada · 282 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Apexanalytix</strong></td>
+<td><a href="https://trueinterview.io/jobs/8de18120-c9d1-4b18-ba38-1cb7f9d0edf3">Data Engineering Intern (Summer 2027)</a></td>
+<td>Greensboro, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465571507/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>STERIS</strong></td>
+<td><a href="https://trueinterview.io/jobs/c927cda0-bac8-4a14-86d6-3effa5c6aabf">Engineering Co-Op - Spring 2027</a></td>
+<td>Montgomery, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466558857/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5213881007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f">Backend Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210813007">Apply</a></td>
@@ -496,6 +517,20 @@
 <td><a href="https://trueinterview.io/jobs/410726b1-81d4-4953-9260-85e1fdc8b66a">Wabtec Spring 2027 Software Engineering Co-Op (10-Week)</a></td>
 <td>Schenectady, NY</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452235-wabtec-spring-2027-software-engineering-co-op-10-week-">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/1881156a-2267-4b24-a6ac-c647e26d4f8d">Intern, RTL Power Macromodeling Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/08fa082d-1b97-4531-8a3e-50d1eb183d08">Intern, Power-Thermal Simulation Software Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1437,6 +1472,13 @@
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/86329e1e-18de-45a2-b18b-603ea97ba696">Embedded C/C++ SW Developer Co-op/Intern</a></td>
+<td>Canada</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Solink</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff2c3535-2470-49ad-8426-73c46192789b">Software Engineer Co-op, Apps</a></td>
 <td>Ottawa Office</td>
@@ -1927,6 +1969,13 @@
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e3727b-655a-432d-8231-e1717accfc0c">DESIGN ENGINEER INTERN</a></td>
+<td>Queens, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015853286-design-engineer-intern">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Profluent</strong></td>
 <td><a href="https://trueinterview.io/jobs/5763f214-c283-46a0-8e7b-36016892e79c">Intern, Software Engineering</a></td>
 <td>Emeryville, California, United States</td>
@@ -2211,13 +2260,6 @@
 <td><a href="https://trueinterview.io/jobs/61253945-4f0c-4566-be99-229288ad6dfd">Product Design Engineering Intern, Summer 2027</a></td>
 <td>San Bruno, California</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4737767005">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
@@ -2772,48 +2814,6 @@
 <td>Seattle, Washington, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003">Apply</a></td>
 <td align="center">12 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Didi Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a425a8b-91b2-402b-9e74-0f84e535c5a2">Motion Planning Engineer (PhD, Intern)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/didi/jobs/8198303">Apply</a></td>
-<td align="center">12 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Xcimer Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/9035d284-0b4b-44cd-a32b-9f654522ed69">Summer 2027 Internship - Optical Engineering</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Baidu</strong></td>
-<td><a href="https://trueinterview.io/jobs/1ee9534a-1df8-4c5e-a7d4-86308e3c7e73">Forward Deployed Engineer Intern</a></td>
-<td>Mountain View, CA<br/>Sunnyvale, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/baidu/jobs/8197142">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Commure</strong></td>
-<td><a href="https://trueinterview.io/jobs/df99235f-6439-4087-a1b7-c1edaf17e289">Software Engineering Intern, Summer 2027</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Missions System International</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f2460b7-1727-4885-8e90-aa2f7d79f0df">Co-op Winter 2027 DevOps Engineering - 8-16 Months</a></td>
-<td>Ottawa, Ontario, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000149071040-co-op-winter-2027-devops-engineering-8-16-months">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lyft</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7">Software Engineer Intern, Backend (Summer 2027)</a></td>
-<td>Mexico City, Mexico<br/>San Francisco, CA<br/>Montreal, QC<br/>+4 more</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

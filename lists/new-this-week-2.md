@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**999 open roles.** 817 in the United States & Canada · 182 elsewhere in the world. Everything the employers put up this week.
+**998 open roles.** 818 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lawrence Livermore National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/5cbac2f7-b234-44d2-96fc-746077ece699">Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027</a></td>
+<td>Livermore, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487211808/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/5244124c-7316-4a5d-8856-952a674e91c7">CSG Software Engineering Undergraduate Intern</a></td>
+<td>Austin, TX<br/>Texas, United States</td>
+<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cdcc1cf-566c-4f87-a6b4-d444b125b11b">IA Research Engineer (Kernels) Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Matter</strong></td>
+<td><a href="https://trueinterview.io/jobs/96b4efa3-74e9-4579-a9e8-81495003f905">Summer 2027 Internship - Information Security Engineer</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487226304/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/bba776fc-a672-48fc-a864-f56c362d3e28">Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486349386/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>General Matter</strong></td>
 <td><a href="https://trueinterview.io/jobs/64bb4193-bb19-4dd4-98ea-e11489fbef6f">Summer 2027 Internship - Embedded Software Engineering</a></td>
@@ -989,6 +1024,13 @@
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Genmd</strong></td>
+<td><a href="https://trueinterview.io/jobs/4df6d620-88a7-476a-aa1a-b23113956bf4">Member of Technical Staff Intern, Applied AI</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Costco Wholesale</strong></td>
 <td><a href="https://trueinterview.io/jobs/36306fdc-c785-417e-912f-bb8da884900e">CDS Intern - InfoSec AI/ML</a></td>
 <td>Seattle, WA</td>
@@ -1019,8 +1061,8 @@
 <tr>
 <td><strong>Samsung Semiconductor</strong></td>
 <td><a href="https://trueinterview.io/jobs/d00b9225-1d9b-4b22-84e9-a8c82e31a7ce">Intern, AI Application Engineer</a></td>
-<td>Folsom, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485785816/">Apply</a></td>
+<td>Folsom, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1033,7 +1075,7 @@
 <tr>
 <td><strong>Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/58a7f456-2440-45fe-bf32-e31680df51db">Summer 2027 Intern - Embedded Firmware - 5810</a></td>
-<td>Dallas, TX</td>
+<td>Dallas, TX<br/>Dallas, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
@@ -2223,8 +2265,8 @@
 <tr>
 <td><strong>SageSure</strong></td>
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478001273/">Apply</a></td>
+<td>Chicago, Illinois, United States<br/>Mountain View, California, United States<br/>Jersey City, NJ<br/>+1 more</td>
+<td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2249,20 +2291,6 @@
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/01406038-1a8f-458d-beef-8e9cbf2f0ad2">Data Ops Engineer Intern</a></td>
-<td>Cheshire, CT<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477894522/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8a9ef974-ce0a-452e-8ec6-56162b0a2094">Data Scientist Intern</a></td>
-<td>Jersey City, NJ<br/>Cheshire, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478000251/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>The Options Clearing Corporation (OCC)</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8e291e9-dbbe-4169-9f10-3a1147fb217b">Summer Intern - Quantitative Risk Management</a></td>
 <td>Greater Chicago Area</td>
@@ -2274,13 +2302,6 @@
 <td><a href="https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662">Systems Test Automation Engineering Intern</a></td>
 <td>Kokomo, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476848948/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2504,7 +2525,7 @@
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f068b7-1939-4c53-a05b-1bc8d7af8a04">Quantitative Risk Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448582391/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719118005">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2793,27 +2814,6 @@
 <td>Redmond, WA</td>
 <td align="center"><a href="https://careers.nintendo.com/?gh_jid=4473568009">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Firework</strong></td>
-<td><a href="https://trueinterview.io/jobs/b4006aad-eddf-4f60-8d7f-0474694941c5">Data Engineer Intern</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Farmers Mutual Hail Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8e61fe8-f380-477e-b559-652e442834ae">Software Developer Intern</a></td>
-<td>West Des Moines, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481958857/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261">Software Engineer Co-op</a></td>
-<td>New Providence, New Jersey, United States<br/>New Providence, NJ</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

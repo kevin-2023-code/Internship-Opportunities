@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**21 open roles.** 1 in the United States & Canada · 20 elsewhere in the world.
+**22 open roles.** 1 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -175,6 +175,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Eindhoven, North Brabant, Netherlands</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000153766721-software-engineering-intern-device-simulation-digital-twin-february-2027-">Apply</a></td>
 <td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/e80e950e-6743-436c-96ca-e20f5e875d50">Internship Wavestone Luxembourg - Cybersecurity &amp; Artificial Intelligence Consulting</a></td>
+<td>Leideleng, Distrikt Luxemburg, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000151373865-internship-wavestone-luxembourg-cybersecurity-artificial-intelligence-consulting">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 </tbody>
 </table>

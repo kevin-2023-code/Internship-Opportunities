@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**999 open roles.** 817 in the United States & Canada · 182 elsewhere in the world. Everything the employers put up this week.
+**998 open roles.** 818 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488725444/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
+<td>San Jose, CA<br/>New York, NY<br/>Durham, NC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hendrickson</strong></td>
+<td><a href="https://trueinterview.io/jobs/836037a9-71ba-458b-833c-915c80119083">Machine Learning Co-Op (Spring 2027)</a></td>
+<td>Canton, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471673979/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/de5970e4-48aa-4f52-a395-dd71510b116f">Android Platform Software Engineering Intern - Summer 2027</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121058/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Waldinger Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c0e06ef-10cd-4724-9a37-184730851db7">Intern - Software Engineering</a></td>
+<td>Des Moines, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477711906/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alcon</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
+<td>Goleta, CA<br/>Lake Forest, CA<br/>Houston, TX<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470022954/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fe276706-da02-40f0-8395-89632e86c07b">2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470765698/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hidden Level</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe82decb-0552-4711-b430-c9bf6ba4c7a4">Full Stack Software Engineering Intern – Summer 2027</a></td>
@@ -517,13 +573,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Alcon</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
-<td>Goleta, CA<br/>Lake Forest, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>BAE Systems, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7ae094b-72e5-4c3b-a808-620f9fd668ac">C4ISR - Software Engineering Intern, Summer 2027 (Onsite)</a></td>
 <td>Wayne, NJ</td>
@@ -815,13 +864,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26d806ab-708c-48aa-8977-baa3d11189fe">Android Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487300422/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motion</strong></td>
-<td><a href="https://trueinterview.io/jobs/950920b6-edfa-4562-ba07-7447f1fbac27">Software Engineer - QA Analyst Intern</a></td>
-<td>Birmingham, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462424989/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2120,13 +2162,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Ryan</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b6af2ce-0f65-4f7e-b9c1-3feab2243b48">Summer 2027 Intern, Software Engineering</a></td>
-<td>North York, Ontario, Canada</td>
-<td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>SOTI</strong></td>
 <td><a href="https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e">Software Developer Intern - Android (May 2027 - 12 Months)</a></td>
 <td>Mississauga, Ontario, Canada</td>
@@ -2556,8 +2591,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/00fb2f8e-b12d-44d0-81f4-0e77e8d3517a">Software Engineer Intern - Summer 2027 (DV Commodities)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451627273/">Apply</a></td>
+<td>New York, NY<br/>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4d1e405f-3328-4698-98ed-154be4a8e0d9">Software Engineer Intern</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486352622/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lawrence Livermore National Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cbac2f7-b234-44d2-96fc-746077ece699">Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027</a></td>
-<td>Livermore, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487211808/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Dell Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/5244124c-7316-4a5d-8856-952a674e91c7">CSG Software Engineering Undergraduate Intern</a></td>
-<td>Austin, TX<br/>Texas, United States</td>
-<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Etched</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cdcc1cf-566c-4f87-a6b4-d444b125b11b">IA Research Engineer (Kernels) Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Matter</strong></td>
-<td><a href="https://trueinterview.io/jobs/96b4efa3-74e9-4579-a9e8-81495003f905">Summer 2027 Internship - Information Security Engineer</a></td>
-<td>Los Angeles Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487226304/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/bba776fc-a672-48fc-a864-f56c362d3e28">Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486349386/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

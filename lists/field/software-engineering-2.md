@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,512 open roles.** 1,236 in the United States & Canada · 276 elsewhere in the world.
+**1,526 open roles.** 1,244 in the United States & Canada · 282 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/4125a702-b7d5-48e8-8fa0-cb23e0e2d7c8">University - 2027 Summer Games Software Developer Intern - San Diego, CA</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459829472/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad">University, 2027 Summer Games Software Developer Intern - McLean, VA</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459884945/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Parsons Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
@@ -223,6 +237,13 @@
 <td><a href="https://trueinterview.io/jobs/10d4a23e-4e3e-4441-bc83-bf4df32cd3ec">SAP iXp Intern - Agile Developer, Business Data Cloud</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia, Canada<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158811580-sap-ixp-intern-agile-developer-business-data-cloud">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/f0d72156-7d73-4cab-9197-e3dd4cc80418">Intern, SRAM Design Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8081483003">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2721,7 +2742,7 @@
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/e590b4f8-9e7b-4c04-8bae-64c3a98fb52e">Database Engineer Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475125458/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4741016005">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6c5aea9d-b807-4636-9a88-d444dc03d93e">Automation Developer Intern (Summer 2027)</a></td>
 <td>Greensboro, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465565541/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8de18120-c9d1-4b18-ba38-1cb7f9d0edf3">Data Engineering Intern (Summer 2027)</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465571507/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>STERIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/c927cda0-bac8-4a14-86d6-3effa5c6aabf">Engineering Co-Op - Spring 2027</a></td>
-<td>Montgomery, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466558857/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verkada</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5213881007">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

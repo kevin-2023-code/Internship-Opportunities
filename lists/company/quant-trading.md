@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**37 open roles.** 20 in the United States & Canada · 17 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**44 open roles.** 24 in the United States & Canada · 20 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -137,6 +137,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9a29b7c-4639-414c-9906-e48b4b091083">Software Developer Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733138005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/618a777e-a72a-4ebf-8cc7-36b3ac22581e">Quantitative Research Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733133005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9a2339dc-1265-4caa-8c58-0e19a6dc235e">Quantitative Trading Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4702083005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
@@ -145,6 +166,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439">Client Platforms Engineer Intern - Summer 2027</a></td>
+<td>London<br/>New York, NY<br/>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732700005">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f413945d-7e6d-48a8-96fe-057c696165fb">AI Engineer Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732429005">Apply</a></td>
@@ -275,10 +303,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/1440859c-0175-4d9f-9966-4e288bfe3f19">Security Engineer Intern - Summer 2027</a></td>
+<td>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4736603005">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Voleon</strong></td>
 <td><a href="https://trueinterview.io/jobs/1691f1af-bfde-407f-af80-22b6a422e60f">Research Intern (London)</a></td>
 <td>London</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e/application">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/35f5307b-3cdb-4908-b832-5cee56489e54">2027 Software Developer Intern (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733880005">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ae3cf0f7-f453-4f77-8baf-802380adcc87">2027 Quantitative Research Intern (DV QES)</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733877005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

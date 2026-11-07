@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**58 open roles.**
+**62 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -324,6 +324,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, Oregon, Hillsboro, United States of America</td>
 <td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-SOC-Power-Delivery-Pathfinding-PhD-Intern_JR0287538">Apply</a></td>
 <td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Morrison Maierle</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b0a73f9-76c8-48f0-bd43-b758dda340e0">Structural Engineer Internship - Hydraulic Structures</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422894009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bbb7c5f2-54f1-4a84-9366-b9bf5388ef59">Electrical Engineer Internship</a></td>
+<td>Spokane, WA<br/>Bend, OR</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422847009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8628193c-cf7a-427e-a203-968b172fd64d">Civil Engineer Internship</a></td>
+<td>Spokane, WA<br/>Bozeman, MT<br/>Sheridan, WY<br/>+7 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422540009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cfa5aa92-2e85-4728-a762-65e67c96417f">Civil Engineer Internship - Natural Resources</a></td>
+<td>Boise, ID</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422534009">Apply</a></td>
+<td align="center">28 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Micron Technology</strong></td>

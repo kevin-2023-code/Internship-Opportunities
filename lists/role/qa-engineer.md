@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**38 open roles.** 28 in the United States & Canada · 10 elsewhere in the world.
+**37 open roles.** 27 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Motion</strong></td>
-<td><a href="https://trueinterview.io/jobs/950920b6-edfa-4562-ba07-7447f1fbac27">Software Engineer - QA Analyst Intern</a></td>
-<td>Birmingham, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462424989/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Johnson &amp; Johnson MedTech</strong></td>
 <td><a href="https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe">Software Test Engineering Co-op (RLM)</a></td>

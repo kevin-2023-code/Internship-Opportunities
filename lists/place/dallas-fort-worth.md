@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**76 open roles.**
+**77 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,7 +125,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/58a7f456-2440-45fe-bf32-e31680df51db">Summer 2027 Intern - Embedded Firmware - 5810</a></td>
-<td>Dallas, TX</td>
+<td>Dallas, TX<br/>Dallas, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
@@ -548,6 +548,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015813">Apply</a></td>
 <td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/48ddc36f-e925-42b2-8e91-3b4f7901db37">Summer 2027 - Software Engineer Intern</a></td>
+<td>Dallas, Texas<br/>Washington, DC<br/>Seattle, Washington<br/>+2 more</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010">Apply</a></td>
+<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

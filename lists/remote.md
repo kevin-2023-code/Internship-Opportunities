@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**48 open roles.** 35 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
+**47 open roles.** 34 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -254,13 +254,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OnePay</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1d47b9c-c2b2-49c2-b497-4b5316ed3c8d">Software Engineer, Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

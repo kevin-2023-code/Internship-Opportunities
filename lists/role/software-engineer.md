@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**426 open roles.** 348 in the United States & Canada · 78 elsewhere in the world.
+**430 open roles.** 350 in the United States & Canada · 80 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470022954/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Spectrum</strong></td>
 <td><a href="https://trueinterview.io/jobs/17bc85c2-d8ba-4963-838d-1dc884d76b0d">2027 Summer Intern: Software Engineer - P&amp;T</a></td>
@@ -533,8 +540,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/00fb2f8e-b12d-44d0-81f4-0e77e8d3517a">Software Engineer Intern - Summer 2027 (DV Commodities)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451627273/">Apply</a></td>
+<td>New York, NY<br/>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -773,6 +780,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/77a5eed2-ca46-4456-aaa0-4ae4a0446f93">2027 Summer Internship: Software Developer</a></td>
 <td>Denton, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486811228/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Genmd</strong></td>
+<td><a href="https://trueinterview.io/jobs/4df6d620-88a7-476a-aa1a-b23113956bf4">Member of Technical Staff Intern, Applied AI</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1053,13 +1067,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
 <td>San Luis Obispo, CA</td>
 <td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477676855?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1609,6 +1616,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/08fa082d-1b97-4531-8a3e-50d1eb183d08">Intern, Power-Thermal Simulation Software Engineer</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/d27b0943-c217-4ea2-80be-ad6206614317">Intern Software Engineer / Agent Engineer - EDA - Austin 2027</a></td>
 <td>Austin, TX<br/>Poughkeepsie, AR</td>
@@ -2155,13 +2169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/b85d32db-cfec-4e6b-830f-38f8273b516f">Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fdfe2bc-6058-42ba-95e2-3149035e3504">Software Intern</a></td>
 <td>Aguadilla, Puerto Rico, Puerto Rico<br/>San Juan, Puerto Rico, Puerto Rico</td>
@@ -2372,6 +2379,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>DV Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9a29b7c-4639-414c-9906-e48b4b091083">Software Developer Intern - Summer 2027 (DV Equities)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733138005">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/ce8b8ae1-8f59-4291-ac76-a775700a5f90">Software Engineer Internship – User Experience Team</a></td>
 <td>Des Moines, Iowa, United States</td>
@@ -2428,6 +2442,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/48ddc36f-e925-42b2-8e91-3b4f7901db37">Summer 2027 - Software Engineer Intern</a></td>
+<td>Washington, DC<br/>Seattle, Washington<br/>San Diego, California<br/>+2 more</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Rf Smart</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4436e99-fa32-4026-b1e0-aee61627c35c">Software Support Engineer Internship (NetSuite) - Summer 2027</a></td>
 <td>Highlands Ranch, Colorado, United States<br/>US West</td>
@@ -2446,13 +2467,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8ca173ec-9f62-456b-86e1-8a5f1448d813">Forward Deployed Engineer, Intern</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48/application">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>OnePay</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1d47b9c-c2b2-49c2-b497-4b5316ed3c8d">Software Engineer, Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
@@ -2512,8 +2526,8 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
-<td>Bratislava, Bratislava, Slovakia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476447726/">Apply</a></td>
+<td>Bratislava, Bratislava, Slovakia<br/>Slovakia</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40494">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8eca9ccf-e954-4e0c-9816-a7c21d749406">Software Engineer (Software Integrator) Intern [IDA:00070]</a></td>
 <td>Kallang, Singapore</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000157968618-software-engineer-software-integrator-intern-ida-00070-">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td><a href="https://trueinterview.io/jobs/db84990f-ae3e-44ee-b0eb-0574b20dad11">Software Engineer Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Natixis</strong></td>
-<td><a href="https://trueinterview.io/jobs/91181dc8-6eab-47ec-be18-50b0ec81175f">Internship - 6 months - Developer fullstack Web &amp; Sales Solutions (F/H)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://recrutement.natixis.com/en/job/internship-6-months-developer-fullstack-web-sales-solutions-f-h">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

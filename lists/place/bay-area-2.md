@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**502 open roles.**
+**509 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Base Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c2cc40e-3cf7-4b77-b8bf-cfdae7e730cb">Mechanical Engineering Intern</a></td>
+<td>San Carlos, CA<br/>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4680b55-25a8-4642-9df9-5ac64ec61c34">Flight Software Engineering Intern (Summer 2027)</a></td>
+<td>San Jose, CA<br/>Muon San Jose</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5247725007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/123f1052-cd93-45d7-85e4-21b6cc70cf9e">Thermal Engineering Intern (Summer 2027)</a></td>
+<td>San Jose, CA<br/>Muon San Jose</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5253474007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e44fd66f-4d67-49a1-b17d-7ece52be1aec">Quality Engineering Intern (Summer 2027)</a></td>
+<td>San Jose, CA<br/>Muon San Jose</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5253432007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/93a1ecf8-c031-4f51-8499-07fcb0f0360d">GNC Software Engineering Intern (Summer 2027)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5252680007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e884cee8-9cbd-4086-b0d9-e6d10f692382">GNC Hardware Engineering Intern (Summer 2027)</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5252677007">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/d806dc99-571f-47a3-86a5-710c27cc49c3">2027 MBA Intern – Product Manager</a></td>
+<td>San Jose, California, United States of America<br/>San Francisco, California, United States of America</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/09d3fd89-8543-415d-a17e-b0432e8e81ea">2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI &amp; Robotics</a></td>

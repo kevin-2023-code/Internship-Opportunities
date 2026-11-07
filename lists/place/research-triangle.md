@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
+<td>Durham, NC<br/>San Jose, CA<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SAS</strong></td>
 <td><a href="https://trueinterview.io/jobs/4af88d3c-06b8-461d-930d-c02dc53a585b">Summer 2027 - Data Scientist Intern</a></td>
 <td>Cary HQ, NC, US<br/>Cary, NC</td>
@@ -373,13 +380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Charlotte, NC<br/>Columbus, OH<br/>Orlando, FL<br/>+1 more</td>
 <td align="center"><a href="https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e31f3df-5ae6-4213-86be-117962a3bc9d">TNC Nuclear Interns 2027</a></td>
-<td>Columbia, SC<br/>Columbia, South Carolina</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5418204008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,512 open roles.** 1,236 in the United States & Canada · 276 elsewhere in the world.
+**1,526 open roles.** 1,244 in the United States & Canada · 282 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/de5970e4-48aa-4f52-a395-dd71510b116f">Android Platform Software Engineering Intern - Summer 2027</a></td>
+<td>Plantation, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463121058/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Waldinger Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c0e06ef-10cd-4724-9a37-184730851db7">Intern - Software Engineering</a></td>
+<td>Des Moines, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477711906/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2ea6dc2-b12c-4794-8722-1d86b850f967">2027 Summer Intern, PhD, Software Engineer, Simulation</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470022954/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fe276706-da02-40f0-8395-89632e86c07b">2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470765698/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hidden Level</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe82decb-0552-4711-b430-c9bf6ba4c7a4">Full Stack Software Engineering Intern – Summer 2027</a></td>
@@ -486,13 +514,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/26d806ab-708c-48aa-8977-baa3d11189fe">Android Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487300422/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motion</strong></td>
-<td><a href="https://trueinterview.io/jobs/950920b6-edfa-4562-ba07-7447f1fbac27">Software Engineer - QA Analyst Intern</a></td>
-<td>Birmingham, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462424989/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -1161,13 +1182,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Ryan</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b6af2ce-0f65-4f7e-b9c1-3feab2243b48">Summer 2027 Intern, Software Engineering</a></td>
-<td>North York, Ontario, Canada</td>
-<td align="center"><a href="https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>SOTI</strong></td>
 <td><a href="https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e">Software Developer Intern - Android (May 2027 - 12 Months)</a></td>
 <td>Mississauga, Ontario, Canada</td>
@@ -1345,8 +1359,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DV Trading LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/00fb2f8e-b12d-44d0-81f4-0e77e8d3517a">Software Engineer Intern - Summer 2027 (DV Commodities)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451627273/">Apply</a></td>
+<td>New York, NY<br/>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2029,6 +2043,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Genmd</strong></td>
+<td><a href="https://trueinterview.io/jobs/4df6d620-88a7-476a-aa1a-b23113956bf4">Member of Technical Staff Intern, Applied AI</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Costco Wholesale</strong></td>
 <td><a href="https://trueinterview.io/jobs/36306fdc-c785-417e-912f-bb8da884900e">CDS Intern - InfoSec AI/ML</a></td>
 <td>Seattle, WA</td>
@@ -2052,7 +2073,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/58a7f456-2440-45fe-bf32-e31680df51db">Summer 2027 Intern - Embedded Firmware - 5810</a></td>
-<td>Dallas, TX</td>
+<td>Dallas, TX<br/>Dallas, Texas</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
@@ -2659,13 +2680,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>SageSure</strong></td>
-<td><a href="https://trueinterview.io/jobs/9076d24c-b770-4329-8e98-d4aa7c4acd33">Software Engineer Intern</a></td>
-<td>Chicago, IL<br/>Mountain View, CA<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477899311/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>GCM Grosvenor</strong></td>
 <td><a href="https://trueinterview.io/jobs/377d2bad-ecdc-413f-946b-6e06df0a85b4">2027 Software Engineering Summer Intern</a></td>
 <td>Chicago, Illinois, United States</td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/335c6bf8-628a-4da3-9660-4888a16b78bd">University - 2027 Summer Games Software Developer Intern - Charleston, SC</a></td>
 <td>Charleston, SC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460518284/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4125a702-b7d5-48e8-8fa0-cb23e0e2d7c8">University - 2027 Summer Games Software Developer Intern - San Diego, CA</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459829472/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad">University, 2027 Summer Games Software Developer Intern - McLean, VA</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459884945/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
