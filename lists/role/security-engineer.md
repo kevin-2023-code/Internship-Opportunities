@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**99 open roles.** 84 in the United States & Canada · 15 elsewhere in the world.
+**100 open roles.** 84 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -651,6 +651,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4437022706/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c61508c-724b-4aa0-8f2d-1a6e51fcc019">Telecommunications &amp; Cybersecurity Operations | Internship Program</a></td>
+<td>Açores, Aveiro District, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158797217-telecommunications-cybersecurity-operations-internship-program">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>All jobs</strong></td>

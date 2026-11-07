@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**509 open roles.**
+**511 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Lam Research</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d37dd43-cdb6-4f9d-9cc4-462fc0232c78">Summer 2027 - Process Engineering Intern - PhD</a></td>
+<td>Fremont, CA, US</td>
+<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556374769">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/e558ac3c-05db-40f3-8c1d-f8f7c8180afa">Intern - DRAM ARCHITECTURE</a></td>
+<td>San Jose, CA<br/>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702753">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/550f8333-f44e-4c47-aa3f-c712de0ec4b3">Intern - DRAM ARCTITECHTURE</a></td>
+<td>San Jose, CA<br/>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44702762">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Base Power</strong></td>
 <td><a href="https://trueinterview.io/jobs/1b9cc1d6-4c11-4724-9cb1-71d4fbebc0d5">Electrical Engineering Intern</a></td>
@@ -769,13 +790,6 @@
 <td><a href="https://trueinterview.io/jobs/c304820a-4582-42c5-a845-cafd9633da2d">AI Engineer Intern</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/eudia/jobs/4020078009">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/eadec26f-4864-483c-895b-a9f88a327770">Data Engineering Intern - AI &amp; Analytics (January - August 2027)</a></td>
-<td>Palo Alto, California<br/>Irvine, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

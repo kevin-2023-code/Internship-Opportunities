@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,549 open roles.** 1,254 in the United States & Canada · 295 elsewhere in the world.
+**1,571 open roles.** 1,258 in the United States & Canada · 313 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3f18fe1-7c6e-4abe-a4b3-b6da58f5239b">Information Technology Intern – Security</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Grammarly</strong></td>
+<td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
+<td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Opengov</strong></td>
+<td><a href="https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8">Product Intern</a></td>
+<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>National Life Insurance Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/51a0a61d-0fa4-4739-9077-7bee505d6e33">IT Application Development Intern (Inforce) – Summer 2027</a></td>
+<td>Addison, TX<br/>Montpelier, VT</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Workshop</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b0275a9-5d37-4fa2-8d49-3fb90a7cc973">Software Engineer Intern (Summer 2027)</a></td>
@@ -420,6 +448,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>MIT Lincoln Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cf3389b-3876-481b-a7e2-07127a4850ad">Summer Research Program Intern 2027, Fabrication Engineering - Digital Architecture (Group 07-72)</a></td>
+<td>MIT Lincoln Laboratory, Lexington MA</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=C0012546317P&amp;rcm_site_locale=en_US&amp;career_job_req_id=43541">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Enovation Controls</strong></td>
 <td><a href="https://trueinterview.io/jobs/0976cabb-a273-47bd-b9f4-3a4222ac1eb5">Manufacturing Software Engineering Intern - Summer 2027</a></td>
 <td>OK</td>
@@ -679,10 +714,45 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/85bae641-8109-4660-9afe-1741ad38710c">Undergraduate Placement Year 2027 – Production Engineering Intern</a></td>
+<td>Worcester, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159368889-undergraduate-placement-year-2027-production-engineering-intern-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Aumovio</strong></td>
 <td><a href="https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609">Mandatory Internship - Application Engineering Excellence – Power BI and efficiency expert</a></td>
 <td>Lindau (Bodensee), Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000159342667-mandatory-internship-application-engineering-excellence-power-bi-and-efficiency-expert">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a3473db-36ad-4f6d-8b34-14a2eede6ff6">[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159328650--internship-program-q1-2027-fullstack-engineer-intern-java-nodejs-python-django-react-net-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/36addc1c-185d-4ab1-8551-2756f28c5627">[Internship Program Q1 2027] Automation Test Engineer Intern (Selenium)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329649--internship-program-q1-2027-automation-test-engineer-intern-selenium-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/85426b39-2a76-477d-8873-91ab66e49f30">[Internship Program Q1 2027] DevOps Engineer Intern</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159327500--internship-program-q1-2027-devops-engineer-intern">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c442ac3b-bb11-4468-84ba-7ca81a4e2b6d">[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159327431--internship-program-q1-2027-embedded-software-engineer-intern-c-c-linux-">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -910,6 +980,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c61508c-724b-4aa0-8f2d-1a6e51fcc019">Telecommunications &amp; Cybersecurity Operations | Internship Program</a></td>
+<td>Açores, Aveiro District, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158797217-telecommunications-cybersecurity-operations-internship-program">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a550c95-ee5a-498a-a803-54858939cfd0">Extracurricular Internship – DevOps &amp; GenAI Engineer for Quality (f/m/div.)</a></td>
+<td>Braga, Braga, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158794999-extracurricular-internship-devops-genai-engineer-for-quality-f-m-div-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/6200aa9b-201d-4787-b28f-48070aea4f69">Technical Internship - Apple Wallet, Payments &amp; Commerce</a></td>
 <td>London, England, United Kingdom</td>
@@ -928,6 +1012,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/92d35417-6b84-4704-8463-8f190488a274">Full Stack Developer Intern - SAP Business AI Singapore</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483446111/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d350076-a1b5-4a8b-b607-c77d6d380e71">[BD] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD )</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158706539--bd-software-developer-intern-backend-javascript-apis-ci-cd-">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1701,6 +1792,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c44b704-b7db-4468-875c-35a1e305ca98">[SX/BSV-VN] Embedded Test Engineer Intern</a></td>
+<td>Ha Noi, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158244934--sx-bsv-vn-embedded-test-engineer-intern">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Honeywell Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/d2045156-43ca-4733-afdb-92114fdc5f5a">Intern - Embedded Software Engineer</a> 🌐</td>
 <td>Remote — United Kingdom</td>
@@ -1747,6 +1845,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/acc9913e-319b-48d6-98e5-e93492089329">QA Engineer (Intern)</a></td>
 <td>Kyiv, Ukraine</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/39c22046-2f37-4044-ac49-8d78d4985269">Development Engineer Intern</a></td>
+<td>Шимановци, Војводина, Serbia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158032538-development-engineer-intern">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -2030,6 +2135,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1521622a-30f6-4069-af8f-d6b5b2bc1d08">Software Engineering Intern - Infrastructure and Test</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014490">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Guidepoint Security</strong></td>
 <td><a href="https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098">Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</a> 🌐</td>
 <td>Remote</td>
@@ -2191,6 +2303,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8">Field Applications Engineering Intern - Guildford &amp; Manchester, United Kingdom</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018498">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Squarepoint</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9422e3e-146d-4b43-8857-1684d3833f28">Intern Software Developer - Warsaw 2027</a></td>
 <td>Warsaw</td>
@@ -2226,6 +2345,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/d278ec5c-85b8-4c1a-89d4-c77455f14997">Validation / Characterization Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018495">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Mastercontrol</strong></td>
 <td><a href="https://trueinterview.io/jobs/8990758a-67ac-493e-8d99-ff07da98a295">DevOps Engineering Intern</a></td>
 <td>Hybrid</td>
@@ -2237,6 +2370,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f1145d27-378f-4b8f-bfcf-0e90a1523276">Odometry Algorithm Developer Intern</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153538319-odometry-algorithm-developer-intern">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e547382-97e0-4b30-96db-2b5edc312008">Analog Design Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018470">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 <tr>
@@ -2282,6 +2422,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/350cda7c-3289-4540-bcb7-4bd192b21a9b">Analog Design Engineering Intern</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014487">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/e86d1c1b-4d94-4e37-9399-c0bdb08dd96d">Software Engineer Intern - Berlin (2027)</a></td>
 <td>DE-Berlin-Trion Building</td>
@@ -2321,6 +2468,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d8ea2e9c-2d16-49c7-8d96-6e65dddbd74e">Software Engineer Intern - Mobile</a></td>
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56">Apply</a></td>
+<td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/e503c6ad-0d6d-4a37-9a26-71d8294c42a9">Digital Design Engineering Intern</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014485">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>

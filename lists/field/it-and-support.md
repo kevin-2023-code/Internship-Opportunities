@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**75 open roles.** 59 in the United States & Canada · 16 elsewhere in the world.
+**74 open roles.** 59 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -448,13 +448,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kuala Lumpur, Malaysia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Huntington Ingalls Industries, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/58df61ed-64e6-48fb-91ba-d459ef706c82">Systems Administrator (Skillbridge Intern 1) - 31053</a></td>
-<td>MD - Columbia - Grantchester Way</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=hiitechnic&amp;rcm_site_locale=en_US&amp;career_job_req_id=31053">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>SAP</strong></td>

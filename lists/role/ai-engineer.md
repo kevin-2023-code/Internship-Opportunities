@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**167 open roles.** 117 in the United States & Canada · 50 elsewhere in the world.
+**168 open roles.** 116 in the United States & Canada · 52 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -829,13 +829,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://job-boards.greenhouse.io/eudia/jobs/4020078009">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/eadec26f-4864-483c-895b-a9f88a327770">Data Engineering Intern - AI &amp; Analytics (January - August 2027)</a></td>
-<td>Palo Alto, California<br/>Irvine, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -930,6 +923,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc">Full Stack AI Developer Intern</a> 🌐</td>
 <td>Remote — India</td>
 <td align="center"><a href="https://in.indeed.com/viewjob?jk=7cb2271a0ae03786">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd492c69-0169-499d-a4fb-b1f41fa69768">[Internship Program Q1 2027] AI Engineer Intern</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329040--internship-program-q1-2027-ai-engineer-intern">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1091,6 +1091,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/afb2e9d7-dfa9-4e35-a0bd-0531b1cfd657">SAP iXp Intern - CPIT CFA AI Engineer</a></td>
 <td>Budapest, Budapest, Hungary</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474466004/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef2bf11f-808f-4eda-b885-62169ac59a22">AI Engineering Automation Intern (f/m/div.)</a></td>
+<td>São João, Aveiro, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158348849-ai-engineering-automation-intern-f-m-div-">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

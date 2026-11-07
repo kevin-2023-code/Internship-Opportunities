@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**9 open roles.** 5 in the United States & Canada · 4 elsewhere in the world. A real classification that none of the other sectors covers.
+**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c33fa8d-c65d-44d7-85cb-d25a9ae2cead">Packaging Engineer Co-op Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4475040009">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hasbro</strong></td>
 <td><a href="https://trueinterview.io/jobs/a4c12fbf-05da-46e5-8fb6-8bc6be037f22">2027 Spring - Packaging Engineer Co-op (Jan - July 2027)</a></td>

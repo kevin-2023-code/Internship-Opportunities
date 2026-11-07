@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**91 open roles.** 89 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**92 open roles.** 90 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,6 +86,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Centreville, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/d22e48f2-cdf5-4976-8778-a2623a34d74e">Fall 2027 Manufacturing Engineer Co-op</a></td>
+<td>Ashville, Ohio, United States<br/>Quincy, Massachusetts, United States<br/>Santa Ana, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>

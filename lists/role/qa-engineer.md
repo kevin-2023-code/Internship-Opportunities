@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**37 open roles.** 27 in the United States & Canada · 10 elsewhere in the world.
+**38 open roles.** 27 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -224,6 +224,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Veldhoven, North Brabant, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/36addc1c-185d-4ab1-8551-2756f28c5627">[Internship Program Q1 2027] Automation Test Engineer Intern (Selenium)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329649--internship-program-q1-2027-automation-test-engineer-intern-selenium-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>iNova Pharmaceuticals</strong></td>

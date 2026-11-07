@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**161 open roles.** 127 in the United States & Canada · 34 elsewhere in the world.
+**163 open roles.** 128 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/81451f36-6d2f-4341-acb6-612467c28684">Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488734444/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hendrickson</strong></td>
 <td><a href="https://trueinterview.io/jobs/836037a9-71ba-458b-833c-915c80119083">Machine Learning Co-Op (Spring 2027)</a></td>
@@ -924,6 +931,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>OK</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257?listingId=a823f57c-b9a5-4ee3-95e0-35a6f1f00206">Apply</a></td>
 <td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/0779a64e-2067-404e-88b1-8429a86aed94">2027 Machine Learning Center of Excellence (NLP) - Internship</a></td>
+<td>LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793">Apply</a></td>
+<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Optiver</strong></td>

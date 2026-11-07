@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**589 open roles.** 475 in the United States & Canada · 114 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**597 open roles.** 476 in the United States & Canada · 121 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d90095-a873-470d-8433-8cfbc563fd04">Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740540">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/56b14be8-a36d-4475-ab0d-74ddd3df8bd5">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2027</a></td>
 <td>San Diego, CA, US<br/>Tempe, AZ, US<br/>Irvine, CA, US<br/>+1 more</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740912">Apply</a></td>
@@ -1309,6 +1316,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1521622a-30f6-4069-af8f-d6b5b2bc1d08">Software Engineering Intern - Infrastructure and Test</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014490">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8872328-c065-48b4-ad37-fab4ef5802c3">Internship - Machine Learning (Foundation Models)</a></td>
 <td>Zürich, Switzerland</td>
@@ -1323,11 +1337,32 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8">Field Applications Engineering Intern - Guildford &amp; Manchester, United Kingdom</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018498">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f">PHY Cellular Firmware Engineer Internship</a></td>
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001">Apply</a></td>
 <td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/d278ec5c-85b8-4c1a-89d4-c77455f14997">Validation / Characterization Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018495">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8e547382-97e0-4b30-96db-2b5edc312008">Analog Design Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018470">Apply</a></td>
+<td align="center">5 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
@@ -1337,11 +1372,32 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b44322c-6ef2-44d6-868c-258dfbb4ac62">Quality Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015981">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/350cda7c-3289-4540-bcb7-4bd192b21a9b">Analog Design Engineering Intern</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014487">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/712bf8c8-bbf4-4754-8086-842613578e34">Developer DevOps Intern</a></td>
 <td>Brazil</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40736">Apply</a></td>
 <td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/e503c6ad-0d6d-4a37-9a26-71d8294c42a9">Digital Design Engineering Intern</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014485">Apply</a></td>
+<td align="center">28 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Western Digital</strong></td>

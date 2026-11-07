@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**23 open roles.** 15 in the United States & Canada · 8 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**24 open roles.** 15 in the United States & Canada · 9 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -175,6 +175,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>PL-Warsaw-Lixa C</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Databricks</strong></td>

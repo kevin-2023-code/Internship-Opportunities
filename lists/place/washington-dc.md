@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**79 open roles.** 77 in the United States & Canada · 2 elsewhere in the world.
+**78 open roles.** 77 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -568,13 +568,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Huntington Ingalls Industries, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/58df61ed-64e6-48fb-91ba-d459ef706c82">Systems Administrator (Skillbridge Intern 1) - 31053</a></td>
-<td>MD - Columbia - Grantchester Way</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=hiitechnic&amp;rcm_site_locale=en_US&amp;career_job_req_id=31053">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a></td>

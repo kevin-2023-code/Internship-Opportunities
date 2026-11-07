@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**21 open roles.**
+**22 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -74,6 +74,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Barcelona, Catalonia, Spain<br/>Barcelona, Spain</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692642">Apply</a></td>
 <td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a550c95-ee5a-498a-a803-54858939cfd0">Extracurricular Internship – DevOps &amp; GenAI Engineer for Quality (f/m/div.)</a></td>
+<td>Braga, Braga, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158794999-extracurricular-internship-devops-genai-engineer-for-quality-f-m-div-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>NetApp</strong></td>

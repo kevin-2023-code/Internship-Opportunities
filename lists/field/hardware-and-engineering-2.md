@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**768 open roles.** 702 in the United States & Canada · 66 elsewhere in the world.
+**772 open roles.** 705 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f7d8895-40b0-4556-97a3-e50d78c2e838">Intern - Equipment Engineer</a></td>
+<td>Manassas, VA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44920531">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/373c408c-dc1f-44f2-a129-3dd8b11323a5">Optoelectronics Test Development Coop</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8dd81e5-e769-4b17-95af-fcfef291adb9">Optoelectronics Test Mech Development Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41181">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/899d5d0e-2d36-4cd3-b656-5f8f31bf9e64">Photonic Test Coop</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41182">Apply</a></td>
@@ -2511,6 +2532,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Parvomay, BULGARIA, Bulgaria</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer">Apply</a></td>
 <td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b44322c-6ef2-44d6-868c-258dfbb4ac62">Quality Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015981">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Ford Motor Company</strong></td>

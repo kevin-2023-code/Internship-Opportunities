@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**266 open roles.** 212 in the United States & Canada · 54 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**273 open roles.** 212 in the United States & Canada · 61 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1890,6 +1890,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>OSLO, Norway</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014491">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1521622a-30f6-4069-af8f-d6b5b2bc1d08">Software Engineering Intern - Infrastructure and Test</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014490">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8">Field Applications Engineering Intern - Guildford &amp; Manchester, United Kingdom</a></td>
+<td>United Kingdom</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018498">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d278ec5c-85b8-4c1a-89d4-c77455f14997">Validation / Characterization Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018495">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8e547382-97e0-4b30-96db-2b5edc312008">Analog Design Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018470">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3b44322c-6ef2-44d6-868c-258dfbb4ac62">Quality Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25015981">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/350cda7c-3289-4540-bcb7-4bd192b21a9b">Analog Design Engineering Intern</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014487">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e503c6ad-0d6d-4a37-9a26-71d8294c42a9">Digital Design Engineering Intern</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014485">Apply</a></td>
+<td align="center">28 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**768 open roles.** 702 in the United States & Canada · 66 elsewhere in the world.
+**772 open roles.** 705 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -349,10 +349,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/d22e48f2-cdf5-4976-8778-a2623a34d74e">Fall 2027 Manufacturing Engineer Co-op</a></td>
+<td>Ashville, Ohio, United States<br/>Quincy, Massachusetts, United States<br/>Santa Ana, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Commonwealth Fusion Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/b82995ff-fcc7-4554-94bc-5b6a950df30a">Intern - Structural Engineer - Summer 2027</a></td>
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/a83a5fdc-d237-4b65-8207-ac16b04eda82">Quality Engineering Intern / Co-op - Spring 2027</a></td>
+<td>Florence, Kentucky, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158818709-quality-engineering-intern-co-op-spring-2027">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7960909-3705-4867-a56d-e5f799291a94">Manufacturing Engineering Intern (Jan 2027)</a></td>
+<td>Grand Rapids, Michigan, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158774229-manufacturing-engineering-intern-jan-2027-">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d9035866-6809-453e-8ce6-f6441f9a2e7e">Research Scientist Intern - Coating Characterization</a></td>
 <td>Ann Arbor, MI, United States of America</td>
 <td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f7d8895-40b0-4556-97a3-e50d78c2e838">Intern - Equipment Engineer</a></td>
-<td>Manassas, VA, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44920531">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/373c408c-dc1f-44f2-a129-3dd8b11323a5">Optoelectronics Test Development Coop</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d8dd81e5-e769-4b17-95af-fcfef291adb9">Optoelectronics Test Mech Development Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41181">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
 </tbody>

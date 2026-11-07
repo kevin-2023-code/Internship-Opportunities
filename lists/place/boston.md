@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**139 open roles.** 138 in the United States & Canada · 1 elsewhere in the world.
+**140 open roles.** 139 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -316,6 +316,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec340065-983f-4e7c-ba13-5c048491115b">Software Test Engineer Intern</a></td>
 <td>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813568250-software-test-engineer-intern-waltham-us-ma-usa">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/d22e48f2-cdf5-4976-8778-a2623a34d74e">Fall 2027 Manufacturing Engineer Co-op</a></td>
+<td>Quincy, Massachusetts, United States<br/>Ashville, Ohio, United States<br/>Santa Ana, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

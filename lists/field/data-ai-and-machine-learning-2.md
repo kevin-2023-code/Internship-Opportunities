@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**668 open roles.** 497 in the United States & Canada · 171 elsewhere in the world.
+**671 open roles.** 497 in the United States & Canada · 174 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Adobe</strong></td>
+<td><a href="https://trueinterview.io/jobs/f43e56f8-88fe-4473-ad92-19f9d8173cde">2027 Intern - AI &amp; Architecture</a></td>
+<td>San Jose, California, United States of America</td>
+<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Didi Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/569a0880-46f4-4516-8947-ac7c179306b9">Research Intern, Scene Understanding and Planning</a></td>
@@ -687,13 +694,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/eudia/jobs/4020078009">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/eadec26f-4864-483c-895b-a9f88a327770">Data Engineering Intern - AI &amp; Analytics (January - August 2027)</a></td>
-<td>Palo Alto, California<br/>Irvine, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -802,6 +802,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5ec4901c-fec8-4a83-8def-088cf25bea89">Data Scientist Intern - Entry Level Sales Program 2027</a></td>
 <td>Markham, Wales, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485552087/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/0779a64e-2067-404e-88b1-8429a86aed94">2027 Machine Learning Center of Excellence (NLP) - Internship</a></td>
+<td>LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -963,6 +970,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f803bdcd-77e8-4f95-bc7a-e095d4c35625">Products Analytics Engineer - Internship</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd492c69-0169-499d-a4fb-b1f41fa69768">[Internship Program Q1 2027] AI Engineer Intern</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329040--internship-program-q1-2027-ai-engineer-intern">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1572,6 +1586,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b84dd28f-1afb-4a2c-9be3-fc8ba7591adc">Summer 2027 Intern: Data Support Analyst</a></td>
 <td>Greater Rockford Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482544544/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/ef2bf11f-808f-4eda-b885-62169ac59a22">AI Engineering Automation Intern (f/m/div.)</a></td>
+<td>São João, Aveiro, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158348849-ai-engineering-automation-intern-f-m-div-">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

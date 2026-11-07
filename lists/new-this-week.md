@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,010 open roles.** 824 in the United States & Canada · 186 elsewhere in the world. Everything the employers put up this week.
+**1,016 open roles.** 824 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/81451f36-6d2f-4341-acb6-612467c28684">Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488734444/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
@@ -279,6 +286,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>City and County of San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/8193a05b-4579-4e9d-a86f-8699fede4c3f">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5380 Engineering Intern (Level 1)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714826-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5380-engineering-intern-level-1-">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a46145d-a145-4b1f-ad9c-eb599500bf5d">Internship, Data Analyst, People Products (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
@@ -304,6 +318,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9b7e714c-6bdf-48d9-a9a2-efd31db0da9a">2027 Summer Intern: Data Developer</a></td>
 <td>Greenwood Village, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488461183/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>City and County of San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/50c4a947-d81e-4d22-8d13-d4ccaf5a3753">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5381 Engineering Intern (Level 2)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714546-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5381-engineering-intern-level-2-">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9134aad2-47c8-4e60-8a84-44d63277d59f">AI Platform Engineer Co-Op Intern, Winter 2027</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/17fbdeb8-a760-4050-9d6f-478d0e75fe48">AI Security Engineer Co-Op Intern, Winter 2027</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/58edef69-5956-48f7-a45c-d474ff1052d2">Software Engineering Intern - Design Automation (Spring 2027 Co-Op)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469991636/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ensemble Health Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a1c4697-6182-44a3-b40c-b6af051d866e">Data Scientist Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441369974/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

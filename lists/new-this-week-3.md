@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,010 open roles.** 824 in the United States & Canada · 186 elsewhere in the world. Everything the employers put up this week.
+**1,016 open roles.** 824 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,35 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/252b3b04-adae-47c7-9a13-575c2de42014">Applied Scientist: Internship Opportunities, Turing</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485359288/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Tevora</strong></td>
+<td><a href="https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387">Cybersecurity Internship Summer 2027 - Threat</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2f820346-f8a9-43b1-9cdd-088480d3c247">Cybersecurity Internship Summer 2027 - Solutions</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3f6b9d03-5c01-4aa3-b17d-76b2a82c5c89">Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d71e7b94-9f17-482d-a48d-ef550f9f28ec">Cybersecurity Internship Summer 2027 - Payments</a></td>
 <td>Fairfax, VA<br/>Irvine, CA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721">Apply</a></td>
@@ -142,45 +170,17 @@
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/d22e48f2-cdf5-4976-8778-a2623a34d74e">Fall 2027 Manufacturing Engineer Co-op</a></td>
+<td>Ashville, Ohio, United States<br/>Quincy, Massachusetts, United States<br/>Santa Ana, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Commonwealth Fusion Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/98f7208f-2ca4-48ab-a8ec-694a1d5f4406">Intern - Mechanical and Magnet Engineer - Spring or Summer 2027</a></td>
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The New York Times</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcaad2a0-86aa-4ded-8401-85eb5028bc99">Backend Engineering Intern, Wirecutter</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mercury Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467599758/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/b82995ff-fcc7-4554-94bc-5b6a950df30a">Intern - Structural Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Base Power</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f56921b-500d-41c5-8eb6-5966702f61d6">Manufacturing Test Engineering Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apex Companies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cad52c39-3334-4ba2-94c5-ffb3a0866cd8">Transportation Engineering Co-op (Spring 2027)</a></td>
-<td>Quincy, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
@@ -215,6 +215,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cork, County Cork, Ireland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer">Apply</a></td>
 <td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MIT Lincoln Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/3cf3389b-3876-481b-a7e2-07127a4850ad">Summer Research Program Intern 2027, Fabrication Engineering - Digital Architecture (Group 07-72)</a></td>
+<td>MIT Lincoln Laboratory, Lexington MA</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=C0012546317P&amp;rcm_site_locale=en_US&amp;career_job_req_id=43541">Apply</a></td>
+<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
@@ -292,13 +299,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kuala Lumpur, Malaysia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Huntington Ingalls Industries, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/58df61ed-64e6-48fb-91ba-d459ef706c82">Systems Administrator (Skillbridge Intern 1) - 31053</a></td>
-<td>MD - Columbia - Grantchester Way</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=hiitechnic&amp;rcm_site_locale=en_US&amp;career_job_req_id=31053">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Tower Research Capital</strong></td>
@@ -501,6 +501,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5ec4901c-fec8-4a83-8def-088cf25bea89">Data Scientist Intern - Entry Level Sales Program 2027</a></td>
 <td>Markham, Wales, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485552087/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/0779a64e-2067-404e-88b1-8429a86aed94">2027 Machine Learning Center of Excellence (NLP) - Internship</a></td>
+<td>LONDON, United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -938,6 +945,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/85bae641-8109-4660-9afe-1741ad38710c">Undergraduate Placement Year 2027 – Production Engineering Intern</a></td>
+<td>Worcester, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159368889-undergraduate-placement-year-2027-production-engineering-intern-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0876409-fc42-4216-8d71-306bfe6ba301">CAD Virtuoso Engineering Intern (m/f/d)</a></td>
 <td>Munich, Bavaria, Germany</td>
@@ -956,6 +970,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609">Mandatory Internship - Application Engineering Excellence – Power BI and efficiency expert</a></td>
 <td>Lindau (Bodensee), Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000159342667-mandatory-internship-application-engineering-excellence-power-bi-and-efficiency-expert">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a3473db-36ad-4f6d-8b34-14a2eede6ff6">[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159328650--internship-program-q1-2027-fullstack-engineer-intern-java-nodejs-python-django-react-net-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/36addc1c-185d-4ab1-8551-2756f28c5627">[Internship Program Q1 2027] Automation Test Engineer Intern (Selenium)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329649--internship-program-q1-2027-automation-test-engineer-intern-selenium-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/85426b39-2a76-477d-8873-91ab66e49f30">[Internship Program Q1 2027] DevOps Engineer Intern</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159327500--internship-program-q1-2027-devops-engineer-intern">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bd492c69-0169-499d-a4fb-b1f41fa69768">[Internship Program Q1 2027] AI Engineer Intern</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329040--internship-program-q1-2027-ai-engineer-intern">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c442ac3b-bb11-4468-84ba-7ca81a4e2b6d">[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159327431--internship-program-q1-2027-embedded-software-engineer-intern-c-c-linux-">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1489,13 +1538,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/0bc358c2-36d8-4d73-89bb-8f97458cfa66">Formal Verification Intern</a></td>
-<td>Munich, Bavaria, Germany</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200682664">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>

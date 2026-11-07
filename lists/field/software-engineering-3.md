@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,549 open roles.** 1,254 in the United States & Canada · 295 elsewhere in the world.
+**1,571 open roles.** 1,258 in the United States & Canada · 313 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/c46a56a2-e366-4beb-8dae-9310b4788170">Manufacturing Software Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/c947f0c3-d77a-47c9-8015-ec87e5608134">Test Engineer Intern, Build &amp; Operations</a></td>
+<td>Kiln, MS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354108/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/13e18a5e-e8bb-4e09-8a31-bcbd3c307e20">Production Engineer Co-Op - Spring 2027 (Northeastern University)</a></td>
+<td>Hingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466836285/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/241edf4a-2626-4aac-b1e9-1e627fa1c8b4">Software Engineering Intern (Summer 2027)</a></td>
+<td>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523702/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Apexanalytix</strong></td>
 <td><a href="https://trueinterview.io/jobs/6c5aea9d-b807-4636-9a88-d444dc03d93e">Automation Developer Intern (Summer 2027)</a></td>
@@ -2786,34 +2814,6 @@
 <td>Lake Saint Louis, MO or Mandan, ND</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8204101">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3f18fe1-7c6e-4abe-a4b3-b6da58f5239b">Information Technology Intern – Security</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017626">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Grammarly</strong></td>
-<td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
-<td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Opengov</strong></td>
-<td><a href="https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8">Product Intern</a></td>
-<td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>National Life Insurance Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/51a0a61d-0fa4-4739-9077-7bee505d6e33">IT Application Development Intern (Inforce) – Summer 2027</a></td>
-<td>Addison, TX<br/>Montpelier, VT</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

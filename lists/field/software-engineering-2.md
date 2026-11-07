@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,549 open roles.** 1,254 in the United States & Canada · 295 elsewhere in the world.
+**1,571 open roles.** 1,258 in the United States & Canada · 313 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72">Software Engineer Project Intern (Developer Infrastructure) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477834689/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lennox</strong></td>
+<td><a href="https://trueinterview.io/jobs/7552f3ab-d893-4d38-9cff-b47cfc4eceb6">Cloud Advance Admin/Developer Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468827632/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/335c6bf8-628a-4da3-9660-4888a16b78bd">University - 2027 Summer Games Software Developer Intern - Charleston, SC</a></td>
@@ -861,6 +882,13 @@
 <td>Bloomfield, Connecticut, United States<br/>St. Louis, Missouri, United States<br/>Parsippany-Troy Hills, New Jersey, United States</td>
 <td align="center"><a href="https://jobs.thecignagroup.com/us/en/job/26009533/The-Cigna-Group-s-Technology-Development-Program-Data-Analytics-Engineering-Track-Summer-Internship">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fa8d757-4d9a-4afc-a586-c68a216a87df">IT Systems Engineering Intern (19 hours per week)</a></td>
+<td>Roseville, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158620079-it-systems-engineering-intern-19-hours-per-week-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Lunar Energy</strong></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/8ab9ee2b-87ef-4aa7-a4cb-ea708a6b6644">Co-Op Automation Engineer</a></td>
 <td>Wilson, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467452040/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/c46a56a2-e366-4beb-8dae-9310b4788170">Manufacturing Software Engineering Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/c947f0c3-d77a-47c9-8015-ec87e5608134">Test Engineer Intern, Build &amp; Operations</a></td>
-<td>Kiln, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354108/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/13e18a5e-e8bb-4e09-8a31-bcbd3c307e20">Production Engineer Co-Op - Spring 2027 (Northeastern University)</a></td>
-<td>Hingham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466836285/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sigma</strong></td>
-<td><a href="https://trueinterview.io/jobs/241edf4a-2626-4aac-b1e9-1e627fa1c8b4">Software Engineering Intern (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476523702/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

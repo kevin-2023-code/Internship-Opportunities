@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**54 open roles.** 46 in the United States & Canada · 8 elsewhere in the world.
+**56 open roles.** 46 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -352,6 +352,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/c442ac3b-bb11-4468-84ba-7ca81a4e2b6d">[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159327431--internship-program-q1-2027-embedded-software-engineer-intern-c-c-linux-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>WD</strong></td>
 <td><a href="https://trueinterview.io/jobs/d3f21ef4-70d8-4b75-bfe3-a22b4d1c207c">Intern, Firmware Engineering</a></td>
 <td>Petaling Jaya, Selangor, Malaysia</td>
@@ -378,6 +385,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Lausanne, Vaud, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c44b704-b7db-4468-875c-35a1e305ca98">[SX/BSV-VN] Embedded Test Engineer Intern</a></td>
+<td>Ha Noi, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158244934--sx-bsv-vn-embedded-test-engineer-intern">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Honeywell Aerospace</strong></td>

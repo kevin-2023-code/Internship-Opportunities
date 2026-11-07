@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**21 open roles.** 17 in the United States & Canada · 4 elsewhere in the world.
+**22 open roles.** 17 in the United States & Canada · 5 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -154,6 +154,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469022076/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a3473db-36ad-4f6d-8b34-14a2eede6ff6">[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159328650--internship-program-q1-2027-fullstack-engineer-intern-java-nodejs-python-django-react-net-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>SAP</strong></td>

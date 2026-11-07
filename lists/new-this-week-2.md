@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,010 open roles.** 824 in the United States & Canada · 186 elsewhere in the world. Everything the employers put up this week.
+**1,016 open roles.** 824 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brain Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/17fbdeb8-a760-4050-9d6f-478d0e75fe48">AI Security Engineer Co-Op Intern, Winter 2027</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/58edef69-5956-48f7-a45c-d474ff1052d2">Software Engineering Intern - Design Automation (Spring 2027 Co-Op)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469991636/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ensemble Health Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a1c4697-6182-44a3-b40c-b6af051d866e">Data Scientist Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441369974/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Rivian</strong></td>
 <td><a href="https://trueinterview.io/jobs/be57c8c4-6ead-46a2-845e-d9d66f82965b">Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)</a></td>
@@ -1647,6 +1668,13 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c33fa8d-c65d-44d7-85cb-d25a9ae2cead">Packaging Engineer Co-op Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4475040009">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>NOV</strong></td>
 <td><a href="https://trueinterview.io/jobs/13bacdf0-66a7-4c5b-bd12-3fbcff8bdba8">Marketing and Data Analyst Intern</a> 🌐</td>
 <td>Remote — United States</td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6b7cd29e-7289-4d8c-8177-bdc20f1bb531">Internship, AI – Agentic &amp; Machine Learning Development</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483907783/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/252b3b04-adae-47c7-9a13-575c2de42014">Applied Scientist: Internship Opportunities, Turing</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485359288/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tevora</strong></td>
-<td><a href="https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387">Cybersecurity Internship Summer 2027 - Threat</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2f820346-f8a9-43b1-9cdd-088480d3c247">Cybersecurity Internship Summer 2027 - Solutions</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3f6b9d03-5c01-4aa3-b17d-76b2a82c5c89">Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

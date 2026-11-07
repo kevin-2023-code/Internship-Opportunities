@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**434 open roles.** 348 in the United States & Canada · 86 elsewhere in the world.
+**436 open roles.** 348 in the United States & Canada · 88 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Natixis</strong></td>
+<td><a href="https://trueinterview.io/jobs/91181dc8-6eab-47ec-be18-50b0ec81175f">Internship - 6 months - Developer fullstack Web &amp; Sales Solutions (F/H)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://recrutement.natixis.com/en/job/internship-6-months-developer-fullstack-web-sales-solutions-f-h">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WALLBOX</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ee5cbf6-4700-4ff7-9237-d9d1a22357d8">Software Engineer Intern</a></td>
@@ -120,6 +127,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b9422e3e-146d-4b43-8857-1684d3833f28">Intern Software Developer - Warsaw 2027</a></td>
 <td>Warsaw</td>
 <td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8045124&amp;gh_jid=8045124">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cloudflare</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
+<td>In-Office</td>
+<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

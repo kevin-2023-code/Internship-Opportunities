@@ -326,6 +326,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/d22e48f2-cdf5-4976-8778-a2623a34d74e">Fall 2027 Manufacturing Engineer Co-op</a></td>
+<td>Santa Ana, California, United States<br/>Ashville, Ohio, United States<br/>Quincy, Massachusetts, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Robinson Helicopter Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba8ecdaa-ecf4-40ff-ac30-587e42e2b9f5">Engineer Intern</a></td>
 <td>Torrance, CA</td>
@@ -1387,13 +1394,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/979c6b7b-c1c7-40b7-a0ef-de8ec8c51058">Electrical Engineer Intern - Summer 2027</a></td>
 <td>Los Angeles, CA<br/>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chaosindustries/jobs/5226632007">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/eadec26f-4864-483c-895b-a9f88a327770">Data Engineering Intern - AI &amp; Analytics (January - August 2027)</a></td>
-<td>Irvine, California<br/>Palo Alto, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

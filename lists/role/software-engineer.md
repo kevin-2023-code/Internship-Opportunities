@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**434 open roles.** 348 in the United States & Canada · 86 elsewhere in the world.
+**436 open roles.** 348 in the United States & Canada · 88 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2650,6 +2650,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/5d350076-a1b5-4a8b-b607-c77d6d380e71">[BD] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD )</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158706539--bd-software-developer-intern-backend-javascript-apis-ci-cd-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Autodesk</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>
 <td>Singapore, Singapore<br/>Melbourne, Victoria, Australia<br/>Melbourne, Australia</td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/db84990f-ae3e-44ee-b0eb-0574b20dad11">Software Engineer Intern</a></td>
 <td>India</td>
 <td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/JAVA-Software-Engineer-Intern/215940">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Natixis</strong></td>
-<td><a href="https://trueinterview.io/jobs/91181dc8-6eab-47ec-be18-50b0ec81175f">Internship - 6 months - Developer fullstack Web &amp; Sales Solutions (F/H)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://recrutement.natixis.com/en/job/internship-6-months-developer-fullstack-web-sales-solutions-f-h">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

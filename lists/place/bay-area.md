@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**509 open roles.**
+**511 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,6 +125,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>City and County of San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/8193a05b-4579-4e9d-a86f-8699fede4c3f">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5380 Engineering Intern (Level 1)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714826-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5380-engineering-intern-level-1-">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a46145d-a145-4b1f-ad9c-eb599500bf5d">Internship, Data Analyst, People Products (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
@@ -143,6 +150,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/11b1e151-e1fb-4778-a091-250259073f53">Internship, Software Engineer, SI Reinforcement Learning (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488459679/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>City and County of San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/50c4a947-d81e-4d22-8d13-d4ccaf5a3753">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5381 Engineering Intern (Level 2)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714546-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5381-engineering-intern-level-2-">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -780,6 +794,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72ee7a07-9e41-4152-8f24-d09f5733409e">Data Science Intern</a></td>
 <td>Sunnyvale, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159210829-data-science-intern">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c33fa8d-c65d-44d7-85cb-d25a9ae2cead">Packaging Engineer Co-op Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4475040009">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1bc0ad4-e9c8-4af0-9f71-1e4afdf6d1fb">Mechanical Engineer I (Intern) - United States</a></td>
 <td>San Jose, California, US, United States of America<br/>San Jose, California, United States of America</td>
 <td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Mechanical-Engineer-I--Intern----United-States_2026028">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lam Research</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d37dd43-cdb6-4f9d-9cc4-462fc0232c78">Summer 2027 - Process Engineering Intern - PhD</a></td>
-<td>Fremont, CA, US</td>
-<td align="center"><a href="https://careers.lamresearch.com/careers/job/1099556374769">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e558ac3c-05db-40f3-8c1d-f8f7c8180afa">Intern - DRAM ARCHITECTURE</a></td>
-<td>San Jose, CA<br/>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44702753">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/550f8333-f44e-4c47-aa3f-c712de0ec4b3">Intern - DRAM ARCTITECHTURE</a></td>
-<td>San Jose, CA<br/>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44702762">Apply</a></td>
 <td align="center">1 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,549 open roles.** 1,254 in the United States & Canada · 295 elsewhere in the world.
+**1,571 open roles.** 1,258 in the United States & Canada · 313 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,6 +125,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>City and County of San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/8193a05b-4579-4e9d-a86f-8699fede4c3f">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5380 Engineering Intern (Level 1)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714826-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5380-engineering-intern-level-1-">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/dba2a470-4760-44ab-983d-7dce6c781d3c">Internship, Software Integration Engineer, High Voltage Systems (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
@@ -136,6 +143,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/11b1e151-e1fb-4778-a091-250259073f53">Internship, Software Engineer, SI Reinforcement Learning (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488459679/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>City and County of San Francisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/50c4a947-d81e-4d22-8d13-d4ccaf5a3753">San Francisco Municipal Transportation Agency Student Intern Program, Summer 2027 – 5381 Engineering Intern (Level 2)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016714546-san-francisco-municipal-transportation-agency-student-intern-program-summer-2027-5381-engineering-intern-level-2-">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2330,6 +2344,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c33fa8d-c65d-44d7-85cb-d25a9ae2cead">Packaging Engineer Co-op Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4475040009">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19">Global Technology Summer Analyst 2027 - Cybersecurity Analyst</a></td>
 <td>Denver Metropolitan Area</td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e">General Cybersecurity Graduate Intern - CIPHER- Spring 2027</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477810555/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72">Software Engineer Project Intern (Developer Infrastructure) - 2027 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477834689/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/7552f3ab-d893-4d38-9cff-b47cfc4eceb6">Cloud Advance Admin/Developer Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468827632/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

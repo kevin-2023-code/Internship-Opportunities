@@ -2,7 +2,7 @@
 
 # DevOps Engineer
 
-**10 open roles.** 9 in the United States & Canada · 1 elsewhere in the world.
+**12 open roles.** 9 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -98,6 +98,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bolzano Vicentino, Veneto, Italy</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487087083/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/85426b39-2a76-477d-8873-91ab66e49f30">[Internship Program Q1 2027] DevOps Engineer Intern</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159327500--internship-program-q1-2027-devops-engineer-intern">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0a550c95-ee5a-498a-a803-54858939cfd0">Extracurricular Internship – DevOps &amp; GenAI Engineer for Quality (f/m/div.)</a></td>
+<td>Braga, Braga, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158794999-extracurricular-internship-devops-genai-engineer-for-quality-f-m-div-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
 </table>
