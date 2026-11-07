@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Alcon</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
-<td>Houston, TX<br/>Goleta, CA<br/>Lake Forest, CA<br/>+1 more</td>
+<td>Houston, TX<br/>Goleta, CA<br/>Lake Forest, CA<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>

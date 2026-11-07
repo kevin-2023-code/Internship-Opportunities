@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**55 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -310,6 +310,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002">Apply</a></td>
 <td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CRB</strong></td>
+<td><a href="https://trueinterview.io/jobs/a95f398c-855c-4686-a95a-5b72087507be">Mechanical Engineer Intern (Summer 2027)</a></td>
+<td>Toronto, Ontario, Canada<br/>Rockville, Maryland, United States<br/>Kansas City, Missouri, United States<br/>+1 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151608019-mechanical-engineer-intern-summer-2027-">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ee0a5f2a-b598-492d-a6f6-294cd8f1225d">Mechanical Engineer Intern - Winter</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151401119-mechanical-engineer-intern-winter">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>General Dynamics Missions System International</strong></td>
