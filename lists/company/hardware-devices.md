@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**205 open roles.** 170 in the United States & Canada · 35 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**206 open roles.** 171 in the United States & Canada · 35 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -127,6 +127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/60b5c2fb-6c08-4bc0-ba53-c185a762f2ce">Android Applications Developer Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458281408/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graymatter Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/60c2e68f-2358-4ed1-9fe2-84c238066418">Robotics Engineering Intern: Systems &amp; Applications - IMMEDIATE START</a></td>
+<td>Los Angeles - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

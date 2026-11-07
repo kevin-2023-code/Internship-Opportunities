@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**22 open roles.** 19 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**23 open roles.** 20 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ab7db9a7-5792-4595-9bcf-be7ed0e58ed3">Software Engineer – 2027 Internship Program (June Start)</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483889315/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graymatter Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/60c2e68f-2358-4ed1-9fe2-84c238066418">Robotics Engineering Intern: Systems &amp; Applications - IMMEDIATE START</a></td>
+<td>Los Angeles - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**38 open roles.** 28 in the United States & Canada · 10 elsewhere in the world.
+**39 open roles.** 28 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -294,6 +294,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451">Apply</a></td>
 <td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c2e081e-0b33-4e55-a593-d43134c89f0e">2027 - Internship, Software Engineering and Quantitative Development</a></td>
+<td>London, Paris, Wrocław, Zurich, Dubai, Aarhus, Amsterdam</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002">Apply</a></td>
+<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

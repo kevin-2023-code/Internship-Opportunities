@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**84 open roles.** 59 in the United States & Canada · 25 elsewhere in the world.
+**86 open roles.** 59 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -615,6 +615,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ac5fd1c8-1c49-47cd-83d3-be21ec3f9eef">2027 DMFI Quant Research Intern</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8187178">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Qube Research &amp; Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d73d525-874d-4c71-bc44-4c892eab93c6">2027 - Internship, Quantitative Research and Trading</a></td>
+<td>Aarhus, Budapest, Dubai, London, Paris, Zurich</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3c2e081e-0b33-4e55-a593-d43134c89f0e">2027 - Internship, Software Engineering and Quantitative Development</a></td>
+<td>London, Paris, Wrocław, Zurich, Dubai, Aarhus, Amsterdam</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
