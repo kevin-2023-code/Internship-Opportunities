@@ -34,8 +34,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Neuralink</strong></td>
 <td><a href="https://trueinterview.io/jobs/67394d40-d12a-4244-9e59-1c90a6063851">Electrical Engineer Intern, Implant Embedded Systems</a></td>
-<td>Austin, TX<br/>South San Francisco, CA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457640633/">Apply</a></td>
+<td>Austin, TX<br/>San Francisco, CA<br/>South San Francisco, California, United States<br/>+1 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

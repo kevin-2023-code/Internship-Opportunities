@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**150 open roles.** 121 in the United States & Canada · 29 elsewhere in the world.
+**152 open roles.** 121 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1066,6 +1066,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Moloco</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5b9c767-d9cc-43c5-b026-2b064dde6c18">Machine Learning Engineer Intern (3-month Internship)</a></td>
+<td>Seoul, Korea</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/moloco/jobs/8044892003">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8872328-c065-48b4-ad37-fab4ef5802c3">Internship - Machine Learning (Foundation Models)</a></td>
 <td>Zürich, Switzerland</td>
@@ -1078,6 +1085,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6448606-8dd5-454c-bffa-c8103f45448a">Applied AI, Forward Deployed Machine Learning Engineer - (Internship)</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

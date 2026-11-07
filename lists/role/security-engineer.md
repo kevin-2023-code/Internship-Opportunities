@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**91 open roles.** 83 in the United States & Canada · 8 elsewhere in the world.
+**92 open roles.** 83 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -644,6 +644,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Buchs (SG), St Gallen, Switzerland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470135230/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Makipeople</strong></td>
+<td><a href="https://trueinterview.io/jobs/acc56fdc-f9ec-458f-be48-e6dd5e96b23d">Workplace &amp; Security Engineer - Final Year Intern</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maki/e3c8118d-d812-4815-a762-2556ca4c9a77">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Sereact Gmbh</strong></td>

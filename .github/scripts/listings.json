@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-07T07:04:15.427Z",
-  "count": 3123,
+  "listingsChangedAt": "2026-11-07T08:06:01.698Z",
+  "count": 3140,
   "listings": [
     {
       "id": "ee5cd08a-fcdd-412e-b9c6-b69462ed53ea",
@@ -423,7 +423,8 @@
       "company": "Notion",
       "title": "Software Engineering Intern, iOS (Summer 2027)",
       "locations": [
-        "New York, NY"
+        "New York, NY",
+        "New York, New York"
       ],
       "cities": [
         "New York, NY"
@@ -440,7 +441,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488442623/",
+      "applyUrl": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
       "url": "https://trueinterview.io/jobs/e3cf7acc-aa71-47a0-a46c-2eb4aa237d99",
       "postedAt": "2026-11-07T00:18:00.000Z",
       "updatedAt": "2026-11-07T00:18:00.000Z"
@@ -606,7 +607,8 @@
       "company": "Notion",
       "title": "Software Engineering Intern, Frontend (Summer 2027)",
       "locations": [
-        "New York, NY"
+        "New York, NY",
+        "New York, New York"
       ],
       "cities": [
         "New York, NY"
@@ -623,7 +625,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488433995/",
+      "applyUrl": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
       "url": "https://trueinterview.io/jobs/b226fa94-5428-41b6-97fd-070405a551d7",
       "postedAt": "2026-11-06T23:57:00.000Z",
       "updatedAt": "2026-11-06T23:57:00.000Z"
@@ -1747,6 +1749,46 @@
       "url": "https://trueinterview.io/jobs/18714ac0-f3fd-4681-a62e-0342cded64db",
       "postedAt": "2026-11-06T17:49:17.000Z",
       "updatedAt": "2026-11-06T17:49:17.000Z"
+    },
+    {
+      "id": "bf8b3652-6ece-487e-b43f-ea339e62c574",
+      "company": "Mistral AI",
+      "title": "AI Scientist Intern - (Internship, Masters or Phd)",
+      "locations": [
+        "Paris",
+        "Zurich",
+        "Warsaw",
+        "London",
+        "Palo Alto",
+        "Montréal"
+      ],
+      "cities": [
+        "Paris",
+        "Zurich",
+        "Warsaw",
+        "London",
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "France",
+        "Switzerland",
+        "Poland",
+        "United Kingdom",
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97",
+      "url": "https://trueinterview.io/jobs/bf8b3652-6ece-487e-b43f-ea339e62c574",
+      "postedAt": "2026-11-06T17:49:16.000Z",
+      "updatedAt": "2026-11-06T17:49:16.000Z"
     },
     {
       "id": "2e784e31-fd4e-42ad-94cf-15caa95e7d17",
@@ -3230,6 +3272,31 @@
       "url": "https://trueinterview.io/jobs/d3dfdb47-61e7-4f55-a298-e56122a24942",
       "postedAt": "2026-11-06T05:00:00.000Z",
       "updatedAt": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "id": "a5af0777-cf18-4ee0-99df-ad5eeef168b6",
+      "company": "Thatgamecompany",
+      "title": "Game Designer Intern",
+      "locations": [
+        "China - Shanghai"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19",
+      "url": "https://trueinterview.io/jobs/a5af0777-cf18-4ee0-99df-ad5eeef168b6",
+      "postedAt": "2026-11-06T04:08:19.000Z",
+      "updatedAt": "2026-11-06T04:08:19.000Z"
     },
     {
       "id": "083f3cb4-4c50-4d89-8afe-b092a88a62e2",
@@ -7327,7 +7394,8 @@
       "company": "SK hynix memory solutions America Inc.",
       "title": "Software Engineer Intern",
       "locations": [
-        "San Jose, California, United States"
+        "San Jose, California, United States",
+        "San Jose"
       ],
       "cities": [
         "San Jose, CA"
@@ -14749,31 +14817,6 @@
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
-      "id": "82f1427a-1743-4ee4-b7a0-67d62338d358",
-      "company": "CEVA Logistics",
-      "title": "INTERNSHIP - Data Analyst (Finance) March 2027",
-      "locations": [
-        "Courbevoie, France"
-      ],
-      "cities": [],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=593699&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=bJn8AWr9AYDXOW2Ed7BcxCxZn%2fsFmk5tjelchk4dObM%3d",
-      "url": "https://trueinterview.io/jobs/82f1427a-1743-4ee4-b7a0-67d62338d358",
-      "postedAt": "2026-11-03T06:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
       "id": "3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
       "company": "CGI",
       "title": "Winter 2027 : AI Developer Co-op (8 months)",
@@ -14824,31 +14867,6 @@
       "applyUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046",
       "url": "https://trueinterview.io/jobs/e7900962-2d0e-4ce9-8d34-3aef0c243795",
       "postedAt": "2026-11-03T00:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
-      "id": "ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a",
-      "company": "CNH Industrial",
-      "title": "Firmware Software Intern",
-      "locations": [
-        "Oak Brook, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://join.cnh.com/job/Firmware-Software-Intern/5623-en_US",
-      "url": "https://trueinterview.io/jobs/ddb08955-55bf-4a37-ad67-3e8e4e6b0d8a",
-      "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
@@ -16780,31 +16798,6 @@
       "updatedAt": "2026-11-02T19:04:00.000Z"
     },
     {
-      "id": "61a6dbbb-68c8-4cc6-bc6f-2801af309949",
-      "company": "GM Financial",
-      "title": "Intern - Software Development Engineer",
-      "locations": [
-        "Arlington, TX"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467580870/",
-      "url": "https://trueinterview.io/jobs/61a6dbbb-68c8-4cc6-bc6f-2801af309949",
-      "postedAt": "2026-11-02T18:54:00.000Z",
-      "updatedAt": "2026-11-02T18:54:00.000Z"
-    },
-    {
       "id": "b10caa2b-1dc2-4b35-9eb3-311345ff4359",
       "company": "GM Financial",
       "title": "Intern - Cybersecurity",
@@ -17607,6 +17600,31 @@
       "url": "https://trueinterview.io/jobs/13bacdf0-66a7-4c5b-bd12-3fbcff8bdba8",
       "postedAt": "2026-11-02T15:00:39.000Z",
       "updatedAt": "2026-11-02T15:00:39.000Z"
+    },
+    {
+      "id": "fa29ba41-2c31-4e7d-8f9d-0f68a3e116f3",
+      "company": "Re:build Manufacturing",
+      "title": "Summer Intern Mechanical Engineer",
+      "locations": [
+        "Wilmington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748466005",
+      "url": "https://trueinterview.io/jobs/fa29ba41-2c31-4e7d-8f9d-0f68a3e116f3",
+      "postedAt": "2026-11-02T13:54:42.000Z",
+      "updatedAt": "2026-11-02T13:54:42.000Z"
     },
     {
       "id": "1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19",
@@ -19969,56 +19987,6 @@
       "url": "https://trueinterview.io/jobs/5325663f-0f3c-45dd-a6dd-a8910f8e9bda",
       "postedAt": "2026-11-01T12:16:00.000Z",
       "updatedAt": "2026-11-01T12:16:00.000Z"
-    },
-    {
-      "id": "a5e28ab0-a5db-42cf-a980-a3673bd0a702",
-      "company": "Honeywell Aerospace",
-      "title": "Embedded Engineering Intern - Summer 2027 (U.S. Person Required)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460533896/",
-      "url": "https://trueinterview.io/jobs/a5e28ab0-a5db-42cf-a980-a3673bd0a702",
-      "postedAt": "2026-11-01T12:10:00.000Z",
-      "updatedAt": "2026-11-01T12:10:00.000Z"
-    },
-    {
-      "id": "1fb4eb9f-0e50-4c37-97a8-6263549f90c4",
-      "company": "Honeywell Aerospace",
-      "title": "Software Engineering Intern - Summer 2027 (U.S. Person Required)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4460537816/",
-      "url": "https://trueinterview.io/jobs/1fb4eb9f-0e50-4c37-97a8-6263549f90c4",
-      "postedAt": "2026-10-31T12:11:00.000Z",
-      "updatedAt": "2026-11-01T12:10:00.000Z"
     },
     {
       "id": "22335208-ceac-4e38-a79b-673da66d5b9d",
@@ -23754,7 +23722,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485648348/",
+      "applyUrl": "https://careers.nintendo.com/?gh_jid=4473568009",
       "url": "https://trueinterview.io/jobs/6ff68957-c336-4405-8f23-015a1977747f",
       "postedAt": "2026-10-31T00:41:00.000Z",
       "updatedAt": "2026-10-31T00:41:00.000Z"
@@ -24014,31 +23982,6 @@
       "url": "https://trueinterview.io/jobs/98f7208f-2ca4-48ab-a8ec-694a1d5f4406",
       "postedAt": "2026-10-30T19:36:16.000Z",
       "updatedAt": "2026-10-30T19:36:16.000Z"
-    },
-    {
-      "id": "7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
-      "company": "Nintendo",
-      "title": "Intern - Software Engineer, Graphics (NTD)",
-      "locations": [
-        "Redmond, Washington, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://careers.nintendo.com/?gh_jid=4473550009",
-      "url": "https://trueinterview.io/jobs/7ac66e3a-c1e5-454d-8fc5-9cd7cf69d6dc",
-      "postedAt": "2026-10-30T19:15:02.000Z",
-      "updatedAt": "2026-10-30T19:15:02.000Z"
     },
     {
       "id": "0bc358c2-36d8-4d73-89bb-8f97458cfa66",
@@ -27497,6 +27440,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9",
       "url": "https://trueinterview.io/jobs/ba9e0793-7a60-421d-9d71-9f54898448dc",
+      "postedAt": "2026-10-30T05:00:00.000Z",
+      "updatedAt": "2026-10-30T05:00:00.000Z"
+    },
+    {
+      "id": "42b768eb-f030-4470-9520-09b9ace49011",
+      "company": "CMA CGM",
+      "title": "Internship - Developer Intern - AI-Augmented Applications (M/F)",
+      "locations": [
+        "Marseille, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=588751&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=Vmtmhqd3Rp9ruMOdxnha2GZEEUPuXAURWHyGMF0lO6w%3d",
+      "url": "https://trueinterview.io/jobs/42b768eb-f030-4470-9520-09b9ace49011",
       "postedAt": "2026-10-30T05:00:00.000Z",
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },
@@ -31041,6 +31009,32 @@
       "url": "https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28",
       "postedAt": "2026-10-29T21:54:00.000Z",
       "updatedAt": "2026-10-29T21:54:00.000Z"
+    },
+    {
+      "id": "baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
+      "company": "Western Magnetics",
+      "title": "Software Engineer Intern - (Jan 2027)",
+      "locations": [
+        "South San Francisco, CA",
+        "South San Francisco"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882",
+      "url": "https://trueinterview.io/jobs/baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T21:46:18.000Z"
     },
     {
       "id": "bf7cb3f6-37c2-40d1-a1c8-102404895612",
@@ -35666,10 +35660,13 @@
       "locations": [
         "Austin, TX",
         "South San Francisco, CA",
-        "San Francisco, CA"
+        "San Francisco, CA",
+        "Austin, Texas, United States",
+        "South San Francisco, California, United States"
       ],
       "cities": [
-        "Austin, TX"
+        "Austin, TX",
+        "San Francisco, CA"
       ],
       "countries": [
         "United States"
@@ -35683,7 +35680,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4457640633/",
+      "applyUrl": "https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003",
       "url": "https://trueinterview.io/jobs/67394d40-d12a-4244-9e59-1c90a6063851",
       "postedAt": "2026-10-29T11:40:04.000Z",
       "updatedAt": "2026-10-29T13:03:00.000Z"
@@ -40245,31 +40242,6 @@
       "source": "indeed",
       "applyUrl": "https://lifeattiktok.com/search/7686439502455212293",
       "url": "https://trueinterview.io/jobs/1f65cc0a-e2fe-410f-bac3-932ffaedd132",
-      "postedAt": "2026-10-29T05:00:00.000Z",
-      "updatedAt": "2026-10-29T05:00:00.000Z"
-    },
-    {
-      "id": "baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
-      "company": "Western Magnetics",
-      "title": "Software Engineer - Intern (Jan 2027)",
-      "locations": [
-        "South San Francisco, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882",
-      "url": "https://trueinterview.io/jobs/baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
       "postedAt": "2026-10-29T05:00:00.000Z",
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
@@ -51477,6 +51449,31 @@
       "updatedAt": "2026-10-28T01:40:00.000Z"
     },
     {
+      "id": "a4198136-e56d-4a86-9ef5-e46d4755ff5c",
+      "company": "Accorhotel",
+      "title": "Engineering Admin Intern",
+      "locations": [
+        "Makati City, Metro Manila, Philippines"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158185889-engineering-admin-intern",
+      "url": "https://trueinterview.io/jobs/a4198136-e56d-4a86-9ef5-e46d4755ff5c",
+      "postedAt": "2026-10-28T01:21:38.000Z",
+      "updatedAt": "2026-10-28T01:21:38.000Z"
+    },
+    {
       "id": "c00ecc71-dcf9-4ce2-ba5f-1fca00edf344",
       "company": "42dot",
       "title": "Internship, Foundation Models",
@@ -52153,6 +52150,31 @@
       "url": "https://trueinterview.io/jobs/d54ea8e7-8152-414a-8820-6ebe6a89f91a",
       "postedAt": "2026-10-27T20:26:59.000Z",
       "updatedAt": "2026-10-27T20:26:59.000Z"
+    },
+    {
+      "id": "9b1e4703-c001-4c27-86b1-b4ae91dba302",
+      "company": "Western Magnetics",
+      "title": "Engineering Intern (Jan 2027)",
+      "locations": [
+        "South San Francisco"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/westmag/590ae373-6aab-4d70-a9c9-9b3c08e48408",
+      "url": "https://trueinterview.io/jobs/9b1e4703-c001-4c27-86b1-b4ae91dba302",
+      "postedAt": "2026-10-27T19:02:40.000Z",
+      "updatedAt": "2026-10-27T19:02:40.000Z"
     },
     {
       "id": "4533ffc9-86a7-4981-a835-3a86bff8a395",
@@ -54076,6 +54098,33 @@
       "url": "https://trueinterview.io/jobs/fe2ecd92-b7fd-4e79-9a60-f951354dde42",
       "postedAt": "2026-10-26T20:17:23.000Z",
       "updatedAt": "2026-10-26T20:17:23.000Z"
+    },
+    {
+      "id": "e5b9c767-d9cc-43c5-b026-2b064dde6c18",
+      "company": "Moloco",
+      "title": "Machine Learning Engineer Intern (3-month Internship)",
+      "locations": [
+        "Seoul, Korea"
+      ],
+      "cities": [
+        "Seoul"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/moloco/jobs/8044892003",
+      "url": "https://trueinterview.io/jobs/e5b9c767-d9cc-43c5-b026-2b064dde6c18",
+      "postedAt": "2026-10-26T18:13:51.000Z",
+      "updatedAt": "2026-10-26T18:13:51.000Z"
     },
     {
       "id": "b6a166cd-bf6b-4086-8af5-0037b027606f",
@@ -57412,6 +57461,33 @@
       "updatedAt": "2026-10-21T00:00:00.000Z"
     },
     {
+      "id": "685ee627-c148-4b65-8872-0444e1390e1f",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "ASIC Design Intern",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
+      "url": "https://trueinterview.io/jobs/685ee627-c148-4b65-8872-0444e1390e1f",
+      "postedAt": "2026-10-20T23:39:02.000Z",
+      "updatedAt": "2026-10-20T23:39:02.000Z"
+    },
+    {
       "id": "3084cf6b-e7e2-49e8-b422-fe7f9a9d8de2",
       "company": "Meta",
       "title": "Research Scientist Intern, PhD — Meta Superintelligence Labs",
@@ -57644,6 +57720,31 @@
       "url": "https://trueinterview.io/jobs/aaa59fc3-d864-4df2-90ba-f91deb83ff88",
       "postedAt": "2026-10-20T18:18:51.000Z",
       "updatedAt": "2026-10-20T18:18:51.000Z"
+    },
+    {
+      "id": "906877e7-f452-4dc2-b18b-11ea7cf21f58",
+      "company": "Hpr",
+      "title": "Applications Engineering Intern - Summer 2027",
+      "locations": [
+        "Needham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003",
+      "url": "https://trueinterview.io/jobs/906877e7-f452-4dc2-b18b-11ea7cf21f58",
+      "postedAt": "2026-10-20T17:28:33.000Z",
+      "updatedAt": "2026-10-20T17:28:33.000Z"
     },
     {
       "id": "b72d6fa0-b9bf-4564-a6f0-2118601a6316",
@@ -59097,31 +59198,6 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
-      "id": "7d200687-59dd-4a9a-9707-6d732d2236ae",
-      "company": "rocket-lab-corporation",
-      "title": "Ground Systems Engineering Intern Summer 2027",
-      "locations": [
-        "Stennis Space Center, MS, Stennis Facility"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/8007202003",
-      "url": "https://trueinterview.io/jobs/7d200687-59dd-4a9a-9707-6d732d2236ae",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
       "id": "258ca580-430e-4e36-8537-935dc234c7d4",
       "company": "Salesforce",
       "title": "Summer 2027 Intern - AI Research",
@@ -59254,6 +59330,33 @@
       "url": "https://trueinterview.io/jobs/ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f",
       "postedAt": "2026-10-19T21:31:11.000Z",
       "updatedAt": "2026-10-19T21:31:11.000Z"
+    },
+    {
+      "id": "ffc814b6-a1bb-49c1-9875-a39efcba7e62",
+      "company": "Four Hands",
+      "title": "Quality Engineer Intern",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/fourhands/jobs/4458313009",
+      "url": "https://trueinterview.io/jobs/ffc814b6-a1bb-49c1-9875-a39efcba7e62",
+      "postedAt": "2026-10-19T20:46:36.000Z",
+      "updatedAt": "2026-10-19T20:46:36.000Z"
     },
     {
       "id": "c3b6bbfc-c552-438f-8306-11e8af30e293",
@@ -59542,6 +59645,33 @@
       "url": "https://trueinterview.io/jobs/4bf5a4bb-3b88-4e59-8c7a-5cb56aff1aa5",
       "postedAt": "2026-10-19T14:41:43.000Z",
       "updatedAt": "2026-10-19T14:41:43.000Z"
+    },
+    {
+      "id": "acc56fdc-f9ec-458f-be48-e6dd5e96b23d",
+      "company": "makipeople",
+      "title": "Workplace & Security Engineer - Final Year Intern",
+      "locations": [
+        "Paris"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/maki/e3c8118d-d812-4815-a762-2556ca4c9a77",
+      "url": "https://trueinterview.io/jobs/acc56fdc-f9ec-458f-be48-e6dd5e96b23d",
+      "postedAt": "2026-10-19T12:07:43.000Z",
+      "updatedAt": "2026-10-19T12:07:43.000Z"
     },
     {
       "id": "aaf24f31-1c7e-4369-af43-dd22ec31388b",
@@ -61027,6 +61157,33 @@
       "updatedAt": "2026-10-15T00:00:00.000Z"
     },
     {
+      "id": "b108b76f-2636-480e-9743-5613553fd30c",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "Intern, Mechanical Engineer",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4452580009",
+      "url": "https://trueinterview.io/jobs/b108b76f-2636-480e-9743-5613553fd30c",
+      "postedAt": "2026-10-14T23:43:28.000Z",
+      "updatedAt": "2026-10-14T23:43:28.000Z"
+    },
+    {
       "id": "ca473069-0684-45e3-b426-ebd57524c098",
       "company": "Guidepoint Security",
       "title": "Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)",
@@ -61367,6 +61524,33 @@
       "url": "https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da",
       "postedAt": "2026-10-14T05:00:00.000Z",
       "updatedAt": "2026-10-14T05:00:00.000Z"
+    },
+    {
+      "id": "5716dad2-e081-485c-986d-0b35779b359a",
+      "company": "SK hynix memory solutions America Inc.",
+      "title": "Quality Assurance Test Engineer Intern",
+      "locations": [
+        "San Jose"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009",
+      "url": "https://trueinterview.io/jobs/5716dad2-e081-485c-986d-0b35779b359a",
+      "postedAt": "2026-10-14T00:34:21.000Z",
+      "updatedAt": "2026-10-14T00:34:21.000Z"
     },
     {
       "id": "483b87de-81f2-4681-aa4a-542d189e22bf",
@@ -64350,6 +64534,33 @@
       "updatedAt": "2026-10-08T16:54:28.000Z"
     },
     {
+      "id": "a3b247fd-e23b-418b-bd75-db88b43d9d1b",
+      "company": "Genbio Ai",
+      "title": "Research Scientist Intern, AI Molecular Design (Winter/Spring)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604",
+      "url": "https://trueinterview.io/jobs/a3b247fd-e23b-418b-bd75-db88b43d9d1b",
+      "postedAt": "2026-10-08T15:54:03.000Z",
+      "updatedAt": "2026-10-08T15:54:03.000Z"
+    },
+    {
       "id": "94cd601d-6c1f-4dda-a471-1195becde419",
       "company": "Eq Bank",
       "title": "Intern - Software Engineer, Winter 2027",
@@ -64828,6 +65039,31 @@
       "url": "https://trueinterview.io/jobs/94fe9428-56f0-4534-b71d-c00c53e139a6",
       "postedAt": "2026-10-07T10:41:55.000Z",
       "updatedAt": "2026-10-07T10:41:55.000Z"
+    },
+    {
+      "id": "b3838f36-1106-4f98-9d0f-bee5d14d2afb",
+      "company": "Lesaffre",
+      "title": "INTERNSHIP - Data engineering & AI-ready software architecture",
+      "locations": [
+        "Marcq-en-Barœul, Nord, France"
+      ],
+      "cities": [],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Lesaffre/744000154054660-internship-data-engineering-ai-ready-software-architecture-",
+      "url": "https://trueinterview.io/jobs/b3838f36-1106-4f98-9d0f-bee5d14d2afb",
+      "postedAt": "2026-10-07T09:43:40.000Z",
+      "updatedAt": "2026-10-07T09:43:40.000Z"
     },
     {
       "id": "8985d0c2-6918-4dc6-9088-8494ca22219b",
@@ -69830,6 +70066,33 @@
       "url": "https://trueinterview.io/jobs/b4d9238e-1ca2-4c6a-aa8b-102e71135f55",
       "postedAt": "2026-09-29T14:30:14.000Z",
       "updatedAt": "2026-09-29T14:30:14.000Z"
+    },
+    {
+      "id": "931beaed-906e-4eb3-a3d9-75fdedf0b14b",
+      "company": "Moloco",
+      "title": "Software Engineer Intern (3 months)",
+      "locations": [
+        "Seoul, Korea"
+      ],
+      "cities": [
+        "Seoul"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/moloco/jobs/8007407003",
+      "url": "https://trueinterview.io/jobs/931beaed-906e-4eb3-a3d9-75fdedf0b14b",
+      "postedAt": "2026-09-29T00:56:51.000Z",
+      "updatedAt": "2026-09-29T00:56:51.000Z"
     },
     {
       "id": "4fca36cb-e338-49bc-b878-b284fb06cf9f",
@@ -77063,6 +77326,33 @@
       "updatedAt": "2026-09-14T14:33:10.000Z"
     },
     {
+      "id": "f6448606-8dd5-454c-bffa-c8103f45448a",
+      "company": "Mistral AI",
+      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
+      "locations": [
+        "Paris"
+      ],
+      "cities": [
+        "Paris"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
+      "url": "https://trueinterview.io/jobs/f6448606-8dd5-454c-bffa-c8103f45448a",
+      "postedAt": "2026-09-14T09:15:24.000Z",
+      "updatedAt": "2026-09-14T09:15:24.000Z"
+    },
+    {
       "id": "90c183fe-99cc-486c-809d-c682bcf6cf5f",
       "company": "Antares",
       "title": "Nuclear Operations & Licensing Engineering Intern - Summer 2027",
@@ -79037,9 +79327,12 @@
       "company": "Master Born",
       "title": "Intern Product Designer (AI Prototyping)",
       "locations": [
-        "Wrocław or remotely"
+        "Wrocław or remotely",
+        "Wrocław"
       ],
-      "cities": [],
+      "cities": [
+        "Wrocław"
+      ],
       "countries": [
         "Poland"
       ],
@@ -79056,6 +79349,33 @@
       "url": "https://trueinterview.io/jobs/047889e2-2c67-4074-9343-8159e1c856ef",
       "postedAt": "2026-09-10T16:02:22.000Z",
       "updatedAt": "2026-09-10T16:02:22.000Z"
+    },
+    {
+      "id": "92ab76c6-8fb4-45a5-aab2-9173593bd997",
+      "company": "The Exploration Company",
+      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
+      "locations": [
+        "Munich, Germany"
+      ],
+      "cities": [
+        "Munich"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357",
+      "url": "https://trueinterview.io/jobs/92ab76c6-8fb4-45a5-aab2-9173593bd997",
+      "postedAt": "2026-09-10T10:14:58.000Z",
+      "updatedAt": "2026-09-10T10:14:58.000Z"
     },
     {
       "id": "92eee58c-f22b-4b9e-9adf-8335b3531360",
@@ -79920,6 +80240,169 @@
       "url": "https://trueinterview.io/jobs/73ce5821-d7fa-467b-89db-9f491ed0da44",
       "postedAt": "2026-09-09T19:47:49.000Z",
       "updatedAt": "2026-09-09T19:47:49.000Z"
+    },
+    {
+      "id": "f991bb48-8f11-4726-a3be-67132aaa7cc0",
+      "company": "Saronic Technologies",
+      "title": "Electrical Engineer Intern (Summer 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a",
+      "url": "https://trueinterview.io/jobs/f991bb48-8f11-4726-a3be-67132aaa7cc0",
+      "postedAt": "2026-09-09T19:47:36.000Z",
+      "updatedAt": "2026-09-09T19:47:36.000Z"
+    },
+    {
+      "id": "5959a6ab-c1ae-43a5-ad48-7d3eafd37459",
+      "company": "Saronic Technologies",
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088",
+      "url": "https://trueinterview.io/jobs/5959a6ab-c1ae-43a5-ad48-7d3eafd37459",
+      "postedAt": "2026-09-09T19:47:04.000Z",
+      "updatedAt": "2026-09-09T19:47:04.000Z"
+    },
+    {
+      "id": "22b61548-f3ff-4f3f-a92f-e8fa6c0f3ac7",
+      "company": "Saronic Technologies",
+      "title": "Manufacturing Engineer Intern (Summer 2027)",
+      "locations": [
+        "Franklin, LA",
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97",
+      "url": "https://trueinterview.io/jobs/22b61548-f3ff-4f3f-a92f-e8fa6c0f3ac7",
+      "postedAt": "2026-09-09T19:46:42.000Z",
+      "updatedAt": "2026-09-09T19:46:42.000Z"
+    },
+    {
+      "id": "74fe5d9d-7e95-4941-bf75-9a70a463c044",
+      "company": "Saronic Technologies",
+      "title": "Forward Deployed Engineer Intern (Summer 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
+      "url": "https://trueinterview.io/jobs/74fe5d9d-7e95-4941-bf75-9a70a463c044",
+      "postedAt": "2026-09-09T19:46:26.000Z",
+      "updatedAt": "2026-09-09T19:46:26.000Z"
+    },
+    {
+      "id": "ee8710e6-33b5-4f8e-8cc5-f9b0963a69f6",
+      "company": "Saronic Technologies",
+      "title": "Naval Architect Intern (Summer 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/saronic/fc6124a1-85a2-4c3f-82f5-4534ae443411",
+      "url": "https://trueinterview.io/jobs/ee8710e6-33b5-4f8e-8cc5-f9b0963a69f6",
+      "postedAt": "2026-09-09T19:45:56.000Z",
+      "updatedAt": "2026-09-09T19:45:56.000Z"
+    },
+    {
+      "id": "891c13a5-81c2-449f-bf15-a45f7cf3cc7e",
+      "company": "Saronic Technologies",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
+      "url": "https://trueinterview.io/jobs/891c13a5-81c2-449f-bf15-a45f7cf3cc7e",
+      "postedAt": "2026-09-09T19:45:15.000Z",
+      "updatedAt": "2026-09-09T19:45:15.000Z"
     },
     {
       "id": "8341fc9b-8e04-48d8-8825-4f852964eb78",

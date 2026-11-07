@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**25 open roles.** 22 in the United States & Canada · 3 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**27 open roles.** 23 in the United States & Canada · 4 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf8b3652-6ece-487e-b43f-ea339e62c574">AI Scientist Intern - (Internship, Masters or Phd)</a></td>
+<td>Paris<br/>Zurich<br/>Warsaw<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Together AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/5d595a4b-f73c-448f-bbbe-55267f94db8c">Hardware Security Engineer Intern (Summer 2027)</a></td>
@@ -203,6 +210,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Burnaby</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818/application">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6448606-8dd5-454c-bffa-c8103f45448a">Applied AI, Forward Deployed Machine Learning Engineer - (Internship)</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

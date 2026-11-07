@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**8 open roles.** 5 in the United States & Canada · 3 elsewhere in the world. A real classification that none of the other sectors covers.
+**9 open roles.** 5 in the United States & Canada · 4 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,6 +64,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Accorhotel</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4198136-e56d-4a86-9ef5-e46d4755ff5c">Engineering Admin Intern</a></td>
+<td>Makati City, Metro Manila, Philippines</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AccorHotel/744000158185889-engineering-admin-intern">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Oliver Agency</strong></td>
 <td><a href="https://trueinterview.io/jobs/8eea2850-3447-4f39-80b0-b0db9f482f52">Communication Design Internship</a></td>

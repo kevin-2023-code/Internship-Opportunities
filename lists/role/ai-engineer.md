@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**157 open roles.** 113 in the United States & Canada · 44 elsewhere in the world.
+**160 open roles.** 114 in the United States & Canada · 46 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,6 +64,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/318bf626-706e-4cee-8372-7ff2aa4b73b6">Software Engineering Generative AI Intern</a></td>
 <td>Elk Grove Village, Illinois</td>
 <td align="center"><a href="https://career8.successfactors.com/career?career_ns=job_listing&amp;company=SPX&amp;rcm_site_locale=en_US&amp;career_job_req_id=74569">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mistral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf8b3652-6ece-487e-b43f-ea339e62c574">AI Scientist Intern - (Internship, Masters or Phd)</a></td>
+<td>Paris<br/>Zurich<br/>Warsaw<br/>+3 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -933,6 +940,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>CMA CGM</strong></td>
+<td><a href="https://trueinterview.io/jobs/42b768eb-f030-4470-9520-09b9ace49011">Internship - Developer Intern - AI-Augmented Applications (M/F)</a></td>
+<td>Marseille, France</td>
+<td align="center"><a href="https://career2.successfactors.eu/career?career%5fns=job%5flisting&amp;company=C0002716868P&amp;navBarLevel=JOB%5fSEARCH&amp;rcm%5fsite%5flocale=en%5fGB&amp;career_job_req_id=588751&amp;selected_lang=en_GB&amp;jobAlertController_jobAlertId=&amp;jobAlertController_jobAlertName=&amp;browserTimeZone=America/Chicago&amp;_s.crb=Vmtmhqd3Rp9ruMOdxnha2GZEEUPuXAURWHyGMF0lO6w%3d">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Dassault Systèmes</strong></td>
 <td><a href="https://trueinterview.io/jobs/13e70f2c-e6d3-419b-a9a6-b0c78bb43038">Intern (m/f/d) AI Development Engineer</a></td>
 <td>München, Deutschland</td>
@@ -1106,6 +1120,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001472450--uni-jan-till-jun-2027-business-strategy-analyst-intern-ai-and-smart-systems-">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lesaffre</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3838f36-1106-4f98-9d0f-bee5d14d2afb">INTERNSHIP - Data engineering &amp; AI-ready software architecture</a></td>
+<td>Marcq-en-Barœul, Nord, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Lesaffre/744000154054660-internship-data-engineering-ai-ready-software-architecture-">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Xsolla</strong></td>
