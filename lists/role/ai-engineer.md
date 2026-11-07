@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**172 open roles.** 114 in the United States & Canada · 58 elsewhere in the world.
+**171 open roles.** 111 in the United States & Canada · 60 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -233,27 +233,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Louisville, KY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487086276/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Marketeq Digital Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ff2c982-80d5-40d4-b08b-d3830890b585">AI Developer Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487047493/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>American Express</strong></td>
-<td><a href="https://trueinterview.io/jobs/4a85e3b3-6b42-4458-bf19-5360bcf455dc">Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486093123/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts (EA)</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9a9bb2b-866e-410f-8bbd-63c5623915ef">Data &amp; AI Engineering Intern (Master's Level) - Summer 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476051447/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Marketeq Digital Solutions</strong></td>
@@ -1129,7 +1108,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/16475085-f414-4b05-9829-b32fe0951844">AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)</a></td>
+<td>Nonantola, Emilia-Romagna, Italy</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157442289-ai-manufacturing-engineer-curricular-internship-m-f-d-">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/59e60858-c61c-465a-8c95-bb05817de179">SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai</a></td>
 <td>Shanghai, Pudong New District, China</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000157379640-sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai">Apply</a></td>
@@ -1147,6 +1133,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/81583b80-ffc8-4aa8-97f1-9c0323a6e547">Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027</a></td>
 <td>Bristol, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/4245bb33-e482-4289-8975-cc6ab6a9dd5d">Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)</a></td>
+<td>Ovar, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

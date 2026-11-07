@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**23 open roles.** 1 in the United States & Canada · 22 elsewhere in the world.
+**24 open roles.** 1 in the United States & Canada · 23 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -142,7 +142,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/57bcec89-4fd0-4383-b499-a1727f11715d">Software Engineer Intern (Full stack)</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/54595013-71cc-4f2b-b330-7ccde5e02f8b">SAP iXp Intern - CPIT CFA AI Engineer</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154049239-sap-ixp-intern-cpit-cfa-ai-engineer">Apply</a></td>

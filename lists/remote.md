@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**47 open roles.** 34 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
+**48 open roles.** 34 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -294,6 +294,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — United Kingdom</td>
 <td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/99122790">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sezzle</strong></td>
+<td><a href="https://trueinterview.io/jobs/66d7baa9-9c11-4bc9-8368-b8129dbb1923">Product Manager Intern, ShopX(Rewards)</a> 🌐</td>
+<td>Remote — Brazil, Mexico</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8044474003">Apply</a></td>
+<td align="center">26 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>TenthNode.ai</strong></td>

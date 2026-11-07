@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**95 open roles.** 93 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**94 open roles.** 92 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -660,13 +660,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Shield AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/48ddc36f-e925-42b2-8e91-3b4f7901db37">Summer 2027 - Software Engineer Intern</a></td>
-<td>Washington, DC<br/>Seattle, Washington<br/>San Diego, California<br/>+2 more</td>
-<td align="center"><a href="https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

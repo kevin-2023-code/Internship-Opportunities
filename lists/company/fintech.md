@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**36 open roles.** 29 in the United States & Canada · 7 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**37 open roles.** 29 in the United States & Canada · 8 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -232,6 +232,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sezzle</strong></td>
+<td><a href="https://trueinterview.io/jobs/66d7baa9-9c11-4bc9-8368-b8129dbb1923">Product Manager Intern, ShopX(Rewards)</a> 🌐</td>
+<td>Remote — Brazil, Mexico</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8044474003">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sardine</strong></td>
 <td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>

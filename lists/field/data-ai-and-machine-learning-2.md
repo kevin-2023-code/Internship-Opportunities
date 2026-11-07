@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**677 open roles.** 496 in the United States & Canada · 181 elsewhere in the world.
+**675 open roles.** 493 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,27 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/f43e56f8-88fe-4473-ad92-19f9d8173cde">2027 Intern - AI &amp; Architecture</a></td>
-<td>San Jose, California, United States of America</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Didi Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/569a0880-46f4-4516-8947-ac7c179306b9">Research Intern, Scene Understanding and Planning</a></td>
-<td>San Jose, CA, Silicon Valley</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/didi/jobs/8299748">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4d3b9ee-049a-4744-a7b0-cd49f6b2c928">AI Data Science Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Together AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/de1f39eb-e441-458c-bd42-e59ee9ede29b">Research Intern, Frontier Speculative Decoding (Winter 2027)</a></td>
@@ -931,13 +910,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Atlas AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/a29b6c75-bec8-4db8-ae6b-4dc97fb96667">AI Data Engineer Intern</a></td>
-<td>Greater Indianapolis</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486089480/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/ece4e509-afc1-4791-8423-a7c24a851fb5">Software Engineering Intern, AI Agent Test Development - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
@@ -1715,6 +1687,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">24 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/16475085-f414-4b05-9829-b32fe0951844">AI Manufacturing Engineer – CURRICULAR INTERNSHIP (m/f/d)</a></td>
+<td>Nonantola, Emilia-Romagna, Italy</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157442289-ai-manufacturing-engineer-curricular-internship-m-f-d-">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/59e60858-c61c-465a-8c95-bb05817de179">SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai</a></td>
 <td>Shanghai, Pudong New District, China</td>
@@ -1747,6 +1726,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/81583b80-ffc8-4aa8-97f1-9c0323a6e547">Software Engineer Summer Intern, AI Compute Libraries &amp; Performance 2027</a></td>
 <td>Bristol, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8894868002">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/4245bb33-e482-4289-8975-cc6ab6a9dd5d">Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.)</a></td>
+<td>Ovar, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156523049-extracurricular-internship-ai-assisted-software-engineering-intern-f-m-div-">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>

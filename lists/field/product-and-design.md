@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**223 open roles.** 164 in the United States & Canada · 59 elsewhere in the world.
+**225 open roles.** 164 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1220,6 +1220,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Ubisoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/f69ac508-c633-4664-8133-8cfd0fd60226">Customer Experience Program Manager Assistant – Internship (6-month) January 2027 (W/M/NB)</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000159636388-customer-experience-program-manager-assistant-internship-6-month-january-2027-w-m-nb-">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Snapmint</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cd0bff1-878a-456f-88cf-545d9045ebb8">AI Creative Experience Design Intern</a></td>
 <td>Bengaluru, Karnataka, India</td>
@@ -1476,6 +1483,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9dc19213-fed6-4e84-88e4-55e1be06d465">2027 Industrial Placement - Industrial Designer - Bray (Ireland)</a></td>
 <td>Bray, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000157848021-2027-industrial-placement-industrial-designer-bray-ireland-">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sezzle</strong></td>
+<td><a href="https://trueinterview.io/jobs/66d7baa9-9c11-4bc9-8368-b8129dbb1923">Product Manager Intern, ShopX(Rewards)</a> 🌐</td>
+<td>Remote — Brazil, Mexico</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8044474003">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
