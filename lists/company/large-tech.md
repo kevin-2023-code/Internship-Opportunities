@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**145 open roles.** 128 in the United States & Canada · 17 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**146 open roles.** 129 in the United States & Canada · 17 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,6 +155,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/40e75538-eeab-4739-8f88-17d329ae7b54">Associate Product Manager Summer Internship (Hybrid)</a></td>
 <td>Clearwater, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485411943/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Knowbe4</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e77e8c6-3ee5-452b-9119-56f1aadfbda8">Multimedia Designer Summer Internship (Hybrid)</a></td>
+<td>Clearwater, Florida</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8919260002">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>

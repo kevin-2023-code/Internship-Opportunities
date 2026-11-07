@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-07T06:06:29.193Z",
-  "count": 3091,
+  "listingsChangedAt": "2026-11-07T07:04:15.427Z",
+  "count": 3123,
   "listings": [
     {
       "id": "ee5cd08a-fcdd-412e-b9c6-b69462ed53ea",
@@ -3153,6 +3153,56 @@
       "source": "indeed",
       "applyUrl": "https://hmspeople.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN271",
       "url": "https://trueinterview.io/jobs/d8e4b429-458f-494c-b270-cf5e03ece8ea",
+      "postedAt": "2026-11-06T06:00:00.000Z",
+      "updatedAt": "2026-11-06T06:00:00.000Z"
+    },
+    {
+      "id": "3b845783-11a0-4754-89d0-b663e1f5c65a",
+      "company": "RTX",
+      "title": "Enterprise Services Engineering Co-Op (Spring/Summer 2027)",
+      "locations": [
+        "East Hartford, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.rtx.com/global/en/job/01884910",
+      "url": "https://trueinterview.io/jobs/3b845783-11a0-4754-89d0-b663e1f5c65a",
+      "postedAt": "2026-11-06T06:00:00.000Z",
+      "updatedAt": "2026-11-06T06:00:00.000Z"
+    },
+    {
+      "id": "ff8fe6e9-f600-4ed9-b7cc-911f30304739",
+      "company": "SSOE Group",
+      "title": "Electrical Engineering Co-Op - Summer 2027",
+      "locations": [
+        "Toledo, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers-ssoe.icims.com/jobs/4002/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
+      "url": "https://trueinterview.io/jobs/ff8fe6e9-f600-4ed9-b7cc-911f30304739",
       "postedAt": "2026-11-06T06:00:00.000Z",
       "updatedAt": "2026-11-06T06:00:00.000Z"
     },
@@ -6977,6 +7027,31 @@
       "source": "indeed",
       "applyUrl": "https://pciservices.wd1.myworkdayjobs.com/en-US/External/job/Rockford-IL-USA/Automation-Engineer-Intern_JR120427",
       "url": "https://trueinterview.io/jobs/eeee4851-4cda-48bc-845b-8398672537dc",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
+      "id": "18b4b5fd-f3e4-475a-b9fd-6aa41a936621",
+      "company": "Raytheon",
+      "title": "System Engineering Co-op (Remote)",
+      "locations": [
+        "Aurora, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.rtx.com/global/en/job/01868902",
+      "url": "https://trueinterview.io/jobs/18b4b5fd-f3e4-475a-b9fd-6aa41a936621",
       "postedAt": "2026-11-05T06:00:00.000Z",
       "updatedAt": "2026-11-05T06:00:00.000Z"
     },
@@ -12198,6 +12273,31 @@
       "updatedAt": "2026-11-04T00:00:00.000Z"
     },
     {
+      "id": "620d47ef-62ea-4c37-9dd9-8c961033a9d9",
+      "company": "Intuitive Surgical",
+      "title": "Product Development Engineering Intern",
+      "locations": [
+        "Durham, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000159519489-product-development-engineering-intern",
+      "url": "https://trueinterview.io/jobs/620d47ef-62ea-4c37-9dd9-8c961033a9d9",
+      "postedAt": "2026-11-03T23:58:15.000Z",
+      "updatedAt": "2026-11-03T23:58:15.000Z"
+    },
+    {
       "id": "b994938b-957c-4392-b701-5e5da1f5d7a3",
       "company": "KEEN",
       "title": "AI Product Management Intern",
@@ -14369,33 +14469,6 @@
       "url": "https://trueinterview.io/jobs/de6952ac-7a09-4cfb-aeaa-d80cd725e3c8",
       "postedAt": "2026-11-03T08:43:00.000Z",
       "updatedAt": "2026-11-03T08:43:00.000Z"
-    },
-    {
-      "id": "647f9873-243e-4742-b4ca-411cf5b46aef",
-      "company": "Informa",
-      "title": "Data Analyst Internship",
-      "locations": [
-        "Amsterdam, Netherlands"
-      ],
-      "cities": [
-        "Amsterdam"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159322318-data-analyst-internship",
-      "url": "https://trueinterview.io/jobs/647f9873-243e-4742-b4ca-411cf5b46aef",
-      "postedAt": "2026-11-03T08:29:21.000Z",
-      "updatedAt": "2026-11-03T08:29:21.000Z"
     },
     {
       "id": "f058875b-5d1e-4f51-b465-4280b35963cd",
@@ -16784,6 +16857,33 @@
       "updatedAt": "2026-11-02T18:28:21.000Z"
     },
     {
+      "id": "1f0223de-1203-4f34-8bd5-2cce9271c9b0",
+      "company": "Intuitive Surgical",
+      "title": "AI/ML Engineer Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000159218439-ai-ml-engineer-intern",
+      "url": "https://trueinterview.io/jobs/1f0223de-1203-4f34-8bd5-2cce9271c9b0",
+      "postedAt": "2026-11-02T18:26:56.000Z",
+      "updatedAt": "2026-11-02T18:26:56.000Z"
+    },
+    {
       "id": "fa0b94cf-8a19-4e00-86ae-d48cc83226d9",
       "company": "KEEN Footwear",
       "title": "Analytics Engineer Intern",
@@ -17332,6 +17432,29 @@
       "updatedAt": "2026-11-02T16:18:00.000Z"
     },
     {
+      "id": "81fb9d1d-e0ca-402d-80f0-380a1403ec53",
+      "company": "axelera-ai",
+      "title": "Hardware Lab Engineer Intern",
+      "locations": [
+        "Florence (on-site)"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16",
+      "url": "https://trueinterview.io/jobs/81fb9d1d-e0ca-402d-80f0-380a1403ec53",
+      "postedAt": "2026-11-02T16:14:59.000Z",
+      "updatedAt": "2026-11-02T16:14:59.000Z"
+    },
+    {
       "id": "e688e2ba-9a3b-4657-be67-f3fb5d7a79f5",
       "company": "London Computer Systems",
       "title": "Software Developer Co-op/Intern",
@@ -17515,10 +17638,13 @@
       "company": "ParetoHealth",
       "title": "Product Manager Summer Intern",
       "locations": [
-        "Greater Philadelphia"
+        "Greater Philadelphia",
+        "Philadelphia, Pennsylvania, United States"
       ],
       "cities": [],
-      "countries": [],
+      "countries": [
+        "United States"
+      ],
       "remote": "onsite",
       "category": "Product & Design",
       "family": "Product & Design",
@@ -17528,7 +17654,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485729044/",
+      "applyUrl": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006",
       "url": "https://trueinterview.io/jobs/85ad408f-5d29-4c89-9b7f-945474c75df3",
       "postedAt": "2026-11-02T13:35:00.000Z",
       "updatedAt": "2026-11-02T13:35:00.000Z"
@@ -19401,6 +19527,31 @@
       "url": "https://trueinterview.io/jobs/77eb4340-99dc-4799-bd7a-665cb2d94960",
       "postedAt": "2026-11-01T19:20:00.000Z",
       "updatedAt": "2026-11-01T19:20:00.000Z"
+    },
+    {
+      "id": "5e77e8c6-3ee5-452b-9119-56f1aadfbda8",
+      "company": "Knowbe4",
+      "title": "Multimedia Designer Summer Internship (Hybrid)",
+      "locations": [
+        "Clearwater, Florida"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/knowbe4/jobs/8919260002",
+      "url": "https://trueinterview.io/jobs/5e77e8c6-3ee5-452b-9119-56f1aadfbda8",
+      "postedAt": "2026-11-01T19:19:11.000Z",
+      "updatedAt": "2026-11-01T19:19:11.000Z"
     },
     {
       "id": "2faabbee-9a7f-4152-9710-1e220ddb1f13",
@@ -21386,7 +21537,8 @@
       "company": "GCM Grosvenor",
       "title": "2027 Software Engineering Summer Intern",
       "locations": [
-        "Chicago, IL"
+        "Chicago, IL",
+        "Chicago, Illinois, United States"
       ],
       "cities": [
         "Chicago, IL"
@@ -21403,7 +21555,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476846765/",
+      "applyUrl": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003",
       "url": "https://trueinterview.io/jobs/377d2bad-ecdc-413f-946b-6e06df0a85b4",
       "postedAt": "2026-10-31T15:20:00.000Z",
       "updatedAt": "2026-10-31T15:20:00.000Z"
@@ -23267,6 +23419,214 @@
       "updatedAt": "2026-10-31T02:55:00.000Z"
     },
     {
+      "id": "aedbecde-8469-40c6-b3ce-4505e57a1387",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer 2027 - Threat",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758",
+      "url": "https://trueinterview.io/jobs/aedbecde-8469-40c6-b3ce-4505e57a1387",
+      "postedAt": "2026-10-31T02:26:52.000Z",
+      "updatedAt": "2026-10-31T02:26:52.000Z"
+    },
+    {
+      "id": "2f820346-f8a9-43b1-9cdd-088480d3c247",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer 2027 - Solutions",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d",
+      "url": "https://trueinterview.io/jobs/2f820346-f8a9-43b1-9cdd-088480d3c247",
+      "postedAt": "2026-10-31T02:25:58.000Z",
+      "updatedAt": "2026-10-31T02:25:58.000Z"
+    },
+    {
+      "id": "3f6b9d03-5c01-4aa3-b17d-76b2a82c5c89",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
+      "url": "https://trueinterview.io/jobs/3f6b9d03-5c01-4aa3-b17d-76b2a82c5c89",
+      "postedAt": "2026-10-31T02:22:15.000Z",
+      "updatedAt": "2026-10-31T02:22:15.000Z"
+    },
+    {
+      "id": "d71e7b94-9f17-482d-a48d-ef550f9f28ec",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer 2027 - Payments",
+      "locations": [
+        "Fairfax, VA",
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721",
+      "url": "https://trueinterview.io/jobs/d71e7b94-9f17-482d-a48d-ef550f9f28ec",
+      "postedAt": "2026-10-31T02:21:30.000Z",
+      "updatedAt": "2026-10-31T02:21:30.000Z"
+    },
+    {
+      "id": "3e3aecbe-496e-46af-a07c-e422a913600a",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c",
+      "url": "https://trueinterview.io/jobs/3e3aecbe-496e-46af-a07c-e422a913600a",
+      "postedAt": "2026-10-31T02:20:42.000Z",
+      "updatedAt": "2026-10-31T02:20:42.000Z"
+    },
+    {
+      "id": "1aee7eab-3435-4c5f-a261-1208d3f7f8f4",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer 2027 - Healthcare",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0",
+      "url": "https://trueinterview.io/jobs/1aee7eab-3435-4c5f-a261-1208d3f7f8f4",
+      "postedAt": "2026-10-31T02:18:34.000Z",
+      "updatedAt": "2026-10-31T02:18:34.000Z"
+    },
+    {
+      "id": "2949ba0b-e429-44a4-af89-7d85a07c7e7a",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer2027 - Federal",
+      "locations": [
+        "Fairfax, VA",
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d",
+      "url": "https://trueinterview.io/jobs/2949ba0b-e429-44a4-af89-7d85a07c7e7a",
+      "postedAt": "2026-10-31T02:17:44.000Z",
+      "updatedAt": "2026-10-31T02:17:44.000Z"
+    },
+    {
+      "id": "1a3898cb-fc2c-4fb5-8b55-d0e277c1e357",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Summer 2027 - Enterprise Risk Management",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c",
+      "url": "https://trueinterview.io/jobs/1a3898cb-fc2c-4fb5-8b55-d0e277c1e357",
+      "postedAt": "2026-10-31T02:16:08.000Z",
+      "updatedAt": "2026-10-31T02:16:08.000Z"
+    },
+    {
       "id": "7f453cec-9b6e-4c3a-b980-2f5b92b96418",
       "company": "Waymo",
       "title": "2027 Summer Intern, PhD, Research Scientist Intern",
@@ -24096,6 +24456,33 @@
       "url": "https://trueinterview.io/jobs/d12cc35b-1bf7-4428-9bc7-005b7e77f122",
       "postedAt": "2026-10-30T14:35:11.000Z",
       "updatedAt": "2026-10-30T14:35:11.000Z"
+    },
+    {
+      "id": "ec9c1d27-0cb9-4e98-b541-de4c8cf88cda",
+      "company": "Gcm Grosvenor",
+      "title": "2027 Cybersecurity Summer Intern",
+      "locations": [
+        "Chicago, Illinois, United States"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8035929003",
+      "url": "https://trueinterview.io/jobs/ec9c1d27-0cb9-4e98-b541-de4c8cf88cda",
+      "postedAt": "2026-10-30T14:12:51.000Z",
+      "updatedAt": "2026-10-30T14:12:51.000Z"
     },
     {
       "id": "6b01f696-9595-4501-a4bc-d60643d8b994",
@@ -29888,7 +30275,8 @@
       "company": "NEURA Robotics",
       "title": "Internship Robotics Training Engineering – Academy (human)",
       "locations": [
-        "Riederich, Baden-Württemberg, Germany"
+        "Riederich, Baden-Württemberg, Germany",
+        "Metzingen / Riederich"
       ],
       "cities": [],
       "countries": [
@@ -29903,7 +30291,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485247532/",
+      "applyUrl": "https://jobs.ashbyhq.com/neura-robotics-gmbh/902bc948-b581-4259-92c3-0b15d21033c0",
       "url": "https://trueinterview.io/jobs/1fa9457a-6563-475b-aff9-71dcadb3e35e",
       "postedAt": "2026-10-29T23:44:00.000Z",
       "updatedAt": "2026-10-29T23:44:00.000Z"
@@ -38520,6 +38908,53 @@
       "updatedAt": "2026-10-29T09:03:00.000Z"
     },
     {
+      "id": "327138e6-000b-43a7-9043-22f41771826a",
+      "company": "Reonic",
+      "title": "AI Product Manager Intern - (AI x Greentech) (m/f/d)",
+      "locations": [
+        "Augsburg, Deutschland",
+        "Augsburg"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c",
+      "url": "https://trueinterview.io/jobs/327138e6-000b-43a7-9043-22f41771826a",
+      "postedAt": "2026-10-29T05:00:00.000Z",
+      "updatedAt": "2026-10-29T08:49:09.000Z"
+    },
+    {
+      "id": "6cf7ffbd-aa2c-4340-9c0e-3a3ee6030b28",
+      "company": "Reonic",
+      "title": "Software Engineer Intern - (AI x Greentech) (m/f/d)",
+      "locations": [
+        "Augsburg"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reonic/1e64e8ef-224e-4c03-9e63-851623370638",
+      "url": "https://trueinterview.io/jobs/6cf7ffbd-aa2c-4340-9c0e-3a3ee6030b28",
+      "postedAt": "2026-10-29T08:48:45.000Z",
+      "updatedAt": "2026-10-29T08:48:45.000Z"
+    },
+    {
       "id": "32fbf546-53d4-4eb5-9c66-e090d70020d4",
       "company": "Crédit Agricole CIB",
       "title": ".NET Software Engineer Intern (Jan 2027 intake)",
@@ -39630,29 +40065,6 @@
       "updatedAt": "2026-10-29T05:00:00.000Z"
     },
     {
-      "id": "327138e6-000b-43a7-9043-22f41771826a",
-      "company": "Reonic GmbH",
-      "title": "AI Product Manager Intern - (AI x Greentech) (m/f/d)",
-      "locations": [
-        "Augsburg, Deutschland"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c",
-      "url": "https://trueinterview.io/jobs/327138e6-000b-43a7-9043-22f41771826a",
-      "postedAt": "2026-10-29T05:00:00.000Z",
-      "updatedAt": "2026-10-29T05:00:00.000Z"
-    },
-    {
       "id": "81c2e934-ef4d-445e-9672-ac7aaa24de81",
       "company": "Sanofi",
       "title": "2027 Spring Co-op Process and CMC Data Science, Waltham, MA",
@@ -40041,6 +40453,31 @@
       "url": "https://trueinterview.io/jobs/3c44563c-9fc7-4dda-9b73-35606dfeeca2",
       "postedAt": "2026-10-29T03:07:00.000Z",
       "updatedAt": "2026-10-29T03:07:00.000Z"
+    },
+    {
+      "id": "6a234af6-2d79-4c06-ba94-d31efd7a43ab",
+      "company": "Opswat",
+      "title": "Software Engineering Intern - MetaDefender Cloud",
+      "locations": [
+        "Ho Chi Minh City, Ho Chi Minh City, Vietnam"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://www.opswat.com/jobs/4746888005?gh_jid=4746888005",
+      "url": "https://trueinterview.io/jobs/6a234af6-2d79-4c06-ba94-d31efd7a43ab",
+      "postedAt": "2026-10-29T02:47:39.000Z",
+      "updatedAt": "2026-10-29T02:47:43.000Z"
     },
     {
       "id": "ef6dd09c-3450-4f5b-8bed-a463a052af54",
@@ -47088,6 +47525,60 @@
       "url": "https://trueinterview.io/jobs/5b458574-2e37-4739-9ae4-6e11e884c4cf",
       "postedAt": "2026-10-28T14:42:52.000Z",
       "updatedAt": "2026-10-28T14:42:52.000Z"
+    },
+    {
+      "id": "c46a56a2-e366-4beb-8dae-9310b4788170",
+      "company": "Intuitive Surgical",
+      "title": "Manufacturing Software Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern",
+      "url": "https://trueinterview.io/jobs/c46a56a2-e366-4beb-8dae-9310b4788170",
+      "postedAt": "2026-10-28T14:41:54.000Z",
+      "updatedAt": "2026-10-28T14:41:54.000Z"
+    },
+    {
+      "id": "87a86f24-de15-4435-9611-4f04805097d1",
+      "company": "Intuitive Surgical",
+      "title": "Robotics Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000158313717-robotics-engineering-intern",
+      "url": "https://trueinterview.io/jobs/87a86f24-de15-4435-9611-4f04805097d1",
+      "postedAt": "2026-10-28T14:41:49.000Z",
+      "updatedAt": "2026-10-28T14:41:49.000Z"
     },
     {
       "id": "51ac6764-f214-48cd-9519-09f51ff1a96b",
@@ -59053,6 +59544,31 @@
       "updatedAt": "2026-10-19T14:41:43.000Z"
     },
     {
+      "id": "aaf24f31-1c7e-4369-af43-dd22ec31388b",
+      "company": "Intuitive Surgical",
+      "title": "Intern Industrial Engineer",
+      "locations": [
+        "Parvomay, BULGARIA, Bulgaria"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer",
+      "url": "https://trueinterview.io/jobs/aaf24f31-1c7e-4369-af43-dd22ec31388b",
+      "postedAt": "2026-10-19T09:48:53.000Z",
+      "updatedAt": "2026-10-19T09:48:53.000Z"
+    },
+    {
       "id": "e2d1e997-4108-4878-b845-def8167ca4e0",
       "company": "Apple",
       "title": "Internship - Software Engineering",
@@ -63834,6 +64350,33 @@
       "updatedAt": "2026-10-08T16:54:28.000Z"
     },
     {
+      "id": "94cd601d-6c1f-4dda-a471-1195becde419",
+      "company": "Eq Bank",
+      "title": "Intern - Software Engineer, Winter 2027",
+      "locations": [
+        "Toronto"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3",
+      "url": "https://trueinterview.io/jobs/94cd601d-6c1f-4dda-a471-1195becde419",
+      "postedAt": "2026-10-08T15:20:12.000Z",
+      "updatedAt": "2026-10-08T15:20:12.000Z"
+    },
+    {
       "id": "8e971910-b44e-431c-97b6-7b8eb244df43",
       "company": "Lyceum",
       "title": "Forward Deployed Engineer – AI Inference (Intern)",
@@ -64960,6 +65503,29 @@
       "updatedAt": "2026-10-06T14:08:04.000Z"
     },
     {
+      "id": "835be3c8-3d91-4f3f-8169-1411a25e1c21",
+      "company": "Neura Robotics",
+      "title": "Robotic Foundation Model Engineer Intern (Human)",
+      "locations": [
+        "Metzingen / Riederich"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/neura-robotics-gmbh/aa9a0895-f66b-4a5f-b933-ceca706d0e5c",
+      "url": "https://trueinterview.io/jobs/835be3c8-3d91-4f3f-8169-1411a25e1c21",
+      "postedAt": "2026-10-06T06:36:27.000Z",
+      "updatedAt": "2026-10-06T06:36:27.000Z"
+    },
+    {
       "id": "537b9859-c6d8-4e38-9734-446604d5146f",
       "company": "Apple",
       "title": "PHY Cellular Firmware Engineer Internship",
@@ -65008,6 +65574,214 @@
       "url": "https://trueinterview.io/jobs/be78fa33-c7fa-4e9f-9ffe-2d4f7afc2b38",
       "postedAt": "2026-10-06T00:33:04.000Z",
       "updatedAt": "2026-10-06T00:33:04.000Z"
+    },
+    {
+      "id": "664b408c-b63e-4168-aec1-264993627df7",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Threat",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/1048eaf2-66b6-466d-bb59-8a75d7f5c968",
+      "url": "https://trueinterview.io/jobs/664b408c-b63e-4168-aec1-264993627df7",
+      "postedAt": "2026-10-06T00:26:35.000Z",
+      "updatedAt": "2026-10-06T00:26:35.000Z"
+    },
+    {
+      "id": "5d836ca5-9e25-4731-8475-8a6b3cae2879",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Solutions",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/68afa3e4-7068-418f-858d-2a306795d7d3",
+      "url": "https://trueinterview.io/jobs/5d836ca5-9e25-4731-8475-8a6b3cae2879",
+      "postedAt": "2026-10-06T00:26:01.000Z",
+      "updatedAt": "2026-10-06T00:26:01.000Z"
+    },
+    {
+      "id": "4c917f1b-af5e-4d9a-9397-3864705a4111",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Systems and Organizations Controls (SOC)",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76",
+      "url": "https://trueinterview.io/jobs/4c917f1b-af5e-4d9a-9397-3864705a4111",
+      "postedAt": "2026-10-06T00:25:22.000Z",
+      "updatedAt": "2026-10-06T00:25:22.000Z"
+    },
+    {
+      "id": "e4ba9d4c-50c7-4f3c-9a9b-5fd4e4723013",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Payments",
+      "locations": [
+        "Fairfax, VA",
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a",
+      "url": "https://trueinterview.io/jobs/e4ba9d4c-50c7-4f3c-9a9b-5fd4e4723013",
+      "postedAt": "2026-10-06T00:24:30.000Z",
+      "updatedAt": "2026-10-06T00:24:30.000Z"
+    },
+    {
+      "id": "1f99979e-21ee-4b8f-a4c4-3354f73bc670",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - International Organization for Standardization (ISO)",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def",
+      "url": "https://trueinterview.io/jobs/1f99979e-21ee-4b8f-a4c4-3354f73bc670",
+      "postedAt": "2026-10-06T00:23:47.000Z",
+      "updatedAt": "2026-10-06T00:23:47.000Z"
+    },
+    {
+      "id": "5165966a-f6e3-4da5-834b-db04b4df287b",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Healthcare",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22",
+      "url": "https://trueinterview.io/jobs/5165966a-f6e3-4da5-834b-db04b4df287b",
+      "postedAt": "2026-10-06T00:21:59.000Z",
+      "updatedAt": "2026-10-06T00:21:59.000Z"
+    },
+    {
+      "id": "cc956f2b-2764-494c-be18-5abde4868362",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Federal",
+      "locations": [
+        "Fairfax, VA",
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1",
+      "url": "https://trueinterview.io/jobs/cc956f2b-2764-494c-be18-5abde4868362",
+      "postedAt": "2026-10-06T00:21:13.000Z",
+      "updatedAt": "2026-10-06T00:21:13.000Z"
+    },
+    {
+      "id": "8df9410b-936f-48cc-84af-f051ae33d8f4",
+      "company": "Tevora",
+      "title": "Cybersecurity Internship Winter 2027 - Enterprise Risk Management",
+      "locations": [
+        "Irvine, CA",
+        "Fairfax, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c",
+      "url": "https://trueinterview.io/jobs/8df9410b-936f-48cc-84af-f051ae33d8f4",
+      "postedAt": "2026-10-06T00:19:53.000Z",
+      "updatedAt": "2026-10-06T00:19:53.000Z"
     },
     {
       "id": "7925f2bc-0256-4f5c-9c58-fba7124e9324",
@@ -70324,33 +71098,6 @@
       "updatedAt": "2026-09-24T22:43:28.000Z"
     },
     {
-      "id": "ce410566-90b4-4f82-992c-3b1665a84b34",
-      "company": "Intuitive Surgical",
-      "title": "AI Research Intern",
-      "locations": [
-        "Sunnyvale, CA, United States"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000151714759-ai-research-intern?oga=true",
-      "url": "https://trueinterview.io/jobs/ce410566-90b4-4f82-992c-3b1665a84b34",
-      "postedAt": "2026-09-24T22:36:51.000Z",
-      "updatedAt": "2026-09-24T22:36:51.000Z"
-    },
-    {
       "id": "7c443068-91b8-4fa3-9c7b-58a834818adf",
       "company": "Pathai",
       "title": "Machine Learning Intern/Co-op",
@@ -72582,6 +73329,31 @@
       "url": "https://trueinterview.io/jobs/c6f81265-a774-4c52-9000-ee97aae54154",
       "postedAt": "2026-09-18T16:40:49.000Z",
       "updatedAt": "2026-09-18T16:40:49.000Z"
+    },
+    {
+      "id": "7804ad1d-0c76-4985-af66-e3a40056bf5d",
+      "company": "Nuclear Promise X",
+      "title": "Design Engineering Intern",
+      "locations": [
+        "Ontario"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/NPX/4e2f6fd7-26dd-47d9-aa3c-b7ff6bdb2cdb",
+      "url": "https://trueinterview.io/jobs/7804ad1d-0c76-4985-af66-e3a40056bf5d",
+      "postedAt": "2026-09-18T13:47:03.000Z",
+      "updatedAt": "2026-09-18T13:47:03.000Z"
     },
     {
       "id": "63ae6329-2ca1-4faa-b50c-99327baa6c78",
@@ -75962,6 +76734,60 @@
       "url": "https://trueinterview.io/jobs/203afb7e-0605-4f3e-99a2-103598368df3",
       "postedAt": "2026-09-14T18:35:28.000Z",
       "updatedAt": "2026-09-14T18:35:28.000Z"
+    },
+    {
+      "id": "7fb740ae-2460-44ff-b2ae-d3104a2a15c5",
+      "company": "Eq Bank",
+      "title": "Intern - Commercial Lending AI Engineer, Winter 2027",
+      "locations": [
+        "Toronto"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487",
+      "url": "https://trueinterview.io/jobs/7fb740ae-2460-44ff-b2ae-d3104a2a15c5",
+      "postedAt": "2026-09-14T17:49:16.000Z",
+      "updatedAt": "2026-09-14T17:49:16.000Z"
+    },
+    {
+      "id": "8f184d69-e65b-44ad-987d-200a758a89b4",
+      "company": "Eq Bank",
+      "title": "Intern - Retail Lending AI Engineer, Winter 2027",
+      "locations": [
+        "Toronto"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea",
+      "url": "https://trueinterview.io/jobs/8f184d69-e65b-44ad-987d-200a758a89b4",
+      "postedAt": "2026-09-14T17:40:47.000Z",
+      "updatedAt": "2026-09-14T17:40:47.000Z"
     },
     {
       "id": "32672e0b-52e5-4b1b-a687-d0a3947af4da",
