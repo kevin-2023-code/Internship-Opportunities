@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**494 open roles.**
+**495 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1938,6 +1938,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Scale AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/47dd9c5b-f0b6-4a06-a16a-71f78043daf1">Machine Learning Research Intern (Summer 2027)</a></td>
+<td>San Francisco, CA<br/>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4735665005">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
 <td>Sunnyvale, CA</td>
@@ -2022,13 +2029,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/e797fd74-2c89-4220-a4b6-ddc9358a09bb">Computer Vision &amp; Robotics Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application">Apply</a></td>
-<td align="center">18 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Persona</strong></td>
 <td><a href="https://trueinterview.io/jobs/4ee022ee-f00f-428f-939c-75dc87dcc03c">Product Design, Intern (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
@@ -2041,6 +2041,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5267197007">Apply</a></td>
 <td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Xona Space Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/8915acb4-9e9a-41fc-b69b-690b326fdf11">Mechanical Engineering Co-op</a></td>
+<td>Burlingame, California</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xona-space/4bf79312-d4c4-4ae2-bdfc-85c9e63937ad">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Cisco</strong></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/416402d6-7136-48b2-a386-4724a6a1b956">Associate Product Manager Intern</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/pebl/84ec9ce2-7e48-4ad1-8e1d-fb63583e81c4/application">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8">Applications Engineering  Intern</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 </tbody>

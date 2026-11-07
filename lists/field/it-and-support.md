@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**70 open roles.** 55 in the United States & Canada · 15 elsewhere in the world.
+**72 open roles.** 57 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d7a44c7-03f5-4953-9a7b-a93cd879d67b">Summer '27 Intern - IT Support Analyst</a></td>
 <td>Toronto, ON, M5H1T1, CAN<br/>Toledo, OH, 43615<br/>Dallas, TX, 75225</td>
 <td align="center"><a href="https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=9be87685-cfd7-4837-ba22-a3be51a1b8f6">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RR Donnelley</strong></td>
+<td><a href="https://trueinterview.io/jobs/3042ef5a-b14b-4d02-a3c0-61714912de5e">IT Support Engineer Summer Intern</a></td>
+<td>Wheeling, West Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000159878934-it-support-engineer-summer-intern">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -155,6 +162,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4533ffc9-86a7-4981-a835-3a86bff8a395">Intern - I&amp;C and Network Engineer - Spring or Summer 2027</a></td>
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/cbf90690-2518-4c81-ace4-530e3b158545">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RR Donnelley</strong></td>
+<td><a href="https://trueinterview.io/jobs/da7bdfd6-cf55-4adb-8faa-e88bcb4a397d">IT Support Engineer Intern</a></td>
+<td>Warrenville, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000158084729-it-support-engineer-intern">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>

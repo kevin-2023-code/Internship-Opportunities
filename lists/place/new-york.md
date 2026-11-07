@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**126 open roles.**
+**127 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -639,6 +639,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scale AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/47dd9c5b-f0b6-4a06-a16a-71f78043daf1">Machine Learning Research Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4735665005">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Scoreplay</strong></td>

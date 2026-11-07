@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**494 open roles.**
+**495 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>KLA</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8000532-de88-4b1b-b97c-484114a621e8">Applications Engineering  Intern</a></td>
+<td>Milpitas, CA, United States of America</td>
+<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Engineering--Intern_2641540-1">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Envoy</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bae841d-6ce3-4e54-92ed-ca5964db3e9f">Solutions Engineering Intern</a></td>

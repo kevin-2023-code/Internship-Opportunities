@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**987 open roles.** 822 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**971 open roles.** 808 in the United States & Canada · 163 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TruStage</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbbe54a8-8070-4598-9d2c-f75127021450">IT - Innovation &amp; AI Technology Internship (Hybrid)</a></td>
+<td>Madison, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485031390/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2e921cf-1a47-45d2-b5bb-b08bd98a9c79">AI/ML Engineer Intern, Summer 2027</a></td>
+<td>Rockville, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485044143/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Engramme</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5386059-bc73-44f3-a33e-c9242e676133">Back-End Software Engineer (Co-op / extended internship)</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/e93b7b48-7cc6-4731-a1ae-b69562d4b4aa">Engineering Intern - Regional Wastewater Reclamation</a></td>
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485311813/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Granite Construction</strong></td>
-<td><a href="https://trueinterview.io/jobs/995b6d61-a155-43cf-84b9-31ea944fbc1d">Field Engineer Intern - Tunnel</a></td>
-<td>Ohio, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467598580/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Traylor Bros., Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8de7caa-062d-4320-8d67-0a5dca902dbc">Field Engineer Intern (Company Wide)</a></td>
-<td>Washougal, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468865557/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

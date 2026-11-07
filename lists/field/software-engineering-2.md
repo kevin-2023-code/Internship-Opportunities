@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,438 open roles.** 1,194 in the United States & Canada · 244 elsewhere in the world.
+**1,444 open roles.** 1,196 in the United States & Canada · 248 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Medlaunch Concepts</strong></td>
+<td><a href="https://trueinterview.io/jobs/462875cf-e15f-4ca1-8e39-d5a007c9cc0f">Spring 2026 Internship - AI-Native Automation QA</a></td>
+<td>Clearwater, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485648962/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Leonardo DRS</strong></td>
 <td><a href="https://trueinterview.io/jobs/63ccd70b-bf49-42ef-add2-6f563512118d">2027 Summer - Full Stack Software Engineering Intern - Melbourne FL</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6eb25e83-e7b3-40e0-bc01-c38f81bf092e">Components Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476351089/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7fc82bf9-8943-45cd-9c18-b56bfa5757f7">Vehicle Integration &amp; Test Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476335676/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

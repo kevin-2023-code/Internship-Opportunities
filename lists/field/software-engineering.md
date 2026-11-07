@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,438 open roles.** 1,194 in the United States & Canada · 244 elsewhere in the world.
+**1,444 open roles.** 1,196 in the United States & Canada · 248 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -731,6 +731,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/166da911-d7c3-4349-86ee-62c5e8afc4a2">Software Developer Intern</a></td>
 <td>Birmingham, AL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462088593/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Red Cell Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/1286caa8-3610-4679-b73b-72c96878427b">Modeling &amp; Simulation Engineer (Internship or PT)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/redcellpartners/jobs/5282208007">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f453cec-9b6e-4c3a-b980-2f5b92b96418">2027 Summer Intern, PhD, Research Scientist Intern</a></td>
 <td>Mountain View, California, United States</td>
 <td align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=8337719">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Medlaunch Concepts</strong></td>
-<td><a href="https://trueinterview.io/jobs/462875cf-e15f-4ca1-8e39-d5a007c9cc0f">Spring 2026 Internship - AI-Native Automation QA</a></td>
-<td>Clearwater, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485648962/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

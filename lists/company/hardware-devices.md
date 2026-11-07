@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**206 open roles.** 171 in the United States & Canada · 35 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**211 open roles.** 171 in the United States & Canada · 40 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -426,7 +426,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/01b45155-69b7-4254-b5a3-9a82415e7b20">Spring Co-op - Recording Electronics Data Analytics &amp; Optimization</a></td>
-<td>Rochester, MN, United States</td>
+<td>Rochester, MN, United States<br/>Rochester, Minnesota, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155109379-spring-co-op-recording-electronics-data-analytics-optimization?oga=true">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
@@ -909,7 +909,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/09ab014e-389f-410a-8953-c21188c24fde">Winter 2027 Intern/Co-op Development Engineer</a></td>
-<td>Rochester, MN, United States</td>
+<td>Rochester, MN, United States<br/>Rochester, Minnesota, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000152261929-winter-2027-intern-co-op-development-engineer-?oga=true">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
@@ -1241,6 +1241,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/14ed6ac4-d49e-4d73-9aa1-e1e969d69d6d">Intern - Manufacturing &amp; Logistics Engineering</a></td>
+<td>Phra Nakhon Si Ayutthaya, , BangPa-in, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159773909-intern-manufacturing-logistics-engineering">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
 <td>Bratislava, Bratislava, Slovakia</td>
@@ -1297,6 +1304,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf8ec45d-bf41-4a5d-9752-8353fe0af20d">Intern – Manufacturing Engineer (Studying Bachelor or Master's Degree)</a></td>
+<td>BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158891154-intern-manufacturing-engineer-studying-bachelor-or-master-s-degree-">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/9063dc10-6670-4b3e-8685-b011f982fead">Intern, Site Reliability Engineer, iCloud</a></td>
 <td>London, England, United Kingdom<br/>London, United Kingdom</td>
@@ -1346,6 +1360,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/152b9d14-37c4-4302-a89f-8fd8756a465f">Internship - Data Engineering</a></td>
+<td>Petaling Jaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158655189-internship-data-engineering-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/92f6bef5-ef06-49a5-a836-253919c93ac0">Technical Support Engineer Intern – Networking / TAC</a></td>
 <td>Bucharest Metropolitan Area</td>
@@ -1388,7 +1409,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">25 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/0975652a-3ff2-47ac-9e83-22a63c32388d">Intern - Manufacturing Engineer</a></td>
+<td>Biñan City, LAGUNA, Philippines</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000157382288-intern-manufacturing-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2d1e997-4108-4878-b845-def8167ca4e0">Internship - Software Engineering</a></td>
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200690139-1731?board_id=JB001">Apply</a></td>
@@ -1463,6 +1491,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Pittsburgh</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/370c86bb-2f76-4685-8466-f3a2ed02476a">Intern - Technologist, Hardware Development Engineering (Studying Ph.D Degree)</a></td>
+<td>BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>

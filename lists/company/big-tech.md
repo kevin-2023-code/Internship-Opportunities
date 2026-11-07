@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**575 open roles.** 474 in the United States & Canada · 101 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**580 open roles.** 474 in the United States & Canada · 106 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1548,7 +1548,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/01b45155-69b7-4254-b5a3-9a82415e7b20">Spring Co-op - Recording Electronics Data Analytics &amp; Optimization</a></td>
-<td>Rochester, MN, United States</td>
+<td>Rochester, MN, United States<br/>Rochester, Minnesota, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155109379-spring-co-op-recording-electronics-data-analytics-optimization?oga=true">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
@@ -2451,7 +2451,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/09ab014e-389f-410a-8953-c21188c24fde">Winter 2027 Intern/Co-op Development Engineer</a></td>
-<td>Rochester, MN, United States</td>
+<td>Rochester, MN, United States<br/>Rochester, Minnesota, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000152261929-winter-2027-intern-co-op-development-engineer-?oga=true">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>

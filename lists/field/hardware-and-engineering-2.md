@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**722 open roles.** 663 in the United States & Canada · 59 elsewhere in the world.
+**725 open roles.** 664 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/56962466-be17-4e06-a28a-e8e7cd4d40e1">Hardware Development Co-Op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
@@ -774,7 +781,7 @@
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/09ab014e-389f-410a-8953-c21188c24fde">Winter 2027 Intern/Co-op Development Engineer</a></td>
-<td>Rochester, MN, United States</td>
+<td>Rochester, MN, United States<br/>Rochester, Minnesota, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000152261929-winter-2027-intern-co-op-development-engineer-?oga=true">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
@@ -1960,6 +1967,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf8ec45d-bf41-4a5d-9752-8353fe0af20d">Intern – Manufacturing Engineer (Studying Bachelor or Master's Degree)</a></td>
+<td>BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158891154-intern-manufacturing-engineer-studying-bachelor-or-master-s-degree-">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>DRW</strong></td>
 <td><a href="https://trueinterview.io/jobs/ee25361f-34a1-4713-bc75-f1f765b65d18">FPGA Intern</a></td>
 <td>London, England, United Kingdom</td>
@@ -2161,6 +2175,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33119">Apply</a></td>
 <td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/0975652a-3ff2-47ac-9e83-22a63c32388d">Intern - Manufacturing Engineer</a></td>
+<td>Biñan City, LAGUNA, Philippines</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000157382288-intern-manufacturing-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Synopsys</strong></td>

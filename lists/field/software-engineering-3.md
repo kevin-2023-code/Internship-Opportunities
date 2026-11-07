@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,438 open roles.** 1,194 in the United States & Canada · 244 elsewhere in the world.
+**1,444 open roles.** 1,196 in the United States & Canada · 248 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fc82bf9-8943-45cd-9c18-b56bfa5757f7">Vehicle Integration &amp; Test Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476335676/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>MIT Lincoln Laboratory</strong></td>
 <td><a href="https://trueinterview.io/jobs/5173e56c-75f6-432e-a83a-194d98204aef">AI Applications Developer Co-Op (January - May 2027) - Group 11-80</a></td>
@@ -2620,6 +2627,13 @@
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>The Hearst Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/21c43e2f-aa3e-40b7-966c-1373ba0938f9">Software Engineering Intern</a></td>
+<td>Indianapolis, IN, United States</td>
+<td align="center"><a href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Apex</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5d6e0e3-b4ac-46ff-87ea-70b668e15567">Avionics Test Engineering Internship (Spring 2027)</a></td>
 <td>Los Angeles, CA</td>
@@ -2812,20 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Minato, Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
-<td>Veldhoven, North Brabant, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/69d0adbc-040a-467d-9409-3835f402b023">Class of 2028, 28卒対象 / Software Engineer Internship - Mercari Group</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4375628884/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 </tbody>
 </table>

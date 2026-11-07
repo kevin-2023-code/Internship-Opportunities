@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**575 open roles.** 474 in the United States & Canada · 101 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**580 open roles.** 474 in the United States & Canada · 106 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -595,6 +595,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/14ed6ac4-d49e-4d73-9aa1-e1e969d69d6d">Intern - Manufacturing &amp; Logistics Engineering</a></td>
+<td>Phra Nakhon Si Ayutthaya, , BangPa-in, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159773909-intern-manufacturing-logistics-engineering">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/d9f4a52b-4e0b-4f66-af8a-70eaf44f4b9b">Internship Software Engineer</a></td>
 <td>Bratislava, Bratislava, Slovakia</td>
@@ -777,6 +784,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf8ec45d-bf41-4a5d-9752-8353fe0af20d">Intern – Manufacturing Engineer (Studying Bachelor or Master's Degree)</a></td>
+<td>BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158891154-intern-manufacturing-engineer-studying-bachelor-or-master-s-degree-">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
 <td>Gurgaon, Haryana, India</td>
@@ -872,6 +886,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c51cf481-8954-4434-8a83-f696189f8e80">Internship - Machine Learning Research - Speech-to-Speech Translation</a></td>
 <td>Cambridge, England, United Kingdom<br/>Aachen, North Rhine-Westphalia, Germany<br/>Aachen, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692236">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/152b9d14-37c4-4302-a89f-8fd8756a465f">Internship - Data Engineering</a></td>
+<td>Petaling Jaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158655189-internship-data-engineering-">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1197,6 +1218,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">25 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/0975652a-3ff2-47ac-9e83-22a63c32388d">Intern - Manufacturing Engineer</a></td>
+<td>Biñan City, LAGUNA, Philippines</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000157382288-intern-manufacturing-engineer">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Synopsys</strong></td>
 <td><a href="https://trueinterview.io/jobs/be6942f6-3d4b-49fb-90d1-a81f50beebbb">Technical Engineering Intern - Design for Test (DFT) Internship</a></td>
 <td>Ho Chi Minh City, Vietnam</td>
@@ -1251,6 +1279,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>ES, Huesca<br/>ES, Zaragoza</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
 <td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/370c86bb-2f76-4685-8466-f3a2ed02476a">Intern - Technologist, Hardware Development Engineering (Studying Ph.D Degree)</a></td>
+<td>BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

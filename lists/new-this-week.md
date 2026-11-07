@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**987 open roles.** 822 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**971 open roles.** 808 in the United States & Canada · 163 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1392,6 +1392,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Red Cell Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/1286caa8-3610-4679-b73b-72c96878427b">Modeling &amp; Simulation Engineer (Internship or PT)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/redcellpartners/jobs/5282208007">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/b02dc34e-f28b-4930-b6d4-b34f459620fb">SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027</a></td>
 <td>Austin, TX</td>
@@ -1487,6 +1494,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe">Software Test Engineering Co-op (RLM)</a></td>
 <td>Danvers, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4471185700/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RR Donnelley</strong></td>
+<td><a href="https://trueinterview.io/jobs/3042ef5a-b14b-4d02-a3c0-61714912de5e">IT Support Engineer Summer Intern</a></td>
+<td>Wheeling, West Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000159878934-it-support-engineer-summer-intern">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d815c4ef-70aa-49f3-806c-9b8497156cef">2027 Summer Intern - Applied AI (Raleigh, NC)</a></td>
 <td>Raleigh, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487066747/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TruStage</strong></td>
-<td><a href="https://trueinterview.io/jobs/fbbe54a8-8070-4598-9d2c-f75127021450">IT - Innovation &amp; AI Technology Internship (Hybrid)</a></td>
-<td>Madison, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485031390/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BAE Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2e921cf-1a47-45d2-b5bb-b08bd98a9c79">AI/ML Engineer Intern, Summer 2027</a></td>
-<td>Rockville, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485044143/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

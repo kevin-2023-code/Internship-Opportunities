@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**987 open roles.** 822 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**971 open roles.** 808 in the United States & Canada · 163 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Granite Construction</strong></td>
+<td><a href="https://trueinterview.io/jobs/995b6d61-a155-43cf-84b9-31ea944fbc1d">Field Engineer Intern - Tunnel</a></td>
+<td>Ohio, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467598580/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Traylor Bros., Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8de7caa-062d-4320-8d67-0a5dca902dbc">Field Engineer Intern (Company Wide)</a></td>
+<td>Washougal, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468865557/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CACI International Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/171c7cbf-2b79-4188-be13-3e9c26f7f27e">Electrical Engineering Co-op/Intern - Spring 2027</a></td>
@@ -55,118 +69,6 @@
 <td><a href="https://trueinterview.io/jobs/5e0f599a-1daf-4ce1-879e-436d93061005">Mechanical Engineering Spring/Fall Co-op 2027 (Wisconsin)</a></td>
 <td>Sheboygan, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468325881/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Robinson Helicopter Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba8ecdaa-ecf4-40ff-ac30-587e42e2b9f5">Engineer Intern</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467122606/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rehlko</strong></td>
-<td><a href="https://trueinterview.io/jobs/461a1fe5-0c15-4620-a46a-0ecf878b1039">Electrical Engineering Spring/Fall Co-op 2027</a></td>
-<td>Sheboygan, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468364843/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WebFX</strong></td>
-<td><a href="https://trueinterview.io/jobs/2418d04a-d1cd-49f7-bc65-887e363f5f42">IT Support Internship</a></td>
-<td>Harrisburg, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468302594/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rehlko</strong></td>
-<td><a href="https://trueinterview.io/jobs/99efaa2f-8f11-4689-860f-5355e5b897a4">Mechanical or Quality Engineering Spring/Fall Co-op 2027 (Hattiesburg, MS)</a></td>
-<td>Hattiesburg, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468329244/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dill Air Controls Products, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/df1f32b6-bb9f-489b-a67e-59f3c5efa71e">Engineer Co-Op</a></td>
-<td>Oxford, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484828566/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Enervexa PowerLabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/eca1b756-97a6-42f5-b9e1-7bb872b0ab9d">Intern, Launch Fluids &amp; Operations Engineer</a></td>
-<td>Florida, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483423852/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gentherm</strong></td>
-<td><a href="https://trueinterview.io/jobs/aa999ce1-13b9-49b0-b852-bdfa38abc350">Engineer Co-Op - Spring 2027</a></td>
-<td>Racine, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477468869/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HDR</strong></td>
-<td><a href="https://trueinterview.io/jobs/568ffe4e-a005-4560-adbb-f6906459df96">Substation Electrical Engineering Intern - Physical</a></td>
-<td>Minneapolis, MN<br/>St Louis Park, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457655689/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Monolithic Power Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/dba9b18f-4809-4520-9eae-094cdb0b5d64">Applications Engineering Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477492804/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TRC Companies, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/906e5e29-907e-4d93-85bb-afbaa2e01014">Substation Engineering Intern</a></td>
-<td>Golden, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466227951/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991171">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PIMCO</strong></td>
-<td><a href="https://trueinterview.io/jobs/82610e6f-012f-47c6-a8b0-2d8bd490f997">2027 PhD Summer Intern – Portfolio Management, Quantitative Research Analyst</a></td>
-<td>Newport Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460296071/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Voleon Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0a28b51-8e73-45fe-92e4-2b5ed4b264d6">Software Engineer Intern - (Summer 2027)</a></td>
-<td>New York, NY<br/>Berkeley, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459040052/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Southern Farm Bureau Life Insurance Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/756d082c-0c67-4678-a8c8-4e0aeb360c4f">Data Engineering Cooperative Education Intern</a></td>
-<td>Jackson, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440342921/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ModMed</strong></td>
-<td><a href="https://trueinterview.io/jobs/43fe2aaf-e69f-4f72-ba87-6698fe8a9238">Software Engineering Intern</a></td>
-<td>Boca Raton, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475985149/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HDR</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c243ccc-1127-4dcb-b6ab-c21935c375fc">Substation Electrical Engineering Intern - Controls</a></td>
-<td>St Louis Park, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457652673/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>
@@ -375,6 +277,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5f2c7110-ca3a-450a-a73b-1c9909eabc69">Advertising Product Manager Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450229237/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/14ed6ac4-d49e-4d73-9aa1-e1e969d69d6d">Intern - Manufacturing &amp; Logistics Engineering</a></td>
+<td>Phra Nakhon Si Ayutthaya, , BangPa-in, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159773909-intern-manufacturing-logistics-engineering">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1176,6 +1085,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf8ec45d-bf41-4a5d-9752-8353fe0af20d">Intern – Manufacturing Engineer (Studying Bachelor or Master's Degree)</a></td>
+<td>BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158891154-intern-manufacturing-engineer-studying-bachelor-or-master-s-degree-">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e">Data Analyst Project Intern (Training &amp; Quality) - 2026 Start (BS/MS)</a></td>
 <td>Gurgaon, Haryana, India</td>
@@ -1306,34 +1222,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/acd6399f-de8a-47f6-b884-c8bca3ab7476">Hardware Engineer Intern - Bachelor's Degree</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483445130/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/92d35417-6b84-4704-8463-8f190488a274">Full Stack Developer Intern - SAP Business AI Singapore</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483446111/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch Building Technologies Europe</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3854499-2151-449b-b135-c8b9207bff06">Intern, Data Analyst</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483860595/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fifty-five</strong></td>
-<td><a href="https://trueinterview.io/jobs/82c5dee9-cac0-4592-9857-8aea1aad64dd">Data &amp; AI Engineer Intern (H/F)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://apply.workable.com/j/448A52D1A0">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MSD</strong></td>
-<td><a href="https://trueinterview.io/jobs/298b90dc-2a97-4483-b865-0c69ec872135">Intern, D&amp;L Data Analyst</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459327099/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

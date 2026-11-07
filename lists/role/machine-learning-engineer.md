@@ -732,11 +732,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/e797fd74-2c89-4220-a4b6-ddc9358a09bb">Computer Vision &amp; Robotics Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application">Apply</a></td>
-<td align="center">18 Oct 2026</td>
+<td><strong>Scale AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/47dd9c5b-f0b6-4a06-a16a-71f78043daf1">Machine Learning Research Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4735665005">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

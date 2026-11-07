@@ -2,7 +2,7 @@
 
 # 🏰 Warsaw, Kraków & Central Europe
 
-**13 open roles.** 1 in the United States & Canada · 12 elsewhere in the world.
+**14 open roles.** 1 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -112,6 +112,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476595070/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Squarepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9422e3e-146d-4b43-8857-1684d3833f28">Intern Software Developer - Warsaw 2027</a></td>
+<td>Warsaw</td>
+<td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8045124&amp;gh_jid=8045124">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Master Born</strong></td>

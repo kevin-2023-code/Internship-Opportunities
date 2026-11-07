@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-07T10:04:09.248Z",
-  "count": 3171,
+  "listingsChangedAt": "2026-11-07T11:03:40.358Z",
+  "count": 3182,
   "listings": [
     {
       "id": "ee5cd08a-fcdd-412e-b9c6-b69462ed53ea",
@@ -5527,6 +5527,32 @@
       "updatedAt": "2026-11-05T15:42:00.000Z"
     },
     {
+      "id": "1286caa8-3610-4679-b73b-72c96878427b",
+      "company": "Red Cell Partners",
+      "title": "Modeling & Simulation Engineer (Internship or PT)",
+      "locations": [
+        "Remote",
+        "Southern California preferred"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/redcellpartners/jobs/5282208007",
+      "url": "https://trueinterview.io/jobs/1286caa8-3610-4679-b73b-72c96878427b",
+      "postedAt": "2026-11-05T15:37:21.000Z",
+      "updatedAt": "2026-11-05T15:37:21.000Z"
+    },
+    {
       "id": "b02dc34e-f28b-4930-b6d4-b34f459620fb",
       "company": "IBM",
       "title": "SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027",
@@ -5913,6 +5939,31 @@
       "url": "https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe",
       "postedAt": "2026-11-05T14:30:00.000Z",
       "updatedAt": "2026-11-05T14:30:00.000Z"
+    },
+    {
+      "id": "3042ef5a-b14b-4d02-a3c0-61714912de5e",
+      "company": "RR Donnelley",
+      "title": "IT Support Engineer Summer Intern",
+      "locations": [
+        "Wheeling, West Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000159878934-it-support-engineer-summer-intern",
+      "url": "https://trueinterview.io/jobs/3042ef5a-b14b-4d02-a3c0-61714912de5e",
+      "postedAt": "2026-11-05T14:28:38.000Z",
+      "updatedAt": "2026-11-05T14:28:38.000Z"
     },
     {
       "id": "5ba8a5bd-ac5e-4541-98a9-20654cf8f1f8",
@@ -7525,6 +7576,31 @@
       "url": "https://trueinterview.io/jobs/cc93f7f1-317b-41f6-9000-d2f3279a7d3b",
       "postedAt": "2026-11-05T03:09:00.000Z",
       "updatedAt": "2026-11-05T03:09:00.000Z"
+    },
+    {
+      "id": "14ed6ac4-d49e-4d73-9aa1-e1e969d69d6d",
+      "company": "Western Digital",
+      "title": "Intern - Manufacturing & Logistics Engineering",
+      "locations": [
+        "Phra Nakhon Si Ayutthaya,, BangPa-in, Thailand"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000159773909-intern-manufacturing-logistics-engineering",
+      "url": "https://trueinterview.io/jobs/14ed6ac4-d49e-4d73-9aa1-e1e969d69d6d",
+      "postedAt": "2026-11-05T02:26:41.000Z",
+      "updatedAt": "2026-11-05T02:26:41.000Z"
     },
     {
       "id": "5f421082-7f85-4a37-aa05-b93620c27b4d",
@@ -22035,6 +22111,31 @@
       "updatedAt": "2026-10-31T13:40:00.000Z"
     },
     {
+      "id": "cf8ec45d-bf41-4a5d-9752-8353fe0af20d",
+      "company": "Western Digital",
+      "title": "Intern – Manufacturing Engineer (Studying Bachelor or Master's Degree)",
+      "locations": [
+        "BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000158891154-intern-manufacturing-engineer-studying-bachelor-or-master-s-degree-",
+      "url": "https://trueinterview.io/jobs/cf8ec45d-bf41-4a5d-9752-8353fe0af20d",
+      "postedAt": "2026-10-31T12:44:50.000Z",
+      "updatedAt": "2026-10-31T12:44:50.000Z"
+    },
+    {
       "id": "7151348f-7748-40a3-bdd6-5573918d533e",
       "company": "ByteDance",
       "title": "Data Analyst Project Intern (Training & Quality) - 2026 Start (BS/MS)",
@@ -28822,6 +28923,31 @@
       "url": "https://trueinterview.io/jobs/021ba770-9859-48cb-8da2-1b394ea0ce81",
       "postedAt": "2026-10-30T01:55:47.000Z",
       "updatedAt": "2026-10-30T01:55:47.000Z"
+    },
+    {
+      "id": "152b9d14-37c4-4302-a89f-8fd8756a465f",
+      "company": "Western Digital",
+      "title": "Internship - Data Engineering",
+      "locations": [
+        "Petaling Jaya, Selangor, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000158655189-internship-data-engineering-",
+      "url": "https://trueinterview.io/jobs/152b9d14-37c4-4302-a89f-8fd8756a465f",
+      "postedAt": "2026-10-30T01:55:14.000Z",
+      "updatedAt": "2026-10-30T01:55:14.000Z"
     },
     {
       "id": "c27e1927-af48-44ea-a1e4-409a651fa82d",
@@ -52553,6 +52679,31 @@
       "updatedAt": "2026-10-27T17:12:56.000Z"
     },
     {
+      "id": "da7bdfd6-cf55-4adb-8faa-e88bcb4a397d",
+      "company": "RR Donnelley",
+      "title": "IT Support Engineer Intern",
+      "locations": [
+        "Warrenville, Illinois, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/RRDonnelley/744000158084729-it-support-engineer-intern",
+      "url": "https://trueinterview.io/jobs/da7bdfd6-cf55-4adb-8faa-e88bcb4a397d",
+      "postedAt": "2026-10-27T15:34:56.000Z",
+      "updatedAt": "2026-10-27T15:34:56.000Z"
+    },
+    {
       "id": "c12bece7-cc10-4c5e-94a5-0cc047c5c987",
       "company": "Teradata",
       "title": "Product Support Engineering Intern",
@@ -55656,6 +55807,31 @@
       "url": "https://trueinterview.io/jobs/eb2ec9cf-e663-4f87-89a5-839fb2eda6a4",
       "postedAt": "2026-10-23T06:53:42.000Z",
       "updatedAt": "2026-10-23T06:53:42.000Z"
+    },
+    {
+      "id": "0975652a-3ff2-47ac-9e83-22a63c32388d",
+      "company": "Western Digital",
+      "title": "Intern - Manufacturing Engineer",
+      "locations": [
+        "Biñan City, LAGUNA, Philippines"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000157382288-intern-manufacturing-engineer",
+      "url": "https://trueinterview.io/jobs/0975652a-3ff2-47ac-9e83-22a63c32388d",
+      "postedAt": "2026-10-23T04:58:04.000Z",
+      "updatedAt": "2026-10-23T04:58:04.000Z"
     },
     {
       "id": "1e43103f-d226-46d1-8db8-1edb6e3ddaad",
@@ -59267,7 +59443,8 @@
       "company": "khaite",
       "title": "Technical Design, Production, RTW Internship, Spring 2027",
       "locations": [
-        "New York, NY, Crosby"
+        "New York, NY, Crosby",
+        "New York, NY"
       ],
       "cities": [
         "New York, NY"
@@ -59790,6 +59967,35 @@
       "url": "https://trueinterview.io/jobs/c3b6bbfc-c552-438f-8306-11e8af30e293",
       "postedAt": "2026-10-19T18:23:17.000Z",
       "updatedAt": "2026-10-19T18:23:17.000Z"
+    },
+    {
+      "id": "47dd9c5b-f0b6-4a06-a16a-71f78043daf1",
+      "company": "Scale.ai",
+      "title": "Machine Learning Research Intern (Summer 2027)",
+      "locations": [
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "New York, NY",
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+      "url": "https://trueinterview.io/jobs/47dd9c5b-f0b6-4a06-a16a-71f78043daf1",
+      "postedAt": "2026-10-19T18:23:09.000Z",
+      "updatedAt": "2026-10-19T18:23:09.000Z"
     },
     {
       "id": "b45d061f-2df5-430d-9306-58a31cf99871",
@@ -60483,33 +60689,6 @@
       "updatedAt": "2026-10-18T05:00:00.000Z"
     },
     {
-      "id": "e797fd74-2c89-4220-a4b6-ddc9358a09bb",
-      "company": "clera",
-      "title": "Computer Vision & Robotics Intern",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0/application",
-      "url": "https://trueinterview.io/jobs/e797fd74-2c89-4220-a4b6-ddc9358a09bb",
-      "postedAt": "2026-10-18T00:00:00.000Z",
-      "updatedAt": "2026-10-18T00:00:00.000Z"
-    },
-    {
       "id": "01db267e-c9b1-44fb-8983-bb5f9be34c80",
       "company": "Qorvo",
       "title": "Data Engineering Intern",
@@ -60816,6 +60995,31 @@
       "url": "https://trueinterview.io/jobs/a97a29bd-8c6b-4ccf-b839-185d56dd4455",
       "postedAt": "2026-10-16T05:00:00.000Z",
       "updatedAt": "2026-10-16T05:00:00.000Z"
+    },
+    {
+      "id": "8915acb4-9e9a-41fc-b69b-690b326fdf11",
+      "company": "Xona Space Systems",
+      "title": "Mechanical Engineering Co-op",
+      "locations": [
+        "Burlingame, California"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/xona-space/4bf79312-d4c4-4ae2-bdfc-85c9e63937ad",
+      "url": "https://trueinterview.io/jobs/8915acb4-9e9a-41fc-b69b-690b326fdf11",
+      "postedAt": "2026-10-16T00:06:44.000Z",
+      "updatedAt": "2026-10-16T00:06:44.000Z"
     },
     {
       "id": "32178189-d76e-4c67-bf9c-9af08eac7351",
@@ -63288,7 +63492,8 @@
       "company": "western-digital",
       "title": "Spring Co-op - Recording Electronics Data Analytics & Optimization",
       "locations": [
-        "Rochester, MN, United States"
+        "Rochester, MN, United States",
+        "Rochester, Minnesota, United States"
       ],
       "cities": [],
       "countries": [
@@ -66197,6 +66402,33 @@
       "url": "https://trueinterview.io/jobs/24029bc0-9eb0-425e-967c-d6a9af6a787b",
       "postedAt": "2026-10-06T16:13:27.000Z",
       "updatedAt": "2026-10-06T16:13:27.000Z"
+    },
+    {
+      "id": "b9422e3e-146d-4b43-8857-1684d3833f28",
+      "company": "squarepoint",
+      "title": "Intern Software Developer - Warsaw 2027",
+      "locations": [
+        "Warsaw"
+      ],
+      "cities": [
+        "Warsaw"
+      ],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://www.squarepoint-capital.com/open-opportunities?id=8045124&gh_jid=8045124",
+      "url": "https://trueinterview.io/jobs/b9422e3e-146d-4b43-8857-1684d3833f28",
+      "postedAt": "2026-10-06T15:19:41.000Z",
+      "updatedAt": "2026-10-06T15:19:41.000Z"
     },
     {
       "id": "b90cf0a0-96f7-4c38-ac53-1f58476a8403",
@@ -71133,7 +71365,8 @@
       "company": "Western Digital",
       "title": "Winter 2027 Intern/Co-op Development Engineer",
       "locations": [
-        "Rochester, MN, United States"
+        "Rochester, MN, United States",
+        "Rochester, Minnesota, United States"
       ],
       "cities": [],
       "countries": [
@@ -78099,6 +78332,31 @@
       "updatedAt": "2026-09-14T03:34:40.000Z"
     },
     {
+      "id": "370c86bb-2f76-4685-8466-f3a2ed02476a",
+      "company": "Western Digital",
+      "title": "Intern - Technologist, Hardware Development Engineering (Studying Ph.D Degree)",
+      "locations": [
+        "BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-",
+      "url": "https://trueinterview.io/jobs/370c86bb-2f76-4685-8466-f3a2ed02476a",
+      "postedAt": "2026-09-14T02:34:05.000Z",
+      "updatedAt": "2026-09-14T02:34:05.000Z"
+    },
+    {
       "id": "b0a84d05-15bb-4490-843b-8cfa7bc377d3",
       "company": "Applied Materials",
       "title": "2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA)",
@@ -80320,6 +80578,31 @@
       "source": "bigtech-careers",
       "applyUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412",
       "url": "https://trueinterview.io/jobs/35f8cd55-0192-41c3-811f-90d9501e64fb",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "updatedAt": "2026-09-10T00:00:00.000Z"
+    },
+    {
+      "id": "21c43e2f-aa3e-40b7-966c-1373ba0938f9",
+      "company": "The Hearst Corporation",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Indianapolis, IN, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455",
+      "url": "https://trueinterview.io/jobs/21c43e2f-aa3e-40b7-966c-1373ba0938f9",
       "postedAt": "2026-09-10T00:00:00.000Z",
       "updatedAt": "2026-09-10T00:00:00.000Z"
     },

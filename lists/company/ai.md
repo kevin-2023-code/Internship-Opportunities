@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**27 open roles.** 23 in the United States & Canada · 4 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**28 open roles.** 24 in the United States & Canada · 4 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,6 +79,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scale AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/47dd9c5b-f0b6-4a06-a16a-71f78043daf1">Machine Learning Research Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4735665005">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Together AI</strong></td>

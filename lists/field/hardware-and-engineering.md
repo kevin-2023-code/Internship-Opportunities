@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**722 open roles.** 663 in the United States & Canada · 59 elsewhere in the world.
+**725 open roles.** 664 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2393,6 +2393,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">17 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Xona Space Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/8915acb4-9e9a-41fc-b69b-690b326fdf11">Mechanical Engineering Co-op</a></td>
+<td>Burlingame, California</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/xona-space/4bf79312-d4c4-4ae2-bdfc-85c9e63937ad">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c552696-bf8f-45c1-b6d2-5c3465591032">Process Integ and Yield Eng PhD Intern Grade 029 new 2027</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
@@ -2710,7 +2717,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Western Digital</strong></td>
 <td><a href="https://trueinterview.io/jobs/01b45155-69b7-4254-b5a3-9a82415e7b20">Spring Co-op - Recording Electronics Data Analytics &amp; Optimization</a></td>
-<td>Rochester, MN, United States</td>
+<td>Rochester, MN, United States<br/>Rochester, Minnesota, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000155109379-spring-co-op-recording-electronics-data-analytics-optimization?oga=true">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d82668f4-0c99-4aba-bc37-c3b7d7aec0de">Intern - SSD Hardware Engineering</a></td>
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44920709">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/56962466-be17-4e06-a28a-e8e7cd4d40e1">Hardware Development Co-Op</a></td>
-<td>United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40268">Apply</a></td>
 <td align="center">12 Oct 2026</td>
 </tr>
 </tbody>

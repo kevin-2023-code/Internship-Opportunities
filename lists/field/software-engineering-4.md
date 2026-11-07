@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,438 open roles.** 1,194 in the United States & Canada · 244 elsewhere in the world.
+**1,444 open roles.** 1,196 in the United States & Canada · 248 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,31 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
+<td>Veldhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercari, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/69d0adbc-040a-467d-9409-3835f402b023">Class of 2028, 28卒対象 / Software Engineer Internship - Mercari Group</a></td>
+<td>Minato, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4375628884/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9847f50e-a0d6-4764-ae62-8e79d5311f28">Software Engineering Intern - 2027</a></td>
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486576686/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/14ed6ac4-d49e-4d73-9aa1-e1e969d69d6d">Intern - Manufacturing &amp; Logistics Engineering</a></td>
+<td>Phra Nakhon Si Ayutthaya, , BangPa-in, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159773909-intern-manufacturing-logistics-engineering">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -470,6 +491,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/021ba770-9859-48cb-8da2-1b394ea0ce81">iOS Software Development Internship</a></td>
 <td>Miami-Fort Lauderdale Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485283188/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/152b9d14-37c4-4302-a89f-8fd8756a465f">Internship - Data Engineering</a></td>
+<td>Petaling Jaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000158655189-internship-data-engineering-">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1488,6 +1516,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Squarepoint</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9422e3e-146d-4b43-8857-1684d3833f28">Intern Software Developer - Warsaw 2027</a></td>
+<td>Warsaw</td>
+<td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8045124&amp;gh_jid=8045124">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Keenfinity</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5a2b375-2c3b-4210-be21-2c69ffb794a9">Software Engineering Intern – Device Simulation &amp; Digital Twin (February 2027)</a></td>
 <td>Eindhoven, North Brabant, Netherlands</td>
@@ -1591,6 +1626,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149958879-software-engineer-intern-2026-2027?oga=true">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Western Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/370c86bb-2f76-4685-8466-f3a2ed02476a">Intern - Technologist, Hardware Development Engineering (Studying Ph.D Degree)</a></td>
+<td>BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Trexo Robotics</strong></td>
