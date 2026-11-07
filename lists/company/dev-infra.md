@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**19 open roles.** 17 in the United States & Canada · 2 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**21 open roles.** 17 in the United States & Canada · 4 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -161,6 +161,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467844126/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Datadog</strong></td>
+<td><a href="https://trueinterview.io/jobs/261a54d4-bad1-445a-9aa2-51cfcb7faa1b">Software Engineering Intern</a></td>
+<td>Paris, France<br/>Madrid, Spain</td>
+<td align="center"><a href="https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186">Apply</a></td>
+<td align="center">8 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/31d4a9ab-24d3-41f0-b787-ab470cf54e1f">IT Support Technician Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799">Apply</a></td>
+<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

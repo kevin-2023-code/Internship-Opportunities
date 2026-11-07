@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**47 open roles.**
+**48 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -338,6 +338,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Morrisville, NC<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>CESO, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/d476c2e7-4382-430f-97ea-907793d02ad5">2027 Co-Op - Civil Engineering</a></td>
+<td>Charlotte, NC<br/>Columbus, OH<br/>Orlando, FL<br/>+1 more</td>
+<td align="center"><a href="https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20">Apply</a></td>
+<td align="center">9 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>The Nuclear Company</strong></td>
