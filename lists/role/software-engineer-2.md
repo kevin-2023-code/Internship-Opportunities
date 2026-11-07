@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**423 open roles.** 347 in the United States & Canada · 76 elsewhere in the world.
+**421 open roles.** 346 in the United States & Canada · 75 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Sardine</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
-<td>North America</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sierra</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c5846d9-28c4-49a8-9613-15524955f1a7">Software Engineer Intern, Agent (London 2027)</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Redgate</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7c298a4-cbd1-4c79-bf3d-0764cde53096">Software Engineer Intern</a></td>

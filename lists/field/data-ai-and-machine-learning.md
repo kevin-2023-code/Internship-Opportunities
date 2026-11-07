@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**646 open roles.** 488 in the United States & Canada · 158 elsewhere in the world.
+**648 open roles.** 487 in the United States & Canada · 161 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1660,8 +1660,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1">Master's Machine Learning Engineer, Intern</a></td>
-<td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485624767/">Apply</a></td>
+<td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8333074">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1690,13 +1690,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/252b3b04-adae-47c7-9a13-575c2de42014">Applied Scientist: Internship Opportunities, Turing</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485359288/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/fddf75b4-acb1-4047-8653-c67d615dd877">PhD Machine Learning Engineer, Intern</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485356898/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09">AI Automation Engineer Intern</a></td>
 <td>Lehi, UT, US</td>
 <td align="center"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7878c67-7641-49ff-b48b-59497f04cb1c">Software Engineer Data &amp; AI PhD (Intern) - United States</a></td>
+<td>San Jose, California, US, United States of America<br/>Chicago, Illinois, United States of America<br/>Santa Monica, California, United States of America<br/>+1 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611">Apply</a></td>
 <td align="center">16 Oct 2026</td>
 </tr>
 </tbody>

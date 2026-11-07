@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**987 open roles.** 814 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
+**990 open roles.** 812 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -174,6 +174,13 @@
 <td><a href="https://trueinterview.io/jobs/0d675ce0-b599-4cce-ad62-cb6872569848">IT Software Development Intern (Summer 2027)</a></td>
 <td>Spring Grove, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487064299/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b6c0714-7d96-4ec1-b027-2b90c3db4969">Intern - Renewable Generation Engineering</a></td>
+<td>Des Moines, IA, United States</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006009">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -912,13 +919,6 @@
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Aurora Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/247f28d0-f85e-437c-af11-5f229b26640f">Safety &amp; Systems Engineering Intern</a></td>
-<td>Mountain View, CA<br/>Pittsburgh, PA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Peterbilt Motors Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bf0b95b-4818-4a1a-bede-4f2dd6140654">2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform</a></td>
 <td>Denton, TX</td>
@@ -1035,6 +1035,13 @@
 <td><a href="https://trueinterview.io/jobs/5568d237-c106-446b-b4b2-4523ca90903a">AI Data Science &amp; Business Analytics Intern</a></td>
 <td>Durham, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485785357/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c93b97f-075b-4947-b056-230865d971f5">Intern - Gas Engineering</a></td>
+<td>Waterloo, ON<br/>Davenport, IA, United States<br/>Sioux City, IA, United States<br/>+4 more</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006003">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2559,8 +2566,8 @@
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1">Master's Machine Learning Engineer, Intern</a></td>
-<td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485624767/">Apply</a></td>
+<td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8333074">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2652,13 +2659,6 @@
 <td><a href="https://trueinterview.io/jobs/252b3b04-adae-47c7-9a13-575c2de42014">Applied Scientist: Internship Opportunities, Turing</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485359288/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/fddf75b4-acb1-4047-8653-c67d615dd877">PhD Machine Learning Engineer, Intern</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485356898/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

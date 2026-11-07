@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**155 open roles.** 123 in the United States & Canada · 32 elsewhere in the world.
+**154 open roles.** 122 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -489,8 +489,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1">Master's Machine Learning Engineer, Intern</a></td>
-<td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485624767/">Apply</a></td>
+<td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+2 more</td>
+<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8333074">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -512,13 +512,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6b7cd29e-7289-4d8c-8177-bdc20f1bb531">Internship, AI – Agentic &amp; Machine Learning Development</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483907783/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/fddf75b4-acb1-4047-8653-c67d615dd877">PhD Machine Learning Engineer, Intern</a></td>
-<td>San Francisco, CA<br/>Seattle, WA<br/>New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485356898/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**646 open roles.** 488 in the United States & Canada · 158 elsewhere in the world.
+**648 open roles.** 487 in the United States & Canada · 161 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7878c67-7641-49ff-b48b-59497f04cb1c">Software Engineer Data &amp; AI PhD (Intern) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>Chicago, Illinois, United States of America<br/>Santa Monica, California, United States of America<br/>+1 more</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Gallup</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89">Data Engineering Intern — Summer 2027</a></td>
@@ -756,6 +749,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Roku</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ba5009c-0bfb-4bd4-b72f-70aa59583577">AI Engineering Internship Program (Summer 2027)</a></td>
+<td>Manchester, United Kingdom<br/>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Air Liquide</strong></td>
 <td><a href="https://trueinterview.io/jobs/8edc1a62-386c-4ce6-bf5d-7439435a0fbc">Data Analyst &amp; Quality - Internship (H/F)</a></td>
 <td>Bagneux, France</td>
@@ -868,6 +868,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b2481e9-81cd-43ff-bfcb-bb9497bc49da">Final Year Internship Consultant - Data Analyst</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159444611-final-year-internship-consultant-data-analyst">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Spearmint technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/832b3651-b1ce-4e6b-bef3-957ac0ec4cfc">Full Stack AI Developer Intern</a> 🌐</td>
 <td>Remote — India</td>
@@ -921,6 +928,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76">Finance Data Analyst Intern (6-month Full-time)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692415">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb9fe611-9836-42d2-abaa-8b5932f0cf73">Final year internship - Marketing Data Scientist</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159069834-final-year-internship-marketing-data-scientist">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a0223064-7a5c-403c-a07d-702c27f339f4">Final year internship - Data Scientist &amp; AI Consultant</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159070239-final-year-internship-data-scientist-ai-consultant">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -1439,13 +1460,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/94faeae1-9275-491c-82a4-a657ac7d6bd4">NLP Research Intern</a></td>
 <td>Seoul Incheon Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466027882/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/782e88f6-3982-4dfa-a440-6ae1fbdf026d">Data Science Intern (Analytics), 6-month internship</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461104774/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

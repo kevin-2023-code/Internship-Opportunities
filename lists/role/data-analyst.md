@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**91 open roles.** 55 in the United States & Canada · 36 elsewhere in the world.
+**92 open roles.** 55 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -455,6 +455,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Spain</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1">Apply</a></td>
 <td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b2481e9-81cd-43ff-bfcb-bb9497bc49da">Final Year Internship Consultant - Data Analyst</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159444611-final-year-internship-consultant-data-analyst">Apply</a></td>
+<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>CEVA Logistics</strong></td>

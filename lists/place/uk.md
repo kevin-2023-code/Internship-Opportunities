@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**47 open roles.** 11 in the United States & Canada · 36 elsewhere in the world.
+**49 open roles.** 11 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -107,10 +107,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Roku</strong></td>
+<td><a href="https://trueinterview.io/jobs/4211a774-d0bc-4b69-83de-03a7628d3a65">Software Engineering Internship Program (Summer 2027)</a></td>
+<td>Cambridge, United Kingdom<br/>Manchester, United Kingdom</td>
+<td align="center"><a href="https://www.weareroku.com/jobs/8345963?gh_jid=8345963">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Waymo</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec7728a3-0d2a-4a8b-8eb5-49d99bcc3817">2027 Summer Intern, PhD, Machine Learning, Simulation Realism</a></td>
 <td>London, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478156974/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Roku</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ba5009c-0bfb-4bd4-b72f-70aa59583577">AI Engineering Internship Program (Summer 2027)</a></td>
+<td>Manchester, United Kingdom<br/>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

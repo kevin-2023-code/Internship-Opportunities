@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**102 open roles.** 88 in the United States & Canada · 14 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**104 open roles.** 88 in the United States & Canada · 16 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -667,7 +667,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Roku</strong></td>
+<td><a href="https://trueinterview.io/jobs/4211a774-d0bc-4b69-83de-03a7628d3a65">Software Engineering Internship Program (Summer 2027)</a></td>
+<td>Cambridge, United Kingdom<br/>Manchester, United Kingdom</td>
+<td align="center"><a href="https://www.weareroku.com/jobs/8345963?gh_jid=8345963">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6ba5009c-0bfb-4bd4-b72f-70aa59583577">AI Engineering Internship Program (Summer 2027)</a></td>
+<td>Manchester, United Kingdom<br/>Cambridge, United Kingdom</td>
+<td align="center"><a href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Google</strong></td>
 <td><a href="https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f">Silicon Manufacturing Intern, 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/102906012280726214">Apply</a></td>

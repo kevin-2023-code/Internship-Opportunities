@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**78 open roles.** 67 in the United States & Canada · 11 elsewhere in the world.
+**77 open roles.** 66 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -380,13 +380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5267197007">Apply</a></td>
 <td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril</strong></td>
-<td><a href="https://trueinterview.io/jobs/a05c801d-0a91-4715-8fe4-9ffdca68afa5">Winter 2027 Research Engineer Co-op</a></td>
-<td>Santa Ana, California, United States, Santa Ana, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007">Apply</a></td>
-<td align="center">15 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

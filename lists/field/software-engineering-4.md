@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,483 open roles.** 1,221 in the United States & Canada · 262 elsewhere in the world.
+**1,480 open roles.** 1,218 in the United States & Canada · 262 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,27 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Apex</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5d6e0e3-b4ac-46ff-87ea-70b668e15567">Avionics Test Engineering Internship (Spring 2027)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/307dd7dd-f774-403a-86c1-ed19152042ad">Flight Software Intern Summer 2027</a></td>
-<td>Littleton, CO<br/>ASI Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989722003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/18d85f3b-0788-4947-bbb8-8307a8beb15d">Summer 2027 Internship- Software Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Immuta</strong></td>
 <td><a href="https://trueinterview.io/jobs/3cf3dbf0-5e7e-4adf-a5e9-e891d856d647">Full-Stack Engineering Internship - Summer 2027</a></td>
@@ -100,7 +79,14 @@
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Stratas Foods</strong></td>
+<td><a href="https://trueinterview.io/jobs/57dd37fb-cf5e-46b1-8a1f-7c09469cc08f">Engineering 2027 Summer Internship - Engineer Intern I – Sophomore / Engineer Intern II – Junior</a></td>
+<td>Decatur, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/StratasFoods/744000148591029-engineering-2027-summer-internship-engineer-intern-i-sophomore-engineer-intern-ii-junior">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>DV Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/995b3f48-bc6a-4f9d-a366-3fdb078db618">DevOps Engineer Intern - Summer 2027</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4730886005">Apply</a></td>
@@ -153,13 +139,6 @@
 <td><a href="https://trueinterview.io/jobs/e95b574b-cc8b-4891-8b1e-11cd1770443d">Software Engineering Intern - Summer '27</a></td>
 <td>Hybrid - San Francisco</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6181759004">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Datadog</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a7e951f-072a-45e2-b42c-97d6354f4082">Software Engineering Intern (Summer)</a></td>
-<td>Boston, Massachusetts, USA<br/>New York, NY<br/>New York, New York, USA</td>
-<td align="center"><a href="https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
@@ -287,6 +266,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c75aa68-da7d-4a98-be9b-1c157cee956c">Final Year Internship Consultant - Cybersecurity &amp; AI Trust</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159668932-final-year-internship-consultant-cybersecurity-ai-trust-">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Brevo</strong></td>
 <td><a href="https://trueinterview.io/jobs/f972e840-2962-46ef-a732-e70803d321ce">Forward Deployed Engineer Intern</a></td>
 <td>Paris, France</td>
@@ -336,7 +322,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Roku</strong></td>
+<td><a href="https://trueinterview.io/jobs/4211a774-d0bc-4b69-83de-03a7628d3a65">Software Engineering Internship Program (Summer 2027)</a></td>
+<td>Cambridge, United Kingdom<br/>Manchester, United Kingdom</td>
+<td align="center"><a href="https://www.weareroku.com/jobs/8345963?gh_jid=8345963">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/e98d41f6-e6a6-4c2c-8ed3-61f985c8da91">[Bosch R&amp;D – Internship] Simulation Engineering Intern</a></td>
 <td>Ho Chi Minh City, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159548369--bosch-r-d-internship-simulation-engineering-intern">Apply</a></td>
@@ -375,6 +368,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bf9d7dcf-c1b7-47c0-abeb-7f412057f33a">Test Development Software Engineering Intern - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477931786/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6e52851-17b0-4da6-b4b0-50a46f7ed592">Final year internship - DevOps / Platform Engineer</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159443899-final-year-internship-devops-platform-engineer">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1288,20 +1288,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>FlightSafety International</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
-<td>Greater St. Louis</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/97b5f2b4-0356-42bb-9a63-d1596051f5b4">Bridge Engineering Intern (Dublin)</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484737037/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>MediaTek</strong></td>
 <td><a href="https://trueinterview.io/jobs/44c55c19-95a3-4d38-a258-d7e41bced654">[2027 Internship] Custom IC Layout Engineer Intern</a></td>
 <td>Singapore</td>
@@ -1582,6 +1568,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>ICEYE</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fc0569d-8469-4c28-90f3-b745e2239fe3">ICEYE Engineering Intern Lab 2027</a></td>
+<td>Valencia<br/>Warsaw<br/>Espoo</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sika Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6becd6b-d7ac-41b7-b80c-85a49e76b7df">ESG Digitalization Intern – Software &amp; Data Engineering</a></td>
 <td>Zürich, Zurich, Switzerland</td>
@@ -1692,13 +1685,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Grab/744000155671079-intern-software-engineer-backend">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098">Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>parallel wireless</strong></td>
@@ -2000,13 +1986,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris, London<br/>Hong Kong, Singapore</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Datadog</strong></td>
-<td><a href="https://trueinterview.io/jobs/261a54d4-bad1-445a-9aa2-51cfcb7faa1b">Software Engineering Intern</a></td>
-<td>Paris, France<br/>Madrid, Spain</td>
-<td align="center"><a href="https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

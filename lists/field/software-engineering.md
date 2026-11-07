@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,483 open roles.** 1,221 in the United States & Canada · 262 elsewhere in the world.
+**1,480 open roles.** 1,218 in the United States & Canada · 262 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1574,6 +1574,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b6c0714-7d96-4ec1-b027-2b90c3db4969">Intern - Renewable Generation Engineering</a></td>
+<td>Des Moines, IA, United States</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006009">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>CACI</strong></td>
 <td><a href="https://trueinterview.io/jobs/b17838bd-87e3-4ae2-a4a9-ca6ff3748496">Software Engineering Co-op/Intern - Summer 2027</a></td>
 <td>Rochester, New York, United States</td>
@@ -1973,13 +1980,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Aurora Innovation</strong></td>
-<td><a href="https://trueinterview.io/jobs/247f28d0-f85e-437c-af11-5f229b26640f">Safety &amp; Systems Engineering Intern</a></td>
-<td>Mountain View, CA<br/>Pittsburgh, PA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Peterbilt Motors Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bf0b95b-4818-4a1a-bede-4f2dd6140654">2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform</a></td>
 <td>Denton, TX</td>
@@ -2040,6 +2040,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f88bbe30-4695-487d-a121-0207310719f2">AI Automation &amp; Revenue Ops Intern</a></td>
 <td>Durham, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485774933/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c93b97f-075b-4947-b056-230865d971f5">Intern - Gas Engineering</a></td>
+<td>Waterloo, ON<br/>Davenport, IA, United States<br/>Sioux City, IA, United States<br/>+4 more</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006003">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1f46ea66-93f1-4b05-9276-1e3098014406">Cloud Platform Developer Co-op</a></td>
 <td>Vancouver, BC<br/>Vancouver, Canada</td>
 <td align="center"><a href="https://jobs.teck.com/job/Vancouver-Cloud-Platform-Developer-Co-op-Brit/1446600200/?feedId=223000">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GenPark</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485139309/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
