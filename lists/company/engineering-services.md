@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**28 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**29 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,6 +183,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6ca070be-5362-4462-bbe2-8688b3a7bd08">Electrical Engineering Internship - Facilities (Healthcare)</a></td>
 <td>Dallas, TX<br/>Fort Worth, TX<br/>Dallas (Plano)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5423855008">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wade Trim</strong></td>
+<td><a href="https://trueinterview.io/jobs/800834b3-d216-41d1-9d86-2b4a6991a35c">Electrical Engineer Summer Intern - #3046</a></td>
+<td>Taylor, MI</td>
+<td align="center"><a href="https://jobs.lever.co/wadetrim/c3713837-17e6-423a-bce8-5c06635b002b">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
