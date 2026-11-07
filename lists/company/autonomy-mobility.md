@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**44 open roles.** 33 in the United States & Canada · 11 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**45 open roles.** 34 in the United States & Canada · 11 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -229,6 +229,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Harbinger Motors Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea550786-77fe-45f5-b974-90abd2617378">Intern, Battery Test</a></td>
+<td>Garden Grove, CA, Garden Grove</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4pqpt2jj04x811c5e5fyjg7">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/72122b74-bca3-4b8d-86fd-bc78aa36d05f">Intern, Test Engineering</a></td>
 <td>Garden Grove, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007">Apply</a></td>

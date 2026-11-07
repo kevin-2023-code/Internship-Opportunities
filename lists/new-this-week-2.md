@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,020 open roles.** 827 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
+**1,039 open roles.** 840 in the United States & Canada · 199 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>DV Trading LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/00fb2f8e-b12d-44d0-81f4-0e77e8d3517a">Software Engineer Intern - Summer 2027 (DV Commodities)</a></td>
-<td>New York, NY<br/>London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>GE HealthCare</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6ff5444-8107-488c-92b6-07dbbf98f3fe">Edison Engineering Development Program Intern – Software</a></td>
@@ -650,6 +643,111 @@
 <td><a href="https://trueinterview.io/jobs/49196dd6-de8d-4b50-ba1e-425925ddb620">Anticheat Engineer Intern - Summer 2027</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wabtec Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8537de8-21e6-4eaf-aa4d-5f058f8bb838">Firmware Engineering Co-Op</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487043721/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EJ</strong></td>
+<td><a href="https://trueinterview.io/jobs/f697e432-ca93-41bb-8f11-f0a575eab7a1">Pricing &amp; Data Analyst Intern</a></td>
+<td>East Jordan, Michigan, United States</td>
+<td align="center"><a href="https://myjobs.adp.com/externalej/cx/job-details?reqId=5001236029506">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ff2c982-80d5-40d4-b08b-d3830890b585">AI Developer Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487047493/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Starkey</strong></td>
+<td><a href="https://trueinterview.io/jobs/a077cb37-735d-459b-9db0-e4566c7b9123">Software Engineering Internship</a></td>
+<td>Eden Prairie, MN</td>
+<td align="center"><a href="https://recruiting2.ultipro.com/STA1003STARK/JobBoard/aa9d7813-93e5-4731-9f45-8ccb56bea5fd/OpportunityDetail?opportunityId=dffb5d69-1f21-45e3-8929-c8a4746e349a&amp;postingId=6b9c732b-b313-4283-91dc-8be58811b5b6">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Enlighten</strong></td>
+<td><a href="https://trueinterview.io/jobs/682066b8-6b4a-45cc-a061-ee9f651ce5e5">Data Engineer (Skillbridge Intern) - 28499</a></td>
+<td>Augusta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4414956467/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>American Express</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a85e3b3-6b42-4458-bf19-5360bcf455dc">Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486093123/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b">Data Analyst Intern</a></td>
+<td>Plano, TX<br/>Plano, Texas, United States</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Osmose</strong></td>
+<td><a href="https://trueinterview.io/jobs/10cd629f-ac34-4ea8-8943-90351bf72428">Data Analyst Intern</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485004895/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Firefly Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3a2ffde-fe10-4b60-8ab3-56fa33623bdc">Internship - Software Engineering - Spring 2027</a></td>
+<td>Cedar Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485007903/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/15aabaf7-b6c9-4e64-bee3-82b40033632c">Mechanical Engineering Co-Op</a></td>
+<td>North Kingstown, RI<br/>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/b88e8640-549b-4de1-9781-cf4190ce0a29">R&amp;D PhD Summer Intern: AI Agents for Automated Machine Learning Research</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468184861/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts (EA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9a9bb2b-866e-410f-8bbd-63c5623915ef">Data &amp; AI Engineering Intern (Master's Level) - Summer 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476051447/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Huawei Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/085b27f8-dc94-40d5-b4ba-62bdb839212a">Intern Researcher- Computer Vision</a></td>
+<td>Markham, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487020203/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>American Express</strong></td>
+<td><a href="https://trueinterview.io/jobs/090d1753-28cc-419c-9899-cd03d2f58437">Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26015722">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tive</strong></td>
+<td><a href="https://trueinterview.io/jobs/425bc583-055d-4288-99c7-a121ebb7c783">Software Engineer Co-op</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487016722/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2715,104 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/87b58e35-d224-4bf0-930a-a3e84ff0eeda">University, 2027 Summer Games Data Scientist Intern - Rome, NY</a></td>
 <td>Rome, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460503549/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/e11c40a0-ebc7-40cd-bac1-12fb639de3c5">AI Engineering Intern Summer 2027</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468835425/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad">University, 2027 Summer Games Software Developer Intern - McLean, VA</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459884945/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parsons Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
-<td>Centreville, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bd2c07e-01a8-4c62-b264-1a4bbe7f41fd">AI-Enabled Full-Stack Software Engineering Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468834524/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/b21c7934-91e7-42bf-949e-513487b35013">Product Manager Intern 2027 - Lowell</a></td>
-<td>Lowell, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474856164/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BlackRock</strong></td>
-<td><a href="https://trueinterview.io/jobs/d29601b4-8b69-4be8-9751-d707524e88fb">2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - New York</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468688541/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d2205edf-5522-4aaa-8f91-00f04900d9d7">2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - San Francisco</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468680685/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/1eb28376-2fd5-4dd6-ad2d-156093646038">Summer 2027 Assoc Product Manager Internship</a></td>
-<td>Overland Park, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485254608/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>First Citizens Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/be9f288f-42d6-4fb2-9960-306c82e55888">2027 Summer Intern - Quantitative Modeling (Raleigh, NC)</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485673413/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Philo Homes</strong></td>
-<td><a href="https://trueinterview.io/jobs/fdc46896-3fc6-4f9b-a786-9cc1c024fd44">Computer Vision Intern (Bilingual: English/Mandarin)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485131430/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Stripe</strong></td>
-<td><a href="https://trueinterview.io/jobs/30943450-a8cb-42b7-ace8-dc5392842ab1">Master's Machine Learning Engineer, Intern</a></td>
-<td>Toronto, Ontario, Canada<br/>Seattle, WA<br/>New York, NY<br/>+2 more</td>
-<td align="center"><a href="https://stripe.com/jobs/search?gh_jid=8333074">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BioSpace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1da23fdf-3afb-40f3-92c5-6ace38c2826d">2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</a></td>
-<td>North Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485686040/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee5c4544-3d7e-4779-bbc1-6d3be3aee54b">2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</a></td>
-<td>North Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485671784/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Savannah River Mission Completion</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e1aff9e-f475-477f-95c1-3f2b3b8b8fd5">2027 Summer Intern-Computer Science (Artificial Intelligence/Machine Learning)</a></td>
-<td>Aiken, SC</td>
-<td align="center"><a href="https://careers-lse-srmc.icims.com/jobs/2261/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

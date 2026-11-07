@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**36 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -96,6 +96,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>American Express</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a85e3b3-6b42-4458-bf19-5360bcf455dc">Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486093123/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b5d9ff92-1f0d-4238-bd11-6266fed087eb">Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485788798/">Apply</a></td>
@@ -247,6 +254,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, Arizona, United States<br/>Orlando, Florida, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/brph/jobs/4399628009">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d601ced-5c68-439d-af52-6152b7beb54c">Geological Engineering Intern - Summer 2027</a></td>
+<td>Tucson, AZ, United States<br/>Lakewood, CO, United States<br/>Saint Louis, MO, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95132">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

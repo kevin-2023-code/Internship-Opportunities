@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**91 open roles.** 51 in the United States & Canada · 40 elsewhere in the world.
+**96 open roles.** 55 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -135,6 +135,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487081781/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EJ</strong></td>
+<td><a href="https://trueinterview.io/jobs/f697e432-ca93-41bb-8f11-f0a575eab7a1">Pricing &amp; Data Analyst Intern</a></td>
+<td>East Jordan, Michigan, United States</td>
+<td align="center"><a href="https://myjobs.adp.com/externalej/cx/job-details?reqId=5001236029506">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b">Data Analyst Intern</a></td>
+<td>Plano, TX<br/>Plano, Texas, United States</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Osmose</strong></td>
+<td><a href="https://trueinterview.io/jobs/10cd629f-ac34-4ea8-8943-90351bf72428">Data Analyst Intern</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485004895/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>The New York Times</strong></td>
@@ -317,6 +338,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/77369dd4-4bdb-4691-a633-146702ddecbe">Intern - Yield Enhancement  Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44853733">Apply</a></td>
+<td align="center">12 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Charles River Associates</strong></td>
@@ -644,6 +672,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Barcelona, Spain</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000152474589-intern-data-analyst-i-people-strategy-global-hq">Apply</a></td>
 <td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Kanadevia Inova</strong></td>
+<td><a href="https://trueinterview.io/jobs/4517f3cb-2253-471f-bbfa-7f861ac686c5">Engineering Data Analyst-Energy Industry (Intern)</a></td>
+<td>Petržalka, Bratislavský kraj, Slovakia (Slovak Republic)</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/KanadeviaInova/744000150310513-engineering-data-analyst-energy-industry-intern-">Apply</a></td>
+<td align="center">18 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Monks</strong></td>

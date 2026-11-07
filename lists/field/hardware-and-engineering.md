@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**770 open roles.** 698 in the United States & Canada · 72 elsewhere in the world.
+**795 open roles.** 721 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -178,6 +178,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/70f429f7-a128-4dc9-b7fa-5ccc14ecc955">Firmware Software Intern</a></td>
 <td>Oak Brook, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487041894/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/15aabaf7-b6c9-4e64-bee3-82b40033632c">Mechanical Engineering Co-Op</a></td>
+<td>North Kingstown, RI<br/>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2008,6 +2015,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2ce795d-bd5a-46ce-8dd8-5084c80fa190">Structural Engineering Intern - Bridge &amp; Transportation Structures - Hiring Event with AECOM - Arlington, VA</a></td>
+<td>Arlington, Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158171520-structural-engineering-intern-bridge-transportation-structures-hiring-event-with-aecom-arlington-va">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Ciena</strong></td>
 <td><a href="https://trueinterview.io/jobs/e229f20a-705b-47c6-a06a-2ed301e54f16">Electronic Reliability Engineer Co-op (Winter 2027)</a></td>
 <td>Ottawa, ON<br/>Ottawa, Canada</td>
@@ -2421,6 +2435,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/b4f0bd73-3473-4279-aee3-231899a0b1b1">Intern - Design Engineer, Pathfinding</a></td>
+<td>San Jose, CA<br/>Folsom, CA, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45050114">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/874aa698-ecc6-4e0c-a3b3-66c5b703f0ad">Intern - Machine Learning Engineering</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45050125">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd1f61a0-c37a-463d-b59e-0e4bccf73bfc">Substation Electrical Engineering Intern - Summer 2027</a></td>
+<td>Spring, TX, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cfe1151-c18e-4d2c-b241-9991ef37b91e">Civil Engineering Intern</a></td>
+<td>Round Rock, Texas, United States<br/>Harrisburg, Pennsylvania, United States<br/>Tampa, Florida, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156433609-civil-engineering-intern">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Four Hands</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffc814b6-a1bb-49c1-9875-a39efcba7e62">Quality Engineer Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fourhands/jobs/4458313009">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Chenmoore</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3b6bbfc-c552-438f-8306-11e8af30e293">Internship - Electrical Engineering</a></td>
 <td>Jacksonville, Florida, United States<br/>Orlando, Florida, United States</td>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76ca107c-1e69-4dbe-8e23-4383250770db">Research Scientist Intern, Robotics Hardware (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2105411693413958/">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5581158-3c09-4708-801c-ef64ef4becdd">ASIC Engineer Intern, Summer 2027</a></td>
-<td>Sunnyvale, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4235043-19c2-4415-a8c9-7bb4671ab5f7">Electrical Engineer, Intern - Labs (Summer 2027)</a></td>
-<td>Oakland, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8274095">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/55a511da-4ba3-4c3d-8725-6e6f781ee1bc">VLSI Design Verification Masters Level Intern</a></td>
-<td>Ft. Collins, Colorado, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Masters-Level-Intern_1213425">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/b10e7997-7773-41e3-897c-6a42f124e433">Module Development Engineer PhD Intern New 2027</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Module-Development-Engineer-PhD-Intern-New-2027_JR0287950">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/02a90609-6e6d-4142-a502-d0313e2d40aa">R&amp;D Hardware Design Engineer, Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54389?lang=en-us">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/0dfc2393-f555-4f70-aa61-000aa1fc5e2a">Mechanical Design Engineer Intern</a></td>
-<td>Ann Arbor, MI, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Design-Engineer-Intern_2642150-3">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b9b6c8eb-cadf-4b87-8c8f-ae7751d28d2f">Precision Motion Control Intern</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
 </tbody>

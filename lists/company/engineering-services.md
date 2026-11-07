@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**48 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**52 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -44,6 +44,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5458376008">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd1f61a0-c37a-463d-b59e-0e4bccf73bfc">Substation Electrical Engineering Intern - Summer 2027</a></td>
+<td>Spring, TX, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cfe1151-c18e-4d2c-b241-9991ef37b91e">Civil Engineering Intern</a></td>
+<td>Round Rock, Texas, United States<br/>Harrisburg, Pennsylvania, United States<br/>Tampa, Florida, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156433609-civil-engineering-intern">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
@@ -298,6 +312,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bec603ea-682e-4279-973f-a51821b56759">Civil Engineering Intern (Transmission) - Spring/Summer 2027</a></td>
+<td>Freeport, ME, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95630">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Ms Consultants, Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/d110cb85-9e22-45e3-948a-3789584ff412">MEP Engineer Internship - Summer 2027</a></td>
 <td>Columbus, OH</td>
@@ -335,7 +356,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8d601ced-5c68-439d-af52-6152b7beb54c">Geological Engineering Intern - Summer 2027</a></td>
-<td>Lakewood, CO, United States</td>
+<td>Lakewood, CO, United States<br/>Saint Louis, MO, United States<br/>Tucson, AZ, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95132">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
@@ -347,7 +368,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/09b186e8-29b1-4250-a93f-dcbb25e40880">Transit and Rail Engineering Intern- Summer 2027</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95111">Apply</a></td>
+<td align="center">10 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Benesch</strong></td>
 <td><a href="https://trueinterview.io/jobs/463d62c1-1ce8-4eaf-beda-d3e35c6125fa">Municipal Engineering Internship</a></td>
 <td>Detroit, MI</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5233672007?gh_jid=5233672007">Apply</a></td>

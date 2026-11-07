@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**665 open roles.** 484 in the United States & Canada · 181 elsewhere in the world.
+**681 open roles.** 497 in the United States & Canada · 184 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1151,6 +1151,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd14dec2-8e57-4fb3-a538-451e255bb194">Machine Learning Engineer (Co-op / extended internship)</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/engramme/36691537-e0fd-4aa9-9fcd-2618b433fac1">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EJ</strong></td>
+<td><a href="https://trueinterview.io/jobs/f697e432-ca93-41bb-8f11-f0a575eab7a1">Pricing &amp; Data Analyst Intern</a></td>
+<td>East Jordan, Michigan, United States</td>
+<td align="center"><a href="https://myjobs.adp.com/externalej/cx/job-details?reqId=5001236029506">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ff2c982-80d5-40d4-b08b-d3830890b585">AI Developer Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487047493/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Enlighten</strong></td>
+<td><a href="https://trueinterview.io/jobs/682066b8-6b4a-45cc-a061-ee9f651ce5e5">Data Engineer (Skillbridge Intern) - 28499</a></td>
+<td>Augusta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4414956467/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>American Express</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a85e3b3-6b42-4458-bf19-5360bcf455dc">Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterprise Technology Services- Phoenix, AZ</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486093123/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b">Data Analyst Intern</a></td>
+<td>Plano, TX<br/>Plano, Texas, United States</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Osmose</strong></td>
+<td><a href="https://trueinterview.io/jobs/10cd629f-ac34-4ea8-8943-90351bf72428">Data Analyst Intern</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485004895/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/b88e8640-549b-4de1-9781-cf4190ce0a29">R&amp;D PhD Summer Intern: AI Agents for Automated Machine Learning Research</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468184861/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts (EA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9a9bb2b-866e-410f-8bbd-63c5623915ef">Data &amp; AI Engineering Intern (Master's Level) - Summer 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476051447/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Huawei Canada</strong></td>
+<td><a href="https://trueinterview.io/jobs/085b27f8-dc94-40d5-b4ba-62bdb839212a">Intern Researcher- Computer Vision</a></td>
+<td>Markham, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487020203/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2323,6 +2386,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>BNY</strong></td>
+<td><a href="https://trueinterview.io/jobs/0933a654-faf6-4913-a5ae-577c356b1d5a">2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL</a></td>
+<td>Lake Mary, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458202918/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/453128b0-389e-44ad-a25d-7f824b9229a1">AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (USA)</a></td>
+<td>Austin, TX<br/>Austin, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475423635/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sinisa Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e892efa-f504-457f-8fac-a155a60b2f26">Data Analyst Internship -Unpaid - Remote - USA, UK, Canada, India, Ireland</a></td>
 <td>New York, NY</td>
@@ -2514,7 +2591,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>JPMorgan</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3a3938f-25da-46a3-8ed0-45cf39463565">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
-<td>Palo Alto, CA</td>
+<td>Palo Alto, CA<br/>New York, NY, United States<br/>Seattle, WA, United States</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
@@ -2708,6 +2785,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/651000b9-55f5-4ff7-9a5c-ff6cb569aecc">AI Data Science / Software Engineering PhD Intern New 2027</a></td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cfff8e5-5264-4478-815b-2e59c9937037">Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398185388">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Salesforce</strong></td>
 <td><a href="https://trueinterview.io/jobs/258ca580-430e-4e36-8537-935dc234c7d4">Summer 2027 Intern - AI Research</a></td>
 <td>California - Palo Alto, United States of America</td>
@@ -2722,102 +2813,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Scale AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/47dd9c5b-f0b6-4a06-a16a-71f78043daf1">Machine Learning Research Intern (Summer 2027)</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4735665005">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c">Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/4723409617931131/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/cd6cfa83-b394-4bc9-9203-18e0521302d7">Research Scientist Intern, On-Device AI Model Optimization (PhD)</a></td>
+<td>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/4455569504707135/">Apply</a></td>
 <td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aedd6dd6-2fc1-4929-bf62-79b85f11cac8">Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2267351860492630/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/74e9b389-d028-4b3b-a668-8be0cc57a04b">Optical Engineering AI and Data Analytics Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1851348099357899/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Adobe</strong></td>
-<td><a href="https://trueinterview.io/jobs/f43e56f8-88fe-4473-ad92-19f9d8173cde">2027 Intern - AI &amp; Architecture</a></td>
-<td>San Jose, California, United States of America</td>
-<td align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Didi Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/569a0880-46f4-4516-8947-ac7c179306b9">Research Intern, Scene Understanding and Planning</a></td>
-<td>San Jose, CA, Silicon Valley</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/didi/jobs/8299748">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4d3b9ee-049a-4744-a7b0-cd49f6b2c928">AI Data Science Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Together AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/de1f39eb-e441-458c-bd42-e59ee9ede29b">Research Intern, Frontier Speculative Decoding (Winter 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/togetherai/jobs/5267197007">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8e0520f-06d3-4aec-a4fe-825b2e04448d">Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)</a></td>
-<td>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1141752241867684/">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pattern</strong></td>
-<td><a href="https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09">AI Automation Engineer Intern</a></td>
-<td>Lehi, UT, US</td>
-<td align="center"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1758435721926913/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Point72 Asset Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbbd96ab-6482-48a8-86b8-a51f78be083b">2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
-<td>Boston, MA<br/>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gallup</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89">Data Engineering Intern — Summer 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4449991009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

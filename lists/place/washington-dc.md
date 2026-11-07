@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**78 open roles.** 77 in the United States & Canada · 1 elsewhere in the world.
+**81 open roles.** 80 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -396,6 +396,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2ce795d-bd5a-46ce-8dd8-5084c80fa190">Structural Engineering Intern - Bridge &amp; Transportation Structures - Hiring Event with AECOM - Arlington, VA</a></td>
+<td>Arlington, Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158171520-structural-engineering-intern-bridge-transportation-structures-hiring-event-with-aecom-arlington-va">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>MTSI</strong></td>
 <td><a href="https://trueinterview.io/jobs/496e4a04-d397-409f-9cba-6459f32c265c">Software Engineering Intern or Co-Op</a></td>
 <td>Chantilly, VA</td>
@@ -429,6 +436,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Arlington, Virginia, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/78e6f9c4-2665-4a15-91a0-b720df119d28">2027 Technical Program Manager Intern</a></td>
+<td>Washington, DC<br/>Reston, Virginia, United States<br/>Washington, District of Columbia, United States<br/>+3 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>WSP</strong></td>
@@ -534,6 +548,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Washington, District of Columbia, United States<br/>Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/09b186e8-29b1-4250-a93f-dcbb25e40880">Transit and Rail Engineering Intern- Summer 2027</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95111">Apply</a></td>
+<td align="center">10 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Immuta</strong></td>

@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**85 open roles.**
+**91 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,6 +113,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/49196dd6-de8d-4b50-ba1e-425925ddb620">Anticheat Engineer Intern - Summer 2027</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Firefly Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3a2ffde-fe10-4b60-8ab3-56fa33623bdc">Internship - Software Engineering - Spring 2027</a></td>
+<td>Cedar Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485007903/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts (EA)</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9a9bb2b-866e-410f-8bbd-63c5623915ef">Data &amp; AI Engineering Intern (Master's Level) - Summer 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476051447/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -305,6 +319,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Tenstorrent</strong></td>
+<td><a href="https://trueinterview.io/jobs/453128b0-389e-44ad-a25d-7f824b9229a1">AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (USA)</a></td>
+<td>Austin, TX<br/>Austin, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475423635/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Emerson</strong></td>
 <td><a href="https://trueinterview.io/jobs/b52218bc-60bc-4216-b407-0ce092ed1f37">Software Engineering Intern - ADG System R&amp;D</a></td>
 <td>Austin, TX</td>
@@ -354,11 +375,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Egis Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cfe1151-c18e-4d2c-b241-9991ef37b91e">Civil Engineering Intern</a></td>
+<td>Round Rock, Texas, United States<br/>Harrisburg, Pennsylvania, United States<br/>Tampa, Florida, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/EgisGroup/744000156433609-civil-engineering-intern">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Four Hands</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffc814b6-a1bb-49c1-9875-a39efcba7e62">Quality Engineer Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fourhands/jobs/4458313009">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>AMD</strong></td>
 <td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States<br/>Santa Clara, California, United States<br/>+1 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/93645?lang=en-us">Apply</a></td>
 <td align="center">11 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e9b9f10-336e-40ff-bb29-25f70d718c3d">PCIe Design Verification Intern - Spring 2027</a></td>
+<td>Austin, TX<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398029164">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Base Power</strong></td>

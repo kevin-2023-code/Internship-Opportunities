@@ -802,7 +802,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/78e6f9c4-2665-4a15-91a0-b720df119d28">2027 Technical Program Manager Intern</a></td>
+<td>Costa Mesa, California, United States<br/>Seattle, Washington, United States<br/>Washington, DC<br/>+3 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/3dc3a4df-d20c-4c86-b45c-667c66902740">Intern - Optical Design Software &amp; Automation Engineer (PhD Level)</a></td>
 <td>Pasadena, California, United States<br/>Santa Clara, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54614?lang=en-us">Apply</a></td>
@@ -1360,13 +1367,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008">Apply</a></td>
 <td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Divergent</strong></td>
-<td><a href="https://trueinterview.io/jobs/db61760a-8d9d-482b-89f4-eaa565d474b9">Summer 2027 Engineering Intern</a></td>
-<td>Torrance, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/divergent/jobs/5350151008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

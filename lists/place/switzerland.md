@@ -123,7 +123,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr>
 <td><strong>Kanadevia Inova</strong></td>
 <td><a href="https://trueinterview.io/jobs/52c33096-8180-45be-b0de-fc9aee3898af">Internship (6 months) - Data Analysis and Correlations for Tender Engineering</a></td>
-<td>Zürich, Switzerland</td>
+<td>Zürich, Switzerland<br/>Zürich, Zurich, Switzerland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/KanadeviaInova/744000158765980-internship-6-months-data-analysis-and-correlations-for-tender-engineering">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>

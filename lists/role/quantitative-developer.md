@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**40 open roles.** 31 in the United States & Canada · 9 elsewhere in the world.
+**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480587020/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/8718124f-230a-4b9f-87f2-5382d968a84e">Quantitative Systematic Trading Internship – Master's: Summer 2027</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431545628/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Voloridge Investment Management, LLC</strong></td>

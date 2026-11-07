@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**80 open roles.**
+**82 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,6 +113,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3c7cd076-310b-45bf-beb8-ee900d938694">AI Software Engineering Intern</a></td>
 <td>Frisco, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486099819/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9d12a9a-ec2a-43ee-b4ff-8dadbfed4a9b">Data Analyst Intern</a></td>
+<td>Plano, TX<br/>Plano, Texas, United States</td>
+<td align="center"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -415,6 +422,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45053329">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/874aa698-ecc6-4e0c-a3b3-66c5b703f0ad">Intern - Machine Learning Engineering</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/45050125">Apply</a></td>
+<td align="center">20 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Olsson</strong></td>
