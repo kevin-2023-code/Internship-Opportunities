@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**28 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -165,6 +165,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200689729-1731?board_id=JB001">Apply</a></td>
 <td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Taktile</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8cff64d-c2d8-4f48-b524-fcac1cd29d0e">Software Engineer Internship for HPI Students</a></td>
+<td>Berlin Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Statkraft</strong></td>

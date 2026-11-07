@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**216 open roles.** 160 in the United States & Canada · 56 elsewhere in the world.
+**219 open roles.** 161 in the United States & Canada · 58 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -41,8 +41,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Pinterest</strong></td>
 <td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140217">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -186,6 +186,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Kabam</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a2cc207-7c2e-49e4-9890-b2a1f53d6712">Operations Product Manager Co-Op</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/49f97901-f8a2-4ae3-ba75-5ff6386e0cb0">Business Program Manager, Global Intern Experience &amp; Innovation</a></td>
 <td>Redmond, WA</td>
@@ -204,13 +211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1045f4aa-2a03-47da-b366-45c563396551">2027 Summer Product Owner Intern</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486032133/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kabam</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a2cc207-7c2e-49e4-9890-b2a1f53d6712">Operations Product Manager Co-Op</a></td>
-<td>Vancouver, BC<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -564,6 +564,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/08308356-3125-4c6f-9d20-8f5326286cfc">Industrial Design Engineering Intern, 3D Surfacing - Summer 2027</a></td>
+<td>Towson, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718250/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Kiewit</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7021113-4daf-4b1b-aea7-5fb7991ba2ef">Electrical Design Intern - Kiewit Industrial &amp; Water Engineering (Summer 2027)</a></td>
 <td>Lenexa, KS</td>
@@ -837,10 +844,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/9674cd49-1156-4b1a-9a2b-f86e65b15079">Web Marketing Intern - User Experience Design</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753">Apply</a></td>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a22d3fc-4f52-4f9c-9b26-d0ae92125d56">Technical Writer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA, NYC, San Francisco<br/>New York, NY, NYC, San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
@@ -1241,6 +1248,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zuru Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9164cd5-3baf-4b71-9a78-7d9afdcb88e6">UX/UI Design Intern</a></td>
+<td>Auckland<br/>New Zealand</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/zuru/9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/aea87df7-18c8-4e06-8c73-6059e95543c2">AI Product Manager Intern (TikTok Live-Revenue) - 2027 Start</a></td>
 <td>Sydney, New South Wales, Australia</td>
@@ -1367,6 +1381,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Rakuten Viki</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f048243-f541-4ea4-8182-5e93212545dc">Intern, UX (Content Design)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4431660136/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>BNY</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1dad0b9-4141-4523-a7e5-5fb598a0dcde">2027 BNY Summer Internship Program - Product Management - Singapore</a></td>
 <td>Singapore, Singapore</td>
@@ -1388,6 +1409,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Equativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>The Ascott Limited</strong></td>
 <td><a href="https://trueinterview.io/jobs/27b08190-9c94-40df-b337-7c05c24df76e">Intern, Product Management (UI/UX)</a></td>
 <td>Singapore, Singapore</td>
@@ -1399,13 +1427,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/95f3d46b-cc69-4103-875a-9aa5325c4a13">Product Management Intern (Global Payment) - 2026 Start (BS/MS)</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476502715/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EQUATIV</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1528,18 +1549,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Lalamove</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8a3c3e3-3a5a-4c53-a5d1-790b7de1c9ab">Graphic Designer Intern</a></td>
+<td>Istanbul</td>
+<td align="center"><a href="https://jobs.lever.co/lalamove/2d0a4b9a-201d-457a-ac84-32e5e074e37f">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Master Born</strong></td>
 <td><a href="https://trueinterview.io/jobs/047889e2-2c67-4074-9343-8159e1c856ef">Intern Product Designer (AI Prototyping)</a> 🌐</td>
 <td>Remote — Poland</td>
 <td align="center"><a href="https://jobs.lever.co/masterborn-2/452e0679-85a2-40cd-96a8-ed77d0068ea2/apply">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gallup</strong></td>
-<td><a href="https://trueinterview.io/jobs/b06ad3d3-2464-4438-80b2-73d07a8e6978">Product Design Intern — Summer 2027</a></td>
-<td>Omaha Riverfront</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4394610009">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

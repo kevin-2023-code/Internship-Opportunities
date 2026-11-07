@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**46 open roles.** 33 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**47 open roles.** 34 in the United States & Canada · 13 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -219,6 +219,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836">Process Engineering Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States<br/>Hayward, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Harbinger Motors Inc</strong></td>

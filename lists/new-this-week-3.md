@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**990 open roles.** 812 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
+**999 open roles.** 817 in the United States & Canada · 182 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Brain Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8ace4be-f9ec-4d10-bc42-54898435558d">AI Security Engineer Intern (Summer 2027)</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Divergent</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7f9ac92-08be-4f4b-9160-7d1a66628ed5">Summer 2027 Business Intelligence Intern</a></td>
+<td>Torrance, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/divergent/jobs/5393519008">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Fusion Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/f06778ce-796c-4a6f-86d3-790f4fd3c260">Intern - Electrical/Electromechanical Engineer - Spring 2027</a></td>
+<td>Devens, MA</td>
+<td align="center"><a href="https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485600471/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Boston Scientific</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec340065-983f-4e7c-ba13-5c048491115b">Software Test Engineer Intern</a></td>
+<td>Waltham, Massachusetts, United States</td>
+<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813568250-software-test-engineer-intern-waltham-us-ma-usa">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Fusion Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/98f7208f-2ca4-48ab-a8ec-694a1d5f4406">Intern - Mechanical and Magnet Engineer - Spring or Summer 2027</a></td>
+<td>Devens, MA</td>
+<td align="center"><a href="https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcaad2a0-86aa-4ded-8401-85eb5028bc99">Backend Engineering Intern, Wirecutter</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mercury Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/c43b91de-43c4-429b-99e6-ba1e5a306bf0">2027 Software Engineering Co-Op</a></td>
@@ -85,20 +134,6 @@
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/41725c72-2242-4ae4-815a-21064d7d7d05">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>ClinChoice</strong></td>
-<td><a href="https://trueinterview.io/jobs/1574654f-af09-414b-8734-ca433d948f44">Database Designer Intern - Canada</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/clinchoice/jobs/5021155101">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Johnson &amp; Johnson MedTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/c70bd738-6a0b-4731-8b1e-bd4b9ea3d094">Software Engineering Co-Op, Spring 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459397485/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -165,6 +200,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>
 <td>Minato, Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
+<td>Hong Kong Japan</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -396,6 +438,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/54c8d3eb-26ef-4d08-98e8-7337c0d09d6f">2027 Shanghai Machine Learning Engineer Summer Internship</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450134756/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/270f7012-808e-4a51-aac7-cff46940db84">Project Management &amp; Product Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013093">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -760,6 +809,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c6e52851-17b0-4da6-b4b0-50a46f7ed592">Final year internship - DevOps / Platform Engineer</a></td>
 <td>Paris, Île-de-France, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159443899-final-year-internship-devops-platform-engineer">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2dc6862-4780-40d4-bd90-c7fb64cb7975">Cybersecurity - Consultant Internship from 3 to 6 months</a></td>
+<td>Brussels, Brussels Hoofdstedelijk Gewest, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000159435376-cybersecurity-consultant-internship-from-3-to-6-months">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1222,6 +1278,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b5fa0311-355f-4968-8eeb-a5cae01bbdd2">Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)</a></td>
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zuru Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/b9164cd5-3baf-4b71-9a78-7d9afdcb88e6">UX/UI Design Intern</a></td>
+<td>Auckland<br/>New Zealand</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/zuru/9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>

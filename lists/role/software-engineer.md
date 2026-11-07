@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**421 open roles.** 346 in the United States & Canada · 75 elsewhere in the world.
+**426 open roles.** 348 in the United States & Canada · 78 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1924,6 +1924,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d1b179-18ef-44dc-a70e-7c0d65804893">2027 Summer Internship – Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Pebl</strong></td>
 <td><a href="https://trueinterview.io/jobs/04ff52c4-a9c6-458a-89b9-14ef8724b5ca">Software Engineering, Intern</a></td>
 <td>Toronto, Ontario</td>
@@ -2407,6 +2414,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Crestoperations</strong></td>
+<td><a href="https://trueinterview.io/jobs/b05d5c79-4297-4fb9-89f9-a32544dddb8e">Developer Intern</a></td>
+<td>Pineville, Louisiana</td>
+<td align="center"><a href="https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/663152ab-89f1-4e35-a6db-1808bdc8640c">Software Research Engineering - (PhD Intern)</a></td>
 <td>US, Oregon, Hillsboro, United States of America</td>
@@ -2762,6 +2776,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>FlightSafety International</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
+<td>Greater St. Louis</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Revolut</strong></td>
 <td><a href="https://trueinterview.io/jobs/918fba57-4d83-40bd-ba54-0e10d4cc820d">Internship Programme 2027: Software Engineer (Java)</a></td>
 <td>Porto, Porto, Portugal<br/>United Kingdom<br/>Poland<br/>+1 more</td>
@@ -2809,27 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris, France</td>
 <td align="center"><a href="https://recrutement.natixis.com/en/job/internship-6-months-developer-fullstack-web-sales-solutions-f-h">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WALLBOX</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ee5cbf6-4700-4ff7-9237-d9d1a22357d8">Software Engineer Intern</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://wallbox.bamboohr.com/careers/293?postedDate=2026-10-27">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sardine</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
-<td>North America</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sierra</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c5846d9-28c4-49a8-9613-15524955f1a7">Software Engineer Intern, Agent (London 2027)</a></td>
-<td>London</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff/application">Apply</a></td>
-<td align="center">21 Oct 2026</td>
 </tr>
 </tbody>
 </table>

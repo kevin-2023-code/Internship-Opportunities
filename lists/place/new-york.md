@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**128 open roles.**
+**139 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -41,8 +41,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Pinterest</strong></td>
 <td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>New York, NY<br/>Seattle, WA<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
+<td>New York, NY<br/>Seattle, WA<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140217">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -67,6 +67,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc008e54-1a64-4bc4-8188-7a3f62de4dbc">Backend Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a">Android Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8815e542-1f9a-4c37-a6f1-13b69b99d1ba">Full-Stack Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb22a16b-d76d-47bf-b299-b431120d1761">Frontend Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6f36b88f-3c6a-4c63-86b9-2f3be3010a04">iOS Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>InfiniteQuant</strong></td>
 <td><a href="https://trueinterview.io/jobs/f625647f-04a5-4aa7-972f-9e7f91d23695">Quantitative Researcher - 2027 Summer Internship</a></td>
 <td>New York, NY</td>
@@ -85,6 +120,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d4889da2-dd07-4bd8-9d9a-6d3db035daa8">Software Engineering Intern, Android</a></td>
 <td>New York, NY (HQ)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/30fec2ab-c7c3-4f9a-9f19-929145758842">Interactive News Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -382,6 +424,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcaad2a0-86aa-4ded-8401-85eb5028bc99">Backend Engineering Intern, Wirecutter</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>The Voleon Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0a28b51-8e73-45fe-92e4-2b5ed4b264d6">Software Engineer Intern - (Summer 2027)</a></td>
 <td>New York, NY<br/>Berkeley, CA</td>
@@ -667,6 +716,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>NYC</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/scoreplay/d05be21e-391a-4025-a2dd-d69a6bd603a0/application">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a22d3fc-4f52-4f9c-9b26-d0ae92125d56">Technical Writer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA, NYC, San Francisco<br/>New York, NY, NYC, San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d1b179-18ef-44dc-a70e-7c0d65804893">2027 Summer Internship – Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bbbd96ab-6482-48a8-86b8-a51f78be083b">2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
+<td>New York, NY<br/>Boston, MA<br/>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Google</strong></td>

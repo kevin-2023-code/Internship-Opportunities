@@ -2,7 +2,7 @@
 
 # Quantitative Trader
 
-**7 open roles.** 4 in the United States & Canada · 3 elsewhere in the world.
+**8 open roles.** 4 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -69,6 +69,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17">2027 Trader Summer Intern (12-week program)</a></td>
 <td>Tokyo, Tokyo, Japan<br/>Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488199206/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
+<td>Hong Kong Japan</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

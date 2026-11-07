@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**421 open roles.** 346 in the United States & Canada · 75 elsewhere in the world.
+**426 open roles.** 348 in the United States & Canada · 78 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WALLBOX</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ee5cbf6-4700-4ff7-9237-d9d1a22357d8">Software Engineer Intern</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://wallbox.bamboohr.com/careers/293?postedDate=2026-10-27">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sardine</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
+<td>North America</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c5846d9-28c4-49a8-9613-15524955f1a7">Software Engineer Intern, Agent (London 2027)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff/application">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Redgate</strong></td>
 <td><a href="https://trueinterview.io/jobs/b7c298a4-cbd1-4c79-bf3d-0764cde53096">Software Engineer Intern</a></td>
@@ -44,6 +65,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Grab/744000155671079-intern-software-engineer-backend">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Taktile</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8cff64d-c2d8-4f48-b524-fcac1cd29d0e">Software Engineer Internship for HPI Students</a></td>
+<td>Berlin Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zynga</strong></td>
+<td><a href="https://trueinterview.io/jobs/c05259f8-7b49-4c6d-839b-09f0d0f867fc">Software Engineer Intern - Two Dots</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Nabla</strong></td>

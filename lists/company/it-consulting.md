@@ -352,18 +352,18 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2dc6862-4780-40d4-bd90-c7fb64cb7975">Cybersecurity - Consultant Internship from 3 to 6 months</a></td>
+<td>Brussels, Brussels Hoofdstedelijk Gewest, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000159435376-cybersecurity-consultant-internship-from-3-to-6-months">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Leidos</strong></td>
 <td><a href="https://trueinterview.io/jobs/70029149-0444-4be8-9e4a-00ce92175816">Intern Engineer</a></td>
 <td>Canberra, Australia<br/>Newcastle, Australia</td>
 <td align="center"><a href="https://careers.leidos.com/jobs/18440465-graduate-engineer?tm_job=R-00196094&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gallup</strong></td>
-<td><a href="https://trueinterview.io/jobs/b06ad3d3-2464-4438-80b2-73d07a8e6978">Product Design Intern — Summer 2027</a></td>
-<td>Omaha Riverfront</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4394610009">Apply</a></td>
-<td align="center">8 Sep 2026</td>
 </tr>
 </tbody>
 </table>

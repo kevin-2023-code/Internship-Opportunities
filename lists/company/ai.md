@@ -42,7 +42,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Decagon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbd519d4-c0ec-4b9d-a9b9-f80baeca2d2f">Engineering Intern (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468282532/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

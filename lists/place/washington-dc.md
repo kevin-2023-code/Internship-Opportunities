@@ -126,7 +126,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774">Summer 2027 Software Engineering Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450737699/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/53d39f9e-d531-4ef5-8077-cd3f20c79c89">Spring 2027 AI/ML Engineering Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450748417/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
@@ -350,7 +350,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718247/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

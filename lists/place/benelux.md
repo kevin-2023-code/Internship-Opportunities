@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**20 open roles.** 1 in the United States & Canada · 19 elsewhere in the world.
+**21 open roles.** 1 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -63,6 +63,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487587168/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2dc6862-4780-40d4-bd90-c7fb64cb7975">Cybersecurity - Consultant Internship from 3 to 6 months</a></td>
+<td>Brussels, Brussels Hoofdstedelijk Gewest, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000159435376-cybersecurity-consultant-internship-from-3-to-6-months">Apply</a></td>
+<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>BlockTech</strong></td>

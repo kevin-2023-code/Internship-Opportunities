@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**154 open roles.** 122 in the United States & Canada · 32 elsewhere in the world.
+**157 open roles.** 125 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -462,7 +462,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/53d39f9e-d531-4ef5-8077-cd3f20c79c89">Spring 2027 AI/ML Engineering Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450748417/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
@@ -753,6 +753,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/02bf2ffc-6c9d-475f-83ec-eabb639dfa31">Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1758435721926913/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon.com</strong></td>
+<td><a href="https://trueinterview.io/jobs/988037b9-4555-4546-9fcd-06afafc280da">Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027</a></td>
+<td>Boston, MA<br/>Sunnyvale, CA<br/>New York, NY</td>
+<td align="center"><a href="https://www.amazon.jobs/jobs/10593521/software-development-engineer-intern-machine-learningautomated-reasoning-summer-?cmpid=DA_INAD200785B">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Wing</strong></td>
 <td><a href="https://trueinterview.io/jobs/39546a61-97c7-40ed-92bd-6b49f6b311be">Machine Learning Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
@@ -765,6 +779,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA<br/>New York, NY<br/>New York, New York</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003">Apply</a></td>
 <td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Faire</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d4836a2-901b-4e67-a5a0-d8ae63dd374f">Applied AI/ML Scientist, Intern - Winter 2027</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Bobyard</strong></td>

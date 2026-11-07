@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**84 open roles.** 69 in the United States & Canada · 15 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**86 open roles.** 69 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -570,6 +570,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
+<td>Timisoara Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544252/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d5bc47f0-60b3-42f2-97b1-56174ef5e447">Internship – Full-Stack Developer for SAP Build Process Automation F/M</a></td>
+<td>Levallois-Perret, Île-de-France, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474445858/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/497015ba-bd55-4704-b9f3-ac49c7b61189">SAP iXP Intern - Cloud DevOps &amp; Automation Engineering</a></td>
 <td>Sofia, Sofia City, Bulgaria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4475147793/">Apply</a></td>

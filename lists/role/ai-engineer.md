@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**159 open roles.** 112 in the United States & Canada · 47 elsewhere in the world.
+**162 open roles.** 113 in the United States & Canada · 49 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -627,6 +627,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/8b5606da-5f02-437b-b4e2-b9e024c4678e">Software Engineer Intern - AI</a></td>
 <td>Ann Arbor, MI, United States of America</td>
@@ -1046,6 +1053,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/676a0e94-9118-452f-bc9b-5be5a156212b">Intern - AI/UI Developer Associate (Timișoara)</a></td>
+<td>Timisoara Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544252/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/afb2e9d7-dfa9-4e35-a0bd-0531b1cfd657">SAP iXp Intern - CPIT CFA AI Engineer</a></td>
 <td>Budapest, Budapest, Hungary</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474466004/">Apply</a></td>
@@ -1140,6 +1154,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83">2027 BT RISE Internship - Information Technology AI Intern</a></td>
 <td>Indianapolis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application">Apply</a></td>
+<td align="center">9 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Institute Of Foundation Models</strong></td>
+<td><a href="https://trueinterview.io/jobs/babfb77d-b1ae-476a-80ec-1f69ccc35232">AI Engineer Internship – LLM Data</a></td>
+<td>Abu Dhabi</td>
+<td align="center"><a href="https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

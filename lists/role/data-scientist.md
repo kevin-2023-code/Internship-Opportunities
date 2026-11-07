@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**109 open roles.** 89 in the United States & Canada · 20 elsewhere in the world.
+**111 open roles.** 90 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -550,6 +550,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">25 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbbd96ab-6482-48a8-86b8-a51f78be083b">2027 Summer Internship - MS/PhD Data Scientist, Proprietary Research</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885299002?gh_jid=8885299002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Wing</strong></td>
 <td><a href="https://trueinterview.io/jobs/12eac050-b861-486c-a112-91644190167d">Data Scientist Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
@@ -756,6 +763,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shenzhen, Guangdong, China</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200689651">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/782e88f6-3982-4dfa-a440-6ae1fbdf026d">Data Science Intern (Analytics), 6-month internship</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461104774/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>

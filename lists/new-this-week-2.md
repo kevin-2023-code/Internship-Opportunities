@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**990 open roles.** 812 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
+**999 open roles.** 817 in the United States & Canada · 182 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>General Matter</strong></td>
+<td><a href="https://trueinterview.io/jobs/64bb4193-bb19-4dd4-98ea-e11489fbef6f">Summer 2027 Internship - Embedded Software Engineering</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487226360/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a8e1b585-caa4-498d-81ce-896492f935fb">Summer 2027 Internship - Software Engineering</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487220481/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Charter Manufacturing</strong></td>
+<td><a href="https://trueinterview.io/jobs/ad2e24c5-1d4c-462c-b2d1-47bc16faa56b">Automation and Controls Engineer Intern - Year Round</a></td>
+<td>Saukville, WI</td>
+<td align="center"><a href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Automation-and-Controls-Engineer-Intern---Year-Round_R08074">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GEI Consultants</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2944604-9cc0-4103-a7b8-713248cdf457">Web Developer Intern</a></td>
+<td>Rancho Cordova, CA</td>
+<td align="center"><a href="https://jointeamgei.geiconsultants.com/jobs/17706557-web-developer-intern?tm_job=856288&amp;tm_event=view&amp;tm_company=90289">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/12fa83ee-66ed-48a8-8be6-de384db26caa">SW Engineering Intern (Port Orchard)</a></td>
+<td>Port Orchard, WA</td>
+<td align="center"><a href="https://careers-gdms.icims.com/jobs/78349/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Global Relay</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
+<td>Vancouver, BC<br/>Halifax, Nova Scotia, Canada<br/>Vancouver, British Columbia, Canada<br/>+1 more</td>
+<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise | HPE</strong></td>
 <td><a href="https://trueinterview.io/jobs/35dd5def-20a7-4292-881b-f967032f814e">Systems/Software Testing Engineer Cloud &amp; On-Premise Intern</a></td>
@@ -419,6 +461,13 @@
 <td><a href="https://trueinterview.io/jobs/425bc583-055d-4288-99c7-a121ebb7c783">Software Engineer Co-op</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487016722/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kabam</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a2cc207-7c2e-49e4-9890-b2a1f53d6712">Operations Product Manager Co-Op</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -853,13 +902,6 @@
 <td><a href="https://trueinterview.io/jobs/62c1b31d-fac4-435e-a594-3742c51e7c90">Student Business Analytics Developer (Co-op)</a></td>
 <td>Halifax, Canada</td>
 <td align="center"><a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25749&amp;siteid=5764&amp;PageType=JobDetails&amp;jobid=772259">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Kabam</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a2cc207-7c2e-49e4-9890-b2a1f53d6712">Operations Product Manager Co-Op</a></td>
-<td>Vancouver, BC<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://jobs.lever.co/kabam/3c37f284-4ba4-4f74-93f7-d224b910e5c9">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1559,7 +1601,7 @@
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774">Summer 2027 Software Engineering Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450737699/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -1923,7 +1965,7 @@
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/53d39f9e-d531-4ef5-8077-cd3f20c79c89">Spring 2027 AI/ML Engineering Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450748417/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
@@ -2771,48 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/b572b229-80ec-4964-b230-923e42037261">Software Engineer Co-op</a></td>
 <td>New Providence, New Jersey, United States<br/>New Providence, NJ</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41339">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brain Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8ace4be-f9ec-4d10-bc42-54898435558d">AI Security Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Divergent</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7f9ac92-08be-4f4b-9160-7d1a66628ed5">Summer 2027 Business Intelligence Intern</a></td>
-<td>Torrance, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/divergent/jobs/5393519008">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/f06778ce-796c-4a6f-86d3-790f4fd3c260">Intern - Electrical/Electromechanical Engineer - Spring 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485600471/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Boston Scientific</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec340065-983f-4e7c-ba13-5c048491115b">Software Test Engineer Intern</a></td>
-<td>Waltham, Massachusetts, United States</td>
-<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813568250-software-test-engineer-intern-waltham-us-ma-usa">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/98f7208f-2ca4-48ab-a8ec-694a1d5f4406">Intern - Mechanical and Magnet Engineer - Spring or Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

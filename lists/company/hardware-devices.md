@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**205 open roles.** 166 in the United States & Canada · 39 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**208 open roles.** 169 in the United States & Canada · 39 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -341,10 +341,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/2204f862-b2cd-467d-aa4d-86b8db2e9a25">Spring 2027: Noise &amp; Vibrations Engineering Co-op (January to June)</a></td>
+<td>Needham, MA, United States, MA - Needham</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9b1350c3-cbb5-48b7-914b-f5a2d9cc6b71">Spring 2027: Product Design Engineering Co-op, Ninja (January to June)</a></td>
+<td>Needham, MA, United States, MA - Needham</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0e2bc8ca-ee6f-4721-9c5b-7ecd8dd4a885">Spring 2027: Product Design Engineering Co-op, Shark (January to June)</a></td>
 <td>Needham, MA, United States, MA - Needham</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9db72285-bb0a-4eab-b6c9-fb58b82e3197">Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)</a></td>
+<td>Needham, MA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
@@ -587,8 +608,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/18149b8e-5d8e-4b18-95c6-cb49ca846639">Global Operations Supplier Process Engineer Co-Op</a></td>
-<td>TX, United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/298595">Apply</a></td>
+<td>TX, United States<br/>Franklin, MA, United States</td>
+<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298595">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

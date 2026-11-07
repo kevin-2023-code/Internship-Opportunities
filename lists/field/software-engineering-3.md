@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,480 open roles.** 1,218 in the United States & Canada · 262 elsewhere in the world.
+**1,512 open roles.** 1,236 in the United States & Canada · 276 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,83 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f">Backend Software Engineering Intern 2027</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210813007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ingalls Shipbuilding, a Division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fa1c368-c7a2-40c2-a960-9e53b3239d8d">2027 COLLEGE SUMMER INTERN-COMPUTER ENGINEERING</a></td>
+<td>Pascagoula, MS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466562914/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41">Robotics Software Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354109/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Verkada</strong></td>
+<td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
+<td>San Mateo, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PACK Power, LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/d02a78a1-632b-476f-b099-af690135e4e2">Field Engineer Intern (Summer 2027 Internship)</a></td>
+<td>West Fargo, ND</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483570560/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Old Mission</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1fd3975-2a33-45d9-8438-c35e5e75972d">Software Engineer – 2027 Internship Program (June Start)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869900/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Relativity Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476335675/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Campbell's Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cc77f98-06ff-45dc-92ac-b620003f8012">Packaging Engineer Co-Op</a></td>
+<td>Camden, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466564453/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Whitman, Requardt and Associates, LLP</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9bd87ad-8170-4403-a5c5-0c74eba12b02">Protective Design Engineer - Intern</a></td>
+<td>Baltimore, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879559/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Relativity Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/680a185c-3a0e-452d-a1ae-14c17bd510de">Integrated Performance Engineer Intern</a></td>
@@ -475,6 +552,13 @@
 <td><a href="https://trueinterview.io/jobs/ef5d6d6e-e5cb-4375-9605-866bd04d8a69">Intern - Systems Engineer - Summer 2027</a></td>
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/32e62a79-eff5-4a58-83fd-51a60eb57707">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/547fb29b-5241-4bae-b4cb-90b02eee4254">2027 Global Facilities Engineering Intern (Undergraduate)</a></td>
+<td>North Chicago, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016432558-2027-global-facilities-engineering-intern-undergraduate-">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
@@ -1045,6 +1129,13 @@
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ad6fd4b-bd6a-440b-ba11-acb2c92d1d6e">2027 Validation Engineer Co-Op (July - Dec) (Undergraduate)</a></td>
+<td>Worcester, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016346156-2027-validation-engineer-co-op-july-dec-undergraduate-">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac6868bc-eed8-405b-bb1d-2ec9f9c4f063">2027 Business Operations Engineer Intern</a></td>
 <td>Ashville, Ohio, United States<br/>Costa Mesa, California, United States, Ashville, OH (Arsenal 1), Costa Mesa, CA</td>
@@ -1325,6 +1416,13 @@
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/a05c801d-0a91-4715-8fe4-9ffdca68afa5">Winter 2027 Research Engineer Co-op</a></td>
+<td>Santa Ana, California, United States, Santa Ana, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Figure</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7230a8f-0481-4cc8-8aa2-d70a7b0979d1">Embedded Software Engineering Intern, Platform</a></td>
 <td>San Jose, CA, HQ</td>
@@ -1344,6 +1442,34 @@
 <td>Ottawa Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/9db72285-bb0a-4eab-b6c9-fb58b82e3197">Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)</a></td>
+<td>Needham, MA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Eqt Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/67ea51fe-8696-4d2a-919a-7172bc9e0454">Compression Engineer Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5451105008">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d1b179-18ef-44dc-a70e-7c0d65804893">2027 Summer Internship – Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SK hynix memory solutions America Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/5716dad2-e081-485c-986d-0b35779b359a">Quality Assurance Test Engineer Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Pebl</strong></td>
@@ -1519,13 +1645,6 @@
 <td>Champaign, Illinois</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/526c87f2-fba4-4744-8b87-1cb949b5cdfc">Apply</a></td>
 <td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pinterest</strong></td>
-<td><a href="https://trueinterview.io/jobs/f490cc2f-5b58-448a-95d5-fd09b09ecb47">Solutions Engineer Intern 2027 (USA)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788">Apply</a></td>
-<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Eq Bank</strong></td>
@@ -2695,125 +2814,6 @@
 <td>Mexico City, Mexico<br/>San Francisco, CA<br/>Montreal, QC<br/>+4 more</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c4a9d2e9-c246-493f-9de3-d264e85553e4">Software Engineer Intern, Test Automation (Summer 2027)</a></td>
-<td>Montreal, QC<br/>Montreal, Canada</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dd5a923f-41ce-4b2c-9eff-110eeb13bf9f">Software Engineer Intern, Fullstack (Summer 2027 - Toronto)</a></td>
-<td>Toronto, ON<br/>Toronto, Canada</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Xcimer Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/c16dad95-bbb0-43ae-8e37-1f96eaa9040f">Summer 2027 Internship - Pulsed Power Engineering</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://jobs.lever.co/xcimer/39fd5473-58a8-446c-86fb-258c1dd0f67d">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Missions System International</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c51991b-367a-4e85-8365-44babaa0221f">Co-op Winter 2027 – Systems Engineering – 4-8-Months</a></td>
-<td>Ottawa, Ontario, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000149046839-co-op-winter-2027-systems-engineering-4-8-months">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Xcimer Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/adf4bdca-b579-4c07-8d1a-f5c0434d8c5b">Summer 2027 Internship - Computational and Software Engineering</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce8b8ae1-8f59-4291-ac76-a775700a5f90">Software Engineer Internship – User Experience Team</a></td>
-<td>Des Moines, Iowa, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000148915793-software-engineer-internship-user-experience-team-">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/649aec5a-0b47-4d3f-a812-1342c048a739">Security Assurance Intern - CTJ - TS</a></td>
-<td>Redmond, WA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556988203">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/380ccfa4-5e4b-4030-9c74-36db80a30d44">Stagiaire en développement logiciel / Software Developer Intern</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bba87d2-2fba-4c86-af7d-9d81db4cbbe5">Test Engineering Intern - Avionics Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tanium</strong></td>
-<td><a href="https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243">Software Engineering Intern – Summer 2027</a></td>
-<td>Durham, NC (Hybrid)<br/>Emeryville, CA (Hybrid)</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8181017">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schonfeld Strategic Advisors</strong></td>
-<td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudl</strong></td>
-<td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>
-<td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Epic Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/44a663b6-d806-4b52-81d7-11a986bd6616">UI Programmer Intern</a></td>
-<td>Cary, North Carolina, United States</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Hearst Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/21c43e2f-aa3e-40b7-966c-1373ba0938f9">Software Engineering Intern</a></td>
-<td>Indianapolis, IN, United States</td>
-<td align="center"><a href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Apex</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5d6e0e3-b4ac-46ff-87ea-70b668e15567">Avionics Test Engineering Internship (Spring 2027)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/apex-technology-inc/aea24b77-7673-4478-83af-4f16f5337673">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/307dd7dd-f774-403a-86c1-ed19152042ad">Flight Software Intern Summer 2027</a></td>
-<td>Littleton, CO<br/>ASI Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989722003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/18d85f3b-0788-4947-bbb8-8307a8beb15d">Summer 2027 Internship- Software Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

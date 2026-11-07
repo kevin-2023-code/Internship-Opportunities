@@ -82,6 +82,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a22d3fc-4f52-4f9c-9b26-d0ae92125d56">Technical Writer Intern (Summer 2027)</a></td>
+<td>San Francisco, CA, NYC, San Francisco<br/>New York, NY, NYC, San Francisco</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e7872cbc-53bb-45c9-8bca-67f5b2785da8">AI/ML PhD Intern (Summer 2027)</a></td>
 <td>San Francisco, CA<br/>New York, NY<br/>New York, New York</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/7861424003">Apply</a></td>
@@ -239,13 +246,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9f727db0-ad24-44e2-abcd-06d36a60021b">Cloud Tech Support Engineer - Co-op</a></td>
 <td>United States of America</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/wasabi/jobs/5418393008">Apply</a></td>
-<td align="center">8 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Vercel</strong></td>
-<td><a href="https://trueinterview.io/jobs/e95b574b-cc8b-4891-8b1e-11cd1770443d">Software Engineering Intern - Summer '27</a></td>
-<td>Hybrid - San Francisco</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vercel/jobs/6181759004">Apply</a></td>
 <td align="center">8 Sep 2026</td>
 </tr>
 </tbody>

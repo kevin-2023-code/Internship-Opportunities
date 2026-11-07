@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**49 open roles.** 42 in the United States & Canada · 7 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**50 open roles.** 43 in the United States & Canada · 7 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -149,6 +149,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Bellevue, Washington, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Faire</strong></td>
+<td><a href="https://trueinterview.io/jobs/4d4836a2-901b-4e67-a5a0-d8ae63dd374f">Applied AI/ML Scientist, Intern - Winter 2027</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002">Apply</a></td>
+<td align="center">6 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Lyft</strong></td>

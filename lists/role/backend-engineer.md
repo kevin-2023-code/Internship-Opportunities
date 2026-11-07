@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**12 open roles.**
+**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,6 +100,25 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+</tbody>
+</table>
+
+## Elsewhere in the world
+
+_Roles outside the United States & Canada, and roles whose country the catalog could not read._
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Equativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bec8a15-bb11-4fde-9b1b-cb54c3442247">Backend Engineer Intern (6 months starting February 2027)</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/bc00695c-eb9a-4f50-bb4d-f186892fbb3d">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>

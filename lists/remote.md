@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**48 open roles.** 36 in the United States & Canada · 12 elsewhere in the world. Postings the pipeline classified as remote.
+**48 open roles.** 35 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -165,13 +165,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Pinterest</strong></td>
-<td><a href="https://trueinterview.io/jobs/f490cc2f-5b58-448a-95d5-fd09b09ecb47">Solutions Engineer Intern 2027 (USA)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c0ade7e-ea91-417d-a927-1346dfd4c4c9">Data Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
@@ -332,6 +325,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Guidepoint Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098">Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d2faedc0-48cc-42cb-972f-3ecdab5a63b9">GPSU Cybersecurity Intern - Application Security</a> 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**21 open roles.** 11 in the United States & Canada · 10 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**23 open roles.** 13 in the United States & Canada · 10 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -54,17 +54,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>
+<td><a href="https://trueinterview.io/jobs/547fb29b-5241-4bae-b4cb-90b02eee4254">2027 Global Facilities Engineering Intern (Undergraduate)</a></td>
+<td>North Chicago, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016432558-2027-global-facilities-engineering-intern-undergraduate-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1e58caea-c43d-41f7-9d6a-4163ca2c7305">2027 Project Engineering Co-op (Jan - July) (Undergraduate)</a></td>
-<td>Worcester, MA, United States</td>
+<td>Worcester, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016344757-2027-project-engineering-co-op-jan-july-undergraduate-?oga=true">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637">2027 Validation Engineering Co-Op (Jan-July) (Undergraduate)</a></td>
-<td>Worcester, MA, United States</td>
+<td>Worcester, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016344666-2027-validation-engineering-co-op-jan-july-undergraduate-?oga=true">Apply</a></td>
 <td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8ad6fd4b-bd6a-440b-ba11-acb2c92d1d6e">2027 Validation Engineer Co-Op (July - Dec) (Undergraduate)</a></td>
+<td>Worcester, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016346156-2027-validation-engineer-co-op-july-dec-undergraduate-">Apply</a></td>
+<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Natera</strong></td>

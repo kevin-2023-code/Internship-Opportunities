@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**85 open roles.** 61 in the United States & Canada · 24 elsewhere in the world.
+**86 open roles.** 61 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -377,7 +377,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d352330-1ba8-4e86-87b5-4f95e07bc637">2027 Validation Engineering Co-Op (Jan-July) (Undergraduate)</a></td>
-<td>Worcester, MA, United States</td>
+<td>Worcester, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016344666-2027-validation-engineering-co-op-jan-july-undergraduate-?oga=true">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
@@ -468,6 +468,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17">2027 Trader Summer Intern (12-week program)</a></td>
 <td>Tokyo, Tokyo, Japan<br/>Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488199206/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
+<td>Hong Kong Japan</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

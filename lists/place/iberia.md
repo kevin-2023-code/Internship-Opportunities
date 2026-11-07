@@ -2,7 +2,7 @@
 
 # 🇪🇸 Madrid, Barcelona & Iberia
 
-**18 open roles.**
+**19 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -126,6 +126,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Zynga</strong></td>
+<td><a href="https://trueinterview.io/jobs/c05259f8-7b49-4c6d-839b-09f0d0f867fc">Software Engineer Intern - Two Dots</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b56c4037-ae47-4be1-aab3-380ec343ff3c">Product Manager Intern</a></td>
 <td>Barcelona, Spain</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6221172004">Apply</a></td>

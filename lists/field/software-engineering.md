@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,480 open roles.** 1,218 in the United States & Canada · 262 elsewhere in the world.
+**1,512 open roles.** 1,236 in the United States & Canada · 276 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -202,6 +202,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc008e54-1a64-4bc4-8188-7a3f62de4dbc">Backend Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Avicena Tech</strong></td>
 <td><a href="https://trueinterview.io/jobs/77a18733-7599-43e9-b28c-b2676eab14a1">Hardware Automation Software Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
@@ -244,7 +251,35 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a">Android Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8815e542-1f9a-4c37-a6f1-13b69b99d1ba">Full-Stack Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb22a16b-d76d-47bf-b299-b431120d1761">Frontend Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6f36b88f-3c6a-4c63-86b9-2f3be3010a04">iOS Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Career Launch Tech Initiative</strong></td>
 <td><a href="https://trueinterview.io/jobs/d7c2a55e-67ea-413b-87c4-fb7e9c4debe4">Software Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485125167/">Apply</a></td>
@@ -430,6 +465,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d46e6e63-4897-4f03-b29f-7752735a175a">Web Developer Intern</a></td>
 <td>Birmingham, AL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462426948/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/30fec2ab-c7c3-4f9a-9f19-929145758842">Interactive News Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2298,7 +2340,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774">Summer 2027 Software Engineering Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450737699/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
@@ -2775,48 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad">University, 2027 Summer Games Software Developer Intern - McLean, VA</a></td>
 <td>McLean, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459884945/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parsons Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
-<td>Centreville, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BioSpace</strong></td>
-<td><a href="https://trueinterview.io/jobs/1da23fdf-3afb-40f3-92c5-6ace38c2826d">2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</a></td>
-<td>North Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485686040/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ee5c4544-3d7e-4779-bbc1-6d3be3aee54b">2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</a></td>
-<td>North Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485671784/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WEX</strong></td>
-<td><a href="https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479">Software Engineer Intern</a></td>
-<td>Maine, United States<br/>Remote</td>
-<td align="center"><a href="https://careers.wexinc.com/us/en/job/R22585/Software-Engineer-Intern">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GlobalFoundries</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1e073fe-c212-4772-ba1b-6e683bb6fc6d">Software Engineering Intern, Cloud Platform (Summer 2027)</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481185474/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teck Resources Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f46ea66-93f1-4b05-9276-1e3098014406">Cloud Platform Developer Co-op</a></td>
-<td>Vancouver, BC<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://jobs.teck.com/job/Vancouver-Cloud-Platform-Developer-Co-op-Brit/1446600200/?feedId=223000">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

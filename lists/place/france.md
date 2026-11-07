@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**31 open roles.** 1 in the United States & Canada · 30 elsewhere in the world.
+**32 open roles.** 1 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -170,17 +170,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Equativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>AXA / France</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4fda21e-f050-4ab1-a206-6be540592600">Stage - M365 Power Platform, Data and AI intern</a></td>
 <td>Paris, France</td>
 <td align="center"><a href="https://recrutement.axa.fr/emploi/paris/stage-m365-power-platform-data-and-ai-intern/3441/46243786624">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>EQUATIV</strong></td>
-<td><a href="https://trueinterview.io/jobs/2ea6569e-1264-4646-a60d-338c540c21bf">Product Marketing Manager - Internship / apprenticeship starting 2027</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/equativ/436863f0-68d5-41a3-b068-b86edede9be7">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -217,6 +217,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/maki/e3c8118d-d812-4815-a762-2556ca4c9a77">Apply</a></td>
 <td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Equativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bec8a15-bb11-4fde-9b1b-cb54c3442247">Backend Engineer Intern (6 months starting February 2027)</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/bc00695c-eb9a-4f50-bb4d-f186892fbb3d">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Nabla</strong></td>

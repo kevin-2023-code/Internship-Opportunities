@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**990 open roles.** 812 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
+**999 open roles.** 817 in the United States & Canada · 182 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -169,8 +169,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Pinterest</strong></td>
 <td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140217">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -391,6 +391,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc008e54-1a64-4bc4-8188-7a3f62de4dbc">Backend Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Avicena Tech</strong></td>
 <td><a href="https://trueinterview.io/jobs/77a18733-7599-43e9-b28c-b2676eab14a1">Hardware Automation Software Engineering Intern</a></td>
 <td>Sunnyvale, CA</td>
@@ -458,6 +465,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f7f6206b-292c-4eef-843b-e11e3a19738f">Machine Learning Engineer Intern</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486978923/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a">Android Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8815e542-1f9a-4c37-a6f1-13b69b99d1ba">Full-Stack Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb22a16b-d76d-47bf-b299-b431120d1761">Frontend Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6f36b88f-3c6a-4c63-86b9-2f3be3010a04">iOS Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -759,6 +794,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a5d8b989-2e22-4d28-9939-dcc1f359a928">AI &amp; Systems Intern</a></td>
 <td>Tampa, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469615248/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/30fec2ab-c7c3-4f9a-9f19-929145758842">Interactive News Engineering Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2775,48 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bba776fc-a672-48fc-a864-f56c362d3e28">Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486349386/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Matter</strong></td>
-<td><a href="https://trueinterview.io/jobs/64bb4193-bb19-4dd4-98ea-e11489fbef6f">Summer 2027 Internship - Embedded Software Engineering</a></td>
-<td>Los Angeles Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487226360/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a8e1b585-caa4-498d-81ce-896492f935fb">Summer 2027 Internship - Software Engineering</a></td>
-<td>Los Angeles Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487220481/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Charter Manufacturing</strong></td>
-<td><a href="https://trueinterview.io/jobs/ad2e24c5-1d4c-462c-b2d1-47bc16faa56b">Automation and Controls Engineer Intern - Year Round</a></td>
-<td>Saukville, WI</td>
-<td align="center"><a href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Automation-and-Controls-Engineer-Intern---Year-Round_R08074">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GEI Consultants</strong></td>
-<td><a href="https://trueinterview.io/jobs/a2944604-9cc0-4103-a7b8-713248cdf457">Web Developer Intern</a></td>
-<td>Rancho Cordova, CA</td>
-<td align="center"><a href="https://jointeamgei.geiconsultants.com/jobs/17706557-web-developer-intern?tm_job=856288&amp;tm_event=view&amp;tm_company=90289">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Mission Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/12fa83ee-66ed-48a8-8be6-de384db26caa">SW Engineering Intern (Port Orchard)</a></td>
-<td>Port Orchard, WA</td>
-<td align="center"><a href="https://careers-gdms.icims.com/jobs/78349/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Global Relay</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d3fcce2-6f48-48c0-b3e9-42790148ace3">Co-op Java Developer - Winter 2027</a></td>
-<td>Vancouver, BC<br/>Halifax, Nova Scotia, Canada<br/>Vancouver, British Columbia, Canada<br/>+1 more</td>
-<td align="center"><a href="https://www.globalrelay.com/careers/jobs?gh_jid=6241594004">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

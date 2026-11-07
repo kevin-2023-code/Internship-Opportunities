@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**149 open roles.** 129 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**151 open roles.** 131 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,8 +20,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Pinterest</strong></td>
 <td><a href="https://trueinterview.io/jobs/123cf0e9-4f86-412b-961e-087e61aec403">UX Quantitative Research Intern (USA)</a></td>
-<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488451992/">Apply</a></td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA<br/>+1 more</td>
+<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140217">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -432,10 +432,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/2204f862-b2cd-467d-aa4d-86b8db2e9a25">Spring 2027: Noise &amp; Vibrations Engineering Co-op (January to June)</a></td>
+<td>Needham, MA, United States, MA - Needham</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720163006">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9b1350c3-cbb5-48b7-914b-f5a2d9cc6b71">Spring 2027: Product Design Engineering Co-op, Ninja (January to June)</a></td>
+<td>Needham, MA, United States, MA - Needham</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4719432006">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0e2bc8ca-ee6f-4721-9c5b-7ecd8dd4a885">Spring 2027: Product Design Engineering Co-op, Shark (January to June)</a></td>
 <td>Needham, MA, United States, MA - Needham</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720273006">Apply</a></td>
 <td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9db72285-bb0a-4eab-b6c9-fb58b82e3197">Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)</a></td>
+<td>Needham, MA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720169006">Apply</a></td>
+<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>1password</strong></td>
@@ -477,13 +498,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/96179d9c-63d5-4b9a-a3bb-37cd1969f8e5">Spring 2027:  Electrical Engineering Co-op, Shark (January to June)</a></td>
 <td>Needham, MA, United States<br/>MA - Needham</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718702006">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pinterest</strong></td>
-<td><a href="https://trueinterview.io/jobs/f490cc2f-5b58-448a-95d5-fd09b09ecb47">Solutions Engineer Intern 2027 (USA)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214788">Apply</a></td>
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,480 open roles.** 1,218 in the United States & Canada · 262 elsewhere in the world.
+**1,512 open roles.** 1,236 in the United States & Canada · 276 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Parsons Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
+<td>Centreville, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BioSpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/1da23fdf-3afb-40f3-92c5-6ace38c2826d">2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</a></td>
+<td>North Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485686040/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ee5c4544-3d7e-4779-bbc1-6d3be3aee54b">2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</a></td>
+<td>North Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485671784/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WEX</strong></td>
+<td><a href="https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479">Software Engineer Intern</a></td>
+<td>Maine, United States<br/>Remote</td>
+<td align="center"><a href="https://careers.wexinc.com/us/en/job/R22585/Software-Engineer-Intern">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GlobalFoundries</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1e073fe-c212-4772-ba1b-6e683bb6fc6d">Software Engineering Intern, Cloud Platform (Summer 2027)</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481185474/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teck Resources Limited</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f46ea66-93f1-4b05-9276-1e3098014406">Cloud Platform Developer Co-op</a></td>
+<td>Vancouver, BC<br/>Vancouver, Canada</td>
+<td align="center"><a href="https://jobs.teck.com/job/Vancouver-Cloud-Platform-Developer-Co-op-Brit/1446600200/?feedId=223000">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>GenPark</strong></td>
 <td><a href="https://trueinterview.io/jobs/1d748393-8f68-4eb1-b932-9346b7ca12e9">Frontend Developer Intern</a></td>
@@ -146,6 +188,13 @@
 <td><a href="https://trueinterview.io/jobs/98f7208f-2ca4-48ab-a8ec-694a1d5f4406">Intern - Mechanical and Magnet Engineer - Spring or Summer 2027</a></td>
 <td>Devens, MA</td>
 <td align="center"><a href="https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The New York Times</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcaad2a0-86aa-4ded-8401-85eb5028bc99">Backend Engineering Intern, Wirecutter</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -1524,7 +1573,7 @@
 <td><strong>Decagon</strong></td>
 <td><a href="https://trueinterview.io/jobs/cbd519d4-c0ec-4b9d-a9b9-f80baeca2d2f">Engineering Intern (Summer 2027)</a></td>
 <td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468282532/">Apply</a></td>
+<td align="center"><a href="https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2151,7 +2200,35 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Intuitive</strong></td>
+<td><a href="https://trueinterview.io/jobs/03ec621c-404f-465a-954a-5879202bf411">System Engineer Intern</a></td>
+<td>Blacksburg, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723462/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ascendria Consulting</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed441183-7f1f-4a38-a760-b104c24ad0e7">Launch Fluids and Operations Engineer Intern</a></td>
+<td>Florida, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482544769/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/102eb930-7936-4ddf-a20e-10897a5e85b1">Cyber Security Engineer Intern</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467288333/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/45063ba1-f9e7-44f5-aba1-043a76d70243">IT Quality Assurance Intern - Spring 2027</a></td>
+<td>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458520964/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e8c3d0d9-62a8-4a5c-827e-4326866bdc80">Cybersecurity Intern - Summer 2027</a></td>
 <td>Fort Wayne, IN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476509041/">Apply</a></td>
@@ -2287,7 +2364,7 @@
 <td><strong>The Nuclear Company</strong></td>
 <td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
 <td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484718247/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2736,83 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/fa294072-6e23-4848-ba45-88ed23fe6494">Security Software Engineering Intern 2027</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5213881007">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/896a9d4d-3209-47a7-92f9-07204614609f">Backend Software Engineering Intern 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210813007">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ingalls Shipbuilding, a Division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/6fa1c368-c7a2-40c2-a960-9e53b3239d8d">2027 COLLEGE SUMMER INTERN-COMPUTER ENGINEERING</a></td>
-<td>Pascagoula, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466562914/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figma</strong></td>
-<td><a href="https://trueinterview.io/jobs/446e7209-cd3c-414e-84dd-ce599c1fb5c1">Software Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466134044/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41">Robotics Software Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354109/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Verkada</strong></td>
-<td><a href="https://trueinterview.io/jobs/36254e34-ea51-43ea-a46f-72cedca52065">Frontend Software Engineering Intern 2027</a></td>
-<td>San Mateo, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/verkada/jobs/5210942007">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PACK Power, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/d02a78a1-632b-476f-b099-af690135e4e2">Field Engineer Intern (Summer 2027 Internship)</a></td>
-<td>West Fargo, ND</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483570560/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Old Mission</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1fd3975-2a33-45d9-8438-c35e5e75972d">Software Engineer – 2027 Internship Program (June Start)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483869900/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/c869a769-a694-4fb5-a0dd-fef8d4409249">Avionics Manufacturing and Test Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476335675/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/575b16bb-e000-4b91-ac7c-d03a55aa7848">Vehicle Fluids Engineer Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476346257/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Campbell's Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cc77f98-06ff-45dc-92ac-b620003f8012">Packaging Engineer Co-Op</a></td>
-<td>Camden, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466564453/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Whitman, Requardt and Associates, LLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9bd87ad-8170-4403-a5c5-0c74eba12b02">Protective Design Engineer - Intern</a></td>
-<td>Baltimore, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483879559/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
