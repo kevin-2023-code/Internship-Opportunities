@@ -2,7 +2,7 @@
 
 # 🇫🇷 Paris & France
 
-**26 open roles.** 1 in the United States & Canada · 25 elsewhere in the world.
+**28 open roles.** 1 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -170,6 +170,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Shift Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/28861df4-794f-4d2a-99fb-6f116bbf24a2">Data scientist Internship (6 months)</a></td>
+<td>France - Paris</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Makipeople</strong></td>
 <td><a href="https://trueinterview.io/jobs/acc56fdc-f9ec-458f-be48-e6dd5e96b23d">Workplace &amp; Security Engineer - Final Year Intern</a></td>
 <td>Paris</td>
@@ -182,6 +189,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf/application">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shift Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/668911f9-99cb-4a3f-b5ed-9535d722b137">QA Engineer Intern (6 months)</a></td>
+<td>France - Paris</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Ubisoft</strong></td>

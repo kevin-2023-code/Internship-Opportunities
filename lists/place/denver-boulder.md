@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**61 open roles.**
+**63 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -140,14 +140,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Loft Orbital</strong></td>
 <td><a href="https://trueinterview.io/jobs/97cc1a42-3ac8-4538-823f-97a0be6f3138">Summer 2027 Internship – Mechanical Engineering</a></td>
 <td>Golden, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483400510/">Apply</a></td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/34edd0b7-2a5b-4efa-a379-860097784534">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/96f05c60-c052-4ea1-a6d7-bc8bd8f3748c">Summer 2027 Internship – Test Engineering</a></td>
 <td>Golden, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483097563/">Apply</a></td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/be396d08-738d-4f3d-bea4-cbbdc88c3db9">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loft Orbital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6c95ae3-cd57-4309-b2d2-0a0641c6c508">Summer 2027 Internship – Thermal &amp; Manufacturing Engineering</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/03f948ff-0767-4bb0-a13b-345321d63d71">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -324,6 +331,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Longmont, CO, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44920709">Apply</a></td>
 <td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loenbro</strong></td>
+<td><a href="https://trueinterview.io/jobs/643505b9-152d-447c-bd9f-23528b4fe9ef">Project Engineer Intern</a></td>
+<td>Fort Collins, CO<br/>Centennial, CO</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4433425009">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>

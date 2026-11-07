@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**34 open roles.**
+**37 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -219,6 +219,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Atlanta, GA<br/>West Des Moines, IA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557043629">Apply</a></td>
 <td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mantis Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/137029e1-7012-488f-9e07-f94364fff786">Mechanical Engineer Intern / Co-Op for SUMMER 2027</a></td>
+<td>Atlanta, GA<br/>Alpharetta, GA</td>
+<td align="center"><a href="https://jobs.lever.co/mantisinnovation/27751362-d901-4fb7-aada-2fd2577443cb">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/051e98ac-8a27-4e2a-8c15-90b6b6a9d8d7">Mechanical Engineer Intern / Co-Op for SPRING 2027</a></td>
+<td>Atlanta, GA<br/>Alpharetta, GA</td>
+<td align="center"><a href="https://jobs.lever.co/mantisinnovation/6e728d77-5b2f-4f75-ba71-7c93dc410a1c">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Loenbro</strong></td>
+<td><a href="https://trueinterview.io/jobs/255d546c-bcbf-4d3a-b18e-ce56cc9c24f3">Project Engineer Intern - Travel</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4437021009">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Gas South</strong></td>

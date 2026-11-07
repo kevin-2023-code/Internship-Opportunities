@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**35 open roles.** 28 in the United States & Canada · 7 elsewhere in the world.
+**37 open roles.** 28 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -261,11 +261,25 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>PLAYTECH</strong></td>
+<td><a href="https://trueinterview.io/jobs/acc9913e-319b-48d6-98e5-e93492089329">QA Engineer (Intern)</a></td>
+<td>Kyiv, Ukraine</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Toshiba Global Commerce Solutions - External</strong></td>
 <td><a href="https://trueinterview.io/jobs/d200f49d-1b2b-4e70-bdda-2feea67b815c">QA Automation Intern</a></td>
 <td>Guadalajara Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5251239007">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shift Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/668911f9-99cb-4a3f-b5ed-9535d722b137">QA Engineer Intern (6 months)</a></td>
+<td>France - Paris</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>The Exploration Company</strong></td>
