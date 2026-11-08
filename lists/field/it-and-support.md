@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**72 open roles.** 57 in the United States & Canada · 15 elsewhere in the world.
+**73 open roles.** 57 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -511,6 +511,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Munich HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantumdiamonds/19e0203c-363c-49b9-8ca7-9fe7f8ce23a7">Apply</a></td>
 <td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e0cae81-bfe1-4d54-af4c-f25d90dc073f">Data Center Technician - 2027 Internship</a></td>
+<td>ES, Huesca<br/>ES, Zaragoza</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
+<td align="center">2 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Compeer Financial</strong></td>
