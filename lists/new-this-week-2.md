@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,030 open roles.** 832 in the United States & Canada · 198 elsewhere in the world. Everything the employers put up this week.
+**1,020 open roles.** 822 in the United States & Canada · 198 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>GE HealthCare</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6ff5444-8107-488c-92b6-07dbbf98f3fe">Edison Engineering Development Program Intern – Software</a></td>
-<td>Waukesha, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462026460/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Brunswick Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/27f3397d-0080-46ac-8c87-b21a96dd8606">Mercury Marine: Software Controls Engineering Intern</a></td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/87b58e35-d224-4bf0-930a-a3e84ff0eeda">University, 2027 Summer Games Data Scientist Intern - Rome, NY</a></td>
 <td>Rome, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460503549/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lennox</strong></td>
+<td><a href="https://trueinterview.io/jobs/e11c40a0-ebc7-40cd-bac1-12fb639de3c5">AI Engineering Intern Summer 2027</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468835425/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

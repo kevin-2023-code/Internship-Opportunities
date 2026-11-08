@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world.
+**38 open roles.** 29 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Invesco</strong></td>
-<td><a href="https://trueinterview.io/jobs/9bf38b00-29b7-47a6-ad48-6103b84db181">Quantitative Intern - Portfolio Engineering and Analytics</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480587020/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Voloridge Investment Management, LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/82c2d6d1-68c3-4099-ba02-6ae2657d0d6f">Quantitative Developer Intern 2027</a></td>

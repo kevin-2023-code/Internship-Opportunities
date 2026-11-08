@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T02:06:29.812Z",
-  "count": 3481,
+  "listingsChangedAt": "2026-11-08T03:06:07.506Z",
+  "count": 3480,
   "listings": [
     {
       "id": "9d45fff3-4af1-4eba-9103-6c982d95ae22",
@@ -287,33 +287,6 @@
       "updatedAt": "2026-11-07T19:41:00.000Z"
     },
     {
-      "id": "9bf38b00-29b7-47a6-ad48-6103b84db181",
-      "company": "Invesco",
-      "title": "Quantitative Intern - Portfolio Engineering and Analytics",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4480587020/",
-      "url": "https://trueinterview.io/jobs/9bf38b00-29b7-47a6-ad48-6103b84db181",
-      "postedAt": "2026-11-07T19:27:00.000Z",
-      "updatedAt": "2026-11-07T19:27:00.000Z"
-    },
-    {
       "id": "89ad8f1d-4c20-42ea-bdb9-386bd0f05779",
       "company": "Together AI",
       "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
@@ -328,7 +301,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Research Scientist",
       "seniority": "intern",
       "level": "newgrad",

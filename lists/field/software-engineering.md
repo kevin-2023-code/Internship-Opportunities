@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,624 open roles.** 1,293 in the United States & Canada · 331 elsewhere in the world.
+**1,625 open roles.** 1,294 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f4eb989a-f787-47f3-ae90-1945d9b26185">Website Developer Intern</a></td>
 <td>Greenville-Spartanburg-Anderson, South Carolina Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488743324/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Together AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/89ad8f1d-4c20-42ea-bdb9-386bd0f05779">Systems Research Engineer Intern - GPU Programming (Winter 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488731617/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/377d2bad-ecdc-413f-946b-6e06df0a85b4">2027 Software Engineering Summer Intern</a></td>
 <td>Chicago, Illinois, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Radiance Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a37c7ca3-2d00-4778-ba2d-af13edbe66f4">Software Engineer Intern Spring/Summer 2027 with Security Clearance</a></td>
-<td>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157500/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
