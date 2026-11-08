@@ -5,9 +5,62 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T08:05:54.853Z",
+  "listingsChangedAt": "2026-11-08T09:05:02.781Z",
   "count": 3480,
   "listings": [
+    {
+      "id": "45ef8a5d-1500-4595-9a96-d879e717d18c",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Muse Post-Training & Flywheel (PhD)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486667980/",
+      "url": "https://trueinterview.io/jobs/45ef8a5d-1500-4595-9a96-d879e717d18c",
+      "postedAt": "2026-11-08T08:17:00.000Z",
+      "updatedAt": "2026-11-08T08:17:00.000Z"
+    },
+    {
+      "id": "49bc9f5b-45e7-478c-9cfb-871e9f8db6cd",
+      "company": "NVIDIA",
+      "title": "System Software Engineer Intern, Autonomous Vehicles - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China",
+        "Shenzhen, Guangdong, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487636439/",
+      "url": "https://trueinterview.io/jobs/49bc9f5b-45e7-478c-9cfb-871e9f8db6cd",
+      "postedAt": "2026-11-08T07:31:00.000Z",
+      "updatedAt": "2026-11-08T07:31:00.000Z"
+    },
     {
       "id": "93ebd86e-7a40-47dd-b6e3-3833d46d8155",
       "company": "Ededge Groups",
@@ -24371,32 +24424,6 @@
       "url": "https://trueinterview.io/jobs/f1caff93-9bcf-41be-ae8e-f7561b74dffd",
       "postedAt": "2026-10-31T18:42:00.000Z",
       "updatedAt": "2026-10-31T18:42:00.000Z"
-    },
-    {
-      "id": "1b746c1d-b7a3-4f68-b409-2bad309876da",
-      "company": "NVIDIA",
-      "title": "AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027",
-      "locations": [
-        "Beijing, Beijing, China",
-        "Shenzhen, Guangdong, China"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4468041024/",
-      "url": "https://trueinterview.io/jobs/1b746c1d-b7a3-4f68-b409-2bad309876da",
-      "postedAt": "2026-10-31T18:39:00.000Z",
-      "updatedAt": "2026-10-31T18:39:00.000Z"
     },
     {
       "id": "cfef3a32-8be7-4644-a222-aeda7d8d35fe",
@@ -77948,31 +77975,6 @@
       "url": "https://trueinterview.io/jobs/e86d1c1b-4d94-4e37-9399-c0bdb08dd96d",
       "postedAt": "2026-09-29T06:23:45.000Z",
       "updatedAt": "2026-09-29T06:23:45.000Z"
-    },
-    {
-      "id": "8a607e96-b5f9-43a5-a6c5-51660f64762c",
-      "company": "Shopback",
-      "title": "Software Engineer Intern - Backend",
-      "locations": [
-        "Ho Chi Minh, Vietnam"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
-      "url": "https://trueinterview.io/jobs/8a607e96-b5f9-43a5-a6c5-51660f64762c",
-      "postedAt": "2026-09-29T05:54:43.000Z",
-      "updatedAt": "2026-09-29T05:54:43.000Z"
     },
     {
       "id": "4b6c289e-36b0-4471-8dd3-979a1a1c6f58",
