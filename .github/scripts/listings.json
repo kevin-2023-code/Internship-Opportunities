@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T01:05:13.137Z",
-  "count": 3482,
+  "listingsChangedAt": "2026-11-08T02:06:29.812Z",
+  "count": 3481,
   "listings": [
+    {
+      "id": "9d45fff3-4af1-4eba-9103-6c982d95ae22",
+      "company": "Future Mode",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Waller, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486658818/",
+      "url": "https://trueinterview.io/jobs/9d45fff3-4af1-4eba-9103-6c982d95ae22",
+      "postedAt": "2026-11-08T01:16:00.000Z",
+      "updatedAt": "2026-11-08T01:16:00.000Z"
+    },
     {
       "id": "f60ca086-79fa-4435-ba08-89896feabdca",
       "company": "Spira AI",
@@ -84,33 +109,6 @@
       "updatedAt": "2026-11-07T21:24:00.000Z"
     },
     {
-      "id": "d380ffca-7439-4a87-8e95-0cb30cc414e1",
-      "company": "Microsoft",
-      "title": "Research Intern - Machine Learning at MSR NYC",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4480834594/",
-      "url": "https://trueinterview.io/jobs/d380ffca-7439-4a87-8e95-0cb30cc414e1",
-      "postedAt": "2026-11-07T20:16:00.000Z",
-      "updatedAt": "2026-11-07T20:16:00.000Z"
-    },
-    {
       "id": "0a2618a9-83cf-42cc-987b-4f8f074417ed",
       "company": "Meta",
       "title": "Research Scientist Intern, AI Agents and Machine Learning (PhD)",
@@ -139,57 +137,54 @@
       "updatedAt": "2026-11-07T20:11:00.000Z"
     },
     {
-      "id": "da66bf45-3288-4546-95f0-c991f7f5bf5b",
-      "company": "Meta",
-      "title": "Research Scientist Intern, AI Systems and Infrastructure (PhD)",
+      "id": "26e95e0f-3a22-49ef-a5e5-c273a4583a64",
+      "company": "Ryan",
+      "title": "Summer 2027 Intern, Software Development",
       "locations": [
-        "New York, NY",
-        "Menlo Park, CA"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486643901/",
-      "url": "https://trueinterview.io/jobs/da66bf45-3288-4546-95f0-c991f7f5bf5b",
-      "postedAt": "2026-11-07T20:09:00.000Z",
-      "updatedAt": "2026-11-07T20:10:00.000Z"
-    },
-    {
-      "id": "98f45965-4046-4a16-baa2-3a1096f1a5e7",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Synthetic Data for Computer Use Agents (PhD)",
-      "locations": [
-        "Menlo Park, CA"
+        "Plano, TX"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486656238/",
-      "url": "https://trueinterview.io/jobs/98f45965-4046-4a16-baa2-3a1096f1a5e7",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479636648/",
+      "url": "https://trueinterview.io/jobs/26e95e0f-3a22-49ef-a5e5-c273a4583a64",
       "postedAt": "2026-11-07T20:09:00.000Z",
       "updatedAt": "2026-11-07T20:09:00.000Z"
+    },
+    {
+      "id": "73986c78-5de0-44a9-8db3-850331fa6d4a",
+      "company": "Boehringer Ingelheim",
+      "title": "IT Co-Op - MLOps",
+      "locations": [
+        "Ridgefield, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472211417/",
+      "url": "https://trueinterview.io/jobs/73986c78-5de0-44a9-8db3-850331fa6d4a",
+      "postedAt": "2026-11-07T20:08:00.000Z",
+      "updatedAt": "2026-11-07T20:08:00.000Z"
     },
     {
       "id": "8b2eac40-77e1-4f06-ae43-053cfe7d7d23",
@@ -203,9 +198,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -255,7 +250,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -278,9 +273,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -89439,32 +89434,6 @@
       "url": "https://trueinterview.io/jobs/307dd7dd-f774-403a-86c1-ed19152042ad",
       "postedAt": "2026-09-09T22:49:59.000Z",
       "updatedAt": "2026-09-09T22:49:59.000Z"
-    },
-    {
-      "id": "6498c2f4-40f9-40cd-9488-dae9dd92c1ba",
-      "company": "Rocket Lab Corporation",
-      "title": "Avionics Engineering Intern Summer 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7989733003",
-      "url": "https://trueinterview.io/jobs/6498c2f4-40f9-40cd-9488-dae9dd92c1ba",
-      "postedAt": "2026-09-09T22:36:33.000Z",
-      "updatedAt": "2026-09-09T22:36:33.000Z"
     },
     {
       "id": "f8507866-76eb-49fa-a66f-49381e812bbf",
