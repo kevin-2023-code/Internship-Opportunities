@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**174 open roles.** 114 in the United States & Canada · 60 elsewhere in the world.
+**173 open roles.** 114 in the United States & Canada · 59 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1238,13 +1238,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e5ad97aa-ff3b-4f7e-ae1c-8a91a3f2c047">Internship - AI Engineer</a></td>
 <td>Saint-Sulpice</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/kandou-ai/19c7570c-8941-4777-9e61-dbacd81b94e8">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Institute Of Foundation Models</strong></td>
-<td><a href="https://trueinterview.io/jobs/babfb77d-b1ae-476a-80ec-1f69ccc35232">AI Engineer Internship – LLM Data</a></td>
-<td>Abu Dhabi</td>
-<td align="center"><a href="https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

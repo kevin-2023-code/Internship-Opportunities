@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,622 open roles.** 1,292 in the United States & Canada · 330 elsewhere in the world.
+**1,621 open roles.** 1,291 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2120,13 +2120,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Guardian Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/78556070-d5a5-46ed-a26a-ccb570d3d928">Guardian Kettering Engineering Co-Op</a></td>
-<td>Auburn Hills, MI</td>
-<td align="center"><a href="https://ars2.equest.com/?response_id=1b393cc9818e7b3795895c65ab78363b">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>MITRE</strong></td>
 <td><a href="https://trueinterview.io/jobs/e21342dc-ef72-486b-9b97-8bc0469dcf1e">Underwater Sensors Engineer Co-op</a></td>
 <td>Bedford, MA</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/377d2bad-ecdc-413f-946b-6e06df0a85b4">2027 Software Engineering Summer Intern</a></td>
 <td>Chicago, Illinois, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Radiance Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37c7ca3-2d00-4778-ba2d-af13edbe66f4">Software Engineer Intern Spring/Summer 2027 with Security Clearance</a></td>
+<td>Dayton, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157500/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

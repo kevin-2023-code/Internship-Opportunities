@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T06:06:41.312Z",
+  "listingsChangedAt": "2026-11-08T07:05:27.095Z",
   "count": 3481,
   "listings": [
     {
@@ -9308,6 +9308,31 @@
       "updatedAt": "2026-11-05T06:00:00.000Z"
     },
     {
+      "id": "44f2537e-e998-4395-961f-e3550c8d81c6",
+      "company": "Koch",
+      "title": "Electrical Engineer Co-Op",
+      "locations": [
+        "Wever, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ars2.equest.com/?response_id=928c411e3892b804ed78526aa25f9e12",
+      "url": "https://trueinterview.io/jobs/44f2537e-e998-4395-961f-e3550c8d81c6",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
       "id": "93d4e73b-050a-47a3-ab6f-d67cbccc2683",
       "company": "Lockheed Martin",
       "title": "Software Developer Intern",
@@ -9379,6 +9404,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.rtx.com/global/en/job/01868902",
       "url": "https://trueinterview.io/jobs/18b4b5fd-f3e4-475a-b9fd-6aa41a936621",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
+      "id": "c94f43b3-c1f8-4510-afe2-8b1f57fa7888",
+      "company": "Werfen",
+      "title": "ACDx Electrical Engineering Co-Op (Spring 2027)",
+      "locations": [
+        "Bedford, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.werfen.com/en/acdx-electrical-engineering-co-op-spring-2027",
+      "url": "https://trueinterview.io/jobs/c94f43b3-c1f8-4510-afe2-8b1f57fa7888",
       "postedAt": "2026-11-05T06:00:00.000Z",
       "updatedAt": "2026-11-05T06:00:00.000Z"
     },
@@ -18154,31 +18204,6 @@
       "source": "indeed",
       "applyUrl": "https://gmv.csod.com/ux/ats/careersite/4/home/requisition/5168?c=gmv&lang=en-US",
       "url": "https://trueinterview.io/jobs/a8bf1d55-4976-418b-8356-443cffb81f41",
-      "postedAt": "2026-11-03T06:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
-      "id": "78556070-d5a5-46ed-a26a-ccb570d3d928",
-      "company": "Guardian Industries",
-      "title": "Guardian Kettering Engineering Co-Op",
-      "locations": [
-        "Auburn Hills, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://ars2.equest.com/?response_id=1b393cc9818e7b3795895c65ab78363b",
-      "url": "https://trueinterview.io/jobs/78556070-d5a5-46ed-a26a-ccb570d3d928",
       "postedAt": "2026-11-03T06:00:00.000Z",
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
@@ -90474,33 +90499,6 @@
       "url": "https://trueinterview.io/jobs/6209c553-d1ce-45e6-a4a1-cc7337e58ff8",
       "postedAt": "2026-09-09T07:35:35.000Z",
       "updatedAt": "2026-09-09T07:35:35.000Z"
-    },
-    {
-      "id": "babfb77d-b1ae-476a-80ec-1f69ccc35232",
-      "company": "Institute Of Foundation Models",
-      "title": "AI Engineer Internship – LLM Data",
-      "locations": [
-        "Abu Dhabi"
-      ],
-      "cities": [
-        "Abu Dhabi"
-      ],
-      "countries": [
-        "United Arab Emirates"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc",
-      "url": "https://trueinterview.io/jobs/babfb77d-b1ae-476a-80ec-1f69ccc35232",
-      "postedAt": "2026-09-09T06:32:55.000Z",
-      "updatedAt": "2026-09-09T06:32:55.000Z"
     }
   ]
 }
