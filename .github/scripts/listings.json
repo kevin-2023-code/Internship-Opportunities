@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T03:06:07.506Z",
-  "count": 3480,
+  "listingsChangedAt": "2026-11-08T04:05:25.556Z",
+  "count": 3479,
   "listings": [
     {
       "id": "9d45fff3-4af1-4eba-9103-6c982d95ae22",
@@ -90454,33 +90454,6 @@
       "url": "https://trueinterview.io/jobs/babfb77d-b1ae-476a-80ec-1f69ccc35232",
       "postedAt": "2026-09-09T06:32:55.000Z",
       "updatedAt": "2026-09-09T06:32:55.000Z"
-    },
-    {
-      "id": "3740e8ff-ccd7-481e-becd-607a1b07c95b",
-      "company": "K2 Space",
-      "title": "Simulation Software Engineering Intern - Summer 2027",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008",
-      "url": "https://trueinterview.io/jobs/3740e8ff-ccd7-481e-becd-607a1b07c95b",
-      "postedAt": "2026-09-09T03:13:57.000Z",
-      "updatedAt": "2026-09-09T03:13:57.000Z"
     }
   ]
 }

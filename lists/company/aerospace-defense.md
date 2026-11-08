@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**93 open roles.** 91 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**92 open roles.** 90 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -645,13 +645,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76fedcd1-68f4-44fd-b8cc-9c779290519d">Avionics Electrical Engineering Intern - Summer 2027</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>K2 Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/3740e8ff-ccd7-481e-becd-607a1b07c95b">Simulation Software Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
