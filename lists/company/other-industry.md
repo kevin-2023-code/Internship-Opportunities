@@ -2,7 +2,7 @@
 
 # 💼 Other industries
 
-**10 open roles.** 6 in the United States & Canada · 4 elsewhere in the world. A real classification that none of the other sectors covers.
+**9 open roles.** 6 in the United States & Canada · 3 elsewhere in the world. A real classification that none of the other sectors covers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -91,13 +91,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>São Paulo<br/>Brasil<br/>Sorocaba<br/>+1 more</td>
 <td align="center"><a href="https://www.monks.com/careers/6100057004/job?gh_jid=6100057004">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>O'connell Electric Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8987a40-9417-4335-a566-b09468148ac7">Electrical Engineer Intern (Summer 2027)</a></td>
-<td>Victor, Rochester, Syracuse</td>
-<td align="center"><a href="https://www.oconnellelectric.com/careers-apply?gh_jid=6182541004">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

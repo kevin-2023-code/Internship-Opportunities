@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**963 open roles.** 776 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
+**959 open roles.** 772 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1728,13 +1728,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Ingredion Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e8441a5-4df3-4ddd-aadc-6c76cb81cb5e">AI &amp; Data Scientist Intern</a></td>
-<td>Westchester, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462096671/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7">Product Manager Spring Co-op 2027</a></td>
 <td>San Jose, CA</td>
@@ -2418,6 +2411,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683">Software Developer Intern</a></td>
 <td>Boulder, CO</td>
 <td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6d70539-4bfd-4e3c-81e3-c55cf939ced8">Battery Algorithms Engineering Intern</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1161973130109332/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

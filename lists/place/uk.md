@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**49 open roles.** 11 in the United States & Canada · 38 elsewhere in the world.
+**50 open roles.** 11 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -329,6 +329,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bristol</td>
 <td align="center"><a href="https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/0eceeb14-6545-4234-af2a-791e74ab4746">2027 Electronic Engineering Internship</a></td>
+<td>Edinburgh, Scotland<br/>Newbury, England</td>
+<td align="center"><a href="https://jobs.eu.lever.co/cirrus/b0eeba19-9950-4e6b-a709-037e271a71fd">Apply</a></td>
+<td align="center">5 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Databricks</strong></td>

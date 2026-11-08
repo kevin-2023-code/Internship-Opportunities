@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**110 open roles.** 88 in the United States & Canada · 22 elsewhere in the world.
+**109 open roles.** 87 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Basking Ridge, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488052402/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ingredion Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e8441a5-4df3-4ddd-aadc-6c76cb81cb5e">AI &amp; Data Scientist Intern</a></td>
-<td>Westchester, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462096671/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Businessolver</strong></td>

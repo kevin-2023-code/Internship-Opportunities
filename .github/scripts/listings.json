@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T19:03:47.888Z",
-  "count": 3519,
+  "listingsChangedAt": "2026-11-08T20:04:12.578Z",
+  "count": 3509,
   "listings": [
     {
       "id": "a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9",
@@ -7082,31 +7082,6 @@
       "updatedAt": "2026-11-05T20:27:00.000Z"
     },
     {
-      "id": "9e8441a5-4df3-4ddd-aadc-6c76cb81cb5e",
-      "company": "Ingredion Incorporated",
-      "title": "AI & Data Scientist Intern",
-      "locations": [
-        "Westchester, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4462096671/",
-      "url": "https://trueinterview.io/jobs/9e8441a5-4df3-4ddd-aadc-6c76cb81cb5e",
-      "postedAt": "2026-11-05T20:27:00.000Z",
-      "updatedAt": "2026-11-05T20:27:00.000Z"
-    },
-    {
       "id": "338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7",
       "company": "IBM",
       "title": "Product Manager Spring Co-op 2027",
@@ -10190,6 +10165,31 @@
       "source": "indeed",
       "applyUrl": "https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com",
       "url": "https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683",
+      "postedAt": "2026-11-05T06:00:00.000Z",
+      "updatedAt": "2026-11-05T06:00:00.000Z"
+    },
+    {
+      "id": "c6d70539-4bfd-4e3c-81e3-c55cf939ced8",
+      "company": "Meta",
+      "title": "Battery Algorithms Engineering Intern",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.metacareers.com/jobs/1161973130109332/",
+      "url": "https://trueinterview.io/jobs/c6d70539-4bfd-4e3c-81e3-c55cf939ced8",
       "postedAt": "2026-11-05T06:00:00.000Z",
       "updatedAt": "2026-11-05T06:00:00.000Z"
     },
@@ -22446,32 +22446,6 @@
       "applyUrl": "https://www.amazon.jobs/jobs/10595274/slam--computer-vision-intern-rivr?cmpid=DA_INAD200785B",
       "url": "https://trueinterview.io/jobs/f408eada-6af1-4210-95c6-e436a041cbf9",
       "postedAt": "2026-11-02T06:00:00.000Z",
-      "updatedAt": "2026-11-02T06:00:00.000Z"
-    },
-    {
-      "id": "43c0596b-a9d3-477a-895d-466f59ba5051",
-      "company": "Applied Materials",
-      "title": "Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)",
-      "locations": [
-        "Santa Clara, California, United States",
-        "Santa Clara, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
-      "url": "https://trueinterview.io/jobs/43c0596b-a9d3-477a-895d-466f59ba5051",
-      "postedAt": "2026-11-02T00:00:00.000Z",
       "updatedAt": "2026-11-02T06:00:00.000Z"
     },
     {
@@ -57052,6 +57026,33 @@
       "updatedAt": "2026-10-27T19:02:40.000Z"
     },
     {
+      "id": "6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Formal Verification Engineer",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/533c9938-3d35-48a6-b08b-1dd1675d2bdf",
+      "url": "https://trueinterview.io/jobs/6aacf3a9-4349-4ce2-85b5-6a6a8fa53b2a",
+      "postedAt": "2026-10-27T19:02:21.000Z",
+      "updatedAt": "2026-10-27T19:02:21.000Z"
+    },
+    {
       "id": "4533ffc9-86a7-4981-a835-3a86bff8a395",
       "company": "Commonwealth Fusion Systems",
       "title": "Intern - I&C and Network Engineer - Spring or Summer 2027",
@@ -58788,7 +58789,8 @@
       "company": "michels-corporation",
       "title": "Civil Engineer Intern - Michels Canada",
       "locations": [
-        "Saskatchewan, Canada  , Canada"
+        "Saskatchewan, Canada  , Canada",
+        "Saskatchewan, Canada"
       ],
       "cities": [],
       "countries": [
@@ -67254,6 +67256,33 @@
       "updatedAt": "2026-10-15T19:18:37.000Z"
     },
     {
+      "id": "9683ff0a-07c6-46c9-96d0-35203d375dd1",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Systems Engineering - Power & Control",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/76f89050-2cda-4c96-b796-94346c98f896",
+      "url": "https://trueinterview.io/jobs/9683ff0a-07c6-46c9-96d0-35203d375dd1",
+      "postedAt": "2026-10-15T18:49:54.000Z",
+      "updatedAt": "2026-10-15T18:49:54.000Z"
+    },
+    {
       "id": "6d2cce23-e28e-4105-8286-89d269b52da3",
       "company": "Commonwealth Fusion Systems",
       "title": "Intern - Controls Engineer - Summer 2027",
@@ -75040,6 +75069,34 @@
       "url": "https://trueinterview.io/jobs/8990758a-67ac-493e-8d99-ff07da98a295",
       "postedAt": "2026-10-05T15:25:49.000Z",
       "updatedAt": "2026-10-05T15:25:49.000Z"
+    },
+    {
+      "id": "0eceeb14-6545-4234-af2a-791e74ab4746",
+      "company": "Cirrus Logic",
+      "title": "2027 Electronic Engineering Internship",
+      "locations": [
+        "Edinburgh, Scotland",
+        "Newbury, England"
+      ],
+      "cities": [
+        "Edinburgh"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/b0eeba19-9950-4e6b-a709-037e271a71fd",
+      "url": "https://trueinterview.io/jobs/0eceeb14-6545-4234-af2a-791e74ab4746",
+      "postedAt": "2026-10-05T15:19:45.000Z",
+      "updatedAt": "2026-10-05T15:19:45.000Z"
     },
     {
       "id": "f1145d27-378f-4b8f-bfcf-0e90a1523276",
@@ -88149,6 +88206,201 @@
       "updatedAt": "2026-09-11T23:37:05.000Z"
     },
     {
+      "id": "780a6930-dc28-4320-98f7-f4c7357037d6",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Embedded Software Test Engineer",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175",
+      "url": "https://trueinterview.io/jobs/780a6930-dc28-4320-98f7-f4c7357037d6",
+      "postedAt": "2026-09-11T23:18:26.000Z",
+      "updatedAt": "2026-09-11T23:18:26.000Z"
+    },
+    {
+      "id": "ee626d0c-8bf6-46c4-a03e-9d2c6653e2f5",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Mixed Signal Products Applications Engineer",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2",
+      "url": "https://trueinterview.io/jobs/ee626d0c-8bf6-46c4-a03e-9d2c6653e2f5",
+      "postedAt": "2026-09-11T23:07:01.000Z",
+      "updatedAt": "2026-09-11T23:07:01.000Z"
+    },
+    {
+      "id": "6f020915-0ecb-4d31-879b-4b15856f11bf",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Product Test Engineer",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e",
+      "url": "https://trueinterview.io/jobs/6f020915-0ecb-4d31-879b-4b15856f11bf",
+      "postedAt": "2026-09-11T23:05:06.000Z",
+      "updatedAt": "2026-09-11T23:05:06.000Z"
+    },
+    {
+      "id": "fa3786e0-35e2-4b1a-b69e-cda31ffe8181",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Validation Engineer",
+      "locations": [
+        "Austin, Texas"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027",
+      "url": "https://trueinterview.io/jobs/fa3786e0-35e2-4b1a-b69e-cda31ffe8181",
+      "postedAt": "2026-09-11T23:04:02.000Z",
+      "updatedAt": "2026-09-11T23:04:02.000Z"
+    },
+    {
+      "id": "418563a5-7f4c-415f-a589-7b0e34bde72e",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Digital Design Engineer",
+      "locations": [
+        "Austin, Texas",
+        "Chandler, Arizona",
+        "Greensboro, North Carolina"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e",
+      "url": "https://trueinterview.io/jobs/418563a5-7f4c-415f-a589-7b0e34bde72e",
+      "postedAt": "2026-09-11T22:51:49.000Z",
+      "updatedAt": "2026-09-11T22:51:49.000Z"
+    },
+    {
+      "id": "189af0eb-3340-47e7-a83a-34a03d14b6f3",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Design Verification Engineer",
+      "locations": [
+        "Austin, Texas",
+        "Chandler, Arizona",
+        "Greensboro, North Carolina"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e",
+      "url": "https://trueinterview.io/jobs/189af0eb-3340-47e7-a83a-34a03d14b6f3",
+      "postedAt": "2026-09-11T22:48:38.000Z",
+      "updatedAt": "2026-09-11T22:48:38.000Z"
+    },
+    {
+      "id": "92d266e7-4c8c-4d30-821c-e37c91007ae3",
+      "company": "Cirrus Logic",
+      "title": "2027 Internship - Analog Design Engineer",
+      "locations": [
+        "Austin, Texas",
+        "Chandler, Arizona",
+        "Greensboro, North Carolina"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec",
+      "url": "https://trueinterview.io/jobs/92d266e7-4c8c-4d30-821c-e37c91007ae3",
+      "postedAt": "2026-09-11T22:42:45.000Z",
+      "updatedAt": "2026-09-11T22:42:45.000Z"
+    },
+    {
       "id": "d3617224-f501-4c5a-9507-ba0854fcf862",
       "company": "Newsbreak",
       "title": "Nearby AI Internship Program - Engineering Track",
@@ -91002,506 +91254,6 @@
       "url": "https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83",
       "postedAt": "2026-09-09T20:11:43.000Z",
       "updatedAt": "2026-09-09T20:11:43.000Z"
-    },
-    {
-      "id": "3cf3dbf0-5e7e-4adf-a5e9-e891d856d647",
-      "company": "Immuta",
-      "title": "Full-Stack Engineering Internship - Summer 2027",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply",
-      "url": "https://trueinterview.io/jobs/3cf3dbf0-5e7e-4adf-a5e9-e891d856d647",
-      "postedAt": "2026-09-09T19:53:58.000Z",
-      "updatedAt": "2026-09-09T19:53:58.000Z"
-    },
-    {
-      "id": "b8987a40-9417-4335-a566-b09468148ac7",
-      "company": "O'connell Electric Company",
-      "title": "Electrical Engineer Intern (Summer 2027)",
-      "locations": [
-        "Victor, Rochester, Syracuse",
-        "Victor"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.oconnellelectric.com/careers-apply?gh_jid=6182541004",
-      "url": "https://trueinterview.io/jobs/b8987a40-9417-4335-a566-b09468148ac7",
-      "postedAt": "2026-09-09T19:52:08.000Z",
-      "updatedAt": "2026-09-09T19:52:08.000Z"
-    },
-    {
-      "id": "9834be5d-fbd6-4003-9829-92a9e6444a5f",
-      "company": "Pyka",
-      "title": "Mechanical Engineering Internship - Winter/Spring 2027 (Dropship, Early Interest)",
-      "locations": [
-        "Alameda HQ"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/pyka/2702593a-7482-4d2b-93f3-ef97e2cf7df7/apply",
-      "url": "https://trueinterview.io/jobs/9834be5d-fbd6-4003-9829-92a9e6444a5f",
-      "postedAt": "2026-09-09T19:51:14.000Z",
-      "updatedAt": "2026-09-09T19:51:14.000Z"
-    },
-    {
-      "id": "15b4a087-4cc4-45c8-b322-0311dc34280a",
-      "company": "Immuta",
-      "title": "Product Research Internship - Summer 2027",
-      "locations": [
-        "College Park, MD"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply",
-      "url": "https://trueinterview.io/jobs/15b4a087-4cc4-45c8-b322-0311dc34280a",
-      "postedAt": "2026-09-09T19:50:55.000Z",
-      "updatedAt": "2026-09-09T19:50:55.000Z"
-    },
-    {
-      "id": "73ce5821-d7fa-467b-89db-9f491ed0da44",
-      "company": "Immuta",
-      "title": "Platform & Site Reliability Engineering Internship - Summer 2027",
-      "locations": [
-        "Columbus, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Site Reliability Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e/apply",
-      "url": "https://trueinterview.io/jobs/73ce5821-d7fa-467b-89db-9f491ed0da44",
-      "postedAt": "2026-09-09T19:47:49.000Z",
-      "updatedAt": "2026-09-09T19:47:49.000Z"
-    },
-    {
-      "id": "f991bb48-8f11-4726-a3be-67132aaa7cc0",
-      "company": "Saronic Technologies",
-      "title": "Electrical Engineer Intern (Summer 2027)",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/saronic/c7779462-3c4c-44d9-8314-1be93a0e478a",
-      "url": "https://trueinterview.io/jobs/f991bb48-8f11-4726-a3be-67132aaa7cc0",
-      "postedAt": "2026-09-09T19:47:36.000Z",
-      "updatedAt": "2026-09-09T19:47:36.000Z"
-    },
-    {
-      "id": "5959a6ab-c1ae-43a5-ad48-7d3eafd37459",
-      "company": "Saronic Technologies",
-      "title": "Mechanical Engineer Intern (Summer 2027)",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/saronic/f52ae6eb-7eba-4c64-97c7-57e2a234e088",
-      "url": "https://trueinterview.io/jobs/5959a6ab-c1ae-43a5-ad48-7d3eafd37459",
-      "postedAt": "2026-09-09T19:47:04.000Z",
-      "updatedAt": "2026-09-09T19:47:04.000Z"
-    },
-    {
-      "id": "22b61548-f3ff-4f3f-a92f-e8fa6c0f3ac7",
-      "company": "Saronic Technologies",
-      "title": "Manufacturing Engineer Intern (Summer 2027)",
-      "locations": [
-        "Franklin, LA",
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97",
-      "url": "https://trueinterview.io/jobs/22b61548-f3ff-4f3f-a92f-e8fa6c0f3ac7",
-      "postedAt": "2026-09-09T19:46:42.000Z",
-      "updatedAt": "2026-09-09T19:46:42.000Z"
-    },
-    {
-      "id": "74fe5d9d-7e95-4941-bf75-9a70a463c044",
-      "company": "Saronic Technologies",
-      "title": "Forward Deployed Engineer Intern (Summer 2027)",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
-      "url": "https://trueinterview.io/jobs/74fe5d9d-7e95-4941-bf75-9a70a463c044",
-      "postedAt": "2026-09-09T19:46:26.000Z",
-      "updatedAt": "2026-09-09T19:46:26.000Z"
-    },
-    {
-      "id": "ee8710e6-33b5-4f8e-8cc5-f9b0963a69f6",
-      "company": "Saronic Technologies",
-      "title": "Naval Architect Intern (Summer 2027)",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/saronic/fc6124a1-85a2-4c3f-82f5-4534ae443411",
-      "url": "https://trueinterview.io/jobs/ee8710e6-33b5-4f8e-8cc5-f9b0963a69f6",
-      "postedAt": "2026-09-09T19:45:56.000Z",
-      "updatedAt": "2026-09-09T19:45:56.000Z"
-    },
-    {
-      "id": "891c13a5-81c2-449f-bf15-a45f7cf3cc7e",
-      "company": "Saronic Technologies",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
-      "url": "https://trueinterview.io/jobs/891c13a5-81c2-449f-bf15-a45f7cf3cc7e",
-      "postedAt": "2026-09-09T19:45:15.000Z",
-      "updatedAt": "2026-09-09T19:45:15.000Z"
-    },
-    {
-      "id": "8341fc9b-8e04-48d8-8825-4f852964eb78",
-      "company": "Immuta",
-      "title": "UX Designer Internship - Summer 2027",
-      "locations": [
-        "College Park, MD",
-        "Columbus, OH",
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/immuta/682fa987-3f52-4d95-8239-8e145ce04ed3/apply",
-      "url": "https://trueinterview.io/jobs/8341fc9b-8e04-48d8-8825-4f852964eb78",
-      "postedAt": "2026-09-09T19:40:28.000Z",
-      "updatedAt": "2026-09-09T19:40:28.000Z"
-    },
-    {
-      "id": "3077f168-da4a-4324-9311-7fb93aff60d3",
-      "company": "Tanium",
-      "title": "Technical Support Engineer (TSE) Intern",
-      "locations": [
-        "Bellevue, WA (Hybrid)",
-        "Emeryville, CA (Hybrid)",
-        "Addison, TX Office",
-        "Addison, TX (Hybrid)"
-      ],
-      "cities": [
-        "Bellevue, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "hybrid",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/tanium/jobs/8189328",
-      "url": "https://trueinterview.io/jobs/3077f168-da4a-4324-9311-7fb93aff60d3",
-      "postedAt": "2026-09-09T19:37:43.000Z",
-      "updatedAt": "2026-09-09T19:37:43.000Z"
-    },
-    {
-      "id": "81e4f5a5-2f5d-45cd-89e0-1ccd779ba655",
-      "company": "Domino Data Lab",
-      "title": "Software Engineer, Intern - Campus Recruiting 2027",
-      "locations": [
-        "New York City, New York",
-        "Remote US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560",
-      "url": "https://trueinterview.io/jobs/81e4f5a5-2f5d-45cd-89e0-1ccd779ba655",
-      "postedAt": "2026-09-09T19:18:39.000Z",
-      "updatedAt": "2026-09-09T19:18:39.000Z"
-    },
-    {
-      "id": "73ad74bb-823f-45a0-8f41-9470e915b63f",
-      "company": "Domino Data Lab",
-      "title": "Forward Deployed Engineer, Intern - Campus Recruiting 2027",
-      "locations": [
-        "New York City, New York",
-        "Remote US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534",
-      "url": "https://trueinterview.io/jobs/73ad74bb-823f-45a0-8f41-9470e915b63f",
-      "postedAt": "2026-09-09T19:17:34.000Z",
-      "updatedAt": "2026-09-09T19:17:34.000Z"
-    },
-    {
-      "id": "192e912d-2728-4177-a1ac-ddf0c96bd38b",
-      "company": "Immuta",
-      "title": "Product Engineering Intern - Summer 2027",
-      "locations": [
-        "College Park, MD"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply",
-      "url": "https://trueinterview.io/jobs/192e912d-2728-4177-a1ac-ddf0c96bd38b",
-      "postedAt": "2026-09-09T19:16:29.000Z",
-      "updatedAt": "2026-09-09T19:16:29.000Z"
-    },
-    {
-      "id": "f413945d-7e6d-48a8-96fe-057c696165fb",
-      "company": "DV Trading",
-      "title": "AI Engineer Intern - Summer 2027",
-      "locations": [
-        "Chicago"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
-      "url": "https://trueinterview.io/jobs/f413945d-7e6d-48a8-96fe-057c696165fb",
-      "postedAt": "2026-09-09T19:13:24.000Z",
-      "updatedAt": "2026-09-09T19:13:24.000Z"
-    },
-    {
-      "id": "57dd37fb-cf5e-46b1-8a1f-7c09469cc08f",
-      "company": "Stratas Foods",
-      "title": "Engineering 2027 Summer Internship - Engineer Intern I – Sophomore / Engineer Intern II – Junior",
-      "locations": [
-        "Decatur, Illinois, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/StratasFoods/744000148591029-engineering-2027-summer-internship-engineer-intern-i-sophomore-engineer-intern-ii-junior",
-      "url": "https://trueinterview.io/jobs/57dd37fb-cf5e-46b1-8a1f-7c09469cc08f",
-      "postedAt": "2026-09-09T19:10:20.000Z",
-      "updatedAt": "2026-09-09T19:10:20.000Z"
-    },
-    {
-      "id": "995b3f48-bc6a-4f9d-a366-3fdb078db618",
-      "company": "DV Trading",
-      "title": "DevOps Engineer Intern - Summer 2027",
-      "locations": [
-        "Chicago"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "DevOps Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4730886005",
-      "url": "https://trueinterview.io/jobs/995b3f48-bc6a-4f9d-a366-3fdb078db618",
-      "postedAt": "2026-09-09T19:08:19.000Z",
-      "updatedAt": "2026-09-09T19:08:19.000Z"
     }
   ]
 }
