@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**161 open roles.** 129 in the United States & Canada · 32 elsewhere in the world.
+**162 open roles.** 130 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -800,6 +800,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872479002?gh_jid=8872479002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/94a31519-1f4c-491d-9077-e2a5612e4189">Machine Learning Engineer Intern - Summer 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4962456101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Sigmacomputing</strong></td>

@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**96 open roles.** 55 in the United States & Canada · 41 elsewhere in the world.
+**97 open roles.** 56 in the United States & Canada · 41 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/93ebd86e-7a40-47dd-b6e3-3833d46d8155">Data Analyst Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487385873/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ADM</strong></td>
+<td><a href="https://trueinterview.io/jobs/c0982202-c541-4808-9905-04482e689c5d">Data Analyst Intern, Nutrition - Erlanger, KY</a></td>
+<td>Erlanger, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476390660/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
