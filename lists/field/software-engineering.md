@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,620 open roles.** 1,291 in the United States & Canada · 329 elsewhere in the world.
+**1,620 open roles.** 1,292 in the United States & Canada · 328 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Liberty Mutual Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b442d76-1bd8-4acf-9d4c-7e46945d2a4f">Cybersecurity &amp; Technology Audit Internship (Summer 2027)</a></td>
+<td>Portsmouth, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472098666/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CNH</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a91fe96-2180-4850-8613-fa181f0ca573">Embedded Software Engineer Intern 1</a></td>
+<td>New Holland, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463614621/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crowe</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
+<td>Chicago, IL<br/>New York, NY<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454857439/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Cair Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c40e687-951f-498f-b1c2-3a57d74431f6">Software Engineering Intern</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
 <td>San Luis Obispo, CA</td>
 <td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477676855?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BorgWarner</strong></td>
-<td><a href="https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662">Systems Test Automation Engineering Intern</a></td>
-<td>Kokomo, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476848948/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GCM Grosvenor</strong></td>
-<td><a href="https://trueinterview.io/jobs/377d2bad-ecdc-413f-946b-6e06df0a85b4">2027 Software Engineering Summer Intern</a></td>
-<td>Chicago, Illinois, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Radiance Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a37c7ca3-2d00-4778-ba2d-af13edbe66f4">Software Engineer Intern Spring/Summer 2027 with Security Clearance</a></td>
-<td>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157500/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

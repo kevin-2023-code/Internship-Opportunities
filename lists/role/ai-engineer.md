@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**173 open roles.** 114 in the United States & Canada · 59 elsewhere in the world.
+**175 open roles.** 116 in the United States & Canada · 59 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zurn Elkay Water Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/aea5e559-a3e8-464d-b8d7-9172ca0d2380">IT Infrastructure &amp; AI Enablement Intern (Summer 2027)</a></td>
+<td>Milwaukee, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470734080/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crowe</strong></td>
+<td><a href="https://trueinterview.io/jobs/33aee3f0-48a7-4159-90cf-b40bc86716ab">AI Engineering Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454314689/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>

@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**53 open roles.**
+**55 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,11 +18,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac2837cf-94c0-4a2e-81a5-55d1bd9b810c">FPGA Engineer Intern (Summer 2027 - Chicago)</a></td>
+<td><strong>Crowe</strong></td>
+<td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
+<td>Chicago, IL<br/>New York, NY<br/>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454857439/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/33aee3f0-48a7-4159-90cf-b40bc86716ab">AI Engineering Intern</a></td>
 <td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440469024/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454314689/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb1d3e80-a8d8-4dd6-a2ca-4724f788ca35">Data Analytics Developer Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454814310/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
+<td>Chicago, IL<br/>Austin, TX<br/>Denver, CO<br/>+31 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
@@ -331,13 +352,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Deerfield, ILLINOIS, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000152963619-product-manager-intern">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Enova</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766">Software Engineer Internship Summer 2027 (Hybrid)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8239619">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Gelber Group</strong></td>

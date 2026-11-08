@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**67 open roles.** 66 in the United States & Canada · 1 elsewhere in the world.
+**68 open roles.** 67 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Crowe</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
+<td>Denver, CO<br/>Austin, TX<br/>Chicago, IL<br/>+31 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>FIRST RF Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/d4b0fb70-33a5-4abe-93a0-59395f180621">Intern – Embedded Engineer</a></td>

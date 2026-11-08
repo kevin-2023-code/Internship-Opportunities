@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**38 open roles.**
+**39 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CNH</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb4af608-c239-4394-a27b-4ee59d8cda91">Data Engineer Intern</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463615614/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>DriveTime</strong></td>
 <td><a href="https://trueinterview.io/jobs/d01233d0-acbd-44d9-8099-31cff2af91f2">Software Engineering Intern (Summer 2027)</a></td>

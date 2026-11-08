@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**56 open roles.** 46 in the United States & Canada · 10 elsewhere in the world.
+**57 open roles.** 47 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CNH</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a91fe96-2180-4850-8613-fa181f0ca573">Embedded Software Engineer Intern 1</a></td>
+<td>New Holland, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463614621/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Astranis Space Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/637007a2-26a1-4afe-9b09-26ddca347c8b">Embedded Software Developer, Network/Payload Intern (Winter 2027)</a></td>

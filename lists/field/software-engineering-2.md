@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,620 open roles.** 1,291 in the United States & Canada · 329 elsewhere in the world.
+**1,620 open roles.** 1,292 in the United States & Canada · 328 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662">Systems Test Automation Engineering Intern</a></td>
+<td>Kokomo, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476848948/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GCM Grosvenor</strong></td>
+<td><a href="https://trueinterview.io/jobs/377d2bad-ecdc-413f-946b-6e06df0a85b4">2027 Software Engineering Summer Intern</a></td>
+<td>Chicago, Illinois, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Radiance Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37c7ca3-2d00-4778-ba2d-af13edbe66f4">Software Engineer Intern Spring/Summer 2027 with Security Clearance</a></td>
+<td>Dayton, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157500/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f">[Summer 2027] Software Engineer Intern</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/328674c4-953f-4f30-b28a-165bff3b8d89">Intern - Aerodynamic Test Engineer</a></td>
 <td>St Paul, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484477749/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fd4b8b84-c0db-457e-b97e-70a63eaa5365">Intern - Mechanical Design Engineer</a></td>
-<td>Newport News, VA<br/>St Paul, MN<br/>Ronkonkoma, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484492197/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Related Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/17feb347-397e-46f8-9a2d-2bc2b51f8cd4">2027 Summer Analyst, Engineering (Data Centers)</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476347413/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/80d583ef-fd07-466c-bf1d-66291a8873bb">IC Layout Engineering Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484482499/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

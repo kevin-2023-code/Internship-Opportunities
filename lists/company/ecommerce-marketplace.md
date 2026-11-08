@@ -20,9 +20,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>DoorDash</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
-<td>Seattle, WA<br/>Sunnyvale, CA<br/>New York, NY</td>
+<td>Seattle, WA<br/>Sunnyvale, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
+<td align="center">8 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Whatnot</strong></td>

@@ -34,7 +34,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
+<td>Seattle, WA<br/>Sunnyvale, CA<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a2618a9-83cf-42cc-987b-4f8f074417ed">Research Scientist Intern, AI Agents and Machine Learning (PhD)</a></td>
 <td>Sunnyvale, CA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486644763/">Apply</a></td>
@@ -66,13 +73,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/de5970e4-48aa-4f52-a395-dd71510b116f">Android Platform Software Engineering Intern - Summer 2027</a></td>
 <td>Plantation, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463121058/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
-<td>Seattle, WA<br/>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>

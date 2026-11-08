@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Crowe</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
+<td>Charlotte, NC<br/>Austin, TX<br/>Denver, CO<br/>+31 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
 <td>Durham, NC<br/>San Jose, CA<br/>New York, NY<br/>+1 more</td>
@@ -330,13 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6a4f7e58-6c25-4c8f-8316-854a7b03dc87">Product Management Intern</a></td>
 <td>Cary, North Carolina, United States</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Coffman Engineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7dcb230-719f-4d25-8c61-40bb4c5f7200">Fire Protection Engineering Intern</a></td>
-<td>Raleigh, North Carolina, United States<br/>Fulton, Maryland, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000152406562-fire-protection-engineering-intern-">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>

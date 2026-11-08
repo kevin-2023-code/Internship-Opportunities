@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,002 open roles.** 810 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
+**994 open roles.** 802 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,55 @@
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b6de084-55c4-40d6-b85d-9a27a09a7fed">QA/Test Engineer Intern-Tucson, AZ</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456512970/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zebra Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e21dfed-6241-459d-80f7-9b5edb34de87">2027 Summer Internship (US) - Software Engineer, AI Features &amp; Product Convergence, Zebra Task Manager</a></td>
+<td>Kennesaw, GA<br/>Kennesaw, Georgia, United States</td>
+<td align="center"><a href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/c55d1590-d3d4-420f-9c43-7e5a1c8b89c5">Java Software Developer-INTERN</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477760376?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4bcfcf47-fd15-4245-9aa1-4eb81d397049">Embedded Software Engineer Intern - Summer 2027</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477363529?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Whatnot</strong></td>
+<td><a href="https://trueinterview.io/jobs/33d3a991-c104-460e-aabd-35630f8151be">Software Engineer Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460202618/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Astranis Space Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca6e7191-3a11-4e2d-abac-b39f33265d0c">Software Engineer - Enterprise Systems Intern (Summer 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469091736/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3cf3be6-2896-4b31-b5f0-58d99c0a77e9">Power Firmware Developer Intern - Rochester, MN &amp; Austin, TX - 2027</a></td>
+<td>Austin, TX<br/>Rochester, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459522852/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/6e19d5eb-cf12-4900-973d-34cb4a0d0e8b">Quantum Data Analyst Intern 2027</a></td>
 <td>Cambridge, MA<br/>San Jose, CA<br/>Yorktown Heights, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466910257/">Apply</a></td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/c2ca8357-f968-4484-9653-fbf94cdbed52">Software Engineering Co-op - Spring 2027 - ASL</a></td>
 <td>Atlanta, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477697976/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Liberty Mutual Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e">Cybersecurity Co-op (January - June 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460370875/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
-<td>Normal, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468019657/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Georgia Tech Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/34dbab2d-d75c-4d43-8376-d850121a999e">General Cybersecurity Graduate Intern - CIPHER- Spring 2027</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477810555/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/91324f15-75ba-4df9-a853-a224073f2fcc">University - 2027 Summer Games Software Developer Intern - Atlanta, GA</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460516339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/e45314db-29fb-4cb0-9959-6c2a72e6c7fd">Creative Product Manager Intern (International Advertising - Creative and Brand Innovation) - 2027 Summer - Intern (Global Monetization Product and Technology) - 2027 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476866058/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae0b614-4058-4154-a713-6929cbf76a72">Software Engineer Project Intern (Developer Infrastructure) - 2027 Start</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477834689/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BlackRock</strong></td>
-<td><a href="https://trueinterview.io/jobs/95133029-32e8-4dcf-9550-662aa4eb2f04">2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468676782/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

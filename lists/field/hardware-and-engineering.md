@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**792 open roles.** 718 in the United States & Canada · 74 elsewhere in the world.
+**791 open roles.** 717 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,13 +25,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Greenwood Village, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460734893/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac2837cf-94c0-4a2e-81a5-55d1bd9b810c">FPGA Engineer Intern (Summer 2027 - Chicago)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440469024/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>OTTO Engineering</strong></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4eda8dcb-a5c6-4175-a18a-623dc60e4c7e">Hardware Reliability Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8885631002?gh_jid=8885631002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/986c4f87-6a3f-400e-85f9-82a58d933254">Manufacturing Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872469002?gh_jid=8872469002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 </tbody>

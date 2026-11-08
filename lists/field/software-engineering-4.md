@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,620 open roles.** 1,291 in the United States & Canada · 329 elsewhere in the world.
+**1,620 open roles.** 1,292 in the United States & Canada · 328 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fd33108-b49f-47d5-9e4c-44af3390cca1">Test Engineering Intern Summer 2027</a></td>
+<td>Stennis Space Center, MS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990350003">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3e0431d6-f58b-4323-9a8c-2c0487463b96">Test Engineering Intern - Manufacturing Spring 2027</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987042003">Apply</a></td>
@@ -2784,13 +2791,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>OSLO, Norway</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014487">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/e86d1c1b-4d94-4e37-9399-c0bdb08dd96d">Software Engineer Intern - Berlin (2027)</a></td>
-<td>DE-Berlin-Trion Building</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Moloco</strong></td>

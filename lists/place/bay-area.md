@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**503 open roles.**
+**504 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Crowe</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
+<td>San Jose, CA<br/>San Francisco, CA<br/>Austin, TX<br/>+31 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/dde08523-3156-4fef-910c-162b23029ae3">Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)</a></td>
 <td>Menlo Park, CA</td>
@@ -34,7 +41,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
+<td>Sunnyvale, CA<br/>San Francisco, CA<br/>Seattle, WA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a2618a9-83cf-42cc-987b-4f8f074417ed">Research Scientist Intern, AI Agents and Machine Learning (PhD)</a></td>
 <td>Sunnyvale, CA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486644763/">Apply</a></td>
@@ -94,13 +108,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ef0240af-0e6d-41bf-b383-d6f6222f782a">Summer 2027 Intern - Software Engineering</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450173981/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
-<td>Sunnyvale, CA<br/>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Altos, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446721246663">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4875a70-5656-444e-9db0-d537d124a375">Summer 2027: Business Data Analyst Intern, Strategy &amp; Planning</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 </tbody>
 </table>

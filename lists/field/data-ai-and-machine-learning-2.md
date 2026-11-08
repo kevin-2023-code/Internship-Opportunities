@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**679 open roles.** 497 in the United States & Canada · 182 elsewhere in the world.
+**683 open roles.** 502 in the United States & Canada · 181 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>STAND TOGETHER</strong></td>
+<td><a href="https://trueinterview.io/jobs/aaa59fc3-d864-4df2-90ba-f91deb83ff88">KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/651000b9-55f5-4ff7-9a5c-ff6cb569aecc">AI Data Science / Software Engineering PhD Intern New 2027</a></td>
+<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cfff8e5-5264-4478-815b-2e59c9937037">Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398185388">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Salesforce</strong></td>
+<td><a href="https://trueinterview.io/jobs/258ca580-430e-4e36-8537-935dc234c7d4">Summer 2027 Intern - AI Research</a></td>
+<td>California - Palo Alto, United States of America</td>
+<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sony</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a07e44e-5201-4011-b927-d9df7386d7a6">Research Engineer Intern (Ethical Creative and Protective AI Lab)</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd6cfa83-b394-4bc9-9203-18e0521302d7">Research Scientist Intern, On-Device AI Model Optimization (PhD)</a></td>
@@ -1881,13 +1916,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris, IDF, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Ubisoft2/744000152982859-reporting-data-analyst-assistant-internship-6-month-january-2027-w-m-nb-?oga=true">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Delivery Hero</strong></td>
-<td><a href="https://trueinterview.io/jobs/c27007d1-9b03-44ab-b6c4-407f755fad77">Intern Data Analyst I People Strategy Global HQ</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000152474589-intern-data-analyst-i-people-strategy-global-hq">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Govsignals</strong></td>

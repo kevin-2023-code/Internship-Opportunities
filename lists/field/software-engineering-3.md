@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,620 open roles.** 1,291 in the United States & Canada · 329 elsewhere in the world.
+**1,620 open roles.** 1,292 in the United States & Canada · 328 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>North Wind</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd4b8b84-c0db-457e-b97e-70a63eaa5365">Intern - Mechanical Design Engineer</a></td>
+<td>Newport News, VA<br/>St Paul, MN<br/>Ronkonkoma, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484492197/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Related Digital</strong></td>
+<td><a href="https://trueinterview.io/jobs/17feb347-397e-46f8-9a2d-2bc2b51f8cd4">2027 Summer Analyst, Engineering (Data Centers)</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476347413/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/80d583ef-fd07-466c-bf1d-66291a8873bb">IC Layout Engineering Intern</a></td>
+<td>Richardson, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484482499/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1ac4f959-66cb-4270-b5a0-fd104981660b">RF Design Engineering Intern</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484482505/">Apply</a></td>
@@ -2410,20 +2431,6 @@
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Enova</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766">Software Engineer Internship Summer 2027 (Hybrid)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8239619">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Coffman Engineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7dcb230-719f-4d25-8c61-40bb4c5f7200">Fire Protection Engineering Intern</a></td>
-<td>Fulton, Maryland, United States<br/>Raleigh, North Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000152406562-fire-protection-engineering-intern-">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Hermeus</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b6c289e-36b0-4471-8dd3-979a1a1c6f58">Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring &amp; Summer 2027</a></td>
 <td>Los Angeles, CA</td>
@@ -2807,13 +2814,6 @@
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740636">Apply</a></td>
 <td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fd33108-b49f-47d5-9e4c-44af3390cca1">Test Engineering Intern Summer 2027</a></td>
-<td>Stennis Space Center, MS</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990350003">Apply</a></td>
-<td align="center">17 Sep 2026</td>
 </tr>
 </tbody>
 </table>

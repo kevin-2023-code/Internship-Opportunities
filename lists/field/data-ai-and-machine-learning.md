@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**679 open roles.** 497 in the United States & Canada · 182 elsewhere in the world.
+**683 open roles.** 502 in the United States & Canada · 181 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zurn Elkay Water Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/aea5e559-a3e8-464d-b8d7-9172ca0d2380">IT Infrastructure &amp; AI Enablement Intern (Summer 2027)</a></td>
+<td>Milwaukee, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470734080/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CNH</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb4af608-c239-4394-a27b-4ee59d8cda91">Data Engineer Intern</a></td>
+<td>Tempe, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463615614/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crowe</strong></td>
+<td><a href="https://trueinterview.io/jobs/33aee3f0-48a7-4159-90cf-b40bc86716ab">AI Engineering Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454314689/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb1d3e80-a8d8-4dd6-a2ca-4724f788ca35">Data Analytics Developer Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454814310/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
+<td>Austin, TX<br/>Denver, CO<br/>Chicago, IL<br/>+31 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ededge Groups</strong></td>
 <td><a href="https://trueinterview.io/jobs/93ebd86e-7a40-47dd-b6e3-3833d46d8155">Data Analyst Intern</a></td>
@@ -45,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9d45fff3-4af1-4eba-9103-6c982d95ae22">Data Analyst Intern</a></td>
 <td>Waller, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486658818/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>DoorDash</strong></td>
+<td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
+<td>Seattle, WA<br/>Sunnyvale, CA<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -129,13 +171,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/129f2791-eb2f-49c6-840f-cfc554291197">Data Analyst / Data Scientist Intern</a></td>
 <td>Tampa, FL, 33621, US<br/>Remote</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648500?listingId=da205a94-89fa-46b5-8413-9f03a13cf3a8">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
-<td>Seattle, WA<br/>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ffa2840a-81f9-495a-a647-291b4155bd74">Research Scientist Intern, AI-Driven Neural Interfaces (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1436615821934863/">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>STAND TOGETHER</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaa59fc3-d864-4df2-90ba-f91deb83ff88">KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/651000b9-55f5-4ff7-9a5c-ff6cb569aecc">AI Data Science / Software Engineering PhD Intern New 2027</a></td>
-<td>US, Oregon, Hillsboro, United States of America<br/>US, California, Santa Clara, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cfff8e5-5264-4478-815b-2e59c9937037">Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398185388">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salesforce</strong></td>
-<td><a href="https://trueinterview.io/jobs/258ca580-430e-4e36-8537-935dc234c7d4">Summer 2027 Intern - AI Research</a></td>
-<td>California - Palo Alto, United States of America</td>
-<td align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sony</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a07e44e-5201-4011-b927-d9df7386d7a6">Research Engineer Intern (Ethical Creative and Protective AI Lab)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

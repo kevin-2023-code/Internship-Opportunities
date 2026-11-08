@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,002 open roles.** 810 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
+**994 open roles.** 802 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,73 +16,17 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>BlackRock</strong></td>
-<td><a href="https://trueinterview.io/jobs/86b212f8-5fbb-4638-a6ee-c2e992ef233b">2027 Quantitative Masters Internship Program - Technology - Analytics &amp; Modeling - New York</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468690447/">Apply</a></td>
+<td><strong>Liberty Mutual Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/73182d32-0261-4670-903f-86b06180565e">Cybersecurity Co-op (January - June 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460370875/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>DV Trading LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/26f068b7-1939-4c53-a05b-1bc8d7af8a04">Quantitative Risk Intern - Summer 2027</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719118005">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/7552f3ab-d893-4d38-9cff-b47cfc4eceb6">Cloud Advance Admin/Developer Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468827632/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/335c6bf8-628a-4da3-9660-4888a16b78bd">University - 2027 Summer Games Software Developer Intern - Charleston, SC</a></td>
-<td>Charleston, SC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460518284/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4125a702-b7d5-48e8-8fa0-cb23e0e2d7c8">University - 2027 Summer Games Software Developer Intern - San Diego, CA</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459829472/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/87b58e35-d224-4bf0-930a-a3e84ff0eeda">University, 2027 Summer Games Data Scientist Intern - Rome, NY</a></td>
-<td>Rome, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460503549/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/e11c40a0-ebc7-40cd-bac1-12fb639de3c5">AI Engineering Intern Summer 2027</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468835425/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Booz Allen Hamilton</strong></td>
-<td><a href="https://trueinterview.io/jobs/f737dbe3-b49c-4f4d-902b-0af1b9810cad">University, 2027 Summer Games Software Developer Intern - McLean, VA</a></td>
-<td>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459884945/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parsons Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
-<td>Centreville, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lennox</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bd2c07e-01a8-4c62-b264-1a4bbe7f41fd">AI-Enabled Full-Stack Software Engineering Intern</a></td>
-<td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468834524/">Apply</a></td>
+<td><strong>Rivian</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e04efa-c630-4752-b4b9-3241546ecc18">Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)</a></td>
+<td>Normal, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468019657/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**442 open roles.** 351 in the United States & Canada · 91 elsewhere in the world.
+**440 open roles.** 350 in the United States & Canada · 90 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2169,13 +2169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Enova</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766">Software Engineer Internship Summer 2027 (Hybrid)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8239619">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ac8caa1-c1f5-4fff-af6d-67b4d6fc7208">Software Engineer Internship – Marketing and Digital Team</a></td>
 <td>Des Moines, Iowa, United States</td>
@@ -2829,6 +2822,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/918fba57-4d83-40bd-ba54-0e10d4cc820d">Internship Programme 2027: Software Engineer (Java)</a></td>
 <td>Porto, Porto, Portugal<br/>United Kingdom<br/>Poland<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4419099411/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Mouseion</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb9ee983-2e74-4bf8-93a9-28e14daee49a">Software Engineer Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484482196/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
