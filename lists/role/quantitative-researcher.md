@@ -2,7 +2,7 @@
 
 # Quantitative Researcher
 
-**38 open roles.** 24 in the United States & Canada · 14 elsewhere in the world.
+**39 open roles.** 24 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -259,6 +259,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448">Apply</a></td>
 <td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Man Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/443fa779-c402-4158-b91d-0fb7735dc9ff">Quant Research Analyst Intern</a></td>
+<td>Shanghai</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>DV Trading</strong></td>

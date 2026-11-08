@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**91 open roles.** 62 in the United States & Canada · 29 elsewhere in the world.
+**92 open roles.** 62 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -616,6 +616,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101">Apply</a></td>
 <td align="center">28 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/443fa779-c402-4158-b91d-0fb7735dc9ff">Quant Research Analyst Intern</a></td>
+<td>Shanghai</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101">Apply</a></td>
+<td align="center">22 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Voleon</strong></td>

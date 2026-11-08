@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**593 open roles.** 471 in the United States & Canada · 122 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**594 open roles.** 472 in the United States & Canada · 122 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -38,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ed795113-2879-42d8-82fd-98fda8867026">Machine Learning Intern (Masters) - Summer 2027</a></td>
 <td>Seattle, WA<br/>Sunnyvale, CA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470193563/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/588f1711-9542-4bbf-b6bb-22bcd05efef4">Software Engineer Intern - Summer 2027</a></td>
+<td>Illinois, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472081272/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9">Mechanical Engineering Internship – Summer 2027</a></td>
 <td>Austin, TX<br/>San Diego, CA, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741704">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158">Multimedia Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US<br/>Santa Clara, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740640">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

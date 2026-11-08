@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**177 open roles.** 118 in the United States & Canada · 59 elsewhere in the world.
+**178 open roles.** 119 in the United States & Canada · 59 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -617,6 +617,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/398920d4-5aed-45ff-a71f-9b0ceff0c047">AI Kernel Engineer Intern</a></td>
 <td>Burlingame, CA (HQ)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scout AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/64617daf-883c-4ad1-b585-e8792b5ede5d">AI Engineer Intern - Fury Team (Summer 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>

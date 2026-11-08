@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**981 open roles.** 792 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**975 open roles.** 786 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/3448b0a3-6ba0-4445-a905-5a9b741324d1">Intern Application Developer – Salesforce - 2027</a></td>
+<td>Baton Rouge, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450860194/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Simon Property Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fb59e13-0711-48ba-8605-25add32a266a">Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463398644/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Leonardo DRS</strong></td>
+<td><a href="https://trueinterview.io/jobs/9df20e74-72eb-4108-9152-3254e5021b35">Embedded Software Engineer Intern</a></td>
+<td>Bridgeton, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486696394/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nissan Motor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8d6ccd3-08b4-4016-8342-49dc2fa46e33">Robotics Programmer Intern - Summer 2027 - Smyrna, TN</a></td>
+<td>Smyrna, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480882532/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Appian</strong></td>
 <td><a href="https://trueinterview.io/jobs/08317074-1e12-413e-aaf6-f9b44dc4cf6e">Software Engineering Intern</a></td>
@@ -199,6 +227,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a40dce79-30b5-4e7b-b06c-9a67e9609b98">Summer 2027 Internship in AI/Machine Learning and Computer Vision - Secret Clearance Required</a></td>
 <td>Herndon, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470190672/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/588f1711-9542-4bbf-b6bb-22bcd05efef4">Software Engineer Intern - Summer 2027</a></td>
+<td>Illinois, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472081272/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b575ec89-feeb-47e3-a3a7-f41b108d9436">Forward Deployed AI Scientist, Internship, Campus, United States - BCG X</a></td>
 <td>Chicago, IL<br/>Boston, MA<br/>New York, NY<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478176470/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/525eba98-f4af-4b28-ad88-ad1444311c18">Research Intern - Machine Learning and Statistics</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479519304/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb19d825-8d7e-48e6-8890-d5c3d82c6e58">Data Analyst and Business Intelligence Intern</a></td>
-<td>Alpharetta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469417087/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Boston Scientific</strong></td>
-<td><a href="https://trueinterview.io/jobs/7209e44b-de26-4432-b337-e3ef05fa685d">Urology R&amp;D Software Engineering Co-op</a></td>
-<td>Marlborough, MA<br/>Maple Grove, MN<br/>Georgetown, Massachusetts, United States<br/>+1 more</td>
-<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813743813-urology-r-d-software-engineering-co-op-maple-grove-us-mn-united-states-n-a">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Peterbilt Motors Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/2aa03880-e4fb-44d2-86f1-40c073c7eed6">2027 Summer Internship: Data Engineer</a></td>
-<td>Denton, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487285787/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Etched</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

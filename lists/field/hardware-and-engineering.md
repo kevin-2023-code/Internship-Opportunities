@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**791 open roles.** 717 in the United States & Canada · 74 elsewhere in the world.
+**796 open roles.** 722 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2050,6 +2050,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Scout AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ca220f2-0430-4975-8c95-eae52c4e2156">Mechanical Engineer Intern (Summer 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Ciena</strong></td>
 <td><a href="https://trueinterview.io/jobs/e229f20a-705b-47c6-a06a-2ed301e54f16">Electronic Reliability Engineer Co-op (Winter 2027)</a></td>
 <td>Ottawa, ON<br/>Ottawa, Canada</td>
@@ -2278,6 +2285,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aa9a8329-909e-4952-ac23-0b4eb4c92eec">Research Intern, Audio Hardware (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1445807477756644/">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Quantinuum</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe9eca70-5141-427a-bc8b-b2922897dca4">Mechanical/Process Engineering Intern - 1087</a></td>
+<td>US Broomfield, CO</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/8f05efc9-1bea-4bc0-87a3-c77485d7068e">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2dab2f86-cb60-4ec6-a22c-c515192818b9">Mechanical Engineering Intern - 1086</a></td>
+<td>US Broomfield, CO</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/6275872e-ffc4-4c29-803b-e643c5097039">Apply</a></td>
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1aa04bc2-9cab-4609-85e9-ac555ebc7771">Intern, Solutions Engineer – Board Test</a></td>
 <td>Novi, Michigan, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54849?lang=en-us">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/4afa4f98-e4a9-4079-b15c-8b3a0e0e9074">Aerodynamics Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872473002?gh_jid=8872473002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0f8f1c34-6358-451e-91c1-a98b3d31d034">Electrical Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872578002?gh_jid=8872578002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5537eea7-0f1a-444d-beac-5e3242699f4c">Flight Test Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872480002?gh_jid=8872480002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 </tbody>

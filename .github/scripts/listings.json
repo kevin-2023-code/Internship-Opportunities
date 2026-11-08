@@ -5,9 +5,109 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T15:03:57.245Z",
-  "count": 3495,
+  "listingsChangedAt": "2026-11-08T16:04:14.037Z",
+  "count": 3508,
   "listings": [
+    {
+      "id": "3448b0a3-6ba0-4445-a905-5a9b741324d1",
+      "company": "IBM",
+      "title": "Intern Application Developer – Salesforce - 2027",
+      "locations": [
+        "Baton Rouge, LA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450860194/",
+      "url": "https://trueinterview.io/jobs/3448b0a3-6ba0-4445-a905-5a9b741324d1",
+      "postedAt": "2026-11-08T15:43:00.000Z",
+      "updatedAt": "2026-11-08T15:43:00.000Z"
+    },
+    {
+      "id": "8fb59e13-0711-48ba-8605-25add32a266a",
+      "company": "Simon Property Group",
+      "title": "Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463398644/",
+      "url": "https://trueinterview.io/jobs/8fb59e13-0711-48ba-8605-25add32a266a",
+      "postedAt": "2026-11-08T15:29:00.000Z",
+      "updatedAt": "2026-11-08T15:29:00.000Z"
+    },
+    {
+      "id": "9df20e74-72eb-4108-9152-3254e5021b35",
+      "company": "Leonardo DRS",
+      "title": "Embedded Software Engineer Intern",
+      "locations": [
+        "Bridgeton, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486696394/",
+      "url": "https://trueinterview.io/jobs/9df20e74-72eb-4108-9152-3254e5021b35",
+      "postedAt": "2026-11-08T14:54:00.000Z",
+      "updatedAt": "2026-11-08T14:54:00.000Z"
+    },
+    {
+      "id": "c8d6ccd3-08b4-4016-8342-49dc2fa46e33",
+      "company": "Nissan Motor Corporation",
+      "title": "Robotics Programmer Intern - Summer 2027 - Smyrna, TN",
+      "locations": [
+        "Smyrna, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480882532/",
+      "url": "https://trueinterview.io/jobs/c8d6ccd3-08b4-4016-8342-49dc2fa46e33",
+      "postedAt": "2026-11-08T14:16:00.000Z",
+      "updatedAt": "2026-11-08T14:16:00.000Z"
+    },
     {
       "id": "08317074-1e12-413e-aaf6-f9b44dc4cf6e",
       "company": "Appian",
@@ -851,6 +951,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4470190672/",
       "url": "https://trueinterview.io/jobs/a40dce79-30b5-4e7b-b06c-9a67e9609b98",
+      "postedAt": "2026-11-08T00:00:00.000Z",
+      "updatedAt": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "id": "588f1711-9542-4bbf-b6bb-22bcd05efef4",
+      "company": "Motorola Solutions",
+      "title": "Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Illinois, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472081272/",
+      "url": "https://trueinterview.io/jobs/588f1711-9542-4bbf-b6bb-22bcd05efef4",
       "postedAt": "2026-11-08T00:00:00.000Z",
       "updatedAt": "2026-11-08T00:00:00.000Z"
     },
@@ -56752,6 +56877,33 @@
       "updatedAt": "2026-10-27T23:55:20.000Z"
     },
     {
+      "id": "1ca220f2-0430-4975-8c95-eae52c4e2156",
+      "company": "Scout AI",
+      "title": "Mechanical Engineer Intern (Summer 2027)",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076",
+      "url": "https://trueinterview.io/jobs/1ca220f2-0430-4975-8c95-eae52c4e2156",
+      "postedAt": "2026-10-27T20:57:55.000Z",
+      "updatedAt": "2026-10-27T20:57:55.000Z"
+    },
+    {
       "id": "d54ea8e7-8152-414a-8820-6ebe6a89f91a",
       "company": "wing",
       "title": "Hardware Test Engineering Intern",
@@ -60434,6 +60586,33 @@
       "updatedAt": "2026-10-23T22:14:24.000Z"
     },
     {
+      "id": "64617daf-883c-4ad1-b585-e8792b5ede5d",
+      "company": "Scout AI",
+      "title": "AI Engineer Intern - Fury Team (Summer 2027)",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+      "url": "https://trueinterview.io/jobs/64617daf-883c-4ad1-b585-e8792b5ede5d",
+      "postedAt": "2026-10-23T21:21:33.000Z",
+      "updatedAt": "2026-10-23T21:21:33.000Z"
+    },
+    {
       "id": "b9db7cde-5f33-48aa-87b0-f6ca26646b1d",
       "company": "Bosch",
       "title": "Academic Internship in Industrial Engineering and Management (f/m/div.)",
@@ -62612,6 +62791,31 @@
       "updatedAt": "2026-10-21T17:37:16.000Z"
     },
     {
+      "id": "fe9eca70-5141-427a-bc8b-b2922897dca4",
+      "company": "Quantinuum",
+      "title": "Mechanical/Process Engineering Intern - 1087",
+      "locations": [
+        "US Broomfield, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/quantinuum/8f05efc9-1bea-4bc0-87a3-c77485d7068e",
+      "url": "https://trueinterview.io/jobs/fe9eca70-5141-427a-bc8b-b2922897dca4",
+      "postedAt": "2026-10-21T17:24:07.000Z",
+      "updatedAt": "2026-10-21T17:24:07.000Z"
+    },
+    {
       "id": "d200f49d-1b2b-4e70-bdda-2feea67b815c",
       "company": "Toshiba Global Commerce Solutions - External",
       "title": "QA Automation Intern",
@@ -62635,6 +62839,31 @@
       "url": "https://trueinterview.io/jobs/d200f49d-1b2b-4e70-bdda-2feea67b815c",
       "postedAt": "2026-10-21T15:15:58.000Z",
       "updatedAt": "2026-10-21T15:15:58.000Z"
+    },
+    {
+      "id": "2dab2f86-cb60-4ec6-a22c-c515192818b9",
+      "company": "Quantinuum",
+      "title": "Mechanical Engineering Intern - 1086",
+      "locations": [
+        "US Broomfield, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/quantinuum/6275872e-ffc4-4c29-803b-e643c5097039",
+      "url": "https://trueinterview.io/jobs/2dab2f86-cb60-4ec6-a22c-c515192818b9",
+      "postedAt": "2026-10-21T15:06:25.000Z",
+      "updatedAt": "2026-10-21T15:06:25.000Z"
     },
     {
       "id": "a732de87-e2b3-4d9a-aa72-0ae200d68b6f",
@@ -67704,6 +67933,31 @@
       "url": "https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098",
       "postedAt": "2026-10-14T21:22:54.000Z",
       "updatedAt": "2026-10-14T21:22:54.000Z"
+    },
+    {
+      "id": "5bab3536-c21d-459b-9599-04288760b804",
+      "company": "Quantinuum",
+      "title": "Optics Engineering Intern - 1077",
+      "locations": [
+        "US Broomfield, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71",
+      "url": "https://trueinterview.io/jobs/5bab3536-c21d-459b-9599-04288760b804",
+      "postedAt": "2026-10-14T20:34:27.000Z",
+      "updatedAt": "2026-10-14T20:34:27.000Z"
     },
     {
       "id": "9db72285-bb0a-4eab-b6c9-fb58b82e3197",
@@ -77243,6 +77497,31 @@
       "updatedAt": "2026-10-01T00:00:00.000Z"
     },
     {
+      "id": "d3fc7c70-a145-4652-b8a2-7c3999c91af5",
+      "company": "Quantinuum",
+      "title": "Systems Engineering Intern - 1048",
+      "locations": [
+        "US Broomfield, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552",
+      "url": "https://trueinterview.io/jobs/d3fc7c70-a145-4652-b8a2-7c3999c91af5",
+      "postedAt": "2026-09-30T22:37:01.000Z",
+      "updatedAt": "2026-09-30T22:37:01.000Z"
+    },
+    {
       "id": "5a1f6221-6527-4610-bb1b-ed04249c56f5",
       "company": "Base Power",
       "title": "Hardware Reliability & Test Engineering Intern",
@@ -77350,6 +77629,31 @@
       "url": "https://trueinterview.io/jobs/7c2cc40e-3cf7-4b77-b8bf-cfdae7e730cb",
       "postedAt": "2026-09-30T21:34:37.000Z",
       "updatedAt": "2026-09-30T21:34:37.000Z"
+    },
+    {
+      "id": "71daf792-da75-4526-a328-cf4daf8190d0",
+      "company": "Quantinuum",
+      "title": "Mechanical Engineering Intern - 1047",
+      "locations": [
+        "US Brooklyn Park, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/quantinuum/5e7f7fba-41e1-454c-8985-30f7558095a2",
+      "url": "https://trueinterview.io/jobs/71daf792-da75-4526-a328-cf4daf8190d0",
+      "postedAt": "2026-09-30T20:41:42.000Z",
+      "updatedAt": "2026-09-30T20:41:42.000Z"
     },
     {
       "id": "a8aacb72-3c3e-47e3-89b6-8bccea6199dd",
@@ -81316,6 +81620,29 @@
       "updatedAt": "2026-09-22T09:31:23.000Z"
     },
     {
+      "id": "443fa779-c402-4158-b91d-0fb7735dc9ff",
+      "company": "Man Group",
+      "title": "Quant Research Analyst Intern",
+      "locations": [
+        "Shanghai"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101",
+      "url": "https://trueinterview.io/jobs/443fa779-c402-4158-b91d-0fb7735dc9ff",
+      "postedAt": "2026-09-22T08:48:00.000Z",
+      "updatedAt": "2026-09-22T08:48:00.000Z"
+    },
+    {
       "id": "b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22",
       "company": "Coinbase",
       "title": "Internal Audit Analytics Intern",
@@ -83548,6 +83875,31 @@
       "url": "https://trueinterview.io/jobs/e11024af-f77f-4aa1-a09e-d0307d28986a",
       "postedAt": "2026-09-17T15:25:28.000Z",
       "updatedAt": "2026-09-17T15:25:28.000Z"
+    },
+    {
+      "id": "4effb0f4-a999-4ce4-80d5-d5dc1f78eebf",
+      "company": "Quantinuum",
+      "title": "Mechanical Engineering Intern for Photonics Physics Package R&D - 996",
+      "locations": [
+        "US Broomfield, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/quantinuum/d36cdf8b-3100-4e0f-9b8b-2177a62cd822",
+      "url": "https://trueinterview.io/jobs/4effb0f4-a999-4ce4-80d5-d5dc1f78eebf",
+      "postedAt": "2026-09-17T15:23:25.000Z",
+      "updatedAt": "2026-09-17T15:23:25.000Z"
     },
     {
       "id": "a81f8e3f-809f-4b97-80e8-b93f78755569",
@@ -90870,31 +91222,6 @@
       "url": "https://trueinterview.io/jobs/d476c2e7-4382-430f-97ea-907793d02ad5",
       "postedAt": "2026-09-09T16:10:57.000Z",
       "updatedAt": "2026-09-09T16:10:57.000Z"
-    },
-    {
-      "id": "e9b6a991-d773-410d-8ba3-50c60572bfc0",
-      "company": "Crestoperations",
-      "title": "Beta Engineering Summer 2027 Internship",
-      "locations": [
-        "Pineville, Louisiana"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/crestoperations/776e2e50-9c77-41d7-9c51-05cd1075f2ab",
-      "url": "https://trueinterview.io/jobs/e9b6a991-d773-410d-8ba3-50c60572bfc0",
-      "postedAt": "2026-09-09T15:28:29.000Z",
-      "updatedAt": "2026-09-09T15:28:29.000Z"
     }
   ]
 }

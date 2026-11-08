@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-08 15:03 UTC_
+_Last updated: 2026-11-08 16:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 246 of the 1,344 employers on this list (35% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 246 of the 1,346 employers on this list (35% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,11 +32,11 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,295 | 331 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 717 | 74 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 505 | 182 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,301 | 331 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 722 | 74 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 506 | 182 |
 | [📱 Product & Design](field/product-and-design.md) | 166 | 61 |
-| [📈 Quantitative Finance](field/quantitative-finance.md) | 62 | 29 |
+| [📈 Quantitative Finance](field/quantitative-finance.md) | 62 | 30 |
 | [🧰 IT & Support](field/it-and-support.md) | 57 | 16 |
 
 ---
@@ -45,23 +45,23 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,214 of the 3,495** internships on this list (35%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,217 of the 3,508** internships on this list (35%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 471 | 122 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🏛️ Big Tech](company/big-tech.md) | 472 | 122 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
 | [🔬 Semiconductors & chips](company/semiconductors.md) | 208 | 61 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 171 | 41 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 172 | 41 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 118 | 21 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [📱 Consumer internet & media](company/consumer-internet.md) | 94 | 17 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚀 Aerospace & defence](company/aerospace-defense.md) | 89 | 2 | Every employer the company registry files under Aerospace & defence, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏢 Enterprise & business software](company/enterprise-saas.md) | 67 | 17 | Every employer the company registry files under Enterprise & business software, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [🧾 IT services & consulting](company/it-consulting.md) | 49 | 5 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🧾 IT services & consulting](company/it-consulting.md) | 50 | 5 | Every employer the company registry files under IT services & consulting, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [📐 Engineering & architecture firms](company/engineering-services.md) | 52 | 0 | Every employer the company registry files under Engineering & architecture firms, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏤 Mid-sized tech (200–999)](company/mid-size-tech.md) | 33 | 19 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 200 and 999 people. An employer the registry does not cover is in no size cut at all. |
 | [🛒 E-commerce & marketplaces](company/ecommerce-marketplace.md) | 41 | 7 | Every employer the company registry files under E-commerce & marketplaces, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [📈 Quant trading & hedge funds](company/quant-trading.md) | 23 | 23 | Every employer the company registry files under Quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🚗 Autonomy, automotive & mobility](company/autonomy-mobility.md) | 34 | 11 | Every employer the company registry files under Autonomy, automotive & mobility, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
-| [📈 Quant trading & hedge funds](company/quant-trading.md) | 23 | 22 | Every employer the company registry files under Quant trading & hedge funds, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [💳 Fintech, payments & crypto](company/fintech.md) | 21 | 8 | Every employer the company registry files under Fintech, payments & crypto, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [⚡ Energy, climate & industrial](company/energy-industrial.md) | 27 | 1 | Every employer the company registry files under Energy, climate & industrial, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🧠 AI labs & AI infrastructure](company/ai.md) | 23 | 4 | Every employer the company registry files under AI labs & AI infrastructure, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -79,14 +79,14 @@ _Between them these 23 filters hold **1,214 of the 3,495** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **1,758 of the 3,495** internships on this list (50%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **1,765 of the 3,508** internships on this list (50%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 350 | 93 |
-| [AI Engineer](role/ai-engineer.md) | 118 | 59 |
+| [Software Engineer](role/software-engineer.md) | 353 | 93 |
+| [AI Engineer](role/ai-engineer.md) | 119 | 59 |
 | [Machine Learning Engineer](role/machine-learning-engineer.md) | 128 | 32 |
 | [Hardware Engineer](role/hardware-engineer.md) | 116 | 10 |
 | [Product Manager](role/product-manager.md) | 75 | 36 |
@@ -95,9 +95,9 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Data Analyst](role/data-analyst.md) | 55 | 41 |
 | [Research Scientist](role/research-scientist.md) | 72 | 13 |
 | [Data Engineer](role/data-engineer.md) | 55 | 10 |
-| [Embedded Engineer](role/embedded-engineer.md) | 48 | 10 |
+| [Embedded Engineer](role/embedded-engineer.md) | 49 | 10 |
 | [QA Engineer](role/qa-engineer.md) | 28 | 12 |
-| [Quantitative Researcher](role/quantitative-researcher.md) | 24 | 14 |
+| [Quantitative Researcher](role/quantitative-researcher.md) | 24 | 15 |
 | [Quantitative Developer](role/quantitative-developer.md) | 28 | 9 |
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 20 | 8 |
 | [Mobile Engineer](role/mobile-engineer.md) | 14 | 2 |
@@ -105,7 +105,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [DevOps Engineer](role/devops-engineer.md) | 10 | 3 |
 | [Backend Engineer](role/backend-engineer.md) | 11 | 1 |
 | [Platform Engineer](role/platform-engineer.md) | 9 | 2 |
-| [Frontend Engineer](role/frontend-engineer.md) | 8 | 1 |
+| [Frontend Engineer](role/frontend-engineer.md) | 9 | 1 |
 | [Quantitative Trader](role/quantitative-trader.md) | 4 | 3 |
 
 ---
@@ -114,11 +114,11 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 35 filters hold **2,017 of the 3,495** internships on this list (58%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 35 filters hold **2,019 of the 3,508** internships on this list (58%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 504 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 506 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 192 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎓 Boston & Cambridge](place/boston.md) | 146 | 1 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
 | [🗽 New York City](place/new-york.md) | 147 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
@@ -160,11 +160,11 @@ _Between them these 35 filters hold **2,017 of the 3,495** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,020 of the 3,495** internships on this list (29%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,014 of the 3,508** internships on this list (29%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 792 | 189 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 786 | 189 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 33 | 14 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

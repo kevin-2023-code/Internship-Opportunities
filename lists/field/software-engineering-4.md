@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,626 open roles.** 1,295 in the United States & Canada · 331 elsewhere in the world.
+**1,632 open roles.** 1,301 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rundoo</strong></td>
+<td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
+<td>Redwood City<br/>San Mateo, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Fable Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b">Software Engineering Intern</a></td>
+<td>San Francisco, CA (Hybrid)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Magnet Forensics</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e814148-13c4-434f-9dc7-f67cceac8e9f">Software Developer Co-op (Winter 2027)</a></td>
+<td>Waterloo / Ottawa / Ontario</td>
+<td align="center"><a href="https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Formlabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/bacfa696-eba7-46bd-bafe-5c1b5c595fb3">Hardware Test Engineering Intern (Winter/Spring 2027)</a></td>
+<td>Somerville, MA</td>
+<td align="center"><a href="https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nuclear Promise X</strong></td>
+<td><a href="https://trueinterview.io/jobs/7804ad1d-0c76-4985-af66-e3a40056bf5d">Design Engineering Intern</a></td>
+<td>Ontario</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/NPX/4e2f6fd7-26dd-47d9-aa3c-b7ff6bdb2cdb">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Antares</strong></td>
+<td><a href="https://trueinterview.io/jobs/7a3142fa-b07c-4620-b2b4-8bac6f282415">Space Mechanical Design Engineering Intern - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f">R&amp;D Embedded Software Intern</a></td>
+<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c">Automotive Engineering Internship – Summer 2027</a></td>
@@ -671,13 +720,6 @@
 <td><a href="https://trueinterview.io/jobs/b05d5c79-4297-4fb9-89f9-a32544dddb8e">Developer Intern</a></td>
 <td>Pineville, Louisiana</td>
 <td align="center"><a href="https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e9b6a991-d773-410d-8ba3-50c60572bfc0">Beta Engineering Summer 2027 Internship</a></td>
-<td>Pineville, Louisiana</td>
-<td align="center"><a href="https://jobs.lever.co/crestoperations/776e2e50-9c77-41d7-9c51-05cd1075f2ab">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
@@ -2784,48 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>London, United Kingdom</td>
 <td align="center"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Drees &amp; Sommer Digital Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c59e65e-0882-4fb3-ac0c-d3333e43a09b">INTERNSHIP - Cybersecurity</a></td>
-<td>Málaga, Andalucía, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/DreesSommerSE/744000153103394-internship-cybersecurity">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/80f52bc0-51d9-4379-a303-dc1d6ac33ca9">2027 R&amp;D Engineering Internship</a></td>
-<td>Bayan Lepas, Pulau Pinang, Malaysia</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011795">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zynga</strong></td>
-<td><a href="https://trueinterview.io/jobs/6510e6db-02cc-4119-b692-4db2ca58d4bc">Mobile Developer Intern (C++)</a></td>
-<td>Barcelona, Spain</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6212933004">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HackerRank</strong></td>
-<td><a href="https://trueinterview.io/jobs/45c5c5be-b785-4fa5-b3b0-29a9b1ec1e0b">Software Development Engineer Intern</a></td>
-<td>Onsite in Bangalore</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hackerrank/jobs/8229735">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/350cda7c-3289-4540-bcb7-4bd192b21a9b">Analog Design Engineering Intern</a></td>
-<td>OSLO, Norway</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014487">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/e86d1c1b-4d94-4e37-9399-c0bdb08dd96d">Software Engineer Intern - Berlin (2027)</a></td>
-<td>DE-Berlin-Trion Building</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
 </table>

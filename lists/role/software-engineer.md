@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**443 open roles.** 350 in the United States & Canada · 93 elsewhere in the world.
+**446 open roles.** 353 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/3448b0a3-6ba0-4445-a905-5a9b741324d1">Intern Application Developer – Salesforce - 2027</a></td>
+<td>Baton Rouge, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450860194/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nissan Motor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8d6ccd3-08b4-4016-8342-49dc2fa46e33">Robotics Programmer Intern - Summer 2027 - Smyrna, TN</a></td>
+<td>Smyrna, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480882532/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/588f1711-9542-4bbf-b6bb-22bcd05efef4">Software Engineer Intern - Summer 2027</a></td>
+<td>Illinois, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472081272/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ryan</strong></td>
 <td><a href="https://trueinterview.io/jobs/26e95e0f-3a22-49ef-a5e5-c273a4583a64">Summer 2027 Intern, Software Development</a></td>
@@ -2809,27 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Klagenfurt, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457338173/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a768baa3-a12a-404f-a03e-8e87269c5a45">Internship - Software Developer for Test Engineering (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457815724/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FlightSafety International</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
-<td>Greater St. Louis</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Revolut</strong></td>
-<td><a href="https://trueinterview.io/jobs/918fba57-4d83-40bd-ba54-0e10d4cc820d">Internship Programme 2027: Software Engineer (Java)</a></td>
-<td>Porto, Porto, Portugal<br/>United Kingdom<br/>Poland<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4419099411/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
 </table>

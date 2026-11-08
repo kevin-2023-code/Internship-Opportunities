@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**687 open roles.** 505 in the United States & Canada · 182 elsewhere in the world.
+**688 open roles.** 506 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2736,6 +2736,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Scout AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/64617daf-883c-4ad1-b585-e8792b5ede5d">AI Engineer Intern - Fury Team (Summer 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Toyota Research Institute</strong></td>
 <td><a href="https://trueinterview.io/jobs/2be396e8-364d-4692-8e42-95a9ea450e5e">Human Aware Interactions and Learning Intern</a></td>
 <td>Cambridge, MA</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/35028c40-844d-4947-9bf6-f3f10b3a9fbf">AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027</a></td>
 <td>Office - Chicago<br/>Office - NYC, Office - NYC</td>
 <td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a06c1df-a418-4a60-8ab3-1513195aa794">PhD Research Intern, AI for Climate and Weather Simulation - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397966334">Apply</a></td>
 <td align="center">21 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,626 open roles.** 1,295 in the United States & Canada · 331 elsewhere in the world.
+**1,632 open roles.** 1,301 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Baxter International Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/7dc992bc-3ecc-4e9a-96be-ef62f298296f">Co-op Engineering R&amp;D</a></td>
+<td>Skaneateles Falls, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482535185/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/e208b3a9-6691-4e35-9e53-0a9d4b1a0e55">Electrical Design Engineer Intern</a></td>
+<td>Kokomo, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474976797/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ccb819d3-f425-4b74-95f8-fe295b7f9720">System Engineering Intern (Year-Round)</a></td>
+<td>Auburn Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474988225/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EnvelopiQ</strong></td>
+<td><a href="https://trueinterview.io/jobs/c72481b1-1144-4ef6-954b-ae6f7657dc08">Intern - Design Engineer</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466518705/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Impulse Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a31945a-b6e0-42e0-a33a-041199ed3006">Development Test Engineering Intern (Summer 2027)</a></td>
+<td>Redondo Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483162940/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/69ef6a68-7788-467b-8540-1a65f8e69213">Process Integration Development Engineer PhD Intern 2027</a></td>
@@ -1717,6 +1752,13 @@
 <td align="center">15 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Quantinuum</strong></td>
+<td><a href="https://trueinterview.io/jobs/5bab3536-c21d-459b-9599-04288760b804">Optics Engineering Intern - 1077</a></td>
+<td>US Broomfield, CO</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/9db72285-bb0a-4eab-b6c9-fb58b82e3197">Spring 2027: Mechanical Systems Engineering Co-op, Ninja (January to June)</a></td>
 <td>Needham, MA, United States</td>
@@ -2375,6 +2417,13 @@
 <td align="center">1 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Quantinuum</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3fc7c70-a145-4652-b8a2-7c3999c91af5">Systems Engineering Intern - 1048</a></td>
+<td>US Broomfield, CO</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/fcceecb2-58fb-4f34-8956-6fc148adf552">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Base Power</strong></td>
 <td><a href="https://trueinterview.io/jobs/5a1f6221-6527-4610-bb1b-ed04249c56f5">Hardware Reliability &amp; Test Engineering Intern</a></td>
 <td>Austin, TX</td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2">Software Engineering Co-op - Winter 2027</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rundoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
-<td>Redwood City<br/>San Mateo, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fable Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3339b12-f2e3-4a0c-8ac2-0efe0ea9233b">Software Engineering Intern</a></td>
-<td>San Francisco, CA (Hybrid)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Magnet Forensics</strong></td>
-<td><a href="https://trueinterview.io/jobs/4e814148-13c4-434f-9dc7-f67cceac8e9f">Software Developer Co-op (Winter 2027)</a></td>
-<td>Waterloo / Ottawa / Ontario</td>
-<td align="center"><a href="https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/bacfa696-eba7-46bd-bafe-5c1b5c595fb3">Hardware Test Engineering Intern (Winter/Spring 2027)</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Nuclear Promise X</strong></td>
-<td><a href="https://trueinterview.io/jobs/7804ad1d-0c76-4985-af66-e3a40056bf5d">Design Engineering Intern</a></td>
-<td>Ontario</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/NPX/4e2f6fd7-26dd-47d9-aa3c-b7ff6bdb2cdb">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Antares</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a3142fa-b07c-4620-b2b4-8bac6f282415">Space Mechanical Design Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/7feb2782-3bdc-4efe-b459-9751db944f81">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcc9e1b4-3c74-4e63-8b1e-1b7b5a07ed4f">R&amp;D Embedded Software Intern</a></td>
-<td>US-CO-Col Springs-Bldg C<br/>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54353?lang=en-us">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

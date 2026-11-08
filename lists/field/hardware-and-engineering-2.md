@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**791 open roles.** 717 in the United States & Canada · 74 elsewhere in the world.
+**796 open roles.** 722 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@
 <tbody>
 <tr>
 <td><strong>Wing</strong></td>
+<td><a href="https://trueinterview.io/jobs/4afa4f98-e4a9-4079-b15c-8b3a0e0e9074">Aerodynamics Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872473002?gh_jid=8872473002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0f8f1c34-6358-451e-91c1-a98b3d31d034">Electrical Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872578002?gh_jid=8872578002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5537eea7-0f1a-444d-beac-5e3242699f4c">Flight Test Engineering Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872480002?gh_jid=8872480002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4eda8dcb-a5c6-4175-a18a-623dc60e4c7e">Hardware Reliability Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8885631002?gh_jid=8885631002">Apply</a></td>
@@ -919,6 +940,13 @@
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Quantinuum</strong></td>
+<td><a href="https://trueinterview.io/jobs/71daf792-da75-4526-a328-cf4daf8190d0">Mechanical Engineering Intern - 1047</a></td>
+<td>US Brooklyn Park, MN</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/5e7f7fba-41e1-454c-8985-30f7558095a2">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Hermeus</strong></td>
 <td><a href="https://trueinterview.io/jobs/a8aacb72-3c3e-47e3-89b6-8bccea6199dd">Loads &amp; Dynamics Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
@@ -1560,6 +1588,13 @@
 <td><a href="https://trueinterview.io/jobs/05492c27-87e2-4a6b-b318-176c6a5aac81">Mechanical Engineering Intern Opportunities</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713812006">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Quantinuum</strong></td>
+<td><a href="https://trueinterview.io/jobs/4effb0f4-a999-4ce4-80d5-d5dc1f78eebf">Mechanical Engineering Intern for Photonics Physics Package R&amp;D - 996</a></td>
+<td>US Broomfield, CO</td>
+<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/d36cdf8b-3100-4e0f-9b8b-2177a62cd822">Apply</a></td>
 <td align="center">17 Sep 2026</td>
 </tr>
 <tr>

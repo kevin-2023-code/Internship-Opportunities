@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**504 open roles.**
+**506 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1581,6 +1581,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Scout AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ca220f2-0430-4975-8c95-eae52c4e2156">Mechanical Engineer Intern (Summer 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/fba467c4-30e8-4ee1-8ac9-20b48e132076">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Wing</strong></td>
 <td><a href="https://trueinterview.io/jobs/d54ea8e7-8152-414a-8820-6ebe6a89f91a">Hardware Test Engineering Intern</a></td>
 <td>Palo Alto, California</td>
@@ -1705,6 +1712,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA, HQ</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4724521006">Apply</a></td>
 <td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scout AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/64617daf-883c-4ad1-b585-e8792b5ede5d">AI Engineer Intern - Fury Team (Summer 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>MongoDB</strong></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ed7d8822-0fcd-41eb-b597-99f0702f6cea">Electrical Engineering Intern (Summer 2027)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5255112007">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/05970b35-e7e0-4107-a016-fbf9ecedc699">PhD Research Intern, Embodied and Agentic AI - 2027</a></td>
-<td>Santa Clara, CA, US<br/>CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725773">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/981d573f-6265-4937-a38a-c553a9cdcedf">Modular Engineering Internship – Summer 2027</a></td>
-<td>Los Altos, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446721246663">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
