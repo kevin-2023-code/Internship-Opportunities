@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**506 open roles.**
+**505 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -395,13 +395,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c9da9ff-c61c-4c18-b10d-e7c2825a7730">Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)</a></td>
 <td>Berkeley, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488030782/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7">Product Manager Spring Co-op 2027</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4453039527/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ed7d8822-0fcd-41eb-b597-99f0702f6cea">Electrical Engineering Intern (Summer 2027)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5255112007">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/05970b35-e7e0-4107-a016-fbf9ecedc699">PhD Research Intern, Embodied and Agentic AI - 2027</a></td>
+<td>Santa Clara, CA, US<br/>CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725773">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 </tbody>

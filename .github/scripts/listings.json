@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T21:04:10.359Z",
-  "count": 3510,
+  "listingsChangedAt": "2026-11-08T22:04:12.055Z",
+  "count": 3509,
   "listings": [
+    {
+      "id": "ac4a5170-5068-4a89-91ac-8574529b9260",
+      "company": "Daice Labs",
+      "title": "AI/ML Engineering Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487660304/",
+      "url": "https://trueinterview.io/jobs/ac4a5170-5068-4a89-91ac-8574529b9260",
+      "postedAt": "2026-11-08T20:52:00.000Z",
+      "updatedAt": "2026-11-08T20:52:00.000Z"
+    },
     {
       "id": "e7c4a409-b359-4708-8d71-0049759019b0",
       "company": "NVIDIA",
@@ -7206,33 +7231,6 @@
       "url": "https://trueinterview.io/jobs/2c9da9ff-c61c-4c18-b10d-e7c2825a7730",
       "postedAt": "2026-11-05T20:27:00.000Z",
       "updatedAt": "2026-11-05T20:27:00.000Z"
-    },
-    {
-      "id": "338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7",
-      "company": "IBM",
-      "title": "Product Manager Spring Co-op 2027",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4453039527/",
-      "url": "https://trueinterview.io/jobs/338d1ebd-9f9e-4a03-963d-b90a6f9fb7e7",
-      "postedAt": "2026-11-05T20:24:00.000Z",
-      "updatedAt": "2026-11-05T20:24:00.000Z"
     },
     {
       "id": "0ec232c3-1183-4af7-8616-1c949c52cd44",
@@ -91259,34 +91257,6 @@
       "url": "https://trueinterview.io/jobs/8a5d3216-939f-4937-832d-34c7a82b29aa",
       "postedAt": "2026-09-09T22:30:01.000Z",
       "updatedAt": "2026-09-09T22:30:01.000Z"
-    },
-    {
-      "id": "c937133a-7136-4db6-9056-2423c59ccd44",
-      "company": "Smartlyio",
-      "title": "Marketing Science Intern",
-      "locations": [
-        "Chicago, Illinois, United States",
-        "Chicago"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/smartlyio/jobs/6186906004",
-      "url": "https://trueinterview.io/jobs/c937133a-7136-4db6-9056-2423c59ccd44",
-      "postedAt": "2026-09-09T21:46:26.000Z",
-      "updatedAt": "2026-09-09T21:46:26.000Z"
     }
   ]
 }

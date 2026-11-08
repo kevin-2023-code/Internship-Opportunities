@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2712c474-04d6-4d17-90dd-4503571f6774">Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR</a></td>
+<td>Redmond, WA, United States<br/>Burlingame, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1075160338670575/">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Drivewealth</strong></td>
 <td><a href="https://trueinterview.io/jobs/35028c40-844d-4947-9bf6-f3f10b3a9fbf">AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027</a></td>
 <td>Office - Chicago<br/>Office - NYC, Office - NYC</td>
@@ -769,13 +776,6 @@
 <td><a href="https://trueinterview.io/jobs/8a5d3216-939f-4937-832d-34c7a82b29aa">Data Science Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b/apply">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Smartlyio</strong></td>
-<td><a href="https://trueinterview.io/jobs/c937133a-7136-4db6-9056-2423c59ccd44">Marketing Science Intern</a></td>
-<td>Chicago, Illinois, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/smartlyio/jobs/6186906004">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

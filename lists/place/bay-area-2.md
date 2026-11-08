@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**506 open roles.**
+**505 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/05970b35-e7e0-4107-a016-fbf9ecedc699">PhD Research Intern, Embodied and Agentic AI - 2027</a></td>
-<td>Santa Clara, CA, US<br/>CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397725773">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>QUALCOMM</strong></td>
 <td><a href="https://trueinterview.io/jobs/981d573f-6265-4937-a38a-c553a9cdcedf">Modular Engineering Internship – Summer 2027</a></td>
