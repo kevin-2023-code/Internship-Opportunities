@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**144 open roles.**
+**145 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -246,6 +246,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/60c7a26d-eee0-4bd4-adb7-19aa2d0f6a21">Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/38959fe8-186b-4c82-a7ab-e55f53b91921">Research Scientist Intern, Spatial Reasoning &amp; Localization (PhD)</a></td>
+<td>Boston, MA<br/>Redmond, WA</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1218542847568705/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

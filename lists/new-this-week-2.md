@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/abd5ef85-1c00-4e2e-b2f8-60c34fbcb6b0">Research Intern - Machine Learning for Biology and Healthcare</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479520297/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>BorgWarner</strong></td>
 <td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
 <td>Auburn Hills, Michigan, United States</td>
@@ -1418,7 +1425,7 @@
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/38959fe8-186b-4c82-a7ab-e55f53b91921">Research Scientist Intern, Spatial Reasoning &amp; Localization (PhD)</a></td>
-<td>Redmond, WA</td>
+<td>Boston, MA<br/>Redmond, WA</td>
 <td align="center"><a href="https://www.metacareers.com/jobs/1218542847568705/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
@@ -2597,13 +2604,6 @@
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485934151/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TaskVerse</strong></td>
-<td><a href="https://trueinterview.io/jobs/8955a067-ecc7-46e8-a2d7-d91d90844cc3">Software Developer Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485914798/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
 </table>

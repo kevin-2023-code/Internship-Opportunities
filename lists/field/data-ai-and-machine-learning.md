@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**693 open roles.** 509 in the United States & Canada · 184 elsewhere in the world.
+**692 open roles.** 508 in the United States & Canada · 184 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1429,7 +1429,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/38959fe8-186b-4c82-a7ab-e55f53b91921">Research Scientist Intern, Spatial Reasoning &amp; Localization (PhD)</a></td>
-<td>Redmond, WA</td>
+<td>Boston, MA<br/>Redmond, WA</td>
 <td align="center"><a href="https://www.metacareers.com/jobs/1218542847568705/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>

@@ -139,7 +139,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/38959fe8-186b-4c82-a7ab-e55f53b91921">Research Scientist Intern, Spatial Reasoning &amp; Localization (PhD)</a></td>
-<td>Redmond, WA</td>
+<td>Redmond, WA<br/>Boston, MA</td>
 <td align="center"><a href="https://www.metacareers.com/jobs/1218542847568705/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>

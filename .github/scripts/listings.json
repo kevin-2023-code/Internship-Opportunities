@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T22:04:12.055Z",
-  "count": 3509,
+  "listingsChangedAt": "2026-11-08T23:04:00.037Z",
+  "count": 3506,
   "listings": [
     {
       "id": "ac4a5170-5068-4a89-91ac-8574529b9260",
@@ -57,6 +57,31 @@
       "url": "https://trueinterview.io/jobs/e7c4a409-b359-4708-8d71-0049759019b0",
       "postedAt": "2026-11-08T19:34:00.000Z",
       "updatedAt": "2026-11-08T19:34:00.000Z"
+    },
+    {
+      "id": "1dac813e-b900-4b6b-baed-a73709ade332",
+      "company": "Cedonix",
+      "title": "Cybersecurity Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488788761/",
+      "url": "https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332",
+      "postedAt": "2026-11-08T18:57:00.000Z",
+      "updatedAt": "2026-11-08T18:57:00.000Z"
     },
     {
       "id": "5ebf3a23-8293-4404-baa1-22a19728177c",
@@ -19329,9 +19354,12 @@
       "company": "Meta",
       "title": "Research Scientist Intern, Spatial Reasoning & Localization (PhD)",
       "locations": [
-        "Redmond, WA"
+        "Redmond, WA",
+        "Boston, MA"
       ],
-      "cities": [],
+      "cities": [
+        "Boston, MA"
+      ],
       "countries": [
         "United States"
       ],
@@ -91152,111 +91180,6 @@
       "url": "https://trueinterview.io/jobs/9ddd6196-bd67-47a0-9c4c-802a4f483234",
       "postedAt": "2026-09-09T23:15:07.000Z",
       "updatedAt": "2026-09-09T23:15:07.000Z"
-    },
-    {
-      "id": "4be5b5e3-d7d6-40ab-8c98-f48670378da7",
-      "company": "Rocket Lab Corporation",
-      "title": "Fluid Systems Intern Summer 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003",
-      "url": "https://trueinterview.io/jobs/4be5b5e3-d7d6-40ab-8c98-f48670378da7",
-      "postedAt": "2026-09-09T22:57:41.000Z",
-      "updatedAt": "2026-09-09T22:57:41.000Z"
-    },
-    {
-      "id": "307dd7dd-f774-403a-86c1-ed19152042ad",
-      "company": "Rocket Lab Corporation",
-      "title": "Flight Software Intern Summer 2027",
-      "locations": [
-        "Littleton, CO",
-        "ASI Office"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
-      "url": "https://trueinterview.io/jobs/307dd7dd-f774-403a-86c1-ed19152042ad",
-      "postedAt": "2026-09-09T22:49:59.000Z",
-      "updatedAt": "2026-09-09T22:49:59.000Z"
-    },
-    {
-      "id": "f8507866-76eb-49fa-a66f-49381e812bbf",
-      "company": "Rocket Lab Corporation",
-      "title": "Additive Manufacturing Intern Summer 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7984600003",
-      "url": "https://trueinterview.io/jobs/f8507866-76eb-49fa-a66f-49381e812bbf",
-      "postedAt": "2026-09-09T22:35:11.000Z",
-      "updatedAt": "2026-09-09T22:35:11.000Z"
-    },
-    {
-      "id": "8a5d3216-939f-4937-832d-34c7a82b29aa",
-      "company": "Cim Group, Lp",
-      "title": "Data Science Intern",
-      "locations": [
-        "Los Angeles, CA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/cimgroup/06e2dc38-9e3c-4f08-996a-b3df6711ab0b/apply",
-      "url": "https://trueinterview.io/jobs/8a5d3216-939f-4937-832d-34c7a82b29aa",
-      "postedAt": "2026-09-09T22:30:01.000Z",
-      "updatedAt": "2026-09-09T22:30:01.000Z"
     }
   ]
 }
