@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**688 open roles.** 506 in the United States & Canada · 182 elsewhere in the world.
+**692 open roles.** 510 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9">Intern Data Engineer - Data Services - 2027</a></td>
+<td>Baton Rouge, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451257884/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c564233e-2311-4e0c-bb04-5b2f9e6a5efe">Intern Data Engineers - AI &amp; Analytics - 2027</a></td>
+<td>Baton Rouge, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451280746/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/858666a3-67aa-4882-86f6-d857d1103748">Autonomy Engineer Intern, Computer Vision / Deep Learning, 2027</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e012ee71-c0db-4567-9d25-ad11d16bcac8">Research Scientist Intern, Robot Foundation Models (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/27730225806654441/">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2712c474-04d6-4d17-90dd-4503571f6774">Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR</a></td>
-<td>Redmond, WA, United States<br/>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1075160338670575/">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Drivewealth</strong></td>
-<td><a href="https://trueinterview.io/jobs/35028c40-844d-4947-9bf6-f3f10b3a9fbf">AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027</a></td>
-<td>Office - Chicago<br/>Office - NYC, Office - NYC</td>
-<td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003">Apply</a></td>
 <td align="center">21 Oct 2026</td>
 </tr>
 </tbody>

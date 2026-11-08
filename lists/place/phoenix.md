@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**39 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -282,13 +282,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chandler, AZ<br/>Austin, TX<br/>Santa Clara, CA, United States of America<br/>+6 more</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brph</strong></td>
-<td><a href="https://trueinterview.io/jobs/5160073a-81b2-4e3f-8990-68a22f1da4e7">Electrical Engineer Intern</a></td>
-<td>Phoenix, Arizona, United States<br/>Melbourne, Florida, United States<br/>Orlando, Florida, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brph/jobs/4399734009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

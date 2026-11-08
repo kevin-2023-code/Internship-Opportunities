@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**506 open roles.**
+**508 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -678,6 +678,20 @@
 <td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
 <td>San Francisco, California, United States<br/>New York, NY</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5ce3717-cee3-4a7b-9a24-73798e0f424d">AI/ML Intern Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/369c7862-a1b2-4626-958d-2fcd8d3068dc">Policy Engineering Intern- Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

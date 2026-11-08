@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**47 open roles.** 33 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
+**49 open roles.** 35 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -233,6 +233,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/ecfd2172-b0aa-44f6-a697-2c602682aa8a">Kasten Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4fe7e46-b27d-4a4a-aa44-f2b661ca3af8">AI &amp; Automation Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Domino Data Lab</strong></td>

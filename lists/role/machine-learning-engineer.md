@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**160 open roles.** 128 in the United States & Canada · 32 elsewhere in the world.
+**161 open roles.** 129 in the United States & Canada · 32 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -911,6 +911,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/65bb4f66-47c0-4b9d-b301-9906cd87e515">Software Engineer Intern, Machine Learning (Summer 2027)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Coworking</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5ce3717-cee3-4a7b-9a24-73798e0f424d">AI/ML Intern Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**446 open roles.** 353 in the United States & Canada · 93 elsewhere in the world.
+**447 open roles.** 355 in the United States & Canada · 92 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d87d862-63de-4f29-8209-1818c2f84d40">Internship - Automation Developer (f/m/div)</a></td>
+<td>Klagenfurt, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457338173/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a768baa3-a12a-404f-a03e-8e87269c5a45">Internship - Software Developer for Test Engineering (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457815724/">Apply</a></td>

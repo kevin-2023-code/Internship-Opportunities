@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,632 open roles.** 1,301 in the United States & Canada · 331 elsewhere in the world.
+**1,637 open roles.** 1,306 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Gerdau North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/efe6ae80-e015-448f-8e57-7f0d934c58d8">2027 Summer Engineering Internship</a></td>
+<td>Cartersville, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465596665/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GPD Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/3645d90d-d4ce-427b-a702-c4b4076c4c96">Electrical Design Engineering Co-op</a></td>
+<td>Cleveland, OH<br/>Akron, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465789702/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Baxter International Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/7dc992bc-3ecc-4e9a-96be-ef62f298296f">Co-op Engineering R&amp;D</a></td>
@@ -1675,6 +1689,13 @@
 <td align="center">16 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/6595e4f2-4521-4bb7-af21-bc48eff0f573">Data &amp; Analytics Engineering Intern - Summer 2027</a></td>
+<td>Alpharetta, GA, USA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>City of New York</strong></td>
 <td><a href="https://trueinterview.io/jobs/83e0df71-eea2-4ade-9019-d8655956df3f">Air Permitting Engineering Intern</a></td>
 <td>Corona, New York, United States</td>
@@ -2793,27 +2814,6 @@
 <td>Des Moines, Iowa, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000150732768-software-engineer-internship-technology-healthcare-innovation">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/f2a88e3f-b9bb-4f23-8d35-a8a0dbb8f747">PhD Research Intern, Networking - 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397623550">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9d9592ca-757a-4e48-8720-931135f30849">BI Developer Intern - Hybrid in Dallas, TX</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2603021909">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Achievers</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2">Software Engineering Co-op - Winter 2027</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply">Apply</a></td>
-<td align="center">18 Sep 2026</td>
 </tr>
 </tbody>
 </table>

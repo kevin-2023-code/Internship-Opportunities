@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**446 open roles.** 353 in the United States & Canada · 93 elsewhere in the world.
+**447 open roles.** 355 in the United States & Canada · 92 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3448b0a3-6ba0-4445-a905-5a9b741324d1">Intern Application Developer – Salesforce - 2027</a></td>
 <td>Baton Rouge, LA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450860194/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f9085db9-c1ae-494b-8bda-65642714af5b">Intern Application Developer 2027 – DPE</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451264816/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/13940705-1dcf-41ee-9a6d-0a7bccfdcd0f">Intern Developer – Adobe 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451254860/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
@@ -2762,13 +2776,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a></td>
-<td>London, England, United Kingdom<br/>Atlanta, Georgia, United States<br/>Boston, Massachusetts, United States<br/>+7 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Crédit Agricole CIB</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4">.NET Software Engineer Intern (Jan 2027 intake)</a></td>
 <td>Singapore, Singapore</td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>
 <td>Harrow, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d87d862-63de-4f29-8209-1818c2f84d40">Internship - Automation Developer (f/m/div)</a></td>
-<td>Klagenfurt, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457338173/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

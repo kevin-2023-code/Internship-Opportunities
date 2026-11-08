@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**975 open roles.** 786 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**972 open roles.** 783 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Moog Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
+<td>Torrance, California, United States</td>
+<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/85c58ce9-ebea-48d5-9889-733bf9c04caa">Intern Robotics Software Engineering</a></td>
+<td>Pittsburgh, PA<br/>Pittsburgh, Pennsylvania, United States</td>
+<td align="center"><a href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BCG X</strong></td>
+<td><a href="https://trueinterview.io/jobs/1009746d-446a-4313-94e2-07b20b54fc2c">Forward Deployed AI Engineer, Internship, Campus, United States - BCG X</a></td>
+<td>Boston, MA<br/>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478169746/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b575ec89-feeb-47e3-a3a7-f41b108d9436">Forward Deployed AI Scientist, Internship, Campus, United States - BCG X</a></td>
+<td>Chicago, IL<br/>Boston, MA<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478176470/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/525eba98-f4af-4b28-ad88-ad1444311c18">Research Intern - Machine Learning and Statistics</a></td>
@@ -2668,55 +2696,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469535507/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>Federal Reserve Board</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf3b9a46-a3e9-43cc-b8a9-60666a254d86">Summer 2027 Intern – Software Developer – IT</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477837993/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/18d7769d-6ca9-4a6d-9599-1a35bfc108f8">Site Reliability Engineer Intern - OneIT - Poughkeepsie, NY</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466618183/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c8fc1cf6-f1fc-4487-b146-42f0cb9bff09">Site Reliability Engineer Intern - OneIT - Rochester, MN</a></td>
-<td>Rochester, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466298969/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Ancestry</strong></td>
-<td><a href="https://trueinterview.io/jobs/810f1fad-abe2-4f59-8440-76cb33aa98aa">Machine Learning Engineer, Co-op</a></td>
-<td>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477858941/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Federal Reserve Board</strong></td>
-<td><a href="https://trueinterview.io/jobs/63f09f83-2803-4380-9560-0f7123f67ff2">Summer 2027 Intern – Cloud Engineer – IT</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477846467/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
-<td>San Luis Obispo, CA</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477676855?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Celestica</strong></td>
-<td><a href="https://trueinterview.io/jobs/5aa0a310-b1c8-4efe-858a-5745f4abcbe8">Student Intern, AI / Data Science</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468015714/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2804,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2027370d-a4fd-4e02-a66a-01c7c0300c4c">Engineering Internship Program (Chemical, Electromechanical, Data science, AI)</a></td>
 <td>Heredia, Heredia Province, Costa Rica</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016703746-engineering-internship-program-chemical-electromechanical-data-science-ai-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Enovation Controls</strong></td>
+<td><a href="https://trueinterview.io/jobs/504f6786-458f-4435-9c37-72dd0b40bb10">Embedded Machine Learning Engineering Intern - Summer 2027</a></td>
+<td>OK</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257?listingId=a823f57c-b9a5-4ee3-95e0-35a6f1f00206">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0976cabb-a273-47bd-b9f4-3a4222ac1eb5">Manufacturing Software Engineering Intern - Summer 2027</a></td>
+<td>OK</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416?listingId=a823f57c-b9a5-4ee3-95e0-35a6f1f00206">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Point72</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17">2027 Trader Summer Intern (12-week program)</a></td>
+<td>Tokyo, Tokyo, Japan<br/>Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488199206/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

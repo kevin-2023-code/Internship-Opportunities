@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**23 open roles.** 14 in the United States & Canada · 9 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**28 open roles.** 19 in the United States & Canada · 9 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,6 +30,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+3 more</td>
 <td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
 <td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/6595e4f2-4521-4bb7-af21-bc48eff0f573">Data &amp; Analytics Engineering Intern - Summer 2027</a></td>
+<td>Alpharetta, GA, USA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101">Apply</a></td>
+<td align="center">16 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Sigmacomputing</strong></td>
@@ -99,6 +106,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/72700c8e-9101-4bb5-875b-31599f2eb316">Customer Care AI Analyst Intern - Summer 2027</a></td>
 <td>Columbus, OH, USA<br/>United States of America</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b5ce3717-cee3-4a7b-9a24-73798e0f424d">AI/ML Intern Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/369c7862-a1b2-4626-958d-2fcd8d3068dc">Policy Engineering Intern- Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ecfd2172-b0aa-44f6-a697-2c602682aa8a">Kasten Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4fe7e46-b27d-4a4a-aa44-f2b661ca3af8">AI &amp; Automation Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

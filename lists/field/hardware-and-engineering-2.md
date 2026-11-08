@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**796 open roles.** 722 in the United States & Canada · 74 elsewhere in the world.
+**793 open roles.** 719 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2246,27 +2246,6 @@
 <td><a href="https://trueinterview.io/jobs/463d62c1-1ce8-4eaf-beda-d3e35c6125fa">Municipal Engineering Internship</a></td>
 <td>Detroit, MI</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5233672007?gh_jid=5233672007">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brph</strong></td>
-<td><a href="https://trueinterview.io/jobs/5160073a-81b2-4e3f-8990-68a22f1da4e7">Electrical Engineer Intern</a></td>
-<td>Melbourne, Florida, United States<br/>Phoenix, Arizona, United States<br/>Orlando, Florida, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brph/jobs/4399734009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CESO, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/392db6b0-bcad-4067-8b0c-768796163f48">2027 Co-Op - Environmental Engineering</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://jobs.lever.co/ceso/c2f098bc-61ab-49c4-a83c-03cd4bbc691f">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d476c2e7-4382-430f-97ea-907793d02ad5">2027 Co-Op - Civil Engineering</a></td>
-<td>Columbus, OH<br/>Orlando, FL<br/>Charlotte, NC<br/>+1 more</td>
-<td align="center"><a href="https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

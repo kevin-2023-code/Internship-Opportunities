@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**975 open roles.** 786 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**972 open roles.** 783 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,27 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Enovation Controls</strong></td>
-<td><a href="https://trueinterview.io/jobs/504f6786-458f-4435-9c37-72dd0b40bb10">Embedded Machine Learning Engineering Intern - Summer 2027</a></td>
-<td>OK</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257?listingId=a823f57c-b9a5-4ee3-95e0-35a6f1f00206">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0976cabb-a273-47bd-b9f4-3a4222ac1eb5">Manufacturing Software Engineering Intern - Summer 2027</a></td>
-<td>OK</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416?listingId=a823f57c-b9a5-4ee3-95e0-35a6f1f00206">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Point72</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17">2027 Trader Summer Intern (12-week program)</a></td>
-<td>Tokyo, Tokyo, Japan<br/>Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488199206/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Back Market</strong></td>
 <td><a href="https://trueinterview.io/jobs/de5fc62c-924a-48cb-b9ef-c8db5a6baede">Software Engineer Intern</a></td>

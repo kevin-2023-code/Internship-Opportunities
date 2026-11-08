@@ -653,11 +653,11 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a></td>
-<td>London, England, United Kingdom<br/>Atlanta, Georgia, United States<br/>Boston, Massachusetts, United States<br/>+7 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007">Apply</a></td>
-<td align="center">29 Oct 2026</td>
+<td><strong>Isar Aerospace Se</strong></td>
+<td><a href="https://trueinterview.io/jobs/3853c5cb-54cf-404e-8ee3-e4485b4f20b4">12 months internship - Propulsion Test Engineer (m/f/d)</a></td>
+<td>Kiruna, Norrbotten, Sweden</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>The Exploration Company</strong></td>

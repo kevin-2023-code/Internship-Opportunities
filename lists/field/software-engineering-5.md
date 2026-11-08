@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,632 open roles.** 1,301 in the United States & Canada · 331 elsewhere in the world.
+**1,637 open roles.** 1,306 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1145d27-378f-4b8f-bfcf-0e90a1523276">Odometry Algorithm Developer Intern</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153538319-odometry-algorithm-developer-intern">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e547382-97e0-4b30-96db-2b5edc312008">Analog Design Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018470">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Taboola</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9f6f3d9-39b1-49ab-9193-f3204926df5d">Software Engineer Intern</a></td>
+<td>Tel Aviv, Israel</td>
+<td align="center"><a href="https://www.taboola.com/careers/job/8229871?gh_jid=8229871">Apply</a></td>
+<td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zeeco</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9161335-8daa-469e-bfb0-4722de64ce1d">Graduate Engineering Summer Internship 2027</a></td>
+<td>Stamford, England<br/>United Kingdom</td>
+<td align="center"><a href="https://jobs.lever.co/zeeco/25ddf05c-66d4-43b9-a1e3-7bfd61a12821">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/b527973e-f432-4ced-a773-74a7c41ba25a">Software Engineering Intern (2027 Start) - London</a></td>
+<td>London, United Kingdom</td>
+<td align="center"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Drees &amp; Sommer Digital Services</strong></td>
 <td><a href="https://trueinterview.io/jobs/1c59e65e-0882-4fb3-ac0c-d3333e43a09b">INTERNSHIP - Cybersecurity</a></td>

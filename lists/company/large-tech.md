@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**139 open roles.** 118 in the United States & Canada · 21 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**144 open roles.** 123 in the United States & Canada · 21 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -403,6 +403,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">19 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/6595e4f2-4521-4bb7-af21-bc48eff0f573">Data &amp; Analytics Engineering Intern - Summer 2027</a></td>
+<td>Alpharetta, GA, USA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/2204f862-b2cd-467d-aa4d-86b8db2e9a25">Spring 2027: Noise &amp; Vibrations Engineering Co-op (January to June)</a></td>
 <td>Needham, MA, United States, MA - Needham</td>
@@ -785,6 +792,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888">Data Science Intern, Algorithms (Summer 2027)</a></td>
 <td>San Francisco, California, United States<br/>New York, NY</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5ce3717-cee3-4a7b-9a24-73798e0f424d">AI/ML Intern Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/369c7862-a1b2-4626-958d-2fcd8d3068dc">Policy Engineering Intern- Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ecfd2172-b0aa-44f6-a697-2c602682aa8a">Kasten Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4fe7e46-b27d-4a4a-aa44-f2b661ca3af8">AI &amp; Automation Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

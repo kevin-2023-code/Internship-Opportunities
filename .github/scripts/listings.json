@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T16:04:14.037Z",
-  "count": 3508,
+  "listingsChangedAt": "2026-11-08T17:03:46.843Z",
+  "count": 3514,
   "listings": [
+    {
+      "id": "a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9",
+      "company": "IBM",
+      "title": "Intern Data Engineer - Data Services - 2027",
+      "locations": [
+        "Baton Rouge, LA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451257884/",
+      "url": "https://trueinterview.io/jobs/a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9",
+      "postedAt": "2026-11-08T16:01:00.000Z",
+      "updatedAt": "2026-11-08T16:01:00.000Z"
+    },
     {
       "id": "3448b0a3-6ba0-4445-a905-5a9b741324d1",
       "company": "IBM",
@@ -32,6 +57,85 @@
       "url": "https://trueinterview.io/jobs/3448b0a3-6ba0-4445-a905-5a9b741324d1",
       "postedAt": "2026-11-08T15:43:00.000Z",
       "updatedAt": "2026-11-08T15:43:00.000Z"
+    },
+    {
+      "id": "f9085db9-c1ae-494b-8bda-65642714af5b",
+      "company": "IBM",
+      "title": "Intern Application Developer 2027 – DPE",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451264816/",
+      "url": "https://trueinterview.io/jobs/f9085db9-c1ae-494b-8bda-65642714af5b",
+      "postedAt": "2026-11-08T15:42:00.000Z",
+      "updatedAt": "2026-11-08T15:42:00.000Z"
+    },
+    {
+      "id": "13940705-1dcf-41ee-9a6d-0a7bccfdcd0f",
+      "company": "IBM",
+      "title": "Intern Developer – Adobe 2027",
+      "locations": [
+        "New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451254860/",
+      "url": "https://trueinterview.io/jobs/13940705-1dcf-41ee-9a6d-0a7bccfdcd0f",
+      "postedAt": "2026-11-08T15:39:00.000Z",
+      "updatedAt": "2026-11-08T15:39:00.000Z"
+    },
+    {
+      "id": "c564233e-2311-4e0c-bb04-5b2f9e6a5efe",
+      "company": "IBM",
+      "title": "Intern Data Engineers - AI & Analytics - 2027",
+      "locations": [
+        "Baton Rouge, LA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451280746/",
+      "url": "https://trueinterview.io/jobs/c564233e-2311-4e0c-bb04-5b2f9e6a5efe",
+      "postedAt": "2026-11-08T15:33:00.000Z",
+      "updatedAt": "2026-11-08T15:33:00.000Z"
     },
     {
       "id": "8fb59e13-0711-48ba-8605-25add32a266a",
@@ -40914,42 +41018,6 @@
       "updatedAt": "2026-10-29T12:16:00.000Z"
     },
     {
-      "id": "3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8",
-      "company": "Anduril Industries",
-      "title": "2027 Software Engineer Intern",
-      "locations": [
-        "London, England, United Kingdom",
-        "Atlanta, Georgia, United States",
-        "Boston, Massachusetts, United States",
-        "Broomfield, Colorado, United States",
-        "Colorado Springs, Colorado, United States",
-        "Costa Mesa, California, United States",
-        "Fort Collins, Colorado, United States",
-        "Irvine, California, United States",
-        "Reston, Virginia, United States",
-        "Sea"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
-      "url": "https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8",
-      "postedAt": "2026-10-29T12:05:00.000Z",
-      "updatedAt": "2026-10-29T12:05:00.000Z"
-    },
-    {
       "id": "0f88c739-1708-4715-ba16-6c3cdf313393",
       "company": "Infineon Technologies",
       "title": "Internship - Automation engineer (f/m/div)",
@@ -66835,6 +66903,31 @@
       "updatedAt": "2026-10-16T14:27:49.000Z"
     },
     {
+      "id": "6595e4f2-4521-4bb7-af21-bc48eff0f573",
+      "company": "Veeam Software",
+      "title": "Data & Analytics Engineering Intern - Summer 2027",
+      "locations": [
+        "Alpharetta, GA, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101",
+      "url": "https://trueinterview.io/jobs/6595e4f2-4521-4bb7-af21-bc48eff0f573",
+      "postedAt": "2026-10-16T14:24:47.000Z",
+      "updatedAt": "2026-10-16T14:24:47.000Z"
+    },
+    {
       "id": "83e0df71-eea2-4ade-9019-d8655956df3f",
       "company": "City of New York",
       "title": "Air Permitting Engineering Intern",
@@ -72061,6 +72154,31 @@
       "url": "https://trueinterview.io/jobs/94cd601d-6c1f-4dda-a471-1195becde419",
       "postedAt": "2026-10-08T15:20:12.000Z",
       "updatedAt": "2026-10-08T15:20:12.000Z"
+    },
+    {
+      "id": "3853c5cb-54cf-404e-8ee3-e4485b4f20b4",
+      "company": "Isar Aerospace Se",
+      "title": "12 months internship - Propulsion Test Engineer (m/f/d)",
+      "locations": [
+        "Kiruna, Norrbotten, Sweden"
+      ],
+      "cities": [],
+      "countries": [
+        "Sweden"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101",
+      "url": "https://trueinterview.io/jobs/3853c5cb-54cf-404e-8ee3-e4485b4f20b4",
+      "postedAt": "2026-10-08T12:24:28.000Z",
+      "updatedAt": "2026-10-08T12:24:28.000Z"
     },
     {
       "id": "8e971910-b44e-431c-97b6-7b8eb244df43",
@@ -88554,6 +88672,60 @@
       "updatedAt": "2026-09-11T15:55:19.000Z"
     },
     {
+      "id": "b5ce3717-cee3-4a7b-9a24-73798e0f424d",
+      "company": "Veeam Software",
+      "title": "AI/ML Intern Summer 2027",
+      "locations": [
+        "San Jose, CA, USA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101",
+      "url": "https://trueinterview.io/jobs/b5ce3717-cee3-4a7b-9a24-73798e0f424d",
+      "postedAt": "2026-09-11T15:49:05.000Z",
+      "updatedAt": "2026-09-11T15:49:05.000Z"
+    },
+    {
+      "id": "369c7862-a1b2-4626-958d-2fcd8d3068dc",
+      "company": "Veeam Software",
+      "title": "Policy Engineering Intern- Summer 2027",
+      "locations": [
+        "San Jose, CA, USA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101",
+      "url": "https://trueinterview.io/jobs/369c7862-a1b2-4626-958d-2fcd8d3068dc",
+      "postedAt": "2026-09-11T15:46:23.000Z",
+      "updatedAt": "2026-09-11T15:46:23.000Z"
+    },
+    {
       "id": "aaae746b-536a-4742-bbba-de00e6959715",
       "company": "Fortune Brands Innovations",
       "title": "Product Management Intern, B2B Security",
@@ -88577,6 +88749,56 @@
       "url": "https://trueinterview.io/jobs/aaae746b-536a-4742-bbba-de00e6959715",
       "postedAt": "2026-09-11T15:45:08.000Z",
       "updatedAt": "2026-09-11T15:45:08.000Z"
+    },
+    {
+      "id": "ecfd2172-b0aa-44f6-a697-2c602682aa8a",
+      "company": "Veeam Software",
+      "title": "Kasten Engineering Intern - Summer 2027",
+      "locations": [
+        "Remote, California, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101",
+      "url": "https://trueinterview.io/jobs/ecfd2172-b0aa-44f6-a697-2c602682aa8a",
+      "postedAt": "2026-09-11T15:39:59.000Z",
+      "updatedAt": "2026-09-11T15:39:59.000Z"
+    },
+    {
+      "id": "b4fe7e46-b27d-4a4a-aa44-f2b661ca3af8",
+      "company": "Veeam Software",
+      "title": "AI & Automation Engineering Intern - Summer 2027",
+      "locations": [
+        "Remote, Georgia, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101",
+      "url": "https://trueinterview.io/jobs/b4fe7e46-b27d-4a4a-aa44-f2b661ca3af8",
+      "postedAt": "2026-09-11T15:37:05.000Z",
+      "updatedAt": "2026-09-11T15:37:05.000Z"
     },
     {
       "id": "c16dad95-bbb0-43ae-8e37-1f96eaa9040f",
@@ -91139,89 +91361,6 @@
       "url": "https://trueinterview.io/jobs/b05d5c79-4297-4fb9-89f9-a32544dddb8e",
       "postedAt": "2026-09-09T17:16:25.000Z",
       "updatedAt": "2026-09-09T17:16:25.000Z"
-    },
-    {
-      "id": "5160073a-81b2-4e3f-8990-68a22f1da4e7",
-      "company": "Brph",
-      "title": "Electrical Engineer Intern",
-      "locations": [
-        "Phoenix, Arizona, United States",
-        "Melbourne, Florida, United States",
-        "Orlando, Florida, United States"
-      ],
-      "cities": [
-        "Melbourne"
-      ],
-      "countries": [
-        "United States",
-        "Australia"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/brph/jobs/4399734009",
-      "url": "https://trueinterview.io/jobs/5160073a-81b2-4e3f-8990-68a22f1da4e7",
-      "postedAt": "2026-09-09T16:31:46.000Z",
-      "updatedAt": "2026-09-09T16:31:46.000Z"
-    },
-    {
-      "id": "392db6b0-bcad-4067-8b0c-768796163f48",
-      "company": "CESO, Inc.",
-      "title": "2027 Co-Op - Environmental Engineering",
-      "locations": [
-        "Pittsburgh, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/ceso/c2f098bc-61ab-49c4-a83c-03cd4bbc691f",
-      "url": "https://trueinterview.io/jobs/392db6b0-bcad-4067-8b0c-768796163f48",
-      "postedAt": "2026-09-09T16:27:18.000Z",
-      "updatedAt": "2026-09-09T16:27:18.000Z"
-    },
-    {
-      "id": "d476c2e7-4382-430f-97ea-907793d02ad5",
-      "company": "CESO, Inc.",
-      "title": "2027 Co-Op - Civil Engineering",
-      "locations": [
-        "Columbus, OH",
-        "Orlando, FL",
-        "Charlotte, NC",
-        "Nashville, TN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/ceso/8aa0d12b-b375-4120-b15c-ab160d19ce20",
-      "url": "https://trueinterview.io/jobs/d476c2e7-4382-430f-97ea-907793d02ad5",
-      "postedAt": "2026-09-09T16:10:57.000Z",
-      "updatedAt": "2026-09-09T16:10:57.000Z"
     }
   ]
 }

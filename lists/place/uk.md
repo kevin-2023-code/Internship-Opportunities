@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**50 open roles.** 11 in the United States & Canada · 39 elsewhere in the world.
+**49 open roles.** 11 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -210,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cambridge, England, United Kingdom<br/>Aachen, North Rhine-Westphalia, Germany<br/>Aachen, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200692236">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a></td>
-<td>London, England, United Kingdom<br/>Atlanta, Georgia, United States<br/>Boston, Massachusetts, United States<br/>+7 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>DRW</strong></td>

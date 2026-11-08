@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,632 open roles.** 1,301 in the United States & Canada · 331 elsewhere in the world.
+**1,637 open roles.** 1,306 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f2a88e3f-b9bb-4f23-8d35-a8a0dbb8f747">PhD Research Intern, Networking - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397623550">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Tenet Healthcare Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d9592ca-757a-4e48-8720-931135f30849">BI Developer Intern - Hybrid in Dallas, TX</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2603021909">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Achievers</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec62f64c-0196-496a-a8e7-00676e7fb1a2">Software Engineering Co-op - Winter 2027</a></td>
+<td>Toronto, ON</td>
+<td align="center"><a href="https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Rundoo</strong></td>
 <td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
@@ -489,6 +510,20 @@
 <td><a href="https://trueinterview.io/jobs/dd5a923f-41ce-4b2c-9eff-110eeb13bf9f">Software Engineer Intern, Fullstack (Summer 2027 - Toronto)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/369c7862-a1b2-4626-958d-2fcd8d3068dc">Policy Engineering Intern- Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ecfd2172-b0aa-44f6-a697-2c602682aa8a">Kasten Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>
@@ -1729,13 +1764,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/3a4dbefa-e1b0-4dd1-8946-d5e839cdbef8">2027 Software Engineer Intern</a></td>
-<td>London, England, United Kingdom<br/>Atlanta, Georgia, United States<br/>Boston, Massachusetts, United States<br/>+7 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f88c739-1708-4715-ba16-6c3cdf313393">Internship - Automation engineer (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
@@ -2688,6 +2716,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">8 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Isar Aerospace Se</strong></td>
+<td><a href="https://trueinterview.io/jobs/3853c5cb-54cf-404e-8ee3-e4485b4f20b4">12 months internship - Propulsion Test Engineer (m/f/d)</a></td>
+<td>Kiruna, Norrbotten, Sweden</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Veolia</strong></td>
 <td><a href="https://trueinterview.io/jobs/94fe9428-56f0-4534-b71d-c00c53e139a6">Product Engineer - Internship</a></td>
 <td>Rivas-Vaciamadrid, Comunidad de Madrid, Spain</td>
@@ -2791,41 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hybrid</td>
 <td align="center"><a href="https://www.mastercontrol.com/careers/job-listings/role/?role=4738483005&amp;gh_jid=4738483005">Apply</a></td>
 <td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1145d27-378f-4b8f-bfcf-0e90a1523276">Odometry Algorithm Developer Intern</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153538319-odometry-algorithm-developer-intern">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e547382-97e0-4b30-96db-2b5edc312008">Analog Design Engineering Intern m/f/d</a></td>
-<td>Freising, Bayern, Germany</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018470">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Taboola</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9f6f3d9-39b1-49ab-9193-f3204926df5d">Software Engineer Intern</a></td>
-<td>Tel Aviv, Israel</td>
-<td align="center"><a href="https://www.taboola.com/careers/job/8229871?gh_jid=8229871">Apply</a></td>
-<td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Zeeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9161335-8daa-469e-bfb0-4722de64ce1d">Graduate Engineering Summer Internship 2027</a></td>
-<td>Stamford, England<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/zeeco/25ddf05c-66d4-43b9-a1e3-7bfd61a12821">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Databricks</strong></td>
-<td><a href="https://trueinterview.io/jobs/b527973e-f432-4ced-a773-74a7c41ba25a">Software Engineering Intern (2027 Start) - London</a></td>
-<td>London, United Kingdom</td>
-<td align="center"><a href="https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002">Apply</a></td>
-<td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
 </table>

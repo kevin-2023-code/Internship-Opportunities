@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**688 open roles.** 506 in the United States & Canada · 182 elsewhere in the world.
+**692 open roles.** 510 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/2712c474-04d6-4d17-90dd-4503571f6774">Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR</a></td>
+<td>Redmond, WA, United States<br/>Burlingame, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1075160338670575/">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Drivewealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/35028c40-844d-4947-9bf6-f3f10b3a9fbf">AI Consulting Associate Program (AI CAP) Product Owner Intern - Summer 2027</a></td>
+<td>Office - Chicago<br/>Office - NYC, Office - NYC</td>
+<td align="center"><a href="https://boards.greenhouse.io/drivewealth/jobs/8038087003?gh_jid=8038087003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a06c1df-a418-4a60-8ab3-1513195aa794">PhD Research Intern, AI for Climate and Weather Simulation - 2027</a></td>
@@ -727,6 +741,20 @@
 <td><a href="https://trueinterview.io/jobs/40b91e63-898e-4d87-a911-d01137fbc86c">Data Engineer Co-op 2027</a></td>
 <td>Rochester, NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Veeam Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5ce3717-cee3-4a7b-9a24-73798e0f424d">AI/ML Intern Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4fe7e46-b27d-4a4a-aa44-f2b661ca3af8">AI &amp; Automation Engineering Intern - Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 <tr>

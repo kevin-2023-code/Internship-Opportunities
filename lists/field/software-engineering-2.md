@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,632 open roles.** 1,301 in the United States & Canada · 331 elsewhere in the world.
+**1,637 open roles.** 1,306 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Economy Polymers &amp; Chemicals</strong></td>
+<td><a href="https://trueinterview.io/jobs/67139365-71b6-4a80-9374-ccdba4c858e4">AI &amp; Business Systems Automation Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485907864/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>L3Harris Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1074cbb4-2055-4bb1-b63f-1ec35263cbc6">Intern, Information Security Systems Engineer (Salt Lake City, UT)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478081281/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Pacific Life</strong></td>
 <td><a href="https://trueinterview.io/jobs/b676a847-a7d0-4329-a542-c497d0801f47">Summer 2027 Software Engineering Internship</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/a08302ea-9ac2-4413-98cd-c9be8473f427">Summer 2027 Intern - Cybersecurity</a></td>
 <td>Shady Grove, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476520484/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gerdau North America</strong></td>
-<td><a href="https://trueinterview.io/jobs/efe6ae80-e015-448f-8e57-7f0d934c58d8">2027 Summer Engineering Internship</a></td>
-<td>Cartersville, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465596665/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GPD Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/3645d90d-d4ce-427b-a702-c4b4076c4c96">Electrical Design Engineering Co-op</a></td>
-<td>Cleveland, OH<br/>Akron, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465789702/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
