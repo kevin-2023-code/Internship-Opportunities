@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**144 open roles.**
+**145 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
 <td>New York, NY<br/>Austin, TX<br/>Denver, CO<br/>+31 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cerity Partners</strong></td>
+<td><a href="https://trueinterview.io/jobs/85c81f7f-85d7-4e5d-8aa3-e0b01bb3465c">Investment Data &amp; Technology Analyst Internship</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470716517/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**58 open roles.**
+**57 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -330,13 +330,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6b0a73f9-76c8-48f0-bd43-b758dda340e0">Structural Engineer Internship - Hydraulic Structures</a></td>
 <td>Boise, ID</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422894009">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bbb7c5f2-54f1-4a84-9366-b9bf5388ef59">Electrical Engineer Internship</a></td>
-<td>Spokane, WA<br/>Bend, OR</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422847009">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🐎 Calgary & the Prairies
 
-**7 open roles.**
+**6 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a8d46312-226e-49a6-a900-f05c44a6ebc1">Co-op Winter 2027 Engineering Project Coordinator - 8-16 Months</a></td>
 <td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000153818219-co-op-winter-2027-engineering-project-coordinator-8-16-months">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b90cf0a0-96f7-4c38-ac53-1f58476a8403">Co-op Winter 2027 - Mechanical Engineering - 8 Months</a></td>
-<td>Calgary, AB<br/>Calgary, Alberta, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/GDMSI/744000153772296-co-op-winter-2027-mechanical-engineering-8-months">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

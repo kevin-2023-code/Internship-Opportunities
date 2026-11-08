@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**52 open roles.** 1 in the United States & Canada · 51 elsewhere in the world.
+**51 open roles.** 1 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -189,13 +189,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Chengdu, China<br/>Shanghai, China<br/>Beijing, China<br/>+1 more</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159038469-sap-student-training-rotation-program-vt-star-intern-application-engineer-2028-graduates">Apply</a></td>
 <td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe">Developer Technology Engineering Intern - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458903339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Kimi (Moonshot AI)</strong></td>
