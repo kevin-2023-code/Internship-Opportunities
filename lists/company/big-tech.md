@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**594 open roles.** 472 in the United States & Canada · 122 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**597 open roles.** 471 in the United States & Canada · 126 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -427,13 +427,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c4ef28c-1717-4e3f-b0cd-05acfd8a4f5b">Optical Test Automation Co-op/Intern</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40117">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/224e8a51-f9be-4365-8e0d-d6cb0f18dc0f">Silicon Photonics Packaging Engineer Co-op</a></td>
 <td>United States</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40848">Apply</a></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9">Mechanical Engineering Internship – Summer 2027</a></td>
 <td>Austin, TX<br/>San Diego, CA, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741704">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158">Multimedia Engineering Internship – Summer 2027</a></td>
+<td>San Diego, CA, US<br/>Santa Clara, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740640">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

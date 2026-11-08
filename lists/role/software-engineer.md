@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**443 open roles.** 351 in the United States & Canada · 92 elsewhere in the world.
+**444 open roles.** 351 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2608,6 +2608,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a683981-3d58-4f74-b797-75489e017fe4">Software Engineering Intern - Internal Developer Platform</a></td>
+<td>Amsterdam, The Netherlands</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/98fe57a5-9662-4f81-aa87-66aa2d701e9f">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Nexthink</strong></td>
 <td><a href="https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756">Java Software Engineer (Intern)</a></td>
 <td>Madrid, Spain<br/>Madrid, Comunidad de Madrid, Spain</td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
 <td>Greater St. Louis</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Revolut</strong></td>
-<td><a href="https://trueinterview.io/jobs/918fba57-4d83-40bd-ba54-0e10d4cc820d">Internship Programme 2027: Software Engineer (Java)</a></td>
-<td>Porto, Porto, Portugal<br/>United Kingdom<br/>Poland<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4419099411/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**97 open roles.** 56 in the United States & Canada · 41 elsewhere in the world.
+**96 open roles.** 56 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -700,13 +700,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cầu Giấy, Hà Nội, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Socotec/744000148921759-data-monitoring-analyst-intern">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Barnes &amp; Thornburg Llp</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6066ee5-986f-4888-802d-34a84acdaac1">2027 BT RISE Internship - Information Technology Data Intern</a></td>
-<td>Indianapolis</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

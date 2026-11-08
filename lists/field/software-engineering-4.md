@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,641 open roles.** 1,306 in the United States & Canada · 335 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Qumulo</strong></td>
-<td><a href="https://trueinterview.io/jobs/1f751e01-6a20-4f5b-8619-33fc015b8894">Software Development Engineer (Seattle) - Internship 2027</a></td>
-<td>Seattle (hybrid)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183">Apply</a></td>
-<td align="center">21 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>G2</strong></td>
 <td><a href="https://trueinterview.io/jobs/491919e4-b3c7-451f-8306-8e56d2482815">Intern, AI Agent Evaluations</a></td>
@@ -764,13 +757,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989722003">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/18d85f3b-0788-4947-bbb8-8307a8beb15d">Summer 2027 Internship- Software Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -783,6 +769,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ebf3a23-8293-4404-baa1-22a19728177c">Solution Architect Manager - Intern Program</a></td>
+<td>Beijing, Beijing, China<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444047126/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>
@@ -1085,6 +1078,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a683981-3d58-4f74-b797-75489e017fe4">Software Engineering Intern - Internal Developer Platform</a></td>
+<td>Amsterdam, The Netherlands</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/98fe57a5-9662-4f81-aa87-66aa2d701e9f">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Nexthink</strong></td>
 <td><a href="https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756">Java Software Engineer (Intern)</a></td>
 <td>Madrid, Spain<br/>Madrid, Comunidad de Madrid, Spain</td>
@@ -1110,6 +1110,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609">Mandatory Internship - Application Engineering Excellence – Power BI and efficiency expert</a></td>
 <td>Lindau (Bodensee), Bavaria, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000159342667-mandatory-internship-application-engineering-excellence-power-bi-and-efficiency-expert">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d8c991b-e561-4096-9803-612fdc419778">Software Engineering Intern – Genesis Platform</a></td>
+<td>Lodz, Poland</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/eaef3342-2fa8-4fcf-9583-fc14764efcfa">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f">PHY Cellular Firmware Engineer Internship</a></td>
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
-<td>In-Office</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**786 open roles.** 714 in the United States & Canada · 72 elsewhere in the world.
+**785 open roles.** 712 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2199,20 +2199,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7984600003">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/250adbbb-c0b0-4571-91d3-7910428836b2">Summer 2027 Internship - Electrical Engineering</a></td>
-<td>San Leandro, CA/ Fremont, CA or Los Lunas, NM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb">Summer 2027 Internship- Mechanical Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2225,6 +2211,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/03b6f2bf-d877-4bc2-99d1-93fff8499edf">ASIC Design and Verification Intern, SOC - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462336375/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Optiver</strong></td>
 <td><a href="https://trueinterview.io/jobs/9e8cc3ec-d5d1-4172-85f2-46659936038e">2027 Shanghai FPGA Developer Summer Internship</a></td>

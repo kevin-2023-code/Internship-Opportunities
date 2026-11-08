@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**162 open roles.** 130 in the United States & Canada · 32 elsewhere in the world.
+**163 open roles.** 130 in the United States & Canada · 33 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -939,6 +939,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/41e7b8f4-7371-4ff2-9997-74cac92fe364">Deep Learning Internship</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4405127940/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Enovation Controls</strong></td>
 <td><a href="https://trueinterview.io/jobs/504f6786-458f-4435-9c37-72dd0b40bb10">Embedded Machine Learning Engineering Intern - Summer 2027</a></td>

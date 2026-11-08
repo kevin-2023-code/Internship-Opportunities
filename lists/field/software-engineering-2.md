@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,641 open roles.** 1,306 in the United States & Canada · 335 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1049,13 +1049,6 @@
 <td><a href="https://trueinterview.io/jobs/b5fab69a-ea64-451e-a690-0379461d7dcb">Software Engineering Intern</a></td>
 <td>Sunnyvale, California, United States</td>
 <td align="center"><a href="https://careers.hpe.com/us/en/job/1214146/Software-Engineering-Intern">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c4ef28c-1717-4e3f-b0cd-05acfd8a4f5b">Optical Test Automation Co-op/Intern</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40117">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/a08302ea-9ac2-4413-98cd-c9be8473f427">Summer 2027 Intern - Cybersecurity</a></td>
 <td>Shady Grove, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476520484/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gerdau North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/efe6ae80-e015-448f-8e57-7f0d934c58d8">2027 Summer Engineering Internship</a></td>
+<td>Cartersville, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465596665/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

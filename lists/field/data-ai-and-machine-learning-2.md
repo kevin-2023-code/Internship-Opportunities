@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**692 open roles.** 509 in the United States & Canada · 183 elsewhere in the world.
+**693 open roles.** 509 in the United States & Canada · 184 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -791,6 +791,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7c4a409-b359-4708-8d71-0049759019b0">Compute System Arch AI Infra Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462655354/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/41e7b8f4-7371-4ff2-9997-74cac92fe364">Deep Learning Internship</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4405127940/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1209f4d-3f83-447b-aa2c-c3066f9d7ae4">Extracurricular Internship: Python and AI Development Engineer (f/m/div)</a></td>
 <td>Padua, Veneto, Italy</td>
@@ -1047,6 +1061,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5b2481e9-81cd-43ff-bfcb-bb9497bc49da">Final Year Internship Consultant - Data Analyst</a></td>
 <td>Paris, Île-de-France, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159444611-final-year-internship-consultant-data-analyst">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8c2ea66-0a05-4d9d-ba0d-74c5c59de61e">Software Engineering Intern - AI Platform Excellence</a></td>
+<td>Amsterdam, The Netherlands</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/e904f279-7e52-4603-9bc6-2cac59e70f4a">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2056,20 +2077,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Cầu Giấy, Hà Nội, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Socotec/744000148921759-data-monitoring-analyst-intern">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Barnes &amp; Thornburg Llp</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6066ee5-986f-4888-802d-34a84acdaac1">2027 BT RISE Internship - Information Technology Data Intern</a></td>
-<td>Indianapolis</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83">2027 BT RISE Internship - Information Technology AI Intern</a></td>
-<td>Indianapolis</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

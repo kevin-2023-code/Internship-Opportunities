@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**40 open roles.** 28 in the United States & Canada · 12 elsewhere in the world.
+**39 open roles.** 27 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -85,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a2b8c77a-7731-45d7-86e2-91911b7efd1a">2027 Summer Intern Quality Assurance Compliance &amp; Quality Systems (IOPS)</a></td>
 <td>Rensselaer, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485309025/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/4c4ef28c-1717-4e3f-b0cd-05acfd8a4f5b">Optical Test Automation Co-op/Intern</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40117">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

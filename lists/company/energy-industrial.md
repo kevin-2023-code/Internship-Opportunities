@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**27 open roles.** 26 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**24 open roles.** 23 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -177,27 +177,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Canonsburg, PA<br/>Canonsburg - ETRN</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5421052008">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/18d85f3b-0788-4947-bbb8-8307a8beb15d">Summer 2027 Internship- Software Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/250adbbb-c0b0-4571-91d3-7910428836b2">Summer 2027 Internship - Electrical Engineering</a></td>
-<td>San Leandro, CA/ Fremont, CA or Los Lunas, NM</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb">Summer 2027 Internship- Mechanical Engineering</a></td>
-<td>San Leandro, CA/Fremont, CA or Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**24 open roles.** 1 in the United States & Canada · 23 elsewhere in the world.
+**26 open roles.** 1 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -69,6 +69,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e2dc6862-4780-40d4-bd90-c7fb64cb7975">Cybersecurity - Consultant Internship from 3 to 6 months</a></td>
 <td>Brussels, Brussels Hoofdstedelijk Gewest, Belgium</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wavestone1/744000159435376-cybersecurity-consultant-internship-from-3-to-6-months">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/5a683981-3d58-4f74-b797-75489e017fe4">Software Engineering Intern - Internal Developer Platform</a></td>
+<td>Amsterdam, The Netherlands</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/98fe57a5-9662-4f81-aa87-66aa2d701e9f">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d8c2ea66-0a05-4d9d-ba0d-74c5c59de61e">Software Engineering Intern - AI Platform Excellence</a></td>
+<td>Amsterdam, The Netherlands</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/e904f279-7e52-4603-9bc6-2cac59e70f4a">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

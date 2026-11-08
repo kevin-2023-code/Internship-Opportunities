@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**72 open roles.** 56 in the United States & Canada · 16 elsewhere in the world.
+**71 open roles.** 56 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -525,13 +525,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>MN-Lakeville</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Barnes &amp; Thornburg Llp</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf421cd9-83f9-4b9e-9296-b8dbe76b8cd2">2027 BT RISE Internship - Information Security</a></td>
-<td>Indianapolis</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**268 open roles.** 207 in the United States & Canada · 61 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**271 open roles.** 207 in the United States & Canada · 64 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1480,6 +1480,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7c4a409-b359-4708-8d71-0049759019b0">Compute System Arch AI Infra Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462655354/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5ebf3a23-8293-4404-baa1-22a19728177c">Solution Architect Manager - Intern Program</a></td>
+<td>Beijing, Beijing, China<br/>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444047126/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/03b6f2bf-d877-4bc2-99d1-93fff8499edf">ASIC Design and Verification Intern, SOC - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462336375/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/49bc9f5b-45e7-478c-9cfb-871e9f8db6cd">System Software Engineer Intern, Autonomous Vehicles - 2027</a></td>
 <td>Shanghai, Shanghai, China<br/>Shenzhen, Guangdong, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487636439/">Apply</a></td>

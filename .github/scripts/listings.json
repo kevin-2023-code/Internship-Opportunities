@@ -5,9 +5,135 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T20:04:12.578Z",
-  "count": 3509,
+  "listingsChangedAt": "2026-11-08T21:04:10.359Z",
+  "count": 3510,
   "listings": [
+    {
+      "id": "e7c4a409-b359-4708-8d71-0049759019b0",
+      "company": "NVIDIA",
+      "title": "Compute System Arch AI Infra Intern - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462655354/",
+      "url": "https://trueinterview.io/jobs/e7c4a409-b359-4708-8d71-0049759019b0",
+      "postedAt": "2026-11-08T19:34:00.000Z",
+      "updatedAt": "2026-11-08T19:34:00.000Z"
+    },
+    {
+      "id": "5ebf3a23-8293-4404-baa1-22a19728177c",
+      "company": "NVIDIA",
+      "title": "Solution Architect Manager - Intern Program",
+      "locations": [
+        "Beijing, Beijing, China",
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4444047126/",
+      "url": "https://trueinterview.io/jobs/5ebf3a23-8293-4404-baa1-22a19728177c",
+      "postedAt": "2026-11-08T17:34:00.000Z",
+      "updatedAt": "2026-11-08T18:34:00.000Z"
+    },
+    {
+      "id": "03b6f2bf-d877-4bc2-99d1-93fff8499edf",
+      "company": "NVIDIA",
+      "title": "ASIC Design and Verification Intern, SOC - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462336375/",
+      "url": "https://trueinterview.io/jobs/03b6f2bf-d877-4bc2-99d1-93fff8499edf",
+      "postedAt": "2026-11-08T17:34:00.000Z",
+      "updatedAt": "2026-11-08T17:34:00.000Z"
+    },
+    {
+      "id": "41e7b8f4-7371-4ff2-9997-74cac92fe364",
+      "company": "MediaTek",
+      "title": "Deep Learning Internship",
+      "locations": [
+        "Taipei, Taipei City, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4405127940/",
+      "url": "https://trueinterview.io/jobs/41e7b8f4-7371-4ff2-9997-74cac92fe364",
+      "postedAt": "2026-11-08T17:23:00.000Z",
+      "updatedAt": "2026-11-08T17:23:00.000Z"
+    },
+    {
+      "id": "5d5bad84-87db-4088-a74e-efb0bbc669da",
+      "company": "Amazon",
+      "title": "Program Manager Intern ESP 2027 - BCN3",
+      "locations": [
+        "Castellbisbal, Catalonia, Spain"
+      ],
+      "cities": [],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472057523/",
+      "url": "https://trueinterview.io/jobs/5d5bad84-87db-4088-a74e-efb0bbc669da",
+      "postedAt": "2026-11-08T16:34:00.000Z",
+      "updatedAt": "2026-11-08T16:34:00.000Z"
+    },
     {
       "id": "a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9",
       "company": "IBM",
@@ -17567,6 +17693,60 @@
       "updatedAt": "2026-11-03T16:00:00.000Z"
     },
     {
+      "id": "5a683981-3d58-4f74-b797-75489e017fe4",
+      "company": "TomTom",
+      "title": "Software Engineering Intern - Internal Developer Platform",
+      "locations": [
+        "Amsterdam, The Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/tomtom/98fe57a5-9662-4f81-aa87-66aa2d701e9f",
+      "url": "https://trueinterview.io/jobs/5a683981-3d58-4f74-b797-75489e017fe4",
+      "postedAt": "2026-11-03T15:46:53.000Z",
+      "updatedAt": "2026-11-03T15:46:53.000Z"
+    },
+    {
+      "id": "d8c2ea66-0a05-4d9d-ba0d-74c5c59de61e",
+      "company": "TomTom",
+      "title": "Software Engineering Intern - AI Platform Excellence",
+      "locations": [
+        "Amsterdam, The Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/tomtom/e904f279-7e52-4603-9bc6-2cac59e70f4a",
+      "url": "https://trueinterview.io/jobs/d8c2ea66-0a05-4d9d-ba0d-74c5c59de61e",
+      "postedAt": "2026-11-03T15:43:59.000Z",
+      "updatedAt": "2026-11-03T15:43:59.000Z"
+    },
+    {
       "id": "60c7a26d-eee0-4bd4-adb7-19aa2d0f6a21",
       "company": "Sharkninja",
       "title": "Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)",
@@ -18400,6 +18580,31 @@
       "url": "https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609",
       "postedAt": "2026-11-03T10:20:48.000Z",
       "updatedAt": "2026-11-03T10:20:48.000Z"
+    },
+    {
+      "id": "6d8c991b-e561-4096-9803-612fdc419778",
+      "company": "TomTom",
+      "title": "Software Engineering Intern – Genesis Platform",
+      "locations": [
+        "Lodz, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/tomtom/eaef3342-2fa8-4fcf-9583-fc14764efcfa",
+      "url": "https://trueinterview.io/jobs/6d8c991b-e561-4096-9803-612fdc419778",
+      "postedAt": "2026-11-03T09:53:10.000Z",
+      "updatedAt": "2026-11-03T09:53:10.000Z"
     },
     {
       "id": "2a3473db-36ad-4f6d-8b34-14a2eede6ff6",
@@ -34626,31 +34831,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4477487079/",
       "url": "https://trueinterview.io/jobs/058ac320-9f21-43ce-8dca-8f1adccb2ef1",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "updatedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "id": "4c4ef28c-1717-4e3f-b0cd-05acfd8a4f5b",
-      "company": "Nokia",
-      "title": "Optical Test Automation Co-op/Intern",
-      "locations": [
-        "Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40117",
-      "url": "https://trueinterview.io/jobs/4c4ef28c-1717-4e3f-b0cd-05acfd8a4f5b",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
@@ -91107,153 +91287,6 @@
       "url": "https://trueinterview.io/jobs/c937133a-7136-4db6-9056-2423c59ccd44",
       "postedAt": "2026-09-09T21:46:26.000Z",
       "updatedAt": "2026-09-09T21:46:26.000Z"
-    },
-    {
-      "id": "18d85f3b-0788-4947-bbb8-8307a8beb15d",
-      "company": "Pacific Fusion",
-      "title": "Summer 2027 Internship- Software Engineering",
-      "locations": [
-        "San Leandro, CA/Fremont, CA or Los Lunas, NM"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
-      "url": "https://trueinterview.io/jobs/18d85f3b-0788-4947-bbb8-8307a8beb15d",
-      "postedAt": "2026-09-09T20:46:02.000Z",
-      "updatedAt": "2026-09-09T20:46:02.000Z"
-    },
-    {
-      "id": "250adbbb-c0b0-4571-91d3-7910428836b2",
-      "company": "Pacific Fusion",
-      "title": "Summer 2027 Internship - Electrical Engineering",
-      "locations": [
-        "San Leandro, CA/ Fremont, CA or Los Lunas, NM"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398021009",
-      "url": "https://trueinterview.io/jobs/250adbbb-c0b0-4571-91d3-7910428836b2",
-      "postedAt": "2026-09-09T20:26:12.000Z",
-      "updatedAt": "2026-09-09T20:26:12.000Z"
-    },
-    {
-      "id": "cf421cd9-83f9-4b9e-9296-b8dbe76b8cd2",
-      "company": "Barnes & Thornburg Llp",
-      "title": "2027 BT RISE Internship - Information Security",
-      "locations": [
-        "Indianapolis"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177/application",
-      "url": "https://trueinterview.io/jobs/cf421cd9-83f9-4b9e-9296-b8dbe76b8cd2",
-      "postedAt": "2026-09-09T20:17:25.000Z",
-      "updatedAt": "2026-09-09T20:17:25.000Z"
-    },
-    {
-      "id": "8afcb2f0-a5c3-49ca-8313-739c7323b8eb",
-      "company": "Pacific Fusion",
-      "title": "Summer 2027 Internship- Mechanical Engineering",
-      "locations": [
-        "San Leandro, CA/Fremont, CA or Los Lunas, NM",
-        "Fremont",
-        "Los Lunas",
-        "San Leandro"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009",
-      "url": "https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb",
-      "postedAt": "2026-09-09T20:15:23.000Z",
-      "updatedAt": "2026-09-09T20:15:23.000Z"
-    },
-    {
-      "id": "f6066ee5-986f-4888-802d-34a84acdaac1",
-      "company": "Barnes & Thornburg Llp",
-      "title": "2027 BT RISE Internship - Information Technology Data Intern",
-      "locations": [
-        "Indianapolis"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application",
-      "url": "https://trueinterview.io/jobs/f6066ee5-986f-4888-802d-34a84acdaac1",
-      "postedAt": "2026-09-09T20:13:23.000Z",
-      "updatedAt": "2026-09-09T20:13:23.000Z"
-    },
-    {
-      "id": "c00fbdbd-bb76-4e25-929f-06baa48d0b83",
-      "company": "Barnes & Thornburg Llp",
-      "title": "2027 BT RISE Internship - Information Technology AI Intern",
-      "locations": [
-        "Indianapolis"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application",
-      "url": "https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83",
-      "postedAt": "2026-09-09T20:11:43.000Z",
-      "updatedAt": "2026-09-09T20:11:43.000Z"
     }
   ]
 }
