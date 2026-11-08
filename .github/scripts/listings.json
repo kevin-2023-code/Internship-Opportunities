@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T11:03:56.872Z",
-  "count": 3488,
+  "listingsChangedAt": "2026-11-08T12:06:01.283Z",
+  "count": 3487,
   "listings": [
     {
       "id": "939ac533-4ee9-4405-8082-0724d5219226",
@@ -90696,29 +90696,6 @@
       "url": "https://trueinterview.io/jobs/ca140706-592e-4da0-9bc0-e770b949e824",
       "postedAt": "2026-09-09T12:54:12.000Z",
       "updatedAt": "2026-09-09T12:54:12.000Z"
-    },
-    {
-      "id": "e5ad97aa-ff3b-4f7e-ae1c-8a91a3f2c047",
-      "company": "Kandou AI",
-      "title": "Internship - AI Engineer",
-      "locations": [
-        "Saint-Sulpice"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/kandou-ai/19c7570c-8941-4777-9e61-dbacd81b94e8",
-      "url": "https://trueinterview.io/jobs/e5ad97aa-ff3b-4f7e-ae1c-8a91a3f2c047",
-      "postedAt": "2026-09-09T11:59:04.000Z",
-      "updatedAt": "2026-09-09T11:59:04.000Z"
     }
   ]
 }

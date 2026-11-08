@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**684 open roles.** 502 in the United States & Canada · 182 elsewhere in the world.
+**683 open roles.** 502 in the United States & Canada · 181 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2006,13 +2006,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c00fbdbd-bb76-4e25-929f-06baa48d0b83">2027 BT RISE Internship - Information Technology AI Intern</a></td>
 <td>Indianapolis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Kandou AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5ad97aa-ff3b-4f7e-ae1c-8a91a3f2c047">Internship - AI Engineer</a></td>
-<td>Saint-Sulpice</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/kandou-ai/19c7570c-8941-4777-9e61-dbacd81b94e8">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
