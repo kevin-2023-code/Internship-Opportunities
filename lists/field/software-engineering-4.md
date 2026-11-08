@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,626 open roles.** 1,295 in the United States & Canada · 331 elsewhere in the world.
+**1,625 open roles.** 1,294 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -671,13 +671,6 @@
 <td><a href="https://trueinterview.io/jobs/3740e8ff-ccd7-481e-becd-607a1b07c95b">Simulation Software Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/663152ab-89f1-4e35-a6db-1808bdc8640c">Software Research Engineering - (PhD Intern)</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8a607e96-b5f9-43a5-a6c5-51660f64762c">Software Engineer Intern - Backend</a></td>
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Moloco</strong></td>
+<td><a href="https://trueinterview.io/jobs/931beaed-906e-4eb3-a3d9-75fdedf0b14b">Software Engineer Intern (3 months)</a></td>
+<td>Seoul, Korea</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/moloco/jobs/8007407003">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 </tbody>
