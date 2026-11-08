@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**61 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -337,27 +337,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bbb7c5f2-54f1-4a84-9366-b9bf5388ef59">Electrical Engineer Internship</a></td>
 <td>Spokane, WA<br/>Bend, OR</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422847009">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8628193c-cf7a-427e-a203-968b172fd64d">Civil Engineer Internship</a></td>
-<td>Spokane, WA<br/>Bozeman, MT<br/>Sheridan, WY<br/>+7 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422540009">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cfa5aa92-2e85-4728-a762-65e67c96417f">Civil Engineer Internship - Natural Resources</a></td>
-<td>Boise, ID</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422534009">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/63e9eca4-61a7-4d31-a984-7aa10a4c3e06">Intern - Signal Integrity</a></td>
-<td>Boise, ID, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44702761">Apply</a></td>
 <td align="center">28 Sep 2026</td>
 </tr>
 <tr>

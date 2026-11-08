@@ -2,7 +2,7 @@
 
 # 🌱 Startups (under 200)
 
-**21 open roles.** 18 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
+**20 open roles.** 17 in the United States & Canada · 3 elsewhere in the world. Early-stage technology companies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3bd299fd-9fc8-453f-8675-1968bef23c74">Data Hall Design Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/689a09a9-bb1f-453b-ad4e-4bceb470ccdd/application">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/be78fa33-c7fa-4e9f-9ffe-2d4f7afc2b38">Mechanical Engineer, Robotics Hardware Intern</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>

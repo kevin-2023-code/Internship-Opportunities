@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**27 open roles.** 23 in the United States & Canada · 4 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**25 open roles.** 22 in the United States & Canada · 3 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -123,14 +123,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Field AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/be78fa33-c7fa-4e9f-9ffe-2d4f7afc2b38">Mechanical Engineer, Robotics Hardware Intern</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tensorwave</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a1ea5278-d2ab-4a8d-8b3a-0d1a6010a899">Developer Community Engagement Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731/application">Apply</a></td>
@@ -192,13 +185,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Perplexity</strong></td>
-<td><a href="https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61">Internship - Search Machine Learning Engineer</a></td>
-<td>London, England, United Kingdom<br/>Belgrade, Serbia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e4f84268-6960-40c7-8f13-c00fc6d27693">Internship - Machine Learning Research Engineer</a></td>
 <td>Berlin, Berlin, Germany</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c">Apply</a></td>

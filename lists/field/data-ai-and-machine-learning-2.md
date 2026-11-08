@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**683 open roles.** 502 in the United States & Canada · 181 elsewhere in the world.
+**681 open roles.** 501 in the United States & Canada · 180 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>STAND TOGETHER</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaa59fc3-d864-4df2-90ba-f91deb83ff88">KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/651000b9-55f5-4ff7-9a5c-ff6cb569aecc">AI Data Science / Software Engineering PhD Intern New 2027</a></td>
@@ -742,6 +735,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1209f4d-3f83-447b-aa2c-c3066f9d7ae4">Extracurricular Internship: Python and AI Development Engineer (f/m/div)</a></td>
+<td>Padua, Veneto, Italy</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480821983/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/45ef8a5d-1500-4595-9a96-d879e717d18c">Research Scientist Intern, Muse Post-Training &amp; Flywheel (PhD)</a></td>
 <td>Singapore, Singapore</td>
@@ -1174,13 +1174,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.metacareers.com/jobs/1886852912490515/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Perplexity</strong></td>
-<td><a href="https://trueinterview.io/jobs/b172fcf2-9b9f-4183-892b-0017cd03af61">Internship - Search Machine Learning Engineer</a></td>
-<td>London, England, United Kingdom<br/>Belgrade, Serbia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
@@ -1901,13 +1894,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/08562cd6-d049-46ba-af31-7b5978f908b7">AI-First Engineering Intern</a></td>
 <td>Baku</td>
 <td align="center"><a href="https://jobs.lever.co/xsolla/b2615794-a2c1-4224-9d95-46a890f2a125">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d53e51a-ba2f-466f-a9d7-a70f6c83b52a">Data Scientist Intern - AI Data Quality &amp; Analytics (Autonomous Driving)</a></td>
-<td>Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153704599-data-scientist-intern-ai-data-quality-analytics-autonomous-driving-">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
