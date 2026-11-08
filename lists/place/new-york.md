@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**147 open roles.**
+**146 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/caf9bc25-9d3d-48c2-9e05-8ea14c45aac2">Quantitative Research Internship - Master's: Summer 2027</a></td>
-<td>New York, NY<br/>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431539654/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/d380ffca-7439-4a87-8e95-0cb30cc414e1">Research Intern - Machine Learning at MSR NYC</a></td>

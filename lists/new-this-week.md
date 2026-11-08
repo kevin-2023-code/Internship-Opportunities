@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,034 open roles.** 836 in the United States & Canada · 198 elsewhere in the world. Everything the employers put up this week.
+**1,032 open roles.** 834 in the United States & Canada · 198 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,11 +20,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/caf9bc25-9d3d-48c2-9e05-8ea14c45aac2">Quantitative Research Internship - Master's: Summer 2027</a></td>
-<td>New York, NY<br/>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431539654/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
+<td><strong>Spira AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f60ca086-79fa-4435-ba08-89896feabdca">AI Design Intern</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487637129/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Cair Health</strong></td>

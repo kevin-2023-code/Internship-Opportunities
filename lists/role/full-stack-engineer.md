@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**26 open roles.** 18 in the United States & Canada · 8 elsewhere in the world.
+**27 open roles.** 19 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cair Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c40e687-951f-498f-b1c2-3a57d74431f6">Software Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488739551/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Torentify</strong></td>
 <td><a href="https://trueinterview.io/jobs/b18e619f-6040-4eaf-b1dc-84c1c0dce01c">Full Stack Developer - Intern (Remote)</a></td>

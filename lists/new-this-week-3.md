@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**1,034 open roles.** 836 in the United States & Canada · 198 elsewhere in the world. Everything the employers put up this week.
+**1,032 open roles.** 834 in the United States & Canada · 198 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -251,20 +251,6 @@
 <td><a href="https://trueinterview.io/jobs/462875cf-e15f-4ca1-8e39-d5a007c9cc0f">Spring 2026 Internship - AI-Native Automation QA</a></td>
 <td>Clearwater, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485648962/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Leonardo DRS</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ccd70b-bf49-42ef-add2-6f563512118d">2027 Summer - Full Stack Software Engineering Intern - Melbourne FL</a></td>
-<td>Melbourne, FL</td>
-<td align="center"><a href="https://careers.leonardodrs.com/job/Melbourne-2027-Summer-Full-Stack-Software-Engineering-Intern-Melbourne-FL-FL-32935/1446263700/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nintendo</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ff68957-c336-4405-8f23-015a1977747f">Intern - Software Engineer, Performance Tools (NTD)</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://careers.nintendo.com/?gh_jid=4473568009">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 </tbody>

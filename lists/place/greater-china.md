@@ -2,7 +2,7 @@
 
 # 🏮 Beijing, Shanghai, Taipei & Hong Kong
 
-**50 open roles.** 2 in the United States & Canada · 48 elsewhere in the world.
+**51 open roles.** 1 in the United States & Canada · 50 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,13 +19,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/caf9bc25-9d3d-48c2-9e05-8ea14c45aac2">Quantitative Research Internship - Master's: Summer 2027</a></td>
-<td>Hong Kong, Hong Kong SAR<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431539654/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621">Quantitative Research Internship - PhD: Summer 2027</a></td>
 <td>Hong Kong, Hong Kong SAR<br/>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4431533760/">Apply</a></td>
@@ -364,6 +357,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733877005">Apply</a></td>
 <td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/be6f0c14-1fbe-4b9c-af31-795bf930be97">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784371">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3e78789-d869-4894-95d4-e82ec1c3b89d">2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784369">Apply</a></td>
+<td align="center">14 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Nex</strong></td>

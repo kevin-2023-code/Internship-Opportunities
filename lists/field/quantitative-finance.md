@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**90 open roles.** 64 in the United States & Canada · 26 elsewhere in the world.
+**91 open roles.** 63 in the United States & Canada · 28 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/caf9bc25-9d3d-48c2-9e05-8ea14c45aac2">Quantitative Research Internship - Master's: Summer 2027</a></td>
-<td>New York, NY<br/>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431539654/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Invesco</strong></td>
 <td><a href="https://trueinterview.io/jobs/9bf38b00-29b7-47a6-ad48-6103b84db181">Quantitative Intern - Portfolio Engineering and Analytics</a></td>
@@ -647,6 +640,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/be6f0c14-1fbe-4b9c-af31-795bf930be97">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784371">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3e78789-d869-4894-95d4-e82ec1c3b89d">2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784369">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/729e56aa-6411-4a03-adce-f5f373b30f83">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Singapore</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784366">Apply</a></td>

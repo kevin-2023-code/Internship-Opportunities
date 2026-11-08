@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**596 open roles.** 475 in the United States & Canada · 121 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**595 open roles.** 474 in the United States & Canada · 121 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64">Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027</a></td>
-<td>Austin, TX<br/>San Diego, CA, US<br/>Boxborough, MA, US<br/>+2 more</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740649">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0add9d47-9d5b-4236-bb83-2c674de6a937">IT Infrastructure &amp; Cloud Engineering Internship – Summer 2027</a></td>
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741668">Apply</a></td>

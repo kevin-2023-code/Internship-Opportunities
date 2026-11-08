@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**504 open roles.**
+**503 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -202,13 +202,6 @@
 <td><a href="https://trueinterview.io/jobs/7bf7b041-7034-4ecd-a2a3-37c67f87583f">Junior Help Desk Intern (Summer 2027)</a></td>
 <td>Mountain View, CA<br/>Muon Mountain View</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5247733007">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/2dbf5871-f396-433d-ab7d-3186527eec0f">Security Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States<br/>San Francisco - United States - San Francisco, California 94104 United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>

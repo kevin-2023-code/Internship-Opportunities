@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**223 open roles.** 162 in the United States & Canada · 61 elsewhere in the world.
+**224 open roles.** 163 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Spira AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/f60ca086-79fa-4435-ba08-89896feabdca">AI Design Intern</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487637129/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Simon Property Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/fe74cd5a-6b0e-434b-b4c3-56d84dfa62d0">Intern - UX Design (HCI, Graphic Design, Digital Media, Computer Science Majors)</a></td>

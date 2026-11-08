@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,625 open roles.** 1,294 in the United States & Canada · 331 elsewhere in the world.
+**1,624 open roles.** 1,293 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2557,13 +2557,6 @@
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/2dbf5871-f396-433d-ab7d-3186527eec0f">Security Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26267/security-engineer-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>O-I (Owens-Illinois)</strong></td>
 <td><a href="https://trueinterview.io/jobs/f726c8f4-221b-480f-bd6f-11b71980325c">Quality Leadership Development Program (Co-op Project Engineer) Spring 2027</a></td>
 <td>Perrysburg, Ohio, United States</td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/f6d90095-a873-470d-8433-8cfbc563fd04">Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED</a></td>
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740540">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/37a8fa74-c2b0-4689-ae17-4ee7438a1d12">Security (Product, Systems, Cyber) Engineering Internship - Summer 2027</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740636">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

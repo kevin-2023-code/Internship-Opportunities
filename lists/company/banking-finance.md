@@ -2,7 +2,7 @@
 
 # 🏦 Banks, insurers & asset managers
 
-**23 open roles.** 12 in the United States & Canada · 11 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
+**25 open roles.** 12 in the United States & Canada · 13 elsewhere in the world. Banks, card networks, exchanges, insurers and asset managers.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -164,6 +164,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
+<td><a href="https://trueinterview.io/jobs/be6f0c14-1fbe-4b9c-af31-795bf930be97">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784371">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3e78789-d869-4894-95d4-e82ec1c3b89d">2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Hong Kong</a></td>
+<td>Hong Kong</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784369">Apply</a></td>
+<td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/729e56aa-6411-4a03-adce-f5f373b30f83">2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Singapore</a></td>
 <td>Singapore</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784366">Apply</a></td>
