@@ -5,9 +5,111 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T04:05:25.556Z",
-  "count": 3479,
+  "listingsChangedAt": "2026-11-08T06:06:41.312Z",
+  "count": 3481,
   "listings": [
+    {
+      "id": "dde08523-3156-4fef-910c-162b23029ae3",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486678432/",
+      "url": "https://trueinterview.io/jobs/dde08523-3156-4fef-910c-162b23029ae3",
+      "postedAt": "2026-11-08T05:08:00.000Z",
+      "updatedAt": "2026-11-08T05:08:00.000Z"
+    },
+    {
+      "id": "15c7d318-9eba-4b6f-9cbe-52f7769e5757",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Generative AI & 3D Generation (PhD)",
+      "locations": [
+        "Burlingame, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.metacareers.com/jobs/1406087328180524/",
+      "url": "https://trueinterview.io/jobs/15c7d318-9eba-4b6f-9cbe-52f7769e5757",
+      "postedAt": "2026-11-08T05:03:00.000Z",
+      "updatedAt": "2026-11-08T05:03:00.000Z"
+    },
+    {
+      "id": "22f3da15-b0a2-4aff-9bda-519950b63088",
+      "company": "IBM",
+      "title": "Product Manager Intern 2027",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450177477/",
+      "url": "https://trueinterview.io/jobs/22f3da15-b0a2-4aff-9bda-519950b63088",
+      "postedAt": "2026-11-08T04:20:00.000Z",
+      "updatedAt": "2026-11-08T04:20:00.000Z"
+    },
+    {
+      "id": "60011eb3-133a-463a-9e15-0a18cb157eac",
+      "company": "Appian",
+      "title": "Product Manager Intern",
+      "locations": [
+        "McLean, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4444709477/",
+      "url": "https://trueinterview.io/jobs/60011eb3-133a-463a-9e15-0a18cb157eac",
+      "postedAt": "2026-11-08T02:52:00.000Z",
+      "updatedAt": "2026-11-08T02:52:00.000Z"
+    },
     {
       "id": "9d45fff3-4af1-4eba-9103-6c982d95ae22",
       "company": "Future Mode",
@@ -541,6 +643,33 @@
       "url": "https://trueinterview.io/jobs/fe74cd5a-6b0e-434b-b4c3-56d84dfa62d0",
       "postedAt": "2026-11-07T17:56:00.000Z",
       "updatedAt": "2026-11-07T17:56:00.000Z"
+    },
+    {
+      "id": "a3f4373b-c08e-48dd-8126-ea38a48b9d65",
+      "company": "📸 Lianna's Lens | Prev. LXN Photography — Lianna Xiaokui Nakashima 📸",
+      "title": "🎨 UI + UX (Web Design) Intern (Unpaid, Professional Development, Portrait Headshots)",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486561900/",
+      "url": "https://trueinterview.io/jobs/a3f4373b-c08e-48dd-8126-ea38a48b9d65",
+      "postedAt": "2026-11-07T17:52:00.000Z",
+      "updatedAt": "2026-11-07T17:52:00.000Z"
     },
     {
       "id": "6a256895-3d37-4f4b-8ce1-e550aa076c8a",
@@ -6768,7 +6897,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485842574/",
+      "applyUrl": "https://www.metacareers.com/jobs/2439439363131036/",
       "url": "https://trueinterview.io/jobs/8dc68db8-79a7-49b8-9d99-35547bb7c555",
       "postedAt": "2026-11-05T17:59:00.000Z",
       "updatedAt": "2026-11-05T17:59:00.000Z"
@@ -18107,6 +18236,31 @@
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
+      "id": "38959fe8-186b-4c82-a7ab-e55f53b91921",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Spatial Reasoning & Localization (PhD)",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.metacareers.com/jobs/1218542847568705/",
+      "url": "https://trueinterview.io/jobs/38959fe8-186b-4c82-a7ab-e55f53b91921",
+      "postedAt": "2026-11-03T06:00:00.000Z",
+      "updatedAt": "2026-11-03T06:00:00.000Z"
+    },
+    {
       "id": "e21342dc-ef72-486b-9b97-8bc0469dcf1e",
       "company": "MITRE",
       "title": "Underwater Sensors Engineer Co-op",
@@ -21357,34 +21511,6 @@
       "url": "https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7",
       "postedAt": "2026-11-02T06:42:00.000Z",
       "updatedAt": "2026-11-02T06:42:00.000Z"
-    },
-    {
-      "id": "a3d93f91-169f-4a5a-84f7-37fe1bc26304",
-      "company": "Tencent",
-      "title": "Unreal Engine Programmer Intern",
-      "locations": [
-        "Sydney, New South Wales, Australia"
-      ],
-      "cities": [
-        "Sydney"
-      ],
-      "countries": [
-        "United Kingdom",
-        "Australia"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486127165/",
-      "url": "https://trueinterview.io/jobs/a3d93f91-169f-4a5a-84f7-37fe1bc26304",
-      "postedAt": "2026-11-02T06:11:00.000Z",
-      "updatedAt": "2026-11-02T06:11:00.000Z"
     },
     {
       "id": "305782cc-b528-49a4-bac4-e6a0f6d58284",
@@ -39255,33 +39381,6 @@
       "updatedAt": "2026-10-29T13:33:00.000Z"
     },
     {
-      "id": "20f67e60-9a59-4352-a95e-0138637e6694",
-      "company": "Waymo",
-      "title": "2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
-      "locations": [
-        "Mountain View, CA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467125045/",
-      "url": "https://trueinterview.io/jobs/20f67e60-9a59-4352-a95e-0138637e6694",
-      "postedAt": "2026-10-29T13:30:00.000Z",
-      "updatedAt": "2026-10-29T13:30:00.000Z"
-    },
-    {
       "id": "8fa8dcff-7a3e-4168-b7d1-c6e05c44c433",
       "company": "ASML",
       "title": "Software Testing Intern",
@@ -46773,31 +46872,6 @@
       "url": "https://trueinterview.io/jobs/4fe73be5-ace6-487d-8e8b-ed0b53d1452e",
       "postedAt": "2026-10-28T21:02:00.000Z",
       "updatedAt": "2026-10-28T21:13:00.000Z"
-    },
-    {
-      "id": "94faeae1-9275-491c-82a4-a657ac7d6bd4",
-      "company": "Tencent",
-      "title": "NLP Research Intern",
-      "locations": [
-        "Seoul Incheon Metropolitan Area"
-      ],
-      "cities": [],
-      "countries": [
-        "South Korea"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466027882/",
-      "url": "https://trueinterview.io/jobs/94faeae1-9275-491c-82a4-a657ac7d6bd4",
-      "postedAt": "2026-10-28T20:51:00.000Z",
-      "updatedAt": "2026-10-28T20:51:00.000Z"
     },
     {
       "id": "f8e05d8c-a8b2-432b-8342-371a77f4391e",
@@ -67758,33 +67832,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://jobs.keysight.com/external/jobs/54849?lang=en-us",
       "url": "https://trueinterview.io/jobs/1aa04bc2-9cab-4609-85e9-ac555ebc7771",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "04ff52c4-a9c6-458a-89b9-14ef8724b5ca",
-      "company": "pebl",
-      "title": "Software Engineering, Intern",
-      "locations": [
-        "Toronto, Ontario"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/pebl/49d8b355-620b-4dde-be4b-5489abf4c9cf/application",
-      "url": "https://trueinterview.io/jobs/04ff52c4-a9c6-458a-89b9-14ef8724b5ca",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
