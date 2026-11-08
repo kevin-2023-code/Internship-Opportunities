@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T10:05:15.528Z",
-  "count": 3480,
+  "listingsChangedAt": "2026-11-08T11:03:56.872Z",
+  "count": 3488,
   "listings": [
+    {
+      "id": "939ac533-4ee9-4405-8082-0724d5219226",
+      "company": "Zurn Elkay Water Solutions",
+      "title": "Embedded Firmware Intern (Summer 2027)",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470712874/",
+      "url": "https://trueinterview.io/jobs/939ac533-4ee9-4405-8082-0724d5219226",
+      "postedAt": "2026-11-08T10:03:00.000Z",
+      "updatedAt": "2026-11-08T10:03:00.000Z"
+    },
     {
       "id": "aea5e559-a3e8-464d-b8d7-9172ca0d2380",
       "company": "Zurn Elkay Water Solutions",
@@ -5040,33 +5065,6 @@
       "url": "https://trueinterview.io/jobs/83a634c3-4b9e-4314-8d9d-0a2d8934af54",
       "postedAt": "2026-11-06T11:59:00.000Z",
       "updatedAt": "2026-11-06T11:59:00.000Z"
-    },
-    {
-      "id": "21004bcb-87dc-420d-adf4-074d10db8bcd",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4479199937/",
-      "url": "https://trueinterview.io/jobs/21004bcb-87dc-420d-adf4-074d10db8bcd",
-      "postedAt": "2026-11-06T11:51:00.000Z",
-      "updatedAt": "2026-11-06T11:51:00.000Z"
     },
     {
       "id": "ff2caac9-be9d-4723-bb8d-128a475f6a14",
@@ -78020,6 +78018,211 @@
       "url": "https://trueinterview.io/jobs/c1bf97b0-280d-4be3-a069-45484a2813b8",
       "postedAt": "2026-09-29T15:48:09.000Z",
       "updatedAt": "2026-09-29T15:48:09.000Z"
+    },
+    {
+      "id": "c27007d1-9b03-44ab-b6c4-407f755fad77",
+      "company": "Delivery Hero",
+      "title": "Intern Data Analyst I People Strategy Global HQ",
+      "locations": [
+        "Barcelona, Spain"
+      ],
+      "cities": [
+        "Barcelona"
+      ],
+      "countries": [
+        "Spain"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/DeliveryHero/744000152474589-intern-data-analyst-i-people-strategy-global-hq",
+      "url": "https://trueinterview.io/jobs/c27007d1-9b03-44ab-b6c4-407f755fad77",
+      "postedAt": "2026-09-29T15:21:03.000Z",
+      "updatedAt": "2026-09-29T15:21:03.000Z"
+    },
+    {
+      "id": "bbd930bd-ff3a-43d3-8238-e725c37b7766",
+      "company": "Enova",
+      "title": "Software Engineer Internship Summer 2027 (Hybrid)",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/enova/jobs/8239619",
+      "url": "https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766",
+      "postedAt": "2026-09-29T14:39:00.000Z",
+      "updatedAt": "2026-09-29T14:39:00.000Z"
+    },
+    {
+      "id": "28427d60-8cb2-4a29-9477-880186596087",
+      "company": "Rf Smart",
+      "title": "Service Delivery Intern (IT Helpdesk) - Summer 2027",
+      "locations": [
+        "Jacksonville, Florida, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/rfsmart/jobs/5425409008",
+      "url": "https://trueinterview.io/jobs/28427d60-8cb2-4a29-9477-880186596087",
+      "postedAt": "2026-09-29T14:35:37.000Z",
+      "updatedAt": "2026-09-29T14:35:37.000Z"
+    },
+    {
+      "id": "474a9701-e594-44bc-b495-b2a280668af2",
+      "company": "Schonfeld Strategic Advisors",
+      "title": "2027 Quantitative Research Intern",
+      "locations": [
+        "Hong Kong, Hong Kong"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8238448",
+      "url": "https://trueinterview.io/jobs/474a9701-e594-44bc-b495-b2a280668af2",
+      "postedAt": "2026-09-29T14:31:51.000Z",
+      "updatedAt": "2026-09-29T14:31:51.000Z"
+    },
+    {
+      "id": "b4d9238e-1ca2-4c6a-aa8b-102e71135f55",
+      "company": "Schonfeld Strategic Advisors",
+      "title": "2027 Quantitative C++ Developer Intern",
+      "locations": [
+        "Hong Kong, Hong Kong"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
+      "url": "https://trueinterview.io/jobs/b4d9238e-1ca2-4c6a-aa8b-102e71135f55",
+      "postedAt": "2026-09-29T14:30:14.000Z",
+      "updatedAt": "2026-09-29T14:30:14.000Z"
+    },
+    {
+      "id": "b7dcb230-719f-4d25-8c61-40bb4c5f7200",
+      "company": "Coffman Engineers",
+      "title": "Fire Protection Engineering Intern",
+      "locations": [
+        "Fulton, Maryland, United States",
+        "Raleigh, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000152406562-fire-protection-engineering-intern-",
+      "url": "https://trueinterview.io/jobs/b7dcb230-719f-4d25-8c61-40bb4c5f7200",
+      "postedAt": "2026-09-29T12:44:55.000Z",
+      "updatedAt": "2026-09-29T12:44:55.000Z"
+    },
+    {
+      "id": "e86d1c1b-4d94-4e37-9399-c0bdb08dd96d",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Berlin (2027)",
+      "locations": [
+        "DE-Berlin-Trion Building"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
+      "url": "https://trueinterview.io/jobs/e86d1c1b-4d94-4e37-9399-c0bdb08dd96d",
+      "postedAt": "2026-09-29T06:23:45.000Z",
+      "updatedAt": "2026-09-29T06:23:45.000Z"
+    },
+    {
+      "id": "8a607e96-b5f9-43a5-a6c5-51660f64762c",
+      "company": "Shopback",
+      "title": "Software Engineer Intern - Backend",
+      "locations": [
+        "Ho Chi Minh, Vietnam"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
+      "url": "https://trueinterview.io/jobs/8a607e96-b5f9-43a5-a6c5-51660f64762c",
+      "postedAt": "2026-09-29T05:54:43.000Z",
+      "updatedAt": "2026-09-29T05:54:43.000Z"
     },
     {
       "id": "4b6c289e-36b0-4471-8dd3-979a1a1c6f58",
