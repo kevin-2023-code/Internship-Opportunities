@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-08T18:05:09.390Z",
-  "count": 3516,
+  "listingsChangedAt": "2026-11-08T19:03:47.888Z",
+  "count": 3519,
   "listings": [
     {
       "id": "a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9",
@@ -83935,6 +83935,106 @@
       "updatedAt": "2026-09-17T20:56:00.000Z"
     },
     {
+      "id": "0fd33108-b49f-47d5-9e4c-44af3390cca1",
+      "company": "Rocket Lab Corporation",
+      "title": "Test Engineering Intern Summer 2027",
+      "locations": [
+        "Stennis Space Center, MS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7990350003",
+      "url": "https://trueinterview.io/jobs/0fd33108-b49f-47d5-9e4c-44af3390cca1",
+      "postedAt": "2026-09-17T18:18:54.000Z",
+      "updatedAt": "2026-09-17T18:18:54.000Z"
+    },
+    {
+      "id": "3e0431d6-f58b-4323-9a8c-2c0487463b96",
+      "company": "Rocket Lab Corporation",
+      "title": "Test Engineering Intern - Manufacturing Spring 2027",
+      "locations": [
+        "Long Beach, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7987042003",
+      "url": "https://trueinterview.io/jobs/3e0431d6-f58b-4323-9a8c-2c0487463b96",
+      "postedAt": "2026-09-17T18:16:30.000Z",
+      "updatedAt": "2026-09-17T18:16:30.000Z"
+    },
+    {
+      "id": "1580c88f-fafd-4959-b746-0e0de4d8ae12",
+      "company": "Skydio",
+      "title": "Hardware Product Management Intern - Fall 2026/Winter 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application",
+      "url": "https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12",
+      "postedAt": "2026-09-17T17:59:25.000Z",
+      "updatedAt": "2026-09-17T17:59:25.000Z"
+    },
+    {
+      "id": "7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
+      "company": "Nuclear Promise X",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Ontario"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "1point3acres",
+      "applyUrl": "https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application",
+      "url": "https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f",
+      "postedAt": "2026-09-17T17:57:47.000Z",
+      "updatedAt": "2026-09-17T17:57:47.000Z"
+    },
+    {
       "id": "5da51a3b-0f1c-422f-9f68-59f3b7368fe4",
       "company": "Sharkninja",
       "title": "Engineering & Technology Co-op Opportunities",
@@ -89079,6 +89179,31 @@
       "updatedAt": "2026-09-11T13:11:35.000Z"
     },
     {
+      "id": "58e46e7d-37e3-4c79-8338-a724289fce41",
+      "company": "Bybit",
+      "title": "AI Development Engineer Intern",
+      "locations": [
+        "Kuala Lumpur, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101",
+      "url": "https://trueinterview.io/jobs/58e46e7d-37e3-4c79-8338-a724289fce41",
+      "postedAt": "2026-09-11T10:59:06.000Z",
+      "updatedAt": "2026-09-11T10:59:06.000Z"
+    },
+    {
       "id": "d3ea9d51-adfe-408b-b9a6-b5b41aa49581",
       "company": "Aumovio",
       "title": "AI Data Engineer Intern",
@@ -91377,60 +91502,6 @@
       "url": "https://trueinterview.io/jobs/995b3f48-bc6a-4f9d-a366-3fdb078db618",
       "postedAt": "2026-09-09T19:08:19.000Z",
       "updatedAt": "2026-09-09T19:08:19.000Z"
-    },
-    {
-      "id": "94ef0fe1-5c7d-43d6-ae90-1ea1b27ddb44",
-      "company": "Pacific Fusion",
-      "title": "Summer 2027 Internship-Manufacturing Engineering",
-      "locations": [
-        "San Leandro, CA - Fremont, CA - Los Lunas, NM",
-        "Fremont",
-        "Los Lunas",
-        "San Leandro"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009",
-      "url": "https://trueinterview.io/jobs/94ef0fe1-5c7d-43d6-ae90-1ea1b27ddb44",
-      "postedAt": "2026-09-09T18:47:52.000Z",
-      "updatedAt": "2026-09-09T18:47:52.000Z"
-    },
-    {
-      "id": "463d62c1-1ce8-4eaf-beda-d3e35c6125fa",
-      "company": "Benesch",
-      "title": "Municipal Engineering Internship",
-      "locations": [
-        "Detroit, MI",
-        "Detroit"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.benesch.com/job-openings/5233672007?gh_jid=5233672007",
-      "url": "https://trueinterview.io/jobs/463d62c1-1ce8-4eaf-beda-d3e35c6125fa",
-      "postedAt": "2026-09-09T18:05:56.000Z",
-      "updatedAt": "2026-09-09T18:05:56.000Z"
     }
   ]
 }

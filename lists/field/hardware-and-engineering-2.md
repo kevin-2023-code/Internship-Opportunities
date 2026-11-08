@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**793 open roles.** 719 in the United States & Canada · 74 elsewhere in the world.
+**791 open roles.** 717 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2232,20 +2232,6 @@
 <td><a href="https://trueinterview.io/jobs/22b61548-f3ff-4f3f-a92f-e8fa6c0f3ac7">Manufacturing Engineer Intern (Summer 2027)</a></td>
 <td>Austin, TX<br/>Franklin, LA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/saronic/2b037fca-754c-4077-b224-eb35cf2b2b97">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/94ef0fe1-5c7d-43d6-ae90-1ea1b27ddb44">Summer 2027 Internship-Manufacturing Engineering</a></td>
-<td>San Leandro, CA - Fremont, CA - Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/463d62c1-1ce8-4eaf-beda-d3e35c6125fa">Municipal Engineering Internship</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5233672007?gh_jid=5233672007">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

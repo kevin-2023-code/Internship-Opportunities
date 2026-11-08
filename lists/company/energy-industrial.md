@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**28 open roles.** 27 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**27 open roles.** 26 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -197,13 +197,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8afcb2f0-a5c3-49ca-8313-739c7323b8eb">Summer 2027 Internship- Mechanical Engineering</a></td>
 <td>San Leandro, CA/Fremont, CA or Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398312009">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/94ef0fe1-5c7d-43d6-ae90-1ea1b27ddb44">Summer 2027 Internship-Manufacturing Engineering</a></td>
-<td>San Leandro, CA - Fremont, CA - Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**52 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**51 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -373,13 +373,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95111">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Benesch</strong></td>
-<td><a href="https://trueinterview.io/jobs/463d62c1-1ce8-4eaf-beda-d3e35c6125fa">Municipal Engineering Internship</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.benesch.com/job-openings/5233672007?gh_jid=5233672007">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

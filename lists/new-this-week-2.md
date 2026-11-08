@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**969 open roles.** 781 in the United States & Canada · 188 elsewhere in the world. Everything the employers put up this week.
+**963 open roles.** 776 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2647,41 +2647,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478081281/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
-<tr>
-<td><strong>BlackRock</strong></td>
-<td><a href="https://trueinterview.io/jobs/18a422d8-d322-44c3-86d9-10b562c6f90e">2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468676813/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a7b5b342-22f0-48b8-950d-9ffc23ad5664">2027 Quantitative Masters Internship Program - Technology - Analytics &amp; Modeling - San Francisco</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468677751/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Church &amp; Dwight Co., Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f1caff93-9bcf-41be-ae8e-f7561b74dffd">AI Developer Co-op - Graduate Program (9 Months)</a></td>
-<td>Ewing, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468679563/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc56f209-9f66-4786-a8a1-39baa2296b28">Intern - Embedded Software, System, and Test Engineer - 2026</a></td>
-<td>Irvine, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4375807812/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/b676a847-a7d0-4329-a542-c497d0801f47">Summer 2027 Software Engineering Internship</a></td>
-<td>Newport Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477851496/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2790,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/00c12142-0461-4474-9f24-0c8d19b1cd06">SAP Labs iXp Intern - Software Developer</a></td>
 <td>Brno-střed, Jihomoravský kraj, Czechia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160236955-sap-labs-ixp-intern-software-developer">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercari, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>
+<td>Minato, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
+<td>Hong Kong Japan</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Thatgamecompany</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5af0777-cf18-4ee0-99df-ad5eeef168b6">Game Designer Intern</a></td>
+<td>China - Shanghai</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/3579caf9-276c-405d-bf30-8f166cbbf5ce">AIP Intern - IT Support Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/92dbe38d-2a70-47af-a962-e36484242ef2">Intern - Industrial Engineer (5 of 5)</a></td>
+<td>Johor Bahru, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160070507-intern-industrial-engineer-5-of-5-">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

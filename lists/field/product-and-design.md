@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**226 open roles.** 165 in the United States & Canada · 61 elsewhere in the world.
+**227 open roles.** 166 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1066,6 +1066,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741706">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12">Hardware Product Management Intern - Fall 2026/Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>SAP</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
+**1,641 open roles.** 1,310 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -133,6 +133,27 @@
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740636">Apply</a></td>
 <td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Rocket Lab Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fd33108-b49f-47d5-9e4c-44af3390cca1">Test Engineering Intern Summer 2027</a></td>
+<td>Stennis Space Center, MS</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990350003">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3e0431d6-f58b-4323-9a8c-2c0487463b96">Test Engineering Intern - Manufacturing Spring 2027</a></td>
+<td>Long Beach, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987042003">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Nuclear Promise X</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f4dbcdc-0e26-4740-83ee-e93c68e5037f">Software Developer Intern</a></td>
+<td>Ontario</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634/application">Apply</a></td>
+<td align="center">17 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/835be3c8-3d91-4f3f-8169-1411a25e1c21">Robotic Foundation Model Engineer Intern (Human)</a></td>
 <td>Metzingen / Riederich</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/aa9a0895-f66b-4a5f-b933-ceca706d0e5c">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f">PHY Cellular Firmware Engineer Internship</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cloudflare</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
-<td>In-Office</td>
-<td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/d278ec5c-85b8-4c1a-89d4-c77455f14997">Validation / Characterization Engineering Intern m/f/d</a></td>
-<td>Freising, Bayern, Germany</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018495">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

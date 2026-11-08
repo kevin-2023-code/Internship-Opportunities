@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**693 open roles.** 511 in the United States & Canada · 182 elsewhere in the world.
+**694 open roles.** 511 in the United States & Canada · 183 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2049,6 +2049,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b">Apply</a></td>
 <td align="center">14 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Bybit</strong></td>
+<td><a href="https://trueinterview.io/jobs/58e46e7d-37e3-4c79-8338-a724289fce41">AI Development Engineer Intern</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101">Apply</a></td>
+<td align="center">11 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Aumovio</strong></td>

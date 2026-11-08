@@ -415,6 +415,13 @@
 <td align="center">18 Sep 2026</td>
 </tr>
 <tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/1580c88f-fafd-4959-b746-0e0de4d8ae12">Hardware Product Management Intern - Fall 2026/Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application">Apply</a></td>
+<td align="center">17 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Marvell Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ad1a1d9-f4fb-49da-89a3-df4c50f13273">Design For Test Intern, MS - Summer 2027</a></td>
 <td>Santa Clara, CA, United States of America</td>
@@ -783,13 +790,6 @@
 <td><a href="https://trueinterview.io/jobs/3077f168-da4a-4324-9311-7fb93aff60d3">Technical Support Engineer (TSE) Intern</a></td>
 <td>Emeryville, CA (Hybrid)<br/>Bellevue, WA (Hybrid)<br/>Addison, TX Office<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8189328">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Fusion</strong></td>
-<td><a href="https://trueinterview.io/jobs/94ef0fe1-5c7d-43d6-ae90-1ea1b27ddb44">Summer 2027 Internship-Manufacturing Engineering</a></td>
-<td>San Leandro, CA - Fremont, CA - Los Lunas, NM<br/>Fremont<br/>Los Lunas</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/pacificfusion/jobs/4398388009">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

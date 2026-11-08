@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**969 open roles.** 781 in the United States & Canada · 188 elsewhere in the world. Everything the employers put up this week.
+**963 open roles.** 776 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,41 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Point72 Asset Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
-<td>Hong Kong Japan</td>
-<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Thatgamecompany</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5af0777-cf18-4ee0-99df-ad5eeef168b6">Game Designer Intern</a></td>
-<td>China - Shanghai</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Riverty</strong></td>
-<td><a href="https://trueinterview.io/jobs/3579caf9-276c-405d-bf30-8f166cbbf5ce">AIP Intern - IT Support Track</a></td>
-<td>Kuala Lumpur, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Smiths Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/92dbe38d-2a70-47af-a962-e36484242ef2">Intern - Industrial Engineer (5 of 5)</a></td>
-<td>Johor Bahru, Johor, Malaysia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160070507-intern-industrial-engineer-5-of-5-">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/36dc2e81-a450-4dcc-bc71-7eb5cb23b225">SAP IXp Intern - Solution Support Engineer - Analytics</a></td>
@@ -1192,13 +1157,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Auckland<br/>New Zealand</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/zuru/9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d">Apply</a></td>
 <td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe">Developer Technology Engineering Intern - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458903339/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
 </tr>
 </tbody>
 </table>
