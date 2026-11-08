@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,621 open roles.** 1,291 in the United States & Canada · 330 elsewhere in the world.
+**1,620 open roles.** 1,291 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -155,13 +155,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9ddd6196-bd67-47a0-9c4c-802a4f483234">Software Engineering Intern</a></td>
 <td>Dublin, Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8187654">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Qube Research &amp; Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6209c553-d1ce-45e6-a4a1-cc7337e58ff8">2027 - Internship, Data Engineering</a></td>
-<td>Paris, London<br/>Hong Kong, Singapore</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002">Apply</a></td>
 <td align="center">9 Sep 2026</td>
 </tr>
 </tbody>

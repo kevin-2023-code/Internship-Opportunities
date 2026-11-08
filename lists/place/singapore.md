@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**105 open roles.** 1 in the United States & Canada · 104 elsewhere in the world.
+**104 open roles.** 1 in the United States & Canada · 103 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -756,13 +756,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784061">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Qube Research &amp; Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/6209c553-d1ce-45e6-a4a1-cc7337e58ff8">2027 - Internship, Data Engineering</a></td>
-<td>Hong Kong, Singapore<br/>Paris, London</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>
