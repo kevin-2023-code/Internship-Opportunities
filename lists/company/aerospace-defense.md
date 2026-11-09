@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**93 open roles.** 91 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**89 open roles.** 87 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -625,34 +625,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, California, United States<br/>Huntington Beach, California, United States<br/>San Luis Obispo, California, United States<br/>+1 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4397035009">Apply</a></td>
 <td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/df815904-d1df-4564-8348-858c5b49ceb4">Turbomachinery Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987210003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/707c8a9e-08e3-41e2-a433-2ce4d9e4b35f">Integration &amp; Test Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987250003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/55e97733-862d-4545-ac62-706387fc0b61">HITL Engineering Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990268003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/89281711-8c17-4fd5-8c68-76586ca44c45">GNC Intern Summer 2027</a></td>
-<td>Littleton, CO<br/>ASI Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7989993003">Apply</a></td>
-<td align="center">9 Sep 2026</td>
 </tr>
 </tbody>
 </table>

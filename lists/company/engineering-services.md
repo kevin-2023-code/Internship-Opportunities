@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**51 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**50 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -365,13 +365,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a">Civil Transportation Internship</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5233819007?gh_jid=5233819007">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/09b186e8-29b1-4250-a93f-dcbb25e40880">Transit and Rail Engineering Intern- Summer 2027</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95111">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

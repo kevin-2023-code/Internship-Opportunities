@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**212 open roles.** 171 in the United States & Canada · 41 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**211 open roles.** 170 in the United States & Canada · 41 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1206,13 +1206,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Olathe, Kansas, United States</td>
 <td align="center"><a href="https://careers.garmin.com/jobs/20158?lang=en-us">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a340102f-e3bd-4386-a0f5-e6d078f0dd7b">Aircraft Systems Intern</a></td>
-<td>New Century, Kansas, United States</td>
-<td align="center"><a href="https://careers.garmin.com/jobs/20127?lang=en-us">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>
