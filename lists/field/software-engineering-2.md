@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
+**1,638 open roles.** 1,308 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Honeywell Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5e28ab0-a5db-42cf-a980-a3673bd0a702">Embedded Engineering Intern - Summer 2027 (U.S. Person Required)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460533896/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1fb4eb9f-0e50-4c37-97a8-6263549f90c4">Software Engineering Intern - Summer 2027 (U.S. Person Required)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460537816/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Booz Allen Hamilton</strong></td>
 <td><a href="https://trueinterview.io/jobs/0df5d8d5-8523-490c-a1b0-8863ae609df0">University, 2027 Summer Games Software Developer Intern - Colorado Springs, CO</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/73610f57-3d28-4cc3-84cd-eccd631b2aba">Software Engineering Internship Interest | Resume Review and Open House</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484710397/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
-<td>Marlborough, MA</td>
-<td align="center"><a href="https://careers.rtx.com/global/en/job/01885371">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Atomics</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5c7d4b4-86db-4877-8db0-68110f94dc2d">Intern - Engineering Global Corporation</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701399/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

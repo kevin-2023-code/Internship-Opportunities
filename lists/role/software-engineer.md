@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**447 open roles.** 354 in the United States & Canada · 93 elsewhere in the world.
+**449 open roles.** 356 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef">Co-Op Developer – Adobe 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451222613/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Election Systems &amp; Software</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a">Software Engineer Intern</a></td>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d5e5960b-64e5-41e6-83f2-75c3804e6abd">Java Software Engineer Intern (Jan 2027 intake)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484914463/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SimpleAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/552113c0-f53b-4a52-90d5-418b3e5c9ef4">Software Engineer (Intern)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484797997/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
-<td>Sheffield, England, United Kingdom<br/>Sheffield, United Kingdom</td>
-<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154045294">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

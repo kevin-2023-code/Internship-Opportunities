@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**700 open roles.** 513 in the United States & Canada · 187 elsewhere in the world.
+**701 open roles.** 514 in the United States & Canada · 187 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec">AI Product Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488877635/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Talent</strong></td>
 <td><a href="https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b">Product Engineering Intern (AI)</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/05f6f55c-4282-45b5-8379-b790c58cf030">Data Engineering Intern - AI &amp; Analytics (Summer 2027)</a></td>
 <td>Palo Alto, California<br/>Irvine, California</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
-<td>Seattle, WA<br/>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 </tbody>

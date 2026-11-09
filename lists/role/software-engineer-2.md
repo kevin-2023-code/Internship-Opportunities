@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**447 open roles.** 354 in the United States & Canada · 93 elsewhere in the world.
+**449 open roles.** 356 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SimpleAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/552113c0-f53b-4a52-90d5-418b3e5c9ef4">Software Engineer (Intern)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484797997/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
+<td>Sheffield, England, United Kingdom<br/>Sheffield, United Kingdom</td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154045294">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Siemens Gamesa</strong></td>
 <td><a href="https://trueinterview.io/jobs/baffbe9f-94af-45c2-8527-505f88952693">Digitalisation Intern (Software Developer)</a></td>

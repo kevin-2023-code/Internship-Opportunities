@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
+**1,638 open roles.** 1,308 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
+<td>Marlborough, MA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01885371">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5c7d4b4-86db-4877-8db0-68110f94dc2d">Intern - Engineering Global Corporation</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701399/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Siemens</strong></td>
 <td><a href="https://trueinterview.io/jobs/4f9de5b5-667b-45b6-8682-4854c4dfc692">Protection &amp; Automation Mechanical/Industrial &amp; Systems Engineer Co-Op (North Carolina State University)</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/ebeb7a82-e5a3-4dcb-bf99-ed9474c4cd08">Process Utilities Engineer Intern (Summer 2027)</a></td>
 <td>Denver, Colorado, United States<br/>Kalamazoo, Michigan, United States<br/>Irvine, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151361159-process-utilities-engineer-intern-summer-2027-">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hermeus</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2a45c22-eb3f-40cf-a3cd-36b0fa2c9556">Propulsion Test Engineering Intern - Spring/Summer/Fall 2027</a></td>
-<td>Jacksonville, FL</td>
-<td align="center"><a href="https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fdfe2bc-6058-42ba-95e2-3149035e3504">Software Intern</a></td>
-<td>Aguadilla, Puerto Rico, Puerto Rico<br/>San Juan, Puerto Rico, Puerto Rico</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 </tbody>

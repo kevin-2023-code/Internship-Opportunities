@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**951 open roles.** 759 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
+**953 open roles.** 761 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Constellation Brands</strong></td>
+<td><a href="https://trueinterview.io/jobs/b516cb3f-8291-4649-8121-48cc808e0468">Intern, AI &amp; Automation Engineering</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487572240/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RoboForce</strong></td>
+<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/10af8991-996f-4468-9664-3456338b510c">Summer 2027 UX Design Internship</a></td>
+<td>New York, NY<br/>Philadelphia, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487559696/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>K1 Investment Management</strong></td>
 <td><a href="https://trueinterview.io/jobs/23149deb-1a60-467b-b238-f872444d4bd8">AI Intern</a></td>
@@ -2521,13 +2542,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485986222/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>York Space Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/896709d5-5711-4056-a113-d2322f672bbf">Software Engineering Intern</a></td>
-<td>Greenwood Village, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458418385/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2540,6 +2554,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462342323/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/404368dd-3073-451b-a646-d1cb0d65a611">Software Developer Summer Intern: IMS GW (Test Tools &amp; Automation)</a></td>
@@ -2804,27 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a></td>
 <td>Paris, Île-de-France, France<br/>Singapore</td>
 <td align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8138524">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
-<td>Veldhoven, North Brabant, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Millennium</strong></td>
-<td><a href="https://trueinterview.io/jobs/64c4924e-1214-4375-b6b5-bc966103874c">2027 Applied AI Engineer Intern, Tel Aviv</a></td>
-<td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487758966/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/11f4b141-c52f-4c8b-acb3-37a4af444131">AI Product Manager Intern, Game Development</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479828651/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

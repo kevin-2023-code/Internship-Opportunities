@@ -5,9 +5,135 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T16:04:47.812Z",
+  "listingsChangedAt": "2026-11-09T17:04:47.258Z",
   "count": 3504,
   "listings": [
+    {
+      "id": "84042570-cf11-4473-9926-2e8c03cd3c7a",
+      "company": "NVIDIA",
+      "title": "AI Developer Technology Engineering Intern - 2027",
+      "locations": [
+        "Shanghai, Shanghai, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462342323/",
+      "url": "https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a",
+      "postedAt": "2026-11-09T16:32:00.000Z",
+      "updatedAt": "2026-11-09T16:32:00.000Z"
+    },
+    {
+      "id": "33f468d8-ef0e-4afc-bdd9-43330b4c78ec",
+      "company": "Marketeq Digital Solutions",
+      "title": "AI Product Engineering Intern (U.S.A Only)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488877635/",
+      "url": "https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec",
+      "postedAt": "2026-11-09T16:18:00.000Z",
+      "updatedAt": "2026-11-09T16:18:00.000Z"
+    },
+    {
+      "id": "6f3cc4b0-ca82-45a7-8d8b-887955033c82",
+      "company": "IBM",
+      "title": "Co-Op Developer - Digital Product 2027",
+      "locations": [
+        "University Park, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451264812/",
+      "url": "https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82",
+      "postedAt": "2026-11-09T16:15:00.000Z",
+      "updatedAt": "2026-11-09T16:15:00.000Z"
+    },
+    {
+      "id": "e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
+      "company": "Vertiv",
+      "title": "Software Engineering Test Intern (Summer 2027)",
+      "locations": [
+        "Delaware, OH",
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472446757/",
+      "url": "https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
+      "postedAt": "2026-11-09T13:02:00.000Z",
+      "updatedAt": "2026-11-09T15:47:00.000Z"
+    },
+    {
+      "id": "e998269f-cdbe-44b0-83dc-4e07c5dc4bef",
+      "company": "IBM",
+      "title": "Co-Op Developer – Adobe 2027",
+      "locations": [
+        "University Park, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451222613/",
+      "url": "https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef",
+      "postedAt": "2026-11-09T15:29:00.000Z",
+      "updatedAt": "2026-11-09T15:29:00.000Z"
+    },
     {
       "id": "d283e0ed-204b-4a76-89c5-ceeaff40ee2b",
       "company": "Marketeq Talent",
@@ -132,31 +258,6 @@
       "url": "https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a",
       "postedAt": "2026-11-09T13:29:00.000Z",
       "updatedAt": "2026-11-09T13:29:00.000Z"
-    },
-    {
-      "id": "e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
-      "company": "Vertiv",
-      "title": "Software Engineering Test Intern (Summer 2027)",
-      "locations": [
-        "Delaware, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4472446757/",
-      "url": "https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
-      "postedAt": "2026-11-09T13:02:00.000Z",
-      "updatedAt": "2026-11-09T13:02:00.000Z"
     },
     {
       "id": "7a222ec3-2c79-45f1-96ff-78847977c61c",
@@ -17147,29 +17248,6 @@
       "url": "https://trueinterview.io/jobs/49196dd6-de8d-4b50-ba1e-425925ddb620",
       "postedAt": "2026-11-03T22:51:46.000Z",
       "updatedAt": "2026-11-03T22:51:46.000Z"
-    },
-    {
-      "id": "366d443e-a4ac-48ea-b039-3cbea68b998a",
-      "company": "Apache Industrial",
-      "title": "AI Implementation Intern",
-      "locations": [
-        "Greater Houston"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487057263/",
-      "url": "https://trueinterview.io/jobs/366d443e-a4ac-48ea-b039-3cbea68b998a",
-      "postedAt": "2026-11-03T22:40:00.000Z",
-      "updatedAt": "2026-11-03T22:40:00.000Z"
     },
     {
       "id": "a8537de8-21e6-4eaf-aa4d-5f058f8bb838",
@@ -91012,87 +91090,6 @@
       "url": "https://trueinterview.io/jobs/32c1c6c2-1717-461e-aa25-4ad97310c302",
       "postedAt": "2026-09-10T17:33:19.000Z",
       "updatedAt": "2026-09-10T17:33:19.000Z"
-    },
-    {
-      "id": "1cdbd5eb-f0d0-486f-a88c-c5af707c2b30",
-      "company": "Marloo",
-      "title": "AIOps Intern, Wellington",
-      "locations": [
-        "Wellington"
-      ],
-      "cities": [
-        "Wellington"
-      ],
-      "countries": [
-        "New Zealand"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/marloo/123c1180-6ebb-4725-bf3a-20b55d1b3887/application",
-      "url": "https://trueinterview.io/jobs/1cdbd5eb-f0d0-486f-a88c-c5af707c2b30",
-      "postedAt": "2026-09-10T16:20:42.000Z",
-      "updatedAt": "2026-09-10T16:20:42.000Z"
-    },
-    {
-      "id": "42d86fa0-81da-4540-9193-8b005d19584c",
-      "company": "Schonfeld Strategic Advisors",
-      "title": "2027 Platform Engineering Intern",
-      "locations": [
-        "New York, New York, United States",
-        "New York"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
-      "url": "https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c",
-      "postedAt": "2026-09-10T16:09:58.000Z",
-      "updatedAt": "2026-09-10T16:09:58.000Z"
-    },
-    {
-      "id": "c9e9a23b-7fcf-4027-8ce0-0b2a5580006a",
-      "company": "Rocket Lab Corporation",
-      "title": "Combustion Devices Intern Spring 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986748003",
-      "url": "https://trueinterview.io/jobs/c9e9a23b-7fcf-4027-8ce0-0b2a5580006a",
-      "postedAt": "2026-09-09T22:43:44.000Z",
-      "updatedAt": "2026-09-10T16:06:19.000Z"
     }
   ]
 }

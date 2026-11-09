@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
+**1,638 open roles.** 1,308 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hermeus</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2a45c22-eb3f-40cf-a3cd-36b0fa2c9556">Propulsion Test Engineering Intern - Spring/Summer/Fall 2027</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fdfe2bc-6058-42ba-95e2-3149035e3504">Software Intern</a></td>
+<td>Aguadilla, Puerto Rico, Puerto Rico<br/>San Juan, Puerto Rico, Puerto Rico</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/9096b553-6c96-4d79-b84a-ba6564addeea">R&amp;D Engineer, Intern</a></td>
@@ -755,13 +769,6 @@
 <td><a href="https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243">Software Engineering Intern – Summer 2027</a></td>
 <td>Durham, NC (Hybrid)<br/>Emeryville, CA (Hybrid)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8181017">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Schonfeld Strategic Advisors</strong></td>
-<td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
-<td>New York, NY<br/>New York, New York, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/835be3c8-3d91-4f3f-8169-1411a25e1c21">Robotic Foundation Model Engineer Intern (Human)</a></td>
 <td>Metzingen / Riederich</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/aa9a0895-f66b-4a5f-b933-ceca706d0e5c">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f">PHY Cellular Firmware Engineer Internship</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

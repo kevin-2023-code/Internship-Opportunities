@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**56 open roles.** 52 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**58 open roles.** 54 in the United States & Canada · 4 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef">Co-Op Developer – Adobe 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451222613/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9">Intern Data Engineer - Data Services - 2027</a></td>
 <td>Baton Rouge, LA<br/>Monroe, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451257884/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**951 open roles.** 759 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
+**953 open roles.** 761 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec">AI Product Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488877635/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vertiv</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2">Software Engineering Test Intern (Summer 2027)</a></td>
+<td>Delaware, OH<br/>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472446757/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef">Co-Op Developer – Adobe 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451222613/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Talent</strong></td>
 <td><a href="https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b">Product Engineering Intern (AI)</a></td>
@@ -38,13 +66,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a">Software Engineer Intern</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479040184/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vertiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2">Software Engineering Test Intern (Summer 2027)</a></td>
-<td>Delaware, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472446757/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f65bdf1-c1d3-4c0a-ae79-4b0ae64d99ed">DSP/ML Research Engineer Intern | Summer 2027</a></td>
 <td>Framingham, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487561849/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Constellation Brands</strong></td>
-<td><a href="https://trueinterview.io/jobs/b516cb3f-8291-4649-8121-48cc808e0468">Intern, AI &amp; Automation Engineering</a></td>
-<td>Rochester, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487572240/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RoboForce</strong></td>
-<td><a href="https://trueinterview.io/jobs/212f56f2-60ba-42ca-9bde-1ec79cd8ce05">Machine Learning Engineer Intern, AI &amp; Robotics</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487058885/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>T-Mobile</strong></td>
-<td><a href="https://trueinterview.io/jobs/10af8991-996f-4468-9664-3456338b510c">Summer 2027 UX Design Internship</a></td>
-<td>New York, NY<br/>Philadelphia, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487559696/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

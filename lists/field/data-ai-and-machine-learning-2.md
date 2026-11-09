@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**700 open roles.** 513 in the United States & Canada · 187 elsewhere in the world.
+**701 open roles.** 514 in the United States & Canada · 187 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>
+<td>Seattle, WA<br/>New York, NY</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1081255008061721/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/beff4ec2-92e3-49fc-868c-53626a560c0b">Research Scientist Intern, Central Applied Science (PhD)</a></td>
 <td>New York, NY<br/>Menlo Park, CA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/1582569213186235/">Apply</a></td>
@@ -819,6 +826,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462342323/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/24f638f9-9d1b-49dc-ac8d-91649b3b07ca">Research Scientist Intern - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
 <td>Singapore</td>
@@ -1082,13 +1096,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9">Industrial AI &amp; Software Engineering Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527726">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apache Industrial</strong></td>
-<td><a href="https://trueinterview.io/jobs/366d443e-a4ac-48ea-b039-3cbea68b998a">AI Implementation Intern</a></td>
-<td>Greater Houston</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487057263/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

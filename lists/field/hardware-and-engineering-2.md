@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**774 open roles.** 700 in the United States & Canada · 74 elsewhere in the world.
+**773 open roles.** 699 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2106,13 +2106,6 @@
 <td><a href="https://trueinterview.io/jobs/32c1c6c2-1717-461e-aa25-4ad97310c302">Intern - Quality Engineer</a></td>
 <td>Lake Saint Louis, MO or Mandan, ND</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191319">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/c9e9a23b-7fcf-4027-8ce0-0b2a5580006a">Combustion Devices Intern Spring 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986748003">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

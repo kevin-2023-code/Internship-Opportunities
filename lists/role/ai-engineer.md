@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**185 open roles.** 122 in the United States & Canada · 63 elsewhere in the world.
+**187 open roles.** 123 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec">AI Product Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488877635/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Talent</strong></td>
 <td><a href="https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b">Product Engineering Intern (AI)</a></td>
@@ -883,6 +890,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462342323/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f7cf471-ed89-455e-b48c-c6619c22cee8">Internship in GenAI Knowledge Assistant for Engineering</a></td>

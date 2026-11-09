@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**951 open roles.** 759 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
+**953 open roles.** 761 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -18,7 +18,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
+<td>Veldhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Millennium</strong></td>
+<td><a href="https://trueinterview.io/jobs/64c4924e-1214-4375-b6b5-bc966103874c">2027 Applied AI Engineer Intern, Tel Aviv</a></td>
+<td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487758966/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/11f4b141-c52f-4c8b-acb3-37a4af444131">AI Product Manager Intern, Game Development</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479828651/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2829cf1f-cf01-4114-a275-cf79cf512542">Product Manager Intern</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479832552/">Apply</a></td>
@@ -519,13 +540,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9">Industrial AI &amp; Software Engineering Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527726">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apache Industrial</strong></td>
-<td><a href="https://trueinterview.io/jobs/366d443e-a4ac-48ea-b039-3cbea68b998a">AI Implementation Intern</a></td>
-<td>Greater Houston</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487057263/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

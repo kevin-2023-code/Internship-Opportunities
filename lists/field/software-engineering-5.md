@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
+**1,638 open roles.** 1,308 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/537b9859-c6d8-4e38-9734-446604d5146f">PHY Cellular Firmware Engineer Internship</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200682229-1731?board_id=JB001">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cloudflare</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a3f96db-a3e9-49c3-86fa-fccd5653a75d">Software Engineer Intern (2027)</a></td>
@@ -274,13 +281,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a9519ed0-5b91-4545-baad-6700c0b97f03">Software Engineer Intern</a></td>
 <td>St. Louis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marloo</strong></td>
-<td><a href="https://trueinterview.io/jobs/1cdbd5eb-f0d0-486f-a88c-c5af707c2b30">AIOps Intern, Wellington</a></td>
-<td>Wellington</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/marloo/123c1180-6ebb-4725-bf3a-20b55d1b3887/application">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

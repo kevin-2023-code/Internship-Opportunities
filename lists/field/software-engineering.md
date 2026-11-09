@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
+**1,638 open roles.** 1,308 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,17 +20,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Election Systems &amp; Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a">Software Engineer Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479040184/">Apply</a></td>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Vertiv</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2">Software Engineering Test Intern (Summer 2027)</a></td>
-<td>Delaware, OH</td>
+<td>Delaware, OH<br/>Huntsville, AL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472446757/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef">Co-Op Developer – Adobe 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451222613/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Election Systems &amp; Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a">Software Engineer Intern</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479040184/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/096a918e-386e-457c-ac62-f65880ddaf50">2027 Cybersecurity &amp; Cloud and Infrastructure Consulting Intern</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458967970/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Honeywell Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5e28ab0-a5db-42cf-a980-a3673bd0a702">Embedded Engineering Intern - Summer 2027 (U.S. Person Required)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460533896/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1fb4eb9f-0e50-4c37-97a8-6263549f90c4">Software Engineering Intern - Summer 2027 (U.S. Person Required)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460537816/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 </tbody>

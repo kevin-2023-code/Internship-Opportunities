@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**594 open roles.** 467 in the United States & Canada · 127 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**595 open roles.** 467 in the United States & Canada · 128 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -496,6 +496,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462342323/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/24f638f9-9d1b-49dc-ac8d-91649b3b07ca">Research Scientist Intern - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
