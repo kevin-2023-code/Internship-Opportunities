@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**595 open roles.** 467 in the United States & Canada · 128 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**594 open roles.** 466 in the United States & Canada · 128 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -801,13 +801,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dbb1241e-aad8-4324-88e5-d47a18baeafc">Design Verification Engineering Intern</a></td>
 <td>United Kingdom, Edinburgh, SC, Freer</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048">Software Engineer Full Stack / Backend I (Co-op) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306">Product Management Internship - Summer 2027</a></td>
 <td>San Diego, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741706">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f6d90095-a873-470d-8433-8cfbc563fd04">Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740540">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**67 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -100,13 +100,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Westminster, CO<br/>Dayton, OH</td>
 <td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/58bb31aa-9aaa-4a67-92e5-4aaf850f4122">Process Engineer Intern (Summer 2027)</a></td>
-<td>Denver, Colorado, United States<br/>Irvine, California, United States<br/>Raleigh, North Carolina, United States<br/>+2 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000159484249-process-engineer-intern-summer-2027-">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>CACI International Inc</strong></td>

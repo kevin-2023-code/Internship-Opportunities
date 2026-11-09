@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,306 in the United States & Canada · 333 elsewhere in the world.
+**1,637 open roles.** 1,305 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
+<td>Marlborough, MA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01885371">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>General Atomics</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5c7d4b4-86db-4877-8db0-68110f94dc2d">Intern - Engineering Global Corporation</a></td>
@@ -1031,6 +1038,13 @@
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e3bcc7-3b0c-4f16-b80e-c80b43849bf2">Onshape Software Engineer Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Rochester Regional Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/08fe7093-5558-43c8-a232-d1924d30c7d5">RIT Co-op: Security Engineering</a></td>
 <td>Rochester, NY</td>
@@ -1385,13 +1399,6 @@
 <td><a href="https://trueinterview.io/jobs/1e43103f-d226-46d1-8db8-1edb6e3ddaad">Developer Intern, Extension Excellence - Winter 2027</a> 🌐</td>
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048">Software Engineer Full Stack / Backend I (Co-op) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/ebeb7a82-e5a3-4dcb-bf99-ed9474c4cd08">Process Utilities Engineer Intern (Summer 2027)</a></td>
 <td>Denver, Colorado, United States<br/>Kalamazoo, Michigan, United States<br/>Irvine, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151361159-process-utilities-engineer-intern-summer-2027-">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hermeus</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2a45c22-eb3f-40cf-a3cd-36b0fa2c9556">Propulsion Test Engineering Intern - Spring/Summer/Fall 2027</a></td>
-<td>Jacksonville, FL</td>
-<td align="center"><a href="https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 </tbody>

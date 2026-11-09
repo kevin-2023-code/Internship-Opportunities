@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,306 in the United States & Canada · 333 elsewhere in the world.
+**1,637 open roles.** 1,305 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hermeus</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2a45c22-eb3f-40cf-a3cd-36b0fa2c9556">Propulsion Test Engineering Intern - Spring/Summer/Fall 2027</a></td>
+<td>Jacksonville, FL</td>
+<td align="center"><a href="https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/1fdfe2bc-6058-42ba-95e2-3149035e3504">Software Intern</a></td>
@@ -742,20 +749,6 @@
 <td>Redmond, WA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556988203">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/380ccfa4-5e4b-4030-9c74-36db80a30d44">Stagiaire en développement logiciel / Software Developer Intern</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bba87d2-2fba-4c86-af7d-9d81db4cbbe5">Test Engineering Intern - Avionics Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c1f046da-ec4a-4c29-9b6a-68523ff2c1f7">SW Test &amp; Integration Engineer Intern — Road Model &amp; Traffic Participants</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153701745-sw-test-integration-engineer-intern-road-model-traffic-participants">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/835be3c8-3d91-4f3f-8169-1411a25e1c21">Robotic Foundation Model Engineer Intern (Human)</a></td>
+<td>Metzingen / Riederich</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/aa9a0895-f66b-4a5f-b933-ceca706d0e5c">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

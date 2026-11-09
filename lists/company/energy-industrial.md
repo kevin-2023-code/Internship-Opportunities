@@ -2,7 +2,7 @@
 
 # ⚡ Energy, climate & industrial
 
-**24 open roles.** 23 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
+**23 open roles.** 22 in the United States & Canada · 1 elsewhere in the world. Energy, climate technology, utilities, manufacturing and industrials.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -170,13 +170,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Faison, NC<br/>Sampson - Non-Exempt</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/enviva/jobs/7994599003">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Eqt Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/029f78c0-ffba-48bf-a6a3-338760463540">Midstream Electrical Engineer Intern</a></td>
-<td>Canonsburg, PA<br/>Canonsburg - ETRN</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5421052008">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

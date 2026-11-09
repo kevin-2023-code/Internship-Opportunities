@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**703 open roles.** 516 in the United States & Canada · 187 elsewhere in the world.
+**704 open roles.** 517 in the United States & Canada · 187 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Scout AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/64617daf-883c-4ad1-b585-e8792b5ede5d">AI Engineer Intern - Fury Team (Summer 2027)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Toyota Research Institute</strong></td>
 <td><a href="https://trueinterview.io/jobs/2be396e8-364d-4692-8e42-95a9ea450e5e">Human Aware Interactions and Learning Intern</a></td>

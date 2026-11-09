@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**21 open roles.**
+**20 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Montreal, QC<br/>Montreal, Canada</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/380ccfa4-5e4b-4030-9c74-36db80a30d44">Stagiaire en développement logiciel / Software Developer Intern</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

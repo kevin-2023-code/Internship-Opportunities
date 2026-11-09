@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**145 open roles.**
+**146 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -674,6 +674,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Marlborough, Massachusetts, United States</td>
 <td align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e3bcc7-3b0c-4f16-b80e-c80b43849bf2">Onshape Software Engineer Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943">Apply</a></td>
+<td align="center">27 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>SOCOTEC Group</strong></td>

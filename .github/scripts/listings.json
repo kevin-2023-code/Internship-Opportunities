@@ -5,9 +5,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T19:04:04.476Z",
-  "count": 3504,
+  "listingsChangedAt": "2026-11-09T20:04:35.242Z",
+  "count": 3499,
   "listings": [
+    {
+      "id": "2c387cce-2581-49ff-b172-f455eb3f4865",
+      "company": "WebstaurantStore",
+      "title": "UX Product Design Intern",
+      "locations": [
+        "Lititz, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487932182/",
+      "url": "https://trueinterview.io/jobs/2c387cce-2581-49ff-b172-f455eb3f4865",
+      "postedAt": "2026-11-09T19:05:00.000Z",
+      "updatedAt": "2026-11-09T19:05:00.000Z"
+    },
+    {
+      "id": "6fbd443a-2eca-4f73-9f6e-1ab015c25c8b",
+      "company": "Nutanix",
+      "title": "UX Design Intern (Summer 2027)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489100905/",
+      "url": "https://trueinterview.io/jobs/6fbd443a-2eca-4f73-9f6e-1ab015c25c8b",
+      "postedAt": "2026-11-09T18:38:00.000Z",
+      "updatedAt": "2026-11-09T18:38:00.000Z"
+    },
+    {
+      "id": "8239e14e-8751-447a-8450-f113520969ed",
+      "company": "Nutanix",
+      "title": "UX Research Intern (Summer 2027)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489127006/",
+      "url": "https://trueinterview.io/jobs/8239e14e-8751-447a-8450-f113520969ed",
+      "postedAt": "2026-11-09T18:38:00.000Z",
+      "updatedAt": "2026-11-09T18:38:00.000Z"
+    },
     {
       "id": "50df9f0d-6c8a-4f51-a0f6-0382f9c7289a",
       "company": "Lila Sciences",
@@ -86,6 +165,60 @@
       "url": "https://trueinterview.io/jobs/24377f05-8240-4dee-8c26-1f7e5dd0303a",
       "postedAt": "2026-11-09T17:24:00.000Z",
       "updatedAt": "2026-11-09T17:24:00.000Z"
+    },
+    {
+      "id": "d215506d-99d3-4a34-91cb-fdfe95e3cf85",
+      "company": "UiPath",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Bellevue"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04",
+      "url": "https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85",
+      "postedAt": "2026-11-09T17:14:47.000Z",
+      "updatedAt": "2026-11-09T17:14:47.000Z"
+    },
+    {
+      "id": "bf5e09c5-8360-4286-9281-6aad12344985",
+      "company": "UiPath",
+      "title": "AI Engineer Intern",
+      "locations": [
+        "Bellevue"
+      ],
+      "cities": [
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555",
+      "url": "https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985",
+      "postedAt": "2026-11-09T17:12:40.000Z",
+      "updatedAt": "2026-11-09T17:12:40.000Z"
     },
     {
       "id": "5330e797-5053-4066-b126-41a5d7450a92",
@@ -312,6 +445,31 @@
       "url": "https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b",
       "postedAt": "2026-11-09T15:14:00.000Z",
       "updatedAt": "2026-11-09T15:14:00.000Z"
+    },
+    {
+      "id": "2c4da381-912e-490e-8740-1808df9928d2",
+      "company": "AECOM",
+      "title": "Mechanical Engineering Intern",
+      "locations": [
+        "Roanoke, Virginia, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000160640529-mechanical-engineering-intern",
+      "url": "https://trueinterview.io/jobs/2c4da381-912e-490e-8740-1808df9928d2",
+      "postedAt": "2026-11-09T15:07:06.000Z",
+      "updatedAt": "2026-11-09T15:07:06.000Z"
     },
     {
       "id": "404368dd-3073-451b-a646-d1cb0d65a611",
@@ -541,6 +699,30 @@
       "url": "https://trueinterview.io/jobs/831a0b75-a875-4b25-88c5-72e1b367b1a9",
       "postedAt": "2026-11-09T12:13:30.000Z",
       "updatedAt": "2026-11-09T12:13:30.000Z"
+    },
+    {
+      "id": "7e46f7d9-f27b-406f-a60f-c092ffcb7de1",
+      "company": "UNIVERSAL PHOENIX GROUP LLC",
+      "title": "UX/UI Game Dev (Unity) Internship",
+      "locations": [
+        "Remote",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=272776831ae58ae8",
+      "url": "https://trueinterview.io/jobs/7e46f7d9-f27b-406f-a60f-c092ffcb7de1",
+      "postedAt": "2026-11-09T12:03:54.000Z",
+      "updatedAt": "2026-11-09T12:03:54.000Z"
     },
     {
       "id": "e891a7e1-8694-406a-b176-abdf19e9abcd",
@@ -877,6 +1059,31 @@
       "url": "https://trueinterview.io/jobs/f3a8f934-1630-4b1b-a37f-35794fe01c6b",
       "postedAt": "2026-11-09T06:50:00.000Z",
       "updatedAt": "2026-11-09T06:50:00.000Z"
+    },
+    {
+      "id": "4aeb726c-c729-4d40-914f-2ae370278725",
+      "company": "Veterans United Home Loans",
+      "title": "Intern - Software Engineer - Summer 2027",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
+      "url": "https://trueinterview.io/jobs/4aeb726c-c729-4d40-914f-2ae370278725",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
     },
     {
       "id": "9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba",
@@ -8816,31 +9023,6 @@
       "url": "https://trueinterview.io/jobs/b9d59308-e649-4902-bfac-a02bdb747edb",
       "postedAt": "2026-11-05T17:59:00.000Z",
       "updatedAt": "2026-11-05T17:59:00.000Z"
-    },
-    {
-      "id": "4fe70514-8cf2-487d-8e33-88a3d7b5111d",
-      "company": "KeenStack",
-      "title": "ServiceNow Developer Internship",
-      "locations": [
-        "Chandler, AZ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=f768ac1e26df7405",
-      "url": "https://trueinterview.io/jobs/4fe70514-8cf2-487d-8e33-88a3d7b5111d",
-      "postedAt": "2026-11-05T17:44:14.000Z",
-      "updatedAt": "2026-11-05T17:44:14.000Z"
     },
     {
       "id": "f8b7698c-c6ad-448f-8b7c-4faecaa07bd4",
@@ -17942,37 +18124,6 @@
       "updatedAt": "2026-11-03T19:53:00.000Z"
     },
     {
-      "id": "58bb31aa-9aaa-4a67-92e5-4aaf850f4122",
-      "company": "CRB",
-      "title": "Process Engineer Intern (Summer 2027)",
-      "locations": [
-        "Irvine, California, United States",
-        "Raleigh, North Carolina, United States",
-        "Emeryville, California, United States",
-        "St. Louis, Missouri, United States",
-        "Denver, Colorado, United States"
-      ],
-      "cities": [
-        "Denver, CO"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/CRB/744000159484249-process-engineer-intern-summer-2027-",
-      "url": "https://trueinterview.io/jobs/58bb31aa-9aaa-4a67-92e5-4aaf850f4122",
-      "postedAt": "2026-11-03T19:52:56.000Z",
-      "updatedAt": "2026-11-03T19:52:56.000Z"
-    },
-    {
       "id": "a434c681-3f82-43a2-a1a6-d0f58a32afb0",
       "company": "Cryptic Vector",
       "title": "Summer 2027 Full Stack Developer Internship",
@@ -26899,31 +27050,6 @@
       "url": "https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f",
       "postedAt": "2026-10-31T15:20:00.000Z",
       "updatedAt": "2026-10-31T15:20:00.000Z"
-    },
-    {
-      "id": "cf597d8f-3a7d-477b-a2cc-abfdbd5ee077",
-      "company": "DICK'S Sporting Goods",
-      "title": "Product Design (UX) - Summer 2027 Corporate Internship",
-      "locations": [
-        "Coraopolis, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475226934/",
-      "url": "https://trueinterview.io/jobs/cf597d8f-3a7d-477b-a2cc-abfdbd5ee077",
-      "postedAt": "2026-10-31T15:16:45.000Z",
-      "updatedAt": "2026-10-31T15:16:45.000Z"
     },
     {
       "id": "023e224d-028b-4a77-ab54-907d87f1fe6d",
@@ -59099,6 +59225,33 @@
       "updatedAt": "2026-10-27T05:00:00.000Z"
     },
     {
+      "id": "a1e3bcc7-3b0c-4f16-b80e-c80b43849bf2",
+      "company": "PTC",
+      "title": "Onshape Software Engineer Intern (Summer 2027)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
+      "url": "https://trueinterview.io/jobs/a1e3bcc7-3b0c-4f16-b80e-c80b43849bf2",
+      "postedAt": "2026-10-27T05:00:00.000Z",
+      "updatedAt": "2026-10-27T05:00:00.000Z"
+    },
+    {
       "id": "ff495b7a-ad0e-45e8-b8bf-9f43d45cb09e",
       "company": "Roche",
       "title": "Internship - Software and Data Engineer (for 12 months in Rotkreuz)",
@@ -62149,36 +62302,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097",
       "url": "https://trueinterview.io/jobs/dbb1241e-aad8-4324-88e5-d47a18baeafc",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "bd4a6b93-081e-4aab-81ed-c97678d97048",
-      "company": "Cisco",
-      "title": "Software Engineer Full Stack / Backend I (Co-op) - United States",
-      "locations": [
-        "San Jose, California, US, United States of America",
-        "Carlsbad, California, US",
-        "San Jose, California, United States of America",
-        "Carlsbad, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
-      "url": "https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -90830,266 +90953,6 @@
       "url": "https://trueinterview.io/jobs/8e11a7a7-6bd2-406d-8c69-ec735795db1f",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "633a023a-6455-463b-940d-478230e345cc",
-      "company": "National Information Solutions Cooperative (nisc",
-      "title": "Intern - Information Security (Cybersecurity)",
-      "locations": [
-        "Lake St. Louis, MO or Mandan, ND",
-        "Lake Saint Louis, MO",
-        "Mandan, ND",
-        "Lake Saint Louis, MO or Mandan, ND"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "IT & Support",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/nisc/jobs/8191724",
-      "url": "https://trueinterview.io/jobs/633a023a-6455-463b-940d-478230e345cc",
-      "postedAt": "2026-09-10T20:02:00.000Z",
-      "updatedAt": "2026-09-10T20:02:00.000Z"
-    },
-    {
-      "id": "029f78c0-ffba-48bf-a6a3-338760463540",
-      "company": "Eqt Corporation",
-      "title": "Midstream Electrical Engineer Intern",
-      "locations": [
-        "Canonsburg, PA",
-        "Canonsburg - ETRN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/eqtcorporation/jobs/5421052008",
-      "url": "https://trueinterview.io/jobs/029f78c0-ffba-48bf-a6a3-338760463540",
-      "postedAt": "2026-09-10T19:44:05.000Z",
-      "updatedAt": "2026-09-10T19:44:05.000Z"
-    },
-    {
-      "id": "380ccfa4-5e4b-4030-9c74-36db80a30d44",
-      "company": "Exegy",
-      "title": "Stagiaire en développement logiciel / Software Developer Intern",
-      "locations": [
-        "Montreal"
-      ],
-      "cities": [
-        "Montreal, QC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application",
-      "url": "https://trueinterview.io/jobs/380ccfa4-5e4b-4030-9c74-36db80a30d44",
-      "postedAt": "2026-09-10T19:32:54.000Z",
-      "updatedAt": "2026-09-10T19:32:54.000Z"
-    },
-    {
-      "id": "a9519ed0-5b91-4545-baad-6700c0b97f03",
-      "company": "Exegy",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "St. Louis"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application",
-      "url": "https://trueinterview.io/jobs/a9519ed0-5b91-4545-baad-6700c0b97f03",
-      "postedAt": "2026-09-10T19:26:28.000Z",
-      "updatedAt": "2026-09-10T19:26:28.000Z"
-    },
-    {
-      "id": "dbea70a1-abad-48c7-8023-febaa330e974",
-      "company": "Vast",
-      "title": "Emerging Talent - Manufacturing Internship",
-      "locations": [
-        "Long Beach, California, United States",
-        "Long Beach"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006",
-      "url": "https://trueinterview.io/jobs/dbea70a1-abad-48c7-8023-febaa330e974",
-      "postedAt": "2026-09-10T19:11:36.000Z",
-      "updatedAt": "2026-09-10T19:11:36.000Z"
-    },
-    {
-      "id": "de738f4e-25e5-40bd-8ea4-7a6c51736d01",
-      "company": "Vast",
-      "title": "Emerging Talent - Electrical Internship",
-      "locations": [
-        "Long Beach, California, United States",
-        "Long Beach"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006",
-      "url": "https://trueinterview.io/jobs/de738f4e-25e5-40bd-8ea4-7a6c51736d01",
-      "postedAt": "2026-09-10T19:09:36.000Z",
-      "updatedAt": "2026-09-10T19:09:36.000Z"
-    },
-    {
-      "id": "7bba87d2-2fba-4c86-af7d-9d81db4cbbe5",
-      "company": "Rocket Lab Corporation",
-      "title": "Test Engineering Intern - Avionics Summer 2027",
-      "locations": [
-        "Long Beach, CA",
-        "RL Headquarters"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7987159003",
-      "url": "https://trueinterview.io/jobs/7bba87d2-2fba-4c86-af7d-9d81db4cbbe5",
-      "postedAt": "2026-09-10T19:06:37.000Z",
-      "updatedAt": "2026-09-10T19:06:37.000Z"
-    },
-    {
-      "id": "075c22bc-ca99-4391-876e-8282a1397023",
-      "company": "Rocket Lab Corporation",
-      "title": "Propulsion Intern Summer 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986792003",
-      "url": "https://trueinterview.io/jobs/075c22bc-ca99-4391-876e-8282a1397023",
-      "postedAt": "2026-09-10T19:06:22.000Z",
-      "updatedAt": "2026-09-10T19:06:22.000Z"
-    },
-    {
-      "id": "97366ce1-83fc-4bd3-90b6-f1dd6e448d1c",
-      "company": "Rocket Lab Corporation",
-      "title": "Propulsion Design Intern Summer 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7986816003",
-      "url": "https://trueinterview.io/jobs/97366ce1-83fc-4bd3-90b6-f1dd6e448d1c",
-      "postedAt": "2026-09-10T19:05:50.000Z",
-      "updatedAt": "2026-09-10T19:05:50.000Z"
-    },
-    {
-      "id": "79b9c5c9-95c9-436c-bb53-c4316072c3f1",
-      "company": "Rocket Lab Corporation",
-      "title": "Fluid Component Intern Spring 2027",
-      "locations": [
-        "Long Beach, CA",
-        "EDC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7990365003",
-      "url": "https://trueinterview.io/jobs/79b9c5c9-95c9-436c-bb53-c4316072c3f1",
-      "postedAt": "2026-09-09T22:53:19.000Z",
-      "updatedAt": "2026-09-10T19:05:16.000Z"
     }
   ]
 }

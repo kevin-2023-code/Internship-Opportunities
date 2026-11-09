@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,306 in the United States & Canada · 333 elsewhere in the world.
+**1,637 open roles.** 1,305 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332">Cybersecurity Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488788761/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UiPath</strong></td>
+<td><a href="https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85">Software Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -73,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
 <td>Chicago, IL<br/>New York, NY<br/>Dallas, TX<br/>+1 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454857439/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veterans United Home Loans</strong></td>
+<td><a href="https://trueinterview.io/jobs/4aeb726c-c729-4d40-914f-2ae370278725">Intern - Software Engineer - Summer 2027</a></td>
+<td>United States</td>
+<td align="center"><a href="https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -1060,13 +1074,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3de4194c-2a35-4bdb-99a6-0b9c4ef120fe">Summer Embedded Developer Intern</a></td>
 <td>Columbia, MD</td>
 <td align="center"><a href="https://jobs.parsons.com/jobs/summer-embedded-developer-intern-columbia-r-188299-jobs--internship-program--">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>KeenStack</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fe70514-8cf2-487d-8e33-88a3d7b5111d">ServiceNow Developer Internship</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=f768ac1e26df7405">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d3b6e321-1cc6-4828-923b-21641645ea9c">2027 Summer Intern: Engineering - Software</a></td>
 <td>St Louis, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460528336/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Annapurna Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b">Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Seattle, WA<br/>Cupertino, CA<br/>New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460336386/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 </tbody>

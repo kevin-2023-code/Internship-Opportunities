@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**224 open roles.** 162 in the United States & Canada · 62 elsewhere in the world.
+**226 open roles.** 163 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WebstaurantStore</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c387cce-2581-49ff-b172-f455eb3f4865">UX Product Design Intern</a></td>
+<td>Lititz, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487932182/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nutanix</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fbd443a-2eca-4f73-9f6e-1ab015c25c8b">UX Design Intern (Summer 2027)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489100905/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8239e14e-8751-447a-8450-f113520969ed">UX Research Intern (Summer 2027)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489127006/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/22f3da15-b0a2-4aff-9bda-519950b63088">Product Manager Intern 2027</a></td>
@@ -344,13 +365,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/db1b12e1-2a6e-44bd-bba4-f1184f4c4833">Software Product Management Intern</a></td>
 <td>Chicago, Illinois, United States<br/>Mountain View, California, United States<br/>Jersey City, NJ<br/>+1 more</td>
 <td align="center"><a href="https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DICK'S Sporting Goods</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf597d8f-3a7d-477b-a2cc-abfdbd5ee077">Product Design (UX) - Summer 2027 Corporate Internship</a></td>
-<td>Coraopolis, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475226934/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1144,13 +1158,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556983226">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/97366ce1-83fc-4bd3-90b6-f1dd6e448d1c">Propulsion Design Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986816003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -1168,6 +1175,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f8ce5ae2-1ba9-4fa7-bb87-80071fd0d80c">Class of 2028, 28卒対象 / UI/UX Designer(Internship)- Mercari Group</a></td>
 <td>Minato, Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4426779240/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UNIVERSAL PHOENIX GROUP LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e46f7d9-f27b-406f-a60f-c092ffcb7de1">UX/UI Game Dev (Unity) Internship</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=272776831ae58ae8">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

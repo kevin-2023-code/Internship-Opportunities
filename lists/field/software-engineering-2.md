@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,306 in the United States & Canada · 333 elsewhere in the world.
+**1,637 open roles.** 1,305 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Annapurna Labs</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b">Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
+<td>Seattle, WA<br/>Cupertino, CA<br/>New York, United States<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460336386/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>West Monroe</strong></td>
 <td><a href="https://trueinterview.io/jobs/096a918e-386e-457c-ac62-f65880ddaf50">2027 Cybersecurity &amp; Cloud and Infrastructure Consulting Intern</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/73610f57-3d28-4cc3-84cd-eccd631b2aba">Software Engineering Internship Interest | Resume Review and Open House</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484710397/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
-<td>Marlborough, MA</td>
-<td align="center"><a href="https://careers.rtx.com/global/en/job/01885371">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

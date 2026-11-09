@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**957 open roles.** 763 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**961 open roles.** 766 in the United States & Canada · 195 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Back Market</strong></td>
+<td><a href="https://trueinterview.io/jobs/de5fc62c-924a-48cb-b9ef-c8db5a6baede">Software Engineer Intern</a></td>
+<td>Paris<br/>Barcelona</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/backmarket/154e6aa0-dbeb-4521-8135-3304118c822b">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/00c12142-0461-4474-9f24-0c8d19b1cd06">SAP Labs iXp Intern - Software Developer</a></td>
+<td>Brno-střed, Jihomoravský kraj, Czechia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160236955-sap-labs-ixp-intern-software-developer">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mercari, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>
+<td>Minato, Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
+<td>Hong Kong Japan</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Thatgamecompany</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5af0777-cf18-4ee0-99df-ad5eeef168b6">Game Designer Intern</a></td>

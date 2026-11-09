@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**770 open roles.** 696 in the United States & Canada · 74 elsewhere in the world.
+**765 open roles.** 691 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c4da381-912e-490e-8740-1808df9928d2">Mechanical Engineering Intern</a></td>
+<td>Roanoke, Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160640529-mechanical-engineering-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a222ec3-2c79-45f1-96ff-78847977c61c">Electrical Hardware Engineer Intern</a></td>
@@ -220,13 +227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/15aabaf7-b6c9-4e64-bee3-82b40033632c">Mechanical Engineering Co-Op</a></td>
 <td>North Kingstown, RI<br/>North Kingstown, Rhode Island, USA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/REGENT/6d1fc228-f66c-4780-b358-7be3f6f64ed9">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/58bb31aa-9aaa-4a67-92e5-4aaf850f4122">Process Engineer Intern (Summer 2027)</a></td>
-<td>Denver, Colorado, United States<br/>Irvine, California, United States<br/>Raleigh, North Carolina, United States<br/>+2 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000159484249-process-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

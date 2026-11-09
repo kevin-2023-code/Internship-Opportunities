@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**212 open roles.** 171 in the United States & Canada · 41 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**211 open roles.** 170 in the United States & Canada · 41 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -198,13 +198,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413">Apply</a></td>
 <td align="center">25 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048">Software Engineer Full Stack / Backend I (Co-op) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Formlabs</strong></td>

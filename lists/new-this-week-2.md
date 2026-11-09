@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**957 open roles.** 763 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**961 open roles.** 766 in the United States & Canada · 195 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>LSEG</strong></td>
+<td><a href="https://trueinterview.io/jobs/5e8c1305-68e5-4005-ad23-d3a75da13829">Intern - Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478484226/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Procter &amp; Gamble</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5475c88-08a0-4694-9383-ac4b9f64e918">R&amp;D PhD Summer Intern - AI Research Engineer</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468937273/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SOTI</strong></td>
+<td><a href="https://trueinterview.io/jobs/46bc734e-2eee-4b2e-86cf-59afd2df4b9e">Software Developer Intern - Android (May 2027 - 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef340606-e08a-437f-b8a6-17d251c75764">Software Developer Intern (May 2027 12 Months)</a></td>
+<td>Mississauga, Ontario, Canada</td>
+<td align="center"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tenet Healthcare Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/a33ef2eb-ee2a-4fc3-bc6b-e39408ee4385">Mechanical Engineering Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
+<td>Dallas, TX, United States</td>
+<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2603028285">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The J.M. Smucker Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce5e4eb7-f66c-4b6d-89df-6c065c2c31a1">Data Science Intern, Summer 2027</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Walmart</strong></td>
 <td><a href="https://trueinterview.io/jobs/3b9b4b0b-3cb5-4667-97dd-2d7e742d7d7d">(USA) Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern</a></td>
@@ -1189,13 +1231,6 @@
 <td><a href="https://trueinterview.io/jobs/b748c22d-17c3-49c8-8215-d8ebf9967369">Intern- Software Engineer</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468176324/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/58bb31aa-9aaa-4a67-92e5-4aaf850f4122">Process Engineer Intern (Summer 2027)</a></td>
-<td>Denver, Colorado, United States<br/>Irvine, California, United States<br/>Raleigh, North Carolina, United States<br/>+2 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000159484249-process-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2542,20 +2577,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485411943/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Mission Technologies, a division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/77eb4340-99dc-4799-bd7a-665cb2d94960">Data Engineer (Skillbridge Intern) - 28499</a></td>
-<td>Augusta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4441134056/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Knowbe4</strong></td>
-<td><a href="https://trueinterview.io/jobs/5e77e8c6-3ee5-452b-9119-56f1aadfbda8">Multimedia Designer Summer Internship (Hybrid)</a></td>
-<td>Clearwater, Florida</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8919260002">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2629,6 +2650,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/831a0b75-a875-4b25-88c5-72e1b367b1a9">Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)</a></td>
 <td>Aveiro, Portugal</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UNIVERSAL PHOENIX GROUP LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e46f7d9-f27b-406f-a60f-c092ffcb7de1">UX/UI Game Dev (Unity) Internship</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=272776831ae58ae8">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2797,34 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2e784e31-fd4e-42ad-94cf-15caa95e7d17">2027 Trader Summer Intern (12-week program)</a></td>
 <td>Tokyo, Tokyo, Japan<br/>Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488199206/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Back Market</strong></td>
-<td><a href="https://trueinterview.io/jobs/de5fc62c-924a-48cb-b9ef-c8db5a6baede">Software Engineer Intern</a></td>
-<td>Paris<br/>Barcelona</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/backmarket/154e6aa0-dbeb-4521-8135-3304118c822b">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/00c12142-0461-4474-9f24-0c8d19b1cd06">SAP Labs iXp Intern - Software Developer</a></td>
-<td>Brno-střed, Jihomoravský kraj, Czechia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160236955-sap-labs-ixp-intern-software-developer">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mercari, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/acd1d307-051c-4a40-aba5-c15e32ce0829">Class of 2028 / Security Engineer Internship- Mercari Group</a></td>
-<td>Minato, Tokyo, Japan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4407185352/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Point72 Asset Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d3fbe47-3112-463a-aeb2-00fe0e1984ac">2027 Trader Summer Intern (12-week program)</a></td>
-<td>Hong Kong Japan</td>
-<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

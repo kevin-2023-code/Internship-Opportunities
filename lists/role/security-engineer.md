@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**100 open roles.** 85 in the United States & Canada · 15 elsewhere in the world.
+**99 open roles.** 84 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -604,13 +604,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556988203">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>National Information Solutions Cooperative (nisc</strong></td>
-<td><a href="https://trueinterview.io/jobs/633a023a-6455-463b-940d-478230e345cc">Intern - Information Security (Cybersecurity)</a></td>
-<td>Lake St. Louis, MO or Mandan, ND<br/>Lake Saint Louis, MO or Mandan, ND<br/>Mandan, ND</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191724">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

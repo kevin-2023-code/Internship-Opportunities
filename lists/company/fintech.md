@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**28 open roles.** 21 in the United States & Canada · 7 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**26 open roles.** 20 in the United States & Canada · 6 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -157,13 +157,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center"><a href="https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/380ccfa4-5e4b-4030-9c74-36db80a30d44">Stagiaire en développement logiciel / Software Developer Intern</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -217,13 +210,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bogota, Colombia</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sezzle/jobs/8003784003">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9519ed0-5b91-4545-baad-6700c0b97f03">Software Engineer Intern</a></td>
-<td>St. Louis</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

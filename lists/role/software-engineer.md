@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**451 open roles.** 356 in the United States & Canada · 95 elsewhere in the world.
+**450 open roles.** 356 in the United States & Canada · 94 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>UiPath</strong></td>
+<td><a href="https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85">Software Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
@@ -45,6 +52,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e891a7e1-8694-406a-b176-abdf19e9abcd">Software Developer Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487691446/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veterans United Home Loans</strong></td>
+<td><a href="https://trueinterview.io/jobs/4aeb726c-c729-4d40-914f-2ae370278725">Intern - Software Engineer - Summer 2027</a></td>
+<td>United States</td>
+<td align="center"><a href="https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -388,13 +402,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9121f6f6-c066-4adc-ae9c-cc2eaaad9de9">Software Developer Intern</a></td>
 <td>Clinton Township, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488029621/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>KeenStack</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fe70514-8cf2-487d-8e33-88a3d7b5111d">ServiceNow Developer Internship</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=f768ac1e26df7405">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -1784,6 +1791,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">27 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>PTC</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e3bcc7-3b0c-4f16-b80e-c80b43849bf2">Onshape Software Engineer Intern (Summer 2027)</a></td>
+<td>Boston, MA</td>
+<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Solarity</strong></td>
 <td><a href="https://trueinterview.io/jobs/32bdda4b-3a9f-456d-9433-e5707063f0a3">Software Engineer Intern</a></td>
 <td>Sioux Falls, SD</td>
@@ -1914,13 +1928,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1e43103f-d226-46d1-8db8-1edb6e3ddaad">Developer Intern, Extension Excellence - Winter 2027</a> 🌐</td>
 <td>Remote — United States, Canada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048">Software Engineer Full Stack / Backend I (Co-op) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>Carlsbad, California, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
@@ -2503,13 +2510,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Des Moines, Iowa, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000148915793-software-engineer-internship-user-experience-team-">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/380ccfa4-5e4b-4030-9c74-36db80a30d44">Stagiaire en développement logiciel / Software Developer Intern</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/2a066cc1-ff4c-4d1c-9559-68f390b91afb/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -20,6 +20,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Nutanix</strong></td>
+<td><a href="https://trueinterview.io/jobs/6fbd443a-2eca-4f73-9f6e-1ab015c25c8b">UX Design Intern (Summer 2027)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489100905/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8239e14e-8751-447a-8450-f113520969ed">UX Research Intern (Summer 2027)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489127006/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Lila Sciences</strong></td>
 <td><a href="https://trueinterview.io/jobs/50df9f0d-6c8a-4f51-a0f6-0382f9c7289a">Co-op, Software, Applied AI Platform Engineer</a></td>
 <td>San Francisco, CA</td>
@@ -752,13 +766,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/090d1753-28cc-419c-9899-cd03d2f58437">Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/26015722">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/58bb31aa-9aaa-4a67-92e5-4aaf850f4122">Process Engineer Intern (Summer 2027)</a></td>
-<td>Emeryville, California, United States<br/>Denver, Colorado, United States<br/>Irvine, California, United States<br/>+2 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000159484249-process-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1746,13 +1753,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
 <td>Palo Alto, CA<br/>San Francisco, CA<br/>Austin, TX<br/>+3 more</td>
 <td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048">Software Engineer Full Stack / Backend I (Co-op) - United States</a></td>
-<td>San Jose, California, US, United States of America<br/>San Jose, California, United States of America<br/>Carlsbad, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>

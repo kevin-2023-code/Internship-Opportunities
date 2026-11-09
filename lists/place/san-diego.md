@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**36 open roles.**
+**35 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -156,13 +156,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, San Diego, California, Boston, Massachusetts</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3/apply">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd4a6b93-081e-4aab-81ed-c97678d97048">Software Engineer Full Stack / Backend I (Co-op) - United States</a></td>
-<td>Carlsbad, California, United States of America<br/>San Jose, California, US, United States of America<br/>San Jose, California, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>

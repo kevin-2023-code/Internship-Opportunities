@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**86 open roles.** 85 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**82 open roles.** 81 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -583,34 +583,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Ashville, Ohio, United States<br/>Ashville, OH (Arsenal 1)</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rocket Lab Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bba87d2-2fba-4c86-af7d-9d81db4cbbe5">Test Engineering Intern - Avionics Summer 2027</a></td>
-<td>Long Beach, CA<br/>RL Headquarters</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7987159003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/075c22bc-ca99-4391-876e-8282a1397023">Propulsion Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986792003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/97366ce1-83fc-4bd3-90b6-f1dd6e448d1c">Propulsion Design Intern Summer 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986816003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/79b9c5c9-95c9-436c-bb53-c4316072c3f1">Fluid Component Intern Spring 2027</a></td>
-<td>Long Beach, CA<br/>EDC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990365003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

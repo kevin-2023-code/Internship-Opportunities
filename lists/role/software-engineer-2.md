@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**451 open roles.** 356 in the United States & Canada · 95 elsewhere in the world.
+**450 open roles.** 356 in the United States & Canada · 94 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -366,13 +366,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Mexico City, Mexico<br/>Flex - Mexico</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/a9519ed0-5b91-4545-baad-6700c0b97f03">Software Engineer Intern</a></td>
-<td>St. Louis</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**52 open roles.**
+**51 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,13 +71,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/620d47ef-62ea-4c37-9dd9-8c961033a9d9">Product Development Engineering Intern</a></td>
 <td>Durham, North Carolina, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159519489-product-development-engineering-intern">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/58bb31aa-9aaa-4a67-92e5-4aaf850f4122">Process Engineer Intern (Summer 2027)</a></td>
-<td>Raleigh, North Carolina, United States<br/>Denver, Colorado, United States<br/>Irvine, California, United States<br/>+2 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000159484249-process-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**39 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Tempe, Arizona, United States<br/>Tempe, AZ<br/>Atlanta, GA<br/>+4 more</td>
 <td align="center"><a href="https://jobs.statefarm.com/main/jobs/46227">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>KeenStack</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fe70514-8cf2-487d-8e33-88a3d7b5111d">ServiceNow Developer Internship</a></td>
-<td>Chandler, AZ</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=f768ac1e26df7405">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>IBM</strong></td>

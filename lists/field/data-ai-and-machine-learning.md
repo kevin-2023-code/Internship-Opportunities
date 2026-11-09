@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**703 open roles.** 516 in the United States & Canada · 187 elsewhere in the world.
+**704 open roles.** 517 in the United States & Canada · 187 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>UiPath</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WebstaurantStore</strong></td>
 <td><a href="https://trueinterview.io/jobs/5330e797-5053-4066-b126-41a5d7450a92">Logistics Data Analyst Intern (Remote Friendly)</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/398920d4-5aed-45ff-a71f-9b0ceff0c047">AI Kernel Engineer Intern</a></td>
 <td>Burlingame, CA (HQ)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quadric/cb79384e-5dd8-49a0-a075-549e7285316c">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Scout AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/64617daf-883c-4ad1-b585-e8792b5ede5d">AI Engineer Intern - Fury Team (Summer 2027)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99">Apply</a></td>
 <td align="center">23 Oct 2026</td>
 </tr>
 </tbody>

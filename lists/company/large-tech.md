@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**136 open roles.** 116 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**135 open roles.** 115 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -821,13 +821,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>National Information Solutions Cooperative (nisc</strong></td>
-<td><a href="https://trueinterview.io/jobs/633a023a-6455-463b-940d-478230e345cc">Intern - Information Security (Cybersecurity)</a></td>
-<td>Lake St. Louis, MO or Mandan, ND<br/>Lake Saint Louis, MO or Mandan, ND<br/>Mandan, ND</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191724">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>
