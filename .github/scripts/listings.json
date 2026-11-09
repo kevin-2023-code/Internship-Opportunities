@@ -5,9 +5,111 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T13:05:12.581Z",
-  "count": 3496,
+  "listingsChangedAt": "2026-11-09T14:04:55.782Z",
+  "count": 3505,
   "listings": [
+    {
+      "id": "e7254a72-42e9-452e-9366-41a892b51e4a",
+      "company": "Election Systems & Software",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479040184/",
+      "url": "https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a",
+      "postedAt": "2026-11-09T13:29:00.000Z",
+      "updatedAt": "2026-11-09T13:29:00.000Z"
+    },
+    {
+      "id": "e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
+      "company": "Vertiv",
+      "title": "Software Engineering Test Intern (Summer 2027)",
+      "locations": [
+        "Delaware, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472446757/",
+      "url": "https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
+      "postedAt": "2026-11-09T13:02:00.000Z",
+      "updatedAt": "2026-11-09T13:02:00.000Z"
+    },
+    {
+      "id": "24f638f9-9d1b-49dc-ac8d-91649b3b07ca",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480924029/",
+      "url": "https://trueinterview.io/jobs/24f638f9-9d1b-49dc-ac8d-91649b3b07ca",
+      "postedAt": "2026-11-09T12:51:00.000Z",
+      "updatedAt": "2026-11-09T12:51:00.000Z"
+    },
+    {
+      "id": "f8ce5ae2-1ba9-4fa7-bb87-80071fd0d80c",
+      "company": "Mercari, Inc.",
+      "title": "Class of 2028, 28卒対象 / UI/UX Designer(Internship)- Mercari Group",
+      "locations": [
+        "Minato, Tokyo, Japan"
+      ],
+      "cities": [],
+      "countries": [
+        "Japan"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4426779240/",
+      "url": "https://trueinterview.io/jobs/f8ce5ae2-1ba9-4fa7-bb87-80071fd0d80c",
+      "postedAt": "2026-11-09T12:47:00.000Z",
+      "updatedAt": "2026-11-09T12:47:00.000Z"
+    },
     {
       "id": "bdf89f78-9255-4f21-b2e8-2947410d5a46",
       "company": "Amazon",
@@ -3030,33 +3132,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4487601099/",
       "url": "https://trueinterview.io/jobs/ee5cd08a-fcdd-412e-b9c6-b69462ed53ea",
-      "postedAt": "2026-11-07T05:03:00.000Z",
-      "updatedAt": "2026-11-07T05:03:00.000Z"
-    },
-    {
-      "id": "dec759af-4615-47d8-bb3f-7d8978772a4b",
-      "company": "TikTok",
-      "title": "Research Engineer Intern (TikTok Generalized Arch) - 2027 Start (PhD)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487398294/",
-      "url": "https://trueinterview.io/jobs/dec759af-4615-47d8-bb3f-7d8978772a4b",
       "postedAt": "2026-11-07T05:03:00.000Z",
       "updatedAt": "2026-11-07T05:03:00.000Z"
     },
@@ -11516,6 +11591,56 @@
       "updatedAt": "2026-11-05T00:14:00.000Z"
     },
     {
+      "id": "6784ee1c-a5da-4e17-a22f-b35b662bd435",
+      "company": "Badger Meter",
+      "title": "Firmware Test Engineer Intern",
+      "locations": [
+        "Milwaukee, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487575424/",
+      "url": "https://trueinterview.io/jobs/6784ee1c-a5da-4e17-a22f-b35b662bd435",
+      "postedAt": "2026-11-05T00:13:00.000Z",
+      "updatedAt": "2026-11-05T00:13:00.000Z"
+    },
+    {
+      "id": "26f61f9c-5049-4817-8ea8-5d27bb05015a",
+      "company": "Modern Technology Solutions, Inc. (MTSI)",
+      "title": "Software Development Intern",
+      "locations": [
+        "St Louis, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486545476/",
+      "url": "https://trueinterview.io/jobs/26f61f9c-5049-4817-8ea8-5d27bb05015a",
+      "postedAt": "2026-11-05T00:10:00.000Z",
+      "updatedAt": "2026-11-05T00:10:00.000Z"
+    },
+    {
       "id": "e651ef98-5a45-456b-af40-495506cdf8d3",
       "company": "Amica Insurance",
       "title": "Marketing Data Science Intern",
@@ -11589,6 +11714,31 @@
       "source": "career-sites",
       "applyUrl": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356",
       "url": "https://trueinterview.io/jobs/37945772-2d79-4ab6-9473-6e4d34be5ed8",
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "updatedAt": "2026-11-05T00:00:00.000Z"
+    },
+    {
+      "id": "72b494f6-f809-43a6-8b37-1ff512282911",
+      "company": "Elevated Web Design",
+      "title": "AI Software Engineering Internship",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487581009/",
+      "url": "https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
@@ -18978,6 +19128,31 @@
       "updatedAt": "2026-11-03T10:20:48.000Z"
     },
     {
+      "id": "6d8c991b-e561-4096-9803-612fdc419778",
+      "company": "TomTom",
+      "title": "Software Engineering Intern – Genesis Platform",
+      "locations": [
+        "Lodz, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/tomtom/eaef3342-2fa8-4fcf-9583-fc14764efcfa",
+      "url": "https://trueinterview.io/jobs/6d8c991b-e561-4096-9803-612fdc419778",
+      "postedAt": "2026-11-03T09:53:10.000Z",
+      "updatedAt": "2026-11-03T09:53:10.000Z"
+    },
+    {
       "id": "2a3473db-36ad-4f6d-8b34-14a2eede6ff6",
       "company": "Bosch",
       "title": "[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)",
@@ -22549,6 +22724,61 @@
       "url": "https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839",
       "postedAt": "2026-11-02T12:56:55.000Z",
       "updatedAt": "2026-11-02T12:56:55.000Z"
+    },
+    {
+      "id": "32229bb2-62d2-4bea-8d55-44176ea28e76",
+      "company": "Apple",
+      "title": "Finance Data Analyst Intern (6-month Full-time)",
+      "locations": [
+        "Singapore",
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.apple.com/en-us/details/200692415",
+      "url": "https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76",
+      "postedAt": "2026-11-02T03:49:25.000Z",
+      "updatedAt": "2026-11-02T12:35:00.000Z"
+    },
+    {
+      "id": "59ac2d16-7121-490b-a54e-d6eadcc4e3b2",
+      "company": "Shopee",
+      "title": "Product Manager Intern, MPID - Identity Verification (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.shopee.sg/job-detail/137775",
+      "url": "https://trueinterview.io/jobs/59ac2d16-7121-490b-a54e-d6eadcc4e3b2",
+      "postedAt": "2026-11-02T06:00:00.000Z",
+      "updatedAt": "2026-11-02T12:32:00.000Z"
     },
     {
       "id": "e6cb4a0a-d274-498b-a6a4-76a43f86161c",
