@@ -5,9 +5,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T18:06:52.610Z",
-  "count": 3505,
+  "listingsChangedAt": "2026-11-09T19:04:04.476Z",
+  "count": 3504,
   "listings": [
+    {
+      "id": "50df9f0d-6c8a-4f51-a0f6-0382f9c7289a",
+      "company": "Lila Sciences",
+      "title": "Co-op, Software, Applied AI Platform Engineer",
+      "locations": [
+        "San Francisco, CA USA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4472540009",
+      "url": "https://trueinterview.io/jobs/50df9f0d-6c8a-4f51-a0f6-0382f9c7289a",
+      "postedAt": "2026-11-09T18:29:55.000Z",
+      "updatedAt": "2026-11-09T18:29:55.000Z"
+    },
+    {
+      "id": "1dac813e-b900-4b6b-baed-a73709ade332",
+      "company": "Cedonix",
+      "title": "Cybersecurity Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488788761/",
+      "url": "https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332",
+      "postedAt": "2026-11-08T18:57:00.000Z",
+      "updatedAt": "2026-11-09T18:03:00.000Z"
+    },
+    {
+      "id": "24377f05-8240-4dee-8c26-1f7e5dd0303a",
+      "company": "Arm",
+      "title": "GPU Software Applications Engineer Intern (3 months)",
+      "locations": [
+        "Seoul, Seoul, South Korea"
+      ],
+      "cities": [
+        "Seoul"
+      ],
+      "countries": [
+        "South Korea"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480225151/",
+      "url": "https://trueinterview.io/jobs/24377f05-8240-4dee-8c26-1f7e5dd0303a",
+      "postedAt": "2026-11-09T17:24:00.000Z",
+      "updatedAt": "2026-11-09T17:24:00.000Z"
+    },
     {
       "id": "5330e797-5053-4066-b126-41a5d7450a92",
       "company": "WebstaurantStore",
@@ -1085,31 +1164,6 @@
       "url": "https://trueinterview.io/jobs/e7c4a409-b359-4708-8d71-0049759019b0",
       "postedAt": "2026-11-08T19:34:00.000Z",
       "updatedAt": "2026-11-08T19:34:00.000Z"
-    },
-    {
-      "id": "1dac813e-b900-4b6b-baed-a73709ade332",
-      "company": "Cedonix",
-      "title": "Cybersecurity Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488788761/",
-      "url": "https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332",
-      "postedAt": "2026-11-08T18:57:00.000Z",
-      "updatedAt": "2026-11-08T18:57:00.000Z"
     },
     {
       "id": "03b6f2bf-d877-4bc2-99d1-93fff8499edf",
@@ -91036,85 +91090,6 @@
       "url": "https://trueinterview.io/jobs/79b9c5c9-95c9-436c-bb53-c4316072c3f1",
       "postedAt": "2026-09-09T22:53:19.000Z",
       "updatedAt": "2026-09-10T19:05:16.000Z"
-    },
-    {
-      "id": "080839d2-7797-4e7f-b6d0-9afc2f6d7f8b",
-      "company": "Vast",
-      "title": "Emerging Talent - Mechanical/Aerospace Engineering Internship",
-      "locations": [
-        "Long Beach, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006",
-      "url": "https://trueinterview.io/jobs/080839d2-7797-4e7f-b6d0-9afc2f6d7f8b",
-      "postedAt": "2026-09-10T18:53:47.000Z",
-      "updatedAt": "2026-09-10T18:53:47.000Z"
-    },
-    {
-      "id": "199b7153-1f8f-41b7-b2ff-c3bd6000be5a",
-      "company": "Benesch",
-      "title": "Civil Transportation Internship",
-      "locations": [
-        "Austin, TX",
-        "Austin"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.benesch.com/job-openings/5233819007?gh_jid=5233819007",
-      "url": "https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a",
-      "postedAt": "2026-09-10T18:30:19.000Z",
-      "updatedAt": "2026-09-10T18:30:19.000Z"
-    },
-    {
-      "id": "64e721c0-2ec7-45f1-8dba-df006762b243",
-      "company": "Tanium",
-      "title": "Software Engineering Intern – Summer 2027",
-      "locations": [
-        "Durham, NC (Hybrid)",
-        "Emeryville, CA (Hybrid)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "hybrid",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
-      "url": "https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243",
-      "postedAt": "2026-09-10T18:19:05.000Z",
-      "updatedAt": "2026-09-10T18:19:05.000Z"
     }
   ]
 }

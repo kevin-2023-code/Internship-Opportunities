@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**179 open roles.**
+**178 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1261,13 +1261,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79b9c5c9-95c9-436c-bb53-c4316072c3f1">Fluid Component Intern Spring 2027</a></td>
 <td>Long Beach, CA<br/>EDC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7990365003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Vast</strong></td>
-<td><a href="https://trueinterview.io/jobs/080839d2-7797-4e7f-b6d0-9afc2f6d7f8b">Emerging Talent - Mechanical/Aerospace Engineering Internship</a></td>
-<td>Long Beach, California, United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
