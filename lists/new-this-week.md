@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**954 open roles.** 768 in the United States & Canada · 186 elsewhere in the world. Everything the employers put up this week.
+**956 open roles.** 768 in the United States & Canada · 188 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Freeleaps</strong></td>
+<td><a href="https://trueinterview.io/jobs/e891a7e1-8694-406a-b176-abdf19e9abcd">Software Developer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487691446/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Summit</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb0be06e-4d06-4cab-ab28-8ca414af154b">Data Scientist Intern 2027</a></td>
+<td>Lakeland, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487698658/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d3be3ac-e1c7-4daf-9378-34c42c87d566">Quantitative Research Intern (PhD) - Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4434668479/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6fe98dfd-7f99-4178-af0f-9a1e882708b8">Quantitative Trader Intern - Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4434662673/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Crowe</strong></td>
 <td><a href="https://trueinterview.io/jobs/6a30a79d-05df-446c-a551-0a58c438c67a">Cybersecurity Intern</a></td>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/75bd697e-0f0a-478f-8eb7-b62ddf3d895f">Data Engineer Intern (Summer 2027)</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486528272/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Whataburger</strong></td>
-<td><a href="https://trueinterview.io/jobs/2306e1f0-45ea-49bc-a068-8e7313d9e21b">Data Scientist Intern</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476697124/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Microchip Technology Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/096efb99-6e84-4f75-825d-2bd71c0a687b">Intern (Data Analyst)</a></td>
-<td>Gresham, OR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487506859/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Smith+Nephew</strong></td>
-<td><a href="https://trueinterview.io/jobs/66d1e565-3f80-47fa-86a3-0d2b8fa2f200">Intern AI Center of Excellence Data Science</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486505598/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e7110df1-1ec3-4c94-b045-bb563cc5a1da">Intern AI Engineer R&amp;D</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486522241/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

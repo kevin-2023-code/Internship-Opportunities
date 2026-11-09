@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
+**1,639 open roles.** 1,308 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Reflect Orbital</strong></td>
+<td><a href="https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe">Flight Software Engineering Intern</a></td>
+<td>Hawthorne, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461352157/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Molina Healthcare</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c08deb9-4dd4-49da-8be5-9385ba92f90f">Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6bbb6af4-01ab-477b-913f-e9e54178d390">Engineering Co-op</a></td>
 <td>Rochester Hills, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474471127/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Regeneron</strong></td>
-<td><a href="https://trueinterview.io/jobs/909f31aa-36ca-4042-b850-7d5f1fc2041c">2027 Summer Intern Automation, Reliability &amp; Facilities Engineering (IOPS)</a></td>
-<td>Rensselaer, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484113158/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>
