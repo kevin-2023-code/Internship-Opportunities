@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**701 open roles.** 514 in the United States & Canada · 187 elsewhere in the world.
+**703 open roles.** 516 in the United States & Canada · 187 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Toyota Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/2be396e8-364d-4692-8e42-95a9ea450e5e">Human Aware Interactions and Learning Intern</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7/apply">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/05f6f55c-4282-45b5-8379-b790c58cf030">Data Engineering Intern - AI &amp; Analytics (Summer 2027)</a></td>
+<td>Palo Alto, California<br/>Irvine, California</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/1c90ba73-aef3-484c-abf0-4f3c5b326519">Research Scientist Intern, FAIR - Physical Engineering AI (PhD)</a></td>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**773 open roles.** 699 in the United States & Canada · 74 elsewhere in the world.
+**772 open roles.** 698 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2099,13 +2099,6 @@
 <td><a href="https://trueinterview.io/jobs/199b7153-1f8f-41b7-b2ff-c3bd6000be5a">Civil Transportation Internship</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.benesch.com/job-openings/5233819007?gh_jid=5233819007">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>National Information Solutions Cooperative (nisc</strong></td>
-<td><a href="https://trueinterview.io/jobs/32c1c6c2-1717-461e-aa25-4ad97310c302">Intern - Quality Engineer</a></td>
-<td>Lake Saint Louis, MO or Mandan, ND</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191319">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

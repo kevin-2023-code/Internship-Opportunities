@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**449 open roles.** 356 in the United States & Canada · 93 elsewhere in the world.
+**450 open roles.** 356 in the United States & Canada · 94 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5e5960b-64e5-41e6-83f2-75c3804e6abd">Java Software Engineer Intern (Jan 2027 intake)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484914463/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SimpleAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/552113c0-f53b-4a52-90d5-418b3e5c9ef4">Software Engineer (Intern)</a></td>

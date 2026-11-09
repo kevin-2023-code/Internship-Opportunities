@@ -5,9 +5,59 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T17:04:47.258Z",
-  "count": 3504,
+  "listingsChangedAt": "2026-11-09T18:06:52.610Z",
+  "count": 3505,
   "listings": [
+    {
+      "id": "5330e797-5053-4066-b126-41a5d7450a92",
+      "company": "WebstaurantStore",
+      "title": "Logistics Data Analyst Intern (Remote Friendly)",
+      "locations": [
+        "Lititz, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487920962/",
+      "url": "https://trueinterview.io/jobs/5330e797-5053-4066-b126-41a5d7450a92",
+      "postedAt": "2026-11-09T16:43:00.000Z",
+      "updatedAt": "2026-11-09T16:43:00.000Z"
+    },
+    {
+      "id": "5768672c-33d3-44cb-8d86-e0d2ce129bcf",
+      "company": "Kenworth Truck Co.",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Chillicothe, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488891167/",
+      "url": "https://trueinterview.io/jobs/5768672c-33d3-44cb-8d86-e0d2ce129bcf",
+      "postedAt": "2026-11-09T16:32:00.000Z",
+      "updatedAt": "2026-11-09T16:32:00.000Z"
+    },
     {
       "id": "84042570-cf11-4473-9926-2e8c03cd3c7a",
       "company": "NVIDIA",
@@ -133,6 +183,31 @@
       "url": "https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef",
       "postedAt": "2026-11-09T15:29:00.000Z",
       "updatedAt": "2026-11-09T15:29:00.000Z"
+    },
+    {
+      "id": "234821f9-d49c-4e79-a859-a1805e9f4ce2",
+      "company": "Bosch",
+      "title": "Software Function Developer intern",
+      "locations": [
+        "Budapest, Hungary"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern",
+      "url": "https://trueinterview.io/jobs/234821f9-d49c-4e79-a859-a1805e9f4ce2",
+      "postedAt": "2026-11-09T15:23:17.000Z",
+      "updatedAt": "2026-11-09T15:23:17.000Z"
     },
     {
       "id": "d283e0ed-204b-4a76-89c5-ceeaff40ee2b",
@@ -362,6 +437,31 @@
       "url": "https://trueinterview.io/jobs/bdf89f78-9255-4f21-b2e8-2947410d5a46",
       "postedAt": "2026-11-09T12:29:00.000Z",
       "updatedAt": "2026-11-09T12:29:00.000Z"
+    },
+    {
+      "id": "831a0b75-a875-4b25-88c5-72e1b367b1a9",
+      "company": "Bosch",
+      "title": "Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)",
+      "locations": [
+        "Aveiro, Portugal"
+      ],
+      "cities": [],
+      "countries": [
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-",
+      "url": "https://trueinterview.io/jobs/831a0b75-a875-4b25-88c5-72e1b367b1a9",
+      "postedAt": "2026-11-09T12:13:30.000Z",
+      "updatedAt": "2026-11-09T12:13:30.000Z"
     },
     {
       "id": "e891a7e1-8694-406a-b176-abdf19e9abcd",
@@ -26275,31 +26375,6 @@
       "updatedAt": "2026-10-31T17:39:00.000Z"
     },
     {
-      "id": "6e485a72-2598-41e1-85d4-d7819506a004",
-      "company": "DICK'S Sporting Goods",
-      "title": "Cybersecurity - Summer 2027 Corporate Internship",
-      "locations": [
-        "Coraopolis, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475227979/",
-      "url": "https://trueinterview.io/jobs/6e485a72-2598-41e1-85d4-d7819506a004",
-      "postedAt": "2026-10-31T17:24:00.000Z",
-      "updatedAt": "2026-10-31T17:24:00.000Z"
-    },
-    {
       "id": "22b7cf02-1e3d-432b-96d6-cf4399f69ac6",
       "company": "General Atomics",
       "title": "Intern - Software/ Computer Engineering, Computer Science",
@@ -26822,31 +26897,6 @@
       "url": "https://trueinterview.io/jobs/023e224d-028b-4a77-ab54-907d87f1fe6d",
       "postedAt": "2026-10-31T14:31:00.000Z",
       "updatedAt": "2026-10-31T14:31:00.000Z"
-    },
-    {
-      "id": "0f504198-0c72-4690-b3ac-bceabe37d104",
-      "company": "DICK'S Sporting Goods",
-      "title": "Software Engineering - Summer 2027 Corporate Internship",
-      "locations": [
-        "Coraopolis, PA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475246096/",
-      "url": "https://trueinterview.io/jobs/0f504198-0c72-4690-b3ac-bceabe37d104",
-      "postedAt": "2026-10-31T14:30:00.000Z",
-      "updatedAt": "2026-10-31T14:30:00.000Z"
     },
     {
       "id": "816463fe-cd3d-45e9-804a-7f6d374ab545",
@@ -91065,31 +91115,6 @@
       "url": "https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243",
       "postedAt": "2026-09-10T18:19:05.000Z",
       "updatedAt": "2026-09-10T18:19:05.000Z"
-    },
-    {
-      "id": "32c1c6c2-1717-461e-aa25-4ad97310c302",
-      "company": "National Information Solutions Cooperative (nisc",
-      "title": "Intern - Quality Engineer",
-      "locations": [
-        "Lake Saint Louis, MO or Mandan, ND"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/nisc/jobs/8191319",
-      "url": "https://trueinterview.io/jobs/32c1c6c2-1717-461e-aa25-4ad97310c302",
-      "postedAt": "2026-09-10T17:33:19.000Z",
-      "updatedAt": "2026-09-10T17:33:19.000Z"
     }
   ]
 }

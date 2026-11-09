@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,308 in the United States & Canada · 330 elsewhere in the world.
+**1,638 open roles.** 1,306 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -121,13 +121,6 @@
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>DICK'S Sporting Goods</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e485a72-2598-41e1-85d4-d7819506a004">Cybersecurity - Summer 2027 Corporate Internship</a></td>
-<td>Coraopolis, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475227979/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>General Atomics</strong></td>
 <td><a href="https://trueinterview.io/jobs/22b7cf02-1e3d-432b-96d6-cf4399f69ac6">Intern - Software/ Computer Engineering, Computer Science</a></td>
 <td>San Diego, CA</td>
@@ -195,13 +188,6 @@
 <td><a href="https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f">[Summer 2027] Software Engineer Intern</a></td>
 <td>San Mateo, CA</td>
 <td align="center"><a href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DICK'S Sporting Goods</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f504198-0c72-4690-b3ac-bceabe37d104">Software Engineering - Summer 2027 Corporate Internship</a></td>
-<td>Coraopolis, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475246096/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2799,20 @@
 <td><a href="https://trueinterview.io/jobs/73610f57-3d28-4cc3-84cd-eccd631b2aba">Software Engineering Internship Interest | Resume Review and Open House</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484710397/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
+<td>Marlborough, MA</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01885371">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Atomics</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5c7d4b4-86db-4877-8db0-68110f94dc2d">Intern - Engineering Global Corporation</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484701399/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

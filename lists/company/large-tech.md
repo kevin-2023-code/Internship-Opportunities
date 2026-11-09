@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**138 open roles.** 118 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**137 open roles.** 117 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -834,13 +834,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243">Software Engineering Intern – Summer 2027</a></td>
 <td>Durham, NC (Hybrid)<br/>Emeryville, CA (Hybrid)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8181017">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>National Information Solutions Cooperative (nisc</strong></td>
-<td><a href="https://trueinterview.io/jobs/32c1c6c2-1717-461e-aa25-4ad97310c302">Intern - Quality Engineer</a></td>
-<td>Lake Saint Louis, MO or Mandan, ND</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191319">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

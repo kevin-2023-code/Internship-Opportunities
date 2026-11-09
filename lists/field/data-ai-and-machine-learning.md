@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**701 open roles.** 514 in the United States & Canada · 187 elsewhere in the world.
+**703 open roles.** 516 in the United States & Canada · 187 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WebstaurantStore</strong></td>
+<td><a href="https://trueinterview.io/jobs/5330e797-5053-4066-b126-41a5d7450a92">Logistics Data Analyst Intern (Remote Friendly)</a></td>
+<td>Lititz, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487920962/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kenworth Truck Co.</strong></td>
+<td><a href="https://trueinterview.io/jobs/5768672c-33d3-44cb-8d86-e0d2ce129bcf">Data Analyst Intern</a></td>
+<td>Chillicothe, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488891167/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Marketeq Digital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec">AI Product Engineering Intern (U.S.A Only)</a></td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Toyota Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/2be396e8-364d-4692-8e42-95a9ea450e5e">Human Aware Interactions and Learning Intern</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://jobs.lever.co/tri/71e99c38-aa29-4414-956d-cc526644b9b7/apply">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/05f6f55c-4282-45b5-8379-b790c58cf030">Data Engineering Intern - AI &amp; Analytics (Summer 2027)</a></td>
-<td>Palo Alto, California<br/>Irvine, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 </tbody>
 </table>
