@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**692 open roles.** 509 in the United States & Canada · 183 elsewhere in the world.
+**693 open roles.** 510 in the United States & Canada · 183 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Trace3</strong></td>
+<td><a href="https://trueinterview.io/jobs/d96dde22-7b6e-47e2-982e-fa70c63c967c">Data &amp; Analytics Intern</a></td>
+<td>Irvine, CA, United States, Irvine</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8274818">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac824665-2cbc-44d9-98e2-e2b284c51efd">Research Scientist Intern, Foundational Models for Robotics Research (PhD)</a></td>

@@ -5,9 +5,63 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T07:06:11.204Z",
-  "count": 3494,
+  "listingsChangedAt": "2026-11-09T08:07:04.301Z",
+  "count": 3495,
   "listings": [
+    {
+      "id": "2e92a598-783d-4848-b304-ad094b1efc4a",
+      "company": "DaobrewAI",
+      "title": "AI Engineering Intern",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487683331/",
+      "url": "https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a",
+      "postedAt": "2026-11-09T07:33:00.000Z",
+      "updatedAt": "2026-11-09T07:33:00.000Z"
+    },
+    {
+      "id": "f3a8f934-1630-4b1b-a37f-35794fe01c6b",
+      "company": "CPZ®",
+      "title": "Quantitative Research Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Researcher",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488838245/",
+      "url": "https://trueinterview.io/jobs/f3a8f934-1630-4b1b-a37f-35794fe01c6b",
+      "postedAt": "2026-11-09T06:50:00.000Z",
+      "updatedAt": "2026-11-09T06:50:00.000Z"
+    },
     {
       "id": "9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba",
       "company": "Samsung Electronics America",
@@ -26095,31 +26149,6 @@
       "url": "https://trueinterview.io/jobs/c8e291e9-dbbe-4169-9f10-3a1147fb217b",
       "postedAt": "2026-10-31T07:32:00.000Z",
       "updatedAt": "2026-10-31T15:58:00.000Z"
-    },
-    {
-      "id": "be335bc6-9167-4c25-a56a-1ecf7500a662",
-      "company": "BorgWarner",
-      "title": "Systems Test Automation Engineering Intern",
-      "locations": [
-        "Kokomo, IN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476848948/",
-      "url": "https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662",
-      "postedAt": "2026-10-31T15:46:00.000Z",
-      "updatedAt": "2026-10-31T15:46:00.000Z"
     },
     {
       "id": "4b39f308-a5b1-4b4a-9586-d5f458eecb6e",

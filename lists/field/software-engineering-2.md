@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
+**1,638 open roles.** 1,306 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,13 +125,6 @@
 <td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
 <td>San Luis Obispo, CA</td>
 <td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477676855?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BorgWarner</strong></td>
-<td><a href="https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662">Systems Test Automation Engineering Intern</a></td>
-<td>Kokomo, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476848948/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/909f31aa-36ca-4042-b850-7d5f1fc2041c">2027 Summer Intern Automation, Reliability &amp; Facilities Engineering (IOPS)</a></td>
 <td>Rensselaer, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484113158/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Danfoss</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c7d1d62-a04f-486f-8bcc-80e431faf588">Product Engineering Intern</a></td>
+<td>Ames, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465562783/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

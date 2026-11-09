@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**149 open roles.**
+**150 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CPZ®</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3a8f934-1630-4b1b-a37f-35794fe01c6b">Quantitative Research Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488838245/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hoost</strong></td>
 <td><a href="https://trueinterview.io/jobs/cf9cf5cd-17c2-4c06-af52-ae7a8049bcb9">Software Engineer Intern</a></td>

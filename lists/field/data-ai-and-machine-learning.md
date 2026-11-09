@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**692 open roles.** 509 in the United States & Canada · 183 elsewhere in the world.
+**693 open roles.** 510 in the United States & Canada · 183 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DaobrewAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Samsung Electronics America</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba">ePro Business &amp; Data Analyst Intern</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/66132a14-b901-407a-ad77-d5130388c628">Research Intern – Self-evolving Multimodal Foundation Models</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Virginia/Research-Intern---Self-evolving-Multimodal-Foundation-Models_JR-119804">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Trace3</strong></td>
-<td><a href="https://trueinterview.io/jobs/d96dde22-7b6e-47e2-982e-fa70c63c967c">Data &amp; Analytics Intern</a></td>
-<td>Irvine, CA, United States, Irvine</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8274818">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 </tbody>

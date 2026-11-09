@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**93 open roles.** 63 in the United States & Canada · 30 elsewhere in the world.
+**94 open roles.** 64 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CPZ®</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3a8f934-1630-4b1b-a37f-35794fe01c6b">Quantitative Research Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488838245/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/8615be8a-c6bb-4d60-81a4-adb408042568">Quantitative Research Intern (BS/MS) - Summer 2027</a></td>

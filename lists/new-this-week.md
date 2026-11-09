@@ -20,6 +20,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>DaobrewAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CPZ®</strong></td>
+<td><a href="https://trueinterview.io/jobs/f3a8f934-1630-4b1b-a37f-35794fe01c6b">Quantitative Research Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488838245/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Samsung Electronics America</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba">ePro Business &amp; Data Analyst Intern</a></td>
 <td>Plano, TX</td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d4083b02-d2c8-4ed6-9ea5-7079431e9886">AI Engineer Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470643837/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/6330f1a7-06cb-4c10-a8e8-cb4aed50e51c">Site Reliability Engineer (SRE) Intern — AI Infrastructure</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470619472/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AmTrust Financial Services, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/dcd83ce1-7825-461a-8846-09333e477045">IT Data Engineer Internship - Summer 2027</a></td>
-<td>Dallas, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486524389/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

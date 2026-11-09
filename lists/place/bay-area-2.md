@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**505 open roles.**
+**506 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Profluent</strong></td>
+<td><a href="https://trueinterview.io/jobs/5763f214-c283-46a0-8e7b-36016892e79c">Intern, Software Engineering</a></td>
+<td>Emeryville, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/profluent/jobs/5441955008">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Muon Space</strong></td>
 <td><a href="https://trueinterview.io/jobs/ed7d8822-0fcd-41eb-b597-99f0702f6cea">Electrical Engineering Intern (Summer 2027)</a></td>

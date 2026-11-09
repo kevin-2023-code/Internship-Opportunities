@@ -16,6 +16,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/6330f1a7-06cb-4c10-a8e8-cb4aed50e51c">Site Reliability Engineer (SRE) Intern — AI Infrastructure</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470619472/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AmTrust Financial Services, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcd83ce1-7825-461a-8846-09333e477045">IT Data Engineer Internship - Summer 2027</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486524389/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Quadric</strong></td>
 <td><a href="https://trueinterview.io/jobs/9761dd08-725b-4c18-b462-ea6795705a7e">AI Kernel Engineer Intern</a></td>
 <td>Burlingame, CA</td>
@@ -2603,20 +2617,6 @@
 <td><a href="https://trueinterview.io/jobs/18568e1f-59e9-4144-9159-cca3211e9166">Product Manager Intern (Class of 2028)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466957557/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Midland States Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/96ddc653-683d-451a-abac-cb0880ce2511">Intern - AI Solutions Engineer</a></td>
-<td>Effingham, IL<br/>St Louis, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485176919/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Reflect Orbital</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d5dcb87-35bb-4a8e-84de-006477cb35fe">Flight Software Engineering Intern</a></td>
-<td>Hawthorne, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461352157/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 </tbody>

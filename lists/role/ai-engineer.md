@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**181 open roles.** 120 in the United States & Canada · 61 elsewhere in the world.
+**182 open roles.** 121 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DaobrewAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Daice Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac4a5170-5068-4a89-91ac-8574529b9260">AI/ML Engineering Intern</a></td>

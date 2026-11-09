@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-09 06:10 UTC_
+_Last updated: 2026-11-09 08:07 UTC_
 
 **696 open internships** from **318 employers** · **187 posted in the last 7 days** · refreshed hourly
 
@@ -91,7 +91,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/49bc9f5b-45e7-478c-9cfb-871e9f8db6cd">System Software Engineer Intern, Autonomous Vehicles - 2027</a> 🆕</td>
 <td>Shanghai, Shanghai, China<br/>Shenzhen, Guangdong, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487636439/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Optiver</strong></td>
@@ -710,10 +710,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/0b4a07fa-ebe8-415a-9613-51f9b52847cb">Research Scientist Intern, Generative Recommendation (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485575938/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Hilti Group</strong></td>
@@ -1010,17 +1010,17 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/9fa702ec-5e3b-4c40-b4ab-31a60be77e5f">Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/9fa702ec-5e3b-4c40-b4ab-31a60be77e5f">Hardware Engineer Intern, Optoelectronics, PhD, Summer 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127174656267297478">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/dfd53f7e-fe52-4bc8-a602-7053ce48fbfc">Mechanical Engineer Intern, PhD, Summer 2027</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/dfd53f7e-fe52-4bc8-a602-7053ce48fbfc">Mechanical Engineer Intern, PhD, Summer 2027</a></td>
 <td>Taipei, Taipei, Taiwan</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/98194553416098502">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>CERN</strong></td>
@@ -1062,7 +1062,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a0792704-412e-47ab-9bab-029f311fea2f">Silicon Manufacturing Intern, 2027</a></td>
 <td>Taipei, Taipei City, Taiwan<br/>Taipei, Taipei, Taiwan</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/102906012280726214">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Roche</strong></td>

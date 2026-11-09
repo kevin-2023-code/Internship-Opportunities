@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**505 open roles.**
+**506 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DaobrewAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e92a598-783d-4848-b304-ad094b1efc4a">AI Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487683331/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GenPark</strong></td>
 <td><a href="https://trueinterview.io/jobs/359b4f89-1c6a-4be4-a881-5ba7d433a578">Backend Developer Intern</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0828b6ad-0d66-4d4a-9b08-0169ce748170">Software Engineer Intern</a></td>
 <td>San Francisco, California<br/>Singapore, Singapore<br/>New York City, New York</td>
 <td align="center"><a href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Profluent</strong></td>
-<td><a href="https://trueinterview.io/jobs/5763f214-c283-46a0-8e7b-36016892e79c">Intern, Software Engineering</a></td>
-<td>Emeryville, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/profluent/jobs/5441955008">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 </tbody>
