@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**765 open roles.** 691 in the United States & Canada · 74 elsewhere in the world.
+**764 open roles.** 691 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2469,13 +2469,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Bristol, UK<br/>Cambridge, UK</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8879329002">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Alice &amp; Bob</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a56df22-0a14-4a04-9a4b-f08d732d4a9b">Mechanical Engineering Intern M/F</a></td>
-<td>Aubervilliers</td>
-<td align="center"><a href="https://jobs.lever.co/alice-bob/f73b85dd-1d5a-4406-aa81-47c73aa635cd">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>

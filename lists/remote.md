@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**47 open roles.** 33 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
+**46 open roles.** 32 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -43,13 +43,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/074e3ff7-6507-4346-815a-046899c7e74d">AI Developer Intern</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://www.applicantpro.com/openings/axiomconsultants/jobs/4268287-499465">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The J.M. Smucker Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce5e4eb7-f66c-4b6d-89df-6c065c2c31a1">Data Science Intern, Summer 2027</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
