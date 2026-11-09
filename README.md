@@ -32,17 +32,17 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-09 05:05 UTC_
+_Last updated: 2026-11-09 06:10 UTC_
 
-**2,798 open internships** from **1,124 employers** · **775 posted in the last 7 days** · refreshed hourly
+**2,797 open internships** from **1,124 employers** · **771 posted in the last 7 days** · refreshed hourly
 
-### Browse 2,798 internships by field
+### Browse 2,797 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (1,307)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (508)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (700)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (699)
 
 📱 **[Product & Design](#-product--design)** (164)
 
@@ -56,7 +56,7 @@ _Last updated: 2026-11-09 05:05 UTC_
 
 **IBM** 28 &nbsp;·&nbsp; **Meta** 14 &nbsp;·&nbsp; **TikTok** 9 &nbsp;·&nbsp; **Costco IT** 7 &nbsp;·&nbsp; **Rivian** 7 &nbsp;·&nbsp; **Shure** 7 &nbsp;·&nbsp; **Tesla** 7 &nbsp;·&nbsp; **The New York Times** 7 &nbsp;·&nbsp; **Booz Allen Hamilton** 6 &nbsp;·&nbsp; **Citadel** 6 &nbsp;·&nbsp; **Marketeq Digital Solutions** 6 &nbsp;·&nbsp; **PayPal** 6
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 140 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 139 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -68,9 +68,9 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🧑‍💻 **By role** — [Software Engineer (352)](lists/role/software-engineer.md) · [Machine Learning Engineer (130)](lists/role/machine-learning-engineer.md) · [AI Engineer (120)](lists/role/ai-engineer.md) · [Hardware Engineer (116)](lists/role/hardware-engineer.md) · [Security Engineer (87)](lists/role/security-engineer.md) · [Data Scientist (86)](lists/role/data-scientist.md) · [Product Manager (74)](lists/role/product-manager.md) · [Research Scientist (71)](lists/role/research-scientist.md) · [Data Analyst (56)](lists/role/data-analyst.md) · [Data Engineer (56)](lists/role/data-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (505)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (181)](lists/place/los-angeles.md) · [🗽 New York City (149)](lists/place/new-york.md) · [🎓 Boston & Cambridge (145)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (101)](lists/place/seattle.md) · [🎸 Austin (95)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (83)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (81)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌧️ Portland, Boise & Spokane (58)](lists/place/pacific-northwest.md) · [+19 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (505)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (180)](lists/place/los-angeles.md) · [🗽 New York City (149)](lists/place/new-york.md) · [🎓 Boston & Cambridge (145)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (101)](lists/place/seattle.md) · [🎸 Austin (95)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (83)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (81)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌧️ Portland, Boise & Spokane (58)](lists/place/pacific-northwest.md) · [+19 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (775)](lists/new-this-week.md) · [🌐 Remote (33)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (771)](lists/new-this-week.md) · [🌐 Remote (33)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -741,7 +741,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/dde08523-3156-4fef-910c-162b23029ae3">Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)</a> 🆕</td>
 <td>Menlo Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486678432/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1216,14 +1216,14 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/6901b3e7-34cd-4f45-8742-f54441075bad">Mechanical Engineering Co-op (Summer/Fall 2027)</a> 🆕</td>
 <td>Cedar Rapids, IA</td>
 <td align="center"><a href="https://careers.rtx.com/global/en/job/01887850">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>SSOE Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/ff8fe6e9-f600-4ed9-b7cc-911f30304739">Electrical Engineering Co-Op - Summer 2027</a> 🆕</td>
 <td>Toledo, OH</td>
 <td align="center"><a href="https://careers-ssoe.icims.com/jobs/4002/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2d</td>
+<td align="center">3d</td>
 </tr>
 <tr>
 <td><strong>Asm</strong></td>
@@ -1276,38 +1276,38 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>BAE Systems USA</strong></td>
-<td><a href="https://trueinterview.io/jobs/58aeb17c-8aee-49a3-ade3-f278562b272f">Combat Vehicles Electrical Engineering Kettering Co-Op-January 2027</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/58aeb17c-8aee-49a3-ade3-f278562b272f">Combat Vehicles Electrical Engineering Kettering Co-Op-January 2027</a></td>
 <td>Sterling Heights, MI</td>
 <td align="center"><a href="https://jobs.baesystems.com/global/en/job/132186BR">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Koch</strong></td>
-<td><a href="https://trueinterview.io/jobs/44f2537e-e998-4395-961f-e3550c8d81c6">Electrical Engineer Co-Op</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/44f2537e-e998-4395-961f-e3550c8d81c6">Electrical Engineer Co-Op</a></td>
 <td>Wever, IA</td>
 <td align="center"><a href="https://ars2.equest.com/?response_id=928c411e3892b804ed78526aa25f9e12">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Werfen</strong></td>
-<td><a href="https://trueinterview.io/jobs/c94f43b3-c1f8-4510-afe2-8b1f57fa7888">ACDx Electrical Engineering Co-Op (Spring 2027)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/c94f43b3-c1f8-4510-afe2-8b1f57fa7888">ACDx Electrical Engineering Co-Op (Spring 2027)</a></td>
 <td>Bedford, MA</td>
 <td align="center"><a href="https://www.werfen.com/en/acdx-electrical-engineering-co-op-spring-2027">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Zoll Medical Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9508195b-c9b9-4a40-8bd9-91071907bd0a">Supplier Quality Engineering Co-Op</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/9508195b-c9b9-4a40-8bd9-91071907bd0a">Supplier Quality Engineering Co-Op</a></td>
 <td>Chelmsford, MA</td>
 <td align="center"><a href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Supplier-Quality-Engineering-Co-Op_R20738-1">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485580782/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>ASML</strong></td>
@@ -1356,7 +1356,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/dfe01d43-51d6-4055-ae98-00246a3166f5">Quality Engineer, Co-op</a></td>
 <td>Burnaby, Canada</td>
 <td align="center"><a href="https://careers.stryker.com/quality-engineer-co-op/job/8CD367AE00AA977047E4D909F0EDD776">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Clean Harbors</strong></td>
@@ -1738,7 +1738,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 700.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 699.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 

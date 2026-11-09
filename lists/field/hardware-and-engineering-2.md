@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**774 open roles.** 700 in the United States & Canada · 74 elsewhere in the world.
+**773 open roles.** 699 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2106,13 +2106,6 @@
 <td><a href="https://trueinterview.io/jobs/c9e9a23b-7fcf-4027-8ce0-0b2a5580006a">Combustion Devices Intern Spring 2027</a></td>
 <td>Long Beach, CA<br/>EDC</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7986748003">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Antares</strong></td>
-<td><a href="https://trueinterview.io/jobs/92eee58c-f22b-4b9e-9adf-8335b3531360">Nuclear Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

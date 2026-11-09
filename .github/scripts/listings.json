@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T05:05:34.622Z",
-  "count": 3494,
+  "listingsChangedAt": "2026-11-09T06:10:17.887Z",
+  "count": 3493,
   "listings": [
     {
       "id": "9782acc5-c6af-40ef-ac5d-d71e849819e3",
@@ -90825,33 +90825,6 @@
       "url": "https://trueinterview.io/jobs/92ab76c6-8fb4-45a5-aab2-9173593bd997",
       "postedAt": "2026-09-10T10:14:58.000Z",
       "updatedAt": "2026-09-10T10:14:58.000Z"
-    },
-    {
-      "id": "92eee58c-f22b-4b9e-9adf-8335b3531360",
-      "company": "Antares",
-      "title": "Nuclear Engineering Intern - Summer 2027",
-      "locations": [
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8",
-      "url": "https://trueinterview.io/jobs/92eee58c-f22b-4b9e-9adf-8335b3531360",
-      "postedAt": "2026-09-10T05:29:18.000Z",
-      "updatedAt": "2026-09-10T05:29:18.000Z"
     }
   ]
 }

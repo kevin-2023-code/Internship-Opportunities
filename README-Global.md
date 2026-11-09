@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-09 05:05 UTC_
+_Last updated: 2026-11-09 06:10 UTC_
 
-**696 open internships** from **318 employers** · **189 posted in the last 7 days** · refreshed hourly
+**696 open internships** from **318 employers** · **187 posted in the last 7 days** · refreshed hourly
 
 ### Browse 696 internships by field
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (104)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (54)](lists/place/greater-china.md) · [🇬🇧 London & the UK (39)](lists/place/uk.md) · [🇫🇷 Paris & France (35)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (30)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (25)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (24)](lists/place/poland-cee.md) · [🇮🇪 Dublin & Ireland (13)](lists/place/ireland.md) · [+4 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (189)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (187)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -717,10 +717,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Hilti Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/51261dd3-f6cb-4104-b8e7-b88431856b1c">Intern - Data Science (Global IT) [m/f/x]</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/51261dd3-f6cb-4104-b8e7-b88431856b1c">Intern - Data Science (Global IT) [m/f/x]</a></td>
 <td>Buchs, Switzerland</td>
 <td align="center"><a href="https://careers.hilti.group/en/jobs/22245-en/intern-data-science-global-it-m-f-x/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Huawei</strong></td>
@@ -783,28 +783,28 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8edc1a62-386c-4ce6-bf5d-7439435a0fbc">Data Analyst &amp; Quality - Internship (H/F)</a></td>
 <td>Bagneux, France</td>
 <td align="center"><a href="https://airliquidehr.wd3.myworkdayjobs.com/de-DE/AirLiquideExternalCareer/job/France-Bagneux/Data-Analyst---Quality---Internship--H-F-_R10104522">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Coty</strong></td>
 <td><a href="https://trueinterview.io/jobs/89331eac-ebea-4702-a415-17c62aa754d4">Data analyst and digitalization intern</a></td>
 <td>Barcelona, Spain</td>
 <td align="center"><a href="https://careers.coty.com/job/Barcelona-Data-analyst-and-digitalization-intern-B-08018/1454369233/">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>HP</strong></td>
 <td><a href="https://trueinterview.io/jobs/0176ba6c-127f-4457-98e0-8355e74b7165">Business Intelligence &amp; Data Analytics Intern</a></td>
 <td>Spain</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Business-Intelligence---Data-Analytics-Intern_UNI4522">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/92f961dc-af3f-4723-a1ce-fe5db949021e">Data Analyst Intern</a></td>
 <td>Spain</td>
 <td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 </tbody>
 </table>
@@ -1069,14 +1069,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a65b1050-f080-4b4c-8081-f7b6500aa5b0">Internship Process Engineer (for 12 months in Basel)</a></td>
 <td>Basel, Switzerland</td>
 <td align="center"><a href="https://careers.roche.com/de/de/job/202610-127127">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Wood</strong></td>
 <td><a href="https://trueinterview.io/jobs/9903fab6-c519-488c-ace8-6fcb90859b7e">Electrical Engineer - Internship</a></td>
 <td>Madrid, Spain</td>
 <td align="center"><a href="https://ehif.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33376">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Apple</strong></td>
@@ -1097,14 +1097,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/df946a49-191e-4bdd-9e54-e32a99831a59">Process Engineering Co-Op</a></td>
 <td>Clare, Ireland</td>
 <td align="center"><a href="https://careers.itw.com/us/en/job/ITWITWUSJR10942EXTERNALENUS/Process-Engineering-Co-Op">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Singtel</strong></td>
 <td><a href="https://trueinterview.io/jobs/6725d491-8827-4c45-bff2-d1448e82b909">Mechanical Engineer Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-Sing/1369792666/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Western Digital</strong></td>
@@ -1334,7 +1334,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/3ec81ecc-c8a8-498b-89bd-873f43b4741d">Internship in Digital Channels (Product Manager)</a></td>
 <td>Wrocław, Poland</td>
 <td align="center"><a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&amp;siteid=5012&amp;PageType=JobDetails&amp;jobid=353369">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Shopee</strong></td>
@@ -1355,14 +1355,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2985cd32-75be-47f3-9da3-09b86a12cdd4">AI Product Manager &amp; Builder Intern</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://groupcareers.singtel.com/job/AI-Product-Manager-&amp;-Builder-Intern-Sing/1369793766/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db">Product Management Intern (Summer 2027)</a></td>
 <td>—</td>
 <td align="center"><a href="https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Shopee</strong></td>
@@ -1397,7 +1397,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7148c953-9665-437e-bb02-42da7923d47c">Intern, Digital &amp; Technology (Data &amp; AI) (UI/UX &amp; Product Research)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485297057/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Kärcher</strong></td>

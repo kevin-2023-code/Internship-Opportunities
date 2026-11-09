@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**964 open roles.** 775 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**958 open roles.** 771 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2612,34 +2612,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461352157/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Molina Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/8c08deb9-4dd4-49da-8be5-9385ba92f90f">Cybersecurity Internship (Remote) – Summer 2027 (Undergraduate)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485939595/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Health Care Service Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/ade1afa9-7ccd-4788-a4d8-013d383d15d3">Early Careers - Cybersecurity Operations Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485905798/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nadora Medical Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b6f2a8e-40e0-4ea2-9fcb-8a9f4faabc16">Software Engineering Intern (Winter Entry Cohort)</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485180405/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Mission Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/bcf6e6c0-9525-41d5-8d66-26737c5c9868">DevOps Engineer Intern</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://careers-gdms.icims.com/jobs/75769/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2826,6 +2798,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hong Kong Japan</td>
 <td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002">Apply</a></td>
 <td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Thatgamecompany</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5af0777-cf18-4ee0-99df-ad5eeef168b6">Game Designer Intern</a></td>
+<td>China - Shanghai</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/thatgamecompany/b4b954bd-475a-422f-85fc-b47c32c55c19">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riverty</strong></td>
+<td><a href="https://trueinterview.io/jobs/3579caf9-276c-405d-bf30-8f166cbbf5ce">AIP Intern - IT Support Track</a></td>
+<td>Kuala Lumpur, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/92dbe38d-2a70-47af-a962-e36484242ef2">Intern - Industrial Engineer (5 of 5)</a></td>
+<td>Johor Bahru, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160070507-intern-industrial-engineer-5-of-5-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/36dc2e81-a450-4dcc-bc71-7eb5cb23b225">SAP IXp Intern - Solution Support Engineer - Analytics</a></td>
+<td>Budapest, Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159990859-sap-ixp-intern-solution-support-engineer-analytics-">Apply</a></td>
+<td align="center">5 Nov 2026</td>
 </tr>
 </tbody>
 </table>
