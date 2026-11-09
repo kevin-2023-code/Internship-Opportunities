@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T12:07:04.826Z",
-  "count": 3502,
+  "listingsChangedAt": "2026-11-09T13:05:12.581Z",
+  "count": 3496,
   "listings": [
+    {
+      "id": "bdf89f78-9255-4f21-b2e8-2947410d5a46",
+      "company": "Amazon",
+      "title": "Robotics - Applied Scientist II Intern / Co-op - 2027 (Robotics, Perception, Manipulation, Locomotion, Planning, HRI and more), Amazon Development Center Taiwan",
+      "locations": [
+        "Hsinchu City, Taiwan, Taiwan"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488862402/",
+      "url": "https://trueinterview.io/jobs/bdf89f78-9255-4f21-b2e8-2947410d5a46",
+      "postedAt": "2026-11-09T12:29:00.000Z",
+      "updatedAt": "2026-11-09T12:29:00.000Z"
+    },
     {
       "id": "e891a7e1-8694-406a-b176-abdf19e9abcd",
       "company": "Freeleaps",
@@ -528,6 +553,33 @@
       "url": "https://trueinterview.io/jobs/cf9cf5cd-17c2-4c06-af52-ae7a8049bcb9",
       "postedAt": "2026-11-09T00:06:00.000Z",
       "updatedAt": "2026-11-09T00:06:00.000Z"
+    },
+    {
+      "id": "c8dfabaf-bfa3-406d-87a1-e5b8489af8c2",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering) - Cork",
+      "locations": [
+        "Cork, County Cork, Ireland"
+      ],
+      "cities": [
+        "Cork"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4426970152/",
+      "url": "https://trueinterview.io/jobs/c8dfabaf-bfa3-406d-87a1-e5b8489af8c2",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "updatedAt": "2026-11-09T00:00:00.000Z"
     },
     {
       "id": "ac4a5170-5068-4a89-91ac-8574529b9260",
@@ -6380,6 +6432,31 @@
       "updatedAt": "2026-11-06T06:00:00.000Z"
     },
     {
+      "id": "46fcb1ff-597a-4ca5-b560-7391b5bad4c2",
+      "company": "Dana",
+      "title": "Engineering Co-Op - Fall 2027",
+      "locations": [
+        "Maumee, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.dana.com/job/Maumee-Engineering-Co-Op-Fall-2027-OH-43537/1444742600/",
+      "url": "https://trueinterview.io/jobs/46fcb1ff-597a-4ca5-b560-7391b5bad4c2",
+      "postedAt": "2026-11-06T06:00:00.000Z",
+      "updatedAt": "2026-11-06T06:00:00.000Z"
+    },
+    {
       "id": "19ece388-b416-4c40-a6c7-379f05881326",
       "company": "Draper",
       "title": "GNC Systems Engineering Co-Op (Spring 2027)",
@@ -11439,56 +11516,6 @@
       "updatedAt": "2026-11-05T00:14:00.000Z"
     },
     {
-      "id": "6784ee1c-a5da-4e17-a22f-b35b662bd435",
-      "company": "Badger Meter",
-      "title": "Firmware Test Engineer Intern",
-      "locations": [
-        "Milwaukee, WI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Hardware & Engineering",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487575424/",
-      "url": "https://trueinterview.io/jobs/6784ee1c-a5da-4e17-a22f-b35b662bd435",
-      "postedAt": "2026-11-05T00:13:00.000Z",
-      "updatedAt": "2026-11-05T00:13:00.000Z"
-    },
-    {
-      "id": "26f61f9c-5049-4817-8ea8-5d27bb05015a",
-      "company": "Modern Technology Solutions, Inc. (MTSI)",
-      "title": "Software Development Intern",
-      "locations": [
-        "St Louis, MO"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486545476/",
-      "url": "https://trueinterview.io/jobs/26f61f9c-5049-4817-8ea8-5d27bb05015a",
-      "postedAt": "2026-11-05T00:10:00.000Z",
-      "updatedAt": "2026-11-05T00:10:00.000Z"
-    },
-    {
       "id": "e651ef98-5a45-456b-af40-495506cdf8d3",
       "company": "Amica Insurance",
       "title": "Marketing Data Science Intern",
@@ -11562,31 +11589,6 @@
       "source": "career-sites",
       "applyUrl": "https://caresource.wd1.myworkdayjobs.com/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356",
       "url": "https://trueinterview.io/jobs/37945772-2d79-4ab6-9473-6e4d34be5ed8",
-      "postedAt": "2026-11-05T00:00:00.000Z",
-      "updatedAt": "2026-11-05T00:00:00.000Z"
-    },
-    {
-      "id": "72b494f6-f809-43a6-8b37-1ff512282911",
-      "company": "Elevated Web Design",
-      "title": "AI Software Engineering Internship",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487581009/",
-      "url": "https://trueinterview.io/jobs/72b494f6-f809-43a6-8b37-1ff512282911",
       "postedAt": "2026-11-05T00:00:00.000Z",
       "updatedAt": "2026-11-05T00:00:00.000Z"
     },
@@ -17897,31 +17899,6 @@
       "updatedAt": "2026-11-03T16:35:45.000Z"
     },
     {
-      "id": "e2dc6862-4780-40d4-bd90-c7fb64cb7975",
-      "company": "Wavestone",
-      "title": "Cybersecurity - Consultant Internship from 3 to 6 months",
-      "locations": [
-        "Brussels, Brussels Hoofdstedelijk Gewest, Belgium"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Wavestone1/744000159435376-cybersecurity-consultant-internship-from-3-to-6-months",
-      "url": "https://trueinterview.io/jobs/e2dc6862-4780-40d4-bd90-c7fb64cb7975",
-      "postedAt": "2026-11-03T16:27:59.000Z",
-      "updatedAt": "2026-11-03T16:27:59.000Z"
-    },
-    {
       "id": "0763aa70-d870-4114-900f-abfabcf82664",
       "company": "The New York Times",
       "title": "Advertising Business Data Analyst Intern",
@@ -18999,31 +18976,6 @@
       "url": "https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609",
       "postedAt": "2026-11-03T10:20:48.000Z",
       "updatedAt": "2026-11-03T10:20:48.000Z"
-    },
-    {
-      "id": "6d8c991b-e561-4096-9803-612fdc419778",
-      "company": "TomTom",
-      "title": "Software Engineering Intern – Genesis Platform",
-      "locations": [
-        "Lodz, Poland"
-      ],
-      "cities": [],
-      "countries": [
-        "Poland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.eu.lever.co/tomtom/eaef3342-2fa8-4fcf-9583-fc14764efcfa",
-      "url": "https://trueinterview.io/jobs/6d8c991b-e561-4096-9803-612fdc419778",
-      "postedAt": "2026-11-03T09:53:10.000Z",
-      "updatedAt": "2026-11-03T09:53:10.000Z"
     },
     {
       "id": "2a3473db-36ad-4f6d-8b34-14a2eede6ff6",
@@ -22597,61 +22549,6 @@
       "url": "https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839",
       "postedAt": "2026-11-02T12:56:55.000Z",
       "updatedAt": "2026-11-02T12:56:55.000Z"
-    },
-    {
-      "id": "32229bb2-62d2-4bea-8d55-44176ea28e76",
-      "company": "Apple",
-      "title": "Finance Data Analyst Intern (6-month Full-time)",
-      "locations": [
-        "Singapore",
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.apple.com/en-us/details/200692415",
-      "url": "https://trueinterview.io/jobs/32229bb2-62d2-4bea-8d55-44176ea28e76",
-      "postedAt": "2026-11-02T03:49:25.000Z",
-      "updatedAt": "2026-11-02T12:35:00.000Z"
-    },
-    {
-      "id": "59ac2d16-7121-490b-a54e-d6eadcc4e3b2",
-      "company": "Shopee",
-      "title": "Product Manager Intern, MPID - Identity Verification (Spring 2027)",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://careers.shopee.sg/job-detail/137775",
-      "url": "https://trueinterview.io/jobs/59ac2d16-7121-490b-a54e-d6eadcc4e3b2",
-      "postedAt": "2026-11-02T06:00:00.000Z",
-      "updatedAt": "2026-11-02T12:32:00.000Z"
     },
     {
       "id": "e6cb4a0a-d274-498b-a6a4-76a43f86161c",
@@ -64892,34 +64789,6 @@
       "updatedAt": "2026-10-20T05:00:00.000Z"
     },
     {
-      "id": "569775d8-569d-4ea2-a4e7-dfb1fa401853",
-      "company": "Adobe",
-      "title": "2027 Intern - Security Engineer",
-      "locations": [
-        "Lehi, Utah, United States of America",
-        "San Jose, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000",
-      "url": "https://trueinterview.io/jobs/569775d8-569d-4ea2-a4e7-dfb1fa401853",
-      "postedAt": "2026-10-19T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
       "id": "0f703659-e67b-43e7-b14a-c3b8879e9705",
       "company": "Amazon",
       "title": "Creative Marketing Intern – Summer 2027",
@@ -78884,35 +78753,6 @@
       "url": "https://trueinterview.io/jobs/e884cee8-9cbd-4086-b0d9-e6d10f692382",
       "postedAt": "2026-09-30T00:44:50.000Z",
       "updatedAt": "2026-09-30T00:44:50.000Z"
-    },
-    {
-      "id": "d806dc99-571f-47a3-86a5-710c27cc49c3",
-      "company": "Adobe",
-      "title": "2027 MBA Intern – Product Manager",
-      "locations": [
-        "San Jose, California, United States of America",
-        "San Francisco, California, United States of America"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
-      "url": "https://trueinterview.io/jobs/d806dc99-571f-47a3-86a5-710c27cc49c3",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "updatedAt": "2026-09-30T00:00:00.000Z"
     },
     {
       "id": "8a16510c-bd9b-4922-a72e-27c96b04c516",
