@@ -20,9 +20,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Crowe</strong></td>
 <td><a href="https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379">Machine Learning Intern</a></td>
-<td>Charlotte, NC<br/>Austin, TX<br/>Denver, CO<br/>+31 more</td>
+<td>Charlotte, NC<br/>Austin, TX<br/>Denver, CO<br/>+33 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>IBM</strong></td>
