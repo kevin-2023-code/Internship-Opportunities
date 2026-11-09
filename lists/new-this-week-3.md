@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**958 open roles.** 771 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
+**959 open roles.** 772 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/36dc2e81-a450-4dcc-bc71-7eb5cb23b225">SAP IXp Intern - Solution Support Engineer - Analytics</a></td>
+<td>Budapest, Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159990859-sap-ixp-intern-solution-support-engineer-analytics-">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tower Research Capital</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a></td>

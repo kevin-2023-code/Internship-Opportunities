@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**691 open roles.** 508 in the United States & Canada · 183 elsewhere in the world.
+**692 open roles.** 509 in the United States & Canada · 183 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/ac824665-2cbc-44d9-98e2-e2b284c51efd">Research Scientist Intern, Foundational Models for Robotics Research (PhD)</a></td>
+<td>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1078644001656413/">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e012ee71-c0db-4567-9d25-ad11d16bcac8">Research Scientist Intern, Robot Foundation Models (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/27730225806654441/">Apply</a></td>

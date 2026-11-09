@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**958 open roles.** 771 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
+**959 open roles.** 772 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Quadric</strong></td>
+<td><a href="https://trueinterview.io/jobs/9761dd08-725b-4c18-b462-ea6795705a7e">AI Kernel Engineer Intern</a></td>
+<td>Burlingame, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487523748/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/39d9ce55-b8b3-45a5-81a8-bb9693d3d5f7">Deep Learning Compiler Intern</a></td>
 <td>Burlingame, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487516908/">Apply</a></td>
@@ -2819,13 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Johor Bahru, Johor, Malaysia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160070507-intern-industrial-engineer-5-of-5-">Apply</a></td>
 <td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/36dc2e81-a450-4dcc-bc71-7eb5cb23b225">SAP IXp Intern - Solution Support Engineer - Analytics</a></td>
-<td>Budapest, Budapest, Hungary</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159990859-sap-ixp-intern-solution-support-engineer-analytics-">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 </tbody>
 </table>

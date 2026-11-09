@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**96 open roles.** 56 in the United States & Canada · 40 elsewhere in the world.
+**97 open roles.** 57 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Samsung Electronics America</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba">ePro Business &amp; Data Analyst Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488819666/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ededge Groups</strong></td>
 <td><a href="https://trueinterview.io/jobs/93ebd86e-7a40-47dd-b6e3-3833d46d8155">Data Analyst Intern</a></td>

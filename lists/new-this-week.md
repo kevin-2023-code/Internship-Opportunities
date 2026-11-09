@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**958 open roles.** 771 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
+**959 open roles.** 772 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Samsung Electronics America</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba">ePro Business &amp; Data Analyst Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488819666/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GenPark</strong></td>
 <td><a href="https://trueinterview.io/jobs/359b4f89-1c6a-4be4-a881-5ba7d433a578">Backend Developer Intern</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dcd83ce1-7825-461a-8846-09333e477045">IT Data Engineer Internship - Summer 2027</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486524389/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Quadric</strong></td>
-<td><a href="https://trueinterview.io/jobs/9761dd08-725b-4c18-b462-ea6795705a7e">AI Kernel Engineer Intern</a></td>
-<td>Burlingame, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487523748/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**691 open roles.** 508 in the United States & Canada · 183 elsewhere in the world.
+**692 open roles.** 509 in the United States & Canada · 183 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Samsung Electronics America</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba">ePro Business &amp; Data Analyst Intern</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488819666/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Daice Labs</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac4a5170-5068-4a89-91ac-8574529b9260">AI/ML Engineering Intern</a></td>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Irvine, CA, United States, Irvine</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/trace3/jobs/8274818">Apply</a></td>
 <td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/ac824665-2cbc-44d9-98e2-e2b284c51efd">Research Scientist Intern, Foundational Models for Robotics Research (PhD)</a></td>
-<td>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1078644001656413/">Apply</a></td>
-<td align="center">21 Oct 2026</td>
 </tr>
 </tbody>
 </table>

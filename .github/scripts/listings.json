@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T06:10:17.887Z",
-  "count": 3493,
+  "listingsChangedAt": "2026-11-09T07:06:11.204Z",
+  "count": 3494,
   "listings": [
+    {
+      "id": "9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba",
+      "company": "Samsung Electronics America",
+      "title": "ePro Business & Data Analyst Intern",
+      "locations": [
+        "Plano, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488819666/",
+      "url": "https://trueinterview.io/jobs/9f49f3c6-43e0-4438-ad6a-1bb9ef3724ba",
+      "postedAt": "2026-11-09T05:59:00.000Z",
+      "updatedAt": "2026-11-09T05:59:00.000Z"
+    },
     {
       "id": "9782acc5-c6af-40ef-ac5d-d71e849819e3",
       "company": "Bosch",
