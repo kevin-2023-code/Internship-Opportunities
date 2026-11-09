@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**698 open roles.** 511 in the United States & Canada · 187 elsewhere in the world.
+**700 open roles.** 513 in the United States & Canada · 187 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/beff4ec2-92e3-49fc-868c-53626a560c0b">Research Scientist Intern, Central Applied Science (PhD)</a></td>
+<td>New York, NY<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1582569213186235/">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril</strong></td>
+<td><a href="https://trueinterview.io/jobs/5464b61e-72eb-4622-8a4b-0425e74518a3">2027 Business Operations Intern</a></td>
+<td>Seattle, Washington, United States, Costa Mesa, CA (OC-00), Seattle, WA<br/>Costa Mesa, California, United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sony</strong></td>
 <td><a href="https://trueinterview.io/jobs/66132a14-b901-407a-ad77-d5130388c628">Research Intern – Self-evolving Multimodal Foundation Models</a> 🌐</td>

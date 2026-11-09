@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**954 open roles.** 764 in the United States & Canada · 190 elsewhere in the world. Everything the employers put up this week.
+**951 open roles.** 759 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b">Product Engineering Intern (AI)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488873492/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Campbell's Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ef692fc-b093-4d18-951f-e8fedbb8c5fd">Data Engineer, DA&amp;AI Co-Op</a></td>
+<td>Camden, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428133469/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Election Systems &amp; Software</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a">Software Engineer Intern</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/10af8991-996f-4468-9664-3456338b510c">Summer 2027 UX Design Internship</a></td>
 <td>New York, NY<br/>Philadelphia, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487559696/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>K1 Investment Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/23149deb-1a60-467b-b238-f872444d4bd8">AI Intern</a></td>
-<td>Manhattan Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486519958/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pattern</strong></td>
-<td><a href="https://trueinterview.io/jobs/8533a0e4-60a1-4c01-bd8d-4cb2422cc183">UX Design Intern - Summer 2027</a></td>
-<td>Lehi, UT</td>
-<td align="center"><a href="https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

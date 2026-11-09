@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**504 open roles.**
+**503 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -734,13 +734,6 @@
 <td><a href="https://trueinterview.io/jobs/64e721c0-2ec7-45f1-8dba-df006762b243">Software Engineering Intern – Summer 2027</a></td>
 <td>Emeryville, CA (Hybrid)<br/>Durham, NC (Hybrid)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tanium/jobs/8181017">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/0602cb50-577c-4239-aa76-82b665b86f99">Spring 2027 Engineering Internship</a></td>
-<td>San Francisco, California, United States<br/>Huntington Beach, California, United States<br/>San Luis Obispo, California, United States<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4397035009">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

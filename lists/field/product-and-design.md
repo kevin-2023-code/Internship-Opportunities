@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**226 open roles.** 163 in the United States & Canada · 63 elsewhere in the world.
+**224 open roles.** 162 in the United States & Canada · 62 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -323,13 +323,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5e77e8c6-3ee5-452b-9119-56f1aadfbda8">Multimedia Designer Summer Internship (Hybrid)</a></td>
 <td>Clearwater, Florida</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8919260002">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Labils</strong></td>
-<td><a href="https://trueinterview.io/jobs/bbfb5ae5-c177-4c65-be00-a08318259c03">UI/UX Design Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485423052/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 <tr>
@@ -1603,13 +1596,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Istanbul</td>
 <td align="center"><a href="https://jobs.lever.co/lalamove/2d0a4b9a-201d-457a-ac84-32e5e074e37f">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Master Born</strong></td>
-<td><a href="https://trueinterview.io/jobs/047889e2-2c67-4074-9343-8159e1c856ef">Intern Product Designer (AI Prototyping)</a> 🌐</td>
-<td>Remote — Poland</td>
-<td align="center"><a href="https://jobs.lever.co/masterborn-2/452e0679-85a2-40cd-96a8-ed77d0068ea2/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

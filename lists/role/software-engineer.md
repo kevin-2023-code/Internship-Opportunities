@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**446 open roles.** 354 in the United States & Canada · 92 elsewhere in the world.
+**447 open roles.** 354 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2510,6 +2510,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/404368dd-3073-451b-a646-d1cb0d65a611">Software Developer Summer Intern: IMS GW (Test Tools &amp; Automation)</a></td>
+<td>Kirkkonummi, Uusimaa, Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487692975/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0321e60-fd7b-4954-b3f6-88a48c693356">Software Developer Summer Intern: Transport Automation</a></td>
+<td>Kirkkonummi, Uusimaa, Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487911087/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>IMC Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>
 <td>Hong Kong, Hong Kong SAR</td>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/35c30981-85a1-4be7-abc0-59c7d349e404">Intern, Software Engineer (Javascript) - 12 months</a></td>
 <td>Sheffield, England, United Kingdom<br/>Sheffield, United Kingdom</td>
 <td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154045294">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Gamesa</strong></td>
-<td><a href="https://trueinterview.io/jobs/baffbe9f-94af-45c2-8527-505f88952693">Digitalisation Intern (Software Developer)</a></td>
-<td>Kingston upon Hull, United Kingdom</td>
-<td align="center"><a href="https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Digitalisation-Intern-Software-Developer-/306369">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Samsara</strong></td>
-<td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>
-<td>Harrow, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

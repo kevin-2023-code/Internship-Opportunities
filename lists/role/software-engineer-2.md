@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**446 open roles.** 354 in the United States & Canada · 92 elsewhere in the world.
+**447 open roles.** 354 in the United States & Canada · 93 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Siemens Gamesa</strong></td>
+<td><a href="https://trueinterview.io/jobs/baffbe9f-94af-45c2-8527-505f88952693">Digitalisation Intern (Software Developer)</a></td>
+<td>Kingston upon Hull, United Kingdom</td>
+<td align="center"><a href="https://jobs.siemens-energy.com/en_US/CareersMarketplace/FolderDetail/Digitalisation-Intern-Software-Developer-/306369">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsara</strong></td>
+<td><a href="https://trueinterview.io/jobs/70611491-8cc1-4993-8ab1-2d5d51fb9916">Software Engineering Internship - London</a></td>
+<td>Harrow, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/2d87d862-63de-4f29-8209-1818c2f84d40">Internship - Automation Developer (f/m/div)</a></td>
@@ -330,13 +344,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a9519ed0-5b91-4545-baad-6700c0b97f03">Software Engineer Intern</a></td>
 <td>St. Louis</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/exegy/dc2b27b5-9569-4d86-9b30-456a4ccf29a5/application">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Sentry</strong></td>
-<td><a href="https://trueinterview.io/jobs/2497104b-9622-4d3b-83ee-e6ed6557f0c0">Software Engineer, Intern (Summer 2027)</a></td>
-<td>Vienna, Austria</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

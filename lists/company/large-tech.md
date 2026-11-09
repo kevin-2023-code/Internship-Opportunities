@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**139 open roles.** 119 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**138 open roles.** 118 in the United States & Canada · 20 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -841,13 +841,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/32c1c6c2-1717-461e-aa25-4ad97310c302">Intern - Quality Engineer</a></td>
 <td>Lake Saint Louis, MO or Mandan, ND</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191319">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudl</strong></td>
-<td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>
-<td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

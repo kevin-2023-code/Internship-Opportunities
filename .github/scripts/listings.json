@@ -5,9 +5,109 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T15:04:47.279Z",
-  "count": 3505,
+  "listingsChangedAt": "2026-11-09T16:04:47.812Z",
+  "count": 3504,
   "listings": [
+    {
+      "id": "d283e0ed-204b-4a76-89c5-ceeaff40ee2b",
+      "company": "Marketeq Talent",
+      "title": "Product Engineering Intern (AI)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488873492/",
+      "url": "https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b",
+      "postedAt": "2026-11-09T15:14:00.000Z",
+      "updatedAt": "2026-11-09T15:14:00.000Z"
+    },
+    {
+      "id": "404368dd-3073-451b-a646-d1cb0d65a611",
+      "company": "Ericsson",
+      "title": "Software Developer Summer Intern: IMS GW (Test Tools & Automation)",
+      "locations": [
+        "Kirkkonummi, Uusimaa, Finland"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487692975/",
+      "url": "https://trueinterview.io/jobs/404368dd-3073-451b-a646-d1cb0d65a611",
+      "postedAt": "2026-11-09T15:04:00.000Z",
+      "updatedAt": "2026-11-09T15:04:00.000Z"
+    },
+    {
+      "id": "7ef692fc-b093-4d18-951f-e8fedbb8c5fd",
+      "company": "The Campbell's Company",
+      "title": "Data Engineer, DA&AI Co-Op",
+      "locations": [
+        "Camden, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4428133469/",
+      "url": "https://trueinterview.io/jobs/7ef692fc-b093-4d18-951f-e8fedbb8c5fd",
+      "postedAt": "2026-11-09T14:53:00.000Z",
+      "updatedAt": "2026-11-09T14:53:00.000Z"
+    },
+    {
+      "id": "f0321e60-fd7b-4954-b3f6-88a48c693356",
+      "company": "Ericsson",
+      "title": "Software Developer Summer Intern: Transport Automation",
+      "locations": [
+        "Kirkkonummi, Uusimaa, Finland"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487911087/",
+      "url": "https://trueinterview.io/jobs/f0321e60-fd7b-4954-b3f6-88a48c693356",
+      "postedAt": "2026-11-09T14:30:00.000Z",
+      "updatedAt": "2026-11-09T14:30:00.000Z"
+    },
     {
       "id": "e7254a72-42e9-452e-9366-41a892b51e4a",
       "company": "Election Systems & Software",
@@ -24969,31 +25069,6 @@
       "url": "https://trueinterview.io/jobs/096a918e-386e-457c-ac62-f65880ddaf50",
       "postedAt": "2026-11-01T13:11:00.000Z",
       "updatedAt": "2026-11-01T13:11:00.000Z"
-    },
-    {
-      "id": "bbfb5ae5-c177-4c65-be00-a08318259c03",
-      "company": "Labils",
-      "title": "UI/UX Design Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485423052/",
-      "url": "https://trueinterview.io/jobs/bbfb5ae5-c177-4c65-be00-a08318259c03",
-      "postedAt": "2026-11-01T13:01:00.000Z",
-      "updatedAt": "2026-11-01T13:01:00.000Z"
     },
     {
       "id": "97f425b3-6fcb-46d3-b7f1-9aa115f55635",
@@ -91018,115 +91093,6 @@
       "url": "https://trueinterview.io/jobs/c9e9a23b-7fcf-4027-8ce0-0b2a5580006a",
       "postedAt": "2026-09-09T22:43:44.000Z",
       "updatedAt": "2026-09-10T16:06:19.000Z"
-    },
-    {
-      "id": "25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6",
-      "company": "Hudl",
-      "title": "Quality Assurance Engineering Intern",
-      "locations": [
-        "Lincoln, NE, United States",
-        "USA - Nebraska - Lincoln Office"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/hudl/jobs/8155102",
-      "url": "https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6",
-      "postedAt": "2026-09-10T16:02:58.000Z",
-      "updatedAt": "2026-09-10T16:02:58.000Z"
-    },
-    {
-      "id": "047889e2-2c67-4074-9343-8159e1c856ef",
-      "company": "Master Born",
-      "title": "Intern Product Designer (AI Prototyping)",
-      "locations": [
-        "Wrocław or remotely",
-        "Wrocław"
-      ],
-      "cities": [
-        "Wrocław"
-      ],
-      "countries": [
-        "Poland"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/masterborn-2/452e0679-85a2-40cd-96a8-ed77d0068ea2/apply",
-      "url": "https://trueinterview.io/jobs/047889e2-2c67-4074-9343-8159e1c856ef",
-      "postedAt": "2026-09-10T16:02:22.000Z",
-      "updatedAt": "2026-09-10T16:02:22.000Z"
-    },
-    {
-      "id": "0602cb50-577c-4239-aa76-82b665b86f99",
-      "company": "Mach Industries",
-      "title": "Spring 2027 Engineering Internship",
-      "locations": [
-        "Huntington Beach, California, United States",
-        "San Francisco, California, United States",
-        "San Luis Obispo, California, United States",
-        "Victorville, California, United States"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/machindustries/jobs/4397035009",
-      "url": "https://trueinterview.io/jobs/0602cb50-577c-4239-aa76-82b665b86f99",
-      "postedAt": "2026-09-10T15:58:00.000Z",
-      "updatedAt": "2026-09-10T15:58:00.000Z"
-    },
-    {
-      "id": "2497104b-9622-4d3b-83ee-e6ed6557f0c0",
-      "company": "Sentry",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "locations": [
-        "Vienna, Austria"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
-      "url": "https://trueinterview.io/jobs/2497104b-9622-4d3b-83ee-e6ed6557f0c0",
-      "postedAt": "2026-09-10T15:39:22.000Z",
-      "updatedAt": "2026-09-10T15:39:22.000Z"
     }
   ]
 }

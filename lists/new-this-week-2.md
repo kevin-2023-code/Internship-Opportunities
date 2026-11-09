@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**954 open roles.** 764 in the United States & Canada · 190 elsewhere in the world. Everything the employers put up this week.
+**951 open roles.** 759 in the United States & Canada · 192 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>K1 Investment Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/23149deb-1a60-467b-b238-f872444d4bd8">AI Intern</a></td>
+<td>Manhattan Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486519958/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Pattern</strong></td>
+<td><a href="https://trueinterview.io/jobs/8533a0e4-60a1-4c01-bd8d-4cb2422cc183">UX Design Intern - Summer 2027</a></td>
+<td>Lehi, UT</td>
+<td align="center"><a href="https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/3bd54c5a-8915-4ac9-82ba-7d8c9fef482d">Spring 2027: Quality Engineering Co-op, Shark (January through June)</a></td>
@@ -2514,55 +2528,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458418385/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Elevated Web Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/b1c5dd08-9889-4657-a43c-cccb75e3be4d">Platform Software Engineering Internship</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485973434/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/0c6382fe-945f-48cb-ad31-08c5df47e673">QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458034499/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon Web Services (AWS)</strong></td>
-<td><a href="https://trueinterview.io/jobs/afe1b605-f453-4314-9212-3e7c0a29a537">Software Dev Engineer Internship - Embedded Development (Linux)</a></td>
-<td>Dresden, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469205599/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/77994a6b-8f34-48a6-994f-14ed53c7f2d7">Back End Developer Intern - Poughkeepsie, NY - 2027</a></td>
-<td>Poughkeepsie, AR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458021553/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3b6e321-1cc6-4828-923b-21641645ea9c">2027 Summer Intern: Engineering - Software</a></td>
-<td>St Louis, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460528336/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Annapurna Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/03ea040b-e789-48d0-b284-aade3c7d48c9">Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Cupertino, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460345281/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/31a87483-3430-4e36-b036-7278894f3633">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Austin, TX<br/>Seattle, WA<br/>Cupertino, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460339361/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2575,6 +2540,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/404368dd-3073-451b-a646-d1cb0d65a611">Software Developer Summer Intern: IMS GW (Test Tools &amp; Automation)</a></td>
+<td>Kirkkonummi, Uusimaa, Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487692975/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0321e60-fd7b-4954-b3f6-88a48c693356">Software Developer Summer Intern: Transport Automation</a></td>
+<td>Kirkkonummi, Uusimaa, Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487911087/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/24f638f9-9d1b-49dc-ac8d-91649b3b07ca">Research Scientist Intern - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
@@ -2825,6 +2804,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a></td>
 <td>Paris, Île-de-France, France<br/>Singapore</td>
 <td align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8138524">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
+<td>Veldhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Millennium</strong></td>
+<td><a href="https://trueinterview.io/jobs/64c4924e-1214-4375-b6b5-bc966103874c">2027 Applied AI Engineer Intern, Tel Aviv</a></td>
+<td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487758966/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/11f4b141-c52f-4c8b-acb3-37a4af444131">AI Product Manager Intern, Game Development</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479828651/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

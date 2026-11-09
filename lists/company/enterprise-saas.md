@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**82 open roles.** 65 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**81 open roles.** 64 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -463,13 +463,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/32c1c6c2-1717-461e-aa25-4ad97310c302">Intern - Quality Engineer</a></td>
 <td>Lake Saint Louis, MO or Mandan, ND</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nisc/jobs/8191319">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hudl</strong></td>
-<td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>
-<td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

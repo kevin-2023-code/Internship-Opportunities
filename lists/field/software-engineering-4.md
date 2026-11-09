@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,309 in the United States & Canada · 330 elsewhere in the world.
+**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -764,20 +764,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Hudl</strong></td>
-<td><a href="https://trueinterview.io/jobs/25a63ff0-3031-4e1d-af9b-bd5c11f4ddf6">Quality Assurance Engineering Intern</a></td>
-<td>Lincoln, NE, United States<br/>USA - Nebraska - Lincoln Office</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/8155102">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/0602cb50-577c-4239-aa76-82b665b86f99">Spring 2027 Engineering Internship</a></td>
-<td>San Francisco, California, United States<br/>Huntington Beach, California, United States<br/>San Luis Obispo, California, United States<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4397035009">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -790,6 +776,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ericsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/404368dd-3073-451b-a646-d1cb0d65a611">Software Developer Summer Intern: IMS GW (Test Tools &amp; Automation)</a></td>
+<td>Kirkkonummi, Uusimaa, Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487692975/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0321e60-fd7b-4954-b3f6-88a48c693356">Software Developer Summer Intern: Transport Automation</a></td>
+<td>Kirkkonummi, Uusimaa, Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487911087/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>

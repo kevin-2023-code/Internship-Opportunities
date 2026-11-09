@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**47 open roles.** 33 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
+**46 open roles.** 33 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -350,13 +350,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — Poland</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true">Apply</a></td>
 <td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Master Born</strong></td>
-<td><a href="https://trueinterview.io/jobs/047889e2-2c67-4074-9343-8159e1c856ef">Intern Product Designer (AI Prototyping)</a> 🌐</td>
-<td>Remote — Poland</td>
-<td align="center"><a href="https://jobs.lever.co/masterborn-2/452e0679-85a2-40cd-96a8-ed77d0068ea2/apply">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>
