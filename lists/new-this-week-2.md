@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**957 open roles.** 770 in the United States & Canada · 187 elsewhere in the world. Everything the employers put up this week.
+**954 open roles.** 768 in the United States & Canada · 186 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -2591,20 +2591,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460504527/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f79c9aba-a082-488b-a7f7-4ef28a374cff">University, 2027 Summer Games Data Scientist Intern - Atlanta, GA</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460512396/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Collins Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4265fb2-167c-4088-88b3-80028768df1e">Software Project Engineer Intern (Summer 2027) Onsite</a></td>
-<td>Windsor Locks, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469525131/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2811,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a></td>
 <td>Paris, Île-de-France, France<br/>Singapore</td>
 <td align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8138524">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
+<td>Veldhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Millennium</strong></td>
+<td><a href="https://trueinterview.io/jobs/64c4924e-1214-4375-b6b5-bc966103874c">2027 Applied AI Engineer Intern, Tel Aviv</a></td>
+<td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487758966/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**39 open roles.** 27 in the United States & Canada · 12 elsewhere in the world.
+**38 open roles.** 27 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -294,13 +294,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>France - Paris</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003">Apply</a></td>
 <td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/92ab76c6-8fb4-45a5-aab2-9173593bd997">Internship - Radiation Testing of Electronic Components and Test Automation</a></td>
-<td>Munich, Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

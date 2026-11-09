@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
+**1,638 open roles.** 1,307 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -281,13 +281,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2497104b-9622-4d3b-83ee-e6ed6557f0c0">Software Engineer, Intern (Summer 2027)</a></td>
 <td>Vienna, Austria</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/92ab76c6-8fb4-45a5-aab2-9173593bd997">Internship - Radiation Testing of Electronic Components and Test Automation</a></td>
-<td>Munich, Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

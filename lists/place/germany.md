@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**30 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -221,13 +221,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Berlin</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/telli/821f603f-69f5-475e-8200-56120cae7241/application">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/92ab76c6-8fb4-45a5-aab2-9173593bd997">Internship - Radiation Testing of Electronic Components and Test Automation</a></td>
-<td>Munich, Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>

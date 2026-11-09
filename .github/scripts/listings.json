@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T10:04:46.268Z",
-  "count": 3497,
+  "listingsChangedAt": "2026-11-09T11:04:46.277Z",
+  "count": 3496,
   "listings": [
     {
       "id": "6a30a79d-05df-446c-a551-0a58c438c67a",
@@ -90905,33 +90905,6 @@
       "url": "https://trueinterview.io/jobs/9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439",
       "postedAt": "2026-09-10T14:11:10.000Z",
       "updatedAt": "2026-09-10T14:11:10.000Z"
-    },
-    {
-      "id": "92ab76c6-8fb4-45a5-aab2-9173593bd997",
-      "company": "The Exploration Company",
-      "title": "Internship - Radiation Testing of Electronic Components and Test Automation",
-      "locations": [
-        "Munich, Germany"
-      ],
-      "cities": [
-        "Munich"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357",
-      "url": "https://trueinterview.io/jobs/92ab76c6-8fb4-45a5-aab2-9173593bd997",
-      "postedAt": "2026-09-10T10:14:58.000Z",
-      "updatedAt": "2026-09-10T10:14:58.000Z"
     }
   ]
 }

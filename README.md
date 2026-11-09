@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-09 10:04 UTC_
+_Last updated: 2026-11-09 11:04 UTC_
 
-**2,801 open internships** from **1,128 employers** · **770 posted in the last 7 days** · refreshed hourly
+**2,801 open internships** from **1,128 employers** · **768 posted in the last 7 days** · refreshed hourly
 
 ### Browse 2,801 internships by field
 
@@ -56,7 +56,7 @@ _Last updated: 2026-11-09 10:04 UTC_
 
 **IBM** 28 &nbsp;·&nbsp; **Meta** 14 &nbsp;·&nbsp; **TikTok** 9 &nbsp;·&nbsp; **Costco IT** 7 &nbsp;·&nbsp; **Rivian** 7 &nbsp;·&nbsp; **Shure** 7 &nbsp;·&nbsp; **Tesla** 7 &nbsp;·&nbsp; **The New York Times** 7 &nbsp;·&nbsp; **Citadel** 6 &nbsp;·&nbsp; **Marketeq Digital Solutions** 6 &nbsp;·&nbsp; **PayPal** 6 &nbsp;·&nbsp; **AECOM** 5
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 139 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 138 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -70,7 +70,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (506)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (180)](lists/place/los-angeles.md) · [🗽 New York City (151)](lists/place/new-york.md) · [🎓 Boston & Cambridge (145)](lists/place/boston.md) · [🌲 Seattle & Puget Sound (101)](lists/place/seattle.md) · [🎸 Austin (95)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (84)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (81)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌧️ Portland, Boise & Spokane (58)](lists/place/pacific-northwest.md) · [+19 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (770)](lists/new-this-week.md) · [🌐 Remote (33)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (768)](lists/new-this-week.md) · [🌐 Remote (33)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1796,7 +1796,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/c5128000-1c3c-4ce1-8f1e-bf1f92968cbf">Video Moderation &amp; Platform Responsibility Product Manager Project Intern (TikTok-Platform Responsibility-Feed Safety) - 2026 Start</a> 🆕</td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479659776/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td>↳</td>
@@ -1870,10 +1870,10 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/2388232c-e4f1-4b10-98a5-bd8507d8f29b">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/2388232c-e4f1-4b10-98a5-bd8507d8f29b">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4277122877/">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>SoTalent</strong></td>
@@ -2494,7 +2494,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/2418d04a-d1cd-49f7-bc65-887e363f5f42">IT Support Internship</a></td>
 <td>Harrisburg, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468302594/">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>RSM US LLP</strong></td>

@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**89 open roles.** 87 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**88 open roles.** 87 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -644,13 +644,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kiruna, Norrbotten, Sweden</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Exploration Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/92ab76c6-8fb4-45a5-aab2-9173593bd997">Internship - Radiation Testing of Electronic Components and Test Automation</a></td>
-<td>Munich, Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/c0bd5a1e-0150-417f-9e83-afa9494d2357">Apply</a></td>
-<td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
 </table>
