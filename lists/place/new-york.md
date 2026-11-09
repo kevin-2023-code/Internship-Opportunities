@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**151 open roles.**
+**150 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1065,13 +1065,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/42d86fa0-81da-4540-9193-8b005d19584c">2027 Platform Engineering Intern</a></td>
 <td>New York, NY<br/>New York, New York, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171699">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>DV Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439">Client Platforms Engineer Intern - Summer 2027</a></td>
-<td>New York, NY<br/>London<br/>Chicago, IL</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4732700005">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

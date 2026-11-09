@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T14:04:55.782Z",
+  "listingsChangedAt": "2026-11-09T15:04:47.279Z",
   "count": 3505,
   "listings": [
     {
@@ -57,6 +57,33 @@
       "url": "https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
       "postedAt": "2026-11-09T13:02:00.000Z",
       "updatedAt": "2026-11-09T13:02:00.000Z"
+    },
+    {
+      "id": "7a222ec3-2c79-45f1-96ff-78847977c61c",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Electrical Hardware Engineer Intern",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488854360/",
+      "url": "https://trueinterview.io/jobs/7a222ec3-2c79-45f1-96ff-78847977c61c",
+      "postedAt": "2026-11-09T12:53:00.000Z",
+      "updatedAt": "2026-11-09T12:53:00.000Z"
     },
     {
       "id": "24f638f9-9d1b-49dc-ac8d-91649b3b07ca",
@@ -91100,38 +91127,6 @@
       "url": "https://trueinterview.io/jobs/2497104b-9622-4d3b-83ee-e6ed6557f0c0",
       "postedAt": "2026-09-10T15:39:22.000Z",
       "updatedAt": "2026-09-10T15:39:22.000Z"
-    },
-    {
-      "id": "9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439",
-      "company": "DV Trading",
-      "title": "Client Platforms Engineer Intern - Summer 2027",
-      "locations": [
-        "London",
-        "New York",
-        "Chicago"
-      ],
-      "cities": [
-        "London",
-        "New York, NY",
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United Kingdom",
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
-      "url": "https://trueinterview.io/jobs/9a14c9e1-2ff2-4b48-ab6d-b3d0034d2439",
-      "postedAt": "2026-09-10T14:11:10.000Z",
-      "updatedAt": "2026-09-10T14:11:10.000Z"
     }
   ]
 }

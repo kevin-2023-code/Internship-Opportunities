@@ -18,7 +18,7 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-09 14:04 UTC_
+_Last updated: 2026-11-09 15:04 UTC_
 
 **700 open internships** from **317 employers** · **190 posted in the last 7 days** · refreshed hourly
 
@@ -265,6 +265,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd853433-b6c0-41f2-b2e3-36dc85d4e74c">Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M</a></td>
+<td>Levallois-Perret, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154698564-internship-fullstack-cloud-developer-ai-agent-platform-sap-build-experience-f-m">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
 <tr>
 <td><strong>Six Construct</strong></td>
 <td><a href="https://trueinterview.io/jobs/18967f13-f4e5-49c4-8ce6-4a43b4706e66">Internship Technical Office Engineer / Site Superintendent (Belgium)</a></td>
@@ -608,13 +615,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
-<tr>
-<td><strong>Trexo Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/92159811-3be1-4b22-a052-726754c9a172">Forward Deployed Engineering Intern / Co-op Winter 2027</a></td>
-<td>Mississauga</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/trexo%20robotics/9504015b-bd4b-415c-8cf4-70015b84f873/application">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -710,10 +710,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/57c145b3-8fc0-4639-b962-9c4b31ddd295">AI &amp; Cloud Engineering Intern</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/57c145b3-8fc0-4639-b962-9c4b31ddd295">AI &amp; Cloud Engineering Intern</a></td>
 <td>Sofia, Bosch Digital, Sofia City Province, Bulgaria</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159889329-ai-cloud-engineering-intern">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>ASML</strong></td>
@@ -1627,14 +1627,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a78fda97-6bed-45d6-860b-6634fc7172a6">Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels</a></td>
 <td>London OR Brussels<br/>Brussels</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f7cfdee1-375a-4564-9c15-a2dc3cdf323c">DeFi Quant Research Intern (Digital Assets Market Making) - Brussels</a></td>
 <td>London OR Brussels<br/>Brussels</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
@@ -1669,7 +1669,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4810d2ba-909b-4896-b1b2-065e929f5ebc">2027 Index Rebalancing Quantitative Research Intern</a></td>
 <td>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597">Apply</a></td>
-<td align="center">17d</td>
+<td align="center">18d</td>
 </tr>
 <tr>
 <td><strong>Statkraft</strong></td>
@@ -1808,7 +1808,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d12cc35b-1bf7-4428-9bc7-005b7e77f122">Operations Support Intern – IT &amp; Technology Projects</a></td>
 <td>Abu Dhabi, UAE</td>
 <td align="center"><a href="https://ae.indeed.com/viewjob?jk=e869c8d8b8bb3e9b">Apply</a></td>
-<td align="center">9d</td>
+<td align="center">10d</td>
 </tr>
 <tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>

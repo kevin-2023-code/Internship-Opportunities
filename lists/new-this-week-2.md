@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/3bd54c5a-8915-4ac9-82ba-7d8c9fef482d">Spring 2027: Quality Engineering Co-op, Shark (January through June)</a></td>
+<td>Needham, MA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4723761006">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/52d87301-6cf9-43eb-8e7d-c73c95692749">Spring 2027: Design &amp; Engineering Co-op (January through June)</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726759006">Apply</a></td>
@@ -2554,13 +2561,6 @@
 <td><a href="https://trueinterview.io/jobs/31a87483-3430-4e36-b036-7278894f3633">ASIC Engineer Intern, Annapurna Labs - 2027</a></td>
 <td>Austin, TX<br/>Seattle, WA<br/>Cupertino, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4460339361/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3ae511d8-045a-4b0e-af1b-fdf39115288b">Software Development Engineer Intern, Annapurna Labs - 2027</a></td>
-<td>Seattle, WA<br/>Cupertino, CA<br/>New York, United States<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460336386/">Apply</a></td>
 <td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
