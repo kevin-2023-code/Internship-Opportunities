@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**83 open roles.**
+**82 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -106,13 +106,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ed8b1620-eeca-4341-9425-02abbdaae767">Intern - Cloud Engineer</a></td>
 <td>Irving, TX</td>
 <td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261245">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a33ef2eb-ee2a-4fc3-bc6b-e39408ee4385">Mechanical Engineering Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, TX, United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2603028285">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

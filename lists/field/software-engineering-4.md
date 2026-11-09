@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,638 open roles.** 1,305 in the United States & Canada · 333 elsewhere in the world.
+**1,633 open roles.** 1,303 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Eqt Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/674331a6-c0b1-430d-8a04-30cbcf7a411e">Production Engineering Intern</a></td>
-<td>Canonsburg, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424728008">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d78ea098-b7ea-4905-917f-34bc98eeb290">Production Facility Engineering Intern</a></td>
-<td>Canonsburg, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5425078008">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Keysight</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe">Semiconductor Systems Automation Intern</a></td>
@@ -893,13 +879,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/62f2580c-2fe4-4885-82b1-324aa178ea07">Software Engineering Internship - Post-Processing Dyno Measurements</a></td>
 <td>East Attica, Attiki, Greece</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487588111/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/270f7012-808e-4a51-aac7-cff46940db84">Project Management &amp; Product Engineering Intern m/f/d</a></td>
-<td>Freising, Bayern, Germany</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013093">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>
@@ -2826,6 +2805,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Freising, Bayern, Germany</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018495">Apply</a></td>
 <td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mastercontrol</strong></td>
+<td><a href="https://trueinterview.io/jobs/8990758a-67ac-493e-8d99-ff07da98a295">DevOps Engineering Intern</a></td>
+<td>Hybrid</td>
+<td align="center"><a href="https://www.mastercontrol.com/careers/job-listings/role/?role=4738483005&amp;gh_jid=4738483005">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/0eceeb14-6545-4234-af2a-791e74ab4746">2027 Electronic Engineering Internship</a></td>
+<td>Edinburgh, Scotland<br/>Newbury, England</td>
+<td align="center"><a href="https://jobs.eu.lever.co/cirrus/b0eeba19-9950-4e6b-a709-037e271a71fd">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/f1145d27-378f-4b8f-bfcf-0e90a1523276">Odometry Algorithm Developer Intern</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000153538319-odometry-algorithm-developer-intern">Apply</a></td>
+<td align="center">5 Oct 2026</td>
 </tr>
 </tbody>
 </table>

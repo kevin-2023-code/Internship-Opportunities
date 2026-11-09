@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**966 open roles.** 773 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
+**959 open roles.** 770 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1347,13 +1347,6 @@
 </tr>
 <tr>
 <td><strong>WoodmenLife</strong></td>
-<td><a href="https://trueinterview.io/jobs/f058875b-5d1e-4f51-b465-4280b35963cd">2027 Summer AI Engineer Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486013999/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1045f4aa-2a03-47da-b366-45c563396551">2027 Summer Product Owner Intern</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486032133/">Apply</a></td>
@@ -1364,13 +1357,6 @@
 <td><a href="https://trueinterview.io/jobs/aea1021e-d69b-4334-8dfb-f4b4cb8d9a38">2027 Summer Software Engineer Intern</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2923">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vaccine Vets</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ee0529a-f3f7-453e-bdc1-0646b0e167a2">Software Engineering Intern (Japanese Speaking Preferred)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486837055/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -2186,13 +2172,6 @@
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amway</strong></td>
-<td><a href="https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b">Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)</a></td>
-<td>Ada, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478300807/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Roku</strong></td>
 <td><a href="https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7">SW Engineer Intern, AI Engineering</a></td>
 <td>San Jose, California, United States</td>
@@ -2660,13 +2639,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/5d5bad84-87db-4088-a74e-efb0bbc669da">Program Manager Intern ESP 2027 - BCN3</a></td>
-<td>Castellbisbal, Catalonia, Spain</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472057523/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/e1209f4d-3f83-447b-aa2c-c3066f9d7ae4">Extracurricular Internship: Python and AI Development Engineer (f/m/div)</a></td>
 <td>Padua, Veneto, Italy</td>
@@ -2826,6 +2798,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Kuala Lumpur, Malaysia</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613-aip-intern-it-support-track">Apply</a></td>
 <td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/92dbe38d-2a70-47af-a962-e36484242ef2">Intern - Industrial Engineer (5 of 5)</a></td>
+<td>Johor Bahru, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000160070507-intern-industrial-engineer-5-of-5-">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/36dc2e81-a450-4dcc-bc71-7eb5cb23b225">SAP IXp Intern - Solution Support Engineer - Analytics</a></td>
+<td>Budapest, Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159990859-sap-ixp-intern-solution-support-engineer-analytics-">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tower Research Capital</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a></td>
+<td>Paris, Île-de-France, France<br/>Singapore</td>
+<td align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8138524">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfadd93f-774d-44e5-b636-59fda64c980f">Computer Science | IT internship: Standardizing Test Automation with AI Assistance</a></td>
+<td>Veldhoven, North Brabant, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488016977/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
 </tr>
 </tbody>
 </table>
