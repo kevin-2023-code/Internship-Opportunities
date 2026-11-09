@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,637 open roles.** 1,305 in the United States & Canada · 332 elsewhere in the world.
+**1,644 open roles.** 1,312 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,62 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tech World Networking</strong></td>
+<td><a href="https://trueinterview.io/jobs/adcb7bc7-740c-4f98-82d9-d0d780f03937">Tooling Engineer Intern</a></td>
+<td>California, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482537705/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>World Wide Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7287966-d413-40c6-a364-3f8bc890fe6c">Solutions, Consulting, &amp; Engineering Intern - 2027</a></td>
+<td>Maryland Heights, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457151796/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas Electronics</strong></td>
+<td><a href="https://trueinterview.io/jobs/02a684d3-b1d7-4289-b08a-b47051cebe8c">Application Engineer Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484491878/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bollinger Shipyards</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27f6198-d1b8-4b94-a1bc-22561406c819">Field Engineering Intern</a></td>
+<td>Lockport, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467761683/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mercury Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/0924cc87-8052-4379-8a6e-877913513ce6">2027 Manufacturing Test Engineering Intern</a></td>
+<td>Hudson, NH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466584892/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Graphic Packaging International</strong></td>
+<td><a href="https://trueinterview.io/jobs/cbdfccc5-ffe5-44cf-9a85-6441eec23015">Engineering Intern I</a></td>
+<td>Waco, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484708007/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mercury Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee78eec0-4101-40d0-b927-52c1c5d74a94">2027 Firmware Engineering Co-Op</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466594062/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CCC Intelligent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/73610f57-3d28-4cc3-84cd-eccd631b2aba">Software Engineering Internship Interest | Resume Review and Open House</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484710397/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Raytheon</strong></td>
 <td><a href="https://trueinterview.io/jobs/29319449-075a-41d0-a2d2-0717546ddeec">Software Engineer Co-op (January 2027)</a></td>
@@ -216,13 +272,6 @@
 <td><a href="https://trueinterview.io/jobs/2c26d7d9-c090-405a-b912-271fd9d88339">R&amp;D Commercial Product Development Engineer Intern</a></td>
 <td>Parsippany, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482529442/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Elevated Web Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7f3498a-4435-4906-969a-24e60ea39a6b">Product Software Engineering Internship</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484495243/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/f726c8f4-221b-480f-bd6f-11b71980325c">Quality Leadership Development Program (Co-op Project Engineer) Spring 2027</a></td>
 <td>Perrysburg, Ohio, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000151472489-quality-leadership-development-program-co-op-project-engineer-spring-2027">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ae94b7d4-8930-4f7b-b49d-5d99e2a500eb">Quality Leadership Development Program (Co-op Project Engineer) – Fall 2027</a></td>
-<td>Perrysburg, Ohio, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000151472169-quality-leadership-development-program-co-op-project-engineer-fall-2027">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keenfinity</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf105919-49b9-4b03-a2b4-d84edd8a49a4">Electrical Test Engineering Co-Op</a></td>
-<td>Fairport, New York, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151397415-electrical-test-engineering-co-op">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/698c73fd-4184-4d48-925d-cb3490f45cb3">Embedded Firmware Engineer Co-Op</a></td>
-<td>Fairport, New York, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151397189-embedded-firmware-engineer-co-op">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bc9df6cc-3890-4fee-8ff6-80d9a1c7b390">Software Test Automation Co-Op</a></td>
-<td>Fairport, New York, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151395769-software-test-automation-co-op">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Smiths Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/be8a8e74-f239-4d90-a76d-b88385a7e25d">Engineering Intern</a></td>
-<td>603 Hendee Street, Springfield, Massachusetts, United States<br/>Coyol, Alajuela, Costa Rica</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151387389-engineering-intern">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4a181cf8-cde4-4463-9376-d3c5d129c4ab">Engineering Intern – Braid Design</a></td>
-<td>603 Hendee Street, Springfield, Massachusetts, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151383182-engineering-intern-braid-design">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebeb7a82-e5a3-4dcb-bf99-ed9474c4cd08">Process Utilities Engineer Intern (Summer 2027)</a></td>
-<td>Denver, Colorado, United States<br/>Kalamazoo, Michigan, United States<br/>Irvine, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151361159-process-utilities-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 </tbody>

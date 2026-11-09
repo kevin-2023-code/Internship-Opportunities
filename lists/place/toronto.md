@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**58 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kensington</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f4699bc-7254-4405-ab53-7a8b937e7161">BI/Data Analyst Intern</a></td>
+<td>Toronto, ON, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>EXP</strong></td>
 <td><a href="https://trueinterview.io/jobs/a5df11d5-02cb-407a-8787-6c1bfd56c2f4">Environmental Engineering Field Technician Student (Co-op)</a></td>

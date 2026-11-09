@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**99 open roles.** 59 in the United States & Canada · 40 elsewhere in the world.
+**100 open roles.** 60 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5768672c-33d3-44cb-8d86-e0d2ce129bcf">Data Analyst Intern</a></td>
 <td>Chillicothe, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488891167/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Kensington</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f4699bc-7254-4405-ab53-7a8b937e7161">BI/Data Analyst Intern</a></td>
+<td>Toronto, ON, Canada</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

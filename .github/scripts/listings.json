@@ -5,9 +5,184 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T20:04:35.242Z",
-  "count": 3499,
+  "listingsChangedAt": "2026-11-09T21:04:07.050Z",
+  "count": 3508,
   "listings": [
+    {
+      "id": "946675e7-5920-42af-b4a4-1b9239c49ada",
+      "company": "Marketeq Digital Solutions",
+      "title": "AI Prototype Engineering Intern (U.S.A Only)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489123850/",
+      "url": "https://trueinterview.io/jobs/946675e7-5920-42af-b4a4-1b9239c49ada",
+      "postedAt": "2026-11-09T20:17:00.000Z",
+      "updatedAt": "2026-11-09T20:17:00.000Z"
+    },
+    {
+      "id": "dd60d1f5-e566-418b-ba63-8570105920ba",
+      "company": "Paylocity",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Pittsford, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472643730/",
+      "url": "https://trueinterview.io/jobs/dd60d1f5-e566-418b-ba63-8570105920ba",
+      "postedAt": "2026-11-09T19:53:00.000Z",
+      "updatedAt": "2026-11-09T19:53:00.000Z"
+    },
+    {
+      "id": "e3fb9772-4c66-48d1-8745-ed2e6cced4da",
+      "company": "Collins Aerospace",
+      "title": "Software Engineering Intern (E2D-IN-1)",
+      "locations": [
+        "Sterling, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488897401/",
+      "url": "https://trueinterview.io/jobs/e3fb9772-4c66-48d1-8745-ed2e6cced4da",
+      "postedAt": "2026-11-09T19:44:00.000Z",
+      "updatedAt": "2026-11-09T19:44:00.000Z"
+    },
+    {
+      "id": "9e0a27d8-9078-43bf-919c-74939ad4510c",
+      "company": "WB Games Boston",
+      "title": "WB Games Software Engineering Co-op: Needham, MA - January-May 2027",
+      "locations": [
+        "Needham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489113579/",
+      "url": "https://trueinterview.io/jobs/9e0a27d8-9078-43bf-919c-74939ad4510c",
+      "postedAt": "2026-11-09T19:44:00.000Z",
+      "updatedAt": "2026-11-09T19:44:00.000Z"
+    },
+    {
+      "id": "5be965a1-30a0-4b61-880e-2d8b2bed75d2",
+      "company": "General Dynamics Mission Systems",
+      "title": "Full-Stack Software Engineering Intern, Summer 2027",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487949042/",
+      "url": "https://trueinterview.io/jobs/5be965a1-30a0-4b61-880e-2d8b2bed75d2",
+      "postedAt": "2026-11-09T19:37:00.000Z",
+      "updatedAt": "2026-11-09T19:37:00.000Z"
+    },
+    {
+      "id": "a7992695-719d-4557-86ff-66e101842143",
+      "company": "Art Of Problem Solving",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "San Diego, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003",
+      "url": "https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143",
+      "postedAt": "2026-11-09T19:29:40.000Z",
+      "updatedAt": "2026-11-09T19:29:40.000Z"
+    },
+    {
+      "id": "6b478fa9-e255-4b87-9542-1d77adec0619",
+      "company": "New York Life",
+      "title": "2027 New York Life Direct Summer Internship Program - IBM i Developer",
+      "locations": [
+        "Tampa, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489109894/",
+      "url": "https://trueinterview.io/jobs/6b478fa9-e255-4b87-9542-1d77adec0619",
+      "postedAt": "2026-11-09T19:18:00.000Z",
+      "updatedAt": "2026-11-09T19:18:00.000Z"
+    },
     {
       "id": "2c387cce-2581-49ff-b172-f455eb3f4865",
       "company": "WebstaurantStore",
@@ -520,6 +695,33 @@
       "url": "https://trueinterview.io/jobs/7ef692fc-b093-4d18-951f-e8fedbb8c5fd",
       "postedAt": "2026-11-09T14:53:00.000Z",
       "updatedAt": "2026-11-09T14:53:00.000Z"
+    },
+    {
+      "id": "5f4699bc-7254-4405-ab53-7a8b937e7161",
+      "company": "Kensington",
+      "title": "BI/Data Analyst Intern",
+      "locations": [
+        "Toronto, ON, Canada"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/kensingtontours/jobs/5289223007",
+      "url": "https://trueinterview.io/jobs/5f4699bc-7254-4405-ab53-7a8b937e7161",
+      "postedAt": "2026-11-09T14:49:36.000Z",
+      "updatedAt": "2026-11-09T14:49:36.000Z"
     },
     {
       "id": "f0321e60-fd7b-4954-b3f6-88a48c693356",
@@ -1269,6 +1471,59 @@
       "url": "https://trueinterview.io/jobs/cf9cf5cd-17c2-4c06-af52-ae7a8049bcb9",
       "postedAt": "2026-11-09T00:06:00.000Z",
       "updatedAt": "2026-11-09T00:06:00.000Z"
+    },
+    {
+      "id": "e9369538-e035-4cb5-8223-84491b5065ef",
+      "company": "J.D. Irving, Limited",
+      "title": "Engineering Co-Op Student Summer 2027",
+      "locations": [
+        "Sussex, NB, Canada",
+        "Chipman, NB, Canada",
+        "Truro, NS, Canada",
+        "Saint John, NB, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13244",
+      "url": "https://trueinterview.io/jobs/e9369538-e035-4cb5-8223-84491b5065ef",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "updatedAt": "2026-11-09T00:00:00.000Z"
+    },
+    {
+      "id": "d65d478c-a6b9-4009-a2d4-fedf68cda51e",
+      "company": "J.D. Irving, Limited",
+      "title": "Production Norms Engineering Student/Co-op- Winter 2027",
+      "locations": [
+        "Halifax, NS, Canada"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13263",
+      "url": "https://trueinterview.io/jobs/d65d478c-a6b9-4009-a2d4-fedf68cda51e",
+      "postedAt": "2026-11-09T00:00:00.000Z",
+      "updatedAt": "2026-11-09T00:00:00.000Z"
     },
     {
       "id": "c8dfabaf-bfa3-406d-87a1-e5b8489af8c2",
@@ -52672,31 +52927,6 @@
       "url": "https://trueinterview.io/jobs/2c26d7d9-c090-405a-b912-271fd9d88339",
       "postedAt": "2026-10-28T16:36:00.000Z",
       "updatedAt": "2026-10-28T16:36:00.000Z"
-    },
-    {
-      "id": "d7f3498a-4435-4906-969a-24e60ea39a6b",
-      "company": "Elevated Web Design",
-      "title": "Product Software Engineering Internship",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484495243/",
-      "url": "https://trueinterview.io/jobs/d7f3498a-4435-4906-969a-24e60ea39a6b",
-      "postedAt": "2026-10-28T16:35:00.000Z",
-      "updatedAt": "2026-10-28T16:35:00.000Z"
     },
     {
       "id": "6b0611db-3293-4cdf-86bf-946f4721ec75",
