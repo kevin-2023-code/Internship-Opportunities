@@ -5,9 +5,117 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T00:12:01.007Z",
-  "count": 3493,
+  "listingsChangedAt": "2026-11-09T01:05:16.297Z",
+  "count": 3495,
   "listings": [
+    {
+      "id": "03458906-fa4a-443f-bb3b-d154e988a7a7",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, Finance Programs (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488814462/",
+      "url": "https://trueinterview.io/jobs/03458906-fa4a-443f-bb3b-d154e988a7a7",
+      "postedAt": "2026-11-09T00:25:00.000Z",
+      "updatedAt": "2026-11-09T00:25:00.000Z"
+    },
+    {
+      "id": "7c6b00a8-a766-4965-8d19-73f749662ad1",
+      "company": "Tesla",
+      "title": "Internship, SI Software Engineer, Core Infrastructure (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488815430/",
+      "url": "https://trueinterview.io/jobs/7c6b00a8-a766-4965-8d19-73f749662ad1",
+      "postedAt": "2026-11-09T00:24:00.000Z",
+      "updatedAt": "2026-11-09T00:24:00.000Z"
+    },
+    {
+      "id": "08ff9b17-24c8-463e-96d6-7d0d08dc70eb",
+      "company": "Tesla",
+      "title": "Internship, SoC Firmware Engineer, SI Hardware Infrastructure (Winter/Spring 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488801842/",
+      "url": "https://trueinterview.io/jobs/08ff9b17-24c8-463e-96d6-7d0d08dc70eb",
+      "postedAt": "2026-11-09T00:24:00.000Z",
+      "updatedAt": "2026-11-09T00:24:00.000Z"
+    },
+    {
+      "id": "cf9cf5cd-17c2-4c06-af52-ae7a8049bcb9",
+      "company": "Hoost",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488814382/",
+      "url": "https://trueinterview.io/jobs/cf9cf5cd-17c2-4c06-af52-ae7a8049bcb9",
+      "postedAt": "2026-11-09T00:06:00.000Z",
+      "updatedAt": "2026-11-09T00:06:00.000Z"
+    },
     {
       "id": "ac4a5170-5068-4a89-91ac-8574529b9260",
       "company": "Daice Labs",
@@ -22,7 +130,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -32,6 +140,31 @@
       "url": "https://trueinterview.io/jobs/ac4a5170-5068-4a89-91ac-8574529b9260",
       "postedAt": "2026-11-08T20:52:00.000Z",
       "updatedAt": "2026-11-08T20:52:00.000Z"
+    },
+    {
+      "id": "1c0fc4c2-f902-4148-a843-5e409e1fb481",
+      "company": "Visionary Solutions of Virginia",
+      "title": "AI Intern – Claude AI Specialist (Unpaid)",
+      "locations": [
+        "Vienna, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488811108/",
+      "url": "https://trueinterview.io/jobs/1c0fc4c2-f902-4148-a843-5e409e1fb481",
+      "postedAt": "2026-11-08T19:46:00.000Z",
+      "updatedAt": "2026-11-08T19:46:00.000Z"
     },
     {
       "id": "e7c4a409-b359-4708-8d71-0049759019b0",
@@ -46,9 +179,9 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Hardware & Engineering",
       "role": "AI Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -82,32 +215,6 @@
       "url": "https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332",
       "postedAt": "2026-11-08T18:57:00.000Z",
       "updatedAt": "2026-11-08T18:57:00.000Z"
-    },
-    {
-      "id": "5ebf3a23-8293-4404-baa1-22a19728177c",
-      "company": "NVIDIA",
-      "title": "Solution Architect Manager - Intern Program",
-      "locations": [
-        "Beijing, Beijing, China",
-        "Shanghai, Shanghai, China"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4444047126/",
-      "url": "https://trueinterview.io/jobs/5ebf3a23-8293-4404-baa1-22a19728177c",
-      "postedAt": "2026-11-08T17:34:00.000Z",
-      "updatedAt": "2026-11-08T18:34:00.000Z"
     },
     {
       "id": "03b6f2bf-d877-4bc2-99d1-93fff8499edf",
@@ -2529,33 +2636,6 @@
       "applyUrl": "https://www.click2apply.net/Lo1KLZC2DGpMdH16jcEVOE",
       "url": "https://trueinterview.io/jobs/e0af92f9-6cb3-4678-ab61-9c3e88687dce",
       "postedAt": "2026-11-07T00:19:00.000Z",
-      "updatedAt": "2026-11-07T06:00:00.000Z"
-    },
-    {
-      "id": "546b8a58-1480-4280-8b52-510da2ad2191",
-      "company": "Tesla",
-      "title": "Internship, Software Engineer, Inference Infrastructure (Summer 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.tesla.com/careers/search/job/289254",
-      "url": "https://trueinterview.io/jobs/546b8a58-1480-4280-8b52-510da2ad2191",
-      "postedAt": "2026-11-07T06:00:00.000Z",
       "updatedAt": "2026-11-07T06:00:00.000Z"
     },
     {
@@ -90799,31 +90879,6 @@
       "url": "https://trueinterview.io/jobs/1a3803db-5dc1-4259-82f0-e6c229d6659c",
       "postedAt": "2026-09-10T04:08:11.000Z",
       "updatedAt": "2026-09-10T04:08:11.000Z"
-    },
-    {
-      "id": "44a663b6-d806-4b52-81d7-11a986bd6616",
-      "company": "Epic Games",
-      "title": "UI Programmer Intern",
-      "locations": [
-        "Cary,North Carolina,United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004",
-      "url": "https://trueinterview.io/jobs/44a663b6-d806-4b52-81d7-11a986bd6616",
-      "postedAt": "2026-09-10T00:22:33.000Z",
-      "updatedAt": "2026-09-10T00:22:33.000Z"
     }
   ]
 }
