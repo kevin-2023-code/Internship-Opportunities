@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**180 open roles.** 119 in the United States & Canada · 61 elsewhere in the world.
+**181 open roles.** 120 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -330,6 +330,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09576142-5d53-4459-8764-89101f65600f">Co-op - Agentic AI Developer</a></td>
 <td>Durham, NC</td>
 <td align="center"><a href="https://careers.labcorp.com/global/en/job/2639201">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>WoodmenLife</strong></td>
+<td><a href="https://trueinterview.io/jobs/f058875b-5d1e-4f51-b465-4280b35963cd">2027 Summer AI Engineer Intern</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486013999/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

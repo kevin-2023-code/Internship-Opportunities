@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**181 open roles.**
+**183 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -183,6 +183,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/58bb31aa-9aaa-4a67-92e5-4aaf850f4122">Process Engineer Intern (Summer 2027)</a></td>
 <td>Irvine, California, United States<br/>Denver, Colorado, United States<br/>Raleigh, North Carolina, United States<br/>+2 more</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000159484249-process-engineer-intern-summer-2027-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vaccine Vets</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ee0529a-f3f7-453e-bdc1-0646b0e167a2">Software Engineering Intern (Japanese Speaking Preferred)</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486837055/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
@@ -1086,6 +1093,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/682ddad9-545d-49ad-b83f-dd99d7dd03d2">Manufacturing Engineering Intern, CNC Machining (Summer 2027)</a></td>
 <td>Los Angeles, CA (On-site)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8004101003">Apply</a></td>
+<td align="center">29 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Hermeus</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b6c289e-36b0-4471-8dd3-979a1a1c6f58">Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring &amp; Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
