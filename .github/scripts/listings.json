@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T03:06:15.749Z",
-  "count": 3496,
+  "listingsChangedAt": "2026-11-09T05:05:34.622Z",
+  "count": 3494,
   "listings": [
+    {
+      "id": "9782acc5-c6af-40ef-ac5d-d71e849819e3",
+      "company": "Bosch",
+      "title": "[BD] IT Product Business Analyst / Product Owner Assistant (6-month Internship)",
+      "locations": [
+        "Ho Chi Minh, Vietnam"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160528309--bd-it-product-business-analyst-product-owner-assistant-6-month-internship-",
+      "url": "https://trueinterview.io/jobs/9782acc5-c6af-40ef-ac5d-d71e849819e3",
+      "postedAt": "2026-11-09T02:45:11.000Z",
+      "updatedAt": "2026-11-09T02:45:11.000Z"
+    },
     {
       "id": "359b4f89-1c6a-4be4-a881-5ba7d433a578",
       "company": "GenPark",
@@ -56480,31 +56505,6 @@
       "updatedAt": "2026-10-28T01:40:00.000Z"
     },
     {
-      "id": "a4198136-e56d-4a86-9ef5-e46d4755ff5c",
-      "company": "Accorhotel",
-      "title": "Engineering Admin Intern",
-      "locations": [
-        "Makati City, Metro Manila, Philippines"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/AccorHotel/744000158185889-engineering-admin-intern",
-      "url": "https://trueinterview.io/jobs/a4198136-e56d-4a86-9ef5-e46d4755ff5c",
-      "postedAt": "2026-10-28T01:21:38.000Z",
-      "updatedAt": "2026-10-28T01:21:38.000Z"
-    },
-    {
       "id": "60c2e68f-2358-4ed1-9fe2-84c238066418",
       "company": "Graymatter Robotics",
       "title": "Robotics Engineering Intern: Systems & Applications - IMMEDIATE START",
@@ -90852,60 +90852,6 @@
       "url": "https://trueinterview.io/jobs/92eee58c-f22b-4b9e-9adf-8335b3531360",
       "postedAt": "2026-09-10T05:29:18.000Z",
       "updatedAt": "2026-09-10T05:29:18.000Z"
-    },
-    {
-      "id": "ef7d45fb-62c8-40d2-a23e-85a42128af9a",
-      "company": "Antares",
-      "title": "Mechanical Engineering Design Intern - Summer 2027",
-      "locations": [
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62",
-      "url": "https://trueinterview.io/jobs/ef7d45fb-62c8-40d2-a23e-85a42128af9a",
-      "postedAt": "2026-09-10T04:47:10.000Z",
-      "updatedAt": "2026-09-10T04:47:10.000Z"
-    },
-    {
-      "id": "1a3803db-5dc1-4259-82f0-e6c229d6659c",
-      "company": "Antares",
-      "title": "Electrical Engineering Intern - Summer 2027",
-      "locations": [
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d",
-      "url": "https://trueinterview.io/jobs/1a3803db-5dc1-4259-82f0-e6c229d6659c",
-      "postedAt": "2026-09-10T04:08:11.000Z",
-      "updatedAt": "2026-09-10T04:08:11.000Z"
     }
   ]
 }

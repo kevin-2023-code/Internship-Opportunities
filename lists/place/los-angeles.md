@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**183 open roles.**
+**181 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1282,20 +1282,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/92eee58c-f22b-4b9e-9adf-8335b3531360">Nuclear Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ef7d45fb-62c8-40d2-a23e-85a42128af9a">Mechanical Engineering Design Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1a3803db-5dc1-4259-82f0-e6c229d6659c">Electrical Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>

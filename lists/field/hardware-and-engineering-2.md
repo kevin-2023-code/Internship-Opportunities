@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**776 open roles.** 702 in the United States & Canada · 74 elsewhere in the world.
+**774 open roles.** 700 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2113,20 +2113,6 @@
 <td><a href="https://trueinterview.io/jobs/92eee58c-f22b-4b9e-9adf-8335b3531360">Nuclear Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Antares/e92ae489-1b1a-4616-a9c8-7c2390698af8">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ef7d45fb-62c8-40d2-a23e-85a42128af9a">Mechanical Engineering Design Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/9accca59-103b-4f54-978a-d5bb46bd9c62">Apply</a></td>
-<td align="center">10 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1a3803db-5dc1-4259-82f0-e6c229d6659c">Electrical Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d">Apply</a></td>
 <td align="center">10 Sep 2026</td>
 </tr>
 </tbody>
