@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**23 open roles.** 13 in the United States & Canada · 10 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**25 open roles.** 15 in the United States & Canada · 10 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/146e5e71-2294-422d-8162-3293bb08ee52">Robotics and Controls Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160747319-robotics-and-controls-engineering-intern">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bc5e5def-018a-4ea8-a264-b844963921c1">Electrical Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160746789-electrical-engineering-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/620d47ef-62ea-4c37-9dd9-8c961033a9d9">Product Development Engineering Intern</a></td>
 <td>Durham, North Carolina, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159519489-product-development-engineering-intern">Apply</a></td>

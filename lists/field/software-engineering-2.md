@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
+**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Draper</strong></td>
+<td><a href="https://trueinterview.io/jobs/615b795d-c10f-4e49-a4b2-e94b6b52a083">Digital Engineering – Requirements Engineering Co-Op (Spring 2027)</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GeoComply</strong></td>
 <td><a href="https://trueinterview.io/jobs/3df7bdd7-e13c-4e73-b51d-6b6b36b9c533">Forward Deployed Engineer Intern (FDE)</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/1e8f8e9f-887c-4825-9008-e924564c8b7d">5054 SSW Engineer Intern</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482535779/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Assurant</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2e41f42-4ba0-40ba-a510-885a8206ea93">Summer 2027 Intern: Software Engineering Intern</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545499/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

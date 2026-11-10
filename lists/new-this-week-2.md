@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**975 open roles.** 785 in the United States & Canada · 190 elsewhere in the world. Everything the employers put up this week.
+**976 open roles.** 787 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
+<td>Austin, TX<br/>Omaha, NE<br/>Scottsdale, AZ<br/>+2 more</td>
+<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922982818">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
+<td>San Francisco, CA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Interbiz Consulting</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0f10a87-2009-4182-ae2d-7e282e02820a">Software Engineer Intern</a></td>
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f7cf471-ed89-455e-b48c-c6619c22cee8">Internship in GenAI Knowledge Assistant for Engineering</a></td>
-<td>Wernau (Neckar), Baden-Württemberg, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160555829-internship-in-genai-knowledge-assistant-for-engineering">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9782acc5-c6af-40ef-ac5d-d71e849819e3">[BD] IT Product Business Analyst / Product Owner Assistant (6-month Internship)</a></td>
-<td>Ho Chi Minh, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160528309--bd-it-product-business-analyst-product-owner-assistant-6-month-internship-">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

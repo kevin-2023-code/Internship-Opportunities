@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
+**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -66,6 +66,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e9df295d-736d-4699-a9b4-f0048a57e5f1">Software Engineer Intern</a></td>
 <td>Livermore, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487970774/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/146e5e71-2294-422d-8162-3293bb08ee52">Robotics and Controls Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160747319-robotics-and-controls-engineering-intern">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/305782cc-b528-49a4-bac4-e6a0f6d58284">Engineering Co-op (Summer 2027)</a></td>
 <td>SeaTac, WA</td>
 <td align="center"><a href="https://corporatejobs-alaskaair.icims.com/jobs/21283/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Draper</strong></td>
-<td><a href="https://trueinterview.io/jobs/615b795d-c10f-4e49-a4b2-e94b6b52a083">Digital Engineering – Requirements Engineering Co-Op (Spring 2027)</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

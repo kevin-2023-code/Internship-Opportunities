@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**764 open roles.** 691 in the United States & Canada · 73 elsewhere in the world.
+**763 open roles.** 690 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1315,13 +1315,6 @@
 <td><a href="https://trueinterview.io/jobs/a3ab6cc0-8b89-4bff-acd5-65db65cb14a9">Structural Engineering Intern - Summer 2027</a></td>
 <td>Minneapolis, MN</td>
 <td align="center"><a href="https://jobs.lever.co/walkerconsultants/98112350-1724-4d50-a7c7-c020100d325b">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/820abae6-0094-4124-af8c-1247fff62940">Structural Engineer Internship - Summer 2027</a></td>
-<td>Portage, MI</td>
-<td align="center"><a href="https://jobs.lever.co/walkerconsultants/3a889a92-75ba-4206-953a-25952cfea869">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>

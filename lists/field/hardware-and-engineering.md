@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**764 open roles.** 691 in the United States & Canada · 73 elsewhere in the world.
+**763 open roles.** 690 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -25,6 +25,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487964318/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc5e5def-018a-4ea8-a264-b844963921c1">Electrical Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160746789-electrical-engineering-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Pivotal</strong></td>
@@ -1305,13 +1312,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/766b6b3c-0c4c-4173-8875-131b181623a0">Intern, Mechanical Engineer</a></td>
 <td>Rochester, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484960092/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Layup Parts</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4ae0c99-e7bf-4d51-9883-b84acaf1c563">Electrical Engineering Intern</a></td>
-<td>Huntington Beach, CA</td>
-<td align="center"><a href="https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

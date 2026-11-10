@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T03:05:58.140Z",
+  "listingsChangedAt": "2026-11-10T04:05:35.513Z",
   "count": 3507,
   "listings": [
     {
@@ -320,6 +320,60 @@
       "url": "https://trueinterview.io/jobs/e9df295d-736d-4699-a9b4-f0048a57e5f1",
       "postedAt": "2026-11-10T00:05:00.000Z",
       "updatedAt": "2026-11-10T00:05:00.000Z"
+    },
+    {
+      "id": "146e5e71-2294-422d-8162-3293bb08ee52",
+      "company": "Intuitive Surgical",
+      "title": "Robotics and Controls Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000160747319-robotics-and-controls-engineering-intern",
+      "url": "https://trueinterview.io/jobs/146e5e71-2294-422d-8162-3293bb08ee52",
+      "postedAt": "2026-11-10T00:02:15.000Z",
+      "updatedAt": "2026-11-10T00:02:15.000Z"
+    },
+    {
+      "id": "bc5e5def-018a-4ea8-a264-b844963921c1",
+      "company": "Intuitive Surgical",
+      "title": "Electrical Engineering Intern",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Intuitive/744000160746789-electrical-engineering-intern",
+      "url": "https://trueinterview.io/jobs/bc5e5def-018a-4ea8-a264-b844963921c1",
+      "postedAt": "2026-11-09T23:55:59.000Z",
+      "updatedAt": "2026-11-09T23:55:59.000Z"
     },
     {
       "id": "f413e9fc-a759-4018-865e-9b5d42f42dd0",
@@ -42803,31 +42857,6 @@
       "updatedAt": "2026-10-29T12:47:00.000Z"
     },
     {
-      "id": "a4ae0c99-e7bf-4d51-9883-b84acaf1c563",
-      "company": "Layup Parts",
-      "title": "Electrical Engineering Intern",
-      "locations": [
-        "Huntington Beach, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.lever.co/layup/0d8b26c2-f4f9-4dc1-b987-1e496fd616aa",
-      "url": "https://trueinterview.io/jobs/a4ae0c99-e7bf-4d51-9883-b84acaf1c563",
-      "postedAt": "2026-10-29T12:40:00.000Z",
-      "updatedAt": "2026-10-29T12:40:00.000Z"
-    },
-    {
       "id": "6cb8555e-ff7a-4ed9-af5f-fb45d46f726a",
       "company": "apexanalytix",
       "title": "Data Science Intern (Summer 2027)",
@@ -82533,31 +82562,6 @@
       "url": "https://trueinterview.io/jobs/a3ab6cc0-8b89-4bff-acd5-65db65cb14a9",
       "postedAt": "2026-09-24T13:05:22.000Z",
       "updatedAt": "2026-09-24T13:05:22.000Z"
-    },
-    {
-      "id": "820abae6-0094-4124-af8c-1247fff62940",
-      "company": "Walker Consultants",
-      "title": "Structural Engineer Internship - Summer 2027",
-      "locations": [
-        "Portage, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/walkerconsultants/3a889a92-75ba-4206-953a-25952cfea869",
-      "url": "https://trueinterview.io/jobs/820abae6-0094-4124-af8c-1247fff62940",
-      "postedAt": "2026-09-24T12:43:26.000Z",
-      "updatedAt": "2026-09-24T12:43:26.000Z"
     },
     {
       "id": "a95f398c-855c-4686-a95a-5b72087507be",

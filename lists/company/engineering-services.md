@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**50 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**49 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -274,13 +274,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a3ab6cc0-8b89-4bff-acd5-65db65cb14a9">Structural Engineering Intern - Summer 2027</a></td>
 <td>Minneapolis, MN</td>
 <td align="center"><a href="https://jobs.lever.co/walkerconsultants/98112350-1724-4d50-a7c7-c020100d325b">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/820abae6-0094-4124-af8c-1247fff62940">Structural Engineer Internship - Summer 2027</a></td>
-<td>Portage, MI</td>
-<td align="center"><a href="https://jobs.lever.co/walkerconsultants/3a889a92-75ba-4206-953a-25952cfea869">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 <tr>

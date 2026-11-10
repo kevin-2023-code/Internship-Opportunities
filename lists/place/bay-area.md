@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**506 open roles.**
+**508 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,6 +32,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Livermore, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487970774/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/146e5e71-2294-422d-8162-3293bb08ee52">Robotics and Controls Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160747319-robotics-and-controls-engineering-intern">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bc5e5def-018a-4ea8-a264-b844963921c1">Electrical Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160746789-electrical-engineering-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Pivotal</strong></td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
 <td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Muon Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/772fb6c9-4378-40ed-907a-2fde9eec2a8f">Environmental Test Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256286007">Apply</a></td>
-<td align="center">3 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d062b6fb-a456-436d-9f05-a3aa846e516f">Industrial Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256284007">Apply</a></td>
-<td align="center">3 Oct 2026</td>
 </tr>
 </tbody>
 </table>

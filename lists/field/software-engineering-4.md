@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
+**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mill</strong></td>
+<td><a href="https://trueinterview.io/jobs/61253945-4f0c-4566-be99-229288ad6dfd">Product Design Engineering Intern, Summer 2027</a></td>
+<td>San Bruno, California</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4737767005">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>O-I (Owens-Illinois)</strong></td>
 <td><a href="https://trueinterview.io/jobs/f726c8f4-221b-480f-bd6f-11b71980325c">Quality Leadership Development Program (Co-op Project Engineer) Spring 2027</a></td>
@@ -2819,13 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>United Kingdom</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018498">Apply</a></td>
 <td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Squarepoint</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9422e3e-146d-4b43-8857-1684d3833f28">Intern Software Developer - Warsaw 2027</a></td>
-<td>Warsaw</td>
-<td align="center"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8045124&amp;gh_jid=8045124">Apply</a></td>
-<td align="center">6 Oct 2026</td>
 </tr>
 </tbody>
 </table>

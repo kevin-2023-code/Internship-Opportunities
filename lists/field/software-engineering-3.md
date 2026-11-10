@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
+**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Assurant</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2e41f42-4ba0-40ba-a510-885a8206ea93">Summer 2027 Intern: Software Engineering Intern</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482545499/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Cargill</strong></td>
 <td><a href="https://trueinterview.io/jobs/e8433d86-41f4-4762-a03a-4946c6a53f0a">Software Engineer Intern Summer 2027 - Atlanta, GA</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/fe6c2921-364a-47fc-b29f-f5227a1767f3">Water Infrastructure Engineering Intern</a></td>
 <td>Canonsburg, PA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mill</strong></td>
-<td><a href="https://trueinterview.io/jobs/61253945-4f0c-4566-be99-229288ad6dfd">Product Design Engineering Intern, Summer 2027</a></td>
-<td>San Bruno, California</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/mill/jobs/4737767005">Apply</a></td>
 <td align="center">24 Sep 2026</td>
 </tr>
 </tbody>

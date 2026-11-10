@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**975 open roles.** 785 in the United States & Canada · 190 elsewhere in the world. Everything the employers put up this week.
+**976 open roles.** 787 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -102,6 +102,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Livermore, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487970774/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/146e5e71-2294-422d-8162-3293bb08ee52">Robotics and Controls Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160747319-robotics-and-controls-engineering-intern">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bc5e5def-018a-4ea8-a264-b844963921c1">Electrical Engineering Intern</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160746789-electrical-engineering-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Nokia</strong></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8d7a47df-d40b-4465-aaa0-5acf44330b22">Machine Learning Engineer Intern - Summer 2027</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922983149">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e32a5675-e4a6-423b-8933-7f69170a77bc">Mobile Engineer Intern - Summer 2027</a></td>
-<td>Austin, TX<br/>Omaha, NE<br/>Scottsdale, AZ<br/>+2 more</td>
-<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922982818">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bbd7ccf-a81f-4f2f-b912-140a6127300b">Research Scientist Intern, GenAI Safety (PhD)</a></td>
-<td>San Francisco, CA<br/>Menlo Park, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485581787/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>
