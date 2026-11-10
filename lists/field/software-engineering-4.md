@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,651 open roles.** 1,318 in the United States & Canada · 333 elsewhere in the world.
+**1,650 open roles.** 1,317 in the United States & Canada · 333 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/df5c648a-6b92-4f1d-9798-53837c06d044">Summer 2027 Engineering Internship, Electrical</a></td>
-<td>San Francisco, California, United States<br/>Huntington Beach, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420623009">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2c07422c-da3b-46b1-b769-b01c7c181883">Summer 2027 Engineering Internship, Aerospace</a></td>
 <td>Huntington Beach, California, United States<br/>Victorville, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420631009">Apply</a></td>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/c96b88d2-cc67-4f67-a609-8a222bddcdd2">Internship in Engineering Office (Brussels)</a></td>
 <td>Brussels, Brussels, Belgium</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BESIX/744000154634859-internship-in-engineering-office-brussels-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SGS</strong></td>
+<td><a href="https://trueinterview.io/jobs/35920d5d-f433-4f0e-86eb-868cdfa13786">Internship - Electrical &amp; Electronics Engineer</a></td>
+<td>Senai, Johor, Malaysia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SGS/744000154584549-internship-electrical-electronics-engineer">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
 </tbody>

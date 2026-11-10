@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**169 open roles.**
+**168 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1087,13 +1087,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd">Apply</a></td>
 <td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Gitai</strong></td>
-<td><a href="https://trueinterview.io/jobs/3652228e-5c2f-4869-8700-5253db3fc2e6">Field-Deployed Software Engineering Intern</a></td>
-<td>Los Angeles, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gitai/jobs/5437128008">Apply</a></td>
-<td align="center">28 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Marvell Technology</strong></td>

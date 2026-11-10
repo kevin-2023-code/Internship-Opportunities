@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T10:05:13.297Z",
-  "count": 3517,
+  "listingsChangedAt": "2026-11-10T11:04:52.046Z",
+  "count": 3514,
   "listings": [
     {
       "id": "58a17433-4bfa-4813-8173-1c898ac2a385",
@@ -28658,31 +28658,6 @@
       "url": "https://trueinterview.io/jobs/cf8ec45d-bf41-4a5d-9752-8353fe0af20d",
       "postedAt": "2026-10-31T12:44:50.000Z",
       "updatedAt": "2026-10-31T12:44:50.000Z"
-    },
-    {
-      "id": "7151348f-7748-40a3-bdd6-5573918d533e",
-      "company": "ByteDance",
-      "title": "Data Analyst Project Intern (Training & Quality) - 2026 Start (BS/MS)",
-      "locations": [
-        "Gurgaon, Haryana, India"
-      ],
-      "cities": [],
-      "countries": [
-        "India"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4477895308/",
-      "url": "https://trueinterview.io/jobs/7151348f-7748-40a3-bdd6-5573918d533e",
-      "postedAt": "2026-10-31T12:26:00.000Z",
-      "updatedAt": "2026-10-31T12:26:00.000Z"
     },
     {
       "id": "ca330bf6-264a-44d5-8c84-a7515e3f1064",
@@ -81592,34 +81567,6 @@
       "updatedAt": "2026-09-29T00:00:00.000Z"
     },
     {
-      "id": "3652228e-5c2f-4869-8700-5253db3fc2e6",
-      "company": "Gitai",
-      "title": "Field-Deployed Software Engineering Intern",
-      "locations": [
-        "Los Angeles, California, United States",
-        "Los Angeles"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/gitai/jobs/5437128008",
-      "url": "https://trueinterview.io/jobs/3652228e-5c2f-4869-8700-5253db3fc2e6",
-      "postedAt": "2026-09-28T23:38:42.000Z",
-      "updatedAt": "2026-09-28T23:38:42.000Z"
-    },
-    {
       "id": "3103bc83-c75d-45cc-b58e-edd946de7182",
       "company": "Lyft",
       "title": "Industrialization Engineer Intern (Summer 2027)",
@@ -91390,31 +91337,6 @@
       "url": "https://trueinterview.io/jobs/22cdf058-f833-4aa3-9263-69613365c675",
       "postedAt": "2026-09-11T13:11:35.000Z",
       "updatedAt": "2026-09-11T13:11:35.000Z"
-    },
-    {
-      "id": "58e46e7d-37e3-4c79-8338-a724289fce41",
-      "company": "Bybit",
-      "title": "AI Development Engineer Intern",
-      "locations": [
-        "Kuala Lumpur, Malaysia"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/4974271101",
-      "url": "https://trueinterview.io/jobs/58e46e7d-37e3-4c79-8338-a724289fce41",
-      "postedAt": "2026-09-11T10:59:06.000Z",
-      "updatedAt": "2026-09-11T10:59:06.000Z"
     }
   ]
 }
