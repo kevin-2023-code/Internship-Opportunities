@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T20:04:32.545Z",
-  "count": 3540,
+  "listingsChangedAt": "2026-11-10T21:04:31.402Z",
+  "count": 3534,
   "listings": [
     {
       "id": "73f8bb71-a7f6-4d93-a0f5-e5a8e9a67469",
@@ -37,6 +37,31 @@
       "updatedAt": "2026-11-10T19:41:04.000Z"
     },
     {
+      "id": "a60410b1-912a-4ef7-8a9e-00c351b97de5",
+      "company": "WEP Clinical",
+      "title": "IT Intern - AI & Transformation",
+      "locations": [
+        "Morrisville, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488622066/",
+      "url": "https://trueinterview.io/jobs/a60410b1-912a-4ef7-8a9e-00c351b97de5",
+      "postedAt": "2026-11-10T19:41:04.000Z",
+      "updatedAt": "2026-11-10T19:41:04.000Z"
+    },
+    {
       "id": "c8e457c5-d4c2-424d-bfaa-c14945727753",
       "company": "Carlisle Construction Materials",
       "title": "AI & Data Science Intern",
@@ -49,7 +74,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Data Scientist",
       "seniority": "intern",
       "level": "newgrad",
@@ -60,6 +85,31 @@
       "url": "https://trueinterview.io/jobs/c8e457c5-d4c2-424d-bfaa-c14945727753",
       "postedAt": "2026-11-10T19:40:00.000Z",
       "updatedAt": "2026-11-10T19:40:00.000Z"
+    },
+    {
+      "id": "1500e61f-ae17-427c-8107-959f1152fbce",
+      "company": "DP World",
+      "title": "AI & Analytics (Talent Management) Intern",
+      "locations": [
+        "Charlotte, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489621534/",
+      "url": "https://trueinterview.io/jobs/1500e61f-ae17-427c-8107-959f1152fbce",
+      "postedAt": "2026-11-10T19:36:00.000Z",
+      "updatedAt": "2026-11-10T19:36:00.000Z"
     },
     {
       "id": "3e55d2f8-7735-4163-8f37-e7f30ef34ea3",
@@ -101,7 +151,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "AI Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -174,7 +224,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -201,7 +251,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -212,31 +262,6 @@
       "url": "https://trueinterview.io/jobs/06c55e6b-58c6-4440-a9bd-c52d3284ae5c",
       "postedAt": "2026-11-10T18:54:00.000Z",
       "updatedAt": "2026-11-10T18:54:00.000Z"
-    },
-    {
-      "id": "f6173898-8f51-4958-9379-9460ab97a90f",
-      "company": "Boehringer Ingelheim",
-      "title": "Scientific Software Engineering Co-Op - Computational Chemistry & Spectroscopy",
-      "locations": [
-        "Ridgefield, CT"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4473025833/",
-      "url": "https://trueinterview.io/jobs/f6173898-8f51-4958-9379-9460ab97a90f",
-      "postedAt": "2026-11-10T18:45:00.000Z",
-      "updatedAt": "2026-11-10T18:45:00.000Z"
     },
     {
       "id": "1dec7df6-0fd8-4a1e-b256-cd231fc27508",
@@ -81561,6 +81586,31 @@
       "updatedAt": "2026-09-30T16:07:24.000Z"
     },
     {
+      "id": "00ed6d20-86b3-490b-be03-37cefb342e56",
+      "company": "INFICON",
+      "title": "Industrial Engineering Co-Op/Intern",
+      "locations": [
+        "East Syracuse, New York, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/INFICON2/744000152696493-industrial-engineering-co-op-intern",
+      "url": "https://trueinterview.io/jobs/00ed6d20-86b3-490b-be03-37cefb342e56",
+      "postedAt": "2026-09-30T14:10:11.000Z",
+      "updatedAt": "2026-09-30T14:10:11.000Z"
+    },
+    {
       "id": "b7557d25-be50-4cf7-8928-93c1240d958b",
       "company": "Wellmark Blue Cross and Blue Shield",
       "title": "Software Engineer Internship – Metadata Enablement Team",
@@ -91773,203 +91823,6 @@
       "url": "https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b",
       "postedAt": "2026-09-11T21:37:01.000Z",
       "updatedAt": "2026-09-11T21:37:01.000Z"
-    },
-    {
-      "id": "e67613ae-0fec-4ff7-81ba-e50e31f37181",
-      "company": "Trexo Robotics",
-      "title": "Design and Test Intern / Co-op Winter 2027",
-      "locations": [
-        "Mississauga"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/trexo%20robotics/45f6f5aa-02a9-40c7-9e5c-4fcbd93a575e/application",
-      "url": "https://trueinterview.io/jobs/e67613ae-0fec-4ff7-81ba-e50e31f37181",
-      "postedAt": "2026-09-11T20:48:31.000Z",
-      "updatedAt": "2026-09-11T20:48:31.000Z"
-    },
-    {
-      "id": "92159811-3be1-4b22-a052-726754c9a172",
-      "company": "Trexo Robotics",
-      "title": "Forward Deployed Engineering Intern / Co-op Winter 2027",
-      "locations": [
-        "Mississauga"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/trexo%20robotics/9504015b-bd4b-415c-8cf4-70015b84f873/application",
-      "url": "https://trueinterview.io/jobs/92159811-3be1-4b22-a052-726754c9a172",
-      "postedAt": "2026-09-11T20:44:36.000Z",
-      "updatedAt": "2026-09-11T20:44:36.000Z"
-    },
-    {
-      "id": "43a04e7c-20cc-40ee-9d73-1d857fe9659b",
-      "company": "Trexo Robotics",
-      "title": "Mechatronics Intern / Co-op Winter 2027",
-      "locations": [
-        "Mississauga"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/trexo%20robotics/b9bd8b65-a668-42c3-8cf4-9450f91ad342/application",
-      "url": "https://trueinterview.io/jobs/43a04e7c-20cc-40ee-9d73-1d857fe9659b",
-      "postedAt": "2026-09-11T20:39:38.000Z",
-      "updatedAt": "2026-09-11T20:39:38.000Z"
-    },
-    {
-      "id": "05b166f8-1a3b-44b1-820d-5dbdfec96310",
-      "company": "Trexo Robotics",
-      "title": "Robotics Software Developer Intern / Co-op Winter 2027",
-      "locations": [
-        "Mississauga"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/trexo%20robotics/9edbdb01-5d2e-4252-a0fc-bf1b6606f83f/application",
-      "url": "https://trueinterview.io/jobs/05b166f8-1a3b-44b1-820d-5dbdfec96310",
-      "postedAt": "2026-09-11T20:34:19.000Z",
-      "updatedAt": "2026-09-11T20:34:19.000Z"
-    },
-    {
-      "id": "9035d284-0b4b-44cd-a32b-9f654522ed69",
-      "company": "Xcimer Energy",
-      "title": "Summer 2027 Internship - Optical Engineering",
-      "locations": [
-        "Denver, CO"
-      ],
-      "cities": [
-        "Denver, CO"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/xcimer/89ffbeda-ebea-4539-9676-c6441751b95a",
-      "url": "https://trueinterview.io/jobs/9035d284-0b4b-44cd-a32b-9f654522ed69",
-      "postedAt": "2026-09-11T20:18:13.000Z",
-      "updatedAt": "2026-09-11T20:18:13.000Z"
-    },
-    {
-      "id": "99960763-f37b-4778-9a8a-400feacc602f",
-      "company": "Xcimer Energy",
-      "title": "Summer 2027 Internship - Mechanical Engineering",
-      "locations": [
-        "Denver, CO"
-      ],
-      "cities": [
-        "Denver, CO"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
-      "url": "https://trueinterview.io/jobs/99960763-f37b-4778-9a8a-400feacc602f",
-      "postedAt": "2026-09-11T20:07:58.000Z",
-      "updatedAt": "2026-09-11T20:07:58.000Z"
-    },
-    {
-      "id": "a0717371-567a-45ba-beba-49c52901e054",
-      "company": "Arista Networks",
-      "title": "Intern Software Engineer - C/C++",
-      "locations": [
-        "Poland - Remote, , Poland",
-        "Poland - Remote, Poland"
-      ],
-      "cities": [],
-      "countries": [
-        "Poland"
-      ],
-      "remote": "remote",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159-intern-software-engineer-c-c-?oga=true",
-      "url": "https://trueinterview.io/jobs/a0717371-567a-45ba-beba-49c52901e054",
-      "postedAt": "2026-09-11T20:06:57.000Z",
-      "updatedAt": "2026-09-11T20:06:57.000Z"
-    },
-    {
-      "id": "9987c402-084f-4b10-9197-d9b216630a03",
-      "company": "Nex",
-      "title": "Summer 2027 | Software Engineer Intern - Game Development (Creative & Party)",
-      "locations": [
-        "Hong Kong"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/nex/jobs/5420003008",
-      "url": "https://trueinterview.io/jobs/9987c402-084f-4b10-9197-d9b216630a03",
-      "postedAt": "2026-09-11T20:05:08.000Z",
-      "updatedAt": "2026-09-11T20:05:08.000Z"
     }
   ]
 }
