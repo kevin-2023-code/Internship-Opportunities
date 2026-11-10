@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**84 open roles.** 69 in the United States & Canada · 15 elsewhere in the world.
+**83 open roles.** 69 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -609,13 +609,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Zürich, Switzerland</td>
 <td align="center"><a href="https://www.amazon.jobs/jobs/10581054/applied-scientist-intern?cmpid=DA_INAD200785B">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PA Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/721c030f-e5d6-47ff-943a-b4f6e5d55f89">2027 Summer Internship - Applied Scientist - Cambridge</a></td>
-<td>Melbourn, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000155679795-2027-summer-internship-applied-scientist-cambridge">Apply</a></td>
-<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🥐 Montréal & Québec
 
-**20 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Canada Mortgage and Housing Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fab870d6-ecb0-4fab-93f8-32377e4630e6">Summer 2027 Internship - Junior Developer</a></td>
+<td>Montreal, QC<br/>Ottawa, ON</td>
+<td align="center"><a href="https://career17.sapsf.com/career?career_ns=job_listing&amp;company=cmhcschl&amp;rcm_site_locale=en_US&amp;career_job_req_id=12647">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Mistral</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f25862a-b95d-4031-b9f4-155bb12b0878">AI Scientist Intern - (Internship, Masters or Phd)</a></td>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**454 open roles.** 358 in the United States & Canada · 96 elsewhere in the world.
+**457 open roles.** 360 in the United States & Canada · 97 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pigment</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc7f6e04-e5eb-4e0b-bca0-97665f8b7775">Internship - Software Engineer (Back, Fullstack)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/pigment/d29b429b-81a5-43f1-abe3-344b8defea7a">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/aad1e859-6876-488f-a19d-fc40aa283595">2027 Software Dev Engineer Intern - Haifa, Israel</a></td>
+<td>Haifa, Haifa District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485222436/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/62b25e18-c444-44c6-9973-b3b1d87b7047">2027 Software Dev Engineer Intern - Tel-Aviv, Israel</a></td>
+<td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223435/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mission Technologies, a division of HII</strong></td>
 <td><a href="https://trueinterview.io/jobs/22230259-1272-4c54-8873-ae13e81a70da">Software Engineer (SkillBridge Intern) - 23875</a></td>

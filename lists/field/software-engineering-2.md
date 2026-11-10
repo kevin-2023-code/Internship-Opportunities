@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,646 open roles.** 1,312 in the United States & Canada · 334 elsewhere in the world.
+**1,654 open roles.** 1,317 in the United States & Canada · 337 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Avista</strong></td>
+<td><a href="https://trueinterview.io/jobs/30743f30-ada5-4071-b66a-a9574d8c5ec6">Enterprise Technology Intern (Computer Science, Cybersecurity, Information Systems/MIS, Data Analytics/Data Science Majors)</a></td>
+<td>Spokane, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486433237/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Technology Solutions Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/0176f815-0393-48f2-8584-1e625876947f">Software Engineering Intern or Co-Op</a></td>
+<td>Chantilly, Virginia, United States</td>
+<td align="center"><a href="https://talent.mtsi-va.com/careers/job/1133916569242-software-engineering-intern-or-co-op-chantilly-va">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GM Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ed3e36f-8ed8-4a2c-97bb-a5624853f085">Intern - Oracle Application Developer</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b10caa2b-1dc2-4b35-9eb3-311345ff4359">Intern - Cybersecurity</a></td>
+<td>Arlington, TX<br/>Irving, TX</td>
+<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260805">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
+<td><a href="https://trueinterview.io/jobs/5557acc9-a6e8-403d-bf6d-337b4776321b">Agentic Software Engineering Intern</a></td>
+<td>Durham, North Carolina, United States<br/>Frisco, Texas, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5279504007">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/42087e14-1b5a-4af7-b030-fc293ced00d5">Software Engineering Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde">Confluent - Software Developer - Intern Conversion</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484374568/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>RoboNex 88 Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineer Interns</a></td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/778fbede-1a4d-40fe-983a-216be70b12f0">Engineering Co-op</a></td>
 <td>Johnson City, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484723375/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sargent &amp; Lundy</strong></td>
-<td><a href="https://trueinterview.io/jobs/13fb5b74-60ab-47a6-a9fb-c47d973656c6">Instrumentation &amp; Controls Engineering Intern - Nuclear (Summer 2027)</a></td>
-<td>Charlotte, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457153654/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>BAE Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/1af9b2f8-ab66-4d89-9512-3e7f75fddbb3">System Engineer Intern, Summer 2027</a></td>
-<td>Rockville, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473705593/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cddfcfe-c2c4-4daf-a9f9-8d91c3486903">Product Engineering Internship, Electronics Hardware Design (Fall 2026)</a></td>
-<td>Burlington, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457452995/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Charter Casting</strong></td>
-<td><a href="https://trueinterview.io/jobs/61f57e7f-3f94-4443-b6c7-6eb5f5b2cd3e">Casting Engineer Intern (Summer 2027)</a></td>
-<td>Shawano, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538810/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hatch</strong></td>
-<td><a href="https://trueinterview.io/jobs/f81d9bba-844f-464c-a7dc-68c037815635">Thermal Power Engineering Intern</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466150137/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mission Technologies, a division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/dabffe09-4cfd-47ea-aa98-51c6e20c30b1">Systems Test Engineer (SkillBridge Intern) - 26005</a></td>
-<td>Albuquerque, NM</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439904005/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Oak Ridge Institute for Science and Education</strong></td>
-<td><a href="https://trueinterview.io/jobs/c5fc1545-96d2-4122-b979-40b53f3b1df2">Summer 2027 AFIT Engineering and Physics Research Internship</a></td>
-<td>Ohio, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715810/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

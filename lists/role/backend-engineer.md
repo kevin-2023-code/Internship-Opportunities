@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world.
+**14 open roles.** 12 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,6 +113,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dept</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cbf82da-ce6a-4fd8-928c-1b32436bd58b">Intern Backend Developer</a></td>
+<td>Amsterdam, Rotterdam</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8364817">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Equativ</strong></td>
 <td><a href="https://trueinterview.io/jobs/6bec8a15-bb11-4fde-9b1b-cb54c3442247">Backend Engineer Intern (6 months starting February 2027)</a></td>

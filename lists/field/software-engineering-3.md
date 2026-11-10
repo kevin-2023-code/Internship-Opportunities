@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,646 open roles.** 1,312 in the United States & Canada · 334 elsewhere in the world.
+**1,654 open roles.** 1,317 in the United States & Canada · 337 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sargent &amp; Lundy</strong></td>
+<td><a href="https://trueinterview.io/jobs/13fb5b74-60ab-47a6-a9fb-c47d973656c6">Instrumentation &amp; Controls Engineering Intern - Nuclear (Summer 2027)</a></td>
+<td>Charlotte, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457153654/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1af9b2f8-ab66-4d89-9512-3e7f75fddbb3">System Engineer Intern, Summer 2027</a></td>
+<td>Rockville, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473705593/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cadence</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cddfcfe-c2c4-4daf-a9f9-8d91c3486903">Product Engineering Internship, Electronics Hardware Design (Fall 2026)</a></td>
+<td>Burlington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4457452995/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Charter Casting</strong></td>
+<td><a href="https://trueinterview.io/jobs/61f57e7f-3f94-4443-b6c7-6eb5f5b2cd3e">Casting Engineer Intern (Summer 2027)</a></td>
+<td>Shawano, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482538810/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hatch</strong></td>
+<td><a href="https://trueinterview.io/jobs/f81d9bba-844f-464c-a7dc-68c037815635">Thermal Power Engineering Intern</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466150137/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/dabffe09-4cfd-47ea-aa98-51c6e20c30b1">Systems Test Engineer (SkillBridge Intern) - 26005</a></td>
+<td>Albuquerque, NM</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439904005/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Oak Ridge Institute for Science and Education</strong></td>
+<td><a href="https://trueinterview.io/jobs/c5fc1545-96d2-4122-b979-40b53f3b1df2">Summer 2027 AFIT Engineering and Physics Research Internship</a></td>
+<td>Ohio, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484715810/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Oceaneering</strong></td>
 <td><a href="https://trueinterview.io/jobs/245d079d-7733-4d1b-896b-3f37c3b6a759">IMR System Design Engineering Intern</a></td>
@@ -2765,55 +2814,6 @@
 <td>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
 <td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a9586c8-68b7-461a-91c5-dc4d57fb993b">Image and Data Processing Libraries Intern</a></td>
-<td>Warsaw, Masovian Voivodeship, PL<br/>Berlin, Berlin, DE<br/>Zürich, ZH, CH</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397913168">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ac8caa1-c1f5-4fff-af6d-67b4d6fc7208">Software Engineer Internship – Marketing and Digital Team</a></td>
-<td>Des Moines, Iowa, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000152260188-software-engineer-internship-marketing-and-digital-team">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keenfinity</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe8a8f95-5c34-4d47-b419-14138b6a3cd4">Software Engineering Intern</a></td>
-<td>Lincoln, Nebraska, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000152241469-software-engineering-intern">Apply</a></td>
-<td align="center">28 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Quera Computing, Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b4f9e1d-a543-4859-a21b-2f6b6141db82">Internship - Scientific Software and Compilation</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008">Apply</a></td>
-<td align="center">27 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/93c9233a-557d-49f1-b07b-a014b9b7a43a">Summer 2027 Engineering Internship, Mechanical</a></td>
-<td>San Francisco, California, United States<br/>Huntington Beach, California, United States<br/>San Luis Obispo, California, United States<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420611009">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/df5c648a-6b92-4f1d-9798-53837c06d044">Summer 2027 Engineering Internship, Electrical</a></td>
-<td>San Francisco, California, United States<br/>Huntington Beach, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420623009">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2c07422c-da3b-46b1-b769-b01c7c181883">Summer 2027 Engineering Internship, Aerospace</a></td>
-<td>Huntington Beach, California, United States<br/>Victorville, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420631009">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

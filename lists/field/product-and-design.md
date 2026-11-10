@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**225 open roles.** 163 in the United States & Canada · 62 elsewhere in the world.
+**224 open roles.** 162 in the United States & Canada · 62 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1149,13 +1149,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ccc3c8c5-4d61-49de-86bb-4dd25080db83">UX Research Intern (Summer 2027)</a></td>
 <td>Toronto, ON<br/>Toronto, Canada<br/>Toronto Office</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797069002?gh_jid=8797069002">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fortune Brands Innovations</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaae746b-536a-4742-bbba-de00e6959715">Product Management Intern, B2B Security</a></td>
-<td>Deerfield, ILLINOIS, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098-product-management-intern-b2b-security">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

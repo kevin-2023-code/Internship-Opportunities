@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**56 open roles.**
+**55 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -401,13 +401,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Chicago, IL</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4975945101">Apply</a></td>
 <td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Fortune Brands Innovations</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaae746b-536a-4742-bbba-de00e6959715">Product Management Intern, B2B Security</a></td>
-<td>Deerfield, ILLINOIS, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098-product-management-intern-b2b-security">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

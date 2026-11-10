@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**766 open roles.** 692 in the United States & Canada · 74 elsewhere in the world.
+**765 open roles.** 692 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2490,13 +2490,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Parvomay, BULGARIA, Bulgaria</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer">Apply</a></td>
 <td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PA Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/5757b461-376f-4a05-87a3-25966f09b92d">2027 Summer Internship - Mechanical Engineer - Cambridge</a></td>
-<td>Melbourn, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000155777369-2027-summer-internship-mechanical-engineer-cambridge">Apply</a></td>
-<td align="center">15 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>

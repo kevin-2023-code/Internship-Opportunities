@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**69 open roles.** 54 in the United States & Canada · 15 elsewhere in the world.
+**70 open roles.** 55 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazing Intimate Essentials</strong></td>
+<td><a href="https://trueinterview.io/jobs/6270c7a8-d1f9-4b7f-a9a3-11ed04f41e68">IT Support Internship</a></td>
+<td>44 Bedson Road, Cranston, RI, 02910, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4653003?listingId=750990b2-63de-4bdb-a2f7-bd6ffd1ab613">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IMMI</strong></td>
 <td><a href="https://trueinterview.io/jobs/27bcd0dc-8ea8-43fd-a098-995b8f2c1d46">2027 Summer IT Help Desk Intern</a></td>
