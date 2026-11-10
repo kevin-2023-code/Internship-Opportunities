@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,652 open roles.** 1,318 in the United States & Canada · 334 elsewhere in the world.
+**1,653 open roles.** 1,319 in the United States & Canada · 334 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde">Confluent - Software Developer - Intern Conversion</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484374568/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>RoboNex 88 Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c0cc9ee-f01e-410c-adca-4fe0b27035c8">Software Engineer Interns</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/f81d9bba-844f-464c-a7dc-68c037815635">Thermal Power Engineering Intern</a></td>
 <td>Tampa, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466150137/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mission Technologies, a division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/dabffe09-4cfd-47ea-aa98-51c6e20c30b1">Systems Test Engineer (SkillBridge Intern) - 26005</a></td>
-<td>Albuquerque, NM</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439904005/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**109 open roles.** 72 in the United States & Canada · 37 elsewhere in the world.
+**108 open roles.** 71 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -512,13 +512,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aaae746b-536a-4742-bbba-de00e6959715">Product Management Intern, B2B Security</a></td>
 <td>Deerfield, ILLINOIS, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098-product-management-intern-b2b-security">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Consolidated Asset Management Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/22cdf058-f833-4aa3-9263-69613365c675">APM Predictive Analytics Engineer Intern</a></td>
-<td>Houston, Texas</td>
-<td align="center"><a href="https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

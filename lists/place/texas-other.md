@@ -2,7 +2,7 @@
 
 # 🛢️ Houston, San Antonio & the rest of Texas
 
-**38 open roles.**
+**37 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -275,13 +275,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Antonio, TX</td>
 <td align="center"><a href="https://jobs.lever.co/researchinnovations.com/b1bd956a-e3b8-4ce2-adf0-07b10c2eddee/apply">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Consolidated Asset Management Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/22cdf058-f833-4aa3-9263-69613365c675">APM Predictive Analytics Engineer Intern</a></td>
-<td>Houston, Texas</td>
-<td align="center"><a href="https://jobs.lever.co/camstex/b4aac4f1-7f7e-4851-948b-bb61a30bc4d9">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

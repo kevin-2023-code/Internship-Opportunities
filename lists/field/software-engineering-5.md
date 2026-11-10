@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,652 open roles.** 1,318 in the United States & Canada · 334 elsewhere in the world.
+**1,653 open roles.** 1,319 in the United States & Canada · 334 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Six Construct</strong></td>
+<td><a href="https://trueinterview.io/jobs/18967f13-f4e5-49c4-8ce6-4a43b4706e66">Internship Technical Office Engineer / Site Superintendent (Belgium)</a></td>
+<td>Brussels, Brussels, Belgium</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BESIX/744000154633156-internship-technical-office-engineer-site-superintendent-belgium-">Apply</a></td>
+<td align="center">9 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c96b88d2-cc67-4f67-a609-8a222bddcdd2">Internship in Engineering Office (Brussels)</a></td>
 <td>Brussels, Brussels, Belgium</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BESIX/744000154634859-internship-in-engineering-office-brussels-">Apply</a></td>

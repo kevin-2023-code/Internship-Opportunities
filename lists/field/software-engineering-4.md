@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,652 open roles.** 1,318 in the United States & Canada · 334 elsewhere in the world.
+**1,653 open roles.** 1,319 in the United States & Canada · 334 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Mach Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/93c9233a-557d-49f1-b07b-a014b9b7a43a">Summer 2027 Engineering Internship, Mechanical</a></td>
+<td>San Francisco, California, United States<br/>Huntington Beach, California, United States<br/>San Luis Obispo, California, United States<br/>+1 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420611009">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/df5c648a-6b92-4f1d-9798-53837c06d044">Summer 2027 Engineering Internship, Electrical</a></td>
 <td>San Francisco, California, United States<br/>Huntington Beach, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420623009">Apply</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cd853433-b6c0-41f2-b2e3-36dc85d4e74c">Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M</a></td>
 <td>Levallois-Perret, Île-de-France, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154698564-internship-fullstack-cloud-developer-ai-agent-platform-sap-build-experience-f-m">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Six Construct</strong></td>
-<td><a href="https://trueinterview.io/jobs/18967f13-f4e5-49c4-8ce6-4a43b4706e66">Internship Technical Office Engineer / Site Superintendent (Belgium)</a></td>
-<td>Brussels, Brussels, Belgium</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BESIX/744000154633156-internship-technical-office-engineer-site-superintendent-belgium-">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
 </tbody>

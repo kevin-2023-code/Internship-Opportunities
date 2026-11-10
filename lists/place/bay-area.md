@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**507 open roles.**
+**508 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Charta Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37da5e1-6b82-4f2c-84bd-19c1ac890cdb">Software Engineer (FDE / Platform) - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465251704/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Maxinsights</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a></td>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
 <td align="center">4 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Muon Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/772fb6c9-4378-40ed-907a-2fde9eec2a8f">Environmental Test Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA<br/>Muon San Jose</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256286007">Apply</a></td>
-<td align="center">3 Oct 2026</td>
 </tr>
 </tbody>
 </table>

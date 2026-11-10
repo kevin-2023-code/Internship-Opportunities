@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**766 open roles.** 692 in the United States & Canada · 74 elsewhere in the world.
+**765 open roles.** 691 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2050,13 +2050,6 @@
 <td><a href="https://trueinterview.io/jobs/99960763-f37b-4778-9a8a-400feacc602f">Summer 2027 Internship - Mechanical Engineering</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/4bedc35b-cf11-4d5a-b61f-632aceb149fc">Structural Engineer Intern (Summer 2027)</a></td>
-<td>Raleigh, North Carolina, United States<br/>St. Louis, Missouri, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000149031199-structural-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8">Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern</a></td>
+<td>Raleigh, US, North Carolina<br/>Raleigh-Durham-Chapel Hill Area</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
 <td>Cary, North Carolina, United States<br/>Cary, NC</td>
@@ -373,13 +380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, NC, Durham<br/>US, MA, Wilmington, United States of America<br/>US, CA, San Jose, Rio Robles</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Applications-Intern_R266140">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/4bedc35b-cf11-4d5a-b61f-632aceb149fc">Structural Engineer Intern (Summer 2027)</a></td>
-<td>Raleigh, North Carolina, United States<br/>St. Louis, Missouri, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000149031199-structural-engineer-intern-summer-2027-">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

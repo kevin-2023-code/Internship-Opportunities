@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**952 open roles.** 787 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**949 open roles.** 785 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Campbell's Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d4a778e-3bc9-4808-b88d-9c5ec948e238">Data Engineer - Operational Support (Co-op)</a></td>
+<td>Camden, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428143266/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8">Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern</a></td>
+<td>Raleigh-Durham-Chapel Hill Area<br/>Raleigh, US, North Carolina</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Charta Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37da5e1-6b82-4f2c-84bd-19c1ac890cdb">Software Engineer (FDE / Platform) - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465251704/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Medpace</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ed3df03-6aae-4ce7-92bc-9518b9be711d">AI Engineering Intern - Summer 2027</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/99827b50-1d8f-4cf1-b584-9ceafbeb220f">Embedded Engineering Summer Intern 2027</a></td>
 <td>Towson, MD</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462083235/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Waymo</strong></td>
-<td><a href="https://trueinterview.io/jobs/e427cc25-6ca1-4497-ae7f-0c159b5749a8">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469605654/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Businessolver</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b3d6d3b-ff17-4a8f-9d89-6e2a8ed06f02">Business Intelligence Analyst Internship - Innovation &amp; Data Science (Remote)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479558700/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/e866c7de-0ac4-40ff-8b38-3b5bbfe5d429">2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479702745/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

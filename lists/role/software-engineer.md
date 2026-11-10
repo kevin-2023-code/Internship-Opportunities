@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**454 open roles.** 358 in the United States & Canada · 96 elsewhere in the world.
+**455 open roles.** 359 in the United States & Canada · 96 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Charta Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37da5e1-6b82-4f2c-84bd-19c1ac890cdb">Software Engineer (FDE / Platform) - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465251704/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GE Vernova</strong></td>
 <td><a href="https://trueinterview.io/jobs/21d65bd0-c808-46c2-8444-5837aaf3f384">GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027</a></td>
@@ -2822,13 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/aad1e859-6876-488f-a19d-fc40aa283595">2027 Software Dev Engineer Intern - Haifa, Israel</a></td>
 <td>Haifa, Haifa District, Israel</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485222436/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/62b25e18-c444-44c6-9973-b3b1d87b7047">2027 Software Dev Engineer Intern - Tel-Aviv, Israel</a></td>
-<td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223435/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

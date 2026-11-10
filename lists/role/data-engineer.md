@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**67 open roles.** 58 in the United States & Canada · 9 elsewhere in the world.
+**68 open roles.** 59 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Campbell's Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d4a778e-3bc9-4808-b88d-9c5ec948e238">Data Engineer - Operational Support (Co-op)</a></td>
+<td>Camden, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428143266/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tonic.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d">Forward Deployed Engineer, Data De-Identification (Co-op)</a></td>

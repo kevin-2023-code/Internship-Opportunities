@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**952 open roles.** 787 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**949 open roles.** 785 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/e427cc25-6ca1-4497-ae7f-0c159b5749a8">2027 Summer Intern, MS/PhD, Software Engineer</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469605654/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Businessolver</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b3d6d3b-ff17-4a8f-9d89-6e2a8ed06f02">Business Intelligence Analyst Internship - Innovation &amp; Data Science (Remote)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479558700/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/e866c7de-0ac4-40ff-8b38-3b5bbfe5d429">2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479702745/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Omya</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a82a2f7-3228-4521-b6a9-edb0ad0b98ae">Data Scientist Spring Co-Op 2027</a></td>
@@ -2689,41 +2710,6 @@
 <td align="center"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/45288">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Re:build Manufacturing</strong></td>
-<td><a href="https://trueinterview.io/jobs/fa29ba41-2c31-4e7d-8f9d-0f68a3e116f3">Summer Intern Mechanical Engineer</a></td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4748466005">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bank of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19">Global Technology Summer Analyst 2027 - Cybersecurity Analyst</a></td>
-<td>Denver Metropolitan Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477268212/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ParetoHealth</strong></td>
-<td><a href="https://trueinterview.io/jobs/85ad408f-5d29-4c89-9b7f-945474c75df3">Product Manager Summer Intern</a></td>
-<td>Greater Philadelphia<br/>Philadelphia, Pennsylvania, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c982ef27-4484-4ac5-9796-a2e3636fd3b0">Software Engineering Summer Intern</a></td>
-<td>Greater Philadelphia<br/>Philadelphia, Pennsylvania, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/779e53ab-66d7-4922-bcb2-62c2cde09f46">Civil Engineering Transit Intern</a></td>
-<td>Chicago, Illinois, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159130421-civil-engineering-transit-intern">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2736,13 +2722,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8">Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern</a></td>
-<td>Raleigh-Durham-Chapel Hill Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487489081/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ee1dad-9e85-4794-b09f-a51f3aea0e1c">FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork</a></td>
@@ -2825,6 +2804,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/bdf89f78-9255-4f21-b2e8-2947410d5a46">Robotics - Applied Scientist II Intern / Co-op - 2027 (Robotics, Perception, Manipulation, Locomotion, Planning, HRI and more), Amazon Development Center Taiwan</a></td>
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488862402/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/831a0b75-a875-4b25-88c5-72e1b367b1a9">Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)</a></td>
+<td>Aveiro, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UNIVERSAL PHOENIX GROUP LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e46f7d9-f27b-406f-a60f-c092ffcb7de1">UX/UI Game Dev (Unity) Internship</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=272776831ae58ae8">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**77 open roles.** 59 in the United States & Canada · 18 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**77 open roles.** 60 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8">Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern</a></td>
+<td>Raleigh-Durham-Chapel Hill Area<br/>Raleigh, US, North Carolina</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Microsoft</strong></td>
 <td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
@@ -442,13 +449,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8">Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern</a></td>
-<td>Raleigh-Durham-Chapel Hill Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487489081/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>SAP</strong></td>
 <td><a href="https://trueinterview.io/jobs/001c7801-95d2-4f32-aa69-f1cf1755cb91">iXP Intern Developer Security</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,652 open roles.** 1,318 in the United States & Canada · 334 elsewhere in the world.
+**1,653 open roles.** 1,319 in the United States & Canada · 334 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/dabffe09-4cfd-47ea-aa98-51c6e20c30b1">Systems Test Engineer (SkillBridge Intern) - 26005</a></td>
+<td>Albuquerque, NM</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439904005/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Oak Ridge Institute for Science and Education</strong></td>
 <td><a href="https://trueinterview.io/jobs/c5fc1545-96d2-4122-b979-40b53f3b1df2">Summer 2027 AFIT Engineering and Physics Research Internship</a></td>
@@ -2807,13 +2814,6 @@
 <td>Boston, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5435902008">Apply</a></td>
 <td align="center">27 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/93c9233a-557d-49f1-b07b-a014b9b7a43a">Summer 2027 Engineering Internship, Mechanical</a></td>
-<td>San Francisco, California, United States<br/>Huntington Beach, California, United States<br/>San Luis Obispo, California, United States<br/>+1 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420611009">Apply</a></td>
-<td align="center">25 Sep 2026</td>
 </tr>
 </tbody>
 </table>

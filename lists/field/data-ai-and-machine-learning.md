@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**708 open roles.** 525 in the United States & Canada · 183 elsewhere in the world.
+**709 open roles.** 527 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Campbell's Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/6d4a778e-3bc9-4808-b88d-9c5ec948e238">Data Engineer - Operational Support (Co-op)</a></td>
+<td>Camden, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4428143266/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Celonis</strong></td>
+<td><a href="https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8">Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern</a></td>
+<td>Raleigh-Durham-Chapel Hill Area<br/>Raleigh, US, North Carolina</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/8198760003?gh_jid=8198760003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Medpace</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ed3df03-6aae-4ce7-92bc-9518b9be711d">AI Engineering Intern - Summer 2027</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6714a10e-83e8-4a67-af9e-b00a2c5e53a8">2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://jpmorganchase.contacthr.com/154044752">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Precision CastParts</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c2a9531-24d2-4fbd-9e89-0f2ec715f5c5">AI Developer Co-op/Internship (January 2027)</a></td>
-<td>Portland, OR</td>
-<td align="center"><a href="https://pcctalentacquisitionportal.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/candidate/so/pm/1/pl/3/opp/24814-AI-Developer-Co-op-Internship-January-2027/en-GB">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorgan</strong></td>
-<td><a href="https://trueinterview.io/jobs/c3a3938f-25da-46a3-8ed0-45cf39463565">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
-<td>Palo Alto, CA<br/>New York, NY, United States<br/>Seattle, WA, United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

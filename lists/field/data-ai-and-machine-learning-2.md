@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**708 open roles.** 525 in the United States & Canada · 183 elsewhere in the world.
+**709 open roles.** 527 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Precision CastParts</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c2a9531-24d2-4fbd-9e89-0f2ec715f5c5">AI Developer Co-op/Internship (January 2027)</a></td>
+<td>Portland, OR</td>
+<td align="center"><a href="https://pcctalentacquisitionportal.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-7/candidate/so/pm/1/pl/3/opp/24814-AI-Developer-Co-op-Internship-January-2027/en-GB">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JPMorgan</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3a3938f-25da-46a3-8ed0-45cf39463565">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
+<td>Palo Alto, CA<br/>New York, NY, United States<br/>Seattle, WA, United States</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>JPMorgan Chase</strong></td>
 <td><a href="https://trueinterview.io/jobs/7e106626-6a64-4ce9-a401-4cbf8c392ab0">2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate</a></td>
@@ -902,13 +916,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Celonis</strong></td>
-<td><a href="https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8">Summernaut Program - AI &amp; Management Consulting (Value Engineering) Summer Intern</a></td>
-<td>Raleigh-Durham-Chapel Hill Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487489081/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>

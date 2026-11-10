@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**507 open roles.**
+**508 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/772fb6c9-4378-40ed-907a-2fde9eec2a8f">Environmental Test Engineering Intern (Summer 2027)</a></td>
+<td>San Jose, CA<br/>Muon San Jose</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256286007">Apply</a></td>
+<td align="center">3 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d062b6fb-a456-436d-9f05-a3aa846e516f">Industrial Engineering Intern (Summer 2027)</a></td>
 <td>San Jose, CA<br/>Muon San Jose</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256284007">Apply</a></td>

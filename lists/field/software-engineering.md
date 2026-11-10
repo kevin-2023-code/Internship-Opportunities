@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,652 open roles.** 1,318 in the United States & Canada · 334 elsewhere in the world.
+**1,653 open roles.** 1,319 in the United States & Canada · 334 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Charta Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/a37da5e1-6b82-4f2c-84bd-19c1ac890cdb">Software Engineer (FDE / Platform) - Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465251704/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Collins Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/68976ed3-347d-4fe3-a4c0-f6542b840377">2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/42087e14-1b5a-4af7-b030-fc293ced00d5">Software Engineering Intern</a></td>
 <td>Durham, North Carolina, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274361007">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/27ecf393-8619-4761-917f-bb9c166f0fde">Confluent - Software Developer - Intern Conversion</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484374568/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>
