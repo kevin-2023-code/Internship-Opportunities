@@ -16,6 +16,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>O-I (Owens-Illinois)</strong></td>
+<td><a href="https://trueinterview.io/jobs/f726c8f4-221b-480f-bd6f-11b71980325c">Quality Leadership Development Program (Co-op Project Engineer) Spring 2027</a></td>
+<td>Perrysburg, Ohio, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000151472489-quality-leadership-development-program-co-op-project-engineer-spring-2027">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ae94b7d4-8930-4f7b-b49d-5d99e2a500eb">Quality Leadership Development Program (Co-op Project Engineer) – Fall 2027</a></td>
+<td>Perrysburg, Ohio, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000151472169-quality-leadership-development-program-co-op-project-engineer-fall-2027">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Keenfinity</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf105919-49b9-4b03-a2b4-d84edd8a49a4">Electrical Test Engineering Co-Op</a></td>
 <td>Fairport, New York, United States</td>
@@ -48,13 +62,6 @@
 <td><a href="https://trueinterview.io/jobs/4a181cf8-cde4-4463-9376-d3c5d129c4ab">Engineering Intern – Braid Design</a></td>
 <td>603 Hendee Street, Springfield, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151383182-engineering-intern-braid-design">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ebeb7a82-e5a3-4dcb-bf99-ed9474c4cd08">Process Utilities Engineer Intern (Summer 2027)</a></td>
-<td>Denver, Colorado, United States<br/>Kalamazoo, Michigan, United States<br/>Irvine, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CRB/744000151361159-process-utilities-engineer-intern-summer-2027-">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -755,13 +762,6 @@
 <td><a href="https://trueinterview.io/jobs/b9a29b7c-4639-414c-9906-e48b4b091083">Software Developer Intern - Summer 2027 (DV Equities)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4733138005">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce8b8ae1-8f59-4291-ac76-a775700a5f90">Software Engineer Internship – User Experience Team</a></td>
-<td>Des Moines, Iowa, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000148915793-software-engineer-internship-user-experience-team-">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
