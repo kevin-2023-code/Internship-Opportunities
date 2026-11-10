@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T18:04:44.011Z",
-  "count": 3519,
+  "listingsChangedAt": "2026-11-10T19:04:25.363Z",
+  "count": 3528,
   "listings": [
     {
       "id": "d361efdc-66c6-40af-a6ec-7aeba934bafc",
@@ -113,6 +113,33 @@
       "updatedAt": "2026-11-10T16:22:00.000Z"
     },
     {
+      "id": "79995646-039c-4539-8a9d-b4e06845da40",
+      "company": "Addepar",
+      "title": "Portfolio Data Analyst Intern - Summer 2027",
+      "locations": [
+        "Edinburgh, UK"
+      ],
+      "cities": [
+        "Edinburgh"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910310002",
+      "url": "https://trueinterview.io/jobs/79995646-039c-4539-8a9d-b4e06845da40",
+      "postedAt": "2026-11-10T16:20:31.000Z",
+      "updatedAt": "2026-11-10T16:20:31.000Z"
+    },
+    {
       "id": "4b5bd7a2-443c-4914-9b39-9e77e382c9b8",
       "company": "Indiana Farm Bureau Insurance",
       "title": "Software Engineering Intern - Summer 2027",
@@ -136,6 +163,90 @@
       "url": "https://trueinterview.io/jobs/4b5bd7a2-443c-4914-9b39-9e77e382c9b8",
       "postedAt": "2026-11-10T16:20:00.000Z",
       "updatedAt": "2026-11-10T16:20:00.000Z"
+    },
+    {
+      "id": "3cbe4a5a-d104-447e-8c59-8d19e19b5341",
+      "company": "Addepar",
+      "title": "Data Engineering Intern - Summer 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8910327002",
+      "url": "https://trueinterview.io/jobs/3cbe4a5a-d104-447e-8c59-8d19e19b5341",
+      "postedAt": "2026-11-10T16:19:57.000Z",
+      "updatedAt": "2026-11-10T16:19:57.000Z"
+    },
+    {
+      "id": "73f8bb71-a7f6-4d93-a0f5-e5a8e9a67469",
+      "company": "Addepar",
+      "title": "AI Engineering Intern - Summer 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
+      "url": "https://trueinterview.io/jobs/73f8bb71-a7f6-4d93-a0f5-e5a8e9a67469",
+      "postedAt": "2026-11-10T16:18:09.000Z",
+      "updatedAt": "2026-11-10T16:18:09.000Z"
+    },
+    {
+      "id": "2f3b6040-2afe-425a-b4e8-d22d7510d928",
+      "company": "Addepar",
+      "title": "Software Engineering Intern - Summer 2027",
+      "locations": [
+        "Edinburgh, UK",
+        "New York, NY"
+      ],
+      "cities": [
+        "Edinburgh",
+        "New York, NY"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8927507002",
+      "url": "https://trueinterview.io/jobs/2f3b6040-2afe-425a-b4e8-d22d7510d928",
+      "postedAt": "2026-11-10T16:16:17.000Z",
+      "updatedAt": "2026-11-10T16:17:30.000Z"
     },
     {
       "id": "7f41c1b6-27d0-4021-84f4-22ce277cfad3",
@@ -392,6 +503,31 @@
       "url": "https://trueinterview.io/jobs/84fd02a6-307e-4209-9def-43f825f9d3f2",
       "postedAt": "2026-11-10T14:58:00.000Z",
       "updatedAt": "2026-11-10T14:58:00.000Z"
+    },
+    {
+      "id": "e506924e-a792-41f7-a2bb-251fb20cb48d",
+      "company": "Veolia",
+      "title": "Manufacturing Software Engineer Intern",
+      "locations": [
+        "Boulder, Colorado, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184-manufacturing-software-engineer-intern",
+      "url": "https://trueinterview.io/jobs/e506924e-a792-41f7-a2bb-251fb20cb48d",
+      "postedAt": "2026-11-10T14:54:24.000Z",
+      "updatedAt": "2026-11-10T14:54:24.000Z"
     },
     {
       "id": "c6663aa6-fd60-4ee0-9aaa-3ea3befa0c91",
@@ -700,6 +836,64 @@
       "updatedAt": "2026-11-10T14:19:00.000Z"
     },
     {
+      "id": "92352a63-2f29-4490-823b-fa28175cec87",
+      "company": "TomTom",
+      "title": "IT Support Internship",
+      "locations": [
+        "Lodz, Poland",
+        "United States of America",
+        "Amsterdam, The Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Poland",
+        "United States",
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/tomtom/19ea12a7-08c6-4776-b564-48fdbb287d52",
+      "url": "https://trueinterview.io/jobs/92352a63-2f29-4490-823b-fa28175cec87",
+      "postedAt": "2026-11-10T13:50:23.000Z",
+      "updatedAt": "2026-11-10T13:50:23.000Z"
+    },
+    {
+      "id": "abdac93c-5301-4620-a06f-f8703fca3082",
+      "company": "TomTom",
+      "title": "Junior Data Analyst Intern",
+      "locations": [
+        "Amsterdam, The Netherlands"
+      ],
+      "cities": [
+        "Amsterdam"
+      ],
+      "countries": [
+        "Netherlands"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.eu.lever.co/tomtom/31ce35a3-24d5-4733-9227-6ff6463bca95",
+      "url": "https://trueinterview.io/jobs/abdac93c-5301-4620-a06f-f8703fca3082",
+      "postedAt": "2026-11-10T13:37:09.000Z",
+      "updatedAt": "2026-11-10T13:37:09.000Z"
+    },
+    {
       "id": "29483ff2-ec26-482f-ad3c-c2c2fc997d85",
       "company": "Artmac",
       "title": "Computer Vision Engineering Intern",
@@ -931,6 +1125,31 @@
       "updatedAt": "2026-11-10T11:25:00.000Z"
     },
     {
+      "id": "df7a380c-d159-4cf8-9a1b-af26ebac5d8a",
+      "company": "SAP Taulia",
+      "title": "AI Center of Excellence (COE) Intern",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487482122/",
+      "url": "https://trueinterview.io/jobs/df7a380c-d159-4cf8-9a1b-af26ebac5d8a",
+      "postedAt": "2026-11-10T11:19:00.000Z",
+      "updatedAt": "2026-11-10T11:19:00.000Z"
+    },
+    {
       "id": "68976ed3-347d-4fe3-a4c0-f6542b840377",
       "company": "Collins Aerospace",
       "title": "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
@@ -942,9 +1161,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -954,6 +1173,33 @@
       "url": "https://trueinterview.io/jobs/68976ed3-347d-4fe3-a4c0-f6542b840377",
       "postedAt": "2026-11-10T11:13:00.000Z",
       "updatedAt": "2026-11-10T11:13:00.000Z"
+    },
+    {
+      "id": "5f4f7d69-624b-419c-8dd1-6801076e81be",
+      "company": "GlobalFoundries",
+      "title": "CPU IP Design & Verification Intern – RISC-V Processor Development (Summer 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488309438/",
+      "url": "https://trueinterview.io/jobs/5f4f7d69-624b-419c-8dd1-6801076e81be",
+      "postedAt": "2026-11-10T11:11:00.000Z",
+      "updatedAt": "2026-11-10T11:11:00.000Z"
     },
     {
       "id": "e9198bd3-b508-44a7-be9b-fdd8872a691f",
@@ -971,7 +1217,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -996,7 +1242,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Analyst",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -11783,7 +12029,8 @@
       "company": "Lumbermen's",
       "title": "Software Developer Internship",
       "locations": [
-        "Grand Rapids, Michigan, United States"
+        "Grand Rapids, Michigan, United States",
+        "Grand Rapids, MI"
       ],
       "cities": [],
       "countries": [
@@ -21293,60 +21540,6 @@
       "updatedAt": "2026-11-03T16:00:00.000Z"
     },
     {
-      "id": "5a683981-3d58-4f74-b797-75489e017fe4",
-      "company": "TomTom",
-      "title": "Software Engineering Intern - Internal Developer Platform",
-      "locations": [
-        "Amsterdam, The Netherlands"
-      ],
-      "cities": [
-        "Amsterdam"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.eu.lever.co/tomtom/98fe57a5-9662-4f81-aa87-66aa2d701e9f",
-      "url": "https://trueinterview.io/jobs/5a683981-3d58-4f74-b797-75489e017fe4",
-      "postedAt": "2026-11-03T15:46:53.000Z",
-      "updatedAt": "2026-11-03T15:46:53.000Z"
-    },
-    {
-      "id": "d8c2ea66-0a05-4d9d-ba0d-74c5c59de61e",
-      "company": "TomTom",
-      "title": "Software Engineering Intern - AI Platform Excellence",
-      "locations": [
-        "Amsterdam, The Netherlands"
-      ],
-      "cities": [
-        "Amsterdam"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.eu.lever.co/tomtom/e904f279-7e52-4603-9bc6-2cac59e70f4a",
-      "url": "https://trueinterview.io/jobs/d8c2ea66-0a05-4d9d-ba0d-74c5c59de61e",
-      "postedAt": "2026-11-03T15:43:59.000Z",
-      "updatedAt": "2026-11-03T15:43:59.000Z"
-    },
-    {
       "id": "3e28bcb8-e43a-4f40-a8cf-26e185206782",
       "company": "Marketeq Media Inc.",
       "title": "AI Software Engineering Intern (U.S.A Only)",
@@ -22155,31 +22348,6 @@
       "url": "https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609",
       "postedAt": "2026-11-03T10:20:48.000Z",
       "updatedAt": "2026-11-03T10:20:48.000Z"
-    },
-    {
-      "id": "6d8c991b-e561-4096-9803-612fdc419778",
-      "company": "TomTom",
-      "title": "Software Engineering Intern – Genesis Platform",
-      "locations": [
-        "Lodz, Poland"
-      ],
-      "cities": [],
-      "countries": [
-        "Poland"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.eu.lever.co/tomtom/eaef3342-2fa8-4fcf-9583-fc14764efcfa",
-      "url": "https://trueinterview.io/jobs/6d8c991b-e561-4096-9803-612fdc419778",
-      "postedAt": "2026-11-03T09:53:10.000Z",
-      "updatedAt": "2026-11-03T09:53:10.000Z"
     },
     {
       "id": "2a3473db-36ad-4f6d-8b34-14a2eede6ff6",
@@ -23260,6 +23428,34 @@
       "url": "https://trueinterview.io/jobs/697f8cc8-69d7-4fc0-9af0-a2ae07c5c6da",
       "postedAt": "2026-11-03T05:11:00.000Z",
       "updatedAt": "2026-11-03T05:11:00.000Z"
+    },
+    {
+      "id": "247f28d0-f85e-437c-af11-5f229b26640f",
+      "company": "Aurora Innovation",
+      "title": "Safety & Systems Engineering Intern",
+      "locations": [
+        "Mountain View, CA",
+        "Pittsburgh, PA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+      "url": "https://trueinterview.io/jobs/247f28d0-f85e-437c-af11-5f229b26640f",
+      "postedAt": "2026-11-03T04:45:44.000Z",
+      "updatedAt": "2026-11-03T04:45:44.000Z"
     },
     {
       "id": "9bf0b95b-4818-4a1a-bede-4f2dd6140654",
@@ -26071,33 +26267,6 @@
       "url": "https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b",
       "postedAt": "2026-11-02T09:15:15.000Z",
       "updatedAt": "2026-11-02T09:15:15.000Z"
-    },
-    {
-      "id": "bb9fe611-9836-42d2-abaa-8b5932f0cf73",
-      "company": "SIA",
-      "title": "Final year internship - Marketing Data Scientist",
-      "locations": [
-        "Paris, Île-de-France, France"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Sia/744000159069834-final-year-internship-marketing-data-scientist",
-      "url": "https://trueinterview.io/jobs/bb9fe611-9836-42d2-abaa-8b5932f0cf73",
-      "postedAt": "2026-11-02T08:21:52.000Z",
-      "updatedAt": "2026-11-02T08:21:52.000Z"
     },
     {
       "id": "a0223064-7a5c-403c-a07d-702c27f339f4",
@@ -84647,6 +84816,31 @@
       "updatedAt": "2026-09-22T08:48:00.000Z"
     },
     {
+      "id": "8c1cbede-631a-41ac-a66b-c3cfec575681",
+      "company": "Formlabs",
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "locations": [
+        "Somerville, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://careers.formlabs.com/job/8199928/apply/?gh_jid=8199928",
+      "url": "https://trueinterview.io/jobs/8c1cbede-631a-41ac-a66b-c3cfec575681",
+      "postedAt": "2026-09-22T02:32:49.000Z",
+      "updatedAt": "2026-09-22T02:32:49.000Z"
+    },
+    {
       "id": "b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22",
       "company": "Coinbase",
       "title": "Internal Audit Analytics Intern",
@@ -90350,6 +90544,56 @@
       "url": "https://trueinterview.io/jobs/800834b3-d216-41d1-9d86-2b4a6991a35c",
       "postedAt": "2026-09-14T03:34:40.000Z",
       "updatedAt": "2026-09-14T03:34:40.000Z"
+    },
+    {
+      "id": "cad9f687-bb1a-4819-b631-f54bd501e6cb",
+      "company": "Formlabs",
+      "title": "Electrical Engineering Intern (Summer 2027)",
+      "locations": [
+        "Somerville, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://careers.formlabs.com/job/8148251/apply/?gh_jid=8148251",
+      "url": "https://trueinterview.io/jobs/cad9f687-bb1a-4819-b631-f54bd501e6cb",
+      "postedAt": "2026-09-14T02:44:41.000Z",
+      "updatedAt": "2026-09-14T02:44:41.000Z"
+    },
+    {
+      "id": "2f1bcaf1-8995-49c6-bd40-0516526ab0ec",
+      "company": "Formlabs",
+      "title": "Hardware R&D Engineering Intern (Summer 2027)",
+      "locations": [
+        "Somerville, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394",
+      "url": "https://trueinterview.io/jobs/2f1bcaf1-8995-49c6-bd40-0516526ab0ec",
+      "postedAt": "2026-09-14T02:44:21.000Z",
+      "updatedAt": "2026-09-14T02:44:21.000Z"
     },
     {
       "id": "370c86bb-2f76-4685-8466-f3a2ed02476a",

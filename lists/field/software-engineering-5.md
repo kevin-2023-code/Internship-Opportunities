@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,656 open roles.** 1,319 in the United States & Canada · 337 elsewhere in the world.
+**1,658 open roles.** 1,323 in the United States & Canada · 335 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Doctolib</strong></td>
+<td><a href="https://trueinterview.io/jobs/63af327d-f42b-42a1-a8de-7a1cfe98217c">Software Engineer Intern - Fullstack (x/f/m) - Milano</a></td>
+<td>Milan</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/doctolib/19f389f4-1374-4c61-ae03-aae839f65bf4">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/196351f1-1097-4d6f-8573-a32ecc2b388f">Software Engineering Intern - Fullstack (x/f/m) - Niort</a></td>
+<td>Niort</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/doctolib/0ec84e52-5047-440c-9a67-e0d0898c9783">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/3cabe319-92a1-4348-8ebf-3369ec944472">Software Engineering intern - Fullstack (x/f/m) - Nantes</a></td>
 <td>Nantes</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/doctolib/b651081d-d5eb-4ffb-93e0-643b81bcfa1f">Apply</a></td>
