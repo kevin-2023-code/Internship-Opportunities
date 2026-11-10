@@ -16,6 +16,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Commonwealth Fusion Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/f980d360-aa3a-4543-9c03-c38c6e59b04d">Intern - Nuclear Engineer - Summer 2027</a></td>
+<td>Devens, MA</td>
+<td align="center"><a href="https://jobs.lever.co/cfsenergy/1be023ee-0351-4d09-acca-f56180d06463">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/90d3c059-5a17-4782-b205-04d8a22ebe6e">Quality &amp; Reliability Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1147882961149284/">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sharkninja</strong></td>
 <td><a href="https://trueinterview.io/jobs/2204f862-b2cd-467d-aa4d-86b8db2e9a25">Spring 2027: Noise &amp; Vibrations Engineering Co-op (January to June)</a></td>
 <td>Needham, MA, United States, MA - Needham</td>
@@ -2092,20 +2106,6 @@
 <td><a href="https://trueinterview.io/jobs/c67a1562-ef16-4d77-8301-a87e23be10a8">Silicon Packaging Engineer - Intern &amp; New Grad</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5422712008?gh_jid=5422712008">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/4401c58c-a7a5-4002-a1d6-377429b2456b">Controls Engineering Intern – Summer 2027</a></td>
-<td>Milwaukee, WI, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8d601ced-5c68-439d-af52-6152b7beb54c">Geological Engineering Intern - Summer 2027</a></td>
-<td>Lakewood, CO, United States<br/>Saint Louis, MO, United States<br/>Tucson, AZ, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95132">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

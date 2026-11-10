@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**460 open roles.** 370 in the United States & Canada · 90 elsewhere in the world.
+**468 open roles.** 377 in the United States & Canada · 91 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7">Middleware Software Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Echo Global Logistics</strong></td>
+<td><a href="https://trueinterview.io/jobs/54a2008e-7fdf-43fc-bbdc-9eedd43b763d">Software Engineering Intern- Chicago</a></td>
+<td>Illinois, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488612266/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ed38ddc-0a23-4372-9960-bc7d239657fd">Software Engineer (Security) - Intern (Winter 2027)</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480489820/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia | North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c200b98-ea86-40c8-84e2-038804c5acd9">Manufacturing Software Engineer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488603012/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Clonin</strong></td>
 <td><a href="https://trueinterview.io/jobs/c16f4276-cced-4b51-981a-3e9be84cd06d">Software Engineer Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489413080/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EngRadar</strong></td>
+<td><a href="https://trueinterview.io/jobs/05346854-b87d-44ac-b404-08b69570a6d0">Manufacturing Software Engineer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489601749/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c230ac6-42e1-4e8f-81b1-b82ec97ee25a">Part time Software Engineer Co-op (Remote)</a></td>
+<td>Aurora, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481593754/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -143,6 +185,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bcf88a23-6db7-478c-8863-a41d1029abc6">Software Engineer Intern</a></td>
 <td>Lake Oswego, OR</td>
 <td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/00c7a437-e466-4987-b838-313a400d7332">Embedded Software Engineer Intern</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://jobs.keysight.com/jobs/55093/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2622,6 +2671,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Rakuten Kobo Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7">Software Developer Intern (Dublin)</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464093033/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/4b5015be-c94b-493f-b719-6231d1e04947">SAP iXP Intern Developer in Cloud Lifecycle Engeneering</a></td>
 <td>Sofia, Bulgaria</td>
@@ -2774,62 +2830,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Brno, South Moravia, Czechia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485008083/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Digital Industries Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/f80ddcc8-2424-4228-b95b-21d2364ded19">Numerical Software Engineer Intern: Strategic Student Program</a></td>
-<td>Cambridge, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477589801/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nexthink</strong></td>
-<td><a href="https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756">Java Software Engineer (Intern)</a></td>
-<td>Madrid, Spain<br/>Madrid, Comunidad de Madrid, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Nexthink/744000159356655-java-software-engineer-intern-">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>INVIDI Technologies Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/dcc2e434-09fa-4f13-a47a-908bbe19123a">#2026-D-0052 Software Developer Intern</a></td>
-<td>India</td>
-<td align="center"><a href="https://invidi.bamboohr.com/careers/895?postedDate=2026-11-03">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gameloft</strong></td>
-<td><a href="https://trueinterview.io/jobs/7813bba2-82ad-4053-8c6f-7199daab9068">Unreal Developer Intern</a></td>
-<td>Yogyakarta, Special Region of Yogyakarta, Indonesia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Gameloft/744000159297799-unreal-developer-intern">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/8a5af410-2051-4d90-ba27-8b9a0daebd54">Software Engineer II, Co-op and Marketplaces</a></td>
-<td>Zurich, Zurich, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477988532/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Finbox</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c60cfc0-a1d6-401a-9ec7-e88b5fa13839">Intern - Software Engineer</a></td>
-<td>India</td>
-<td align="center"><a href="https://jobs.reczee.com/finbox/kJKi9/apply?_src=Indeed">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bank of America</strong></td>
-<td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
-<td>Greater Phoenix Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477258436/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arm</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af">Software Engineer Intern</a></td>
-<td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476868480/">Apply</a></td>
-<td align="center">1 Nov 2026</td>
 </tr>
 </tbody>
 </table>

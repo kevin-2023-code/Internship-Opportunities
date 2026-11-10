@@ -2,7 +2,7 @@
 
 # 🏔️ Denver, Boulder & Colorado
 
-**63 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Veolia | North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/5c200b98-ea86-40c8-84e2-038804c5acd9">Manufacturing Software Engineer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488603012/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>EngRadar</strong></td>
+<td><a href="https://trueinterview.io/jobs/05346854-b87d-44ac-b404-08b69570a6d0">Manufacturing Software Engineer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489601749/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/6c230ac6-42e1-4e8f-81b1-b82ec97ee25a">Part time Software Engineer Co-op (Remote)</a></td>
+<td>Aurora, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481593754/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Veolia | Water Tech</strong></td>
 <td><a href="https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b">Manufacturing Software Engineer Intern</a></td>

@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**122 open roles.** 103 in the United States & Canada · 19 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**123 open roles.** 104 in the United States & Canada · 19 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ed38ddc-0a23-4372-9960-bc7d239657fd">Software Engineer (Security) - Intern (Winter 2027)</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480489820/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lyft</strong></td>
 <td><a href="https://trueinterview.io/jobs/d361efdc-66c6-40af-a6ec-7aeba934bafc">Applied Scientist Intern, PhD (Summer 2027)</a></td>

@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**154 open roles.**
+**155 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/600e4f9e-ed18-4b81-8b27-f6f5b3c7a0cf">WB Games Product Management Co-op: Needham, MA - January-May 2027</a></td>
 <td>Needham, MA</td>
 <td align="center"><a href="https://careers.wbd.com/pl/pl/job/WAMEGLOBALR000109850EXTERNALPLPL/WB-Games-Product-Management-Co-op-Needham-MA-January-May-2027">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/09a0682e-4c10-4ee2-84b1-d2d324357bde">WB Games Software Engineering Co-op: Needham, MA - January-May 2027</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://careers.wbd.com/jp/ja/job/WAMEGLOBALR000109901EXTERNALJAJP/WB-Games-Software-Engineering-Co-op-Needham-MA-January-May-2027">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

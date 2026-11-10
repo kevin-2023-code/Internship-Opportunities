@@ -2,7 +2,7 @@
 
 # 📐 Engineering & architecture firms
 
-**49 open roles.** Civil, structural and environmental engineering and AEC consultancies.
+**47 open roles.** Civil, structural and environmental engineering and AEC consultancies.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -345,20 +345,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Taylor, MI</td>
 <td align="center"><a href="https://jobs.lever.co/wadetrim/c3713837-17e6-423a-bce8-5c06635b002b">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/4401c58c-a7a5-4002-a1d6-377429b2456b">Controls Engineering Intern – Summer 2027</a></td>
-<td>Milwaukee, WI, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8d601ced-5c68-439d-af52-6152b7beb54c">Geological Engineering Intern - Summer 2027</a></td>
-<td>Lakewood, CO, United States<br/>Saint Louis, MO, United States<br/>Tucson, AZ, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95132">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

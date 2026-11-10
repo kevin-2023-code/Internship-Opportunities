@@ -20,6 +20,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/17b11deb-aef3-4c8e-ab86-dd46850b6f5c">Traffic Engineering Intern</a></td>
+<td>Columbus, Ohio, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160941500-traffic-engineering-intern">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c90629d-2e37-45aa-9b8b-fba8df75ca75">Hardware In Loop (HIL) Software Engineer Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>REGENT</strong></td>
 <td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
 <td>North Kingstown, Rhode Island, USA<br/>North Kingstown, RI</td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Herndon, VA, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97070">Apply</a></td>
 <td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/f980d360-aa3a-4543-9c03-c38c6e59b04d">Intern - Nuclear Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/1be023ee-0351-4d09-acca-f56180d06463">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/90d3c059-5a17-4782-b205-04d8a22ebe6e">Quality &amp; Reliability Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1147882961149284/">Apply</a></td>
-<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>

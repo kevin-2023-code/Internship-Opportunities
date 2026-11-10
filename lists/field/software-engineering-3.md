@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,662 open roles.** 1,332 in the United States & Canada · 330 elsewhere in the world.
+**1,673 open roles.** 1,343 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,83 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>VSP Vision Care</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3b2bdde-9706-4c01-ba04-41b43a1e3006">Internship, Software Engineer</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://vsp.wd1.myworkdayjobs.com/en-US/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10071">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Danfoss</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b20f95d-e7d8-4ef3-a5c4-e752c8662ba0">Engineering Co-op</a></td>
+<td>Maumee, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484746924/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>IKO North America</strong></td>
+<td><a href="https://trueinterview.io/jobs/f7f02cac-00f6-4a8e-8fbf-861fc9dd762a">Materials Engineering Intern/Co-Op</a></td>
+<td>Chester, SC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482575114/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f74f892-fd7d-401f-a47e-f5c7c4972c2e">Wireless Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482560709/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Spectral AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0cea2e8-0466-4f92-bfdc-27e1531cffee">Hardware Engineering Intern</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482571212/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Virtu Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc68ce71-0609-4573-96dc-3da07248b81a">2027 Internship - Frontend Engineer (UI)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484757309/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Booz Allen Hamilton</strong></td>
+<td><a href="https://trueinterview.io/jobs/71a98f85-db59-4d5f-8027-372714ee7494">Design and Verification Engineer Intern</a></td>
+<td>Beavercreek, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484748384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mitsubishi Power Americas</strong></td>
+<td><a href="https://trueinterview.io/jobs/735d75bd-f38c-4b50-8dae-ddf106102403">Engineering Associate, Electrical Internship</a></td>
+<td>Lake Mary, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484763076/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skyworks Solutions, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b9e73b9-b974-426d-8992-8a3b9fa07d9b">Module Integration Design Engineering Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484732817/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5efdf7e0-8cb5-42f7-b30c-cea7df519b26">RF Module Design Engineer Co-op (Winter/Spring 2027)</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456415884/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Windsor Salt Ltd.</strong></td>
+<td><a href="https://trueinterview.io/jobs/40f7ad78-6e53-4ad2-bfb1-b8d4c53af5fd">Engineering Co-op Student</a></td>
+<td>Windsor, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484738673/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>TRG</strong></td>
 <td><a href="https://trueinterview.io/jobs/af73e867-7733-4b1d-b5f8-e678cd6fffbe">Full Stack Application Developer Intern (Winter/Spring)</a></td>
@@ -2737,83 +2814,6 @@
 <td>Los Altos, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446721246663">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Seatgeek</strong></td>
-<td><a href="https://trueinterview.io/jobs/30aab32a-8842-4665-bb8a-ebe72b6f2b6e">Security Engineer - Internship</a></td>
-<td>New York, NY<br/>New York, New York</td>
-<td align="center"><a href="https://seatgeek.com/jobs/8248151?gh_jid=8248151">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gas South</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ab58b06-5bcc-4d0e-af79-be9ca91e8058">Software Engineering Intern</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gassouth/jobs/8247622">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mach Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/9bc56dbc-0b14-4dee-b0fb-fbbf42b026cf">Summer 2027 Engineering Internship, Manufacturing</a></td>
-<td>Huntington Beach, California, United States<br/>Victorville, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4429928009">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Exegy</strong></td>
-<td><a href="https://trueinterview.io/jobs/69ea6da1-71d3-43cc-b74a-de1633e31d86">Software Automation Developer Intern</a></td>
-<td>Montreal, QC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897/application">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Varda Space Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d64158b-a806-4e0b-9858-7c019295ec71">Avionics Engineering Internship - Summer 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010158003">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3bfeb1f2-221f-41f4-9646-4c0f89dafc03">Cybersecurity Internship - Summer 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8005821003">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/73a67278-2b0b-41c2-93b0-e7f6ffa04095">Propulsion Engineering Internship - Summer 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010169003">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ffc79e27-4e4a-4b82-9faf-93394d425226">Structures Engineering Internship - Summer 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010167003">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ef66318c-469c-43ac-ae02-50706581a76a">Thermal Engineering Internship - Summer 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010172003">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cisco</strong></td>
-<td><a href="https://trueinterview.io/jobs/776c9778-28ae-4e6d-92db-b10071d4800d">Software Engineer I (Co-op) - United States</a></td>
-<td>Maynard, Massachusetts, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920">Apply</a></td>
-<td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd19a262-65b2-4b99-9d33-a19bcaa3aac6">Software Engineer II (Co-op) - United States</a></td>
-<td>Maynard, Massachusetts, US, United States of America</td>
-<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923">Apply</a></td>
-<td align="center">1 Oct 2026</td>
 </tr>
 </tbody>
 </table>

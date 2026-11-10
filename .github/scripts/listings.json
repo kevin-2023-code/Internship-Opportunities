@@ -5,9 +5,190 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T21:04:31.402Z",
-  "count": 3534,
+  "listingsChangedAt": "2026-11-10T22:04:59.568Z",
+  "count": 3544,
   "listings": [
+    {
+      "id": "4a8da347-d06d-465e-84fd-4858150231f7",
+      "company": "Skydio",
+      "title": "Middleware Software Engineer Intern - Summer 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03",
+      "url": "https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7",
+      "postedAt": "2026-11-10T21:44:18.000Z",
+      "updatedAt": "2026-11-10T21:44:18.000Z"
+    },
+    {
+      "id": "1ea64903-149e-414f-9dc8-57d3c16fb0ca",
+      "company": "Judi Health",
+      "title": "AI Solutions Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488608685/",
+      "url": "https://trueinterview.io/jobs/1ea64903-149e-414f-9dc8-57d3c16fb0ca",
+      "postedAt": "2026-11-10T21:13:00.000Z",
+      "updatedAt": "2026-11-10T21:13:00.000Z"
+    },
+    {
+      "id": "4090a3a8-f5fc-448a-9261-e329ff59bc40",
+      "company": "Elevated Web Design",
+      "title": "GTM Software Engineering Internship",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487827386/",
+      "url": "https://trueinterview.io/jobs/4090a3a8-f5fc-448a-9261-e329ff59bc40",
+      "postedAt": "2026-11-10T21:07:00.000Z",
+      "updatedAt": "2026-11-10T21:07:00.000Z"
+    },
+    {
+      "id": "38c77847-078d-4b33-a407-fb2553cf0af7",
+      "company": "Rakuten Kobo Inc.",
+      "title": "Software Developer Intern (Dublin)",
+      "locations": [
+        "Dublin, County Dublin, Ireland"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464093033/",
+      "url": "https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7",
+      "postedAt": "2026-11-10T21:00:00.000Z",
+      "updatedAt": "2026-11-10T21:00:00.000Z"
+    },
+    {
+      "id": "2cee6e96-8dd2-492d-9ed4-6657f984dcd3",
+      "company": "Tencent",
+      "title": "Generative AI Research Intern",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481578655/",
+      "url": "https://trueinterview.io/jobs/2cee6e96-8dd2-492d-9ed4-6657f984dcd3",
+      "postedAt": "2026-11-10T20:38:00.000Z",
+      "updatedAt": "2026-11-10T20:38:00.000Z"
+    },
+    {
+      "id": "08d4f29f-2e0e-465f-bf1b-639c7400b980",
+      "company": "General Dynamics Mission Systems",
+      "title": "Systems and Software Development Intern",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488391559/",
+      "url": "https://trueinterview.io/jobs/08d4f29f-2e0e-465f-bf1b-639c7400b980",
+      "postedAt": "2026-11-10T20:03:00.000Z",
+      "updatedAt": "2026-11-10T20:03:00.000Z"
+    },
+    {
+      "id": "54a2008e-7fdf-43fc-bbdc-9eedd43b763d",
+      "company": "Echo Global Logistics",
+      "title": "Software Engineering Intern- Chicago",
+      "locations": [
+        "Illinois, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488612266/",
+      "url": "https://trueinterview.io/jobs/54a2008e-7fdf-43fc-bbdc-9eedd43b763d",
+      "postedAt": "2026-11-10T19:49:00.000Z",
+      "updatedAt": "2026-11-10T19:49:00.000Z"
+    },
     {
       "id": "73f8bb71-a7f6-4d93-a0f5-e5a8e9a67469",
       "company": "Addepar",
@@ -289,6 +470,108 @@
       "updatedAt": "2026-11-10T18:41:00.000Z"
     },
     {
+      "id": "5ed38ddc-0a23-4372-9960-bc7d239657fd",
+      "company": "Ciena",
+      "title": "Software Engineer (Security) - Intern (Winter 2027)",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480489820/",
+      "url": "https://trueinterview.io/jobs/5ed38ddc-0a23-4372-9960-bc7d239657fd",
+      "postedAt": "2026-11-10T18:20:00.000Z",
+      "updatedAt": "2026-11-10T18:20:00.000Z"
+    },
+    {
+      "id": "5c200b98-ea86-40c8-84e2-038804c5acd9",
+      "company": "Veolia | North America",
+      "title": "Manufacturing Software Engineer Intern",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488603012/",
+      "url": "https://trueinterview.io/jobs/5c200b98-ea86-40c8-84e2-038804c5acd9",
+      "postedAt": "2026-11-10T18:20:00.000Z",
+      "updatedAt": "2026-11-10T18:20:00.000Z"
+    },
+    {
+      "id": "17b11deb-aef3-4c8e-ab86-dd46850b6f5c",
+      "company": "AECOM",
+      "title": "Traffic Engineering Intern",
+      "locations": [
+        "Columbus, Ohio, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000160941500-traffic-engineering-intern",
+      "url": "https://trueinterview.io/jobs/17b11deb-aef3-4c8e-ab86-dd46850b6f5c",
+      "postedAt": "2026-11-10T18:06:10.000Z",
+      "updatedAt": "2026-11-10T18:06:10.000Z"
+    },
+    {
+      "id": "1c90629d-2e37-45aa-9b8b-fba8df75ca75",
+      "company": "Skydio",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
+      "locations": [
+        "San Mateo, California, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded",
+      "url": "https://trueinterview.io/jobs/1c90629d-2e37-45aa-9b8b-fba8df75ca75",
+      "postedAt": "2026-11-10T18:03:40.000Z",
+      "updatedAt": "2026-11-10T18:03:40.000Z"
+    },
+    {
       "id": "c16f4276-cced-4b51-981a-3e9be84cd06d",
       "company": "Clonin",
       "title": "Software Engineer Intern",
@@ -337,6 +620,56 @@
       "url": "https://trueinterview.io/jobs/d361efdc-66c6-40af-a6ec-7aeba934bafc",
       "postedAt": "2026-11-10T17:29:00.000Z",
       "updatedAt": "2026-11-10T17:29:00.000Z"
+    },
+    {
+      "id": "05346854-b87d-44ac-b404-08b69570a6d0",
+      "company": "EngRadar",
+      "title": "Manufacturing Software Engineer Intern",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489601749/",
+      "url": "https://trueinterview.io/jobs/05346854-b87d-44ac-b404-08b69570a6d0",
+      "postedAt": "2026-11-10T17:20:00.000Z",
+      "updatedAt": "2026-11-10T17:20:00.000Z"
+    },
+    {
+      "id": "6c230ac6-42e1-4e8f-81b1-b82ec97ee25a",
+      "company": "Raytheon",
+      "title": "Part time Software Engineer Co-op (Remote)",
+      "locations": [
+        "Aurora, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481593754/",
+      "url": "https://trueinterview.io/jobs/6c230ac6-42e1-4e8f-81b1-b82ec97ee25a",
+      "postedAt": "2026-11-10T17:20:00.000Z",
+      "updatedAt": "2026-11-10T17:20:00.000Z"
     },
     {
       "id": "8eb3f3a0-99a8-4a3d-b5a3-915f85ae4f50",
@@ -651,6 +984,33 @@
       "url": "https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b",
       "postedAt": "2026-11-10T15:37:00.000Z",
       "updatedAt": "2026-11-10T15:37:00.000Z"
+    },
+    {
+      "id": "2551cb10-e44d-40bf-bd7c-e67544a57336",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - AI Developer",
+      "locations": [
+        "Palo Alto, California, United States"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160905751-sap-ixp-intern-ai-developer",
+      "url": "https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336",
+      "postedAt": "2026-11-10T15:34:25.000Z",
+      "updatedAt": "2026-11-10T15:34:25.000Z"
     },
     {
       "id": "0e87ff90-16f4-4308-ba9f-da486464df57",
@@ -1910,7 +2270,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Embedded Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4363,6 +4723,31 @@
       "source": "indeed",
       "applyUrl": "https://careers.wbd.com/pl/pl/job/WAMEGLOBALR000109850EXTERNALPLPL/WB-Games-Product-Management-Co-op-Needham-MA-January-May-2027",
       "url": "https://trueinterview.io/jobs/600e4f9e-ed18-4b81-8b27-f6f5b3c7a0cf",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
+    },
+    {
+      "id": "09a0682e-4c10-4ee2-84b1-d2d324357bde",
+      "company": "Warner Bros. Discovery",
+      "title": "WB Games Software Engineering Co-op: Needham, MA - January-May 2027",
+      "locations": [
+        "Needham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.wbd.com/jp/ja/job/WAMEGLOBALR000109901EXTERNALJAJP/WB-Games-Software-Engineering-Co-op-Needham-MA-January-May-2027",
+      "url": "https://trueinterview.io/jobs/09a0682e-4c10-4ee2-84b1-d2d324357bde",
       "postedAt": "2026-11-09T06:00:00.000Z",
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },
@@ -72944,31 +73329,6 @@
       "updatedAt": "2026-10-13T10:16:20.000Z"
     },
     {
-      "id": "3ccca996-e17b-4e33-afd0-e355b95774b3",
-      "company": "lean-technologies",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Riyadh, Saudi Arabia"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/LeanTech/878f2d6c-355c-4195-ad44-fc4a81e953ed",
-      "url": "https://trueinterview.io/jobs/3ccca996-e17b-4e33-afd0-e355b95774b3",
-      "postedAt": "2026-10-13T05:20:24.000Z",
-      "updatedAt": "2026-10-13T05:20:24.000Z"
-    },
-    {
       "id": "c52c2010-8d95-4072-9b07-88fa2a65fcb0",
       "company": "1password",
       "title": "Data Intern  - Product Analytics - Winter 2027",
@@ -91725,104 +92085,6 @@
       "url": "https://trueinterview.io/jobs/d3617224-f501-4c5a-9507-ba0854fcf862",
       "postedAt": "2026-09-11T22:37:28.000Z",
       "updatedAt": "2026-09-11T22:37:28.000Z"
-    },
-    {
-      "id": "4401c58c-a7a5-4002-a1d6-377429b2456b",
-      "company": "Wsp",
-      "title": "Controls Engineering Intern – Summer 2027",
-      "locations": [
-        "Milwaukee, WI, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94708",
-      "url": "https://trueinterview.io/jobs/4401c58c-a7a5-4002-a1d6-377429b2456b",
-      "postedAt": "2026-09-11T21:56:58.000Z",
-      "updatedAt": "2026-09-11T21:56:58.000Z"
-    },
-    {
-      "id": "252a43cd-a9e2-4d0e-9b86-d2d35e9675f5",
-      "company": "Compeer Financial",
-      "title": "Intern IT Operations",
-      "locations": [
-        "MN-Lakeville"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5422564008",
-      "url": "https://trueinterview.io/jobs/252a43cd-a9e2-4d0e-9b86-d2d35e9675f5",
-      "postedAt": "2026-09-11T21:41:20.000Z",
-      "updatedAt": "2026-09-11T21:41:20.000Z"
-    },
-    {
-      "id": "8d601ced-5c68-439d-af52-6152b7beb54c",
-      "company": "Wsp",
-      "title": "Geological Engineering Intern - Summer 2027",
-      "locations": [
-        "Lakewood, CO, United States",
-        "Saint Louis, MO, United States",
-        "Tucson, AZ, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95132",
-      "url": "https://trueinterview.io/jobs/8d601ced-5c68-439d-af52-6152b7beb54c",
-      "postedAt": "2026-09-11T21:38:07.000Z",
-      "updatedAt": "2026-09-11T21:38:07.000Z"
-    },
-    {
-      "id": "001b50fb-6929-43d5-ab07-ceaf33f69e8b",
-      "company": "Compeer Financial",
-      "title": "Intern Infrastructure Engineering",
-      "locations": [
-        "MN-Lakeville"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008",
-      "url": "https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b",
-      "postedAt": "2026-09-11T21:37:01.000Z",
-      "updatedAt": "2026-09-11T21:37:01.000Z"
     }
   ]
 }

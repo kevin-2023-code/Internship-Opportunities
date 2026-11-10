@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**71 open roles.** 56 in the United States & Canada · 15 elsewhere in the world.
+**69 open roles.** 56 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -511,20 +511,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>ES, Huesca<br/>ES, Zaragoza</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10567770/data-center-technician-2027-internship">Apply</a></td>
 <td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Compeer Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/252a43cd-a9e2-4d0e-9b86-d2d35e9675f5">Intern IT Operations</a></td>
-<td>MN-Lakeville</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422564008">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/001b50fb-6929-43d5-ab07-ceaf33f69e8b">Intern Infrastructure Engineering</a></td>
-<td>MN-Lakeville</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/compeerfinancial/jobs/5422577008">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

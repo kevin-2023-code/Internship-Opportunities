@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/08d4f29f-2e0e-465f-bf1b-639c7400b980">Systems and Software Development Intern</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488391559/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Onsemi</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7f1cdd8-7b0e-461a-b262-c304501a99e1">Spring 2027 - AI &amp; Data Analytics Intern</a></td>
 <td>Scottsdale, AZ</td>
@@ -295,13 +302,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/92d266e7-4c8c-4d30-821c-e37c91007ae3">2027 Internship - Analog Design Engineer</a></td>
 <td>Chandler, Arizona<br/>Austin, TX<br/>Austin, Texas<br/>+1 more</td>
 <td align="center"><a href="https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d601ced-5c68-439d-af52-6152b7beb54c">Geological Engineering Intern - Summer 2027</a></td>
-<td>Tucson, AZ, United States<br/>Lakewood, CO, United States<br/>Saint Louis, MO, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95132">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

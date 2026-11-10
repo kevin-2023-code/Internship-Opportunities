@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,662 open roles.** 1,332 in the United States & Canada · 330 elsewhere in the world.
+**1,673 open roles.** 1,343 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,83 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Seatgeek</strong></td>
+<td><a href="https://trueinterview.io/jobs/30aab32a-8842-4665-bb8a-ebe72b6f2b6e">Security Engineer - Internship</a></td>
+<td>New York, NY<br/>New York, New York</td>
+<td align="center"><a href="https://seatgeek.com/jobs/8248151?gh_jid=8248151">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gas South</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ab58b06-5bcc-4d0e-af79-be9ca91e8058">Software Engineering Intern</a></td>
+<td>Atlanta, GA<br/>Atlanta, Georgia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/gassouth/jobs/8247622">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mach Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bc56dbc-0b14-4dee-b0fb-fbbf42b026cf">Summer 2027 Engineering Internship, Manufacturing</a></td>
+<td>Huntington Beach, California, United States<br/>Victorville, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4429928009">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exegy</strong></td>
+<td><a href="https://trueinterview.io/jobs/69ea6da1-71d3-43cc-b74a-de1633e31d86">Software Automation Developer Intern</a></td>
+<td>Montreal, QC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897/application">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Varda Space Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d64158b-a806-4e0b-9858-7c019295ec71">Avionics Engineering Internship - Summer 2027</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010158003">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3bfeb1f2-221f-41f4-9646-4c0f89dafc03">Cybersecurity Internship - Summer 2027</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8005821003">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/73a67278-2b0b-41c2-93b0-e7f6ffa04095">Propulsion Engineering Internship - Summer 2027</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010169003">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ffc79e27-4e4a-4b82-9faf-93394d425226">Structures Engineering Internship - Summer 2027</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010167003">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ef66318c-469c-43ac-ae02-50706581a76a">Thermal Engineering Internship - Summer 2027</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8010172003">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/776c9778-28ae-4e6d-92db-b10071d4800d">Software Engineer I (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bd19a262-65b2-4b99-9d33-a19bcaa3aac6">Software Engineer II (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/7cb47ac5-4d83-4676-943d-28f293670731">Software Engineering PhD Intern New 2027</a></td>
@@ -951,6 +1028,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rakuten Kobo Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7">Software Developer Intern (Dublin)</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464093033/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Loft Orbital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/89f6592d-1c02-42ee-a963-4aba5a426f41">Backend Engineering Intern: Ground Platform Control</a></td>
@@ -2742,90 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/maki/e3c8118d-d812-4815-a762-2556ca4c9a77">Apply</a></td>
 <td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2d1e997-4108-4878-b845-def8167ca4e0">Internship - Software Engineering</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200690139-1731?board_id=JB001">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de20d465-6b36-46dc-b5e5-a412edbf8b01">Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200689729-1731?board_id=JB001">Apply</a></td>
-<td align="center">18 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sereact Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
-<td>Stuttgart Schockenriedstr. 17</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Abridge</strong></td>
-<td><a href="https://trueinterview.io/jobs/32178189-d76e-4c67-bf9c-9af08eac7351">Member of Technical Staff, Intern</a></td>
-<td>SF Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wikimedia Foundation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9833901-583c-4bab-8c62-dcb027c421f1">Software Engineering Internship Program (2027)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/wikimedia/jobs/8268853">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Research Innovations</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb0d9887-4136-418b-a334-8df9a0bcfe95">DoW SkillBridge Forward Deployed Engineer Intern</a></td>
-<td>Joint Base Lewis-McChord</td>
-<td align="center"><a href="https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Grab</strong></td>
-<td><a href="https://trueinterview.io/jobs/6104fc29-f564-4c47-be5c-3f6dc858efd3">Intern, Software Engineer - Backend</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Grab/744000155671079-intern-software-engineer-backend">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/8817ca39-32de-479a-b752-8b1de61f37bd">2028 Field Applications Engineering Intern</a></td>
-<td>Eindhoven, Netherlands<br/>Japan<br/>Ra'anana, Israel<br/>+2 more</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25010389">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/31ba80c2-cee6-45c2-ab99-e1fb53eb74e5">Software Engineering Intern - Embedded Software</a></td>
-<td>OSLO, Norway</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014491">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1521622a-30f6-4069-af8f-d6b5b2bc1d08">Software Engineering Intern - Infrastructure and Test</a></td>
-<td>OSLO, Norway</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014490">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098">Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Renesas</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6422698-11b6-442a-a0ca-9aff389a13d9">Intern, Product Engineering</a></td>
-<td>Lviv, Ukraine</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

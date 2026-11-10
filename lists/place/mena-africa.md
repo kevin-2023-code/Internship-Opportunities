@@ -2,7 +2,7 @@
 
 # 🌍 Dubai, Cairo, Lagos & Africa
 
-**6 open roles.**
+**5 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -53,13 +53,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dubai, UAE</td>
 <td align="center"><a href="https://jobs.parsons.com/jobs/civil-engineer-diploma-intern-uae-national-r-187770-jobs--internship-program--">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lean Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ccca996-e17b-4e33-afd0-e355b95774b3">Software Engineering Intern</a></td>
-<td>Riyadh, Saudi Arabia</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/LeanTech/878f2d6c-355c-4195-ad44-fc4a81e953ed">Apply</a></td>
-<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,11 +2,49 @@
 
 # 🆕 Posted in the last 7 days
 
-**956 open roles.** 792 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
+**970 open roles.** 804 in the United States & Canada · 166 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
 <sub>[← Page 2](new-this-week-2.md) · Page 3 of 3</sub>
+
+## United States & Canada
+
+<table>
+<thead>
+<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Costco IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/5759b262-21de-4999-a703-09c5c8901617">CDS Intern - Software Engineer - Costco Travel</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486457973/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Valmont Industries, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4977afa4-51ca-4928-84d1-5d8379f60b9c">Embedded Systems Engineering Intern</a></td>
+<td>Valley, NE</td>
+<td align="center"><a href="https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/058f4e6b-b4fd-4d1a-88a5-cb32f2930a81">Software Engineering Intern</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485788253/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra Nevada Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d">Software Engineer Intern (Summer 2027)</a></td>
+<td>Southern Pines, North Carolina, United States<br/>Southern Pines, NC</td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+</tbody>
+</table>
 
 ## Elsewhere in the world
 
@@ -18,7 +56,77 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Rakuten Kobo Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7">Software Developer Intern (Dublin)</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464093033/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/2cee6e96-8dd2-492d-9ed4-6657f984dcd3">Generative AI Research Intern</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481578655/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Addepar</strong></td>
+<td><a href="https://trueinterview.io/jobs/79995646-039c-4539-8a9d-b4e06845da40">Portfolio Data Analyst Intern - Summer 2027</a></td>
+<td>Edinburgh, UK</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8910310002">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Loft Orbital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/9490dfcd-fbd8-4586-8408-a1c8d861f08d">AI/ML Engineering Intern: System 1 Models for Reactive Space Operations</a></td>
+<td>Toulouse, Occitanie</td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/89f6592d-1c02-42ee-a963-4aba5a426f41">Backend Engineering Intern: Ground Platform Control</a></td>
+<td>Toulouse, Occitanie</td>
+<td align="center"><a href="https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6663aa6-fd60-4ee0-9aaa-3ea3befa0c91">AI Developer — Student Internship</a></td>
+<td>Sofia, Sofia City Province, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160896559-ai-developer-student-internship-">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TomTom</strong></td>
+<td><a href="https://trueinterview.io/jobs/abdac93c-5301-4620-a06f-f8703fca3082">Junior Data Analyst Intern</a></td>
+<td>Amsterdam, The Netherlands</td>
+<td align="center"><a href="https://jobs.eu.lever.co/tomtom/31ce35a3-24d5-4733-9227-6ff6463bca95">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b5015be-c94b-493f-b719-6231d1e04947">SAP iXP Intern Developer in Cloud Lifecycle Engeneering</a></td>
+<td>Sofia, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160865649-sap-ixp-intern-developer-in-cloud-lifecycle-engeneering">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/08ee1dad-9e85-4794-b09f-a51f3aea0e1c">FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork</a></td>
+<td>Cork, County Cork, Ireland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4417144574/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Dept</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9198bd3-b508-44a7-be9b-fdd8872a691f">Intern Frontend Developer</a></td>
+<td>Amsterdam, Rotterdam</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8364818">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8cbf82da-ce6a-4fd8-928c-1b32436bd58b">Intern Backend Developer</a></td>
 <td>Amsterdam, Rotterdam</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8364817">Apply</a></td>
