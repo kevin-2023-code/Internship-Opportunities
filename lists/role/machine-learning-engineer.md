@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**164 open roles.** 132 in the United States & Canada · 32 elsewhere in the world.
+**167 open roles.** 133 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kiewit</strong></td>
+<td><a href="https://trueinterview.io/jobs/2cdd15df-af16-490d-a6fe-cec335ec44b7">Machine Learning Intern - Kiewit Data Services (Summer 2027)</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487989117/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The New York Times</strong></td>
 <td><a href="https://trueinterview.io/jobs/524487ef-1cb1-4411-aa79-0483ddc1ba65">ML Scientist Intern</a></td>
@@ -954,6 +961,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>MaxInsights</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a></td>
+<td>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>MediaTek</strong></td>
 <td><a href="https://trueinterview.io/jobs/41e7b8f4-7371-4ff2-9997-74cac92fe364">Deep Learning Internship</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
@@ -1141,6 +1155,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Seoul, Korea</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/moloco/jobs/8044892003">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca85b5d7-2caf-4aeb-b08c-35405c4d5927">Computer Vision and Machine Learning Intern [IDA:00076]</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000156703700-computer-vision-and-machine-learning-intern-ida-00076-">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Snowflake</strong></td>

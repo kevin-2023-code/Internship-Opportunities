@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**970 open roles.** 777 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
+**976 open roles.** 782 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kiewit</strong></td>
+<td><a href="https://trueinterview.io/jobs/2cdd15df-af16-490d-a6fe-cec335ec44b7">Machine Learning Intern - Kiewit Data Services (Summer 2027)</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487989117/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5cca3dc-a444-4104-b17b-4a7c7ab2656a">Internship- Co-Op: AI Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489185656/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PennEngineering®</strong></td>
+<td><a href="https://trueinterview.io/jobs/67856ad7-eb98-4942-a07c-7abeec52dd16">AI &amp; Data Intern</a></td>
+<td>Danboro, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151744/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Persona AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/b77779c2-d319-4f82-919c-3f29cf0553c2">Humanoid Robotics Software Internship</a></td>
@@ -59,6 +80,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
 <td>San Diego, California, United States</td>
 <td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tonic.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d">Forward Deployed Engineer, Data De-Identification (Co-op)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489161387/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -164,6 +192,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5bcf3f8d-1ae4-4510-b5e8-64ff1f7e24b7">AI Engineer Intern - AI/ML/GenAI Design &amp; Development</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489121193/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Duolingo</strong></td>
+<td><a href="https://trueinterview.io/jobs/81fb63c6-0952-41e0-b440-1d93cefdab58">Product Designer, Thrive Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/877585e3-703b-49a7-8706-336ff76c01c1">Research Engineer Intern</a></td>
 <td>Norwood, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487724159/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GEMINO AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba22b29c-56d1-4ec9-b0a0-35682cadbcd4">Software Engineering Intern: Dominican Republic (4–6 months, on-site</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486579198/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BAE Systems USA</strong></td>
-<td><a href="https://trueinterview.io/jobs/58aeb17c-8aee-49a3-ade3-f278562b272f">Combat Vehicles Electrical Engineering Kettering Co-Op-January 2027</a></td>
-<td>Sterling Heights, MI</td>
-<td align="center"><a href="https://jobs.baesystems.com/global/en/job/132186BR">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cintas</strong></td>
-<td><a href="https://trueinterview.io/jobs/3866d14f-a73e-40ae-a934-819a068bb246">IT Intern - Engineer - Customer Channels</a></td>
-<td>Mason, OH</td>
-<td align="center"><a href="https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cognizant</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bb50976-b544-4436-bd11-e9a3ca48fa35">Software Engineering Internship – TriZetto Product House</a></td>
-<td>United States</td>
-<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/47945/software-engineering-internship-trizetto-product-house/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Koch</strong></td>
-<td><a href="https://trueinterview.io/jobs/44f2537e-e998-4395-961f-e3550c8d81c6">Electrical Engineer Co-Op</a></td>
-<td>Wever, IA</td>
-<td align="center"><a href="https://ars2.equest.com/?response_id=928c411e3892b804ed78526aa25f9e12">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

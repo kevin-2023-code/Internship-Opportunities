@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**113 open roles.** 95 in the United States & Canada · 18 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**114 open roles.** 96 in the United States & Canada · 18 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Duolingo</strong></td>
+<td><a href="https://trueinterview.io/jobs/81fb63c6-0952-41e0-b440-1d93cefdab58">Product Designer, Thrive Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/dde08523-3156-4fef-910c-162b23029ae3">Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)</a></td>

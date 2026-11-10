@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5cca3dc-a444-4104-b17b-4a7c7ab2656a">Internship- Co-Op: AI Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489185656/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>UiPath</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
 <td>Bellevue, WA</td>
@@ -30,13 +37,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487964318/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Marketeq Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Marketeq Digital Solutions</strong></td>

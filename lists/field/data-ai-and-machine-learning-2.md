@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**709 open roles.** 523 in the United States & Canada · 186 elsewhere in the world.
+**713 open roles.** 525 in the United States & Canada · 188 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2bb6785-bac1-4451-9a04-6046984c89c5">Research Scientist Intern, Efficient World Foundation Models (PhD)</a></td>
+<td>Burlingame, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1423049949381658/">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Atlassian</strong></td>
+<td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>JPMorganChase</strong></td>
 <td><a href="https://trueinterview.io/jobs/4cfdf238-7df4-4bb6-a557-0d27059ac702">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
@@ -888,6 +902,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MaxInsights</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a></td>
+<td>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>
@@ -1957,6 +1978,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
 <td>Munich, Germany</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca85b5d7-2caf-4aeb-b08c-35405c4d5927">Computer Vision and Machine Learning Intern [IDA:00076]</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000156703700-computer-vision-and-machine-learning-intern-ida-00076-">Apply</a></td>
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>

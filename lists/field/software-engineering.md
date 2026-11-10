@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,634 open roles.** 1,302 in the United States & Canada · 332 elsewhere in the world.
+**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -55,6 +55,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Tonic.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d">Forward Deployed Engineer, Data De-Identification (Co-op)</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489161387/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>FormFactor Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9df295d-736d-4699-a9b4-f0048a57e5f1">Software Engineer Intern</a></td>
 <td>Livermore, CA</td>
@@ -66,6 +73,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0">Defense Software Test &amp; AI Co-Op</a></td>
 <td>Coppell, TX</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/01a5e66c-5966-4dcb-96a0-9891b512ddf5">Part Time Systems Engineer Co-Op (Remote)</a></td>
 <td>Aurora, CO</td>
 <td align="center"><a href="https://careers.rtx.com/global/en/job/01886102">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sierra Nevada Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/55738fb6-7ad8-4743-b0a5-5e62081b3634">DevOps Engineer Intern (Summer 2027)</a></td>
-<td>Southern Pines, NC</td>
-<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Survalent</strong></td>
-<td><a href="https://trueinterview.io/jobs/37794521-8428-418b-ac16-ef74ee46302f">Quality and Infrastructure, Co-op SmartVu Developer</a></td>
-<td>Mississauga, Canada</td>
-<td align="center"><a href="https://www.fitzii.com/job/101120?s=in">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**504 open roles.**
+**505 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1938,6 +1938,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Rhoda AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fabe698-f2e9-44fd-9d69-db8493ec8953">Software Engineer Intern, Rhoda Platform</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/42f54b77-fdeb-4022-a1f4-a75761843af1">Summer 2027 Process Engineer Intern- Master's (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
@@ -2401,13 +2415,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0f8f1c34-6358-451e-91c1-a98b3d31d034">Electrical Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872578002?gh_jid=8872578002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/49ef0dd0-1107-40df-8daa-f866dea43748">Execution &amp; Topology Software Engineering Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8872477002?gh_jid=8872477002">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0e2b676-b8a6-40a1-9696-a5cad7e0f70e">Software Engineer (Machine Learning) Intern (Summer 2027)</a></td>
 <td>San Francisco, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>xAI</strong></td>
-<td><a href="https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c">Spring 2027 Software Engineering Internship/Co-op</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5252108007">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 </tbody>

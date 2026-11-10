@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,634 open roles.** 1,302 in the United States & Canada · 332 elsewhere in the world.
+**1,639 open roles.** 1,307 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sierra Nevada Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/55738fb6-7ad8-4743-b0a5-5e62081b3634">DevOps Engineer Intern (Summer 2027)</a></td>
+<td>Southern Pines, NC</td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Survalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/37794521-8428-418b-ac16-ef74ee46302f">Quality and Infrastructure, Co-op SmartVu Developer</a></td>
+<td>Mississauga, Canada</td>
+<td align="center"><a href="https://www.fitzii.com/job/101120?s=in">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Zimmer Biomet</strong></td>
 <td><a href="https://trueinterview.io/jobs/46b02aef-b20c-47ef-bf38-05f6b8172393">2027 Spring Co-Op, Software Developer</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/aeb0b865-6924-4d32-b746-8b01e172f50a">Summer Intern – Software Engineering – Quality Assurance</a></td>
 <td>Golden, Colorado, United States</td>
 <td align="center"><a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR37472-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gauss Management Research &amp; Engineering (GMRE Inc.)</strong></td>
-<td><a href="https://trueinterview.io/jobs/61662601-dd3e-4926-952b-93039486c270">Web Application Developer Intern</a></td>
-<td>South Ogden, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484705285/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Tech World Networking</strong></td>
-<td><a href="https://trueinterview.io/jobs/adcb7bc7-740c-4f98-82d9-d0d780f03937">Tooling Engineer Intern</a></td>
-<td>California, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482537705/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

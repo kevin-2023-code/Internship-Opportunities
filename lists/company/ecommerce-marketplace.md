@@ -2,7 +2,7 @@
 
 # 🛒 E-commerce & marketplaces
 
-**46 open roles.** 38 in the United States & Canada · 8 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
+**47 open roles.** 39 in the United States & Canada · 8 elsewhere in the world. Retail tech, marketplaces, delivery, ride-hail and travel.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,6 +79,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027">Apply</a></td>
 <td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
+<td>Arlington, Virginia, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td>↳</td>

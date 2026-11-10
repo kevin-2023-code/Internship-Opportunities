@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**709 open roles.** 523 in the United States & Canada · 186 elsewhere in the world.
+**713 open roles.** 525 in the United States & Canada · 188 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,18 +20,32 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Kiewit</strong></td>
+<td><a href="https://trueinterview.io/jobs/2cdd15df-af16-490d-a6fe-cec335ec44b7">Machine Learning Intern - Kiewit Data Services (Summer 2027)</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487989117/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5cca3dc-a444-4104-b17b-4a7c7ab2656a">Internship- Co-Op: AI Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489185656/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PennEngineering®</strong></td>
+<td><a href="https://trueinterview.io/jobs/67856ad7-eb98-4942-a07c-7abeec52dd16">AI &amp; Data Intern</a></td>
+<td>Danboro, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151744/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>UiPath</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
 <td>Bellevue, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
 <td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Marketeq Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>The New York Times</strong></td>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Washington, DC<br/>Washington, District of Columbia, United States</td>
 <td align="center"><a href="https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2bb6785-bac1-4451-9a04-6046984c89c5">Research Scientist Intern, Efficient World Foundation Models (PhD)</a></td>
-<td>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1423049949381658/">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">26 Oct 2026</td>
 </tr>
 </tbody>
 </table>

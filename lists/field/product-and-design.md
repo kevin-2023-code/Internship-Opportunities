@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**224 open roles.** 161 in the United States & Canada · 63 elsewhere in the world.
+**225 open roles.** 162 in the United States & Canada · 63 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Duolingo</strong></td>
+<td><a href="https://trueinterview.io/jobs/81fb63c6-0952-41e0-b440-1d93cefdab58">Product Designer, Thrive Intern</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>WebstaurantStore</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c387cce-2581-49ff-b172-f455eb3f4865">UX Product Design Intern</a></td>

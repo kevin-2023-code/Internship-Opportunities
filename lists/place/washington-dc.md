@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**80 open roles.**
+**81 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -460,6 +460,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
+<td>Arlington, Virginia, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1">Associate Delivery Consultant Intern, National Security, AWS Professional Services</a></td>
 <td>Arlington, Virginia, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services">Apply</a></td>

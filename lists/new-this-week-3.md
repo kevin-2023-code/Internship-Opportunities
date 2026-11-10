@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**970 open roles.** 777 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
+**976 open roles.** 782 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>MediaTek</strong></td>
+<td><a href="https://trueinterview.io/jobs/41e7b8f4-7371-4ff2-9997-74cac92fe364">Deep Learning Internship</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4405127940/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/e1209f4d-3f83-447b-aa2c-c3066f9d7ae4">Extracurricular Internship: Python and AI Development Engineer (f/m/div)</a></td>
+<td>Padua, Veneto, Italy</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480821983/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IMC Trading</strong></td>
+<td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>
+<td>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452930185/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Optiver</strong></td>
+<td><a href="https://trueinterview.io/jobs/4f32f529-c6d0-4489-b7c1-f0ae8f1e9600">Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451200166/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/45ef8a5d-1500-4595-9a96-d879e717d18c">Research Scientist Intern, Muse Post-Training &amp; Flywheel (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486667980/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/49bc9f5b-45e7-478c-9cfb-871e9f8db6cd">System Software Engineer Intern, Autonomous Vehicles - 2027</a></td>
+<td>Shanghai, Shanghai, China<br/>Shenzhen, Guangdong, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487636439/">Apply</a></td>
+<td align="center">8 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
 <td><a href="https://trueinterview.io/jobs/7d8e1b3a-adf7-457c-b553-ffe5043e801c">Quantitative Research Intern 2027</a></td>

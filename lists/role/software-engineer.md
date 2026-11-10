@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**451 open roles.** 356 in the United States & Canada · 95 elsewhere in the world.
+**453 open roles.** 358 in the United States & Canada · 95 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1980,6 +1980,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Rhoda AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0fabe698-f2e9-44fd-9d69-db8493ec8953">Software Engineer Intern, Rhoda Platform</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>LinkedIn</strong></td>
 <td><a href="https://trueinterview.io/jobs/b72d6fa0-b9bf-4564-a6f0-2118601a6316">Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)</a></td>
 <td>Mountain View, California, United States</td>
@@ -2815,20 +2829,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/22230259-1272-4c54-8873-ae13e81a70da">Software Engineer (SkillBridge Intern) - 23875</a></td>
 <td>Greater Roanoke Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4440203691/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f033635-e877-438f-ab5e-480260d5bdda">2027 Software Dev Engineer Intern - Netherlands</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476796429/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crédit Agricole CIB</strong></td>
-<td><a href="https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4">.NET Software Engineer Intern (Jan 2027 intake)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484902928/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -18,15 +18,15 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-10 01:04 UTC_
+_Last updated: 2026-11-10 02:06 UTC_
 
-**700 open internships** from **313 employers** · **193 posted in the last 7 days** · refreshed hourly
+**702 open internships** from **314 employers** · **194 posted in the last 7 days** · refreshed hourly
 
-### Browse 700 internships by field
+### Browse 702 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (332)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (186)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (188)
 
 🔧 **[Hardware & Engineering](#-hardware--engineering)** (73)
 
@@ -52,11 +52,11 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (128)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (65)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (41)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [🏗️ Large tech (1,000–9,999) (21)](lists/company/large-tech.md) · [📱 Consumer internet & media (18)](lists/company/consumer-internet.md) · [🏤 Mid-sized tech (200–999) (18)](lists/company/mid-size-tech.md) · [🏢 Enterprise & business software (17)](lists/company/enterprise-saas.md) · [🏦 Banks, insurers & asset managers (13)](lists/company/banking-finance.md) · [🚗 Autonomy, automotive & mobility (10)](lists/company/autonomy-mobility.md) · [+12 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (95)](lists/role/software-engineer.md) · [AI Engineer (64)](lists/role/ai-engineer.md) · [Data Analyst (40)](lists/role/data-analyst.md) · [Product Manager (37)](lists/role/product-manager.md) · [Machine Learning Engineer (32)](lists/role/machine-learning-engineer.md) · [Data Scientist (22)](lists/role/data-scientist.md) · [Quantitative Researcher (16)](lists/role/quantitative-researcher.md) · [Research Scientist (15)](lists/role/research-scientist.md) · [Security Engineer (15)](lists/role/security-engineer.md) · [Hardware Engineer (11)](lists/role/hardware-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (95)](lists/role/software-engineer.md) · [AI Engineer (64)](lists/role/ai-engineer.md) · [Data Analyst (40)](lists/role/data-analyst.md) · [Product Manager (37)](lists/role/product-manager.md) · [Machine Learning Engineer (34)](lists/role/machine-learning-engineer.md) · [Data Scientist (22)](lists/role/data-scientist.md) · [Quantitative Researcher (16)](lists/role/quantitative-researcher.md) · [Research Scientist (15)](lists/role/research-scientist.md) · [Security Engineer (15)](lists/role/security-engineer.md) · [Hardware Engineer (11)](lists/role/hardware-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (104)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (38)](lists/place/uk.md) · [🇫🇷 Paris & France (35)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (24)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (24)](lists/place/poland-cee.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [+4 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (105)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (38)](lists/place/uk.md) · [🇫🇷 Paris & France (35)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (24)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (24)](lists/place/poland-cee.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [+4 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (193)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (194)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -632,6 +632,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>MaxInsights</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a> 🆕</td>
+<td>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a> 🆕</td>
 <td>Shanghai, Shanghai, China</td>
@@ -799,13 +806,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4450134756/">Apply</a></td>
 <td align="center">5d</td>
 </tr>
-<tr>
-<td><strong>CERN</strong></td>
-<td><a href="https://trueinterview.io/jobs/b37f6178-4712-40ad-99fb-36ae7380d80d">Short Term Internship 2027 - Data Science, AI &amp; Analytics</a></td>
-<td>Geneva, Geneva, Switzerland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CERN/744000159629244-short-term-internship-2027-data-science-ai-analytics">Apply</a></td>
-<td align="center">5d</td>
-</tr>
 </tbody>
 </table>
 
@@ -969,7 +969,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 46 of 186.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 46 of 188.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 

@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**105 open roles.** 1 in the United States & Canada · 104 elsewhere in the world.
+**106 open roles.** 1 in the United States & Canada · 105 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -721,6 +721,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore</td>
 <td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca85b5d7-2caf-4aeb-b08c-35405c4d5927">Computer Vision and Machine Learning Intern [IDA:00076]</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000156703700-computer-vision-and-machine-learning-intern-ida-00076-">Apply</a></td>
+<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Grab</strong></td>

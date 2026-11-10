@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**504 open roles.**
+**505 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>xAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c">Spring 2027 Software Engineering Internship/Co-op</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5252108007">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>C3.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/ced1ffba-2409-40fe-b6d6-4bf454ea58eb">AI Product Manager - MBA Intern (Summer 2027)</a></td>

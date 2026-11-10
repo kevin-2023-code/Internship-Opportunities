@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**128 open roles.** 117 in the United States & Canada · 11 elsewhere in the world.
+**127 open roles.** 116 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -299,13 +299,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f8f1c34-6358-451e-91c1-a98b3d31d034">Electrical Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872578002?gh_jid=8872578002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4eda8dcb-a5c6-4175-a18a-623dc60e4c7e">Hardware Reliability Intern, Summer 2027</a></td>
 <td>Palo Alto, California</td>
 <td align="center"><a href="https://wing.com/careers/8885631002?gh_jid=8885631002">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**970 open roles.** 777 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
+**976 open roles.** 782 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>GEMINO AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba22b29c-56d1-4ec9-b0a0-35682cadbcd4">Software Engineering Intern: Dominican Republic (4–6 months, on-site</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486579198/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BAE Systems USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/58aeb17c-8aee-49a3-ade3-f278562b272f">Combat Vehicles Electrical Engineering Kettering Co-Op-January 2027</a></td>
+<td>Sterling Heights, MI</td>
+<td align="center"><a href="https://jobs.baesystems.com/global/en/job/132186BR">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cintas</strong></td>
+<td><a href="https://trueinterview.io/jobs/3866d14f-a73e-40ae-a934-819a068bb246">IT Intern - Engineer - Customer Channels</a></td>
+<td>Mason, OH</td>
+<td align="center"><a href="https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cognizant</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bb50976-b544-4436-bd11-e9a3ca48fa35">Software Engineering Internship – TriZetto Product House</a></td>
+<td>United States</td>
+<td align="center"><a href="https://careers.cognizant.com/global-en/jobs/47945/software-engineering-internship-trizetto-product-house/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Koch</strong></td>
+<td><a href="https://trueinterview.io/jobs/44f2537e-e998-4395-961f-e3550c8d81c6">Electrical Engineer Co-Op</a></td>
+<td>Wever, IA</td>
+<td align="center"><a href="https://ars2.equest.com/?response_id=928c411e3892b804ed78526aa25f9e12">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683">Software Developer Intern</a></td>
@@ -2667,6 +2702,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>MaxInsights</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a></td>
+<td>Santa Clara</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Brex</strong></td>
 <td><a href="https://trueinterview.io/jobs/4516dba7-1a70-436b-b62a-db0deb1128bc">Software Engineer, Internship - 2027</a></td>
 <td>São Paulo, São Paulo, Brazil</td>
@@ -2783,48 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/03b6f2bf-d877-4bc2-99d1-93fff8499edf">ASIC Design and Verification Intern, SOC - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462336375/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MediaTek</strong></td>
-<td><a href="https://trueinterview.io/jobs/41e7b8f4-7371-4ff2-9997-74cac92fe364">Deep Learning Internship</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4405127940/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1209f4d-3f83-447b-aa2c-c3066f9d7ae4">Extracurricular Internship: Python and AI Development Engineer (f/m/div)</a></td>
-<td>Padua, Veneto, Italy</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480821983/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/0519171c-6f33-428d-983c-d8ff4ec1a484">Software Engineer Intern 2027</a></td>
-<td>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452930185/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/4f32f529-c6d0-4489-b7c1-f0ae8f1e9600">Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451200166/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/45ef8a5d-1500-4595-9a96-d879e717d18c">Research Scientist Intern, Muse Post-Training &amp; Flywheel (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486667980/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/49bc9f5b-45e7-478c-9cfb-871e9f8db6cd">System Software Engineer Intern, Autonomous Vehicles - 2027</a></td>
-<td>Shanghai, Shanghai, China<br/>Shenzhen, Guangdong, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487636439/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
 </tr>
 </tbody>
