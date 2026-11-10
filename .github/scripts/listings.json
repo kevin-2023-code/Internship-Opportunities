@@ -5,9 +5,198 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-09T23:04:18.966Z",
-  "count": 3510,
+  "listingsChangedAt": "2026-11-10T00:10:58.774Z",
+  "count": 3500,
   "listings": [
+    {
+      "id": "5fe328f5-3488-40f5-b88b-399218fda7f7",
+      "company": "pivotal",
+      "title": "Internship, Mechanical Engineering (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506",
+      "url": "https://trueinterview.io/jobs/5fe328f5-3488-40f5-b88b-399218fda7f7",
+      "postedAt": "2026-11-09T23:18:25.000Z",
+      "updatedAt": "2026-11-09T23:18:25.000Z"
+    },
+    {
+      "id": "16f542cf-73cc-4cbf-8a12-4a6d2d9d51a8",
+      "company": "pivotal",
+      "title": "Manufacturing Engineering Internship (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2",
+      "url": "https://trueinterview.io/jobs/16f542cf-73cc-4cbf-8a12-4a6d2d9d51a8",
+      "postedAt": "2026-11-09T23:17:34.000Z",
+      "updatedAt": "2026-11-09T23:17:34.000Z"
+    },
+    {
+      "id": "f00f33c8-ea3a-4381-8045-8048d789170a",
+      "company": "pivotal",
+      "title": "Internship, Flight Test Engineer (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b",
+      "url": "https://trueinterview.io/jobs/f00f33c8-ea3a-4381-8045-8048d789170a",
+      "postedAt": "2026-11-09T23:16:25.000Z",
+      "updatedAt": "2026-11-09T23:16:25.000Z"
+    },
+    {
+      "id": "1f539fdc-fc3e-481f-a22d-ef5137c1f1a3",
+      "company": "pivotal",
+      "title": "Internship, Electrical Engineering (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb",
+      "url": "https://trueinterview.io/jobs/1f539fdc-fc3e-481f-a22d-ef5137c1f1a3",
+      "postedAt": "2026-11-09T23:15:11.000Z",
+      "updatedAt": "2026-11-09T23:15:11.000Z"
+    },
+    {
+      "id": "d9562f2a-908c-4cbc-9b0d-f5c54318628d",
+      "company": "pivotal",
+      "title": "Internship, Software Engineering (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
+      "url": "https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d",
+      "postedAt": "2026-11-09T23:14:31.000Z",
+      "updatedAt": "2026-11-09T23:14:31.000Z"
+    },
+    {
+      "id": "524487ef-1cb1-4411-aa79-0483ddc1ba65",
+      "company": "The New York Times",
+      "title": "ML Scientist Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005",
+      "url": "https://trueinterview.io/jobs/524487ef-1cb1-4411-aa79-0483ddc1ba65",
+      "postedAt": "2026-11-09T22:26:36.000Z",
+      "updatedAt": "2026-11-09T22:26:36.000Z"
+    },
+    {
+      "id": "eb11b16f-ae55-4265-9c8a-9d31623027da",
+      "company": "The New York Times",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
+      "url": "https://trueinterview.io/jobs/eb11b16f-ae55-4265-9c8a-9d31623027da",
+      "postedAt": "2026-11-09T22:26:15.000Z",
+      "updatedAt": "2026-11-09T22:26:15.000Z"
+    },
     {
       "id": "bae42d71-c503-44d9-aac7-036dcb1bbd13",
       "company": "Veolia",
@@ -2911,31 +3100,6 @@
       "url": "https://trueinterview.io/jobs/7d8e1b3a-adf7-457c-b553-ffe5043e801c",
       "postedAt": "2026-11-07T21:32:00.000Z",
       "updatedAt": "2026-11-07T21:32:00.000Z"
-    },
-    {
-      "id": "4c40e687-951f-498f-b1c2-3a57d74431f6",
-      "company": "Cair Health",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488739551/",
-      "url": "https://trueinterview.io/jobs/4c40e687-951f-498f-b1c2-3a57d74431f6",
-      "postedAt": "2026-11-07T21:24:00.000Z",
-      "updatedAt": "2026-11-07T21:24:00.000Z"
     },
     {
       "id": "0a2618a9-83cf-42cc-987b-4f8f074417ed",
@@ -8914,31 +9078,6 @@
       "url": "https://trueinterview.io/jobs/af0d4d28-a495-4dec-af46-2858e04bab5c",
       "postedAt": "2026-11-05T20:06:00.000Z",
       "updatedAt": "2026-11-05T20:06:00.000Z"
-    },
-    {
-      "id": "36130515-0419-4026-bf87-a93cfb9f5e7d",
-      "company": "Toyota Research Institute",
-      "title": "Automated Driving Advanced Development Intern, Machine Learning Research",
-      "locations": [
-        "Los Altos, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4",
-      "url": "https://trueinterview.io/jobs/36130515-0419-4026-bf87-a93cfb9f5e7d",
-      "postedAt": "2026-11-04T20:52:00.000Z",
-      "updatedAt": "2026-11-05T20:05:00.000Z"
     },
     {
       "id": "9f8fe6a3-a4a0-4fa1-a2bf-35b8ee8ed060",
@@ -29761,33 +29900,6 @@
       "url": "https://trueinterview.io/jobs/98f7208f-2ca4-48ab-a8ec-694a1d5f4406",
       "postedAt": "2026-10-30T19:36:16.000Z",
       "updatedAt": "2026-10-30T19:36:16.000Z"
-    },
-    {
-      "id": "bcaad2a0-86aa-4ded-8401-85eb5028bc99",
-      "company": "The New York Times",
-      "title": "Backend Engineering Intern, Wirecutter",
-      "locations": [
-        "New York, NY"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005",
-      "url": "https://trueinterview.io/jobs/bcaad2a0-86aa-4ded-8401-85eb5028bc99",
-      "postedAt": "2026-10-30T19:02:07.000Z",
-      "updatedAt": "2026-10-30T19:02:07.000Z"
     },
     {
       "id": "0bc358c2-36d8-4d73-89bb-8f97458cfa66",
@@ -90863,376 +90975,6 @@
       "url": "https://trueinterview.io/jobs/ce8b8ae1-8f59-4291-ac76-a775700a5f90",
       "postedAt": "2026-09-11T02:35:58.000Z",
       "updatedAt": "2026-09-11T02:35:58.000Z"
-    },
-    {
-      "id": "ad6bdd0c-de24-4b8b-8bb1-785fec9aab38",
-      "company": "Amazon",
-      "title": "Data Center Engineering Operations Technician Internship",
-      "locations": [
-        "Sterling, Virginia, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship",
-      "url": "https://trueinterview.io/jobs/ad6bdd0c-de24-4b8b-8bb1-785fec9aab38",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "90738bb8-0f77-46d8-927c-0381a9d29dd1",
-      "company": "AMD",
-      "title": "2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States",
-        "Santa Clara, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/92346?lang=en-us",
-      "url": "https://trueinterview.io/jobs/90738bb8-0f77-46d8-927c-0381a9d29dd1",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "2e2729c3-c320-4259-993e-46adb4b9d65b",
-      "company": "AMD",
-      "title": "2027 PhD Optical & Photonics Engineering Intern/Co-Op",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States",
-        "Santa Clara, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/92358?lang=en-us",
-      "url": "https://trueinterview.io/jobs/2e2729c3-c320-4259-993e-46adb4b9d65b",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "3e4bd8f5-75d1-4bd5-8ca5-82e7971c171b",
-      "company": "AMD",
-      "title": "2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
-      "locations": [
-        "US,CA,San Jose",
-        "San Jose, California, United States",
-        "Santa Clara, California, United States"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.amd.com/careers-home/jobs/92350?lang=en-us",
-      "url": "https://trueinterview.io/jobs/3e4bd8f5-75d1-4bd5-8ca5-82e7971c171b",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "ee3ad817-cc63-4af6-ab38-3e2ffa67fbef",
-      "company": "Emerson",
-      "title": "Project Engineering Co-op - Spring 2027",
-      "locations": [
-        "Pittsburgh, PA, United States",
-        "Blue Bell, PA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010587",
-      "url": "https://trueinterview.io/jobs/ee3ad817-cc63-4af6-ab38-3e2ffa67fbef",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "f6a1196c-5fd8-4915-ad8e-df8b35505f7a",
-      "company": "Emerson",
-      "title": "Research & Development Engineering Co-Op - Spring 2027",
-      "locations": [
-        "Pittsburgh, PA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010785",
-      "url": "https://trueinterview.io/jobs/f6a1196c-5fd8-4915-ad8e-df8b35505f7a",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "052c976b-41ea-4ac6-b679-2457da715e05",
-      "company": "Emerson",
-      "title": "Software Product Management Intern",
-      "locations": [
-        "Austin, TX, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010799",
-      "url": "https://trueinterview.io/jobs/052c976b-41ea-4ac6-b679-2457da715e05",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "953943a0-b0bd-485d-b4f0-46cf13372f90",
-      "company": "Emerson",
-      "title": "Test Engineering Intern",
-      "locations": [
-        "Austin, TX, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010099",
-      "url": "https://trueinterview.io/jobs/953943a0-b0bd-485d-b4f0-46cf13372f90",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "b9aad312-a6c7-4ecf-b8ef-c75fdfddcb95",
-      "company": "Garmin",
-      "title": "Aviation Human Factors Intern",
-      "locations": [
-        "Olathe, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.garmin.com/jobs/20158?lang=en-us",
-      "url": "https://trueinterview.io/jobs/b9aad312-a6c7-4ecf-b8ef-c75fdfddcb95",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "ed846908-e2f4-4b4a-bd27-ea1774160224",
-      "company": "Microsoft",
-      "title": "Product Management Intern - CTJ - TS",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-      "url": "https://trueinterview.io/jobs/ed846908-e2f4-4b4a-bd27-ea1774160224",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "649aec5a-0b47-4d3f-a812-1342c048a739",
-      "company": "Microsoft",
-      "title": "Security Assurance Intern - CTJ - TS",
-      "locations": [
-        "Redmond, WA, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://apply.careers.microsoft.com/careers/job/1970393556988203",
-      "url": "https://trueinterview.io/jobs/649aec5a-0b47-4d3f-a812-1342c048a739",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "ca8f5ed9-20ea-403b-9d5f-fecbf7de24c7",
-      "company": "Texas Instruments",
-      "title": "Systems Engineering Intern",
-      "locations": [
-        "Dallas, TX, United States",
-        "Sugar Land, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017917",
-      "url": "https://trueinterview.io/jobs/ca8f5ed9-20ea-403b-9d5f-fecbf7de24c7",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "b6faaf5e-a70b-4e89-9c21-1ecf2cc2e378",
-      "company": "Texas Instruments",
-      "title": "Systems Engineering Intern - MS/PhD",
-      "locations": [
-        "Dallas, TX, United States",
-        "Sugar Land, TX, United States",
-        "Knoxville, TN, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017542",
-      "url": "https://trueinterview.io/jobs/b6faaf5e-a70b-4e89-9c21-1ecf2cc2e378",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
-    },
-    {
-      "id": "8e11a7a7-6bd2-406d-8c69-ec735795db1f",
-      "company": "Texas Instruments",
-      "title": "Systems Marketing Engineering Intern (SEM)",
-      "locations": [
-        "Dallas, TX, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017540",
-      "url": "https://trueinterview.io/jobs/8e11a7a7-6bd2-406d-8c69-ec735795db1f",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "updatedAt": "2026-09-11T00:00:00.000Z"
     }
   ]
 }
