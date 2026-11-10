@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**55 open roles.**
+**56 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Enova International</strong></td>
+<td><a href="https://trueinterview.io/jobs/b27c2570-1dde-46b1-a0af-dffe248646a2">Software Engineer Internship Summer 2027 (Hybrid)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473279181/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>AECOM</strong></td>
 <td><a href="https://trueinterview.io/jobs/2c2da1be-e3b2-486a-9324-1d05c198c185">Rail Engineering Intern</a></td>

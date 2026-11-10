@@ -33,16 +33,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3cbe4a5a-d104-447e-8c59-8d19e19b5341">Data Engineering Intern - Summer 2027</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8910327002">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/2f3b6040-2afe-425a-b4e8-d22d7510d928">Software Engineering Intern - Summer 2027</a></td>
+<td>New York, NY<br/>Edinburgh, UK<br/>New York City Metropolitan Area</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8927507002">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2f3b6040-2afe-425a-b4e8-d22d7510d928">Software Engineering Intern - Summer 2027</a></td>
-<td>New York, NY<br/>Edinburgh, UK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8927507002">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/3cbe4a5a-d104-447e-8c59-8d19e19b5341">Data Engineering Intern - Summer 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8910327002">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -321,8 +321,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478153489/">Apply</a></td>
+<td>New York, NY<br/>San Francisco, CA • New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>

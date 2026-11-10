@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**41 open roles.**
+**38 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -282,27 +282,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Phoenix, Arizona, United States<br/>Orlando, Florida, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/brph/jobs/4399628009">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cirrus Logic</strong></td>
-<td><a href="https://trueinterview.io/jobs/418563a5-7f4c-415f-a589-7b0e34bde72e">2027 Internship - Digital Design Engineer</a></td>
-<td>Chandler, Arizona<br/>Austin, TX<br/>Austin, Texas<br/>+1 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/189af0eb-3340-47e7-a83a-34a03d14b6f3">2027 Internship - Design Verification Engineer</a></td>
-<td>Chandler, Arizona<br/>Austin, TX<br/>Austin, Texas<br/>+1 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/92d266e7-4c8c-4d30-821c-e37c91007ae3">2027 Internship - Analog Design Engineer</a></td>
-<td>Chandler, Arizona<br/>Austin, TX<br/>Austin, Texas<br/>+1 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec">Apply</a></td>
-<td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
 </table>

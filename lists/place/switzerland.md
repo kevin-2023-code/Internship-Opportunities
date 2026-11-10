@@ -2,7 +2,7 @@
 
 # 🇨🇭 Zürich & Switzerland
 
-**33 open roles.** 2 in the United States & Canada · 31 elsewhere in the world.
+**32 open roles.** 2 in the United States & Canada · 30 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -143,13 +143,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>ONWARD Medical</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f472ec5-b28f-4315-bb00-a20781ee2a6d">Firmware Intern</a></td>
-<td>Lausanne, Vaud, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/49891cd0-4498-489b-ad7f-a580e0d157d6">Mechanical Engineering Intern</a></td>
 <td>Lausanne, Vaud, Switzerland<br/>Lausanne, Switzerland</td>
 <td align="center"><a href="https://onwardmedical.careers.hibob.com/jobs/ccc27101-e939-40a1-8a0e-829cf5050a05">Apply</a></td>

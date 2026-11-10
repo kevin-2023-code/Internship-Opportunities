@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Addepar</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f3b6040-2afe-425a-b4e8-d22d7510d928">Software Engineering Intern - Summer 2027</a></td>
-<td>Edinburgh, UK<br/>New York, NY</td>
+<td>Edinburgh, UK<br/>New York, NY<br/>New York City Metropolitan Area</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8927507002">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>

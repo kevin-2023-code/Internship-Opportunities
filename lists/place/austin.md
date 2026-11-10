@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**94 open roles.**
+**91 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/af73112c-793a-4e7f-a280-6af256a84384">Data Analytics Intern</a></td>
+<td>Austin, TX<br/>Austin, Texas, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000160961018-data-analytics-intern">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GlobalFoundries</strong></td>
 <td><a href="https://trueinterview.io/jobs/5f4f7d69-624b-419c-8dd1-6801076e81be">CPU IP Design &amp; Verification Intern – RISC-V Processor Development (Summer 2027)</a></td>
@@ -645,34 +652,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f020915-0ecb-4d31-879b-4b15856f11bf">2027 Internship - Product Test Engineer</a></td>
 <td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fa3786e0-35e2-4b1a-b69e-cda31ffe8181">2027 Internship - Validation Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/418563a5-7f4c-415f-a589-7b0e34bde72e">2027 Internship - Digital Design Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas<br/>Chandler, Arizona<br/>+1 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/189af0eb-3340-47e7-a83a-34a03d14b6f3">2027 Internship - Design Verification Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas<br/>Chandler, Arizona<br/>+1 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/92d266e7-4c8c-4d30-821c-e37c91007ae3">2027 Internship - Analog Design Engineer</a></td>
-<td>Austin, TX<br/>Austin, Texas<br/>Chandler, Arizona<br/>+1 more</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>
