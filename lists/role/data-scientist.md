@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**107 open roles.** 87 in the United States & Canada · 20 elsewhere in the world.
+**108 open roles.** 88 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Carlisle Construction Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8e457c5-d4c2-424d-bfaa-c14945727753">AI &amp; Data Science Intern</a></td>
+<td>Carlisle, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488623104/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PennEngineering®</strong></td>
 <td><a href="https://trueinterview.io/jobs/67856ad7-eb98-4942-a07c-7abeec52dd16">AI &amp; Data Intern</a></td>

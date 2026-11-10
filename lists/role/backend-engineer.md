@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**15 open roles.** 12 in the United States & Canada · 3 elsewhere in the world.
+**16 open roles.** 12 in the United States & Canada · 4 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -125,6 +125,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8cbf82da-ce6a-4fd8-928c-1b32436bd58b">Intern Backend Developer</a></td>
 <td>Amsterdam, Rotterdam</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8364817">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/200e2549-2f7a-4232-a584-e28a542b4947">SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an</a></td>
+<td>Xi'an, China</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160813099-sap-china-ixp-intern-hana-cloud-microservice-developer-xi-an">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
