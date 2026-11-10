@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**955 open roles.** 786 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
+**956 open roles.** 786 in the United States & Canada · 170 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -148,8 +148,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Tonic.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d">Forward Deployed Engineer, Data De-Identification (Co-op)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489161387/">Apply</a></td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/TonicAI/e632d472-fbd2-475a-9878-536c0eacb5e9">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -549,6 +549,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bc543b24-c54e-4325-bfb0-53b8ffb3f92b">V&amp;V Systems Engineer Co-op</a></td>
 <td>Lawrence, MA</td>
 <td align="center"><a href="https://jobs.freseniusmedicalcare.com/v-v-systems-engineer-co-op/job/31E772DDCF188A2FBFC0792A3AC44BCB">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Quality Vision International</strong></td>
+<td><a href="https://trueinterview.io/jobs/099a6876-f1cb-4bb8-a21f-e68e9d6e4b27">Electrical Engineer Co-op</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4652257/OGPOptical-Gaging-Products/Electrical-Engineer-Coop">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8045a93e-d9da-4cce-ab87-9b751f4ea69d">Software QA Test Engineer Intern - Spring 2027</a></td>
 <td>Cincinnati, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451474423/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
-<td>Round Rock, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

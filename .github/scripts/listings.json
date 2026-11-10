@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T06:07:27.749Z",
-  "count": 3511,
+  "listingsChangedAt": "2026-11-10T07:06:08.031Z",
+  "count": 3513,
   "listings": [
     {
       "id": "f5cca3dc-a444-4104-b17b-4a7c7ab2656a",
@@ -111,6 +111,31 @@
       "url": "https://trueinterview.io/jobs/00c7a437-e466-4987-b838-313a400d7332",
       "postedAt": "2026-11-10T05:00:00.000Z",
       "updatedAt": "2026-11-10T05:00:00.000Z"
+    },
+    {
+      "id": "ba0363f6-91ed-4664-931e-67441a1a93e9",
+      "company": "Bosch",
+      "title": "Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)",
+      "locations": [
+        "Amata City Rayong Industrial Estate, RAYONG, Thailand"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160793209-internship-2026-technical-engineering-in-industrial-engineering-chassis-system-rbty-bps-",
+      "url": "https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9",
+      "postedAt": "2026-11-10T04:59:05.000Z",
+      "updatedAt": "2026-11-10T04:59:05.000Z"
     },
     {
       "id": "bb6f3924-d081-49a6-8f3e-2e703f72ec1f",
@@ -479,7 +504,8 @@
       "company": "Tonic.ai",
       "title": "Forward Deployed Engineer, Data De-Identification (Co-op)",
       "locations": [
-        "United States"
+        "United States",
+        "Remote"
       ],
       "cities": [],
       "countries": [
@@ -494,7 +520,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489161387/",
+      "applyUrl": "https://jobs.ashbyhq.com/TonicAI/e632d472-fbd2-475a-9878-536c0eacb5e9",
       "url": "https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d",
       "postedAt": "2026-11-10T00:14:00.000Z",
       "updatedAt": "2026-11-10T00:14:00.000Z"
@@ -2351,6 +2377,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.freseniusmedicalcare.com/v-v-systems-engineer-co-op/job/31E772DDCF188A2FBFC0792A3AC44BCB",
       "url": "https://trueinterview.io/jobs/bc543b24-c54e-4325-bfb0-53b8ffb3f92b",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
+    },
+    {
+      "id": "099a6876-f1cb-4bb8-a21f-e68e9d6e4b27",
+      "company": "Quality Vision International",
+      "title": "Electrical Engineer Co-op",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4652257/OGPOptical-Gaging-Products/Electrical-Engineer-Coop",
+      "url": "https://trueinterview.io/jobs/099a6876-f1cb-4bb8-a21f-e68e9d6e4b27",
       "postedAt": "2026-11-09T06:00:00.000Z",
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },

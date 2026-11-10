@@ -106,8 +106,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Tonic.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d">Forward Deployed Engineer, Data De-Identification (Co-op)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489161387/">Apply</a></td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/TonicAI/e632d472-fbd2-475a-9878-536c0eacb5e9">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

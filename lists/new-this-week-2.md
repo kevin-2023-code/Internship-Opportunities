@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**955 open roles.** 786 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
+**956 open roles.** 786 in the United States & Canada · 170 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Plante Moran</strong></td>
 <td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
@@ -2710,13 +2717,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478300807/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Roku</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fd04c6a-d4e9-4650-aa2a-d4658e51d3b7">SW Engineer Intern, AI Engineering</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2729,6 +2729,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9">Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)</a></td>
+<td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160793209-internship-2026-technical-engineering-in-industrial-engineering-chassis-system-rbty-bps-">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Brex</strong></td>
 <td><a href="https://trueinterview.io/jobs/4516dba7-1a70-436b-b62a-db0deb1128bc">Software Engineer, Internship - 2027</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6f7cf471-ed89-455e-b48c-c6619c22cee8">Internship in GenAI Knowledge Assistant for Engineering</a></td>
 <td>Wernau (Neckar), Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160555829-internship-in-genai-knowledge-assistant-for-engineering">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9782acc5-c6af-40ef-ac5d-d71e849819e3">[BD] IT Product Business Analyst / Product Owner Assistant (6-month Internship)</a></td>
-<td>Ho Chi Minh, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160528309--bd-it-product-business-analyst-product-owner-assistant-6-month-internship-">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**764 open roles.** 691 in the United States & Canada · 73 elsewhere in the world.
+**766 open roles.** 692 in the United States & Canada · 74 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -108,6 +108,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e3762e62-5647-49e4-b71a-e52fa8bec61f">Industrial Engineer Co-op (Spring 2027)</a></td>
 <td>Moon Township, PA</td>
 <td align="center"><a href="https://careers.fedex.com/industrial-engineer-co-op-spring-2027/job/P25-395329-1">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Quality Vision International</strong></td>
+<td><a href="https://trueinterview.io/jobs/099a6876-f1cb-4bb8-a21f-e68e9d6e4b27">Electrical Engineer Co-op</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4652257/OGPOptical-Gaging-Products/Electrical-Engineer-Coop">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2811,13 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Meridian, ID, United States</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96802">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SK hynix memory solutions America Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/b108b76f-2636-480e-9743-5613553fd30c">Intern, Mechanical Engineer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4452580009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 </tbody>
 </table>

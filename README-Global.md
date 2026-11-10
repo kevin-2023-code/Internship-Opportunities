@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-10 06:07 UTC_
+_Last updated: 2026-11-10 07:06 UTC_
 
-**700 open internships** from **313 employers** · **169 posted in the last 7 days** · refreshed hourly
+**701 open internships** from **313 employers** · **170 posted in the last 7 days** · refreshed hourly
 
-### Browse 700 internships by field
+### Browse 701 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (332)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (186)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (73)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (74)
 
 📱 **[Product & Design](#-product--design)** (63)
 
@@ -40,7 +40,7 @@ _Last updated: 2026-11-10 06:07 UTC_
 
 ### 🔥 Posting the most this week
 
-**Bosch** 19 &nbsp;·&nbsp; **NVIDIA** 9 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **CERN** 6 &nbsp;·&nbsp; **Optiver** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **SIA** 5 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Mercari, Inc.** 3 &nbsp;·&nbsp; **SAP** 3
+**Bosch** 20 &nbsp;·&nbsp; **NVIDIA** 9 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **CERN** 6 &nbsp;·&nbsp; **Optiver** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **SIA** 5 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Mercari, Inc.** 3 &nbsp;·&nbsp; **SAP** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 31 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (105)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (38)](lists/place/uk.md) · [🇫🇷 Paris & France (35)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (24)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (24)](lists/place/poland-cee.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [+4 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (169)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (170)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -974,6 +974,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9">Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)</a> 🆕</td>
+<td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160793209-internship-2026-technical-engineering-in-industrial-engineering-chassis-system-rbty-bps-">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7c4a409-b359-4708-8d71-0049759019b0">Compute System Arch AI Infra Intern - 2027</a> 🆕</td>
 <td>Shanghai, Shanghai, China</td>
@@ -1141,13 +1148,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483445130/">Apply</a></td>
 <td align="center">10d</td>
 </tr>
-<tr>
-<td><strong>WD</strong></td>
-<td><a href="https://trueinterview.io/jobs/16281530-f425-4f40-9553-2bd756749fed">Intern - Manufacturing Engineer</a></td>
-<td>Kuching, Sarawak, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446286215/">Apply</a></td>
-<td align="center">10d</td>
-</tr>
 </tbody>
 </table>
 
@@ -1255,7 +1255,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 38 of 73.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 38 of 74.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 

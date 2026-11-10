@@ -32,17 +32,17 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-10 06:07 UTC_
+_Last updated: 2026-11-10 07:06 UTC_
 
-**2,811 open internships** from **1,136 employers** · **786 posted in the last 7 days** · refreshed hourly
+**2,812 open internships** from **1,137 employers** · **786 posted in the last 7 days** · refreshed hourly
 
-### Browse 2,811 internships by field
+### Browse 2,812 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (1,313)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (524)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (691)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (692)
 
 📱 **[Product & Design](#-product--design)** (163)
 
@@ -180,8 +180,8 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <tr>
 <td><strong>Tonic.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d">Forward Deployed Engineer, Data De-Identification (Co-op)</a> 🆕</td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489161387/">Apply</a></td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/TonicAI/e632d472-fbd2-475a-9878-536c0eacb5e9">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 <tr>
@@ -1289,6 +1289,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">1d</td>
 </tr>
 <tr>
+<td><strong>Quality Vision International</strong></td>
+<td><a href="https://trueinterview.io/jobs/099a6876-f1cb-4bb8-a21f-e68e9d6e4b27">Electrical Engineer Co-op</a> 🆕</td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4652257/OGPOptical-Gaging-Products/Electrical-Engineer-Coop">Apply</a></td>
+<td align="center">1d</td>
+</tr>
+<tr>
 <td><strong>Texas Instruments</strong></td>
 <td><a href="https://trueinterview.io/jobs/26c92da7-e75e-4c4a-b4ef-6a505e6f92b4">Quality Engineering Intern - Santa Clara</a> 🆕</td>
 <td>United States</td>
@@ -1363,13 +1370,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/c63bdc8d-0ccd-45b7-a4bc-224d0473bfee">Mechanical Engineering Intern</a></td>
 <td>Spokane, Washington, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000159944319-mechanical-engineering-intern">Apply</a></td>
-<td align="center">4d</td>
-</tr>
-<tr>
-<td><strong>Lumbermen's</strong></td>
-<td><a href="https://trueinterview.io/jobs/79138499-c973-44cf-a6d8-8663b9ea8b63">Industrial Engineer Internship</a></td>
-<td>Byron Center, MI</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lumbermens/jobs/5474347008">Apply</a></td>
 <td align="center">4d</td>
 </tr>
 </tbody>
@@ -1738,7 +1738,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 691.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 692.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -2208,7 +2208,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/f3a8f934-1630-4b1b-a37f-35794fe01c6b">Quantitative Research Intern</a> 🆕</td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488838245/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>IMC Trading</strong></td>
