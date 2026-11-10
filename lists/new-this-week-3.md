@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**978 open roles.** 789 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**955 open roles.** 786 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,34 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>UNIVERSAL PHOENIX GROUP LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e46f7d9-f27b-406f-a60f-c092ffcb7de1">UX/UI Game Dev (Unity) Internship</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=272776831ae58ae8">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f7cf471-ed89-455e-b48c-c6619c22cee8">Internship in GenAI Knowledge Assistant for Engineering</a></td>
-<td>Wernau (Neckar), Baden-Württemberg, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160555829-internship-in-genai-knowledge-assistant-for-engineering">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9782acc5-c6af-40ef-ac5d-d71e849819e3">[BD] IT Product Business Analyst / Product Owner Assistant (6-month Internship)</a></td>
-<td>Ho Chi Minh, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160528309--bd-it-product-business-analyst-product-owner-assistant-6-month-internship-">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8dfabaf-bfa3-406d-87a1-e5b8489af8c2">FY27 Intern - Software Intern (Data Center, Cloud-AI Engineering) - Cork</a></td>
@@ -1128,139 +1100,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a0223064-7a5c-403c-a07d-702c27f339f4">Final year internship - Data Scientist &amp; AI Consultant</a></td>
 <td>Paris, Île-de-France, France</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159070239-final-year-internship-data-scientist-ai-consultant">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/f408eada-6af1-4210-95c6-e436a041cbf9">SLAM / Computer Vision Intern, RIVR</a></td>
-<td>Zürich, Switzerland</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10595274/slam--computer-vision-intern-rivr?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/64721d9c-264a-4d27-8a12-4ece3dee387d">Internship - Value Engineering</a></td>
-<td>Munich<br/>München, Deutschland<br/>Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/blp-digital/087fbd2d-ff8d-4673-a30e-5a1e2970fc19">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Enterpret</strong></td>
-<td><a href="https://trueinterview.io/jobs/03b656ea-8f22-46e7-bd62-63992417c322">Machine Learning Intern</a></td>
-<td>Bengaluru<br/>India</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/enterpret/jobs/7723230003">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Forvia</strong></td>
-<td><a href="https://trueinterview.io/jobs/70e29999-7900-4a90-884f-29253af8f04b">HR Data Analyst intern</a></td>
-<td>Nanterre, France</td>
-<td align="center"><a href="https://jobs.faurecia.com/careers/job/563087417782454">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Holcim</strong></td>
-<td><a href="https://trueinterview.io/jobs/dba57f1b-b586-4ca0-bff8-08f199082b17">R&amp;D Engineer Intern - Calcined Clay Cement</a></td>
-<td>Saint-Quentin-Fallavier, France</td>
-<td align="center"><a href="https://careers.holcimgroup.com/job/Saint-Quentin-Fallavier-R&amp;D-Engineer-Intern-Calcined-Clay-Cement-38291/1376462957/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/e555892b-5bfe-4d9b-b73d-a7a28965491f">Data Science Intern</a></td>
-<td>Spain</td>
-<td align="center"><a href="https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Science-Intern_UNI3977-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ITW Performance Polymers</strong></td>
-<td><a href="https://trueinterview.io/jobs/df946a49-191e-4bdd-9e54-e32a99831a59">Process Engineering Co-Op</a></td>
-<td>Clare, Ireland</td>
-<td align="center"><a href="https://careers.itw.com/us/en/job/ITWITWUSJR10942EXTERNALENUS/Process-Engineering-Co-Op">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Natixis</strong></td>
-<td><a href="https://trueinterview.io/jobs/194b37a8-7a7f-466a-a82a-9fee01a9fa79">Internship - 6 months - Data Scientist - F/M</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://recrutement.natixis.com/en/job/internship-6-months-data-scientist-f-m">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/3ec22e11-b9ad-4260-a07f-ebade9ff6ac0">FY27 Intern - Wireless R&amp;D, Engineering Internship - 6 month, France</a></td>
-<td>Lannion, France</td>
-<td align="center"><a href="https://app.eightfold.ai/careers/job/446721911135?domain=qualcomm.com">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Roche</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd517478-f076-4001-9c29-76645ddea4ba">Device Engineering Intern (Basel, 12 months)</a></td>
-<td>Basel, Switzerland</td>
-<td align="center"><a href="https://careers.roche.com/de/de/job/202610-127712">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Schneider Electric</strong></td>
-<td><a href="https://trueinterview.io/jobs/589b67b4-1b8c-40a5-b505-10202e060e5b">Engineer Services Tendering Intern STP27</a></td>
-<td>Sevilla, Spain</td>
-<td align="center"><a href="https://careers.se.com/jobs/140088/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4750fda9-368d-471b-bfec-0d069967932e">Tendering Project Engineer Intern STP27</a></td>
-<td>Spain</td>
-<td align="center"><a href="https://careers.se.com/jobs/140549/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Singtel</strong></td>
-<td><a href="https://trueinterview.io/jobs/2985cd32-75be-47f3-9da3-09b86a12cdd4">AI Product Manager &amp; Builder Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://groupcareers.singtel.com/job/AI-Product-Manager-&amp;-Builder-Intern-Sing/1369793766/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6725d491-8827-4c45-bff2-d1448e82b909">Mechanical Engineer Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://groupcareers.singtel.com/job/Mechanical-Engineer-Intern-Sing/1369792666/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Snowflake</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f5d4477-2ddf-4f65-8083-40991147c1db">Product Management Intern (Summer 2027)</a></td>
-<td>—</td>
-<td align="center"><a href="https://careers.snowflake.com/us/en/job/SNCOUSE832421F219C4250B0AB2357605ACAD2EXTERNALENUS88D996F408DB407C8859CA7912E59FBC">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/cf541c8b-7b2e-4240-a5f9-538f47bae89c">Energy Engineer Intern</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://veoliauki.wd3.myworkdayjobs.com/VeoliaIrelandCareers/job/Blanchardstown/Energy-Engineer-Intern_JR33810">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vertex Pharmaceuticals</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e90744a-3524-4746-a05d-643bc8ac6ae1">Data, Technology and Engineering Industrial Placement Student (12 months)</a></td>
-<td>Paddington, United Kingdom</td>
-<td align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Paddington-United-Kingdom/Data--Technology-and-Engineering-Industrial-Placement-Student--12-months-_REQ-30541">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shopee</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffb9778d-940d-4782-9954-a0ac0b8b67c2">Product Analyst Intern, Traffic &amp; Content - Business Intelligence AI Bot (Fall 2026)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440213049/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Activate Interactive Pte Ltd</strong></td>
-<td><a href="https://trueinterview.io/jobs/90607ea4-5fc0-4aa5-97b1-5b7ce06130b2">Data Science Intern - IN26008</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://apply.workable.com/j/88709D271D">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

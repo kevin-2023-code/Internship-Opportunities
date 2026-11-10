@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**193 open roles.** 129 in the United States & Canada · 64 elsewhere in the world.
+**192 open roles.** 128 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,9 +19,16 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5cca3dc-a444-4104-b17b-4a7c7ab2656a">Internship- Co-Op: AI Engineer</a></td>
+<td><a href="https://trueinterview.io/jobs/f5cca3dc-a444-4104-b17b-4a7c7ab2656a">Internship-Co-Op: AI Engineer</a></td>
 <td>San Diego, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489185656/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Epic Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
+<td>Cary, North Carolina, United States<br/>Cary, NC</td>
+<td align="center"><a href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -37,13 +44,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8">Apply</a></td>
 <td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Epic Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
-<td>Cary, North Carolina, United States</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004">Apply</a></td>
-<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Marketeq Digital Solutions</strong></td>
@@ -897,13 +897,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7fb740ae-2460-44ff-b2ae-d3104a2a15c5">Intern - Commercial Lending AI Engineer, Winter 2027</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8f184d69-e65b-44ad-987d-200a758a89b4">Intern - Retail Lending AI Engineer, Winter 2027</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

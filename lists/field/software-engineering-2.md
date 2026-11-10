@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,645 open roles.** 1,313 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ParetoHealth</strong></td>
+<td><a href="https://trueinterview.io/jobs/c982ef27-4484-4ac5-9796-a2e3636fd3b0">Software Engineering Summer Intern</a></td>
+<td>Greater Philadelphia<br/>Philadelphia, Pennsylvania, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alaska Airlines</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6cb4a0a-d274-498b-a6a4-76a43f86161c">Intern - Cybersecurity Threat Defense (Summer 2027)</a></td>
+<td>SeaTac, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485474411/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/baa4285d-3385-4b14-8a3f-3fb6210540cc">FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468400152/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Alaska Airlines</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a661aca-7d5e-4d7b-8e68-316acd90960d">Intern - Software Engineer (Summer 2027)</a></td>
+<td>SeaTac, WA</td>
+<td align="center"><a href="https://corporatejobs-alaskaair.icims.com/jobs/21277/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tecsys Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4fd9e789-e403-46b3-bcf7-2a6bb9a361c9">Intern - Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montréal, Canada</td>
+<td align="center"><a href="https://jobs.workable.com/view/mpivJfdgcSJjT1NuxcHFMi/hybrid-intern---developer-in-montreal-at-tecsys-inc.">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Nuclear Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774">Summer 2027 Software Engineering Intern</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amway</strong></td>
+<td><a href="https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b">Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)</a></td>
+<td>Ada, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478300807/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Alaska Airlines</strong></td>
 <td><a href="https://trueinterview.io/jobs/305782cc-b528-49a4-bac4-e6a0f6d58284">Engineering Co-op (Summer 2027)</a></td>
@@ -2764,55 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/c8d95cce-eeee-48ac-9b64-f8149b79e369">Engineering Intern</a></td>
 <td>South Sioux City, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466569328/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dassault Systèmes</strong></td>
-<td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.3ds.com/careers/jobs/internship-cfd-qa-software-engineer-550213">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bombardier</strong></td>
-<td><a href="https://trueinterview.io/jobs/395cc063-41ea-47b3-9f02-724bc68dfa8c">Year-round Avionics Engineering Intern</a></td>
-<td>Wichita, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467408858/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>National Laboratory of the Rockies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a0b74143-00d1-4274-9aa9-0ead6d742f6d">Post-Undergraduate Intern (Year-Round) - Separations Engineering</a></td>
-<td>Golden, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475110565/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/60b5c2fb-6c08-4bc0-ba53-c185a762f2ce">Android Applications Developer Intern - Summer 2027</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458281408/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Allegion</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b2f9524-8aa2-4540-a0d3-aeb3a2254381">Summer Intern - Software Systems Engineering</a></td>
-<td>Golden, Colorado, United States</td>
-<td align="center"><a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Navy Federal Credit Union</strong></td>
-<td><a href="https://trueinterview.io/jobs/56b1416e-0081-4046-a45c-71b8fe0c0491">Summer Associate Internship (Product Security Engineer)</a></td>
-<td>Vienna, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467915763/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

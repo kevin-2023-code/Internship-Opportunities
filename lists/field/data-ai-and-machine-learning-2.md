@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**712 open roles.** 525 in the United States & Canada · 187 elsewhere in the world.
+**710 open roles.** 524 in the United States & Canada · 186 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Strada Education Foundation</strong></td>
+<td><a href="https://trueinterview.io/jobs/afbca280-289c-4daa-90fb-472ea1ddc928">Strada Education Foundation Internship: Clear Outcomes and Data Science Intern</a></td>
+<td>Washington, DC<br/>Washington, District of Columbia, United States</td>
+<td align="center"><a href="https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/e2bb6785-bac1-4451-9a04-6046984c89c5">Research Scientist Intern, Efficient World Foundation Models (PhD)</a></td>
@@ -471,13 +478,6 @@
 <td align="center">6 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Bobyard</strong></td>
-<td><a href="https://trueinterview.io/jobs/fbaef0fd-bccc-4d9e-bc5d-6f19146a182b">Computer Vision Research Engineer - Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f/application">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Atlassian</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c0ade7e-ea91-417d-a927-1346dfd4c4c9">Data Engineer Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
@@ -793,13 +793,6 @@
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8f184d69-e65b-44ad-987d-200a758a89b4">Intern - Retail Lending AI Engineer, Winter 2027</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Intuit</strong></td>
 <td><a href="https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da">Summer 2027: PhD AI Research Intern</a></td>
 <td>Mountain View, California</td>
@@ -902,13 +895,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>MaxInsights</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a></td>
-<td>Santa Clara</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>

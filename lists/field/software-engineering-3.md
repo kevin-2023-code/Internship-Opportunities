@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,645 open roles.** 1,313 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/5030d405-f142-4973-97b5-70db7d4f7bd5">INTERNSHIP - CFD QA Software Engineer</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.3ds.com/careers/jobs/internship-cfd-qa-software-engineer-550213">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bombardier</strong></td>
+<td><a href="https://trueinterview.io/jobs/395cc063-41ea-47b3-9f02-724bc68dfa8c">Year-round Avionics Engineering Intern</a></td>
+<td>Wichita, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467408858/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Nuclear Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b1ef576-8e8a-4570-a430-e6b466d1c15e">Spring 2027 Security Engineer Intern</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>National Laboratory of the Rockies</strong></td>
+<td><a href="https://trueinterview.io/jobs/a0b74143-00d1-4274-9aa9-0ead6d742f6d">Post-Undergraduate Intern (Year-Round) - Separations Engineering</a></td>
+<td>Golden, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475110565/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Motorola Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/60b5c2fb-6c08-4bc0-ba53-c185a762f2ce">Android Applications Developer Intern - Summer 2027</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458281408/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Allegion</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b2f9524-8aa2-4540-a0d3-aeb3a2254381">Summer Intern - Software Systems Engineering</a></td>
+<td>Golden, Colorado, United States</td>
+<td align="center"><a href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR37395-1">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Navy Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/56b1416e-0081-4046-a45c-71b8fe0c0491">Summer Associate Internship (Product Security Engineer)</a></td>
+<td>Vienna, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467915763/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Toshiba America Electronic Components, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e8f8e9f-887c-4825-9008-e924564c8b7d">5054 SSW Engineer Intern</a></td>
@@ -1570,13 +1619,6 @@
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/c53eff5d-623b-4e5d-9330-a49d788ce838">Intern - Materials Test Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/da8cc185-70d0-4a8e-b484-9866c71b593e">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>AbbVie</strong></td>
 <td><a href="https://trueinterview.io/jobs/8ad6fd4b-bd6a-440b-ba11-acb2c92d1d6e">2027 Validation Engineer Co-Op (July - Dec) (Undergraduate)</a></td>
 <td>Worcester, Massachusetts, United States</td>
@@ -2127,13 +2169,6 @@
 <td><a href="https://trueinterview.io/jobs/279ad3c6-b79c-4d38-8d94-a6cc76a411f4">Field Engineering Intern</a></td>
 <td>Lincoln, Nebraska, United States<br/>Houston, Texas, United States<br/>Decatur, Illinois, United States<br/>+2 more</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699-field-engineering-intern">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/8aea634f-143b-43cb-a29f-ad658b1967de">Intern - Nuclear/Systems Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/a05832ae-41df-4e2d-ab86-dd3e2c4877d4">Apply</a></td>
 <td align="center">9 Oct 2026</td>
 </tr>
 <tr>
@@ -2779,41 +2814,6 @@
 <td>Austin, TX<br/>Austin, Texas, United States<br/>Raleigh, North Carolina, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54638?lang=en-us">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/13cf14c6-4712-47f6-960a-654aa280bb71">R&amp;D Software Engineer QA DevOps, Intern</a></td>
-<td>Santa Rosa, California, United States<br/>San Diego, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54417?lang=en-us">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/dca3daa8-18f7-4f77-876b-eb00ee25da2c">Transportation Engineering Intern- Fall 2026</a></td>
-<td>Albuquerque, NM, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96119">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Aevex</strong></td>
-<td><a href="https://trueinterview.io/jobs/6138bc3d-7c93-431c-8da9-613df7f944a7">Robotics Engineering Co-op</a></td>
-<td>Tampa, Florida, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Envoy</strong></td>
-<td><a href="https://trueinterview.io/jobs/9bae841d-6ce3-4e54-92ed-ca5964db3e9f">Solutions Engineering Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/envoy/f2e20a8a-0e10-48ee-a761-3cffb89a80ca/application">Apply</a></td>
-<td align="center">24 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Eqt Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/fe6c2921-364a-47fc-b29f-f5227a1767f3">Water Infrastructure Engineering Intern</a></td>
-<td>Canonsburg, PA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008">Apply</a></td>
-<td align="center">24 Sep 2026</td>
 </tr>
 </tbody>
 </table>

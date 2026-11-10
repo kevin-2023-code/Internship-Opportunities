@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**978 open roles.** 789 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**955 open roles.** 786 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,6 +20,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5cca3dc-a444-4104-b17b-4a7c7ab2656a">Internship-Co-Op: AI Engineer</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489185656/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Epic Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
+<td>Cary, North Carolina, United States<br/>Cary, NC</td>
+<td align="center"><a href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trimble Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcf88a23-6db7-478c-8863-a41d1029abc6">Software Engineer Intern</a></td>
+<td>Lake Oswego, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489194817/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/00c7a437-e466-4987-b838-313a400d7332">Embedded Software Engineer Intern</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489412011/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Maxinsights</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Marketeq Talent</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd6ac5b5-7a58-4599-9208-62458e6d9d14">UX Design Research Intern ( U.S.A Only )</a></td>
 <td>Miami, FL</td>
@@ -27,17 +62,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0bfac500-c6f4-4004-86ab-f3ba1bb8597a">Systems Engineering Intern - Safety Analysis (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/9370adbc-f344-4aeb-a99d-65acaac87894">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/72ba3d6a-9213-4bcd-b57e-7a6f94a2b098">Engineering Intern to the Chief Engineer (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/3d52867d-d340-4f45-8b35-9533ee456db8">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/35526e02-d42f-4099-80b0-360dba20e2c1">Systems Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Kiewit</strong></td>
 <td><a href="https://trueinterview.io/jobs/2cdd15df-af16-490d-a6fe-cec335ec44b7">Machine Learning Intern - Kiewit Data Services (Summer 2027)</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487989117/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASML</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5cca3dc-a444-4104-b17b-4a7c7ab2656a">Internship- Co-Op: AI Engineer</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489185656/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -178,13 +234,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1f539fdc-fc3e-481f-a22d-ef5137c1f1a3">Internship, Electrical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Epic Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
-<td>Cary, North Carolina, United States</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -486,6 +535,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a034e3b3-df2e-402d-a764-6b06fabe72fb">Computer Science Engineer Co-op (Spring 2027)</a></td>
 <td>Moon Township, PA</td>
 <td align="center"><a href="https://careers.fedex.com/computer-science-engineer-co-op-spring-2027/job/P25-395098-1">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e3762e62-5647-49e4-b71a-e52fa8bec61f">Industrial Engineer Co-op (Spring 2027)</a></td>
+<td>Moon Township, PA</td>
+<td align="center"><a href="https://careers.fedex.com/industrial-engineer-co-op-spring-2027/job/P25-395329-1">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fresenius Medical Care</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc543b24-c54e-4325-bfb0-53b8ffb3f92b">V&amp;V Systems Engineer Co-op</a></td>
+<td>Lawrence, MA</td>
+<td align="center"><a href="https://jobs.freseniusmedicalcare.com/v-v-systems-engineer-co-op/job/31E772DDCF188A2FBFC0792A3AC44BCB">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2754,69 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
 <td>Round Rock, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Plante Moran</strong></td>
-<td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
-<td>Denver, CO<br/>Southfield, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460650736/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/931f3a39-72ec-4970-b4e5-7df4280a7095">Data Engineer Intern (Data Platfrom TikTok BP) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469056609/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2388232c-e4f1-4b10-98a5-bd8507d8f29b">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4277122877/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Susquehanna International Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621">Quantitative Research Internship - PhD: Summer 2027</a></td>
-<td>New York, NY<br/>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4431533760/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ascend Learning</strong></td>
-<td><a href="https://trueinterview.io/jobs/c42fb8b2-c0e1-4f67-9385-c4058169c6df">Intern - Software Engineering</a></td>
-<td>Leawood, KS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471129906/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PayPal</strong></td>
-<td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7807c2f2-3e48-47a7-9337-9c91619d14a0">Machine Learning Engineer PhD Intern - Summer 2027</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922983152">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
-<td>Chicago, Illinois, United States<br/>Austin, TX<br/>San Jose, California, United States<br/>+4 more</td>
-<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SoTalent</strong></td>
-<td><a href="https://trueinterview.io/jobs/76d1c241-d450-4328-948e-e0961a331a89">Creative Design &amp; UX Research Intern</a></td>
-<td>California, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485590898/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

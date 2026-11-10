@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**59 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -372,13 +372,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7fb740ae-2460-44ff-b2ae-d3104a2a15c5">Intern - Commercial Lending AI Engineer, Winter 2027</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8f184d69-e65b-44ad-987d-200a758a89b4">Intern - Retail Lending AI Engineer, Winter 2027</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 <tr>

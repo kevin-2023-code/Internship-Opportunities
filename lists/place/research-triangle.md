@@ -20,9 +20,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Epic Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
-<td>Cary, North Carolina, United States</td>
+<td>Cary, North Carolina, United States<br/>Cary, NC</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004">Apply</a></td>
-<td align="center">9 Nov 2026</td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Crowe</strong></td>

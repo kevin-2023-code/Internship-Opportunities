@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**763 open roles.** 690 in the United States & Canada · 73 elsewhere in the world.
+**764 open roles.** 691 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -101,6 +101,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a222ec3-2c79-45f1-96ff-78847977c61c">Electrical Hardware Engineer Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488854360/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FedEx</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3762e62-5647-49e4-b71a-e52fa8bec61f">Industrial Engineer Co-op (Spring 2027)</a></td>
+<td>Moon Township, PA</td>
+<td align="center"><a href="https://careers.fedex.com/industrial-engineer-co-op-spring-2027/job/P25-395329-1">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b108b76f-2636-480e-9743-5613553fd30c">Intern, Mechanical Engineer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4452580009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4">Research Scientist Intern, Wireless Research (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2374839409720164/">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 </tbody>

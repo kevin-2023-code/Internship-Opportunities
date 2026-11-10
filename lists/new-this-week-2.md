@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**978 open roles.** 789 in the United States & Canada · 189 elsewhere in the world. Everything the employers put up this week.
+**955 open roles.** 786 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,69 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Plante Moran</strong></td>
+<td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
+<td>Denver, CO<br/>Southfield, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460650736/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/931f3a39-72ec-4970-b4e5-7df4280a7095">Data Engineer Intern (Data Platfrom TikTok BP) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469056609/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2388232c-e4f1-4b10-98a5-bd8507d8f29b">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4277122877/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd65d621-8061-4608-a57a-b06b54b33621">Quantitative Research Internship - PhD: Summer 2027</a></td>
+<td>New York, NY<br/>Hong Kong, Hong Kong SAR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4431533760/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ascend Learning</strong></td>
+<td><a href="https://trueinterview.io/jobs/c42fb8b2-c0e1-4f67-9385-c4058169c6df">Intern - Software Engineering</a></td>
+<td>Leawood, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471129906/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PayPal</strong></td>
+<td><a href="https://trueinterview.io/jobs/cafba895-120e-43fc-9813-00fdf2382a1f">Data Scientist Intern - Summer 2027</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7807c2f2-3e48-47a7-9337-9c91619d14a0">Machine Learning Engineer PhD Intern - Summer 2027</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://paypal.eightfold.ai/careers/job/274922983152">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2752805b-c5a2-402a-8ade-74d4f59a37bc">Software Engineer Intern - Summer 2027</a></td>
+<td>Chicago, Illinois, United States<br/>Austin, TX<br/>San Jose, California, United States<br/>+4 more</td>
+<td align="center"><a href="https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SoTalent</strong></td>
+<td><a href="https://trueinterview.io/jobs/76d1c241-d450-4328-948e-e0961a331a89">Creative Design &amp; UX Research Intern</a></td>
+<td>California, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485590898/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>PayPal</strong></td>
 <td><a href="https://trueinterview.io/jobs/7db7d9a3-3514-4e19-a330-44aff89059ab">Cybersecurity Intern - Summer 2027</a></td>
@@ -2654,90 +2717,6 @@
 <td align="center"><a href="https://www.weareroku.com/jobs/8258241?gh_jid=8258241">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Alaska Airlines</strong></td>
-<td><a href="https://trueinterview.io/jobs/305782cc-b528-49a4-bac4-e6a0f6d58284">Engineering Co-op (Summer 2027)</a></td>
-<td>SeaTac, WA</td>
-<td align="center"><a href="https://corporatejobs-alaskaair.icims.com/jobs/21283/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>colortech inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/34464394-96cc-4022-8844-ed360bdb66eb">Quality Engineering Coop</a></td>
-<td>Morristown, TN</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/4772B050B5C6CDB7F069E4A9A5904C26/jobs/356990">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Draper</strong></td>
-<td><a href="https://trueinterview.io/jobs/615b795d-c10f-4e49-a4b2-e94b6b52a083">Digital Engineering – Requirements Engineering Co-Op (Spring 2027)</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Co-Op--Spring-2027-_JR002944">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/81c74b86-4f07-48a4-b956-cff2a25031dd">Electrical Engineering Co-Op (Spring 2027)</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electrical-Engineering-Co-Op--Spring-2027-_JR002941">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9808abd8-e39f-4611-a4b6-09ace5a3006c">Sensor Electrical Engineering Co-op (Spring 2027)</a></td>
-<td>Cambridge, MA</td>
-<td align="center"><a href="https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GeoComply</strong></td>
-<td><a href="https://trueinterview.io/jobs/3df7bdd7-e13c-4e73-b51d-6b6b36b9c533">Forward Deployed Engineer Intern (FDE)</a></td>
-<td>Vancouver, BC<br/>Vancouver, Canada</td>
-<td align="center"><a href="https://jobs.lever.co/geocomply-2/a6c7ef11-e1ab-4746-9ef7-d1c5f408b765">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Gorbel Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/e022da69-2b42-4871-8781-a907c3031d01">Mechanical Engineering Co-Op</a></td>
-<td>Victor, NY</td>
-<td align="center"><a href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2343-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HNTB Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ed4292c-4c17-4829-87cc-091439cb05c6">Co-op Engineer: Electrical and Traction Power - Spring 2027</a></td>
-<td>Chelmsford, MA</td>
-<td align="center"><a href="https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Chelmsford-MA-Lexington/Co-op-Engineer--Electrical-and-Traction-Power---Spring-2027_R-32290-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/01a5e66c-5966-4dcb-96a0-9891b512ddf5">Part Time Systems Engineer Co-Op (Remote)</a></td>
-<td>Aurora, CO</td>
-<td align="center"><a href="https://careers.rtx.com/global/en/job/01886102">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sierra Nevada Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/55738fb6-7ad8-4743-b0a5-5e62081b3634">DevOps Engineer Intern (Summer 2027)</a></td>
-<td>Southern Pines, NC</td>
-<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Survalent</strong></td>
-<td><a href="https://trueinterview.io/jobs/37794521-8428-418b-ac16-ef74ee46302f">Quality and Infrastructure, Co-op SmartVu Developer</a></td>
-<td>Mississauga, Canada</td>
-<td align="center"><a href="https://www.fitzii.com/job/101120?s=in">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zimmer Biomet</strong></td>
-<td><a href="https://trueinterview.io/jobs/46b02aef-b20c-47ef-bf38-05f6b8172393">2027 Spring Co-Op, Software Developer</a></td>
-<td>Montréal, Canada</td>
-<td align="center"><a href="https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13309EXTERNALENUS/2027-Spring-Co-Op-Software-Developer">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2750,13 +2729,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>MaxInsights</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb6f3924-d081-49a6-8f3e-2e703f72ec1f">Machine Learning Engineer Intern - Video Foundation Models &amp; Agentic AI</a></td>
-<td>Santa Clara</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Brex</strong></td>
 <td><a href="https://trueinterview.io/jobs/4516dba7-1a70-436b-b62a-db0deb1128bc">Software Engineer, Internship - 2027</a></td>
@@ -2825,6 +2797,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/831a0b75-a875-4b25-88c5-72e1b367b1a9">Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)</a></td>
 <td>Aveiro, Portugal</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UNIVERSAL PHOENIX GROUP LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e46f7d9-f27b-406f-a60f-c092ffcb7de1">UX/UI Game Dev (Unity) Internship</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=272776831ae58ae8">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Susquehanna International Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4406717646/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f7cf471-ed89-455e-b48c-c6619c22cee8">Internship in GenAI Knowledge Assistant for Engineering</a></td>
+<td>Wernau (Neckar), Baden-Württemberg, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160555829-internship-in-genai-knowledge-assistant-for-engineering">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9782acc5-c6af-40ef-ac5d-d71e849819e3">[BD] IT Product Business Analyst / Product Owner Assistant (6-month Internship)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160528309--bd-it-product-business-analyst-product-owner-assistant-6-month-internship-">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

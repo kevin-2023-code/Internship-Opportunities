@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,645 open roles.** 1,313 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Epic Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
+<td>Cary, North Carolina, United States<br/>Cary, NC</td>
+<td align="center"><a href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trimble Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bcf88a23-6db7-478c-8863-a41d1029abc6">Software Engineer Intern</a></td>
+<td>Lake Oswego, OR</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489194817/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/00c7a437-e466-4987-b838-313a400d7332">Embedded Software Engineer Intern</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489412011/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0bfac500-c6f4-4004-86ab-f3ba1bb8597a">Systems Engineering Intern - Safety Analysis (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/9370adbc-f344-4aeb-a99d-65acaac87894">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/72ba3d6a-9213-4bcd-b57e-7a6f94a2b098">Engineering Intern to the Chief Engineer (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/3d52867d-d340-4f45-8b35-9533ee456db8">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/35526e02-d42f-4099-80b0-360dba20e2c1">Systems Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Persona AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/b77779c2-d319-4f82-919c-3f29cf0553c2">Humanoid Robotics Software Internship</a></td>
@@ -87,13 +136,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Epic Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f82e65d-36bd-4f57-944d-a8dbcbd855d1">AI Programmer Intern</a></td>
-<td>Cary, North Carolina, United States</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -213,6 +255,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a034e3b3-df2e-402d-a764-6b06fabe72fb">Computer Science Engineer Co-op (Spring 2027)</a></td>
 <td>Moon Township, PA</td>
 <td align="center"><a href="https://careers.fedex.com/computer-science-engineer-co-op-spring-2027/job/P25-395098-1">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fresenius Medical Care</strong></td>
+<td><a href="https://trueinterview.io/jobs/bc543b24-c54e-4325-bfb0-53b8ffb3f92b">V&amp;V Systems Engineer Co-op</a></td>
+<td>Lawrence, MA</td>
+<td align="center"><a href="https://jobs.freseniusmedicalcare.com/v-v-systems-engineer-co-op/job/31E772DDCF188A2FBFC0792A3AC44BCB">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19">Global Technology Summer Analyst 2027 - Cybersecurity Analyst</a></td>
 <td>Denver Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477268212/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ParetoHealth</strong></td>
-<td><a href="https://trueinterview.io/jobs/c982ef27-4484-4ac5-9796-a2e3636fd3b0">Software Engineering Summer Intern</a></td>
-<td>Greater Philadelphia<br/>Philadelphia, Pennsylvania, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Alaska Airlines</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6cb4a0a-d274-498b-a6a4-76a43f86161c">Intern - Cybersecurity Threat Defense (Summer 2027)</a></td>
-<td>SeaTac, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485474411/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/baa4285d-3385-4b14-8a3f-3fb6210540cc">FY27 Intern - MSIP Digital Design Verification Engineering Internship - Canada (16 months)</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468400152/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Alaska Airlines</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a661aca-7d5e-4d7b-8e68-316acd90960d">Intern - Software Engineer (Summer 2027)</a></td>
-<td>SeaTac, WA</td>
-<td align="center"><a href="https://corporatejobs-alaskaair.icims.com/jobs/21277/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tecsys Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4fd9e789-e403-46b3-bcf7-2a6bb9a361c9">Intern - Developer</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada<br/>Montréal, Canada</td>
-<td align="center"><a href="https://jobs.workable.com/view/mpivJfdgcSJjT1NuxcHFMi/hybrid-intern---developer-in-montreal-at-tecsys-inc.">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>The Nuclear Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ccd9dc7-8875-4b8d-a65e-6a9e93dfb774">Summer 2027 Software Engineering Intern</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amway</strong></td>
-<td><a href="https://trueinterview.io/jobs/08c6ac07-f1ea-4887-9d33-e19518a4e87b">Software Engineer Intern – MyBiz, Summer 2027 (REQ#43551)</a></td>
-<td>Ada, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478300807/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

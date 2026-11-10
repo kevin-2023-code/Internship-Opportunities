@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,645 open roles.** 1,313 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/13cf14c6-4712-47f6-960a-654aa280bb71">R&amp;D Software Engineer QA DevOps, Intern</a></td>
+<td>Santa Rosa, California, United States<br/>San Diego, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54417?lang=en-us">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/dca3daa8-18f7-4f77-876b-eb00ee25da2c">Transportation Engineering Intern- Fall 2026</a></td>
+<td>Albuquerque, NM, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96119">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Aevex</strong></td>
+<td><a href="https://trueinterview.io/jobs/6138bc3d-7c93-431c-8da9-613df7f944a7">Robotics Engineering Co-op</a></td>
+<td>Tampa, Florida, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Envoy</strong></td>
+<td><a href="https://trueinterview.io/jobs/9bae841d-6ce3-4e54-92ed-ca5964db3e9f">Solutions Engineering Intern</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/envoy/f2e20a8a-0e10-48ee-a761-3cffb89a80ca/application">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Eqt Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fe6c2921-364a-47fc-b29f-f5227a1767f3">Water Infrastructure Engineering Intern</a></td>
+<td>Canonsburg, PA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008">Apply</a></td>
+<td align="center">24 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Mill</strong></td>
 <td><a href="https://trueinterview.io/jobs/61253945-4f0c-4566-be99-229288ad6dfd">Product Design Engineering Intern, Summer 2027</a></td>
@@ -2790,41 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/57bcec89-4fd0-4383-b499-a1727f11715d">Software Engineer Intern (Full stack)</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Shift Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/668911f9-99cb-4a3f-b5ed-9535d722b137">QA Engineer Intern (6 months)</a></td>
-<td>France - Paris</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Taktile</strong></td>
-<td><a href="https://trueinterview.io/jobs/8985d0c2-6918-4dc6-9088-8494ca22219b">Software Engineer Intern</a></td>
-<td>Iasi Office<br/>Berlin Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef4f8f88-53f6-408e-bf5d-5ea9dfc36a16">Internship – Full-Stack Developer for SAP Build Process Automation F/M</a></td>
-<td>Levallois-Perret, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000154048119-internship-full-stack-developer-for-sap-build-process-automation-f-m">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/54d5ad3c-3c2e-46db-ab87-1c920e445c8b">System Engineer internship 2027 (6 months), ESC Managed Operations</a></td>
-<td>DE, BE, Berlin</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10571716/system-engineer-internship-2027-6-months-esc-managed-operations">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bd09199-bb6e-4ceb-bd0b-4f2e715bc7d8">Field Applications Engineering Intern - Guildford &amp; Manchester, United Kingdom</a></td>
-<td>United Kingdom</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018498">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
