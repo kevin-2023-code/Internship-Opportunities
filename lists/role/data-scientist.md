@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**110 open roles.** 88 in the United States & Canada · 22 elsewhere in the world.
+**109 open roles.** 88 in the United States & Canada · 21 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -784,13 +784,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>France - Paris</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/19e3b995-9e0e-4299-bd97-49d451d8c0f0">AI &amp; Data Science Intern - GPSU/NE</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004">Apply</a></td>
-<td align="center">8 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Aumovio</strong></td>

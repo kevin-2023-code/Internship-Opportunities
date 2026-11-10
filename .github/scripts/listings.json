@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T07:06:08.031Z",
+  "listingsChangedAt": "2026-11-10T08:06:57.893Z",
   "count": 3513,
   "listings": [
+    {
+      "id": "95617ca6-8ebf-430c-9955-74827e124731",
+      "company": "BioSpace",
+      "title": "Summer Intern – Cybersecurity Operations & AI Automation",
+      "locations": [
+        "Bridgewater, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489427294/",
+      "url": "https://trueinterview.io/jobs/95617ca6-8ebf-430c-9955-74827e124731",
+      "postedAt": "2026-11-10T06:38:00.000Z",
+      "updatedAt": "2026-11-10T06:38:00.000Z"
+    },
     {
       "id": "f5cca3dc-a444-4104-b17b-4a7c7ab2656a",
       "company": "ASML",
@@ -2427,6 +2452,31 @@
       "source": "indeed",
       "applyUrl": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
       "url": "https://trueinterview.io/jobs/4aeb726c-c729-4d40-914f-2ae370278725",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
+    },
+    {
+      "id": "600e4f9e-ed18-4b81-8b27-f6f5b3c7a0cf",
+      "company": "Warner Bros. Discovery",
+      "title": "WB Games Product Management Co-op: Needham, MA - January-May 2027",
+      "locations": [
+        "Needham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.wbd.com/pl/pl/job/WAMEGLOBALR000109850EXTERNALPLPL/WB-Games-Product-Management-Co-op-Needham-MA-January-May-2027",
+      "url": "https://trueinterview.io/jobs/600e4f9e-ed18-4b81-8b27-f6f5b3c7a0cf",
       "postedAt": "2026-11-09T06:00:00.000Z",
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },
@@ -74207,29 +74257,6 @@
       "updatedAt": "2026-10-08T17:52:02.000Z"
     },
     {
-      "id": "19e3b995-9e0e-4299-bd97-49d451d8c0f0",
-      "company": "Guidepoint Security",
-      "title": "AI & Data Science Intern - GPSU/NE",
-      "locations": [
-        "Remote"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004",
-      "url": "https://trueinterview.io/jobs/19e3b995-9e0e-4299-bd97-49d451d8c0f0",
-      "postedAt": "2026-10-08T16:54:28.000Z",
-      "updatedAt": "2026-10-08T16:54:28.000Z"
-    },
-    {
       "id": "94a31519-1f4c-491d-9077-e2a5612e4189",
       "company": "IMC",
       "title": "Machine Learning Engineer Intern - Summer 2027",
@@ -88139,29 +88166,6 @@
       "url": "https://trueinterview.io/jobs/ba6be22f-3b79-4c9e-bdfa-8b1bdbd987b4",
       "postedAt": "2026-09-15T15:22:39.000Z",
       "updatedAt": "2026-09-15T15:22:39.000Z"
-    },
-    {
-      "id": "b8a3c3e3-3a5a-4c53-a5d1-790b7de1c9ab",
-      "company": "Lalamove",
-      "title": "Graphic Designer Intern",
-      "locations": [
-        "Istanbul"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/lalamove/2d0a4b9a-201d-457a-ac84-32e5e074e37f",
-      "url": "https://trueinterview.io/jobs/b8a3c3e3-3a5a-4c53-a5d1-790b7de1c9ab",
-      "postedAt": "2026-09-15T13:48:58.000Z",
-      "updatedAt": "2026-09-15T13:48:58.000Z"
     },
     {
       "id": "cd1e52b9-3b47-4732-b4e7-69bd34592347",
