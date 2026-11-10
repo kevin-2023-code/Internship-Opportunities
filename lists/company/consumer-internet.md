@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**113 open roles.** 96 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**112 open roles.** 95 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,13 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477834689/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485600471/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

@@ -5,9 +5,134 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T11:04:52.046Z",
-  "count": 3514,
+  "listingsChangedAt": "2026-11-10T13:04:51.269Z",
+  "count": 3518,
   "listings": [
+    {
+      "id": "189074f7-9920-493f-b1bf-e981e8ad1be8",
+      "company": "Celonis",
+      "title": "Summernaut Program - AI & Management Consulting (Value Engineering) Summer Intern",
+      "locations": [
+        "Raleigh-Durham-Chapel Hill Area"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487489081/",
+      "url": "https://trueinterview.io/jobs/189074f7-9920-493f-b1bf-e981e8ad1be8",
+      "postedAt": "2026-11-10T12:15:00.000Z",
+      "updatedAt": "2026-11-10T12:15:00.000Z"
+    },
+    {
+      "id": "08ee1dad-9e85-4794-b09f-a51f3aea0e1c",
+      "company": "Qualcomm",
+      "title": "FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork",
+      "locations": [
+        "Cork, County Cork, Ireland"
+      ],
+      "cities": [
+        "Cork"
+      ],
+      "countries": [
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4417144574/",
+      "url": "https://trueinterview.io/jobs/08ee1dad-9e85-4794-b09f-a51f3aea0e1c",
+      "postedAt": "2026-11-10T12:09:00.000Z",
+      "updatedAt": "2026-11-10T12:09:00.000Z"
+    },
+    {
+      "id": "1ed3df03-6aae-4ce7-92bc-9518b9be711d",
+      "company": "Medpace",
+      "title": "AI Engineering Intern - Summer 2027",
+      "locations": [
+        "Cincinnati, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4407323852/",
+      "url": "https://trueinterview.io/jobs/1ed3df03-6aae-4ce7-92bc-9518b9be711d",
+      "postedAt": "2026-11-10T12:01:00.000Z",
+      "updatedAt": "2026-11-10T12:01:00.000Z"
+    },
+    {
+      "id": "68976ed3-347d-4fe3-a4c0-f6542b840377",
+      "company": "Collins Aerospace",
+      "title": "2027 Summer/Fall Co-op, AGS Software Engineering (Onsite)",
+      "locations": [
+        "Cedar Rapids, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473008833/",
+      "url": "https://trueinterview.io/jobs/68976ed3-347d-4fe3-a4c0-f6542b840377",
+      "postedAt": "2026-11-10T11:13:00.000Z",
+      "updatedAt": "2026-11-10T11:13:00.000Z"
+    },
+    {
+      "id": "36a929b1-208e-459c-86b6-04b4233d40dc",
+      "company": "Alternative Resources Corporation",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "Windsor, CT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487461674/",
+      "url": "https://trueinterview.io/jobs/36a929b1-208e-459c-86b6-04b4233d40dc",
+      "postedAt": "2026-11-10T10:19:00.000Z",
+      "updatedAt": "2026-11-10T10:19:00.000Z"
+    },
     {
       "id": "58a17433-4bfa-4813-8173-1c898ac2a385",
       "company": "Sumitomo Mitsui Trust Bank Limited New York Branch",
@@ -30698,33 +30823,6 @@
       "url": "https://trueinterview.io/jobs/f06778ce-796c-4a6f-86d3-790f4fd3c260",
       "postedAt": "2026-10-30T21:05:23.000Z",
       "updatedAt": "2026-10-30T21:05:23.000Z"
-    },
-    {
-      "id": "01f53cf5-e13c-4b52-be5f-101ec46b39a9",
-      "company": "ByteDance",
-      "title": "Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4485600471/",
-      "url": "https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9",
-      "postedAt": "2026-10-30T20:44:00.000Z",
-      "updatedAt": "2026-10-30T20:44:00.000Z"
     },
     {
       "id": "ec340065-983f-4e7c-ba13-5c048491115b",

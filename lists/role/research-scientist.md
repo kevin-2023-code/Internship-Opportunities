@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**85 open roles.** 70 in the United States & Canada · 15 elsewhere in the world.
+**84 open roles.** 69 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -212,13 +212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485359288/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485600471/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>General Mills</strong></td>

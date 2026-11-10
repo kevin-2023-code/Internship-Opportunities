@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**508 open roles.**
+**507 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1089,13 +1089,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09">Apply</a></td>
 <td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/01f53cf5-e13c-4b52-be5f-101ec46b39a9">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485600471/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Samsung Semiconductor</strong></td>
@@ -2818,6 +2811,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Sunnyvale, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Hardware-Tools-and-Libraries-Intern_1214085">Apply</a></td>
 <td align="center">4 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Muon Space</strong></td>
+<td><a href="https://trueinterview.io/jobs/772fb6c9-4378-40ed-907a-2fde9eec2a8f">Environmental Test Engineering Intern (Summer 2027)</a></td>
+<td>San Jose, CA<br/>Muon San Jose</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256286007">Apply</a></td>
+<td align="center">3 Oct 2026</td>
 </tr>
 </tbody>
 </table>

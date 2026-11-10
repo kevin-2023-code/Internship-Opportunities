@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**99 open roles.** 61 in the United States & Canada · 38 elsewhere in the world.
+**100 open roles.** 62 in the United States & Canada · 38 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Alternative Resources Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/36a929b1-208e-459c-86b6-04b4233d40dc">Data Analyst Intern</a></td>
+<td>Windsor, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487461674/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The New York Times</strong></td>
 <td><a href="https://trueinterview.io/jobs/eb11b16f-ae55-4265-9c8a-9d31623027da">Data Analyst Intern</a></td>
