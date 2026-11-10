@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**963 open roles.** 769 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**970 open roles.** 777 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,63 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683">Software Developer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6d70539-4bfd-4e3c-81e3-c55cf939ced8">Battery Algorithms Engineering Intern</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1161973130109332/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PCI Pharma Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/eeee4851-4cda-48bc-845b-8398672537dc">Automation Engineer Intern</a></td>
+<td>Rockford, IL</td>
+<td align="center"><a href="https://pciservices.wd1.myworkdayjobs.com/en-US/External/job/Rockford-IL-USA/Automation-Engineer-Intern_JR120427">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/18b4b5fd-f3e4-475a-b9fd-6aa41a936621">System Engineering Co-op (Remote)</a></td>
+<td>Aurora, CO</td>
+<td align="center"><a href="https://careers.rtx.com/global/en/job/01868902">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Werfen</strong></td>
+<td><a href="https://trueinterview.io/jobs/c94f43b3-c1f8-4510-afe2-8b1f57fa7888">ACDx Electrical Engineering Co-Op (Spring 2027)</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://www.werfen.com/en/acdx-electrical-engineering-co-op-spring-2027">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoll Medical Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/9508195b-c9b9-4a40-8bd9-91071907bd0a">Supplier Quality Engineering Co-Op</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Supplier-Quality-Engineering-Co-Op_R20738-1">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/f50d8a38-1ea6-4b0a-adc8-a2032c472a38">2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD</a></td>
+<td>Baltimore, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487708730/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485580782/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a">Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485598010/">Apply</a></td>
@@ -2770,62 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Shanghai, Shanghai, China<br/>Shenzhen, Guangdong, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487636439/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/7d8e1b3a-adf7-457c-b553-ffe5043e801c">Quantitative Research Intern 2027</a></td>
-<td>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452913205/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e8cc3ec-d5d1-4172-85f2-46659936038e">2027 Shanghai FPGA Developer Summer Internship</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450152123/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/274f761e-d024-4a18-a28e-556fabb52da4">2027 Shanghai Software Developer Summer Internship</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450135763/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/165a4d32-589d-4b97-a6ca-244cdac1dbcd">Business Data Analyst Project Intern (GBS) - 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470771410/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tencent</strong></td>
-<td><a href="https://trueinterview.io/jobs/850bd560-3115-450d-a9e1-efea1cfaf96e">Site Reliability Engineer Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467192775/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/575c38aa-519a-419b-a8f9-bbcee50f3417">Intern - Software Automation Engineer</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MIT Lincoln Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/3cf3389b-3876-481b-a7e2-07127a4850ad">Summer Research Program Intern 2027, Fabrication Engineering - Digital Architecture (Group 07-72)</a></td>
-<td>MIT Lincoln Laboratory, Lexington MA</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=C0012546317P&amp;rcm_site_locale=en_US&amp;career_job_req_id=43541">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IMC Trading</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d">Quantitative Trader Intern 2027</a></td>
-<td>Hong Kong, Hong Kong SAR</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452930184/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 </tbody>
 </table>

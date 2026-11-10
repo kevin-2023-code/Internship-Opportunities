@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**452 open roles.** 357 in the United States & Canada · 95 elsewhere in the world.
+**451 open roles.** 356 in the United States & Canada · 95 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,17 +20,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>New York Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b478fa9-e255-4b87-9542-1d77adec0619">2027 New York Life Direct Summer Internship Program - IBM i Developer</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489109894/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>UiPath</strong></td>
 <td><a href="https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85">Software Engineer Intern</a></td>
 <td>Bellevue, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>U-Haul</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f9b27a3-c616-4d27-b1b7-3b180562977d">Software Development Spring Internship</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489158236/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Art of Problem Solving</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FormFactor Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9df295d-736d-4699-a9b4-f0048a57e5f1">Software Engineer Intern</a></td>
+<td>Livermore, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487970774/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>New York Life</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b478fa9-e255-4b87-9542-1d77adec0619">2027 New York Life Direct Summer Internship Program - IBM i Developer</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489109894/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -1189,13 +1210,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Radiance Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a37c7ca3-2d00-4778-ba2d-af13edbe66f4">Software Engineer Intern Spring/Summer 2027 with Security Clearance</a></td>
-<td>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157500/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f">[Summer 2027] Software Engineer Intern</a></td>
 <td>San Mateo, CA</td>
@@ -1291,13 +1305,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc4e8afc-5270-4ba2-bbc3-a52c091627ff">Software Engineer Co-Op - TS/SCI</a></td>
 <td>Centreville, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477822908/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WEX</strong></td>
-<td><a href="https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479">Software Engineer Intern</a></td>
-<td>Maine, United States<br/>Remote</td>
-<td align="center"><a href="https://careers.wexinc.com/us/en/job/R22585/Software-Engineer-Intern">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1971,20 +1978,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application">Apply</a></td>
 <td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rhoda AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fabe698-f2e9-44fd-9d69-db8493ec8953">Software Engineer Intern, Rhoda Platform</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
-<td align="center">21 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>LinkedIn</strong></td>
@@ -2829,6 +2822,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5f033635-e877-438f-ab5e-480260d5bdda">2027 Software Dev Engineer Intern - Netherlands</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476796429/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td><a href="https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4">.NET Software Engineer Intern (Jan 2027 intake)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484902928/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

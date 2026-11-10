@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**38 open roles.** 27 in the United States & Canada · 11 elsewhere in the world.
+**39 open roles.** 28 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0">Defense Software Test &amp; AI Co-Op</a></td>
+<td>Coppell, TX</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>iRhythm Technologies, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/2810060c-8051-4b12-8e34-fba77f8217a3">Embedded SDET Co-Op Full Time Intern January-June 2027</a></td>

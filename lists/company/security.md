@@ -2,7 +2,7 @@
 
 # 🔒 Cybersecurity
 
-**18 open roles.** 14 in the United States & Canada · 4 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
+**19 open roles.** 15 in the United States & Canada · 4 elsewhere in the world. Security products, detection, identity and offensive-security vendors.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487974627/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>KnowBe4</strong></td>
 <td><a href="https://trueinterview.io/jobs/75fa9930-bf89-4402-a49e-8194e6f87abc">Software Engineer Summer Internship</a></td>

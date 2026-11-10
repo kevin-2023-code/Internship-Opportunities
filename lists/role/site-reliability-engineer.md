@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**13 open roles.** 10 in the United States & Canada · 3 elsewhere in the world.
+**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487974627/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Varda Space Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/2416388a-21b6-4223-8144-5ccfec4623a4">Site Reliability Internship - Summer 2027</a></td>

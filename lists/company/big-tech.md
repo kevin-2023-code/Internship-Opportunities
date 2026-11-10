@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0">Defense Software Test &amp; AI Co-Op</a></td>
+<td>Coppell, TX</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/bea48d3e-41ef-4435-8b59-c01e158bafaf">Machine Learning for Computational Sensing Research Intern</a></td>
 <td>Boston, MA</td>
@@ -31,6 +38,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a222ec3-2c79-45f1-96ff-78847977c61c">Electrical Hardware Engineer Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488854360/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c92da7-e75e-4c4a-b4ef-6a505e6f92b4">Quality Engineering Intern - Santa Clara</a></td>
+<td>United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -108,13 +122,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/499c3bd6-f961-4630-b1c4-351cc2a347ba">Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486951856/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3903cd9-67d6-4772-a6ae-710abb1f3d72">Automation Engineer Co-op/Intern</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -938,13 +945,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
-<td>Arlington, Virginia, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1">Associate Delivery Consultant Intern, National Security, AWS Professional Services</a></td>
 <td>Arlington, Virginia, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services">Apply</a></td>

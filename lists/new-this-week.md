@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**963 open roles.** 769 in the United States & Canada · 194 elsewhere in the world. Everything the employers put up this week.
+**970 open roles.** 777 in the United States & Canada · 193 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,7 +20,84 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Persona AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b77779c2-d319-4f82-919c-3f29cf0553c2">Humanoid Robotics Software Internship</a></td>
+<td>Pensacola, FL or Houston, TX<br/>Greater Houston</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487974627/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UiPath</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85">Software Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>U-Haul</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f9b27a3-c616-4d27-b1b7-3b180562977d">Software Development Spring Internship</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489158236/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Art of Problem Solving</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/770d8b93-54ca-41dc-b377-8710d42c73a4">2027 Internship - Applied AI Engineering</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487964318/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FormFactor Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9df295d-736d-4699-a9b4-f0048a57e5f1">Software Engineer Intern</a></td>
+<td>Livermore, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487970774/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0">Defense Software Test &amp; AI Co-Op</a></td>
+<td>Coppell, TX</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pivotal</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d">Internship, Software Engineering (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5fe328f5-3488-40f5-b88b-399218fda7f7">Internship, Mechanical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506">Apply</a></td>
@@ -35,6 +112,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/00dbf6fc-fb28-4e60-b2c8-34737b25d399">Internship, Maintenance, Repair &amp; Overhaul Engineering (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/pivotal/23e45f4a-ab7f-4d45-9ec8-bae2ced5d583">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f00f33c8-ea3a-4381-8045-8048d789170a">Internship, Flight Test Engineer (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b">Apply</a></td>
@@ -45,13 +129,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1f539fdc-fc3e-481f-a22d-ef5137c1f1a3">Internship, Electrical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d">Internship, Software Engineering (Summer 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -118,13 +195,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Art Of Problem Solving</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
-<td>San Diego, California, United States</td>
-<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Coffman Engineers</strong></td>
 <td><a href="https://trueinterview.io/jobs/5211aa3f-8478-48b2-b415-38603f872e0d">Civil Engineering Intern</a></td>
 <td>Honolulu, Hawaii, United States</td>
@@ -178,20 +248,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332">Cybersecurity Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488788761/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UiPath</strong></td>
-<td><a href="https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85">Software Engineer Intern</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -402,6 +458,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d65d478c-a6b9-4009-a2d4-fedf68cda51e">Production Norms Engineering Student/Co-op- Winter 2027</a></td>
 <td>Halifax, NS, Canada</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13263">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c92da7-e75e-4c4a-b4ef-6a505e6f92b4">Quality Engineering Intern - Santa Clara</a></td>
+<td>United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -1973,13 +2036,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3903cd9-67d6-4772-a6ae-710abb1f3d72">Automation Engineer Co-op/Intern</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Trimble</strong></td>
 <td><a href="https://trueinterview.io/jobs/99011579-6e4e-46bc-9c26-2df8a442d9fc">IS Help Desk Intern</a></td>
 <td>US - CO, Westminster</td>
@@ -2761,62 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/44f2537e-e998-4395-961f-e3550c8d81c6">Electrical Engineer Co-Op</a></td>
 <td>Wever, IA</td>
 <td align="center"><a href="https://ars2.equest.com/?response_id=928c411e3892b804ed78526aa25f9e12">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/93d4e73b-050a-47a3-ab6f-d67cbccc2683">Software Developer Intern</a></td>
-<td>Boulder, CO</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477806702?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6d70539-4bfd-4e3c-81e3-c55cf939ced8">Battery Algorithms Engineering Intern</a></td>
-<td>Redmond, WA</td>
-<td align="center"><a href="https://www.metacareers.com/jobs/1161973130109332/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PCI Pharma Services</strong></td>
-<td><a href="https://trueinterview.io/jobs/eeee4851-4cda-48bc-845b-8398672537dc">Automation Engineer Intern</a></td>
-<td>Rockford, IL</td>
-<td align="center"><a href="https://pciservices.wd1.myworkdayjobs.com/en-US/External/job/Rockford-IL-USA/Automation-Engineer-Intern_JR120427">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/18b4b5fd-f3e4-475a-b9fd-6aa41a936621">System Engineering Co-op (Remote)</a></td>
-<td>Aurora, CO</td>
-<td align="center"><a href="https://careers.rtx.com/global/en/job/01868902">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Werfen</strong></td>
-<td><a href="https://trueinterview.io/jobs/c94f43b3-c1f8-4510-afe2-8b1f57fa7888">ACDx Electrical Engineering Co-Op (Spring 2027)</a></td>
-<td>Bedford, MA</td>
-<td align="center"><a href="https://www.werfen.com/en/acdx-electrical-engineering-co-op-spring-2027">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zoll Medical Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9508195b-c9b9-4a40-8bd9-91071907bd0a">Supplier Quality Engineering Co-Op</a></td>
-<td>Chelmsford, MA</td>
-<td align="center"><a href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Supplier-Quality-Engineering-Co-Op_R20738-1">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/f50d8a38-1ea6-4b0a-adc8-a2032c472a38">2027 Engineering Software Tool Development Intern - Field Engineering - Baltimore MD</a></td>
-<td>Baltimore, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487708730/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/63ac2891-dc50-47d6-9593-61f7b5138a26">ASIC Engineering Intern, Formal Verification</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485580782/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

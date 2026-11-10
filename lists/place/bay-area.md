@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**503 open roles.**
+**504 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,28 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487974627/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FormFactor Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9df295d-736d-4699-a9b4-f0048a57e5f1">Software Engineer Intern</a></td>
+<td>Livermore, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487970774/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pivotal</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d">Internship, Software Engineering (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5fe328f5-3488-40f5-b88b-399218fda7f7">Internship, Mechanical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506">Apply</a></td>
@@ -35,6 +56,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/00dbf6fc-fb28-4e60-b2c8-34737b25d399">Internship, Maintenance, Repair &amp; Overhaul Engineering (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/pivotal/23e45f4a-ab7f-4d45-9ec8-bae2ced5d583">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f00f33c8-ea3a-4381-8045-8048d789170a">Internship, Flight Test Engineer (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b">Apply</a></td>
@@ -45,13 +73,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1f539fdc-fc3e-481f-a22d-ef5137c1f1a3">Internship, Electrical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d">Internship, Software Engineering (Summer 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -1917,20 +1938,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Rhoda AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fabe698-f2e9-44fd-9d69-db8493ec8953">Software Engineer Intern, Rhoda Platform</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/42f54b77-fdeb-4022-a1f4-a75761843af1">Summer 2027 Process Engineer Intern- Master's (Santa Clara, CA)</a></td>
 <td>Santa Clara, CA, US</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c">Spring 2027 Software Engineering Internship/Co-op</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5252108007">Apply</a></td>
-<td align="center">2 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>C3.ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/ced1ffba-2409-40fe-b6d6-4bf454ea58eb">AI Product Manager - MBA Intern (Summer 2027)</a></td>
-<td>Redwood City, California, United States</td>
-<td align="center"><a href="https://c3.ai/job-description/8860563002?gh_jid=8860563002">Apply</a></td>
 <td align="center">2 Oct 2026</td>
 </tr>
 </tbody>

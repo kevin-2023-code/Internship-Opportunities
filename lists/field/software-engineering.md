@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,634 open roles.** 1,302 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,24 +20,52 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Pivotal</strong></td>
-<td><a href="https://trueinterview.io/jobs/f00f33c8-ea3a-4381-8045-8048d789170a">Internship, Flight Test Engineer (Summer 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b">Apply</a></td>
-<td align="center">9 Nov 2026</td>
+<td><strong>Persona AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b77779c2-d319-4f82-919c-3f29cf0553c2">Humanoid Robotics Software Internship</a></td>
+<td>Pensacola, FL or Houston, TX<br/>Greater Houston</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb">Apply</a></td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d">Internship, Software Engineering (Summer 2027)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4">Apply</a></td>
-<td align="center">9 Nov 2026</td>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487974627/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/bae42d71-c503-44d9-aac7-036dcb1bbd13">Project Engineering &amp; Archival Intern -Water Technologies</a></td>
-<td>Pico Rivera, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160735749-project-engineering-archival-intern-water-technologies">Apply</a></td>
+<td><strong>UiPath</strong></td>
+<td><a href="https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85">Software Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>U-Haul</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f9b27a3-c616-4d27-b1b7-3b180562977d">Software Development Spring Internship</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489158236/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Art of Problem Solving</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
+<td>San Diego, California, United States</td>
+<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>FormFactor Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9df295d-736d-4699-a9b4-f0048a57e5f1">Software Engineer Intern</a></td>
+<td>Livermore, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487970774/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0">Defense Software Test &amp; AI Co-Op</a></td>
+<td>Coppell, TX</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -69,13 +97,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Art Of Problem Solving</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
-<td>San Diego, California, United States</td>
-<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>New York Life</strong></td>
 <td><a href="https://trueinterview.io/jobs/6b478fa9-e255-4b87-9542-1d77adec0619">2027 New York Life Direct Summer Internship Program - IBM i Developer</a></td>
 <td>Tampa, FL</td>
@@ -94,13 +115,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332">Cybersecurity Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488788761/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UiPath</strong></td>
-<td><a href="https://trueinterview.io/jobs/d215506d-99d3-4a34-91cb-fdfe95e3cf85">Software Engineer Intern</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -997,13 +1011,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/af5fbbf4-ca1b-40d6-a8a8-f0c19e9190e8">Software Applications Intern</a></td>
 <td>Fairborn, OH</td>
 <td align="center"><a href="https://careers-riversideresearch.icims.com/jobs/4461/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3903cd9-67d6-4772-a6ae-710abb1f3d72">Automation Engineer Co-op/Intern</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/37794521-8428-418b-ac16-ef74ee46302f">Quality and Infrastructure, Co-op SmartVu Developer</a></td>
 <td>Mississauga, Canada</td>
 <td align="center"><a href="https://www.fitzii.com/job/101120?s=in">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zimmer Biomet</strong></td>
-<td><a href="https://trueinterview.io/jobs/46b02aef-b20c-47ef-bf38-05f6b8172393">2027 Spring Co-Op, Software Developer</a></td>
-<td>Montréal, Canada</td>
-<td align="center"><a href="https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13309EXTERNALENUS/2027-Spring-Co-Op-Software-Developer">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

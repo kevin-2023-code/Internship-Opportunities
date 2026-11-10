@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0">Defense Software Test &amp; AI Co-Op</a></td>
+<td>Coppell, TX</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/7a222ec3-2c79-45f1-96ff-78847977c61c">Electrical Hardware Engineer Intern</a></td>
 <td>Sunnyvale, CA</td>
@@ -44,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Plantation, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463121058/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nokia</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3903cd9-67d6-4772-a6ae-710abb1f3d72">Automation Engineer Co-op/Intern</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40892">Apply</a></td>
-<td align="center">6 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Sharkninja</strong></td>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**709 open roles.** 522 in the United States & Canada · 187 elsewhere in the world.
+**709 open roles.** 523 in the United States & Canada · 186 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>UiPath</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The New York Times</strong></td>
 <td><a href="https://trueinterview.io/jobs/524487ef-1cb1-4411-aa79-0483ddc1ba65">ML Scientist Intern</a></td>
@@ -52,13 +66,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bea48d3e-41ef-4435-8b59-c01e158bafaf">Machine Learning for Computational Sensing Research Intern</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487178700/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UiPath</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/94f0f34d-e471-4108-8149-27590ac2a52a">AI Research Intern (PhD), 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JPMorganChase</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cfdf238-7df4-4bb6-a557-0d27059ac702">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jpmorganchase.contacthr.com/154034298">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 </tbody>

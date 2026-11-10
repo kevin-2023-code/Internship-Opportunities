@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**43 open roles.** 25 in the United States & Canada · 18 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**44 open roles.** 26 in the United States & Canada · 18 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487974627/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Notion</strong></td>
 <td><a href="https://trueinterview.io/jobs/e3cf7acc-aa71-47a0-a46c-2eb4aa237d99">Software Engineering Intern, iOS (Summer 2027)</a></td>

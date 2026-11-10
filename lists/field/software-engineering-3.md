@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,634 open roles.** 1,302 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Tech World Networking</strong></td>
-<td><a href="https://trueinterview.io/jobs/adcb7bc7-740c-4f98-82d9-d0d780f03937">Tooling Engineer Intern</a></td>
-<td>California, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482537705/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>World Wide Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/f7287966-d413-40c6-a364-3f8bc890fe6c">Solutions, Consulting, &amp; Engineering Intern - 2027</a></td>
@@ -1598,35 +1591,7 @@
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Rhoda AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fabe698-f2e9-44fd-9d69-db8493ec8953">Software Engineer Intern, Rhoda Platform</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sycamore</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0d58865-d493-44a7-9b90-77d94e19cd6d">Engineering Intern</a></td>
-<td>Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
-<td>Arlington, Virginia, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1">Associate Delivery Consultant Intern, National Security, AWS Professional Services</a></td>
 <td>Arlington, Virginia, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services">Apply</a></td>
@@ -1904,13 +1869,6 @@
 <td>Ottawa Office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application">Apply</a></td>
 <td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Quantinuum</strong></td>
-<td><a href="https://trueinterview.io/jobs/5bab3536-c21d-459b-9599-04288760b804">Optics Engineering Intern - 1077</a></td>
-<td>US Broomfield, CO</td>
-<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/ce636d34-9d93-46bf-b2d3-0060955f2a71">Apply</a></td>
-<td align="center">14 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Sharkninja</strong></td>
@@ -2813,6 +2771,48 @@
 <td><a href="https://trueinterview.io/jobs/f726c8f4-221b-480f-bd6f-11b71980325c">Quality Leadership Development Program (Co-op Project Engineer) Spring 2027</a></td>
 <td>Perrysburg, Ohio, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000151472489-quality-leadership-development-program-co-op-project-engineer-spring-2027">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ae94b7d4-8930-4f7b-b49d-5d99e2a500eb">Quality Leadership Development Program (Co-op Project Engineer) – Fall 2027</a></td>
+<td>Perrysburg, Ohio, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000151472169-quality-leadership-development-program-co-op-project-engineer-fall-2027">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Keenfinity</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf105919-49b9-4b03-a2b4-d84edd8a49a4">Electrical Test Engineering Co-Op</a></td>
+<td>Fairport, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151397415-electrical-test-engineering-co-op">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/698c73fd-4184-4d48-925d-cb3490f45cb3">Embedded Firmware Engineer Co-Op</a></td>
+<td>Fairport, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151397189-embedded-firmware-engineer-co-op">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bc9df6cc-3890-4fee-8ff6-80d9a1c7b390">Software Test Automation Co-Op</a></td>
+<td>Fairport, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Keenfinity/744000151395769-software-test-automation-co-op">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Smiths Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/be8a8e74-f239-4d90-a76d-b88385a7e25d">Engineering Intern</a></td>
+<td>603 Hendee Street, Springfield, Massachusetts, United States<br/>Coyol, Alajuela, Costa Rica</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151387389-engineering-intern">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4a181cf8-cde4-4463-9376-d3c5d129c4ab">Engineering Intern – Braid Design</a></td>
+<td>603 Hendee Street, Springfield, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151383182-engineering-intern-braid-design">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 </tbody>

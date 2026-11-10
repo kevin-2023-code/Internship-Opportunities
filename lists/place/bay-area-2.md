@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**503 open roles.**
+**504 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>C3.ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/ced1ffba-2409-40fe-b6d6-4bf454ea58eb">AI Product Manager - MBA Intern (Summer 2027)</a></td>
+<td>Redwood City, California, United States</td>
+<td align="center"><a href="https://c3.ai/job-description/8860563002?gh_jid=8860563002">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>HarveyAI</strong></td>
 <td><a href="https://trueinterview.io/jobs/2faab77d-7098-4122-81c1-2844264de754">Software Engineering Intern (Winter 2027)</a></td>

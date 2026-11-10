@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**761 open roles.** 688 in the United States & Canada · 73 elsewhere in the world.
+**765 open roles.** 692 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,7 +20,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/770d8b93-54ca-41dc-b377-8710d42c73a4">2027 Internship - Applied AI Engineering</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487964318/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Pivotal</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d">Internship, Software Engineering (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5fe328f5-3488-40f5-b88b-399218fda7f7">Internship, Mechanical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506">Apply</a></td>
@@ -35,9 +49,30 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/00dbf6fc-fb28-4e60-b2c8-34737b25d399">Internship, Maintenance, Repair &amp; Overhaul Engineering (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/pivotal/23e45f4a-ab7f-4d45-9ec8-bae2ced5d583">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f00f33c8-ea3a-4381-8045-8048d789170a">Internship, Flight Test Engineer (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1f539fdc-fc3e-481f-a22d-ef5137c1f1a3">Internship, Electrical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/bae42d71-c503-44d9-aac7-036dcb1bbd13">Project Engineering &amp; Archival Intern -Water Technologies</a></td>
+<td>Pico Rivera, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160735749-project-engineering-archival-intern-water-technologies">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -59,6 +94,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a222ec3-2c79-45f1-96ff-78847977c61c">Electrical Hardware Engineer Intern</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488854360/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c92da7-e75e-4c4a-b4ef-6a505e6f92b4">Quality Engineering Intern - Santa Clara</a></td>
+<td>United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2337,13 +2379,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2dab2f86-cb60-4ec6-a22c-c515192818b9">Mechanical Engineering Intern - 1086</a></td>
-<td>US Broomfield, CO</td>
-<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/6275872e-ffc4-4c29-803b-e643c5097039">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/9622b45f-c069-46a3-9006-0eea874f7928">Analog Design Engineering Intern</a></td>
 <td>United Kingdom, Edinburgh, SC, Freer</td>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/194abb05-f4d9-42a0-bfa3-601955e050a4">Research Scientist Intern, Wireless Research (PhD)</a></td>
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/2374839409720164/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
-<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 </tbody>

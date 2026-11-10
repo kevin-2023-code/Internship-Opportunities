@@ -18,11 +18,11 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
-<td><strong>Art Of Problem Solving</strong></td>
+<td><strong>Art of Problem Solving</strong></td>
 <td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
 <td>San Diego, California, United States</td>
 <td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
-<td align="center">9 Nov 2026</td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Shield</strong></td>

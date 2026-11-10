@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,640 open roles.** 1,308 in the United States & Canada · 332 elsewhere in the world.
+**1,634 open roles.** 1,302 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Zimmer Biomet</strong></td>
+<td><a href="https://trueinterview.io/jobs/46b02aef-b20c-47ef-bf38-05f6b8172393">2027 Spring Co-Op, Software Developer</a></td>
+<td>Montréal, Canada</td>
+<td align="center"><a href="https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13309EXTERNALENUS/2027-Spring-Co-Op-Software-Developer">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Northrop Grumman</strong></td>
 <td><a href="https://trueinterview.io/jobs/0959a49c-c778-4002-b806-53715d03360c">2027 Software Engineering Intern - Colorado Springs</a></td>
@@ -254,13 +261,6 @@
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Radiance Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a37c7ca3-2d00-4778-ba2d-af13edbe66f4">Software Engineer Intern Spring/Summer 2027 with Security Clearance</a></td>
-<td>Dayton, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485157500/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f">[Summer 2027] Software Engineer Intern</a></td>
 <td>San Mateo, CA</td>
@@ -412,13 +412,6 @@
 <td><a href="https://trueinterview.io/jobs/ee5c4544-3d7e-4779-bbc1-6d3be3aee54b">2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</a></td>
 <td>North Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485671784/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WEX</strong></td>
-<td><a href="https://trueinterview.io/jobs/baae7a59-0c3b-45b0-8344-bb414b5e1479">Software Engineer Intern</a></td>
-<td>Maine, United States<br/>Remote</td>
-<td align="center"><a href="https://careers.wexinc.com/us/en/job/R22585/Software-Engineer-Intern">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/61662601-dd3e-4926-952b-93039486c270">Web Application Developer Intern</a></td>
 <td>South Ogden, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484705285/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Tech World Networking</strong></td>
+<td><a href="https://trueinterview.io/jobs/adcb7bc7-740c-4f98-82d9-d0d780f03937">Tooling Engineer Intern</a></td>
+<td>California, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482537705/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

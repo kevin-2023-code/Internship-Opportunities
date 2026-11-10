@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**709 open roles.** 522 in the United States & Canada · 187 elsewhere in the world.
+**709 open roles.** 523 in the United States & Canada · 186 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cfdf238-7df4-4bb6-a557-0d27059ac702">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jpmorganchase.contacthr.com/154034298">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dell</strong></td>
 <td><a href="https://trueinterview.io/jobs/f71c82d0-59a6-48db-b769-e81475426c99">Services Data Science Graduate Intern</a></td>
@@ -1950,13 +1957,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a732de87-e2b3-4d9a-aa72-0ae200d68b6f">AI &amp; Management Consulting Intern (Value Engineering - DACH Market)</a></td>
 <td>Munich, Germany</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca85b5d7-2caf-4aeb-b08c-35405c4d5927">Computer Vision and Machine Learning Intern [IDA:00076]</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000156703700-computer-vision-and-machine-learning-intern-ida-00076-">Apply</a></td>
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>

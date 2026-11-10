@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**190 open roles.** 126 in the United States & Canada · 64 elsewhere in the world.
+**192 open roles.** 128 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>UiPath</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/770d8b93-54ca-41dc-b377-8710d42c73a4">2027 Internship - Applied AI Engineering</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487964318/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Marketeq Digital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/946675e7-5920-42af-b4a4-1b9239c49ada">AI Prototype Engineering Intern (U.S.A Only)</a></td>
 <td>Miami, FL</td>
@@ -29,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5bcf3f8d-1ae4-4510-b5e8-64ff1f7e24b7">AI Engineer Intern - AI/ML/GenAI Design &amp; Development</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489121193/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>UiPath</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985">AI Engineer Intern</a></td>
-<td>Bellevue, WA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

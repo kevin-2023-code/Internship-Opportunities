@@ -2,7 +2,7 @@
 
 # 🌵 Phoenix & Arizona
 
-**39 open roles.**
+**40 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>U-Haul</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f9b27a3-c616-4d27-b1b7-3b180562977d">Software Development Spring Internship</a></td>
+<td>Phoenix, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489158236/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>General Dynamics Mission Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/5be965a1-30a0-4b61-880e-2d8b2bed75d2">Full-Stack Software Engineering Intern, Summer 2027</a></td>

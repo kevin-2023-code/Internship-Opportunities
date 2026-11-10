@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**761 open roles.** 688 in the United States & Canada · 73 elsewhere in the world.
+**765 open roles.** 692 in the United States & Canada · 73 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/684ccc7a-9f83-41be-9c83-24598a817a80">Display Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/2773227806411499/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0af87b00-e82e-4625-8b1f-1c1c33e91735">Materials Engineer Intern- Surface Finishing, Coating (PhD)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1128496099859192/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cbf50368-69db-426a-811c-fe531b26ec2f">ASIC Design Engineer Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1406976394946562/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/83f8c7d8-ddcd-4390-9b94-4f85c94053c7">Hardware Engineer Intern, Camera &amp; Sensing Architecture</a></td>
+<td>Sunnyvale, CA<br/>Redmond, WA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/29216393121298039/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4da0edda-5447-4aed-90e6-a37d983b81d1">Manufacturing Test Engineering Intern, AI</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/954380870617862/">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Eqt Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/17b5ed23-3a70-4e5a-8a79-33d7005c7767">Civil Engineering Services Intern</a></td>
@@ -979,13 +1014,6 @@
 <td><a href="https://trueinterview.io/jobs/7c2cc40e-3cf7-4b77-b8bf-cfdae7e730cb">Mechanical Engineering Intern</a></td>
 <td>Austin, TX<br/>San Carlos, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Quantinuum</strong></td>
-<td><a href="https://trueinterview.io/jobs/71daf792-da75-4526-a328-cf4daf8190d0">Mechanical Engineering Intern - 1047</a></td>
-<td>US Brooklyn Park, MN</td>
-<td align="center"><a href="https://jobs.eu.lever.co/quantinuum/5e7f7fba-41e1-454c-8985-30f7558095a2">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 <tr>

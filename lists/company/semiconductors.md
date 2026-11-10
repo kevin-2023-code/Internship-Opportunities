@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**264 open roles.** 199 in the United States & Canada · 65 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**265 open roles.** 200 in the United States & Canada · 65 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/bea48d3e-41ef-4435-8b59-c01e158bafaf">Machine Learning for Computational Sensing Research Intern</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487178700/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/26c92da7-e75e-4c4a-b4ef-6a505e6f92b4">Quality Engineering Intern - Santa Clara</a></td>
+<td>United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25019928">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
