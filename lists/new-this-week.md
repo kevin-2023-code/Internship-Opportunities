@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**958 open roles.** 788 in the United States & Canada · 170 elsewhere in the world. Everything the employers put up this week.
+**959 open roles.** 791 in the United States & Canada · 168 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Youbloom</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5cc7cd-463b-4e30-ab66-eff62b0b827c">Software Quality Assurance Analyst Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489412960/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Integration Innovation, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a11bab1-e109-401c-a081-452e88a081ef">Cybersecurity Internship</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487465100/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td><a href="https://trueinterview.io/jobs/21d65bd0-c808-46c2-8444-5837aaf3f384">GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489422447/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>BioSpace</strong></td>
 <td><a href="https://trueinterview.io/jobs/95617ca6-8ebf-430c-9955-74827e124731">Summer Intern – Cybersecurity Operations &amp; AI Automation</a></td>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f18da521-af8b-43e1-91a9-80d446ea86be">Programmer Analyst Intern, Summer 2027</a></td>
 <td>Waller, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461339575/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Covestro</strong></td>
-<td><a href="https://trueinterview.io/jobs/5966ae45-a92b-4873-a4e3-9e41b944be08">Supply Chain Application Developer Co-Op</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479552847/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seagate Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/b949ee3d-b003-438c-885b-e302ce84b684">R&amp;D Data Analytics, AI and Production Systems - Summer 2027 Internship (Masters or PhD)</a></td>
-<td>Bloomington, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483083953/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AMETEK</strong></td>
-<td><a href="https://trueinterview.io/jobs/a56d92f7-b441-4477-a32b-c8f9aa62fc4a">Intern, Junior Python Developer</a></td>
-<td>Wayne, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470613861/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,646 open roles.** 1,314 in the United States & Canada · 332 elsewhere in the world.
+**1,649 open roles.** 1,317 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intuitive</strong></td>
+<td><a href="https://trueinterview.io/jobs/4936b346-b62d-439a-ad34-dbc24c4b416a">Manufacturing Software Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719543/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Harmonic Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/500d9ccf-2e5d-4434-83b6-337e3a4c3034">Software Engineer – Intern</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260188">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb6a61ec-bf88-4270-b11f-d0923d47ca50">Cybersecurity Intern</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717410/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Ingredion Incorporated</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8d95cce-eeee-48ac-9b64-f8149b79e369">Engineering Intern</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/df5c648a-6b92-4f1d-9798-53837c06d044">Summer 2027 Engineering Internship, Electrical</a></td>
 <td>San Francisco, California, United States<br/>Huntington Beach, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420623009">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2c07422c-da3b-46b1-b769-b01c7c181883">Summer 2027 Engineering Internship, Aerospace</a></td>
-<td>Huntington Beach, California, United States<br/>Victorville, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420631009">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/2dcbd321-bb3c-417b-a8e7-6eb883d55a7c">System Software Engineering - PhD Intern</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457">Apply</a></td>
-<td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/a93038c4-2a51-44ae-a578-07f7c28f096f">DevOps Intern</a></td>
-<td>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54602?lang=en-us">Apply</a></td>
 <td align="center">25 Sep 2026</td>
 </tr>
 </tbody>

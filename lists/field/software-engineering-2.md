@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,646 open roles.** 1,314 in the United States & Canada · 332 elsewhere in the world.
+**1,649 open roles.** 1,317 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Plexus Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/49d95df4-9f67-42d5-8e96-c2a4b70fe34a">Intern - Software Engineer (Summer 2027)</a></td>
+<td>Neenah, WI</td>
+<td align="center"><a href="https://jobs.plexus.com/careers/job/1099551218197?domain=plexus.com">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Elevated Web Design</strong></td>
+<td><a href="https://trueinterview.io/jobs/d8167563-d684-4548-9384-94012d4c333d">Application Software Engineering Internship</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486400023/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Fanatics Collectibles</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c33fa8d-c65d-44d7-85cb-d25a9ae2cead">Packaging Engineer Co-op Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4475040009">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bank of America</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bb5fc2a-38fa-4fcf-b033-84cc2c9aac19">Global Technology Summer Analyst 2027 - Cybersecurity Analyst</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/245d079d-7733-4d1b-896b-3f37c3b6a759">IMR System Design Engineering Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484717407/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive</strong></td>
-<td><a href="https://trueinterview.io/jobs/4936b346-b62d-439a-ad34-dbc24c4b416a">Manufacturing Software Engineering Intern</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484719543/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Harmonic Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/500d9ccf-2e5d-4434-83b6-337e3a4c3034">Software Engineer – Intern</a></td>
-<td>San Jose, California, United States</td>
-<td align="center"><a href="https://egmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260188">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mativ</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb6a61ec-bf88-4270-b11f-d0923d47ca50">Cybersecurity Intern</a></td>
-<td>Alpharetta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484717410/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

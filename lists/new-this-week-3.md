@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**958 open roles.** 788 in the United States & Canada · 170 elsewhere in the world. Everything the employers put up this week.
+**959 open roles.** 791 in the United States & Canada · 168 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/bdf89f78-9255-4f21-b2e8-2947410d5a46">Robotics - Applied Scientist II Intern / Co-op - 2027 (Robotics, Perception, Manipulation, Locomotion, Planning, HRI and more), Amazon Development Center Taiwan</a></td>
+<td>Hsinchu City, Taiwan, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488862402/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/831a0b75-a875-4b25-88c5-72e1b367b1a9">Extracurricular Internship: Data Engineering - Cloud Platform (f/m/div.)</a></td>
+<td>Aveiro, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160598089-extracurricular-internship-data-engineering-cloud-platform-f-m-div-">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>UNIVERSAL PHOENIX GROUP LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e46f7d9-f27b-406f-a60f-c092ffcb7de1">UX/UI Game Dev (Unity) Internship</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=272776831ae58ae8">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/26f785b0-2cc9-4a1c-bfed-87d366d5a847">Quantitative Research Internship - PhD</a></td>
@@ -1107,20 +1128,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
 <td>Greater Phoenix Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477258436/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb9fe611-9836-42d2-abaa-8b5932f0cf73">Final year internship - Marketing Data Scientist</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159069834-final-year-internship-marketing-data-scientist">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a0223064-7a5c-403c-a07d-702c27f339f4">Final year internship - Data Scientist &amp; AI Consultant</a></td>
-<td>Paris, Île-de-France, France</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159070239-final-year-internship-data-scientist-ai-consultant">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

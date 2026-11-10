@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**452 open roles.** 357 in the United States & Canada · 95 elsewhere in the world.
+**453 open roles.** 358 in the United States & Canada · 95 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f033635-e877-438f-ab5e-480260d5bdda">2027 Software Dev Engineer Intern - Netherlands</a></td>
+<td>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476796429/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Crédit Agricole CIB</strong></td>
 <td><a href="https://trueinterview.io/jobs/32fbf546-53d4-4eb5-9c66-e090d70020d4">.NET Software Engineer Intern (Jan 2027 intake)</a></td>

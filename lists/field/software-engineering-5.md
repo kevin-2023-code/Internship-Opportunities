@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,646 open roles.** 1,314 in the United States & Canada · 332 elsewhere in the world.
+**1,649 open roles.** 1,317 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Guidepoint Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2faedc0-48cc-42cb-972f-3ecdab5a63b9">GPSU Cybersecurity Intern - Application Security</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Isar Aerospace Se</strong></td>
+<td><a href="https://trueinterview.io/jobs/3853c5cb-54cf-404e-8ee3-e4485b4f20b4">12 months internship - Propulsion Test Engineer (m/f/d)</a></td>
+<td>Kiruna, Norrbotten, Sweden</td>
+<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/94fe9428-56f0-4534-b71d-c00c53e139a6">Product Engineer - Internship</a></td>
+<td>Rivas-Vaciamadrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154065541-product-engineer-internship">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Formlabs</strong></td>
 <td><a href="https://trueinterview.io/jobs/57bcec89-4fd0-4383-b499-a1727f11715d">Software Engineer Intern (Full stack)</a></td>

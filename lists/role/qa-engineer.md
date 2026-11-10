@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**39 open roles.** 28 in the United States & Canada · 11 elsewhere in the world.
+**40 open roles.** 29 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Youbloom</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5cc7cd-463b-4e30-ab66-eff62b0b827c">Software Quality Assurance Analyst Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489412960/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/f413e9fc-a759-4018-865e-9b5d42f42dd0">Defense Software Test &amp; AI Co-Op</a></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,646 open roles.** 1,314 in the United States & Canada · 332 elsewhere in the world.
+**1,649 open roles.** 1,317 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,28 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Mach Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/2c07422c-da3b-46b1-b769-b01c7c181883">Summer 2027 Engineering Internship, Aerospace</a></td>
+<td>Huntington Beach, California, United States<br/>Victorville, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/machindustries/jobs/4420631009">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dcbd321-bb3c-417b-a8e7-6eb883d55a7c">System Software Engineering - PhD Intern</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/a93038c4-2a51-44ae-a578-07f7c28f096f">DevOps Intern</a></td>
+<td>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54602?lang=en-us">Apply</a></td>
+<td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c25ce015-a7a5-420e-949c-e0c9e50ae855">Engineering Software Developer, Intern</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States<br/>Raleigh, North Carolina, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54638?lang=en-us">Apply</a></td>
@@ -2805,27 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Paris office</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf/application">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Guidepoint Security</strong></td>
-<td><a href="https://trueinterview.io/jobs/d2faedc0-48cc-42cb-972f-3ecdab5a63b9">GPSU Cybersecurity Intern - Application Security</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Isar Aerospace Se</strong></td>
-<td><a href="https://trueinterview.io/jobs/3853c5cb-54cf-404e-8ee3-e4485b4f20b4">12 months internship - Propulsion Test Engineer (m/f/d)</a></td>
-<td>Kiruna, Norrbotten, Sweden</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5000652101">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/94fe9428-56f0-4534-b71d-c00c53e139a6">Product Engineer - Internship</a></td>
-<td>Rivas-Vaciamadrid, Comunidad de Madrid, Spain</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154065541-product-engineer-internship">Apply</a></td>
-<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

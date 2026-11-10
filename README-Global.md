@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-10 08:06 UTC_
+_Last updated: 2026-11-10 09:06 UTC_
 
-**699 open internships** from **312 employers** · **170 posted in the last 7 days** · refreshed hourly
+**699 open internships** from **312 employers** · **168 posted in the last 7 days** · refreshed hourly
 
 ### Browse 699 internships by field
 
@@ -40,7 +40,7 @@ _Last updated: 2026-11-10 08:06 UTC_
 
 ### 🔥 Posting the most this week
 
-**Bosch** 20 &nbsp;·&nbsp; **NVIDIA** 9 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **CERN** 6 &nbsp;·&nbsp; **Optiver** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **SIA** 5 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Mercari, Inc.** 3 &nbsp;·&nbsp; **SAP** 3
+**Bosch** 20 &nbsp;·&nbsp; **NVIDIA** 9 &nbsp;·&nbsp; **Apple** 6 &nbsp;·&nbsp; **CERN** 6 &nbsp;·&nbsp; **Optiver** 6 &nbsp;·&nbsp; **Sony** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Google** 5 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Mercari, Inc.** 3 &nbsp;·&nbsp; **SAP** 3 &nbsp;·&nbsp; **SIA** 3
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 31 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (105)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (38)](lists/place/uk.md) · [🇫🇷 Paris & France (35)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🇳🇱 Amsterdam & the Benelux (24)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (24)](lists/place/iberia.md) · [🏰 Warsaw, Kraków & Central Europe (24)](lists/place/poland-cee.md) · [🇮🇪 Dublin & Ireland (14)](lists/place/ireland.md) · [+4 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (170)](lists/new-this-week.md) · [🌐 Remote (13)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (168)](lists/new-this-week.md) · [🌐 Remote (13)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -224,7 +224,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9847f50e-a0d6-4764-ae62-8e79d5311f28">Software Engineering Intern - 2027</a></td>
 <td>Munich, Bavaria, Germany</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486576686/">Apply</a></td>
-<td align="center">4d</td>
+<td align="center">5d</td>
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>
@@ -657,7 +657,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6f7cf471-ed89-455e-b48c-c6619c22cee8">Internship in GenAI Knowledge Assistant for Engineering</a> 🆕</td>
 <td>Wernau (Neckar), Baden-Württemberg, Germany</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160555829-internship-in-genai-knowledge-assistant-for-engineering">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
@@ -685,7 +685,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/45ef8a5d-1500-4595-9a96-d879e717d18c">Research Scientist Intern, Muse Post-Training &amp; Flywheel (PhD)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486667980/">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
@@ -1397,7 +1397,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/7fd5477d-e9b3-4c22-a729-2b08b0170a28">Visual Content Designer Intern</a></td>
 <td>Shanghai, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485302932/">Apply</a></td>
-<td align="center">10d</td>
+<td align="center">11d</td>
 </tr>
 <tr>
 <td><strong>CapitaLand Investment (CLI)</strong></td>
@@ -1843,7 +1843,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/997c05ae-3d79-423e-8f48-72e29ad93575">IT Specialist Intern (f/m/d)</a></td>
 <td>Munich HQ</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/quantumdiamonds/19e0203c-363c-49b9-8ca7-9fe7f8ce23a7">Apply</a></td>
-<td align="center">18d</td>
+<td align="center">19d</td>
 </tr>
 </tbody>
 </table>
