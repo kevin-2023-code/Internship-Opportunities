@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T04:05:35.513Z",
+  "listingsChangedAt": "2026-11-10T05:04:45.816Z",
   "count": 3507,
   "listings": [
+    {
+      "id": "cd6ac5b5-7a58-4599-9208-62458e6d9d14",
+      "company": "Marketeq Talent",
+      "title": "UX Design Research Intern ( U.S.A Only )",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489198421/",
+      "url": "https://trueinterview.io/jobs/cd6ac5b5-7a58-4599-9208-62458e6d9d14",
+      "postedAt": "2026-11-10T04:04:00.000Z",
+      "updatedAt": "2026-11-10T04:04:00.000Z"
+    },
     {
       "id": "2cdd15df-af16-490d-a6fe-cec335ec44b7",
       "company": "Kiewit",
@@ -274,7 +299,8 @@
       "company": "Cirrus Logic",
       "title": "2027 Internship - Applied AI Engineering",
       "locations": [
-        "Austin, TX"
+        "Austin, TX",
+        "Austin, Texas"
       ],
       "cities": [
         "Austin, TX"
@@ -291,7 +317,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487964318/",
+      "applyUrl": "https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8",
       "url": "https://trueinterview.io/jobs/770d8b93-54ca-41dc-b377-8710d42c73a4",
       "postedAt": "2026-11-10T00:07:00.000Z",
       "updatedAt": "2026-11-10T00:07:00.000Z"
@@ -2095,6 +2121,31 @@
       "url": "https://trueinterview.io/jobs/f3a8f934-1630-4b1b-a37f-35794fe01c6b",
       "postedAt": "2026-11-09T06:50:00.000Z",
       "updatedAt": "2026-11-09T06:50:00.000Z"
+    },
+    {
+      "id": "a034e3b3-df2e-402d-a764-6b06fabe72fb",
+      "company": "FedEx",
+      "title": "Computer Science Engineer Co-op (Spring 2027)",
+      "locations": [
+        "Moon Township, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.fedex.com/computer-science-engineer-co-op-spring-2027/job/P25-395098-1",
+      "url": "https://trueinterview.io/jobs/a034e3b3-df2e-402d-a764-6b06fabe72fb",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
     },
     {
       "id": "4aeb726c-c729-4d40-914f-2ae370278725",
@@ -78924,33 +78975,6 @@
       "updatedAt": "2026-10-01T16:01:04.000Z"
     },
     {
-      "id": "a9902b5e-bb3b-4aa5-947f-d24a144eeda8",
-      "company": "Riot Games",
-      "title": "Software Engineering Intern - Summer 2027 (Remote)",
-      "locations": [
-        "Los Angeles, USA"
-      ],
-      "cities": [
-        "Los Angeles, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014",
-      "url": "https://trueinterview.io/jobs/a9902b5e-bb3b-4aa5-947f-d24a144eeda8",
-      "postedAt": "2026-10-01T16:00:00.000Z",
-      "updatedAt": "2026-10-01T16:00:00.000Z"
-    },
-    {
       "id": "bd0250ed-c5c4-4780-9216-915bb84d1cc5",
       "company": "Fortune Brands Innovations",
       "title": "Product Manager Intern",
@@ -91129,31 +91153,6 @@
       "url": "https://trueinterview.io/jobs/d3ea9d51-adfe-408b-b9a6-b5b41aa49581",
       "postedAt": "2026-09-11T09:31:46.000Z",
       "updatedAt": "2026-09-11T09:31:46.000Z"
-    },
-    {
-      "id": "4405965c-b44b-4d8f-bc54-1f7e5b6c231a",
-      "company": "SOCOTEC Group",
-      "title": "Data Monitoring Analyst Intern",
-      "locations": [
-        "Cầu Giấy, Hà Nội, Vietnam"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/Socotec/744000148921759-data-monitoring-analyst-intern",
-      "url": "https://trueinterview.io/jobs/4405965c-b44b-4d8f-bc54-1f7e5b6c231a",
-      "postedAt": "2026-09-11T04:48:14.000Z",
-      "updatedAt": "2026-09-11T04:48:14.000Z"
     }
   ]
 }
