@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**27 open roles.** 19 in the United States & Canada · 8 elsewhere in the world.
+**28 open roles.** 20 in the United States & Canada · 8 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ac6eb33-f698-4a88-a102-50d1ac4fa516">AI Product Software Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489488724/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>

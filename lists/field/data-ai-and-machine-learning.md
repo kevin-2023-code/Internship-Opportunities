@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**712 open roles.** 531 in the United States & Canada · 181 elsewhere in the world.
+**712 open roles.** 530 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Navy Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffd4672d-9645-450f-9cff-180d64c9516c">Intern - Year Round (AI Engineering)</a></td>
+<td>Vienna, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481517443/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Akoncagua AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e87ff90-16f4-4308-ba9f-da486464df57">AI Researcher Intern – Winter / Spring 2027 (PhD)</a></td>
+<td>Lakeland, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489491288/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Scale</strong></td>
 <td><a href="https://trueinterview.io/jobs/c64ec06d-34fe-4eb8-be6d-c61f5927fd34">Machine Learning Research Intern (Summer 2027)</a></td>
@@ -59,13 +73,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/524487ef-1cb1-4411-aa79-0483ddc1ba65">ML Scientist Intern</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Artmac</strong></td>
-<td><a href="https://trueinterview.io/jobs/29483ff2-ec26-482f-ad3c-c2c2fc997d85">Computer Vision Engineering Intern</a></td>
-<td>Prosper, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489469337/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/75797fc5-c95a-4b74-85aa-5b0749b61674">Research Engineer, Intern – Benchmarking</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae/application">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Micron Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/8079b080-2e12-4092-9eb7-59e2845f5c35">Intern - Data Science</a></td>
-<td>San Jose, California, United States<br/>Folsom, California, United States</td>
-<td align="center"><a href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Data-Science_JR114549">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

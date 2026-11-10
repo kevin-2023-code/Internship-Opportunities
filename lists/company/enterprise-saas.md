@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**77 open roles.** 60 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**76 open roles.** 59 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -214,14 +214,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Braze</strong></td>
-<td><a href="https://trueinterview.io/jobs/fae2c341-dcd4-4012-858b-798c7f59e1f0">Intern, Software Engineering</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/braze/jobs/8301086">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9afeb533-0cb5-4221-88d7-7fa29e47471d">Data Center Technicians INTERN</a></td>
 <td>Atlanta, GA<br/>West Des Moines, IA, US</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557043629">Apply</a></td>

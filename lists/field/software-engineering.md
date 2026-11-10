@@ -20,10 +20,73 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Videolabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6153de9-f062-437e-97ed-b56efaa7ea42">Internship: C++/Python Developer</a></td>
+<td>Oklahoma, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489480578/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inversion</strong></td>
+<td><a href="https://trueinterview.io/jobs/cadf908b-9104-4732-b1cb-9c5b2cf1d288">AI &amp; Internal Tools Software Engineer - Summer Internship 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481249180/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Indiana Farm Bureau Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b5bd7a2-443c-4914-9b39-9e77e382c9b8">Software Engineering Intern - Summer 2027</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470896212/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amplify</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f41c1b6-27d0-4021-84f4-22ce277cfad3">Summer 2027: Software Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480280354/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ac6eb33-f698-4a88-a102-50d1ac4fa516">AI Product Software Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489488724/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>REGENT</strong></td>
+<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA<br/>North Kingstown, RI</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia | Water Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b">Manufacturing Software Engineer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487492521/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SBS CORP</strong></td>
 <td><a href="https://trueinterview.io/jobs/84fd02a6-307e-4209-9def-43f825f9d3f2">Software &amp; Product Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487489482/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inversion</strong></td>
+<td><a href="https://trueinterview.io/jobs/453b9d3a-117e-4f6e-b30c-701759117459">Vehicle Software Engineer - Summer Internship 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481246231/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Videolabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/8db771ed-4e81-4ef3-86ba-f531d1b49f8f">Internship: C++ Linux Developer</a></td>
+<td>Oklahoma, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489478801/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -45,6 +108,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2504e5fe-b6b0-4fbf-9010-f49c6e4391ea">Applied AI &amp; Business Innovation Intern - Summer 2027 - Franklin, TN</a></td>
 <td>Franklin, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481575928/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Artmac</strong></td>
+<td><a href="https://trueinterview.io/jobs/29483ff2-ec26-482f-ad3c-c2c2fc997d85">Computer Vision Engineering Intern</a></td>
+<td>Prosper, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489469337/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -119,13 +189,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Regent</strong></td>
-<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
-<td>North Kingstown, Rhode Island, USA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0bfac500-c6f4-4004-86ab-f3ba1bb8597a">Systems Engineering Intern - Safety Analysis (Summer)</a></td>
 <td>North Kingstown, Rhode Island, USA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/REGENT/9370adbc-f344-4aeb-a99d-65acaac87894">Apply</a></td>
@@ -307,14 +370,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Vertiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2">Software Engineering Test Intern (Summer 2027)</a></td>
-<td>Delaware, OH<br/>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472446757/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef">Co-Op Developer – Adobe 2027</a></td>
 <td>University Park, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451222613/">Apply</a></td>
@@ -2421,13 +2477,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/60c7a26d-eee0-4bd4-adb7-19aa2d0f6a21">Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Tyler Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/d0d91a23-3d80-4d34-be64-9669097f3231">DevOps Engineer Intern, Summer 2027</a></td>
 <td>Plano, TX</td>
@@ -2768,55 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/68531b95-0729-4552-9a9e-858ea86d9a43">CDS Intern - PowerApps Developer - ECM Digital Workflow</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486466668/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5759b262-21de-4999-a703-09c5c8901617">CDS Intern - Software Engineer - Costco Travel</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486457973/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valmont Industries, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/4977afa4-51ca-4928-84d1-5d8379f60b9c">Embedded Systems Engineering Intern</a></td>
-<td>Valley, NE</td>
-<td align="center"><a href="https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toshiba Global Commerce Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/058f4e6b-b4fd-4d1a-88a5-cb32f2930a81">Software Engineering Intern</a></td>
-<td>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485788253/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sierra Nevada Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d">Software Engineer Intern (Summer 2027)</a></td>
-<td>Southern Pines, North Carolina, United States<br/>Southern Pines, NC</td>
-<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Varda Space Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/1616fa04-3fed-4f2d-96fd-a1b2d46adc53">Site Reliability Internship - Spring 2027</a></td>
-<td>El Segundo, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/7824814003">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ce44caac-7cce-47a2-8322-56c051e016be">Cybersecurity Internship - Spring 2027</a></td>
-<td>El Segundo, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450758010/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BBVA</strong></td>
-<td><a href="https://trueinterview.io/jobs/758398e0-1c41-45fd-b597-5a16fb1b57cf">2027 CIB Cybersecurity Summer Internship</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485761774/">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 </tbody>

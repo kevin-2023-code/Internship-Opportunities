@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**113 open roles.** 96 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**112 open roles.** 95 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -515,14 +515,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>
-<td>Los Gatos, California, United States of America</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/021a7b61-f472-4ac6-acb2-da536124a6b8">Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)</a></td>
 <td>Redmond, WA, United States</td>
 <td align="center"><a href="https://www.metacareers.com/profile/job_details/3364701000388712/">Apply</a></td>

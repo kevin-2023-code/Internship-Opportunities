@@ -16,6 +16,48 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/45063ba1-f9e7-44f5-aba1-043a76d70243">IT Quality Assurance Intern - Spring 2027</a></td>
+<td>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458520964/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e8c3d0d9-62a8-4a5c-827e-4326866bdc80">Cybersecurity Intern - Summer 2027</a></td>
+<td>Fort Wayne, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476509041/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Avient Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/50cce388-0498-4a61-9cb3-bde5a53d2a86">Engineering Co-Op 2027</a></td>
+<td>Avon Lake, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456534205/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/647cd0b1-a4b6-4b39-9f2e-bf35031f68fd">Power Distribution Design Engineering Intern - Summer 2027</a></td>
+<td>Spring, TX<br/>The Woodlands, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458773357/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Redwire</strong></td>
+<td><a href="https://trueinterview.io/jobs/64ba47c8-356d-423d-a229-0035a7e3e34a">Engineering Intern</a></td>
+<td>Longmont, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482018902/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pioneer Cladding and Glazing Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/778fbede-1a4d-40fe-983a-216be70b12f0">Engineering Co-op</a></td>
+<td>Johnson City, TN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723375/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Sargent &amp; Lundy</strong></td>
 <td><a href="https://trueinterview.io/jobs/13fb5b74-60ab-47a6-a9fb-c47d973656c6">Instrumentation &amp; Controls Engineering Intern - Nuclear (Summer 2027)</a></td>
 <td>Charlotte, NC</td>
@@ -1864,13 +1906,6 @@
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Braze</strong></td>
-<td><a href="https://trueinterview.io/jobs/fae2c341-dcd4-4012-858b-798c7f59e1f0">Intern, Software Engineering</a></td>
-<td>New York City</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/braze/jobs/8301086">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
 <td><a href="https://trueinterview.io/jobs/78aafd37-42d2-467a-9eaa-82729f79100e">Embedded Software Engineering Intern</a></td>
 <td>Roseville, California, United States of America</td>
@@ -1896,13 +1931,6 @@
 <td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
 <td>New York, NY<br/>London, United Kingdom</td>
 <td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Patreon</strong></td>
-<td><a href="https://trueinterview.io/jobs/0660463c-0c62-457e-bec9-38f857ec3d48">Software Engineering Intern - Summer 2027</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 <tr>
@@ -2162,13 +2190,6 @@
 <td><a href="https://trueinterview.io/jobs/6cb2ebca-283f-4151-9d17-9c69dd97e991">HPC – AI Networking Intern - Network Transport</a></td>
 <td>Fort Collins, Colorado, United States of America<br/>Chippewa Falls, Wisconsin</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Fort-Collins-Colorado/HPC---AI-Networking-Intern---Network-Transport_1213416">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>
-<td>Los Gatos, California, United States of America</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/b7dcb230-719f-4d25-8c61-40bb4c5f7200">Fire Protection Engineering Intern</a></td>
 <td>Fulton, Maryland, United States<br/>Raleigh, North Carolina, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000152406562-fire-protection-engineering-intern-">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hermeus</strong></td>
-<td><a href="https://trueinterview.io/jobs/4b6c289e-36b0-4471-8dd3-979a1a1c6f58">Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring &amp; Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/49e7aa29-5c25-425d-9664-27cd0ab23e38">EDA AI/ML Software Intern</a></td>
-<td>Calabasas, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54582?lang=en-us">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Marvell Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/e72825e0-1ccc-486e-9df9-eaae8f8f3ced">AI-Native Development Platform Engineer Intern, MS - Summer 2027</a></td>
-<td>Santa Clara, CA, United States of America</td>
-<td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 </tbody>

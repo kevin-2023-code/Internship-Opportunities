@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**150 open roles.**
+**149 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -267,13 +267,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/53cccfc1-21f2-4390-9462-cca6cad7c31f">Intern- PhD Applied Scientist, Routing</a></td>
 <td>Wilmington, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468171798/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sharkninja</strong></td>
-<td><a href="https://trueinterview.io/jobs/60c7a26d-eee0-4bd4-adb7-19aa2d0f6a21">Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 <tr>

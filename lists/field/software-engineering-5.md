@@ -18,6 +18,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Ford</strong></td>
+<td><a href="https://trueinterview.io/jobs/15e70692-c460-4f31-9c18-223abafce113">PD Engineer - Intern</a></td>
+<td>Naucalpan de Juárez, México, México</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4c0fkkvqshsq682pf9ja1tx">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/cd853433-b6c0-41f2-b2e3-36dc85d4e74c">Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M</a></td>
 <td>Levallois-Perret, Île-de-France, France</td>
@@ -386,13 +393,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/9987c402-084f-4b10-9197-d9b216630a03">Summer 2027 | Software Engineer Intern - Game Development (Creative &amp; Party)</a></td>
 <td>Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/nex/jobs/5420003008">Apply</a></td>
-<td align="center">11 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lyft</strong></td>
-<td><a href="https://trueinterview.io/jobs/8461aa32-7a8f-4c7c-b372-98a3ce297201">Software Engineer Intern, Frontend (Summer 2027)</a></td>
-<td>Mexico City, Mexico<br/>Flex - Mexico</td>
-<td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002">Apply</a></td>
 <td align="center">11 Sep 2026</td>
 </tr>
 </tbody>

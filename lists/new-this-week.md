@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**962 open roles.** 795 in the United States & Canada · 167 elsewhere in the world. Everything the employers put up this week.
+**955 open roles.** 789 in the United States & Canada · 166 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,69 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Videolabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6153de9-f062-437e-97ed-b56efaa7ea42">Internship: C++/Python Developer</a></td>
+<td>Oklahoma, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489480578/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inversion</strong></td>
+<td><a href="https://trueinterview.io/jobs/cadf908b-9104-4732-b1cb-9c5b2cf1d288">AI &amp; Internal Tools Software Engineer - Summer Internship 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481249180/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Indiana Farm Bureau Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b5bd7a2-443c-4914-9b39-9e77e382c9b8">Software Engineering Intern - Summer 2027</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470896212/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amplify</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f41c1b6-27d0-4021-84f4-22ce277cfad3">Summer 2027: Software Engineering Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480280354/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/3ac6eb33-f698-4a88-a102-50d1ac4fa516">AI Product Software Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489488724/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Navy Federal Credit Union</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffd4672d-9645-450f-9cff-180d64c9516c">Intern - Year Round (AI Engineering)</a></td>
+<td>Vienna, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481517443/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>REGENT</strong></td>
+<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA<br/>North Kingstown, RI</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia | Water Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b">Manufacturing Software Engineer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487492521/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Akoncagua AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e87ff90-16f4-4308-ba9f-da486464df57">AI Researcher Intern – Winter / Spring 2027 (PhD)</a></td>
+<td>Lakeland, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489491288/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Scale</strong></td>
 <td><a href="https://trueinterview.io/jobs/c64ec06d-34fe-4eb8-be6d-c61f5927fd34">Machine Learning Research Intern (Summer 2027)</a></td>
@@ -45,6 +108,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9145ef88-907e-43cc-bfeb-32fe6e64625c">Data Engineer – Agentic AI &amp; ML Ops (Co-op)</a></td>
 <td>Camden, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4428137441/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Inversion</strong></td>
+<td><a href="https://trueinterview.io/jobs/453b9d3a-117e-4f6e-b30c-701759117459">Vehicle Software Engineer - Summer Internship 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481246231/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Videolabs</strong></td>
+<td><a href="https://trueinterview.io/jobs/8db771ed-4e81-4ef3-86ba-f531d1b49f8f">Internship: C++ Linux Developer</a></td>
+<td>Oklahoma, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489478801/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -227,13 +304,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cd6ac5b5-7a58-4599-9208-62458e6d9d14">UX Design Research Intern ( U.S.A Only )</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489198421/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Regent</strong></td>
-<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
-<td>North Kingstown, Rhode Island, USA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -594,14 +664,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Vertiv</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2">Software Engineering Test Intern (Summer 2027)</a></td>
-<td>Delaware, OH<br/>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472446757/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/e998269f-cdbe-44b0-83dc-4e07c5dc4bef">Co-Op Developer – Adobe 2027</a></td>
 <td>University Park, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451222613/">Apply</a></td>
@@ -2754,69 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5d18e0c8-39ee-41f3-aee8-761abcce79c0">Programmer Analyst Intern</a></td>
 <td>Waller County, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485836030/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>PatientPoint - Invite Only</strong></td>
-<td><a href="https://trueinterview.io/jobs/f631394d-5db6-4ad8-bbfc-9e27f5fcc66e">Software Engineer Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4751023005">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Johnson &amp; Johnson Innovative Medicine</strong></td>
-<td><a href="https://trueinterview.io/jobs/ceaa4067-0ae4-4cdf-a299-6f78ee4bbc88">AI/ML/Data Science Intern</a></td>
-<td>Boston, MA<br/>New York, NY<br/>Spring House, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479547667/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/e49f3c0c-8a16-43a8-bad5-69528e52c497">Supply Chain Hardware Developer Intern 2027</a></td>
-<td>Rochester, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459558620/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Atoms</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0176197-e685-4193-a207-fc1c6fd7131e">Software Engineering Intern - 2027 Winter Term</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478470772/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motion</strong></td>
-<td><a href="https://trueinterview.io/jobs/166da911-d7c3-4349-86ee-62c5e8afc4a2">Software Developer Intern</a></td>
-<td>Birmingham, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462088593/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Red Cell Partners</strong></td>
-<td><a href="https://trueinterview.io/jobs/1286caa8-3610-4679-b73b-72c96878427b">Modeling &amp; Simulation Engineer (Internship or PT)</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/redcellpartners/jobs/5282208007">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/b02dc34e-f28b-4930-b6d4-b34f459620fb">SW Developer Intern | Enterprise Platform-as-a-Service - Austin, TX - 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459571213/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Stevens Capital Management LP</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c0a2357-f2a1-47c3-bf4f-9c50f3e29512">PhD Internship - Quantitative Research Analyst</a></td>
-<td>Philadelphia, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476291715/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/7f298a2f-0fa0-4faa-be81-9389a31ea7f7">Back-End Developer Intern 2027 -Tucson, AZ</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459557667/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

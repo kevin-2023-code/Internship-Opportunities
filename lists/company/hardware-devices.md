@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**209 open roles.** 168 in the United States & Canada · 41 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**208 open roles.** 167 in the United States & Canada · 41 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -72,13 +72,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006">Apply</a></td>
 <td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/60c7a26d-eee0-4bd4-adb7-19aa2d0f6a21">Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)</a></td>
-<td>Needham, MA, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006">Apply</a></td>
-<td align="center">3 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Ciena</strong></td>

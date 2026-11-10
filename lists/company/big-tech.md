@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**586 open roles.** 458 in the United States & Canada · 128 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**585 open roles.** 457 in the United States & Canada · 128 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1560,13 +1560,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Netflix</strong></td>
-<td><a href="https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5">Software Engineer Intern - Summer 2027</a></td>
-<td>Los Gatos, California, United States of America</td>
-<td align="center"><a href="https://explore.jobs.netflix.net/careers/job/790318904468">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Nokia</strong></td>
 <td><a href="https://trueinterview.io/jobs/373c408c-dc1f-44f2-a129-3dd8b11323a5">Optoelectronics Test Development Coop</a></td>
 <td>United States</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ebbadf26-92c6-487c-af2a-3b5413407158">Multimedia Engineering Internship – Summer 2027</a></td>
 <td>San Diego, CA, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740640">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e122f65a-3e0c-4e90-a5bc-5d3c4b347306">Product Management Internship - Summer 2027</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741706">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

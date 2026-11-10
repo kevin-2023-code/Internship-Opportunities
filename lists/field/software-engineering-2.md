@@ -16,6 +16,55 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Costco IT</strong></td>
+<td><a href="https://trueinterview.io/jobs/5759b262-21de-4999-a703-09c5c8901617">CDS Intern - Software Engineer - Costco Travel</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486457973/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Valmont Industries, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/4977afa4-51ca-4928-84d1-5d8379f60b9c">Embedded Systems Engineering Intern</a></td>
+<td>Valley, NE</td>
+<td align="center"><a href="https://valmont.wd1.myworkdayjobs.com/en-US/ValmontCareers/job/Valley-NE/Embedded-Systems-Engineering-Intern_R29223">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/058f4e6b-b4fd-4d1a-88a5-cb32f2930a81">Software Engineering Intern</a></td>
+<td>Durham, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485788253/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra Nevada Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/59b7eaff-3853-4fb3-8b3f-86980fc14c3d">Software Engineer Intern (Summer 2027)</a></td>
+<td>Southern Pines, North Carolina, United States<br/>Southern Pines, NC</td>
+<td align="center"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Varda Space Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/1616fa04-3fed-4f2d-96fd-a1b2d46adc53">Site Reliability Internship - Spring 2027</a></td>
+<td>El Segundo, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/7824814003">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ce44caac-7cce-47a2-8322-56c051e016be">Cybersecurity Internship - Spring 2027</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450758010/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BBVA</strong></td>
+<td><a href="https://trueinterview.io/jobs/758398e0-1c41-45fd-b597-5a16fb1b57cf">2027 CIB Cybersecurity Summer Internship</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485761774/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Avista</strong></td>
 <td><a href="https://trueinterview.io/jobs/30743f30-ada5-4071-b66a-a9574d8c5ec6">Enterprise Technology Intern (Computer Science, Cybersecurity, Information Systems/MIS, Data Analytics/Data Science Majors)</a></td>
 <td>Spokane, WA</td>
@@ -489,13 +538,6 @@
 <td><a href="https://trueinterview.io/jobs/4ea494c5-c2ca-41eb-9160-71a450b9d198">Software Engineer (Agent Platform) - Intern - 2026-2027</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Teledyne Brown Engineering</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f4a3237-5da0-4840-9173-89821144aed3">NHRC Software Engineering Internship (Summer 2027) with Security Clearance</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483940437/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2771,48 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/102eb930-7936-4ddf-a20e-10897a5e85b1">Cyber Security Engineer Intern</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467288333/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DMA - DuCharme, McMillen &amp; Associates, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/45063ba1-f9e7-44f5-aba1-043a76d70243">IT Quality Assurance Intern - Spring 2027</a></td>
-<td>Lisle, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458520964/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e8c3d0d9-62a8-4a5c-827e-4326866bdc80">Cybersecurity Intern - Summer 2027</a></td>
-<td>Fort Wayne, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476509041/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Avient Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/50cce388-0498-4a61-9cb3-bde5a53d2a86">Engineering Co-Op 2027</a></td>
-<td>Avon Lake, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456534205/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/647cd0b1-a4b6-4b39-9f2e-bf35031f68fd">Power Distribution Design Engineering Intern - Summer 2027</a></td>
-<td>Spring, TX<br/>The Woodlands, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458773357/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Redwire</strong></td>
-<td><a href="https://trueinterview.io/jobs/64ba47c8-356d-423d-a229-0035a7e3e34a">Engineering Intern</a></td>
-<td>Longmont, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482018902/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pioneer Cladding and Glazing Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/778fbede-1a4d-40fe-983a-216be70b12f0">Engineering Co-op</a></td>
-<td>Johnson City, TN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484723375/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

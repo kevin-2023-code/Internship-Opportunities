@@ -5,9 +5,264 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-10T16:05:43.706Z",
+  "listingsChangedAt": "2026-11-10T17:04:20.585Z",
   "count": 3519,
   "listings": [
+    {
+      "id": "e6153de9-f062-437e-97ed-b56efaa7ea42",
+      "company": "Videolabs",
+      "title": "Internship: C++/Python Developer",
+      "locations": [
+        "Oklahoma, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489480578/",
+      "url": "https://trueinterview.io/jobs/e6153de9-f062-437e-97ed-b56efaa7ea42",
+      "postedAt": "2026-11-10T16:25:00.000Z",
+      "updatedAt": "2026-11-10T16:25:00.000Z"
+    },
+    {
+      "id": "cadf908b-9104-4732-b1cb-9c5b2cf1d288",
+      "company": "Inversion",
+      "title": "AI & Internal Tools Software Engineer - Summer Internship 2027",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481249180/",
+      "url": "https://trueinterview.io/jobs/cadf908b-9104-4732-b1cb-9c5b2cf1d288",
+      "postedAt": "2026-11-10T16:22:00.000Z",
+      "updatedAt": "2026-11-10T16:22:00.000Z"
+    },
+    {
+      "id": "4b5bd7a2-443c-4914-9b39-9e77e382c9b8",
+      "company": "Indiana Farm Bureau Insurance",
+      "title": "Software Engineering Intern - Summer 2027",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470896212/",
+      "url": "https://trueinterview.io/jobs/4b5bd7a2-443c-4914-9b39-9e77e382c9b8",
+      "postedAt": "2026-11-10T16:20:00.000Z",
+      "updatedAt": "2026-11-10T16:20:00.000Z"
+    },
+    {
+      "id": "7f41c1b6-27d0-4021-84f4-22ce277cfad3",
+      "company": "Amplify",
+      "title": "Summer 2027: Software Engineering Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480280354/",
+      "url": "https://trueinterview.io/jobs/7f41c1b6-27d0-4021-84f4-22ce277cfad3",
+      "postedAt": "2026-11-10T16:15:00.000Z",
+      "updatedAt": "2026-11-10T16:15:00.000Z"
+    },
+    {
+      "id": "3ac6eb33-f698-4a88-a102-50d1ac4fa516",
+      "company": "Marketeq Talent",
+      "title": "AI Product Software Engineering Intern (U.S.A Only)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489488724/",
+      "url": "https://trueinterview.io/jobs/3ac6eb33-f698-4a88-a102-50d1ac4fa516",
+      "postedAt": "2026-11-10T16:06:00.000Z",
+      "updatedAt": "2026-11-10T16:06:00.000Z"
+    },
+    {
+      "id": "ffd4672d-9645-450f-9cff-180d64c9516c",
+      "company": "Navy Federal Credit Union",
+      "title": "Intern - Year Round (AI Engineering)",
+      "locations": [
+        "Vienna, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481517443/",
+      "url": "https://trueinterview.io/jobs/ffd4672d-9645-450f-9cff-180d64c9516c",
+      "postedAt": "2026-11-10T15:44:00.000Z",
+      "updatedAt": "2026-11-10T15:44:00.000Z"
+    },
+    {
+      "id": "43bf8a61-d4ff-4082-a19b-1252c29b0b0e",
+      "company": "REGENT",
+      "title": "Mission Software Engineering Intern (Summer)",
+      "locations": [
+        "North Kingstown, Rhode Island, USA",
+        "North Kingstown, RI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa",
+      "url": "https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e",
+      "postedAt": "2026-11-10T02:45:08.000Z",
+      "updatedAt": "2026-11-10T15:38:00.000Z"
+    },
+    {
+      "id": "425c2d6b-a331-4851-ba70-1d45815ade0b",
+      "company": "Veolia | Water Tech",
+      "title": "Manufacturing Software Engineer Intern",
+      "locations": [
+        "Boulder, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487492521/",
+      "url": "https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b",
+      "postedAt": "2026-11-10T15:37:00.000Z",
+      "updatedAt": "2026-11-10T15:37:00.000Z"
+    },
+    {
+      "id": "0e87ff90-16f4-4308-ba9f-da486464df57",
+      "company": "Akoncagua AI",
+      "title": "AI Researcher Intern – Winter / Spring 2027 (PhD)",
+      "locations": [
+        "Lakeland, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489491288/",
+      "url": "https://trueinterview.io/jobs/0e87ff90-16f4-4308-ba9f-da486464df57",
+      "postedAt": "2026-11-10T15:28:00.000Z",
+      "updatedAt": "2026-11-10T15:28:00.000Z"
+    },
+    {
+      "id": "9490dfcd-fbd8-4586-8408-a1c8d861f08d",
+      "company": "Loft Orbital Solutions",
+      "title": "AI/ML Engineering Intern: System 1 Models for Reactive Space Operations",
+      "locations": [
+        "Toulouse, Occitanie"
+      ],
+      "cities": [
+        "Toulouse"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/loftorbital/7e9d723a-6afa-495c-a3ac-4f89ef5400b5",
+      "url": "https://trueinterview.io/jobs/9490dfcd-fbd8-4586-8408-a1c8d861f08d",
+      "postedAt": "2026-11-10T15:07:35.000Z",
+      "updatedAt": "2026-11-10T15:07:35.000Z"
+    },
     {
       "id": "c64ec06d-34fe-4eb8-be6d-c61f5927fd34",
       "company": "Scale",
@@ -33,6 +288,33 @@
       "url": "https://trueinterview.io/jobs/c64ec06d-34fe-4eb8-be6d-c61f5927fd34",
       "postedAt": "2026-11-10T15:05:00.000Z",
       "updatedAt": "2026-11-10T15:05:00.000Z"
+    },
+    {
+      "id": "89f6592d-1c02-42ee-a963-4aba5a426f41",
+      "company": "Loft Orbital Solutions",
+      "title": "Backend Engineering Intern: Ground Platform Control",
+      "locations": [
+        "Toulouse, Occitanie"
+      ],
+      "cities": [
+        "Toulouse"
+      ],
+      "countries": [
+        "France"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/loftorbital/1014b6c1-049d-43e5-a67a-42aac6ba4c84",
+      "url": "https://trueinterview.io/jobs/89f6592d-1c02-42ee-a963-4aba5a426f41",
+      "postedAt": "2026-11-10T15:01:34.000Z",
+      "updatedAt": "2026-11-10T15:01:34.000Z"
     },
     {
       "id": "84fd02a6-307e-4209-9def-43f825f9d3f2",
@@ -133,6 +415,58 @@
       "url": "https://trueinterview.io/jobs/9145ef88-907e-43cc-bfeb-32fe6e64625c",
       "postedAt": "2026-11-10T14:41:00.000Z",
       "updatedAt": "2026-11-10T14:41:00.000Z"
+    },
+    {
+      "id": "453b9d3a-117e-4f6e-b30c-701759117459",
+      "company": "Inversion",
+      "title": "Vehicle Software Engineer - Summer Internship 2027",
+      "locations": [
+        "Los Angeles, CA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481246231/",
+      "url": "https://trueinterview.io/jobs/453b9d3a-117e-4f6e-b30c-701759117459",
+      "postedAt": "2026-11-10T14:37:00.000Z",
+      "updatedAt": "2026-11-10T14:37:00.000Z"
+    },
+    {
+      "id": "8db771ed-4e81-4ef3-86ba-f531d1b49f8f",
+      "company": "Videolabs",
+      "title": "Internship: C++ Linux Developer",
+      "locations": [
+        "Oklahoma, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489478801/",
+      "url": "https://trueinterview.io/jobs/8db771ed-4e81-4ef3-86ba-f531d1b49f8f",
+      "postedAt": "2026-11-10T14:37:00.000Z",
+      "updatedAt": "2026-11-10T14:37:00.000Z"
     },
     {
       "id": "0a17abc9-a9d7-4d2f-8396-2382bcd5c4e1",
@@ -301,7 +635,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -328,7 +662,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -957,31 +1291,6 @@
       "url": "https://trueinterview.io/jobs/cd6ac5b5-7a58-4599-9208-62458e6d9d14",
       "postedAt": "2026-11-10T04:04:00.000Z",
       "updatedAt": "2026-11-10T04:04:00.000Z"
-    },
-    {
-      "id": "43bf8a61-d4ff-4082-a19b-1252c29b0b0e",
-      "company": "Regent",
-      "title": "Mission Software Engineering Intern (Summer)",
-      "locations": [
-        "North Kingstown, Rhode Island, USA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa",
-      "url": "https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e",
-      "postedAt": "2026-11-10T02:45:08.000Z",
-      "updatedAt": "2026-11-10T02:45:08.000Z"
     },
     {
       "id": "6270c7a8-d1f9-4b7f-a9a3-11ed04f41e68",
@@ -2382,32 +2691,6 @@
       "url": "https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82",
       "postedAt": "2026-11-09T16:15:00.000Z",
       "updatedAt": "2026-11-09T16:15:00.000Z"
-    },
-    {
-      "id": "e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
-      "company": "Vertiv",
-      "title": "Software Engineering Test Intern (Summer 2027)",
-      "locations": [
-        "Delaware, OH",
-        "Huntsville, AL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4472446757/",
-      "url": "https://trueinterview.io/jobs/e1e1d0a1-b08c-49ed-83d1-6d7e33d82fa2",
-      "postedAt": "2026-11-09T13:02:00.000Z",
-      "updatedAt": "2026-11-09T15:47:00.000Z"
     },
     {
       "id": "e998269f-cdbe-44b0-83dc-4e07c5dc4bef",
@@ -20963,31 +21246,6 @@
       "updatedAt": "2026-11-03T15:43:59.000Z"
     },
     {
-      "id": "60c7a26d-eee0-4bd4-adb7-19aa2d0f6a21",
-      "company": "Sharkninja",
-      "title": "Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)",
-      "locations": [
-        "Needham, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4721665006",
-      "url": "https://trueinterview.io/jobs/60c7a26d-eee0-4bd4-adb7-19aa2d0f6a21",
-      "postedAt": "2026-11-03T15:37:15.000Z",
-      "updatedAt": "2026-11-03T15:37:15.000Z"
-    },
-    {
       "id": "3e28bcb8-e43a-4f40-a8cf-26e185206782",
       "company": "Marketeq Media Inc.",
       "title": "AI Software Engineering Intern (U.S.A Only)",
@@ -29478,31 +29736,6 @@
       "url": "https://trueinterview.io/jobs/e2e63de5-6abe-4f5e-9602-0065b3ad200e",
       "postedAt": "2026-10-31T11:40:00.000Z",
       "updatedAt": "2026-10-31T11:40:00.000Z"
-    },
-    {
-      "id": "9f4a3237-5da0-4840-9173-89821144aed3",
-      "company": "Teledyne Brown Engineering",
-      "title": "NHRC Software Engineering Internship (Summer 2027) with Security Clearance",
-      "locations": [
-        "Huntsville, AL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4483940437/",
-      "url": "https://trueinterview.io/jobs/9f4a3237-5da0-4840-9173-89821144aed3",
-      "postedAt": "2026-10-31T11:22:00.000Z",
-      "updatedAt": "2026-10-31T11:22:00.000Z"
     },
     {
       "id": "7bc5a8e6-1b33-4d82-ba0d-6d856138f856",
@@ -67437,31 +67670,6 @@
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
-      "id": "fae2c341-dcd4-4012-858b-798c7f59e1f0",
-      "company": "braze",
-      "title": "Intern, Software Engineering",
-      "locations": [
-        "New York City"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/braze/jobs/8301086",
-      "url": "https://trueinterview.io/jobs/fae2c341-dcd4-4012-858b-798c7f59e1f0",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
       "id": "a3a77ea1-673d-4f5b-9483-d05a83d4490f",
       "company": "celonis",
       "title": "Intern Applied AI Solution Consulting (Italy)",
@@ -68355,35 +68563,6 @@
       "applyUrl": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
       "url": "https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b",
       "postedAt": "2026-10-19T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "0660463c-0c62-457e-bec9-38f857ec3d48",
-      "company": "patreon",
-      "title": "Software Engineering Intern - Summer 2027",
-      "locations": [
-        "New York",
-        "San Francisco"
-      ],
-      "cities": [
-        "New York, NY",
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c/application",
-      "url": "https://trueinterview.io/jobs/0660463c-0c62-457e-bec9-38f857ec3d48",
-      "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
     {
@@ -72544,31 +72723,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/44920531",
       "url": "https://trueinterview.io/jobs/7f7d8895-40b0-4556-97a3-e50d78c2e838",
-      "postedAt": "2026-10-13T00:00:00.000Z",
-      "updatedAt": "2026-10-13T00:00:00.000Z"
-    },
-    {
-      "id": "d91fdda6-5443-4105-84c5-eb6e5bb1c6d5",
-      "company": "Netflix",
-      "title": "Software Engineer Intern - Summer 2027",
-      "locations": [
-        "Los Gatos,California,United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://explore.jobs.netflix.net/careers/job/790318904468",
-      "url": "https://trueinterview.io/jobs/d91fdda6-5443-4105-84c5-eb6e5bb1c6d5",
       "postedAt": "2026-10-13T00:00:00.000Z",
       "updatedAt": "2026-10-13T00:00:00.000Z"
     },
@@ -91278,181 +91432,6 @@
       "url": "https://trueinterview.io/jobs/3f2460b7-1727-4885-8e90-aa2f7d79f0df",
       "postedAt": "2026-09-11T17:14:20.000Z",
       "updatedAt": "2026-09-11T17:14:20.000Z"
-    },
-    {
-      "id": "8461aa32-7a8f-4c7c-b372-98a3ce297201",
-      "company": "Lyft",
-      "title": "Software Engineer Intern, Frontend (Summer 2027)",
-      "locations": [
-        "Mexico City, Mexico",
-        "Flex - Mexico"
-      ],
-      "cities": [
-        "Mexico City"
-      ],
-      "countries": [
-        "Mexico"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002",
-      "url": "https://trueinterview.io/jobs/8461aa32-7a8f-4c7c-b372-98a3ce297201",
-      "postedAt": "2026-09-11T16:50:07.000Z",
-      "updatedAt": "2026-09-11T16:50:07.000Z"
-    },
-    {
-      "id": "ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7",
-      "company": "Lyft",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
-      "locations": [
-        "Mexico City, Mexico",
-        "Flex - Mexico",
-        "San Francisco, CA",
-        "Montreal, Canada",
-        "Toronto, Canada"
-      ],
-      "cities": [
-        "Mexico City",
-        "San Francisco, CA",
-        "Montreal, QC",
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Mexico",
-        "United States",
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002",
-      "url": "https://trueinterview.io/jobs/ca52c9d0-3fab-43f3-aae8-60b20f6bd5b7",
-      "postedAt": "2026-09-11T16:49:54.000Z",
-      "updatedAt": "2026-09-11T16:49:54.000Z"
-    },
-    {
-      "id": "c4a9d2e9-c246-493f-9de3-d264e85553e4",
-      "company": "Lyft",
-      "title": "Software Engineer Intern, Test Automation (Summer 2027)",
-      "locations": [
-        "Montreal, Canada"
-      ],
-      "cities": [
-        "Montreal, QC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
-      "url": "https://trueinterview.io/jobs/c4a9d2e9-c246-493f-9de3-d264e85553e4",
-      "postedAt": "2026-09-11T16:49:13.000Z",
-      "updatedAt": "2026-09-11T16:49:13.000Z"
-    },
-    {
-      "id": "e85853e3-bad2-4aff-ac80-3c6e3a722271",
-      "company": "Lyft",
-      "title": "Data Engineer Intern (Summer 2027)",
-      "locations": [
-        "Toronto, Canada"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
-      "url": "https://trueinterview.io/jobs/e85853e3-bad2-4aff-ac80-3c6e3a722271",
-      "postedAt": "2026-09-11T16:48:58.000Z",
-      "updatedAt": "2026-09-11T16:48:58.000Z"
-    },
-    {
-      "id": "dd5a923f-41ce-4b2c-9eff-110eeb13bf9f",
-      "company": "Lyft",
-      "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
-      "locations": [
-        "Toronto, Canada"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
-      "url": "https://trueinterview.io/jobs/dd5a923f-41ce-4b2c-9eff-110eeb13bf9f",
-      "postedAt": "2026-09-11T16:48:36.000Z",
-      "updatedAt": "2026-09-11T16:48:36.000Z"
-    },
-    {
-      "id": "4c80edf8-7352-4ad9-8c66-b428c8470888",
-      "company": "Lyft",
-      "title": "Data Science Intern, Algorithms (Summer 2027)",
-      "locations": [
-        "San Francisco, CA",
-        "New York, NY",
-        "San Francisco, California, United States"
-      ],
-      "cities": [
-        "San Francisco, CA",
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
-      "url": "https://trueinterview.io/jobs/4c80edf8-7352-4ad9-8c66-b428c8470888",
-      "postedAt": "2026-09-11T16:47:05.000Z",
-      "updatedAt": "2026-09-11T16:47:07.000Z"
     }
   ]
 }
