@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**979 open roles.** 806 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
+**979 open roles.** 805 in the United States & Canada · 174 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Starkey Hearing</strong></td>
+<td><a href="https://trueinterview.io/jobs/643a3f74-724b-47f0-b078-f26ce5555425">Software Engineering Internship</a></td>
+<td>Eden Prairie, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487070484/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Arrowstreet Capital, Limited Partnership</strong></td>
 <td><a href="https://trueinterview.io/jobs/df1cf163-5492-4288-85ca-d59843884d3b">Software Engineer Intern, Summer 2027</a></td>
@@ -43,20 +50,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486099819/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td><a href="https://trueinterview.io/jobs/49196dd6-de8d-4b50-ba1e-425925ddb620">Anticheat Engineer Intern - Summer 2027</a></td>
-<td>Austin, TX<br/>Austin, Texas, United States</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8537de8-21e6-4eaf-aa4d-5f058f8bb838">Firmware Engineering Co-Op</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487043721/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -70,10 +63,24 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Numa</strong></td>
+<td><a href="https://trueinterview.io/jobs/86689ed9-c6c3-4b4b-96de-2ba75d700999">Solutions Engineer Intern</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/numa/jobs/4504052009">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea823f5b-3973-4ba5-892a-7d533bda4582">2027 Software Engineering Intern</a></td>
 <td>Singapore, Central, Singapore<br/>Hong Kong, Hong Kong</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8346891">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e">Intern Quality Engineer (Human)</a></td>
+<td>I14</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -1271,13 +1278,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/606a2904-23dc-4713-ac5c-de9099c0d664">SAP iXp Intern - Solution Support Engineer - Customer Data Solutions</a></td>
 <td>Budapest, Budapest, Hungary</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476465192/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cc6a4a8-bb3c-41fe-829e-361f1c7162e9">Industrial AI &amp; Software Engineering Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527726">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

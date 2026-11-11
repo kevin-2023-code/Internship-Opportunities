@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**214 open roles.** 172 in the United States & Canada · 42 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**215 open roles.** 172 in the United States & Canada · 43 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1233,6 +1233,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e">Intern Quality Engineer (Human)</a></td>
+<td>I14</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/176ced9b-8c1a-4045-a688-a4add65cb0bc">Virtualisation Software Engineering Internship, CoreOS</a></td>

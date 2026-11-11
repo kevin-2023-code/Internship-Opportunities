@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,735 open roles.** 1,391 in the United States & Canada · 344 elsewhere in the world.
+**1,736 open roles.** 1,391 in the United States & Canada · 345 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1364,6 +1364,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Numa</strong></td>
+<td><a href="https://trueinterview.io/jobs/86689ed9-c6c3-4b4b-96de-2ba75d700999">Solutions Engineer Intern</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/numa/jobs/4504052009">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea823f5b-3973-4ba5-892a-7d533bda4582">2027 Software Engineering Intern</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/a768baa3-a12a-404f-a03e-8e87269c5a45">Internship - Software Developer for Test Engineering (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4457815724/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/5f10e6f6-f568-41e8-9ebb-d20f5763252f">FY27 Intern - Engineering Internship 2027 - 6 months, Cork</a></td>
-<td>Cork, County Cork, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4412113401/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

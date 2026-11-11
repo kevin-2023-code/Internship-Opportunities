@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**979 open roles.** 806 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
+**979 open roles.** 805 in the United States & Canada · 174 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>State of Iowa - Executive Branch</strong></td>
+<td><a href="https://trueinterview.io/jobs/05fead44-f67c-45db-abfd-801686d55ca5">Human Resources Data Analyst Intern</a></td>
+<td>Ames, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486602207/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IMMI</strong></td>
 <td><a href="https://trueinterview.io/jobs/27bcd0dc-8ea8-43fd-a098-995b8f2c1d46">2027 Summer IT Help Desk Intern</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/7e20d534-e7ca-426f-a5df-ba4f8365e2f7">Summer Intern - Software Engineering</a></td>
 <td>Shakopee, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485039098/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Starkey Hearing</strong></td>
-<td><a href="https://trueinterview.io/jobs/643a3f74-724b-47f0-b078-f26ce5555425">Software Engineering Internship</a></td>
-<td>Eden Prairie, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487070484/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

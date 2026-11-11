@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**789 open roles.** 718 in the United States & Canada · 71 elsewhere in the world.
+**791 open roles.** 719 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ultragenyx Pharmaceutical</strong></td>
+<td><a href="https://trueinterview.io/jobs/045a83e6-4821-4762-aa53-d1410ba97e2c">Co-op, Process Engineer</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753464005?gh_jid=4753464005">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GlobalFoundries</strong></td>
 <td><a href="https://trueinterview.io/jobs/1741ab82-1651-43aa-af33-ef7a5c1c0b58">AI Processor Hardware/Software Integration Engineer Intern (Summer 2027)</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/874aa698-ecc6-4e0c-a3b3-66c5b703f0ad">Intern - Machine Learning Engineering</a></td>
 <td>Richardson, TX, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45050125">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd1f61a0-c37a-463d-b59e-0e4bccf73bfc">Substation Electrical Engineering Intern - Summer 2027</a></td>
-<td>Spring, TX, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

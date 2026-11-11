@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T22:04:09.467Z",
-  "count": 3665,
+  "listingsChangedAt": "2026-11-11T23:04:14.949Z",
+  "count": 3668,
   "listings": [
     {
       "id": "be5b63f9-f3a4-4d43-9519-4fc15a6ea47d",
@@ -34,6 +34,54 @@
       "url": "https://trueinterview.io/jobs/be5b63f9-f3a4-4d43-9519-4fc15a6ea47d",
       "postedAt": "2026-11-11T21:03:40.000Z",
       "updatedAt": "2026-11-11T21:03:40.000Z"
+    },
+    {
+      "id": "045a83e6-4821-4762-aa53-d1410ba97e2c",
+      "company": "Ultragenyx Pharmaceutical",
+      "title": "Co-op, Process Engineer",
+      "locations": [
+        "Bedford, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753464005?gh_jid=4753464005",
+      "url": "https://trueinterview.io/jobs/045a83e6-4821-4762-aa53-d1410ba97e2c",
+      "postedAt": "2026-11-11T20:55:12.000Z",
+      "updatedAt": "2026-11-11T20:55:12.000Z"
+    },
+    {
+      "id": "86689ed9-c6c3-4b4b-96de-2ba75d700999",
+      "company": "Numa",
+      "title": "Solutions Engineer Intern",
+      "locations": [
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/numa/jobs/4504052009",
+      "url": "https://trueinterview.io/jobs/86689ed9-c6c3-4b4b-96de-2ba75d700999",
+      "postedAt": "2026-11-11T20:38:04.000Z",
+      "updatedAt": "2026-11-11T20:38:04.000Z"
     },
     {
       "id": "9ee9666a-5774-405f-b498-9a98bf12949a",
@@ -449,6 +497,29 @@
       "url": "https://trueinterview.io/jobs/ea823f5b-3973-4ba5-892a-7d533bda4582",
       "postedAt": "2026-11-11T16:22:21.000Z",
       "updatedAt": "2026-11-11T16:23:39.000Z"
+    },
+    {
+      "id": "4bc12ed9-5450-46e8-a26b-ef6182fc134e",
+      "company": "Neura Robotics",
+      "title": "Intern Quality Engineer (Human)",
+      "locations": [
+        "I14"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8",
+      "url": "https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e",
+      "postedAt": "2026-11-11T16:17:07.000Z",
+      "updatedAt": "2026-11-11T16:17:07.000Z"
     },
     {
       "id": "76586f6d-5266-4209-a951-97805aef24a2",

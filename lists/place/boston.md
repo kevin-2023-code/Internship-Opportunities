@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**157 open roles.**
+**158 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/be5b63f9-f3a4-4d43-9519-4fc15a6ea47d">Laser Firmware Intern - Summer 2027</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ultragenyx Pharmaceutical</strong></td>
+<td><a href="https://trueinterview.io/jobs/045a83e6-4821-4762-aa53-d1410ba97e2c">Co-op, Process Engineer</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753464005?gh_jid=4753464005">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

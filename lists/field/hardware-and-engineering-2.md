@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**789 open roles.** 718 in the United States & Canada · 71 elsewhere in the world.
+**791 open roles.** 719 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd1f61a0-c37a-463d-b59e-0e4bccf73bfc">Substation Electrical Engineering Intern - Summer 2027</a></td>
+<td>Spring, TX, United States</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97953">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Egis Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cfe1151-c18e-4d2c-b241-9991ef37b91e">Civil Engineering Intern</a></td>
@@ -2253,6 +2260,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e">Intern Quality Engineer (Human)</a></td>
+<td>I14</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9">Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)</a></td>

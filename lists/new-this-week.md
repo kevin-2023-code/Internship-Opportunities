@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**979 open roles.** 806 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
+**979 open roles.** 805 in the United States & Canada · 174 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/be5b63f9-f3a4-4d43-9519-4fc15a6ea47d">Laser Firmware Intern - Summer 2027</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ultragenyx Pharmaceutical</strong></td>
+<td><a href="https://trueinterview.io/jobs/045a83e6-4821-4762-aa53-d1410ba97e2c">Co-op, Process Engineer</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753464005?gh_jid=4753464005">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/637007a2-26a1-4afe-9b09-26ddca347c8b">Embedded Software Developer, Network/Payload Intern (Winter 2027)</a></td>
 <td>San Francisco Bay Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487355478/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>State of Iowa - Executive Branch</strong></td>
-<td><a href="https://trueinterview.io/jobs/05fead44-f67c-45db-abfd-801686d55ca5">Human Resources Data Analyst Intern</a></td>
-<td>Ames, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486602207/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

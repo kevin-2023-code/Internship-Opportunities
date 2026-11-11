@@ -32,17 +32,17 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-11 22:04 UTC_
+_Last updated: 2026-11-11 23:04 UTC_
 
-**2,943 open internships** from **1,210 employers** · **806 posted in the last 7 days** · refreshed hourly
+**2,944 open internships** from **1,211 employers** · **805 posted in the last 7 days** · refreshed hourly
 
-### Browse 2,943 internships by field
+### Browse 2,944 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (1,391)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (548)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (718)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (719)
 
 📱 **[Product & Design](#-product--design)** (162)
 
@@ -68,9 +68,9 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 🧑‍💻 **By role** — [Software Engineer (400)](lists/role/software-engineer.md) · [AI Engineer (143)](lists/role/ai-engineer.md) · [Machine Learning Engineer (138)](lists/role/machine-learning-engineer.md) · [Hardware Engineer (117)](lists/role/hardware-engineer.md) · [Security Engineer (93)](lists/role/security-engineer.md) · [Data Scientist (89)](lists/role/data-scientist.md) · [Research Scientist (71)](lists/role/research-scientist.md) · [Product Manager (70)](lists/role/product-manager.md) · [Data Analyst (63)](lists/role/data-analyst.md) · [Data Engineer (62)](lists/role/data-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (524)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (171)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (157)](lists/place/boston.md) · [🗽 New York City (146)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (105)](lists/place/seattle.md) · [🎸 Austin (89)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (86)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (85)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌬️ Chicago (60)](lists/place/chicago.md) · [+17 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (524)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (171)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (158)](lists/place/boston.md) · [🗽 New York City (146)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (105)](lists/place/seattle.md) · [🎸 Austin (89)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (86)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (85)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌬️ Chicago (60)](lists/place/chicago.md) · [+17 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (806)](lists/new-this-week.md) · [🌐 Remote (32)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (805)](lists/new-this-week.md) · [🌐 Remote (32)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1198,6 +1198,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 </thead>
 <tbody>
 <tr>
+<td><strong>Ultragenyx Pharmaceutical</strong></td>
+<td><a href="https://trueinterview.io/jobs/045a83e6-4821-4762-aa53-d1410ba97e2c">Co-op, Process Engineer</a> 🆕</td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/ultragenyxpharmaceutical/jobs/4753464005?gh_jid=4753464005">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>GlobalFoundries</strong></td>
 <td><a href="https://trueinterview.io/jobs/1741ab82-1651-43aa-af33-ef7a5c1c0b58">AI Processor Hardware/Software Integration Engineer Intern (Summer 2027)</a> 🆕</td>
 <td>Richardson, TX</td>
@@ -1363,13 +1370,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/35526e02-d42f-4099-80b0-360dba20e2c1">Systems Engineering Intern (Summer)</a> 🆕</td>
 <td>North Kingstown, Rhode Island, USA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Cirrus Logic</strong></td>
-<td><a href="https://trueinterview.io/jobs/770d8b93-54ca-41dc-b377-8710d42c73a4">2027 Internship - Applied AI Engineering</a> 🆕</td>
-<td>Austin, TX<br/>Austin, Texas</td>
-<td align="center"><a href="https://jobs.eu.lever.co/cirrus/beaa562f-5ec2-447f-8175-8a2833a401d8">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 </tbody>
@@ -1738,7 +1738,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 718.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 719.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -2466,7 +2466,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/9d7a44c7-03f5-4953-9a7b-a93cd879d67b">Summer '27 Intern - IT Support Analyst</a></td>
 <td>Toronto, ON, M5H1T1, CAN<br/>Toledo, OH, 43615<br/>Dallas, TX, 75225</td>
 <td align="center"><a href="https://recruiting.ultipro.com/WEL1008WLLT/JobBoard/30969ce4-3b7e-40a6-b86c-34d3616fe0ed/OpportunityDetail?opportunityId=9be87685-cfd7-4837-ba22-a3be51a1b8f6">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>RR Donnelley</strong></td>

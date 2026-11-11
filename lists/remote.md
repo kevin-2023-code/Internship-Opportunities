@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**44 open roles.** 32 in the United States & Canada · 12 elsewhere in the world. Postings the pipeline classified as remote.
+**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -253,6 +253,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Numa</strong></td>
+<td><a href="https://trueinterview.io/jobs/86689ed9-c6c3-4b4b-96de-2ba75d700999">Solutions Engineer Intern</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/numa/jobs/4504052009">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/21456431-9aa7-4351-9c25-5e5b9dd216f6">ML Intern</a> 🌐</td>

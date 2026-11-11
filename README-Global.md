@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-11 22:04 UTC_
+_Last updated: 2026-11-11 23:04 UTC_
 
-**722 open internships** from **309 employers** · **173 posted in the last 7 days** · refreshed hourly
+**724 open internships** from **310 employers** · **174 posted in the last 7 days** · refreshed hourly
 
-### Browse 722 internships by field
+### Browse 724 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (344)
+💻 **[Software Engineering](#-software-engineering)** (345)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (197)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (71)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (72)
 
 📱 **[Product & Design](#-product--design)** (63)
 
@@ -50,13 +50,13 @@ _Last updated: 2026-11-11 22:04 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (132)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (69)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (42)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [🏗️ Large tech (1,000–9,999) (21)](lists/company/large-tech.md) · [📱 Consumer internet & media (17)](lists/company/consumer-internet.md) · [🏢 Enterprise & business software (17)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (17)](lists/company/mid-size-tech.md) · [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🚗 Autonomy, automotive & mobility (10)](lists/company/autonomy-mobility.md) · [+12 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (132)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (69)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (43)](lists/company/hardware-devices.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [🏗️ Large tech (1,000–9,999) (21)](lists/company/large-tech.md) · [🏤 Mid-sized tech (200–999) (18)](lists/company/mid-size-tech.md) · [📱 Consumer internet & media (17)](lists/company/consumer-internet.md) · [🏢 Enterprise & business software (17)](lists/company/enterprise-saas.md) · [🏦 Banks, insurers & asset managers (11)](lists/company/banking-finance.md) · [🚗 Autonomy, automotive & mobility (10)](lists/company/autonomy-mobility.md) · [+12 more →](lists/README.md)
 
 🧑‍💻 **By role** — [Software Engineer (95)](lists/role/software-engineer.md) · [AI Engineer (71)](lists/role/ai-engineer.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Product Manager (38)](lists/role/product-manager.md) · [Machine Learning Engineer (36)](lists/role/machine-learning-engineer.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Quantitative Researcher (16)](lists/role/quantitative-researcher.md) · [Security Engineer (16)](lists/role/security-engineer.md) · [Data Engineer (14)](lists/role/data-engineer.md) · [Research Scientist (14)](lists/role/research-scientist.md) · [+12 more →](lists/README.md)
 
 📍 **By location** — [🇸🇬 Singapore (126)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (42)](lists/place/uk.md) · [🇫🇷 Paris & France (35)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (30)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (28)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (25)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (16)](lists/place/ireland.md) · [+4 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (173)](lists/new-this-week.md) · [🌐 Remote (12)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (174)](lists/new-this-week.md) · [🌐 Remote (13)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -79,6 +79,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Numa</strong></td>
+<td><a href="https://trueinterview.io/jobs/86689ed9-c6c3-4b4b-96de-2ba75d700999">Solutions Engineer Intern</a> 🆕 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/numa/jobs/4504052009">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Schonfeld Strategic Advisors</strong></td>
 <td><a href="https://trueinterview.io/jobs/ea823f5b-3973-4ba5-892a-7d533bda4582">2027 Software Engineering Intern</a> 🆕</td>
@@ -245,13 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/200e2549-2f7a-4232-a584-e28a542b4947">SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an</a> 🆕</td>
 <td>Xi'an, China</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160813099-sap-china-ixp-intern-hana-cloud-microservice-developer-xi-an">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>Sea</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a1abe49-8e0b-4b96-a372-f38ad5e1238e">IT Security Intern (6 months)</a> 🆕</td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439812061/">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 </tbody>
@@ -606,7 +606,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 73 of 344.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 73 of 345.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -939,6 +939,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Neura Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e">Intern Quality Engineer (Human)</a> 🆕</td>
+<td>I14</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
 <td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9">Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)</a> 🆕</td>
 <td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
@@ -1106,13 +1113,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200682664">Apply</a></td>
 <td align="center">12d</td>
 </tr>
-<tr>
-<td><strong>MSA - The Safety Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/8fb62b14-55ff-4afa-b46a-415f4b6470da">Co-op: Electrical Engineering Technology, Cranberry (Spring 2027)</a></td>
-<td>Greater Pittsburgh Region</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474851247/">Apply</a></td>
-<td align="center">12d</td>
-</tr>
 </tbody>
 </table>
 
@@ -1206,7 +1206,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 36 of 71.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 36 of 72.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
