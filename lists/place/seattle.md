@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**100 open roles.**
+**101 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -646,6 +646,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Everett, WA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/helion/045d97eb-5efd-4e35-90f5-65eebe3363f4/application">Apply</a></td>
 <td align="center">25 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>WSP</strong></td>
+<td><a href="https://trueinterview.io/jobs/99f805ec-9ae0-4f3f-be9f-faeb05f088fe">Transportation Engineering Intern- Summer 2027</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96023">Apply</a></td>
+<td align="center">23 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Shield AI</strong></td>

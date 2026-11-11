@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,684 open roles.** 1,352 in the United States & Canada · 332 elsewhere in the world.
+**1,694 open roles.** 1,361 in the United States & Canada · 333 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cadence</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f89f1eb-2ec1-44b4-a138-92b0b23ef74c">Graduate Student Intern - Software Engineering</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469997257/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Symbotic</strong></td>
 <td><a href="https://trueinterview.io/jobs/b748c22d-17c3-49c8-8215-d8ebf9967369">Intern- Software Engineer</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/37fe7829-f1ec-4cc5-9f6b-d0d476c175bc">Embedded Software Engineer – Co-op Winter 2027</a></td>
 <td>Ottawa, ON<br/>Ottawa, Canada</td>
 <td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Embedded-Software-Engineer---Co-op-Winter-2027_R032005">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Great American Insurance Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/05b2c03e-4816-4628-b0ed-615a46e23efc">Content Publishing Developer Intern - Summer 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

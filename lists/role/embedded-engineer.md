@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**63 open roles.** 52 in the United States & Canada · 11 elsewhere in the world.
+**65 open roles.** 53 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -270,6 +270,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
+<td><strong>Mercury Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee78eec0-4101-40d0-b927-52c1c5d74a94">2027 Firmware Engineering Co-Op</a></td>
+<td>Huntsville, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466594062/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/774f2152-15f0-4892-9e21-a9c601b909a8">Firmware Developer Intern - Poughkeepsie - 2027</a></td>
 <td>Poughkeepsie, AR</td>
@@ -401,7 +408,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/a752fbb1-106f-4b74-b12b-62f0c5d7fb06">Software Intern Student - RealTime Drivers</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4399250880/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
 <td><a href="https://trueinterview.io/jobs/c442ac3b-bb11-4468-84ba-7ca81a4e2b6d">[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)</a></td>
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159327431--internship-program-q1-2027-embedded-software-engineer-intern-c-c-linux-">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**966 open roles.** 803 in the United States & Canada · 163 elsewhere in the world. Everything the employers put up this week.
+**960 open roles.** 801 in the United States & Canada · 159 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1427,6 +1427,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/11038dd0-b3ce-4258-9fdf-c97dadb462b0">Cloud Acceleration Research Intern (DPU &amp; AI Infra) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480907623/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Freeleaps</strong></td>
 <td><a href="https://trueinterview.io/jobs/e891a7e1-8694-406a-b176-abdf19e9abcd">Software Developer Intern</a></td>
 <td>United States</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ef0aa3e9-c9cf-4f94-9c31-f74121709dcc">Intern/Co-op- Summer 2027 - Software Engineering</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461914147/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ramp</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4889da2-dd07-4bd8-9d9a-6d3db035daa8">Software Engineering Intern, Android</a></td>
-<td>New York, NY (HQ)</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

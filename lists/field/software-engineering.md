@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,684 open roles.** 1,352 in the United States & Canada · 332 elsewhere in the world.
+**1,694 open roles.** 1,361 in the United States & Canada · 333 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -766,6 +766,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e7254a72-42e9-452e-9366-41a892b51e4a">Software Engineer Intern</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479040184/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/11038dd0-b3ce-4258-9fdf-c97dadb462b0">Cloud Acceleration Research Intern (DPU &amp; AI Infra) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480907623/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8cb1f11f-bd27-4b7e-8b16-a4061c73eb3a">2027 Summer Internship - Software Developer</a></td>
 <td>Coppell, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461782716/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence</strong></td>
-<td><a href="https://trueinterview.io/jobs/9f89f1eb-2ec1-44b4-a138-92b0b23ef74c">Graduate Student Intern - Software Engineering</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469997257/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

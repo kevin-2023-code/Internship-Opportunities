@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**719 open roles.** 537 in the United States & Canada · 182 elsewhere in the world.
+**720 open roles.** 537 in the United States & Canada · 183 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2176,13 +2176,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991171">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Federal Express Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/17b7525b-b1c4-42be-a079-e25999bf51fa">Summer 2027 Internship - Revenue Management (Data Science)</a></td>
 <td>Collierville, TN</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/11ad65ec-9b9a-4574-ab5c-d4ab8ad2c5f2">Data Science Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476352121/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HackerRank</strong></td>
+<td><a href="https://trueinterview.io/jobs/4cfb0473-43fc-401f-9588-775faae1b0e3">AI Researcher Intern</a></td>
+<td>Lake County, IN<br/>Onsite in Bangalore</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hackerrank/jobs/8281055">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

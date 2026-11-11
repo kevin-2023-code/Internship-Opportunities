@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**40 open roles.** 18 in the United States & Canada · 22 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**39 open roles.** 17 in the United States & Canada · 22 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -75,13 +75,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991171">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/38b872a1-175e-4c21-88d8-90c502352a06">Quantitative Trading Analyst Intern</a></td>
 <td>London, England, United Kingdom<br/>Chicago, Illinois</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7957243">Apply</a></td>

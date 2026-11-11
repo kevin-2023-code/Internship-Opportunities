@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**111 open roles.** 94 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**112 open roles.** 95 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/81fb63c6-0952-41e0-b440-1d93cefdab58">Product Designer, Thrive Intern</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/11038dd0-b3ce-4258-9fdf-c97dadb462b0">Cloud Acceleration Research Intern (DPU &amp; AI Infra) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480907623/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**107 open roles.** 1 in the United States & Canada · 106 elsewhere in the world.
+**109 open roles.** 1 in the United States & Canada · 108 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -42,6 +42,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4439812061/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0e8cfd9-4951-400f-a620-5447e9995559">AI Agent &amp; Automation Project Intern (TikTok Live) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487698607/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b7f273ec-26ee-4406-9761-c701253857d2">LLM / Dataset Operations Project Intern (TikTok Live) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487901374/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>

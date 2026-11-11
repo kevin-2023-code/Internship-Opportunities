@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**966 open roles.** 803 in the United States & Canada · 163 elsewhere in the world. Everything the employers put up this week.
+**960 open roles.** 801 in the United States & Canada · 159 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ramp</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4889da2-dd07-4bd8-9d9a-6d3db035daa8">Software Engineering Intern, Android</a></td>
+<td>New York, NY (HQ)</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Motion</strong></td>
 <td><a href="https://trueinterview.io/jobs/d46e6e63-4897-4f03-b29f-7752735a175a">Web Developer Intern</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/031f6906-6149-4e04-a38a-9c6480f5a9b0">Co-op - Full-Stack Life Sciences Engineer</a></td>
 <td>Durham, NC</td>
 <td align="center"><a href="https://careers.labcorp.com/global/en/job/2639083">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/72fab0b8-f64c-45c1-893d-a74e9a203907">Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op</a></td>
-<td>Normal, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469996507/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

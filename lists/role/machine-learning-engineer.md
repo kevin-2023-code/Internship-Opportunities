@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**168 open roles.** 133 in the United States & Canada · 35 elsewhere in the world.
+**167 open roles.** 132 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -603,13 +603,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1a264ee-49db-41e6-8901-7ee888a3ed32">Accelerated Science Intern, Machine Learning/Agentic AI</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/515db1c4-c3d1-4970-9d88-568f56f10252">AI/ML Research Intern</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991171">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

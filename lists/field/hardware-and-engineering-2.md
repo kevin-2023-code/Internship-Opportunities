@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**781 open roles.** 710 in the United States & Canada · 71 elsewhere in the world.
+**787 open roles.** 716 in the United States & Canada · 71 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Chenmoore</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3b6bbfc-c552-438f-8306-11e8af30e293">Internship - Electrical Engineering</a></td>
+<td>Jacksonville, Florida, United States<br/>Orlando, Florida, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chenmoore/jobs/5268619007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f50834df-ba0e-4670-9e68-c55bbb2d31b8">Internship - Civil Engineering</a></td>
+<td>Fort Lauderdale, Florida, United States<br/>Jacksonville, Florida, United States<br/>Knoxville, Tennessee, United States<br/>+4 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chenmoore/jobs/5268534007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f4f9b51-f443-452d-b035-f155bfa22e4e">Process Engineering Intern - Water Technologies</a></td>
+<td>St. Peters, Missouri, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156381562-process-engineering-intern-water-technologies">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RE/SPEC Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a3ce865-7ca1-41d6-ae37-98f461359de5">Student Intern (Civil or Structural Engineering)</a></td>
+<td>Juneau, Alaska, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000156379056-student-intern-civil-or-structural-engineering-">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/107376f2-982b-44d5-adc7-d9ba8f584cae">Thermal Engineer Intern</a></td>
@@ -1550,6 +1578,13 @@
 </tr>
 <tr>
 <td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/95cdafdf-f9b9-4c23-8153-11c5cbc3814d">Analog and Mixed Signal IC Design Engineer Intern</a></td>
+<td>Santa Clara, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54221?lang=en-us">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/87e8b92c-9eff-4d49-ae25-baa9766c93e7">Grid Modernization Engineering Intern</a></td>
 <td>Loveland, Colorado, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54277?lang=en-us">Apply</a></td>
@@ -1574,6 +1609,13 @@
 <td><a href="https://trueinterview.io/jobs/16d161f0-c464-4d7e-8703-222f9fdec589">Intern - ID1 Manufacturing Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44629351">Apply</a></td>
+<td align="center">23 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/59753151-3611-4190-8c64-9494a2e3c877">Intern Design Engineer - HIG HBM</a></td>
+<td>Richardson, TX, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44547378">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -2199,13 +2241,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a7c6ec2-74e7-4262-9884-a916caef67b8">Industrial Engineering Internship 2027 (AmaP/BPS)</a></td>
-<td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161018189-industrial-engineering-internship-2027-amap-bps-">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9">Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)</a></td>
 <td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160793209-internship-2026-technical-engineering-in-industrial-engineering-chassis-system-rbty-bps-">Apply</a></td>
@@ -2216,6 +2251,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/234821f9-d49c-4e79-a859-a1805e9f4ce2">Software Function Developer intern</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NXP Semiconductors</strong></td>
+<td><a href="https://trueinterview.io/jobs/a752fbb1-106f-4b74-b12b-62f0c5d7fb06">Software Intern Student - RealTime Drivers</a></td>
+<td>Bucharest, Bucharest, Romania</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4399250880/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
