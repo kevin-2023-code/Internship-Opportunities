@@ -5,9 +5,460 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T12:07:17.616Z",
-  "count": 3595,
+  "listingsChangedAt": "2026-11-11T13:04:32.740Z",
+  "count": 3611,
   "listings": [
+    {
+      "id": "4a8da347-d06d-465e-84fd-4858150231f7",
+      "company": "Skydio",
+      "title": "Middleware Software Engineer Intern - Summer 2027",
+      "locations": [
+        "San Mateo, California, United States",
+        "San Mateo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03",
+      "url": "https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7",
+      "postedAt": "2026-11-10T21:44:18.000Z",
+      "updatedAt": "2026-11-11T12:20:00.000Z"
+    },
+    {
+      "id": "c3c201d9-01ed-40fe-8c9a-7864f467da82",
+      "company": "International",
+      "title": "AI/ML Intern",
+      "locations": [
+        "Lisle, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487885622/",
+      "url": "https://trueinterview.io/jobs/c3c201d9-01ed-40fe-8c9a-7864f467da82",
+      "postedAt": "2026-11-11T12:06:00.000Z",
+      "updatedAt": "2026-11-11T12:06:00.000Z"
+    },
+    {
+      "id": "12628dd5-945f-4c01-8100-8066161c0e43",
+      "company": "Jobverse.io",
+      "title": "AI/ML Engineering Intern",
+      "locations": [
+        "Sunnyvale, TX"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489680407/",
+      "url": "https://trueinterview.io/jobs/12628dd5-945f-4c01-8100-8066161c0e43",
+      "postedAt": "2026-11-11T12:06:00.000Z",
+      "updatedAt": "2026-11-11T12:06:00.000Z"
+    },
+    {
+      "id": "ccc5ec15-54df-4155-9dab-4a29491b5308",
+      "company": "Siemens",
+      "title": "Building X Software Developer Internship",
+      "locations": [
+        "Buffalo Grove, IL",
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488658511/",
+      "url": "https://trueinterview.io/jobs/ccc5ec15-54df-4155-9dab-4a29491b5308",
+      "postedAt": "2026-11-11T12:02:00.000Z",
+      "updatedAt": "2026-11-11T12:02:00.000Z"
+    },
+    {
+      "id": "92269a4b-389c-4e7f-9ab7-6e8f0eb55be4",
+      "company": "ByteDance",
+      "title": "AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473511297/",
+      "url": "https://trueinterview.io/jobs/92269a4b-389c-4e7f-9ab7-6e8f0eb55be4",
+      "postedAt": "2026-11-11T12:01:00.000Z",
+      "updatedAt": "2026-11-11T12:01:00.000Z"
+    },
+    {
+      "id": "1a35075f-44c6-4378-adf4-4bd3ec0fc448",
+      "company": "Acuity",
+      "title": "Finance AI Engineering Intern - Onsite",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471955532/",
+      "url": "https://trueinterview.io/jobs/1a35075f-44c6-4378-adf4-4bd3ec0fc448",
+      "postedAt": "2026-11-11T11:46:00.000Z",
+      "updatedAt": "2026-11-11T11:46:00.000Z"
+    },
+    {
+      "id": "fcc43917-0bc7-420e-a206-5b15e7bea975",
+      "company": "Sandisk",
+      "title": "GenAI & AI/ML Engineering Summer Intern",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482022677/",
+      "url": "https://trueinterview.io/jobs/fcc43917-0bc7-420e-a206-5b15e7bea975",
+      "postedAt": "2026-11-11T11:40:00.000Z",
+      "updatedAt": "2026-11-11T11:40:00.000Z"
+    },
+    {
+      "id": "b96e5289-69e3-4d6f-9612-bb1409430cd2",
+      "company": "Georgia Tech Research Institute",
+      "title": "Autonomy Software Engineering and Systems Engineering Co-op - Spring 2027 - ASL/ATTD",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481587805/",
+      "url": "https://trueinterview.io/jobs/b96e5289-69e3-4d6f-9612-bb1409430cd2",
+      "postedAt": "2026-11-11T11:30:00.000Z",
+      "updatedAt": "2026-11-11T11:30:00.000Z"
+    },
+    {
+      "id": "1ee2e1f9-e748-4c36-9678-4c66668ebe59",
+      "company": "Amca",
+      "title": "Software Engineering Internship (Summer 2027)",
+      "locations": [
+        "El Segundo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471790539/",
+      "url": "https://trueinterview.io/jobs/1ee2e1f9-e748-4c36-9678-4c66668ebe59",
+      "postedAt": "2026-11-11T11:25:00.000Z",
+      "updatedAt": "2026-11-11T11:25:00.000Z"
+    },
+    {
+      "id": "41ff100b-b589-4f6f-a697-036897c9947f",
+      "company": "Amperesand",
+      "title": "AI/ML Engineering Intern",
+      "locations": [
+        "Sunnyvale, CA"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481984608/",
+      "url": "https://trueinterview.io/jobs/41ff100b-b589-4f6f-a697-036897c9947f",
+      "postedAt": "2026-11-11T11:25:00.000Z",
+      "updatedAt": "2026-11-11T11:25:00.000Z"
+    },
+    {
+      "id": "cc36ab8b-4fe7-4b2f-9907-502a3c33b179",
+      "company": "Elire",
+      "title": "Summer 2027 AI Data Science Consulting Internship",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489676301/",
+      "url": "https://trueinterview.io/jobs/cc36ab8b-4fe7-4b2f-9907-502a3c33b179",
+      "postedAt": "2026-11-11T11:25:00.000Z",
+      "updatedAt": "2026-11-11T11:25:00.000Z"
+    },
+    {
+      "id": "78b2c829-dd9e-4a35-a6ff-72e178813732",
+      "company": "Georgia Tech Research Institute",
+      "title": "Autonomy Software Engineering and Systems Engineering Graduate Intern - Spring 2027 - ASL/ATTD",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481582858/",
+      "url": "https://trueinterview.io/jobs/78b2c829-dd9e-4a35-a6ff-72e178813732",
+      "postedAt": "2026-11-11T11:25:00.000Z",
+      "updatedAt": "2026-11-11T11:25:00.000Z"
+    },
+    {
+      "id": "09ffc0cf-032b-48d0-9d0a-ae8a10ee7179",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Global E-Commerce Search Infrastructure) - 2026 Start",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448713024/",
+      "url": "https://trueinterview.io/jobs/09ffc0cf-032b-48d0-9d0a-ae8a10ee7179",
+      "postedAt": "2026-11-11T11:25:00.000Z",
+      "updatedAt": "2026-11-11T11:25:00.000Z"
+    },
+    {
+      "id": "73852cae-d752-4581-8669-9d5947fbd728",
+      "company": "TikTok",
+      "title": "Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4404425338/",
+      "url": "https://trueinterview.io/jobs/73852cae-d752-4581-8669-9d5947fbd728",
+      "postedAt": "2026-11-11T11:13:00.000Z",
+      "updatedAt": "2026-11-11T11:13:00.000Z"
+    },
+    {
+      "id": "70d43e6f-14b5-4f62-bcae-c7f64f8715c4",
+      "company": "TikTok",
+      "title": "Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4280360638/",
+      "url": "https://trueinterview.io/jobs/70d43e6f-14b5-4f62-bcae-c7f64f8715c4",
+      "postedAt": "2026-11-11T11:13:00.000Z",
+      "updatedAt": "2026-11-11T11:13:00.000Z"
+    },
+    {
+      "id": "e4049b0e-5049-4d8c-9b1d-59f737df9976",
+      "company": "TikTok",
+      "title": "ML Infra Engineer Intern (Ads Infra) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4446293081/",
+      "url": "https://trueinterview.io/jobs/e4049b0e-5049-4d8c-9b1d-59f737df9976",
+      "postedAt": "2026-11-11T11:13:00.000Z",
+      "updatedAt": "2026-11-11T11:13:00.000Z"
+    },
+    {
+      "id": "edc1f447-3573-4531-8454-21457b227504",
+      "company": "TikTok",
+      "title": "Research Scientist Intern – TikTok Search / Generative AI (LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4402376626/",
+      "url": "https://trueinterview.io/jobs/edc1f447-3573-4531-8454-21457b227504",
+      "postedAt": "2026-11-11T11:13:00.000Z",
+      "updatedAt": "2026-11-11T11:13:00.000Z"
+    },
     {
       "id": "874da8d4-a25c-41f2-b7de-6cc9eb13ce6b",
       "company": "IBM",
@@ -82,6 +533,222 @@
       "url": "https://trueinterview.io/jobs/f1de26f9-babe-4d58-a9e4-ffc990afda32",
       "postedAt": "2026-11-11T10:39:00.000Z",
       "updatedAt": "2026-11-11T10:39:00.000Z"
+    },
+    {
+      "id": "41507d58-87ca-4a86-b6d6-0ad8b51cd581",
+      "company": "Georgia Tech Research Institute",
+      "title": "Autonomy Software Engineering and Systems Engineering Intern - Spring 2027 - ASL/ATTD",
+      "locations": [
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481583854/",
+      "url": "https://trueinterview.io/jobs/41507d58-87ca-4a86-b6d6-0ad8b51cd581",
+      "postedAt": "2026-11-11T10:25:00.000Z",
+      "updatedAt": "2026-11-11T10:25:00.000Z"
+    },
+    {
+      "id": "d9755091-6b59-4571-b292-b3e4f9fb37d1",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4446293082/",
+      "url": "https://trueinterview.io/jobs/d9755091-6b59-4571-b292-b3e4f9fb37d1",
+      "postedAt": "2026-11-11T10:25:00.000Z",
+      "updatedAt": "2026-11-11T10:25:00.000Z"
+    },
+    {
+      "id": "79183243-4f76-441b-a9c7-12fd035a3359",
+      "company": "TikTok",
+      "title": "Frontend Engineer Intern (Global CRM) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448287257/",
+      "url": "https://trueinterview.io/jobs/79183243-4f76-441b-a9c7-12fd035a3359",
+      "postedAt": "2026-11-11T10:25:00.000Z",
+      "updatedAt": "2026-11-11T10:25:00.000Z"
+    },
+    {
+      "id": "814abcca-bc57-4d0a-921a-3a12858cc20a",
+      "company": "TikTok",
+      "title": "Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4447900629/",
+      "url": "https://trueinterview.io/jobs/814abcca-bc57-4d0a-921a-3a12858cc20a",
+      "postedAt": "2026-11-11T10:25:00.000Z",
+      "updatedAt": "2026-11-11T10:25:00.000Z"
+    },
+    {
+      "id": "17038d62-d226-40ed-a138-834fa78f90b3",
+      "company": "TikTok",
+      "title": "Software Development Engineer in Test Intern（TikTok-Testing）- 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448283305/",
+      "url": "https://trueinterview.io/jobs/17038d62-d226-40ed-a138-834fa78f90b3",
+      "postedAt": "2026-11-11T10:25:00.000Z",
+      "updatedAt": "2026-11-11T10:25:00.000Z"
+    },
+    {
+      "id": "e2600808-7e62-4761-875c-1a6e98f8d855",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Lead Ads) - 2026 Start (BS/MS)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4343679484/",
+      "url": "https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855",
+      "postedAt": "2026-11-11T10:25:00.000Z",
+      "updatedAt": "2026-11-11T10:25:00.000Z"
+    },
+    {
+      "id": "629ad882-086d-427c-b06d-1b8b2daa8d48",
+      "company": "JPMorganChase",
+      "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4455131498/",
+      "url": "https://trueinterview.io/jobs/629ad882-086d-427c-b06d-1b8b2daa8d48",
+      "postedAt": "2026-11-11T10:13:00.000Z",
+      "updatedAt": "2026-11-11T10:13:00.000Z"
+    },
+    {
+      "id": "ff3d5db1-a4e9-4842-a395-9be2597db7a1",
+      "company": "TikTok",
+      "title": "Research Scientist Intern– E-commerce Recommendation(LLM Applications) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4402356749/",
+      "url": "https://trueinterview.io/jobs/ff3d5db1-a4e9-4842-a395-9be2597db7a1",
+      "postedAt": "2026-11-11T10:13:00.000Z",
+      "updatedAt": "2026-11-11T10:13:00.000Z"
     },
     {
       "id": "761a67d3-9a70-449a-a86b-dced5e0b6f30",
@@ -1095,31 +1762,6 @@
       "url": "https://trueinterview.io/jobs/3b4d44c7-01f2-46b8-bda2-ff877426215a",
       "postedAt": "2026-11-10T21:56:22.000Z",
       "updatedAt": "2026-11-10T21:56:22.000Z"
-    },
-    {
-      "id": "4a8da347-d06d-465e-84fd-4858150231f7",
-      "company": "Skydio",
-      "title": "Middleware Software Engineer Intern - Summer 2027",
-      "locations": [
-        "San Mateo, California, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03",
-      "url": "https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7",
-      "postedAt": "2026-11-10T21:44:18.000Z",
-      "updatedAt": "2026-11-10T21:44:18.000Z"
     },
     {
       "id": "b9f1e9f6-1211-469b-b789-4f5a3672c3c4",
@@ -6846,31 +7488,6 @@
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },
     {
-      "id": "4aeb726c-c729-4d40-914f-2ae370278725",
-      "company": "Veterans United Home Loans",
-      "title": "Intern - Software Engineer - Summer 2027",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
-      "url": "https://trueinterview.io/jobs/4aeb726c-c729-4d40-914f-2ae370278725",
-      "postedAt": "2026-11-09T06:00:00.000Z",
-      "updatedAt": "2026-11-09T06:00:00.000Z"
-    },
-    {
       "id": "600e4f9e-ed18-4b81-8b27-f6f5b3c7a0cf",
       "company": "Warner Bros. Discovery",
       "title": "WB Games Product Management Co-op: Needham, MA - January-May 2027",
@@ -11037,37 +11654,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4485125167/",
       "url": "https://trueinterview.io/jobs/d7c2a55e-67ea-413b-87c4-fb7e9c4debe4",
-      "postedAt": "2026-11-06T20:12:00.000Z",
-      "updatedAt": "2026-11-06T20:12:00.000Z"
-    },
-    {
-      "id": "2e8e429b-ca29-48cc-bcfb-b8566b0e1023",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "title": "Software Engineering Intern - Vehicle Controls (January - August 2027)",
-      "locations": [
-        "Irvine, CA",
-        "Irvine, California",
-        "Palo Alto, California",
-        "Vancouver, British Columbia"
-      ],
-      "cities": [
-        "Palo Alto, CA",
-        "Vancouver, BC"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f",
-      "url": "https://trueinterview.io/jobs/2e8e429b-ca29-48cc-bcfb-b8566b0e1023",
       "postedAt": "2026-11-06T20:12:00.000Z",
       "updatedAt": "2026-11-06T20:12:00.000Z"
     },
@@ -17360,33 +17946,6 @@
       "url": "https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a",
       "postedAt": "2026-11-05T05:04:00.000Z",
       "updatedAt": "2026-11-05T05:04:00.000Z"
-    },
-    {
-      "id": "f9df95b0-b5e7-41b6-98b6-35e291e1ce8e",
-      "company": "TikTok",
-      "title": "Research Scientist Intern (Monetization Technology - Ads Core) - 2027 Start (PhD)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486577154/",
-      "url": "https://trueinterview.io/jobs/f9df95b0-b5e7-41b6-98b6-35e291e1ce8e",
-      "postedAt": "2026-11-05T05:02:11.000Z",
-      "updatedAt": "2026-11-05T05:02:11.000Z"
     },
     {
       "id": "024abf44-b324-48d1-9065-8ba015cc45d2",
@@ -48704,33 +49263,6 @@
       "updatedAt": "2026-10-29T10:28:00.000Z"
     },
     {
-      "id": "231efa01-2eab-41c2-9857-6cb0adff91a5",
-      "company": "Q2",
-      "title": "2027 Summer Internship - Software Engineer",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4465922823/",
-      "url": "https://trueinterview.io/jobs/231efa01-2eab-41c2-9857-6cb0adff91a5",
-      "postedAt": "2026-10-29T10:27:00.000Z",
-      "updatedAt": "2026-10-29T10:27:00.000Z"
-    },
-    {
       "id": "bdc8a05c-e19c-4613-b682-4e1f5b4251bc",
       "company": "TikTok",
       "title": "AI Infra Engineer Intern (Recommendation & LLM) - 2027 Summer",
@@ -65964,33 +66496,6 @@
       "updatedAt": "2026-10-26T05:00:00.000Z"
     },
     {
-      "id": "4cfdf238-7df4-4bb6-a557-0d27059ac702",
-      "company": "JPMorganChase",
-      "title": "2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "junior",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jpmorganchase.contacthr.com/154034298",
-      "url": "https://trueinterview.io/jobs/4cfdf238-7df4-4bb6-a557-0d27059ac702",
-      "postedAt": "2026-10-26T05:00:00.000Z",
-      "updatedAt": "2026-10-26T05:00:00.000Z"
-    },
-    {
       "id": "aecc475f-4298-4a08-95b0-16e68cee062a",
       "company": "Lockheed Martin",
       "title": "DevSecOps Engineering Intern - Summer 2027",
@@ -71572,32 +72077,6 @@
       "updatedAt": "2026-10-19T23:06:12.000Z"
     },
     {
-      "id": "cd6cfa83-b394-4bc9-9203-18e0521302d7",
-      "company": "Meta",
-      "title": "Research Scientist Intern, On-Device AI Model Optimization (PhD)",
-      "locations": [
-        "Menlo Park, CA, United States",
-        "Burlingame, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/4455569504707135/",
-      "url": "https://trueinterview.io/jobs/cd6cfa83-b394-4bc9-9203-18e0521302d7",
-      "postedAt": "2026-10-19T22:06:11.000Z",
-      "updatedAt": "2026-10-19T22:06:11.000Z"
-    },
-    {
       "id": "ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f",
       "company": "Meta",
       "title": "Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
@@ -71889,33 +72368,6 @@
       "url": "https://trueinterview.io/jobs/107376f2-982b-44d5-adc7-d9ba8f584cae",
       "postedAt": "2026-10-19T15:23:32.000Z",
       "updatedAt": "2026-10-19T15:23:32.000Z"
-    },
-    {
-      "id": "74e9b389-d028-4b3b-a668-8be0cc57a04b",
-      "company": "Meta",
-      "title": "Optical Engineering AI and Data Analytics Intern",
-      "locations": [
-        "Sunnyvale, CA, United States"
-      ],
-      "cities": [
-        "Sunnyvale, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1851348099357899/",
-      "url": "https://trueinterview.io/jobs/74e9b389-d028-4b3b-a668-8be0cc57a04b",
-      "postedAt": "2026-10-19T14:58:02.000Z",
-      "updatedAt": "2026-10-19T14:58:02.000Z"
     },
     {
       "id": "45808ad7-cd61-4b6d-9af3-646c8ee9e71e",
@@ -91209,31 +91661,6 @@
       "url": "https://trueinterview.io/jobs/c79836b1-e382-4966-ba88-fd9a5f65fe57",
       "postedAt": "2026-09-15T20:13:06.000Z",
       "updatedAt": "2026-09-15T20:13:06.000Z"
-    },
-    {
-      "id": "e2011877-520a-476a-a26d-446e4ff4e84e",
-      "company": "Rilla",
-      "title": "Software Engineering Intern, 2028 Grads",
-      "locations": [
-        "New York City"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "senior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9/application",
-      "url": "https://trueinterview.io/jobs/e2011877-520a-476a-a26d-446e4ff4e84e",
-      "postedAt": "2026-09-15T18:27:02.000Z",
-      "updatedAt": "2026-09-15T18:27:02.000Z"
     },
     {
       "id": "22a8b8a8-83e7-49f1-a720-fe7f7d289dc1",

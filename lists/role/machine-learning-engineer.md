@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**168 open roles.** 133 in the United States & Canada · 35 elsewhere in the world.
+**171 open roles.** 136 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>International</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3c201d9-01ed-40fe-8c9a-7864f467da82">AI/ML Intern</a></td>
+<td>Lisle, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487885622/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jobverse.io</strong></td>
+<td><a href="https://trueinterview.io/jobs/12628dd5-945f-4c01-8100-8066161c0e43">AI/ML Engineering Intern</a></td>
+<td>Sunnyvale, CA<br/>Sunnyvale, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489680407/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sandisk</strong></td>
+<td><a href="https://trueinterview.io/jobs/fcc43917-0bc7-420e-a206-5b15e7bea975">GenAI &amp; AI/ML Engineering Summer Intern</a></td>
+<td>Milpitas, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482022677/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Amperesand</strong></td>
+<td><a href="https://trueinterview.io/jobs/41ff100b-b589-4f6f-a697-036897c9947f">AI/ML Engineering Intern</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481984608/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/e4049b0e-5049-4d8c-9b1d-59f737df9976">ML Infra Engineer Intern (Ads Infra) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446293081/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc2031a7-400b-4b75-b5d6-44d52eaf6be9">Machine Learning Research Internship - PhD: 2027</a></td>
@@ -767,13 +802,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">26 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>JPMorganChase</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cfdf238-7df4-4bb6-a557-0d27059ac702">2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jpmorganchase.contacthr.com/154034298">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>QUADRIC PTY LTD</strong></td>
 <td><a href="https://trueinterview.io/jobs/8d12f813-602c-4b8c-b686-701b5791fdbd">Deep Learning Compiler Intern</a></td>
 <td>Burlingame, CA (HQ)</td>
@@ -814,13 +842,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893398185388">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/cd6cfa83-b394-4bc9-9203-18e0521302d7">Research Scientist Intern, On-Device AI Model Optimization (PhD)</a></td>
-<td>Menlo Park, CA, United States<br/>Burlingame, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/4455569504707135/">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Scale AI</strong></td>

@@ -2,7 +2,7 @@
 
 # 🍑 Atlanta
 
-**42 open roles.**
+**46 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Acuity</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a35075f-44c6-4378-adf4-4bd3ec0fc448">Finance AI Engineering Intern - Onsite</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471955532/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Georgia Tech Research Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/b96e5289-69e3-4d6f-9612-bb1409430cd2">Autonomy Software Engineering and Systems Engineering Co-op - Spring 2027 - ASL/ATTD</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481587805/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/78b2c829-dd9e-4a35-a6ff-72e178813732">Autonomy Software Engineering and Systems Engineering Graduate Intern - Spring 2027 - ASL/ATTD</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481582858/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/41507d58-87ca-4a86-b6d6-0ad8b51cd581">Autonomy Software Engineering and Systems Engineering Intern - Spring 2027 - ASL/ATTD</a></td>
+<td>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481583854/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>T-Mobile</strong></td>
 <td><a href="https://trueinterview.io/jobs/d436ccc9-b3a9-4143-a25f-f187b40ca36f">Summer 2027 Site Reliability Engineering Internship</a></td>

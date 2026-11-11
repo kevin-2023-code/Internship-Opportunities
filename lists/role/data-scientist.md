@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**107 open roles.** 87 in the United States & Canada · 20 elsewhere in the world.
+**109 open roles.** 89 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Elire</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc36ab8b-4fe7-4b2f-9907-502a3c33b179">Summer 2027 AI Data Science Consulting Internship</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489676301/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/70d43e6f-14b5-4f62-bcae-c7f64f8715c4">Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4280360638/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Carlisle Construction Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8e457c5-d4c2-424d-bfaa-c14945727753">AI &amp; Data Science Intern</a></td>

@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Amca</strong></td>
+<td><a href="https://trueinterview.io/jobs/1ee2e1f9-e748-4c36-9678-4c66668ebe59">Software Engineering Internship (Summer 2027)</a></td>
+<td>El Segundo, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471790539/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Riot Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/6ef7aa7e-e83c-4698-a128-55faf399ea62">Data Engineering Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
@@ -78,13 +85,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d7c2a55e-67ea-413b-87c4-fb7e9c4debe4">Software Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485125167/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e8e429b-ca29-48cc-bcfb-b8566b0e1023">Software Engineering Intern - Vehicle Controls (January - August 2027)</a></td>
-<td>Irvine, California<br/>Palo Alto, California<br/>Vancouver, BC<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

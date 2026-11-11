@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**100 open roles.** 61 in the United States & Canada · 39 elsewhere in the world.
+**101 open roles.** 62 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JPMorganChase</strong></td>
+<td><a href="https://trueinterview.io/jobs/629ad882-086d-427c-b06d-1b8b2daa8d48">2027 Data &amp; AI Program - Summer Internship - Analyst - United States</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455131498/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Arista Networks</strong></td>
 <td><a href="https://trueinterview.io/jobs/af73112c-793a-4e7f-a280-6af256a84384">Data Analytics Intern</a></td>
