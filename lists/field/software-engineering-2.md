@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,691 open roles.** 1,359 in the United States & Canada · 332 elsewhere in the world.
+**1,684 open roles.** 1,352 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Symbotic</strong></td>
+<td><a href="https://trueinterview.io/jobs/b748c22d-17c3-49c8-8215-d8ebf9967369">Intern- Software Engineer</a></td>
+<td>Wilmington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468176324/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Cryptic Vector</strong></td>
 <td><a href="https://trueinterview.io/jobs/a434c681-3f82-43a2-a1a6-d0f58a32afb0">Summer 2027 Full Stack Developer Internship</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/05b2c03e-4816-4628-b0ed-615a46e23efc">Content Publishing Developer Intern - Summer 2027</a></td>
 <td>Cincinnati, OH</td>
 <td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/870cf300-5ebf-4d4a-b892-21f8d3544f27">Extreme Programming Engineer Intern - Summer 2027</a></td>
-<td>Cincinnati, Ohio, United States</td>
-<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

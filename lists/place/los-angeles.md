@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**170 open roles.**
+**169 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -463,13 +463,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1c2cb89-c40d-40d0-8d65-3e72b9d524c5">Product Management Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483750218/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fenner Precision Polymers</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae10436e-f4ea-41ba-b31a-d6693a9102ae">Industrial Engineer Intern - Los Angeles, CA</a></td>
-<td>Los Angeles, CA<br/>Lancaster, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465967025/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

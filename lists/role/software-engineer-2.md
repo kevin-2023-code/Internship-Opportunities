@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**486 open roles.** 396 in the United States & Canada · 90 elsewhere in the world.
+**488 open roles.** 397 in the United States & Canada · 91 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Arm</strong></td>
+<td><a href="https://trueinterview.io/jobs/24377f05-8240-4dee-8c26-1f7e5dd0303a">GPU Software Applications Engineer Intern (3 months)</a></td>
+<td>Seoul, Seoul, South Korea</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480225151/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/404368dd-3073-451b-a646-d1cb0d65a611">Software Developer Summer Intern: IMS GW (Test Tools &amp; Automation)</a></td>
 <td>Kirkkonummi, Uusimaa, Finland</td>
@@ -25,7 +32,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6c1aa3-6acf-4d9d-9c7b-71c4e9952d9b">Software Intern- Mission Control Center</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/bdb17a37-2330-4893-87ba-9ca342bb0748">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0321e60-fd7b-4954-b3f6-88a48c693356">Software Developer Summer Intern: Transport Automation</a></td>
 <td>Kirkkonummi, Uusimaa, Finland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487911087/">Apply</a></td>

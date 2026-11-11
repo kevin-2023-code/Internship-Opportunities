@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,691 open roles.** 1,359 in the United States & Canada · 332 elsewhere in the world.
+**1,684 open roles.** 1,352 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Great American Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/870cf300-5ebf-4d4a-b892-21f8d3544f27">Extreme Programming Engineer Intern - Summer 2027</a></td>
+<td>Cincinnati, Ohio, United States</td>
+<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Hargrove Controls + Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7468517-fe58-460d-b6fe-539cee3148a3">Controls + Automation Engineering Co-Op</a></td>
@@ -639,38 +646,10 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Bollinger Shipyards</strong></td>
-<td><a href="https://trueinterview.io/jobs/a27f6198-d1b8-4b94-a1bc-22561406c819">Field Engineering Intern</a></td>
-<td>Lockport, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467761683/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mercury Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/0924cc87-8052-4379-8a6e-877913513ce6">2027 Manufacturing Test Engineering Intern</a></td>
 <td>Hudson, NH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466584892/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Graphic Packaging International</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbdfccc5-ffe5-44cf-9a85-6441eec23015">Engineering Intern I</a></td>
-<td>Waco, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484708007/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mercury Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee78eec0-4101-40d0-b927-52c1c5d74a94">2027 Firmware Engineering Co-Op</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466594062/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CCC Intelligent Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/73610f57-3d28-4cc3-84cd-eccd631b2aba">Software Engineering Internship Interest | Resume Review and Open House</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484710397/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -1168,20 +1147,6 @@
 <td><a href="https://trueinterview.io/jobs/ecd4c838-3724-4cb2-80f5-b3d7e6f499ce">Engineering Intern</a></td>
 <td>Tysons Corner, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482508714/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7d44ef2-15cc-4fa9-ba4f-ce5e30d06c10">2027 Summer Intern: Engineering - Embedded Systems</a></td>
-<td>Portsmouth, NH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448305930/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nova Biomedical</strong></td>
-<td><a href="https://trueinterview.io/jobs/9919a414-5289-463c-9a10-a30839101481">Consumables Engineering Co-Op</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466530531/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
@@ -2813,6 +2778,41 @@
 <td><a href="https://trueinterview.io/jobs/4c917f1b-af5e-4d9a-9397-3864705a4111">Cybersecurity Internship Winter 2027 - Systems and Organizations Controls (SOC)</a></td>
 <td>Irvine, CA<br/>Fairfax, VA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/f73a1676-ca54-45a5-a657-1fb81bf0dc76">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e4ba9d4c-50c7-4f3c-9a9b-5fd4e4723013">Cybersecurity Internship Winter 2027 - Payments</a></td>
+<td>Fairfax, VA<br/>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f99979e-21ee-4b8f-a4c4-3354f73bc670">Cybersecurity Internship Winter 2027 - International Organization for Standardization (ISO)</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5165966a-f6e3-4da5-834b-db04b4df287b">Cybersecurity Internship Winter 2027 - Healthcare</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cc956f2b-2764-494c-be18-5abde4868362">Cybersecurity Internship Winter 2027 - Federal</a></td>
+<td>Fairfax, VA<br/>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8df9410b-936f-48cc-84af-f051ae33d8f4">Cybersecurity Internship Winter 2027 - Enterprise Risk Management</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

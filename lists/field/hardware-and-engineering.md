@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**786 open roles.** 716 in the United States & Canada · 70 elsewhere in the world.
+**781 open roles.** 710 in the United States & Canada · 71 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/54b1cb26-7515-4180-83a2-aeec13218b73">2027 Software Testing Engineering Intern - Apopka FL</a></td>
+<td>Apopka, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489900903/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Astranis Space Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/250e663d-f42c-4995-b178-799cf8d6f77c">Embedded Software Developer, Network/Payload Intern (Summer 2027)</a></td>
@@ -1910,20 +1917,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Federal Home Loan Bank of Indianapolis (FHLBI)</strong></td>
-<td><a href="https://trueinterview.io/jobs/1d0e3a88-88b0-4d45-9abe-53788acc322c">Automation Quality Engineer Intern</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482540466/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fenner Precision Polymers</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae10436e-f4ea-41ba-b31a-d6693a9102ae">Industrial Engineer Intern - Los Angeles, CA</a></td>
-<td>Los Angeles, CA<br/>Lancaster, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465967025/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Danfoss</strong></td>
 <td><a href="https://trueinterview.io/jobs/46ac47a8-dd54-4dc9-9213-9cfb53b10f4a">Electrical Engineering Intern</a></td>
 <td>Loves Park, IL</td>
@@ -2183,28 +2176,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Tenstorrent</strong></td>
-<td><a href="https://trueinterview.io/jobs/b59c0113-851e-48e0-8b54-bd38941f2348">Silicon Intern - Physical Design &amp; DFT (USA)</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475434262/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cummings Electrical</strong></td>
-<td><a href="https://trueinterview.io/jobs/207bf74a-561c-49df-b11f-af398aac082b">Electrical Engineering Intern - Summer 2027</a></td>
-<td>Fort Worth, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465916645/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>EVONA</strong></td>
-<td><a href="https://trueinterview.io/jobs/2528a714-757e-4bbd-8a95-e9a79c6f7407">Electrical Engineering Intern - Summer 2027</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4474983696/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0013b8a1-20d4-4e15-8c62-169fac9ac7f9">Test Engineering Intern - Summer 2027</a></td>
 <td>Denver, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4474978860/">Apply</a></td>
@@ -2817,6 +2789,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ffc814b6-a1bb-49c1-9875-a39efcba7e62">Quality Engineer Intern</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/fourhands/jobs/4458313009">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chenmoore</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3b6bbfc-c552-438f-8306-11e8af30e293">Internship - Electrical Engineering</a></td>
+<td>Jacksonville, Florida, United States<br/>Orlando, Florida, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chenmoore/jobs/5268619007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f50834df-ba0e-4670-9e68-c55bbb2d31b8">Internship - Civil Engineering</a></td>
+<td>Fort Lauderdale, Florida, United States<br/>Jacksonville, Florida, United States<br/>Knoxville, Tennessee, United States<br/>+4 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chenmoore/jobs/5268534007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f4f9b51-f443-452d-b035-f155bfa22e4e">Process Engineering Intern - Water Technologies</a></td>
+<td>St. Peters, Missouri, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156381562-process-engineering-intern-water-technologies">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RE/SPEC Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a3ce865-7ca1-41d6-ae37-98f461359de5">Student Intern (Civil or Structural Engineering)</a></td>
+<td>Juneau, Alaska, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000156379056-student-intern-civil-or-structural-engineering-">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 </tbody>

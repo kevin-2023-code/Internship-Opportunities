@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**153 open roles.**
+**152 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -680,13 +680,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/081ea791-0e34-4e20-891b-4b8806682a99">Spring 2027 Systems Engineering - Cloud Technologies Co-Op (January - June)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476389698/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Nova Biomedical</strong></td>
-<td><a href="https://trueinterview.io/jobs/9919a414-5289-463c-9a10-a30839101481">Consumables Engineering Co-Op</a></td>
-<td>Waltham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466530531/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

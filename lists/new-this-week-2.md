@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**968 open roles.** 808 in the United States & Canada · 160 elsewhere in the world. Everything the employers put up this week.
+**966 open roles.** 803 in the United States & Canada · 163 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Motion</strong></td>
+<td><a href="https://trueinterview.io/jobs/d46e6e63-4897-4f03-b29f-7752735a175a">Web Developer Intern</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462426948/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Advantive</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5d8b989-2e22-4d28-9939-dcc1f359a928">AI &amp; Systems Intern</a></td>
+<td>Tampa, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469615248/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The New York Times</strong></td>
 <td><a href="https://trueinterview.io/jobs/30fec2ab-c7c3-4f9a-9f19-929145758842">Interactive News Engineering Intern</a></td>
@@ -2799,20 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/72fab0b8-f64c-45c1-893d-a74e9a203907">Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op</a></td>
 <td>Normal, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469996507/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Pacific Northwest National Laboratory</strong></td>
-<td><a href="https://trueinterview.io/jobs/719a47a0-a251-4f6e-b80a-4d6c02e17f44">NSIP PhD Intern - Artificial Intelligence &amp; Data Analytics - SWE Conference</a></td>
-<td>Seattle, Washington, United States<br/>Richland, Washington, United States</td>
-<td align="center"><a href="https://careers.pnnl.gov/jobs/12899">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/76e2837a-6727-4edc-87f7-54e0d172f62e">NSIP Masters Intern - Artificial Intelligence &amp; Data Analytics - SWE Conference</a></td>
-<td>Seattle, WA<br/>Richland, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486017781/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

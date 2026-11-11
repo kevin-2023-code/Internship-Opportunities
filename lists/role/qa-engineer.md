@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**42 open roles.** 32 in the United States & Canada · 10 elsewhere in the world.
+**43 open roles.** 33 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/54b1cb26-7515-4180-83a2-aeec13218b73">2027 Software Testing Engineering Intern - Apopka FL</a></td>
+<td>Apopka, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489900903/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NISC</strong></td>
 <td><a href="https://trueinterview.io/jobs/28a72185-7f79-4d73-9965-fbe1c9b8a1de">Intern - Test Automation</a></td>

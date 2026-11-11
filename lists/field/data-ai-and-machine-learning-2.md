@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**719 open roles.** 538 in the United States & Canada · 181 elsewhere in the world.
+**719 open roles.** 537 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -807,13 +807,6 @@
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Atlassian</strong></td>
-<td><a href="https://trueinterview.io/jobs/d769a851-991d-48fa-ae24-b0370bcc83db">Marketing Business Operations Intern, 2027 Summer U.S.</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://careers-americas.icims.com/jobs/26846/marketing-business-operations-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Coinbase</strong></td>
 <td><a href="https://trueinterview.io/jobs/b895bdc4-05f9-4cc9-a37d-32fbcfa7cb22">Internal Audit Analytics Intern</a></td>
 <td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
@@ -993,6 +986,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Workato</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2697adb-234a-4589-babc-08cf2b8db4ca">Intern, Software Engineering</a></td>
+<td>Chennai, India</td>
+<td align="center"><a href="https://www.workato.com/careers?gh_jid=8932861002">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/21456431-9aa7-4351-9c25-5e5b9dd216f6">ML Intern</a> 🌐</td>

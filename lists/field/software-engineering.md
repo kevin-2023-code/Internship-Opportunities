@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,691 open roles.** 1,359 in the United States & Canada · 332 elsewhere in the world.
+**1,684 open roles.** 1,352 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Elire</strong></td>
+<td><a href="https://trueinterview.io/jobs/8916cae3-df73-42be-8bc9-5ec16a149778">Summer 2027 AI Full Stack Developer Consulting Intern</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489908353/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c81ad91d-64b4-407e-94a7-66efed3bc899">AI Operations Intern, AI Clouds - Summer 2027</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488659632/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>The Church of Jesus Christ of Latter-day Saints</strong></td>
 <td><a href="https://trueinterview.io/jobs/c8593757-a33e-4e51-b349-1309e41f20dd">AI Paid Intern ( full time or part time)</a></td>
@@ -472,13 +486,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/594dd19f-9db7-497e-bd79-59eeea0c7cf7">2027 Spring Software Engineer Co-op (Billerica, MA)</a></td>
 <td>Billerica, MA</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319069608">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Atlas Copco Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/89ab6b49-7410-4ed4-87a7-0351535e15e0">Applications Engineer (AI) Intern</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=atlascopcoP&amp;rcm_site_locale=en_US&amp;career_job_req_id=176739">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9f89f1eb-2ec1-44b4-a138-92b0b23ef74c">Graduate Student Intern - Software Engineering</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469997257/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Symbotic</strong></td>
-<td><a href="https://trueinterview.io/jobs/b748c22d-17c3-49c8-8215-d8ebf9967369">Intern- Software Engineer</a></td>
-<td>Wilmington, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468176324/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

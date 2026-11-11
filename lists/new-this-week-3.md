@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**968 open roles.** 808 in the United States & Canada · 160 elsewhere in the world. Everything the employers put up this week.
+**966 open roles.** 803 in the United States & Canada · 163 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,58 +17,23 @@
 <tbody>
 <tr>
 <td><strong>Pacific Northwest National Laboratory</strong></td>
+<td><a href="https://trueinterview.io/jobs/719a47a0-a251-4f6e-b80a-4d6c02e17f44">NSIP PhD Intern - Artificial Intelligence &amp; Data Analytics - SWE Conference</a></td>
+<td>Seattle, Washington, United States<br/>Richland, Washington, United States</td>
+<td align="center"><a href="https://careers.pnnl.gov/jobs/12899">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76e2837a-6727-4edc-87f7-54e0d172f62e">NSIP Masters Intern - Artificial Intelligence &amp; Data Analytics - SWE Conference</a></td>
+<td>Seattle, WA<br/>Richland, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486017781/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/de6952ac-7a09-4cfb-aeaa-d80cd725e3c8">NSIP Undergraduate Intern – Artificial Intelligence &amp; Data Analytics - SWE Conference</a></td>
 <td>Seattle, WA<br/>Richland, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486011800/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WoodmenLife</strong></td>
-<td><a href="https://trueinterview.io/jobs/f058875b-5d1e-4f51-b465-4280b35963cd">2027 Summer AI Engineer Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486013999/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1045f4aa-2a03-47da-b366-45c563396551">2027 Summer Product Owner Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486032133/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/aea1021e-d69b-4334-8dfb-f4b4cb8d9a38">2027 Summer Software Engineer Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2923">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vaccine Vets</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ee0529a-f3f7-453e-bdc1-0646b0e167a2">Software Engineering Intern (Japanese Speaking Preferred)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486837055/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GlobalFoundries</strong></td>
-<td><a href="https://trueinterview.io/jobs/de44ae50-01da-4fcd-a5c9-88c35b9fb8a8">Device Engineering Intern, Silicon Photonics (Summer 2027)</a></td>
-<td>Malta, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486023406/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WoodmenLife</strong></td>
-<td><a href="https://trueinterview.io/jobs/df66c33e-bbe4-4376-b4e3-0fc3abcf461d">2027 Summer Cybersecurity Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486028274/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valency Networks Private Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/45acc3fa-ae77-4aa8-bb5f-244a0c3756fd">WordPress Website Developer Intern (Remote)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484647266/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>
@@ -83,6 +48,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Workato</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2697adb-234a-4589-babc-08cf2b8db4ca">Intern, Software Engineering</a></td>
+<td>Chennai, India</td>
+<td align="center"><a href="https://www.workato.com/careers?gh_jid=8932861002">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Apple</strong></td>
 <td><a href="https://trueinterview.io/jobs/176ced9b-8c1a-4045-a688-a4add65cb0bc">Virtualisation Software Engineering Internship, CoreOS</a></td>
@@ -102,6 +74,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/14cebc58-5581-419d-b953-fdd6a7cd8e3b">AI GPU Arch Perf Analysis Intern</a></td>
 <td>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488647765/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a7c6ec2-74e7-4262-9884-a916caef67b8">Industrial Engineering Internship 2027 (AmaP/BPS)</a></td>
+<td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161018189-industrial-engineering-internship-2027-amap-bps-">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -259,7 +238,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6c1aa3-6acf-4d9d-9c7b-71c4e9952d9b">Software Intern- Mission Control Center</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/bdb17a37-2330-4893-87ba-9ca342bb0748">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0321e60-fd7b-4954-b3f6-88a48c693356">Software Developer Summer Intern: Transport Automation</a></td>
 <td>Kirkkonummi, Uusimaa, Finland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487911087/">Apply</a></td>

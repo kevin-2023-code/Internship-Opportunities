@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,691 open roles.** 1,359 in the United States & Canada · 332 elsewhere in the world.
+**1,684 open roles.** 1,352 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,55 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Upsight</strong></td>
-<td><a href="https://trueinterview.io/jobs/d56b1549-84e3-45f4-861c-e410ed7e9274">Software Engineering Intern (Platform &amp; Integrations)</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6f6e155-7646-469a-98cc-1791ac0ebfe9">Test Engineering Intern m/f/d</a></td>
-<td>Freising, Bayern, Germany</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013295">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sardine</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
-<td>North America</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
-<td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lorikeet</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a28e2d9-5945-4799-8787-e6551c0e98d2">Forward Deployed Engineer Intern</a></td>
-<td>Sydney, Australia HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Lorikeet/62f54845-4529-4562-aa9b-24a95c46b0c0">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e29cc72-5f9f-4a9a-ab2c-ec5df8cece9d">Production Engineer Intern</a></td>
-<td>Šimanovci, Vojvodina, Serbia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157395399-production-engineer-intern">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/bce711db-47dd-4641-ba13-fb83f21050fd">Engineering Intern - Civil/Structural</a></td>
-<td>Manchester, Greater Manchester, United Kingdom<br/>London, United Kingdom</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28954">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Toku</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf8e24d2-9438-4898-8a98-8cae1362bf8a">AI Operations Intern BR</a></td>
-<td>Brasil</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e/application">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>ICEYE</strong></td>
 <td><a href="https://trueinterview.io/jobs/0fc0569d-8469-4c28-90f3-b745e2239fe3">ICEYE Engineering Intern Lab 2027</a></td>

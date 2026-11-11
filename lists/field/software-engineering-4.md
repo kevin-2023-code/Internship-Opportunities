@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,691 open roles.** 1,359 in the United States & Canada · 332 elsewhere in the world.
+**1,684 open roles.** 1,352 in the United States & Canada · 332 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,41 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Tevora</strong></td>
-<td><a href="https://trueinterview.io/jobs/e4ba9d4c-50c7-4f3c-9a9b-5fd4e4723013">Cybersecurity Internship Winter 2027 - Payments</a></td>
-<td>Fairfax, VA<br/>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/dfbebff1-fca0-49a4-a06d-f6f18118000a">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1f99979e-21ee-4b8f-a4c4-3354f73bc670">Cybersecurity Internship Winter 2027 - International Organization for Standardization (ISO)</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5165966a-f6e3-4da5-834b-db04b4df287b">Cybersecurity Internship Winter 2027 - Healthcare</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cc956f2b-2764-494c-be18-5abde4868362">Cybersecurity Internship Winter 2027 - Federal</a></td>
-<td>Fairfax, VA<br/>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8df9410b-936f-48cc-84af-f051ae33d8f4">Cybersecurity Internship Winter 2027 - Enterprise Risk Management</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/07f3f19a-7aa6-4370-8e30-3f7d0ef357e9">2027 Systems Engineer Intern</a></td>
@@ -594,20 +559,6 @@
 <td><a href="https://trueinterview.io/jobs/9096b553-6c96-4d79-b84a-ba6564addeea">R&amp;D Engineer, Intern</a></td>
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54342?lang=en-us">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/9dd992f3-c059-4ca5-8084-486222029098">Transportation Engineering Intern- Spring 2027</a></td>
-<td>Philadelphia, PA, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96027">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/99f805ec-9ae0-4f3f-be9f-faeb05f088fe">Transportation Engineering Intern- Summer 2027</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96023">Apply</a></td>
 <td align="center">23 Sep 2026</td>
 </tr>
 <tr>
@@ -1253,7 +1204,14 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d6c1aa3-6acf-4d9d-9c7b-71c4e9952d9b">Software Intern- Mission Control Center</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/bdb17a37-2330-4893-87ba-9ca342bb0748">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Ericsson</strong></td>
 <td><a href="https://trueinterview.io/jobs/f0321e60-fd7b-4954-b3f6-88a48c693356">Software Developer Summer Intern: Transport Automation</a></td>
 <td>Kirkkonummi, Uusimaa, Finland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487911087/">Apply</a></td>
@@ -2625,13 +2583,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Sécheron SA</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec98c158-548a-4769-abbc-1e1068cc6c8b">Intern Power Electronics Engineer</a></td>
-<td>Satigny, Geneva, Switzerland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483881391/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Centre for Strategic Infocomm Technologies (CSIT)</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c4aa132-3c24-477a-a8b2-9aae3f9e7aef">Platform &amp; SRE Engineer Intern (Digital Workplace)</a></td>
 <td>Singapore, Singapore</td>
@@ -2826,6 +2777,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Remote — Singapore</td>
 <td align="center"><a href="https://www.internsg.com/job/tenthnode-ai-forward-deployed-engineer-intern/?f_pg=3">Apply</a></td>
 <td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Upsight</strong></td>
+<td><a href="https://trueinterview.io/jobs/d56b1549-84e3-45f4-861c-e410ed7e9274">Software Engineering Intern (Platform &amp; Integrations)</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.internsg.com/job/upsight-software-engineering-intern-platform-integrations/?f_pg=4">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6f6e155-7646-469a-98cc-1791ac0ebfe9">Test Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25013295">Apply</a></td>
+<td align="center">26 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sardine</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d1cd2b2-f95a-4fb5-8061-955df0c47426">Summer Engineering Internship</a></td>
+<td>North America</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
+<td align="center">24 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lorikeet</strong></td>
+<td><a href="https://trueinterview.io/jobs/9a28e2d9-5945-4799-8787-e6551c0e98d2">Forward Deployed Engineer Intern</a></td>
+<td>Sydney, Australia HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Lorikeet/62f54845-4529-4562-aa9b-24a95c46b0c0">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e29cc72-5f9f-4a9a-ab2c-ec5df8cece9d">Production Engineer Intern</a></td>
+<td>Šimanovci, Vojvodina, Serbia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157395399-production-engineer-intern">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Gdh</strong></td>
+<td><a href="https://trueinterview.io/jobs/bce711db-47dd-4641-ba13-fb83f21050fd">Engineering Intern - Civil/Structural</a></td>
+<td>Manchester, Greater Manchester, United Kingdom<br/>London, United Kingdom</td>
+<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28954">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Toku</strong></td>
+<td><a href="https://trueinterview.io/jobs/bf8e24d2-9438-4898-8a98-8cae1362bf8a">AI Operations Intern BR</a></td>
+<td>Brasil</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e/application">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 </tbody>
 </table>
