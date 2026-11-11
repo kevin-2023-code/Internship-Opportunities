@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-11 09:05 UTC_
+_Last updated: 2026-11-11 10:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 231 of the 1,401 employers on this list (33% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 231 of the 1,400 employers on this list (33% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -34,9 +34,9 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 | :-- | --: | --: |
 | [💻 Software Engineering](field/software-engineering.md) | 1,361 | 333 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 716 | 71 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 537 | 183 |
-| [📱 Product & Design](field/product-and-design.md) | 160 | 61 |
-| [📈 Quantitative Finance](field/quantitative-finance.md) | 63 | 31 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 536 | 184 |
+| [📱 Product & Design](field/product-and-design.md) | 161 | 61 |
+| [📈 Quantitative Finance](field/quantitative-finance.md) | 64 | 31 |
 | [🧰 IT & Support](field/it-and-support.md) | 59 | 15 |
 
 ---
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,169 of the 3,590** internships on this list (33%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,169 of the 3,592** internships on this list (33%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,17 +79,17 @@ _Between them these 23 filters hold **1,169 of the 3,590** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **1,870 of the 3,590** internships on this list (52%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **1,871 of the 3,592** internships on this list (52%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 397 | 91 |
+| [Software Engineer](role/software-engineer.md) | 398 | 91 |
 | [AI Engineer](role/ai-engineer.md) | 140 | 65 |
-| [Machine Learning Engineer](role/machine-learning-engineer.md) | 132 | 35 |
+| [Machine Learning Engineer](role/machine-learning-engineer.md) | 133 | 35 |
 | [Hardware Engineer](role/hardware-engineer.md) | 115 | 10 |
-| [Data Scientist](role/data-scientist.md) | 88 | 20 |
+| [Data Scientist](role/data-scientist.md) | 87 | 20 |
 | [Product Manager](role/product-manager.md) | 69 | 37 |
 | [Security Engineer](role/security-engineer.md) | 88 | 16 |
 | [Data Analyst](role/data-analyst.md) | 61 | 39 |
@@ -114,7 +114,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 35 filters hold **2,044 of the 3,590** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 35 filters hold **2,045 of the 3,592** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -135,7 +135,7 @@ _Between them these 35 filters hold **2,044 of the 3,590** internships on this l
 | [🏮 Beijing, Shanghai, Taipei & Hong Kong](place/greater-china.md) | 0 | 54 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🇬🇧 London & the UK](place/uk.md) | 12 | 40 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🍑 Atlanta](place/atlanta.md) | 42 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in GA: Atlanta, Alpharetta, Marietta, Sandy Springs, Duluth. |
-| [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 40 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Houston, San Antonio, Spring, The Woodlands, Sugar Land, El Paso, Lubbock, College Station, Richmond. |
+| [🛢️ Houston, San Antonio & the rest of Texas](place/texas-other.md) | 41 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in TX: Houston, San Antonio, Spring, The Woodlands, Sugar Land, El Paso, Lubbock, College Station, Richmond. |
 | [🌵 Phoenix & Arizona](place/phoenix.md) | 40 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in AZ: Phoenix, Tempe, Chandler, Scottsdale, Mesa, Tucson, Gilbert, Peoria. |
 | [🏖️ San Diego](place/san-diego.md) | 37 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Diego, La Jolla, Carlsbad, Poway, Oceanside. |
 | [🇫🇷 Paris & France](place/france.md) | 1 | 35 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
@@ -160,11 +160,11 @@ _Between them these 35 filters hold **2,044 of the 3,590** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **996 of the 3,590** internships on this list (28%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **998 of the 3,592** internships on this list (28%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 801 | 159 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 802 | 160 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 31 | 12 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

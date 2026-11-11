@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**108 open roles.** 88 in the United States & Canada · 20 elsewhere in the world.
+**107 open roles.** 87 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,13 +30,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Danboro, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489151744/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Summit</strong></td>
-<td><a href="https://trueinterview.io/jobs/cb0be06e-4d06-4cab-ab28-8ca414af154b">Data Scientist Intern 2027</a></td>
-<td>Lakeland, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487698658/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Morgan 6 LLC</strong></td>
