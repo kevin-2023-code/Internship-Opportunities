@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**17 open roles.**
+**18 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Church of Jesus Christ of Latter-day Saints</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8593757-a33e-4e51-b349-1309e41f20dd">AI Paid Intern ( full time or part time)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488652586/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>SAP Taulia</strong></td>
 <td><a href="https://trueinterview.io/jobs/df7a380c-d159-4cf8-9a1b-af26ebac5d8a">AI Center of Excellence (COE) Intern</a></td>

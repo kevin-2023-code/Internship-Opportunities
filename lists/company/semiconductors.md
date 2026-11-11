@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**265 open roles.** 201 in the United States & Canada · 64 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**266 open roles.** 202 in the United States & Canada · 64 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -26,6 +26,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/594dd19f-9db7-497e-bd79-59eeea0c7cf7">2027 Spring Software Engineer Co-op (Billerica, MA)</a></td>
+<td>Billerica, MA</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319069608">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8019058e-dcc0-419a-af93-fec756f5bd1f">2027 Spring Quality Engineering Co-op (Billerica, MA)</a></td>
 <td>Billerica, MA</td>
 <td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319424978">Apply</a></td>

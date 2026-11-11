@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488658391/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafddc2e-7787-4774-93b0-7ed71d63a459">Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start</a></td>
 <td>San Jose, CA</td>
@@ -1347,13 +1354,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/dd0742c5-08e8-469b-b696-714845d4551a">Arena Engineering Intern (Summer 2027)</a></td>
 <td>San Mateo, CA<br/>San Mateo County, CA</td>
 <td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Western Magnetics</strong></td>
-<td><a href="https://trueinterview.io/jobs/baba25ef-a7b1-4e3c-93d5-4ed1102edf60">Software Engineer Intern - (Jan 2027)</a></td>
-<td>South San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**72 open roles.** 63 in the United States & Canada · 9 elsewhere in the world.
+**73 open roles.** 64 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ef7aa7e-e83c-4698-a128-55faf399ea62">Data Engineering Intern - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>7-Eleven</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a370bda-0d9c-4fe3-bebe-fec3b9ee424f">Data Engineer Intern</a></td>

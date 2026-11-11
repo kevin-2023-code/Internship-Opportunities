@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,682 open roles.** 1,353 in the United States & Canada · 329 elsewhere in the world.
+**1,688 open roles.** 1,357 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b">Software Developer Intern</a></td>
+<td>Annapolis Junction, MD</td>
+<td align="center"><a href="https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/92f4e34e-8bba-4095-812f-17516964e7fa">2027 S/W Embedded Engineering Intern – Sykesville MD</a></td>
+<td>Sykesville, MD</td>
+<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075072464?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Schweitzer Engineering Laboratories</strong></td>
+<td><a href="https://trueinterview.io/jobs/f5f97e8e-7945-43c2-9da2-1da5b7a295ae">Engineering Intern</a></td>
+<td>Charlotte, North Carolina, United States<br/>Charlotte, NC</td>
+<td align="center"><a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skyworks Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/39733b46-c5e3-4cb8-a672-fd1579825f76">Product Engineering Summer/Fall Co-Op (June-Dec '27)</a></td>
+<td>San Jose, CA<br/>Thousand Oaks, CA<br/>Newbury Park, CA</td>
+<td align="center"><a href="https://careers.skyworksinc.com/job/Product-Engineering-SummerFall-Co-Op-%28Jun-Dec-2027%29/78691-en_US">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sonos</strong></td>
 <td><a href="https://trueinterview.io/jobs/50127fb3-0a58-4ae3-9d1e-198866e1db68">Software Partner Engineering Intern (Boston)</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/1f99979e-21ee-4b8f-a4c4-3354f73bc670">Cybersecurity Internship Winter 2027 - International Organization for Standardization (ISO)</a></td>
 <td>Irvine, CA<br/>Fairfax, VA</td>
 <td align="center"><a href="https://jobs.lever.co/tevora/461e8bec-806c-4de1-8ace-0f0246b06def">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5165966a-f6e3-4da5-834b-db04b4df287b">Cybersecurity Internship Winter 2027 - Healthcare</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cc956f2b-2764-494c-be18-5abde4868362">Cybersecurity Internship Winter 2027 - Federal</a></td>
-<td>Fairfax, VA<br/>Irvine, CA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8df9410b-936f-48cc-84af-f051ae33d8f4">Cybersecurity Internship Winter 2027 - Enterprise Risk Management</a></td>
-<td>Irvine, CA<br/>Fairfax, VA</td>
-<td align="center"><a href="https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/07f3f19a-7aa6-4370-8e30-3f7d0ef357e9">2027 Systems Engineer Intern</a></td>
-<td>Boston, Massachusetts, United States<br/>Seattle, Washington, United States<br/>Costa Mesa, California, United States<br/>+3 more</td>
-<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007">Apply</a></td>
 <td align="center">6 Oct 2026</td>
 </tr>
 </tbody>

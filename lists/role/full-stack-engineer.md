@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**33 open roles.** 24 in the United States & Canada · 9 elsewhere in the world.
+**34 open roles.** 25 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/946675e7-5920-42af-b4a4-1b9239c49ada">AI Prototype Engineering Intern (U.S.A Only)</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489123850/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec">AI Product Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488877635/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

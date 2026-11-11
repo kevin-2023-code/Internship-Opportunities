@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**6 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4516dba7-1a70-436b-b62a-db0deb1128bc">Software Engineer, Internship - 2027</a></td>
 <td>São Paulo, São Paulo, Brazil</td>
 <td align="center"><a href="https://www.brex.com/careers/8935242002?gh_jid=8935242002">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e9ce08c-2937-42f5-ae5f-256eff9cd84c">Intern - Local IT</a></td>
+<td>Guadalajara - Periférico, Jalisco, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000160658859-intern-local-it">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

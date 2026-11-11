@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**585 open roles.** 459 in the United States & Canada · 126 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**589 open roles.** 461 in the United States & Canada · 128 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@
 <tbody>
 <tr>
 <td><strong>QUALCOMM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b0e07528-fb47-4e9b-acf5-6462ade20f64">Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship – Summer 2027</a></td>
+<td>Austin, TX<br/>San Diego, CA, US<br/>Boxborough, MA, US<br/>+2 more</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740649">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0add9d47-9d5b-4236-bb83-2c674de6a937">IT Infrastructure &amp; Cloud Engineering Internship – Summer 2027</a></td>
+<td>San Diego, CA, US</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741668">Apply</a></td>
+<td align="center">18 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0517ed62-e4f1-40fb-a43b-ec6ff4a935f9">Mechanical Engineering Internship – Summer 2027</a></td>
 <td>Austin, TX<br/>San Diego, CA, US<br/>Santa Clara, CA, US</td>
 <td align="center"><a href="https://careers.qualcomm.com/careers/job/446720741704">Apply</a></td>
@@ -440,6 +454,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/176ced9b-8c1a-4045-a688-a4add65cb0bc">Virtualisation Software Engineering Internship, CoreOS</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488647749/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/436ffd7e-4ad5-4c4f-9d14-b8f4034de5cc">Machine Learning Engineering Intern, Personal Agentic Search</a></td>
+<td>Cambridge, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488637911/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/08ee1dad-9e85-4794-b09f-a51f3aea0e1c">FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork</a></td>

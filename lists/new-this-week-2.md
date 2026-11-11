@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**979 open roles.** 814 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**964 open roles.** 805 in the United States & Canada · 159 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,62 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/147081d9-1d37-40a9-a24a-f48f41e814a8">2027 Summer Intern: Product Marketing - UX Design</a></td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462858713/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Duolingo</strong></td>
+<td><a href="https://trueinterview.io/jobs/9ef4bcf4-7073-45d0-86f6-f7ea184bb778">Data Scientist, Intern</a></td>
+<td>New York, NY<br/>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480310279/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASM</strong></td>
+<td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
+<td>Greater Phoenix Area<br/>Phoenix, AZ<br/>US &gt; Arizona &gt; Phoenix</td>
+<td align="center"><a href="https://www.asm.com/open-vacancies/intern-product-intelligence-engineering-aiml-5029228101?gh_jid=5029228101">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Farm</strong></td>
+<td><a href="https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077">Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist</a></td>
+<td>Atlanta, GA<br/>Tempe, Arizona, United States<br/>Dunwoody, Georgia, United States<br/>+4 more</td>
+<td align="center"><a href="https://jobs.statefarm.com/main/jobs/46227">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nissan Motor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f975c3cf-4403-4ec1-9eff-5a0a57b5d6cc">Machine Learning Research Intern - Spring 2027 - Santa Clara, CA</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479840391/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/499c3bd6-f961-4630-b1c4-351cc2a347ba">Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486951856/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Advanced Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5">Intern - Firmware Engineer, Undergraduate</a></td>
+<td>Eden Prairie, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470975470/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9f64c8f-72b8-4d3e-8a37-5d7cf1164168">2027 Summer Intern, AI/ML Engineer, Mapping (Masters)</a></td>
+<td>Warren, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480170158/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Nissan Motor Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/820b6394-228c-40ae-a740-ba8d65eb250a">Machine Learning Research Perception Intern - Spring 2027 - Santa Clara, CA</a></td>
@@ -2757,62 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/aea1021e-d69b-4334-8dfb-f4b4cb8d9a38">2027 Summer Software Engineer Intern</a></td>
 <td>Omaha, NE</td>
 <td align="center"><a href="https://jobs.dayforcehcm.com/en-US/woodmenlife/CANDIDATEPORTAL/jobs/2923">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Vaccine Vets</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ee0529a-f3f7-453e-bdc1-0646b0e167a2">Software Engineering Intern (Japanese Speaking Preferred)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486837055/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GlobalFoundries</strong></td>
-<td><a href="https://trueinterview.io/jobs/de44ae50-01da-4fcd-a5c9-88c35b9fb8a8">Device Engineering Intern, Silicon Photonics (Summer 2027)</a></td>
-<td>Malta, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486023406/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WoodmenLife</strong></td>
-<td><a href="https://trueinterview.io/jobs/df66c33e-bbe4-4376-b4e3-0fc3abcf461d">2027 Summer Cybersecurity Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486028274/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valency Networks Private Limited</strong></td>
-<td><a href="https://trueinterview.io/jobs/45acc3fa-ae77-4aa8-bb5f-244a0c3756fd">WordPress Website Developer Intern (Remote)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484647266/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ff7987b-7f1c-4522-be26-248a458cce9b">Product Marketing MBA Intern, AI Infrastructure — Summer 2027</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486038029/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon.com</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e4c4371-ca74-4f11-9063-abf0bf4ff2d4">Software Development Engineer Intern - Summer 2027</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.amazon.jobs/jobs/10597379/software-development-engineer-intern--summer-?cmpid=DA_INAD200785B">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Arlo Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3eecfb5-dc70-4304-bfb1-54e99fe05fca">Firmware Developer Co-op</a></td>
-<td>Richmond, British Columbia, Canada<br/>Richmond, Canada</td>
-<td align="center"><a href="https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100445">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Avis Budget Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6ffd6d8-20d6-4549-be77-16c8019815b3">Accelerate - Transformation Engineer Summer 2027 Intern</a></td>
-<td>Parsippany-Troy Hills, NJ</td>
-<td align="center"><a href="https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

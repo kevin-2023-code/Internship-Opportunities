@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,682 open roles.** 1,353 in the United States & Canada · 329 elsewhere in the world.
+**1,688 open roles.** 1,357 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Tevora</strong></td>
+<td><a href="https://trueinterview.io/jobs/5165966a-f6e3-4da5-834b-db04b4df287b">Cybersecurity Internship Winter 2027 - Healthcare</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/8732b469-4b50-4d5f-b75f-cee074ebfb22">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cc956f2b-2764-494c-be18-5abde4868362">Cybersecurity Internship Winter 2027 - Federal</a></td>
+<td>Fairfax, VA<br/>Irvine, CA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/6d569b10-339d-4b86-9ae1-17ee462948a1">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8df9410b-936f-48cc-84af-f051ae33d8f4">Cybersecurity Internship Winter 2027 - Enterprise Risk Management</a></td>
+<td>Irvine, CA<br/>Fairfax, VA</td>
+<td align="center"><a href="https://jobs.lever.co/tevora/6038cf01-750c-44dd-8f8d-86e20b22c73c">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/07f3f19a-7aa6-4370-8e30-3f7d0ef357e9">2027 Systems Engineer Intern</a></td>
+<td>Boston, Massachusetts, United States<br/>Seattle, Washington, United States<br/>Costa Mesa, California, United States<br/>+3 more</td>
+<td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>CAE</strong></td>
 <td><a href="https://trueinterview.io/jobs/93effbac-3f81-49c4-b767-91fc26b6fec4">Software Developer Coop</a></td>
@@ -1099,6 +1127,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/176ced9b-8c1a-4045-a688-a4add65cb0bc">Virtualisation Software Engineering Internship, CoreOS</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488647749/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Rakuten Kobo Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7">Software Developer Intern (Dublin)</a></td>
 <td>Dublin, County Dublin, Ireland</td>
@@ -1173,6 +1208,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/24377f05-8240-4dee-8c26-1f7e5dd0303a">GPU Software Applications Engineer Intern (3 months)</a></td>
 <td>Seoul, Seoul, South Korea</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480225151/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a">AI Developer Technology Engineering Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462342323/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2784,48 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>North America</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lorikeet</strong></td>
-<td><a href="https://trueinterview.io/jobs/9a28e2d9-5945-4799-8787-e6551c0e98d2">Forward Deployed Engineer Intern</a></td>
-<td>Sydney, Australia HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Lorikeet/62f54845-4529-4562-aa9b-24a95c46b0c0">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e29cc72-5f9f-4a9a-ab2c-ec5df8cece9d">Production Engineer Intern</a></td>
-<td>Šimanovci, Vojvodina, Serbia</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000157395399-production-engineer-intern">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/bce711db-47dd-4641-ba13-fb83f21050fd">Engineering Intern - Civil/Structural</a></td>
-<td>Manchester, Greater Manchester, United Kingdom<br/>London, United Kingdom</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28954">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Toku</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf8e24d2-9438-4898-8a98-8cae1362bf8a">AI Operations Intern BR</a></td>
-<td>Brasil</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/toku/5b01e605-3a1a-4455-9bc4-1ece082d136e/application">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ICEYE</strong></td>
-<td><a href="https://trueinterview.io/jobs/0fc0569d-8469-4c28-90f3-b745e2239fe3">ICEYE Engineering Intern Lab 2027</a></td>
-<td>Valencia<br/>Warsaw<br/>Espoo</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/iceye/1b8f590b-fd9a-4c7a-ae0d-6e15f0bed42f">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sika Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6becd6b-d7ac-41b7-b80c-85a49e76b7df">ESG Digitalization Intern – Software &amp; Data Engineering</a></td>
-<td>Zürich, Zurich, Switzerland</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SikaAG/744000157078341-esg-digitalization-intern-software-data-engineering">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**979 open roles.** 814 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**964 open roles.** 805 in the United States & Canada · 159 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdf828e7-303d-414c-814a-00f271a12279">Research Scientist Intern, Computational Photography &amp; Computer Vision (PhD)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487884678/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Astranis Space Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/250e663d-f42c-4995-b178-799cf8d6f77c">Embedded Software Developer, Network/Payload Intern (Summer 2027)</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488648918/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>The Church of Jesus Christ of Latter-day Saints</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8593757-a33e-4e51-b349-1309e41f20dd">AI Paid Intern ( full time or part time)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488652586/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488658391/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafddc2e-7787-4774-93b0-7ed71d63a459">Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start</a></td>
@@ -762,6 +790,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/594dd19f-9db7-497e-bd79-59eeea0c7cf7">2027 Spring Software Engineer Co-op (Billerica, MA)</a></td>
+<td>Billerica, MA</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319069608">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Atlas Copco Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/89ab6b49-7410-4ed4-87a7-0351535e15e0">Applications Engineer (AI) Intern</a></td>
 <td>Houston, TX</td>
@@ -1266,10 +1301,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Sharp Electronics Corporation USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dc01881-eaf1-4e53-afee-b50f06356e08">Summer IT AI Intern</a></td>
+<td>Montvale, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487175190/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Kenworth Truck Co.</strong></td>
 <td><a href="https://trueinterview.io/jobs/5768672c-33d3-44cb-8d86-e0d2ce129bcf">Data Analyst Intern</a></td>
 <td>Chillicothe, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488891167/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LCI Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/df95231c-6ec9-4fb8-b692-faff11d872e1">Intern, Accessibility Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://recruiting.ultipro.com/LCI1000LCIN/JobBoard/f344a078-07a4-443e-af53-91e477cf7d3f/OpportunityDetail?opportunityId=d4050644-9c8a-423d-b591-d2dd7258f70e">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -1284,6 +1333,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
 <td>University Park, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3272bb01-4d3b-4cee-a1c6-621553d39fef">Co-Op Security Consultant - Strategy, Risk &amp; Compliance 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451266806/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2761,62 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ab88a95c-386c-4aad-af9c-dafdcc6fd610">Cost &amp; Asset Optimization - Data Science Analyst Intern - Poughkeepsie, NY - 2027</a></td>
 <td>Poughkeepsie, AR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4458051489/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/147081d9-1d37-40a9-a24a-f48f41e814a8">2027 Summer Intern: Product Marketing - UX Design</a></td>
-<td>St Louis, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462858713/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Duolingo</strong></td>
-<td><a href="https://trueinterview.io/jobs/9ef4bcf4-7073-45d0-86f6-f7ea184bb778">Data Scientist, Intern</a></td>
-<td>New York, NY<br/>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480310279/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ASM</strong></td>
-<td><a href="https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05">Intern, Product Intelligence Engineering (AI/ML)</a></td>
-<td>Greater Phoenix Area<br/>Phoenix, AZ<br/>US &gt; Arizona &gt; Phoenix</td>
-<td align="center"><a href="https://www.asm.com/open-vacancies/intern-product-intelligence-engineering-aiml-5029228101?gh_jid=5029228101">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>State Farm</strong></td>
-<td><a href="https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077">Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist</a></td>
-<td>Atlanta, GA<br/>Tempe, Arizona, United States<br/>Dunwoody, Georgia, United States<br/>+4 more</td>
-<td align="center"><a href="https://jobs.statefarm.com/main/jobs/46227">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nissan Motor Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/f975c3cf-4403-4ec1-9eff-5a0a57b5d6cc">Machine Learning Research Intern - Spring 2027 - Santa Clara, CA</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479840391/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/499c3bd6-f961-4630-b1c4-351cc2a347ba">Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486951856/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Advanced Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5">Intern - Firmware Engineer, Undergraduate</a></td>
-<td>Eden Prairie, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470975470/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors</strong></td>
-<td><a href="https://trueinterview.io/jobs/e9f64c8f-72b8-4d3e-8a37-5d7cf1164168">2027 Summer Intern, AI/ML Engineer, Mapping (Masters)</a></td>
-<td>Warren, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480170158/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**62 open roles.** 52 in the United States & Canada · 10 elsewhere in the world.
+**63 open roles.** 53 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Astranis Space Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/250e663d-f42c-4995-b178-799cf8d6f77c">Embedded Software Developer, Network/Payload Intern (Summer 2027)</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488648918/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/1c90629d-2e37-45aa-9b8b-fba8df75ca75">Hardware In Loop (HIL) Software Engineer Intern - Winter 2027</a></td>

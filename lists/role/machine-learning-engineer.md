@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**166 open roles.** 132 in the United States & Canada · 34 elsewhere in the world.
+**168 open roles.** 133 in the United States & Canada · 35 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488658391/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Seagate Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e872764-8276-4233-ae7f-bdd5f505d880">Generative AI &amp; Machine Learning Engineering Intern (Summer 2027)</a></td>
@@ -953,6 +960,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/436ffd7e-4ad5-4c4f-9d14-b8f4034de5cc">Machine Learning Engineering Intern, Personal Agentic Search</a></td>
+<td>Cambridge, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488637911/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Loft Orbital Solutions</strong></td>
 <td><a href="https://trueinterview.io/jobs/9490dfcd-fbd8-4586-8408-a1c8d861f08d">AI/ML Engineering Intern: System 1 Models for Reactive Space Operations</a></td>

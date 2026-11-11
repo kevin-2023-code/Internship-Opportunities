@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**71 open roles.** 57 in the United States & Canada · 14 elsewhere in the world.
+**73 open roles.** 58 in the United States & Canada · 15 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/738d3fe4-55cd-4c31-9db7-bace85a99efd">IT Service and Support Intern</a></td>
 <td>Green Bay, WI</td>
 <td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0684a99840168535a65763550&amp;id=8a7887a8a18473d601a1c137739f4915&amp;lang=en">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>LCI Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/df95231c-6ec9-4fb8-b692-faff11d872e1">Intern, Accessibility Analyst</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://recruiting.ultipro.com/LCI1000LCIN/JobBoard/f344a078-07a4-443e-af53-91e477cf7d3f/OpportunityDetail?opportunityId=d4050644-9c8a-423d-b591-d2dd7258f70e">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -434,6 +441,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160974349-sap-ixp-intern-technical-support-">Apply</a></td>
 <td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e9ce08c-2937-42f5-ae5f-256eff9cd84c">Intern - Local IT</a></td>
+<td>Guadalajara - Periférico, Jalisco, Mexico</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000160658859-intern-local-it">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Riverty</strong></td>

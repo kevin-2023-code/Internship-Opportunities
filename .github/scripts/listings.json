@@ -5,9 +5,165 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T05:04:42.754Z",
-  "count": 3571,
+  "listingsChangedAt": "2026-11-11T06:07:49.553Z",
+  "count": 3581,
   "listings": [
+    {
+      "id": "176ced9b-8c1a-4045-a688-a4add65cb0bc",
+      "company": "Apple",
+      "title": "Virtualisation Software Engineering Internship, CoreOS",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "London"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488647749/",
+      "url": "https://trueinterview.io/jobs/176ced9b-8c1a-4045-a688-a4add65cb0bc",
+      "postedAt": "2026-11-11T05:33:00.000Z",
+      "updatedAt": "2026-11-11T05:33:00.000Z"
+    },
+    {
+      "id": "436ffd7e-4ad5-4c4f-9d14-b8f4034de5cc",
+      "company": "Apple",
+      "title": "Machine Learning Engineering Intern, Personal Agentic Search",
+      "locations": [
+        "Cambridge, England, United Kingdom"
+      ],
+      "cities": [
+        "Cambridge"
+      ],
+      "countries": [
+        "United Kingdom"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488637911/",
+      "url": "https://trueinterview.io/jobs/436ffd7e-4ad5-4c4f-9d14-b8f4034de5cc",
+      "postedAt": "2026-11-11T05:32:00.000Z",
+      "updatedAt": "2026-11-11T05:32:00.000Z"
+    },
+    {
+      "id": "fdf828e7-303d-414c-814a-00f271a12279",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
+      "locations": [
+        "Redmond, WA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487884678/",
+      "url": "https://trueinterview.io/jobs/fdf828e7-303d-414c-814a-00f271a12279",
+      "postedAt": "2026-11-11T05:17:00.000Z",
+      "updatedAt": "2026-11-11T05:17:00.000Z"
+    },
+    {
+      "id": "250e663d-f42c-4995-b178-799cf8d6f77c",
+      "company": "Astranis Space Technologies",
+      "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
+      "locations": [
+        "San Francisco Bay Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488648918/",
+      "url": "https://trueinterview.io/jobs/250e663d-f42c-4995-b178-799cf8d6f77c",
+      "postedAt": "2026-11-11T05:11:00.000Z",
+      "updatedAt": "2026-11-11T05:11:00.000Z"
+    },
+    {
+      "id": "c8593757-a33e-4e51-b349-1309e41f20dd",
+      "company": "The Church of Jesus Christ of Latter-day Saints",
+      "title": "AI Paid Intern ( full time or part time)",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488652586/",
+      "url": "https://trueinterview.io/jobs/c8593757-a33e-4e51-b349-1309e41f20dd",
+      "postedAt": "2026-11-11T05:02:00.000Z",
+      "updatedAt": "2026-11-11T05:02:00.000Z"
+    },
+    {
+      "id": "d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488658391/",
+      "url": "https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0",
+      "postedAt": "2026-11-11T05:01:00.000Z",
+      "updatedAt": "2026-11-11T05:01:00.000Z"
+    },
     {
       "id": "cafddc2e-7787-4774-93b0-7ed71d63a459",
       "company": "ByteDance",
@@ -49,9 +205,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3120,6 +3276,31 @@
       "updatedAt": "2026-11-10T06:38:00.000Z"
     },
     {
+      "id": "594dd19f-9db7-497e-bd79-59eeea0c7cf7",
+      "company": "Applied Materials",
+      "title": "2027 Spring Software Engineer Co-op (Billerica, MA)",
+      "locations": [
+        "Billerica, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.appliedmaterials.com/careers/job/790319069608",
+      "url": "https://trueinterview.io/jobs/594dd19f-9db7-497e-bd79-59eeea0c7cf7",
+      "postedAt": "2026-11-10T06:00:00.000Z",
+      "updatedAt": "2026-11-10T06:00:00.000Z"
+    },
+    {
       "id": "89ab6b49-7410-4ed4-87a7-0351535e15e0",
       "company": "Atlas Copco Group",
       "title": "Applications Engineer (AI) Intern",
@@ -5084,6 +5265,31 @@
       "updatedAt": "2026-11-09T16:49:59.000Z"
     },
     {
+      "id": "2dc01881-eaf1-4e53-afee-b50f06356e08",
+      "company": "Sharp Electronics Corporation USA",
+      "title": "Summer IT AI Intern",
+      "locations": [
+        "Montvale, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487175190/",
+      "url": "https://trueinterview.io/jobs/2dc01881-eaf1-4e53-afee-b50f06356e08",
+      "postedAt": "2026-11-09T16:34:00.000Z",
+      "updatedAt": "2026-11-09T16:34:00.000Z"
+    },
+    {
       "id": "5768672c-33d3-44cb-8d86-e0d2ce129bcf",
       "company": "Kenworth Truck Co.",
       "title": "Data Analyst Intern",
@@ -5098,8 +5304,8 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -5121,7 +5327,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -5132,6 +5338,32 @@
       "url": "https://trueinterview.io/jobs/84042570-cf11-4473-9926-2e8c03cd3c7a",
       "postedAt": "2026-11-09T16:32:00.000Z",
       "updatedAt": "2026-11-09T16:32:00.000Z"
+    },
+    {
+      "id": "df95231c-6ec9-4fb8-b692-faff11d872e1",
+      "company": "LCI Industries",
+      "title": "Intern, Accessibility Analyst",
+      "locations": [
+        "Durham, NC",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.ultipro.com/LCI1000LCIN/JobBoard/f344a078-07a4-443e-af53-91e477cf7d3f/OpportunityDetail?opportunityId=d4050644-9c8a-423d-b591-d2dd7258f70e",
+      "url": "https://trueinterview.io/jobs/df95231c-6ec9-4fb8-b692-faff11d872e1",
+      "postedAt": "2026-11-09T16:30:34.000Z",
+      "updatedAt": "2026-11-09T16:30:34.000Z"
     },
     {
       "id": "33f468d8-ef0e-4afc-bdd9-43330b4c78ec",
@@ -5145,9 +5377,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5182,6 +5414,56 @@
       "url": "https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82",
       "postedAt": "2026-11-09T16:15:00.000Z",
       "updatedAt": "2026-11-09T16:15:00.000Z"
+    },
+    {
+      "id": "8e9ce08c-2937-42f5-ae5f-256eff9cd84c",
+      "company": "Aumovio",
+      "title": "Intern - Local IT",
+      "locations": [
+        "Guadalajara - Periférico, Jalisco, Mexico"
+      ],
+      "cities": [],
+      "countries": [
+        "Mexico"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Aumovio/744000160658859-intern-local-it",
+      "url": "https://trueinterview.io/jobs/8e9ce08c-2937-42f5-ae5f-256eff9cd84c",
+      "postedAt": "2026-11-09T16:08:48.000Z",
+      "updatedAt": "2026-11-09T16:08:48.000Z"
+    },
+    {
+      "id": "3272bb01-4d3b-4cee-a1c6-621553d39fef",
+      "company": "IBM",
+      "title": "Co-Op Security Consultant - Strategy, Risk & Compliance 2027",
+      "locations": [
+        "University Park, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451266806/",
+      "url": "https://trueinterview.io/jobs/3272bb01-4d3b-4cee-a1c6-621553d39fef",
+      "postedAt": "2026-11-09T16:02:00.000Z",
+      "updatedAt": "2026-11-09T16:02:00.000Z"
     },
     {
       "id": "e998269f-cdbe-44b0-83dc-4e07c5dc4bef",
@@ -41295,32 +41577,6 @@
       "url": "https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28",
       "postedAt": "2026-10-29T21:54:00.000Z",
       "updatedAt": "2026-10-29T21:54:00.000Z"
-    },
-    {
-      "id": "baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
-      "company": "Western Magnetics",
-      "title": "Software Engineer Intern - (Jan 2027)",
-      "locations": [
-        "South San Francisco, CA",
-        "South San Francisco"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882",
-      "url": "https://trueinterview.io/jobs/baba25ef-a7b1-4e3c-93d5-4ed1102edf60",
-      "postedAt": "2026-10-29T05:00:00.000Z",
-      "updatedAt": "2026-10-29T21:46:18.000Z"
     },
     {
       "id": "bf7cb3f6-37c2-40d1-a1c8-102404895612",

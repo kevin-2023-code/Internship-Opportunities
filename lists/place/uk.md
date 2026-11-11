@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**50 open roles.** 12 in the United States & Canada · 38 elsewhere in the world.
+**52 open roles.** 12 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,6 +113,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/176ced9b-8c1a-4045-a688-a4add65cb0bc">Virtualisation Software Engineering Internship, CoreOS</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488647749/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/436ffd7e-4ad5-4c4f-9d14-b8f4034de5cc">Machine Learning Engineering Intern, Personal Agentic Search</a></td>
+<td>Cambridge, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488637911/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Tencent</strong></td>
 <td><a href="https://trueinterview.io/jobs/2cee6e96-8dd2-492d-9ed4-6657f984dcd3">Generative AI Research Intern</a></td>

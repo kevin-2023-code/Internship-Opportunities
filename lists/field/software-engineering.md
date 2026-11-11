@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,682 open roles.** 1,353 in the United States & Canada · 329 elsewhere in the world.
+**1,688 open roles.** 1,357 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,17 +20,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>The Church of Jesus Christ of Latter-day Saints</strong></td>
+<td><a href="https://trueinterview.io/jobs/c8593757-a33e-4e51-b349-1309e41f20dd">AI Paid Intern ( full time or part time)</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488652586/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488658391/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/cafddc2e-7787-4774-93b0-7ed71d63a459">Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487859561/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Riot Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ef7aa7e-e83c-4698-a128-55faf399ea62">Data Engineering Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -461,6 +468,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/594dd19f-9db7-497e-bd79-59eeea0c7cf7">2027 Spring Software Engineer Co-op (Billerica, MA)</a></td>
+<td>Billerica, MA</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319069608">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Atlas Copco Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/89ab6b49-7410-4ed4-87a7-0351535e15e0">Applications Engineer (AI) Intern</a></td>
 <td>Houston, TX</td>
@@ -692,10 +706,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Sharp Electronics Corporation USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2dc01881-eaf1-4e53-afee-b50f06356e08">Summer IT AI Intern</a></td>
+<td>Montvale, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487175190/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec">AI Product Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488877635/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
 <td>University Park, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3272bb01-4d3b-4cee-a1c6-621553d39fef">Co-Op Security Consultant - Strategy, Risk &amp; Compliance 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451266806/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d53d6e2d-9621-47e8-b51c-de756cc5431f">Software Engineer Intern (C++)</a></td>
 <td>Kansas City, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478583937/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td><a href="https://trueinterview.io/jobs/770ee393-e5cf-4050-be89-6f498132ee44">FY27 Intern - Design Verification Engineering Internship - Canada (16 months)</a></td>
-<td>Toronto, Ontario, Canada</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486068509/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>New York Air Brake</strong></td>
-<td><a href="https://trueinterview.io/jobs/24bef4f5-42f6-46f3-b05a-f886b2815cd2">Intern, Software Engineer</a></td>
-<td>Watertown, NY</td>
-<td align="center"><a href="https://careers.knorr-bremse.com/job/Watertown-Intern%2C-Software-Engineer-NY-13601/1453971933/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Digital Industries Software</strong></td>
-<td><a href="https://trueinterview.io/jobs/48f09592-91eb-433a-bdaa-2128e632b143">Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)</a></td>
-<td>State College, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477962462/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/c64ffd6f-582d-4d59-968d-74ebf5bb0bbd">Software Engineer Intern - Summer 2027</a></td>
-<td>Highlands Ranch, CO<br/>Littleton, CO<br/>Huntsville, AL<br/>+1 more</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477529588?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tyler Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0d91a23-3d80-4d34-be64-9669097f3231">DevOps Engineer Intern, Summer 2027</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469994651/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

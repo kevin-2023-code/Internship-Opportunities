@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,682 open roles.** 1,353 in the United States & Canada · 329 elsewhere in the world.
+**1,688 open roles.** 1,357 in the United States & Canada · 331 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td><a href="https://trueinterview.io/jobs/770ee393-e5cf-4050-be89-6f498132ee44">FY27 Intern - Design Verification Engineering Internship - Canada (16 months)</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486068509/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>New York Air Brake</strong></td>
+<td><a href="https://trueinterview.io/jobs/24bef4f5-42f6-46f3-b05a-f886b2815cd2">Intern, Software Engineer</a></td>
+<td>Watertown, NY</td>
+<td align="center"><a href="https://careers.knorr-bremse.com/job/Watertown-Intern%2C-Software-Engineer-NY-13601/1453971933/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Digital Industries Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/48f09592-91eb-433a-bdaa-2128e632b143">Strategic Student Program: Software Engineering Intern (LCS, Summer 2027)</a></td>
+<td>State College, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477962462/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/c64ffd6f-582d-4d59-968d-74ebf5bb0bbd">Software Engineer Intern - Summer 2027</a></td>
+<td>Highlands Ranch, CO<br/>Littleton, CO<br/>Huntsville, AL<br/>+1 more</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477529588?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tyler Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d0d91a23-3d80-4d34-be64-9669097f3231">DevOps Engineer Intern, Summer 2027</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469994651/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Botpress</strong></td>
 <td><a href="https://trueinterview.io/jobs/c4aaa627-2ed6-4033-90e1-af1c1086d43f">Software Developer Intern - WINTER 2027</a></td>
@@ -1871,13 +1906,6 @@
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Western Magnetics</strong></td>
-<td><a href="https://trueinterview.io/jobs/baba25ef-a7b1-4e3c-93d5-4ed1102edf60">Software Engineer Intern - (Jan 2027)</a></td>
-<td>South San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Diversified Automation Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/a38c45e4-cb3b-4a65-9b97-a99346286a1d">Hardware Engineering Co-Op</a></td>
 <td>Louisville, KY</td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/fa9b488d-9dd6-43b2-b707-885e01401b07">Software Engineer, Intern - Summer 2027</a></td>
 <td>Crane, Indiana, United States</td>
 <td align="center"><a href="https://jobs.hii-tsd.com/job/Crane%2C-IN-Software-Engineer%2C-Intern-Summer-2027-30942-Indi/1445119200/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Leidos</strong></td>
-<td><a href="https://trueinterview.io/jobs/55743a10-5afe-486c-bc47-ba8b165cd78b">Software Developer Intern</a></td>
-<td>Annapolis Junction, MD</td>
-<td align="center"><a href="https://careers.leidos.com/jobs/18423056-software-developer-intern?tm_job=R-00195829&amp;tm_event=view&amp;tm_company=2502">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Northrop Grumman</strong></td>
-<td><a href="https://trueinterview.io/jobs/92f4e34e-8bba-4095-812f-17516964e7fa">2027 S/W Embedded Engineering Intern – Sykesville MD</a></td>
-<td>Sykesville, MD</td>
-<td align="center"><a href="https://jobs.northropgrumman.com/careers/job/1340075072464?code=JB-17946&amp;domain=ngc.com">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Schweitzer Engineering Laboratories</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5f97e8e-7945-43c2-9da2-1da5b7a295ae">Engineering Intern</a></td>
-<td>Charlotte, North Carolina, United States<br/>Charlotte, NC</td>
-<td align="center"><a href="https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/39733b46-c5e3-4cb8-a672-fd1579825f76">Product Engineering Summer/Fall Co-Op (June-Dec '27)</a></td>
-<td>San Jose, CA<br/>Thousand Oaks, CA<br/>Newbury Park, CA</td>
-<td align="center"><a href="https://careers.skyworksinc.com/job/Product-Engineering-SummerFall-Co-Op-%28Jun-Dec-2027%29/78691-en_US">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

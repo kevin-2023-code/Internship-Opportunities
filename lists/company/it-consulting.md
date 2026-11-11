@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**59 open roles.** 53 in the United States & Canada · 6 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**60 open roles.** 54 in the United States & Canada · 6 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6f3cc4b0-ca82-45a7-8d8b-887955033c82">Co-Op Developer - Digital Product 2027</a></td>
 <td>University Park, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451264812/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3272bb01-4d3b-4cee-a1c6-621553d39fef">Co-Op Security Consultant - Strategy, Risk &amp; Compliance 2027</a></td>
+<td>University Park, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451266806/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

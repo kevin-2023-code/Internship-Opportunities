@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**720 open roles.** 538 in the United States & Canada · 182 elsewhere in the world.
+**721 open roles.** 539 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdf828e7-303d-414c-814a-00f271a12279">Research Scientist Intern, Computational Photography &amp; Computer Vision (PhD)</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487884678/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ef7aa7e-e83c-4698-a128-55faf399ea62">Data Engineering Intern - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Akoncagua AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/c6fdb4f3-d7a0-44e5-9c39-a1268bf5b358">AI ML Engineer Intern – Winter / Spring 2027 (Master’s or PhD)</a></td>
@@ -283,13 +297,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5768672c-33d3-44cb-8d86-e0d2ce129bcf">Data Analyst Intern</a></td>
 <td>Chillicothe, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488891167/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Marketeq Digital Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/33f468d8-ef0e-4afc-bdd9-43330b4c78ec">AI Product Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488877635/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9b9c02c4-0afd-40b0-bf24-e00318374b8c">Intern - HBM Data Scientist</a></td>
 <td>Richardson, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4483889120/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/11ad65ec-9b9a-4574-ab5c-d4ab8ad2c5f2">Data Science Intern</a></td>
-<td>Long Beach, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476352121/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

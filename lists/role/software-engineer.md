@@ -237,6 +237,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Applied Materials</strong></td>
+<td><a href="https://trueinterview.io/jobs/594dd19f-9db7-497e-bd79-59eeea0c7cf7">2027 Spring Software Engineer Co-op (Billerica, MA)</a></td>
+<td>Billerica, MA</td>
+<td align="center"><a href="https://careers.appliedmaterials.com/careers/job/790319069608">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/2eb83380-af4b-45b9-91a2-15354c07b495">Internship, Software Engineer, SI ML Platform (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
@@ -1739,13 +1746,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c71db63e-a8e6-41fd-a485-ab3715942b28">Software Engineer Intern</a></td>
 <td>Richardson, TX<br/>Bend, OR</td>
 <td align="center"><a href="https://careers.skyworksinc.com/job/Software-Engineer-Intern/78751-en_US">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Western Magnetics</strong></td>
-<td><a href="https://trueinterview.io/jobs/baba25ef-a7b1-4e3c-93d5-4ed1102edf60">Software Engineer Intern - (Jan 2027)</a></td>
-<td>South San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

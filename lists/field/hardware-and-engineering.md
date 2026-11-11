@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**783 open roles.** 714 in the United States & Canada · 69 elsewhere in the world.
+**784 open roles.** 715 in the United States & Canada · 69 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Astranis Space Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/250e663d-f42c-4995-b178-799cf8d6f77c">Embedded Software Developer, Network/Payload Intern (Summer 2027)</a></td>
+<td>San Francisco Bay Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488648918/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>General Dynamics Mission Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/64b1273f-6351-4ffd-b56d-4a7ee720913a">Software Test Engineering Intern - Space and Embedded Crypto</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f50834df-ba0e-4670-9e68-c55bbb2d31b8">Internship - Civil Engineering</a></td>
 <td>Fort Lauderdale, Florida, United States<br/>Jacksonville, Florida, United States<br/>Knoxville, Tennessee, United States<br/>+4 more</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/chenmoore/jobs/5268534007">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f4f9b51-f443-452d-b035-f155bfa22e4e">Process Engineering Intern - Water Technologies</a></td>
-<td>St. Peters, Missouri, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156381562-process-engineering-intern-water-technologies">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 </tbody>

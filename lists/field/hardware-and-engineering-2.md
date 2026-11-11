@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**783 open roles.** 714 in the United States & Canada · 69 elsewhere in the world.
+**784 open roles.** 715 in the United States & Canada · 69 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f4f9b51-f443-452d-b035-f155bfa22e4e">Process Engineering Intern - Water Technologies</a></td>
+<td>St. Peters, Missouri, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000156381562-process-engineering-intern-water-technologies">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>RE/SPEC Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/9a3ce865-7ca1-41d6-ae37-98f461359de5">Student Intern (Civil or Structural Engineering)</a></td>
