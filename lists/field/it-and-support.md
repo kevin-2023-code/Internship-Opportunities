@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**74 open roles.** 59 in the United States & Canada · 15 elsewhere in the world.
+**75 open roles.** 59 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -442,6 +442,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Workato</strong></td>
+<td><a href="https://trueinterview.io/jobs/43f42d9c-21fc-4ca5-8cae-fa9302519cfe">Intern, Automation Engineer</a></td>
+<td>Hyderabad, India</td>
+<td align="center"><a href="https://www.workato.com/careers?gh_jid=8924723002">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/b9f1e9f6-1211-469b-b789-4f5a3672c3c4">SAP iXp Intern - Technical Support</a></td>

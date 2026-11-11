@@ -41,7 +41,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Renesas</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0667480-612d-4e5b-8f62-552e53020630">Applications Engineering Intern</a></td>
-<td>Morrisville, North Carolina, United States</td>
+<td>Morrisville, North Carolina, United States<br/>Morrisville, NC</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701-applications-engineering-intern">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>

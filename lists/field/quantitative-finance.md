@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**95 open roles.** 64 in the United States & Canada · 31 elsewhere in the world.
+**96 open roles.** 65 in the United States & Canada · 31 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Constellation</strong></td>
+<td><a href="https://trueinterview.io/jobs/8982e819-102f-4255-9742-7a2de85af8f3">2027 Summer Quantitative Analytics &amp; Data Science Intern (Baltimore, MD)</a></td>
+<td>Baltimore, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471553764/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Susquehanna International Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/fc2031a7-400b-4b75-b5d6-44d52eaf6be9">Machine Learning Research Internship - PhD: 2027</a></td>

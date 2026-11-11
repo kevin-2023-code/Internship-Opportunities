@@ -23,7 +23,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>GlobalFoundries</strong></td>
 <td><a href="https://trueinterview.io/jobs/1741ab82-1651-43aa-af33-ef7a5c1c0b58">AI Processor Hardware/Software Integration Engineer Intern (Summer 2027)</a></td>
 <td>Richardson, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489003962/">Apply</a></td>
+<td align="center"><a href="https://careers.gf.com/careers/job/563980770505774">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Renesas</strong></td>
 <td><a href="https://trueinterview.io/jobs/e0667480-612d-4e5b-8f62-552e53020630">Applications Engineering Intern</a></td>
-<td>Morrisville, North Carolina, United States</td>
+<td>Morrisville, North Carolina, United States<br/>Morrisville, NC</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701-applications-engineering-intern">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
@@ -113,7 +113,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Regent</strong></td>
 <td><a href="https://trueinterview.io/jobs/0cce0877-dabc-4671-92e5-d674f1c4a46a">Embedded Software Engineering Intern (Summer)</a></td>
-<td>North Kingstown, Rhode Island, USA</td>
+<td>North Kingstown, Rhode Island, USA<br/>North Kingstown, RI</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
