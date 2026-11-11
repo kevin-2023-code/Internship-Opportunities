@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**105 open roles.** 89 in the United States & Canada · 16 elsewhere in the world.
+**108 open roles.** 92 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,6 +32,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Daimler Truck</strong></td>
+<td><a href="https://trueinterview.io/jobs/1737ce30-4c2a-45bf-8f67-99af28a99b60">Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst</a></td>
+<td>Detroit, MI US</td>
+<td align="center"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Global Payments Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec24026d-89e6-4f1a-8d1b-d81f01a9eecb">CyberSecurity Intern</a></td>
 <td>Columbus, GA</td>
@@ -50,6 +57,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f05a928d-d5d6-4a51-be31-8b833d5a44c9">Information Security Analyst Co-op (Winter 2027)</a></td>
 <td>Waterloo / Ottawa / Ontario</td>
 <td align="center"><a href="https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Green Bay Packaging</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ea172a7-4463-4eb7-9f48-629a840b29be">Cybersecurity Intern</a></td>
+<td>Green Bay, WI, 54303</td>
+<td align="center"><a href="https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lumen Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfb0ef0a-3069-4ef6-ac6e-321b77181066">Cybersecurity, Risk &amp; Digital Trust - Summer 2027 Internship Pathway</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=CTLPRD&amp;rcm_site_locale=en_US&amp;career_job_req_id=344133">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,710 open roles.** 1,369 in the United States & Canada · 341 elsewhere in the world.
+**1,713 open roles.** 1,374 in the United States & Canada · 339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CACI</strong></td>
+<td><a href="https://trueinterview.io/jobs/b17838bd-87e3-4ae2-a4a9-ca6ff3748496">Software Engineering Co-op/Intern - Summer 2027</a></td>
+<td>Rochester, New York, United States</td>
+<td align="center"><a href="https://searchcareers.caci.com/careers/job/1443154261084-software-engineering-co-op-intern-summer-2027-rochester-ny-us">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Northrop Grumman</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae30db5e-2a5c-4795-9dad-a613aa88b931">2027 Cybersecurity Software Engineering Intern - Roy UT</a></td>
+<td>Clearfield, Utah, United States</td>
+<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/07cfb136-42bd-4edd-b4a9-775c31211786">2027 Spring Co-op Software Engineer Intern – McClellan CA</a></td>
+<td>McClellan Place, California, United States<br/>McClellan Park, California, United States</td>
+<td align="center"><a href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plusgrade</strong></td>
+<td><a href="https://trueinterview.io/jobs/fdb447b1-720e-47b7-85d2-4c7a795fe3e2">UI/UX Design and Frontend Engineer Intern</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/UI-UX-Design-and-Frontend-Engineer-Intern_JR100231">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Trimble Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a6514f1-4dc4-4692-82de-fba586d5625e">AI Developer Intern</a></td>
+<td>Westminster, CO<br/>Dayton, OH</td>
+<td align="center"><a href="https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Intuitive Surgical</strong></td>
+<td><a href="https://trueinterview.io/jobs/620d47ef-62ea-4c37-9dd9-8c961033a9d9">Product Development Engineering Intern</a></td>
+<td>Durham, North Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000159519489-product-development-engineering-intern">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Starkey Hearing</strong></td>
 <td><a href="https://trueinterview.io/jobs/643a3f74-724b-47f0-b078-f26ce5555425">Software Engineering Internship</a></td>
@@ -2771,48 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/5724f1d5-9a1a-4011-8bfe-1bf874d50276">Engineering Co-Op</a></td>
 <td>Arden Hills, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465943624/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pentair</strong></td>
-<td><a href="https://trueinterview.io/jobs/62d2a8d1-2efc-46d1-8637-5866c995fbf1">Engineering Leadership Development Internship Program – Summer 2027</a></td>
-<td>Golden Valley, MN<br/>Sanford, NC<br/>New Brighton, MN<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448194872/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Collins Aerospace</strong></td>
-<td><a href="https://trueinterview.io/jobs/9afbf0c5-e3d4-4318-98eb-4478fe931768">Systems Engineering Co-op (Summer/Fall 2027) - Onsite</a></td>
-<td>Cedar Rapids, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467158872/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/37d10c5a-633a-414d-90d9-110aec1ecf89">Systems Engineer Co-Op (Summer/Fall 2027) - Onsite</a></td>
-<td>Cedar Rapids, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476990142/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Moog Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/1104c92a-8d4d-4b55-b065-b42463868deb">Intern, Product Engineering</a></td>
-<td>Torrance, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468297114/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TTM Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/85e605ac-3426-4fb2-b9d0-dcfe4e9fb4a5">Summer 2027 Engineering Intern</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476790727/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Epic Games</strong></td>
-<td><a href="https://trueinterview.io/jobs/98a8d0db-9797-4f9b-bb0e-78b5d6846845">SDET Intern</a></td>
-<td>Cary, NC<br/>Cary, North Carolina, United States</td>
-<td align="center"><a href="https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

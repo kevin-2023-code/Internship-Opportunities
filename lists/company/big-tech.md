@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**592 open roles.** 461 in the United States & Canada · 131 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**593 open roles.** 462 in the United States & Canada · 131 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -52,6 +52,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e3b3725d-3a6d-4f05-a48c-ec17df31568e">SAP iXp Intern - Full-Stack Software Engineer</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487844607/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f714ef74-e246-4e30-820f-59803a7799ba">Summer 2027 PhD AI Machine Learning Engineer Intern</a></td>
+<td>San Jose, California</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91663">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8791d541-8066-4f69-8524-5de9a2953931">Intern - TSE KEG Engineer</a></td>
 <td>Boise, ID, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44544643">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>QUALCOMM</strong></td>
-<td><a href="https://trueinterview.io/jobs/87ad6c2d-3bb1-4b96-b6a0-d02f4939826c">Automotive Engineering Internship – Summer 2027</a></td>
-<td>San Diego, CA, US</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720740553">Apply</a></td>
 <td align="center">18 Sep 2026</td>
 </tr>
 </tbody>

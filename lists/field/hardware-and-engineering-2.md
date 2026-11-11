@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**787 open roles.** 716 in the United States & Canada · 71 elsewhere in the world.
+**788 open roles.** 717 in the United States & Canada · 71 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Four Hands</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffc814b6-a1bb-49c1-9875-a39efcba7e62">Quality Engineer Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/fourhands/jobs/4458313009">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Chenmoore</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3b6bbfc-c552-438f-8306-11e8af30e293">Internship - Electrical Engineering</a></td>

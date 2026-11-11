@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**172 open roles.** 136 in the United States & Canada · 36 elsewhere in the world.
+**173 open roles.** 137 in the United States & Canada · 36 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -69,8 +69,15 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Seagate Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e872764-8276-4233-ae7f-bdd5f505d880">Generative AI &amp; Machine Learning Engineering Intern (Summer 2027)</a></td>
-<td>Bloomington, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487854368/">Apply</a></td>
+<td>Bloomington, MN<br/>Normandale, United States</td>
+<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=15532">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f714ef74-e246-4e30-820f-59803a7799ba">Summer 2027 PhD AI Machine Learning Engineer Intern</a></td>
+<td>San Jose, California</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91663">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

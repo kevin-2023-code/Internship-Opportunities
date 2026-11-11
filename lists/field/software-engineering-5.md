@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,710 open roles.** 1,369 in the United States & Canada · 341 elsewhere in the world.
+**1,713 open roles.** 1,374 in the United States & Canada · 339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ING</strong></td>
+<td><a href="https://trueinterview.io/jobs/801fafa4-b206-4b06-9c6d-0eb0c0f639f0">INTERNSHIP SOFTWARE ENGINEER - ING MORTGAGES</a></td>
+<td>Amsterdam, Netherlands</td>
+<td align="center"><a href="https://careers.ing.com/en/job/amsterdam/internship-software-engineer-ing-mortgages/3121/46421136448">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Estée Lauder Companies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2a77997-db4d-4cfc-86fe-bd4b88ba7694">Analytical Development Lab Engineer Assistant Intern</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://careers.elcompanies.com/careers/job/1168276325169?domain=elcompanies.com">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Opusclip</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f83d76e-6161-41fd-865e-6f6ba0228ac9">Customer Experience Test Automation Intern</a></td>
+<td>Burnaby</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/opusclip/6906926b-eb37-4b68-ad17-5383fbda7818/application">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Teradata</strong></td>
+<td><a href="https://trueinterview.io/jobs/c12bece7-cc10-4c5e-94a5-0cc047c5c987">Product Support Engineering Intern</a></td>
+<td>India</td>
+<td align="center"><a href="https://careers.teradata.com/jobs/220825/product-support-engineering-intern?sid=602">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>PLAYTECH</strong></td>
 <td><a href="https://trueinterview.io/jobs/acc9913e-319b-48d6-98e5-e93492089329">QA Engineer (Intern)</a></td>
@@ -750,13 +778,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/5ed79b94-a764-4021-94cd-02683c2436e3">Software Engineer, Intern</a></td>
 <td>Granada, Spain</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rti/jobs/8220427">Apply</a></td>
-<td align="center">22 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Telli</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d91487d-47a0-47ec-a884-d6297dbd1e69">Internship - Success Architect</a></td>
-<td>Berlin</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/telli/84542cca-080c-4caf-a335-c3bd2c3b5b2c/application">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 <tr>

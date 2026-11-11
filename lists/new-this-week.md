@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**990 open roles.** 809 in the United States & Canada · 181 elsewhere in the world. Everything the employers put up this week.
+**992 open roles.** 814 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -363,6 +363,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Daimler Truck</strong></td>
+<td><a href="https://trueinterview.io/jobs/1737ce30-4c2a-45bf-8f67-99af28a99b60">Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst</a></td>
+<td>Detroit, MI US</td>
+<td align="center"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hunt Consolidated, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7a273cc-8ab7-4e8a-b9ef-44406556c2b8">Application Developer Intern - Summer 2027</a></td>
 <td>Dallas, TX</td>
@@ -400,8 +407,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Seagate Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e872764-8276-4233-ae7f-bdd5f505d880">Generative AI &amp; Machine Learning Engineering Intern (Summer 2027)</a></td>
-<td>Bloomington, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487854368/">Apply</a></td>
+<td>Bloomington, MN<br/>Normandale, United States</td>
+<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=15532">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -426,6 +433,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e">AI Hardware Optimization Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Global Payments Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/ec24026d-89e6-4f1a-8d1b-d81f01a9eecb">CyberSecurity Intern</a></td>
 <td>Columbus, GA</td>
@@ -444,6 +465,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3b4d44c7-01f2-46b8-bda2-ff877426215a">Cybersecurity Intern (Summer 2027)</a></td>
 <td>State College, Pennsylvania, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/8200356003">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PACCAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/af0c597f-8f0d-45be-a4d3-064616595d6a">2027 Summer Internship: Engineering Systems</a></td>
+<td>United States</td>
+<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=paccarinc&amp;rcm_site_locale=en_US&amp;career_job_req_id=73866">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -489,10 +517,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f714ef74-e246-4e30-820f-59803a7799ba">Summer 2027 PhD AI Machine Learning Engineer Intern</a></td>
+<td>San Jose, California</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91663">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sephora</strong></td>
+<td><a href="https://trueinterview.io/jobs/46aa650f-3eb3-46e0-a1f8-a7a7c2c2bd10">Intern, Technology, DevOps &amp; Site Reliability Engineering (SRE)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://sephora.eightfold.ai/careers/job/790318857422">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1acb89d-d0bb-438a-80ed-c8b49f798c12">FY27 Intern - Firmware Engineering Internship - Canada (16 months)</a></td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488380688/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shape Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/59be59a4-19d7-4b06-829f-640c180ad48b">Computer Science Engineering Intern- Summer 2027</a></td>
+<td>Grand Haven, MI</td>
+<td align="center"><a href="https://myjobs.adp.com/shapecareers/cx/job-details?reqId=5001237302500">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -671,6 +720,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Green Bay Packaging</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ea172a7-4463-4eb7-9f48-629a840b29be">Cybersecurity Intern</a></td>
+<td>Green Bay, WI, 54303</td>
+<td align="center"><a href="https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>National Information Solutions Cooperative (nisc</strong></td>
 <td><a href="https://trueinterview.io/jobs/5c770ea0-56e8-4815-bf2c-14393e3a3db6">Intern - Test Automation</a></td>
 <td>Lake Saint Louis, MO</td>
@@ -787,6 +843,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336">SAP iXp Intern - AI Developer</a></td>
 <td>Palo Alto, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160905751-sap-ixp-intern-ai-developer">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lumen Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfb0ef0a-3069-4ef6-ac6e-321b77181066">Cybersecurity, Risk &amp; Digital Trust - Summer 2027 Internship Pathway</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=CTLPRD&amp;rcm_site_locale=en_US&amp;career_job_req_id=344133">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2754,69 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b7ae094b-72e5-4c3b-a808-620f9fd668ac">C4ISR - Software Engineering Intern, Summer 2027 (Onsite)</a></td>
 <td>Wayne, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477314235/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shure</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8e4ecbb-23f9-43e4-b93e-b3bd75ebacf2">Artificial Intelligence (AI) Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461390753/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d69afd8c-a795-4c6d-9b3b-a35ece296e27">Cloud DevOps Engineer Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461389722/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>National Laboratory of the Rockies</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca8c5a05-0101-4559-b734-763ad3edeb93">Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity</a></td>
-<td>Golden, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479151937/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shure</strong></td>
-<td><a href="https://trueinterview.io/jobs/a01ca690-2b7a-414b-84ab-2f09d575ad3e">Automated Test Software Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461378863/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fe88be16-e8e7-46d5-a91c-7cd132889751">Mobile Applications (iOS) Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461388759/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenet Healthcare</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a65033c-3a7c-4acb-94a8-a99f79251ac4">Data Engineer Intern – Summer 2027 – Onsite in Dallas, TX</a></td>
-<td>Dallas, Texas, United States<br/>Dallas, TX</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2603028291">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shure</strong></td>
-<td><a href="https://trueinterview.io/jobs/211e0945-e47b-4703-84c5-1eac0957e329">Software Engineering Intern</a></td>
-<td>Niles, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461391646/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>InfiniteQuant</strong></td>
-<td><a href="https://trueinterview.io/jobs/f625647f-04a5-4aa7-972f-9e7f91d23695">Quantitative Researcher - 2027 Summer Internship</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488163610/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brave</strong></td>
-<td><a href="https://trueinterview.io/jobs/b300fe4a-c784-4adc-8406-683173c67c18">Software Engineering Intern - Waterloo University - Winter Session</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/brave/jobs/8360001">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

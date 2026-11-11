@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**16 open roles.** 13 in the United States & Canada · 3 elsewhere in the world.
+**17 open roles.** 14 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,6 +23,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487859561/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sephora</strong></td>
+<td><a href="https://trueinterview.io/jobs/46aa650f-3eb3-46e0-a1f8-a7a7c2c2bd10">Intern, Technology, DevOps &amp; Site Reliability Engineering (SRE)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://sephora.eightfold.ai/careers/job/790318857422">Apply</a></td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>T-Mobile</strong></td>

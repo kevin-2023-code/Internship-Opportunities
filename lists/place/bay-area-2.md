@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**519 open roles.**
+**523 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,35 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Wing</strong></td>
+<td><a href="https://trueinterview.io/jobs/12eac050-b861-486c-a112-91644190167d">Data Scientist Intern, Summer 2027</a></td>
+<td>Palo Alto, California</td>
+<td align="center"><a href="https://wing.com/careers/8872482002?gh_jid=8872482002">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Genbio Ai</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3b247fd-e23b-418b-bd75-db88b43d9d1b">Research Scientist Intern, AI Molecular Design (Winter/Spring)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cadence Design Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/b2aa687d-940b-408d-8368-74e20443d9b7">CST Application Engineer Intern - Physical Systems</a></td>
+<td>San Jose, CA<br/>SAN JOSE, United States of America</td>
+<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Physical-Systems_R56702-1">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/32528e80-1593-4208-944f-29d609d29d97">Thermal Engineering Intern</a></td>
+<td>Sunnyvale, California, United States of America</td>
+<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190">Apply</a></td>
+<td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5798fd44-8b76-42e8-9ab2-467efcbccac2">Wireless Networking Intern</a></td>
 <td>San Jose, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969">Apply</a></td>

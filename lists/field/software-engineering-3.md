@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,710 open roles.** 1,369 in the United States & Canada · 341 elsewhere in the world.
+**1,713 open roles.** 1,374 in the United States & Canada · 339 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Pentair</strong></td>
+<td><a href="https://trueinterview.io/jobs/62d2a8d1-2efc-46d1-8637-5866c995fbf1">Engineering Leadership Development Internship Program – Summer 2027</a></td>
+<td>Golden Valley, MN<br/>Sanford, NC<br/>New Brighton, MN<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448194872/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/9afbf0c5-e3d4-4318-98eb-4478fe931768">Systems Engineering Co-op (Summer/Fall 2027) - Onsite</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467158872/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/37d10c5a-633a-414d-90d9-110aec1ecf89">Systems Engineer Co-Op (Summer/Fall 2027) - Onsite</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476990142/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Moog Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/1104c92a-8d4d-4b55-b065-b42463868deb">Intern, Product Engineering</a></td>
+<td>Torrance, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468297114/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>TTM Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/85e605ac-3426-4fb2-b9d0-dcfe4e9fb4a5">Summer 2027 Engineering Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476790727/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Epic Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/98a8d0db-9797-4f9b-bb0e-78b5d6846845">SDET Intern</a></td>
+<td>Cary, NC<br/>Cary, North Carolina, United States</td>
+<td align="center"><a href="https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Trane Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/580022d2-99c8-4a21-ac1c-609161add0d1">Software Development Engineering Intern</a></td>
@@ -188,13 +230,6 @@
 <td><a href="https://trueinterview.io/jobs/bce4da59-0a3d-4dad-9402-c4a157010a03">Concept Center Engineering Intern</a></td>
 <td>Ogden, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484765343/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Boston Scientific</strong></td>
-<td><a href="https://trueinterview.io/jobs/3d7843b0-4ec7-40f4-a6c2-8a75ef3e495e">R&amp;D Software Design Intern</a></td>
-<td>Arden Hills, MN<br/>Arden Hills, Minnesota, United States</td>
-<td align="center"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813862687-r-d-software-design-intern-arden-hills-us-mn-united-states-n-a">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
@@ -2779,41 +2814,6 @@
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027">Apply</a></td>
 <td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/452133c3-8148-46bd-aab4-998e7f4750c0">Systems Development Engineer Intern, (US) 2027</a></td>
-<td>Bellevue, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/5798fd44-8b76-42e8-9ab2-467efcbccac2">Wireless Networking Intern</a></td>
-<td>San Jose, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Happyrobot Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/34c8a538-ff54-49cd-b43e-0c7625dd0c7f">Product Operations Engineer Intern</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768/application">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/2b4a7b1b-41ef-47f5-b081-41210715f7d4">Detection &amp; Response Security Engineer, Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1677981003713152/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8fff58fd-a4dc-40ff-98c3-64f849898a59">Security Engineer Posture Management, Intern (Summer 2027)</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1359570553913180/">Apply</a></td>
-<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-11 14:04 UTC_
+_Last updated: 2026-11-11 15:04 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 231 of the 1,401 employers on this list (32% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 231 of the 1,407 employers on this list (32% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,9 +32,9 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,369 | 341 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 716 | 71 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 543 | 199 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,374 | 339 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 717 | 71 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 544 | 199 |
 | [📱 Product & Design](field/product-and-design.md) | 162 | 63 |
 | [📈 Quantitative Finance](field/quantitative-finance.md) | 64 | 31 |
 | [🧰 IT & Support](field/it-and-support.md) | 59 | 15 |
@@ -45,12 +45,12 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,170 of the 3,633** internships on this list (32%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,171 of the 3,638** internships on this list (32%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 461 | 131 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
-| [🔬 Semiconductors & chips](company/semiconductors.md) | 203 | 68 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏛️ Big Tech](company/big-tech.md) | 462 | 131 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🔬 Semiconductors & chips](company/semiconductors.md) | 204 | 68 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 172 | 42 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 106 | 19 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [📱 Consumer internet & media](company/consumer-internet.md) | 94 | 17 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -79,20 +79,20 @@ _Between them these 23 filters hold **1,170 of the 3,633** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **1,907 of the 3,633** internships on this list (52%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **1,912 of the 3,638** internships on this list (53%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 399 | 94 |
-| [AI Engineer](role/ai-engineer.md) | 140 | 72 |
-| [Machine Learning Engineer](role/machine-learning-engineer.md) | 136 | 36 |
-| [Hardware Engineer](role/hardware-engineer.md) | 115 | 10 |
+| [Software Engineer](role/software-engineer.md) | 398 | 94 |
+| [AI Engineer](role/ai-engineer.md) | 141 | 72 |
+| [Machine Learning Engineer](role/machine-learning-engineer.md) | 137 | 36 |
+| [Hardware Engineer](role/hardware-engineer.md) | 116 | 10 |
 | [Data Scientist](role/data-scientist.md) | 89 | 21 |
 | [Product Manager](role/product-manager.md) | 70 | 38 |
-| [Security Engineer](role/security-engineer.md) | 89 | 16 |
-| [Data Analyst](role/data-analyst.md) | 63 | 40 |
+| [Security Engineer](role/security-engineer.md) | 92 | 16 |
+| [Data Analyst](role/data-analyst.md) | 62 | 40 |
 | [Research Scientist](role/research-scientist.md) | 72 | 14 |
 | [Data Engineer](role/data-engineer.md) | 62 | 14 |
 | [Embedded Engineer](role/embedded-engineer.md) | 53 | 12 |
@@ -102,7 +102,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Full-Stack Engineer](role/full-stack-engineer.md) | 25 | 9 |
 | [Backend Engineer](role/backend-engineer.md) | 14 | 6 |
 | [Mobile Engineer](role/mobile-engineer.md) | 15 | 4 |
-| [Site Reliability Engineer](role/site-reliability-engineer.md) | 13 | 3 |
+| [Site Reliability Engineer](role/site-reliability-engineer.md) | 14 | 3 |
 | [DevOps Engineer](role/devops-engineer.md) | 9 | 3 |
 | [Frontend Engineer](role/frontend-engineer.md) | 11 | 1 |
 | [Platform Engineer](role/platform-engineer.md) | 8 | 2 |
@@ -114,11 +114,11 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 35 filters hold **2,083 of the 3,633** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 35 filters hold **2,086 of the 3,638** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 519 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 523 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 170 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎓 Boston & Cambridge](place/boston.md) | 153 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
 | [🗽 New York City](place/new-york.md) | 145 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
@@ -140,7 +140,7 @@ _Between them these 35 filters hold **2,083 of the 3,633** internships on this l
 | [🏖️ San Diego](place/san-diego.md) | 38 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Diego, La Jolla, Carlsbad, Poway, Oceanside. |
 | [🇫🇷 Paris & France](place/france.md) | 1 | 35 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🇨🇭 Zürich & Switzerland](place/switzerland.md) | 2 | 31 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
-| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 0 | 30 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
+| [🇩🇪 Berlin, Munich & Germany](place/germany.md) | 0 | 29 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [🏰 Warsaw, Kraków & Central Europe](place/poland-cee.md) | 1 | 28 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
 | [⛰️ Vancouver & British Columbia](place/vancouver.md) | 28 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in BC: Vancouver, Burnaby, Richmond, Surrey, Victoria. |
 | [🇳🇱 Amsterdam & the Benelux](place/benelux.md) | 2 | 25 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. |
@@ -160,11 +160,11 @@ _Between them these 35 filters hold **2,083 of the 3,633** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,027 of the 3,633** internships on this list (28%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,029 of the 3,638** internships on this list (28%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 809 | 181 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 814 | 178 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 32 | 12 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

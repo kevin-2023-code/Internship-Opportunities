@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**519 open roles.**
+**523 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -153,10 +153,38 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e">AI Hardware Optimization Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc201334-3794-47f8-a9eb-fe8a6af81d34">SAP iXp Intern - Full-Stack Software Engineer</a></td>
 <td>Palo Alto, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160967354-sap-ixp-intern-full-stack-software-engineer">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f714ef74-e246-4e30-820f-59803a7799ba">Summer 2027 PhD AI Machine Learning Engineer Intern</a></td>
+<td>San Jose, California</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91663">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sephora</strong></td>
+<td><a href="https://trueinterview.io/jobs/46aa650f-3eb3-46e0-a1f8-a7a7c2c2bd10">Intern, Technology, DevOps &amp; Site Reliability Engineering (SRE)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://sephora.eightfold.ai/careers/job/790318857422">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2790,34 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893398025428">Apply</a></td>
 <td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/12eac050-b861-486c-a112-91644190167d">Data Scientist Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872482002?gh_jid=8872482002">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Genbio Ai</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3b247fd-e23b-418b-bd75-db88b43d9d1b">Research Scientist Intern, AI Molecular Design (Winter/Spring)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cadence Design Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/b2aa687d-940b-408d-8368-74e20443d9b7">CST Application Engineer Intern - Physical Systems</a></td>
-<td>San Jose, CA<br/>SAN JOSE, United States of America</td>
-<td align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/CST-Application-Engineer-Intern---Physical-Systems_R56702-1">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/32528e80-1593-4208-944f-29d609d29d97">Thermal Engineering Intern</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190">Apply</a></td>
-<td align="center">8 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T14:04:31.528Z",
-  "count": 3633,
+  "listingsChangedAt": "2026-11-11T15:04:22.000Z",
+  "count": 3638,
   "listings": [
     {
       "id": "77043e4b-58fa-47d2-a30d-9114b96c0d4f",
@@ -2200,6 +2200,31 @@
       "updatedAt": "2026-11-11T00:02:00.000Z"
     },
     {
+      "id": "1737ce30-4c2a-45bf-8f67-99af28a99b60",
+      "company": "Daimler Truck",
+      "title": "Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst",
+      "locations": [
+        "Detroit, MI US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656",
+      "url": "https://trueinterview.io/jobs/1737ce30-4c2a-45bf-8f67-99af28a99b60",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
       "id": "e7a273cc-8ab7-4e8a-b9ef-44406556c2b8",
       "company": "Hunt Consolidated, Inc.",
       "title": "Application Developer Intern - Summer 2027",
@@ -2333,7 +2358,8 @@
       "company": "Seagate Technology",
       "title": "Generative AI & Machine Learning Engineering Intern (Summer 2027)",
       "locations": [
-        "Bloomington, MN"
+        "Bloomington, MN",
+        "Normandale, United States"
       ],
       "cities": [],
       "countries": [
@@ -2348,7 +2374,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487854368/",
+      "applyUrl": "https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&rcm_site_locale=en_US&career_job_req_id=15532",
       "url": "https://trueinterview.io/jobs/1e872764-8276-4233-ae7f-bdd5f505d880",
       "postedAt": "2026-11-10T23:42:00.000Z",
       "updatedAt": "2026-11-10T23:42:00.000Z"
@@ -2427,6 +2453,56 @@
       "url": "https://trueinterview.io/jobs/278b6ca8-58e2-4f69-96af-4bb3d06ac17f",
       "postedAt": "2026-11-10T23:23:00.000Z",
       "updatedAt": "2026-11-10T23:23:00.000Z"
+    },
+    {
+      "id": "e501c0cd-ae2a-4a31-a284-2d9c6f82772e",
+      "company": "NeuroSpark AI",
+      "title": "AI Hardware Optimization Engineer Intern",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
+      "url": "https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e",
+      "postedAt": "2026-11-10T23:19:29.000Z",
+      "updatedAt": "2026-11-10T23:19:29.000Z"
+    },
+    {
+      "id": "9284c576-d6f0-4ccd-b76f-8c70597d1b00",
+      "company": "NeuroSpark AI",
+      "title": "AI Inference & Training Framework Engineer Intern",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
+      "url": "https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00",
+      "postedAt": "2026-11-10T23:17:01.000Z",
+      "updatedAt": "2026-11-10T23:17:01.000Z"
     },
     {
       "id": "ec24026d-89e6-4f1a-8d1b-d81f01a9eecb",
@@ -2527,6 +2603,31 @@
       "url": "https://trueinterview.io/jobs/b9f1e9f6-1211-469b-b789-4f5a3672c3c4",
       "postedAt": "2026-11-10T21:43:21.000Z",
       "updatedAt": "2026-11-10T21:43:21.000Z"
+    },
+    {
+      "id": "af0c597f-8f0d-45be-a4d3-064616595d6a",
+      "company": "PACCAR",
+      "title": "2027 Summer Internship: Engineering Systems",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career5.successfactors.eu/career?career_ns=job_listing&company=paccarinc&rcm_site_locale=en_US&career_job_req_id=73866",
+      "url": "https://trueinterview.io/jobs/af0c597f-8f0d-45be-a4d3-064616595d6a",
+      "postedAt": "2026-11-10T21:38:23.000Z",
+      "updatedAt": "2026-11-10T21:38:23.000Z"
     },
     {
       "id": "dfc74e11-5df9-4ce8-ba71-5aceb1d28a96",
@@ -2735,6 +2836,61 @@
       "updatedAt": "2026-11-10T20:51:24.000Z"
     },
     {
+      "id": "f714ef74-e246-4e30-820f-59803a7799ba",
+      "company": "AMD",
+      "title": "Summer 2027 PhD AI Machine Learning Engineer Intern",
+      "locations": [
+        "San Jose, California"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://careers.amd.com/careers-home/jobs/91663",
+      "url": "https://trueinterview.io/jobs/f714ef74-e246-4e30-820f-59803a7799ba",
+      "postedAt": "2026-11-10T20:51:00.000Z",
+      "updatedAt": "2026-11-10T20:51:00.000Z"
+    },
+    {
+      "id": "46aa650f-3eb3-46e0-a1f8-a7a7c2c2bd10",
+      "company": "Sephora",
+      "title": "Intern, Technology, DevOps & Site Reliability Engineering (SRE)",
+      "locations": [
+        "San Francisco,CA,United States",
+        "United States"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://sephora.eightfold.ai/careers/job/790318857422",
+      "url": "https://trueinterview.io/jobs/46aa650f-3eb3-46e0-a1f8-a7a7c2c2bd10",
+      "postedAt": "2026-11-10T20:40:31.000Z",
+      "updatedAt": "2026-11-10T20:40:31.000Z"
+    },
+    {
       "id": "2cee6e96-8dd2-492d-9ed4-6657f984dcd3",
       "company": "Tencent",
       "title": "Generative AI Research Intern",
@@ -2787,6 +2943,31 @@
       "url": "https://trueinterview.io/jobs/b1acb89d-d0bb-438a-80ed-c8b49f798c12",
       "postedAt": "2026-11-10T20:18:00.000Z",
       "updatedAt": "2026-11-10T20:18:00.000Z"
+    },
+    {
+      "id": "59be59a4-19d7-4b06-829f-640c180ad48b",
+      "company": "Shape Corp.",
+      "title": "Computer Science Engineering Intern- Summer 2027",
+      "locations": [
+        "Grand Haven, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://myjobs.adp.com/shapecareers/cx/job-details?reqId=5001237302500",
+      "url": "https://trueinterview.io/jobs/59be59a4-19d7-4b06-829f-640c180ad48b",
+      "postedAt": "2026-11-10T20:12:17.000Z",
+      "updatedAt": "2026-11-10T20:12:17.000Z"
     },
     {
       "id": "af73112c-793a-4e7f-a280-6af256a84384",
@@ -3438,6 +3619,31 @@
       "updatedAt": "2026-11-10T18:06:10.000Z"
     },
     {
+      "id": "0ea172a7-4463-4eb7-9f48-629a840b29be",
+      "company": "Green Bay Packaging",
+      "title": "Cybersecurity Intern",
+      "locations": [
+        "Green Bay, WI, 54303"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9",
+      "url": "https://trueinterview.io/jobs/0ea172a7-4463-4eb7-9f48-629a840b29be",
+      "postedAt": "2026-11-10T18:00:30.000Z",
+      "updatedAt": "2026-11-10T18:00:30.000Z"
+    },
+    {
       "id": "5c770ea0-56e8-4815-bf2c-14393e3a3db6",
       "company": "National Information Solutions Cooperative (nisc",
       "title": "Intern - Test Automation",
@@ -3897,6 +4103,31 @@
       "url": "https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336",
       "postedAt": "2026-11-10T15:34:25.000Z",
       "updatedAt": "2026-11-10T15:34:25.000Z"
+    },
+    {
+      "id": "cfb0ef0a-3069-4ef6-ac6e-321b77181066",
+      "company": "Lumen Technologies",
+      "title": "Cybersecurity, Risk & Digital Trust - Summer 2027 Internship Pathway",
+      "locations": [
+        "Remote, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=CTLPRD&rcm_site_locale=en_US&career_job_req_id=344133",
+      "url": "https://trueinterview.io/jobs/cfb0ef0a-3069-4ef6-ac6e-321b77181066",
+      "postedAt": "2026-11-10T15:34:16.000Z",
+      "updatedAt": "2026-11-10T15:34:16.000Z"
     },
     {
       "id": "0e87ff90-16f4-4308-ba9f-da486464df57",
@@ -11801,29 +12032,6 @@
       "updatedAt": "2026-11-06T22:26:00.000Z"
     },
     {
-      "id": "3cf3389b-3876-481b-a7e2-07127a4850ad",
-      "company": "MIT Lincoln Laboratory",
-      "title": "Summer Research Program Intern 2027, Fabrication Engineering - Digital Architecture (Group 07-72)",
-      "locations": [
-        "MIT Lincoln Laboratory, Lexington MA"
-      ],
-      "cities": [],
-      "countries": [],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=C0012546317P&rcm_site_locale=en_US&career_job_req_id=43541",
-      "url": "https://trueinterview.io/jobs/3cf3389b-3876-481b-a7e2-07127a4850ad",
-      "postedAt": "2026-11-06T21:43:37.000Z",
-      "updatedAt": "2026-11-06T21:43:37.000Z"
-    },
-    {
       "id": "d4b0fb70-33a5-4abe-93a0-59395f180621",
       "company": "FIRST RF Corporation",
       "title": "Intern – Embedded Engineer",
@@ -15373,32 +15581,6 @@
       "url": "https://trueinterview.io/jobs/15d3c16e-2891-4a41-9d69-457d3075d212",
       "postedAt": "2026-11-05T21:50:47.000Z",
       "updatedAt": "2026-11-05T21:50:47.000Z"
-    },
-    {
-      "id": "0da1771d-e6c6-4fe1-903a-97c4ae52fd47",
-      "company": "Seagate Technology",
-      "title": "Global Revenue Operations Analytics: Data Analyst Intern",
-      "locations": [
-        "Remote United States",
-        "Longmont, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&rcm_site_locale=en_US&career_job_req_id=14977",
-      "url": "https://trueinterview.io/jobs/0da1771d-e6c6-4fe1-903a-97c4ae52fd47",
-      "postedAt": "2026-11-05T21:15:27.000Z",
-      "updatedAt": "2026-11-05T21:15:27.000Z"
     },
     {
       "id": "58536b1b-e544-4c58-9502-efc5cb1901fa",
@@ -52995,32 +53177,6 @@
       "updatedAt": "2026-10-29T00:34:00.000Z"
     },
     {
-      "id": "3d7843b0-4ec7-40f4-a6c2-8a75ef3e495e",
-      "company": "Boston Scientific",
-      "title": "R&D Software Design Intern",
-      "locations": [
-        "Arden Hills, MN",
-        "Arden Hills, Minnesota, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://bostonscientific.eightfold.ai/careers/job/563602813862687-r-d-software-design-intern-arden-hills-us-mn-united-states-n-a",
-      "url": "https://trueinterview.io/jobs/3d7843b0-4ec7-40f4-a6c2-8a75ef3e495e",
-      "postedAt": "2026-10-29T00:33:00.000Z",
-      "updatedAt": "2026-10-29T00:33:00.000Z"
-    },
-    {
       "id": "16450126-9d5b-444a-b216-753e12c43de0",
       "company": "Systems Planning & Analysis",
       "title": "UI/UX Software Intern - Summer 2027",
@@ -88220,33 +88376,6 @@
       "url": "https://trueinterview.io/jobs/5ed79b94-a764-4021-94cd-02683c2436e3",
       "postedAt": "2026-09-22T10:07:06.000Z",
       "updatedAt": "2026-09-22T10:07:06.000Z"
-    },
-    {
-      "id": "8d91487d-47a0-47ec-a884-d6297dbd1e69",
-      "company": "Telli",
-      "title": "Internship - Success Architect",
-      "locations": [
-        "Berlin"
-      ],
-      "cities": [
-        "Berlin"
-      ],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/telli/84542cca-080c-4caf-a335-c3bd2c3b5b2c/application",
-      "url": "https://trueinterview.io/jobs/8d91487d-47a0-47ec-a884-d6297dbd1e69",
-      "postedAt": "2026-09-21T18:11:41.000Z",
-      "updatedAt": "2026-09-22T09:31:23.000Z"
     },
     {
       "id": "443fa779-c402-4158-b91d-0fb7735dc9ff",
