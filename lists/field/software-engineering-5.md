@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,654 open roles.** 1,329 in the United States & Canada · 325 elsewhere in the world.
+**1,667 open roles.** 1,337 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,98 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Grab</strong></td>
+<td><a href="https://trueinterview.io/jobs/6104fc29-f564-4c47-be5c-3f6dc858efd3">Intern, Software Engineer - Backend</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Grab/744000155671079-intern-software-engineer-backend">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/8817ca39-32de-479a-b752-8b1de61f37bd">2028 Field Applications Engineering Intern</a></td>
+<td>Eindhoven, Netherlands<br/>Japan<br/>Ra'anana, Israel<br/>+2 more</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25010389">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/31ba80c2-cee6-45c2-ab99-e1fb53eb74e5">Software Engineering Intern - Embedded Software</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014491">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1521622a-30f6-4069-af8f-d6b5b2bc1d08">Software Engineering Intern - Infrastructure and Test</a></td>
+<td>OSLO, Norway</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014490">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Guidepoint Security</strong></td>
+<td><a href="https://trueinterview.io/jobs/ca473069-0684-45e3-b426-ebd57524c098">Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6422698-11b6-442a-a0ca-9aff389a13d9">Intern, Product Engineering</a></td>
+<td>Lviv, Ukraine</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000155551520-intern-product-engineering">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Taktile</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8cff64d-c2d8-4f48-b524-fcac1cd29d0e">Software Engineer Internship for HPI Students</a></td>
+<td>Berlin Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Zynga</strong></td>
+<td><a href="https://trueinterview.io/jobs/c05259f8-7b49-4c6d-839b-09f0d0f867fc">Software Engineer Intern - Two Dots</a></td>
+<td>Barcelona, Spain</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Equativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/6bec8a15-bb11-4fde-9b1b-cb54c3442247">Backend Engineer Intern (6 months starting February 2027)</a></td>
+<td>Paris</td>
+<td align="center"><a href="https://jobs.lever.co/equativ/bc00695c-eb9a-4f50-bb4d-f186892fbb3d">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>parallel wireless</strong></td>
+<td><a href="https://trueinterview.io/jobs/9f9fc40b-c766-4161-acf7-222af87c515e">PHY SW Engineer - 12 Month Internship (July 2027)</a></td>
+<td>Bristol</td>
+<td align="center"><a href="https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9fdc132-a1d1-423d-855d-c8c5fd3596db">SAP iXp Intern - Solution Support Engineer - Customer Data Solutions</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000155236009-sap-ixp-intern-solution-support-engineer-customer-data-solutions">Apply</a></td>
+<td align="center">13 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Doctolib</strong></td>
+<td><a href="https://trueinterview.io/jobs/a4d6fa0b-0a83-4616-9b36-8b7ee6e28722">Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027</a></td>
+<td>Berlin</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/doctolib/dda0530c-043e-4ee5-8e82-f1e98c944af4">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3c697149-f5d6-411a-994f-fa111ae30257">Software Engineer Intern - Fullstack (x/f/m) - Amsterdam</a></td>
+<td>Amsterdam</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/doctolib/f3605428-4d4f-414c-88d1-787b55518e1c">Apply</a></td>
+<td align="center">12 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/63af327d-f42b-42a1-a8de-7a1cfe98217c">Software Engineer Intern - Fullstack (x/f/m) - Milano</a></td>
 <td>Milan</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/doctolib/19f389f4-1374-4c61-ae03-aae839f65bf4">Apply</a></td>

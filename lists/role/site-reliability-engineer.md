@@ -2,7 +2,7 @@
 
 # Site Reliability Engineer
 
-**14 open roles.** 11 in the United States & Canada · 3 elsewhere in the world.
+**15 open roles.** 12 in the United States & Canada · 3 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/d436ccc9-b3a9-4143-a25f-f187b40ca36f">Summer 2027 Site Reliability Engineering Internship</a></td>
+<td>Atlanta, GA<br/>Frisco, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489607720/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Illumio</strong></td>
 <td><a href="https://trueinterview.io/jobs/b87bf386-6202-4229-ae3b-1322cd19f995">Engineering Intern, SRE</a></td>

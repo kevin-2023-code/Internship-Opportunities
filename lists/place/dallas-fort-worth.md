@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**80 open roles.**
+**81 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>T-Mobile</strong></td>
+<td><a href="https://trueinterview.io/jobs/d436ccc9-b3a9-4143-a25f-f187b40ca36f">Summer 2027 Site Reliability Engineering Internship</a></td>
+<td>Frisco, TX<br/>Atlanta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489607720/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>7-Eleven</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a370bda-0d9c-4fe3-bebe-fec3b9ee424f">Data Engineer Intern</a></td>

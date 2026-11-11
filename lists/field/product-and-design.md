@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**221 open roles.** 160 in the United States & Canada · 61 elsewhere in the world.
+**222 open roles.** 161 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Marketeq Talent</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfc74e11-5df9-4ce8-ba71-5aceb1d28a96">UX Design Research Internship ( U.S.A Only )</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488624489/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/cd6ac5b5-7a58-4599-9208-62458e6d9d14">UX Design Research Intern ( U.S.A Only )</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489198421/">Apply</a></td>
