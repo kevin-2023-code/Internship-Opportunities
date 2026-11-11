@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**153 open roles.**
+**154 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>InterSystems</strong></td>
 <td><a href="https://trueinterview.io/jobs/ab131d07-4b25-4c3d-9e9e-482bdd360724">Technical Services Co-op</a></td>

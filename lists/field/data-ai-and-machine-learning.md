@@ -20,6 +20,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e31cc4-387d-4b80-baf2-d402293bc5c0">2027 Finance Data Analyst Intern</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482030617/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>International</strong></td>
 <td><a href="https://trueinterview.io/jobs/c3c201d9-01ed-40fe-8c9a-7864f467da82">AI/ML Intern</a></td>
 <td>Lisle, IL</td>
@@ -118,6 +139,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>M3 USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f32f8cf4-4fdc-4c18-a96b-f6fa60623e02">AI Engineering Intern (Remote)</a></td>
+<td>Fort Washington, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464603834/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Akoncagua AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/c6fdb4f3-d7a0-44e5-9c39-a1268bf5b358">AI ML Engineer Intern – Winter / Spring 2027 (Master’s or PhD)</a></td>
 <td>Lakeland, FL</td>
@@ -143,13 +171,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/278b6ca8-58e2-4f69-96af-4bb3d06ac17f">AI Software Development Intern, Internship-to-Hire (Remote, Iowa-Based)</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489634771/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NeuroSpark AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -252,13 +273,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>The Campbell's Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ef692fc-b093-4d18-951f-e8fedbb8c5fd">Data Engineer, DA&amp;AI Co-Op</a></td>
-<td>Camden, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4428133469/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9145ef88-907e-43cc-bfeb-32fe6e64625c">Data Engineer – Agentic AI &amp; ML Ops (Co-op)</a></td>
 <td>Camden, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4428137441/">Apply</a></td>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8a204635-3dec-4333-9e00-293b490079d8">2027 Summer Intern Data Science &amp; Digital Innovation (IOPS)</a></td>
 <td>Rensselaer, Indiana, United States<br/>Rensselaer, NY</td>
 <td align="center"><a href="https://regeneron.wd1.myworkdayjobs.com/US_Only_University_Relations_Career/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Constellation</strong></td>
-<td><a href="https://trueinterview.io/jobs/9453906a-63b7-4c12-a5b1-92df99de2bba">2027 Summer PMO/Data Analyst Intern (Chicago, IL)</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466122825/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PrizePicks</strong></td>
-<td><a href="https://trueinterview.io/jobs/f58aa130-58ff-40dc-bf7b-50743feed95b">Business Intelligence Intern - Summer 2027</a></td>
-<td>Atlanta, GA<br/>Atlanta, Georgia, United States</td>
-<td align="center"><a href="http://prizepicks.com/position?gh_jid=8047188003">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

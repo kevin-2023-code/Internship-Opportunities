@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**992 open roles.** 814 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
+**995 open roles.** 817 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e31cc4-387d-4b80-baf2-d402293bc5c0">2027 Finance Data Analyst Intern</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482030617/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Johnson &amp; Johnson MedTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9b033fa-fb86-466b-a6cb-2e4a4d88b87e">Software Engineering Co-Op</a></td>
+<td>Danvers, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471839705/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41c70a7-7a59-4c98-a405-920788e2d578">Spring 2027 Software Engineering Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473296746/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e">AI Hardware Optimization Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee">Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US</a></td>
+<td>Dallas, TX<br/>Arlington, VA<br/>Greenville, SC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473566242/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (TikTok Shop - SEA) - 2027 Start</a></td>
@@ -370,6 +419,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>M3 USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f32f8cf4-4fdc-4c18-a96b-f6fa60623e02">AI Engineering Intern (Remote)</a></td>
+<td>Fort Washington, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464603834/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2a3230f-e42b-47d8-b8e4-f17d15de4cbc">Software Engineer Intern - Summer 2027</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480756565/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Hunt Consolidated, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7a273cc-8ab7-4e8a-b9ef-44406556c2b8">Application Developer Intern - Summer 2027</a></td>
 <td>Dallas, TX</td>
@@ -430,20 +493,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/278b6ca8-58e2-4f69-96af-4bb3d06ac17f">AI Software Development Intern, Internship-to-Hire (Remote, Iowa-Based)</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489634771/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NeuroSpark AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e">AI Hardware Optimization Engineer Intern</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -882,13 +931,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>The Campbell's Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ef692fc-b093-4d18-951f-e8fedbb8c5fd">Data Engineer, DA&amp;AI Co-Op</a></td>
-<td>Camden, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4428133469/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9145ef88-907e-43cc-bfeb-32fe6e64625c">Data Engineer – Agentic AI &amp; ML Ops (Co-op)</a></td>
 <td>Camden, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4428137441/">Apply</a></td>
@@ -2775,48 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b47003b4-60eb-450c-a0c0-10c0327a451a">Android Engineering Intern</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8815e542-1f9a-4c37-a6f1-13b69b99d1ba">Full-Stack Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/cb22a16b-d76d-47bf-b299-b431120d1761">Frontend Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6f36b88f-3c6a-4c63-86b9-2f3be3010a04">iOS Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Career Launch Tech Initiative</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7c2a55e-67ea-413b-87c4-fb7e9c4debe4">Software Engineer Intern</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485125167/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TalenTech Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/253b5b29-24f1-47e4-a343-2bfdfeac066f">Artificial Intelligence/Machine Learning Engineer 2 - Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488194682/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BAE Systems, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7ae094b-72e5-4c3b-a808-620f9fd668ac">C4ISR - Software Engineering Intern, Summer 2027 (Onsite)</a></td>
-<td>Wayne, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477314235/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

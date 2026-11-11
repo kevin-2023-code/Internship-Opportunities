@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**992 open roles.** 814 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
+**995 open roles.** 817 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,48 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Symbotic</strong></td>
+<td><a href="https://trueinterview.io/jobs/b748c22d-17c3-49c8-8215-d8ebf9967369">Intern- Software Engineer</a></td>
+<td>Wilmington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468176324/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cryptic Vector</strong></td>
+<td><a href="https://trueinterview.io/jobs/a434c681-3f82-43a2-a1a6-d0f58a32afb0">Summer 2027 Full Stack Developer Internship</a></td>
+<td>Liberty Township, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479052425/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/db5cca5e-582a-405c-a017-e51f644a2dbb">AI Frontend Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487021189/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Cboe Global Markets</strong></td>
+<td><a href="https://trueinterview.io/jobs/d53d6e2d-9621-47e8-b51c-de756cc5431f">Software Engineer Intern (C++)</a></td>
+<td>Kansas City, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478583937/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Citadel</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8ca6dc3-b2dc-4aec-b08e-2eaa7eb8eb44">Quantitative Research Analyst – Intern (US)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448461208/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/72e83900-44a8-4736-b416-961834740030">Trader: Fixed Income &amp; Macro – Intern (US)</a></td>
+<td>New York City Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474460702/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Citadel Securities</strong></td>
 <td><a href="https://trueinterview.io/jobs/401d7fb4-5f20-4da8-82bf-ff6920539a2d">Designated Market Maker (DMM) Trader – Intern (US)</a></td>
@@ -92,27 +134,6 @@
 <td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477529588?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Marketeq Media Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e28bcb8-e43a-4f40-a8cf-26e185206782">AI Software Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484682557/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Equanimo.AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/7854617f-f5a1-4f24-84f3-7375d33ba0f8">AI Engineer – Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486877918/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tyler Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0d91a23-3d80-4d34-be64-9669097f3231">DevOps Engineer Intern, Summer 2027</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469994651/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -175,7 +196,21 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Snowflake</strong></td>
+<td><a href="https://trueinterview.io/jobs/213fae6a-0c6c-41f2-9bca-aa61633882fd">Software Engineering Intern – Data Ingestion &amp; Platform Infrastructure (Warsaw, Summer 2027)</a></td>
+<td>PL-Warsaw-Lixa C</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d7454d14-a4b6-4701-a6b7-4dddfaf07be5">Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)</a></td>
+<td>PL-Warsaw-Lixa C</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/2b6f25c3-522c-4ef2-8607-250d3c6cb2ae">AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447919050/">Apply</a></td>
@@ -1355,20 +1390,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f80ddcc8-2424-4228-b95b-21d2364ded19">Numerical Software Engineer Intern: Strategic Student Program</a></td>
 <td>Cambridge, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477589801/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Revolut</strong></td>
-<td><a href="https://trueinterview.io/jobs/e5598513-f227-4514-9293-c53622eec568">Internship Programme 2027: Information Security Engineer (Appsec)</a></td>
-<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>Poland<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4433233279/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Snapmint</strong></td>
-<td><a href="https://trueinterview.io/jobs/6cd0bff1-878a-456f-88cf-545d9045ebb8">AI Creative Experience Design Intern</a></td>
-<td>Bengaluru, Karnataka, India</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486826429/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

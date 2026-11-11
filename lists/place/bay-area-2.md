@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**523 open roles.**
+**522 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/12eac050-b861-486c-a112-91644190167d">Data Scientist Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872482002?gh_jid=8872482002">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Genbio Ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/a3b247fd-e23b-418b-bd75-db88b43d9d1b">Research Scientist Intern, AI Molecular Design (Winter/Spring)</a></td>

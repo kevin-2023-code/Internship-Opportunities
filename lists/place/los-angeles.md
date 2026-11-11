@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**170 open roles.**
+**171 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e31cc4-387d-4b80-baf2-d402293bc5c0">2027 Finance Data Analyst Intern</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482030617/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Amca</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ee2e1f9-e748-4c36-9678-4c66668ebe59">Software Engineering Internship (Summer 2027)</a></td>

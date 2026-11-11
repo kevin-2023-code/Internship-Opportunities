@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,713 open roles.** 1,374 in the United States & Canada · 339 elsewhere in the world.
+**1,719 open roles.** 1,378 in the United States & Canada · 341 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Allen Control Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/6dc6bcad-d069-481f-b635-39f5d6dc6ec4">Systems Engineering Intern, 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464933800/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>UPS</strong></td>
+<td><a href="https://trueinterview.io/jobs/eeb2b53d-a0b6-431f-bee9-9876b2a54975">2027 Summer Engineering Intern</a></td>
+<td>Atlanta, GA<br/>Salt Lake City, UT<br/>Portland, OR<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461331276/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Springs Window Fashions</strong></td>
+<td><a href="https://trueinterview.io/jobs/4794befb-621c-43ef-9f32-c8368463fa05">Software Engineering Internship - Summer 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456517655/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dover Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/5724f1d5-9a1a-4011-8bfe-1bf874d50276">Engineering Co-Op</a></td>
+<td>Arden Hills, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465943624/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Pentair</strong></td>
 <td><a href="https://trueinterview.io/jobs/62d2a8d1-2efc-46d1-8637-5866c995fbf1">Engineering Leadership Development Internship Program – Summer 2027</a></td>
@@ -2786,34 +2814,6 @@
 <td>Champaign, Illinois</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/526c87f2-fba4-4744-8b87-1cb949b5cdfc">Apply</a></td>
 <td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fef7096-1ec8-48d8-9dfc-6075570bace3">Traffic Engineering Co-op - Spring/Summer 2027</a></td>
-<td>Philadelphia, PA, United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97206">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wabtec</strong></td>
-<td><a href="https://trueinterview.io/jobs/b63a49de-b201-44a9-a0f2-2c54573e8b0e">Controls Engineering Intern</a></td>
-<td>Oak Creek, Wisconsin, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016001814-controls-engineering-intern">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Eq Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/94cd601d-6c1f-4dda-a471-1195becde419">Intern - Software Engineer, Winter 2027</a></td>
-<td>Toronto, ON</td>
-<td align="center"><a href="https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3">Apply</a></td>
-<td align="center">8 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8547f343-74f9-4f5d-89e1-6988b201d941">Embedded Firmware Co-op, Amazon Robotics - Spring 2027</a></td>
-<td>North Reading, Massachusetts, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027">Apply</a></td>
-<td align="center">8 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**83 open roles.** 81 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**84 open roles.** 82 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Anduril Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a1e31cc4-387d-4b80-baf2-d402293bc5c0">2027 Finance Data Analyst Intern</a></td>
+<td>Costa Mesa, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482030617/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Mach Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/858f5421-9ce8-48ed-864a-1a351bb9c72d">Summer 2027 Engineering Internship, Software/GNC</a></td>

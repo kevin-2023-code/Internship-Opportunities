@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**213 open roles.** 141 in the United States & Canada · 72 elsewhere in the world.
+**215 open roles.** 143 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>NeuroSpark AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/92269a4b-389c-4e7f-9ab7-6e8f0eb55be4">AI Infrastructure Engineer Intern (Compute Efficiency &amp; Scheduling) - 2027 Summer</a></td>
 <td>Seattle, WA</td>
@@ -32,6 +46,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>M3 USA</strong></td>
+<td><a href="https://trueinterview.io/jobs/f32f8cf4-4fdc-4c18-a96b-f6fa60623e02">AI Engineering Intern (Remote)</a></td>
+<td>Fort Washington, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464603834/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Akoncagua AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/c6fdb4f3-d7a0-44e5-9c39-a1268bf5b358">AI ML Engineer Intern – Winter / Spring 2027 (Master’s or PhD)</a></td>
 <td>Lakeland, FL</td>
@@ -43,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/278b6ca8-58e2-4f69-96af-4bb3d06ac17f">AI Software Development Intern, Internship-to-Hire (Remote, Iowa-Based)</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489634771/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>NeuroSpark AI</strong></td>
-<td><a href="https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00">AI Inference &amp; Training Framework Engineer Intern</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

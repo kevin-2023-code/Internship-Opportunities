@@ -5,9 +5,187 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T15:04:22.000Z",
-  "count": 3638,
+  "listingsChangedAt": "2026-11-11T16:04:57.702Z",
+  "count": 3644,
   "listings": [
+    {
+      "id": "9284c576-d6f0-4ccd-b76f-8c70597d1b00",
+      "company": "NeuroSpark AI",
+      "title": "AI Inference & Training Framework Engineer Intern",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
+      "url": "https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00",
+      "postedAt": "2026-11-10T23:17:01.000Z",
+      "updatedAt": "2026-11-11T15:24:00.000Z"
+    },
+    {
+      "id": "a1e31cc4-387d-4b80-baf2-d402293bc5c0",
+      "company": "Anduril Industries",
+      "title": "2027 Finance Data Analyst Intern",
+      "locations": [
+        "Costa Mesa, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482030617/",
+      "url": "https://trueinterview.io/jobs/a1e31cc4-387d-4b80-baf2-d402293bc5c0",
+      "postedAt": "2026-11-11T15:21:00.000Z",
+      "updatedAt": "2026-11-11T15:21:00.000Z"
+    },
+    {
+      "id": "e9b033fa-fb86-466b-a6cb-2e4a4d88b87e",
+      "company": "Johnson & Johnson MedTech",
+      "title": "Software Engineering Co-Op",
+      "locations": [
+        "Danvers, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471839705/",
+      "url": "https://trueinterview.io/jobs/e9b033fa-fb86-466b-a6cb-2e4a4d88b87e",
+      "postedAt": "2026-11-11T15:09:00.000Z",
+      "updatedAt": "2026-11-11T15:09:00.000Z"
+    },
+    {
+      "id": "7fa5c0c9-b331-4b62-ab46-541d30ee17e8",
+      "company": "Smith+Nephew",
+      "title": "Intern Agentic AI Software Engineering",
+      "locations": [
+        "Andover, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480763722/",
+      "url": "https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8",
+      "postedAt": "2026-11-11T14:51:00.000Z",
+      "updatedAt": "2026-11-11T14:51:00.000Z"
+    },
+    {
+      "id": "d41c70a7-7a59-4c98-a405-920788e2d578",
+      "company": "Honeywell Technologies",
+      "title": "Spring 2027 Software Engineering Co-op",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473296746/",
+      "url": "https://trueinterview.io/jobs/d41c70a7-7a59-4c98-a405-920788e2d578",
+      "postedAt": "2026-11-11T14:47:00.000Z",
+      "updatedAt": "2026-11-11T14:47:00.000Z"
+    },
+    {
+      "id": "e501c0cd-ae2a-4a31-a284-2d9c6f82772e",
+      "company": "NeuroSpark AI",
+      "title": "AI Hardware Optimization Engineer Intern",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
+      "url": "https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e",
+      "postedAt": "2026-11-10T23:19:29.000Z",
+      "updatedAt": "2026-11-11T14:42:00.000Z"
+    },
+    {
+      "id": "ba78ae80-c187-458b-b623-9eea9516d2ee",
+      "company": "Jacobs",
+      "title": "Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US",
+      "locations": [
+        "Dallas, TX",
+        "Arlington, VA",
+        "Greenville, SC",
+        "Virginia Beach, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473566242/",
+      "url": "https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee",
+      "postedAt": "2026-11-11T14:14:00.000Z",
+      "updatedAt": "2026-11-11T14:14:00.000Z"
+    },
     {
       "id": "77043e4b-58fa-47d2-a30d-9114b96c0d4f",
       "company": "TikTok",
@@ -335,6 +513,31 @@
       "updatedAt": "2026-11-11T12:14:00.000Z"
     },
     {
+      "id": "213fae6a-0c6c-41f2-9bca-aa61633882fd",
+      "company": "Snowflake",
+      "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
+      "locations": [
+        "PL-Warsaw-Lixa C"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
+      "url": "https://trueinterview.io/jobs/213fae6a-0c6c-41f2-9bca-aa61633882fd",
+      "postedAt": "2026-11-11T12:07:22.000Z",
+      "updatedAt": "2026-11-11T12:07:22.000Z"
+    },
+    {
       "id": "c3c201d9-01ed-40fe-8c9a-7864f467da82",
       "company": "International",
       "title": "AI/ML Intern",
@@ -385,6 +588,31 @@
       "url": "https://trueinterview.io/jobs/12628dd5-945f-4c01-8100-8066161c0e43",
       "postedAt": "2026-11-11T12:06:00.000Z",
       "updatedAt": "2026-11-11T12:06:00.000Z"
+    },
+    {
+      "id": "d7454d14-a4b6-4701-a6b7-4dddfaf07be5",
+      "company": "Snowflake",
+      "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
+      "locations": [
+        "PL-Warsaw-Lixa C"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
+      "url": "https://trueinterview.io/jobs/d7454d14-a4b6-4701-a6b7-4dddfaf07be5",
+      "postedAt": "2026-11-11T12:04:01.000Z",
+      "updatedAt": "2026-11-11T12:04:01.000Z"
     },
     {
       "id": "ccc5ec15-54df-4155-9dab-4a29491b5308",
@@ -2225,6 +2453,56 @@
       "updatedAt": "2026-11-11T00:00:00.000Z"
     },
     {
+      "id": "f32f8cf4-4fdc-4c18-a96b-f6fa60623e02",
+      "company": "M3 USA",
+      "title": "AI Engineering Intern (Remote)",
+      "locations": [
+        "Fort Washington, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464603834/",
+      "url": "https://trueinterview.io/jobs/f32f8cf4-4fdc-4c18-a96b-f6fa60623e02",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "id": "c2a3230f-e42b-47d8-b8e4-f17d15de4cbc",
+      "company": "Siemens",
+      "title": "Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480756565/",
+      "url": "https://trueinterview.io/jobs/c2a3230f-e42b-47d8-b8e4-f17d15de4cbc",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
       "id": "e7a273cc-8ab7-4e8a-b9ef-44406556c2b8",
       "company": "Hunt Consolidated, Inc.",
       "title": "Application Developer Intern - Summer 2027",
@@ -2453,56 +2731,6 @@
       "url": "https://trueinterview.io/jobs/278b6ca8-58e2-4f69-96af-4bb3d06ac17f",
       "postedAt": "2026-11-10T23:23:00.000Z",
       "updatedAt": "2026-11-10T23:23:00.000Z"
-    },
-    {
-      "id": "e501c0cd-ae2a-4a31-a284-2d9c6f82772e",
-      "company": "NeuroSpark AI",
-      "title": "AI Hardware Optimization Engineer Intern",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3",
-      "url": "https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e",
-      "postedAt": "2026-11-10T23:19:29.000Z",
-      "updatedAt": "2026-11-10T23:19:29.000Z"
-    },
-    {
-      "id": "9284c576-d6f0-4ccd-b76f-8c70597d1b00",
-      "company": "NeuroSpark AI",
-      "title": "AI Inference & Training Framework Engineer Intern",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://ats.rippling.com/neurospark/jobs/349c061d-1b7b-4876-acf0-57f53c7263ea",
-      "url": "https://trueinterview.io/jobs/9284c576-d6f0-4ccd-b76f-8c70597d1b00",
-      "postedAt": "2026-11-10T23:17:01.000Z",
-      "updatedAt": "2026-11-10T23:17:01.000Z"
     },
     {
       "id": "ec24026d-89e6-4f1a-8d1b-d81f01a9eecb",
@@ -4284,31 +4512,6 @@
       "url": "https://trueinterview.io/jobs/e506924e-a792-41f7-a2bb-251fb20cb48d",
       "postedAt": "2026-11-10T14:54:24.000Z",
       "updatedAt": "2026-11-10T14:54:24.000Z"
-    },
-    {
-      "id": "7ef692fc-b093-4d18-951f-e8fedbb8c5fd",
-      "company": "The Campbell's Company",
-      "title": "Data Engineer, DA&AI Co-Op",
-      "locations": [
-        "Camden, NJ"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4428133469/",
-      "url": "https://trueinterview.io/jobs/7ef692fc-b093-4d18-951f-e8fedbb8c5fd",
-      "postedAt": "2026-11-09T14:53:00.000Z",
-      "updatedAt": "2026-11-10T14:45:00.000Z"
     },
     {
       "id": "9145ef88-907e-43cc-bfeb-32fe6e64625c",
@@ -72841,32 +73044,6 @@
       "updatedAt": "2026-10-19T23:06:12.000Z"
     },
     {
-      "id": "ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
-      "locations": [
-        "Menlo Park, CA, United States",
-        "Burlingame, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1584033410435097/",
-      "url": "https://trueinterview.io/jobs/ec1cfd65-ca08-4bda-8ee1-c7389d26cb1f",
-      "postedAt": "2026-10-19T21:31:11.000Z",
-      "updatedAt": "2026-10-19T21:31:11.000Z"
-    },
-    {
       "id": "ffc814b6-a1bb-49c1-9875-a39efcba7e62",
       "company": "Four Hands",
       "title": "Quality Engineer Intern",
@@ -73005,31 +73182,6 @@
       "url": "https://trueinterview.io/jobs/f50834df-ba0e-4670-9e68-c55bbb2d31b8",
       "postedAt": "2026-10-19T18:17:10.000Z",
       "updatedAt": "2026-10-19T18:17:10.000Z"
-    },
-    {
-      "id": "3e3d4172-226f-4e3e-b111-402e05f0975c",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)",
-      "locations": [
-        "Redmond, WA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/4723409617931131/",
-      "url": "https://trueinterview.io/jobs/3e3d4172-226f-4e3e-b111-402e05f0975c",
-      "postedAt": "2026-10-19T17:44:01.000Z",
-      "updatedAt": "2026-10-19T17:44:01.000Z"
     },
     {
       "id": "6f4f9b51-f443-452d-b035-f155bfa22e4e",

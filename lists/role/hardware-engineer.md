@@ -22,7 +22,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e501c0cd-ae2a-4a31-a284-2d9c6f82772e">AI Hardware Optimization Engineer Intern</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://ats.rippling.com/neurospark/jobs/ef320ab6-de30-40f6-bfdf-ebe648838ac3">Apply</a></td>
-<td align="center">10 Nov 2026</td>
+<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Pivotal</strong></td>

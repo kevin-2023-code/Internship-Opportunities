@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,713 open roles.** 1,374 in the United States & Canada · 339 elsewhere in the world.
+**1,719 open roles.** 1,378 in the United States & Canada · 341 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Engramme</strong></td>
+<td><a href="https://trueinterview.io/jobs/b5386059-bc73-44f3-a33e-c9242e676133">Back-End Software Engineer (Co-op / extended internship)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1db47f60-bba2-42cb-b315-02338c639004">Full-Stack Software Engineer (Co-op / extended internship)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Scot Forge</strong></td>
+<td><a href="https://trueinterview.io/jobs/0d675ce0-b599-4cce-ad62-cb6872569848">IT Software Development Intern (Summer 2027)</a></td>
+<td>Spring Grove, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487064299/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b6c0714-7d96-4ec1-b027-2b90c3db4969">Intern - Renewable Generation Engineering</a></td>
+<td>Des Moines, IA, United States</td>
+<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006009">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CACI</strong></td>
 <td><a href="https://trueinterview.io/jobs/b17838bd-87e3-4ae2-a4a9-ca6ff3748496">Software Engineering Co-op/Intern - Summer 2027</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/569c1faa-e8b5-41fc-9bb3-26b3c6c469f8">Water Engineering Intern</a></td>
 <td>Detroit, MI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484935612/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Allen Control Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/6dc6bcad-d069-481f-b635-39f5d6dc6ec4">Systems Engineering Intern, 2027</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464933800/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>UPS</strong></td>
-<td><a href="https://trueinterview.io/jobs/eeb2b53d-a0b6-431f-bee9-9876b2a54975">2027 Summer Engineering Intern</a></td>
-<td>Atlanta, GA<br/>Salt Lake City, UT<br/>Portland, OR<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461331276/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Springs Window Fashions</strong></td>
-<td><a href="https://trueinterview.io/jobs/4794befb-621c-43ef-9f32-c8368463fa05">Software Engineering Internship - Summer 2027</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456517655/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dover Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/5724f1d5-9a1a-4011-8bfe-1bf874d50276">Engineering Co-Op</a></td>
-<td>Arden Hills, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465943624/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

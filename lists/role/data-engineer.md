@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**76 open roles.** 62 in the United States & Canada · 14 elsewhere in the world.
+**75 open roles.** 61 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -40,13 +40,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>The Campbell's Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ef692fc-b093-4d18-951f-e8fedbb8c5fd">Data Engineer, DA&amp;AI Co-Op</a></td>
-<td>Camden, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4428133469/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9145ef88-907e-43cc-bfeb-32fe6e64625c">Data Engineer – Agentic AI &amp; ML Ops (Co-op)</a></td>
 <td>Camden, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4428137441/">Apply</a></td>

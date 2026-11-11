@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,713 open roles.** 1,374 in the United States & Canada · 339 elsewhere in the world.
+**1,719 open roles.** 1,378 in the United States & Canada · 341 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Johnson &amp; Johnson MedTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9b033fa-fb86-466b-a6cb-2e4a4d88b87e">Software Engineering Co-Op</a></td>
+<td>Danvers, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471839705/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Honeywell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d41c70a7-7a59-4c98-a405-920788e2d578">Spring 2027 Software Engineering Co-op</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473296746/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee">Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US</a></td>
+<td>Dallas, TX<br/>Arlington, VA<br/>Greenville, SC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473566242/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (TikTok Shop - SEA) - 2027 Start</a></td>
@@ -206,6 +227,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1737ce30-4c2a-45bf-8f67-99af28a99b60">Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst</a></td>
 <td>Detroit, MI US</td>
 <td align="center"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2a3230f-e42b-47d8-b8e4-f17d15de4cbc">Software Engineer Intern - Summer 2027</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480756565/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fbbe54a8-8070-4598-9d2c-f75127021450">IT - Innovation &amp; AI Technology Internship (Hybrid)</a></td>
 <td>Madison, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485031390/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Engramme</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5386059-bc73-44f3-a33e-c9242e676133">Back-End Software Engineer (Co-op / extended internship)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1db47f60-bba2-42cb-b315-02338c639004">Full-Stack Software Engineer (Co-op / extended internship)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Scot Forge</strong></td>
-<td><a href="https://trueinterview.io/jobs/0d675ce0-b599-4cce-ad62-cb6872569848">IT Software Development Intern (Summer 2027)</a></td>
-<td>Spring Grove, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487064299/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BHE (Berkshire Hathaway Energy)</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b6c0714-7d96-4ec1-b027-2b90c3db4969">Intern - Renewable Generation Engineering</a></td>
-<td>Des Moines, IA, United States</td>
-<td align="center"><a href="https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10006009">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

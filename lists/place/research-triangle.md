@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**57 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,10 +18,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee">Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US</a></td>
+<td>Greenville, SC<br/>Dallas, TX<br/>Arlington, VA<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473566242/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>JMP</strong></td>
 <td><a href="https://trueinterview.io/jobs/acea2d2f-df0a-442c-84b0-b77e470c5985">JMP 2027 Summer Internship; C++ Software Development</a></td>
 <td>Cary, NC</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489655042/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/c2a3230f-e42b-47d8-b8e4-f17d15de4cbc">Software Engineer Intern - Summer 2027</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480756565/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

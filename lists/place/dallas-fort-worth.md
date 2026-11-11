@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**83 open roles.**
+**84 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee">Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US</a></td>
+<td>Dallas, TX<br/>Arlington, VA<br/>Greenville, SC<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473566242/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hunt Consolidated, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/e7a273cc-8ab7-4e8a-b9ef-44406556c2b8">Application Developer Intern - Summer 2027</a></td>
