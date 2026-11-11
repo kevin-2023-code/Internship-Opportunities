@@ -20,7 +20,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Jacobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee">Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US</a></td>
-<td>Arlington, VA<br/>Dallas, TX<br/>Greenville, SC<br/>+1 more</td>
+<td>Arlington, VA<br/>Reston, VA<br/>Atlanta, GA<br/>+25 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473566242/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>

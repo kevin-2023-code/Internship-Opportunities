@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**170 open roles.**
+**171 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1163,6 +1163,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/51977b52-7a52-4e76-a996-26363d7c138f">RF Engineering Intern</a></td>
 <td>Long Beach, CA<br/>RL Headquarters</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7991657003">Apply</a></td>
+<td align="center">16 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Antares</strong></td>
+<td><a href="https://trueinterview.io/jobs/3832850e-60a3-47ad-ad00-1e44ae8c6740">Quality Engineering Intern - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Antares/9335fe9a-a994-4209-bd97-9a6070f4e94f">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
