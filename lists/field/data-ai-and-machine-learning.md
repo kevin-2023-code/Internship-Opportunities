@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**724 open roles.** 541 in the United States & Canada · 183 elsewhere in the world.
+**723 open roles.** 541 in the United States & Canada · 182 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -258,10 +258,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Marketeq Digital Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/946675e7-5920-42af-b4a4-1b9239c49ada">AI Prototype Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489123850/">Apply</a></td>
+<td><strong>Cerro Flow Products LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/76e23585-a9ff-4a98-9267-f49349e3bbcc">AI Intern</a></td>
+<td>Sauget, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489128467/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Penn Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/35bb92f7-fd07-473e-b89d-e00636617189">AI &amp; Data Intern</a></td>
+<td>Danboro, PA</td>
+<td align="center"><a href="https://myjobs.adp.com/pennengineering/cx/job-details?reqId=5001237071406">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2187,13 +2194,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f1a264ee-49db-41e6-8901-7ee888a3ed32">Accelerated Science Intern, Machine Learning/Agentic AI</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ClinChoice</strong></td>
-<td><a href="https://trueinterview.io/jobs/1574654f-af09-414b-8734-ca433d948f44">Database Designer Intern - Canada</a></td>
-<td>Canada</td>
-<td align="center"><a href="https://job-boards.eu.greenhouse.io/clinchoice/jobs/5021155101">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T02:06:10.058Z",
-  "count": 3565,
+  "listingsChangedAt": "2026-11-11T03:05:43.096Z",
+  "count": 3568,
   "listings": [
     {
       "id": "28a72185-7f79-4d73-9965-fbe1c9b8a1de",
@@ -508,6 +508,31 @@
       "url": "https://trueinterview.io/jobs/ec24026d-89e6-4f1a-8d1b-d81f01a9eecb",
       "postedAt": "2026-11-10T22:17:00.000Z",
       "updatedAt": "2026-11-10T22:17:00.000Z"
+    },
+    {
+      "id": "e0667480-612d-4e5b-8f62-552e53020630",
+      "company": "Renesas",
+      "title": "Applications Engineering Intern",
+      "locations": [
+        "Morrisville, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701-applications-engineering-intern",
+      "url": "https://trueinterview.io/jobs/e0667480-612d-4e5b-8f62-552e53020630",
+      "postedAt": "2026-11-10T21:58:05.000Z",
+      "updatedAt": "2026-11-10T21:58:05.000Z"
     },
     {
       "id": "3b4d44c7-01f2-46b8-bda2-ff877426215a",
@@ -3094,6 +3119,31 @@
       "updatedAt": "2026-11-10T06:00:00.000Z"
     },
     {
+      "id": "44c065c2-3d00-4ed6-a570-4769b04ac4a3",
+      "company": "Watlow",
+      "title": "Industry 4.0 Co-Op",
+      "locations": [
+        "St. Louis, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.dayforcehcm.com/en-US/watlow/WATLOWCAREERSITE/jobs/19981",
+      "url": "https://trueinterview.io/jobs/44c065c2-3d00-4ed6-a570-4769b04ac4a3",
+      "postedAt": "2026-11-10T06:00:00.000Z",
+      "updatedAt": "2026-11-10T06:00:00.000Z"
+    },
+    {
       "id": "e7f1cdd8-7b0e-461a-b262-c304501a99e1",
       "company": "onsemi",
       "title": "Spring 2027 - AI & Data Analytics Intern",
@@ -4235,6 +4285,31 @@
       "updatedAt": "2026-11-09T20:49:04.000Z"
     },
     {
+      "id": "76e23585-a9ff-4a98-9267-f49349e3bbcc",
+      "company": "Cerro Flow Products LLC",
+      "title": "AI Intern",
+      "locations": [
+        "Sauget, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489128467/",
+      "url": "https://trueinterview.io/jobs/76e23585-a9ff-4a98-9267-f49349e3bbcc",
+      "postedAt": "2026-11-09T20:32:00.000Z",
+      "updatedAt": "2026-11-09T20:32:00.000Z"
+    },
+    {
       "id": "946675e7-5920-42af-b4a4-1b9239c49ada",
       "company": "Marketeq Digital Solutions",
       "title": "AI Prototype Engineering Intern (U.S.A Only)",
@@ -4246,9 +4321,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4258,6 +4333,31 @@
       "url": "https://trueinterview.io/jobs/946675e7-5920-42af-b4a4-1b9239c49ada",
       "postedAt": "2026-11-09T20:17:00.000Z",
       "updatedAt": "2026-11-09T20:17:00.000Z"
+    },
+    {
+      "id": "35bb92f7-fd07-473e-b89d-e00636617189",
+      "company": "Penn Engineering",
+      "title": "AI & Data Intern",
+      "locations": [
+        "Danboro, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://myjobs.adp.com/pennengineering/cx/job-details?reqId=5001237071406",
+      "url": "https://trueinterview.io/jobs/35bb92f7-fd07-473e-b89d-e00636617189",
+      "postedAt": "2026-11-09T20:12:35.000Z",
+      "updatedAt": "2026-11-09T20:12:35.000Z"
     },
     {
       "id": "2c2da1be-e3b2-486a-9324-1d05c198c185",
@@ -4274,7 +4374,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4349,7 +4449,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4373,6 +4473,31 @@
         "United States"
       ],
       "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472643730/",
+      "url": "https://trueinterview.io/jobs/dd60d1f5-e566-418b-ba63-8570105920ba",
+      "postedAt": "2026-11-09T19:53:00.000Z",
+      "updatedAt": "2026-11-09T19:53:00.000Z"
+    },
+    {
+      "id": "74e41d8e-72f3-44df-8f3b-cf4575994688",
+      "company": "Zoetis",
+      "title": "AI Acceleration Intern - AI Development Lifecycle",
+      "locations": [
+        "Trenton, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
       "category": "Other",
       "family": "Software",
       "role": "Other",
@@ -4381,8 +4506,8 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4472643730/",
-      "url": "https://trueinterview.io/jobs/dd60d1f5-e566-418b-ba63-8570105920ba",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487936194/",
+      "url": "https://trueinterview.io/jobs/74e41d8e-72f3-44df-8f3b-cf4575994688",
       "postedAt": "2026-11-09T19:53:00.000Z",
       "updatedAt": "2026-11-09T19:53:00.000Z"
     },
@@ -4412,6 +4537,33 @@
       "url": "https://trueinterview.io/jobs/4516dba7-1a70-436b-b62a-db0deb1128bc",
       "postedAt": "2026-11-09T19:47:56.000Z",
       "updatedAt": "2026-11-09T19:47:56.000Z"
+    },
+    {
+      "id": "2941283b-4b27-484d-b52f-d05504ef1da3",
+      "company": "Celestica International LP",
+      "title": "Student Intern, IT Business Application Development",
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "cities": [
+        "Toronto, ON"
+      ],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career2.successfactors.eu/career?career_ns=job_listing&company=celesticaiP1&rcm_site_locale=en_US&career_job_req_id=141430",
+      "url": "https://trueinterview.io/jobs/2941283b-4b27-484d-b52f-d05504ef1da3",
+      "postedAt": "2026-11-09T19:46:27.000Z",
+      "updatedAt": "2026-11-09T19:46:27.000Z"
     },
     {
       "id": "fab870d6-ecb0-4fab-93f8-32377e4630e6",
@@ -4454,9 +4606,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4479,9 +4631,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4491,6 +4643,31 @@
       "url": "https://trueinterview.io/jobs/9e0a27d8-9078-43bf-919c-74939ad4510c",
       "postedAt": "2026-11-09T19:44:00.000Z",
       "updatedAt": "2026-11-09T19:44:00.000Z"
+    },
+    {
+      "id": "8788a7d7-f28e-42ae-9a5a-c722a7db57cd",
+      "company": "General Dynamics Mission Systems",
+      "title": "Full-Stack Application Development Intern, Summer 2027",
+      "locations": [
+        "Scottsdale, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487940180/",
+      "url": "https://trueinterview.io/jobs/8788a7d7-f28e-42ae-9a5a-c722a7db57cd",
+      "postedAt": "2026-11-09T19:37:00.000Z",
+      "updatedAt": "2026-11-09T19:37:00.000Z"
     },
     {
       "id": "5be965a1-30a0-4b61-880e-2d8b2bed75d2",
@@ -4504,10 +4681,10 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -4516,6 +4693,32 @@
       "url": "https://trueinterview.io/jobs/5be965a1-30a0-4b61-880e-2d8b2bed75d2",
       "postedAt": "2026-11-09T19:37:00.000Z",
       "updatedAt": "2026-11-09T19:37:00.000Z"
+    },
+    {
+      "id": "4790694c-5648-45e7-8767-7e43c36f3c9a",
+      "company": "Zoetis",
+      "title": "AI Assistant Development Intern",
+      "locations": [
+        "Parsippany-Troy Hills, NJ",
+        "Troy Hills, NJ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1",
+      "url": "https://trueinterview.io/jobs/4790694c-5648-45e7-8767-7e43c36f3c9a",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T19:26:00.000Z"
     },
     {
       "id": "5211aa3f-8478-48b2-b415-38603f872e0d",
@@ -24628,31 +24831,6 @@
       "updatedAt": "2026-11-03T06:00:00.000Z"
     },
     {
-      "id": "82f1427a-1743-4ee4-b7a0-67d62338d358",
-      "company": "CEVA Logistics",
-      "title": "INTERNSHIP - Data Analyst (Finance) March 2027",
-      "locations": [
-        "Courbevoie, France"
-      ],
-      "cities": [],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://career2.successfactors.eu/career?career%5fns=job%5flisting&company=C0002716868P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fGB&career_job_req_id=593699&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/Chicago&_s.crb=bJn8AWr9AYDXOW2Ed7BcxCxZn%2fsFmk5tjelchk4dObM%3d",
-      "url": "https://trueinterview.io/jobs/82f1427a-1743-4ee4-b7a0-67d62338d358",
-      "postedAt": "2026-11-03T06:00:00.000Z",
-      "updatedAt": "2026-11-03T06:00:00.000Z"
-    },
-    {
       "id": "3284f3b4-55ce-4d58-b3e5-2d139b695cfc",
       "company": "CGI",
       "title": "Winter 2027 : AI Developer Co-op (8 months)",
@@ -31980,34 +32158,6 @@
       "updatedAt": "2026-10-31T10:42:00.000Z"
     },
     {
-      "id": "ee25361f-34a1-4713-bc75-f1f765b65d18",
-      "company": "DRW",
-      "title": "FPGA Intern",
-      "locations": [
-        "London, England, United Kingdom",
-        "London"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
-      "url": "https://trueinterview.io/jobs/ee25361f-34a1-4713-bc75-f1f765b65d18",
-      "postedAt": "2026-10-31T10:31:00.000Z",
-      "updatedAt": "2026-10-31T10:31:00.000Z"
-    },
-    {
       "id": "73182d32-0261-4670-903f-86b06180565e",
       "company": "Liberty Mutual Insurance",
       "title": "Cybersecurity Co-op (January - June 2027)",
@@ -34171,31 +34321,6 @@
       "url": "https://trueinterview.io/jobs/6200aa9b-201d-4787-b28f-48070aea4f69",
       "postedAt": "2026-10-30T16:12:26.000Z",
       "updatedAt": "2026-10-30T16:12:26.000Z"
-    },
-    {
-      "id": "1574654f-af09-414b-8734-ca433d948f44",
-      "company": "ClinChoice",
-      "title": "Database Designer Intern - Canada",
-      "locations": [
-        "Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://job-boards.eu.greenhouse.io/clinchoice/jobs/5021155101",
-      "url": "https://trueinterview.io/jobs/1574654f-af09-414b-8734-ca433d948f44",
-      "postedAt": "2026-10-30T15:56:45.000Z",
-      "updatedAt": "2026-10-30T15:56:45.000Z"
     },
     {
       "id": "c70bd738-6a0b-4731-8b1e-bd4b9ea3d094",
@@ -78559,33 +78684,6 @@
       "updatedAt": "2026-10-06T02:42:06.000Z"
     },
     {
-      "id": "be78fa33-c7fa-4e9f-9ffe-2d4f7afc2b38",
-      "company": "Fieldai",
-      "title": "Mechanical Engineer, Robotics Hardware Intern",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/field-ai/5ae428f8-ac13-49b2-a244-fb97d31bfc79",
-      "url": "https://trueinterview.io/jobs/be78fa33-c7fa-4e9f-9ffe-2d4f7afc2b38",
-      "postedAt": "2026-10-06T00:33:04.000Z",
-      "updatedAt": "2026-10-06T00:33:04.000Z"
-    },
-    {
       "id": "664b408c-b63e-4168-aec1-264993627df7",
       "company": "Tevora",
       "title": "Cybersecurity Internship Winter 2027 - Threat",
@@ -84364,31 +84462,6 @@
       "url": "https://trueinterview.io/jobs/8628193c-cf7a-427e-a203-968b172fd64d",
       "postedAt": "2026-09-28T15:34:46.000Z",
       "updatedAt": "2026-09-28T15:50:11.000Z"
-    },
-    {
-      "id": "cfa5aa92-2e85-4728-a762-65e67c96417f",
-      "company": "Morrison Maierle",
-      "title": "Civil Engineer Internship - Natural Resources",
-      "locations": [
-        "Boise, ID"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/morrisonmaierle/jobs/4422534009",
-      "url": "https://trueinterview.io/jobs/cfa5aa92-2e85-4728-a762-65e67c96417f",
-      "postedAt": "2026-09-28T15:33:04.000Z",
-      "updatedAt": "2026-09-28T15:33:04.000Z"
     },
     {
       "id": "d8ea2e9c-2d16-49c7-8d96-6e65dddbd74e",
