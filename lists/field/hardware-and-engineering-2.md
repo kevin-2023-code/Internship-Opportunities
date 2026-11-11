@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**778 open roles.** 708 in the United States & Canada · 70 elsewhere in the world.
+**782 open roles.** 712 in the United States & Canada · 70 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/247a9fc0-9806-440d-8340-024319d38475">Process Integ and Yield Eng PhD Intern Grade 029</a></td>
+<td>US, Oregon, Hillsboro, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dc3a4df-d20c-4c86-b45c-667c66902740">Intern - Optical Design Software &amp; Automation Engineer (PhD Level)</a></td>
+<td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54614?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/60fda547-2827-406a-98ba-7a93d6d14f36">Intern - Photonics Design Software &amp; Automation Engineer (PhD Level)</a></td>
+<td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54619?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lumentum</strong></td>
+<td><a href="https://trueinterview.io/jobs/75c12133-ce95-4b87-8839-8549c0b50be0">Internship - Mechanical Engineer</a></td>
+<td>USA - CA - San Jose (Ridder), United States of America</td>
+<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WSP</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c57733d-eacd-40e7-b8e4-f27fcb8ca7e3">Civil Engineering Co-op - Spring 2027</a></td>

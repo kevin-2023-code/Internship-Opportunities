@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**778 open roles.** 708 in the United States & Canada · 70 elsewhere in the world.
+**782 open roles.** 712 in the United States & Canada · 70 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c90629d-2e37-45aa-9b8b-fba8df75ca75">Hardware In Loop (HIL) Software Engineer Intern - Winter 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/24702ac3-e366-4bf8-93e9-e3f92264df1c">Aerodynamics Engineering Intern</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/8bd9c9a5-04f4-4321-b837-9888a70d363d">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1acb89d-d0bb-438a-80ed-c8b49f798c12">FY27 Intern - Firmware Engineering Internship - Canada (16 months)</a></td>
@@ -48,17 +62,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/17b11deb-aef3-4c8e-ab86-dd46850b6f5c">Traffic Engineering Intern</a></td>
-<td>Columbus, Ohio, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160941500-traffic-engineering-intern">Apply</a></td>
+<td><strong>Regent</strong></td>
+<td><a href="https://trueinterview.io/jobs/0cce0877-dabc-4671-92e5-d674f1c4a46a">Embedded Software Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c90629d-2e37-45aa-9b8b-fba8df75ca75">Hardware In Loop (HIL) Software Engineer Intern - Winter 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded">Apply</a></td>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/17b11deb-aef3-4c8e-ab86-dd46850b6f5c">Traffic Engineering Intern</a></td>
+<td>Columbus, Ohio, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160941500-traffic-engineering-intern">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -192,6 +206,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1f539fdc-fc3e-481f-a22d-ef5137c1f1a3">Internship, Electrical Engineering (Summer 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>GasTech Engineering</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea7f35bc-ce32-4c56-aecd-18f9babc1a6e">OSU IT Internship</a></td>
+<td>2110 Industrial Road, Sapulpa, OK, 74066, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4651244?listingId=5dbd672f-e99f-4071-9d3c-69c1e0e29a18">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Westwood Professional Services</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fff8ebc-2c8e-4f1e-8d9c-c60ded6485f4">Engineering Intern - Transmission</a></td>
+<td>12701 Whitewater Drive, Minnetonka, MN, 55343, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4458334?listingId=d76583f8-99cd-4e70-aa50-2c32e3a2c89f">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d72ce57a-2aa8-4bef-9cbb-afc59e058d11">Hardware Engineering Design Intern</a></td>
 <td>Roseville, California, United States of America</td>
 <td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/247a9fc0-9806-440d-8340-024319d38475">Process Integ and Yield Eng PhD Intern Grade 029</a></td>
-<td>US, Oregon, Hillsboro, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integ-and-Yield-Eng-PhD-Intern-Grade-029_JR0288084">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/3dc3a4df-d20c-4c86-b45c-667c66902740">Intern - Optical Design Software &amp; Automation Engineer (PhD Level)</a></td>
-<td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54614?lang=en-us">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/60fda547-2827-406a-98ba-7a93d6d14f36">Intern - Photonics Design Software &amp; Automation Engineer (PhD Level)</a></td>
-<td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54619?lang=en-us">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Lumentum</strong></td>
-<td><a href="https://trueinterview.io/jobs/75c12133-ce95-4b87-8839-8549c0b50be0">Internship - Mechanical Engineer</a></td>
-<td>USA - CA - San Jose (Ridder), United States of America</td>
-<td align="center"><a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 </tbody>

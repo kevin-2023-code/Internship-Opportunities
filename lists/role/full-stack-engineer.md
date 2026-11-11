@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**30 open roles.** 21 in the United States & Canada · 9 elsewhere in the world.
+**31 open roles.** 22 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/e3b3725d-3a6d-4f05-a48c-ec17df31568e">SAP iXp Intern - Full-Stack Software Engineer</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487844607/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/bc201334-3794-47f8-a9eb-fe8a6af81d34">SAP iXp Intern - Full-Stack Software Engineer</a></td>

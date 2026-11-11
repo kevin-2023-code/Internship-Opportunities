@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**963 open roles.** 798 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
+**966 open roles.** 801 in the United States & Canada · 165 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,97 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SAS Institute</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3dfdb47-61e7-4f55-a298-e56122a24942">Summer 2027 - Data Scientist Intern</a></td>
+<td>Cary HQ, NC, US</td>
+<td align="center"><a href="https://erp-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job?in_iframe=1">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Match Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/825c5655-6b1a-4f26-b105-45f4e7e2929a">Data Scientist Intern</a></td>
+<td>San Francisco, California</td>
+<td align="center"><a href="https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Asm</strong></td>
+<td><a href="https://trueinterview.io/jobs/bbaf1cef-3a54-4d35-bac0-7ff7b5104dcf">Intern, Mechanical Engineering</a></td>
+<td>US &gt; Arizona &gt; Phoenix</td>
+<td align="center"><a href="https://www.asm.com/open-vacancies/?gh_jid=5029222101">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/083f3cb4-4c50-4d89-8afe-b092a88a62e2">Infrastructure Engineering &amp; Projects Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nationwide</strong></td>
+<td><a href="https://trueinterview.io/jobs/88b2cbae-e0ef-4a67-9aa0-0412ea764e76">Summer 2027 Generative AI Internship</a></td>
+<td>Columbus, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485867448/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Daiichi Sankyo</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fb1b7e5-b10a-4d36-8a2e-f2373d3e3165">AI/ML Automation Pipelines Intern</a></td>
+<td>Basking Ridge, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488039990/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>V2X Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e64e3ef-5ec0-41e5-8268-b63aff0656f7">AI Intern - Junior</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486925934/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15a81a1a-0b71-4a0f-ab76-137e92b3b438">AI Intern - Senior</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486937323/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Raft</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc88522a-21be-4c54-b897-3e71db64eb6d">AI/ML Intern - Summer 2027</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486948062/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Raft Company Website</strong></td>
+<td><a href="https://trueinterview.io/jobs/3fb4704e-04df-4433-b365-930c403a332e">Full Stack Engineering Intern - Summer 2027</a></td>
+<td>McLean, Virginia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/raft/jobs/6240549004">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2ea0f51-4031-4321-ac72-d113116b0fef">AI/ML Intern - Summer 2027</a></td>
+<td>McLean, Virginia, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/raft/jobs/6240555004">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7b3905b2-a932-47e7-9f9e-97cf2df4a862">Data Engineering Intern - Summer 2027</a></td>
+<td>McLean, Virginia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/raft/jobs/6239800004">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/58cf8497-f689-4ebd-9cf7-35b7c1cae06c">DevOps Engineering Intern - Summer 2027</a></td>
+<td>McLean, Virginia</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/raft/jobs/6239819004">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Trinzic</strong></td>
 <td><a href="https://trueinterview.io/jobs/2719cbb4-1d2d-45cc-aea2-fa5e74f8642d">Defense &amp; Intel (D&amp;I) - Software Engineering Internship</a></td>
@@ -2723,109 +2814,6 @@
 <td>San Jose, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4726631006">Apply</a></td>
 <td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Genmd</strong></td>
-<td><a href="https://trueinterview.io/jobs/4df6d620-88a7-476a-aa1a-b23113956bf4">Member of Technical Staff Intern, Applied AI</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco Wholesale</strong></td>
-<td><a href="https://trueinterview.io/jobs/36306fdc-c785-417e-912f-bb8da884900e">CDS Intern - InfoSec AI/ML</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486465866/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Staples</strong></td>
-<td><a href="https://trueinterview.io/jobs/4af3ace3-91d3-46d1-af05-bfe9420ef2fd">Software Engineer Intern, Marketplace Platform</a></td>
-<td>Framingham, Massachusetts, United States</td>
-<td align="center"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/77076">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>MITRE</strong></td>
-<td><a href="https://trueinterview.io/jobs/65f94030-d1aa-48e0-91b2-7434c18df9b2">AI Engineering Intern</a></td>
-<td>Bedford, MA<br/>McLean, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479785073/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4878259-1eff-484c-972f-098d8837d8d2">SAP iXp Intern - HanaHaus Business Insights Analyst</a></td>
-<td>Newport Beach, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159266069-sap-ixp-intern-hanahaus-business-insights-analyst">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Samsung Semiconductor</strong></td>
-<td><a href="https://trueinterview.io/jobs/d00b9225-1d9b-4b22-84e9-a8c82e31a7ce">Intern, AI Application Engineer</a></td>
-<td>Folsom, California, United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco IT</strong></td>
-<td><a href="https://trueinterview.io/jobs/292f4a60-3293-4bee-9379-05de0723cb58">CDS Intern - InfoSec AI/ML</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486471359/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Werner</strong></td>
-<td><a href="https://trueinterview.io/jobs/271986b9-5ab8-49cb-9ada-598ad8fea3c5">AI Intern (Summer 2027)</a></td>
-<td>Appleton, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485794880/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>American Express</strong></td>
-<td><a href="https://trueinterview.io/jobs/b5d9ff92-1f0d-4238-bd11-6266fed087eb">Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ</a></td>
-<td>Phoenix, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485788798/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Costco Wholesale</strong></td>
-<td><a href="https://trueinterview.io/jobs/d576ac4e-6ada-495a-b1d8-697e06f54d17">CDS Intern - Software Engineer - International Depot</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&amp;cws=41&amp;rid=10993">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Toshiba Global Commerce Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/42f43239-de0a-40a3-8820-9c4365e8e2a1">Agentic Software Engineering Intern</a></td>
-<td>Frisco, TX<br/>Durham, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485783392/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-</tbody>
-</table>
-
-## Elsewhere in the world
-
-_Roles outside the United States & Canada, and roles whose country the catalog could not read._
-
-<table>
-<thead>
-<tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Clera</strong></td>
-<td><a href="https://trueinterview.io/jobs/21456431-9aa7-4351-9c25-5e5b9dd216f6">ML Intern</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Clera/1c3eb725-b3e0-414b-9a88-5fb6d6d785c7">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rakuten Kobo Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7">Software Developer Intern (Dublin)</a></td>
-<td>Dublin, County Dublin, Ireland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4464093033/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
 </tr>
 </tbody>
 </table>

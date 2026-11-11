@@ -16,6 +16,13 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Sigmacomputing</strong></td>
+<td><a href="https://trueinterview.io/jobs/fd958407-a60f-48b5-9f10-a9e2f2e44c50">Software Engineering Intern (Summer 2027)</a></td>
+<td>San Francisco, CA<br/>New York, NY<br/>NYC</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003">Apply</a></td>
+<td align="center">6 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Faire</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d4836a2-901b-4e67-a5a0-d8ae63dd374f">Applied AI/ML Scientist, Intern - Winter 2027</a></td>
 <td>San Francisco, CA</td>
@@ -791,13 +798,6 @@
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266856">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Didi Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a425a8b-91b2-402b-9e74-0f84e535c5a2">Motion Planning Engineer (PhD, Intern)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/didi/jobs/8198303">Apply</a></td>
-<td align="center">12 Sep 2026</td>
 </tr>
 </tbody>
 </table>

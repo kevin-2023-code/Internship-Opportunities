@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,667 open roles.** 1,337 in the United States & Canada · 330 elsewhere in the world.
+**1,672 open roles.** 1,342 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/81448d3d-e9e9-4dfc-97b6-de0e20489344">Data Processing Developer Technology Intern - 2027</a></td>
+<td>Munich, BY, DE<br/>Bristol, England, GB<br/>Berlin, Berlin, DE<br/>+3 more</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397551992">Apply</a></td>
+<td align="center">5 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Affirm</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0e2b676-b8a6-40a1-9696-a5cad7e0f70e">Software Engineer (Machine Learning) Intern (Summer 2027)</a></td>
+<td>San Francisco, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8008645003">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>xAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c">Spring 2027 Software Engineering Internship/Co-op</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/xai/jobs/5252108007">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Natera</strong></td>
+<td><a href="https://trueinterview.io/jobs/c45d28fc-e2be-4175-8a59-1c338b3e96de">Software Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6188497004">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HarveyAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2faab77d-7098-4122-81c1-2844264de754">Software Engineering Intern (Winter 2027)</a></td>
+<td>Toronto, ON<br/>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3e3727b-655a-432d-8231-e1717accfc0c">DESIGN ENGINEER INTERN</a></td>
+<td>Queens, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990015853286-design-engineer-intern">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shopback</strong></td>
+<td><a href="https://trueinterview.io/jobs/0828b6ad-0d66-4d4a-9b08-0169ce748170">Software Engineer Intern</a></td>
+<td>San Francisco, California<br/>Singapore, Singapore<br/>New York City, New York</td>
+<td align="center"><a href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Profluent</strong></td>
 <td><a href="https://trueinterview.io/jobs/5763f214-c283-46a0-8e7b-36016892e79c">Intern, Software Engineering</a></td>
@@ -202,13 +251,6 @@
 <td><a href="https://trueinterview.io/jobs/5c4bff63-5ea8-4db9-b7a7-803273208051">Project Engineer - Intern</a></td>
 <td>Suwanee, Georgia, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SGS/744000152533359-project-engineer-intern">Apply</a></td>
-<td align="center">29 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Rapdev</strong></td>
-<td><a href="https://trueinterview.io/jobs/f74c6349-db54-4eeb-bd71-204c59faa3f8">ServiceNow Engineering Co-op</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application">Apply</a></td>
 <td align="center">29 Sep 2026</td>
 </tr>
 <tr>
@@ -965,13 +1007,6 @@
 <td><a href="https://trueinterview.io/jobs/823c9e92-46f6-44e0-b2cd-a2386469c5ce">AfroTech 2026 Software Engineering Internship</a></td>
 <td>Seattle, Washington, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003">Apply</a></td>
-<td align="center">12 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Didi Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/6a425a8b-91b2-402b-9e74-0f84e535c5a2">Motion Planning Engineer (PhD, Intern)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/didi/jobs/8198303">Apply</a></td>
 <td align="center">12 Sep 2026</td>
 </tr>
 </tbody>
@@ -2791,41 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>München, Deutschland</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200690139-1731?board_id=JB001">Apply</a></td>
 <td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de20d465-6b36-46dc-b5e5-a412edbf8b01">Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test</a></td>
-<td>München, Deutschland</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200689729-1731?board_id=JB001">Apply</a></td>
-<td align="center">18 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sereact Gmbh</strong></td>
-<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
-<td>Stuttgart Schockenriedstr. 17</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Abridge</strong></td>
-<td><a href="https://trueinterview.io/jobs/32178189-d76e-4c67-bf9c-9af08eac7351">Member of Technical Staff, Intern</a></td>
-<td>SF Office</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wikimedia Foundation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d9833901-583c-4bab-8c62-dcb027c421f1">Software Engineering Internship Program (2027)</a> 🌐</td>
-<td>Remote</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/wikimedia/jobs/8268853">Apply</a></td>
-<td align="center">16 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Research Innovations</strong></td>
-<td><a href="https://trueinterview.io/jobs/bb0d9887-4136-418b-a334-8df9a0bcfe95">DoW SkillBridge Forward Deployed Engineer Intern</a></td>
-<td>Joint Base Lewis-McChord</td>
-<td align="center"><a href="https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181">Apply</a></td>
-<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>

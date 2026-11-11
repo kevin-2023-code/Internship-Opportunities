@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**40 open roles.** 29 in the United States & Canada · 11 elsewhere in the world.
+**43 open roles.** 32 in the United States & Canada · 11 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NISC</strong></td>
+<td><a href="https://trueinterview.io/jobs/28a72185-7f79-4d73-9965-fbe1c9b8a1de">Intern - Test Automation</a></td>
+<td>Lake St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489639612/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Optimum</strong></td>
+<td><a href="https://trueinterview.io/jobs/453f2659-0529-4b54-ad85-aaa688a42e5c">Intern - QA Automation Engineering</a></td>
+<td>Bethpage, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487863266/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/64b1273f-6351-4ffd-b56d-4a7ee720913a">Software Test Engineering Intern - Space and Embedded Crypto</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488648316/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>National Information Solutions Cooperative (nisc</strong></td>
 <td><a href="https://trueinterview.io/jobs/5c770ea0-56e8-4815-bf2c-14393e3a3db6">Intern - Test Automation</a></td>

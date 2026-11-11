@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**101 open roles.** 85 in the United States & Canada · 16 elsewhere in the world.
+**102 open roles.** 86 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ec24026d-89e6-4f1a-8d1b-d81f01a9eecb">CyberSecurity Intern</a></td>
 <td>Columbus, GA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488621729/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Minitab</strong></td>
+<td><a href="https://trueinterview.io/jobs/3b4d44c7-01f2-46b8-bda2-ff877426215a">Cybersecurity Intern (Summer 2027)</a></td>
+<td>State College, Pennsylvania, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/minitab/jobs/8200356003">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

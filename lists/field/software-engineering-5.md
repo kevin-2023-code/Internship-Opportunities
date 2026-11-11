@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,667 open roles.** 1,337 in the United States & Canada · 330 elsewhere in the world.
+**1,672 open roles.** 1,342 in the United States & Canada · 330 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/de20d465-6b36-46dc-b5e5-a412edbf8b01">Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test</a></td>
+<td>München, Deutschland</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200689729-1731?board_id=JB001">Apply</a></td>
+<td align="center">18 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sereact Gmbh</strong></td>
+<td><a href="https://trueinterview.io/jobs/6957a5ac-e9d7-4e85-a4fe-b8ecbdeb7c71">Cybersecurity Intern</a></td>
+<td>Stuttgart Schockenriedstr. 17</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sereact/baae4b51-6e24-4044-93aa-9d7f1b7671dd/application">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Abridge</strong></td>
+<td><a href="https://trueinterview.io/jobs/32178189-d76e-4c67-bf9c-9af08eac7351">Member of Technical Staff, Intern</a></td>
+<td>SF Office</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wikimedia Foundation</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9833901-583c-4bab-8c62-dcb027c421f1">Software Engineering Internship Program (2027)</a> 🌐</td>
+<td>Remote</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/wikimedia/jobs/8268853">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Research Innovations</strong></td>
+<td><a href="https://trueinterview.io/jobs/bb0d9887-4136-418b-a334-8df9a0bcfe95">DoW SkillBridge Forward Deployed Engineer Intern</a></td>
+<td>Joint Base Lewis-McChord</td>
+<td align="center"><a href="https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Grab</strong></td>
 <td><a href="https://trueinterview.io/jobs/6104fc29-f564-4c47-be5c-3f6dc858efd3">Intern, Software Engineer - Backend</a></td>

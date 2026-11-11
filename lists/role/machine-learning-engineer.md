@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**166 open roles.** 132 in the United States & Canada · 34 elsewhere in the world.
+**167 open roles.** 133 in the United States & Canada · 34 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Seagate Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/1e872764-8276-4233-ae7f-bdd5f505d880">Generative AI &amp; Machine Learning Engineering Intern (Summer 2027)</a></td>
+<td>Bloomington, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487854368/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>SRC</strong></td>
 <td><a href="https://trueinterview.io/jobs/667c04f2-8c3c-4eab-b7a9-5565cf94bfdc">Machine Learning Engineer (Intern - Summer 2027)</a></td>
