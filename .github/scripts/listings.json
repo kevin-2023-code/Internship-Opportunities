@@ -5,9 +5,84 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T11:04:20.070Z",
-  "count": 3593,
+  "listingsChangedAt": "2026-11-11T12:07:17.616Z",
+  "count": 3595,
   "listings": [
+    {
+      "id": "874da8d4-a25c-41f2-b7de-6cc9eb13ce6b",
+      "company": "IBM",
+      "title": "Data Scientist-Advanced Analytics Intern",
+      "locations": [
+        "Petaling Jaya, Selangor, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488209479/",
+      "url": "https://trueinterview.io/jobs/874da8d4-a25c-41f2-b7de-6cc9eb13ce6b",
+      "postedAt": "2026-11-11T11:04:00.000Z",
+      "updatedAt": "2026-11-11T11:04:00.000Z"
+    },
+    {
+      "id": "dc54f1fd-3363-4549-a534-9ec48f7cf4d2",
+      "company": "Intel",
+      "title": "Intern System Software Development Engineer",
+      "locations": [
+        "Taman Pulau Pinang, Penang, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488687073/",
+      "url": "https://trueinterview.io/jobs/dc54f1fd-3363-4549-a534-9ec48f7cf4d2",
+      "postedAt": "2026-11-11T10:50:00.000Z",
+      "updatedAt": "2026-11-11T10:50:00.000Z"
+    },
+    {
+      "id": "f1de26f9-babe-4d58-a9e4-ffc990afda32",
+      "company": "Intel",
+      "title": "Middleware Software Engineering Intern",
+      "locations": [
+        "Gdańsk, Pomorskie, Poland"
+      ],
+      "cities": [],
+      "countries": [
+        "Poland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4480724151/",
+      "url": "https://trueinterview.io/jobs/f1de26f9-babe-4d58-a9e4-ffc990afda32",
+      "postedAt": "2026-11-11T10:39:00.000Z",
+      "updatedAt": "2026-11-11T10:39:00.000Z"
+    },
     {
       "id": "761a67d3-9a70-449a-a86b-dced5e0b6f30",
       "company": "Aptiv",
@@ -70915,32 +70990,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/insomniac/jobs/6226349004",
       "url": "https://trueinterview.io/jobs/3a0f2e16-ea41-4d6c-8844-5b4451d3a4fd",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "651000b9-55f5-4ff7-9a5c-ff6cb569aecc",
-      "company": "Intel",
-      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
-      "locations": [
-        "US, Oregon, Hillsboro, United States of America",
-        "US, California, Santa Clara, United States of America"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136",
-      "url": "https://trueinterview.io/jobs/651000b9-55f5-4ff7-9a5c-ff6cb569aecc",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
