@@ -5,9 +5,63 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T04:05:51.313Z",
-  "count": 3567,
+  "listingsChangedAt": "2026-11-11T05:04:42.754Z",
+  "count": 3571,
   "listings": [
+    {
+      "id": "cafddc2e-7787-4774-93b0-7ed71d63a459",
+      "company": "ByteDance",
+      "title": "Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487859561/",
+      "url": "https://trueinterview.io/jobs/cafddc2e-7787-4774-93b0-7ed71d63a459",
+      "postedAt": "2026-11-11T04:19:00.000Z",
+      "updatedAt": "2026-11-11T04:19:00.000Z"
+    },
+    {
+      "id": "6ef7aa7e-e83c-4698-a128-55faf399ea62",
+      "company": "Riot Games",
+      "title": "Data Engineering Intern - Summer 2027",
+      "locations": [
+        "Los Angeles, USA"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716",
+      "url": "https://trueinterview.io/jobs/6ef7aa7e-e83c-4698-a128-55faf399ea62",
+      "postedAt": "2026-11-11T03:02:57.000Z",
+      "updatedAt": "2026-11-11T03:02:57.000Z"
+    },
     {
       "id": "28a72185-7f79-4d73-9965-fbe1c9b8a1de",
       "company": "NISC",
@@ -583,6 +637,31 @@
       "url": "https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7",
       "postedAt": "2026-11-10T21:44:18.000Z",
       "updatedAt": "2026-11-10T21:44:18.000Z"
+    },
+    {
+      "id": "b9f1e9f6-1211-469b-b789-4f5a3672c3c4",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - Technical Support",
+      "locations": [
+        "Budapest, Hungary"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160974349-sap-ixp-intern-technical-support-",
+      "url": "https://trueinterview.io/jobs/b9f1e9f6-1211-469b-b789-4f5a3672c3c4",
+      "postedAt": "2026-11-10T21:43:21.000Z",
+      "updatedAt": "2026-11-10T21:43:21.000Z"
     },
     {
       "id": "dfc74e11-5df9-4ce8-ba71-5aceb1d28a96",
@@ -4955,29 +5034,54 @@
       "updatedAt": "2026-11-09T17:24:00.000Z"
     },
     {
-      "id": "5330e797-5053-4066-b126-41a5d7450a92",
-      "company": "WebstaurantStore",
-      "title": "Logistics Data Analyst Intern (Remote Friendly)",
+      "id": "2a7c4e68-81b9-4da9-9cd5-6127b94e51b3",
+      "company": "Biodesix, Inc.",
+      "title": "Software Development & AI Internship (Undergrad/Graduate)",
       "locations": [
-        "Lititz, PA"
+        "Louisville, CO"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487920962/",
-      "url": "https://trueinterview.io/jobs/5330e797-5053-4066-b126-41a5d7450a92",
-      "postedAt": "2026-11-09T16:43:00.000Z",
-      "updatedAt": "2026-11-09T16:43:00.000Z"
+      "applyUrl": "https://grnh.se/yj6lk7rc9us",
+      "url": "https://trueinterview.io/jobs/2a7c4e68-81b9-4da9-9cd5-6127b94e51b3",
+      "postedAt": "2026-11-09T17:12:00.000Z",
+      "updatedAt": "2026-11-09T17:12:00.000Z"
+    },
+    {
+      "id": "738d3fe4-55cd-4c31-9db7-bace85a99efd",
+      "company": "St. Katharine Drexel Parish",
+      "title": "IT Service and Support Intern",
+      "locations": [
+        "Green Bay, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0684a99840168535a65763550&id=8a7887a8a18473d601a1c137739f4915&lang=en",
+      "url": "https://trueinterview.io/jobs/738d3fe4-55cd-4c31-9db7-bace85a99efd",
+      "postedAt": "2026-11-09T16:49:59.000Z",
+      "updatedAt": "2026-11-09T16:49:59.000Z"
     },
     {
       "id": "5768672c-33d3-44cb-8d86-e0d2ce129bcf",

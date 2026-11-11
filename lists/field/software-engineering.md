@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,679 open roles.** 1,350 in the United States & Canada · 329 elsewhere in the world.
+**1,682 open roles.** 1,353 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/cafddc2e-7787-4774-93b0-7ed71d63a459">Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487859561/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Riot Games</strong></td>
+<td><a href="https://trueinterview.io/jobs/6ef7aa7e-e83c-4698-a128-55faf399ea62">Data Engineering Intern - Summer 2027</a></td>
+<td>Los Angeles, CA</td>
+<td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>NISC</strong></td>
 <td><a href="https://trueinterview.io/jobs/28a72185-7f79-4d73-9965-fbe1c9b8a1de">Intern - Test Automation</a></td>
@@ -668,6 +682,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332">Cybersecurity Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488788761/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Biodesix, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a7c4e68-81b9-4da9-9cd5-6127b94e51b3">Software Development &amp; AI Internship (Undergrad/Graduate)</a></td>
+<td>Louisville, CO</td>
+<td align="center"><a href="https://grnh.se/yj6lk7rc9us">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d0d91a23-3d80-4d34-be64-9669097f3231">DevOps Engineer Intern, Summer 2027</a></td>
 <td>Plano, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469994651/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Botpress</strong></td>
-<td><a href="https://trueinterview.io/jobs/c4aaa627-2ed6-4033-90e1-af1c1086d43f">Software Developer Intern - WINTER 2027</a></td>
-<td>Montréal, Canada</td>
-<td align="center"><a href="https://apply.workable.com/j/959E328ECA">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>O-I (Owens-Illinois)</strong></td>
-<td><a href="https://trueinterview.io/jobs/fff78bef-8e5d-48a1-81e9-5202418ba6ea">Finished Products (Engineering) Co-Op</a></td>
-<td>Perrysburg, Ohio, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/O-I/744000159397749-finished-products-engineering-co-op">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RSJ Investments</strong></td>
-<td><a href="https://trueinterview.io/jobs/83c24cc5-9fd8-4ec1-8ec5-be3b5f0d3283">C# Developer pro interní informační systém</a></td>
-<td>Colorado, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484652754/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>
