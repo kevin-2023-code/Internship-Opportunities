@@ -32,9 +32,9 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-11 20:04 UTC_
+_Last updated: 2026-11-11 21:11 UTC_
 
-**2,943 open internships** from **1,209 employers** · **818 posted in the last 7 days** · refreshed hourly
+**2,943 open internships** from **1,209 employers** · **806 posted in the last 7 days** · refreshed hourly
 
 ### Browse 2,943 internships by field
 
@@ -54,9 +54,9 @@ _Last updated: 2026-11-11 20:04 UTC_
 
 ### 🔥 Posting the most this week
 
-**IBM** 28 &nbsp;·&nbsp; **TikTok** 19 &nbsp;·&nbsp; **Meta** 13 &nbsp;·&nbsp; **Regent** 11 &nbsp;·&nbsp; **AECOM** 9 &nbsp;·&nbsp; **Tesla** 9 &nbsp;·&nbsp; **The New York Times** 8 &nbsp;·&nbsp; **Marketeq Digital Solutions** 7 &nbsp;·&nbsp; **Shure** 7 &nbsp;·&nbsp; **ByteDance** 6 &nbsp;·&nbsp; **PayPal** 6 &nbsp;·&nbsp; **Pivotal** 6
+**IBM** 28 &nbsp;·&nbsp; **TikTok** 19 &nbsp;·&nbsp; **Meta** 13 &nbsp;·&nbsp; **Regent** 10 &nbsp;·&nbsp; **AECOM** 9 &nbsp;·&nbsp; **Tesla** 9 &nbsp;·&nbsp; **The New York Times** 8 &nbsp;·&nbsp; **Marketeq Digital Solutions** 7 &nbsp;·&nbsp; **Shure** 7 &nbsp;·&nbsp; **ByteDance** 6 &nbsp;·&nbsp; **PayPal** 6 &nbsp;·&nbsp; **Pivotal** 6
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 128 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 127 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -70,7 +70,7 @@ _Counts are internships in the United States & Canada. Each page carries every r
 
 📍 **By location** — [🌉 SF Bay Area (524)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (171)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (156)](lists/place/boston.md) · [🗽 New York City (145)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (105)](lists/place/seattle.md) · [🎸 Austin (89)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (86)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (85)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌬️ Chicago (61)](lists/place/chicago.md) · [+17 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (818)](lists/new-this-week.md) · [🌐 Remote (32)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (806)](lists/new-this-week.md) · [🌐 Remote (32)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -1265,7 +1265,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/b1acb89d-d0bb-438a-80ed-c8b49f798c12">FY27 Intern - Firmware Engineering Internship - Canada (16 months)</a> 🆕</td>
 <td>Toronto, Ontario, Canada</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488380688/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>Coffman Engineers</strong></td>
@@ -1901,7 +1901,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/eaec6c85-7cda-465c-9aef-aab687f2df7a">Software Product Management Intern</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487576021/">Apply</a></td>
-<td align="center">5d</td>
+<td align="center">6d</td>
 </tr>
 <tr>
 <td><strong>Shure</strong></td>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,732 open roles.** 1,390 in the United States & Canada · 342 elsewhere in the world.
+**1,733 open roles.** 1,390 in the United States & Canada · 343 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1463,6 +1463,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/226461ec-a412-4afd-8c71-dd84907800ef">Applications Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018045">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Rakuten Kobo Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7">Software Developer Intern (Dublin)</a></td>
 <td>Dublin, County Dublin, Ireland</td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/71079210-d575-41ef-80a5-f265cee587a1">Roadway Engineer Intern</a></td>
 <td>Greater Orlando</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484740780/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>FlightSafety International</strong></td>
-<td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
-<td>Greater St. Louis</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

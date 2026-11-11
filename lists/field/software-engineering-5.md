@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,732 open roles.** 1,390 in the United States & Canada · 342 elsewhere in the world.
+**1,733 open roles.** 1,390 in the United States & Canada · 343 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>FlightSafety International</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e2b99ff-8d7d-4429-90c8-a5f454589e48">Visual Software Engineer Internship - Summer 2027</a></td>
+<td>Greater St. Louis</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481795736/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Jacobs</strong></td>
 <td><a href="https://trueinterview.io/jobs/97b5f2b4-0356-42bb-9a63-d1596051f5b4">Bridge Engineering Intern (Dublin)</a></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T20:04:45.012Z",
-  "count": 3663,
+  "listingsChangedAt": "2026-11-11T21:11:52.458Z",
+  "count": 3664,
   "listings": [
     {
       "id": "9ee9666a-5774-405f-b498-9a98bf12949a",
@@ -3007,6 +3007,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4480756565/",
       "url": "https://trueinterview.io/jobs/c2a3230f-e42b-47d8-b8e4-f17d15de4cbc",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "id": "226461ec-a412-4afd-8c71-dd84907800ef",
+      "company": "Texas Instruments",
+      "title": "Applications Engineering Intern m/f/d",
+      "locations": [
+        "Freising, Bayern, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018045",
+      "url": "https://trueinterview.io/jobs/226461ec-a412-4afd-8c71-dd84907800ef",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "updatedAt": "2026-11-11T00:00:00.000Z"
     },

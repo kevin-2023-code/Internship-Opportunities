@@ -6,7 +6,7 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-11 20:04 UTC_
+_Last updated: 2026-11-11 21:11 UTC_
 
 > **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 231 of the 1,417 employers on this list (32% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
@@ -32,7 +32,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,390 | 342 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,390 | 343 |
 | [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 718 | 71 |
 | [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 549 | 197 |
 | [📱 Product & Design](field/product-and-design.md) | 162 | 63 |
@@ -45,12 +45,12 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,172 of the 3,663** internships on this list (32%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,173 of the 3,664** internships on this list (32%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🏛️ Big Tech](company/big-tech.md) | 459 | 131 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
-| [🔬 Semiconductors & chips](company/semiconductors.md) | 202 | 68 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
+| [🏛️ Big Tech](company/big-tech.md) | 459 | 132 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as 10,000 people or more. An employer the registry does not cover is in no size cut at all. |
+| [🔬 Semiconductors & chips](company/semiconductors.md) | 202 | 69 | Every employer the company registry files under Semiconductors & chips, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🖥️ Hardware, devices & networking](company/hardware-devices.md) | 172 | 42 | Every employer the company registry files under Hardware, devices & networking, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
 | [🏗️ Large tech (1,000–9,999)](company/large-tech.md) | 106 | 21 | A derived cut, not a hand-picked list: the employer is in one of the technology sectors and the registry records its headcount as between 1,000 and 9,999 people. An employer the registry does not cover is in no size cut at all. |
 | [📱 Consumer internet & media](company/consumer-internet.md) | 92 | 17 | Every employer the company registry files under Consumer internet & media, at any size. The sector is a fact about the company recorded once, never inferred from a job title. |
@@ -79,7 +79,7 @@ _Between them these 23 filters hold **1,172 of the 3,663** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **1,924 of the 3,663** internships on this list (53%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **1,924 of the 3,664** internships on this list (53%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
@@ -114,7 +114,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 35 filters hold **2,096 of the 3,663** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 35 filters hold **2,096 of the 3,664** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -160,11 +160,11 @@ _Between them these 35 filters hold **2,096 of the 3,663** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **1,027 of the 3,663** internships on this list (28%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **1,015 of the 3,664** internships on this list (28%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 818 | 172 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 806 | 172 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 32 | 12 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

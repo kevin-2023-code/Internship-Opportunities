@@ -2,7 +2,7 @@
 
 # 🔬 Semiconductors & chips
 
-**270 open roles.** 202 in the United States & Canada · 68 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
+**271 open roles.** 202 in the United States & Canada · 69 elsewhere in the world. Chip design, EDA, foundries and semiconductor capital equipment.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1462,6 +1462,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/14cebc58-5581-419d-b953-fdd6a7cd8e3b">AI GPU Arch Perf Analysis Intern</a></td>
 <td>Beijing, Beijing, China</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488647765/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/226461ec-a412-4afd-8c71-dd84907800ef">Applications Engineering Intern m/f/d</a></td>
+<td>Freising, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018045">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
