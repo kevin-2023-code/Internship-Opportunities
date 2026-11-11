@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/7f13d84a-e691-479f-a6ec-286948cb0848">Co-Op Embedded Software Engineering</a></td>
+<td>Andover, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4480753907/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
@@ -1023,13 +1030,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/090e522d-61dc-47f8-bbfb-ee829bae00ee">Micro-Intern: Angular/FHIR Development (IAP)</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/intersystems/jobs/7992645003">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightmatter</strong></td>
-<td><a href="https://trueinterview.io/jobs/4debd7c4-d4f7-4a56-ac09-a820ba270e53">Silicon, Hardware, &amp; Photonics Engineering - Internship</a></td>
-<td>Boston, MA<br/>Mountain View, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

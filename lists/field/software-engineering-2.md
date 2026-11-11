@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,719 open roles.** 1,378 in the United States & Canada · 341 elsewhere in the world.
+**1,727 open roles.** 1,386 in the United States & Canada · 341 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,76 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Plus3 IT Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/93d8df4e-c971-4842-96f9-7b7ecc2c5b60">Cloud Engineer Intern</a></td>
+<td>Reston, VA</td>
+<td align="center"><a href="https://p3it.bamboohr.com/careers/37?postedDate=2026-11-04">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Teledyne FLIR</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f1834a7-2467-4b59-8365-bf2849f29be0">Software Engineering Coop</a></td>
+<td>Waterloo, Ontario, Canada<br/>Waterloo, Canada</td>
+<td align="center"><a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/XMLNAME--Software-Engineering-Coop_REQ36845">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TMX GROUP</strong></td>
+<td><a href="https://trueinterview.io/jobs/914a4a4a-aae7-4e43-8ce7-5927501cb758">Junior Cybersecurity Operations Analyst Intern</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://tmx.wd3.myworkdayjobs.com/fr-CA/TMX_Careers/job/Toronto---100-Adelaide-St-W/Junior-Cybersecurity-Operations-Analyst-Intern_R-6671">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/455f29d9-6009-468d-aebf-f898a1fcf678">Security Engineering Intern</a></td>
+<td>Toronto, ON<br/>Toronto, Canada</td>
+<td align="center"><a href="https://tmx.wd3.myworkdayjobs.com/en-US/TMX_Careers/job/Toronto---100-Adelaide-St-W/Security-Engineering-Intern_R-6656">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sunlife</strong></td>
+<td><a href="https://trueinterview.io/jobs/b039042b-c4d0-4e9a-8dd5-c8c01d87bb9e">Business Operations Software Engineer - 2027 Co-op</a></td>
+<td>Milwaukee, WI<br/>Portland, ME<br/>Wellesley, MA<br/>+3 more</td>
+<td align="center"><a href="https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>targetjobs UK</strong></td>
+<td><a href="https://trueinterview.io/jobs/f684ddeb-7a34-41ae-8033-42053f0f1c9e">Software Engineering Internship</a></td>
+<td>Dundee, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486341076/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/de79c6d4-f6be-4b42-bd49-19e41f5e0282">Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA</a></td>
+<td>Roanoke, Virginia, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159540359-highway-engineering-intern-hiring-event-with-aecom-arlington-va">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Staples</strong></td>
+<td><a href="https://trueinterview.io/jobs/9876f42c-f19e-4925-9feb-7ae7130c1e8e">Software Engineer Intern (SDS e-Commerce Team)</a></td>
+<td>Framingham, Massachusetts, United States</td>
+<td align="center"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/77133">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/befdc4b8-56b5-4ff5-a69d-b0ed1e85343a">Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487099128/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TruStage</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbbe54a8-8070-4598-9d2c-f75127021450">IT - Innovation &amp; AI Technology Internship (Hybrid)</a></td>
+<td>Madison, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485031390/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Engramme</strong></td>
 <td><a href="https://trueinterview.io/jobs/b5386059-bc73-44f3-a33e-c9242e676133">Back-End Software Engineer (Co-op / extended internship)</a></td>
@@ -2743,76 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/4b98d112-7f3e-41d1-b080-a642f4e49e03">Cybersecurity Intern Summer 2027</a></td>
 <td>Springfield, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468279385/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Acron Aviation</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f6f7706-b5b6-4450-98f4-78a3032cd61e">Sustaining Engineer Intern - Grand Rapids Site</a></td>
-<td>Grand Rapids, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466240768/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Everest</strong></td>
-<td><a href="https://trueinterview.io/jobs/c33cb035-1d56-458d-91a4-a5a650ba9779">2027 Everest Design Engineering Internship Program</a></td>
-<td>Warren, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466804253/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DRW</strong></td>
-<td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a></td>
-<td>Amsterdam, North Holland, Netherlands<br/>London, England, United Kingdom<br/>Montreal, QC<br/>+2 more</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991196">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Fenner Precision Polymers</strong></td>
-<td><a href="https://trueinterview.io/jobs/77f72fa5-772d-4db9-8438-6eb894660cc1">IT Cybersecurity Analyst Intern - Summer 2027</a></td>
-<td>Lititz, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465937066/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>ZOLL Medical Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/18de8b91-2269-4fbf-a7bf-0d6e7eeed8fa">Design Quality Assurance (DQA) Co-op</a></td>
-<td>Chelmsford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475447249/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>S&amp;C Electric Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/23db6ac0-f389-4b4b-8d04-8afdbbe51cec">Tool Design Engineer Intern</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476792092/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bass Pro Shops</strong></td>
-<td><a href="https://trueinterview.io/jobs/241471a4-7b70-447c-8b1a-bd8e2cb8fe2b">IT Developer Intern Summer 2027</a></td>
-<td>Springfield, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468257655/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Crux Subsurface, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/5ed24ea2-8722-44ce-ac62-ec1f8aeb983c">Engineer Intern</a></td>
-<td>Spokane Valley, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468356302/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Werfen</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4da8053-8a16-4fca-af34-f471e2481ed0">Acute Care Hardware Systems Engineering Co-op</a></td>
-<td>Bedford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476928836/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Arcadis</strong></td>
-<td><a href="https://trueinterview.io/jobs/569c1faa-e8b5-41fc-9bb3-26b3c6c469f8">Water Engineering Intern</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935612/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

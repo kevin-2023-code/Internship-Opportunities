@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**84 open roles.** 82 in the United States & Canada · 2 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**84 open roles.** 81 in the United States & Canada · 3 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -543,13 +543,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Cesiumastro</strong></td>
-<td><a href="https://trueinterview.io/jobs/68415944-c068-4db1-9fc8-9395511b466e">Summer 2027 - GNC Internship</a></td>
-<td>Westminster, CO</td>
-<td align="center"><a href="https://jobs.lever.co/CesiumAstro/e18ce6a5-32ed-468e-a39e-28de9eb16872/apply">Apply</a></td>
-<td align="center">15 Sep 2026</td>
-</tr>
-<tr>
 <td><strong>Anduril Industries</strong></td>
 <td><a href="https://trueinterview.io/jobs/52a1807a-f22b-4c93-9103-6877a62b5e59">Winter 2027 Warhead Engineer Co-op</a></td>
 <td>Costa Mesa, California, United States</td>
@@ -605,6 +598,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>The Exploration Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/0b8fdc8a-0d6a-4ea6-9e5c-1cba224f8b1a">ECLSS V&amp;V Engineer Intern</a></td>
+<td>Munich, Germany</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/ff522da9-87ba-4e4c-b6ee-7226c76583ba">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/1d6c1aa3-6acf-4d9d-9c7b-71c4e9952d9b">Software Intern- Mission Control Center</a></td>
 <td>Munich, Germany</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/bdb17a37-2330-4893-87ba-9ca342bb0748">Apply</a></td>

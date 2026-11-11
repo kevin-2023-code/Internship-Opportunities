@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**522 open roles.**
+**520 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -776,20 +776,6 @@
 <td><a href="https://trueinterview.io/jobs/797e233e-718c-40be-9410-8acb02a543ef">Software Engineer Intern</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/clockworksystems/jobs/6174230004">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Lightmatter</strong></td>
-<td><a href="https://trueinterview.io/jobs/4debd7c4-d4f7-4a56-ac09-a820ba270e53">Silicon, Hardware, &amp; Photonics Engineering - Internship</a></td>
-<td>Mountain View, CA<br/>Boston, MA</td>
-<td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008">Apply</a></td>
-<td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc">2027 PhD AI Model Optimization &amp; Software Engineer Intern/Co-op</a></td>
-<td>San Jose, California, United States<br/>US, CA, San Jose<br/>Santa Clara, California, United States<br/>+3 more</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/92522?lang=en-us">Apply</a></td>
 <td align="center">16 Sep 2026</td>
 </tr>
 <tr>

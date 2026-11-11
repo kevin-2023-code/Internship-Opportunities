@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**34 open roles.** 25 in the United States & Canada · 9 elsewhere in the world.
+**36 open roles.** 27 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Cryptic Vector</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2b92c39-69b5-40bd-a3f9-446dc921f1e4">Winter/Spring 2027 Full Stack Developer Internship</a></td>
+<td>Liberty Township, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481737201/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Greystone</strong></td>
+<td><a href="https://trueinterview.io/jobs/6133a9b7-2121-49be-b391-1d6a863972f4">Full Stack Engineer Intern - Summer 2027</a></td>
+<td>Warrenton, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481586861/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Elire</strong></td>
 <td><a href="https://trueinterview.io/jobs/8916cae3-df73-42be-8bc9-5ec16a149778">Summer 2027 AI Full Stack Developer Consulting Intern</a></td>

@@ -2,7 +2,7 @@
 
 # 🇸🇬 Singapore
 
-**128 open roles.** 2 in the United States & Canada · 126 elsewhere in the world.
+**127 open roles.** 2 in the United States & Canada · 125 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -52,9 +52,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/39123156-1f4a-414e-8333-f3a5deaaa77c">Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS)</a></td>
+<td><a href="https://trueinterview.io/jobs/12d24ce0-a6cc-470e-86e5-867511bf4006">Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS)</a></td>
 <td>Singapore, Singapore<br/>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449761064/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404445261/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -125,13 +125,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/da4b8ead-8fdf-47e4-a135-d576f6b0910c">Content Understanding LLM Algorithm Engineer Intern (Global E-Commerce) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447677625/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/12d24ce0-a6cc-470e-86e5-867511bf4006">Data Analyst Project Intern (TikTok Shop - EMEA Data Science) - 2026 Start (BS/MS）</a></td>
-<td>Singapore, Singapore<br/>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4404445261/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

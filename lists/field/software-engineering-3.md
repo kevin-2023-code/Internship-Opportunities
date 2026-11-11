@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,719 open roles.** 1,378 in the United States & Canada · 341 elsewhere in the world.
+**1,727 open roles.** 1,386 in the United States & Canada · 341 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,76 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Acron Aviation</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f6f7706-b5b6-4450-98f4-78a3032cd61e">Sustaining Engineer Intern - Grand Rapids Site</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466240768/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Everest</strong></td>
+<td><a href="https://trueinterview.io/jobs/c33cb035-1d56-458d-91a4-a5a650ba9779">2027 Everest Design Engineering Internship Program</a></td>
+<td>Warren, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466804253/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>DRW</strong></td>
+<td><a href="https://trueinterview.io/jobs/38f0b8df-dc0c-4e40-a29c-2277072d4d71">Software Developer Intern</a></td>
+<td>Amsterdam, North Holland, Netherlands<br/>London, England, United Kingdom<br/>Montreal, QC<br/>+2 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/drweng/jobs/7991196">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Fenner Precision Polymers</strong></td>
+<td><a href="https://trueinterview.io/jobs/77f72fa5-772d-4db9-8438-6eb894660cc1">IT Cybersecurity Analyst Intern - Summer 2027</a></td>
+<td>Lititz, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465937066/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ZOLL Medical Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/18de8b91-2269-4fbf-a7bf-0d6e7eeed8fa">Design Quality Assurance (DQA) Co-op</a></td>
+<td>Chelmsford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475447249/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>S&amp;C Electric Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/23db6ac0-f389-4b4b-8d04-8afdbbe51cec">Tool Design Engineer Intern</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476792092/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bass Pro Shops</strong></td>
+<td><a href="https://trueinterview.io/jobs/241471a4-7b70-447c-8b1a-bd8e2cb8fe2b">IT Developer Intern Summer 2027</a></td>
+<td>Springfield, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468257655/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Crux Subsurface, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ed24ea2-8722-44ce-ac62-ec1f8aeb983c">Engineer Intern</a></td>
+<td>Spokane Valley, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468356302/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Werfen</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4da8053-8a16-4fca-af34-f471e2481ed0">Acute Care Hardware Systems Engineering Co-op</a></td>
+<td>Bedford, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476928836/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Arcadis</strong></td>
+<td><a href="https://trueinterview.io/jobs/569c1faa-e8b5-41fc-9bb3-26b3c6c469f8">Water Engineering Intern</a></td>
+<td>Detroit, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484935612/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Allen Control Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/6dc6bcad-d069-481f-b635-39f5d6dc6ec4">Systems Engineering Intern, 2027</a></td>
@@ -2744,76 +2814,6 @@
 <td>Boston, MA</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97343">Apply</a></td>
 <td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figure</strong></td>
-<td><a href="https://trueinterview.io/jobs/e540c605-6543-4ac5-84fb-395a037d6d62">Deployment Engineering Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4721113006">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CapTech Consulting</strong></td>
-<td><a href="https://trueinterview.io/jobs/0c7f6798-d605-4b72-b548-685ded76b6fb">Consulting Internship: Data Analysis/Data Engineering (Summer 2027)</a></td>
-<td>Richmond, Virginia, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169-consulting-internship-data-analysis-data-engineering-summer-2027-">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4ab82e7c-9308-46ea-8a63-444975247dd6">Consulting Internship: Software Engineering (Summer 2027)</a></td>
-<td>Richmond, Virginia, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115-consulting-internship-software-engineering-summer-2027-">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/f5c15c7b-b48b-4cf2-8233-d193504acf14">Product software development - Internship</a></td>
-<td>Aguadilla, Puerto Rico, Puerto Rico</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Product-software-development---Internship_1213045">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Salient Motion</strong></td>
-<td><a href="https://trueinterview.io/jobs/40fde7b1-b249-4be6-8810-9aa193e64afa">Engineering Co-op</a></td>
-<td>Hawthorne, HQ1 - Hawthorne<br/>Hawthorne, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/salientmotion/jobs/5449549008">Apply</a></td>
-<td align="center">10 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Affirm</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
-<td>San Francisco, California, United States, San Francisco</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8011375003">Apply</a></td>
-<td align="center">10 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Harbinger Motors Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/72122b74-bca3-4b8d-86fd-bc78aa36d05f">Intern, Test Engineering</a></td>
-<td>Garden Grove, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5255968007">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia</strong></td>
-<td><a href="https://trueinterview.io/jobs/279ad3c6-b79c-4d38-8d94-a6cc76a411f4">Field Engineering Intern</a></td>
-<td>Lincoln, Nebraska, United States<br/>Houston, Texas, United States<br/>Decatur, Illinois, United States<br/>+2 more</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000154779699-field-engineering-intern">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Coinbase</strong></td>
-<td><a href="https://trueinterview.io/jobs/dea01390-fd29-4b13-9a47-97aa3ee021ba">Forward Deployed Engineer Intern (HR Technology)</a></td>
-<td>Hybrid - New York, NY<br/>US - Remote Zone 1 (Job Requisitions Only)</td>
-<td align="center"><a href="https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510">Apply</a></td>
-<td align="center">9 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/c81dfae3-755b-4bdc-a1a6-af78f7c5598b">Hardware Thermal Simulation Engineering Intern at UIUC Research Park (January-August 2027)</a></td>
-<td>Champaign, Illinois</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/526c87f2-fba4-4744-8b87-1cb949b5cdfc">Apply</a></td>
-<td align="center">9 Oct 2026</td>
 </tr>
 </tbody>
 </table>
