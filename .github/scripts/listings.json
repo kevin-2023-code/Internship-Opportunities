@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T01:04:50.026Z",
-  "count": 3561,
+  "listingsChangedAt": "2026-11-11T02:06:10.058Z",
+  "count": 3565,
   "listings": [
     {
       "id": "28a72185-7f79-4d73-9965-fbe1c9b8a1de",
@@ -34,6 +34,56 @@
       "updatedAt": "2026-11-11T00:39:00.000Z"
     },
     {
+      "id": "acea2d2f-df0a-442c-84b0-b77e470c5985",
+      "company": "JMP",
+      "title": "JMP 2027 Summer Internship; C++ Software Development",
+      "locations": [
+        "Cary, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489655042/",
+      "url": "https://trueinterview.io/jobs/acea2d2f-df0a-442c-84b0-b77e470c5985",
+      "postedAt": "2026-11-11T00:37:00.000Z",
+      "updatedAt": "2026-11-11T00:37:00.000Z"
+    },
+    {
+      "id": "5e4b9b07-7063-45d0-a580-40fb624bb98f",
+      "company": "Optimum",
+      "title": "Intern - Software Development",
+      "locations": [
+        "Bethpage, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487869013/",
+      "url": "https://trueinterview.io/jobs/5e4b9b07-7063-45d0-a580-40fb624bb98f",
+      "postedAt": "2026-11-11T00:30:00.000Z",
+      "updatedAt": "2026-11-11T00:30:00.000Z"
+    },
+    {
       "id": "453f2659-0529-4b54-ad85-aaa688a42e5c",
       "company": "Optimum",
       "title": "Intern - QA Automation Engineering",
@@ -59,6 +109,31 @@
       "updatedAt": "2026-11-11T00:28:00.000Z"
     },
     {
+      "id": "86443b64-25df-4c32-892c-74429191ce3c",
+      "company": "Optimum",
+      "title": "Intern - DevOps Toolchain",
+      "locations": [
+        "Bethpage, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4487859382/",
+      "url": "https://trueinterview.io/jobs/86443b64-25df-4c32-892c-74429191ce3c",
+      "postedAt": "2026-11-11T00:17:00.000Z",
+      "updatedAt": "2026-11-11T00:17:00.000Z"
+    },
+    {
       "id": "7ff4f714-7e8e-471e-887f-2a954b417134",
       "company": "Trimble Inc.",
       "title": "Software Engineering Intern",
@@ -70,9 +145,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -82,6 +157,52 @@
       "url": "https://trueinterview.io/jobs/7ff4f714-7e8e-471e-887f-2a954b417134",
       "postedAt": "2026-11-11T00:15:00.000Z",
       "updatedAt": "2026-11-11T00:15:00.000Z"
+    },
+    {
+      "id": "f5f728df-009d-42ef-9dad-d8baf0b74007",
+      "company": "Epic",
+      "title": "Software Development Intern",
+      "locations": [
+        "Milwaukee, WI",
+        "Bloomington, MN",
+        "Aurora, IL",
+        "Cedar Rapids, IA",
+        "Chicago, IL",
+        "Detroit, MI",
+        "Rochester, MN",
+        "Des Moines, IA",
+        "Boise, ID",
+        "Carmel, IN",
+        "Bellevue, NE",
+        "Ann Arbor, MI",
+        "Cincinnati, OH",
+        "Columbus, OH",
+        "Cleveland, OH",
+        "Akron, OH",
+        "Evansville, IN",
+        "Fort Wayne, IN",
+        "Madison, WI"
+      ],
+      "cities": [
+        "Chicago, IL",
+        "Bellevue, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488630786/",
+      "url": "https://trueinterview.io/jobs/f5f728df-009d-42ef-9dad-d8baf0b74007",
+      "postedAt": "2026-11-10T23:41:00.000Z",
+      "updatedAt": "2026-11-11T00:11:00.000Z"
     },
     {
       "id": "64b1273f-6351-4ffd-b56d-4a7ee720913a",
@@ -96,7 +217,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "QA Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -148,7 +269,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -300,9 +421,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -312,6 +433,56 @@
       "url": "https://trueinterview.io/jobs/71038cdf-3628-4cf3-8482-fc8c7c027d5e",
       "postedAt": "2026-11-10T23:29:00.000Z",
       "updatedAt": "2026-11-10T23:29:00.000Z"
+    },
+    {
+      "id": "71bf4e74-4c1e-4db8-8f3b-80844f3d8068",
+      "company": "BMW Group",
+      "title": "AI CoE Intern",
+      "locations": [
+        "Columbus, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489646418/",
+      "url": "https://trueinterview.io/jobs/71bf4e74-4c1e-4db8-8f3b-80844f3d8068",
+      "postedAt": "2026-11-10T23:23:00.000Z",
+      "updatedAt": "2026-11-10T23:23:00.000Z"
+    },
+    {
+      "id": "278b6ca8-58e2-4f69-96af-4bb3d06ac17f",
+      "company": "Braintrust",
+      "title": "AI Software Development Intern, Internship-to-Hire (Remote, Iowa-Based)",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489634771/",
+      "url": "https://trueinterview.io/jobs/278b6ca8-58e2-4f69-96af-4bb3d06ac17f",
+      "postedAt": "2026-11-10T23:23:00.000Z",
+      "updatedAt": "2026-11-10T23:23:00.000Z"
     },
     {
       "id": "ec24026d-89e6-4f1a-8d1b-d81f01a9eecb",
@@ -541,6 +712,31 @@
       "url": "https://trueinterview.io/jobs/38c77847-078d-4b33-a407-fb2553cf0af7",
       "postedAt": "2026-11-10T21:00:00.000Z",
       "updatedAt": "2026-11-10T21:00:00.000Z"
+    },
+    {
+      "id": "f05a928d-d5d6-4a51-be31-8b833d5a44c9",
+      "company": "Magnet Forensics",
+      "title": "Information Security Analyst Co-op (Winter 2027)",
+      "locations": [
+        "Waterloo / Ottawa / Ontario"
+      ],
+      "cities": [],
+      "countries": [
+        "Canada"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483",
+      "url": "https://trueinterview.io/jobs/f05a928d-d5d6-4a51-be31-8b833d5a44c9",
+      "postedAt": "2026-11-10T20:52:29.000Z",
+      "updatedAt": "2026-11-10T20:52:29.000Z"
     },
     {
       "id": "ab131d07-4b25-4c3d-9e9e-482bdd360724",
@@ -3624,6 +3820,31 @@
       "updatedAt": "2026-11-10T00:02:15.000Z"
     },
     {
+      "id": "5dbe19f1-d336-4c2f-8bcd-0fea195c6502",
+      "company": "Clean Harbors",
+      "title": "Mechanical Engineering Intern Industrial Services | Summer 2027",
+      "locations": [
+        "OH, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/168741",
+      "url": "https://trueinterview.io/jobs/5dbe19f1-d336-4c2f-8bcd-0fea195c6502",
+      "postedAt": "2026-11-10T00:00:00.000Z",
+      "updatedAt": "2026-11-10T00:00:00.000Z"
+    },
+    {
       "id": "2129f9c9-5d8e-4ff9-82fb-bb139f846cb3",
       "company": "NOV",
       "title": "Mechanical Engineering Intern",
@@ -3977,7 +4198,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4001,7 +4222,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -66281,31 +66502,6 @@
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
-      "id": "a43d4ca6-6407-4e3c-a51a-6d00fe89bd02",
-      "company": "Clean Harbors",
-      "title": "Chemical Engineering Project Management Intern - Summer 2027",
-      "locations": [
-        "Norwell, MA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167240",
-      "url": "https://trueinterview.io/jobs/a43d4ca6-6407-4e3c-a51a-6d00fe89bd02",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
       "id": "1b145444-2571-420a-952f-a2a7095d3ad8",
       "company": "formlabs",
       "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
@@ -66564,31 +66760,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
       "url": "https://trueinterview.io/jobs/9c0d8134-0522-41bd-949b-c455550bedfe",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "73019a5c-f8e3-482a-a983-31a602f8de48",
-      "company": "Nokia",
-      "title": "Network Systems Engineer Co-op/Intern",
-      "locations": [
-        "Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672",
-      "url": "https://trueinterview.io/jobs/73019a5c-f8e3-482a-a983-31a602f8de48",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
@@ -75038,31 +75209,6 @@
       "url": "https://trueinterview.io/jobs/b8872328-c065-48b4-ad37-fab4ef5802c3",
       "postedAt": "2026-10-12T05:00:00.000Z",
       "updatedAt": "2026-10-12T05:00:00.000Z"
-    },
-    {
-      "id": "a3f67f0a-9f00-442d-a13d-7b1318298b6b",
-      "company": "Clean Harbors",
-      "title": "Chemical Engineer Intern - Summer 2027",
-      "locations": [
-        "Wichita, KS, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/166791",
-      "url": "https://trueinterview.io/jobs/a3f67f0a-9f00-442d-a13d-7b1318298b6b",
-      "postedAt": "2026-10-12T00:00:00.000Z",
-      "updatedAt": "2026-10-12T00:00:00.000Z"
     },
     {
       "id": "d9612e48-f4f9-4607-9553-6adfdcd85b11",
@@ -92472,33 +92618,6 @@
       "url": "https://trueinterview.io/jobs/f29fe7e4-8abe-45b9-810f-9de7b1193f3f",
       "postedAt": "2026-09-12T21:14:34.000Z",
       "updatedAt": "2026-09-12T21:14:34.000Z"
-    },
-    {
-      "id": "823c9e92-46f6-44e0-b2cd-a2386469c5ce",
-      "company": "Join Our Talent Community",
-      "title": "AfroTech 2026 Software Engineering Internship",
-      "locations": [
-        "Seattle, Washington, United States"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003",
-      "url": "https://trueinterview.io/jobs/823c9e92-46f6-44e0-b2cd-a2386469c5ce",
-      "postedAt": "2026-09-12T01:24:20.000Z",
-      "updatedAt": "2026-09-12T01:24:20.000Z"
     }
   ]
 }
