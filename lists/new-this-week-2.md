@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**978 open roles.** 814 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
+**977 open roles.** 813 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nissan Motor Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/aed3c1dc-d897-4e2a-8980-fbef1c995607">Machine Learning Research Mapping Intern - Spring 2027 - Santa Clara, CA</a></td>
+<td>Santa Clara, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479834632/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>HoYoverse</strong></td>
 <td><a href="https://trueinterview.io/jobs/26ae9e81-08ee-4ea0-8d5c-169a072aeccc">Research Scientist Intern - Video Generation</a></td>
@@ -356,13 +363,6 @@
 <td><a href="https://trueinterview.io/jobs/15d3c16e-2891-4a41-9d69-457d3075d212">Robotics Intern, Mechanical Engineering</a></td>
 <td>Cambridge, MA</td>
 <td align="center"><a href="https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seagate Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/0da1771d-e6c6-4fe1-903a-97c4ae52fd47">Global Revenue Operations Analytics: Data Analyst Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=14977">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 <tr>

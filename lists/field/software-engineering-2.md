@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,677 open roles.** 1,347 in the United States & Canada · 330 elsewhere in the world.
+**1,679 open roles.** 1,350 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JobsInPython</strong></td>
+<td><a href="https://trueinterview.io/jobs/5b00187c-2021-4c20-a5cd-152ad3192c34">Software Engineer Intern - Arango Cookbooks</a></td>
+<td>Indiana, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484657873/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>OnLogic</strong></td>
+<td><a href="https://trueinterview.io/jobs/a27a5497-057e-423f-81e3-70fc11b2f8e4">Firmware Engineering Co-op</a></td>
+<td>South Burlington, VT<br/>Cary, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460621712/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>CACI International Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/d185eafc-6437-465f-96da-7599e36daede">Cleared Software Engineer Intern - Summer 2027</a></td>
+<td>Denver, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481059137/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Rivian</strong></td>
 <td><a href="https://trueinterview.io/jobs/86d8b6d9-5e20-4613-b84e-805e7f92b268">Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/570af846-ab5c-4416-9a0e-0c95546d2bd7">2027 Future Talent Program - Device Development &amp; Technology - Systems &amp; Human Factors Engineering - Co-op</a></td>
 <td>Rahway, NJ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484782865/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Paramify</strong></td>
-<td><a href="https://trueinterview.io/jobs/ef6dd09c-3450-4f5b-8bed-a463a052af54">Cyber Security Solution Engineer (Intern)</a></td>
-<td>Lehi, UT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4393994090/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sigmatech</strong></td>
-<td><a href="https://trueinterview.io/jobs/9adcfafc-e1f7-4172-a584-0c622c0fb7ef">Space Systems Engineering Intern</a></td>
-<td>Arlington, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484786445/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Torani (R. Torre &amp; Co.)</strong></td>
-<td><a href="https://trueinterview.io/jobs/d8bf4797-977d-4b61-95e5-0dc28dc31d65">Post Graduate Engineering Intern</a></td>
-<td>San Leandro, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482578177/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

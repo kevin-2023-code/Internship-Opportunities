@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**81 open roles.** 80 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**82 open roles.** 81 in the United States & Canada · 1 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2416388a-21b6-4223-8144-5ccfec4623a4">Site Reliability Internship - Summer 2027</a></td>
 <td>El Segundo, California, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fdc192d-093d-4dc6-a448-592b170b4960">2027 Summer Intern - Supplier Development Engineer - 6463</a></td>
+<td>Dallas, Texas</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>

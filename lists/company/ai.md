@@ -2,7 +2,7 @@
 
 # 🧠 AI labs & AI infrastructure
 
-**27 open roles.** 23 in the United States & Canada · 4 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
+**28 open roles.** 24 in the United States & Canada · 4 elsewhere in the world. Foundation-model labs, AI products, evaluation and data vendors, GPU clouds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6eb1938-e6a7-4ea6-b21f-a0f18bd3ad51">Co-Op, IT/OT Security Analyst</a></td>
+<td>Cambridge, MA USA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/50df9f0d-6c8a-4f51-a0f6-0382f9c7289a">Co-op, Software, Applied AI Platform Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009">Apply</a></td>

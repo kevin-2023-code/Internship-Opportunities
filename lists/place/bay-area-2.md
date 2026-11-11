@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**512 open roles.**
+**511 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Sigmacomputing</strong></td>
-<td><a href="https://trueinterview.io/jobs/fd958407-a60f-48b5-9f10-a9e2f2e44c50">Software Engineering Intern (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY<br/>NYC</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003">Apply</a></td>
-<td align="center">6 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Faire</strong></td>
 <td><a href="https://trueinterview.io/jobs/4d4836a2-901b-4e67-a5a0-d8ae63dd374f">Applied AI/ML Scientist, Intern - Winter 2027</a></td>

@@ -2,7 +2,7 @@
 
 # 🤠 Dallas–Fort Worth
 
-**82 open roles.**
+**83 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -71,6 +71,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f8a5ab89-0f9c-40aa-8844-8b3188732793">2027 Summer Software, Data &amp; AI Engineering Interns</a></td>
 <td>Fort Worth, TX<br/>Goleta, CA<br/>Lake Forest, CA<br/>+2 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463121980/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fdc192d-093d-4dc6-a448-592b170b4960">2027 Summer Intern - Supplier Development Engineer - 6463</a></td>
+<td>Dallas, Texas</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>

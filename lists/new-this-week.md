@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**978 open roles.** 814 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
+**977 open roles.** 813 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -1203,13 +1203,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Analog Devices</strong></td>
-<td><a href="https://trueinterview.io/jobs/bea48d3e-41ef-4435-8b59-c01e158bafaf">Machine Learning for Computational Sensing Research Intern</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487178700/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Nutanix</strong></td>
 <td><a href="https://trueinterview.io/jobs/6fbd443a-2eca-4f73-9f6e-1ab015c25c8b">UX Design Intern (Summer 2027)</a></td>
 <td>San Jose, CA</td>
@@ -1217,17 +1210,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8239e14e-8751-447a-8450-f113520969ed">UX Research Intern (Summer 2027)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489127006/">Apply</a></td>
+<td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6eb1938-e6a7-4ea6-b21f-a0f18bd3ad51">Co-Op, IT/OT Security Analyst</a></td>
+<td>Cambridge, MA USA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Lila Sciences</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/50df9f0d-6c8a-4f51-a0f6-0382f9c7289a">Co-op, Software, Applied AI Platform Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>McDonald's Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b2e133f-ea4c-440b-8349-35a662279a26">Global Cyber Security Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=mcdonaldsc&amp;rcm_site_locale=en_US&amp;career_job_req_id=5693">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -2141,6 +2141,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fdc192d-093d-4dc6-a448-592b170b4960">2027 Summer Intern - Supplier Development Engineer - 6463</a></td>
+<td>Dallas, Texas</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Mistral</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f25862a-b95d-4031-b9f4-155bb12b0878">AI Scientist Intern - (Internship, Masters or Phd)</a></td>
 <td>London, England, United Kingdom<br/>Warsaw, Mazowieckie, Poland<br/>Montreal, QC<br/>+3 more</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d1525ef5-6742-434b-b613-b0c752bb477e">Software Engineering Intern - Machine Learning Research, Perception (Spring 2027 Co-Op)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479178485/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nissan Motor Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/aed3c1dc-d897-4e2a-8980-fbef1c995607">Machine Learning Research Mapping Intern - Spring 2027 - Santa Clara, CA</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479834632/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 </tbody>

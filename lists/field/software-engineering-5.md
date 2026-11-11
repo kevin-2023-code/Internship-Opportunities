@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,677 open roles.** 1,347 in the United States & Canada · 330 elsewhere in the world.
+**1,679 open roles.** 1,350 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/3abe1e18-3185-4bd1-afce-1646ba3f3007">Field Applications Engineer Intern m/f/d</a></td>
+<td>Garching b. Muenchen, Bayern, Germany</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25014052">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Toshiba Global Commerce Solutions - External</strong></td>
+<td><a href="https://trueinterview.io/jobs/d200f49d-1b2b-4e70-bdda-2feea67b815c">QA Automation Intern</a></td>
+<td>Guadalajara Office</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5251239007">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sierra</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c5846d9-28c4-49a8-9613-15524955f1a7">Software Engineer Intern, Agent (London 2027)</a></td>
+<td>London</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff/application">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Graphcore</strong></td>
 <td><a href="https://trueinterview.io/jobs/276a8a3a-c3eb-44db-97eb-0b5497fd6fc9">Firmware Summer Intern 2027</a></td>
@@ -274,13 +295,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/57bcec89-4fd0-4383-b499-a1727f11715d">Software Engineer Intern (Full stack)</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955">Apply</a></td>
-<td align="center">7 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Shift Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/668911f9-99cb-4a3f-b5ed-9535d722b137">QA Engineer Intern (6 months)</a></td>
-<td>France - Paris</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

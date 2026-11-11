@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,677 open roles.** 1,347 in the United States & Canada · 330 elsewhere in the world.
+**1,679 open roles.** 1,350 in the United States & Canada · 329 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -644,9 +644,23 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Lila Sciences</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6eb1938-e6a7-4ea6-b21f-a0f18bd3ad51">Co-Op, IT/OT Security Analyst</a></td>
+<td>Cambridge, MA USA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/50df9f0d-6c8a-4f51-a0f6-0382f9c7289a">Co-op, Software, Applied AI Platform Engineer</a></td>
 <td>San Francisco, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>McDonald's Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/4b2e133f-ea4c-440b-8349-35a662279a26">Global Cyber Security Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=mcdonaldsc&amp;rcm_site_locale=en_US&amp;career_job_req_id=5693">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>
@@ -1067,6 +1081,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b14b8913-e3f5-434c-8899-8b11393f47b2">Software Engineer Intern / Fellowship (Frontend, Mobile &amp; Full-Stack)</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487391085/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shield AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/1fdc192d-093d-4dc6-a448-592b170b4960">2027 Summer Intern - Supplier Development Engineer - 6463</a></td>
+<td>Dallas, Texas</td>
+<td align="center"><a href="https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/83c24cc5-9fd8-4ec1-8ec5-be3b5f0d3283">C# Developer pro interní informační systém</a></td>
 <td>Colorado, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484652754/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>JobsInPython</strong></td>
-<td><a href="https://trueinterview.io/jobs/5b00187c-2021-4c20-a5cd-152ad3192c34">Software Engineer Intern - Arango Cookbooks</a></td>
-<td>Indiana, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484657873/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>OnLogic</strong></td>
-<td><a href="https://trueinterview.io/jobs/a27a5497-057e-423f-81e3-70fc11b2f8e4">Firmware Engineering Co-op</a></td>
-<td>South Burlington, VT<br/>Cary, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460621712/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CACI International Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/d185eafc-6437-465f-96da-7599e36daede">Cleared Software Engineer Intern - Summer 2027</a></td>
-<td>Denver, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481059137/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>

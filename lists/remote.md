@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**43 open roles.** 31 in the United States & Canada · 12 elsewhere in the world. Postings the pipeline classified as remote.
+**42 open roles.** 30 in the United States & Canada · 12 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4634328?listingId=da205a94-89fa-46b5-8413-9f03a13cf3a8">Apply</a></td>
 <td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Seagate Technology</strong></td>
-<td><a href="https://trueinterview.io/jobs/0da1771d-e6c6-4fe1-903a-97c4ae52fd47">Global Revenue Operations Analytics: Data Analyst Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=14977">Apply</a></td>
-<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Red Cell Partners</strong></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T03:05:43.096Z",
-  "count": 3568,
+  "listingsChangedAt": "2026-11-11T04:05:51.313Z",
+  "count": 3567,
   "listings": [
     {
       "id": "28a72185-7f79-4d73-9965-fbe1c9b8a1de",
@@ -4796,33 +4796,6 @@
       "updatedAt": "2026-11-09T19:05:00.000Z"
     },
     {
-      "id": "bea48d3e-41ef-4435-8b59-c01e158bafaf",
-      "company": "Analog Devices",
-      "title": "Machine Learning for Computational Sensing Research Intern",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487178700/",
-      "url": "https://trueinterview.io/jobs/bea48d3e-41ef-4435-8b59-c01e158bafaf",
-      "postedAt": "2026-11-09T18:53:00.000Z",
-      "updatedAt": "2026-11-09T18:53:00.000Z"
-    },
-    {
       "id": "6fbd443a-2eca-4f73-9f6e-1ab015c25c8b",
       "company": "Nutanix",
       "title": "UX Design Intern (Summer 2027)",
@@ -4850,31 +4823,32 @@
       "updatedAt": "2026-11-09T18:38:00.000Z"
     },
     {
-      "id": "8239e14e-8751-447a-8450-f113520969ed",
-      "company": "Nutanix",
-      "title": "UX Research Intern (Summer 2027)",
+      "id": "f6eb1938-e6a7-4ea6-b21f-a0f18bd3ad51",
+      "company": "Lila Sciences",
+      "title": "Co-Op, IT/OT Security Analyst",
       "locations": [
-        "San Jose, CA"
+        "Cambridge, MA USA"
       ],
       "cities": [
-        "San Jose, CA"
+        "Cambridge"
       ],
       "countries": [
-        "United States"
+        "United States",
+        "United Kingdom"
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Product & Design",
+      "family": "Software",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489127006/",
-      "url": "https://trueinterview.io/jobs/8239e14e-8751-447a-8450-f113520969ed",
-      "postedAt": "2026-11-09T18:38:00.000Z",
-      "updatedAt": "2026-11-09T18:38:00.000Z"
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/lilasciences/jobs/4477308009",
+      "url": "https://trueinterview.io/jobs/f6eb1938-e6a7-4ea6-b21f-a0f18bd3ad51",
+      "postedAt": "2026-11-09T18:31:16.000Z",
+      "updatedAt": "2026-11-09T18:31:16.000Z"
     },
     {
       "id": "50df9f0d-6c8a-4f51-a0f6-0382f9c7289a",
@@ -4892,8 +4866,8 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "intern",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -4902,6 +4876,31 @@
       "url": "https://trueinterview.io/jobs/50df9f0d-6c8a-4f51-a0f6-0382f9c7289a",
       "postedAt": "2026-11-09T18:29:55.000Z",
       "updatedAt": "2026-11-09T18:29:55.000Z"
+    },
+    {
+      "id": "4b2e133f-ea4c-440b-8349-35a662279a26",
+      "company": "McDonald's Corporation",
+      "title": "Global Cyber Security Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://career41.sapsf.com/career?career_ns=job_listing&company=mcdonaldsc&rcm_site_locale=en_US&career_job_req_id=5693",
+      "url": "https://trueinterview.io/jobs/4b2e133f-ea4c-440b-8349-35a662279a26",
+      "postedAt": "2026-11-09T18:12:18.000Z",
+      "updatedAt": "2026-11-09T18:12:18.000Z"
     },
     {
       "id": "1dac813e-b900-4b6b-baed-a73709ade332",
@@ -9006,6 +9005,31 @@
       "url": "https://trueinterview.io/jobs/e7b36a8f-7779-44f0-a503-6aa6d850445b",
       "postedAt": "2026-11-07T03:29:48.000Z",
       "updatedAt": "2026-11-07T03:29:48.000Z"
+    },
+    {
+      "id": "1fdc192d-093d-4dc6-a448-592b170b4960",
+      "company": "Shield AI",
+      "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
+      "locations": [
+        "Dallas, Texas"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
+      "url": "https://trueinterview.io/jobs/1fdc192d-093d-4dc6-a448-592b170b4960",
+      "postedAt": "2026-11-07T00:54:56.000Z",
+      "updatedAt": "2026-11-07T00:54:56.000Z"
     },
     {
       "id": "8f25862a-b95d-4031-b9f4-155bb12b0878",
@@ -13200,32 +13224,6 @@
       "url": "https://trueinterview.io/jobs/15d3c16e-2891-4a41-9d69-457d3075d212",
       "postedAt": "2026-11-05T21:50:47.000Z",
       "updatedAt": "2026-11-05T21:50:47.000Z"
-    },
-    {
-      "id": "0da1771d-e6c6-4fe1-903a-97c4ae52fd47",
-      "company": "Seagate Technology",
-      "title": "Global Revenue Operations Analytics: Data Analyst Intern",
-      "locations": [
-        "Remote United States",
-        "Longmont, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career41.sapsf.com/career?career_ns=job_listing&company=seagatetec&rcm_site_locale=en_US&career_job_req_id=14977",
-      "url": "https://trueinterview.io/jobs/0da1771d-e6c6-4fe1-903a-97c4ae52fd47",
-      "postedAt": "2026-11-05T21:15:27.000Z",
-      "updatedAt": "2026-11-05T21:15:27.000Z"
     },
     {
       "id": "58536b1b-e544-4c58-9502-efc5cb1901fa",
@@ -77657,31 +77655,6 @@
       "url": "https://trueinterview.io/jobs/a9383e25-315a-43f1-9efb-33a96a7461cb",
       "postedAt": "2026-10-07T10:20:42.000Z",
       "updatedAt": "2026-10-07T10:20:42.000Z"
-    },
-    {
-      "id": "668911f9-99cb-4a3f-b5ed-9535d722b137",
-      "company": "Shift Technology",
-      "title": "QA Engineer Intern (6 months)",
-      "locations": [
-        "France - Paris"
-      ],
-      "cities": [],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003",
-      "url": "https://trueinterview.io/jobs/668911f9-99cb-4a3f-b5ed-9535d722b137",
-      "postedAt": "2026-10-07T09:54:58.000Z",
-      "updatedAt": "2026-10-07T09:54:58.000Z"
     },
     {
       "id": "b3838f36-1106-4f98-9d0f-bee5d14d2afb",

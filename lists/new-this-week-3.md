@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**978 open roles.** 814 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
+**977 open roles.** 813 in the United States & Canada · 164 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -104,13 +104,6 @@
 <td><a href="https://trueinterview.io/jobs/9bf0b95b-4818-4a1a-bede-4f2dd6140654">2027 Summer Internship: Design Engineer- Autonomous Vehicle Platform</a></td>
 <td>Denton, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486499737/">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Onepot</strong></td>
-<td><a href="https://trueinterview.io/jobs/e17b3804-98ba-44ca-ae93-5e751e0d9ff1">Research Intern, Machine Learning</a></td>
-<td>South San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4486493690/">Apply</a></td>
 <td align="center">3 Nov 2026</td>
 </tr>
 </tbody>
