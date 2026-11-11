@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**57 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2c2da1be-e3b2-486a-9324-1d05c198c185">Rail Engineering Intern</a></td>
 <td>Chicago, Illinois, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160716151-rail-engineering-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Enova</strong></td>
+<td><a href="https://trueinterview.io/jobs/068fd314-17f2-4b26-948f-49b736be1c87">Analytics Internship Summer 2027 (Hybrid)</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/enova/jobs/8366036">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

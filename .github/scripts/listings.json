@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T06:07:49.553Z",
-  "count": 3581,
+  "listingsChangedAt": "2026-11-11T07:05:48.499Z",
+  "count": 3585,
   "listings": [
     {
       "id": "176ced9b-8c1a-4045-a688-a4add65cb0bc",
@@ -50,7 +50,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -61,31 +61,6 @@
       "url": "https://trueinterview.io/jobs/436ffd7e-4ad5-4c4f-9d14-b8f4034de5cc",
       "postedAt": "2026-11-11T05:32:00.000Z",
       "updatedAt": "2026-11-11T05:32:00.000Z"
-    },
-    {
-      "id": "fdf828e7-303d-414c-814a-00f271a12279",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
-      "locations": [
-        "Redmond, WA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4487884678/",
-      "url": "https://trueinterview.io/jobs/fdf828e7-303d-414c-814a-00f271a12279",
-      "postedAt": "2026-11-11T05:17:00.000Z",
-      "updatedAt": "2026-11-11T05:17:00.000Z"
     },
     {
       "id": "250e663d-f42c-4995-b178-799cf8d6f77c",
@@ -165,6 +140,31 @@
       "updatedAt": "2026-11-11T05:01:00.000Z"
     },
     {
+      "id": "14cebc58-5581-419d-b953-fdd6a7cd8e3b",
+      "company": "Intel",
+      "title": "AI GPU Arch Perf Analysis Intern",
+      "locations": [
+        "Beijing, Beijing, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488647765/",
+      "url": "https://trueinterview.io/jobs/14cebc58-5581-419d-b953-fdd6a7cd8e3b",
+      "postedAt": "2026-11-11T04:45:00.000Z",
+      "updatedAt": "2026-11-11T04:45:00.000Z"
+    },
+    {
       "id": "cafddc2e-7787-4774-93b0-7ed71d63a459",
       "company": "ByteDance",
       "title": "Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start",
@@ -190,6 +190,56 @@
       "url": "https://trueinterview.io/jobs/cafddc2e-7787-4774-93b0-7ed71d63a459",
       "postedAt": "2026-11-11T04:19:00.000Z",
       "updatedAt": "2026-11-11T04:19:00.000Z"
+    },
+    {
+      "id": "880f1bee-d6bc-4b6b-b62a-b2e8902bf79b",
+      "company": "Regent",
+      "title": "Cybersecurity & IT Operations Intern (Summer)",
+      "locations": [
+        "North Kingstown, Rhode Island, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "IT & Support",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524",
+      "url": "https://trueinterview.io/jobs/880f1bee-d6bc-4b6b-b62a-b2e8902bf79b",
+      "postedAt": "2026-11-11T03:14:58.000Z",
+      "updatedAt": "2026-11-11T03:14:58.000Z"
+    },
+    {
+      "id": "ee47e831-0d40-4b0c-9dda-1cb6647a4f79",
+      "company": "Regent",
+      "title": "Test Engineering Intern (Summer)",
+      "locations": [
+        "North Kingstown, Rhode Island, USA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/REGENT/9e314bda-fce1-444b-9874-bacd332880f9",
+      "url": "https://trueinterview.io/jobs/ee47e831-0d40-4b0c-9dda-1cb6647a4f79",
+      "postedAt": "2026-11-11T03:10:49.000Z",
+      "updatedAt": "2026-11-11T03:10:49.000Z"
     },
     {
       "id": "6ef7aa7e-e83c-4698-a128-55faf399ea62",
@@ -5466,6 +5516,58 @@
       "updatedAt": "2026-11-09T16:02:00.000Z"
     },
     {
+      "id": "855106a9-5d6e-4601-9ef1-17f3efb8c0f9",
+      "company": "Scout Motors",
+      "title": "Intern, IT",
+      "locations": [
+        "Charlotte, North Carolina, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/scoutmotors/jobs/5287122007",
+      "url": "https://trueinterview.io/jobs/855106a9-5d6e-4601-9ef1-17f3efb8c0f9",
+      "postedAt": "2026-11-09T15:50:40.000Z",
+      "updatedAt": "2026-11-09T15:50:40.000Z"
+    },
+    {
+      "id": "068fd314-17f2-4b26-948f-49b736be1c87",
+      "company": "Enova",
+      "title": "Analytics Internship Summer 2027 (Hybrid)",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/enova/jobs/8366036",
+      "url": "https://trueinterview.io/jobs/068fd314-17f2-4b26-948f-49b736be1c87",
+      "postedAt": "2026-11-09T15:47:16.000Z",
+      "updatedAt": "2026-11-09T15:47:16.000Z"
+    },
+    {
       "id": "e998269f-cdbe-44b0-83dc-4e07c5dc4bef",
       "company": "IBM",
       "title": "Co-Op Developer – Adobe 2027",
@@ -5480,7 +5582,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -5503,7 +5605,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -5528,8 +5630,8 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5552,9 +5654,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6279,6 +6381,31 @@
       "source": "indeed",
       "applyUrl": "https://jobs.freseniusmedicalcare.com/v-v-systems-engineer-co-op/job/31E772DDCF188A2FBFC0792A3AC44BCB",
       "url": "https://trueinterview.io/jobs/bc543b24-c54e-4325-bfb0-53b8ffb3f92b",
+      "postedAt": "2026-11-09T06:00:00.000Z",
+      "updatedAt": "2026-11-09T06:00:00.000Z"
+    },
+    {
+      "id": "6d10fba5-049c-4cbd-ac2b-ee3cd5aef66e",
+      "company": "Nexteer Automotive",
+      "title": "Electrical Applications Engineer Co-Op 2026",
+      "locations": [
+        "Saginaw, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.nexteer.com/job/Saginaw-Electrical-Applications-Engineer-Co-Op-2026-MI/1449164200/",
+      "url": "https://trueinterview.io/jobs/6d10fba5-049c-4cbd-ac2b-ee3cd5aef66e",
       "postedAt": "2026-11-09T06:00:00.000Z",
       "updatedAt": "2026-11-09T06:00:00.000Z"
     },
@@ -92222,31 +92349,6 @@
       "url": "https://trueinterview.io/jobs/859e2e82-625d-4d21-9b31-01973e629767",
       "postedAt": "2026-09-14T14:41:10.000Z",
       "updatedAt": "2026-09-14T14:41:10.000Z"
-    },
-    {
-      "id": "7eafe9fd-ae0f-49d4-ab3a-d3f79cf0f7ff",
-      "company": "tkda",
-      "title": "2027 Summer Intern - Civil Engineering, Traffic",
-      "locations": [
-        "Bloomington, Minnesota"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tkda/125fe207-006f-4a01-8ea6-006e080a48ca",
-      "url": "https://trueinterview.io/jobs/7eafe9fd-ae0f-49d4-ab3a-d3f79cf0f7ff",
-      "postedAt": "2026-09-14T14:38:18.000Z",
-      "updatedAt": "2026-09-14T14:38:18.000Z"
     },
     {
       "id": "62863c9a-d397-4a8e-a827-58f48045ff3d",

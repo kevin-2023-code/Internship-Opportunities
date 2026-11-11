@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**206 open roles.** 142 in the United States & Canada · 64 elsewhere in the world.
+**205 open roles.** 141 in the United States & Canada · 64 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -169,13 +169,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4790694c-5648-45e7-8767-7e43c36f3c9a">AI Assistant Development Intern</a></td>
 <td>Parsippany-Troy Hills, NJ<br/>Troy Hills, NJ</td>
 <td align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Marketeq Talent</strong></td>
-<td><a href="https://trueinterview.io/jobs/d283e0ed-204b-4a76-89c5-ceeaff40ee2b">Product Engineering Intern (AI)</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488873492/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

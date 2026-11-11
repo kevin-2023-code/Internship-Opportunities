@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**784 open roles.** 715 in the United States & Canada · 69 elsewhere in the world.
+**786 open roles.** 716 in the United States & Canada · 70 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Chenmoore</strong></td>
+<td><a href="https://trueinterview.io/jobs/c3b6bbfc-c552-438f-8306-11e8af30e293">Internship - Electrical Engineering</a></td>
+<td>Jacksonville, Florida, United States<br/>Orlando, Florida, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chenmoore/jobs/5268619007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f50834df-ba0e-4670-9e68-c55bbb2d31b8">Internship - Civil Engineering</a></td>
+<td>Fort Lauderdale, Florida, United States<br/>Jacksonville, Florida, United States<br/>Knoxville, Tennessee, United States<br/>+4 more</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/chenmoore/jobs/5268534007">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Veolia</strong></td>
 <td><a href="https://trueinterview.io/jobs/6f4f9b51-f443-452d-b035-f155bfa22e4e">Process Engineering Intern - Water Technologies</a></td>
@@ -2138,13 +2152,6 @@
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7eafe9fd-ae0f-49d4-ab3a-d3f79cf0f7ff">2027 Summer Intern - Civil Engineering, Traffic</a></td>
-<td>Bloomington, Minnesota</td>
-<td align="center"><a href="https://jobs.lever.co/tkda/125fe207-006f-4a01-8ea6-006e080a48ca">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b5687dbd-e1b6-4b53-9311-79e568049100">2027 Summer Intern, Structural Engineering - Buildings &amp; Facilities</a></td>
 <td>Bloomington, Minnesota</td>
 <td align="center"><a href="https://jobs.lever.co/tkda/62a210f0-a58b-4817-9885-2c876d4ea222">Apply</a></td>
@@ -2238,6 +2245,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160793209-internship-2026-technical-engineering-in-industrial-engineering-chassis-system-rbty-bps-">Apply</a></td>
 <td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/234821f9-d49c-4e79-a859-a1805e9f4ce2">Software Function Developer intern</a></td>
+<td>Budapest, Hungary</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160644192-software-function-developer-intern">Apply</a></td>
+<td align="center">9 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
