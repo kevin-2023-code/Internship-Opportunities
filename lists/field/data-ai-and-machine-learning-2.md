@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**746 open roles.** 549 in the United States & Canada · 197 elsewhere in the world.
+**745 open roles.** 548 in the United States & Canada · 197 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1050,13 +1050,6 @@
 <td>Santa Clara, CA, US</td>
 <td align="center"><a href="https://jobs.nvidia.com/careers/job/893397266856">Apply</a></td>
 <td align="center">13 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brain Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f29fe7e4-8abe-45b9-810f-9de7b1193f3f">AI Product Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b">Apply</a></td>
-<td align="center">12 Sep 2026</td>
 </tr>
 </tbody>
 </table>

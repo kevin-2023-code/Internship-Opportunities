@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-11T21:11:52.458Z",
-  "count": 3664,
+  "listingsChangedAt": "2026-11-11T22:04:09.467Z",
+  "count": 3665,
   "listings": [
+    {
+      "id": "be5b63f9-f3a4-4d43-9519-4fc15a6ea47d",
+      "company": "Lightmatter",
+      "title": "Laser Firmware Intern - Summer 2027",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008",
+      "url": "https://trueinterview.io/jobs/be5b63f9-f3a4-4d43-9519-4fc15a6ea47d",
+      "postedAt": "2026-11-11T21:03:40.000Z",
+      "updatedAt": "2026-11-11T21:03:40.000Z"
+    },
     {
       "id": "9ee9666a-5774-405f-b498-9a98bf12949a",
       "company": "Zillow",
@@ -396,6 +423,34 @@
       "updatedAt": "2026-11-11T16:30:00.000Z"
     },
     {
+      "id": "ea823f5b-3973-4ba5-892a-7d533bda4582",
+      "company": "Schonfeld Strategic Advisors",
+      "title": "2027 Software Engineering Intern",
+      "locations": [
+        "Hong Kong, Hong Kong",
+        "Singapore, Central, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/schonfeld/jobs/8346891",
+      "url": "https://trueinterview.io/jobs/ea823f5b-3973-4ba5-892a-7d533bda4582",
+      "postedAt": "2026-11-11T16:22:21.000Z",
+      "updatedAt": "2026-11-11T16:23:39.000Z"
+    },
+    {
       "id": "76586f6d-5266-4209-a951-97805aef24a2",
       "company": "Vontier",
       "title": "Engineering Intern - DevOps (Summer 2027)",
@@ -444,6 +499,33 @@
       "url": "https://trueinterview.io/jobs/0462f4fc-759a-4843-bba2-99953fb5083e",
       "postedAt": "2026-11-11T16:15:00.000Z",
       "updatedAt": "2026-11-11T16:15:00.000Z"
+    },
+    {
+      "id": "a60410b1-912a-4ef7-8a9e-00c351b97de5",
+      "company": "Wep Clinical",
+      "title": "IT Intern - AI & Transformation",
+      "locations": [
+        "Morrisville, NC",
+        "Morrisville, North Carolina, US",
+        "Chiswick, London, UK"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b",
+      "url": "https://trueinterview.io/jobs/a60410b1-912a-4ef7-8a9e-00c351b97de5",
+      "postedAt": "2026-11-10T19:41:04.000Z",
+      "updatedAt": "2026-11-11T16:05:07.000Z"
     },
     {
       "id": "6133a9b7-2121-49be-b391-1d6a863972f4",
@@ -2961,6 +3043,33 @@
       "updatedAt": "2026-11-11T00:00:00.000Z"
     },
     {
+      "id": "11f2cbe1-972a-4af8-b441-3c59a26b841a",
+      "company": "Grant Thornton",
+      "title": "Cybersecurity and Privacy Intern - Summer 2027",
+      "locations": [
+        "New York, NY, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GrantThorntonIrelandExperiencedHires/job/115637",
+      "url": "https://trueinterview.io/jobs/11f2cbe1-972a-4af8-b441-3c59a26b841a",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
       "id": "f32f8cf4-4fdc-4c18-a96b-f6fa60623e02",
       "company": "M3 USA",
       "title": "AI Engineering Intern (Remote)",
@@ -3885,32 +3994,6 @@
       "applyUrl": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
       "url": "https://trueinterview.io/jobs/73f8bb71-a7f6-4d93-a0f5-e5a8e9a67469",
       "postedAt": "2026-11-10T16:18:09.000Z",
-      "updatedAt": "2026-11-10T19:41:04.000Z"
-    },
-    {
-      "id": "a60410b1-912a-4ef7-8a9e-00c351b97de5",
-      "company": "WEP Clinical",
-      "title": "IT Intern - AI & Transformation",
-      "locations": [
-        "Morrisville, NC",
-        "Morrisville, North Carolina, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.lever.co/wepclinical/5d90ac52-4e43-48aa-8f01-18e7c9d1155b",
-      "url": "https://trueinterview.io/jobs/a60410b1-912a-4ef7-8a9e-00c351b97de5",
-      "postedAt": "2026-11-10T19:41:04.000Z",
       "updatedAt": "2026-11-10T19:41:04.000Z"
     },
     {
@@ -86203,33 +86286,6 @@
       "updatedAt": "2026-09-29T15:21:03.000Z"
     },
     {
-      "id": "bbd930bd-ff3a-43d3-8238-e725c37b7766",
-      "company": "Enova",
-      "title": "Software Engineer Internship Summer 2027 (Hybrid)",
-      "locations": [
-        "Chicago, IL"
-      ],
-      "cities": [
-        "Chicago, IL"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/enova/jobs/8239619",
-      "url": "https://trueinterview.io/jobs/bbd930bd-ff3a-43d3-8238-e725c37b7766",
-      "postedAt": "2026-09-29T14:39:00.000Z",
-      "updatedAt": "2026-09-29T14:39:00.000Z"
-    },
-    {
       "id": "28427d60-8cb2-4a29-9477-880186596087",
       "company": "Rf Smart",
       "title": "Service Delivery Intern (IT Helpdesk) - Summer 2027",
@@ -95211,31 +95267,6 @@
       "url": "https://trueinterview.io/jobs/dd5f848a-1cdc-458f-a9b8-a7bae29fe06b",
       "postedAt": "2026-09-13T00:00:00.000Z",
       "updatedAt": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "id": "f29fe7e4-8abe-45b9-810f-9de7b1193f3f",
-      "company": "Brain Co.",
-      "title": "AI Product Engineer Intern (Summer 2027)",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b",
-      "url": "https://trueinterview.io/jobs/f29fe7e4-8abe-45b9-810f-9de7b1193f3f",
-      "postedAt": "2026-09-12T21:14:34.000Z",
-      "updatedAt": "2026-09-12T21:14:34.000Z"
     }
   ]
 }

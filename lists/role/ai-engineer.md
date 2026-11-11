@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**215 open roles.** 144 in the United States & Canada · 71 elsewhere in the world.
+**214 open roles.** 143 in the United States & Canada · 71 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1017,13 +1017,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487">Apply</a></td>
 <td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Brain Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/f29fe7e4-8abe-45b9-810f-9de7b1193f3f">AI Product Engineer Intern (Summer 2027)</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b">Apply</a></td>
-<td align="center">12 Sep 2026</td>
 </tr>
 </tbody>
 </table>
