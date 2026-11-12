@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T17:04:23.167Z",
-  "count": 3804,
+  "listingsChangedAt": "2026-11-12T18:06:12.187Z",
+  "count": 3805,
   "listings": [
+    {
+      "id": "4e1dfff2-d14e-4687-a569-f61446bcbd7e",
+      "company": "Clera",
+      "title": "Computer Vision & Robotics Intern",
+      "locations": [
+        "San Francisco"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/Clera/00f7d786-5b1e-4c2d-8103-4e05618937c8",
+      "url": "https://trueinterview.io/jobs/4e1dfff2-d14e-4687-a569-f61446bcbd7e",
+      "postedAt": "2026-11-12T17:18:39.000Z",
+      "updatedAt": "2026-11-12T17:18:39.000Z"
+    },
+    {
+      "id": "221f453a-e627-4f4a-9799-d103100f1a16",
+      "company": "Wabtec",
+      "title": "Transducer Manufacturing Engineering Co-Op",
+      "locations": [
+        "Waltham, Massachusetts, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/Wabtec/3743990016822316-transducer-manufacturing-engineering-co-op",
+      "url": "https://trueinterview.io/jobs/221f453a-e627-4f4a-9799-d103100f1a16",
+      "postedAt": "2026-11-12T17:06:54.000Z",
+      "updatedAt": "2026-11-12T17:06:54.000Z"
+    },
     {
       "id": "c19ec927-48b1-4c30-a281-e2763d70da8a",
       "company": "Two Sigma",
@@ -64140,31 +64192,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4482532230/",
       "url": "https://trueinterview.io/jobs/8027c21b-2b1d-4d5f-bae8-0ad28ffa625b",
-      "postedAt": "2026-10-28T16:01:00.000Z",
-      "updatedAt": "2026-10-28T16:01:00.000Z"
-    },
-    {
-      "id": "5b1962a9-56b2-49d4-971d-9a7b09b25c01",
-      "company": "Marketeq Talent",
-      "title": "Software Engineering Intern (AI Products)",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4484481441/",
-      "url": "https://trueinterview.io/jobs/5b1962a9-56b2-49d4-971d-9a7b09b25c01",
       "postedAt": "2026-10-28T16:01:00.000Z",
       "updatedAt": "2026-10-28T16:01:00.000Z"
     },
