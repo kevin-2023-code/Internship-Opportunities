@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world.
+**38 open roles.** 29 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>La Jolla, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489063098/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>American Century Investments</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfc533cd-4ad5-4582-bbfd-b2d6e8ca6f0e">Quantitative Summer Associate</a></td>
-<td>Santa Clara, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490006777/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Constellation</strong></td>
