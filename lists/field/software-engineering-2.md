@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
+**1,786 open roles.** 1,424 in the United States & Canada · 362 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>METY Foundation</strong></td>
+<td><a href="https://trueinterview.io/jobs/6b573236-b813-4b7f-84f3-9ea2e887f24c">Full-Stack Developer Intern</a></td>
+<td>Leesburg, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487534251/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>BorgWarner</strong></td>
 <td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/0f6115fe-7e4b-4358-8e4b-766753334919">Controls Engineering Internship</a></td>
 <td>Nashville, TN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484977390/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Dematic</strong></td>
-<td><a href="https://trueinterview.io/jobs/269c50e8-8669-44cd-9df7-4280e2b59581">Controls Engineering Intern/Co-Op</a></td>
-<td>Salt Lake City, UT<br/>Wauwatosa, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456954153/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

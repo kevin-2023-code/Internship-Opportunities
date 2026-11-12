@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**599 open roles.** 464 in the United States & Canada · 135 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**606 open roles.** 468 in the United States & Canada · 138 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/37cfa49e-f477-4dfe-8570-91ee3e699752">Intern - Probe Equipment Engineer</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44430244">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/5e913fbc-41ee-4f0c-a25c-b70d37914e5d">Intern – DRAM Technology Physical Design and Block-Level PPA Optimization</a></td>
+<td>Boise, ID, US</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44139992">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fd9f286-1c7e-4b18-91e0-cad0ca68a1e7">PhD Research Intern, Learning Embodied Skills from Human Data - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397633492">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2a88e3f-b9bb-4f23-8d35-a8a0dbb8f747">PhD Research Intern, Networking - 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397623550">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/2887a173-48d0-422c-aca8-c06e3d290371">Process Integration and Yield Engineering PhD Intern</a></td>
@@ -476,6 +504,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a8818637-56c8-44f9-b3c5-589a4deb73ec">Network Reliability Engineer Intern (Network Infrastructure) - 2027 Start</a></td>
+<td>Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473993080/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc7eba51-9848-455d-b52a-1c78f29e53cd">Developer Technology Engineer Intern</a></td>
 <td>Tokyo, Japan</td>
@@ -494,6 +536,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/da1b70d8-a902-442c-b10b-d678bcc131cc">Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489079582/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/4558094f-7482-47a0-bbe7-03f8340f492b">Internship - Pro Apps Machine Learning Ecosystem Engineer</a></td>
+<td>London, England, E20 1EQ, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

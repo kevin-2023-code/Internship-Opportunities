@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**537 open roles.** 435 in the United States & Canada · 102 elsewhere in the world.
+**534 open roles.** 433 in the United States & Canada · 101 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,8 +21,8 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe">Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
-<td>Seattle, WA</td>
+<td><a href="https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe">Software Engineer Intern (Global Payment-Compliance) - 2027 Start</a></td>
+<td>Seattle, WA<br/>Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452446548/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
@@ -31,13 +31,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
 <td>Seattle, WA<br/>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -104,6 +97,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Shive-Hattery</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e8c198b-85bd-420a-998f-e67c54b3704c">Internship - Software Development</a></td>
+<td>Iowa City, IA<br/>2839 Northgate Drive, Iowa City, IA, 52245, US</td>
+<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793?listingId=f866f1ca-c55f-404f-a55c-796fc5222e87">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Minitab</strong></td>
 <td><a href="https://trueinterview.io/jobs/555d4a65-359b-40da-9f30-60bf8b395d28">Software Quality Engineer Intern</a></td>
 <td>State College, PA<br/>State College, Pennsylvania, United States</td>
@@ -115,13 +115,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c4475d7-a69e-4258-b285-b1ef51e51bc6">Internship, Software Engineer, SI Hardware Infrastructure (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490060648/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shive-Hattery</strong></td>
-<td><a href="https://trueinterview.io/jobs/6e8c198b-85bd-420a-998f-e67c54b3704c">Internship - Software Development</a></td>
-<td>Iowa City, IA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489046178/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -836,13 +829,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/17bc85c2-d8ba-4963-838d-1dc884d76b0d">2027 Summer Intern: Software Engineer - P&amp;T</a></td>
 <td>Maryland Heights, MO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469518537/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8368cfa-c01a-4b19-a9fe-4763363ed6f8">Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://lifeattiktok.com/search/7705012688944810245">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2818,6 +2804,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Pleasant Grove, Utah, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54671?lang=en-us">Apply</a></td>
 <td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dandy</strong></td>
+<td><a href="https://trueinterview.io/jobs/c1d13ca9-f24e-44f8-bbba-6ca6c4730e88">Summer 2027 Internship - Software Engineering</a></td>
+<td>USA - New York NY</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7557d25-be50-4cf7-8928-93c1240d958b">Software Engineer Internship – Metadata Enablement Team</a></td>
+<td>Des Moines, Iowa, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000152679699-software-engineer-internship-metadata-enablement-team">Apply</a></td>
+<td align="center">30 Sep 2026</td>
 </tr>
 </tbody>
 </table>

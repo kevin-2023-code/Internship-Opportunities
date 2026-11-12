@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
+**1,786 open roles.** 1,424 in the United States & Canada · 362 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,83 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/c9a42849-8843-457e-8231-b6366a5039b2">Signalling Design Engineer Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484980187/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/dcf9e063-e196-4a23-b47a-b5e75c7611ea">Internship - Test Engineering Support (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456195790/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1e0f31dd-7720-4a60-9ded-df328e63480f">Internship - Assistant for Engineering Lab (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4427981037/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Viking Nederland</strong></td>
+<td><a href="https://trueinterview.io/jobs/2f2b71f6-771d-4fd4-93fa-8827f93bafa2">Internship Technical Solution Engineer</a></td>
+<td>Venlo, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477169487/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/761d6c77-d66b-4c99-9a4a-8929593de62e">Internship - Lab Verification Engineer in the AMS Lab of the Development Center Villach (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4441980720/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ONWARD Medical</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f472ec5-b28f-4315-bb00-a20781ee2a6d">Firmware Intern</a></td>
+<td>Lausanne, Vaud, Switzerland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966389/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/8fa8dcff-7a3e-4168-b7d1-c6e05c44c433">Software Testing Intern</a></td>
+<td>Wuhan, Hubei, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484942938/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/d94001a8-4e88-4fd1-ab9d-1216973b42a4">Internship - Lab Support Engineer (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474199747/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Viking Europe</strong></td>
+<td><a href="https://trueinterview.io/jobs/ece535d6-b2b9-4d37-9f88-22f8b04c6874">Internship Technical Solution Engineer</a></td>
+<td>Venlo, Limburg, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475944510/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>The Kingfish Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6045052-58e8-493e-a778-24e17498ed01">Intern Engineering &amp; Operations</a></td>
+<td>Goes, Zeeland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475788346/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/11039550-a737-46af-b162-e42678fc438a">Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4424710494/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Sea</strong></td>
 <td><a href="https://trueinterview.io/jobs/3f36788f-23c2-4ddf-a70e-3ba82d9817d1">Security Engineering Intern</a></td>

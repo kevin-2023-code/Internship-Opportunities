@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**528 open roles.**
+**554 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -21,16 +21,226 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/f86e607a-4627-4200-a106-7523d57352b2">Data Scientist Intern (VOD Data) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448990233/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/01fd00f5-dfa6-4a43-8184-d4abd28be889">AI Vision Research Scientist Intern - Global Frontier Tech Recruitment Program - 2027 Start (PHD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4435836915/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fb3204b-36be-41e3-9922-93f0a2bd6764">AI Product Design Intern (TikTok-Design) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447323835/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)</a></td>
+<td><a href="https://trueinterview.io/jobs/08453364-e8da-4c18-a773-6abea81aa6b5">Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)</a></td>
 <td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4421486327/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/985a72cf-8d75-4304-8883-1b32bb778fac">Research Engineer Intern (Monetization Technology - Business Integrity) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447999282/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SpaceX Super Intelligence</strong></td>
+<td><a href="https://trueinterview.io/jobs/e2b0fbb5-2ab4-4381-80ce-b5140018ceda">Summer 2027 Software Engineering Internship/Co-op</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482171089/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/87ef31ac-34c8-4bc7-9539-25a19734f645">Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473508319/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cdeeee76-080a-48e5-acc1-1a27d78f5b1d">Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4435857047/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/af1c2e20-f3b5-4a6f-9c08-ce3c36723545">(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4387327666/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/971056a0-3a74-44ef-8666-eaaf8a56af29">AI Infrastructure Engineer Intern (Algorithm Infrastructure) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447344021/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/616bb078-2ee4-4d9d-8f68-a70044aa5d73">AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430816044/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/000d6625-2b63-4d8c-93a1-6068546c1933">AI Product Operations Project Intern (TikTok-Platform Responsibility-Teen Experience) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4379143336/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/92214bf6-e470-42e0-ac0b-59b9a6fa97dd">AI software Engineer Project Intern (Transaction Platform) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4425842745/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bee4ce8c-c974-4c7c-8209-4858d08dcbd6">Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4402357788/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18119f1a-148d-4ee9-ac33-a19f76b80497">Applied Scientist Intern - Trust and Safety (Multimodal Foundation Model) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4406929833/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a56aa766-3095-4285-8ca5-deb634e536c9">Applied Scientist Intern (Recommendation AI Lab) - 2026 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4436529600/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d9755091-6b59-4571-b292-b3e4f9fb37d1">Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446293082/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ab65609c-a852-4fc5-8c97-5c87eac7e3c8">Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4443165435/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/83588dbd-3e4b-4c42-bf3b-afafcbaf4747">Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4432695583/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/44308956-f63f-4adf-969e-88b9b8d643d5">Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448702780/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f2be86aa-3554-46d0-b8c7-8e5abd19c210">Generative AI Researcher Intern (Intelligent Creation-Vision and Graphics) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447909234/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f4d15bc0-d13b-465c-9342-33b7fc250282">LLM Post-training Engineer Intern (Research &amp; Product) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449973496/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1afab705-0390-423a-8622-2f359ec62ced">Machine Learning Scientist Intern (TikTok - Content Ecology - LLM application) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447907295/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2f3fd1c9-b5c5-475e-8ddb-df2c7817ef56">Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430609212/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/60e98dc3-8165-4dd5-9311-c74326d1bf18">Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481180737/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18d337e0-3828-4360-91c4-bc3260ae46ec">Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450351258/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cec62210-514c-4bcf-b2f6-a935faf5c19a">Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem)- 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448288250/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ac20d792-03f7-48bd-a35c-599a984cea58">Research Scientist Intern – TikTok Recommendation(NextGen LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447463852/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cb692340-47ab-4ac9-ab10-197a727c1350">Research Scientist Intern (Monetization Technology - Business Integrity) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447983886/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e6a2971f-ffe1-40e3-87f3-19b0cc721fc3">Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449986299/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/009f32b2-7685-470b-b4fb-7c61b99371fb">Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463829468/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -125,13 +335,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (TikTok Shop - SEA) - 2027 Start</a></td>
-<td>San Jose, CA<br/>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488658391/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7">Middleware Software Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
@@ -185,13 +388,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/edc1f447-3573-4531-8454-21457b227504">Research Scientist Intern – TikTok Search / Generative AI (LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4402376626/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d9755091-6b59-4571-b292-b3e4f9fb37d1">Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446293082/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -619,13 +815,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ee5cd08a-fcdd-412e-b9c6-b69462ed53ea">GEO Content Product Manager Intern (TikTok Local Services) - 2027 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487601099/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c8368cfa-c01a-4b19-a9fe-4763363ed6f8">Software Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://lifeattiktok.com/search/7705012688944810245">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -1382,13 +1571,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1e073fe-c212-4772-ba1b-6e683bb6fc6d">Software Engineering Intern, Cloud Platform (Summer 2027)</a></td>
 <td>Santa Clara, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481185474/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/02a1944d-e4f1-4f69-86c9-3c1befdb6711">Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485113428/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -2636,188 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Jose, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4450999009">Apply</a></td>
 <td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Gallup</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8dfd26f-960e-4d76-b13c-27b4d8ee1a89">Data Engineering Intern — Summer 2027</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/gallup/jobs/4449991009">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/4afa4f98-e4a9-4079-b15c-8b3a0e0e9074">Aerodynamics Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872473002?gh_jid=8872473002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/be5d9a8e-e78b-4372-b24f-930cebd410a1">Data Infra Software Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872471002?gh_jid=8872471002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/49ef0dd0-1107-40df-8daa-f866dea43748">Execution &amp; Topology Software Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872477002?gh_jid=8872477002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5537eea7-0f1a-444d-beac-5e3242699f4c">Flight Test Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872480002?gh_jid=8872480002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e4b887eb-adaa-41f9-8fc8-6c0b397745cb">Guidance, Navigation, and Controls Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872475002?gh_jid=8872475002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4eda8dcb-a5c6-4175-a18a-623dc60e4c7e">Hardware Reliability Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8885631002?gh_jid=8885631002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1b05c10d-5b0e-4616-b9e3-3a290536bb84">Logistics Systems Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872483002?gh_jid=8872483002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/39546a61-97c7-40ed-92bd-6b49f6b311be">Machine Learning Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872479002?gh_jid=8872479002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/986c4f87-6a3f-400e-85f9-82a58d933254">Manufacturing Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872469002?gh_jid=8872469002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/af36f8da-0da8-47f4-bcba-c8e87fcd4100">Manufacturing Software Test Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872468002?gh_jid=8872468002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/31ebf6ea-4cc1-4d07-9d98-4424d7a80c75">Mechanical Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872579002?gh_jid=8872579002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/49c1360a-0cd4-4285-8ef5-94267b69517e">Motion Planning Software Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872472002?gh_jid=8872472002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/029bdbce-4b87-4274-ac6f-e4b5ca1cb3f9">Simulation Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872478002?gh_jid=8872478002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/61279f54-046a-4353-afef-73003a117e4e">Software Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872476002?gh_jid=8872476002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Muon Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/25e37626-41af-4424-be24-d0d429857295">Spacecraft Test Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5256288007">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5581158-3c09-4708-801c-ef64ef4becdd">ASIC Engineer Intern, Summer 2027</a></td>
-<td>Sunnyvale, California, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/a4235043-19c2-4415-a8c9-7bb4671ab5f7">Electrical Engineer, Intern - Labs (Summer 2027)</a></td>
-<td>Oakland, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8274095">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>KLA</strong></td>
-<td><a href="https://trueinterview.io/jobs/b9b6c8eb-cadf-4b87-8c8f-ae7751d28d2f">Precision Motion Control Intern</a></td>
-<td>Milpitas, CA, United States of America</td>
-<td align="center"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Precision-Motion-Control-Intern_2642139-1">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/206eeeb0-0dd4-4548-9a68-8232302d0e76">Enterprise Platform Technical Marketing Engineer Intern - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893397828680">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/873ac989-8336-4415-a934-8880c8c384c3">Sparse Linear Algebra Libraries Intern - Summer 2027</a></td>
-<td>Santa Clara, CA, US</td>
-<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398124010">Apply</a></td>
-<td align="center">13 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Figure</strong></td>
-<td><a href="https://trueinterview.io/jobs/e540c605-6543-4ac5-84fb-395a037d6d62">Deployment Engineering Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4721113006">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Google</strong></td>
-<td><a href="https://trueinterview.io/jobs/8f84a893-dd08-4d09-b069-e5a8b7160518">Forward Deployed Engineering Intern, BS/MS, Summer 2027</a></td>
-<td>Sunnyvale, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/0a567ac0-5097-4d95-ab79-8869e59376a8">Firmware Engineering Intern</a></td>
-<td>Sunnyvale, California, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254">Apply</a></td>
-<td align="center">12 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/22293de7-ee03-4573-892a-2ac2e3e4b7c4">2027 Masters Thermal Engineering Intern/Co-Op</a></td>
-<td>Santa Clara, California, United States<br/>Austin, TX<br/>Austin, Texas, United States<br/>+1 more</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/93645?lang=en-us">Apply</a></td>
-<td align="center">11 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Affirm</strong></td>
-<td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
-<td>San Francisco, California, United States, San Francisco</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8011375003">Apply</a></td>
-<td align="center">10 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**90 open roles.**
+**91 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/8ab930ef-80e8-4571-8cdb-399a089b57b6">Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)</a></td>
+<td>Austin, TX<br/>Austin, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4366485008/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Valstad Shipworks</strong></td>
 <td><a href="https://trueinterview.io/jobs/1bf08763-1f2d-442e-9dcf-8991fa4858a7">Software Engineering Intern, 3D &amp; Manufacturing Applications</a></td>

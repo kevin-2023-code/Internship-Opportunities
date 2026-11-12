@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**170 open roles.** 133 in the United States & Canada · 37 elsewhere in the world.
+**178 open roles.** 135 in the United States & Canada · 43 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ca58f70-8e14-4527-97f4-8213be30c39e">Video/Image AI/ML Software Engineer Intern (Multimedia) - 2027 Start (PhD) - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473987243/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/1afab705-0390-423a-8622-2f359ec62ced">Machine Learning Scientist Intern (TikTok - Content Ecology - LLM application) - 2027 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447907295/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/18d337e0-3828-4360-91c4-bc3260ae46ec">Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450351258/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1">Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4444576976/">Apply</a></td>
@@ -29,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f798d973-b9d4-460f-a321-0cd515bcea7c">Machine Learning Engineering Intern (Masters/PhD) - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/d09cb9dd-6cf8-4d59-b3f7-d1dd248a95f0">Machine Learning Engineer Intern (TikTok Shop - SEA) - 2027 Start</a></td>
-<td>San Jose, CA<br/>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488658391/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -961,10 +975,52 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f5f3643-f2e6-4eab-ba95-d9f5ae578e0a">AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4273231160/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d99ec82a-d0b7-4bf2-b2b8-988af04c6b2f">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447687331/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6dbcd0e5-9283-4269-b601-f06dfee10b5c">Machine Learning Engineer Project Intern（TikTok Search）- 2026 Start（BS/MS）</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4379670350/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15764ecf-294a-493c-9cc7-ecf8b0135491">Machine Learning Engineer Intern, Trust and Safety Engineering - 2027 Start (PhD)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4381636517/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3ce9d011-b207-4ed8-bb64-e38bd788130b">Machine Learning Engineer Project Intern (MultiModal ML Direction) - 2026 Start (BS/MS)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4359224652/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/da1b70d8-a902-442c-b10b-d678bcc131cc">Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)</a></td>
 <td>Taipei, Taipei City, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489079582/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/4558094f-7482-47a0-bbe7-03f8340f492b">Internship - Pro Apps Machine Learning Ecosystem Engineer</a></td>
+<td>London, England, E20 1EQ, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

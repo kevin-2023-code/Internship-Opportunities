@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**44 open roles.** 31 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
+**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bask Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/87a8a562-c977-475d-9183-26ba8469d6e2">Frontend Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/bask-health-1/j/9C2964C7CD/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lumen Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bd346bb-e1c6-46c7-8af8-610c3a8d6214">Data, Analytics &amp; Decision Science - Summer 2027 Internship Pathway</a> 🌐</td>

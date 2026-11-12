@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
+**1,786 open roles.** 1,424 in the United States & Canada · 362 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Dematic</strong></td>
+<td><a href="https://trueinterview.io/jobs/269c50e8-8669-44cd-9df7-4280e2b59581">Controls Engineering Intern/Co-Op</a></td>
+<td>Salt Lake City, UT<br/>Wauwatosa, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456954153/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Kiewit</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8ebdfca-c03e-46f2-8491-b5d0b2212d3f">Drainage Engineer Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
@@ -2807,13 +2814,6 @@
 <td>Sugar Land, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103">Apply</a></td>
 <td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>DoorDash</strong></td>
-<td><a href="https://trueinterview.io/jobs/b45d061f-2df5-430d-9306-58a31cf99871">Operations Research Intern (PhD), Summer 2027</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
-<td align="center">19 Oct 2026</td>
 </tr>
 </tbody>
 </table>

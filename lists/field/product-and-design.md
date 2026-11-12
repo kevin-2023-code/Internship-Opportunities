@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**222 open roles.** 161 in the United States & Canada · 61 elsewhere in the world.
+**238 open roles.** 171 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,83 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>QuantumFinix</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fa8e261-ff7e-413e-a4ae-067d6b787ab0">UI/UX Design Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489227811/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/7fb3204b-36be-41e3-9922-93f0a2bd6764">AI Product Design Intern (TikTok-Design) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447323835/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/08453364-e8da-4c18-a773-6abea81aa6b5">Product Manager Shop Ads Creative Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4421486327/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/af1c2e20-f3b5-4a6f-9c08-ce3c36723545">(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4387327666/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/616bb078-2ee4-4d9d-8f68-a70044aa5d73">AI Product Manager Project Intern (TikTok LIVE-Ecosystem Governance) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430816044/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8ab930ef-80e8-4571-8cdb-399a089b57b6">Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)</a></td>
+<td>Austin, TX<br/>Austin, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4366485008/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2f3fd1c9-b5c5-475e-8ddb-df2c7817ef56">Product Manager Vertical Search Ads Mandarin Speaking Project intern (Content and Service Ads) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4430609212/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/60e98dc3-8165-4dd5-9311-c74326d1bf18">Product-Led-Growth Product Manager Project Intern (Product Lead Growth) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481180737/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cec62210-514c-4bcf-b2f6-a935faf5c19a">Recommendation Product Manager Intern (TikTok-Product-Content Ecosystem)- 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448288250/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e6a2971f-ffe1-40e3-87f3-19b0cc721fc3">Strategy Product Manager Intern (TikTok-Platform Responsibility) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449986299/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/009f32b2-7685-470b-b4fb-7c61b99371fb">Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463829468/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>3M Vietnam</strong></td>
 <td><a href="https://trueinterview.io/jobs/8babbe58-f775-44d1-a141-93413763d3ad">Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety &amp; Industrial Business Group (SIBG)</a></td>
@@ -435,13 +512,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1eb28376-2fd5-4dd6-ad2d-156093646038">Summer 2027 Assoc Product Manager Internship</a></td>
 <td>Overland Park, KS</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485254608/">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/02a1944d-e4f1-4f69-86c9-3c1befdb6711">Product Manager - Project Intern (Global Monetization Product and Technology) - 2027 Start</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485113428/">Apply</a></td>
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
@@ -1158,6 +1228,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/a7687d6e-315e-43bb-9080-d0a7b2cbd7b9">Platform Product Manager Intern (TikTok Platform safety) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450334701/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/c39bc9ee-5ce8-4463-b744-789c48276325">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS）</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4351871758/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/eede9ef2-d3fe-440d-97b1-c3a3fc54a08b">AI Product Manager Project Intern (TikTok LIVE-Platform)- 2026 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4449761047/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/74725b3b-1ac8-4b26-9220-9a0567ea4c58">AI Product Design Intern (TikTok-Design)-2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447692215/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7c9aa3f5-276f-4e38-9586-7d7c47a0f3dc">Creator and Content Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer</a></td>
+<td>São Paulo, São Paulo, Brazil<br/>Mexico City, Mexico</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447908326/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7e8069b4-6882-45dc-a9cb-7614f7728e26">Seller Governance Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer</a></td>
+<td>São Paulo, São Paulo, Brazil<br/>Mexico City, Mexico</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481175912/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2999fd08-3cc8-4feb-9fb4-ba0682a6732c">AI Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4405993593/">Apply</a></td>

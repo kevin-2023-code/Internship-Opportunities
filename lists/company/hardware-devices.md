@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**219 open roles.** 176 in the United States & Canada · 43 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**220 open roles.** 176 in the United States & Canada · 44 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1261,6 +1261,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/4558094f-7482-47a0-bbe7-03f8340f492b">Internship - Pro Apps Machine Learning Ecosystem Engineer</a></td>
+<td>London, England, E20 1EQ, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Neura Robotics</strong></td>
 <td><a href="https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e">Intern Quality Engineer (Human)</a></td>

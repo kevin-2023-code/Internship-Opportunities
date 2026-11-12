@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**741 open roles.** 548 in the United States & Canada · 193 elsewhere in the world.
+**781 open roles.** 566 in the United States & Canada · 215 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,133 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>JM&amp;A Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/b85f3e00-77a3-48c6-b000-9f9643c16e7c">Customer Experience Data Analyst Intern</a></td>
+<td>Deerfield Beach, Florida, United States</td>
+<td align="center"><a href="https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Walmart</strong></td>
+<td><a href="https://trueinterview.io/jobs/7508b9d9-ad4c-45ae-aeee-a8f294b0d823">R-2690844 (USA) Corporate Intern: Market Strategy Data Science Intern</a></td>
+<td>Bentonville, Arkansas, United States</td>
+<td align="center"><a href="https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/R-2690844--USA--Corporate-Intern---Market-Strategy-Data-Science-Intern_R-2690844">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/51eed6e8-4b82-4622-aa5b-86c8d40dc5b1">Research Scientist Intern, AI Research - Speech &amp; Audio (PhD)</a></td>
+<td>New York, NY<br/>Menlo Park, CA<br/>London, England, United Kingdom<br/>+1 more</td>
+<td align="center"><a href="https://www.metacareers.com/jobs/1811645993254851/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3ada76a7-33ab-46b8-97b3-c2c4e1c2424d">Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD)</a></td>
+<td>Seattle, WA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482573067/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/39883306-8086-4ee5-b287-894e83bc3cbf">Research Scientist Intern, Ranking &amp; Recommendations (PhD)</a></td>
+<td>Bellevue, WA<br/>New York, NY<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482561678/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d9aee91a-1a20-4e4e-abed-6117a97b8ec5">Research Scientist Intern, Youth Safety (PhD)</a></td>
+<td>Bellevue, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482561680/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Centene Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/9eea8466-a296-4273-9dab-b692d8d796b5">AI Design Systems Intern (Master's - Summer 2027)</a></td>
+<td>Missouri, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484756664/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Valmont Industries, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/215b55c5-3797-422c-b114-3060a9c3b4b0">AI &amp; Data Engineering Intern</a></td>
+<td>Omaha, Nebraska, United States</td>
+<td align="center"><a href="https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/a67a0160-bd3f-40fd-aea8-db1cc03a731e">Research Scientist Intern, User Modeling and Reinforcement Learning (PhD)</a></td>
+<td>Bellevue, WA<br/>Menlo Park, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482553942/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/604d983e-3d0c-483f-884e-f47e9e44aad2">Product Design Engineering Intern — AI Glasses</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482562595/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ea8ae52f-7a8d-4da0-8f91-ad849de8a084">Research Scientist Intern - Neural Representations Compression</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482553946/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7443b7b-2bcd-4b44-9906-8327b99d7385">Data Engineer Intern</a></td>
+<td>Fort Belvoir, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482551933/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Modern Woodmen of America</strong></td>
+<td><a href="https://trueinterview.io/jobs/a2bc5374-9a74-4796-9b78-7cb90cde1f12">Data Analyst Intern</a></td>
+<td>Rock Island, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484731371/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Great American Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd9d4a26-5dfa-4d0d-a7f9-07e046d00deb">Data ITSM Analyst Intern - Summer 2027</a></td>
+<td>Cincinnati, Ohio, United States</td>
+<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-ITSM-Analyst-Intern---Summer-2027_R9814">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Dassault Systèmes</strong></td>
+<td><a href="https://trueinterview.io/jobs/de0f0b55-361e-4926-940e-dff35acbcd2e">INTERNSHIP - Data Science</a></td>
+<td>Waltham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484711714/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mativ</strong></td>
+<td><a href="https://trueinterview.io/jobs/54c53d00-60da-4f86-9283-ef572fdf31e6">Data Science and Business Analytics Intern</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484720194/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NexGen AI Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/3d5bb824-89f6-442c-b96d-08c1fd231e92">AI Engineer Intern</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482096384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>CCC Intelligent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e46af2b-cc80-4f49-8427-00065799420e">Data Science and AI Internship Interest | Resume Review and Open House</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496772/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/529f86f2-8a64-43ff-baa9-10ecac3362f7">Financial Business Intelligence &amp; Analytics Internship Interest | Resume Review and Open House</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484707456/">Apply</a></td>
@@ -1064,6 +1190,174 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/514dea3b-f30f-4e7c-a5f0-d21880a80cce">Multimodal Algo Researcher (AI Innovation Center) Intern - 2026 Soaring Star Talent Program</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4354835476/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696139/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1f5f3643-f2e6-4eab-ba95-d9f5ae578e0a">AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4273231160/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3b62bc2d-df7c-4baf-a7f4-291413773c45">Data Business Analyst Project Intern (Global Business Solutions) - 2025 Start (BS/MS)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4319476965/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f347b44e-4054-49a2-89b1-655bfa8fa27a">Research Scientist Intern - LLM Applications for International E-commerce Scenarios - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401867441/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b4e9224f-2493-4b28-8580-e4291953f039">AI Agent Engineer Intern (Search) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452746940/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9ac21dce-41a8-4858-ade6-33b10c21b709">LLM Algorithm Research Scientist - Code AI intern (AI Innovation Center) - 2026 Soaring Star Talent Program</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4354816727/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/128da750-308d-4870-b1ed-2e4f443dbdbd">LLM/Multimodal AI Engineer Intern (TikTok Search) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447688305/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e10832c5-c857-4a5a-aa22-15478eceef37">Research Scientist Intern - Risk Control Vertical LLM Foundation and Agent - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401866474/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/8423e8df-d2c3-4c55-8d3b-2e832bc2ed87">AI Infrastructure Engineer Intern (TikTok Recommendation Architecture) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447921047/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d99ec82a-d0b7-4bf2-b2b8-988af04c6b2f">AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447687331/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0">Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS）</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401884014/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f0dfd541-e603-4530-87f9-3d32d91e578a">Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447682419/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6dbcd0e5-9283-4269-b601-f06dfee10b5c">Machine Learning Engineer Project Intern（TikTok Search）- 2026 Start（BS/MS）</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4379670350/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/60addef9-3278-4adc-915a-ff257f42cb94">AI Feature/Computing/Storage Engineer Intern (TikTok Recommendation Ecosystem) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447695181/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/9318b882-7d02-42fd-9e29-fd66f786f469">Data Warehouse Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447698948/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e857ec86-b103-4663-bf00-8fedd5f14acd">Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447695194/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/15764ecf-294a-493c-9cc7-ecf8b0135491">Machine Learning Engineer Intern, Trust and Safety Engineering - 2027 Start (PhD)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4381636517/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3ce9d011-b207-4ed8-bb64-e38bd788130b">Machine Learning Engineer Project Intern (MultiModal ML Direction) - 2026 Start (BS/MS)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4359224652/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/dcd09752-bfbf-4013-b69c-1174225e3f0b">Business Data Analyst Project Intern (GBS) - 2026 Start (BS/MS)</a></td>
+<td>Ho Chi Minh City, Ho Chi Minh City, Vietnam</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4323344926/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/12d24ce0-a6cc-470e-86e5-867511bf4006">Data Analyst Project Intern (TikTok Shop - FMCG) - 2026 Start (BS/MS)</a></td>
+<td>London, England, United Kingdom<br/>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4404445261/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a195fde1-74b7-4bf5-b8b0-17207c7f8029">Software Test Engineer Intern (AI) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448543022/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/4558094f-7482-47a0-bbe7-03f8340f492b">Internship - Pro Apps Machine Learning Ecosystem Engineer</a></td>
+<td>London, England, E20 1EQ, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Isar Aerospace Se</strong></td>
 <td><a href="https://trueinterview.io/jobs/e838a7fb-7b09-49cc-be91-89add62288e5">Intern AI &amp; Data Transformation</a></td>
 <td>Parsdorf, Bavaria, Germany</td>
@@ -1072,20 +1366,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/12d24ce0-a6cc-470e-86e5-867511bf4006">Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS)</a></td>
-<td>London, England, United Kingdom<br/>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4404445261/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9318b882-7d02-42fd-9e29-fd66f786f469">Data Warehouse Engineer Intern (Data Platform, TikTok User Growth) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447698948/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/43d5b7ac-e0f4-44c5-adbc-38300c701877">Content Understanding LLM Algorithm Engineer Intern (Global E-Commerce) - 2027 Start (PhD)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447676718/">Apply</a></td>

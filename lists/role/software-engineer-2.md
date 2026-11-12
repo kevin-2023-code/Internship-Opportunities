@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**537 open roles.** 435 in the United States & Canada · 102 elsewhere in the world.
+**534 open roles.** 433 in the United States & Canada · 101 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Dandy</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1d13ca9-f24e-44f8-bbba-6ca6c4730e88">Summer 2027 Internship - Software Engineering</a></td>
-<td>USA - New York NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7557d25-be50-4cf7-8928-93c1240d958b">Software Engineer Internship – Metadata Enablement Team</a></td>
-<td>Des Moines, Iowa, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000152679699-software-engineer-internship-metadata-enablement-team">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
 <tr>
 <td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/de6796b4-a268-45d2-b7e1-8224d1dc663c">Software Development Engineer Intern, AWS Database - 2027 (US)</a></td>
@@ -273,6 +259,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/6ce75b46-dc9a-4ae0-bdfc-5851042c41be">Software Engineer Intern (Multimedia Framework, C++) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439152443/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/dc7eba51-9848-455d-b52a-1c78f29e53cd">Developer Technology Engineer Intern</a></td>
 <td>Tokyo, Japan</td>
@@ -308,31 +308,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Data Trust and Safety) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/d7454d14-a4b6-4701-a6b7-4dddfaf07be5">Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)</a></td>
 <td>PL-Warsaw-Lixa C</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/d0276fea-b72e-4485-84d7-787e6fadf5d8">Software Engineer Intern (TikTok Recommendation Platform) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447686338/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/6ce75b46-dc9a-4ae0-bdfc-5851042c41be">Software Engineer Intern, (TikTok Live) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439152443/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

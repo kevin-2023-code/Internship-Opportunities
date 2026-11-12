@@ -2,7 +2,7 @@
 
 # Mobile Engineer
 
-**17 open roles.** 14 in the United States & Canada · 3 elsewhere in the world.
+**20 open roles.** 14 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -129,6 +129,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/e39eae36-a8dc-4179-b8de-ce703e64dacd">[Mobile Software Engineer] Intern (Global Live Revenue) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451417044/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f85b2520-f0d1-4d95-8cb6-fe630b76773c">iOS Software Engineer Intern (TikTok Live Foundation) - 2027 start</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447986858/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/d520aba3-d74a-415b-a756-fb8b744a599b">Mobile Software Engineer Intern (Social) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452751870/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/2608a073-b173-4058-be7c-bbfa1fc31c65">Android Software Engineer Intern (Global LIVE Platform) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4451196736/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**805 open roles.** 730 in the United States & Canada · 75 elsewhere in the world.
+**806 open roles.** 730 in the United States & Canada · 76 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ford Motor Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/ce7d70a4-c0a3-41ad-872b-08e90b0d1e83">Product Development Ford Champ (Intern)</a></td>
+<td>Naucalpan de Juarez, MEX, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70405">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Aumovio</strong></td>
 <td><a href="https://trueinterview.io/jobs/8f91e7b3-1574-4ee7-a777-bff0bb3ebffc">R&amp;D Mechanical Engineer - Internship</a></td>

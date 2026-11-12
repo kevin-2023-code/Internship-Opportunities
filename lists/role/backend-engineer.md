@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/d9755091-6b59-4571-b292-b3e4f9fb37d1">Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446293082/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TaskVerse</strong></td>
 <td><a href="https://trueinterview.io/jobs/459e891a-6b44-4f83-a9ac-ecb7a8ff12d3">BackEnd Developer Intern</a></td>
 <td>United States</td>
@@ -50,13 +57,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/09ffc0cf-032b-48d0-9d0a-ae8a10ee7179">Software Engineer Project Intern (Global E-Commerce Search Infrastructure) - 2026 Start</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448713024/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d9755091-6b59-4571-b292-b3e4f9fb37d1">Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446293082/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -164,23 +164,23 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/77043e4b-58fa-47d2-a30d-9114b96c0d4f">Big Data Engineer Intern (TikTok Live Recommendation Architecture) - 2027 Start</a></td>
+<td><a href="https://trueinterview.io/jobs/b3b07757-ee89-42cd-bcee-532f69281954">Backend Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447922016/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447699661/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f857556b-d562-4dac-abec-323957c33b06">Backend Engineer Intern (TikTok Recommendation Architecture) - 2026 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4273232112/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Snowflake</strong></td>
 <td><a href="https://trueinterview.io/jobs/213fae6a-0c6c-41f2-9bca-aa61633882fd">Software Engineering Intern – Data Ingestion &amp; Platform Infrastructure (Warsaw, Summer 2027)</a></td>
 <td>PL-Warsaw-Lixa C</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/d7fc20cf-8413-45c7-b191-5561aa7d6675">Backend Software Engineer Intern (Global LIVE Transaction) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447699662/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

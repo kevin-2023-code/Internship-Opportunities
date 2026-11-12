@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**112 open roles.** 90 in the United States & Canada · 22 elsewhere in the world.
+**114 open roles.** 92 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/f86e607a-4627-4200-a106-7523d57352b2">Data Scientist Intern (VOD Data) - 2027 Summer</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448990233/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/70d43e6f-14b5-4f62-bcae-c7f64f8715c4">Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4280360638/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ab65609c-a852-4fc5-8c97-5c87eac7e3c8">Data Scientist Project Intern (TikTok Integrity and Safety) - 2026 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4443165435/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>CNH</strong></td>
 <td><a href="https://trueinterview.io/jobs/3fea7c63-b7c4-4f7d-8ffe-83fa753aab2c">Data Scientist Intern - Python</a></td>
 <td>New Holland, PA</td>
@@ -29,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/cc36ab8b-4fe7-4b2f-9907-502a3c33b179">Summer 2027 AI Data Science Consulting Internship</a></td>
 <td>Minneapolis, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489676301/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/70d43e6f-14b5-4f62-bcae-c7f64f8715c4">Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)</a></td>
-<td>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4280360638/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -661,10 +675,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/12d24ce0-a6cc-470e-86e5-867511bf4006">Data Analyst Project Intern (TikTok Shop) - 2026 Start (BS/MS)</a></td>
+<td><a href="https://trueinterview.io/jobs/12d24ce0-a6cc-470e-86e5-867511bf4006">Data Analyst Project Intern (TikTok Shop - FMCG) - 2026 Start (BS/MS)</a></td>
 <td>London, England, United Kingdom<br/>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4404445261/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
+<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
