@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**176 open roles.**
+**175 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -50,13 +50,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0da88028-3701-4e8b-8cef-04fa3ab0fd18">Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356789?gh_jid=8356789">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1e31cc4-387d-4b80-baf2-d402293bc5c0">2027 Finance Data Analyst Intern</a></td>
-<td>Costa Mesa, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482030617/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
