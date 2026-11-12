@@ -72,7 +72,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>Ribbon Communications</strong></td>
 <td><a href="https://trueinterview.io/jobs/0c4032d2-6b5a-4277-9983-d6e101afe050">AI Engineer- Co-Op</a></td>
 <td>Westford, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489010645/">Apply</a></td>
+<td align="center"><a href="https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -97,10 +97,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Smith+Nephew</strong></td>
-<td><a href="https://trueinterview.io/jobs/7fa5c0c9-b331-4b62-ab46-541d30ee17e8">Intern Agentic AI Software Engineering</a></td>
-<td>Andover, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4480763722/">Apply</a></td>
+<td><strong>Oceaneering</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3f24bf4-3448-46d1-9bda-bd650b309a43">AI Governance Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473513140/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

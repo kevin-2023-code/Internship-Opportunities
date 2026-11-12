@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,756 open roles.** 1,412 in the United States & Canada · 344 elsewhere in the world.
+**1,761 open roles.** 1,415 in the United States & Canada · 346 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Constellation</strong></td>
+<td><a href="https://trueinterview.io/jobs/eef4b2bd-11a0-4a6e-a342-f4a63c0e3601">Summer 2027 Engineering Intern - Ontario, NY</a></td>
+<td>Ontario, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475712216/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4d9a71ff-83e5-485e-8a76-59c43a098562">Summer 2027 Engineering Internship - Pottstown, PA</a></td>
+<td>Pottstown, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475718024/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hubbell Incorporated</strong></td>
+<td><a href="https://trueinterview.io/jobs/9cd4fdca-4486-4c32-a265-0f0fb4358e4f">2027 Summer Intern: Engineering - Utility Automation</a></td>
+<td>Boonton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468304868/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>nVent</strong></td>
 <td><a href="https://trueinterview.io/jobs/c1d37f65-8fdc-4223-8b64-8a912951e971">Engineering Lab Co-Op (Jan - August 2027)</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/9683ff0a-07c6-46c9-96d0-35203d375dd1">2027 Internship - Systems Engineering - Power &amp; Control</a></td>
 <td>Austin, TX<br/>Austin, Texas</td>
 <td align="center"><a href="https://jobs.eu.lever.co/cirrus/76f89050-2cda-4c96-b796-94346c98f896">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/6d2cce23-e28e-4105-8286-89d269b52da3">Intern - Controls Engineer - Summer 2027</a></td>
-<td>Milpitas, CA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/e3408817-347e-45bc-8627-305b75b6b978">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d410bf00-ce68-4b38-9077-61fa4de6aeba">Intern - Mechanical Equipment Engineer - Spring 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/86514c02-6205-4178-911e-6ae209d67a9e">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Muon Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/585ff75d-a8f5-4aac-bb23-24953a9b1b14">Ground Software Engineering Intern (Summer 2027)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5266679007">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,756 open roles.** 1,412 in the United States & Canada · 344 elsewhere in the world.
+**1,761 open roles.** 1,415 in the United States & Canada · 346 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rippling</strong></td>
+<td><a href="https://trueinterview.io/jobs/3656080d-f8d5-4be8-be91-8f03581f4546">Software Engineer Intern - Backend Focused - Summer 2027</a></td>
+<td>Seattle, WA<br/>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470491426/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vermeer Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/f26bd3d5-e875-4f40-8b7e-ad35147aff38">Embedded Software Engineer Internship Summer 2027</a></td>
+<td>Pella, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460246263/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Greystone</strong></td>
+<td><a href="https://trueinterview.io/jobs/514b51ee-1e14-4b1a-9375-9220dce937df">Salesforce Developer Intern - Summer 2027</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479203343/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Oceaneering</strong></td>
 <td><a href="https://trueinterview.io/jobs/96f03e20-392a-4f6b-9771-95240c4d7c8c">Power Platform Developer Intern</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/709e37d3-2a95-4610-aab1-c3a647f7f396">Naval Architect Intern</a></td>
 <td>Metairie, LA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4467752667/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Constellation</strong></td>
-<td><a href="https://trueinterview.io/jobs/eef4b2bd-11a0-4a6e-a342-f4a63c0e3601">Summer 2027 Engineering Intern - Ontario, NY</a></td>
-<td>Ontario, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475712216/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4d9a71ff-83e5-485e-8a76-59c43a098562">Summer 2027 Engineering Internship - Pottstown, PA</a></td>
-<td>Pottstown, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475718024/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hubbell Incorporated</strong></td>
-<td><a href="https://trueinterview.io/jobs/9cd4fdca-4486-4c32-a265-0f0fb4358e4f">2027 Summer Intern: Engineering - Utility Automation</a></td>
-<td>Boonton, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468304868/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
