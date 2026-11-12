@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**171 open roles.** 135 in the United States & Canada · 36 elsewhere in the world.
+**171 open roles.** 134 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,13 +64,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1e872764-8276-4233-ae7f-bdd5f505d880">Generative AI &amp; Machine Learning Engineering Intern (Summer 2027)</a></td>
 <td>Bloomington, MN<br/>Normandale, United States</td>
 <td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=seagatetec&amp;rcm_site_locale=en_US&amp;career_job_req_id=15532">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
-<td><a href="https://trueinterview.io/jobs/f714ef74-e246-4e30-820f-59803a7799ba">Summer 2027 PhD AI Machine Learning Engineer Intern</a></td>
-<td>San Jose, California</td>
-<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91663">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -974,6 +967,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/da1b70d8-a902-442c-b10b-d678bcc131cc">Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489079582/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/bec49522-7daa-47f9-97d5-e078b52b2224">Machine Learning Engineer Intern, Data Trust &amp; Safety (Australia) - 2026 Start</a></td>

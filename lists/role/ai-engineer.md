@@ -130,6 +130,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>AMD</strong></td>
+<td><a href="https://trueinterview.io/jobs/f714ef74-e246-4e30-820f-59803a7799ba">Summer 2027 PhD AI Machine Learning Engineer Intern</a></td>
+<td>San Jose, California</td>
+<td align="center"><a href="https://careers.amd.com/careers-home/jobs/91663">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Addepar</strong></td>
 <td><a href="https://trueinterview.io/jobs/73f8bb71-a7f6-4d93-a0f5-e5a8e9a67469">AI Engineering Intern - Summer 2027</a></td>
 <td>New York, NY<br/>New York City Metropolitan Area</td>
@@ -1033,14 +1040,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">21 Sep 2026</td>
 </tr>
 <tr>
-<td><strong>Rundoo</strong></td>
-<td><a href="https://trueinterview.io/jobs/a43c5fce-897a-4c83-b533-a771b6cb9dd7">Marketing Engineering Intern</a></td>
-<td>Redwood City<br/>San Mateo, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rundoo/72f01e6a-dcd1-4620-a915-374890bcacf7/application">Apply</a></td>
-<td align="center">18 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>AMD</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/9c7550cf-109e-4f9d-be07-efc0b5dbe3fc">2027 PhD AI Model Optimization &amp; Software Engineer Intern/Co-op</a></td>
 <td>San Jose, California, United States<br/>Austin, TX<br/>US, CA, San Jose<br/>+3 more</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/92522?lang=en-us">Apply</a></td>

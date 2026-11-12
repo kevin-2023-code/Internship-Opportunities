@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**527 open roles.** 426 in the United States & Canada · 101 elsewhere in the world.
+**530 open roles.** 428 in the United States & Canada · 102 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -321,6 +321,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Shape Corp.</strong></td>
+<td><a href="https://trueinterview.io/jobs/59be59a4-19d7-4b06-829f-640c180ad48b">Computer Science Engineering Intern- Summer 2027</a></td>
+<td>Grand Haven, MI</td>
+<td align="center"><a href="https://myjobs.adp.com/shapecareers/cx/job-details?reqId=5001237302500">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Echo Global Logistics</strong></td>
 <td><a href="https://trueinterview.io/jobs/54a2008e-7fdf-43fc-bbdc-9eedd43b763d">Software Engineering Intern- Chicago</a></td>
 <td>Illinois, United States</td>
@@ -486,6 +493,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b4064129-23db-4b96-9c62-b2ba36212bf8">Application Developer Intern - Summer 2027</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1104">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JMP Statistical Discovery</strong></td>
+<td><a href="https://trueinterview.io/jobs/450109f0-adbc-4c5d-8d1e-979a955e2b77">JMP 2027 Summer Internship; C++ Software Development</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://jmp-sas.icims.com/jobs/46960/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2804,20 +2818,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Rosa, California, United States<br/>San Diego, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54417?lang=en-us">Apply</a></td>
 <td align="center">25 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fdfe2bc-6058-42ba-95e2-3149035e3504">Software Intern</a></td>
-<td>Aguadilla, Puerto Rico, Puerto Rico<br/>San Juan, Puerto Rico, Puerto Rico</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1">Apply</a></td>
-<td align="center">23 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/e1c2b1dd-726e-4dcb-8a38-b1cac6bce6fe">Semiconductor Systems Automation Intern</a></td>
-<td>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54371?lang=en-us">Apply</a></td>
-<td align="center">22 Sep 2026</td>
 </tr>
 </tbody>
 </table>

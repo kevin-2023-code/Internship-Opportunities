@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**110 open roles.** 92 in the United States & Canada · 18 elsewhere in the world.
+**109 open roles.** 91 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -78,13 +78,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0ea172a7-4463-4eb7-9f48-629a840b29be">Cybersecurity Intern</a></td>
 <td>Green Bay, WI, 54303</td>
 <td align="center"><a href="https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lumen Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfb0ef0a-3069-4ef6-ac6e-321b77181066">Cybersecurity, Risk &amp; Digital Trust - Summer 2027 Internship Pathway</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=CTLPRD&amp;rcm_site_locale=en_US&amp;career_job_req_id=344133">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

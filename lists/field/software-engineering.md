@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,767 open roles.** 1,417 in the United States & Canada · 350 elsewhere in the world.
+**1,767 open roles.** 1,414 in the United States & Canada · 353 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -608,13 +608,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>PACCAR</strong></td>
-<td><a href="https://trueinterview.io/jobs/af0c597f-8f0d-45be-a4d3-064616595d6a">2027 Summer Internship: Engineering Systems</a></td>
-<td>United States</td>
-<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=paccarinc&amp;rcm_site_locale=en_US&amp;career_job_req_id=73866">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Judi Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/1ea64903-149e-414f-9dc8-57d3c16fb0ca">AI Solutions Intern</a></td>
 <td>New York, NY</td>
@@ -734,13 +727,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Green Bay Packaging</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ea172a7-4463-4eb7-9f48-629a840b29be">Cybersecurity Intern</a></td>
-<td>Green Bay, WI, 54303</td>
-<td align="center"><a href="https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>National Information Solutions Cooperative (nisc</strong></td>
 <td><a href="https://trueinterview.io/jobs/5c770ea0-56e8-4815-bf2c-14393e3a3db6">Intern - Test Automation</a></td>
 <td>Lake Saint Louis, MO</td>
@@ -836,13 +822,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336">SAP iXp Intern - AI Developer</a></td>
 <td>Palo Alto, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160905751-sap-ixp-intern-ai-developer">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lumen Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/cfb0ef0a-3069-4ef6-ac6e-321b77181066">Cybersecurity, Risk &amp; Digital Trust - Summer 2027 Internship Pathway</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=CTLPRD&amp;rcm_site_locale=en_US&amp;career_job_req_id=344133">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -969,6 +948,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b4064129-23db-4b96-9c62-b2ba36212bf8">Application Developer Intern - Summer 2027</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1104">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JMP Statistical Discovery</strong></td>
+<td><a href="https://trueinterview.io/jobs/450109f0-adbc-4c5d-8d1e-979a955e2b77">JMP 2027 Summer Internship; C++ Software Development</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://jmp-sas.icims.com/jobs/46960/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/828a1f39-301e-4be6-835b-9ec1ed0860cc">Summer 2027 Internship - IT Software Engineer</a></td>
 <td>West Bend, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4469407201/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/7b6de084-55c4-40d6-b85d-9a27a09a7fed">QA/Test Engineer Intern-Tucson, AZ</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4456512970/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/c55d1590-d3d4-420f-9c43-7e5a1c8b89c5">Java Software Developer-INTERN</a></td>
+<td>Colorado Springs, CO</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477760376?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

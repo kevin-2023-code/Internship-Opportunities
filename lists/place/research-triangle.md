@@ -2,7 +2,7 @@
 
 # 🔺 Research Triangle & the Carolinas
 
-**58 open roles.**
+**59 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -57,6 +57,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c2b9046b-3f2e-4bae-819d-c247a496cb6e">Design Engineering Intern - Networking Event with AECOM – Raleigh, NC</a></td>
 <td>Greenville, South Carolina, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160950270-design-engineering-intern-networking-event-with-aecom-raleigh-nc">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>JMP Statistical Discovery</strong></td>
+<td><a href="https://trueinterview.io/jobs/450109f0-adbc-4c5d-8d1e-979a955e2b77">JMP 2027 Summer Internship; C++ Software Development</a></td>
+<td>Cary, NC</td>
+<td align="center"><a href="https://jmp-sas.icims.com/jobs/46960/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>

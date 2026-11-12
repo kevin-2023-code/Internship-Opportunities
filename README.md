@@ -32,23 +32,23 @@ page carries *every* matching role rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-12 08:06 UTC_
+_Last updated: 2026-11-12 09:05 UTC_
 
-**2,976 open internships** from **1,225 employers** · **794 posted in the last 7 days** · refreshed hourly
+**2,976 open internships** from **1,225 employers** · **791 posted in the last 7 days** · refreshed hourly
 
 ### Browse 2,976 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (1,417)
+💻 **[Software Engineering](#-software-engineering)** (1,414)
 
-🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (546)
+🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (547)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (727)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (728)
 
 📱 **[Product & Design](#-product--design)** (161)
 
 📈 **[Quantitative Finance](#-quantitative-finance)** (65)
 
-🧰 **[IT & Support](#-it--support)** (60)
+🧰 **[IT & Support](#-it--support)** (61)
 
 ---
 
@@ -64,13 +64,13 @@ _Last updated: 2026-11-12 08:06 UTC_
 
 _Counts are internships in the United States & Canada. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (464)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (202)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (176)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (108)](lists/company/large-tech.md) · [📱 Consumer internet & media (93)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (81)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (65)](lists/company/enterprise-saas.md) · [🧾 IT services & consulting (56)](lists/company/it-consulting.md) · [📐 Engineering & architecture firms (46)](lists/company/engineering-services.md) · [🚗 Autonomy, automotive & mobility (41)](lists/company/autonomy-mobility.md) · [+13 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (464)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (202)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (176)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (108)](lists/company/large-tech.md) · [📱 Consumer internet & media (93)](lists/company/consumer-internet.md) · [🚀 Aerospace & defence (81)](lists/company/aerospace-defense.md) · [🏢 Enterprise & business software (64)](lists/company/enterprise-saas.md) · [🧾 IT services & consulting (56)](lists/company/it-consulting.md) · [📐 Engineering & architecture firms (46)](lists/company/engineering-services.md) · [🚗 Autonomy, automotive & mobility (41)](lists/company/autonomy-mobility.md) · [+13 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (426)](lists/role/software-engineer.md) · [AI Engineer (148)](lists/role/ai-engineer.md) · [Machine Learning Engineer (135)](lists/role/machine-learning-engineer.md) · [Hardware Engineer (116)](lists/role/hardware-engineer.md) · [Security Engineer (92)](lists/role/security-engineer.md) · [Data Scientist (89)](lists/role/data-scientist.md) · [Research Scientist (70)](lists/role/research-scientist.md) · [Product Manager (69)](lists/role/product-manager.md) · [Data Engineer (64)](lists/role/data-engineer.md) · [Data Analyst (63)](lists/role/data-analyst.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (428)](lists/role/software-engineer.md) · [AI Engineer (148)](lists/role/ai-engineer.md) · [Machine Learning Engineer (134)](lists/role/machine-learning-engineer.md) · [Hardware Engineer (116)](lists/role/hardware-engineer.md) · [Security Engineer (91)](lists/role/security-engineer.md) · [Data Scientist (89)](lists/role/data-scientist.md) · [Research Scientist (70)](lists/role/research-scientist.md) · [Product Manager (69)](lists/role/product-manager.md) · [Data Engineer (64)](lists/role/data-engineer.md) · [Data Analyst (63)](lists/role/data-analyst.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🌉 SF Bay Area (528)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (175)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (161)](lists/place/boston.md) · [🗽 New York City (146)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (108)](lists/place/seattle.md) · [🎸 Austin (90)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (85)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (84)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌬️ Chicago (62)](lists/place/chicago.md) · [+17 more →](lists/README.md)
+📍 **By location** — [🌉 SF Bay Area (527)](lists/place/bay-area.md) · [🌴 Los Angeles & Orange County (175)](lists/place/los-angeles.md) · [🎓 Boston & Cambridge (161)](lists/place/boston.md) · [🗽 New York City (146)](lists/place/new-york.md) · [🌲 Seattle & Puget Sound (108)](lists/place/seattle.md) · [🎸 Austin (90)](lists/place/austin.md) · [🤠 Dallas–Fort Worth (85)](lists/place/dallas-fort-worth.md) · [🏛️ Washington DC & Northern Virginia (84)](lists/place/washington-dc.md) · [🏔️ Denver, Boulder & Colorado (67)](lists/place/denver-boulder.md) · [🌬️ Chicago (62)](lists/place/chicago.md) · [+17 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (794)](lists/new-this-week.md) · [🌐 Remote (32)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (791)](lists/new-this-week.md) · [🌐 Remote (32)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -634,7 +634,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 1,417.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 1,414.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1186,7 +1186,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 546.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
+**Showing 75 of 547.** [Every Data, AI & Machine Learning role, newest first →](lists/field/data-ai-and-machine-learning.md)
 
 ## 🔧 Hardware & Engineering
 
@@ -1345,6 +1345,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">1d</td>
 </tr>
 <tr>
+<td><strong>PACCAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/af0c597f-8f0d-45be-a4d3-064616595d6a">2027 Summer Internship: Engineering Systems</a> 🆕</td>
+<td>United States</td>
+<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=paccarinc&amp;rcm_site_locale=en_US&amp;career_job_req_id=73866">Apply</a></td>
+<td align="center">1d</td>
+</tr>
+<tr>
 <td><strong>Qualcomm</strong></td>
 <td><a href="https://trueinterview.io/jobs/b1acb89d-d0bb-438a-80ed-c8b49f798c12">FY27 Intern - Firmware Engineering Internship - Canada (16 months)</a> 🆕</td>
 <td>Toronto, Ontario, Canada</td>
@@ -1363,13 +1370,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/6a26f489-6b94-4da3-9165-738ff83d7385">Spring 2027: Product Test Engineering Co-op (January through June)</a> 🆕</td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006">Apply</a></td>
-<td align="center">1d</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/c2b9046b-3f2e-4bae-819d-c247a496cb6e">Design Engineering Intern - Networking Event with AECOM – Raleigh, NC</a> 🆕</td>
-<td>Greenville, South Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000160950270-design-engineering-intern-networking-event-with-aecom-raleigh-nc">Apply</a></td>
 <td align="center">1d</td>
 </tr>
 </tbody>
@@ -1738,7 +1738,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 75 of 727.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 75 of 728.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -2434,6 +2434,13 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td align="center">1d</td>
 </tr>
 <tr>
+<td><strong>Green Bay Packaging</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ea172a7-4463-4eb7-9f48-629a840b29be">Cybersecurity Intern</a> 🆕</td>
+<td>Green Bay, WI, 54303</td>
+<td align="center"><a href="https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9">Apply</a></td>
+<td align="center">1d</td>
+</tr>
+<tr>
 <td><strong>TomTom</strong></td>
 <td><a href="https://trueinterview.io/jobs/92352a63-2f29-4490-823b-fa28175cec87">IT Support Internship</a> 🆕</td>
 <td>Amsterdam, The Netherlands<br/>Lodz, Poland<br/>United States of America</td>
@@ -2578,13 +2585,6 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 <td><a href="https://trueinterview.io/jobs/a677528a-c79f-46b7-a062-98df01689ab5">Intern - IT Service Desk</a></td>
 <td>Smithfield, RI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484720806/">Apply</a></td>
-<td align="center">14d</td>
-</tr>
-<tr>
-<td><strong>Federal Home Loan Bank of Indianapolis (FHLBI)</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a490eff-3842-4384-b14e-0c486181c6c8">Network Engineer Intern</a></td>
-<td>Indianapolis, IN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482541403/">Apply</a></td>
 <td align="center">14d</td>
 </tr>
 </tbody>
@@ -2785,7 +2785,7 @@ _Roles in the United States & Canada. Pulled hourly from the TrueInterview job c
 
 </details>
 
-**Showing 51 of 60.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
+**Showing 51 of 61.** [Every IT & Support role, newest first →](lists/field/it-and-support.md)
 
 <!-- LISTINGS:END -->
 ---

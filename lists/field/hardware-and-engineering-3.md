@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**802 open roles.** 727 in the United States & Canada · 75 elsewhere in the world.
+**803 open roles.** 728 in the United States & Canada · 75 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Gecko Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/d59f73a1-36ad-4bb2-850e-809fa2958094">Embedded Software Engineering Intern</a></td>
+<td>Pittsburgh</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ba6be22f-3b79-4c9e-bdfa-8b1bdbd987b4">Test &amp; Reliability Engineering Intern</a></td>
 <td>Pittsburgh</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85">Apply</a></td>

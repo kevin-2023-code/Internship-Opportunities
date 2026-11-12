@@ -2,7 +2,7 @@
 
 # 🇯🇵 Tokyo & Japan
 
-**10 open roles.**
+**11 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/dc7eba51-9848-455d-b52a-1c78f29e53cd">Developer Technology Engineer Intern</a></td>
+<td>Tokyo, Japan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489095143/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Mercari, Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8ce5ae2-1ba9-4fa7-bb87-80071fd0d80c">Class of 2028, 28卒対象 / UI/UX Designer(Internship)- Mercari Group</a></td>

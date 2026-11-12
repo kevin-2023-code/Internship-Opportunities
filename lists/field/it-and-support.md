@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**79 open roles.** 60 in the United States & Canada · 19 elsewhere in the world.
+**80 open roles.** 61 in the United States & Canada · 19 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -37,6 +37,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Detroit, MI US</td>
 <td align="center"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656">Apply</a></td>
 <td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Green Bay Packaging</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ea172a7-4463-4eb7-9f48-629a840b29be">Cybersecurity Intern</a></td>
+<td>Green Bay, WI, 54303</td>
+<td align="center"><a href="https://gbpackaging.rec.pro.ukg.net/GRE1063GREB/JobBoard/886bda0f-8c06-4d54-af26-414b5292e820/OpportunityDetail?opportunityId=145b8d4b-f766-41f4-9b9d-ce045aa237e9">Apply</a></td>
+<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>TomTom</strong></td>

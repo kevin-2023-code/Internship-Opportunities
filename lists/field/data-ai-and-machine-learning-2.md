@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**739 open roles.** 546 in the United States & Canada · 193 elsewhere in the world.
+**740 open roles.** 547 in the United States & Canada · 193 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@
 <tbody>
 <tr>
 <td><strong>Regeneron</strong></td>
+<td><a href="https://trueinterview.io/jobs/eff8645f-ea7b-41aa-9288-b091d48f97c5">2027 Summer Intern Genomics, Computational Biology &amp; Translational Data Science</a></td>
+<td>Tarrytown, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483892727/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/fbbd3895-86a6-4fec-87a4-b858f6cb4aa9">2027 Summer Intern AI/ML &amp; Data Engineering</a></td>
 <td>Tarrytown, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484105313/">Apply</a></td>

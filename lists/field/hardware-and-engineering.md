@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**802 open roles.** 727 in the United States & Canada · 75 elsewhere in the world.
+**803 open roles.** 728 in the United States & Canada · 75 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -164,6 +164,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e0667480-612d-4e5b-8f62-552e53020630">Applications Engineering Intern</a></td>
 <td>Morrisville, North Carolina, United States<br/>Morrisville, NC</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701-applications-engineering-intern">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PACCAR</strong></td>
+<td><a href="https://trueinterview.io/jobs/af0c597f-8f0d-45be-a4d3-064616595d6a">2027 Summer Internship: Engineering Systems</a></td>
+<td>United States</td>
+<td align="center"><a href="https://career5.successfactors.eu/career?career_ns=job_listing&amp;company=paccarinc&amp;rcm_site_locale=en_US&amp;career_job_req_id=73866">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/e488d69d-29c3-4bc8-a49c-1705df80d917">2027 Low Observables Engineer Intern</a></td>
 <td>Costa Mesa, California, United States, Costa Mesa, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/916a7d84-c11c-4cc4-a705-5c4e8e2c9ffe">Design Verification Graduate Intern 2027</a></td>
-<td>US, Colorado, Fort Collins, United States of America<br/>US, California, Santa Clara</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

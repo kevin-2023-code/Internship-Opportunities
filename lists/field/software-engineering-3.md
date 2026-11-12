@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,767 open roles.** 1,417 in the United States & Canada · 350 elsewhere in the world.
+**1,767 open roles.** 1,414 in the United States & Canada · 353 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,20 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>CRB</strong></td>
-<td><a href="https://trueinterview.io/jobs/0204818b-e6dc-468a-88d8-8610bcf542a0">Intern - Automation/I&amp;C Engineer</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4336598421/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bollinger Shipyards</strong></td>
-<td><a href="https://trueinterview.io/jobs/709e37d3-2a95-4610-aab1-c3a647f7f396">Naval Architect Intern</a></td>
-<td>Metairie, LA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467752667/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Constellation</strong></td>
 <td><a href="https://trueinterview.io/jobs/eef4b2bd-11a0-4a6e-a342-f4a63c0e3601">Summer 2027 Engineering Intern - Ontario, NY</a></td>
@@ -2814,6 +2800,20 @@
 <td>Alpharetta, GA, USA</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101">Apply</a></td>
 <td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>City of New York</strong></td>
+<td><a href="https://trueinterview.io/jobs/83e0df71-eea2-4ade-9019-d8655956df3f">Air Permitting Engineering Intern</a></td>
+<td>Corona, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CityOfNewYork/3743990016173386-air-permitting-engineering-intern">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cirrus Logic</strong></td>
+<td><a href="https://trueinterview.io/jobs/9683ff0a-07c6-46c9-96d0-35203d375dd1">2027 Internship - Systems Engineering - Power &amp; Control</a></td>
+<td>Austin, TX<br/>Austin, Texas</td>
+<td align="center"><a href="https://jobs.eu.lever.co/cirrus/76f89050-2cda-4c96-b796-94346c98f896">Apply</a></td>
+<td align="center">15 Oct 2026</td>
 </tr>
 </tbody>
 </table>
