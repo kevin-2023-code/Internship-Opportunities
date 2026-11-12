@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T20:04:38.279Z",
+  "listingsChangedAt": "2026-11-12T21:04:16.583Z",
   "count": 3829,
   "listings": [
     {
@@ -701,6 +701,32 @@
       "url": "https://trueinterview.io/jobs/b37219f9-6903-4ebc-a108-58c3eca3d1c1",
       "postedAt": "2026-11-12T14:50:00.000Z",
       "updatedAt": "2026-11-12T14:50:00.000Z"
+    },
+    {
+      "id": "55b5cd6a-7aab-41e9-ab90-82d0424682c8",
+      "company": "Bybit",
+      "title": "Mobile Development Engineer Intern",
+      "locations": [
+        "Hong Kong SAR",
+        "Kuala Lumpur, Malaysia"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101",
+      "url": "https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8",
+      "postedAt": "2026-11-12T14:33:12.000Z",
+      "updatedAt": "2026-11-12T14:34:41.000Z"
     },
     {
       "id": "a197bc48-5012-4f2c-9b45-ab6f52b20614",
@@ -4481,6 +4507,31 @@
       "source": "career-sites",
       "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&jobId=598680",
       "url": "https://trueinterview.io/jobs/612f81f7-324c-4706-90c7-8e790ca1ef03",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "updatedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
+      "id": "c3abbb5b-25fc-4d68-bb9e-d75de365557d",
+      "company": "Wsp",
+      "title": "Civil Engineering Intern - Spring 2027",
+      "locations": [
+        "Trussville, AL, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99335",
+      "url": "https://trueinterview.io/jobs/c3abbb5b-25fc-4d68-bb9e-d75de365557d",
       "postedAt": "2026-11-12T00:00:00.000Z",
       "updatedAt": "2026-11-12T00:00:00.000Z"
     },
@@ -62417,31 +62468,6 @@
       "updatedAt": "2026-10-28T18:01:00.000Z"
     },
     {
-      "id": "56b1416e-0081-4046-a45c-71b8fe0c0491",
-      "company": "Navy Federal Credit Union",
-      "title": "Summer Associate Internship (Product Security Engineer)",
-      "locations": [
-        "Vienna, VA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4467915763/",
-      "url": "https://trueinterview.io/jobs/56b1416e-0081-4046-a45c-71b8fe0c0491",
-      "postedAt": "2026-10-28T18:01:00.000Z",
-      "updatedAt": "2026-10-28T18:01:00.000Z"
-    },
-    {
       "id": "1e8f8e9f-887c-4825-9008-e924564c8b7d",
       "company": "Toshiba America Electronic Components, Inc.",
       "title": "5054 SSW Engineer Intern",
@@ -74101,32 +74127,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Design-Verification-Engineering-Intern_R267097",
       "url": "https://trueinterview.io/jobs/dbb1241e-aad8-4324-88e5-d47a18baeafc",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
-      "id": "1b145444-2571-420a-952f-a2a7095d3ad8",
-      "company": "formlabs",
-      "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
-      "locations": [
-        "Somerville, MA, Somerville, Massachusetts",
-        "Somerville, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
-      "url": "https://trueinterview.io/jobs/1b145444-2571-420a-952f-a2a7095d3ad8",
       "postedAt": "2026-10-23T00:00:00.000Z",
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
