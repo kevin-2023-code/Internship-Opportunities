@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**38 open roles.** 29 in the United States & Canada · 9 elsewhere in the world.
+**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SouthState Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/137a20b6-9db1-48c7-902f-b7ffd4f4d43b">Summer 2027 Quantitative Intern (Remote)</a></td>
+<td>Winter Haven, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471788129/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>StepStone Group</strong></td>
 <td><a href="https://trueinterview.io/jobs/cdd7debd-7470-4f68-9e49-df46960f1a99">2027 AI Quant Summer Analyst</a></td>

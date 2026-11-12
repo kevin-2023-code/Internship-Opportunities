@@ -5,9 +5,86 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T18:06:12.187Z",
-  "count": 3805,
+  "listingsChangedAt": "2026-11-12T19:04:31.017Z",
+  "count": 3812,
   "listings": [
+    {
+      "id": "af8c609f-ff98-43ef-93d1-ee80f6dc49d8",
+      "company": "Honeywell Technologies",
+      "title": "Spring 2027 Artificial Intelligence/Machine Learning Co-Op",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473515101/",
+      "url": "https://trueinterview.io/jobs/af8c609f-ff98-43ef-93d1-ee80f6dc49d8",
+      "postedAt": "2026-11-12T18:01:00.000Z",
+      "updatedAt": "2026-11-12T18:01:00.000Z"
+    },
+    {
+      "id": "4d55276e-271b-4b5c-a0c6-9c91c94f239d",
+      "company": "Siemens",
+      "title": "Machine Learning Engineering Intern - Summer 2027",
+      "locations": [
+        "Raleigh, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481390055/",
+      "url": "https://trueinterview.io/jobs/4d55276e-271b-4b5c-a0c6-9c91c94f239d",
+      "postedAt": "2026-11-12T17:41:00.000Z",
+      "updatedAt": "2026-11-12T17:41:00.000Z"
+    },
+    {
+      "id": "0ff3c70c-73ef-46bf-be55-224115e90033",
+      "company": "SAP",
+      "title": "SAP iXp Intern - AI Scientist",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488538580/",
+      "url": "https://trueinterview.io/jobs/0ff3c70c-73ef-46bf-be55-224115e90033",
+      "postedAt": "2026-11-12T17:25:00.000Z",
+      "updatedAt": "2026-11-12T17:25:00.000Z"
+    },
     {
       "id": "4e1dfff2-d14e-4687-a569-f61446bcbd7e",
       "company": "Clera",
@@ -34,6 +111,31 @@
       "url": "https://trueinterview.io/jobs/4e1dfff2-d14e-4687-a569-f61446bcbd7e",
       "postedAt": "2026-11-12T17:18:39.000Z",
       "updatedAt": "2026-11-12T17:18:39.000Z"
+    },
+    {
+      "id": "ceffa484-c101-4d20-86e6-7ae20e6d51ab",
+      "company": "Amazon",
+      "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
+      "locations": [
+        "Will County, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482140446/",
+      "url": "https://trueinterview.io/jobs/ceffa484-c101-4d20-86e6-7ae20e6d51ab",
+      "postedAt": "2026-11-12T17:11:00.000Z",
+      "updatedAt": "2026-11-12T17:11:00.000Z"
     },
     {
       "id": "221f453a-e627-4f4a-9799-d103100f1a16",
@@ -286,6 +388,85 @@
       "url": "https://trueinterview.io/jobs/40253a2d-2446-4fce-adfc-d752b54b1371",
       "postedAt": "2026-11-12T16:12:00.000Z",
       "updatedAt": "2026-11-12T16:12:00.000Z"
+    },
+    {
+      "id": "2a6cb6b9-a9f6-487b-8fe6-438c8628e33b",
+      "company": "Amazon",
+      "title": "2027 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472185093/",
+      "url": "https://trueinterview.io/jobs/2a6cb6b9-a9f6-487b-8fe6-438c8628e33b",
+      "postedAt": "2026-11-12T16:11:00.000Z",
+      "updatedAt": "2026-11-12T16:11:00.000Z"
+    },
+    {
+      "id": "abae8e98-b6c7-495b-826a-4bc6135df697",
+      "company": "Capital One",
+      "title": "Current PhD, AI Engineering Internship Program - Summer 2027",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464985712/",
+      "url": "https://trueinterview.io/jobs/abae8e98-b6c7-495b-826a-4bc6135df697",
+      "postedAt": "2026-11-12T16:11:00.000Z",
+      "updatedAt": "2026-11-12T16:11:00.000Z"
+    },
+    {
+      "id": "137a20b6-9db1-48c7-902f-b7ffd4f4d43b",
+      "company": "SouthState Bank",
+      "title": "Summer 2027 Quantitative Intern (Remote)",
+      "locations": [
+        "Winter Haven, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471788129/",
+      "url": "https://trueinterview.io/jobs/137a20b6-9db1-48c7-902f-b7ffd4f4d43b",
+      "postedAt": "2026-11-12T16:11:00.000Z",
+      "updatedAt": "2026-11-12T16:11:00.000Z"
     },
     {
       "id": "a16fa19d-5e91-4160-8579-633fb2924112",

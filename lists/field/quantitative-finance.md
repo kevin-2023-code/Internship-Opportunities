@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**94 open roles.** 65 in the United States & Canada · 29 elsewhere in the world.
+**95 open roles.** 66 in the United States & Canada · 29 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SouthState Bank</strong></td>
+<td><a href="https://trueinterview.io/jobs/137a20b6-9db1-48c7-902f-b7ffd4f4d43b">Summer 2027 Quantitative Intern (Remote)</a></td>
+<td>Winter Haven, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471788129/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Constellation</strong></td>
 <td><a href="https://trueinterview.io/jobs/8982e819-102f-4255-9742-7a2de85af8f3">2027 Summer Quantitative Analytics &amp; Data Science Intern (Baltimore, MD)</a></td>
