@@ -5,9 +5,259 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T09:05:36.888Z",
-  "count": 3708,
+  "listingsChangedAt": "2026-11-12T10:04:49.727Z",
+  "count": 3716,
   "listings": [
+    {
+      "id": "ac666995-269c-4f1c-9564-b060021e9264",
+      "company": "Aptiv",
+      "title": "Software Development Intern",
+      "locations": [
+        "Troy, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482448673/",
+      "url": "https://trueinterview.io/jobs/ac666995-269c-4f1c-9564-b060021e9264",
+      "postedAt": "2026-11-12T09:25:00.000Z",
+      "updatedAt": "2026-11-12T09:25:00.000Z"
+    },
+    {
+      "id": "33479222-81fe-4b63-be57-1a6948062e26",
+      "company": "The Toro Company",
+      "title": "Electrical/software Co-Op - BOSS Snowplow",
+      "locations": [
+        "Dickinson County, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472153925/",
+      "url": "https://trueinterview.io/jobs/33479222-81fe-4b63-be57-1a6948062e26",
+      "postedAt": "2026-11-12T09:25:00.000Z",
+      "updatedAt": "2026-11-12T09:25:00.000Z"
+    },
+    {
+      "id": "7e9d0e88-4c82-46cc-8bb2-08d289e5cc04",
+      "company": "Spectrum",
+      "title": "2027 Summer Intern: Associate DevOps Engineer (Customer Operations)",
+      "locations": [
+        "Maryland Heights, MO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463334291/",
+      "url": "https://trueinterview.io/jobs/7e9d0e88-4c82-46cc-8bb2-08d289e5cc04",
+      "postedAt": "2026-11-12T09:23:00.000Z",
+      "updatedAt": "2026-11-12T09:23:00.000Z"
+    },
+    {
+      "id": "b7a6da8b-8f2e-4460-aaaa-1384fddd8161",
+      "company": "The Toro Company",
+      "title": "Cloud Software Development Intern - The Toro Company",
+      "locations": [
+        "Frederick, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482078929/",
+      "url": "https://trueinterview.io/jobs/b7a6da8b-8f2e-4460-aaaa-1384fddd8161",
+      "postedAt": "2026-11-12T09:20:00.000Z",
+      "updatedAt": "2026-11-12T09:20:00.000Z"
+    },
+    {
+      "id": "51a10795-8070-4d4a-8ce3-6292d8acd676",
+      "company": "CNH",
+      "title": "Embedded Software Engineer Intern",
+      "locations": [
+        "Oak Brook, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464915928/",
+      "url": "https://trueinterview.io/jobs/51a10795-8070-4d4a-8ce3-6292d8acd676",
+      "postedAt": "2026-11-12T09:13:00.000Z",
+      "updatedAt": "2026-11-12T09:13:00.000Z"
+    },
+    {
+      "id": "64f1a40e-05b6-4fda-8a9b-c26901df095f",
+      "company": "Trimble Inc.",
+      "title": "Hardware/Software Testing Intern",
+      "locations": [
+        "Westminster, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481140842/",
+      "url": "https://trueinterview.io/jobs/64f1a40e-05b6-4fda-8a9b-c26901df095f",
+      "postedAt": "2026-11-12T09:13:00.000Z",
+      "updatedAt": "2026-11-12T09:13:00.000Z"
+    },
+    {
+      "id": "a8e8f532-034b-4765-9d4f-7aa83cf9586a",
+      "company": "CNH",
+      "title": "Data Engineer Intern - Python",
+      "locations": [
+        "New Holland, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464915925/",
+      "url": "https://trueinterview.io/jobs/a8e8f532-034b-4765-9d4f-7aa83cf9586a",
+      "postedAt": "2026-11-12T09:12:00.000Z",
+      "updatedAt": "2026-11-12T09:12:00.000Z"
+    },
+    {
+      "id": "be24aba2-f4b5-4f39-b08e-ddfa13cdacea",
+      "company": "CNH",
+      "title": "Software Test Engineer Intern",
+      "locations": [
+        "Oak Brook, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465055466/",
+      "url": "https://trueinterview.io/jobs/be24aba2-f4b5-4f39-b08e-ddfa13cdacea",
+      "postedAt": "2026-11-12T09:12:00.000Z",
+      "updatedAt": "2026-11-12T09:12:00.000Z"
+    },
+    {
+      "id": "3fea7c63-b7c4-4f7d-8ffe-83fa753aab2c",
+      "company": "CNH",
+      "title": "Data Scientist Intern - Python",
+      "locations": [
+        "New Holland, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464934255/",
+      "url": "https://trueinterview.io/jobs/3fea7c63-b7c4-4f7d-8ffe-83fa753aab2c",
+      "postedAt": "2026-11-12T09:10:00.000Z",
+      "updatedAt": "2026-11-12T09:10:00.000Z"
+    },
+    {
+      "id": "c13a3112-c177-4c19-b15d-4f45ec5056bb",
+      "company": "CNH",
+      "title": "Software Engineer Intern - Python",
+      "locations": [
+        "New Holland, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464921854/",
+      "url": "https://trueinterview.io/jobs/c13a3112-c177-4c19-b15d-4f45ec5056bb",
+      "postedAt": "2026-11-12T09:10:00.000Z",
+      "updatedAt": "2026-11-12T09:10:00.000Z"
+    },
     {
       "id": "dc7eba51-9848-455d-b52a-1c78f29e53cd",
       "company": "NVIDIA",
@@ -4364,31 +4614,6 @@
       "updatedAt": "2026-11-11T00:28:00.000Z"
     },
     {
-      "id": "7ff4f714-7e8e-471e-887f-2a954b417134",
-      "company": "Trimble Inc.",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Knoxville, TN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---TN-Knoxville/Software-Engineering-Intern_R58120",
-      "url": "https://trueinterview.io/jobs/7ff4f714-7e8e-471e-887f-2a954b417134",
-      "postedAt": "2026-11-11T00:15:00.000Z",
-      "updatedAt": "2026-11-11T00:15:00.000Z"
-    },
-    {
       "id": "64b1273f-6351-4ffd-b56d-4a7ee720913a",
       "company": "General Dynamics Mission Systems",
       "title": "Software Test Engineering Intern - Space and Embedded Crypto",
@@ -7482,6 +7707,31 @@
       "source": "indeed",
       "applyUrl": "https://jmp-sas.icims.com/jobs/46960/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/450109f0-adbc-4c5d-8d1e-979a955e2b77",
+      "postedAt": "2026-11-10T06:00:00.000Z",
+      "updatedAt": "2026-11-10T06:00:00.000Z"
+    },
+    {
+      "id": "5dc6c691-59eb-456c-aa5c-172e0e7c6a4c",
+      "company": "Liebherr Group",
+      "title": "Software Development Intern",
+      "locations": [
+        "Newport News, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.liebherr.com/job/Newport-News%2C-VA-Software-Development-Intern-VA-23601/1456197633/?feedId=335501",
+      "url": "https://trueinterview.io/jobs/5dc6c691-59eb-456c-aa5c-172e0e7c6a4c",
       "postedAt": "2026-11-10T06:00:00.000Z",
       "updatedAt": "2026-11-10T06:00:00.000Z"
     },
@@ -74484,56 +74734,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://careers.micron.com/careers/job/45050114",
       "url": "https://trueinterview.io/jobs/b4f0bd73-3473-4279-aee3-231899a0b1b1",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "874aa698-ecc6-4e0c-a3b3-66c5b703f0ad",
-      "company": "Micron Technology",
-      "title": "Intern - Machine Learning Engineering",
-      "locations": [
-        "Richardson, TX, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Hardware & Engineering",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/45050125",
-      "url": "https://trueinterview.io/jobs/874aa698-ecc6-4e0c-a3b3-66c5b703f0ad",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "dedecf26-b235-4c7f-a87b-b94747329bc3",
-      "company": "Micron Technology",
-      "title": "Intern - SMAI Probe AI Engineer",
-      "locations": [
-        "Boise, ID, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.micron.com/careers/job/45044247",
-      "url": "https://trueinterview.io/jobs/dedecf26-b235-4c7f-a87b-b94747329bc3",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },
