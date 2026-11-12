@@ -2,7 +2,7 @@
 
 # Security Engineer
 
-**110 open roles.** 92 in the United States & Canada · 18 elsewhere in the world.
+**111 open roles.** 93 in the United States & Canada · 18 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -30,6 +30,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>San Diego, CALIFORNIA, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161204235-assoc-information-security-engineer-intern">Apply</a></td>
 <td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>McDonald's Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6573c3d-dbd4-428d-bbc9-c58fba7091ef">Cybersecurity Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://career41.sapsf.com/career?career_ns=job_listing&amp;company=mcdonaldsc&amp;rcm_site_locale=en_US&amp;career_job_req_id=5688">Apply</a></td>
+<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Daimler Truck North America</strong></td>
