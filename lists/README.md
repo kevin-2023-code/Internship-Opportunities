@@ -6,9 +6,9 @@ Every cut of the Internship Opportunities list that has a page of its own. Each 
 
 [← The list](../README.md) · [← The worldwide list](../README-Global.md)
 
-_Last updated: 2026-11-12 07:05 UTC_
+_Last updated: 2026-11-12 08:06 UTC_
 
-> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 234 of the 1,435 employers on this list (32% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
+> **What the company filters cover.** The sector and headcount of an employer are recorded in a hand-written registry, and it covers 234 of the 1,436 employers on this list (32% of the roles). An employer it does not cover appears in the main list and in every field, role and location filter exactly as before — it is simply in no company-type filter, because guessing a sector from a company's name is how a reader ends up with the wrong list. [Add one](../CONTRIBUTING.md#adding-a-company-to-the-registry).
 
 ## What is here
 
@@ -32,12 +32,12 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [💻 Software Engineering](field/software-engineering.md) | 1,422 | 351 |
-| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 724 | 74 |
-| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 548 | 193 |
+| [💻 Software Engineering](field/software-engineering.md) | 1,417 | 350 |
+| [🔧 Hardware & Engineering](field/hardware-and-engineering.md) | 727 | 75 |
+| [🤖 Data, AI & Machine Learning](field/data-ai-and-machine-learning.md) | 546 | 193 |
 | [📱 Product & Design](field/product-and-design.md) | 161 | 61 |
 | [📈 Quantitative Finance](field/quantitative-finance.md) | 65 | 31 |
-| [🧰 IT & Support](field/it-and-support.md) | 59 | 19 |
+| [🧰 IT & Support](field/it-and-support.md) | 60 | 19 |
 
 ---
 
@@ -45,7 +45,7 @@ _Every posting the catalog classified into that field. A posting is in exactly o
 
 Who the employer is: the size cut you were after, or the sector.
 
-_Between them these 23 filters hold **1,191 of the 3,708** internships on this list (32%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 23 filters hold **1,191 of the 3,705** internships on this list (32%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
@@ -79,23 +79,23 @@ _Between them these 23 filters hold **1,191 of the 3,708** internships on this l
 
 The catalog's own role classification, not a keyword search on the title.
 
-_Between them these 22 filters hold **1,958 of the 3,708** internships on this list (53%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 22 filters hold **1,955 of the 3,705** internships on this list (53%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 _Every posting the catalog classified as that role. A posting it could not place is filed as *Other* and is on no role page — it is in the README and in every other cut._
 
 | Filter | The United States & Canada | Elsewhere |
 | :-- | --: | --: |
-| [Software Engineer](role/software-engineer.md) | 425 | 101 |
-| [AI Engineer](role/ai-engineer.md) | 149 | 71 |
-| [Machine Learning Engineer](role/machine-learning-engineer.md) | 136 | 36 |
+| [Software Engineer](role/software-engineer.md) | 426 | 101 |
+| [AI Engineer](role/ai-engineer.md) | 148 | 71 |
+| [Machine Learning Engineer](role/machine-learning-engineer.md) | 135 | 36 |
 | [Hardware Engineer](role/hardware-engineer.md) | 116 | 10 |
-| [Security Engineer](role/security-engineer.md) | 94 | 18 |
 | [Data Scientist](role/data-scientist.md) | 89 | 22 |
+| [Security Engineer](role/security-engineer.md) | 92 | 18 |
 | [Product Manager](role/product-manager.md) | 69 | 37 |
 | [Data Analyst](role/data-analyst.md) | 63 | 37 |
 | [Research Scientist](role/research-scientist.md) | 70 | 13 |
-| [Data Engineer](role/data-engineer.md) | 63 | 13 |
-| [Embedded Engineer](role/embedded-engineer.md) | 55 | 12 |
+| [Data Engineer](role/data-engineer.md) | 64 | 13 |
+| [Embedded Engineer](role/embedded-engineer.md) | 56 | 12 |
 | [QA Engineer](role/qa-engineer.md) | 34 | 10 |
 | [Quantitative Researcher](role/quantitative-researcher.md) | 25 | 16 |
 | [Quantitative Developer](role/quantitative-developer.md) | 29 | 9 |
@@ -105,7 +105,7 @@ _Every posting the catalog classified as that role. A posting it could not place
 | [Site Reliability Engineer](role/site-reliability-engineer.md) | 14 | 3 |
 | [DevOps Engineer](role/devops-engineer.md) | 10 | 3 |
 | [Frontend Engineer](role/frontend-engineer.md) | 10 | 1 |
-| [Platform Engineer](role/platform-engineer.md) | 8 | 2 |
+| [Platform Engineer](role/platform-engineer.md) | 6 | 2 |
 | [Quantitative Trader](role/quantitative-trader.md) | 5 | 3 |
 
 ---
@@ -114,11 +114,11 @@ _Every posting the catalog classified as that role. A posting it could not place
 
 Metro areas the postings actually resolve to.
 
-_Between them these 35 filters hold **2,123 of the 3,708** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 35 filters hold **2,121 of the 3,705** internships on this list (57%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🌉 SF Bay Area](place/bay-area.md) | 529 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
+| [🌉 SF Bay Area](place/bay-area.md) | 528 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: San Francisco, South San Francisco, Palo Alto, Menlo Park, Mountain View, Sunnyvale, Cupertino, Santa Clara, San Jose, Redwood City, Foster City, Milpitas, and 24 more. |
 | [🌴 Los Angeles & Orange County](place/los-angeles.md) | 175 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in CA: Los Angeles, Santa Monica, El Segundo, Culver City, Hawthorne, Van Nuys, Marina Del Rey, Playa Vista, Pasadena, Burbank, Torrance, Long Beach, and 6 more. |
 | [🎓 Boston & Cambridge](place/boston.md) | 161 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page, all in MA: Somerville, Boston, Cambridge, Waltham, Burlington, Lexington, Wilmington, Needham, Andover, Marlborough, Leominster, Quincy, and 3 more. |
 | [🗽 New York City](place/new-york.md) | 146 | 0 | A posting is on this page when its location resolves to a city in this metro AND the row’s country agrees. A posting whose location could not be read is on no location page. Cities on this page: New York City, Nyc, Manhattan, Brooklyn, Long Island City, Jersey City, Hoboken, New York NY, Queens NY, Newark NJ, Stamford CT. |
@@ -160,11 +160,11 @@ _Between them these 35 filters hold **2,123 of the 3,708** internships on this l
 
 The two cuts that are about the posting rather than the employer.
 
-_Between them these 2 filters hold **994 of the 3,708** internships on this list (27%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
+_Between them these 2 filters hold **990 of the 3,705** internships on this list (27%). The rest carry no classification this group can file them under, so they are on the main list and on no page here._
 
 | Filter | The United States & Canada | Elsewhere | What it selects |
 | :-- | --: | --: | :-- |
-| [🆕 Posted in the last 7 days](new-this-week.md) | 797 | 160 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
+| [🆕 Posted in the last 7 days](new-this-week.md) | 794 | 159 | Published or re-posted within 7 days of the last run. A posting with no date is not here: undated is not recent. |
 | [🌐 Remote](remote.md) | 32 | 13 | The catalog’s own work-mode classification, not a keyword match on the title. Hybrid postings are not here — they are a different answer to "must I move?". |
 
 ---

@@ -5,9 +5,88 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T07:05:27.334Z",
-  "count": 3708,
+  "listingsChangedAt": "2026-11-12T08:06:44.342Z",
+  "count": 3705,
   "listings": [
+    {
+      "id": "dfe3aac7-83e5-4431-8c8d-88d61e91b75f",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "locations": [
+        "Seattle, WA",
+        "New York, United States",
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490080784/",
+      "url": "https://trueinterview.io/jobs/dfe3aac7-83e5-4431-8c8d-88d61e91b75f",
+      "postedAt": "2026-11-12T05:00:00.000Z",
+      "updatedAt": "2026-11-12T06:47:00.000Z"
+    },
+    {
+      "id": "09df8dd1-9ff9-4bba-9d6d-35b744204e9f",
+      "company": "Encore",
+      "title": "IT Data Analyst Intern– Summer 2027",
+      "locations": [
+        "Schiller Park, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489082480/",
+      "url": "https://trueinterview.io/jobs/09df8dd1-9ff9-4bba-9d6d-35b744204e9f",
+      "postedAt": "2026-11-12T06:13:00.000Z",
+      "updatedAt": "2026-11-12T06:13:00.000Z"
+    },
+    {
+      "id": "ed4fb42d-9a86-4934-b0ee-3b43eee834a3",
+      "company": "Collins Aerospace",
+      "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
+      "locations": [
+        "Fort Wayne, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490097147/",
+      "url": "https://trueinterview.io/jobs/ed4fb42d-9a86-4934-b0ee-3b43eee834a3",
+      "postedAt": "2026-11-12T05:54:00.000Z",
+      "updatedAt": "2026-11-12T05:54:00.000Z"
+    },
     {
       "id": "c1c61f9b-3970-4ce1-9379-2515bb79e83d",
       "company": "Sea",
@@ -86,33 +165,6 @@
       "url": "https://trueinterview.io/jobs/61ad9dab-db49-486f-8b7e-c516a556ae9f",
       "postedAt": "2026-11-12T05:06:00.000Z",
       "updatedAt": "2026-11-12T05:06:00.000Z"
-    },
-    {
-      "id": "dfe3aac7-83e5-4431-8c8d-88d61e91b75f",
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer)",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490080784/",
-      "url": "https://trueinterview.io/jobs/dfe3aac7-83e5-4431-8c8d-88d61e91b75f",
-      "postedAt": "2026-11-12T05:00:00.000Z",
-      "updatedAt": "2026-11-12T05:00:00.000Z"
     },
     {
       "id": "f5747418-e150-4c94-b23b-66eb9626b52d",
@@ -676,7 +728,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490053183/",
+      "applyUrl": "https://careers.bose.com/us/en/job/R29391",
       "url": "https://trueinterview.io/jobs/cd2a6788-d0a8-4fdd-9a24-d769f3657048",
       "postedAt": "2026-11-11T23:40:00.000Z",
       "updatedAt": "2026-11-11T23:40:00.000Z"
@@ -3772,6 +3824,32 @@
       "updatedAt": "2026-11-11T06:36:00.000Z"
     },
     {
+      "id": "b3ec45e2-82bb-4132-93c7-242fdaa272f1",
+      "company": "Emerson",
+      "title": "RF Engineering Co-op (Jul - Dec 2027)",
+      "locations": [
+        "Santa Rosa, CA, United States",
+        "Santa Rosa, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013238",
+      "url": "https://trueinterview.io/jobs/b3ec45e2-82bb-4132-93c7-242fdaa272f1",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
       "id": "963d7d11-d153-40a3-bf4f-c977fd62bb8c",
       "company": "Entrust Corporation",
       "title": "Electrical Engineer Co-op",
@@ -4084,6 +4162,31 @@
       "updatedAt": "2026-11-11T03:02:57.000Z"
     },
     {
+      "id": "38fe7261-f3f3-4cc9-939f-fa43557d0fb3",
+      "company": "Encore Inc.",
+      "title": "IT Application Development Intern – Summer 2027",
+      "locations": [
+        "Schiller Park, IL, 60176"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting2.ultipro.com/aud1001audv/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8",
+      "url": "https://trueinterview.io/jobs/38fe7261-f3f3-4cc9-939f-fa43557d0fb3",
+      "postedAt": "2026-11-11T01:49:41.000Z",
+      "updatedAt": "2026-11-11T01:49:41.000Z"
+    },
+    {
       "id": "28a72185-7f79-4d73-9965-fbe1c9b8a1de",
       "company": "NISC",
       "title": "Intern - Test Automation",
@@ -4272,40 +4375,15 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "IT & Support",
       "role": "Security Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "career-sites",
       "applyUrl": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656",
       "url": "https://trueinterview.io/jobs/1737ce30-4c2a-45bf-8f67-99af28a99b60",
-      "postedAt": "2026-11-11T00:00:00.000Z",
-      "updatedAt": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "id": "b3ec45e2-82bb-4132-93c7-242fdaa272f1",
-      "company": "Emerson",
-      "title": "RF Engineering Co-op (Jul - Dec 2027)",
-      "locations": [
-        "Santa Rosa, CA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013238",
-      "url": "https://trueinterview.io/jobs/b3ec45e2-82bb-4132-93c7-242fdaa272f1",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "updatedAt": "2026-11-11T00:00:00.000Z"
     },
@@ -4349,7 +4427,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -4374,7 +4452,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4424,7 +4502,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -24295,31 +24373,6 @@
       "updatedAt": "2026-11-04T11:37:00.000Z"
     },
     {
-      "id": "4c2c29e7-d895-44d0-b253-15b14edddd68",
-      "company": "Brain Co.",
-      "title": "AI Product Engineer Co-Op Intern, Winter 2027",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42",
-      "url": "https://trueinterview.io/jobs/4c2c29e7-d895-44d0-b253-15b14edddd68",
-      "postedAt": "2026-11-04T11:36:00.000Z",
-      "updatedAt": "2026-11-04T11:36:00.000Z"
-    },
-    {
       "id": "db199445-0a8c-4eb8-b125-43efee7b890f",
       "company": "Bosch",
       "title": "Undergraduate Placement Year 2027 – Manufacturing Engineering Intern",
@@ -24370,56 +24423,6 @@
       "url": "https://trueinterview.io/jobs/42f0a346-81ec-412a-9f6d-d63da77f7d9b",
       "postedAt": "2026-11-04T11:20:00.000Z",
       "updatedAt": "2026-11-04T11:20:00.000Z"
-    },
-    {
-      "id": "9134aad2-47c8-4e60-8a84-44d63277d59f",
-      "company": "Brain Co.",
-      "title": "AI Platform Engineer Co-Op Intern, Winter 2027",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a",
-      "url": "https://trueinterview.io/jobs/9134aad2-47c8-4e60-8a84-44d63277d59f",
-      "postedAt": "2026-11-04T11:18:00.000Z",
-      "updatedAt": "2026-11-04T11:18:00.000Z"
-    },
-    {
-      "id": "17fbdeb8-a760-4050-9d6f-478d0e75fe48",
-      "company": "Brain Co.",
-      "title": "AI Security Engineer Co-Op Intern, Winter 2027",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930",
-      "url": "https://trueinterview.io/jobs/17fbdeb8-a760-4050-9d6f-478d0e75fe48",
-      "postedAt": "2026-11-04T11:18:00.000Z",
-      "updatedAt": "2026-11-04T11:18:00.000Z"
     },
     {
       "id": "58edef69-5956-48f7-a45c-d474ff1052d2",
@@ -37964,31 +37967,6 @@
       "updatedAt": "2026-10-30T23:41:00.000Z"
     },
     {
-      "id": "b8ace4be-f9ec-4d10-bc42-54898435558d",
-      "company": "Brain Co.",
-      "title": "AI Security Engineer Intern (Summer 2027)",
-      "locations": [
-        "San Francisco Bay Area"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://jobs.ashbyhq.com/brainco/b697421a-4a50-4028-9832-6798132e327a",
-      "url": "https://trueinterview.io/jobs/b8ace4be-f9ec-4d10-bc42-54898435558d",
-      "postedAt": "2026-10-30T23:23:00.000Z",
-      "updatedAt": "2026-10-30T23:23:00.000Z"
-    },
-    {
       "id": "e7f9ac92-08be-4f4b-9160-7d1a66628ed5",
       "company": "Divergent",
       "title": "Summer 2027 Business Intelligence Intern",
@@ -41774,62 +41752,6 @@
       "source": "indeed",
       "applyUrl": "https://careers.axa.com/jobs/29970/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f",
       "url": "https://trueinterview.io/jobs/84f1b461-202a-48ab-887d-b7655925584f",
-      "postedAt": "2026-10-30T05:00:00.000Z",
-      "updatedAt": "2026-10-30T05:00:00.000Z"
-    },
-    {
-      "id": "a654f490-c982-445a-aefb-dbcabe08bef1",
-      "company": "BRAIN",
-      "title": "AI Platform Engineer Intern (Summer 2027)",
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco Bay Area"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Platform Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a",
-      "url": "https://trueinterview.io/jobs/a654f490-c982-445a-aefb-dbcabe08bef1",
-      "postedAt": "2026-10-30T05:00:00.000Z",
-      "updatedAt": "2026-10-30T05:00:00.000Z"
-    },
-    {
-      "id": "ba9e0793-7a60-421d-9d71-9f54898448dc",
-      "company": "BRAIN",
-      "title": "Machine Learning Engineer, Applied AI Intern (Summer 2027)",
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco Bay Area"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.ashbyhq.com/brainco/a4bdb254-8007-4142-bf36-a3e8622b1ed9",
-      "url": "https://trueinterview.io/jobs/ba9e0793-7a60-421d-9d71-9f54898448dc",
       "postedAt": "2026-10-30T05:00:00.000Z",
       "updatedAt": "2026-10-30T05:00:00.000Z"
     },
