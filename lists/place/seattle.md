@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**106 open roles.**
+**108 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Stripe</strong></td>
+<td><a href="https://trueinterview.io/jobs/dfe3aac7-83e5-4431-8c8d-88d61e91b75f">Software Engineer, Intern (Summer)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490080784/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/28c6931d-c492-48a5-b6bb-a42615244599">Assoc Detection Engineering Intern</a></td>
+<td>Kirkland, Washington, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161210069-assoc-detection-engineering-intern-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Epic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5f728df-009d-42ef-9dad-d8baf0b74007">Software Development Intern</a></td>

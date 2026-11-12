@@ -5,9 +5,195 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T05:04:54.942Z",
-  "count": 3700,
+  "listingsChangedAt": "2026-11-12T06:08:07.664Z",
+  "count": 3708,
   "listings": [
+    {
+      "id": "c1c61f9b-3970-4ce1-9379-2515bb79e83d",
+      "company": "Sea",
+      "title": "Security Operations Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489057914/",
+      "url": "https://trueinterview.io/jobs/c1c61f9b-3970-4ce1-9379-2515bb79e83d",
+      "postedAt": "2026-11-12T05:25:00.000Z",
+      "updatedAt": "2026-11-12T05:25:00.000Z"
+    },
+    {
+      "id": "12886bfa-c0bc-42ef-ad77-d751918a07c6",
+      "company": "Johnson Controls",
+      "title": "Software Engineering Co-Op",
+      "locations": [
+        "Burlington, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488285349/",
+      "url": "https://trueinterview.io/jobs/12886bfa-c0bc-42ef-ad77-d751918a07c6",
+      "postedAt": "2026-11-12T05:18:00.000Z",
+      "updatedAt": "2026-11-12T05:18:00.000Z"
+    },
+    {
+      "id": "61ad9dab-db49-486f-8b7e-c516a556ae9f",
+      "company": "Shopee",
+      "title": "Cybersecurity Engineer Intern (Web Security) - Information Security (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489068760/",
+      "url": "https://trueinterview.io/jobs/61ad9dab-db49-486f-8b7e-c516a556ae9f",
+      "postedAt": "2026-11-12T05:06:00.000Z",
+      "updatedAt": "2026-11-12T05:06:00.000Z"
+    },
+    {
+      "id": "dfe3aac7-83e5-4431-8c8d-88d61e91b75f",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490080784/",
+      "url": "https://trueinterview.io/jobs/dfe3aac7-83e5-4431-8c8d-88d61e91b75f",
+      "postedAt": "2026-11-12T05:00:00.000Z",
+      "updatedAt": "2026-11-12T05:00:00.000Z"
+    },
+    {
+      "id": "f5747418-e150-4c94-b23b-66eb9626b52d",
+      "company": "Shopee",
+      "title": "Security Product Manager Intern - AI-Driven Security Operations (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Software",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489058980/",
+      "url": "https://trueinterview.io/jobs/f5747418-e150-4c94-b23b-66eb9626b52d",
+      "postedAt": "2026-11-12T04:56:00.000Z",
+      "updatedAt": "2026-11-12T04:56:00.000Z"
+    },
+    {
+      "id": "86a2236e-70d2-46d5-8704-c244c3e0df25",
+      "company": "Shopee",
+      "title": "Security Engineer Intern (Infrastructure Security) - Information Security (Spring 2027)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489075493/",
+      "url": "https://trueinterview.io/jobs/86a2236e-70d2-46d5-8704-c244c3e0df25",
+      "postedAt": "2026-11-12T04:39:00.000Z",
+      "updatedAt": "2026-11-12T04:39:00.000Z"
+    },
+    {
+      "id": "5b6fa66a-d4d6-468e-9127-669e719bb812",
+      "company": "ServiceNow",
+      "title": "Assoc Information Security Engineer Intern",
+      "locations": [
+        "San Diego, CALIFORNIA, United States",
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161204235-assoc-information-security-engineer-intern",
+      "url": "https://trueinterview.io/jobs/5b6fa66a-d4d6-468e-9127-669e719bb812",
+      "postedAt": "2026-11-12T01:54:25.000Z",
+      "updatedAt": "2026-11-12T04:15:00.000Z"
+    },
     {
       "id": "459e891a-6b44-4f83-a9ac-ecb7a8ff12d3",
       "company": "TaskVerse",
@@ -159,6 +345,56 @@
       "updatedAt": "2026-11-12T02:38:00.000Z"
     },
     {
+      "id": "28c6931d-c492-48a5-b6bb-a42615244599",
+      "company": "ServiceNow",
+      "title": "Assoc Detection Engineering Intern",
+      "locations": [
+        "Kirkland, Washington, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161210069-assoc-detection-engineering-intern-",
+      "url": "https://trueinterview.io/jobs/28c6931d-c492-48a5-b6bb-a42615244599",
+      "postedAt": "2026-11-12T02:04:04.000Z",
+      "updatedAt": "2026-11-12T02:04:04.000Z"
+    },
+    {
+      "id": "5aa4e9e5-e469-4d79-a747-066e2f25563a",
+      "company": "ServiceNow",
+      "title": "Assoc Security Engineering & Automation Intern",
+      "locations": [
+        "Santa Clara, CALIFORNIA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161209810-assoc-security-engineering-automation-intern-",
+      "url": "https://trueinterview.io/jobs/5aa4e9e5-e469-4d79-a747-066e2f25563a",
+      "postedAt": "2026-11-12T01:59:40.000Z",
+      "updatedAt": "2026-11-12T01:59:40.000Z"
+    },
+    {
       "id": "a6d2cb62-723d-4a28-93dd-f5e23f9942b5",
       "company": "CHAMP",
       "title": "Frontend Engineer Intern",
@@ -182,6 +418,31 @@
       "url": "https://trueinterview.io/jobs/a6d2cb62-723d-4a28-93dd-f5e23f9942b5",
       "postedAt": "2026-11-12T01:59:00.000Z",
       "updatedAt": "2026-11-12T01:59:00.000Z"
+    },
+    {
+      "id": "ec728ddc-83ac-422e-8d7f-db6cfd723a5c",
+      "company": "ServiceNow",
+      "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+      "locations": [
+        "Santa Clara, CALIFORNIA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "IT & Support",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161209600-assoc-ai-engineering-cloud-security-automation-intern",
+      "url": "https://trueinterview.io/jobs/ec728ddc-83ac-422e-8d7f-db6cfd723a5c",
+      "postedAt": "2026-11-12T01:55:01.000Z",
+      "updatedAt": "2026-11-12T01:55:01.000Z"
     },
     {
       "id": "0e479779-7138-40a0-8613-879f99039e6d",
@@ -1979,33 +2240,6 @@
       "updatedAt": "2026-11-11T13:10:00.000Z"
     },
     {
-      "id": "f656921f-3b7d-4fc7-a49a-81c659ec1c06",
-      "company": "TikTok",
-      "title": "LLM Algorithm Research Scientist Code AI Intern (AI Innovation Center) - 2026 Start (PhD)",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4286509453/",
-      "url": "https://trueinterview.io/jobs/f656921f-3b7d-4fc7-a49a-81c659ec1c06",
-      "postedAt": "2026-11-11T12:57:00.000Z",
-      "updatedAt": "2026-11-11T12:57:00.000Z"
-    },
-    {
       "id": "178787b0-00cb-4425-a8b4-fd1af06579f8",
       "company": "TikTok",
       "title": "Mobile Engineer Intern (Intelligent Creation) - 2027 Start",
@@ -2021,7 +2255,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Mobile Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2139,6 +2373,31 @@
       "updatedAt": "2026-11-11T12:20:00.000Z"
     },
     {
+      "id": "f4fa0f8c-1651-433e-b57a-7e1bd2e94bef",
+      "company": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+      "title": "AI Paid Intern ( full time or part time)",
+      "locations": [
+        "Salt Lake City, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489697088/",
+      "url": "https://trueinterview.io/jobs/f4fa0f8c-1651-433e-b57a-7e1bd2e94bef",
+      "postedAt": "2026-11-11T12:18:00.000Z",
+      "updatedAt": "2026-11-11T12:18:00.000Z"
+    },
+    {
       "id": "07aaacf7-1806-4703-bf6c-621389be8446",
       "company": "TikTok",
       "title": "Backend Software Engineer Intern (Data Trust and Safety) - 2027 Start (BS/MS)",
@@ -2155,7 +2414,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2167,9 +2426,9 @@
       "updatedAt": "2026-11-11T12:14:00.000Z"
     },
     {
-      "id": "b49b0dd0-d9d7-4273-b8ec-1f47fc5f4fec",
+      "id": "c9295d5f-e825-408b-9984-3878b5c8ecfb",
       "company": "TikTok",
-      "title": "Global Product Operations Manager Project Intern (Global Business Solutions) - 2026 Start (BS/MS)",
+      "title": "Search Security Strategy Operations Intern (TikTok-Platform Responsibility-Search) - 2027 Summer",
       "locations": [
         "San Jose, CA"
       ],
@@ -2180,16 +2439,16 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4439813156/",
-      "url": "https://trueinterview.io/jobs/b49b0dd0-d9d7-4273-b8ec-1f47fc5f4fec",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4452407941/",
+      "url": "https://trueinterview.io/jobs/c9295d5f-e825-408b-9984-3878b5c8ecfb",
       "postedAt": "2026-11-11T12:14:00.000Z",
       "updatedAt": "2026-11-11T12:14:00.000Z"
     },
@@ -2232,9 +2491,9 @@
         "Poland"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2366,7 +2625,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -2393,7 +2652,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -2419,7 +2678,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2429,33 +2688,6 @@
       "url": "https://trueinterview.io/jobs/fcc43917-0bc7-420e-a206-5b15e7bea975",
       "postedAt": "2026-11-11T11:40:00.000Z",
       "updatedAt": "2026-11-11T11:40:00.000Z"
-    },
-    {
-      "id": "b96e5289-69e3-4d6f-9612-bb1409430cd2",
-      "company": "Georgia Tech Research Institute",
-      "title": "Autonomy Software Engineering and Systems Engineering Co-op - Spring 2027 - ASL/ATTD",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4481587805/",
-      "url": "https://trueinterview.io/jobs/b96e5289-69e3-4d6f-9612-bb1409430cd2",
-      "postedAt": "2026-11-11T11:30:00.000Z",
-      "updatedAt": "2026-11-11T11:30:00.000Z"
     },
     {
       "id": "1ee2e1f9-e748-4c36-9678-4c66668ebe59",
@@ -2469,9 +2701,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2498,7 +2730,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
+      "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2535,33 +2767,6 @@
       "updatedAt": "2026-11-11T11:25:00.000Z"
     },
     {
-      "id": "78b2c829-dd9e-4a35-a6ff-72e178813732",
-      "company": "Georgia Tech Research Institute",
-      "title": "Autonomy Software Engineering and Systems Engineering Graduate Intern - Spring 2027 - ASL/ATTD",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4481582858/",
-      "url": "https://trueinterview.io/jobs/78b2c829-dd9e-4a35-a6ff-72e178813732",
-      "postedAt": "2026-11-11T11:25:00.000Z",
-      "updatedAt": "2026-11-11T11:25:00.000Z"
-    },
-    {
       "id": "09ffc0cf-032b-48d0-9d0a-ae8a10ee7179",
       "company": "TikTok",
       "title": "Software Engineer Project Intern (Global E-Commerce Search Infrastructure) - 2026 Start",
@@ -2577,7 +2782,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Software Engineer",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -2630,7 +2835,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -2774,33 +2979,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4410499818/",
       "url": "https://trueinterview.io/jobs/e79a3d1c-9785-45a1-90f1-e08aef11727b",
-      "postedAt": "2026-11-11T11:14:00.000Z",
-      "updatedAt": "2026-11-11T11:14:00.000Z"
-    },
-    {
-      "id": "64075a6e-41c2-45e3-8261-e80006c82595",
-      "company": "TikTok",
-      "title": "Listing and IPR Governance Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer",
-      "locations": [
-        "São Paulo, São Paulo, Brazil"
-      ],
-      "cities": [
-        "São Paulo"
-      ],
-      "countries": [
-        "Brazil"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4447903408/",
-      "url": "https://trueinterview.io/jobs/64075a6e-41c2-45e3-8261-e80006c82595",
       "postedAt": "2026-11-11T11:14:00.000Z",
       "updatedAt": "2026-11-11T11:14:00.000Z"
     },
@@ -3037,7 +3215,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -3138,9 +3316,9 @@
         "Poland"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -7102,6 +7280,31 @@
       "source": "indeed",
       "applyUrl": "https://lockheedmartin.eightfold.ai/careers/job/996477866991?domain=lockheedmartin.com",
       "url": "https://trueinterview.io/jobs/b8faf9af-ceaf-4014-aaa5-f592c6cc6631",
+      "postedAt": "2026-11-10T06:00:00.000Z",
+      "updatedAt": "2026-11-10T06:00:00.000Z"
+    },
+    {
+      "id": "f57d68a2-9143-4bda-b7b9-b53c31775831",
+      "company": "Sanmina",
+      "title": "Systems Engineering CoOp (Fall 2026)",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.talemetry.com/sanmina/jobs/apply?job_list_id=10303&tj_id=18467763&tm_company=96474&tm_job=109548&tm_event=view",
+      "url": "https://trueinterview.io/jobs/f57d68a2-9143-4bda-b7b9-b53c31775831",
       "postedAt": "2026-11-10T06:00:00.000Z",
       "updatedAt": "2026-11-10T06:00:00.000Z"
     },
