@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T15:04:45.201Z",
-  "count": 3791,
+  "listingsChangedAt": "2026-11-12T16:05:04.099Z",
+  "count": 3788,
   "listings": [
+    {
+      "id": "a197bc48-5012-4f2c-9b45-ab6f52b20614",
+      "company": "Parker Hannifin",
+      "title": "AI/ML Engineering Co-op",
+      "locations": [
+        "Elyria, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464672503/",
+      "url": "https://trueinterview.io/jobs/a197bc48-5012-4f2c-9b45-ab6f52b20614",
+      "postedAt": "2026-11-12T14:30:00.000Z",
+      "updatedAt": "2026-11-12T14:30:00.000Z"
+    },
+    {
+      "id": "915f4935-ffe2-414b-a812-2c49d862e02c",
+      "company": "Allen Control Systems",
+      "title": "Computer Vision/Machine Learning Intern, 2027",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464940259/",
+      "url": "https://trueinterview.io/jobs/915f4935-ffe2-414b-a812-2c49d862e02c",
+      "postedAt": "2026-11-12T14:25:00.000Z",
+      "updatedAt": "2026-11-12T14:25:00.000Z"
+    },
     {
       "id": "514dea3b-f30f-4e7c-a5f0-d21880a80cce",
       "company": "TikTok",
@@ -1166,6 +1218,31 @@
       "url": "https://trueinterview.io/jobs/ea38ca39-d041-469f-9e89-bf356d49a9b0",
       "postedAt": "2026-11-12T11:18:00.000Z",
       "updatedAt": "2026-11-12T11:18:00.000Z"
+    },
+    {
+      "id": "9272ac0a-c456-4be1-9966-58423bfddb3f",
+      "company": "Bosch",
+      "title": "Extracurricular Internship: Mechanical Development and Testing Engineer (f/m/div.)",
+      "locations": [
+        "Aveiro, Portugal"
+      ],
+      "cities": [],
+      "countries": [
+        "Portugal"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161271710-extracurricular-internship-mechanical-development-and-testing-engineer-f-m-div-",
+      "url": "https://trueinterview.io/jobs/9272ac0a-c456-4be1-9966-58423bfddb3f",
+      "postedAt": "2026-11-12T11:00:07.000Z",
+      "updatedAt": "2026-11-12T11:00:07.000Z"
     },
     {
       "id": "e2b0fbb5-2ab4-4381-80ce-b5140018ceda",
@@ -12807,31 +12884,6 @@
       "url": "https://trueinterview.io/jobs/7ed981cc-1799-4317-ba63-ba02cfcb6379",
       "postedAt": "2026-11-08T09:08:00.000Z",
       "updatedAt": "2026-11-09T09:03:00.000Z"
-    },
-    {
-      "id": "6f7cf471-ed89-455e-b48c-c6619c22cee8",
-      "company": "Bosch",
-      "title": "Internship in GenAI Knowledge Assistant for Engineering",
-      "locations": [
-        "Wernau (Neckar), Baden-Württemberg, Germany"
-      ],
-      "cities": [],
-      "countries": [
-        "Germany"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000160555829-internship-in-genai-knowledge-assistant-for-engineering",
-      "url": "https://trueinterview.io/jobs/6f7cf471-ed89-455e-b48c-c6619c22cee8",
-      "postedAt": "2026-11-09T08:44:37.000Z",
-      "updatedAt": "2026-11-09T08:44:37.000Z"
     },
     {
       "id": "ae788f60-27cc-4f42-bccb-a5d751b9eae2",
@@ -54224,33 +54276,6 @@
       "updatedAt": "2026-10-29T10:37:00.000Z"
     },
     {
-      "id": "fd0fb8ae-1324-4281-99e3-cbb632720e13",
-      "company": "Q2",
-      "title": "2027 Summer Internship - Machine Learning Engineer",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4465922830/",
-      "url": "https://trueinterview.io/jobs/fd0fb8ae-1324-4281-99e3-cbb632720e13",
-      "postedAt": "2026-10-29T10:37:00.000Z",
-      "updatedAt": "2026-10-29T10:37:00.000Z"
-    },
-    {
       "id": "569c1faa-e8b5-41fc-9bb3-26b3c6c469f8",
       "company": "Arcadis",
       "title": "Water Engineering Intern",
@@ -75309,31 +75334,6 @@
       "url": "https://trueinterview.io/jobs/fc6db7cf-025f-43e3-8b36-c9f846f9520d",
       "postedAt": "2026-10-20T21:24:57.000Z",
       "updatedAt": "2026-10-20T21:24:57.000Z"
-    },
-    {
-      "id": "fd8ec3a2-d481-465c-8f28-f858f78b8aa7",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Multimodal Behavioral AI (PhD)",
-      "locations": [
-        "Redmond, WA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1428978125312655/",
-      "url": "https://trueinterview.io/jobs/fd8ec3a2-d481-465c-8f28-f858f78b8aa7",
-      "postedAt": "2026-10-20T21:16:10.000Z",
-      "updatedAt": "2026-10-20T21:16:10.000Z"
     },
     {
       "id": "0f2ddd61-4a28-4e77-93c2-5c1209dcc34f",
@@ -96872,33 +96872,6 @@
       "updatedAt": "2026-09-15T02:20:54.000Z"
     },
     {
-      "id": "2b1e5691-597e-453c-963c-9bc05ece1188",
-      "company": "Ramp",
-      "title": "Applied Scientist Intern",
-      "locations": [
-        "New York, NY (HQ)"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
-      "url": "https://trueinterview.io/jobs/2b1e5691-597e-453c-963c-9bc05ece1188",
-      "postedAt": "2026-09-15T01:44:04.000Z",
-      "updatedAt": "2026-09-15T01:44:04.000Z"
-    },
-    {
       "id": "0562979c-2be1-41ce-89b1-6af9cfee7b8b",
       "company": "Analog Devices",
       "title": "Information Technology Intern",
@@ -98498,60 +98471,6 @@
       "url": "https://trueinterview.io/jobs/1d525a0c-453f-4799-b56e-2dd1ae050754",
       "postedAt": "2026-09-13T22:54:53.000Z",
       "updatedAt": "2026-09-13T22:54:53.000Z"
-    },
-    {
-      "id": "729e56aa-6411-4a03-adce-f5f373b30f83",
-      "company": "JPMorgan Chase",
-      "title": "2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784366",
-      "url": "https://trueinterview.io/jobs/729e56aa-6411-4a03-adce-f5f373b30f83",
-      "postedAt": "2026-09-13T16:00:00.000Z",
-      "updatedAt": "2026-09-13T16:00:00.000Z"
-    },
-    {
-      "id": "5129c494-aa52-4a67-8319-c6b509100fc4",
-      "company": "JPMorgan Chase",
-      "title": "2027 Markets Quantitative Trading & Research Associate Program – Off-Cycle Internship - Singapore",
-      "locations": [
-        "Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Researcher",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784061",
-      "url": "https://trueinterview.io/jobs/5129c494-aa52-4a67-8319-c6b509100fc4",
-      "postedAt": "2026-09-13T16:00:00.000Z",
-      "updatedAt": "2026-09-13T16:00:00.000Z"
     }
   ]
 }
