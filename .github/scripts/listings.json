@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T11:04:25.668Z",
-  "count": 3719,
+  "listingsChangedAt": "2026-11-12T12:07:09.826Z",
+  "count": 3718,
   "listings": [
     {
       "id": "b48c7a28-7165-4a21-8303-629583489bfe",
@@ -161,7 +161,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Security Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -70706,33 +70706,6 @@
       "url": "https://trueinterview.io/jobs/e32a1a60-af5e-4293-9636-51f8417dbb33",
       "postedAt": "2026-10-23T15:32:37.000Z",
       "updatedAt": "2026-10-23T15:32:37.000Z"
-    },
-    {
-      "id": "1b9150fb-b71e-4e19-9cfe-b55b406d3f67",
-      "company": "1password",
-      "title": "IT Intern, IT Support - Winter 2027",
-      "locations": [
-        "Remote (United States",
-        "Canada)"
-      ],
-      "cities": [],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/1password/71e986eb-3b58-4c3c-adff-aebdb49a34b7",
-      "url": "https://trueinterview.io/jobs/1b9150fb-b71e-4e19-9cfe-b55b406d3f67",
-      "postedAt": "2026-10-23T13:11:13.000Z",
-      "updatedAt": "2026-10-23T13:11:13.000Z"
     },
     {
       "id": "ec6a2248-d808-481e-bf8e-f2edc9f3e65c",
