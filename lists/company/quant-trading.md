@@ -2,7 +2,7 @@
 
 # 📈 Quant trading & hedge funds
 
-**40 open roles.** 17 in the United States & Canada · 23 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
+**41 open roles.** 18 in the United States & Canada · 23 elsewhere in the world. Market makers, proprietary trading firms and quantitative funds.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19ec927-48b1-4c30-a281-e2763d70da8a">Software Engineering Internship (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462537751/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b259d7d5-dbff-4f1c-b090-11e9e0222478">Quantitative Researcher - Intern [2027 Summer]</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4432737369/">Apply</a></td>

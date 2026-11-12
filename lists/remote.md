@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**45 open roles.** 32 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
+**46 open roles.** 33 in the United States & Canada · 13 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -44,6 +44,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4634328?listingId=da205a94-89fa-46b5-8413-9f03a13cf3a8">Apply</a></td>
 <td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>PatientPoint - Invite Only</strong></td>
+<td><a href="https://trueinterview.io/jobs/f631394d-5db6-4ad8-bbfc-9e27f5fcc66e">Software Engineer Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4751023005">Apply</a></td>
+<td align="center">5 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Red Cell Partners</strong></td>

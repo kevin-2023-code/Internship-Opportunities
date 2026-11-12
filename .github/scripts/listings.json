@@ -5,9 +5,342 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T16:05:04.099Z",
-  "count": 3788,
+  "listingsChangedAt": "2026-11-12T17:04:23.167Z",
+  "count": 3804,
   "listings": [
+    {
+      "id": "c19ec927-48b1-4c30-a281-e2763d70da8a",
+      "company": "Two Sigma",
+      "title": "Software Engineering Internship (Summer 2027)",
+      "locations": [
+        "New York, United States"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462537751/",
+      "url": "https://trueinterview.io/jobs/c19ec927-48b1-4c30-a281-e2763d70da8a",
+      "postedAt": "2026-11-12T16:48:00.000Z",
+      "updatedAt": "2026-11-12T16:48:00.000Z"
+    },
+    {
+      "id": "f31a1c08-4257-4e53-9ee0-5ef4c909c52c",
+      "company": "Owl Cyber Defense",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Columbia, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490379036/",
+      "url": "https://trueinterview.io/jobs/f31a1c08-4257-4e53-9ee0-5ef4c909c52c",
+      "postedAt": "2026-11-12T16:47:00.000Z",
+      "updatedAt": "2026-11-12T16:47:00.000Z"
+    },
+    {
+      "id": "bb1501ee-7b8c-4121-9fe9-3c7e27206437",
+      "company": "Entegris",
+      "title": "Embedded Software Engineering Intern",
+      "locations": [
+        "Bloomington, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490363551/",
+      "url": "https://trueinterview.io/jobs/bb1501ee-7b8c-4121-9fe9-3c7e27206437",
+      "postedAt": "2026-11-12T16:46:00.000Z",
+      "updatedAt": "2026-11-12T16:46:00.000Z"
+    },
+    {
+      "id": "96683513-a1e7-4d8f-ac57-c4f120ababf0",
+      "company": "Lean TECHniques",
+      "title": "Software Engineer Intern - Hybrid",
+      "locations": [
+        "Johnston, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490368470/",
+      "url": "https://trueinterview.io/jobs/96683513-a1e7-4d8f-ac57-c4f120ababf0",
+      "postedAt": "2026-11-12T16:39:00.000Z",
+      "updatedAt": "2026-11-12T16:39:00.000Z"
+    },
+    {
+      "id": "746b2c1d-3fe3-4663-950e-23dedd6fee49",
+      "company": "ModMed",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Boca Raton, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489260608/",
+      "url": "https://trueinterview.io/jobs/746b2c1d-3fe3-4663-950e-23dedd6fee49",
+      "postedAt": "2026-11-12T16:37:00.000Z",
+      "updatedAt": "2026-11-12T16:37:00.000Z"
+    },
+    {
+      "id": "74dabc06-a806-4e2d-bff3-9839e2dfdc18",
+      "company": "Linde Gas & Equipment",
+      "title": "Software Developer Intern",
+      "locations": [
+        "Tonawanda, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473561454/",
+      "url": "https://trueinterview.io/jobs/74dabc06-a806-4e2d-bff3-9839e2dfdc18",
+      "postedAt": "2026-11-12T16:20:00.000Z",
+      "updatedAt": "2026-11-12T16:20:00.000Z"
+    },
+    {
+      "id": "aa17f0d7-e2eb-4453-a117-eedf1af7842f",
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer I (For 2026 Interns Only)",
+      "locations": [
+        "Lone Tree, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488538227/",
+      "url": "https://trueinterview.io/jobs/aa17f0d7-e2eb-4453-a117-eedf1af7842f",
+      "postedAt": "2026-11-12T16:19:00.000Z",
+      "updatedAt": "2026-11-12T16:19:00.000Z"
+    },
+    {
+      "id": "cba0fdd7-8c64-40dc-b62d-8b20b4623a08",
+      "company": "Acuity Insurance",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "Sheboygan, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479458119/",
+      "url": "https://trueinterview.io/jobs/cba0fdd7-8c64-40dc-b62d-8b20b4623a08",
+      "postedAt": "2026-11-12T16:17:00.000Z",
+      "updatedAt": "2026-11-12T16:17:00.000Z"
+    },
+    {
+      "id": "40253a2d-2446-4fce-adfc-d752b54b1371",
+      "company": "Marketeq Digital Solutions",
+      "title": "AI Product Software Engineering Intern (U.S.A)",
+      "locations": [
+        "Miami, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490356625/",
+      "url": "https://trueinterview.io/jobs/40253a2d-2446-4fce-adfc-d752b54b1371",
+      "postedAt": "2026-11-12T16:12:00.000Z",
+      "updatedAt": "2026-11-12T16:12:00.000Z"
+    },
+    {
+      "id": "a16fa19d-5e91-4160-8579-633fb2924112",
+      "company": "ConductorAI",
+      "title": "Software Engineer Intern",
+      "locations": [
+        "New York, NY"
+      ],
+      "cities": [
+        "New York, NY"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463542307/",
+      "url": "https://trueinterview.io/jobs/a16fa19d-5e91-4160-8579-633fb2924112",
+      "postedAt": "2026-11-12T15:50:00.000Z",
+      "updatedAt": "2026-11-12T15:50:00.000Z"
+    },
+    {
+      "id": "6358c930-b5df-431b-8583-2e44dd8485cd",
+      "company": "Allen Control Systems",
+      "title": "Software Engineering Intern, 2027",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464955016/",
+      "url": "https://trueinterview.io/jobs/6358c930-b5df-431b-8583-2e44dd8485cd",
+      "postedAt": "2026-11-12T14:50:00.000Z",
+      "updatedAt": "2026-11-12T14:50:00.000Z"
+    },
+    {
+      "id": "93968304-13ee-42dc-8103-82991529c6a0",
+      "company": "Insulet Corporation",
+      "title": "Co-op, Software Development Engineer in Test: January - June 2027 (Hybrid)",
+      "locations": [
+        "Acton, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471964505/",
+      "url": "https://trueinterview.io/jobs/93968304-13ee-42dc-8103-82991529c6a0",
+      "postedAt": "2026-11-12T14:50:00.000Z",
+      "updatedAt": "2026-11-12T14:50:00.000Z"
+    },
+    {
+      "id": "b37219f9-6903-4ebc-a108-58c3eca3d1c1",
+      "company": "Wealthspire",
+      "title": "2027 IT / AI Engineer Intern - Chicago, IL",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482465580/",
+      "url": "https://trueinterview.io/jobs/b37219f9-6903-4ebc-a108-58c3eca3d1c1",
+      "postedAt": "2026-11-12T14:50:00.000Z",
+      "updatedAt": "2026-11-12T14:50:00.000Z"
+    },
     {
       "id": "a197bc48-5012-4f2c-9b45-ab6f52b20614",
       "company": "Parker Hannifin",
@@ -59,6 +392,60 @@
       "url": "https://trueinterview.io/jobs/915f4935-ffe2-414b-a812-2c49d862e02c",
       "postedAt": "2026-11-12T14:25:00.000Z",
       "updatedAt": "2026-11-12T14:25:00.000Z"
+    },
+    {
+      "id": "b12cb937-e67a-4ebc-a323-ba59cfb9a598",
+      "company": "IBM",
+      "title": "Intern Application Developer 2027-ServiceNow",
+      "locations": [
+        "Chicago, IL"
+      ],
+      "cities": [
+        "Chicago, IL"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450862159/",
+      "url": "https://trueinterview.io/jobs/b12cb937-e67a-4ebc-a323-ba59cfb9a598",
+      "postedAt": "2026-11-12T13:50:00.000Z",
+      "updatedAt": "2026-11-12T13:50:00.000Z"
+    },
+    {
+      "id": "849558f3-0135-4990-adc0-597d9d9f4579",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP iXp Intern - AI Scientist",
+      "locations": [
+        "Palo Alto, California, United States"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161297575-sap-ixp-intern-ai-scientist",
+      "url": "https://trueinterview.io/jobs/849558f3-0135-4990-adc0-597d9d9f4579",
+      "postedAt": "2026-11-12T13:30:25.000Z",
+      "updatedAt": "2026-11-12T13:30:25.000Z"
     },
     {
       "id": "514dea3b-f30f-4e7c-a5f0-d21880a80cce",
@@ -1002,6 +1389,31 @@
       "url": "https://trueinterview.io/jobs/15764ecf-294a-493c-9cc7-ecf8b0135491",
       "postedAt": "2026-11-12T12:18:00.000Z",
       "updatedAt": "2026-11-12T12:18:00.000Z"
+    },
+    {
+      "id": "d173e03e-f675-4459-b1ff-dc0927a60e24",
+      "company": "IDEMIA Public Security",
+      "title": "Full Stack Software Engineering Internship",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481150572/",
+      "url": "https://trueinterview.io/jobs/d173e03e-f675-4459-b1ff-dc0927a60e24",
+      "postedAt": "2026-11-12T11:50:00.000Z",
+      "updatedAt": "2026-11-12T11:50:00.000Z"
     },
     {
       "id": "01fd00f5-dfa6-4a43-8184-d4abd28be889",
@@ -21410,13 +21822,14 @@
       "company": "PatientPoint - Invite Only",
       "title": "Software Engineer Intern",
       "locations": [
-        "United States"
+        "United States",
+        "Remote, US"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
-      "remote": "onsite",
+      "remote": "remote",
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",

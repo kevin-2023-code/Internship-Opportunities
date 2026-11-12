@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,792 open roles.** 1,429 in the United States & Canada · 363 elsewhere in the world.
+**1,805 open roles.** 1,442 in the United States & Canada · 363 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,97 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Rhoda AI</strong></td>
+<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
+<td>Mountain View, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sycamore</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0d58865-d493-44a7-9b90-77d94e19cd6d">Engineering Intern</a></td>
+<td>Bay Area</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
+<td>Arlington, Virginia, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1">Associate Delivery Consultant Intern, National Security, AWS Professional Services</a></td>
+<td>Arlington, Virginia, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Intel</strong></td>
+<td><a href="https://trueinterview.io/jobs/34cee847-34d9-4180-a364-40121cf5fe42">Information Security Engineer Undergraduate Intern</a></td>
+<td>US, California, Folsom, United States of America</td>
+<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/896137b5-6b71-40ba-9e1b-c0ace2e95871">Software Engineer: Security &amp; Identity Intern Opportunities for University Students, Cambridge</a></td>
+<td>Cambridge, MA, US</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557044765">Apply</a></td>
+<td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Illumio</strong></td>
+<td><a href="https://trueinterview.io/jobs/27837ca7-5394-4f82-b627-2a342d0cf8d9">Engineering Intern, Product Security</a></td>
+<td>Sunnyvale, California - HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Hpr</strong></td>
+<td><a href="https://trueinterview.io/jobs/906877e7-f452-4dc2-b18b-11ea7cf21f58">Applications Engineering Intern - Summer 2027</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>LinkedIn</strong></td>
+<td><a href="https://trueinterview.io/jobs/b72d6fa0-b9bf-4564-a6f0-2118601a6316">Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)</a></td>
+<td>Mountain View, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000156616169-software-engineer-intern-undergraduate-summer-2027-mountain-view-ca-">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Service Wire Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/04e63f77-b1f5-4481-a2fb-d6d19c9ca16e">Internship - Engineering</a></td>
+<td>Phoenix, AZ 85031</td>
+<td align="center"><a href="https://jobs.lever.co/servicewire/9655fefb-dedf-46e1-a040-092982d4a138">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Olsson</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fca5636-6aeb-49dd-b0ab-aa97edb13c0b">Engineering Internship - Rail Public Projects</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5458376008">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Meta</strong></td>
+<td><a href="https://trueinterview.io/jobs/08ddbe4d-1edf-48b8-b177-93ef4040181b">Enterprise Security Engineer, Intern (Summer 2027)</a></td>
+<td>New York, NY<br/>Menlo Park, CA, United States</td>
+<td align="center"><a href="https://www.metacareers.com/profile/job_details/1079627324896327/">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Sentient Digital, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e9c24b-8afc-424a-b19a-72028142bd38">Software Engineer Intern (Summer 2027)</a></td>
+<td>Brunswick, ME</td>
+<td align="center"><a href="https://secure.entertimeonline.com/ta/SESSDI.careers?ShowJob=537260590">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Analog Devices</strong></td>
 <td><a href="https://trueinterview.io/jobs/6cdcf6be-00f5-44de-8764-09a3ff32076d">Software Tools Engineering Intern</a></td>
@@ -2735,97 +2826,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Hsinchu City, Taiwan, Taiwan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484593534/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8b8ae94e-e0b1-45be-baf1-1a5c5cc6c29d">System Level Test Engineer (RDSS Intern)</a></td>
-<td>Hsinchu City, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484592588/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/1b427417-603d-42f9-94b4-b784729aac5e">Software Engineering Intern</a></td>
-<td>Dubai, Dubai, United Arab Emirates</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475903255/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Volvo Trucks</strong></td>
-<td><a href="https://trueinterview.io/jobs/50f4e60d-9c45-43dd-bfe6-04bf1eb50cb5">Intern - Application Engineering</a></td>
-<td>Darra, Queensland, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477626534/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NEURA Robotics</strong></td>
-<td><a href="https://trueinterview.io/jobs/1fa9457a-6563-475b-aff9-71dcadb3e35e">Internship Robotics Training Engineering – Academy (human)</a></td>
-<td>Riederich, Baden-Württemberg, Germany<br/>Metzingen / Riederich</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/902bc948-b581-4259-92c3-0b15d21033c0">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/aad1e859-6876-488f-a19d-fc40aa283595">2027 Software Dev Engineer Intern - Haifa, Israel</a></td>
-<td>Haifa, Haifa District, Israel</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485222436/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/62b25e18-c444-44c6-9973-b3b1d87b7047">2027 Software Dev Engineer Intern - Tel-Aviv, Israel</a></td>
-<td>Tel Aviv-Yafo, Tel Aviv District, Israel</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485223435/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Baker Hughes</strong></td>
-<td><a href="https://trueinterview.io/jobs/c8517dc7-76f0-4d3f-9bb6-af4ef4037938">Intern - Software Engineering - 2027</a></td>
-<td>Cramlington, England, United Kingdom<br/>Cramlington, United Kingdom</td>
-<td align="center"><a href="https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR171503EXTERNALENGLOBAL/Intern-Software-Engineering-2027">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Mission Technologies, a division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/22230259-1272-4c54-8873-ae13e81a70da">Software Engineer (SkillBridge Intern) - 23875</a></td>
-<td>Greater Roanoke Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4440203691/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/c6005c00-7179-4812-8ba1-e1ada4780cee">Firmware Application Engineer (RDSS Intern)</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467119641/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/98712caf-c27b-4657-8290-ab4c3ea68eae">Physical Design Engineer (RDSS Intern)</a></td>
-<td>Hsinchu City, Taiwan, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466588639/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fe969280-b23f-490d-bf37-811305145b9d">System Design Engineer - LDE (RDSS Intern)</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448263401/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Applied Materials South East Asia</strong></td>
-<td><a href="https://trueinterview.io/jobs/834a13df-58b7-468b-84ff-753c4ac075a9">Technology Development Engineer – Hybrid Bonding &amp; Advanced Packaging (Internship)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473685884/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td><a href="https://trueinterview.io/jobs/55eb4d90-22d0-47cd-80eb-13f37a09ec4b">Architecture Energy Modeling Engineering Intern - 2027</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466804410/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**536 open roles.** 435 in the United States & Canada · 101 elsewhere in the world.
+**543 open roles.** 442 in the United States & Canada · 101 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,55 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Natera</strong></td>
+<td><a href="https://trueinterview.io/jobs/c45d28fc-e2be-4175-8a59-1c338b3e96de">Software Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/natera/jobs/6188497004">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>HarveyAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/2faab77d-7098-4122-81c1-2844264de754">Software Engineering Intern (Winter 2027)</a></td>
+<td>Toronto, ON<br/>New York, NY<br/>San Francisco, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shopback</strong></td>
+<td><a href="https://trueinterview.io/jobs/0828b6ad-0d66-4d4a-9b08-0169ce748170">Software Engineer Intern</a></td>
+<td>San Francisco, California<br/>Singapore, Singapore<br/>New York City, New York</td>
+<td align="center"><a href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15">Apply</a></td>
+<td align="center">2 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Exegy</strong></td>
+<td><a href="https://trueinterview.io/jobs/69ea6da1-71d3-43cc-b74a-de1633e31d86">Software Automation Developer Intern</a></td>
+<td>Montreal, QC</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/exegy/1dfd3209-2714-4ccd-8fb9-779765151897/application">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/776c9778-28ae-4e6d-92db-b10071d4800d">Software Engineer I (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-I--Co-op----United-States_2026920">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bd19a262-65b2-4b99-9d33-a19bcaa3aac6">Software Engineer II (Co-op) - United States</a></td>
+<td>Maynard, Massachusetts, US, United States of America</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/66f8ae87-2358-4abf-a19b-2228ba2890eb">Software Development Intern</a></td>
+<td>Pleasant Grove, Utah, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54671?lang=en-us">Apply</a></td>
+<td align="center">1 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Dandy</strong></td>
 <td><a href="https://trueinterview.io/jobs/c1d13ca9-f24e-44f8-bbba-6ca6c4730e88">Summer 2027 Internship - Software Engineering</a></td>

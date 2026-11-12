@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**64 open roles.** 56 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**65 open roles.** 57 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b12cb937-e67a-4ebc-a323-ba59cfb9a598">Intern Application Developer 2027-ServiceNow</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450862159/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/c2f69c70-dfdc-46a7-a89a-506c9b7a9b06">QA/Test Automation Developer Intern - Tucson, AZ</a></td>
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488265247/">Apply</a></td>

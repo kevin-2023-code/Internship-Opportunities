@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**145 open roles.**
+**147 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Two Sigma</strong></td>
+<td><a href="https://trueinterview.io/jobs/c19ec927-48b1-4c30-a281-e2763d70da8a">Software Engineering Internship (Summer 2027)</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462537751/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ConductorAI</strong></td>
+<td><a href="https://trueinterview.io/jobs/a16fa19d-5e91-4160-8579-633fb2924112">Software Engineer Intern</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463542307/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Grant Thornton</strong></td>
 <td><a href="https://trueinterview.io/jobs/11f2cbe1-972a-4af8-b441-3c59a26b841a">Cybersecurity and Privacy Intern - Summer 2027</a></td>

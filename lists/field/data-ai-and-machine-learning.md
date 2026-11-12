@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**776 open roles.** 562 in the United States & Canada · 214 elsewhere in the world.
+**779 open roles.** 565 in the United States & Canada · 214 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/40253a2d-2446-4fce-adfc-d752b54b1371">AI Product Software Engineering Intern (U.S.A)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490356625/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Wealthspire</strong></td>
+<td><a href="https://trueinterview.io/jobs/b37219f9-6903-4ebc-a108-58c3eca3d1c1">2027 IT / AI Engineer Intern - Chicago, IL</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482465580/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Parker Hannifin</strong></td>
 <td><a href="https://trueinterview.io/jobs/a197bc48-5012-4f2c-9b45-ab6f52b20614">AI/ML Engineering Co-op</a></td>
 <td>Elyria, OH</td>
@@ -31,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/915f4935-ffe2-414b-a812-2c49d862e02c">Computer Vision/Machine Learning Intern, 2027</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464940259/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/849558f3-0135-4990-adc0-597d9d9f4579">SAP iXp Intern - AI Scientist</a></td>
+<td>Palo Alto, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161297575-sap-ixp-intern-ai-scientist">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/eb82c5cc-25fd-436f-b398-c7ae60c5db41">Data Analyst Internship</a></td>
 <td>Boca Raton, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484781097/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Systems Planning &amp; Analysis</strong></td>
-<td><a href="https://trueinterview.io/jobs/76275763-a317-420c-83ed-37a4ca2ab6b4">Data Engineering Intern - Summer 2027</a></td>
-<td>Alexandria, VA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484771389/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JM&amp;A Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/b85f3e00-77a3-48c6-b000-9f9643c16e7c">Customer Experience Data Analyst Intern</a></td>
-<td>Deerfield Beach, Florida, United States</td>
-<td align="center"><a href="https://jmfamily.wd1.myworkdayjobs.com/JMFamily_External/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Walmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/7508b9d9-ad4c-45ae-aeee-a8f294b0d823">R-2690844 (USA) Corporate Intern: Market Strategy Data Science Intern</a></td>
-<td>Bentonville, Arkansas, United States</td>
-<td align="center"><a href="https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/R-2690844--USA--Corporate-Intern---Market-Strategy-Data-Science-Intern_R-2690844">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

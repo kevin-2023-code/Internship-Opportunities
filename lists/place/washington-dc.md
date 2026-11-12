@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**84 open roles.**
+**85 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Owl Cyber Defense</strong></td>
+<td><a href="https://trueinterview.io/jobs/f31a1c08-4257-4e53-9ee0-5ef4c909c52c">Software Engineering Intern</a></td>
+<td>Columbia, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490379036/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ICF</strong></td>
 <td><a href="https://trueinterview.io/jobs/79e21a8d-fd18-41c5-b5b4-84bebd8ea348">2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)</a></td>

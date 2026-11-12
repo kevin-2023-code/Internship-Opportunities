@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,792 open roles.** 1,429 in the United States & Canada · 363 elsewhere in the world.
+**1,805 open roles.** 1,442 in the United States & Canada · 363 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,97 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raytheon</strong></td>
+<td><a href="https://trueinterview.io/jobs/a98643ea-e4ea-497e-8b15-caebf7b78374">Software Engineer Intern</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468296586/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Enterprise Mobility</strong></td>
+<td><a href="https://trueinterview.io/jobs/77526c8f-0642-4e13-bebd-82e3881f177b">Intern - Software Engineer, Summer 2027</a></td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466887436/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7617912-d9d9-483b-b348-293ab82dd16d">VDS (Voice, Data, Security) Engineering Intern - Summer 2027</a></td>
+<td>Conshohocken, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476988984/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Vulcan Materials Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/1c8a2970-aae7-42e0-92ba-2f9860bd287a">2027 Summer Internship-Cybersecurity</a></td>
+<td>Birmingham, AL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4475473333/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc3e409d-fd1c-4816-9603-843ed5988068">Year at Palantir - Forward Deployed Software Engineer, Internship - USG</a></td>
+<td>Washington, DC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4414777718/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>York Space Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/199c5c61-2da9-4986-9526-a4e04fd811fd">Ground Software Engineering Intern</a></td>
+<td>Greenwood Village, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466552755/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Two Six Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/2b67b2dd-4bc9-4e7d-9ec2-e581066f9467">Systems Software Engineering Intern</a></td>
+<td>Arlington, Virginia, United States<br/>Arlington, VA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Valeo</strong></td>
+<td><a href="https://trueinterview.io/jobs/379515a8-66a7-47ea-90df-32a5c87d2b15">Application Engineering Intern (Year-Round)</a></td>
+<td>Troy, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467906401/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Jacobs</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e3552c0-99ab-4bb9-ab07-48b3ba4df6f3">Water Engineering Intern – Summer 2027</a></td>
+<td>Kansas City, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459387970/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Burns &amp; McDonnell</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a45a4ab-1bda-4d66-aa16-6174996f1785">Software Developer Intern - Aviation &amp; Federal (Kansas City)</a></td>
+<td>Kansas City, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467774654/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/555bf1ad-5c23-4ab6-9141-0ff53ceb630f">Digital Engineering Intern (BIM) – AECOM Hunt</a></td>
+<td>Dallas, Texas, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000158556674-digital-engineering-intern-bim-aecom-hunt">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Base Power</strong></td>
+<td><a href="https://trueinterview.io/jobs/693533d5-4906-483f-a282-2a4a94c37e3f">Power Systems Engineering Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/base-power/8397f115-7806-4911-a12b-6231852c3443">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MKS Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/af5971a6-34d9-4051-8511-f4b82138ca5b">2027 Spring Optical Engineering Intern (R20149)</a></td>
+<td>Rochester, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466851193/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>JR Automation</strong></td>
 <td><a href="https://trueinterview.io/jobs/2f3fdcd2-3ce0-409f-ad57-ce0b2b5c3bcd">Quality Assurance (QA) Intern</a></td>
@@ -2723,97 +2814,6 @@
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5">Apply</a></td>
 <td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a3a13d7c-a934-48a2-8bf2-46798d482654">Software Engineer Intern, Inference</a></td>
-<td>Mountain View, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sycamore</strong></td>
-<td><a href="https://trueinterview.io/jobs/e0d58865-d493-44a7-9b90-77d94e19cd6d">Engineering Intern</a></td>
-<td>Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cd241f0-e271-4eda-8573-f31f5476c8b9">Associate Delivery Consultant Intern, AWS Professional Services</a></td>
-<td>Arlington, Virginia, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f6f0bc5e-fb88-4e15-a861-3e0e82ee08c1">Associate Delivery Consultant Intern, National Security, AWS Professional Services</a></td>
-<td>Arlington, Virginia, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10585775/associate-delivery-consultant-intern-national-security-aws-professional-services">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intel</strong></td>
-<td><a href="https://trueinterview.io/jobs/34cee847-34d9-4180-a364-40121cf5fe42">Information Security Engineer Undergraduate Intern</a></td>
-<td>US, California, Folsom, United States of America</td>
-<td align="center"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Information-Security-Engineer-Undergraduate-Intern_JR0287588">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td><a href="https://trueinterview.io/jobs/896137b5-6b71-40ba-9e1b-c0ace2e95871">Software Engineer: Security &amp; Identity Intern Opportunities for University Students, Cambridge</a></td>
-<td>Cambridge, MA, US</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557044765">Apply</a></td>
-<td align="center">21 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Illumio</strong></td>
-<td><a href="https://trueinterview.io/jobs/27837ca7-5394-4f82-b627-2a342d0cf8d9">Engineering Intern, Product Security</a></td>
-<td>Sunnyvale, California - HQ</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/illumio/8708e622-900e-458a-96b3-ae339329a56d">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hpr</strong></td>
-<td><a href="https://trueinterview.io/jobs/906877e7-f452-4dc2-b18b-11ea7cf21f58">Applications Engineering Intern - Summer 2027</a></td>
-<td>Needham, MA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>LinkedIn</strong></td>
-<td><a href="https://trueinterview.io/jobs/b72d6fa0-b9bf-4564-a6f0-2118601a6316">Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA)</a></td>
-<td>Mountain View, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000156616169-software-engineer-intern-undergraduate-summer-2027-mountain-view-ca-">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Service Wire Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/04e63f77-b1f5-4481-a2fb-d6d19c9ca16e">Internship - Engineering</a></td>
-<td>Phoenix, AZ 85031</td>
-<td align="center"><a href="https://jobs.lever.co/servicewire/9655fefb-dedf-46e1-a040-092982d4a138">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Olsson</strong></td>
-<td><a href="https://trueinterview.io/jobs/2fca5636-6aeb-49dd-b0ab-aa97edb13c0b">Engineering Internship - Rail Public Projects</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/olsson/jobs/5458376008">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Meta</strong></td>
-<td><a href="https://trueinterview.io/jobs/08ddbe4d-1edf-48b8-b177-93ef4040181b">Enterprise Security Engineer, Intern (Summer 2027)</a></td>
-<td>New York, NY<br/>Menlo Park, CA, United States</td>
-<td align="center"><a href="https://www.metacareers.com/profile/job_details/1079627324896327/">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sentient Digital, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/96e9c24b-8afc-424a-b19a-72028142bd38">Software Engineer Intern (Summer 2027)</a></td>
-<td>Brunswick, ME</td>
-<td align="center"><a href="https://secure.entertimeonline.com/ta/SESSDI.careers?ShowJob=537260590">Apply</a></td>
-<td align="center">20 Oct 2026</td>
 </tr>
 </tbody>
 </table>

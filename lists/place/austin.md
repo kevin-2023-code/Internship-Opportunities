@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**91 open roles.**
+**92 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Allen Control Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/6358c930-b5df-431b-8583-2e44dd8485cd">Software Engineering Intern, 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4464955016/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/915f4935-ffe2-414b-a812-2c49d862e02c">Computer Vision/Machine Learning Intern, 2027</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464940259/">Apply</a></td>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**987 open roles.** 805 in the United States & Canada · 182 elsewhere in the world. Everything the employers put up this week.
+**993 open roles.** 812 in the United States & Canada · 181 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,38 +16,87 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/745d9eb6-d00c-4222-9ebd-bdb2b1f95034">Data Scientist Intern</a></td>
-<td>Alpharetta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470247629/">Apply</a></td>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/85c58ce9-ebea-48d5-9889-733bf9c04caa">Intern Robotics Software Engineering</a></td>
+<td>Pittsburgh, PA<br/>Pittsburgh, Pennsylvania, United States</td>
+<td align="center"><a href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/7b6de084-55c4-40d6-b85d-9a27a09a7fed">QA/Test Engineer Intern-Tucson, AZ</a></td>
-<td>Tucson, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4456512970/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zebra Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e21dfed-6241-459d-80f7-9b5edb34de87">2027 Summer Internship (US) - Software Engineer, AI Features &amp; Product Convergence, Zebra Task Manager</a></td>
-<td>Kennesaw, GA<br/>Kennesaw, Georgia, United States</td>
-<td align="center"><a href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/c55d1590-d3d4-420f-9c43-7e5a1c8b89c5">Java Software Developer-INTERN</a></td>
-<td>Colorado Springs, CO</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477760376?domain=lockheedmartin.com">Apply</a></td>
+<td><strong>BCG X</strong></td>
+<td><a href="https://trueinterview.io/jobs/1009746d-446a-4313-94e2-07b20b54fc2c">Forward Deployed AI Engineer, Internship, Campus, United States - BCG X</a></td>
+<td>Boston, MA<br/>Chicago, IL<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478169746/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4bcfcf47-fd15-4245-9aa1-4eb81d397049">Embedded Software Engineer Intern - Summer 2027</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477363529?domain=lockheedmartin.com">Apply</a></td>
+<td><a href="https://trueinterview.io/jobs/b575ec89-feeb-47e3-a3a7-f41b108d9436">Forward Deployed AI Scientist, Internship, Campus, United States - BCG X</a></td>
+<td>Chicago, IL<br/>Boston, MA<br/>New York, NY<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4478176470/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td><a href="https://trueinterview.io/jobs/525eba98-f4af-4b28-ad88-ad1444311c18">Research Intern - Machine Learning and Statistics</a></td>
+<td>Cambridge, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479519304/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/fb19d825-8d7e-48e6-8890-d5c3d82c6e58">Data Analyst and Business Intelligence Intern</a></td>
+<td>Alpharetta, GA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469417087/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Peterbilt Motors Company</strong></td>
+<td><a href="https://trueinterview.io/jobs/2aa03880-e4fb-44d2-86f1-40c073c7eed6">2027 Summer Internship: Data Engineer</a></td>
+<td>Denton, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487285787/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sharkninja</strong></td>
+<td><a href="https://trueinterview.io/jobs/2e712875-1f9f-40a5-b064-bab2de876f27">Spring 2027: Mechanical Engineering Co-op, Wearable and Biomedical Devices (January to June)</a></td>
+<td>Needham, MA, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727128006">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/03b998d0-cbc6-46a3-90e4-8d9c3793c5d1">Software Engineer Intern (Multiple Levels) - 30069</a></td>
+<td>Columbia, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460637104/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Figma</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
+<td>New York, NY<br/>San Francisco, CA • New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Chubb</strong></td>
+<td><a href="https://trueinterview.io/jobs/fae5068d-552c-4750-aaa2-cae13b9ec0d6">Business Intelligence Intern</a></td>
+<td>Chicago, Illinois, United States</td>
+<td align="center"><a href="https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/57a00530-69f4-461c-8181-49a19f12a838">Civil Engineering Intern</a></td>
+<td>Waterloo, ON<br/>Waterloo, Iowa, United States<br/>Boston, Massachusetts, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159707760-civil-engineering-intern">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>
@@ -1327,13 +1376,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/001c7801-95d2-4f32-aa69-f1cf1755cb91">iXP Intern Developer Security</a></td>
 <td>Sofia, Sofia City, Bulgaria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454215765/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/5acb1c5c-47e6-4d7a-a087-3ed6bbebe39a">2027 Business Developer Intern, Amazon Payments</a></td>
-<td>Cape Town, Western Cape, South Africa</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479065597/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

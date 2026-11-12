@@ -2,7 +2,7 @@
 
 # 🌬️ Chicago
 
-**64 open roles.**
+**66 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wealthspire</strong></td>
+<td><a href="https://trueinterview.io/jobs/b37219f9-6903-4ebc-a108-58c3eca3d1c1">2027 IT / AI Engineer Intern - Chicago, IL</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482465580/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>IBM</strong></td>
+<td><a href="https://trueinterview.io/jobs/b12cb937-e67a-4ebc-a323-ba59cfb9a598">Intern Application Developer 2027-ServiceNow</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4450862159/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CNH</strong></td>
 <td><a href="https://trueinterview.io/jobs/51a10795-8070-4d4a-8ce3-6292d8acd676">Embedded Software Engineer Intern</a></td>
