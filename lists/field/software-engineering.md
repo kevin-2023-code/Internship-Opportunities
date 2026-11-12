@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,742 open roles.** 1,397 in the United States & Canada · 345 elsewhere in the world.
+**1,751 open roles.** 1,406 in the United States & Canada · 345 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,62 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Minitab</strong></td>
+<td><a href="https://trueinterview.io/jobs/555d4a65-359b-40da-9f30-60bf8b395d28">Software Quality Engineer Intern</a></td>
+<td>State College, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490058751/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/8c4475d7-a69e-4258-b285-b1ef51e51bc6">Internship, Software Engineer, SI Hardware Infrastructure (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490060648/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shive-Hattery</strong></td>
+<td><a href="https://trueinterview.io/jobs/6e8c198b-85bd-420a-998f-e67c54b3704c">Internship - Software Development</a></td>
+<td>Iowa City, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489046178/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bloom Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f62e69d-6fa8-4560-bd95-2a14f294e638">AI Solutions Engineer Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490061377/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8ccc4e2-af36-4e0e-a773-506f853082fa">Digital Signal Processing ML Software Development Co-op</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490054178/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/cd2a6788-d0a8-4fdd-9a24-d769f3657048">Agentic AI Engineering Co-op – Active Noise Cancellation | Fall 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490053183/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AV</strong></td>
+<td><a href="https://trueinterview.io/jobs/559f8a31-2e21-4ebc-b255-7428846d2f34">Software Engineering Intern</a></td>
+<td>Lawrence, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490054131/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Farmers Mutual Hail Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/d2627ff6-c5ef-451a-8e36-e83100f0a4a9">AI Intern</a></td>
+<td>West Des Moines, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489056137/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/c2f69c70-dfdc-46a7-a89a-506c9b7a9b06">QA/Test Automation Developer Intern - Tucson, AZ</a></td>
@@ -66,6 +122,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f21182c6-6dc1-4c60-9c3a-2c4f1eeecd0c">2027 Summer Software Engineer Co-op</a></td>
 <td>Andover, MA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488265157/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TaskVerse</strong></td>
+<td><a href="https://trueinterview.io/jobs/459e891a-6b44-4f83-a9ac-ecb7a8ff12d3">BackEnd Developer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490023125/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Valstad Shipworks</strong></td>
+<td><a href="https://trueinterview.io/jobs/c620d903-a051-4def-bf52-30841f6c5d56">Robotics Software Intern, Manipulation &amp; Simulation</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490037494/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2747,76 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8da4c621-cb96-41a2-a141-56732b4a5dfc">Software Engineering Intern (Summer 2027)</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468945267/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>STERIS</strong></td>
-<td><a href="https://trueinterview.io/jobs/215ff951-12d8-41de-b8b2-d9f61cb350ef">Software Engineering Co-op - Spring 2027</a></td>
-<td>Mentor, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479066560/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/61ec49ed-e748-4d09-ba36-3b5c7220fb92">Project Management / Test Engineering Intern</a></td>
-<td>Plymouth, Michigan, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159649749-project-management-test-engineering-intern">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IGS Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/5cbf8f8b-8cd8-4100-a2cd-2b8250e9fdeb">Software Engineer Intern</a></td>
-<td>Ohio, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460022947/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e40b707-c5dd-4268-8068-4953a96b0b9c">2027 Firmware Engineer Intern</a></td>
-<td>Costa Mesa, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479254716/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok USDS Joint Venture</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc06ea8b-0252-4f41-b26b-c01c9fb9b969">Security Engineer Intern (Security &amp; Privacy) - 2027 Summer</a></td>
-<td>Washington, DC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459271371/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/42f0a346-81ec-412a-9f6d-d63da77f7d9b">Software Engineering Intern - Product Development Portal (Spring Co-Op)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470244916/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brain Co.</strong></td>
-<td><a href="https://trueinterview.io/jobs/9134aad2-47c8-4e60-8a84-44d63277d59f">AI Platform Engineer Co-Op Intern, Winter 2027</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/17fbdeb8-a760-4050-9d6f-478d0e75fe48">AI Security Engineer Co-Op Intern, Winter 2027</a></td>
-<td>San Francisco Bay Area</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/brainco/c93cdb4a-1ca8-40e0-b49c-205922772930">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/58edef69-5956-48f7-a45c-d474ff1052d2">Software Engineering Intern - Design Automation (Spring 2027 Co-Op)</a></td>
-<td>Palo Alto, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469991636/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/be57c8c4-6ead-46a2-845e-d9d66f82965b">Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)</a></td>
-<td>Plymouth, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469981991/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

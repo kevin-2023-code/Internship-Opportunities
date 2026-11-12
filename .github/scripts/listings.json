@@ -5,9 +5,292 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T00:11:39.790Z",
-  "count": 3677,
+  "listingsChangedAt": "2026-11-12T01:05:17.948Z",
+  "count": 3687,
   "listings": [
+    {
+      "id": "555d4a65-359b-40da-9f30-60bf8b395d28",
+      "company": "Minitab",
+      "title": "Software Quality Engineer Intern",
+      "locations": [
+        "State College, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490058751/",
+      "url": "https://trueinterview.io/jobs/555d4a65-359b-40da-9f30-60bf8b395d28",
+      "postedAt": "2026-11-12T00:33:00.000Z",
+      "updatedAt": "2026-11-12T00:33:00.000Z"
+    },
+    {
+      "id": "8c4475d7-a69e-4258-b285-b1ef51e51bc6",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, SI Hardware Infrastructure (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490060648/",
+      "url": "https://trueinterview.io/jobs/8c4475d7-a69e-4258-b285-b1ef51e51bc6",
+      "postedAt": "2026-11-12T00:22:00.000Z",
+      "updatedAt": "2026-11-12T00:22:00.000Z"
+    },
+    {
+      "id": "cdd7debd-7470-4f68-9e49-df46960f1a99",
+      "company": "StepStone Group",
+      "title": "2027 AI Quant Summer Analyst",
+      "locations": [
+        "La Jolla, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Data & AI",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489063098/",
+      "url": "https://trueinterview.io/jobs/cdd7debd-7470-4f68-9e49-df46960f1a99",
+      "postedAt": "2026-11-12T00:21:00.000Z",
+      "updatedAt": "2026-11-12T00:21:00.000Z"
+    },
+    {
+      "id": "10eb1dc9-56d4-4aaa-a0c6-68a78866c3dd",
+      "company": "Bose Corporation",
+      "title": "Data Engineer Co-Op",
+      "locations": [
+        "Framingham, MA",
+        "Bloomfield Hills, MI",
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490047992/",
+      "url": "https://trueinterview.io/jobs/10eb1dc9-56d4-4aaa-a0c6-68a78866c3dd",
+      "postedAt": "2026-11-12T00:10:00.000Z",
+      "updatedAt": "2026-11-12T00:10:00.000Z"
+    },
+    {
+      "id": "6e8c198b-85bd-420a-998f-e67c54b3704c",
+      "company": "Shive-Hattery",
+      "title": "Internship - Software Development",
+      "locations": [
+        "Iowa City, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489046178/",
+      "url": "https://trueinterview.io/jobs/6e8c198b-85bd-420a-998f-e67c54b3704c",
+      "postedAt": "2026-11-11T22:59:00.000Z",
+      "updatedAt": "2026-11-12T00:09:00.000Z"
+    },
+    {
+      "id": "6f62e69d-6fa8-4560-bd95-2a14f294e638",
+      "company": "Bloom Energy",
+      "title": "AI Solutions Engineer Intern",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490061377/",
+      "url": "https://trueinterview.io/jobs/6f62e69d-6fa8-4560-bd95-2a14f294e638",
+      "postedAt": "2026-11-12T00:07:00.000Z",
+      "updatedAt": "2026-11-12T00:07:00.000Z"
+    },
+    {
+      "id": "b8ccc4e2-af36-4e0e-a773-506f853082fa",
+      "company": "Bose Corporation",
+      "title": "Digital Signal Processing ML Software Development Co-op",
+      "locations": [
+        "Framingham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490054178/",
+      "url": "https://trueinterview.io/jobs/b8ccc4e2-af36-4e0e-a773-506f853082fa",
+      "postedAt": "2026-11-11T23:41:00.000Z",
+      "updatedAt": "2026-11-11T23:41:00.000Z"
+    },
+    {
+      "id": "cd2a6788-d0a8-4fdd-9a24-d769f3657048",
+      "company": "Bose Corporation",
+      "title": "Agentic AI Engineering Co-op – Active Noise Cancellation | Fall 2027",
+      "locations": [
+        "Framingham, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490053183/",
+      "url": "https://trueinterview.io/jobs/cd2a6788-d0a8-4fdd-9a24-d769f3657048",
+      "postedAt": "2026-11-11T23:40:00.000Z",
+      "updatedAt": "2026-11-11T23:40:00.000Z"
+    },
+    {
+      "id": "559f8a31-2e21-4ebc-b255-7428846d2f34",
+      "company": "AV",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490054131/",
+      "url": "https://trueinterview.io/jobs/559f8a31-2e21-4ebc-b255-7428846d2f34",
+      "postedAt": "2026-11-11T23:37:00.000Z",
+      "updatedAt": "2026-11-11T23:37:00.000Z"
+    },
+    {
+      "id": "d2627ff6-c5ef-451a-8e36-e83100f0a4a9",
+      "company": "Farmers Mutual Hail Insurance",
+      "title": "AI Intern",
+      "locations": [
+        "West Des Moines, IA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489056137/",
+      "url": "https://trueinterview.io/jobs/d2627ff6-c5ef-451a-8e36-e83100f0a4a9",
+      "postedAt": "2026-11-11T23:34:00.000Z",
+      "updatedAt": "2026-11-11T23:34:00.000Z"
+    },
+    {
+      "id": "2e7d6797-98fe-4c9f-94ac-ae6feebdaba2",
+      "company": "Genentech",
+      "title": "2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments",
+      "locations": [
+        "South San Francisco, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490043391/",
+      "url": "https://trueinterview.io/jobs/2e7d6797-98fe-4c9f-94ac-ae6feebdaba2",
+      "postedAt": "2026-11-11T22:53:00.000Z",
+      "updatedAt": "2026-11-11T22:53:00.000Z"
+    },
     {
       "id": "f798d973-b9d4-460f-a321-0cd515bcea7c",
       "company": "Riot Games",
@@ -51,8 +334,8 @@
       "category": "Software",
       "family": "Software",
       "role": "QA Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -146,9 +429,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -171,9 +454,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -198,9 +481,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -223,9 +506,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -262,31 +545,56 @@
       "updatedAt": "2026-11-11T22:38:00.000Z"
     },
     {
-      "id": "72bfc8da-d230-4866-b474-195dcb885fed",
-      "company": "Tacit",
-      "title": "Data Scientist Intern",
+      "id": "459e891a-6b44-4f83-a9ac-ecb7a8ff12d3",
+      "company": "TaskVerse",
+      "title": "BackEnd Developer Intern",
       "locations": [
-        "San Francisco, CA"
+        "United States"
       ],
-      "cities": [
-        "San Francisco, CA"
-      ],
+      "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490042191/",
-      "url": "https://trueinterview.io/jobs/72bfc8da-d230-4866-b474-195dcb885fed",
-      "postedAt": "2026-11-11T22:29:00.000Z",
-      "updatedAt": "2026-11-11T22:29:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490023125/",
+      "url": "https://trueinterview.io/jobs/459e891a-6b44-4f83-a9ac-ecb7a8ff12d3",
+      "postedAt": "2026-11-11T22:37:00.000Z",
+      "updatedAt": "2026-11-11T22:37:00.000Z"
+    },
+    {
+      "id": "c620d903-a051-4def-bf52-30841f6c5d56",
+      "company": "Valstad Shipworks",
+      "title": "Robotics Software Intern, Manipulation & Simulation",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490037494/",
+      "url": "https://trueinterview.io/jobs/c620d903-a051-4def-bf52-30841f6c5d56",
+      "postedAt": "2026-11-11T22:33:00.000Z",
+      "updatedAt": "2026-11-11T22:33:00.000Z"
     },
     {
       "id": "cfc533cd-4ad5-4582-bbfd-b2d6e8ca6f0e",
@@ -62935,31 +63243,6 @@
       "updatedAt": "2026-10-28T12:35:00.000Z"
     },
     {
-      "id": "321a671b-f883-41d8-b5dd-0c04ca591ce2",
-      "company": "Vertiv",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "locations": [
-        "Delaware, OH"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4476323358/",
-      "url": "https://trueinterview.io/jobs/321a671b-f883-41d8-b5dd-0c04ca591ce2",
-      "postedAt": "2026-10-28T12:31:00.000Z",
-      "updatedAt": "2026-10-28T12:31:00.000Z"
-    },
-    {
       "id": "07c4da04-93f4-4e51-89cc-8d05d1907ee9",
       "company": "IDEMIA Public Security",
       "title": "Software Engineering Internship - Enrollment and Credentialing Services",
@@ -73018,32 +73301,6 @@
       "source": "1point3acres",
       "applyUrl": "https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003",
       "url": "https://trueinterview.io/jobs/a3a77ea1-673d-4f5b-9483-d05a83d4490f",
-      "postedAt": "2026-10-20T00:00:00.000Z",
-      "updatedAt": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "id": "ec748939-b9c5-4eca-a301-d41651063396",
-      "company": "clutch-technologies-inc",
-      "title": "Production Development Engineering Intern (Co-op), Winter 2027",
-      "locations": [
-        "Mississauga, Ontario, Canada , Mississauga",
-        "Mississauga, Ontario, Canada"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/clutch/jobs/6228333004",
-      "url": "https://trueinterview.io/jobs/ec748939-b9c5-4eca-a301-d41651063396",
       "postedAt": "2026-10-20T00:00:00.000Z",
       "updatedAt": "2026-10-20T00:00:00.000Z"
     },

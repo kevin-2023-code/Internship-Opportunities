@@ -2,7 +2,7 @@
 
 # Data Engineer
 
-**76 open roles.** 62 in the United States & Canada · 14 elsewhere in the world.
+**77 open roles.** 63 in the United States & Canada · 14 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/10eb1dc9-56d4-4aaa-a0c6-68a78866c3dd">Data Engineer Co-Op</a></td>
+<td>Atlanta, GA<br/>Framingham, MA<br/>Bloomfield Hills, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490047992/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/3c41fc9e-a9d1-477c-8d85-5441017fbf85">Intern Data Engineer - AI &amp; Analytics - 2027</a></td>

@@ -2,7 +2,7 @@
 
 # Backend Engineer
 
-**21 open roles.** 15 in the United States & Canada · 6 elsewhere in the world.
+**22 open roles.** 16 in the United States & Canada · 6 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TaskVerse</strong></td>
+<td><a href="https://trueinterview.io/jobs/459e891a-6b44-4f83-a9ac-ecb7a8ff12d3">BackEnd Developer Intern</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490023125/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Programmers.io</strong></td>
 <td><a href="https://trueinterview.io/jobs/af56ecb5-ee01-4569-b298-e625748dbf56">Intern/Junior Java Backend Developer – AI-Enabled Development</a></td>

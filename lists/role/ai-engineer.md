@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**215 open roles.** 144 in the United States & Canada · 71 elsewhere in the world.
+**217 open roles.** 146 in the United States & Canada · 71 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bloom Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f62e69d-6fa8-4560-bd95-2a14f294e638">AI Solutions Engineer Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490061377/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bose Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd2a6788-d0a8-4fdd-9a24-d769f3657048">Agentic AI Engineering Co-op – Active Noise Cancellation | Fall 2027</a></td>
+<td>Framingham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490053183/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>HUB International</strong></td>
 <td><a href="https://trueinterview.io/jobs/b46e9105-7c86-4e5b-9482-7652231ca02e">AI Engineering Intern</a></td>
