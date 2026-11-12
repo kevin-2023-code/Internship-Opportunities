@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T21:04:16.583Z",
-  "count": 3829,
+  "listingsChangedAt": "2026-11-12T23:04:12.100Z",
+  "count": 3827,
   "listings": [
     {
       "id": "94a70d1c-a4ea-4130-b9db-7bc2a0f1264d",
@@ -99470,59 +99470,6 @@
       "url": "https://trueinterview.io/jobs/15445053-6c9a-46bc-b8b0-27ff4e49edae",
       "postedAt": "2026-09-14T00:00:00.000Z",
       "updatedAt": "2026-09-14T00:00:00.000Z"
-    },
-    {
-      "id": "d3585062-c942-437c-9d3e-0cff66f1b406",
-      "company": "Base Power",
-      "title": "Supply Chain Tooling Engineer Intern",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/base-power/7fce3b16-c132-453b-a836-a3bcbd21abd2",
-      "url": "https://trueinterview.io/jobs/d3585062-c942-437c-9d3e-0cff66f1b406",
-      "postedAt": "2026-09-13T22:59:38.000Z",
-      "updatedAt": "2026-09-13T22:59:38.000Z"
-    },
-    {
-      "id": "1d525a0c-453f-4799-b56e-2dd1ae050754",
-      "company": "Formlabs",
-      "title": "Print Process Intern (Winter/Spring 2027)",
-      "locations": [
-        "Somerville, MA",
-        "Somerville, Massachusetts"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://careers.formlabs.com/job/8199269/apply/?gh_jid=8199269",
-      "url": "https://trueinterview.io/jobs/1d525a0c-453f-4799-b56e-2dd1ae050754",
-      "postedAt": "2026-09-13T22:54:53.000Z",
-      "updatedAt": "2026-09-13T22:54:53.000Z"
     }
   ]
 }
