@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**971 open roles.** 802 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
+**970 open roles.** 801 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CHAMP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6d2cb62-723d-4a28-93dd-f5e23f9942b5">Frontend Engineer Intern</a></td>
+<td>Cleveland, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490083223/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Minitab</strong></td>
 <td><a href="https://trueinterview.io/jobs/555d4a65-359b-40da-9f30-60bf8b395d28">Software Quality Engineer Intern</a></td>
@@ -272,17 +279,17 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Nexteer Automotive</strong></td>
+<td><a href="https://trueinterview.io/jobs/032dc722-4d46-4a5d-8417-d04a9c8bcf09">Robotics &amp; Physical AI Intern - Summer 2027</a></td>
+<td>Saginaw, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489977772/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>L3Harris Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/36c73011-9798-4b1a-8d4c-d526298ab70d">Software Engineer Intern</a></td>
 <td>Rochester, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472178464/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee">Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US</a></td>
-<td>Atlanta, GA<br/>Austin, TX<br/>Chicago, IL<br/>+25 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473566242/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -780,6 +787,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f32f8cf4-4fdc-4c18-a96b-f6fa60623e02">AI Engineering Intern (Remote)</a></td>
 <td>Fort Washington, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464603834/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sherwin-Williams</strong></td>
+<td><a href="https://trueinterview.io/jobs/88ad6eda-420a-4e42-983c-0ba4626f708c">2027 R&amp;D Product Engineering Co-Op</a></td>
+<td>Brecksville, OH, United States</td>
+<td align="center"><a href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2629003">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/818a90bf-e9c2-4fd0-af33-d807cc76091a">Research Scientist Intern, Monetization Ranking &amp; AI Foundations (PhD)</a></td>
 <td>Menlo Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486613503/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mill</strong></td>
-<td><a href="https://trueinterview.io/jobs/d705f70c-2fb6-4e17-8fc6-8bc51c6af747">Computer Vision Intern, Fall/Winter 2026</a></td>
-<td>San Bruno, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471614931/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>K2 Space Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3b028fa-77f3-4260-b302-b0dcd868bb91">Software Engineering Intern – Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

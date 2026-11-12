@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**12 open roles.** 11 in the United States & Canada · 1 elsewhere in the world.
+**13 open roles.** 12 in the United States & Canada · 1 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>CHAMP</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6d2cb62-723d-4a28-93dd-f5e23f9942b5">Frontend Engineer Intern</a></td>
+<td>Cleveland, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490083223/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/79183243-4f76-441b-a9c7-12fd035a3359">Frontend Engineer Intern (Global CRM) - 2027 Summer</a></td>

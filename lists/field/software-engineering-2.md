@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,754 open roles.** 1,410 in the United States & Canada · 344 elsewhere in the world.
+**1,755 open roles.** 1,411 in the United States & Canada · 344 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>DV Trading LLC</strong></td>
+<td><a href="https://trueinterview.io/jobs/00fb2f8e-b12d-44d0-81f4-0e77e8d3517a">Software Engineer Intern - Summer 2027 (DV Commodities)</a></td>
+<td>New York, NY<br/>London</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>GE HealthCare</strong></td>
 <td><a href="https://trueinterview.io/jobs/e6ff5444-8107-488c-92b6-07dbbf98f3fe">Edison Engineering Development Program Intern – Software</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/c1d37f65-8fdc-4223-8b64-8a912951e971">Engineering Lab Co-Op (Jan - August 2027)</a></td>
 <td>Anoka, MN</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4468299736/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TreeHouse Foods</strong></td>
-<td><a href="https://trueinterview.io/jobs/284f9cf8-b16c-45ab-a72f-ffe9db5c9191">Packaging Engineer Co-Op 2027</a></td>
-<td>Oak Brook, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465914036/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

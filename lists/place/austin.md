@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**91 open roles.**
+**90 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c620d903-a051-4def-bf52-30841f6c5d56">Robotics Software Intern, Manipulation &amp; Simulation</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490037494/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Jacobs</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee">Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US</a></td>
-<td>Austin, TX<br/>Atlanta, GA<br/>Chicago, IL<br/>+25 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473566242/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

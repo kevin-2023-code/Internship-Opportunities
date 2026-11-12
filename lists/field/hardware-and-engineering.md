@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**791 open roles.** 719 in the United States & Canada · 72 elsewhere in the world.
+**792 open roles.** 720 in the United States & Canada · 72 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -31,6 +31,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/be5b63f9-f3a4-4d43-9519-4fc15a6ea47d">Laser Firmware Intern - Summer 2027</a></td>
 <td>Boston, MA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5479596008?gh_jid=5479596008">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nexteer Automotive</strong></td>
+<td><a href="https://trueinterview.io/jobs/032dc722-4d46-4a5d-8417-d04a9c8bcf09">Robotics &amp; Physical AI Intern - Summer 2027</a></td>
+<td>Saginaw, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489977772/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b4f0bd73-3473-4279-aee3-231899a0b1b1">Intern - Design Engineer, Pathfinding</a></td>
 <td>San Jose, CA<br/>Folsom, CA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45050114">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/874aa698-ecc6-4e0c-a3b3-66c5b703f0ad">Intern - Machine Learning Engineering</a></td>
-<td>Richardson, TX, US</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/45050125">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

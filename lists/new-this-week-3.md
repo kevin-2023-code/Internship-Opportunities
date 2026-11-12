@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**971 open roles.** 802 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
+**970 open roles.** 801 in the United States & Canada · 169 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,17 +16,10 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>Trilogy Health Services, LLC</strong></td>
-<td><a href="https://trueinterview.io/jobs/bf6fb490-02d5-496e-b4a4-0743719dab76">Information Systems Developer of AI Intern</a></td>
-<td>Louisville, KY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487086276/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AECOM</strong></td>
-<td><a href="https://trueinterview.io/jobs/de79c6d4-f6be-4b42-bd49-19e41f5e0282">Highway Engineering Intern - Hiring Event with AECOM - Arlington, VA</a></td>
-<td>Roanoke, Virginia, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159540359-highway-engineering-intern-hiring-event-with-aecom-arlington-va">Apply</a></td>
+<td><strong>targetjobs UK</strong></td>
+<td><a href="https://trueinterview.io/jobs/f684ddeb-7a34-41ae-8033-42053f0f1c9e">Software Engineering Internship</a></td>
+<td>Dundee, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486341076/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

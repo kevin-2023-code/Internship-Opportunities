@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,754 open roles.** 1,410 in the United States & Canada · 344 elsewhere in the world.
+**1,755 open roles.** 1,411 in the United States & Canada · 344 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>RE/SPEC Inc</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e1d9774-103c-4956-8077-d2fa5308c86c">Student Engineering Intern - Water/Wastewater</a></td>
+<td>Denver, Colorado, United States<br/>Colorado Springs, Colorado, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000155793299-student-engineering-intern-water-wastewater">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Anduril</strong></td>
 <td><a href="https://trueinterview.io/jobs/a05c801d-0a91-4715-8fe4-9ffdca68afa5">Winter 2027 Research Engineer Co-op</a></td>
@@ -2818,13 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b80f087a-a9aa-44a3-a705-b0d11934a14d">Intern - SSD Assembly Process &amp; Equipment Engineering</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4466197791/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5a39d522-868c-40a8-bf10-62d732783458">Intern- Solutions Engineer</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466506637/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

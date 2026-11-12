@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,754 open roles.** 1,410 in the United States & Canada · 344 elsewhere in the world.
+**1,755 open roles.** 1,411 in the United States & Canada · 344 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TreeHouse Foods</strong></td>
+<td><a href="https://trueinterview.io/jobs/284f9cf8-b16c-45ab-a72f-ffe9db5c9191">Packaging Engineer Co-Op 2027</a></td>
+<td>Oak Brook, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465914036/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>WSP in the U.S.</strong></td>
 <td><a href="https://trueinterview.io/jobs/28000279-b0e4-45d4-b1ed-88eebf84db24">Overhead Transmission Line Design Engineering Intern - Summer 2027</a></td>
@@ -2806,13 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/d9e961a3-edcb-42a2-9d99-ea3e12e2e572">Full-Time Spring Engineering Co-op</a></td>
 <td>Erie, Pennsylvania, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016148986-full-time-spring-engineering-co-op">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RE/SPEC Inc</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e1d9774-103c-4956-8077-d2fa5308c86c">Student Engineering Intern - Water/Wastewater</a></td>
-<td>Denver, Colorado, United States<br/>Colorado Springs, Colorado, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000155793299-student-engineering-intern-water-wastewater">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
 </tbody>

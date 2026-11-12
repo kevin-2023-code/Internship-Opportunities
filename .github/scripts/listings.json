@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T02:06:25.392Z",
-  "count": 3690,
+  "listingsChangedAt": "2026-11-12T03:06:03.071Z",
+  "count": 3692,
   "listings": [
+    {
+      "id": "a6d2cb62-723d-4a28-93dd-f5e23f9942b5",
+      "company": "CHAMP",
+      "title": "Frontend Engineer Intern",
+      "locations": [
+        "Cleveland, OH"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490083223/",
+      "url": "https://trueinterview.io/jobs/a6d2cb62-723d-4a28-93dd-f5e23f9942b5",
+      "postedAt": "2026-11-12T01:59:00.000Z",
+      "updatedAt": "2026-11-12T01:59:00.000Z"
+    },
     {
       "id": "555d4a65-359b-40da-9f30-60bf8b395d28",
       "company": "Minitab",
@@ -984,6 +1009,31 @@
       "updatedAt": "2026-11-11T18:39:00.000Z"
     },
     {
+      "id": "032dc722-4d46-4a5d-8417-d04a9c8bcf09",
+      "company": "Nexteer Automotive",
+      "title": "Robotics & Physical AI Intern - Summer 2027",
+      "locations": [
+        "Saginaw, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489977772/",
+      "url": "https://trueinterview.io/jobs/032dc722-4d46-4a5d-8417-d04a9c8bcf09",
+      "postedAt": "2026-11-11T18:39:00.000Z",
+      "updatedAt": "2026-11-11T18:39:00.000Z"
+    },
+    {
       "id": "36c73011-9798-4b1a-8d4c-d526298ab70d",
       "company": "L3Harris Technologies",
       "title": "Software Engineer Intern",
@@ -1009,63 +1059,6 @@
       "updatedAt": "2026-11-11T17:54:00.000Z"
     },
     {
-      "id": "ba78ae80-c187-458b-b623-9eea9516d2ee",
-      "company": "Jacobs",
-      "title": "Society of Women Engineers ( SWE ) WE26 Conference Attendees (11/2026) Intern and Entry Level Positions - Locations across the US",
-      "locations": [
-        "Dallas, TX",
-        "Arlington, VA",
-        "Greenville, SC",
-        "Virginia Beach, VA",
-        "Atlanta, GA",
-        "Appleton, WI",
-        "Nashville, TN",
-        "Birmingham, AL",
-        "Charlotte, NC",
-        "Troy, MI",
-        "Austin, TX",
-        "Orlando, FL",
-        "St Louis, MO",
-        "Cary, NC",
-        "Tallahassee, FL",
-        "Indianapolis, IN",
-        "Gainesville, FL",
-        "Conshohocken, PA",
-        "Chicago, IL",
-        "Reston, VA",
-        "Boise, ID",
-        "Philadelphia, PA",
-        "San Antonio, TX",
-        "Henderson, NV",
-        "Boston, MA",
-        "Syracuse, NY",
-        "Corvallis, OR",
-        "San Diego, CA"
-      ],
-      "cities": [
-        "Atlanta, GA",
-        "Austin, TX",
-        "Chicago, IL",
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4473566242/",
-      "url": "https://trueinterview.io/jobs/ba78ae80-c187-458b-b623-9eea9516d2ee",
-      "postedAt": "2026-11-11T14:14:00.000Z",
-      "updatedAt": "2026-11-11T16:55:00.000Z"
-    },
-    {
       "id": "b1d8bfff-3f02-4162-85ed-44e58de09c37",
       "company": "Danfoss",
       "title": "Software Engineering Intern",
@@ -1077,9 +1070,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3886,6 +3879,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4464603834/",
       "url": "https://trueinterview.io/jobs/f32f8cf4-4fdc-4c18-a96b-f6fa60623e02",
+      "postedAt": "2026-11-11T00:00:00.000Z",
+      "updatedAt": "2026-11-11T00:00:00.000Z"
+    },
+    {
+      "id": "88ad6eda-420a-4e42-983c-0ba4626f708c",
+      "company": "Sherwin-Williams",
+      "title": "2027 R&D Product Engineering Co-Op",
+      "locations": [
+        "Brecksville, OH, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2629003",
+      "url": "https://trueinterview.io/jobs/88ad6eda-420a-4e42-983c-0ba4626f708c",
       "postedAt": "2026-11-11T00:00:00.000Z",
       "updatedAt": "2026-11-11T00:00:00.000Z"
     },
