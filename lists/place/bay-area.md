@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**527 open roles.**
+**528 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
+<td>San Jose, CA<br/>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d0b8b23-8059-4f82-8034-0645a17bbd04">Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4366561915/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/dfe3aac7-83e5-4431-8c8d-88d61e91b75f">Software Engineer, Intern (Summer)</a></td>
@@ -122,13 +143,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9295d5f-e825-408b-9984-3878b5c8ecfb">Search Security Strategy Operations Intern (TikTok-Platform Responsibility-Search) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452407941/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -1595,13 +1609,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2d0a6c5c-f69e-4f15-9a25-122aa605f8e4">Machine Learning Engineer Intern (E-Commerce Recommendation Video) - 2027 Start (PhD）</a></td>
-<td>San Jose, CA<br/>Seattle, WA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475724638/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>General Motors (GM)</strong></td>
 <td><a href="https://trueinterview.io/jobs/30321836-4a81-4f3c-8a83-9f1eacb2d985">2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</a></td>
 <td>Sunnyvale, CA</td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8dd98e81-5667-40c3-8969-f10ea80e2701">IT Engineer Intern (Early Careers Summer 2027)</a></td>
 <td>San Francisco, California, United States, San Francisco</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/affirm/jobs/8011375003">Apply</a></td>
-<td align="center">10 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Databricks</strong></td>
-<td><a href="https://trueinterview.io/jobs/e7f77de4-621d-409e-96a1-1fc7e52fd0b9">Evergreen  - Product Design Intern (2027 Start)</a></td>
-<td>San Francisco, California<br/>Seattle, Washington</td>
-<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjn2kthcy9n82taptxq8mm">Apply</a></td>
 <td align="center">10 Oct 2026</td>
 </tr>
 </tbody>

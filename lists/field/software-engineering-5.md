@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,771 open roles.** 1,418 in the United States & Canada · 353 elsewhere in the world.
+**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sea</strong></td>
+<td><a href="https://trueinterview.io/jobs/3f36788f-23c2-4ddf-a70e-3ba82d9817d1">Security Engineering Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458161095/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td><a href="https://trueinterview.io/jobs/6f506375-902c-4f52-890c-c15ce28ae683">SCADA &amp; IT/OT Engineering Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447998882/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f88c739-1708-4715-ba16-6c3cdf313393">Internship - Automation engineer (f/m/div)</a></td>
+<td>Villach, Carinthia, Austria</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484937520/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/db481369-b2da-4be1-bba0-b995dd57a93e">Failure Analysis Engineer Intern - Metal</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692157">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Infineon Technologies</strong></td>
 <td><a href="https://trueinterview.io/jobs/7c4f665d-3abb-46d9-a9a7-2ad540b22fc4">Internship - Equipment Integration &amp; Automation Engineer</a></td>

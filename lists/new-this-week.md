@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**959 open roles.** 797 in the United States & Canada · 162 elsewhere in the world. Everything the employers put up this week.
+**957 open roles.** 799 in the United States & Canada · 158 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe">Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452446548/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1">Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444576976/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/b629efc8-875f-4ba9-94cf-f4b0568ba711">Software Engineer Intern (Global E-commerce-Search) - 2027 Fall</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451415081/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d0b8b23-8059-4f82-8034-0645a17bbd04">Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4366561915/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/44308956-f63f-4adf-969e-88b9b8d643d5">Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448702780/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Aptiv</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac666995-269c-4f1c-9564-b060021e9264">Software Development Intern</a></td>
@@ -640,13 +689,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c9295d5f-e825-408b-9984-3878b5c8ecfb">Search Security Strategy Operations Intern (TikTok-Platform Responsibility-Search) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452407941/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -1868,13 +1910,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Art of Problem Solving</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
-<td>San Diego, California, United States</td>
-<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Tonic.ai</strong></td>
 <td><a href="https://trueinterview.io/jobs/57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d">Forward Deployed Engineer, Data De-Identification (Co-op)</a></td>
 <td>Remote</td>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a2618a9-83cf-42cc-987b-4f8f074417ed">Research Scientist Intern, AI Agents and Machine Learning (PhD)</a></td>
 <td>Sunnyvale, CA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486644763/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Ryan</strong></td>
-<td><a href="https://trueinterview.io/jobs/26e95e0f-3a22-49ef-a5e5-c273a4583a64">Summer 2027 Intern, Software Development</a></td>
-<td>Plano, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479636648/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Boehringer Ingelheim</strong></td>
-<td><a href="https://trueinterview.io/jobs/73986c78-5de0-44a9-8db3-850331fa6d4a">IT Co-Op - MLOps</a></td>
-<td>Ridgefield, CT</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472211417/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Tenaska</strong></td>
-<td><a href="https://trueinterview.io/jobs/8b2eac40-77e1-4f06-ae43-053cfe7d7d23">Software Engineering Intern</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4453276681/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Enterprise Fleet Management</strong></td>
-<td><a href="https://trueinterview.io/jobs/a5947745-1a75-4d86-a4a7-3cd97f1ebdac">Intern - Data Engineer (EFM IT), Summer 2027</a></td>
-<td>St Louis, MO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470000541/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Studio Alumbra</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4eb989a-f787-47f3-ae90-1945d9b26185">Website Developer Intern</a></td>
-<td>Greenville-Spartanburg-Anderson, South Carolina Area</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488743324/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

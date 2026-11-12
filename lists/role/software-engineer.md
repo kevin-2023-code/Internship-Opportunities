@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**534 open roles.** 432 in the United States & Canada · 102 elsewhere in the world.
+**536 open roles.** 434 in the United States & Canada · 102 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe">Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452446548/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b629efc8-875f-4ba9-94cf-f4b0568ba711">Software Engineer Intern (Global E-commerce-Search) - 2027 Fall</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451415081/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Aptiv</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac666995-269c-4f1c-9564-b060021e9264">Software Development Intern</a></td>
@@ -255,13 +283,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/4a8da347-d06d-465e-84fd-4858150231f7">Middleware Software Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -577,13 +598,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f9b27a3-c616-4d27-b1b7-3b180562977d">Software Development Spring Internship</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://jobs.uhaul.com/OpenJobs/JobDetail/R259167">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Art of Problem Solving</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
-<td>San Diego, California, United States</td>
-<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/c1d13ca9-f24e-44f8-bbba-6ca6c4730e88">Summer 2027 Internship - Software Engineering</a></td>
 <td>USA - New York NY</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/b7557d25-be50-4cf7-8928-93c1240d958b">Software Engineer Internship – Metadata Enablement Team</a></td>
-<td>Des Moines, Iowa, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000152679699-software-engineer-internship-metadata-enablement-team">Apply</a></td>
-<td align="center">30 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/de6796b4-a268-45d2-b7e1-8224d1dc663c">Software Development Engineer Intern, AWS Database - 2027 (US)</a></td>
-<td>Seattle, Washington, USA</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us">Apply</a></td>
 <td align="center">30 Sep 2026</td>
 </tr>
 </tbody>

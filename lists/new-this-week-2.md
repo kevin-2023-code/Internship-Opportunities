@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**959 open roles.** 797 in the United States & Canada · 162 elsewhere in the world. Everything the employers put up this week.
+**957 open roles.** 799 in the United States & Canada · 158 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ryan</strong></td>
+<td><a href="https://trueinterview.io/jobs/26e95e0f-3a22-49ef-a5e5-c273a4583a64">Summer 2027 Intern, Software Development</a></td>
+<td>Plano, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479636648/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Boehringer Ingelheim</strong></td>
+<td><a href="https://trueinterview.io/jobs/73986c78-5de0-44a9-8db3-850331fa6d4a">IT Co-Op - MLOps</a></td>
+<td>Ridgefield, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472211417/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tenaska</strong></td>
+<td><a href="https://trueinterview.io/jobs/8b2eac40-77e1-4f06-ae43-053cfe7d7d23">Software Engineering Intern</a></td>
+<td>Omaha, NE</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4453276681/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Enterprise Fleet Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/a5947745-1a75-4d86-a4a7-3cd97f1ebdac">Intern - Data Engineer (EFM IT), Summer 2027</a></td>
+<td>St Louis, MO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470000541/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Studio Alumbra</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4eb989a-f787-47f3-ae90-1945d9b26185">Website Developer Intern</a></td>
+<td>Greenville-Spartanburg-Anderson, South Carolina Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488743324/">Apply</a></td>
+<td align="center">7 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>York Space Systems</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e61ca80-a934-4b46-b9eb-93f028bc90f5">Flight Software Engineering Intern</a></td>
@@ -2773,27 +2808,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4441369974/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Rivian</strong></td>
-<td><a href="https://trueinterview.io/jobs/be57c8c4-6ead-46a2-845e-d9d66f82965b">Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)</a></td>
-<td>Plymouth, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469981991/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Medpace</strong></td>
-<td><a href="https://trueinterview.io/jobs/ca58a2a6-88bc-4295-af30-6b2c5bbc171e">Data Engineer Intern - Spring 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451463450/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5bd39372-7acb-4efc-8d64-ef01d1e2f7eb">Python Developer Internship - Summer 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4478180378/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/dc7eba51-9848-455d-b52a-1c78f29e53cd">Developer Technology Engineer Intern</a></td>
 <td>Tokyo, Japan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489095143/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/945cb3f7-80ef-4b8b-aabb-b9d56fe923c5">System Software Engineering Intern - 2027</a></td>
-<td>Helsinki, Uusimaa, Finland</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489099076/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/da1b70d8-a902-442c-b10b-d678bcc131cc">Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489079582/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

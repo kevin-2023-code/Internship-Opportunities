@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**534 open roles.** 432 in the United States & Canada · 102 elsewhere in the world.
+**536 open roles.** 434 in the United States & Canada · 102 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,20 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/b7557d25-be50-4cf7-8928-93c1240d958b">Software Engineer Internship – Metadata Enablement Team</a></td>
+<td>Des Moines, Iowa, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000152679699-software-engineer-internship-metadata-enablement-team">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td><a href="https://trueinterview.io/jobs/de6796b4-a268-45d2-b7e1-8224d1dc663c">Software Development Engineer Intern, AWS Database - 2027 (US)</a></td>
+<td>Seattle, Washington, USA</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us">Apply</a></td>
+<td align="center">30 Sep 2026</td>
+</tr>
 <tr>
 <td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ac8caa1-c1f5-4fff-af6d-67b4d6fc7208">Software Engineer Internship – Marketing and Digital Team</a></td>

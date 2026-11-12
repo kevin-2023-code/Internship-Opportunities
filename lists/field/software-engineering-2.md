@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,771 open roles.** 1,418 in the United States & Canada · 353 elsewhere in the world.
+**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>BorgWarner</strong></td>
+<td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
+<td>Auburn Hills, Michigan, United States</td>
+<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Moog Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
+<td>Torrance, California, United States</td>
+<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Smith+Nephew</strong></td>
+<td><a href="https://trueinterview.io/jobs/85c58ce9-ebea-48d5-9889-733bf9c04caa">Intern Robotics Software Engineering</a></td>
+<td>Pittsburgh, PA<br/>Pittsburgh, Pennsylvania, United States</td>
+<td align="center"><a href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/03b998d0-cbc6-46a3-90e4-8d9c3793c5d1">Software Engineer Intern (Multiple Levels) - 30069</a></td>
+<td>Columbia, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460637104/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Figma</strong></td>
 <td><a href="https://trueinterview.io/jobs/0a81483d-9f3d-4f80-ad6d-b297969ad12d">PhD Intern, Software Engineer - Graphics (2027)</a></td>
@@ -2778,41 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/269c50e8-8669-44cd-9df7-4280e2b59581">Controls Engineering Intern/Co-Op</a></td>
 <td>Salt Lake City, UT<br/>Wauwatosa, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456954153/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Kiewit</strong></td>
-<td><a href="https://trueinterview.io/jobs/f8ebdfca-c03e-46f2-8491-b5d0b2212d3f">Drainage Engineer Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
-<td>Lone Tree, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467118703/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>South Jersey Industries</strong></td>
-<td><a href="https://trueinterview.io/jobs/7ac43e71-c200-45e8-976d-5902998d6872">Renewable Energy Engineering Process Safety Documentation Intern</a></td>
-<td>Folsom, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476934981/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
-<td>Holland, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/fc731646-0b5f-4d59-8125-9a741cea6751">Test Engineering Intern</a></td>
-<td>Norman, OK</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970440/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

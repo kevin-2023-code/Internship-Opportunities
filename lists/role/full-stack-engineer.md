@@ -2,7 +2,7 @@
 
 # Full-Stack Engineer
 
-**34 open roles.** 25 in the United States & Canada · 9 elsewhere in the world.
+**35 open roles.** 26 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/44308956-f63f-4adf-969e-88b9b8d643d5">Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448702780/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Elire</strong></td>
 <td><a href="https://trueinterview.io/jobs/8916cae3-df73-42be-8bc9-5ec16a149778">Summer 2027 AI Full Stack Developer Consulting Intern</a></td>

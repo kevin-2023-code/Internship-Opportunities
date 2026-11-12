@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**108 open roles.**
+**112 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe">Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452446548/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1">Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444576976/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/b629efc8-875f-4ba9-94cf-f4b0568ba711">Software Engineer Intern (Global E-commerce-Search) - 2027 Fall</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451415081/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/44308956-f63f-4adf-969e-88b9b8d643d5">Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448702780/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Stripe</strong></td>
 <td><a href="https://trueinterview.io/jobs/dfe3aac7-83e5-4431-8c8d-88d61e91b75f">Software Engineer, Intern (Summer)</a></td>
@@ -421,13 +456,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/91eb6e2b-c461-452c-a2b7-44d85c42cfff">Research Intern - Machine Learning and Optimization - Redmond</a></td>
 <td>Redmond, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484975613/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d0a6c5c-f69e-4f15-9a25-122aa605f8e4">Machine Learning Engineer Intern (E-Commerce Recommendation Video) - 2027 Start (PhD）</a></td>
-<td>Seattle, WA<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475724638/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

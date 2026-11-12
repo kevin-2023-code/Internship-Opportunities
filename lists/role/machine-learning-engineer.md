@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1">Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444576976/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Riot Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/f798d973-b9d4-460f-a321-0cd515bcea7c">Machine Learning Engineering Intern (Masters/PhD) - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
@@ -708,13 +715,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fd0fb8ae-1324-4281-99e3-cbb632720e13">2027 Summer Internship - Machine Learning Engineer</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465922830/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/2d0a6c5c-f69e-4f15-9a25-122aa605f8e4">Machine Learning Engineer Intern (E-Commerce Recommendation Video) - 2027 Start (PhD）</a></td>
-<td>Seattle, WA<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475724638/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>

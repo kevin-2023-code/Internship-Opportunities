@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**527 open roles.**
+**528 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Databricks</strong></td>
+<td><a href="https://trueinterview.io/jobs/e7f77de4-621d-409e-96a1-1fc7e52fd0b9">Evergreen  - Product Design Intern (2027 Start)</a></td>
+<td>San Francisco, California<br/>Seattle, Washington</td>
+<td align="center"><a href="https://www.1point3acres.com/jobs/01m4hjn2kthcy9n82taptxq8mm">Apply</a></td>
+<td align="center">10 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Applied Materials</strong></td>
 <td><a href="https://trueinterview.io/jobs/bb680290-ed8f-443e-b64c-30fadf262d4b">2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara)</a></td>

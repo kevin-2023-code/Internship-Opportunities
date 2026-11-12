@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**110 open roles.** 93 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**112 open roles.** 95 in the United States & Canada · 17 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe">Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452446548/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1">Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444576976/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Meta</strong></td>
 <td><a href="https://trueinterview.io/jobs/72c6f234-718a-42a9-a3f9-2f73777b49f0">Research Intern — Neural Network Training and Hardware–Software Co-Design</a></td>

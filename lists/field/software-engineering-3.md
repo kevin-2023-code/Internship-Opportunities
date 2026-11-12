@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,771 open roles.** 1,418 in the United States & Canada · 353 elsewhere in the world.
+**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kiewit</strong></td>
+<td><a href="https://trueinterview.io/jobs/f8ebdfca-c03e-46f2-8491-b5d0b2212d3f">Drainage Engineer Intern - Kiewit Infrastructure Engineers (Fall 2026)</a></td>
+<td>Lone Tree, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467118703/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>South Jersey Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/7ac43e71-c200-45e8-976d-5902998d6872">Renewable Energy Engineering Process Safety Documentation Intern</a></td>
+<td>Folsom, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476934981/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>JR Automation</strong></td>
+<td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
+<td>Holland, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/fc731646-0b5f-4d59-8125-9a741cea6751">Test Engineering Intern</a></td>
+<td>Norman, OK</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484970440/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>GAF</strong></td>
 <td><a href="https://trueinterview.io/jobs/9b2a365f-62d4-4735-b602-1799b47fe16c">Project Engineer Co-Op</a></td>
@@ -2779,41 +2814,6 @@
 <td>Sunnyvale, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/doordashusa/jobs/8273965">Apply</a></td>
 <td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/a6a1b39a-700c-4760-8232-71b83b260bd7">Software Engineering Co-Op - Spring 2027</a></td>
-<td>Fountain Inn, South Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156311682-software-engineering-co-op-spring-2027">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Clean Harbors</strong></td>
-<td><a href="https://trueinterview.io/jobs/04cef858-86c4-4291-a5f1-2576f4250b74">Facility Engineer Intern - Summer 2027</a></td>
-<td>Kingsland, GA, United States</td>
-<td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167233">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/69e59dd4-761d-4b54-b46a-e4db7273a13b">Mechanical Project Engineer Intern - Summer 2027</a></td>
-<td>Dugway, UT, United States</td>
-<td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167236">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Qorvo</strong></td>
-<td><a href="https://trueinterview.io/jobs/01db267e-c9b1-44fb-8983-bb5f9be34c80">Data Engineering Intern</a></td>
-<td>Bend, Oregon, United States</td>
-<td align="center"><a href="https://careers.qorvo.com/job/Bend-Data-Engineering-Intern-OR-97703/1431485300/">Apply</a></td>
-<td align="center">17 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f3f4ca6-7017-462c-85f4-ec12968ac892">Software Engineer Internship – Technology Health Plan</a></td>
-<td>Des Moines, Iowa, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000156043218-software-engineer-internship-technology-health-plan">Apply</a></td>
-<td align="center">16 Oct 2026</td>
 </tr>
 </tbody>
 </table>

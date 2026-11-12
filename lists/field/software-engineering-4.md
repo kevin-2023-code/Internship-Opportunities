@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,771 open roles.** 1,418 in the United States & Canada · 353 elsewhere in the world.
+**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6a1b39a-700c-4760-8232-71b83b260bd7">Software Engineering Co-Op - Spring 2027</a></td>
+<td>Fountain Inn, South Carolina, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156311682-software-engineering-co-op-spring-2027">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clean Harbors</strong></td>
+<td><a href="https://trueinterview.io/jobs/04cef858-86c4-4291-a5f1-2576f4250b74">Facility Engineer Intern - Summer 2027</a></td>
+<td>Kingsland, GA, United States</td>
+<td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167233">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/69e59dd4-761d-4b54-b46a-e4db7273a13b">Mechanical Project Engineer Intern - Summer 2027</a></td>
+<td>Dugway, UT, United States</td>
+<td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167236">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Qorvo</strong></td>
+<td><a href="https://trueinterview.io/jobs/01db267e-c9b1-44fb-8983-bb5f9be34c80">Data Engineering Intern</a></td>
+<td>Bend, Oregon, United States</td>
+<td align="center"><a href="https://careers.qorvo.com/job/Bend-Data-Engineering-Intern-OR-97703/1431485300/">Apply</a></td>
+<td align="center">17 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f3f4ca6-7017-462c-85f4-ec12968ac892">Software Engineer Internship – Technology Health Plan</a></td>
+<td>Des Moines, Iowa, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000156043218-software-engineer-internship-technology-health-plan">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Kepler Communications Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/3a7008c6-6aba-4bb3-b034-22d707e97c18">Software Engineering Intern (January 2027)</a></td>
@@ -1785,13 +1820,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Sea</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a1abe49-8e0b-4b96-a372-f38ad5e1238e">IT Security Intern (6 months)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439812061/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Brex</strong></td>
 <td><a href="https://trueinterview.io/jobs/4516dba7-1a70-436b-b62a-db0deb1128bc">Software Engineer, Internship - 2027</a></td>
 <td>São Paulo, São Paulo, Brazil</td>
@@ -2797,34 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/11039550-a737-46af-b162-e42678fc438a">Internship - High Speed and RF LAB Validation Engineer in Development Center Villach (f/m/div)</a></td>
 <td>Villach, Carinthia, Austria</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4424710494/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Sea</strong></td>
-<td><a href="https://trueinterview.io/jobs/3f36788f-23c2-4ddf-a70e-3ba82d9817d1">Security Engineering Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4458161095/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/6f506375-902c-4f52-890c-c15ce28ae683">SCADA &amp; IT/OT Engineering Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447998882/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Infineon Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f88c739-1708-4715-ba16-6c3cdf313393">Internship - Automation engineer (f/m/div)</a></td>
-<td>Villach, Carinthia, Austria</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484937520/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Apple</strong></td>
-<td><a href="https://trueinterview.io/jobs/db481369-b2da-4be1-bba0-b995dd57a93e">Failure Analysis Engineer Intern - Metal</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://jobs.apple.com/en-us/details/200692157">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**742 open roles.** 549 in the United States & Canada · 193 elsewhere in the world.
+**741 open roles.** 548 in the United States & Canada · 193 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2610,13 +2610,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">29 Oct 2026</td>
 </tr>
 <tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2d0a6c5c-f69e-4f15-9a25-122aa605f8e4">Machine Learning Engineer Intern (E-Commerce Recommendation Video) - 2027 Start (PhD）</a></td>
-<td>Seattle, WA<br/>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4475724638/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>HDR</strong></td>
 <td><a href="https://trueinterview.io/jobs/71eb882d-3fe8-4b16-947b-9989c02c9214">Data Science Intern (Summer 2027)</a></td>
 <td>Omaha, NE</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3d5bb824-89f6-442c-b96d-08c1fd231e92">AI Engineer Intern</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482096384/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CCC Intelligent Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e46af2b-cc80-4f49-8427-00065799420e">Data Science and AI Internship Interest | Resume Review and Open House</a></td>
+<td>Chicago, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496772/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 </tbody>

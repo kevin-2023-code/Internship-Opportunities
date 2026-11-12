@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**959 open roles.** 797 in the United States & Canada · 162 elsewhere in the world. Everything the employers put up this week.
+**957 open roles.** 799 in the United States & Canada · 158 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,6 +17,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/945cb3f7-80ef-4b8b-aabb-b9d56fe923c5">System Software Engineering Intern - 2027</a></td>
+<td>Helsinki, Uusimaa, Finland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489099076/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/da1b70d8-a902-442c-b10b-d678bcc131cc">Technical Program Manager, Deep Learning Enterprise Server Software (RDSS Intern)</a></td>
+<td>Taipei, Taipei City, Taiwan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489079582/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Sea</strong></td>
 <td><a href="https://trueinterview.io/jobs/c1c61f9b-3970-4ce1-9379-2515bb79e83d">Security Operations Intern</a></td>
@@ -421,13 +435,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ba0363f6-91ed-4664-931e-67441a1a93e9">Internship 2026, Technical Engineering in Industrial Engineering, Chassis System (RBTY/BPS)</a></td>
 <td>Amata City Rayong Industrial Estate, RAYONG, Thailand</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000160793209-internship-2026-technical-engineering-in-industrial-engineering-chassis-system-rbty-bps-">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sea</strong></td>
-<td><a href="https://trueinterview.io/jobs/7a1abe49-8e0b-4b96-a372-f38ad5e1238e">IT Security Intern (6 months)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4439812061/">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -1107,27 +1114,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/db199445-0a8c-4eb8-b125-43efee7b890f">Undergraduate Placement Year 2027 – Manufacturing Engineering Intern</a></td>
 <td>Chesterfield, England, United Kingdom</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159609659-undergraduate-placement-year-2027-manufacturing-engineering-intern">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Optiver</strong></td>
-<td><a href="https://trueinterview.io/jobs/58583ed9-0dcc-4645-b152-104354969d2c">Quantitative Trading Internship (Summer 2027 - Shanghai)</a></td>
-<td>Shanghai, Shanghai, China</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467603402/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/5a79bfe8-99f6-4b26-835c-6813bb97226d">Quantitative Trading Internship (Taiwan) - 2027</a></td>
-<td>Taipei, Taipei City, Taiwan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467389756/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Roku</strong></td>
-<td><a href="https://trueinterview.io/jobs/6ba5009c-0bfb-4bd4-b72f-70aa59583577">AI Engineering Internship Program (Summer 2027)</a></td>
-<td>Manchester, United Kingdom<br/>Cambridge, United Kingdom</td>
-<td align="center"><a href="https://www.weareroku.com/jobs/8345954?gh_jid=8345954">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>

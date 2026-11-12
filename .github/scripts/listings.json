@@ -5,9 +5,200 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T10:04:49.727Z",
-  "count": 3716,
+  "listingsChangedAt": "2026-11-12T11:04:25.668Z",
+  "count": 3719,
   "listings": [
+    {
+      "id": "b48c7a28-7165-4a21-8303-629583489bfe",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4452446548/",
+      "url": "https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe",
+      "postedAt": "2026-11-12T10:25:00.000Z",
+      "updatedAt": "2026-11-12T10:25:00.000Z"
+    },
+    {
+      "id": "2a0d01ec-d43f-4498-aacc-435ec4c9a5f6",
+      "company": "TikTok",
+      "title": "Software Development Engineer Intern (Global E-Commerce - Quality Platform & AI Test Automation) - 2027 Summer",
+      "locations": [
+        "Seattle, WA",
+        "San Jose, CA"
+      ],
+      "cities": [
+        "Seattle, WA",
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4446288143/",
+      "url": "https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6",
+      "postedAt": "2026-11-12T10:03:00.000Z",
+      "updatedAt": "2026-11-12T10:11:00.000Z"
+    },
+    {
+      "id": "e2600808-7e62-4761-875c-1a6e98f8d855",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4343679484/",
+      "url": "https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855",
+      "postedAt": "2026-11-11T10:25:00.000Z",
+      "updatedAt": "2026-11-12T10:11:00.000Z"
+    },
+    {
+      "id": "38298b7a-fe94-403d-8527-74a7b9211fa1",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4444576976/",
+      "url": "https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1",
+      "postedAt": "2026-11-12T10:10:00.000Z",
+      "updatedAt": "2026-11-12T10:10:00.000Z"
+    },
+    {
+      "id": "b629efc8-875f-4ba9-94cf-f4b0568ba711",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Fall",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4451415081/",
+      "url": "https://trueinterview.io/jobs/b629efc8-875f-4ba9-94cf-f4b0568ba711",
+      "postedAt": "2026-11-12T10:08:00.000Z",
+      "updatedAt": "2026-11-12T10:08:00.000Z"
+    },
+    {
+      "id": "2d0b8b23-8059-4f82-8034-0645a17bbd04",
+      "company": "TikTok",
+      "title": "Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4366561915/",
+      "url": "https://trueinterview.io/jobs/2d0b8b23-8059-4f82-8034-0645a17bbd04",
+      "postedAt": "2026-11-12T09:46:00.000Z",
+      "updatedAt": "2026-11-12T09:46:00.000Z"
+    },
+    {
+      "id": "44308956-f63f-4adf-969e-88b9b8d643d5",
+      "company": "TikTok",
+      "title": "Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448702780/",
+      "url": "https://trueinterview.io/jobs/44308956-f63f-4adf-969e-88b9b8d643d5",
+      "postedAt": "2026-11-12T09:34:00.000Z",
+      "updatedAt": "2026-11-12T09:34:00.000Z"
+    },
     {
       "id": "ac666995-269c-4f1c-9564-b060021e9264",
       "company": "Aptiv",
@@ -2830,33 +3021,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4452407941/",
       "url": "https://trueinterview.io/jobs/c9295d5f-e825-408b-9984-3878b5c8ecfb",
       "postedAt": "2026-11-11T12:14:00.000Z",
-      "updatedAt": "2026-11-11T12:14:00.000Z"
-    },
-    {
-      "id": "e2600808-7e62-4761-875c-1a6e98f8d855",
-      "company": "TikTok",
-      "title": "Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4343679484/",
-      "url": "https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855",
-      "postedAt": "2026-11-11T10:25:00.000Z",
       "updatedAt": "2026-11-11T12:14:00.000Z"
     },
     {
@@ -8071,33 +8235,6 @@
       "updatedAt": "2026-11-10T04:24:52.000Z"
     },
     {
-      "id": "7a1abe49-8e0b-4b96-a372-f38ad5e1238e",
-      "company": "Sea",
-      "title": "IT Security Intern (6 months)",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4439812061/",
-      "url": "https://trueinterview.io/jobs/7a1abe49-8e0b-4b96-a372-f38ad5e1238e",
-      "postedAt": "2026-11-10T04:13:00.000Z",
-      "updatedAt": "2026-11-10T04:13:00.000Z"
-    },
-    {
       "id": "cd6ac5b5-7a58-4599-9208-62458e6d9d14",
       "company": "Marketeq Talent",
       "title": "UX Design Research Intern ( U.S.A Only )",
@@ -8456,32 +8593,6 @@
       "url": "https://trueinterview.io/jobs/7f9b27a3-c616-4d27-b1b7-3b180562977d",
       "postedAt": "2026-11-10T00:16:00.000Z",
       "updatedAt": "2026-11-10T00:16:00.000Z"
-    },
-    {
-      "id": "a7992695-719d-4557-86ff-66e101842143",
-      "company": "Art of Problem Solving",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "San Diego, California, United States",
-        "San Diego, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003",
-      "url": "https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143",
-      "postedAt": "2026-11-09T19:29:40.000Z",
-      "updatedAt": "2026-11-10T00:14:00.000Z"
     },
     {
       "id": "57d2edf1-56ea-4e3f-923f-0a5ed5f9fe4d",
@@ -52524,34 +52635,6 @@
       "url": "https://trueinterview.io/jobs/982fec4e-617b-437e-8b29-c0a32db1f0ea",
       "postedAt": "2026-10-29T10:20:00.000Z",
       "updatedAt": "2026-10-29T10:20:00.000Z"
-    },
-    {
-      "id": "2d0a6c5c-f69e-4f15-9a25-122aa605f8e4",
-      "company": "TikTok",
-      "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Video) - 2027 Start (PhD）",
-      "locations": [
-        "Seattle, WA",
-        "San Jose, CA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4475724638/",
-      "url": "https://trueinterview.io/jobs/2d0a6c5c-f69e-4f15-9a25-122aa605f8e4",
-      "postedAt": "2026-10-29T09:49:00.000Z",
-      "updatedAt": "2026-10-29T10:12:00.000Z"
     },
     {
       "id": "718464d5-367f-4c00-8fac-c8801b46147d",

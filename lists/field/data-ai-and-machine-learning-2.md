@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**742 open roles.** 549 in the United States & Canada · 193 elsewhere in the world.
+**741 open roles.** 548 in the United States & Canada · 193 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>CCC Intelligent Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/0e46af2b-cc80-4f49-8427-00065799420e">Data Science and AI Internship Interest | Resume Review and Open House</a></td>
-<td>Chicago, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484496772/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/529f86f2-8a64-43ff-baa9-10ecac3362f7">Financial Business Intelligence &amp; Analytics Internship Interest | Resume Review and Open House</a></td>
 <td>Chicago, IL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484707456/">Apply</a></td>

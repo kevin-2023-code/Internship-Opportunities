@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,771 open roles.** 1,418 in the United States & Canada · 353 elsewhere in the world.
+**1,775 open roles.** 1,423 in the United States & Canada · 352 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/b48c7a28-7165-4a21-8303-629583489bfe">Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4452446548/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6">Software Development Engineer Intern (Global E-Commerce - Quality Platform &amp; AI Test Automation) - 2027 Summer</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446288143/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1">Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4444576976/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/b629efc8-875f-4ba9-94cf-f4b0568ba711">Software Engineer Intern (Global E-commerce-Search) - 2027 Fall</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451415081/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2d0b8b23-8059-4f82-8034-0645a17bbd04">Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4366561915/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/44308956-f63f-4adf-969e-88b9b8d643d5">Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
+<td>Seattle, WA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448702780/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Aptiv</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac666995-269c-4f1c-9564-b060021e9264">Software Development Intern</a></td>
@@ -423,13 +472,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f4fa0f8c-1651-433e-b57a-7e1bd2e94bef">AI Paid Intern ( full time or part time)</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489697088/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/e2600808-7e62-4761-875c-1a6e98f8d855">Software Engineer Project Intern (Model Infrastructure) - 2026 Start (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4343679484/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -1074,13 +1116,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7f9b27a3-c616-4d27-b1b7-3b180562977d">Software Development Spring Internship</a></td>
 <td>Phoenix, AZ</td>
 <td align="center"><a href="https://jobs.uhaul.com/OpenJobs/JobDetail/R259167">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Art of Problem Solving</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7992695-719d-4557-86ff-66e101842143">Software Engineering Intern</a></td>
-<td>San Diego, California, United States</td>
-<td align="center"><a href="https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 <tr>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6b573236-b813-4b7f-84f3-9ea2e887f24c">Full-Stack Developer Intern</a></td>
 <td>Leesburg, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487534251/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BorgWarner</strong></td>
-<td><a href="https://trueinterview.io/jobs/01b45980-969a-449e-ae95-e4914ddd5bc5">Software Engineering Intern (Year-Round)</a></td>
-<td>Auburn Hills, Michigan, United States</td>
-<td align="center"><a href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Moog Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/32f1a21b-0554-4a5f-b3c3-cd911ab72212">Intern, Software Engineering</a></td>
-<td>Torrance, California, United States</td>
-<td align="center"><a href="https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Smith+Nephew</strong></td>
-<td><a href="https://trueinterview.io/jobs/85c58ce9-ebea-48d5-9889-733bf9c04caa">Intern Robotics Software Engineering</a></td>
-<td>Pittsburgh, PA<br/>Pittsburgh, Pennsylvania, United States</td>
-<td align="center"><a href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Etched</strong></td>
-<td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Mission Technologies, a division of HII</strong></td>
-<td><a href="https://trueinterview.io/jobs/03b998d0-cbc6-46a3-90e4-8d9c3793c5d1">Software Engineer Intern (Multiple Levels) - 30069</a></td>
-<td>Columbia, MD</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460637104/">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 </tbody>
