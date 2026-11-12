@@ -5,9 +5,137 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T19:04:31.017Z",
-  "count": 3812,
+  "listingsChangedAt": "2026-11-12T20:04:38.279Z",
+  "count": 3829,
   "listings": [
+    {
+      "id": "94a70d1c-a4ea-4130-b9db-7bc2a0f1264d",
+      "company": "Lockheed Martin",
+      "title": "AI/ML Engineering Intern - Summer 2027",
+      "locations": [
+        "King of Prussia, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488549933/",
+      "url": "https://trueinterview.io/jobs/94a70d1c-a4ea-4130-b9db-7bc2a0f1264d",
+      "postedAt": "2026-11-12T19:18:00.000Z",
+      "updatedAt": "2026-11-12T19:23:00.000Z"
+    },
+    {
+      "id": "567418ff-c1b9-47d3-8c9d-6a351acb4737",
+      "company": "Lockheed Martin",
+      "title": "AI Research Engineer Intern",
+      "locations": [
+        "Alabama, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488548852/",
+      "url": "https://trueinterview.io/jobs/567418ff-c1b9-47d3-8c9d-6a351acb4737",
+      "postedAt": "2026-11-12T19:12:00.000Z",
+      "updatedAt": "2026-11-12T19:12:00.000Z"
+    },
+    {
+      "id": "6c25a2f2-b3eb-4352-b3ed-ed5266e12a20",
+      "company": "Arm",
+      "title": "Intern, Research Scientist, AI",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489298069/",
+      "url": "https://trueinterview.io/jobs/6c25a2f2-b3eb-4352-b3ed-ed5266e12a20",
+      "postedAt": "2026-11-12T18:50:00.000Z",
+      "updatedAt": "2026-11-12T18:50:00.000Z"
+    },
+    {
+      "id": "19108cf8-d8b6-4fa7-b3b6-29507b511ddf",
+      "company": "TotalEnergies",
+      "title": "Power Performance Quantitative Intern",
+      "locations": [
+        "Houston, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Quantitative Finance",
+      "family": "Quantitative Finance",
+      "role": "Quantitative Developer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4478709349/",
+      "url": "https://trueinterview.io/jobs/19108cf8-d8b6-4fa7-b3b6-29507b511ddf",
+      "postedAt": "2026-11-12T18:50:00.000Z",
+      "updatedAt": "2026-11-12T18:50:00.000Z"
+    },
+    {
+      "id": "a2fe442e-4b05-45ad-ba1f-a1b10d15f927",
+      "company": "Bask Health",
+      "title": "AI Engineering Intern",
+      "locations": [
+        "United States",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/D493DA5EB5",
+      "url": "https://trueinterview.io/jobs/a2fe442e-4b05-45ad-ba1f-a1b10d15f927",
+      "postedAt": "2026-11-12T18:18:03.000Z",
+      "updatedAt": "2026-11-12T18:18:03.000Z"
+    },
     {
       "id": "af8c609f-ff98-43ef-93d1-ee80f6dc49d8",
       "company": "Honeywell Technologies",
@@ -234,7 +362,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490363551/",
+      "applyUrl": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870",
       "url": "https://trueinterview.io/jobs/bb1501ee-7b8c-4121-9fe9-3c7e27206437",
       "postedAt": "2026-11-12T16:46:00.000Z",
       "updatedAt": "2026-11-12T16:46:00.000Z"
@@ -334,7 +462,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488538227/",
+      "applyUrl": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
       "url": "https://trueinterview.io/jobs/aa17f0d7-e2eb-4453-a117-eedf1af7842f",
       "postedAt": "2026-11-12T16:19:00.000Z",
       "updatedAt": "2026-11-12T16:19:00.000Z"
@@ -3554,6 +3682,109 @@
       "updatedAt": "2026-11-12T06:13:00.000Z"
     },
     {
+      "id": "e11ff9d8-373f-4b7c-be27-6334ad4f2f7a",
+      "company": "CareSource",
+      "title": "2027 Summer Internship Program - Software Engineer",
+      "locations": [
+        "Remote",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "remote",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://caresource.wd1.myworkdayjobs.com/en-US/CareSource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136",
+      "url": "https://trueinterview.io/jobs/e11ff9d8-373f-4b7c-be27-6334ad4f2f7a",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "73493686-d982-4f46-8667-883a245e7fa4",
+      "company": "PTC",
+      "title": "Onshape Site Reliability Engineering Intern (Summer 2027)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
+      "url": "https://trueinterview.io/jobs/73493686-d982-4f46-8667-883a245e7fa4",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "8669c5fc-0726-41f3-a1bd-af8d628af896",
+      "company": "SK hynix memory solutions",
+      "title": "Embedded Software Engineer Intern",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/olytkm6a9us",
+      "url": "https://trueinterview.io/jobs/8669c5fc-0726-41f3-a1bd-af8d628af896",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "13fe7ec0-1c21-45c8-adf0-fcae63121e99",
+      "company": "Walmart",
+      "title": "Summer 2027 Corporate Intern: APD Automation Engineer",
+      "locations": [
+        "Bentonville, AR"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=112ea09e47701dc7",
+      "url": "https://trueinterview.io/jobs/13fe7ec0-1c21-45c8-adf0-fcae63121e99",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
       "id": "ed4fb42d-9a86-4934-b0ee-3b43eee834a3",
       "company": "Collins Aerospace",
       "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
@@ -4574,7 +4805,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490046076/",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179",
       "url": "https://trueinterview.io/jobs/09907012-5bce-439f-9c97-fa85f838153d",
       "postedAt": "2026-11-11T22:43:00.000Z",
       "updatedAt": "2026-11-11T22:43:00.000Z"
@@ -4626,7 +4857,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490035479/",
+      "applyUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1",
       "url": "https://trueinterview.io/jobs/b0f9d57f-04e6-4771-85c9-d4f746c0c300",
       "postedAt": "2026-11-11T22:41:00.000Z",
       "updatedAt": "2026-11-11T22:41:00.000Z"
@@ -4788,6 +5019,32 @@
       "updatedAt": "2026-11-11T21:03:40.000Z"
     },
     {
+      "id": "3f2aabfe-692d-4db9-9f02-daec8ddfa0d8",
+      "company": "Bask Health",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "United States",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/7D927CB619",
+      "url": "https://trueinterview.io/jobs/3f2aabfe-692d-4db9-9f02-daec8ddfa0d8",
+      "postedAt": "2026-11-11T20:53:35.000Z",
+      "updatedAt": "2026-11-11T20:53:35.000Z"
+    },
+    {
       "id": "86689ed9-c6c3-4b4b-96de-2ba75d700999",
       "company": "Numa",
       "title": "Solutions Engineer Intern",
@@ -4809,6 +5066,32 @@
       "url": "https://trueinterview.io/jobs/86689ed9-c6c3-4b4b-96de-2ba75d700999",
       "postedAt": "2026-11-11T20:38:04.000Z",
       "updatedAt": "2026-11-11T20:38:04.000Z"
+    },
+    {
+      "id": "840fd08c-a8ae-43bd-b805-7af9957bbb0c",
+      "company": "Bask Health",
+      "title": "Product Engineering Intern",
+      "locations": [
+        "United States",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/4B6FCDB473",
+      "url": "https://trueinterview.io/jobs/840fd08c-a8ae-43bd-b805-7af9957bbb0c",
+      "postedAt": "2026-11-11T20:28:25.000Z",
+      "updatedAt": "2026-11-11T20:28:25.000Z"
     },
     {
       "id": "026f877d-9e80-46e9-9f94-cf065fca9b52",
@@ -4861,6 +5144,32 @@
       "url": "https://trueinterview.io/jobs/72c6f234-718a-42a9-a3f9-2f73777b49f0",
       "postedAt": "2026-11-11T19:37:00.000Z",
       "updatedAt": "2026-11-11T19:37:00.000Z"
+    },
+    {
+      "id": "270c4e2c-16be-4f07-99d0-4fd00314483b",
+      "company": "Bask Health",
+      "title": "Backend Engineering Intern",
+      "locations": [
+        "United States",
+        "Remote"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "remote",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://apply.workable.com/j/82FEDB84F7",
+      "url": "https://trueinterview.io/jobs/270c4e2c-16be-4f07-99d0-4fd00314483b",
+      "postedAt": "2026-11-11T19:33:36.000Z",
+      "updatedAt": "2026-11-11T19:33:36.000Z"
     },
     {
       "id": "9ee9666a-5774-405f-b498-9a98bf12949a",
@@ -5141,7 +5450,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489977772/",
+      "applyUrl": "https://jobs.nexteer.com/job/Saginaw-Robotics-&-Physical-AI-Intern-Summer-2027-MI/1449780500/",
       "url": "https://trueinterview.io/jobs/032dc722-4d46-4a5d-8417-d04a9c8bcf09",
       "postedAt": "2026-11-11T18:39:00.000Z",
       "updatedAt": "2026-11-11T18:39:00.000Z"
@@ -5266,7 +5575,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489958668/",
+      "applyUrl": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ575421",
       "url": "https://trueinterview.io/jobs/23b24c9e-4311-403b-9cdc-a74a032b690a",
       "postedAt": "2026-11-11T16:43:00.000Z",
       "updatedAt": "2026-11-11T16:43:00.000Z"
@@ -5291,7 +5600,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489969669/",
+      "applyUrl": "https://jobs.dayforcehcm.com/en-US/esa/KMCAREERSITE/jobs/10123",
       "url": "https://trueinterview.io/jobs/256034b6-dfa1-40ac-8697-f2bd1a9751aa",
       "postedAt": "2026-11-11T16:40:00.000Z",
       "updatedAt": "2026-11-11T16:40:00.000Z"
@@ -7137,6 +7446,31 @@
       "updatedAt": "2026-11-11T06:36:00.000Z"
     },
     {
+      "id": "5ea2a5cd-aad3-4efc-9262-0dbdd5d3a1dd",
+      "company": "AeroVironment",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Lawrence, KS"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360",
+      "url": "https://trueinterview.io/jobs/5ea2a5cd-aad3-4efc-9262-0dbdd5d3a1dd",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
       "id": "b3ec45e2-82bb-4132-93c7-242fdaa272f1",
       "company": "Emerson",
       "title": "RF Engineering Co-op (Jul - Dec 2027)",
@@ -7184,6 +7518,158 @@
       "source": "indeed",
       "applyUrl": "https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413",
       "url": "https://trueinterview.io/jobs/963d7d11-d153-40a3-bf4f-c977fd62bb8c",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "06962bd6-9b88-4aec-afae-765319160825",
+      "company": "Parker Hannifin",
+      "title": "Software Engineering Intern - Summer 2027",
+      "locations": [
+        "Irvine, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://parkercareers.ttcportals.com/jobs/18472157-software-engineering-intern-summer-2027?tm_job=70392-1A&tm_event=view&tm_company=1147",
+      "url": "https://trueinterview.io/jobs/06962bd6-9b88-4aec-afae-765319160825",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "a4de77e0-b67b-41ec-9437-30909ea0fde5",
+      "company": "PTC",
+      "title": "Creo Graphics Engineering Intern (Summer 2027)",
+      "locations": [
+        "Boston, MA"
+      ],
+      "cities": [
+        "Boston, MA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970",
+      "url": "https://trueinterview.io/jobs/a4de77e0-b67b-41ec-9437-30909ea0fde5",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "b8d339c6-38bf-4685-ad70-04154636fda9",
+      "company": "Punch Through",
+      "title": "Cloud Software Engineer Hybrid Internship",
+      "locations": [
+        "Minneapolis, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://careers.punchthrough.com/cloud-software-engineer-intern-hybrid/en",
+      "url": "https://trueinterview.io/jobs/b8d339c6-38bf-4685-ad70-04154636fda9",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "10533752-6983-4701-a272-fe59d0ae81ac",
+      "company": "Rockwell Automation",
+      "title": "Intern, Software Developer/Engineering",
+      "locations": [
+        "Mequon, WI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Intern--Software-Developer-Engineering_R26-8666-2",
+      "url": "https://trueinterview.io/jobs/10533752-6983-4701-a272-fe59d0ae81ac",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "2f1ec8c6-0f60-4d60-a51d-23338a479415",
+      "company": "Sanmina",
+      "title": "Platform Engineering Intern",
+      "locations": [
+        "Huntsville, AL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.talemetry.com/sanmina/jobs/apply?job_list_id=10303&tj_id=18472616&tm_company=96474&tm_job=201906&tm_event=view",
+      "url": "https://trueinterview.io/jobs/2f1ec8c6-0f60-4d60-a51d-23338a479415",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "dd8aa566-7127-4c88-a7b7-743aff23f06a",
+      "company": "SecurityMetrics",
+      "title": "Intern - Software Engineer",
+      "locations": [
+        "Orem, UT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://securitymetrics.bamboohr.com/careers/215?postedDate=2026-11-11",
+      "url": "https://trueinterview.io/jobs/dd8aa566-7127-4c88-a7b7-743aff23f06a",
       "postedAt": "2026-11-11T06:00:00.000Z",
       "updatedAt": "2026-11-11T06:00:00.000Z"
     },
@@ -10696,31 +11182,6 @@
       "updatedAt": "2026-11-10T06:00:00.000Z"
     },
     {
-      "id": "f57d68a2-9143-4bda-b7b9-b53c31775831",
-      "company": "Sanmina",
-      "title": "Systems Engineering CoOp (Fall 2026)",
-      "locations": [
-        "Huntsville, AL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://jobs.talemetry.com/sanmina/jobs/apply?job_list_id=10303&tj_id=18467763&tm_company=96474&tm_job=109548&tm_event=view",
-      "url": "https://trueinterview.io/jobs/f57d68a2-9143-4bda-b7b9-b53c31775831",
-      "postedAt": "2026-11-10T06:00:00.000Z",
-      "updatedAt": "2026-11-10T06:00:00.000Z"
-    },
-    {
       "id": "2eb83380-af4b-45b9-91a2-15354c07b495",
       "company": "Tesla",
       "title": "Internship, Software Engineer, SI ML Platform (Winter/Spring 2027)",
@@ -11837,31 +12298,6 @@
       "updatedAt": "2026-11-09T21:53:01.000Z"
     },
     {
-      "id": "370e5ab6-8b91-4081-a19e-c9f24ce15485",
-      "company": "OneHope, Inc.",
-      "title": "Front-End Developer Intern - Spring 2027",
-      "locations": [
-        "Pompano Beach, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Full-Stack Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=068f55cf7c446204",
-      "url": "https://trueinterview.io/jobs/370e5ab6-8b91-4081-a19e-c9f24ce15485",
-      "postedAt": "2026-11-09T20:52:07.000Z",
-      "updatedAt": "2026-11-09T20:52:07.000Z"
-    },
-    {
       "id": "ce069330-650a-473d-80d3-baeab51d19ee",
       "company": "AECOM",
       "title": "Water Resources Engineering Intern",
@@ -12342,7 +12778,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489109894/",
+      "applyUrl": "https://careers.newyorklife.com/careers/job/45406361",
       "url": "https://trueinterview.io/jobs/6b478fa9-e255-4b87-9542-1d77adec0619",
       "postedAt": "2026-11-09T19:18:00.000Z",
       "updatedAt": "2026-11-09T19:18:00.000Z"
@@ -21972,34 +22408,6 @@
       "updatedAt": "2026-11-05T16:03:00.000Z"
     },
     {
-      "id": "394d7a68-730e-4430-987f-380bd10238f2",
-      "company": "Acumatica",
-      "title": "Intern Developer/ Stagiaire développeur",
-      "locations": [
-        "Montreal, Quebec, Canada",
-        "Montreal, Québec, Canada"
-      ],
-      "cities": [
-        "Montreal, QC"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.smartrecruiters.com/Acumatica/744000159911799-intern-developer-stagiaire-developpeur-",
-      "url": "https://trueinterview.io/jobs/394d7a68-730e-4430-987f-380bd10238f2",
-      "postedAt": "2026-11-05T15:59:22.000Z",
-      "updatedAt": "2026-11-05T15:59:22.000Z"
-    },
-    {
       "id": "18658796-6c4e-4c69-9a9a-9ae774d26019",
       "company": "Skydio",
       "title": "Software Engineer Intern - Summer 2027",
@@ -28349,6 +28757,31 @@
       "source": "indeed",
       "applyUrl": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analyst-Intern_UNI4613-1",
       "url": "https://trueinterview.io/jobs/92f961dc-af3f-4723-a1ce-fe5db949021e",
+      "postedAt": "2026-11-04T06:00:00.000Z",
+      "updatedAt": "2026-11-04T06:00:00.000Z"
+    },
+    {
+      "id": "675c9b83-653e-4bf9-8881-e89eb85d11f0",
+      "company": "Lockheed Martin",
+      "title": "Computer/Software Engineering Intern",
+      "locations": [
+        "Littleton, CO"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://lockheedmartin.eightfold.ai/careers/job/996477783742?domain=lockheedmartin.com",
+      "url": "https://trueinterview.io/jobs/675c9b83-653e-4bf9-8881-e89eb85d11f0",
       "postedAt": "2026-11-04T06:00:00.000Z",
       "updatedAt": "2026-11-04T06:00:00.000Z"
     },
@@ -68416,6 +68849,31 @@
       "updatedAt": "2026-10-28T05:00:00.000Z"
     },
     {
+      "id": "69171ddc-6870-4877-a4ae-bcb9cd774bbd",
+      "company": "Lockheed Martin",
+      "title": "Cyber Software Engineer Intern - Summer 2027",
+      "locations": [
+        "Herndon, VA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://lockheedmartin.eightfold.ai/careers/job/996477645419?domain=lockheedmartin.com",
+      "url": "https://trueinterview.io/jobs/69171ddc-6870-4877-a4ae-bcb9cd774bbd",
+      "postedAt": "2026-10-28T05:00:00.000Z",
+      "updatedAt": "2026-10-28T05:00:00.000Z"
+    },
+    {
       "id": "8509baf5-d87a-455a-81b2-c81bd3dd1cbc",
       "company": "Meta",
       "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
@@ -80999,33 +81457,6 @@
       "url": "https://trueinterview.io/jobs/25e37626-41af-4424-be24-d0d429857295",
       "postedAt": "2026-10-13T17:54:37.000Z",
       "updatedAt": "2026-10-13T17:54:37.000Z"
-    },
-    {
-      "id": "6bec8a15-bb11-4fde-9b1b-cb54c3442247",
-      "company": "Equativ",
-      "title": "Backend Engineer Intern (6 months starting February 2027)",
-      "locations": [
-        "Paris"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/equativ/bc00695c-eb9a-4f50-bb4d-f186892fbb3d",
-      "url": "https://trueinterview.io/jobs/6bec8a15-bb11-4fde-9b1b-cb54c3442247",
-      "postedAt": "2026-10-13T13:48:55.000Z",
-      "updatedAt": "2026-10-13T13:48:55.000Z"
     },
     {
       "id": "9f9fc40b-c766-4161-acf7-222af87c515e",

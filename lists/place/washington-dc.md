@@ -2,7 +2,7 @@
 
 # 🏛️ Washington DC & Northern Virginia
 
-**85 open roles.**
+**86 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -463,6 +463,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ae3115d8-cff2-4c1f-a336-1b5a0b3a65ac">CNO Developer Intern</a></td>
 <td>Herndon, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465233838/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/69171ddc-6870-4877-a4ae-bcb9cd774bbd">Cyber Software Engineer Intern - Summer 2027</a></td>
+<td>Herndon, VA</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477645419?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
