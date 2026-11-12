@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**958 open roles.** 799 in the United States & Canada · 159 elsewhere in the world. Everything the employers put up this week.
+**957 open roles.** 797 in the United States & Canada · 160 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -100,7 +100,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><strong>SK hynix memory solutions America Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e479779-7138-40a0-8613-879f99039e6d">Embedded Software Engineer Intern</a></td>
 <td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488259865/">Apply</a></td>
+<td align="center"><a href="https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -664,14 +664,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Georgia Tech Research Institute</strong></td>
-<td><a href="https://trueinterview.io/jobs/41507d58-87ca-4a86-b6d6-0ad8b51cd581">Autonomy Software Engineering and Systems Engineering Intern - Spring 2027 - ASL/ATTD</a></td>
-<td>Atlanta, GA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481583854/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d9755091-6b59-4571-b292-b3e4f9fb37d1">Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4446293082/">Apply</a></td>
@@ -752,6 +745,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/54b1cb26-7515-4180-83a2-aeec13218b73">2027 Software Testing Engineering Intern - Apopka FL</a></td>
 <td>Apopka, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489900903/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Entrust Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/963d7d11-d153-40a3-bf4f-c977fd62bb8c">Electrical Engineer Co-op</a></td>
+<td>Shakopee, MN</td>
+<td align="center"><a href="https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zeon Chemicals LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/eaa13657-d98d-4666-b3e5-46de8412811f">Electrical Engineering Co-Op</a></td>
+<td>Louisville, KY</td>
+<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=733d09c0-84e6-4cc6-a899-2248c66b3751&amp;ccId=19000101_000001&amp;jobId=587239&amp;lang=en_US">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/1cff85f9-ed56-4c50-8c5b-e7c10f84f3e2">Research Intern - AI &amp; Human Systems</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488725444/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/312b989b-b830-4ce1-8764-8322b8d74d1d">AI Software Engineer Spring Co-op 2027</a></td>
-<td>San Jose, CA<br/>New York, NY<br/>Durham, NC<br/>+1 more</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4477395855/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 </tbody>

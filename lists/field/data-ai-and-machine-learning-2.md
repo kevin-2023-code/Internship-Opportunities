@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**742 open roles.** 548 in the United States & Canada · 194 elsewhere in the world.
+**741 open roles.** 548 in the United States & Canada · 193 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1152,13 +1152,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/874da8d4-a25c-41f2-b7de-6cc9eb13ce6b">Data Scientist-Advanced Analytics Intern</a></td>
 <td>Petaling Jaya, Selangor, Malaysia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488209479/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8da38a6-8299-45a9-ba64-a813157a5f7f">AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447674725/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

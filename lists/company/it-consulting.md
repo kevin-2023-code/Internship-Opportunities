@@ -2,7 +2,7 @@
 
 # 🧾 IT services & consulting
 
-**63 open roles.** 56 in the United States & Canada · 7 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
+**64 open roles.** 56 in the United States & Canada · 8 elsewhere in the world. Systems integrators, management consultancies, outsourcing and staffing.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -426,6 +426,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/874da8d4-a25c-41f2-b7de-6cc9eb13ce6b">Data Scientist-Advanced Analytics Intern</a></td>
 <td>Petaling Jaya, Selangor, Malaysia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488209479/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f225a07-1996-4570-9e17-45bc64d2fabe">IT Resilience &amp; Development Internship</a></td>
+<td>Leudelange, Esch-sur-Alzette, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000161044099-it-resilience-development-internship">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**107 open roles.** 69 in the United States & Canada · 38 elsewhere in the world.
+**106 open roles.** 69 in the United States & Canada · 37 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -518,13 +518,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489058980/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/de77027e-221e-422a-be3e-add583f8b8cf">Seller Incubation Program Manager, Project Intern (MAI FR) - 2026 Start (BS/MS)</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4445743471/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Bosch</strong></td>

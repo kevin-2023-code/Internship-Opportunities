@@ -2,7 +2,7 @@
 
 # 🇳🇱 Amsterdam & the Benelux
 
-**26 open roles.** 2 in the United States & Canada · 24 elsewhere in the world.
+**27 open roles.** 2 in the United States & Canada · 25 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -43,6 +43,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sopra Steria</strong></td>
+<td><a href="https://trueinterview.io/jobs/1f225a07-1996-4570-9e17-45bc64d2fabe">IT Resilience &amp; Development Internship</a></td>
+<td>Leudelange, Esch-sur-Alzette, Luxembourg</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000161044099-it-resilience-development-internship">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Dept</strong></td>
 <td><a href="https://trueinterview.io/jobs/e9198bd3-b508-44a7-be9b-fdd8872a691f">Intern Frontend Developer</a></td>

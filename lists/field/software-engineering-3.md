@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,773 open roles.** 1,423 in the United States & Canada · 350 elsewhere in the world.
+**1,773 open roles.** 1,422 in the United States & Canada · 351 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>JR Automation</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd53629f-23cd-4381-b500-5630c4bb42d9">Applications Engineering Internship/Co-op</a></td>
-<td>Holland, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484973455/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/b6081c05-4f7e-4e6a-a0fb-07136897d5dd">Co-op - Component Engineering</a></td>
 <td>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484966796/">Apply</a></td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/a6a1b39a-700c-4760-8232-71b83b260bd7">Software Engineering Co-Op - Spring 2027</a></td>
 <td>Fountain Inn, South Carolina, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000156311682-software-engineering-co-op-spring-2027">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Clean Harbors</strong></td>
+<td><a href="https://trueinterview.io/jobs/04cef858-86c4-4291-a5f1-2576f4250b74">Facility Engineer Intern - Summer 2027</a></td>
+<td>Kingsland, GA, United States</td>
+<td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167233">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 </tbody>

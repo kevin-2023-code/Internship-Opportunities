@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-12T06:08:07.664Z",
+  "listingsChangedAt": "2026-11-12T07:05:27.334Z",
   "count": 3708,
   "listings": [
     {
@@ -449,7 +449,8 @@
       "company": "SK hynix memory solutions America Inc.",
       "title": "Embedded Software Engineer Intern",
       "locations": [
-        "San Jose, CA"
+        "San Jose, CA",
+        "San Jose"
       ],
       "cities": [
         "San Jose, CA"
@@ -466,7 +467,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488259865/",
+      "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009",
       "url": "https://trueinterview.io/jobs/0e479779-7138-40a0-8613-879f99039e6d",
       "postedAt": "2026-11-12T01:15:00.000Z",
       "updatedAt": "2026-11-12T01:15:00.000Z"
@@ -3330,33 +3331,6 @@
       "updatedAt": "2026-11-11T10:39:00.000Z"
     },
     {
-      "id": "41507d58-87ca-4a86-b6d6-0ad8b51cd581",
-      "company": "Georgia Tech Research Institute",
-      "title": "Autonomy Software Engineering and Systems Engineering Intern - Spring 2027 - ASL/ATTD",
-      "locations": [
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4481583854/",
-      "url": "https://trueinterview.io/jobs/41507d58-87ca-4a86-b6d6-0ad8b51cd581",
-      "postedAt": "2026-11-11T10:25:00.000Z",
-      "updatedAt": "2026-11-11T10:25:00.000Z"
-    },
-    {
       "id": "d9755091-6b59-4571-b292-b3e4f9fb37d1",
       "company": "TikTok",
       "title": "Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer",
@@ -3399,7 +3373,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3426,7 +3400,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Frontend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3453,7 +3427,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "QA Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -3479,7 +3453,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -3515,33 +3489,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4405993593/",
       "url": "https://trueinterview.io/jobs/2999fd08-3cc8-4feb-9fb4-ba0682a6732c",
-      "postedAt": "2026-11-11T10:14:00.000Z",
-      "updatedAt": "2026-11-11T10:14:00.000Z"
-    },
-    {
-      "id": "de77027e-221e-422a-be3e-add583f8b8cf",
-      "company": "TikTok",
-      "title": "Seller Incubation Program Manager, Project Intern (MAI FR) - 2026 Start (BS/MS)",
-      "locations": [
-        "London, England, United Kingdom"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4445743471/",
-      "url": "https://trueinterview.io/jobs/de77027e-221e-422a-be3e-add583f8b8cf",
       "postedAt": "2026-11-11T10:14:00.000Z",
       "updatedAt": "2026-11-11T10:14:00.000Z"
     },
@@ -3625,6 +3572,31 @@
       "updatedAt": "2026-11-11T10:12:21.000Z"
     },
     {
+      "id": "ee88c224-550b-4b20-b5ea-7ebae302eb31",
+      "company": "Bosch",
+      "title": "Mandatory Internship AI Agent for Automated Machine Diagnostics and Root-Cause Analysis",
+      "locations": [
+        "Elchingen, Bavaria, Germany"
+      ],
+      "cities": [],
+      "countries": [
+        "Germany"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161053719-mandatory-internship-ai-agent-for-automated-machine-diagnostics-and-root-cause-analysis",
+      "url": "https://trueinterview.io/jobs/ee88c224-550b-4b20-b5ea-7ebae302eb31",
+      "postedAt": "2026-11-11T09:51:46.000Z",
+      "updatedAt": "2026-11-11T09:51:46.000Z"
+    },
+    {
       "id": "761a67d3-9a70-449a-a86b-dced5e0b6f30",
       "company": "Aptiv",
       "title": "AI Product Analyst Intern",
@@ -3700,6 +3672,31 @@
       "updatedAt": "2026-11-11T09:09:00.000Z"
     },
     {
+      "id": "1f225a07-1996-4570-9e17-45bc64d2fabe",
+      "company": "Sopra Steria",
+      "title": "IT Resilience & Development Internship",
+      "locations": [
+        "Leudelange, Esch-sur-Alzette, Luxembourg"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SopraSteria1/744000161044099-it-resilience-development-internship",
+      "url": "https://trueinterview.io/jobs/1f225a07-1996-4570-9e17-45bc64d2fabe",
+      "postedAt": "2026-11-11T08:47:25.000Z",
+      "updatedAt": "2026-11-11T08:47:25.000Z"
+    },
+    {
       "id": "8916cae3-df73-42be-8bc9-5ec16a149778",
       "company": "Elire",
       "title": "Summer 2027 AI Full Stack Developer Consulting Intern",
@@ -3773,6 +3770,56 @@
       "url": "https://trueinterview.io/jobs/54b1cb26-7515-4180-83a2-aeec13218b73",
       "postedAt": "2026-11-11T06:36:00.000Z",
       "updatedAt": "2026-11-11T06:36:00.000Z"
+    },
+    {
+      "id": "963d7d11-d153-40a3-bf4f-c977fd62bb8c",
+      "company": "Entrust Corporation",
+      "title": "Electrical Engineer Co-op",
+      "locations": [
+        "Shakopee, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://entrust.wd1.myworkdayjobs.com/en-US/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Electrical-Engineer-Co-op_R004413",
+      "url": "https://trueinterview.io/jobs/963d7d11-d153-40a3-bf4f-c977fd62bb8c",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "eaa13657-d98d-4666-b3e5-46de8412811f",
+      "company": "Zeon Chemicals LP",
+      "title": "Electrical Engineering Co-Op",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=733d09c0-84e6-4cc6-a899-2248c66b3751&ccId=19000101_000001&jobId=587239&lang=en_US",
+      "url": "https://trueinterview.io/jobs/eaa13657-d98d-4666-b3e5-46de8412811f",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
     },
     {
       "id": "176ced9b-8c1a-4045-a688-a4add65cb0bc",
@@ -13915,31 +13962,6 @@
       "url": "https://trueinterview.io/jobs/05fead44-f67c-45db-abfd-801686d55ca5",
       "postedAt": "2026-11-07T00:01:00.000Z",
       "updatedAt": "2026-11-07T00:01:00.000Z"
-    },
-    {
-      "id": "27bcd0dc-8ea8-43fd-a098-995b8f2c1d46",
-      "company": "IMMI",
-      "title": "2027 Summer IT Help Desk Intern",
-      "locations": [
-        "High Point, NC, 27263"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1d1e88e1-a8b7-41cc-9055-f4289d6074bd&jobId=552631",
-      "url": "https://trueinterview.io/jobs/27bcd0dc-8ea8-43fd-a098-995b8f2c1d46",
-      "postedAt": "2026-11-07T00:00:00.000Z",
-      "updatedAt": "2026-11-07T00:00:00.000Z"
     },
     {
       "id": "6b8b275b-8ae9-4f01-9e38-1e456b1d3391",
@@ -72939,33 +72961,6 @@
       "url": "https://trueinterview.io/jobs/1c5846d9-28c4-49a8-9613-15524955f1a7",
       "postedAt": "2026-10-21T00:00:00.000Z",
       "updatedAt": "2026-10-21T00:00:00.000Z"
-    },
-    {
-      "id": "685ee627-c148-4b65-8872-0444e1390e1f",
-      "company": "SK hynix memory solutions America Inc.",
-      "title": "ASIC Design Intern",
-      "locations": [
-        "San Jose"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
-      "url": "https://trueinterview.io/jobs/685ee627-c148-4b65-8872-0444e1390e1f",
-      "postedAt": "2026-10-20T23:39:02.000Z",
-      "updatedAt": "2026-10-20T23:39:02.000Z"
     },
     {
       "id": "3084cf6b-e7e2-49e8-b422-fe7f9a9d8de2",

@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**223 open roles.** 161 in the United States & Canada · 62 elsewhere in the world.
+**222 open roles.** 161 in the United States & Canada · 61 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1161,13 +1161,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2999fd08-3cc8-4feb-9fb4-ba0682a6732c">AI Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4405993593/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/de77027e-221e-422a-be3e-add583f8b8cf">Seller Incubation Program Manager, Project Intern (MAI FR) - 2026 Start (BS/MS)</a></td>
-<td>London, England, United Kingdom</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4445743471/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,773 open roles.** 1,423 in the United States & Canada · 350 elsewhere in the world.
+**1,773 open roles.** 1,422 in the United States & Canada · 351 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@
 <tbody>
 <tr>
 <td><strong>Clean Harbors</strong></td>
-<td><a href="https://trueinterview.io/jobs/04cef858-86c4-4291-a5f1-2576f4250b74">Facility Engineer Intern - Summer 2027</a></td>
-<td>Kingsland, GA, United States</td>
-<td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167233">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/69e59dd4-761d-4b54-b46a-e4db7273a13b">Mechanical Project Engineer Intern - Summer 2027</a></td>
 <td>Dugway, UT, United States</td>
 <td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/167236">Apply</a></td>
@@ -1712,6 +1705,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/f1de26f9-babe-4d58-a9e4-ffc990afda32">Middleware Software Engineering Intern</a></td>
 <td>Gdańsk, Pomorskie, Poland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480724151/">Apply</a></td>
+<td align="center">11 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TikTok</strong></td>
+<td><a href="https://trueinterview.io/jobs/a8da38a6-8299-45a9-ba64-a813157a5f7f">AI Agent Algorithm Engineer Intern (Global E-Commerce, Affiliate) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447674725/">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
