@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,824 open roles.** 1,459 in the United States & Canada · 365 elsewhere in the world.
+**1,825 open roles.** 1,461 in the United States & Canada · 364 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Path Robotics</strong></td>
+<td><a href="https://trueinterview.io/jobs/e32a1a60-af5e-4293-9636-51f8417dbb33">Manufacturing Design Engineering Internship</a></td>
+<td>Columbus, Ohio</td>
+<td align="center"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
+<td>Austin, TX<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+3 more</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/eb2ec9cf-e663-4f87-89a5-839fb2eda6a4">Field Engineering Co-op</a></td>
+<td>Nanticoke, Ontario, Canada<br/>Fort McMurray, Alberta, Canada<br/>Edmonton, Alberta, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157394280-field-engineering-co-op">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>1password</strong></td>
 <td><a href="https://trueinterview.io/jobs/1e43103f-d226-46d1-8db8-1edb6e3ddaad">Developer Intern, Extension Excellence - Winter 2027</a> 🌐</td>
@@ -1821,13 +1842,6 @@
 <td align="center"><a href="https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/2f1bcaf1-8995-49c6-bd40-0516526ab0ec">Hardware R&amp;D Engineering Intern (Summer 2027)</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2811,20 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/18d63f4c-9fac-4adb-8d3a-b625641eb12c">SAP iXp Intern - Test Automation Trainee</a></td>
 <td>Budapest, Budapest, Hungary</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158722602-sap-ixp-intern-test-automation-trainee">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP</strong></td>
-<td><a href="https://trueinterview.io/jobs/92d35417-6b84-4704-8463-8f190488a274">Full Stack Developer Intern - SAP Business AI Singapore</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4483446111/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/e3a5e905-3dd3-4c4c-ad9e-c1d3fc5f762d">Full Stack Developer Intern - SAP Business AI Singapore</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000158707350-full-stack-developer-intern-sap-business-ai-singapore-">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

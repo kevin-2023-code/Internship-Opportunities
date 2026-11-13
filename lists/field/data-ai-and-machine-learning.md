@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**789 open roles.** 575 in the United States & Canada · 214 elsewhere in the world.
+**791 open roles.** 576 in the United States & Canada · 215 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -76,6 +76,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a3b978f-4df3-4547-9275-e97854550c0b">SAP iXp Intern - Agentic AI Research PhD Associate</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488544226/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Clera</strong></td>
 <td><a href="https://trueinterview.io/jobs/4e1dfff2-d14e-4687-a569-f61446bcbd7e">Computer Vision &amp; Robotics Intern</a></td>
 <td>San Francisco, CA</td>
@@ -83,14 +90,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/ceffa484-c101-4d20-86e6-7ae20e6d51ab">2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition</a></td>
-<td>Will County, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482140446/">Apply</a></td>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/53b5331e-a577-4cbb-8f60-edc1159c68e1">AI Research Intern – Time Series Foundation Models</a></td>
+<td>Sunnyvale, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000161339309-ai-research-intern-time-series-foundation-models">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a6cb6b9-a9f6-487b-8fe6-438c8628e33b">2027 Applied Science Internship - Reinforcement Learning &amp; Optimization (Machine Learning) - United States, PhD Student Science Recruiting</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472185093/">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a945ff4b-35b2-4338-8641-30d446111777">Data Scientist Intern</a></td>
 <td>Raleigh, North Carolina, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415-data-scientist-intern">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/bdc8a05c-e19c-4613-b682-4e1f5b4251bc">AI Infra Engineer Intern (Recommendation &amp; LLM) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457692099/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

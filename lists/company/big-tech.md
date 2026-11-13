@@ -41,14 +41,14 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td><a href="https://trueinterview.io/jobs/ceffa484-c101-4d20-86e6-7ae20e6d51ab">2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition</a></td>
-<td>Will County, IL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482140446/">Apply</a></td>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a3b978f-4df3-4547-9275-e97854550c0b">SAP iXp Intern - Agentic AI Research PhD Associate</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488544226/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>Amazon</strong></td>
 <td><a href="https://trueinterview.io/jobs/2a6cb6b9-a9f6-487b-8fe6-438c8628e33b">2027 Applied Science Internship - Reinforcement Learning &amp; Optimization (Machine Learning) - United States, PhD Student Science Recruiting</a></td>
 <td>Seattle, WA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472185093/">Apply</a></td>

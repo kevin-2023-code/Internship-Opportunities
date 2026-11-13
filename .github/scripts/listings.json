@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T02:05:57.875Z",
+  "listingsChangedAt": "2026-11-13T03:06:00.520Z",
   "count": 3832,
   "listings": [
+    {
+      "id": "ac5db87d-9b19-4a6d-a477-efbbec1b3f79",
+      "company": "Frontbase Inc",
+      "title": "Rust Developer Intern",
+      "locations": [
+        "United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490086075/",
+      "url": "https://trueinterview.io/jobs/ac5db87d-9b19-4a6d-a477-efbbec1b3f79",
+      "postedAt": "2026-11-12T02:49:00.000Z",
+      "updatedAt": "2026-11-13T01:30:00.000Z"
+    },
     {
       "id": "e9989d0b-da24-40b3-b523-322a8632c567",
       "company": "Vital Lyfe",
@@ -211,6 +236,60 @@
       "url": "https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488",
       "postedAt": "2026-11-12T22:36:03.000Z",
       "updatedAt": "2026-11-12T23:10:06.000Z"
+    },
+    {
+      "id": "728fa744-3485-474a-98f7-3f187c23deb6",
+      "company": "Muon Space",
+      "title": "Software Engineering Intern-Information Systems (Summer 2027)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007",
+      "url": "https://trueinterview.io/jobs/728fa744-3485-474a-98f7-3f187c23deb6",
+      "postedAt": "2026-11-12T23:06:57.000Z",
+      "updatedAt": "2026-11-12T23:06:57.000Z"
+    },
+    {
+      "id": "8c892dee-cae7-43bb-ad17-52cb8ed2dab4",
+      "company": "Muon Space",
+      "title": "Security Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/muonspace/jobs/5294028007",
+      "url": "https://trueinterview.io/jobs/8c892dee-cae7-43bb-ad17-52cb8ed2dab4",
+      "postedAt": "2026-11-12T23:06:27.000Z",
+      "updatedAt": "2026-11-12T23:06:27.000Z"
     },
     {
       "id": "0f0898f6-a59f-4429-b250-625b5745f65b",
@@ -619,6 +698,58 @@
       "updatedAt": "2026-11-12T17:25:00.000Z"
     },
     {
+      "id": "2a3b978f-4df3-4547-9275-e97854550c0b",
+      "company": "SAP",
+      "title": "SAP iXp Intern - Agentic AI Research PhD Associate",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488544226/",
+      "url": "https://trueinterview.io/jobs/2a3b978f-4df3-4547-9275-e97854550c0b",
+      "postedAt": "2026-11-12T17:23:00.000Z",
+      "updatedAt": "2026-11-12T17:23:00.000Z"
+    },
+    {
+      "id": "38ad2db6-c63d-47ee-a24e-66406aa5f22b",
+      "company": "Ursa Major",
+      "title": "2027 Summer IT Operations & Asset Management Intern",
+      "locations": [
+        "Berthoud, Colorado"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://ursamajor.com/careers/?gh_jid=4746885005",
+      "url": "https://trueinterview.io/jobs/38ad2db6-c63d-47ee-a24e-66406aa5f22b",
+      "postedAt": "2026-11-12T17:18:47.000Z",
+      "updatedAt": "2026-11-12T17:18:47.000Z"
+    },
+    {
       "id": "4e1dfff2-d14e-4687-a569-f61446bcbd7e",
       "company": "Clera",
       "title": "Computer Vision & Robotics Intern",
@@ -635,7 +766,7 @@
       "category": "Data & AI",
       "family": "Data & AI",
       "role": "Machine Learning Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -644,31 +775,6 @@
       "url": "https://trueinterview.io/jobs/4e1dfff2-d14e-4687-a569-f61446bcbd7e",
       "postedAt": "2026-11-12T17:18:39.000Z",
       "updatedAt": "2026-11-12T17:18:39.000Z"
-    },
-    {
-      "id": "ceffa484-c101-4d20-86e6-7ae20e6d51ab",
-      "company": "Amazon",
-      "title": "2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition",
-      "locations": [
-        "Will County, IL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4482140446/",
-      "url": "https://trueinterview.io/jobs/ceffa484-c101-4d20-86e6-7ae20e6d51ab",
-      "postedAt": "2026-11-12T17:11:00.000Z",
-      "updatedAt": "2026-11-12T17:11:00.000Z"
     },
     {
       "id": "221f453a-e627-4f4a-9799-d103100f1a16",
@@ -709,9 +815,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -734,9 +840,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -759,9 +865,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -823,6 +929,33 @@
       "updatedAt": "2026-11-12T16:37:00.000Z"
     },
     {
+      "id": "ee6f1966-558e-4d47-8ae1-0121f1e4a9d8",
+      "company": "Coherent Corp.",
+      "title": "AI Intern - Digitalization & AI team",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473588977/",
+      "url": "https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8",
+      "postedAt": "2026-11-12T16:27:00.000Z",
+      "updatedAt": "2026-11-12T16:27:00.000Z"
+    },
+    {
       "id": "74dabc06-a806-4e2d-bff3-9839e2dfdc18",
       "company": "Linde Gas & Equipment",
       "title": "Software Developer Intern",
@@ -862,8 +995,8 @@
       "category": "Software",
       "family": "Software",
       "role": "Software Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
+      "seniority": "junior",
+      "level": "experienced",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
@@ -896,6 +1029,33 @@
       "url": "https://trueinterview.io/jobs/cba0fdd7-8c64-40dc-b62d-8b20b4623a08",
       "postedAt": "2026-11-12T16:17:00.000Z",
       "updatedAt": "2026-11-12T16:17:00.000Z"
+    },
+    {
+      "id": "53b5331e-a577-4cbb-8f60-edc1159c68e1",
+      "company": "Bosch",
+      "title": "AI Research Intern – Time Series Foundation Models",
+      "locations": [
+        "Sunnyvale, California, United States"
+      ],
+      "cities": [
+        "Sunnyvale, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000161339309-ai-research-intern-time-series-foundation-models",
+      "url": "https://trueinterview.io/jobs/53b5331e-a577-4cbb-8f60-edc1159c68e1",
+      "postedAt": "2026-11-12T16:12:36.000Z",
+      "updatedAt": "2026-11-12T16:12:36.000Z"
     },
     {
       "id": "2a6cb6b9-a9f6-487b-8fe6-438c8628e33b",
@@ -948,31 +1108,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4464985712/",
       "url": "https://trueinterview.io/jobs/abae8e98-b6c7-495b-826a-4bc6135df697",
-      "postedAt": "2026-11-12T16:11:00.000Z",
-      "updatedAt": "2026-11-12T16:11:00.000Z"
-    },
-    {
-      "id": "137a20b6-9db1-48c7-902f-b7ffd4f4d43b",
-      "company": "SouthState Bank",
-      "title": "Summer 2027 Quantitative Intern (Remote)",
-      "locations": [
-        "Winter Haven, FL"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Quantitative Finance",
-      "family": "Quantitative Finance",
-      "role": "Quantitative Developer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4471788129/",
-      "url": "https://trueinterview.io/jobs/137a20b6-9db1-48c7-902f-b7ffd4f4d43b",
       "postedAt": "2026-11-12T16:11:00.000Z",
       "updatedAt": "2026-11-12T16:11:00.000Z"
     },
@@ -4501,31 +4636,6 @@
       "url": "https://trueinterview.io/jobs/2548cff5-06c8-4008-991f-b064568fb548",
       "postedAt": "2026-11-12T03:03:06.000Z",
       "updatedAt": "2026-11-12T03:03:06.000Z"
-    },
-    {
-      "id": "ac5db87d-9b19-4a6d-a477-efbbec1b3f79",
-      "company": "Frontbase Inc",
-      "title": "Rust Developer Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "junior",
-      "level": "experienced",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490086075/",
-      "url": "https://trueinterview.io/jobs/ac5db87d-9b19-4a6d-a477-efbbec1b3f79",
-      "postedAt": "2026-11-12T02:49:00.000Z",
-      "updatedAt": "2026-11-12T02:49:00.000Z"
     },
     {
       "id": "b16abac2-6980-43dc-82e6-4589dfd1f2b8",
@@ -74848,31 +74958,6 @@
       "updatedAt": "2026-10-23T00:00:00.000Z"
     },
     {
-      "id": "284b8c5d-ac00-4e95-ba18-47363cbdafd9",
-      "company": "ursa-major",
-      "title": "2027 Summer Combustion Devices Intern",
-      "locations": [
-        "Berthoud, Colorado"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://ursamajor.com/careers/?gh_jid=4746887005",
-      "url": "https://trueinterview.io/jobs/284b8c5d-ac00-4e95-ba18-47363cbdafd9",
-      "postedAt": "2026-10-23T00:00:00.000Z",
-      "updatedAt": "2026-10-23T00:00:00.000Z"
-    },
-    {
       "id": "4dd4ddc3-f9a7-4515-a66d-26ce87032e58",
       "company": "Rivian and Volkswagen Group Technologies",
       "title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
@@ -99515,81 +99600,6 @@
       "url": "https://trueinterview.io/jobs/800834b3-d216-41d1-9d86-2b4a6991a35c",
       "postedAt": "2026-09-14T03:34:40.000Z",
       "updatedAt": "2026-09-14T03:34:40.000Z"
-    },
-    {
-      "id": "cad9f687-bb1a-4819-b631-f54bd501e6cb",
-      "company": "Formlabs",
-      "title": "Electrical Engineering Intern (Summer 2027)",
-      "locations": [
-        "Somerville, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://careers.formlabs.com/job/8148251/apply/?gh_jid=8148251",
-      "url": "https://trueinterview.io/jobs/cad9f687-bb1a-4819-b631-f54bd501e6cb",
-      "postedAt": "2026-09-14T02:44:41.000Z",
-      "updatedAt": "2026-09-14T02:44:41.000Z"
-    },
-    {
-      "id": "2f1bcaf1-8995-49c6-bd40-0516526ab0ec",
-      "company": "Formlabs",
-      "title": "Hardware R&D Engineering Intern (Summer 2027)",
-      "locations": [
-        "Somerville, MA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394",
-      "url": "https://trueinterview.io/jobs/2f1bcaf1-8995-49c6-bd40-0516526ab0ec",
-      "postedAt": "2026-09-14T02:44:21.000Z",
-      "updatedAt": "2026-09-14T02:44:21.000Z"
-    },
-    {
-      "id": "370c86bb-2f76-4685-8466-f3a2ed02476a",
-      "company": "Western Digital",
-      "title": "Intern - Technologist, Hardware Development Engineering (Studying Ph.D Degree)",
-      "locations": [
-        "BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand"
-      ],
-      "cities": [],
-      "countries": [
-        "Other"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000149229769-intern-technologist-hardware-development-engineering-studying-ph-d-degree-",
-      "url": "https://trueinterview.io/jobs/370c86bb-2f76-4685-8466-f3a2ed02476a",
-      "postedAt": "2026-09-14T02:34:05.000Z",
-      "updatedAt": "2026-09-14T02:34:05.000Z"
     }
   ]
 }

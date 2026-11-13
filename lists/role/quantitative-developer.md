@@ -2,7 +2,7 @@
 
 # Quantitative Developer
 
-**40 open roles.** 31 in the United States & Canada · 9 elsewhere in the world.
+**39 open roles.** 30 in the United States & Canada · 9 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -22,13 +22,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/19108cf8-d8b6-4fa7-b3b6-29507b511ddf">Power Performance Quantitative Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478709349/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SouthState Bank</strong></td>
-<td><a href="https://trueinterview.io/jobs/137a20b6-9db1-48c7-902f-b7ffd4f4d43b">Summer 2027 Quantitative Intern (Remote)</a></td>
-<td>Winter Haven, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471788129/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

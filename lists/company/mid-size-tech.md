@@ -2,7 +2,7 @@
 
 # 🏤 Mid-sized tech (200–999)
 
-**50 open roles.** 32 in the United States & Canada · 18 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
+**48 open roles.** 30 in the United States & Canada · 18 elsewhere in the world. Big enough to have a real engineering org, small enough that you will meet the founders.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -226,20 +226,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Boston, MA<br/>Mountain View, CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/lightmatter/jobs/5425407008?gh_jid=5425407008">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td><a href="https://trueinterview.io/jobs/cad9f687-bb1a-4819-b631-f54bd501e6cb">Electrical Engineering Intern (Summer 2027)</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8148251/apply/?gh_jid=8148251">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/2f1bcaf1-8995-49c6-bd40-0516526ab0ec">Hardware R&amp;D Engineering Intern (Summer 2027)</a></td>
-<td>Somerville, MA</td>
-<td align="center"><a href="https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

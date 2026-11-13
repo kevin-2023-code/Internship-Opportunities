@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**83 open roles.** 66 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**84 open roles.** 67 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0ff3c70c-73ef-46bf-be55-224115e90033">SAP iXp Intern - AI Scientist</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488538580/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a3b978f-4df3-4547-9275-e97854550c0b">SAP iXp Intern - Agentic AI Research PhD Associate</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488544226/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
