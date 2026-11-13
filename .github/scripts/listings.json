@@ -5,9 +5,331 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T18:05:52.211Z",
-  "count": 3874,
+  "listingsChangedAt": "2026-11-13T19:04:24.717Z",
+  "count": 3888,
   "listings": [
+    {
+      "id": "bf8efcad-84a4-4203-8d10-c086841e59a1",
+      "company": "reliable-robotics-corporation",
+      "title": "Flight Test Integration Engineer Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/1d020651-71bb-4e47-baa6-2286dc780d96",
+      "url": "https://trueinterview.io/jobs/bf8efcad-84a4-4203-8d10-c086841e59a1",
+      "postedAt": "2026-11-13T18:34:41.000Z",
+      "updatedAt": "2026-11-13T18:34:41.000Z"
+    },
+    {
+      "id": "7cbfa23d-7c8a-4e53-b4f7-5ffae6d39922",
+      "company": "reliable-robotics-corporation",
+      "title": "Flight Software Engineer Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
+      "url": "https://trueinterview.io/jobs/7cbfa23d-7c8a-4e53-b4f7-5ffae6d39922",
+      "postedAt": "2026-11-13T18:33:44.000Z",
+      "updatedAt": "2026-11-13T18:33:44.000Z"
+    },
+    {
+      "id": "e6493e07-4c5f-4fd1-861d-52d2cd961a26",
+      "company": "reliable-robotics-corporation",
+      "title": "Supplier Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/bac27e34-c847-42f7-96d6-2bbd42df649c",
+      "url": "https://trueinterview.io/jobs/e6493e07-4c5f-4fd1-861d-52d2cd961a26",
+      "postedAt": "2026-11-13T18:33:30.000Z",
+      "updatedAt": "2026-11-13T18:33:30.000Z"
+    },
+    {
+      "id": "0705170e-eded-4c6f-9067-f6ce8e16dbd3",
+      "company": "reliable-robotics-corporation",
+      "title": "Manufacturing Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/1085bdf8-f023-4cf6-90ed-93a2f4f6ded8",
+      "url": "https://trueinterview.io/jobs/0705170e-eded-4c6f-9067-f6ce8e16dbd3",
+      "postedAt": "2026-11-13T18:33:23.000Z",
+      "updatedAt": "2026-11-13T18:33:23.000Z"
+    },
+    {
+      "id": "af2bffca-bf5e-4aa8-aace-4737c8e68b86",
+      "company": "reliable-robotics-corporation",
+      "title": "Flight Simulation Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/0cd44e07-169f-4664-bf31-cded94b93deb",
+      "url": "https://trueinterview.io/jobs/af2bffca-bf5e-4aa8-aace-4737c8e68b86",
+      "postedAt": "2026-11-13T18:33:10.000Z",
+      "updatedAt": "2026-11-13T18:33:10.000Z"
+    },
+    {
+      "id": "3c9ff155-edf5-4d33-8dae-b0b3111ddbc7",
+      "company": "reliable-robotics-corporation",
+      "title": "FPGA Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Hardware & Engineering",
+      "family": "Hardware & Engineering",
+      "role": "Hardware Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/131987a0-ede9-4291-9cd2-1aaadabd2a54",
+      "url": "https://trueinterview.io/jobs/3c9ff155-edf5-4d33-8dae-b0b3111ddbc7",
+      "postedAt": "2026-11-13T18:33:05.000Z",
+      "updatedAt": "2026-11-13T18:33:05.000Z"
+    },
+    {
+      "id": "72250852-7397-45c6-8f3c-ee57fb69c77c",
+      "company": "HP",
+      "title": "Software Product Security Engineer Intern",
+      "locations": [
+        "Spring, TX"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490761461/",
+      "url": "https://trueinterview.io/jobs/72250852-7397-45c6-8f3c-ee57fb69c77c",
+      "postedAt": "2026-11-13T18:12:00.000Z",
+      "updatedAt": "2026-11-13T18:12:00.000Z"
+    },
+    {
+      "id": "ee0c2c16-72e2-4e38-b082-6ee25989a10e",
+      "company": "Shure",
+      "title": "Application Software Engineering Intern",
+      "locations": [
+        "Niles, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464149013/",
+      "url": "https://trueinterview.io/jobs/ee0c2c16-72e2-4e38-b082-6ee25989a10e",
+      "postedAt": "2026-11-13T18:03:00.000Z",
+      "updatedAt": "2026-11-13T18:03:00.000Z"
+    },
+    {
+      "id": "093b3085-71bf-400d-a87f-bdf46623b76e",
+      "company": "reliable-robotics-corporation",
+      "title": "Mechanical Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/4aa17839-d94c-478f-9ce9-9974df00314b",
+      "url": "https://trueinterview.io/jobs/093b3085-71bf-400d-a87f-bdf46623b76e",
+      "postedAt": "2026-11-13T18:00:32.000Z",
+      "updatedAt": "2026-11-13T18:00:32.000Z"
+    },
+    {
+      "id": "9b393d62-abaf-4480-adc2-621c12fd5eb8",
+      "company": "reliable-robotics-corporation",
+      "title": "Hardware Test Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/0af72d5a-87b7-49a1-b49e-424d28758c9e",
+      "url": "https://trueinterview.io/jobs/9b393d62-abaf-4480-adc2-621c12fd5eb8",
+      "postedAt": "2026-11-13T17:55:13.000Z",
+      "updatedAt": "2026-11-13T17:55:13.000Z"
+    },
+    {
+      "id": "c80253a3-62ee-4e1c-8461-b7c9302167ab",
+      "company": "reliable-robotics-corporation",
+      "title": "Reliablilty Engineering Intern (Summer 2027)",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/reliable-robotics/9e609f4f-cf1c-4171-9140-54e05c5195de",
+      "url": "https://trueinterview.io/jobs/c80253a3-62ee-4e1c-8461-b7c9302167ab",
+      "postedAt": "2026-11-13T17:54:48.000Z",
+      "updatedAt": "2026-11-13T17:54:48.000Z"
+    },
+    {
+      "id": "038e0219-c290-4427-8da1-afe3540c82fc",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+      "locations": [
+        "Austin, TX",
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Austin, TX",
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473971949/",
+      "url": "https://trueinterview.io/jobs/038e0219-c290-4427-8da1-afe3540c82fc",
+      "postedAt": "2026-11-13T17:37:00.000Z",
+      "updatedAt": "2026-11-13T17:37:00.000Z"
+    },
     {
       "id": "b6521d38-b479-4424-812f-03979fedbcc9",
       "company": "IPConfigure Inc.",
@@ -38,7 +360,8 @@
       "company": "Seagate Technology",
       "title": "Intern - Embedded Firmware in Seagate Research Group",
       "locations": [
-        "Longmont, CO"
+        "Longmont, CO",
+        "Shakopee, MN"
       ],
       "cities": [],
       "countries": [
@@ -57,6 +380,31 @@
       "url": "https://trueinterview.io/jobs/ed021728-b101-4102-8fba-9471d706ebda",
       "postedAt": "2026-11-13T17:22:00.000Z",
       "updatedAt": "2026-11-13T17:22:00.000Z"
+    },
+    {
+      "id": "0c21e506-e4c2-44b5-98da-63e4e62b6ef1",
+      "company": "Seagate Technology",
+      "title": "Intern - Edge AI Platform in Seagate Research Group",
+      "locations": [
+        "Shakopee, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488957229/",
+      "url": "https://trueinterview.io/jobs/0c21e506-e4c2-44b5-98da-63e4e62b6ef1",
+      "postedAt": "2026-11-13T17:17:00.000Z",
+      "updatedAt": "2026-11-13T17:17:00.000Z"
     },
     {
       "id": "50f852cc-7ce7-4bfc-9c04-384d2b37b143",
@@ -107,6 +455,31 @@
       "url": "https://trueinterview.io/jobs/2ee89bc0-92b3-4473-b8d4-a7258455760b",
       "postedAt": "2026-11-13T17:15:00.000Z",
       "updatedAt": "2026-11-13T17:15:00.000Z"
+    },
+    {
+      "id": "4328a039-67aa-4ff9-bb53-8e46eeb91cda",
+      "company": "Daimler Truck North America",
+      "title": "IT Developer Analyst Intern",
+      "locations": [
+        "Mount Holly, NC"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488938946/",
+      "url": "https://trueinterview.io/jobs/4328a039-67aa-4ff9-bb53-8e46eeb91cda",
+      "postedAt": "2026-11-13T17:13:00.000Z",
+      "updatedAt": "2026-11-13T17:13:00.000Z"
     },
     {
       "id": "649bc821-7714-4341-9877-4c83a4f23a6f",
@@ -439,6 +812,108 @@
       "url": "https://trueinterview.io/jobs/0e60c45f-9ba5-47a3-b45c-e6b4b4598588",
       "postedAt": "2026-11-13T15:29:00.000Z",
       "updatedAt": "2026-11-13T15:29:00.000Z"
+    },
+    {
+      "id": "df8ef95a-fc76-4b4f-91fa-eec1a81adc42",
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Zurich (2027)",
+      "locations": [
+        "CH-Zurich-Observe"
+      ],
+      "cities": [],
+      "countries": [
+        "Switzerland"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
+      "url": "https://trueinterview.io/jobs/df8ef95a-fc76-4b4f-91fa-eec1a81adc42",
+      "postedAt": "2026-11-13T15:17:33.000Z",
+      "updatedAt": "2026-11-13T15:17:33.000Z"
+    },
+    {
+      "id": "bd28d1f3-db44-4b29-a7b6-deafc87c24e7",
+      "company": "Twitch",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481395787/",
+      "url": "https://trueinterview.io/jobs/bd28d1f3-db44-4b29-a7b6-deafc87c24e7",
+      "postedAt": "2026-11-13T15:13:00.000Z",
+      "updatedAt": "2026-11-13T15:13:00.000Z"
+    },
+    {
+      "id": "ad75028b-98e9-4ead-87aa-82f028e92db8",
+      "company": "Zipline",
+      "title": "System Test Automation Intern (Spring 2027)",
+      "locations": [
+        "South San Francisco, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4455981388/",
+      "url": "https://trueinterview.io/jobs/ad75028b-98e9-4ead-87aa-82f028e92db8",
+      "postedAt": "2026-11-13T15:13:00.000Z",
+      "updatedAt": "2026-11-13T15:13:00.000Z"
+    },
+    {
+      "id": "e0d9fa41-c1db-475f-b7ab-dbe0d51002fd",
+      "company": "Zipline",
+      "title": "System Test Automation Intern (Summer 2027)",
+      "locations": [
+        "South San Francisco, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4455978414/",
+      "url": "https://trueinterview.io/jobs/e0d9fa41-c1db-475f-b7ab-dbe0d51002fd",
+      "postedAt": "2026-11-13T15:13:00.000Z",
+      "updatedAt": "2026-11-13T15:13:00.000Z"
     },
     {
       "id": "990b0d44-d8b5-41d3-a95d-9039f2eed5ef",
@@ -100546,109 +101021,6 @@
       "url": "https://trueinterview.io/jobs/51a0a61d-0fa4-4739-9077-7bee505d6e33",
       "postedAt": "2026-09-14T19:26:43.000Z",
       "updatedAt": "2026-09-14T19:26:43.000Z"
-    },
-    {
-      "id": "2b0275a9-5d37-4fa2-8d49-3fb90a7cc973",
-      "company": "Workshop",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "locations": [
-        "Omaha, Nebraska, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/workshop/jobs/5237900007",
-      "url": "https://trueinterview.io/jobs/2b0275a9-5d37-4fa2-8d49-3fb90a7cc973",
-      "postedAt": "2026-09-14T19:01:54.000Z",
-      "updatedAt": "2026-09-14T19:01:54.000Z"
-    },
-    {
-      "id": "5147b6e8-c8ee-464b-a445-0c376621b107",
-      "company": "Eq Bank",
-      "title": "Intern - Modern Workplace Analyst, Winter 2027",
-      "locations": [
-        "Toronto"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "IT & Support",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.lever.co/eqbank/53d0826c-baeb-4ba6-87e5-7d6d416c1da7/apply",
-      "url": "https://trueinterview.io/jobs/5147b6e8-c8ee-464b-a445-0c376621b107",
-      "postedAt": "2026-09-14T18:54:18.000Z",
-      "updatedAt": "2026-09-14T18:54:18.000Z"
-    },
-    {
-      "id": "330c74bb-171e-49d1-9d2e-4e899b1be3a6",
-      "company": "Gdh",
-      "title": "Architecture Intern",
-      "locations": [
-        "HARRISBURG, PA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/28132",
-      "url": "https://trueinterview.io/jobs/330c74bb-171e-49d1-9d2e-4e899b1be3a6",
-      "postedAt": "2026-09-14T18:38:25.000Z",
-      "updatedAt": "2026-09-14T18:38:25.000Z"
-    },
-    {
-      "id": "203afb7e-0605-4f3e-99a2-103598368df3",
-      "company": "Enviva",
-      "title": "Engineering and Operations Intern",
-      "locations": [
-        "Faison, NC",
-        "Sampson - Non-Exempt"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://job-boards.greenhouse.io/enviva/jobs/7994599003",
-      "url": "https://trueinterview.io/jobs/203afb7e-0605-4f3e-99a2-103598368df3",
-      "postedAt": "2026-09-14T18:35:28.000Z",
-      "updatedAt": "2026-09-14T18:35:28.000Z"
     }
   ]
 }
