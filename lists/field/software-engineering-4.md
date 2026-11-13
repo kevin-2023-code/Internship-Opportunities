@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,815 open roles.** 1,451 in the United States & Canada · 364 elsewhere in the world.
+**1,815 open roles.** 1,452 in the United States & Canada · 363 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@
 <tbody>
 <tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/ff32ef79-93fe-4641-abec-de6ae12e8120">Software Engineering Intern - Embedded Platforms (Summer 2027)</a></td>
+<td>Palo Alto, California<br/>Vancouver, BC<br/>Irvine, California<br/>+2 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a809e891-e4ef-4406-8c21-3a5d048f0657">Software Engineering Intern - Connected Systems (Summer 2027)</a></td>
+<td>Vancouver, BC<br/>Palo Alto, California<br/>Vancouver, British Columbia<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/bd301f3e-1184-4af7-9a56-375b66576588">Software Engineering Intern - Applications (Summer 2027)</a></td>
 <td>Vancouver, BC<br/>Toronto, Ontario<br/>Palo Alto, California<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b">Apply</a></td>
@@ -1765,13 +1779,6 @@
 <td align="center"><a href="https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce7e85fa-b6c4-44e3-9c83-88417a5950a1">Software Engineering Co-Op (Jan-Aug 2027)</a></td>
-<td>Eden Prairie, MN, United States</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2566,13 +2573,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d63c3c3c-3cdf-4c25-9495-41aabb219c02">Global Technology Summer Analyst 2027 - Software Engineer and Mainframe Analyst</a></td>
 <td>Greater Phoenix Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477258436/">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/64721d9c-264a-4d27-8a12-4ece3dee387d">Internship - Value Engineering</a></td>
-<td>Munich<br/>München, Deutschland<br/>Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/blp-digital/087fbd2d-ff8d-4673-a30e-5a1e2970fc19">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

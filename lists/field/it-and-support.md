@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**82 open roles.** 62 in the United States & Canada · 20 elsewhere in the world.
+**81 open roles.** 61 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -442,13 +442,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ce0d388b-3733-4a72-bda3-cc508ab9459f">IT Helpdesk Intern - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4dfdebd-a4d1-4aa4-8b20-c19c43934cf5">Dell Technologies Presales Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298213">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

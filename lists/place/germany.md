@@ -2,7 +2,7 @@
 
 # 🇩🇪 Berlin, Munich & Germany
 
-**30 open roles.**
+**29 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -73,13 +73,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b355ec2f-ecd2-46b7-b680-15384e49e3f1">Intern/Working Student, Alpha Engineering Design Team</a></td>
 <td>Munich</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/proxima-fusion/9fd42d90-2c8b-4e5c-ac56-b77750329fb7">Apply</a></td>
-<td align="center">2 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>BLP</strong></td>
-<td><a href="https://trueinterview.io/jobs/64721d9c-264a-4d27-8a12-4ece3dee387d">Internship - Value Engineering</a></td>
-<td>Munich<br/>München, Deutschland<br/>Germany</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/blp-digital/087fbd2d-ff8d-4673-a30e-5a1e2970fc19">Apply</a></td>
 <td align="center">2 Nov 2026</td>
 </tr>
 <tr>

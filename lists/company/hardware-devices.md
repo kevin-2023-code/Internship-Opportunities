@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**218 open roles.** 174 in the United States & Canada · 44 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**215 open roles.** 171 in the United States & Canada · 44 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1212,27 +1212,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2f1bcaf1-8995-49c6-bd40-0516526ab0ec">Hardware R&amp;D Engineering Intern (Summer 2027)</a></td>
 <td>Somerville, MA</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8172394/apply/?gh_jid=8172394">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Dell</strong></td>
-<td><a href="https://trueinterview.io/jobs/f4dfdebd-a4d1-4aa4-8b20-c19c43934cf5">Dell Technologies Presales Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1/job/298213">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Keysight</strong></td>
-<td><a href="https://trueinterview.io/jobs/57968bd3-f0df-4686-bc2c-0bd98e4d6b18">Compound Semiconductor Device Characterization Intern</a></td>
-<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54226?lang=en-us">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/998f364b-8a31-42d3-b63c-ce706906aedb">Semiconductor R&amp;D Process Integration Intern</a></td>
-<td>US-CA-Santa Rosa-Bldg 2<br/>Santa Rosa, California, United States</td>
-<td align="center"><a href="https://jobs.keysight.com/external/jobs/54305?lang=en-us">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
