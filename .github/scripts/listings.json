@@ -5,9 +5,847 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T09:05:51.981Z",
-  "count": 3842,
+  "listingsChangedAt": "2026-11-13T11:04:24.199Z",
+  "count": 3864,
   "listings": [
+    {
+      "id": "488ba471-06f1-4e51-a5b2-b4e9e93b78dd",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PHD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474564006/",
+      "url": "https://trueinterview.io/jobs/488ba471-06f1-4e51-a5b2-b4e9e93b78dd",
+      "postedAt": "2026-11-13T10:24:07.000Z",
+      "updatedAt": "2026-11-13T10:24:07.000Z"
+    },
+    {
+      "id": "cb72ebdc-a93a-492a-aabb-70245cd4530f",
+      "company": "ByteDance",
+      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Fall",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474550527/",
+      "url": "https://trueinterview.io/jobs/cb72ebdc-a93a-492a-aabb-70245cd4530f",
+      "postedAt": "2026-11-13T10:19:00.000Z",
+      "updatedAt": "2026-11-13T10:19:00.000Z"
+    },
+    {
+      "id": "76da53b9-d9a1-4851-a75f-ed281f9ae74f",
+      "company": "ByteDance",
+      "title": "Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474557191/",
+      "url": "https://trueinterview.io/jobs/76da53b9-d9a1-4851-a75f-ed281f9ae74f",
+      "postedAt": "2026-11-13T10:19:00.000Z",
+      "updatedAt": "2026-11-13T10:19:00.000Z"
+    },
+    {
+      "id": "763e5d25-2286-474c-aa2d-1d96d9e496a0",
+      "company": "TikTok",
+      "title": "Data Analyst Project Intern (TikTok Shop EMEA Data Science) - 2026 Start (BS/MS）",
+      "locations": [
+        "Singapore, Singapore",
+        "London, England, United Kingdom"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4401884014/",
+      "url": "https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0",
+      "postedAt": "2026-11-12T12:46:00.000Z",
+      "updatedAt": "2026-11-13T10:19:00.000Z"
+    },
+    {
+      "id": "8113e8a0-08f1-476e-b872-170e9cc02481",
+      "company": "TikTok",
+      "title": "LLM & Agent Algorithm Intern (Search) - 2027 Start (PhD)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Data & AI",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4452710257/",
+      "url": "https://trueinterview.io/jobs/8113e8a0-08f1-476e-b872-170e9cc02481",
+      "postedAt": "2026-11-13T10:19:00.000Z",
+      "updatedAt": "2026-11-13T10:19:00.000Z"
+    },
+    {
+      "id": "fa893302-a926-4090-a76b-ca732106ee11",
+      "company": "ByteDance",
+      "title": "Developer Advocacy Project Intern (PICO) - 2026 Start",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Product & Design",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474556225/",
+      "url": "https://trueinterview.io/jobs/fa893302-a926-4090-a76b-ca732106ee11",
+      "postedAt": "2026-11-13T10:18:00.000Z",
+      "updatedAt": "2026-11-13T10:18:00.000Z"
+    },
+    {
+      "id": "902b6d02-3370-4d31-b1b8-787716854475",
+      "company": "TikTok",
+      "title": "AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4447689264/",
+      "url": "https://trueinterview.io/jobs/902b6d02-3370-4d31-b1b8-787716854475",
+      "postedAt": "2026-11-13T10:18:00.000Z",
+      "updatedAt": "2026-11-13T10:18:00.000Z"
+    },
+    {
+      "id": "a81126ee-7a8c-44be-9a4b-e867e680dcdf",
+      "company": "TikTok",
+      "title": "AI Agent Project Intern (Open Platform) - 2026 Start",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472562905/",
+      "url": "https://trueinterview.io/jobs/a81126ee-7a8c-44be-9a4b-e867e680dcdf",
+      "postedAt": "2026-11-13T10:17:00.000Z",
+      "updatedAt": "2026-11-13T10:17:00.000Z"
+    },
+    {
+      "id": "1821f91e-5c18-4031-869b-df662a5af17d",
+      "company": "ByteDance",
+      "title": "AI Evaluation Project Intern（Corporate Service System）- 2026 Start",
+      "locations": [
+        "Dubai, Dubai, United Arab Emirates"
+      ],
+      "cities": [
+        "Dubai"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474549595/",
+      "url": "https://trueinterview.io/jobs/1821f91e-5c18-4031-869b-df662a5af17d",
+      "postedAt": "2026-11-13T10:11:00.000Z",
+      "updatedAt": "2026-11-13T10:11:00.000Z"
+    },
+    {
+      "id": "d666d1e5-cff5-4449-9cd0-c2cb07aeddc5",
+      "company": "ByteDance",
+      "title": "AI Application Development Engineer Intern (Corporate Service System - Procurement) - 2027 Start",
+      "locations": [
+        "Dubai, Dubai, United Arab Emirates"
+      ],
+      "cities": [
+        "Dubai"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474561047/",
+      "url": "https://trueinterview.io/jobs/d666d1e5-cff5-4449-9cd0-c2cb07aeddc5",
+      "postedAt": "2026-11-13T10:05:00.000Z",
+      "updatedAt": "2026-11-13T10:05:00.000Z"
+    },
+    {
+      "id": "3bb6cfd5-d19f-486a-ad9b-7829efe57af2",
+      "company": "ByteDance",
+      "title": "Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474545745/",
+      "url": "https://trueinterview.io/jobs/3bb6cfd5-d19f-486a-ad9b-7829efe57af2",
+      "postedAt": "2026-11-13T10:05:00.000Z",
+      "updatedAt": "2026-11-13T10:05:00.000Z"
+    },
+    {
+      "id": "e2ec5fea-33d5-4625-a7d6-4d8202ba09e3",
+      "company": "TikTok",
+      "title": "Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4447985873/",
+      "url": "https://trueinterview.io/jobs/e2ec5fea-33d5-4625-a7d6-4d8202ba09e3",
+      "postedAt": "2026-11-12T12:42:00.000Z",
+      "updatedAt": "2026-11-13T10:05:00.000Z"
+    },
+    {
+      "id": "a7ff8971-0d75-450e-9ce7-c24f92d2177a",
+      "company": "ByteDance",
+      "title": "Datacenter Operations Engineer (DCO-SG) Intern (Infrastructure Engineering) - 2027 Start",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474544792/",
+      "url": "https://trueinterview.io/jobs/a7ff8971-0d75-450e-9ce7-c24f92d2177a",
+      "postedAt": "2026-11-13T10:04:00.000Z",
+      "updatedAt": "2026-11-13T10:04:00.000Z"
+    },
+    {
+      "id": "11ff8a0d-ce6d-4fe9-9aaa-0134a4445a42",
+      "company": "ByteDance",
+      "title": "Self-Built Engineer Intern (CDN Platform) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474551500/",
+      "url": "https://trueinterview.io/jobs/11ff8a0d-ce6d-4fe9-9aaa-0134a4445a42",
+      "postedAt": "2026-11-13T10:03:00.000Z",
+      "updatedAt": "2026-11-13T10:03:00.000Z"
+    },
+    {
+      "id": "6d4b9bdd-0e7f-44c2-af17-ed858822becf",
+      "company": "ByteDance",
+      "title": "Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Site Reliability Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474564028/",
+      "url": "https://trueinterview.io/jobs/6d4b9bdd-0e7f-44c2-af17-ed858822becf",
+      "postedAt": "2026-11-13T09:53:00.000Z",
+      "updatedAt": "2026-11-13T09:53:00.000Z"
+    },
+    {
+      "id": "1c6ee5eb-e71f-4fdc-8509-7919c6eb3bec",
+      "company": "ByteDance",
+      "title": "Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474561056/",
+      "url": "https://trueinterview.io/jobs/1c6ee5eb-e71f-4fdc-8509-7919c6eb3bec",
+      "postedAt": "2026-11-13T09:52:00.000Z",
+      "updatedAt": "2026-11-13T09:52:00.000Z"
+    },
+    {
+      "id": "c943f122-6831-4f27-9b9d-38e52699937a",
+      "company": "ByteDance",
+      "title": "GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474544828/",
+      "url": "https://trueinterview.io/jobs/c943f122-6831-4f27-9b9d-38e52699937a",
+      "postedAt": "2026-11-13T09:52:00.000Z",
+      "updatedAt": "2026-11-13T09:52:00.000Z"
+    },
+    {
+      "id": "38298b7a-fe94-403d-8527-74a7b9211fa1",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern (E-Commerce Risk Control)- 2027 Start (PhD)",
+      "locations": [
+        "Seattle, WA"
+      ],
+      "cities": [
+        "Seattle, WA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Software",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4444576976/",
+      "url": "https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1",
+      "postedAt": "2026-11-12T10:10:00.000Z",
+      "updatedAt": "2026-11-13T09:51:00.000Z"
+    },
+    {
+      "id": "9f4ec037-f708-4540-ab84-53125b9c18d3",
+      "company": "TikTok",
+      "title": "Backend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)",
+      "locations": [
+        "Sydney, New South Wales, Australia"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4372871560/",
+      "url": "https://trueinterview.io/jobs/9f4ec037-f708-4540-ab84-53125b9c18d3",
+      "postedAt": "2026-11-13T09:47:00.000Z",
+      "updatedAt": "2026-11-13T09:47:00.000Z"
+    },
+    {
+      "id": "6c05da99-674d-406b-ab33-869290e9ed63",
+      "company": "TikTok",
+      "title": "Frontend Software Engineer Intern (TikTok Foundation) - 2027 Start (BS/MS)",
+      "locations": [
+        "Sydney, New South Wales, Australia"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4438322557/",
+      "url": "https://trueinterview.io/jobs/6c05da99-674d-406b-ab33-869290e9ed63",
+      "postedAt": "2026-11-13T09:47:00.000Z",
+      "updatedAt": "2026-11-13T09:47:00.000Z"
+    },
+    {
+      "id": "12c08452-6c80-46ba-ae67-0f2549d1f402",
+      "company": "ByteDance",
+      "title": "Research Intern (AI/LLM Network) - 2026 Start (PhD)",
+      "locations": [
+        "San Jose, CA",
+        "Seattle, WA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4471734068/",
+      "url": "https://trueinterview.io/jobs/12c08452-6c80-46ba-ae67-0f2549d1f402",
+      "postedAt": "2026-11-12T10:18:00.000Z",
+      "updatedAt": "2026-11-13T09:46:00.000Z"
+    },
+    {
+      "id": "02eea93a-228c-4a8b-bfc1-b079dc0ab45c",
+      "company": "TikTok",
+      "title": "AI Safety Evaluation & Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4452416865/",
+      "url": "https://trueinterview.io/jobs/02eea93a-228c-4a8b-bfc1-b079dc0ab45c",
+      "postedAt": "2026-11-13T09:46:00.000Z",
+      "updatedAt": "2026-11-13T09:46:00.000Z"
+    },
+    {
+      "id": "e19f74bd-f724-454d-a058-c1b7b9f6681a",
+      "company": "TikTok",
+      "title": "Content Risk Product Manager Intern (TikTok Platform Safety) - 2027 Start",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448507994/",
+      "url": "https://trueinterview.io/jobs/e19f74bd-f724-454d-a058-c1b7b9f6681a",
+      "postedAt": "2026-11-13T09:46:00.000Z",
+      "updatedAt": "2026-11-13T09:46:00.000Z"
+    },
+    {
+      "id": "1afab705-0390-423a-8622-2f359ec62ced",
+      "company": "TikTok",
+      "title": "Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start (PhD)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4447907295/",
+      "url": "https://trueinterview.io/jobs/1afab705-0390-423a-8622-2f359ec62ced",
+      "postedAt": "2026-11-12T10:18:00.000Z",
+      "updatedAt": "2026-11-13T09:46:00.000Z"
+    },
+    {
+      "id": "760bd8d9-edb9-433e-a30b-dfc8c44c7f54",
+      "company": "TikTok",
+      "title": "Research Scientist Intern - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Research Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4401876238/",
+      "url": "https://trueinterview.io/jobs/760bd8d9-edb9-433e-a30b-dfc8c44c7f54",
+      "postedAt": "2026-11-13T09:46:00.000Z",
+      "updatedAt": "2026-11-13T09:46:00.000Z"
+    },
+    {
+      "id": "870d6fab-401c-4927-9add-91fe74789853",
+      "company": "TikTok",
+      "title": "Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start (BS/MS)",
+      "locations": [
+        "Sydney, New South Wales, Australia"
+      ],
+      "cities": [
+        "Sydney"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Australia"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4439824936/",
+      "url": "https://trueinterview.io/jobs/870d6fab-401c-4927-9add-91fe74789853",
+      "postedAt": "2026-11-13T09:35:00.000Z",
+      "updatedAt": "2026-11-13T09:35:00.000Z"
+    },
+    {
+      "id": "431599e7-890a-4ee2-8c2e-4866fa26ef3d",
+      "company": "TikTok",
+      "title": "AI Agent Product Manager Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4450373767/",
+      "url": "https://trueinterview.io/jobs/431599e7-890a-4ee2-8c2e-4866fa26ef3d",
+      "postedAt": "2026-11-13T09:34:00.000Z",
+      "updatedAt": "2026-11-13T09:34:00.000Z"
+    },
+    {
+      "id": "74720ac9-3d4c-4f6e-9ce3-ef16c3852267",
+      "company": "TikTok",
+      "title": "Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4447983859/",
+      "url": "https://trueinterview.io/jobs/74720ac9-3d4c-4f6e-9ce3-ef16c3852267",
+      "postedAt": "2026-11-13T09:34:00.000Z",
+      "updatedAt": "2026-11-13T09:34:00.000Z"
+    },
+    {
+      "id": "ca775222-0723-4031-8990-3e63eff90cce",
+      "company": "TikTok",
+      "title": "Product Manager Project Intern (Ads Interface and Platform) - 2026 Start (BS/MS)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4407332739/",
+      "url": "https://trueinterview.io/jobs/ca775222-0723-4031-8990-3e63eff90cce",
+      "postedAt": "2026-11-13T09:34:00.000Z",
+      "updatedAt": "2026-11-13T09:34:00.000Z"
+    },
+    {
+      "id": "622cc162-d515-4627-8884-7118770e767b",
+      "company": "Amway",
+      "title": "Digital Product Designer Intern, Summer 2027 (Req#43550)",
+      "locations": [
+        "Ada, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465602421/",
+      "url": "https://trueinterview.io/jobs/622cc162-d515-4627-8884-7118770e767b",
+      "postedAt": "2026-11-13T09:11:00.000Z",
+      "updatedAt": "2026-11-13T09:11:00.000Z"
+    },
+    {
+      "id": "aa3bb18f-a4fb-4aa3-b8ae-840d0527c34b",
+      "company": "CNH",
+      "title": "AI Engineer Intern",
+      "locations": [
+        "Tempe, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465044490/",
+      "url": "https://trueinterview.io/jobs/aa3bb18f-a4fb-4aa3-b8ae-840d0527c34b",
+      "postedAt": "2026-11-13T09:10:00.000Z",
+      "updatedAt": "2026-11-13T09:10:00.000Z"
+    },
     {
       "id": "f31a1c08-4257-4e53-9ee0-5ef4c909c52c",
       "company": "Owl Cyber Defense",
@@ -649,6 +1487,33 @@
       "url": "https://trueinterview.io/jobs/f2f34cfe-1169-4d5e-aaa1-55221553ca15",
       "postedAt": "2026-11-13T00:16:00.000Z",
       "updatedAt": "2026-11-13T00:16:00.000Z"
+    },
+    {
+      "id": "0637523e-72bc-4be0-8b4c-0f756a037087",
+      "company": "ByteDance",
+      "title": "Backend Software Engineer Project Intern (Corporate Service System) - 2026 Start (BS/MS)",
+      "locations": [
+        "Dubai, Dubai, United Arab Emirates"
+      ],
+      "cities": [
+        "Dubai"
+      ],
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Backend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474545761/",
+      "url": "https://trueinterview.io/jobs/0637523e-72bc-4be0-8b4c-0f756a037087",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "updatedAt": "2026-11-13T00:00:00.000Z"
     },
     {
       "id": "5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8",
@@ -2483,33 +3348,6 @@
       "updatedAt": "2026-11-12T12:46:00.000Z"
     },
     {
-      "id": "763e5d25-2286-474c-aa2d-1d96d9e496a0",
-      "company": "TikTok",
-      "title": "Data Analyst Project Intern (Safety Model Operations) - 2026 Start (BS/MS）",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4401884014/",
-      "url": "https://trueinterview.io/jobs/763e5d25-2286-474c-aa2d-1d96d9e496a0",
-      "postedAt": "2026-11-12T12:46:00.000Z",
-      "updatedAt": "2026-11-12T12:46:00.000Z"
-    },
-    {
       "id": "f857556b-d562-4dac-abec-323957c33b06",
       "company": "TikTok",
       "title": "Backend Engineer Intern (TikTok Recommendation Architecture) - 2026 Start (PhD)",
@@ -2641,60 +3479,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4447695181/",
       "url": "https://trueinterview.io/jobs/60addef9-3278-4adc-915a-ff257f42cb94",
-      "postedAt": "2026-11-12T12:42:00.000Z",
-      "updatedAt": "2026-11-12T12:42:00.000Z"
-    },
-    {
-      "id": "9318b882-7d02-42fd-9e29-fd66f786f469",
-      "company": "TikTok",
-      "title": "Data Warehouse Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4447698948/",
-      "url": "https://trueinterview.io/jobs/9318b882-7d02-42fd-9e29-fd66f786f469",
-      "postedAt": "2026-11-11T13:10:00.000Z",
-      "updatedAt": "2026-11-12T12:42:00.000Z"
-    },
-    {
-      "id": "e2ec5fea-33d5-4625-a7d6-4d8202ba09e3",
-      "company": "TikTok",
-      "title": "Frontend Software Engineer Intern (Global Live Transaction) - 2027 Start",
-      "locations": [
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "Singapore"
-      ],
-      "countries": [
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Frontend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4447985873/",
-      "url": "https://trueinterview.io/jobs/e2ec5fea-33d5-4625-a7d6-4d8202ba09e3",
       "postedAt": "2026-11-12T12:42:00.000Z",
       "updatedAt": "2026-11-12T12:42:00.000Z"
     },
@@ -3230,33 +4014,6 @@
       "updatedAt": "2026-11-12T10:18:00.000Z"
     },
     {
-      "id": "12c08452-6c80-46ba-ae67-0f2549d1f402",
-      "company": "ByteDance",
-      "title": "Research Intern (AI/LLM Network) - 2026 Start (PhD)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4471734068/",
-      "url": "https://trueinterview.io/jobs/12c08452-6c80-46ba-ae67-0f2549d1f402",
-      "postedAt": "2026-11-12T10:18:00.000Z",
-      "updatedAt": "2026-11-12T10:18:00.000Z"
-    },
-    {
       "id": "cdeeee76-080a-48e5-acc1-1a27d78f5b1d",
       "company": "ByteDance",
       "title": "Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)",
@@ -3499,34 +4256,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4436529600/",
       "url": "https://trueinterview.io/jobs/a56aa766-3095-4285-8ca5-deb634e536c9",
       "postedAt": "2026-11-12T10:18:00.000Z",
-      "updatedAt": "2026-11-12T10:18:00.000Z"
-    },
-    {
-      "id": "d9755091-6b59-4571-b292-b3e4f9fb37d1",
-      "company": "TikTok",
-      "title": "Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer",
-      "locations": [
-        "San Jose, CA",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Backend Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4446293082/",
-      "url": "https://trueinterview.io/jobs/d9755091-6b59-4571-b292-b3e4f9fb37d1",
-      "postedAt": "2026-11-11T10:25:00.000Z",
       "updatedAt": "2026-11-12T10:18:00.000Z"
     },
     {
@@ -3805,33 +4534,6 @@
       "updatedAt": "2026-11-12T10:18:00.000Z"
     },
     {
-      "id": "1afab705-0390-423a-8622-2f359ec62ced",
-      "company": "TikTok",
-      "title": "Machine Learning Scientist Intern (TikTok - Content Ecology - LLM application) - 2027 Start (PhD)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4447907295/",
-      "url": "https://trueinterview.io/jobs/1afab705-0390-423a-8622-2f359ec62ced",
-      "postedAt": "2026-11-12T10:18:00.000Z",
-      "updatedAt": "2026-11-12T10:18:00.000Z"
-    },
-    {
       "id": "d520aba3-d74a-415b-a756-fb8b744a599b",
       "company": "TikTok",
       "title": "Mobile Software Engineer Intern (Social) - 2027 Start",
@@ -4024,34 +4726,6 @@
       "updatedAt": "2026-11-12T10:18:00.000Z"
     },
     {
-      "id": "6ce75b46-dc9a-4ae0-bdfc-5851042c41be",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Multimedia Framework, C++) - 2027 Start (BS/MS)",
-      "locations": [
-        "Sydney, New South Wales, Australia"
-      ],
-      "cities": [
-        "Sydney"
-      ],
-      "countries": [
-        "United Kingdom",
-        "Australia"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4439152443/",
-      "url": "https://trueinterview.io/jobs/6ce75b46-dc9a-4ae0-bdfc-5851042c41be",
-      "postedAt": "2026-11-11T11:14:00.000Z",
-      "updatedAt": "2026-11-12T10:18:00.000Z"
-    },
-    {
       "id": "a195fde1-74b7-4bf5-b8b0-17207c7f8029",
       "company": "TikTok",
       "title": "Software Test Engineer Intern (AI) - 2027 Start",
@@ -4160,60 +4834,6 @@
       "url": "https://trueinterview.io/jobs/2a0d01ec-d43f-4498-aacc-435ec4c9a5f6",
       "postedAt": "2026-11-12T10:03:00.000Z",
       "updatedAt": "2026-11-12T10:11:00.000Z"
-    },
-    {
-      "id": "38298b7a-fe94-403d-8527-74a7b9211fa1",
-      "company": "ByteDance",
-      "title": "Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Start (PhD)",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4444576976/",
-      "url": "https://trueinterview.io/jobs/38298b7a-fe94-403d-8527-74a7b9211fa1",
-      "postedAt": "2026-11-12T10:10:00.000Z",
-      "updatedAt": "2026-11-12T10:10:00.000Z"
-    },
-    {
-      "id": "b629efc8-875f-4ba9-94cf-f4b0568ba711",
-      "company": "TikTok",
-      "title": "Software Engineer Intern (Global E-commerce-Search) - 2027 Fall",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4451415081/",
-      "url": "https://trueinterview.io/jobs/b629efc8-875f-4ba9-94cf-f4b0568ba711",
-      "postedAt": "2026-11-12T10:08:00.000Z",
-      "updatedAt": "2026-11-12T10:08:00.000Z"
     },
     {
       "id": "2d0b8b23-8059-4f82-8034-0645a17bbd04",
@@ -8291,33 +8911,6 @@
       "updatedAt": "2026-11-11T10:39:00.000Z"
     },
     {
-      "id": "79183243-4f76-441b-a9c7-12fd035a3359",
-      "company": "TikTok",
-      "title": "Frontend Engineer Intern (Global CRM) - 2027 Summer",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4448287257/",
-      "url": "https://trueinterview.io/jobs/79183243-4f76-441b-a9c7-12fd035a3359",
-      "postedAt": "2026-11-11T10:25:00.000Z",
-      "updatedAt": "2026-11-11T10:25:00.000Z"
-    },
-    {
       "id": "814abcca-bc57-4d0a-921a-3a12858cc20a",
       "company": "TikTok",
       "title": "Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2027 Summer",
@@ -8702,6 +9295,31 @@
       "updatedAt": "2026-11-11T06:00:00.000Z"
     },
     {
+      "id": "0754af6f-0662-408d-903a-b19993b37ff5",
+      "company": "Encore Global",
+      "title": "IT Application Development Intern – Summer 2027",
+      "locations": [
+        "Schiller Park, IL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://jobs.encoreglobal.com/job/-/-/6228/103160646880",
+      "url": "https://trueinterview.io/jobs/0754af6f-0662-408d-903a-b19993b37ff5",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
       "id": "963d7d11-d153-40a3-bf4f-c977fd62bb8c",
       "company": "Entrust Corporation",
       "title": "Electrical Engineer Co-op",
@@ -8738,9 +9356,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -99818,33 +100436,6 @@
       "url": "https://trueinterview.io/jobs/80a94216-6f9d-41a6-9cdf-565bb2f8a260",
       "postedAt": "2026-09-14T14:19:30.000Z",
       "updatedAt": "2026-09-14T14:19:30.000Z"
-    },
-    {
-      "id": "f6448606-8dd5-454c-bffa-c8103f45448a",
-      "company": "Mistral AI",
-      "title": "Applied AI, Forward Deployed Machine Learning Engineer - (Internship)",
-      "locations": [
-        "Paris"
-      ],
-      "cities": [
-        "Paris"
-      ],
-      "countries": [
-        "France"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b",
-      "url": "https://trueinterview.io/jobs/f6448606-8dd5-454c-bffa-c8103f45448a",
-      "postedAt": "2026-09-14T09:15:24.000Z",
-      "updatedAt": "2026-09-14T09:15:24.000Z"
     }
   ]
 }
