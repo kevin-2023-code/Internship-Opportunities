@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,815 open roles.** 1,452 in the United States & Canada · 363 elsewhere in the world.
+**1,822 open roles.** 1,457 in the United States & Canada · 365 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Carrier</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffa61535-a1d6-4be7-9719-1ec74401c91c">Software Engineering Intern - Summer</a></td>
+<td>East Syracuse, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482658263/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amway</strong></td>
+<td><a href="https://trueinterview.io/jobs/3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab">Software Engineer Intern – MAGIC Bonus Calc, Summer 2027 (REQ#43437)</a></td>
+<td>Grand Rapids, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485218043/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>RS&amp;H</strong></td>
+<td><a href="https://trueinterview.io/jobs/ba2996ce-7bea-40b9-9be3-8b895d6b4098">Roadway/Traffic Control Engineering Intern - Summer 2027</a></td>
+<td>Raleigh, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468309700/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>GM Performance Power Units</strong></td>
+<td><a href="https://trueinterview.io/jobs/3514243a-a168-463e-b78a-03ed80a619ec">Simulation Engineer Intern (Summer 2027)</a></td>
+<td>Concord, NC</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485213179/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Worley</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6ecd849-9f2d-4c58-b180-54a528194d42">Functional Safety Engineering Intern</a></td>
+<td>Houston, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485213167/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Georgia-Pacific LLC</strong></td>
 <td><a href="https://trueinterview.io/jobs/9ae7ce32-a057-41b2-b39a-a92686222b7d">Georgia-Pacific Engineering Intern - Halsey, OR (Summer 2027)</a></td>
@@ -2779,41 +2814,6 @@
 <td>Macon, GA, United States</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11884">Apply</a></td>
 <td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Opensesame</strong></td>
-<td><a href="https://trueinterview.io/jobs/ee510f37-73e1-4343-97c2-b4d0bf427c61">AI Product Builder Intern</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Palantir</strong></td>
-<td><a href="https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34">Forward Deployed Software Engineer, Internship - Warp Speed</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/b6e6dda4-4d09-4cba-8271-2cc3a436a7cc">Frontend Software Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/567bfe03-5353-452d-8e2f-dc006b8c3ed4">Undergrad Software Engineering Intern (Grad Year: Winter 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8886605002">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4dd4ddc3-f9a7-4515-a66d-26ce87032e58">Software Engineering Intern - Vehicle Controls (Summer 2027)</a></td>
-<td>Vancouver, BC<br/>Palo Alto, California<br/>Vancouver, British Columbia<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 </tbody>
 </table>

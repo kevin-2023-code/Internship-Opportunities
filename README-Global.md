@@ -18,13 +18,13 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-13 00:11 UTC_
+_Last updated: 2026-11-13 01:05 UTC_
 
-**767 open internships** from **312 employers** · **178 posted in the last 7 days** · refreshed hourly
+**769 open internships** from **313 employers** · **176 posted in the last 7 days** · refreshed hourly
 
-### Browse 767 internships by field
+### Browse 769 internships by field
 
-💻 **[Software Engineering](#-software-engineering)** (363)
+💻 **[Software Engineering](#-software-engineering)** (365)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (214)
 
@@ -40,9 +40,9 @@ _Last updated: 2026-11-13 00:11 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 61 &nbsp;·&nbsp; **Bosch** 10 &nbsp;·&nbsp; **NVIDIA** 8 &nbsp;·&nbsp; **SAP IT Business Systeme** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Apple** 5 &nbsp;·&nbsp; **Intel** 4 &nbsp;·&nbsp; **Shopee** 4 &nbsp;·&nbsp; **ByteDance** 3 &nbsp;·&nbsp; **IBM** 3 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Mercari, Inc.** 3
+**TikTok** 61 &nbsp;·&nbsp; **Bosch** 10 &nbsp;·&nbsp; **NVIDIA** 8 &nbsp;·&nbsp; **SAP IT Business Systeme** 6 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **Apple** 5 &nbsp;·&nbsp; **Intel** 4 &nbsp;·&nbsp; **Shopee** 4 &nbsp;·&nbsp; **ByteDance** 3 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Mercari, Inc.** 3 &nbsp;·&nbsp; **Optiver** 3
 
-<sub>The 12 employers with the most roles posted in the last 7 days, of 26 with more than one. A count of open roles, not a ranking of employers.</sub>
+<sub>The 12 employers with the most roles posted in the last 7 days, of 24 with more than one. A count of open roles, not a ranking of employers.</sub>
 
 ---
 
@@ -52,11 +52,11 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 🏷️ **By company type** — [🏛️ Big Tech (138)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (72)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (44)](lists/company/hardware-devices.md) · [🏗️ Large tech (1,000–9,999) (23)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [📱 Consumer internet & media (19)](lists/company/consumer-internet.md) · [🏤 Mid-sized tech (200–999) (18)](lists/company/mid-size-tech.md) · [🏢 Enterprise & business software (17)](lists/company/enterprise-saas.md) · [🚗 Autonomy, automotive & mobility (10)](lists/company/autonomy-mobility.md) · [☁️ Developer tools, cloud & data infrastructure (10)](lists/company/dev-infra.md) · [+12 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (102)](lists/role/software-engineer.md) · [AI Engineer (79)](lists/role/ai-engineer.md) · [Machine Learning Engineer (43)](lists/role/machine-learning-engineer.md) · [Product Manager (41)](lists/role/product-manager.md) · [Data Analyst (40)](lists/role/data-analyst.md) · [Data Scientist (22)](lists/role/data-scientist.md) · [Security Engineer (18)](lists/role/security-engineer.md) · [Research Scientist (16)](lists/role/research-scientist.md) · [Data Engineer (13)](lists/role/data-engineer.md) · [Embedded Engineer (12)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (103)](lists/role/software-engineer.md) · [AI Engineer (79)](lists/role/ai-engineer.md) · [Machine Learning Engineer (43)](lists/role/machine-learning-engineer.md) · [Product Manager (41)](lists/role/product-manager.md) · [Data Analyst (40)](lists/role/data-analyst.md) · [Data Scientist (22)](lists/role/data-scientist.md) · [Security Engineer (18)](lists/role/security-engineer.md) · [Research Scientist (16)](lists/role/research-scientist.md) · [Data Engineer (13)](lists/role/data-engineer.md) · [Embedded Engineer (12)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
 
 📍 **By location** — [🇸🇬 Singapore (159)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (54)](lists/place/greater-china.md) · [🇬🇧 London & the UK (42)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (28)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (25)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (16)](lists/place/ireland.md) · [+5 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (178)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (176)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -79,6 +79,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Age</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec1f66fa-7fbb-4d44-9a38-c65829f8f523">2027 Software Dev Engineer Intern - Finland</a> 🆕</td>
+<td>Tampere Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490552341/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
+<tr>
+<td><strong>Koniag Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a> 🆕</td>
+<td>Greater Minneapolis-St. Paul Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
+<td align="center">0d</td>
+</tr>
 <tr>
 <td><strong>Bybit</strong></td>
 <td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a> 🆕</td>
@@ -238,20 +252,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/61ad9dab-db49-486f-8b7e-c516a556ae9f">Cybersecurity Engineer Intern (Web Security) - Information Security (Spring 2027)</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489068760/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f5747418-e150-4c94-b23b-66eb9626b52d">Security Product Manager Intern - AI-Driven Security Operations (Spring 2027)</a> 🆕</td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489058980/">Apply</a></td>
-<td align="center">0d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/86a2236e-70d2-46d5-8704-c244c3e0df25">Security Engineer Intern (Infrastructure Security) - Information Security (Spring 2027)</a> 🆕</td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489075493/">Apply</a></td>
 <td align="center">0d</td>
 </tr>
 </tbody>
@@ -620,7 +620,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 75 of 363.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
+**Showing 75 of 365.** [Every Software Engineering role, newest first →](lists/field/software-engineering.md)
 
 ## 🤖 Data, AI & Machine Learning
 
@@ -1411,7 +1411,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/b9164cd5-3baf-4b71-9a78-7d9afdcb88e6">UX/UI Design Intern</a></td>
 <td>Auckland<br/>New Zealand</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/zuru/9cf1ee54-c4e1-4a3e-8ae5-4594a9e86d7d">Apply</a></td>
-<td align="center">11d</td>
+<td align="center">12d</td>
 </tr>
 <tr>
 <td><strong>Kimi (Moonshot AI)</strong></td>
@@ -1794,7 +1794,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/92f6bef5-ef06-49a5-a836-253919c93ac0">Technical Support Engineer Intern – Networking / TAC</a></td>
 <td>Bucharest Metropolitan Area</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485271059/">Apply</a></td>
-<td align="center">13d</td>
+<td align="center">14d</td>
 </tr>
 <tr>
 <td><strong>RIVR</strong></td>

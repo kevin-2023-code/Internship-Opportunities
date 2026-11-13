@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,815 open roles.** 1,452 in the United States & Canada · 363 elsewhere in the world.
+**1,822 open roles.** 1,457 in the United States & Canada · 365 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -16,7 +16,42 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Opensesame</strong></td>
+<td><a href="https://trueinterview.io/jobs/ee510f37-73e1-4343-97c2-b4d0bf427c61">AI Product Builder Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/1555a10b-b78a-4c4a-850d-e00b87a00c34">Forward Deployed Software Engineer, Internship - Warp Speed</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/b6e6dda4-4d09-4cba-8271-2cc3a436a7cc">Frontend Software Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Twitch</strong></td>
+<td><a href="https://trueinterview.io/jobs/567bfe03-5353-452d-8e2f-dc006b8c3ed4">Undergrad Software Engineering Intern (Grad Year: Winter 2027)</a></td>
+<td>San Francisco, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8886605002">Apply</a></td>
+<td align="center">23 Oct 2026</td>
+</tr>
+<tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/4dd4ddc3-f9a7-4515-a66d-26ce87032e58">Software Engineering Intern - Vehicle Controls (Summer 2027)</a></td>
+<td>Vancouver, BC<br/>Palo Alto, California<br/>Vancouver, British Columbia<br/>+1 more</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0">Apply</a></td>
+<td align="center">22 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/ff32ef79-93fe-4641-abec-de6ae12e8120">Software Engineering Intern - Embedded Platforms (Summer 2027)</a></td>
 <td>Palo Alto, California<br/>Vancouver, BC<br/>Irvine, California<br/>+2 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048">Apply</a></td>
@@ -1792,6 +1827,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Amazon Web Services (AWS)</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec1f66fa-7fbb-4d44-9a38-c65829f8f523">2027 Software Dev Engineer Intern - Finland</a></td>
+<td>Tampere Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490552341/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Koniag Cyber</strong></td>
+<td><a href="https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd">AI Operations Intern</a></td>
+<td>Greater Minneapolis-St. Paul Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489290600/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bybit</strong></td>
 <td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
 <td>Hong Kong SAR<br/>Kuala Lumpur, Malaysia</td>
@@ -2776,55 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/26e09c36-1195-43a6-9ba7-7cdf4f29905a">Software Internship - Systems Engineering</a></td>
 <td>Bucharest, Bucharest, Romania</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4477182854/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WD</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3f21ef4-70d8-4b75-bfe3-a22b4d1c207c">Intern, Firmware Engineering</a></td>
-<td>Petaling Jaya, Selangor, Malaysia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446200376/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Red Hat</strong></td>
-<td><a href="https://trueinterview.io/jobs/d4c667d0-3f1c-4b2f-ad77-4cf491e6667f">Deal Architect Intern</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4467844126/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>OMNIVISION</strong></td>
-<td><a href="https://trueinterview.io/jobs/fbdce853-d856-4531-ac6d-1032321f2215">Algorithm Engineer Intern</a></td>
-<td>Jurong East, West Region, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4484832441/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Autodesk</strong></td>
-<td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>
-<td>Singapore, Singapore<br/>Melbourne, Victoria, Australia<br/>Melbourne, Australia</td>
-<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154217864">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Motors (GM)</strong></td>
-<td><a href="https://trueinterview.io/jobs/a59799ae-20ae-4cdd-a2b7-12e86b6d33ef">Java Software Engineer Intern</a></td>
-<td>Dublin, Ireland</td>
-<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>NetApp</strong></td>
-<td><a href="https://trueinterview.io/jobs/15a25775-83b5-4fc4-af29-bbfa84f3a174">Solutions Engineering Intern - Iberia</a></td>
-<td>Madrid, Spain</td>
-<td align="center"><a href="https://careers.netapp.com/job/madrid/solutions-engineering-intern-iberia/27600/102639938160">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Pigment</strong></td>
-<td><a href="https://trueinterview.io/jobs/cc7f6e04-e5eb-4e0b-bca0-97665f8b7775">Internship - Software Engineer (Back, Fullstack)</a></td>
-<td>Paris, France</td>
-<td align="center"><a href="https://jobs.lever.co/pigment/d29b429b-81a5-43f1-abe3-344b8defea7a">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

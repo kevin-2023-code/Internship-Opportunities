@@ -2,7 +2,7 @@
 
 # Data Analyst
 
-**103 open roles.** 63 in the United States & Canada · 40 elsewhere in the world.
+**105 open roles.** 65 in the United States & Canada · 40 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>E2 Consulting Engineers, LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/40dad874-ef0d-4307-a344-be84d4013731">Data Analyst Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490551094/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb0832ea-637d-410e-b0cd-44342c4761ec">Intern, Data Analyst &amp; BI, Summer 2027</a></td>
+<td>Towson, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490543355/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>CHAMP</strong></td>
 <td><a href="https://trueinterview.io/jobs/b16abac2-6980-43dc-82e6-4589dfd1f2b8">Intern, Data Analyst</a></td>

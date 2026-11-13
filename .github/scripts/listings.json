@@ -5,9 +5,213 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T00:11:15.227Z",
-  "count": 3824,
+  "listingsChangedAt": "2026-11-13T01:05:24.639Z",
+  "count": 3836,
   "listings": [
+    {
+      "id": "e9989d0b-da24-40b3-b523-322a8632c567",
+      "company": "Vital Lyfe",
+      "title": "Software Engineering Internship - Summer 2027",
+      "locations": [
+        "Los Angeles Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488577452/",
+      "url": "https://trueinterview.io/jobs/e9989d0b-da24-40b3-b523-322a8632c567",
+      "postedAt": "2026-11-13T00:36:00.000Z",
+      "updatedAt": "2026-11-13T00:36:00.000Z"
+    },
+    {
+      "id": "ec1f66fa-7fbb-4d44-9a38-c65829f8f523",
+      "company": "Amazon Web Services (AWS)",
+      "title": "2027 Software Dev Engineer Intern - Finland",
+      "locations": [
+        "Tampere Metropolitan Area"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490552341/",
+      "url": "https://trueinterview.io/jobs/ec1f66fa-7fbb-4d44-9a38-c65829f8f523",
+      "postedAt": "2026-11-13T00:29:00.000Z",
+      "updatedAt": "2026-11-13T00:29:00.000Z"
+    },
+    {
+      "id": "955f241d-bb64-48ed-bc80-7e0069bae169",
+      "company": "Tesla",
+      "title": "Internship, SI Chip Thermal Design Engineer, SI Hardware (Winter/Spring 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490558105/",
+      "url": "https://trueinterview.io/jobs/955f241d-bb64-48ed-bc80-7e0069bae169",
+      "postedAt": "2026-11-13T00:25:00.000Z",
+      "updatedAt": "2026-11-13T00:25:00.000Z"
+    },
+    {
+      "id": "2a7f7f87-6764-43ba-8926-26521f66a3bb",
+      "company": "Tesla",
+      "title": "Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490545485/",
+      "url": "https://trueinterview.io/jobs/2a7f7f87-6764-43ba-8926-26521f66a3bb",
+      "postedAt": "2026-11-13T00:23:00.000Z",
+      "updatedAt": "2026-11-13T00:23:00.000Z"
+    },
+    {
+      "id": "40dad874-ef0d-4307-a344-be84d4013731",
+      "company": "E2 Consulting Engineers, LP",
+      "title": "Data Analyst Intern",
+      "locations": [
+        "San Diego, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490551094/",
+      "url": "https://trueinterview.io/jobs/40dad874-ef0d-4307-a344-be84d4013731",
+      "postedAt": "2026-11-13T00:21:00.000Z",
+      "updatedAt": "2026-11-13T00:21:00.000Z"
+    },
+    {
+      "id": "cb0832ea-637d-410e-b0cd-44342c4761ec",
+      "company": "Stanley Black & Decker, Inc.",
+      "title": "Intern, Data Analyst & BI, Summer 2027",
+      "locations": [
+        "Towson, MD"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Analyst",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490543355/",
+      "url": "https://trueinterview.io/jobs/cb0832ea-637d-410e-b0cd-44342c4761ec",
+      "postedAt": "2026-11-13T00:13:00.000Z",
+      "updatedAt": "2026-11-13T00:13:00.000Z"
+    },
+    {
+      "id": "5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8",
+      "company": "Jabil",
+      "title": "IT Programmer Analyst Spring Co-Op",
+      "locations": [
+        "Florence, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489501575/",
+      "url": "https://trueinterview.io/jobs/5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8",
+      "postedAt": "2026-11-12T23:40:00.000Z",
+      "updatedAt": "2026-11-12T23:40:00.000Z"
+    },
+    {
+      "id": "4c21730b-5726-4512-9f9d-35298db4a218",
+      "company": "TSMC",
+      "title": "[2027 Summer] AI Research and Engineering Intern for Business Intelligence (8023)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489513180/",
+      "url": "https://trueinterview.io/jobs/4c21730b-5726-4512-9f9d-35298db4a218",
+      "postedAt": "2026-11-12T23:40:00.000Z",
+      "updatedAt": "2026-11-12T23:40:00.000Z"
+    },
     {
       "id": "e70b0ebf-29e3-46b4-a2d0-efac93d5e488",
       "company": "Lightmatter",
@@ -97,9 +301,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -148,7 +352,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -159,6 +363,29 @@
       "url": "https://trueinterview.io/jobs/76ae0837-5080-4053-8899-e978c57314f6",
       "postedAt": "2026-11-12T22:22:36.000Z",
       "updatedAt": "2026-11-12T22:22:36.000Z"
+    },
+    {
+      "id": "6030a66a-779b-4960-aee3-71446bcf82fd",
+      "company": "Koniag Cyber",
+      "title": "AI Operations Intern",
+      "locations": [
+        "Greater Minneapolis-St. Paul Area"
+      ],
+      "cities": [],
+      "countries": [],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489290600/",
+      "url": "https://trueinterview.io/jobs/6030a66a-779b-4960-aee3-71446bcf82fd",
+      "postedAt": "2026-11-12T22:10:00.000Z",
+      "updatedAt": "2026-11-12T22:10:00.000Z"
     },
     {
       "id": "567418ff-c1b9-47d3-8c9d-6a351acb4737",
@@ -174,7 +401,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -185,6 +412,31 @@
       "url": "https://trueinterview.io/jobs/567418ff-c1b9-47d3-8c9d-6a351acb4737",
       "postedAt": "2026-11-12T19:12:00.000Z",
       "updatedAt": "2026-11-12T22:10:00.000Z"
+    },
+    {
+      "id": "8d1999b0-4787-4e51-b77b-91283c626c67",
+      "company": "ServiceNow",
+      "title": "Product Security Intern",
+      "locations": [
+        "San Diego, CALIFORNIA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Security Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161385779-product-security-intern",
+      "url": "https://trueinterview.io/jobs/8d1999b0-4787-4e51-b77b-91283c626c67",
+      "postedAt": "2026-11-12T21:33:18.000Z",
+      "updatedAt": "2026-11-12T21:33:18.000Z"
     },
     {
       "id": "8e169ba2-f271-467f-aaa0-8ece306b5725",
@@ -200,9 +452,9 @@
         "Canada"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -316,6 +568,56 @@
       "url": "https://trueinterview.io/jobs/19108cf8-d8b6-4fa7-b3b6-29507b511ddf",
       "postedAt": "2026-11-12T18:50:00.000Z",
       "updatedAt": "2026-11-12T18:50:00.000Z"
+    },
+    {
+      "id": "94ad896b-db21-46eb-a338-b8b33f30e270",
+      "company": "ServiceNow",
+      "title": "Sr Inbound Product Manager Intern (MBA Summer 2028)",
+      "locations": [
+        "San Diego, CALIFORNIA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161364609-sr-inbound-product-manager-intern-mba-summer-2028-",
+      "url": "https://trueinterview.io/jobs/94ad896b-db21-46eb-a338-b8b33f30e270",
+      "postedAt": "2026-11-12T18:33:06.000Z",
+      "updatedAt": "2026-11-12T18:33:06.000Z"
+    },
+    {
+      "id": "a31706f8-9d9a-476b-b3bd-cdb2ae43beab",
+      "company": "ServiceNow",
+      "title": "Sr Outbound Product Manager Intern (MBA Summer 2028)",
+      "locations": [
+        "San Diego, CALIFORNIA, United States"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Product & Design",
+      "family": "Product & Design",
+      "role": "Product Manager",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161362293-sr-outbound-product-manager-intern-mba-summer-2028-",
+      "url": "https://trueinterview.io/jobs/a31706f8-9d9a-476b-b3bd-cdb2ae43beab",
+      "postedAt": "2026-11-12T18:31:23.000Z",
+      "updatedAt": "2026-11-12T18:31:23.000Z"
     },
     {
       "id": "a2fe442e-4b05-45ad-ba1f-a1b10d15f927",
@@ -4668,6 +4970,33 @@
       "updatedAt": "2026-11-12T00:00:00.000Z"
     },
     {
+      "id": "1be921ad-0749-46a2-bebc-f8054368e370",
+      "company": "Dell Technologies",
+      "title": "User Experience (UX) Research Intern",
+      "locations": [
+        "Austin, TX, United States"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Product & Design",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635",
+      "url": "https://trueinterview.io/jobs/1be921ad-0749-46a2-bebc-f8054368e370",
+      "postedAt": "2026-11-12T00:00:00.000Z",
+      "updatedAt": "2026-11-12T00:00:00.000Z"
+    },
+    {
       "id": "612f81f7-324c-4706-90c7-8e790ca1ef03",
       "company": "Ducks Unlimited",
       "title": "Engineering Intern",
@@ -5532,34 +5861,6 @@
       "url": "https://trueinterview.io/jobs/79e21a8d-fd18-41c5-b5b4-84bebd8ea348",
       "postedAt": "2026-11-11T19:07:00.000Z",
       "updatedAt": "2026-11-11T19:07:00.000Z"
-    },
-    {
-      "id": "7e219776-2d97-41d7-a115-d0a3b74e36a1",
-      "company": "Brex",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "locations": [
-        "San Francisco, California, United States",
-        "San Francisco, CA"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-      "url": "https://trueinterview.io/jobs/7e219776-2d97-41d7-a115-d0a3b74e36a1",
-      "postedAt": "2026-11-11T16:23:25.000Z",
-      "updatedAt": "2026-11-11T19:00:00.000Z"
     },
     {
       "id": "0da88028-3701-4e8b-8cef-04fa3ab0fd18",

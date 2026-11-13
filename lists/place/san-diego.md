@@ -2,7 +2,7 @@
 
 # 🏖️ San Diego
 
-**40 open roles.**
+**44 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>E2 Consulting Engineers, LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/40dad874-ef0d-4307-a344-be84d4013731">Data Analyst Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490551094/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d1999b0-4787-4e51-b77b-91283c626c67">Product Security Intern</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779-product-security-intern">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/94ad896b-db21-46eb-a338-b8b33f30e270">Sr Inbound Product Manager Intern (MBA Summer 2028)</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161364609-sr-inbound-product-manager-intern-mba-summer-2028-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a31706f8-9d9a-476b-b3bd-cdb2ae43beab">Sr Outbound Product Manager Intern (MBA Summer 2028)</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161362293-sr-outbound-product-manager-intern-mba-summer-2028-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/0ca58f70-8e14-4527-97f4-8213be30c39e">Video/Image AI/ML Software Engineer Intern (Multimedia) - 2027 Start (PhD) - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>

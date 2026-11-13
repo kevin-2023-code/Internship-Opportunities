@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**51 open roles.** 41 in the United States & Canada · 10 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**53 open roles.** 43 in the United States & Canada · 10 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tbody>
 <tr>
 <td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/955f241d-bb64-48ed-bc80-7e0069bae169">Internship, SI Chip Thermal Design Engineer, SI Hardware (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490558105/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a7f7f87-6764-43ba-8926-26521f66a3bb">Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490545485/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/8c4475d7-a69e-4258-b285-b1ef51e51bc6">Internship, Software Engineer, SI Hardware Infrastructure (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490060648/">Apply</a></td>

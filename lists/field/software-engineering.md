@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,815 open roles.** 1,452 in the United States & Canada · 363 elsewhere in the world.
+**1,822 open roles.** 1,457 in the United States & Canada · 365 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,6 +20,34 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Vital Lyfe</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9989d0b-da24-40b3-b523-322a8632c567">Software Engineering Internship - Summer 2027</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488577452/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a7f7f87-6764-43ba-8926-26521f66a3bb">Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490545485/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jabil</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8">IT Programmer Analyst Spring Co-Op</a></td>
+<td>Florence, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489501575/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/40253a2d-2446-4fce-adfc-d752b54b1371">AI Product Software Engineering Intern (U.S.A Only)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490356625/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Cintas</strong></td>
 <td><a href="https://trueinterview.io/jobs/56a9edba-a3f7-4b1f-8f37-9aae1768dd1d">IT Intern - OT Software Engineer</a></td>
 <td>Mason, OH</td>
@@ -27,10 +55,24 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Chargepoint</strong></td>
-<td><a href="https://trueinterview.io/jobs/76ae0837-5080-4053-8899-e978c57314f6">Power Electronics Engineer Intern</a></td>
-<td>US-CA-Campbell-254</td>
-<td align="center"><a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8928792002">Apply</a></td>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/567418ff-c1b9-47d3-8c9d-6a351acb4737">AI Research Engineer Intern</a></td>
+<td>Alabama, United States<br/>Colorado, United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488548852/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d1999b0-4787-4e51-b77b-91283c626c67">Product Security Intern</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779-product-security-intern">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e169ba2-f271-467f-aaa0-8ece306b5725">SAP iXp Intern – CIS Software / AI Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161375795-sap-ixp-intern-cis-software-ai-developer">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -503,14 +545,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Brex</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e219776-2d97-41d7-a115-d0a3b74e36a1">Software Engineer, Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://www.brex.com/careers/8936403002?gh_jid=8936403002">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Riot Games</strong></td>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0da88028-3701-4e8b-8cef-04fa3ab0fd18">Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.riotgames.com/en/work-with-us/job/8356789?gh_jid=8356789">Apply</a></td>
@@ -2782,41 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f18da521-af8b-43e1-91a9-80d446ea86be">Programmer Analyst Intern, Summer 2027</a></td>
 <td>Waller, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461339575/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Covestro</strong></td>
-<td><a href="https://trueinterview.io/jobs/5966ae45-a92b-4873-a4e3-9e41b944be08">Supply Chain Application Developer Co-Op</a></td>
-<td>Pittsburgh, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479552847/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>AMETEK</strong></td>
-<td><a href="https://trueinterview.io/jobs/a56d92f7-b441-4477-a32b-c8f9aa62fc4a">Intern, Junior Python Developer</a></td>
-<td>Wayne, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470613861/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Medpace</strong></td>
-<td><a href="https://trueinterview.io/jobs/8045a93e-d9da-4cce-ab87-9b751f4ea69d">Software QA Test Engineer Intern - Spring 2027</a></td>
-<td>Cincinnati, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4451474423/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Emerson</strong></td>
-<td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
-<td>Round Rock, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Plante Moran</strong></td>
-<td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
-<td>Denver, CO<br/>Southfield, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460650736/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

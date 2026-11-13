@@ -2,7 +2,7 @@
 
 # 📱 Product & Design
 
-**238 open roles.** 171 in the United States & Canada · 67 elsewhere in the world.
+**241 open roles.** 174 in the United States & Canada · 67 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/94ad896b-db21-46eb-a338-b8b33f30e270">Sr Inbound Product Manager Intern (MBA Summer 2028)</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161364609-sr-inbound-product-manager-intern-mba-summer-2028-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a31706f8-9d9a-476b-b3bd-cdb2ae43beab">Sr Outbound Product Manager Intern (MBA Summer 2028)</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161362293-sr-outbound-product-manager-intern-mba-summer-2028-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>QuantumFinix</strong></td>
 <td><a href="https://trueinterview.io/jobs/9fa8e261-ff7e-413e-a4ae-067d6b787ab0">UI/UX Design Intern</a></td>
@@ -92,6 +106,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/009f32b2-7685-470b-b4fb-7c61b99371fb">Strategy Product Manager Project Intern (TikTok-Platform Responsibility) - 2026 Start</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463829468/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1be921ad-0749-46a2-bebc-f8054368e370">User Experience (UX) Research Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

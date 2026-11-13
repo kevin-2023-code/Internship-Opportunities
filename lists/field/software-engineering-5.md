@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,815 open roles.** 1,452 in the United States & Canada · 363 elsewhere in the world.
+**1,822 open roles.** 1,457 in the United States & Canada · 365 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,55 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>WD</strong></td>
+<td><a href="https://trueinterview.io/jobs/d3f21ef4-70d8-4b75-bfe3-a22b4d1c207c">Intern, Firmware Engineering</a></td>
+<td>Petaling Jaya, Selangor, Malaysia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446200376/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Red Hat</strong></td>
+<td><a href="https://trueinterview.io/jobs/d4c667d0-3f1c-4b2f-ad77-4cf491e6667f">Deal Architect Intern</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4467844126/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>OMNIVISION</strong></td>
+<td><a href="https://trueinterview.io/jobs/fbdce853-d856-4531-ac6d-1032321f2215">Algorithm Engineer Intern</a></td>
+<td>Jurong East, West Region, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484832441/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Autodesk</strong></td>
+<td><a href="https://trueinterview.io/jobs/08ccded8-e618-42be-8081-c7fdadeb9dbc">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</a></td>
+<td>Singapore, Singapore<br/>Melbourne, Victoria, Australia<br/>Melbourne, Australia</td>
+<td align="center"><a href="https://jobs.autodesk.com/careers/job/1443154217864">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors (GM)</strong></td>
+<td><a href="https://trueinterview.io/jobs/a59799ae-20ae-4cdd-a2b7-12e86b6d33ef">Java Software Engineer Intern</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NetApp</strong></td>
+<td><a href="https://trueinterview.io/jobs/15a25775-83b5-4fc4-af29-bbfa84f3a174">Solutions Engineering Intern - Iberia</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://careers.netapp.com/job/madrid/solutions-engineering-intern-iberia/27600/102639938160">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Pigment</strong></td>
+<td><a href="https://trueinterview.io/jobs/cc7f6e04-e5eb-4e0b-bca0-97665f8b7775">Internship - Software Engineer (Back, Fullstack)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://jobs.lever.co/pigment/d29b429b-81a5-43f1-abe3-344b8defea7a">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>iNova Pharmaceuticals</strong></td>
 <td><a href="https://trueinterview.io/jobs/61c9a7ad-e1a9-45e6-b474-ad63c39bb9f7">Quality Assurance Intern | Jan-June 2027</a></td>

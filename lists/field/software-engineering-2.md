@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,815 open roles.** 1,452 in the United States & Canada · 363 elsewhere in the world.
+**1,822 open roles.** 1,457 in the United States & Canada · 365 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,41 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Covestro</strong></td>
+<td><a href="https://trueinterview.io/jobs/5966ae45-a92b-4873-a4e3-9e41b944be08">Supply Chain Application Developer Co-Op</a></td>
+<td>Pittsburgh, PA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4479552847/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AMETEK</strong></td>
+<td><a href="https://trueinterview.io/jobs/a56d92f7-b441-4477-a32b-c8f9aa62fc4a">Intern, Junior Python Developer</a></td>
+<td>Wayne, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470613861/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Medpace</strong></td>
+<td><a href="https://trueinterview.io/jobs/8045a93e-d9da-4cce-ab87-9b751f4ea69d">Software QA Test Engineer Intern - Spring 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4451474423/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td><a href="https://trueinterview.io/jobs/539a14b3-2536-48d4-af98-db75bb1185f2">Graduate Software Engineering Intern</a></td>
+<td>Round Rock, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4470623820/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Plante Moran</strong></td>
+<td><a href="https://trueinterview.io/jobs/72510318-2dd5-434c-bcbd-cce72be3c6b1">2027 Cybersecurity Consultant Intern</a></td>
+<td>Denver, CO<br/>Southfield, MI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460650736/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ascend Learning</strong></td>
 <td><a href="https://trueinterview.io/jobs/c42fb8b2-c0e1-4f67-9385-c4058169c6df">Intern - Software Engineering</a></td>
@@ -2778,41 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/ce2e5c14-a170-474e-83e3-2c222f40dffc">Mercury Marine - Heat Treat Metallurgical Engineer Co-op</a></td>
 <td>Fond du Lac, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459034767/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Carrier</strong></td>
-<td><a href="https://trueinterview.io/jobs/ffa61535-a1d6-4be7-9719-1ec74401c91c">Software Engineering Intern - Summer</a></td>
-<td>East Syracuse, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4482658263/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Amway</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e3ed5d1-8c21-41aa-b30e-ad21a7e312ab">Software Engineer Intern – MAGIC Bonus Calc, Summer 2027 (REQ#43437)</a></td>
-<td>Grand Rapids, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485218043/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>RS&amp;H</strong></td>
-<td><a href="https://trueinterview.io/jobs/ba2996ce-7bea-40b9-9be3-8b895d6b4098">Roadway/Traffic Control Engineering Intern - Summer 2027</a></td>
-<td>Raleigh, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4468309700/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>GM Performance Power Units</strong></td>
-<td><a href="https://trueinterview.io/jobs/3514243a-a168-463e-b78a-03ed80a619ec">Simulation Engineer Intern (Summer 2027)</a></td>
-<td>Concord, NC</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485213179/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Worley</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6ecd849-9f2d-4c58-b180-54a528194d42">Functional Safety Engineering Intern</a></td>
-<td>Houston, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485213167/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**91 open roles.**
+**92 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -36,6 +36,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8ab930ef-80e8-4571-8cdb-399a089b57b6">Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)</a></td>
 <td>Austin, TX<br/>Austin, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4366485008/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1be921ad-0749-46a2-bebc-f8054368e370">User Experience (UX) Research Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

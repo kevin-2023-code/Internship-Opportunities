@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**969 open roles.** 791 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
+**969 open roles.** 793 in the United States & Canada · 176 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,55 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Vital Lyfe</strong></td>
+<td><a href="https://trueinterview.io/jobs/e9989d0b-da24-40b3-b523-322a8632c567">Software Engineering Internship - Summer 2027</a></td>
+<td>Los Angeles Metropolitan Area</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488577452/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/955f241d-bb64-48ed-bc80-7e0069bae169">Internship, SI Chip Thermal Design Engineer, SI Hardware (Winter/Spring 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490558105/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2a7f7f87-6764-43ba-8926-26521f66a3bb">Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490545485/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>E2 Consulting Engineers, LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/40dad874-ef0d-4307-a344-be84d4013731">Data Analyst Intern</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490551094/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Stanley Black &amp; Decker, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb0832ea-637d-410e-b0cd-44342c4761ec">Intern, Data Analyst &amp; BI, Summer 2027</a></td>
+<td>Towson, MD</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490543355/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jabil</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8">IT Programmer Analyst Spring Co-Op</a></td>
+<td>Florence, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489501575/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>TSMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c21730b-5726-4512-9f9d-35298db4a218">[2027 Summer] AI Research and Engineering Intern for Business Intelligence (8023)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489513180/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Lightmatter</strong></td>
 <td><a href="https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488">Data &amp; AI Platform, Intern - Summer 2027</a></td>
@@ -69,6 +118,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d1999b0-4787-4e51-b77b-91283c626c67">Product Security Intern</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161385779-product-security-intern">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e169ba2-f271-467f-aaa0-8ece306b5725">SAP iXp Intern – CIS Software / AI Developer</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
@@ -101,6 +157,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/19108cf8-d8b6-4fa7-b3b6-29507b511ddf">Power Performance Quantitative Intern</a></td>
 <td>Houston, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4478709349/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ServiceNow</strong></td>
+<td><a href="https://trueinterview.io/jobs/94ad896b-db21-46eb-a338-b8b33f30e270">Sr Inbound Product Manager Intern (MBA Summer 2028)</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161364609-sr-inbound-product-manager-intern-mba-summer-2028-">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/a31706f8-9d9a-476b-b3bd-cdb2ae43beab">Sr Outbound Product Manager Intern (MBA Summer 2028)</a></td>
+<td>San Diego, CALIFORNIA, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ServiceNow/744000161362293-sr-outbound-product-manager-intern-mba-summer-2028-">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -832,6 +902,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Dell Technologies</strong></td>
+<td><a href="https://trueinterview.io/jobs/1be921ad-0749-46a2-bebc-f8054368e370">User Experience (UX) Research Intern</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Ducks Unlimited</strong></td>
 <td><a href="https://trueinterview.io/jobs/612f81f7-324c-4706-90c7-8e790ca1ef03">Engineering Intern</a></td>
 <td>Lubbock, TX, 79401</td>
@@ -1053,13 +1130,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/79e21a8d-fd18-41c5-b5b4-84bebd8ea348">2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)</a></td>
 <td>Reston, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489020766/">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brex</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e219776-2d97-41d7-a115-d0a3b74e36a1">Software Engineer, Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://www.brex.com/careers/8936403002?gh_jid=8936403002">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2747,76 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5be965a1-30a0-4b61-880e-2d8b2bed75d2">Full-Stack Software Engineering Intern, Summer 2027</a></td>
 <td>Scottsdale, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487949042/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zoetis</strong></td>
-<td><a href="https://trueinterview.io/jobs/4790694c-5648-45e7-8767-7e43c36f3c9a">AI Assistant Development Intern</a></td>
-<td>Parsippany-Troy Hills, NJ<br/>Troy Hills, NJ</td>
-<td align="center"><a href="https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Coffman Engineers</strong></td>
-<td><a href="https://trueinterview.io/jobs/5211aa3f-8478-48b2-b415-38603f872e0d">Civil Engineering Intern</a></td>
-<td>Honolulu, Hawaii, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CoffmanEngineersInc/744000160700557-civil-engineering-intern">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>New York Life</strong></td>
-<td><a href="https://trueinterview.io/jobs/6b478fa9-e255-4b87-9542-1d77adec0619">2027 New York Life Direct Summer Internship Program - IBM i Developer</a></td>
-<td>Tampa, FL</td>
-<td align="center"><a href="https://careers.newyorklife.com/careers/job/45406361">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WebstaurantStore</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c387cce-2581-49ff-b172-f455eb3f4865">UX Product Design Intern</a></td>
-<td>Lititz, PA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487932182/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Nutanix</strong></td>
-<td><a href="https://trueinterview.io/jobs/6fbd443a-2eca-4f73-9f6e-1ab015c25c8b">UX Design Intern (Summer 2027)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489100905/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lila Sciences</strong></td>
-<td><a href="https://trueinterview.io/jobs/f6eb1938-e6a7-4ea6-b21f-a0f18bd3ad51">Co-Op, IT/OT Security Analyst</a></td>
-<td>Cambridge, MA USA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4477308009">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/50df9f0d-6c8a-4f51-a0f6-0382f9c7289a">Co-op, Software, Applied AI Platform Engineer</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4472540009">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Cedonix</strong></td>
-<td><a href="https://trueinterview.io/jobs/1dac813e-b900-4b6b-baed-a73709ade332">Cybersecurity Intern</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488788761/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Biodesix, Inc.</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a7c4e68-81b9-4da9-9cd5-6127b94e51b3">Software Development &amp; AI Internship (Undergrad/Graduate)</a></td>
-<td>Louisville, CO</td>
-<td align="center"><a href="https://grnh.se/yj6lk7rc9us">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>St. Katharine Drexel Parish</strong></td>
-<td><a href="https://trueinterview.io/jobs/738d3fe4-55cd-4c31-9db7-bace85a99efd">IT Service and Support Intern</a></td>
-<td>Green Bay, WI</td>
-<td align="center"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0684a99840168535a65763550&amp;id=8a7887a8a18473d601a1c137739f4915&amp;lang=en">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

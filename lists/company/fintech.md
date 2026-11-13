@@ -2,7 +2,7 @@
 
 # 💳 Fintech, payments & crypto
 
-**30 open roles.** 21 in the United States & Canada · 9 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
+**29 open roles.** 20 in the United States & Canada · 9 elsewhere in the world. Payments, neobanks, lending, trading apps, crypto and financial infrastructure.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, WA<br/>New York, United States<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490080784/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brex</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e219776-2d97-41d7-a115-d0a3b74e36a1">Software Engineer, Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://www.brex.com/careers/8936403002?gh_jid=8936403002">Apply</a></td>
-<td align="center">11 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Ramp</strong></td>

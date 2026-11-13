@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**128 open roles.** 105 in the United States & Canada · 23 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**127 open roles.** 104 in the United States & Canada · 23 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,13 +29,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/2f5ceacd-63bd-46d6-b65c-7a55a58799e2">Spring 2027: Product Performance Test Engineer Co-op (January through June)</a></td>
 <td>Needham, MA, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726164006">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brex</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e219776-2d97-41d7-a115-d0a3b74e36a1">Software Engineer, Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://www.brex.com/careers/8936403002?gh_jid=8936403002">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>

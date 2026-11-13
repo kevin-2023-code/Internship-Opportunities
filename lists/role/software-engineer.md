@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**547 open roles.** 445 in the United States & Canada · 102 elsewhere in the world.
+**550 open roles.** 447 in the United States & Canada · 103 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Tesla</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a7f7f87-6764-43ba-8926-26521f66a3bb">Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)</a></td>
+<td>Palo Alto, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490545485/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Jabil</strong></td>
+<td><a href="https://trueinterview.io/jobs/5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8">IT Programmer Analyst Spring Co-Op</a></td>
+<td>Florence, KY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489501575/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Cintas</strong></td>
 <td><a href="https://trueinterview.io/jobs/56a9edba-a3f7-4b1f-8f37-9aae1768dd1d">IT Intern - OT Software Engineer</a></td>
 <td>Mason, OH</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490531233/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/8e169ba2-f271-467f-aaa0-8ece306b5725">SAP iXp Intern – CIS Software / AI Developer</a></td>
+<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161375795-sap-ixp-intern-cis-software-ai-developer">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -248,13 +269,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/6039ddff-4bd2-454c-a907-9ada2e30f0b8">Content Developer Intern</a></td>
 <td>1020 SE Loop 289, Lubbock, TX, 79404, US</td>
 <td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4658086?listingId=646acf7b-3795-46d1-8ec6-8ec7238debd9">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Brex</strong></td>
-<td><a href="https://trueinterview.io/jobs/7e219776-2d97-41d7-a115-d0a3b74e36a1">Software Engineer, Intern (Summer 2027)</a></td>
-<td>San Francisco, California, United States</td>
-<td align="center"><a href="https://www.brex.com/careers/8936403002?gh_jid=8936403002">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2803,20 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a1ea5278-d2ab-4a8d-8b3a-0d1a6010a899">Developer Community Engagement Intern</a></td>
 <td>Las Vegas, Nevada</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/34dd183d-4423-40e3-bb6d-790b5dafc731/application">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/ec0227f5-8ba4-4abb-814d-96597d6340b3">Software Engineering Intern</a></td>
-<td>Las Vegas, Nevada</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab/application">Apply</a></td>
-<td align="center">5 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Hewlett Packard Enterprise</strong></td>
-<td><a href="https://trueinterview.io/jobs/a016b52a-f0bc-4584-bd1a-467cf591c910">Systems Software Engineer Intern</a></td>
-<td>Bloomington, Minnesota, United States of America</td>
-<td align="center"><a href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401">Apply</a></td>
 <td align="center">5 Oct 2026</td>
 </tr>
 </tbody>

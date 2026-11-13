@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**242 open roles.** 163 in the United States & Canada · 79 elsewhere in the world.
+**241 open roles.** 162 in the United States & Canada · 79 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>TSMC</strong></td>
+<td><a href="https://trueinterview.io/jobs/4c21730b-5726-4512-9f9d-35298db4a218">[2027 Summer] AI Research and Engineering Intern for Business Intelligence (8023)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489513180/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Lightmatter</strong></td>
 <td><a href="https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488">Data &amp; AI Platform, Intern - Summer 2027</a></td>
 <td>Boston, MA</td>
@@ -25,24 +32,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Marketeq Digital Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/40253a2d-2446-4fce-adfc-d752b54b1371">AI Product Software Engineering Intern (U.S.A Only)</a></td>
-<td>Miami, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4490356625/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Lockheed Martin</strong></td>
 <td><a href="https://trueinterview.io/jobs/567418ff-c1b9-47d3-8c9d-6a351acb4737">AI Research Engineer Intern</a></td>
 <td>Alabama, United States<br/>Colorado, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488548852/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e169ba2-f271-467f-aaa0-8ece306b5725">SAP iXp Intern – CIS Software / AI Developer</a></td>
-<td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161375795-sap-ixp-intern-cis-software-ai-developer">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
