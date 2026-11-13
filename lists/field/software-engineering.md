@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,847 open roles.** 1,477 in the United States & Canada · 370 elsewhere in the world.
+**1,845 open roles.** 1,475 in the United States & Canada · 370 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -447,10 +447,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Eversource Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c595bc3-32d0-4505-b218-528060aa8e7b">2027 Gas Systems Engineering Co-op</a></td>
-<td>Berlin, CT</td>
-<td align="center"><a href="https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Systems-Engineering-Co-op_R-032513">Apply</a></td>
+<td><strong>Cardinal Health</strong></td>
+<td><a href="https://trueinterview.io/jobs/8d4a3141-5727-40c2-bd03-08ada814efe0">Technology Internship (Summer 2027)</a></td>
+<td>Dublin, OH</td>
+<td align="center"><a href="https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -461,17 +461,10 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>SK hynix memory solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/8669c5fc-0726-41f3-a1bd-af8d628af896">Embedded Software Engineer Intern</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://grnh.se/olytkm6a9us">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Walmart</strong></td>
-<td><a href="https://trueinterview.io/jobs/13fe7ec0-1c21-45c8-adf0-fcae63121e99">Summer 2027 Corporate Intern: APD Automation Engineer</a></td>
-<td>Bentonville, AR</td>
-<td align="center"><a href="https://www.indeed.com/viewjob?jk=112ea09e47701dc7">Apply</a></td>
+<td><strong>Reliance Matrix</strong></td>
+<td><a href="https://trueinterview.io/jobs/93cebc55-ce06-494b-984b-e9eec52e537c">Technology Summer Internship</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://rsli.wd503.myworkdayjobs.com/en-US/RSLIJobs/job/Philadelphia-PA/Technology-Summer-Internship_R6956">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -1571,6 +1564,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f73783c5-3e98-4c63-983d-813081cde8be">AI Frontend Engineering Intern (U.S.A Only)</a></td>
 <td>Miami, FL</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489151994/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>OneHope, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/370e5ab6-8b91-4081-a19e-c9f24ce15485">Front-End Developer Intern - Spring 2027</a></td>
+<td>Pompano Beach, FL</td>
+<td align="center"><a href="https://www.indeed.com/viewjob?jk=068f55cf7c446204">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 <tr>

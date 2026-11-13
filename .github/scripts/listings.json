@@ -5,7 +5,7 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T06:07:32.686Z",
+  "listingsChangedAt": "2026-11-13T07:05:36.069Z",
   "count": 3837,
   "listings": [
     {
@@ -1004,33 +1004,6 @@
       "url": "https://trueinterview.io/jobs/38ad2db6-c63d-47ee-a24e-66406aa5f22b",
       "postedAt": "2026-11-12T17:18:47.000Z",
       "updatedAt": "2026-11-12T17:18:47.000Z"
-    },
-    {
-      "id": "4e1dfff2-d14e-4687-a569-f61446bcbd7e",
-      "company": "Clera",
-      "title": "Computer Vision & Robotics Intern",
-      "locations": [
-        "San Francisco"
-      ],
-      "cities": [
-        "San Francisco, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Clera/00f7d786-5b1e-4c2d-8103-4e05618937c8",
-      "url": "https://trueinterview.io/jobs/4e1dfff2-d14e-4687-a569-f61446bcbd7e",
-      "postedAt": "2026-11-12T17:18:39.000Z",
-      "updatedAt": "2026-11-12T17:18:39.000Z"
     },
     {
       "id": "221f453a-e627-4f4a-9799-d103100f1a16",
@@ -4498,6 +4471,34 @@
       "updatedAt": "2026-11-12T06:13:00.000Z"
     },
     {
+      "id": "8d4a3141-5727-40c2-bd03-08ada814efe0",
+      "company": "Cardinal Health",
+      "title": "Technology Internship (Summer 2027)",
+      "locations": [
+        "Dublin, OH"
+      ],
+      "cities": [
+        "Dublin"
+      ],
+      "countries": [
+        "United States",
+        "Ireland"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Technology-Internship--Summer-2027-_20189610-1",
+      "url": "https://trueinterview.io/jobs/8d4a3141-5727-40c2-bd03-08ada814efe0",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
       "id": "e11ff9d8-373f-4b7c-be27-6334ad4f2f7a",
       "company": "CareSource",
       "title": "2027 Summer Internship Program - Software Engineer",
@@ -4537,7 +4538,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -4546,6 +4547,58 @@
       "source": "indeed",
       "applyUrl": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/MA-Westborough-Technology-Dr/XMLNAME-2027-Gas-Systems-Engineering-Co-op_R-032513",
       "url": "https://trueinterview.io/jobs/2c595bc3-32d0-4505-b218-528060aa8e7b",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "3d464a4f-1fe2-4f97-a082-32920acded1d",
+      "company": "Hargrove Engineers + Constructors",
+      "title": "Electrical Engineering Co-Op",
+      "locations": [
+        "New Johnsonville, TN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://hargroveepc.wd12.myworkdayjobs.com/Hargrove_Careers/job/New-Johnsonville-TN/Electrical-Engineering-Co-Op_2026-001362",
+      "url": "https://trueinterview.io/jobs/3d464a4f-1fe2-4f97-a082-32920acded1d",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "340ed76d-a94f-42a3-afbf-61c1052d7197",
+      "company": "Lightmatter",
+      "title": "Package Layout Automation Internship - Summer 2027",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "cities": [
+        "San Francisco, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "junior",
+      "level": "experienced",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://grnh.se/60vuz6g78us",
+      "url": "https://trueinterview.io/jobs/340ed76d-a94f-42a3-afbf-61c1052d7197",
       "postedAt": "2026-11-12T06:00:00.000Z",
       "updatedAt": "2026-11-12T06:00:00.000Z"
     },
@@ -4565,7 +4618,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Site Reliability Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -4573,6 +4626,31 @@
       "source": "indeed",
       "applyUrl": "https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
       "url": "https://trueinterview.io/jobs/73493686-d982-4f46-8667-883a245e7fa4",
+      "postedAt": "2026-11-12T06:00:00.000Z",
+      "updatedAt": "2026-11-12T06:00:00.000Z"
+    },
+    {
+      "id": "93cebc55-ce06-494b-984b-e9eec52e537c",
+      "company": "Reliance Matrix",
+      "title": "Technology Summer Internship",
+      "locations": [
+        "Philadelphia, PA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://rsli.wd503.myworkdayjobs.com/en-US/RSLIJobs/job/Philadelphia-PA/Technology-Summer-Internship_R6956",
+      "url": "https://trueinterview.io/jobs/93cebc55-ce06-494b-984b-e9eec52e537c",
       "postedAt": "2026-11-12T06:00:00.000Z",
       "updatedAt": "2026-11-12T06:00:00.000Z"
     },
@@ -4591,7 +4669,7 @@
       ],
       "remote": "onsite",
       "category": "Software",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Embedded Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -4600,31 +4678,6 @@
       "source": "indeed",
       "applyUrl": "https://grnh.se/olytkm6a9us",
       "url": "https://trueinterview.io/jobs/8669c5fc-0726-41f3-a1bd-af8d628af896",
-      "postedAt": "2026-11-12T06:00:00.000Z",
-      "updatedAt": "2026-11-12T06:00:00.000Z"
-    },
-    {
-      "id": "13fe7ec0-1c21-45c8-adf0-fcae63121e99",
-      "company": "Walmart",
-      "title": "Summer 2027 Corporate Intern: APD Automation Engineer",
-      "locations": [
-        "Bentonville, AR"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=112ea09e47701dc7",
-      "url": "https://trueinterview.io/jobs/13fe7ec0-1c21-45c8-adf0-fcae63121e99",
       "postedAt": "2026-11-12T06:00:00.000Z",
       "updatedAt": "2026-11-12T06:00:00.000Z"
     },
@@ -12564,34 +12617,6 @@
       "updatedAt": "2026-11-10T00:17:00.000Z"
     },
     {
-      "id": "bf5e09c5-8360-4286-9281-6aad12344985",
-      "company": "UiPath",
-      "title": "AI Engineer Intern",
-      "locations": [
-        "Bellevue",
-        "Bellevue, WA"
-      ],
-      "cities": [
-        "Bellevue, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555",
-      "url": "https://trueinterview.io/jobs/bf5e09c5-8360-4286-9281-6aad12344985",
-      "postedAt": "2026-11-09T17:12:40.000Z",
-      "updatedAt": "2026-11-10T00:17:00.000Z"
-    },
-    {
       "id": "d215506d-99d3-4a34-91cb-fdfe95e3cf85",
       "company": "UiPath",
       "title": "Software Engineer Intern",
@@ -13114,6 +13139,31 @@
       "url": "https://trueinterview.io/jobs/bae42d71-c503-44d9-aac7-036dcb1bbd13",
       "postedAt": "2026-11-09T21:53:01.000Z",
       "updatedAt": "2026-11-09T21:53:01.000Z"
+    },
+    {
+      "id": "370e5ab6-8b91-4081-a19e-c9f24ce15485",
+      "company": "OneHope, Inc.",
+      "title": "Front-End Developer Intern - Spring 2027",
+      "locations": [
+        "Pompano Beach, FL"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Full-Stack Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=068f55cf7c446204",
+      "url": "https://trueinterview.io/jobs/370e5ab6-8b91-4081-a19e-c9f24ce15485",
+      "postedAt": "2026-11-09T20:52:07.000Z",
+      "updatedAt": "2026-11-09T20:52:07.000Z"
     },
     {
       "id": "ce069330-650a-473d-80d3-baeab51d19ee",
@@ -89243,34 +89293,6 @@
       "updatedAt": "2026-10-01T22:07:56.000Z"
     },
     {
-      "id": "30aab32a-8842-4665-bb8a-ebe72b6f2b6e",
-      "company": "Seatgeek",
-      "title": "Security Engineer - Internship",
-      "locations": [
-        "New York, New York",
-        "United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Security Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://seatgeek.com/jobs/8248151?gh_jid=8248151",
-      "url": "https://trueinterview.io/jobs/30aab32a-8842-4665-bb8a-ebe72b6f2b6e",
-      "postedAt": "2026-10-01T21:14:24.000Z",
-      "updatedAt": "2026-10-01T21:14:24.000Z"
-    },
-    {
       "id": "302620d2-7469-4219-b6c9-62b5d5c54f5b",
       "company": "Seatgeek",
       "title": "UX Design - Internship",
@@ -99693,31 +99715,6 @@
       "url": "https://trueinterview.io/jobs/f6448606-8dd5-454c-bffa-c8103f45448a",
       "postedAt": "2026-09-14T09:15:24.000Z",
       "updatedAt": "2026-09-14T09:15:24.000Z"
-    },
-    {
-      "id": "90c183fe-99cc-486c-809d-c682bcf6cf5f",
-      "company": "Antares",
-      "title": "Nuclear Operations & Licensing Engineering Intern - Summer 2027",
-      "locations": [
-        "Idaho Falls"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/Antares/ec96a761-509f-44e9-90aa-e1fee5388aa1",
-      "url": "https://trueinterview.io/jobs/90c183fe-99cc-486c-809d-c682bcf6cf5f",
-      "postedAt": "2026-09-14T06:20:25.000Z",
-      "updatedAt": "2026-09-14T06:20:25.000Z"
     }
   ]
 }

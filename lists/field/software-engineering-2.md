@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,847 open roles.** 1,477 in the United States & Canada · 370 elsewhere in the world.
+**1,845 open roles.** 1,475 in the United States & Canada · 370 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
