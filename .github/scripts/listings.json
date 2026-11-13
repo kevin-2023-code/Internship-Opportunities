@@ -5,9 +5,36 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T03:06:00.520Z",
-  "count": 3832,
+  "listingsChangedAt": "2026-11-13T04:05:57.553Z",
+  "count": 3830,
   "listings": [
+    {
+      "id": "9c34f7cb-5984-4657-a1ae-f56fb10d1370",
+      "company": "Aurora Innovation",
+      "title": "Software Engineer Intern, Vehicle Platforms",
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "cities": [
+        "Mountain View, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Hardware & Engineering",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
+      "url": "https://trueinterview.io/jobs/9c34f7cb-5984-4657-a1ae-f56fb10d1370",
+      "postedAt": "2026-11-13T02:49:46.000Z",
+      "updatedAt": "2026-11-13T02:49:46.000Z"
+    },
     {
       "id": "ac5db87d-9b19-4a6d-a477-efbbec1b3f79",
       "company": "Frontbase Inc",
@@ -1152,9 +1179,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1162,6 +1189,31 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4464955016/",
       "url": "https://trueinterview.io/jobs/6358c930-b5df-431b-8583-2e44dd8485cd",
+      "postedAt": "2026-11-12T14:50:00.000Z",
+      "updatedAt": "2026-11-12T14:50:00.000Z"
+    },
+    {
+      "id": "088d4170-cbc7-4b9f-91f1-4a4b79b869bb",
+      "company": "Graco",
+      "title": "AI intern",
+      "locations": [
+        "French Lake, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463060692/",
+      "url": "https://trueinterview.io/jobs/088d4170-cbc7-4b9f-91f1-4a4b79b869bb",
       "postedAt": "2026-11-12T14:50:00.000Z",
       "updatedAt": "2026-11-12T14:50:00.000Z"
     },
@@ -1179,8 +1231,8 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "QA Engineer",
-      "seniority": "intern",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -1204,9 +1256,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1233,7 +1285,7 @@
       "category": "Software",
       "family": "Software",
       "role": "Mobile Engineer",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -1257,8 +1309,8 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
+      "role": "AI Engineer",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -79602,31 +79654,6 @@
       "updatedAt": "2026-10-16T15:15:29.000Z"
     },
     {
-      "id": "1117d21a-ac97-4353-a529-21b56c700b09",
-      "company": "Pattern",
-      "title": "AI Automation Engineer Intern",
-      "locations": [
-        "Lehi, UT, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
-      "url": "https://trueinterview.io/jobs/1117d21a-ac97-4353-a529-21b56c700b09",
-      "postedAt": "2026-10-16T14:27:49.000Z",
-      "updatedAt": "2026-10-16T14:27:49.000Z"
-    },
-    {
       "id": "6595e4f2-4521-4bb7-af21-bc48eff0f573",
       "company": "Veeam Software",
       "title": "Data & Analytics Engineering Intern - Summer 2027",
@@ -81462,33 +81489,6 @@
       "source": "1point3acres",
       "applyUrl": "https://wing.com/careers/8872477002?gh_jid=8872477002",
       "url": "https://trueinterview.io/jobs/49ef0dd0-1107-40df-8daa-f866dea43748",
-      "postedAt": "2026-10-14T00:00:00.000Z",
-      "updatedAt": "2026-10-14T00:00:00.000Z"
-    },
-    {
-      "id": "5537eea7-0f1a-444d-beac-5e3242699f4c",
-      "company": "wing",
-      "title": "Flight Test Engineering Intern, Summer 2027",
-      "locations": [
-        "Palo Alto, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://wing.com/careers/8872480002?gh_jid=8872480002",
-      "url": "https://trueinterview.io/jobs/5537eea7-0f1a-444d-beac-5e3242699f4c",
       "postedAt": "2026-10-14T00:00:00.000Z",
       "updatedAt": "2026-10-14T00:00:00.000Z"
     },
@@ -98967,33 +98967,6 @@
       "updatedAt": "2026-09-14T18:35:28.000Z"
     },
     {
-      "id": "7fb740ae-2460-44ff-b2ae-d3104a2a15c5",
-      "company": "Eq Bank",
-      "title": "Intern - Commercial Lending AI Engineer, Winter 2027",
-      "locations": [
-        "Toronto"
-      ],
-      "cities": [
-        "Toronto, ON"
-      ],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487",
-      "url": "https://trueinterview.io/jobs/7fb740ae-2460-44ff-b2ae-d3104a2a15c5",
-      "postedAt": "2026-09-14T17:49:16.000Z",
-      "updatedAt": "2026-09-14T17:49:16.000Z"
-    },
-    {
       "id": "fb396c12-c315-4104-8315-deea38fc2c5c",
       "company": "Base Power",
       "title": "Quantitative Developer Intern",
@@ -99575,31 +99548,6 @@
       "url": "https://trueinterview.io/jobs/ce0d388b-3733-4a72-bda3-cc508ab9459f",
       "postedAt": "2026-09-14T05:14:11.000Z",
       "updatedAt": "2026-09-14T05:14:11.000Z"
-    },
-    {
-      "id": "800834b3-d216-41d1-9d86-2b4a6991a35c",
-      "company": "Wade Trim",
-      "title": "Electrical Engineer Summer Intern - #3046",
-      "locations": [
-        "Taylor, MI"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/wadetrim/c3713837-17e6-423a-bce8-5c06635b002b",
-      "url": "https://trueinterview.io/jobs/800834b3-d216-41d1-9d86-2b4a6991a35c",
-      "postedAt": "2026-09-14T03:34:40.000Z",
-      "updatedAt": "2026-09-14T03:34:40.000Z"
     }
   ]
 }
