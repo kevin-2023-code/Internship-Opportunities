@@ -2,7 +2,7 @@
 
 # 🍁 Toronto, Waterloo & Ottawa
 
-**52 open roles.**
+**51 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -282,13 +282,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Mississauga, Canada</td>
 <td align="center"><a href="https://jobs.mercedes-benz.com/product-management-intern-243987-MER00049WH">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/bd301f3e-1184-4af7-9a56-375b66576588">Software Engineering Intern - Applications (Summer 2027)</a></td>
-<td>Toronto, Ontario<br/>Vancouver, BC<br/>Palo Alto, California<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b">Apply</a></td>
-<td align="center">22 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Kepler Communications Inc.</strong></td>

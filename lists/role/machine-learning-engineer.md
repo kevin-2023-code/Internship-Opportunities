@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**184 open roles.** 139 in the United States & Canada · 45 elsewhere in the world.
+**187 open roles.** 142 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Symbotic</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ee89bc0-92b3-4473-b8d4-a7258455760b">Co-op- Machine Learning Ops</a></td>
+<td>Wilmington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482784212/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/76a82956-88d2-4ac6-8e1a-26a7a40597eb">2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474575962/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/19343885-ca93-41c3-87fd-75a98727984d">2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474575961/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/a99331c9-55a9-4a36-bb58-638641fe4259">Machine Learning Engineer Intern</a></td>

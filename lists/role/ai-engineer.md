@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**244 open roles.** 161 in the United States & Canada · 83 elsewhere in the world.
+**245 open roles.** 162 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a14ef983-0d4e-4bdb-878f-c8ddab31f76d">AI Product Software Engineer Intern (U.S.A)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490729665/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Envita Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f7800bd-6fd3-4739-b4c0-191bbe169f9c">Software Engineering Intern, Applied AI</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465894784/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Rivian</strong></td>
 <td><a href="https://trueinterview.io/jobs/f8bb1d1d-cafa-46ce-b833-1392dd090587">Software Engineering Intern - Applied AI (Spring 2027 Co-Op)</a></td>
@@ -78,13 +92,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/abae8e98-b6c7-495b-826a-4bc6135df697">Current PhD, AI Engineering Internship Program - Summer 2027</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464985712/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Graco</strong></td>
-<td><a href="https://trueinterview.io/jobs/088d4170-cbc7-4b9f-91f1-4a4b79b869bb">AI intern</a></td>
-<td>French Lake, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463060692/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

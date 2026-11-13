@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**170 open roles.**
+**168 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Nominal</strong></td>
+<td><a href="https://trueinterview.io/jobs/70ecbc70-4482-4f95-a9b3-7d2fc3bc6786">Software Engineer - Internship (Summer 2027)</a></td>
+<td>Los Angeles, CA<br/>Austin, TX<br/>New York, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4463958792/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Riot Games</strong></td>
 <td><a href="https://trueinterview.io/jobs/f798d973-b9d4-460f-a321-0cd515bcea7c">Machine Learning Engineering Intern (Masters/PhD) - Summer 2027</a></td>
@@ -670,27 +677,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4dd4ddc3-f9a7-4515-a66d-26ce87032e58">Software Engineering Intern - Vehicle Controls (Summer 2027)</a></td>
-<td>Irvine, California<br/>Vancouver, BC<br/>Palo Alto, California<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a809e891-e4ef-4406-8c21-3a5d048f0657">Software Engineering Intern - Connected Systems (Summer 2027)</a></td>
-<td>Irvine, California<br/>Vancouver, BC<br/>Palo Alto, California<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd301f3e-1184-4af7-9a56-375b66576588">Software Engineering Intern - Applications (Summer 2027)</a></td>
-<td>Irvine, California<br/>Vancouver, BC<br/>Toronto, Ontario<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/23480fe8-3468-4dc9-ae2e-7c202c27e17b">Electromechanical Design Engineering Intern (Summer 2027)</a></td>
 <td>Irvine, California<br/>Palo Alto, California<br/>Vancouver, BC<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7">Apply</a></td>

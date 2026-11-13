@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**782 open roles.** 565 in the United States & Canada · 217 elsewhere in the world.
+**786 open roles.** 569 in the United States & Canada · 217 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Symbotic</strong></td>
+<td><a href="https://trueinterview.io/jobs/2ee89bc0-92b3-4473-b8d4-a7258455760b">Co-op- Machine Learning Ops</a></td>
+<td>Wilmington, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482784212/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/a14ef983-0d4e-4bdb-878f-c8ddab31f76d">AI Product Software Engineer Intern (U.S.A)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490729665/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Envita Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f7800bd-6fd3-4739-b4c0-191bbe169f9c">Software Engineering Intern, Applied AI</a></td>
+<td>Indianapolis, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465894784/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/76a82956-88d2-4ac6-8e1a-26a7a40597eb">2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474575962/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/19343885-ca93-41c3-87fd-75a98727984d">2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474575961/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>KLA</strong></td>
 <td><a href="https://trueinterview.io/jobs/a99331c9-55a9-4a36-bb58-638641fe4259">Machine Learning Engineer Intern</a></td>
@@ -171,13 +206,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/abae8e98-b6c7-495b-826a-4bc6135df697">Current PhD, AI Engineering Internship Program - Summer 2027</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4464985712/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Graco</strong></td>
-<td><a href="https://trueinterview.io/jobs/088d4170-cbc7-4b9f-91f1-4a4b79b869bb">AI intern</a></td>
-<td>French Lake, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463060692/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a945ff4b-35b2-4338-8641-30d446111777">Data Scientist Intern</a></td>
 <td>Raleigh, North Carolina, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415-data-scientist-intern">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/bdc8a05c-e19c-4613-b682-4e1f5b4251bc">AI Infra Engineer Intern (Recommendation &amp; LLM) - 2027 Summer</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4457692099/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>HDR</strong></td>
-<td><a href="https://trueinterview.io/jobs/71eb882d-3fe8-4b16-947b-9989c02c9214">Data Science Intern (Summer 2027)</a></td>
-<td>Omaha, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466576196/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>General Mills</strong></td>
-<td><a href="https://trueinterview.io/jobs/005a09fa-eb3c-4558-b1c0-0a0725967788">Internship - Research &amp; Development Food Scientist</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448961063/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/3ba19415-634a-4bc3-9655-2f954a401a36">Internship - Research &amp; Development Scientist, Pet Food</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448944948/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

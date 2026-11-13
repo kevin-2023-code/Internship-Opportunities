@@ -2,7 +2,7 @@
 
 # 🖥️ Hardware, devices & networking
 
-**211 open roles.** 165 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
+**210 open roles.** 164 in the United States & Canada · 46 elsewhere in the world. Consumer and enterprise hardware, networking gear, robotics and instruments.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Illinois, United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4472081272/">Apply</a></td>
 <td align="center">8 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/835f1b60-ed69-49b4-a196-7255175e054e">Software Engineering Intern - Summer 2027</a></td>
-<td>Plantation, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471660848/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
 </tr>
 <tr>
 <td>↳</td>

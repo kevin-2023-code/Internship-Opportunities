@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,865 open roles.** 1,484 in the United States & Canada · 381 elsewhere in the world.
+**1,879 open roles.** 1,493 in the United States & Canada · 386 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -18,7 +18,98 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </thead>
 <tbody>
 <tr>
+<td><strong>Tencent</strong></td>
+<td><a href="https://trueinterview.io/jobs/8602933e-7fc0-402e-a7f5-e2e49eb80ca8">Software Engineering Intern (Overseas AdTech Data Systems)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4455961595/">Apply</a></td>
+<td align="center">4 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Hewlett Packard Enterprise</strong></td>
+<td><a href="https://trueinterview.io/jobs/87eae6a4-85ea-48a2-b187-5166ff11eec9">DevOps Intern (Undergraduate)</a></td>
+<td>Bolzano Vicentino, Veneto, Italy</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487087083/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP</strong></td>
+<td><a href="https://trueinterview.io/jobs/30c3e725-37de-4f5e-9e84-4c1401f2a59a">SAP Labs iXp Intern – Software Developer (AI &amp; Backend)</a></td>
+<td>Brno, South Moravia, Czechia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485008083/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/cd91d546-b760-4a8d-b341-305331caa99f">Software Engineering Intern, DGX Cloud Test Development - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477931783/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bf9d7dcf-c1b7-47c0-abeb-7f412057f33a">Test Development Software Engineering Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477931786/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/c6e52851-17b0-4da6-b4b0-50a46f7ed592">Final year internship - DevOps / Platform Engineer</a></td>
+<td>Paris, Île-de-France, France</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sia/744000159443899-final-year-internship-devops-platform-engineer">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Siemens Digital Industries Software</strong></td>
+<td><a href="https://trueinterview.io/jobs/f80ddcc8-2424-4228-b95b-21d2364ded19">Numerical Software Engineer Intern: Strategic Student Program</a></td>
+<td>Cambridge, England, United Kingdom</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4477589801/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Revolut</strong></td>
+<td><a href="https://trueinterview.io/jobs/e5598513-f227-4514-9293-c53622eec568">Internship Programme 2027: Information Security Engineer (Appsec)</a></td>
+<td>Porto, Porto, Portugal<br/>United Arab Emirates<br/>Poland<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4433233279/">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nexthink</strong></td>
+<td><a href="https://trueinterview.io/jobs/04181187-3349-4bbb-a0c7-4c62235ae756">Java Software Engineer (Intern)</a></td>
+<td>Madrid, Spain<br/>Madrid, Comunidad de Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Nexthink/744000159356655-java-software-engineer-intern-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/e0559e01-3913-437c-bcaa-fb8dcbc9f38b">Overhead Line Equipment Engineering Intern</a></td>
+<td>Madrid, Spain</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159387419-overhead-line-equipment-engineering-intern">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/85bae641-8109-4660-9afe-1741ad38710c">Undergraduate Placement Year 2027 – Production Engineering Intern</a></td>
+<td>Worcester, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159368889-undergraduate-placement-year-2027-production-engineering-intern-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609">Mandatory Internship - Application Engineering Excellence – Power BI and efficiency expert</a></td>
+<td>Lindau (Bodensee), Bavaria, Germany</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000159342667-mandatory-internship-application-engineering-excellence-power-bi-and-efficiency-expert">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/2a3473db-36ad-4f6d-8b34-14a2eede6ff6">[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)</a></td>
+<td>Ho Chi Minh, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159328650--internship-program-q1-2027-fullstack-engineer-intern-java-nodejs-python-django-react-net-">Apply</a></td>
+<td align="center">3 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36addc1c-185d-4ab1-8551-2756f28c5627">[Internship Program Q1 2027] Automation Test Engineer Intern (Selenium)</a></td>
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329649--internship-program-q1-2027-automation-test-engineer-intern-selenium-">Apply</a></td>
@@ -1611,6 +1702,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/57bcec89-4fd0-4383-b499-a1727f11715d">Software Engineer Intern (Full stack)</a></td>
 <td>Budapest, Hungary</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8260955/apply/?gh_jid=8260955">Apply</a></td>
+<td align="center">7 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shift Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/668911f9-99cb-4a3f-b5ed-9535d722b137">QA Engineer Intern (6 months)</a></td>
+<td>France - Paris</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003">Apply</a></td>
 <td align="center">7 Oct 2026</td>
 </tr>
 <tr>

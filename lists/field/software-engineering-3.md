@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,865 open roles.** 1,484 in the United States & Canada · 381 elsewhere in the world.
+**1,879 open roles.** 1,493 in the United States & Canada · 386 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,104 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Webber, a Ferrovial company</strong></td>
+<td><a href="https://trueinterview.io/jobs/6872c8e4-1825-4484-af88-3071dd81228c">Webber - Field Engineer Intern - Heavy Civil</a></td>
+<td>Irving, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485285446/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SprintRay Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/781a3c88-aae9-4476-a3be-02cfd989697f">Engineering Intern – Materials &amp; Resin Development</a></td>
+<td>Huntington Beach, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485289132/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Baypath Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/bfdeb395-5615-4041-adec-bd3706cbf25d">Software Engineer Intern</a> 🌐</td>
+<td>Remote — Canada</td>
+<td align="center"><a href="https://ca.indeed.com/viewjob?jk=6d5de4e1bb0c5a9e">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Biasly</strong></td>
+<td><a href="https://trueinterview.io/jobs/c27e1927-af48-44ea-a1e4-409a651fa82d">UX Design Internship</a></td>
+<td>Salt Lake City, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4483098683/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Independence Blue Cross</strong></td>
+<td><a href="https://trueinterview.io/jobs/a720ed38-3601-4518-9e01-7b756a02d75d">Summer Intern: Platform Service Engineering</a></td>
+<td>Philadelphia, PA</td>
+<td align="center"><a href="https://ibxhome.referrals.selectminds.com/jobs/summer-intern-platform-service-engineering-7366">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Samsung Semiconductor</strong></td>
+<td><a href="https://trueinterview.io/jobs/e796c040-4bcc-43ca-bb41-b7f13706823a">Intern, Systems Software Engineering</a></td>
+<td>San Jose, California, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Mission Technologies, a division of HII</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6ca240a-acd7-4b8d-9eb7-dfcc7b017e8b">Software Engineer, Intern - Summer 2027 - 30942</a></td>
+<td>Crane, IN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4484801282/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/3a56b46e-08d0-4198-a7a2-dc3aa049f741">Compiler Software Engineering Intern - Summer 2027</a></td>
+<td>Redmond, WA</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Join Our Talent Community</strong></td>
+<td><a href="https://trueinterview.io/jobs/d44cbac7-979c-4a8a-af56-8aac501c17b0">2027 US Software Engineering Internship (Dedrone)</a></td>
+<td>Seattle, Washington, United States<br/>Sterling, Virginia, United States</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/e32da889-0e91-4cfe-bfc4-52efd8f854f3">AI Systems Software Engineering Intern – Summer 2027</a></td>
+<td>Austin, TX</td>
+<td align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Great American Insurance Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/251a87db-26bc-444a-affa-874e806e8485">DevOps Developer Intern - Summer 2027</a></td>
+<td>Cincinnati, OH</td>
+<td align="center"><a href="https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Amcor</strong></td>
+<td><a href="https://trueinterview.io/jobs/caab481c-1a99-42a0-aac4-02bf0772c731">Product Development Engineering Intern</a></td>
+<td>Lawrence, KS</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485275078/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>SharkNinja France</strong></td>
+<td><a href="https://trueinterview.io/jobs/44020652-fadc-4e72-8b77-f37d5047e73e">SPRING 2027: PRODUCT DESIGN ENGINEERING CO-OP, ADVANCED DEVELOPMENT (JANUARY TO JUNE)</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485255699/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Altera</strong></td>
+<td><a href="https://trueinterview.io/jobs/4a897e0a-b81b-4407-8a61-faff155fa714">Software Engineer - Factory Apps - Intern</a></td>
+<td>Toronto, Ontario, Canada</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485269334/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>STERIS</strong></td>
 <td><a href="https://trueinterview.io/jobs/9939e0e3-aac5-4d57-92b3-0c86c303ea80">Software Engineering Intern - Summer 2027</a></td>
@@ -1914,13 +2012,6 @@
 </tr>
 <tr>
 <td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/8d2711d6-b621-4e34-96cf-665da781fe47">Software Engineering Intern - Summer 2027</a></td>
-<td>King of Prussia, PA</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477411704?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/f14a7777-67fb-487d-b3da-17e529dcfbdd">Systems Engineering &amp; Integration Software Testing Intern - Summer 2027</a></td>
 <td>Colorado Springs, CO</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482516994/">Apply</a></td>
@@ -2722,97 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/03014655-3e81-46ae-a4e5-87abb8674c89">Co-op -Embedded Test Engineer - Murrysville, PA-January-June 2027</a></td>
 <td>Murrysville, PA</td>
 <td align="center"><a href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Protagonist</strong></td>
-<td><a href="https://trueinterview.io/jobs/67bf9a8f-8db5-401f-ade7-ff98445f0f2e">Software Engineering Intern</a></td>
-<td>Silver Spring, MD<br/>Arlington, VA</td>
-<td align="center"><a href="https://grnh.se/d4uvfeju4us">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>PTC</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1e3bcc7-3b0c-4f16-b80e-c80b43849bf2">Onshape Software Engineer Intern (Summer 2027)</a></td>
-<td>Boston, MA</td>
-<td align="center"><a href="https://ptc.wd1.myworkdayjobs.com/en-US/PTC/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Rochester Regional Health</strong></td>
-<td><a href="https://trueinterview.io/jobs/08fe7093-5558-43c8-a232-d1924d30c7d5">RIT Co-op: Security Engineering</a></td>
-<td>Rochester, NY</td>
-<td align="center"><a href="https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op_REQ_244351-1">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/8ec35996-78eb-403f-9587-f9f8986ba888">Building Automation Design Engineer Internship</a></td>
-<td>Harleysville, PA</td>
-<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/525233">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8223650e-61e5-4498-887f-30bef3c2eb0e">Software Engineering Internship</a></td>
-<td>Chicago, IL<br/>Buffalo Grove, IL</td>
-<td align="center"><a href="https://jobs.siemens.com/externaljobs/JobDetail/527337">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Skyworks Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/3e5c89ed-d3b8-47b1-b0dc-e6c88714c7c3">Software Engineering Intern</a></td>
-<td>Greensboro, NC</td>
-<td align="center"><a href="https://careers.skyworksinc.com/job/Software-Engineering-Intern/78795-en_US">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/050f100a-6257-4091-967d-55c3ff263761">Software Engineering Intern, SWR</a></td>
-<td>Apopka, FL<br/>Greensboro, NC</td>
-<td align="center"><a href="https://careers.skyworksinc.com/job/Software-Engineering-Intern%2C-SWR/78757-en_US">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Solarity</strong></td>
-<td><a href="https://trueinterview.io/jobs/32bdda4b-3a9f-456d-9433-e5707063f0a3">Software Engineer Intern</a></td>
-<td>Sioux Falls, SD</td>
-<td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/43D75E2DF3DFB76BCB85A922B26DE5FA/jobs/507042">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>The Walt Disney Company</strong></td>
-<td><a href="https://trueinterview.io/jobs/ae8b78dd-c2c5-4beb-994e-185f82c62c59">Enterprise Technology &amp; Data Software Engineering Intern, Summer 2027</a></td>
-<td>Orlando, FL</td>
-<td align="center"><a href="https://join.disneycareers.com/global/en/job/TWNTWDUS10163862EXTERNALENGLOBAL/Enterprise-Technology-Data-Software-Engineering-Intern-Summer-2027">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Viasat</strong></td>
-<td><a href="https://trueinterview.io/jobs/7110df1c-55a5-4f13-aea1-8725c02dd1c1">Pointing and Tracking Engineer Intern</a></td>
-<td>Duluth, GA</td>
-<td align="center"><a href="https://careers.viasat.com/jobs/6752?lang=en-us">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Visa</strong></td>
-<td><a href="https://trueinterview.io/jobs/081ed40f-f3b6-4b06-a896-4ce0d034f2d7">2027 Sophomore Internship Program - Software Engineer Intern, Ashburn</a></td>
-<td>Ashburn, VA</td>
-<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/1ff74604-ce7e-4776-b4f2-5dbc13d615a9">Software Engineer, Intern - 2027 Ashburn, VA</a></td>
-<td>Ashburn, VA</td>
-<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W">Apply</a></td>
-<td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f455dc05-fab0-4b69-b1bf-611cd818391e">Software Engineer, Intern - Foster City 2027</a></td>
-<td>Foster City, CA</td>
-<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

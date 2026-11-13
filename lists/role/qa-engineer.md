@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**49 open roles.** 37 in the United States & Canada · 12 elsewhere in the world.
+**51 open roles.** 38 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Copart</strong></td>
+<td><a href="https://trueinterview.io/jobs/0e60c45f-9ba5-47a3-b45c-e6b4b4598588">SDET Intern</a></td>
+<td>Dallas, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4482744821/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Insulet Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/8494e5bd-e17b-4b73-926c-efd5bf22148b">Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite)</a></td>
@@ -371,6 +378,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>IN - Bangalore, India</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008">Apply</a></td>
 <td align="center">13 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Shift Technology</strong></td>
+<td><a href="https://trueinterview.io/jobs/668911f9-99cb-4a3f-b5ed-9535d722b137">QA Engineer Intern (6 months)</a></td>
+<td>France - Paris</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/8014527003">Apply</a></td>
+<td align="center">7 Oct 2026</td>
 </tr>
 </tbody>
 </table>

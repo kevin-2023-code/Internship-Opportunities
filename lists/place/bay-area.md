@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**571 open roles.**
+**570 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Climactic</strong></td>
+<td><a href="https://trueinterview.io/jobs/ffc567aa-82c0-408f-b89d-3b9904dcedc4">Software Engineering Intern-Information Systems (Summer 2027)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490710588/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>General Motors</strong></td>
+<td><a href="https://trueinterview.io/jobs/76a82956-88d2-4ac6-8e1a-26a7a40597eb">2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474575962/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/19343885-ca93-41c3-87fd-75a98727984d">2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)</a></td>
+<td>Sunnyvale, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474575961/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Skydio</strong></td>
 <td><a href="https://trueinterview.io/jobs/31a30042-ac50-4e5d-89fa-71412293c17f">Frontend Software Engineer Intern</a></td>
@@ -2505,35 +2526,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Twitch</strong></td>
-<td><a href="https://trueinterview.io/jobs/567bfe03-5353-452d-8e2f-dc006b8c3ed4">Undergrad Software Engineering Intern (Grad Year: Winter 2027)</a></td>
-<td>San Francisco, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/twitch/jobs/8886605002">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4dd4ddc3-f9a7-4515-a66d-26ce87032e58">Software Engineering Intern - Vehicle Controls (Summer 2027)</a></td>
-<td>Palo Alto, California<br/>Vancouver, BC<br/>Vancouver, British Columbia<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a809e891-e4ef-4406-8c21-3a5d048f0657">Software Engineering Intern - Connected Systems (Summer 2027)</a></td>
-<td>Palo Alto, California<br/>Vancouver, BC<br/>Vancouver, British Columbia<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd301f3e-1184-4af7-9a56-375b66576588">Software Engineering Intern - Applications (Summer 2027)</a></td>
-<td>Palo Alto, California<br/>Vancouver, BC<br/>Toronto, Ontario<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/23480fe8-3468-4dc9-ae2e-7c202c27e17b">Electromechanical Design Engineering Intern (Summer 2027)</a></td>
 <td>Palo Alto, California<br/>Vancouver, BC<br/>Irvine, California<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7">Apply</a></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3dc3a4df-d20c-4c86-b45c-667c66902740">Intern - Optical Design Software &amp; Automation Engineer (PhD Level)</a></td>
 <td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
 <td align="center"><a href="https://jobs.keysight.com/external/jobs/54614?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/60fda547-2827-406a-98ba-7a93d6d14f36">Intern - Photonics Design Software &amp; Automation Engineer (PhD Level)</a></td>
+<td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54619?lang=en-us">Apply</a></td>
 <td align="center">19 Oct 2026</td>
 </tr>
 </tbody>

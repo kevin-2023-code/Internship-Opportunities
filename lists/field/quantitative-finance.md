@@ -2,7 +2,7 @@
 
 # 📈 Quantitative Finance
 
-**93 open roles.** 66 in the United States & Canada · 27 elsewhere in the world.
+**92 open roles.** 65 in the United States & Canada · 27 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -470,13 +470,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5a9a9438-8cba-4064-9a01-e05f55ce72ad">2027 Graham Capital Summer Internship – CT / NYC</a></td>
 <td>New York, NY<br/>New York, New York, United States<br/>Norwalk, Connecticut, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4721074005?gh_jid=4721074005">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Base Power</strong></td>
-<td><a href="https://trueinterview.io/jobs/fb396c12-c315-4104-8315-deea38fc2c5c">Quantitative Developer Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

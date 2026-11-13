@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**615 open roles.** 468 in the United States & Canada · 147 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**617 open roles.** 467 in the United States & Canada · 150 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -367,13 +367,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/0a2618a9-83cf-42cc-987b-4f8f074417ed">Research Scientist Intern, AI Agents and Machine Learning (PhD)</a></td>
 <td>Sunnyvale, CA<br/>Menlo Park, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4486644763/">Apply</a></td>
-<td align="center">7 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Motorola Solutions</strong></td>
-<td><a href="https://trueinterview.io/jobs/835f1b60-ed69-49b4-a196-7255175e054e">Software Engineering Intern - Summer 2027</a></td>
-<td>Plantation, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471660848/">Apply</a></td>
 <td align="center">7 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d769a851-991d-48fa-ae24-b0370bcc83db">Marketing Business Operations Intern, 2027 Summer U.S.</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://careers-americas.icims.com/jobs/26846/marketing-business-operations-intern%2c-2027-summer-u.s./job?mode=apply">Apply</a></td>
+<td align="center">22 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Cisco</strong></td>
+<td><a href="https://trueinterview.io/jobs/b33d81ca-2dca-4429-81b0-78ec3d3275af">Hardware Engineer II Intern - United States</a></td>
+<td>San Jose, California, US, United States of America<br/>Austin, TX<br/>Austin, Texas, United States of America<br/>+4 more</td>
+<td align="center"><a href="https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757">Apply</a></td>
 <td align="center">22 Sep 2026</td>
 </tr>
 </tbody>

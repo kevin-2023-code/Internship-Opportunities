@@ -2,7 +2,7 @@
 
 # ⛰️ Vancouver & British Columbia
 
-**27 open roles.**
+**24 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -166,27 +166,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Rivian and Volkswagen Group Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/4dd4ddc3-f9a7-4515-a66d-26ce87032e58">Software Engineering Intern - Vehicle Controls (Summer 2027)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia<br/>Palo Alto, California<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/a809e891-e4ef-4406-8c21-3a5d048f0657">Software Engineering Intern - Connected Systems (Summer 2027)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia<br/>Palo Alto, California<br/>+1 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/bd301f3e-1184-4af7-9a56-375b66576588">Software Engineering Intern - Applications (Summer 2027)</a></td>
-<td>Vancouver, BC<br/>Vancouver, British Columbia<br/>Toronto, Ontario<br/>+2 more</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/23480fe8-3468-4dc9-ae2e-7c202c27e17b">Electromechanical Design Engineering Intern (Summer 2027)</a></td>
 <td>Vancouver, BC<br/>Vancouver, British Columbia<br/>Palo Alto, California<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7">Apply</a></td>
