@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T11:04:24.199Z",
-  "count": 3864,
+  "listingsChangedAt": "2026-11-13T12:06:32.381Z",
+  "count": 3859,
   "listings": [
+    {
+      "id": "3dbdf6ca-69a8-4cf4-a4b1-8af67a6f91df",
+      "company": "Thomson Reuters",
+      "title": "Software Engineer Co-Op",
+      "locations": [
+        "Rochester, NY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464804440/",
+      "url": "https://trueinterview.io/jobs/3dbdf6ca-69a8-4cf4-a4b1-8af67a6f91df",
+      "postedAt": "2026-11-13T11:11:00.000Z",
+      "updatedAt": "2026-11-13T11:11:00.000Z"
+    },
     {
       "id": "488ba471-06f1-4e51-a5b2-b4e9e93b78dd",
       "company": "ByteDance",
@@ -267,7 +292,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "AI Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -295,7 +320,7 @@
       "remote": "onsite",
       "category": "Software",
       "family": "Software",
-      "role": "Backend Engineer",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -348,7 +373,7 @@
       ],
       "remote": "onsite",
       "category": "Other",
-      "family": "Software",
+      "family": "Hardware & Engineering",
       "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
@@ -374,9 +399,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Data & AI",
       "family": "Software",
-      "role": "Other",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -847,6 +872,31 @@
       "updatedAt": "2026-11-13T09:10:00.000Z"
     },
     {
+      "id": "cffece04-3709-4dac-ae3b-0951563722c4",
+      "company": "SAP IT Business Systeme",
+      "title": "SAP China iXp Intern - AI Application Developer Intern - Open Source Software Compliance - Shanghai",
+      "locations": [
+        "Shanghai, Pudong New District, China"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161438899-sap-china-ixp-intern-ai-application-developer-intern-open-source-software-compliance-shanghai",
+      "url": "https://trueinterview.io/jobs/cffece04-3709-4dac-ae3b-0951563722c4",
+      "postedAt": "2026-11-13T08:26:51.000Z",
+      "updatedAt": "2026-11-13T08:26:51.000Z"
+    },
+    {
       "id": "f31a1c08-4257-4e53-9ee0-5ef4c909c52c",
       "company": "Owl Cyber Defense",
       "title": "Software Engineering Intern",
@@ -1079,6 +1129,33 @@
       "url": "https://trueinterview.io/jobs/18baaef0-f881-4fb4-aad8-dc2158be43a6",
       "postedAt": "2026-11-13T06:45:00.000Z",
       "updatedAt": "2026-11-13T06:45:00.000Z"
+    },
+    {
+      "id": "52fed577-e667-45ae-81e0-c18d3c28f39a",
+      "company": "Samsung Semiconductor",
+      "title": "Intern, Compiler Engineer",
+      "locations": [
+        "San Jose, California, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003",
+      "url": "https://trueinterview.io/jobs/52fed577-e667-45ae-81e0-c18d3c28f39a",
+      "postedAt": "2026-11-13T06:23:34.000Z",
+      "updatedAt": "2026-11-13T06:23:34.000Z"
     },
     {
       "id": "a304ef3e-be75-4ad8-9f10-97040e926d67",
@@ -1487,6 +1564,33 @@
       "url": "https://trueinterview.io/jobs/f2f34cfe-1169-4d5e-aaa1-55221553ca15",
       "postedAt": "2026-11-13T00:16:00.000Z",
       "updatedAt": "2026-11-13T00:16:00.000Z"
+    },
+    {
+      "id": "697349cd-cf38-47c6-8e5a-0ab1871f5584",
+      "company": "Allen Control Systems",
+      "title": "Android Developer Intern, 2027",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Mobile Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472390340/",
+      "url": "https://trueinterview.io/jobs/697349cd-cf38-47c6-8e5a-0ab1871f5584",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "updatedAt": "2026-11-13T00:00:00.000Z"
     },
     {
       "id": "0637523e-72bc-4be0-8b4c-0f756a037087",
@@ -13856,114 +13960,6 @@
       "updatedAt": "2026-11-09T23:41:00.000Z"
     },
     {
-      "id": "d9562f2a-908c-4cbc-9b0d-f5c54318628d",
-      "company": "Pivotal",
-      "title": "Internship, Software Engineering (Summer 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
-      "url": "https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d",
-      "postedAt": "2026-11-09T23:14:31.000Z",
-      "updatedAt": "2026-11-09T23:39:00.000Z"
-    },
-    {
-      "id": "5fe328f5-3488-40f5-b88b-399218fda7f7",
-      "company": "pivotal",
-      "title": "Internship, Mechanical Engineering (Summer 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506",
-      "url": "https://trueinterview.io/jobs/5fe328f5-3488-40f5-b88b-399218fda7f7",
-      "postedAt": "2026-11-09T23:18:25.000Z",
-      "updatedAt": "2026-11-09T23:18:25.000Z"
-    },
-    {
-      "id": "16f542cf-73cc-4cbf-8a12-4a6d2d9d51a8",
-      "company": "pivotal",
-      "title": "Manufacturing Engineering Internship (Summer 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "new-grad",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2",
-      "url": "https://trueinterview.io/jobs/16f542cf-73cc-4cbf-8a12-4a6d2d9d51a8",
-      "postedAt": "2026-11-09T23:17:34.000Z",
-      "updatedAt": "2026-11-09T23:17:34.000Z"
-    },
-    {
-      "id": "00dbf6fc-fb28-4e60-b2c8-34737b25d399",
-      "company": "pivotal",
-      "title": "Internship, Maintenance, Repair & Overhaul Engineering (Summer 2027)",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/pivotal/23e45f4a-ab7f-4d45-9ec8-bae2ced5d583",
-      "url": "https://trueinterview.io/jobs/00dbf6fc-fb28-4e60-b2c8-34737b25d399",
-      "postedAt": "2026-11-09T23:17:00.000Z",
-      "updatedAt": "2026-11-09T23:17:00.000Z"
-    },
-    {
       "id": "f00f33c8-ea3a-4381-8045-8048d789170a",
       "company": "pivotal",
       "title": "Internship, Flight Test Engineer (Summer 2027)",
@@ -21493,115 +21489,6 @@
       "url": "https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05",
       "postedAt": "2026-11-06T12:59:00.000Z",
       "updatedAt": "2026-11-06T12:59:00.000Z"
-    },
-    {
-      "id": "954bc900-2cbf-4186-9b1f-1cf1f9bdd077",
-      "company": "State Farm",
-      "title": "Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist",
-      "locations": [
-        "Tempe, Arizona, United States",
-        "Dunwoody, Georgia, United States",
-        "Bloomington, Illinois, United States",
-        "Richardson, Texas, United States",
-        "Richardson, TX",
-        "Bloomington, IL",
-        "Tempe, AZ",
-        "Atlanta, GA"
-      ],
-      "cities": [
-        "Atlanta, GA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://jobs.statefarm.com/main/jobs/46227",
-      "url": "https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077",
-      "postedAt": "2026-11-05T22:25:00.000Z",
-      "updatedAt": "2026-11-06T12:55:00.000Z"
-    },
-    {
-      "id": "f975c3cf-4403-4ec1-9eff-5a0a57b5d6cc",
-      "company": "Nissan Motor Corporation",
-      "title": "Machine Learning Research Intern - Spring 2027 - Santa Clara, CA",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4479840391/",
-      "url": "https://trueinterview.io/jobs/f975c3cf-4403-4ec1-9eff-5a0a57b5d6cc",
-      "postedAt": "2026-11-06T12:54:00.000Z",
-      "updatedAt": "2026-11-06T12:54:00.000Z"
-    },
-    {
-      "id": "499c3bd6-f961-4630-b1c4-351cc2a347ba",
-      "company": "NVIDIA",
-      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
-      "locations": [
-        "Santa Clara, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4486951856/",
-      "url": "https://trueinterview.io/jobs/499c3bd6-f961-4630-b1c4-351cc2a347ba",
-      "postedAt": "2026-11-06T12:49:00.000Z",
-      "updatedAt": "2026-11-06T12:49:00.000Z"
-    },
-    {
-      "id": "358ae83c-4fee-4a13-b955-f17c7c84a0d5",
-      "company": "Advanced Energy",
-      "title": "Intern - Firmware Engineer, Undergraduate",
-      "locations": [
-        "Eden Prairie, MN"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4470975470/",
-      "url": "https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5",
-      "postedAt": "2026-11-06T12:32:00.000Z",
-      "updatedAt": "2026-11-06T12:32:00.000Z"
     },
     {
       "id": "e9f64c8f-72b8-4d3e-8a37-5d7cf1164168",
@@ -76086,38 +75973,6 @@
       "url": "https://trueinterview.io/jobs/4dd4ddc3-f9a7-4515-a66d-26ce87032e58",
       "postedAt": "2026-10-22T22:24:01.000Z",
       "updatedAt": "2026-10-22T22:24:01.000Z"
-    },
-    {
-      "id": "ff32ef79-93fe-4641-abec-de6ae12e8120",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "title": "Software Engineering Intern - Embedded Platforms (Summer 2027)",
-      "locations": [
-        "Palo Alto, California",
-        "Irvine, California",
-        "Champaign, Illinois",
-        "Vancouver, British Columbia"
-      ],
-      "cities": [
-        "Palo Alto, CA",
-        "Vancouver, BC"
-      ],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048",
-      "url": "https://trueinterview.io/jobs/ff32ef79-93fe-4641-abec-de6ae12e8120",
-      "postedAt": "2026-10-22T22:23:34.000Z",
-      "updatedAt": "2026-10-22T22:23:34.000Z"
     },
     {
       "id": "a809e891-e4ef-4406-8c21-3a5d048f0657",
