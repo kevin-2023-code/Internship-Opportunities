@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T15:04:23.975Z",
-  "count": 3862,
+  "listingsChangedAt": "2026-11-13T16:05:02.099Z",
+  "count": 3864,
   "listings": [
+    {
+      "id": "8494e5bd-e17b-4b73-926c-efd5bf22148b",
+      "company": "Insulet Corporation",
+      "title": "Co-op, Embedded Software Test Engineering: January-June 2027 (Onsite)",
+      "locations": [
+        "Acton, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4464814106/",
+      "url": "https://trueinterview.io/jobs/8494e5bd-e17b-4b73-926c-efd5bf22148b",
+      "postedAt": "2026-11-13T14:53:00.000Z",
+      "updatedAt": "2026-11-13T14:53:00.000Z"
+    },
+    {
+      "id": "41b9e1e1-4807-4756-a7b9-5edba4cdf8ab",
+      "company": "Tencent",
+      "title": "Data Engineer Intern",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4490728308/",
+      "url": "https://trueinterview.io/jobs/41b9e1e1-4807-4756-a7b9-5edba4cdf8ab",
+      "postedAt": "2026-11-13T14:47:00.000Z",
+      "updatedAt": "2026-11-13T14:47:00.000Z"
+    },
     {
       "id": "d308964e-5ffa-4052-9275-0041a9d59c17",
       "company": "Sea",
@@ -59,6 +111,60 @@
       "url": "https://trueinterview.io/jobs/926033f5-7971-4ff7-b7ec-dc4b79df9ecd",
       "postedAt": "2026-11-13T13:59:00.000Z",
       "updatedAt": "2026-11-13T13:59:00.000Z"
+    },
+    {
+      "id": "6acf4192-bb67-4ebc-89d4-e81fe7374744",
+      "company": "TikTok",
+      "title": "Machine Learning Ops Engineer Intern (Ads Infra) - 2027 Start",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448200242/",
+      "url": "https://trueinterview.io/jobs/6acf4192-bb67-4ebc-89d4-e81fe7374744",
+      "postedAt": "2026-11-13T13:52:00.000Z",
+      "updatedAt": "2026-11-13T13:52:00.000Z"
+    },
+    {
+      "id": "fa4552df-3e66-465c-8827-cecc1b98b72b",
+      "company": "ByteDance",
+      "title": "Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start",
+      "locations": [
+        "Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474553401/",
+      "url": "https://trueinterview.io/jobs/fa4552df-3e66-465c-8827-cecc1b98b72b",
+      "postedAt": "2026-11-13T12:52:00.000Z",
+      "updatedAt": "2026-11-13T12:52:00.000Z"
     },
     {
       "id": "31a30042-ac50-4e5d-89fa-71412293c17f",
@@ -372,6 +478,61 @@
       "url": "https://trueinterview.io/jobs/3dbdf6ca-69a8-4cf4-a4b1-8af67a6f91df",
       "postedAt": "2026-11-13T11:11:00.000Z",
       "updatedAt": "2026-11-13T11:11:00.000Z"
+    },
+    {
+      "id": "1733b805-2b8f-4595-8725-fddeb855d85e",
+      "company": "ByteDance",
+      "title": "Network Software Development Engineer Intern (Network Switch) - 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474551542/",
+      "url": "https://trueinterview.io/jobs/1733b805-2b8f-4595-8725-fddeb855d85e",
+      "postedAt": "2026-11-13T10:52:00.000Z",
+      "updatedAt": "2026-11-13T10:52:00.000Z"
+    },
+    {
+      "id": "2b5cd667-b4ca-4611-bcf4-daed79066fa1",
+      "company": "ByteDance",
+      "title": "Production System Engineer Project Intern (Server DevOps) - 2027 Start",
+      "locations": [
+        "San Jose, CA",
+        "New York, United States"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4448125968/",
+      "url": "https://trueinterview.io/jobs/2b5cd667-b4ca-4611-bcf4-daed79066fa1",
+      "postedAt": "2026-11-12T11:18:00.000Z",
+      "updatedAt": "2026-11-13T10:52:00.000Z"
     },
     {
       "id": "e22a6be1-0b48-4358-9120-d17740a4780f",
@@ -4139,33 +4300,6 @@
       "updatedAt": "2026-11-12T11:18:00.000Z"
     },
     {
-      "id": "2b5cd667-b4ca-4611-bcf4-daed79066fa1",
-      "company": "ByteDance",
-      "title": "Production System Engineer Project Intern (Server DevOps) - 2027 Start",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4448125968/",
-      "url": "https://trueinterview.io/jobs/2b5cd667-b4ca-4611-bcf4-daed79066fa1",
-      "postedAt": "2026-11-12T11:18:00.000Z",
-      "updatedAt": "2026-11-12T11:18:00.000Z"
-    },
-    {
       "id": "1582cccb-c014-4696-93e1-1c11ce5c107f",
       "company": "TikTok",
       "title": "AI Automation Project Intern (TnS-OPS-Automation & Business Insights) - 2026 Start",
@@ -4756,36 +4890,6 @@
       "applyUrl": "https://www.linkedin.com/jobs/view/4380094470/",
       "url": "https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446",
       "postedAt": "2026-11-11T12:14:00.000Z",
-      "updatedAt": "2026-11-12T10:18:00.000Z"
-    },
-    {
-      "id": "12d24ce0-a6cc-470e-86e5-867511bf4006",
-      "company": "TikTok",
-      "title": "Data Analyst Project Intern (TikTok Shop - FMCG) - 2026 Start (BS/MS)",
-      "locations": [
-        "London, England, United Kingdom",
-        "Singapore, Singapore"
-      ],
-      "cities": [
-        "London",
-        "Singapore"
-      ],
-      "countries": [
-        "United Kingdom",
-        "Singapore"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4404445261/",
-      "url": "https://trueinterview.io/jobs/12d24ce0-a6cc-470e-86e5-867511bf4006",
-      "postedAt": "2026-11-11T11:14:00.000Z",
       "updatedAt": "2026-11-12T10:18:00.000Z"
     },
     {
@@ -18366,33 +18470,6 @@
       "url": "https://trueinterview.io/jobs/2810060c-8051-4b12-8e34-fba77f8217a3",
       "postedAt": "2026-11-07T18:47:00.000Z",
       "updatedAt": "2026-11-07T18:47:00.000Z"
-    },
-    {
-      "id": "81451f36-6d2f-4341-acb6-612467c28684",
-      "company": "ByteDance",
-      "title": "Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488734444/",
-      "url": "https://trueinterview.io/jobs/81451f36-6d2f-4341-acb6-612467c28684",
-      "postedAt": "2026-11-07T18:30:00.000Z",
-      "updatedAt": "2026-11-07T18:30:00.000Z"
     },
     {
       "id": "835f1b60-ed69-49b4-a196-7255175e054e",
@@ -100346,33 +100423,6 @@
       "url": "https://trueinterview.io/jobs/eef8cdd0-166f-4c11-bfbe-504627de3ba8",
       "postedAt": "2026-09-14T16:14:44.000Z",
       "updatedAt": "2026-09-14T16:14:44.000Z"
-    },
-    {
-      "id": "4ad3e9fa-a778-43c8-92d0-ccc74a5f219a",
-      "company": "Base Power",
-      "title": "Software Engineering Intern",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc",
-      "url": "https://trueinterview.io/jobs/4ad3e9fa-a778-43c8-92d0-ccc74a5f219a",
-      "postedAt": "2026-09-14T16:00:11.000Z",
-      "updatedAt": "2026-09-14T16:00:11.000Z"
     }
   ]
 }
