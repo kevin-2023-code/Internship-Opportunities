@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**591 open roles.** 479 in the United States & Canada · 112 elsewhere in the world.
+**590 open roles.** 478 in the United States & Canada · 112 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -559,13 +559,6 @@
 <td><a href="https://trueinterview.io/jobs/2b0275a9-5d37-4fa2-8d49-3fb90a7cc973">Software Engineer Intern (Summer 2027)</a></td>
 <td>Omaha, Nebraska, United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/workshop/jobs/5237900007">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4">Summer 2027: Software Engineering Intern - Cybersecurity</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

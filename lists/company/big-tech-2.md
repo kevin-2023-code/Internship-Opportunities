@@ -2,7 +2,7 @@
 
 # 🏛️ Big Tech
 
-**617 open roles.** 470 in the United States & Canada · 147 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
+**615 open roles.** 468 in the United States & Canada · 147 elsewhere in the world. The giants: 10,000+ people, in a technology sector.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -490,20 +490,6 @@
 <td>Dallas, TX, United States</td>
 <td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017921">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da">Summer 2027: PhD AI Research Intern</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4">Summer 2027: Software Engineering Intern - Cybersecurity</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

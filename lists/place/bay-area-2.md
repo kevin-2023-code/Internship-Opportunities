@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**573 open roles.**
+**571 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -1210,20 +1210,6 @@
 <td><a href="https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1">Software Engineering Intern - Summer 2027</a></td>
 <td>Hub - San Francisco<br/>Hub - New York<br/>Hub - Seattle</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da">Summer 2027: PhD AI Research Intern</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4">Summer 2027: Software Engineering Intern - Cybersecurity</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

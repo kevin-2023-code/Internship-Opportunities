@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**125 open roles.** 115 in the United States & Canada · 10 elsewhere in the world.
+**124 open roles.** 114 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -814,13 +814,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Albany, NY, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44419599">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cyvl</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbf0e7f7-d564-4c89-83c9-e3b2a7162bef">Hardware Engineering Intern</a></td>
-<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**943 open roles.** 765 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
+**933 open roles.** 756 in the United States & Canada · 177 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -17,69 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3b07757-ee89-42cd-bcee-532f69281954">Backend Engineer Intern (Data Platform, Global E-Commerce) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447699661/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/d2a48c62-d327-47ed-80a7-056b693d6880">Data Operations - AI Data Operations Project Intern (PGC &amp; Emerging Products) - 2026 Start (BS/MS）</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4437553774/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/9ac21dce-41a8-4858-ade6-33b10c21b709">LLM Algorithm Research Scientist - Code AI intern (AI Innovation Center) - 2026 Soaring Star Talent Program</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4354816727/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/128da750-308d-4870-b1ed-2e4f443dbdbd">LLM/Multimodal AI Engineer Intern (TikTok Search) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447688305/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c39bc9ee-5ce8-4463-b744-789c48276325">Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS）</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4351871758/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e10832c5-c857-4a5a-aa22-15478eceef37">Research Scientist Intern - Risk Control Vertical LLM Foundation and Agent - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4401866474/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/8f8f53e9-cf25-4c7e-a930-bf19450e778a">Software Development Engineer in Test Project Intern (QA) - 2026 Start (BS/MS)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449764028/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eede9ef2-d3fe-440d-97b1-c3a3fc54a08b">AI Product Manager Project Intern (TikTok LIVE-Platform)- 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449761047/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8818637-56c8-44f9-b3c5-589a4deb73ec">Network Reliability Engineer Intern (Network Infrastructure) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473993080/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/8423e8df-d2c3-4c55-8d3b-2e832bc2ed87">AI Infrastructure Engineer Intern (TikTok Recommendation Architecture) - 2027 Start</a></td>
@@ -1009,13 +946,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2829cf1f-cf01-4114-a275-cf79cf512542">Product Manager Intern</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479832552/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0">Product Manager Intern, User Acquisition</a></td>
-<td>Amsterdam, North Holland, Netherlands</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4479837326/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

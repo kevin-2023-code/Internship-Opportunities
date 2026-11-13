@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**806 open roles.** 726 in the United States & Canada · 80 elsewhere in the world.
+**803 open roles.** 724 in the United States & Canada · 79 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2283,20 +2283,6 @@
 <td align="center"><a href="https://job-boards.greenhouse.io/enviva/jobs/7994599003">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
-<tr>
-<td><strong>Evr</strong></td>
-<td><a href="https://trueinterview.io/jobs/d062b064-9a94-4e35-ba3a-a73be6867353">May 2027 Mining Engineering Co-op</a></td>
-<td>Sparwood, BC</td>
-<td align="center"><a href="https://jobs.lever.co/evr/c8c717c4-3cf9-40cc-a700-d022b3925714">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cyvl</strong></td>
-<td><a href="https://trueinterview.io/jobs/cbf0e7f7-d564-4c89-83c9-e3b2a7162bef">Hardware Engineering Intern</a></td>
-<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2576,13 +2562,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">30 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Gdh</strong></td>
-<td><a href="https://trueinterview.io/jobs/1bc214d0-aceb-4d3c-94ef-a2ba88e3087d">GHD Summer Internship Program 2026/27 - TAURANGA, New Zealand - Structural Engineering Intern</a></td>
-<td>TAURANGA, BAY OF PLENTY, New Zealand</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29294">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>NVIDIA</strong></td>
 <td><a href="https://trueinterview.io/jobs/7bb12426-8d55-4d00-a014-e1677210fb34">ASIC Engineering Intern, Networking Chip Design - 2027</a></td>
 <td>Shanghai, Shanghai, China</td>
@@ -2826,6 +2805,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Naucalpan de Juarez, MEX, Mexico</td>
 <td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70759">Apply</a></td>
 <td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ce7d70a4-c0a3-41ad-872b-08e90b0d1e83">Product Development Ford Champ (Intern)</a></td>
+<td>Naucalpan de Juarez, MEX, Mexico</td>
+<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70405">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Aumovio</strong></td>
+<td><a href="https://trueinterview.io/jobs/8f91e7b3-1574-4ee7-a777-bff0bb3ebffc">R&amp;D Mechanical Engineer - Internship</a></td>
+<td>Južnobački okrug, Vojvodina, Serbia</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000150629014-r-d-mechanical-engineer-internship">Apply</a></td>
+<td align="center">21 Sep 2026</td>
+</tr>
+<tr>
+<td><strong>Arista Networks</strong></td>
+<td><a href="https://trueinterview.io/jobs/02ec76d0-4be6-449d-936a-6013a1e82742">Network Engineer - Test (Intern)</a></td>
+<td>Dublin, County Dublin, Ireland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AristaNetworks/744000149959399-network-engineer-test-intern-?oga=true">Apply</a></td>
+<td align="center">16 Sep 2026</td>
 </tr>
 </tbody>
 </table>

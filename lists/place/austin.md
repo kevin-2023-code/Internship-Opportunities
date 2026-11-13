@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**89 open roles.**
+**88 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -631,13 +631,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fb396c12-c315-4104-8315-deea38fc2c5c">Quantitative Developer Intern</a></td>
 <td>Austin, TX</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eaf9e226-ba90-49d3-a970-9487f0523b9f">Firmware Engineering Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

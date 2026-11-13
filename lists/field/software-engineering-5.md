@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,868 open roles.** 1,487 in the United States & Canada · 381 elsewhere in the world.
+**1,865 open roles.** 1,484 in the United States & Canada · 381 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,27 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/85bae641-8109-4660-9afe-1741ad38710c">Undergraduate Placement Year 2027 – Production Engineering Intern</a></td>
-<td>Worcester, England, United Kingdom</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159368889-undergraduate-placement-year-2027-production-engineering-intern-">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/624d7e18-d809-46b1-aaa2-5e2dedd20609">Mandatory Internship - Application Engineering Excellence – Power BI and efficiency expert</a></td>
-<td>Lindau (Bodensee), Bavaria, Germany</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000159342667-mandatory-internship-application-engineering-excellence-power-bi-and-efficiency-expert">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Bosch</strong></td>
-<td><a href="https://trueinterview.io/jobs/2a3473db-36ad-4f6d-8b34-14a2eede6ff6">[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)</a></td>
-<td>Ho Chi Minh, Vietnam</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159328650--internship-program-q1-2027-fullstack-engineer-intern-java-nodejs-python-django-react-net-">Apply</a></td>
-<td align="center">3 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/36addc1c-185d-4ab1-8551-2756f28c5627">[Internship Program Q1 2027] Automation Test Engineer Intern (Selenium)</a></td>
 <td>Ho Chi Minh, Vietnam</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159329649--internship-program-q1-2027-automation-test-engineer-intern-selenium-">Apply</a></td>

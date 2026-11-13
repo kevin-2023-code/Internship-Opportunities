@@ -18,17 +18,17 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-13 16:05 UTC_
+_Last updated: 2026-11-13 17:04 UTC_
 
-**789 open internships** from **314 employers** · **178 posted in the last 7 days** · refreshed hourly
+**788 open internships** from **314 employers** · **177 posted in the last 7 days** · refreshed hourly
 
-### Browse 789 internships by field
+### Browse 788 internships by field
 
 💻 **[Software Engineering](#-software-engineering)** (381)
 
 🤖 **[Data, AI & Machine Learning](#-data-ai--machine-learning)** (217)
 
-🔧 **[Hardware & Engineering](#-hardware--engineering)** (80)
+🔧 **[Hardware & Engineering](#-hardware--engineering)** (79)
 
 📱 **[Product & Design](#-product--design)** (64)
 
@@ -40,7 +40,7 @@ _Last updated: 2026-11-13 16:05 UTC_
 
 ### 🔥 Posting the most this week
 
-**TikTok** 67 &nbsp;·&nbsp; **ByteDance** 9 &nbsp;·&nbsp; **Apple** 7 &nbsp;·&nbsp; **Bosch** 7 &nbsp;·&nbsp; **NVIDIA** 7 &nbsp;·&nbsp; **SAP IT Business Systeme** 7 &nbsp;·&nbsp; **Tencent** 6 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **Optiver** 3 &nbsp;·&nbsp; **Shopee** 3 &nbsp;·&nbsp; **Airwallex** 2
+**TikTok** 67 &nbsp;·&nbsp; **ByteDance** 9 &nbsp;·&nbsp; **Apple** 7 &nbsp;·&nbsp; **Bosch** 7 &nbsp;·&nbsp; **NVIDIA** 7 &nbsp;·&nbsp; **SAP IT Business Systeme** 7 &nbsp;·&nbsp; **Tencent** 5 &nbsp;·&nbsp; **IMC Trading** 3 &nbsp;·&nbsp; **Intel** 3 &nbsp;·&nbsp; **Optiver** 3 &nbsp;·&nbsp; **Shopee** 3 &nbsp;·&nbsp; **Airwallex** 2
 
 <sub>The 12 employers with the most roles posted in the last 7 days, of 21 with more than one. A count of open roles, not a ranking of employers.</sub>
 
@@ -56,7 +56,7 @@ _Counts are internships in the rest of the world. Each page carries every region
 
 📍 **By location** — [🇸🇬 Singapore (172)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (44)](lists/place/uk.md) · [🇫🇷 Paris & France (33)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (25)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (17)](lists/place/anz.md) · [+6 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (178)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (177)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -706,7 +706,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/ee6f1966-558e-4d47-8ae1-0121f1e4a9d8">AI Intern - Digitalization &amp; AI team</a> 🆕</td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473588977/">Apply</a></td>
-<td align="center">0d</td>
+<td align="center">1d</td>
 </tr>
 <tr>
 <td><strong>TikTok</strong></td>
@@ -1006,7 +1006,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4bc12ed9-5450-46e8-a26b-ef6182fc134e">Intern Quality Engineer (Human)</a> 🆕</td>
 <td>I14</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>The Exploration Company</strong></td>
@@ -1234,7 +1234,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 
 </details>
 
-**Showing 36 of 80.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
+**Showing 36 of 79.** [Every Hardware & Engineering role, newest first →](lists/field/hardware-and-engineering.md)
 
 ## 📱 Product & Design
 
@@ -1313,7 +1313,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/16833f48-15c8-4c7a-8613-f79fe9bbc8f0">Product Manager Intern, User Acquisition</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479837326/">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td><strong>Shopee</strong></td>
@@ -1763,10 +1763,10 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 </tr>
 <tr>
 <td><strong>Aumovio</strong></td>
-<td><a href="https://trueinterview.io/jobs/8e9ce08c-2937-42f5-ae5f-256eff9cd84c">Intern - Local IT</a> 🆕</td>
+<td><a href="https://trueinterview.io/jobs/8e9ce08c-2937-42f5-ae5f-256eff9cd84c">Intern - Local IT</a></td>
 <td>Guadalajara - Periférico, Jalisco, Mexico</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Aumovio/744000160658859-intern-local-it">Apply</a></td>
-<td align="center">3d</td>
+<td align="center">4d</td>
 </tr>
 <tr>
 <td><strong>Riverty</strong></td>

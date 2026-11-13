@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T16:05:02.099Z",
-  "count": 3864,
+  "listingsChangedAt": "2026-11-13T17:04:19.697Z",
+  "count": 3857,
   "listings": [
     {
       "id": "8494e5bd-e17b-4b73-926c-efd5bf22148b",
@@ -49879,31 +49879,6 @@
       "source": "career-sites",
       "applyUrl": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533",
       "url": "https://trueinterview.io/jobs/cc456c56-839b-42ad-91f6-b0b25ae44f3d",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "updatedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "id": "1bc214d0-aceb-4d3c-94ef-a2ba88e3087d",
-      "company": "Gdh",
-      "title": "GHD Summer Internship Program 2026/27 - TAURANGA, New Zealand - Structural Engineering Intern",
-      "locations": [
-        "TAURANGA, BAY OF PLENTY, New Zealand"
-      ],
-      "cities": [],
-      "countries": [
-        "New Zealand"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29294",
-      "url": "https://trueinterview.io/jobs/1bc214d0-aceb-4d3c-94ef-a2ba88e3087d",
       "postedAt": "2026-10-30T00:00:00.000Z",
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
@@ -100261,168 +100236,6 @@
       "url": "https://trueinterview.io/jobs/fb396c12-c315-4104-8315-deea38fc2c5c",
       "postedAt": "2026-09-14T17:28:27.000Z",
       "updatedAt": "2026-09-14T17:28:27.000Z"
-    },
-    {
-      "id": "32672e0b-52e5-4b1b-a687-d0a3947af4da",
-      "company": "Intuit",
-      "title": "Summer 2027: PhD AI Research Intern",
-      "locations": [
-        "Mountain View, California"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776",
-      "url": "https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da",
-      "postedAt": "2026-09-14T17:03:10.000Z",
-      "updatedAt": "2026-09-14T17:03:10.000Z"
-    },
-    {
-      "id": "554e3aee-a1e6-44fd-96da-876e073759f4",
-      "company": "Intuit",
-      "title": "Summer 2027: Software Engineering Intern - Cybersecurity",
-      "locations": [
-        "Mountain View, California"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616",
-      "url": "https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4",
-      "postedAt": "2026-09-14T17:03:10.000Z",
-      "updatedAt": "2026-09-14T17:03:10.000Z"
-    },
-    {
-      "id": "d062b064-9a94-4e35-ba3a-a73be6867353",
-      "company": "Evr",
-      "title": "May 2027 Mining Engineering Co-op",
-      "locations": [
-        "Sparwood, BC"
-      ],
-      "cities": [],
-      "countries": [
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/evr/c8c717c4-3cf9-40cc-a700-d022b3925714",
-      "url": "https://trueinterview.io/jobs/d062b064-9a94-4e35-ba3a-a73be6867353",
-      "postedAt": "2026-09-14T16:52:49.000Z",
-      "updatedAt": "2026-09-14T16:52:49.000Z"
-    },
-    {
-      "id": "cbf0e7f7-d564-4c89-83c9-e3b2a7162bef",
-      "company": "Cyvl",
-      "title": "Hardware Engineering Intern",
-      "locations": [
-        "Boston, Massachusetts",
-        "Somerville, Massachusetts"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/cyvl/3590960d-4d02-48bb-a335-cb82e121a01e/application",
-      "url": "https://trueinterview.io/jobs/cbf0e7f7-d564-4c89-83c9-e3b2a7162bef",
-      "postedAt": "2026-09-14T16:35:32.000Z",
-      "updatedAt": "2026-09-14T16:35:32.000Z"
-    },
-    {
-      "id": "eaf9e226-ba90-49d3-a970-9487f0523b9f",
-      "company": "Base Power",
-      "title": "Firmware Engineering Intern",
-      "locations": [
-        "Austin, TX"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Embedded Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7",
-      "url": "https://trueinterview.io/jobs/eaf9e226-ba90-49d3-a970-9487f0523b9f",
-      "postedAt": "2026-09-14T16:24:20.000Z",
-      "updatedAt": "2026-09-14T16:24:20.000Z"
-    },
-    {
-      "id": "eef8cdd0-166f-4c11-bfbe-504627de3ba8",
-      "company": "Cyvl",
-      "title": "Engineering Intern - Software (SWE)/Machine Learning (ML)",
-      "locations": [
-        "Boston, Massachusetts",
-        "Somerville, Massachusetts"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Software",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application",
-      "url": "https://trueinterview.io/jobs/eef8cdd0-166f-4c11-bfbe-504627de3ba8",
-      "postedAt": "2026-09-14T16:14:44.000Z",
-      "updatedAt": "2026-09-14T16:14:44.000Z"
     }
   ]
 }

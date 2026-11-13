@@ -2,7 +2,7 @@
 
 # Research Scientist
 
-**86 open roles.** 70 in the United States & Canada · 16 elsewhere in the world.
+**85 open roles.** 69 in the United States & Canada · 16 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -499,13 +499,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York, USA<br/>Pittsburgh, Pennsylvania, USA</td>
 <td align="center"><a href="https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da">Summer 2027: PhD AI Research Intern</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

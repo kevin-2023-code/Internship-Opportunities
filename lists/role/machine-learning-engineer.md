@@ -2,7 +2,7 @@
 
 # Machine Learning Engineer
 
-**185 open roles.** 140 in the United States & Canada · 45 elsewhere in the world.
+**184 open roles.** 139 in the United States & Canada · 45 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -989,13 +989,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York City</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8">Apply</a></td>
 <td align="center">16 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Cyvl</strong></td>
-<td><a href="https://trueinterview.io/jobs/eef8cdd0-166f-4c11-bfbe-504627de3ba8">Engineering Intern - Software (SWE)/Machine Learning (ML)</a></td>
-<td>Boston, Massachusetts<br/>Somerville, Massachusetts</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

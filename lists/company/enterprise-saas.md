@@ -2,7 +2,7 @@
 
 # 🏢 Enterprise & business software
 
-**83 open roles.** 66 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
+**81 open roles.** 64 in the United States & Canada · 17 elsewhere in the world. CRM, ERP, HR, design, productivity and collaboration software.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -463,20 +463,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8">Product Intern</a></td>
 <td>Atlanta, GA<br/>Boston, MA<br/>Georgia<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Intuit</strong></td>
-<td><a href="https://trueinterview.io/jobs/32672e0b-52e5-4b1b-a687-d0a3947af4da">Summer 2027: PhD AI Research Intern</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/554e3aee-a1e6-44fd-96da-876e073759f4">Summer 2027: Software Engineering Intern - Cybersecurity</a></td>
-<td>Mountain View, California</td>
-<td align="center"><a href="https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
