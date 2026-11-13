@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**813 open roles.** 735 in the United States & Canada · 78 elsewhere in the world.
+**811 open roles.** 733 in the United States & Canada · 78 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,20 +17,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Graphcore</strong></td>
-<td><a href="https://trueinterview.io/jobs/1a6637ae-baa5-49a5-a568-57c279ca4477">Silicon Summer Intern 2027</a></td>
-<td>Bristol, UK<br/>Cambridge, UK</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8879329002">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/aaf24f31-1c7e-4369-af43-dd22ec31388b">Intern Industrial Engineer</a></td>
-<td>Parvomay, BULGARIA, Bulgaria</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000156275359-intern-industrial-engineer">Apply</a></td>
-<td align="center">19 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/a9383e25-315a-43f1-9efb-33a96a7461cb">Internship – Quality Engineer and Consultant for SAP Build Process Automation F/M</a></td>

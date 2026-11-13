@@ -2,7 +2,7 @@
 
 # 🇬🇧 London & the UK
 
-**55 open roles.** 13 in the United States & Canada · 42 elsewhere in the world.
+**57 open roles.** 13 in the United States & Canada · 44 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -132,6 +132,20 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/4558094f-7482-47a0-bbe7-03f8340f492b">Internship - Pro Apps Machine Learning Ecosystem Engineer</a></td>
 <td>London, England, E20 1EQ, United Kingdom</td>
 <td align="center"><a href="https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/3a4b6784-fb93-4a93-99e0-eb4e7d3b84d2">Internship - Framebuffer Driver Engineer</a></td>
+<td>London, England, E20 1EQ, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694489/internship-framebuffer-driver-engineer">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/bff1353e-8678-4c3e-ba31-dbb4d0baf0f5">Camera Software (Intern)</a></td>
+<td>Cambridge, England, CB2 3AX, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200694477/camera-software-intern">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

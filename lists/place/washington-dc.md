@@ -20,9 +20,9 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr>
 <td><strong>Owl Cyber Defense</strong></td>
 <td><a href="https://trueinterview.io/jobs/f31a1c08-4257-4e53-9ee0-5ef4c909c52c">Software Engineering Intern</a></td>
-<td>Columbia, MD</td>
+<td>Columbia, MD<br/>Fairfield County, CT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490379036/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
+<td align="center">13 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>ICF</strong></td>
