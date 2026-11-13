@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**51 open roles.** 37 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
+**50 open roles.** 36 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -51,13 +51,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Remote — United States</td>
 <td align="center"><a href="https://apply.workable.com/j/82FEDB84F7">Apply</a></td>
 <td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lumen Technologies</strong></td>
-<td><a href="https://trueinterview.io/jobs/7bd346bb-e1c6-46c7-8af8-610c3a8d6214">Data, Analytics &amp; Decision Science - Summer 2027 Internship Pathway</a> 🌐</td>
-<td>Remote — United States</td>
-<td align="center"><a href="https://career4.successfactors.com/career?career_ns=job_listing&amp;company=CTLPRD&amp;rcm_site_locale=en_US&amp;career_job_req_id=344125">Apply</a></td>
-<td align="center">10 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>LCI Industries</strong></td>

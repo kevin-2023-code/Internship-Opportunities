@@ -5,9 +5,34 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T13:04:25.654Z",
-  "count": 3871,
+  "listingsChangedAt": "2026-11-13T14:04:55.713Z",
+  "count": 3872,
   "listings": [
+    {
+      "id": "31a30042-ac50-4e5d-89fa-71412293c17f",
+      "company": "Skydio",
+      "title": "Frontend Software Engineer Intern",
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Frontend Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482797779/",
+      "url": "https://trueinterview.io/jobs/31a30042-ac50-4e5d-89fa-71412293c17f",
+      "postedAt": "2026-11-13T12:41:00.000Z",
+      "updatedAt": "2026-11-13T12:41:00.000Z"
+    },
     {
       "id": "a99331c9-55a9-4a36-bb58-638641fe4259",
       "company": "KLA",
@@ -32,6 +57,83 @@
       "url": "https://trueinterview.io/jobs/a99331c9-55a9-4a36-bb58-638641fe4259",
       "postedAt": "2026-11-13T12:38:00.000Z",
       "updatedAt": "2026-11-13T12:38:00.000Z"
+    },
+    {
+      "id": "a3f953f3-95cc-446a-8011-5456f7207155",
+      "company": "Beckman Coulter Diagnostics",
+      "title": "Software Engineering Intern",
+      "locations": [
+        "Chaska, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4462533638/",
+      "url": "https://trueinterview.io/jobs/a3f953f3-95cc-446a-8011-5456f7207155",
+      "postedAt": "2026-11-13T12:37:00.000Z",
+      "updatedAt": "2026-11-13T12:37:00.000Z"
+    },
+    {
+      "id": "b2448409-895b-410c-a20b-bb65774af179",
+      "company": "GE Aerospace",
+      "title": "Lynn CNC Programmer Co-Op",
+      "locations": [
+        "Lynn, MA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4473929772/",
+      "url": "https://trueinterview.io/jobs/b2448409-895b-410c-a20b-bb65774af179",
+      "postedAt": "2026-11-13T12:37:00.000Z",
+      "updatedAt": "2026-11-13T12:37:00.000Z"
+    },
+    {
+      "id": "70ecbc70-4482-4f95-a9b3-7d2fc3bc6786",
+      "company": "Nominal",
+      "title": "Software Engineer - Internship (Summer 2027)",
+      "locations": [
+        "Austin, TX"
+      ],
+      "cities": [
+        "Austin, TX"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4463958792/",
+      "url": "https://trueinterview.io/jobs/70ecbc70-4482-4f95-a9b3-7d2fc3bc6786",
+      "postedAt": "2026-11-13T12:16:00.000Z",
+      "updatedAt": "2026-11-13T12:16:00.000Z"
     },
     {
       "id": "be2dbbdc-81a5-4517-bbb9-bc7e2690fb20",
@@ -1164,7 +1266,8 @@
       "company": "Brady Corporation",
       "title": "Software Engineer Intern",
       "locations": [
-        "Plymouth, MN"
+        "Plymouth, MN",
+        "Milwaukee, WI"
       ],
       "cities": [],
       "countries": [
@@ -1179,7 +1282,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488580332/",
+      "applyUrl": "https://myjobs.adp.com/bradycorp/cx/job-details?reqId=5001237992900",
       "url": "https://trueinterview.io/jobs/001e3c64-62a5-4f21-8a12-af499acefb2c",
       "postedAt": "2026-11-13T07:25:00.000Z",
       "updatedAt": "2026-11-13T07:25:00.000Z"
@@ -1497,6 +1600,32 @@
       "updatedAt": "2026-11-13T05:06:00.000Z"
     },
     {
+      "id": "f2f34cfe-1169-4d5e-aaa1-55221553ca15",
+      "company": "North Atlantic Industries",
+      "title": "Intern - Embedded Software Engineer (Spring 2027)",
+      "locations": [
+        "Bohemia, NY",
+        "116 Wilbur Pl, Bohemia, NY, 11716, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663112?listingId=03d28297-d3eb-4490-a5a8-e525e673a55a",
+      "url": "https://trueinterview.io/jobs/f2f34cfe-1169-4d5e-aaa1-55221553ca15",
+      "postedAt": "2026-11-13T00:16:00.000Z",
+      "updatedAt": "2026-11-13T04:40:58.000Z"
+    },
+    {
       "id": "d45d90b2-5184-41e9-b23f-defbc6f8b4cb",
       "company": "Zoox",
       "title": "Data Scientist Intern [Summer 2027]",
@@ -1778,31 +1907,6 @@
       "updatedAt": "2026-11-13T00:21:00.000Z"
     },
     {
-      "id": "f2f34cfe-1169-4d5e-aaa1-55221553ca15",
-      "company": "North Atlantic Industries",
-      "title": "Intern - Embedded Software Engineer (Spring 2027)",
-      "locations": [
-        "Bohemia, NY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4488579680/",
-      "url": "https://trueinterview.io/jobs/f2f34cfe-1169-4d5e-aaa1-55221553ca15",
-      "postedAt": "2026-11-13T00:16:00.000Z",
-      "updatedAt": "2026-11-13T00:16:00.000Z"
-    },
-    {
       "id": "697349cd-cf38-47c6-8e5a-0ab1871f5584",
       "company": "Allen Control Systems",
       "title": "Android Developer Intern, 2027",
@@ -2013,7 +2117,8 @@
       "company": "Cintas",
       "title": "IT Intern - OT Software Engineer",
       "locations": [
-        "Mason, OH"
+        "Mason, OH",
+        "Ohio, United States"
       ],
       "cities": [],
       "countries": [
@@ -2028,7 +2133,7 @@
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490531233/",
+      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=cintasP2&rcm_site_locale=en_US&career_job_req_id=240097",
       "url": "https://trueinterview.io/jobs/56a9edba-a3f7-4b1f-8f37-9aae1768dd1d",
       "postedAt": "2026-11-12T22:40:00.000Z",
       "updatedAt": "2026-11-12T22:40:00.000Z"
@@ -3822,31 +3927,6 @@
       "url": "https://trueinterview.io/jobs/e857ec86-b103-4663-bf00-8fedd5f14acd",
       "postedAt": "2026-11-12T12:42:00.000Z",
       "updatedAt": "2026-11-12T12:42:00.000Z"
-    },
-    {
-      "id": "9fa8e261-ff7e-413e-a4ae-067d6b787ab0",
-      "company": "QuantumFinix",
-      "title": "UI/UX Design Intern",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489227811/",
-      "url": "https://trueinterview.io/jobs/9fa8e261-ff7e-413e-a4ae-067d6b787ab0",
-      "postedAt": "2026-11-12T12:36:00.000Z",
-      "updatedAt": "2026-11-12T12:36:00.000Z"
     },
     {
       "id": "f86e607a-4627-4200-a106-7523d57352b2",
@@ -12155,31 +12235,6 @@
       "url": "https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336",
       "postedAt": "2026-11-10T15:34:25.000Z",
       "updatedAt": "2026-11-10T15:34:25.000Z"
-    },
-    {
-      "id": "7bd346bb-e1c6-46c7-8af8-610c3a8d6214",
-      "company": "Lumen Technologies",
-      "title": "Data, Analytics & Decision Science - Summer 2027 Internship Pathway",
-      "locations": [
-        "Remote, US"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "remote",
-      "category": "Other",
-      "family": "Data & AI",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://career4.successfactors.com/career?career_ns=job_listing&company=CTLPRD&rcm_site_locale=en_US&career_job_req_id=344125",
-      "url": "https://trueinterview.io/jobs/7bd346bb-e1c6-46c7-8af8-610c3a8d6214",
-      "postedAt": "2026-11-10T15:33:02.000Z",
-      "updatedAt": "2026-11-10T15:33:02.000Z"
     },
     {
       "id": "0e87ff90-16f4-4308-ba9f-da486464df57",
@@ -89518,33 +89573,6 @@
       "url": "https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b",
       "postedAt": "2026-10-02T19:58:27.000Z",
       "updatedAt": "2026-10-02T19:58:27.000Z"
-    },
-    {
-      "id": "2be3375e-2540-46f0-9232-74dad5ae968c",
-      "company": "xAI",
-      "title": "Spring 2027 Software Engineering Internship/Co-op",
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
-      "url": "https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c",
-      "postedAt": "2026-10-02T19:15:20.000Z",
-      "updatedAt": "2026-10-02T19:15:20.000Z"
     },
     {
       "id": "c45d28fc-e2be-4175-8a59-1c338b3e96de",
