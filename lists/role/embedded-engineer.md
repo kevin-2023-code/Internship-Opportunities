@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**70 open roles.** 57 in the United States & Canada · 13 elsewhere in the world.
+**71 open roles.** 58 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -380,6 +380,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>North Reading, Massachusetts, USA</td>
 <td align="center"><a href="https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027">Apply</a></td>
 <td align="center">8 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Aurora Innovation</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd4b01cc-9794-48f9-a594-ed7a54a9dd28">Embedded Software Engineer Intern — Lidar</a></td>
+<td>Bozeman, MT</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868">Apply</a></td>
+<td align="center">1 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Muon Space</strong></td>

@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T22:04:51.238Z",
-  "count": 3886,
+  "listingsChangedAt": "2026-11-13T23:04:47.601Z",
+  "count": 3885,
   "listings": [
     {
       "id": "24c65726-9899-4031-9e36-20c85a30ea4d",
@@ -3509,6 +3509,33 @@
       "source": "ats-boards",
       "applyUrl": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012963",
       "url": "https://trueinterview.io/jobs/4433b4d6-0158-41ec-a6d7-05e32e3062c7",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "updatedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "a151a94a-87ee-4608-b90d-62e214d92671",
+      "company": "Wsp",
+      "title": "Civil Engineering Intern - Winter 2027",
+      "locations": [
+        "Los Angeles, CA, United States"
+      ],
+      "cities": [
+        "Los Angeles, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99105",
+      "url": "https://trueinterview.io/jobs/a151a94a-87ee-4608-b90d-62e214d92671",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "updatedAt": "2026-11-13T00:00:00.000Z"
     },
@@ -91299,6 +91326,31 @@
       "updatedAt": "2026-10-01T23:02:38.000Z"
     },
     {
+      "id": "dd4b01cc-9794-48f9-a594-ed7a54a9dd28",
+      "company": "Aurora Innovation",
+      "title": "Embedded Software Engineer Intern — Lidar",
+      "locations": [
+        "Bozeman, MT"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
+      "url": "https://trueinterview.io/jobs/dd4b01cc-9794-48f9-a594-ed7a54a9dd28",
+      "postedAt": "2026-10-01T22:24:38.000Z",
+      "updatedAt": "2026-10-01T22:24:38.000Z"
+    },
+    {
       "id": "41a3e1a8-162d-46dc-a429-4392302220ed",
       "company": "Memx",
       "title": "Enterprise IT Intern, Summer 2027 (Hybrid)",
@@ -100866,93 +100918,6 @@
       "url": "https://trueinterview.io/jobs/73a67776-ef91-4bf4-98fb-3ab5d61756e5",
       "postedAt": "2026-09-15T00:00:00.000Z",
       "updatedAt": "2026-09-15T00:00:00.000Z"
-    },
-    {
-      "id": "11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
-      "company": "Grammarly",
-      "title": "Software Engineering Intern - Summer 2027",
-      "locations": [
-        "Hub - San Francisco",
-        "Hub - New York",
-        "Hub - Seattle"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application",
-      "url": "https://trueinterview.io/jobs/11d2cb6d-a6b7-48f8-8c99-69391eca34c1",
-      "postedAt": "2026-09-14T22:59:08.000Z",
-      "updatedAt": "2026-09-14T22:59:08.000Z"
-    },
-    {
-      "id": "ebf6c784-70db-498d-b888-1d5d83183a8b",
-      "company": "Graham Capital Management",
-      "title": "2027 Graham Capital Summer Internship – London",
-      "locations": [
-        "London, England, United Kingdom",
-        "London, UK"
-      ],
-      "cities": [
-        "London"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Quantitative Finance",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005",
-      "url": "https://trueinterview.io/jobs/ebf6c784-70db-498d-b888-1d5d83183a8b",
-      "postedAt": "2026-09-14T22:24:27.000Z",
-      "updatedAt": "2026-09-14T22:24:27.000Z"
-    },
-    {
-      "id": "90760489-e880-4943-8229-05bb312ce8e8",
-      "company": "Opengov",
-      "title": "Product Intern",
-      "locations": [
-        "US",
-        "Georgia",
-        "Atlanta",
-        "Massachusetts",
-        "Boston"
-      ],
-      "cities": [
-        "Atlanta, GA",
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "1point3acres",
-      "applyUrl": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application",
-      "url": "https://trueinterview.io/jobs/90760489-e880-4943-8229-05bb312ce8e8",
-      "postedAt": "2026-09-14T22:12:02.000Z",
-      "updatedAt": "2026-09-14T22:12:02.000Z"
     }
   ]
 }
