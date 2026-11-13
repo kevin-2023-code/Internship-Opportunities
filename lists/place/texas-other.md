@@ -18,6 +18,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>SWBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/24c65726-9899-4031-9e36-20c85a30ea4d">Software Engineering Intern</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462564840/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>HP</strong></td>
 <td><a href="https://trueinterview.io/jobs/72250852-7397-45c6-8f3c-ee57fb69c77c">Software Product Security Engineer Intern</a></td>
 <td>Spring, TX</td>
@@ -324,13 +331,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Houston, TX<br/>Houston Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/botauto/jobs/5430792008">Apply</a></td>
 <td align="center">21 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Research Innovations</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3b5fe49-37ab-4272-9bd2-62305b6fcf07">Information Assurance 2027 Summer Internship</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://jobs.lever.co/researchinnovations.com/b1bd956a-e3b8-4ce2-adf0-07b10c2eddee/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

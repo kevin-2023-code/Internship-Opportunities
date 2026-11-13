@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**168 open roles.**
+**167 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -117,13 +117,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Career Launch Tech Initiative</strong></td>
-<td><a href="https://trueinterview.io/jobs/c00f75d8-a96e-4147-abab-93b5712f81e6">Software Engineering Intern (Volunteer)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487305751/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/d7c2a55e-67ea-413b-87c4-fb7e9c4debe4">Software Engineer Intern</a></td>
 <td>Los Angeles, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485125167/">Apply</a></td>

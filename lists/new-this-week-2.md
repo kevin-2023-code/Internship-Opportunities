@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**962 open roles.** 782 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
+**955 open roles.** 777 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>REGENT</strong></td>
+<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
+<td>North Kingstown, Rhode Island, USA<br/>North Kingstown, RI</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia | Water Tech</strong></td>
+<td><a href="https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b">Manufacturing Software Engineer Intern</a></td>
+<td>Boulder, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487492521/">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336">SAP iXp Intern - AI Developer</a></td>
+<td>Palo Alto, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160905751-sap-ixp-intern-ai-developer">Apply</a></td>
+<td align="center">10 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Akoncagua AI</strong></td>
 <td><a href="https://trueinterview.io/jobs/0e87ff90-16f4-4308-ba9f-da486464df57">AI Researcher Intern – Winter / Spring 2027 (PhD)</a></td>
@@ -1080,13 +1101,6 @@
 <td align="center">8 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Sandhills Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c4904ed-c88d-41a5-a607-1904950e4546">Software Development Intern</a></td>
-<td>Lincoln, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/3988440579/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>IBM</strong></td>
 <td><a href="https://trueinterview.io/jobs/a274de52-4dfe-4cc7-b74b-fe9d8f19c6d9">Intern Data Engineer - Data Services - 2027</a></td>
 <td>Baton Rouge, LA<br/>Monroe, MI</td>
@@ -1854,13 +1868,6 @@
 <td><a href="https://trueinterview.io/jobs/4419e1b5-1d4b-4e4a-9723-a035877f9b26">Intern Software Engineering</a></td>
 <td>Reno, NV</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4479741894/">Apply</a></td>
-<td align="center">6 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Career Launch Tech Initiative</strong></td>
-<td><a href="https://trueinterview.io/jobs/c00f75d8-a96e-4147-abab-93b5712f81e6">Software Engineering Intern (Volunteer)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487305751/">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>
@@ -2647,48 +2654,6 @@
 <td align="center"><a href="https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
-<tr>
-<td><strong>Raytheon</strong></td>
-<td><a href="https://trueinterview.io/jobs/58536b1b-e544-4c58-9502-efc5cb1901fa">Internship – Raytheon Systems Security Engineer -Onsite</a></td>
-<td>Tewksbury, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487785897/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>HP</strong></td>
-<td><a href="https://trueinterview.io/jobs/eaec6c85-7cda-465c-9aef-aab687f2df7a">Software Product Management Intern</a></td>
-<td>Austin, TX</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487576021/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Eluvio</strong></td>
-<td><a href="https://trueinterview.io/jobs/2c9da9ff-c61c-4c18-b10d-e7c2825a7730">Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)</a></td>
-<td>Berkeley, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488030782/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Elevated Web Design</strong></td>
-<td><a href="https://trueinterview.io/jobs/e8e59ae9-ce13-40aa-b9a4-99a763466c69">ML Software Engineering Internship</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488051046/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Shield</strong></td>
-<td><a href="https://trueinterview.io/jobs/c19f2c41-3b4c-4602-8bd3-0050e5626d12">June 2027 Co-Op - Software Engineer Intern</a></td>
-<td>Washington, DC<br/>Seattle, Washington, United States<br/>San Diego, California, United States<br/>+3 more</td>
-<td align="center"><a href="https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Little Caesars Pizza</strong></td>
-<td><a href="https://trueinterview.io/jobs/af0d4d28-a495-4dec-af46-2858e04bab5c">Intern, Developer IT</a></td>
-<td>Detroit, MI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487799873/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2825,6 +2790,41 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/6c05da99-674d-406b-ab33-869290e9ed63">Frontend Software Engineer Intern (TikTok Foundation) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4438322557/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e19f74bd-f724-454d-a058-c1b7b9f6681a">Content Risk Product Manager Intern (TikTok Platform Safety) - 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448507994/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/760bd8d9-edb9-433e-a30b-dfc8c44c7f54">Research Scientist Intern - End-to-End Generative Search Technology Based on Pre-Trained Foundation Models - Global Frontier Tech Recruitment Program - 2027 Start (PhD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4401876238/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/870d6fab-401c-4927-9add-91fe74789853">Hyper-Edge Technology Development Engineer Intern (Data Application) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4439824936/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/74720ac9-3d4c-4f6e-9ce3-ef16c3852267">Governance Track LLM Product Intern（TikTok Platform Safety）- 2027 Start</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4447983859/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Renesas</strong></td>
+<td><a href="https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e">Mechanical Engineering Intern</a></td>
+<td>Varna, Bulgaria</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 </tbody>

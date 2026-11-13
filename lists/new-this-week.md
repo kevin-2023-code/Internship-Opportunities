@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**962 open roles.** 782 in the United States & Canada · 180 elsewhere in the world. Everything the employers put up this week.
+**955 open roles.** 777 in the United States & Canada · 178 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -19,6 +19,41 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>SWBC</strong></td>
+<td><a href="https://trueinterview.io/jobs/24c65726-9899-4031-9e36-20c85a30ea4d">Software Engineering Intern</a></td>
+<td>San Antonio, TX</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462564840/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Lockheed Martin</strong></td>
+<td><a href="https://trueinterview.io/jobs/c7f06e35-9f42-4b22-92e3-46912f4bf9c3">Embedded Software Engineering Intern - Summer 2027</a></td>
+<td>Highlands Ranch, CO</td>
+<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477501085?domain=lockheedmartin.com">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Marketeq Digital Solutions</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec794395-e5a7-4e4f-b8d1-1a07289465d6">AI Full Stack Engineer Intern (U.S.A)</a></td>
+<td>Miami, FL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490783200/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Valeo</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8438fc4-460c-40cb-9c49-7aec582d2183">Software Engineer Intern (Year-Round)</a></td>
+<td>Troy, MI</td>
+<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>InComm Payments</strong></td>
+<td><a href="https://trueinterview.io/jobs/8358b3b2-604f-44b6-be29-ff3a45d9fbfe">Software Engineering Intern</a></td>
+<td>Sandy, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4474569132/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Reliable Robotics Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/bf8efcad-84a4-4203-8d10-c086841e59a1">Flight Test Integration Engineer Intern (Summer 2027)</a></td>
@@ -195,6 +230,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Nexus One</strong></td>
+<td><a href="https://trueinterview.io/jobs/54c7a9a8-fd67-4f8d-af24-abe15c0b086c">Data Engineering Intern</a></td>
+<td>Atlanta HQ</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/nexus-cognitive/22c64819-67fc-48d0-b206-5b41d370f6a5">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Brady Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/001e3c64-62a5-4f21-8a12-af499acefb2c">Software Engineer Intern</a></td>
 <td>Plymouth, MN<br/>Milwaukee, WI</td>
@@ -220,13 +262,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5bd3da0f-a32e-41ab-a5dd-b9fbc1533d70">2027 Summer Internship Program – Systematic Trading Technology Software Engineer, New York</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4465872435/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/c7f06e35-9f42-4b22-92e3-46912f4bf9c3">Embedded Software Engineering Intern - Summer 2027</a></td>
-<td>Highlands Ranch, CO</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477501085?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -601,13 +636,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Valeo</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8438fc4-460c-40cb-9c49-7aec582d2183">Software Engineer Intern (Year-Round)</a></td>
-<td>Troy, MI</td>
-<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Collins Aerospace</strong></td>
 <td><a href="https://trueinterview.io/jobs/a304ef3e-be75-4ad8-9f10-97040e926d67">Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)</a></td>
 <td>Cedar Rapids, IA</td>
@@ -780,13 +808,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/76ae0837-5080-4053-8899-e978c57314f6">Power Electronics Engineer Intern</a></td>
 <td>US-CA-Campbell-254</td>
 <td align="center"><a href="https://www.chargepoint.com/about/opportunities/job/?gh_jid=8928792002">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/567418ff-c1b9-47d3-8c9d-6a351acb4737">AI Research Engineer Intern</a></td>
-<td>Alabama, United States<br/>Colorado, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488548852/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2796,27 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ffd4672d-9645-450f-9cff-180d64c9516c">Intern - Year Round (AI Engineering)</a></td>
 <td>Vienna, VA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4481517443/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>REGENT</strong></td>
-<td><a href="https://trueinterview.io/jobs/43bf8a61-d4ff-4082-a19b-1252c29b0b0e">Mission Software Engineering Intern (Summer)</a></td>
-<td>North Kingstown, Rhode Island, USA<br/>North Kingstown, RI</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/REGENT/1da518a0-9030-48d1-a58c-15d1f88f0eaa">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Veolia | Water Tech</strong></td>
-<td><a href="https://trueinterview.io/jobs/425c2d6b-a331-4851-ba70-1d45815ade0b">Manufacturing Software Engineer Intern</a></td>
-<td>Boulder, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487492521/">Apply</a></td>
-<td align="center">10 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>SAP IT Business Systeme</strong></td>
-<td><a href="https://trueinterview.io/jobs/2551cb10-e44d-40bf-bd7c-e67544a57336">SAP iXp Intern - AI Developer</a></td>
-<td>Palo Alto, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000160905751-sap-ixp-intern-ai-developer">Apply</a></td>
 <td align="center">10 Nov 2026</td>
 </tr>
 </tbody>

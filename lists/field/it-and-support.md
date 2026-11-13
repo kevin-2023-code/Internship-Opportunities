@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**81 open roles.** 61 in the United States & Canada · 20 elsewhere in the world.
+**80 open roles.** 60 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -436,13 +436,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>US, MA, Wilmington, United States of America<br/>US, WA, Camas</td>
 <td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Information-Technology-Intern_R266137">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Research Innovations</strong></td>
-<td><a href="https://trueinterview.io/jobs/a3b5fe49-37ab-4272-9bd2-62305b6fcf07">Information Assurance 2027 Summer Internship</a></td>
-<td>San Antonio, TX</td>
-<td align="center"><a href="https://jobs.lever.co/researchinnovations.com/b1bd956a-e3b8-4ce2-adf0-07b10c2eddee/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

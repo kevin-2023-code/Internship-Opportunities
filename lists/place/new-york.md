@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**147 open roles.**
+**146 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -709,13 +709,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983">Apply</a></td>
 <td align="center">27 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
-<td>New York, NY<br/>New York City<br/>Austin, TX<br/>+3 more</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Palantir</strong></td>

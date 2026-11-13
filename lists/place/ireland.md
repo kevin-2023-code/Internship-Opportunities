@@ -2,7 +2,7 @@
 
 # 🇮🇪 Dublin & Ireland
 
-**16 open roles.**
+**17 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -123,6 +123,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Dublin, County Dublin, Ireland</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476510386/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e858e64-eea2-4d70-95c5-dce818d26555">2027 - Summer Software Engineer Intern, Dublin</a></td>
+<td>Dublin</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8267099">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Arista Networks</strong></td>

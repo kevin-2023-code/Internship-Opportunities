@@ -2,7 +2,7 @@
 
 # 🎸 Austin
 
-**88 open roles.**
+**87 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -450,13 +450,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Austin, Texas, United States</td>
 <td align="center"><a href="https://careers.amd.com/careers-home/jobs/91082?lang=en-us">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
-<td>Austin, TX<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Opensesame</strong></td>

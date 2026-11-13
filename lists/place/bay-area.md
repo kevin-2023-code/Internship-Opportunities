@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**583 open roles.**
+**582 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -2575,13 +2575,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">23 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
-<td>Palo Alto, CA<br/>San Francisco, CA<br/>Austin, TX<br/>+3 more</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Intel</strong></td>
 <td><a href="https://trueinterview.io/jobs/75b90e28-cf86-4e94-9a21-c0dad5dd1f56">AI Hardware Engineering Intern</a></td>
 <td>US, California, Santa Clara, United States of America<br/>US, California, Folsom</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b4f0bd73-3473-4279-aee3-231899a0b1b1">Intern - Design Engineer, Pathfinding</a></td>
 <td>San Jose, CA<br/>Folsom, CA, US</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/45050114">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/8cfff8e5-5264-4478-815b-2e59c9937037">Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027</a></td>
+<td>Santa Clara, CA, US</td>
+<td align="center"><a href="https://jobs.nvidia.com/careers/job/893398185388">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

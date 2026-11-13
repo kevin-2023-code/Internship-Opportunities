@@ -18,9 +18,9 @@ matching role worldwide rather than the newest slice.
 
 <!-- LISTINGS:START — everything between these markers is generated hourly. Edit the scripts, not the table. -->
 
-_Last updated: 2026-11-13 20:04 UTC_
+_Last updated: 2026-11-13 21:04 UTC_
 
-**795 open internships** from **314 employers** · **180 posted in the last 7 days** · refreshed hourly
+**795 open internships** from **314 employers** · **178 posted in the last 7 days** · refreshed hourly
 
 ### Browse 795 internships by field
 
@@ -50,13 +50,13 @@ _Last updated: 2026-11-13 20:04 UTC_
 
 _Counts are internships in the rest of the world. Each page carries every region, under its own heading._
 
-🏷️ **By company type** — [🏛️ Big Tech (150)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (76)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (46)](lists/company/hardware-devices.md) · [📱 Consumer internet & media (25)](lists/company/consumer-internet.md) · [🏗️ Large tech (1,000–9,999) (24)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [🏢 Enterprise & business software (17)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (17)](lists/company/mid-size-tech.md) · [☁️ Developer tools, cloud & data infrastructure (11)](lists/company/dev-infra.md) · [🚗 Autonomy, automotive & mobility (10)](lists/company/autonomy-mobility.md) · [+12 more →](lists/README.md)
+🏷️ **By company type** — [🏛️ Big Tech (150)](lists/company/big-tech.md) · [🔬 Semiconductors & chips (76)](lists/company/semiconductors.md) · [🖥️ Hardware, devices & networking (46)](lists/company/hardware-devices.md) · [📱 Consumer internet & media (25)](lists/company/consumer-internet.md) · [🏗️ Large tech (1,000–9,999) (25)](lists/company/large-tech.md) · [📈 Quant trading & hedge funds (23)](lists/company/quant-trading.md) · [🏢 Enterprise & business software (17)](lists/company/enterprise-saas.md) · [🏤 Mid-sized tech (200–999) (17)](lists/company/mid-size-tech.md) · [☁️ Developer tools, cloud & data infrastructure (12)](lists/company/dev-infra.md) · [🚗 Autonomy, automotive & mobility (10)](lists/company/autonomy-mobility.md) · [+11 more →](lists/README.md)
 
-🧑‍💻 **By role** — [Software Engineer (113)](lists/role/software-engineer.md) · [AI Engineer (83)](lists/role/ai-engineer.md) · [Machine Learning Engineer (45)](lists/role/machine-learning-engineer.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Product Manager (38)](lists/role/product-manager.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Security Engineer (18)](lists/role/security-engineer.md) · [Research Scientist (16)](lists/role/research-scientist.md) · [Data Engineer (14)](lists/role/data-engineer.md) · [Embedded Engineer (13)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
+🧑‍💻 **By role** — [Software Engineer (114)](lists/role/software-engineer.md) · [AI Engineer (83)](lists/role/ai-engineer.md) · [Machine Learning Engineer (45)](lists/role/machine-learning-engineer.md) · [Data Analyst (39)](lists/role/data-analyst.md) · [Product Manager (38)](lists/role/product-manager.md) · [Data Scientist (21)](lists/role/data-scientist.md) · [Security Engineer (18)](lists/role/security-engineer.md) · [Research Scientist (16)](lists/role/research-scientist.md) · [Data Engineer (14)](lists/role/data-engineer.md) · [Embedded Engineer (13)](lists/role/embedded-engineer.md) · [+12 more →](lists/README.md)
 
-📍 **By location** — [🇸🇬 Singapore (172)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (44)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (25)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇦🇺 Sydney, Melbourne & Aotearoa (17)](lists/place/anz.md) · [+6 more →](lists/README.md)
+📍 **By location** — [🇸🇬 Singapore (172)](lists/place/singapore.md) · [🏮 Beijing, Shanghai, Taipei & Hong Kong (55)](lists/place/greater-china.md) · [🇬🇧 London & the UK (44)](lists/place/uk.md) · [🇫🇷 Paris & France (34)](lists/place/france.md) · [🇨🇭 Zürich & Switzerland (31)](lists/place/switzerland.md) · [🇩🇪 Berlin, Munich & Germany (29)](lists/place/germany.md) · [🏰 Warsaw, Kraków & Central Europe (29)](lists/place/poland-cee.md) · [🇳🇱 Amsterdam & the Benelux (25)](lists/place/benelux.md) · [🇪🇸 Madrid, Barcelona & Iberia (23)](lists/place/iberia.md) · [🇮🇪 Dublin & Ireland (17)](lists/place/ireland.md) · [+6 more →](lists/README.md)
 
-⚡ **Quick filters** — [🆕 Posted in the last 7 days (180)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
+⚡ **Quick filters** — [🆕 Posted in the last 7 days (178)](lists/new-this-week.md) · [🌐 Remote (14)](lists/remote.md)
 
 [**Every filter, with counts and what each one selects →**](lists/README.md)
 
@@ -511,13 +511,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td align="center">1mo</td>
 </tr>
 <tr>
-<td><strong>Zeeco</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9161335-8daa-469e-bfb0-4722de64ce1d">Graduate Engineering Summer Internship 2027</a></td>
-<td>Stamford, England<br/>United Kingdom</td>
-<td align="center"><a href="https://jobs.lever.co/zeeco/25ddf05c-66d4-43b9-a1e3-7bfd61a12821">Apply</a></td>
-<td align="center">1mo</td>
-</tr>
-<tr>
 <td><strong>Databricks</strong></td>
 <td><a href="https://trueinterview.io/jobs/b527973e-f432-4ced-a773-74a7c41ba25a">Software Engineering Intern (2027 Start) - London</a></td>
 <td>London, United Kingdom</td>
@@ -613,6 +606,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/8b5e68b7-fafd-43b9-9ef5-0383b0f14f55">Software Engineering Intern</a></td>
 <td>Berkeley</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0">Apply</a></td>
+<td align="center">1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/76a5a60d-2678-4de9-bd3d-16e41f90f7dd">Mechanical/Test Engineering Intern</a></td>
+<td>Berkeley</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/Terranova/7ba048ea-818d-46b5-8ff8-3ce58d39bcc6">Apply</a></td>
 <td align="center">1mo</td>
 </tr>
 </tbody>
@@ -1529,7 +1529,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/2f7de81a-9e66-439f-a172-87dbcceb776d">Quantitative Trader Intern 2027</a></td>
 <td>Hong Kong, Hong Kong SAR</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4452930184/">Apply</a></td>
-<td align="center">6d</td>
+<td align="center">7d</td>
 </tr>
 <tr>
 <td><strong>Point72</strong></td>
@@ -1550,7 +1550,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/0ec232c3-1183-4af7-8616-1c949c52cd44">Quantitative Developer Intern</a></td>
 <td>Paris, Île-de-France, France<br/>Singapore</td>
 <td align="center"><a href="https://www.tower-research.com/open-positions/?gh_jid=8138524">Apply</a></td>
-<td align="center">7d</td>
+<td align="center">8d</td>
 </tr>
 <tr>
 <td><strong>Millennium</strong></td>
@@ -1738,7 +1738,7 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/86689ed9-c6c3-4b4b-96de-2ba75d700999">Solutions Engineer Intern</a> 🆕 🌐</td>
 <td>Remote</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/numa/jobs/4504052009">Apply</a></td>
-<td align="center">1d</td>
+<td align="center">2d</td>
 </tr>
 <tr>
 <td><strong>Sopra Steria</strong></td>

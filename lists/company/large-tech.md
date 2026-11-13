@@ -2,7 +2,7 @@
 
 # 🏗️ Large tech (1,000–9,999)
 
-**128 open roles.** 104 in the United States & Canada · 24 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
+**128 open roles.** 103 in the United States & Canada · 25 elsewhere in the world. Established technology companies past the startup stage and short of the giants.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -380,13 +380,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Santa Clara, CA, United States of America</td>
 <td align="center"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Signal-and-Power-Integrity-Intern--MS---Summer-2027_2603858">Apply</a></td>
 <td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
-<td>Austin, TX<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>1password</strong></td>
@@ -854,6 +847,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Harrow, England, United Kingdom</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4482565740/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e858e64-eea2-4d70-95c5-dce818d26555">2027 - Summer Software Engineer Intern, Dublin</a></td>
+<td>Dublin</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8267099">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Celonis</strong></td>

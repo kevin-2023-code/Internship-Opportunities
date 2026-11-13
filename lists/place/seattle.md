@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**113 open roles.**
+**112 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -541,13 +541,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Seattle, Washington, San Diego, California, Boston, Massachusetts</td>
 <td align="center"><a href="https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3/apply">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
-<td>Seattle, WA<br/>Austin, TX<br/>Palo Alto, CA<br/>+3 more</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Meta</strong></td>

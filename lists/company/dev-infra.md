@@ -2,7 +2,7 @@
 
 # ☁️ Developer tools, cloud & data infrastructure
 
-**23 open roles.** 12 in the United States & Canada · 11 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
+**23 open roles.** 11 in the United States & Canada · 12 elsewhere in the world. Cloud, CDNs, databases, data platforms, observability and DevOps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -23,13 +23,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>Austin, Texas, United States<br/>In-Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>MongoDB</strong></td>
-<td><a href="https://trueinterview.io/jobs/ec6a2248-d808-481e-bf8e-f2edc9f3e65c">2027 - Software Engineering Intern, AMER</a></td>
-<td>Austin, TX<br/>Palo Alto, CA<br/>San Francisco, CA<br/>+3 more</td>
-<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8209134">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Veeam Software</strong></td>
@@ -161,6 +154,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>In-Office</td>
 <td align="center"><a href="https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008">Apply</a></td>
 <td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>MongoDB</strong></td>
+<td><a href="https://trueinterview.io/jobs/4e858e64-eea2-4d70-95c5-dce818d26555">2027 - Summer Software Engineer Intern, Dublin</a></td>
+<td>Dublin</td>
+<td align="center"><a href="https://www.mongodb.com/careers/job/?gh_jid=8267099">Apply</a></td>
+<td align="center">23 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>Snowflake</strong></td>

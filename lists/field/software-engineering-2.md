@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,899 open roles.** 1,511 in the United States & Canada · 388 elsewhere in the world.
+**1,895 open roles.** 1,507 in the United States & Canada · 388 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,13 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Raft</strong></td>
+<td><a href="https://trueinterview.io/jobs/01406246-689e-4f15-b8de-4ebc76d8313e">Full Stack Engineering Intern - Summer 2027</a></td>
+<td>McLean, VA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4486925957/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Hadrian</strong></td>
 <td><a href="https://trueinterview.io/jobs/aeec53c3-964e-4c3b-92c6-ef3eabd74f46">Software Engineer Intern</a></td>
@@ -867,13 +874,6 @@
 <td><a href="https://trueinterview.io/jobs/7b6de084-55c4-40d6-b85d-9a27a09a7fed">QA/Test Engineer Intern-Tucson, AZ</a></td>
 <td>Tucson, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4456512970/">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/4bcfcf47-fd15-4245-9aa1-4eb81d397049">Embedded Software Engineer Intern - Summer 2027</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477363529?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
@@ -2179,13 +2179,6 @@
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
-<td>San Luis Obispo, CA</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477676855?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>BorgWarner</strong></td>
 <td><a href="https://trueinterview.io/jobs/be335bc6-9167-4c25-a56a-1ecf7500a662">Systems Test Automation Engineering Intern</a></td>
 <td>Kokomo, IN</td>
@@ -2813,6 +2806,13 @@
 <td><a href="https://trueinterview.io/jobs/0e01a6b4-5496-4614-91b7-a8cd4be700f5">College to Corporate IT Internship - Risk &amp; Security - Engineer</a></td>
 <td>Dallas, TX</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484830152/">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Rysein</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bf82ea7-45f7-4fa4-a5e4-aac3585093b7">Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector</a></td>
+<td>United States</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4485307316/">Apply</a></td>
 <td align="center">30 Oct 2026</td>
 </tr>
 </tbody>

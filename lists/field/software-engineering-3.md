@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,899 open roles.** 1,511 in the United States & Canada · 388 elsewhere in the world.
+**1,895 open roles.** 1,507 in the United States & Canada · 388 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Rysein</strong></td>
-<td><a href="https://trueinterview.io/jobs/2bf82ea7-45f7-4fa4-a5e4-aac3585093b7">Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector</a></td>
-<td>United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485307316/">Apply</a></td>
-<td align="center">30 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Stratolaunch</strong></td>
 <td><a href="https://trueinterview.io/jobs/7cc77704-9d90-4b96-adc0-aad39c47b08c">Manufacturing (Electrical) Engineering Intern Summer 2027</a></td>
@@ -2683,13 +2676,6 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/69171ddc-6870-4877-a4ae-bcb9cd774bbd">Cyber Software Engineer Intern - Summer 2027</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477645419?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Mide Technology</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e1bfa7d-c9e0-4ba4-9b1c-f5316d6f8e6d">Internship - Software Engineering Intern/ Co-op</a></td>
 <td>Woburn, MA</td>
@@ -2813,6 +2799,20 @@
 <td><a href="https://trueinterview.io/jobs/547fb29b-5241-4bae-b4cb-90b02eee4254">2027 Global Facilities Engineering Intern (Undergraduate)</a></td>
 <td>North Chicago, Illinois, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/AbbVie/3743990016432558-2027-global-facilities-engineering-intern-undergraduate-">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Chatham Financial</strong></td>
+<td><a href="https://trueinterview.io/jobs/85a49c9f-f58a-4f8c-93ae-6bfb86c5d491">2027 Software Engineering Intern</a></td>
+<td>Denver, CO<br/>Kennett Square, PA</td>
+<td align="center"><a href="https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Ciena</strong></td>
+<td><a href="https://trueinterview.io/jobs/2bf69c4b-a9b7-489c-998f-7b77b292c58d">Intern - Software Developer Technician</a></td>
+<td>Quebec City, Canada</td>
+<td align="center"><a href="https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Intern---Software-Developer-Technician_R031983-1">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

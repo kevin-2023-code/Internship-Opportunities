@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**597 open roles.** 484 in the United States & Canada · 113 elsewhere in the world.
+**594 open roles.** 480 in the United States & Canada · 114 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,6 +19,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Valeo</strong></td>
+<td><a href="https://trueinterview.io/jobs/b8438fc4-460c-40cb-9c49-7aec582d2183">Software Engineer Intern (Year-Round)</a></td>
+<td>Troy, MI</td>
+<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Reliable Robotics Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/7cbfa23d-7c8a-4e53-b4f7-5ffae6d39922">Flight Software Engineer Intern (Summer 2027)</a></td>
@@ -178,13 +185,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/18baaef0-f881-4fb4-aad8-dc2158be43a6">Intern, Software Engineering</a></td>
 <td>Milwaukee, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4489502611/">Apply</a></td>
-<td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Valeo</strong></td>
-<td><a href="https://trueinterview.io/jobs/b8438fc4-460c-40cb-9c49-7aec582d2183">Software Engineer Intern (Year-Round)</a></td>
-<td>Troy, MI</td>
-<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -1159,13 +1159,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488814382/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Sandhills Global</strong></td>
-<td><a href="https://trueinterview.io/jobs/1c4904ed-c88d-41a5-a607-1904950e4546">Software Development Intern</a></td>
-<td>Lincoln, NE</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/3988440579/">Apply</a></td>
-<td align="center">8 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>IBM</strong></td>
@@ -2218,13 +2211,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">31 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/a1f062c5-43bc-4624-adc0-95a53909504c">sUAS/Drone Software Engineer - Intern</a></td>
-<td>San Luis Obispo, CA</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477676855?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">31 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Roblox</strong></td>
 <td><a href="https://trueinterview.io/jobs/fd1bd01e-5632-413b-86bf-17de96fa7c3f">[Summer 2027] Software Engineer Intern</a></td>
 <td>San Mateo, CA</td>
@@ -2722,13 +2708,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/69171ddc-6870-4877-a4ae-bcb9cd774bbd">Cyber Software Engineer Intern - Summer 2027</a></td>
-<td>Herndon, VA</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477645419?domain=lockheedmartin.com">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Siemens Healthineers</strong></td>
 <td><a href="https://trueinterview.io/jobs/c57264b2-9df6-40f7-83b5-10e7dce498b5">Software Developer Co-op - Red River College</a></td>
 <td>Canada<br/>Winnipeg, Canada</td>
@@ -2817,6 +2796,27 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/32bdda4b-3a9f-456d-9433-e5707063f0a3">Software Engineer Intern</a></td>
 <td>Sioux Falls, SD</td>
 <td align="center"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/43D75E2DF3DFB76BCB85A922B26DE5FA/jobs/507042">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Visa</strong></td>
+<td><a href="https://trueinterview.io/jobs/081ed40f-f3b6-4b06-a896-4ce0d034f2d7">2027 Sophomore Internship Program - Software Engineer Intern, Ashburn</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/1ff74604-ce7e-4776-b4f2-5dbc13d615a9">Software Engineer, Intern - 2027 Ashburn, VA</a></td>
+<td>Ashburn, VA</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W">Apply</a></td>
+<td align="center">27 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/f455dc05-fab0-4b69-b1bf-611cd818391e">Software Engineer, Intern - Foster City 2027</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W">Apply</a></td>
 <td align="center">27 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**247 open roles.** 164 in the United States & Canada · 83 elsewhere in the world.
+**246 open roles.** 163 in the United States & Canada · 83 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -79,13 +79,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Aurora, IL</td>
 <td align="center"><a href="https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841">Apply</a></td>
 <td align="center">13 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/567418ff-c1b9-47d3-8c9d-6a351acb4737">AI Research Engineer Intern</a></td>
-<td>Alabama, United States<br/>Colorado, United States</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4488548852/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Bask Health</strong></td>

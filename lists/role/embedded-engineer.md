@@ -2,7 +2,7 @@
 
 # Embedded Engineer
 
-**71 open roles.** 58 in the United States & Canada · 13 elsewhere in the world.
+**70 open roles.** 57 in the United States & Canada · 13 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -190,13 +190,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8cf115e2-6e25-4938-a95c-980a6385a10f">Firmware Intern</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc">Apply</a></td>
-<td align="center">4 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Lockheed Martin</strong></td>
-<td><a href="https://trueinterview.io/jobs/4bcfcf47-fd15-4245-9aa1-4eb81d397049">Embedded Software Engineer Intern - Summer 2027</a></td>
-<td>Huntsville, AL</td>
-<td align="center"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477363529?domain=lockheedmartin.com">Apply</a></td>
 <td align="center">4 Nov 2026</td>
 </tr>
 <tr>
