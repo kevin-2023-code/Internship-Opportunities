@@ -2,7 +2,7 @@
 
 # 🌐 Remote
 
-**50 open roles.** 36 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
+**51 open roles.** 37 in the United States & Canada · 14 elsewhere in the world. Postings the pipeline classified as remote.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -22,6 +22,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a2fe442e-4b05-45ad-ba1f-a1b10d15f927">AI Engineering Intern</a> 🌐</td>
 <td>Remote — United States</td>
 <td align="center"><a href="https://apply.workable.com/j/D493DA5EB5">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/b1d5b923-25e4-45f8-8a83-48926cbf4a08">Creative Engineering Intern</a> 🌐</td>
+<td>Remote — United States</td>
+<td align="center"><a href="https://apply.workable.com/j/87D13D598A">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
