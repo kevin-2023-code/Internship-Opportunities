@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T01:05:24.639Z",
-  "count": 3836,
+  "listingsChangedAt": "2026-11-13T02:05:57.875Z",
+  "count": 3832,
   "listings": [
     {
       "id": "e9989d0b-da24-40b3-b523-322a8632c567",
@@ -20,9 +20,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -124,7 +124,7 @@
       "remote": "onsite",
       "category": "Data & AI",
       "family": "Data & AI",
-      "role": "Data Analyst",
+      "role": "Data Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -136,29 +136,29 @@
       "updatedAt": "2026-11-13T00:21:00.000Z"
     },
     {
-      "id": "cb0832ea-637d-410e-b0cd-44342c4761ec",
-      "company": "Stanley Black & Decker, Inc.",
-      "title": "Intern, Data Analyst & BI, Summer 2027",
+      "id": "f2f34cfe-1169-4d5e-aaa1-55221553ca15",
+      "company": "North Atlantic Industries",
+      "title": "Intern - Embedded Software Engineer (Spring 2027)",
       "locations": [
-        "Towson, MD"
+        "Bohemia, NY"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Analyst",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4490543355/",
-      "url": "https://trueinterview.io/jobs/cb0832ea-637d-410e-b0cd-44342c4761ec",
-      "postedAt": "2026-11-13T00:13:00.000Z",
-      "updatedAt": "2026-11-13T00:13:00.000Z"
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488579680/",
+      "url": "https://trueinterview.io/jobs/f2f34cfe-1169-4d5e-aaa1-55221553ca15",
+      "postedAt": "2026-11-13T00:16:00.000Z",
+      "updatedAt": "2026-11-13T00:16:00.000Z"
     },
     {
       "id": "5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8",
@@ -182,33 +182,6 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4489501575/",
       "url": "https://trueinterview.io/jobs/5f0778b7-8ebb-48e7-8611-b2b7a2ba5ae8",
-      "postedAt": "2026-11-12T23:40:00.000Z",
-      "updatedAt": "2026-11-12T23:40:00.000Z"
-    },
-    {
-      "id": "4c21730b-5726-4512-9f9d-35298db4a218",
-      "company": "TSMC",
-      "title": "[2027 Summer] AI Research and Engineering Intern for Business Intelligence (8023)",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489513180/",
-      "url": "https://trueinterview.io/jobs/4c21730b-5726-4512-9f9d-35298db4a218",
       "postedAt": "2026-11-12T23:40:00.000Z",
       "updatedAt": "2026-11-12T23:40:00.000Z"
     },
@@ -478,7 +451,7 @@
       ],
       "remote": "onsite",
       "category": "Data & AI",
-      "family": "Data & AI",
+      "family": "Software",
       "role": "Machine Learning Engineer",
       "seniority": "intern",
       "level": "newgrad",
@@ -518,33 +491,6 @@
       "updatedAt": "2026-11-12T19:02:00.000Z"
     },
     {
-      "id": "6c25a2f2-b3eb-4352-b3ed-ed5266e12a20",
-      "company": "Arm",
-      "title": "Intern, Research Scientist, AI",
-      "locations": [
-        "Seattle, WA"
-      ],
-      "cities": [
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4489298069/",
-      "url": "https://trueinterview.io/jobs/6c25a2f2-b3eb-4352-b3ed-ed5266e12a20",
-      "postedAt": "2026-11-12T18:50:00.000Z",
-      "updatedAt": "2026-11-12T18:50:00.000Z"
-    },
-    {
       "id": "19108cf8-d8b6-4fa7-b3b6-29507b511ddf",
       "company": "TotalEnergies",
       "title": "Power Performance Quantitative Intern",
@@ -568,56 +514,6 @@
       "url": "https://trueinterview.io/jobs/19108cf8-d8b6-4fa7-b3b6-29507b511ddf",
       "postedAt": "2026-11-12T18:50:00.000Z",
       "updatedAt": "2026-11-12T18:50:00.000Z"
-    },
-    {
-      "id": "94ad896b-db21-46eb-a338-b8b33f30e270",
-      "company": "ServiceNow",
-      "title": "Sr Inbound Product Manager Intern (MBA Summer 2028)",
-      "locations": [
-        "San Diego, CALIFORNIA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161364609-sr-inbound-product-manager-intern-mba-summer-2028-",
-      "url": "https://trueinterview.io/jobs/94ad896b-db21-46eb-a338-b8b33f30e270",
-      "postedAt": "2026-11-12T18:33:06.000Z",
-      "updatedAt": "2026-11-12T18:33:06.000Z"
-    },
-    {
-      "id": "a31706f8-9d9a-476b-b3bd-cdb2ae43beab",
-      "company": "ServiceNow",
-      "title": "Sr Outbound Product Manager Intern (MBA Summer 2028)",
-      "locations": [
-        "San Diego, CALIFORNIA, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Product & Design",
-      "family": "Product & Design",
-      "role": "Product Manager",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000161362293-sr-outbound-product-manager-intern-mba-summer-2028-",
-      "url": "https://trueinterview.io/jobs/a31706f8-9d9a-476b-b3bd-cdb2ae43beab",
-      "postedAt": "2026-11-12T18:31:23.000Z",
-      "updatedAt": "2026-11-12T18:31:23.000Z"
     },
     {
       "id": "a2fe442e-4b05-45ad-ba1f-a1b10d15f927",
