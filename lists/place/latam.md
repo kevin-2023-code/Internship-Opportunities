@@ -2,7 +2,7 @@
 
 # 🌎 México, Brazil & Latin America
 
-**9 open roles.**
+**7 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -19,20 +19,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/7c9aa3f5-276f-4e38-9586-7d7c47a0f3dc">Creator and Content Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer</a></td>
-<td>São Paulo, São Paulo, Brazil<br/>Mexico City, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447908326/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7e8069b4-6882-45dc-a9cb-7614f7728e26">Seller Governance Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer</a></td>
-<td>São Paulo, São Paulo, Brazil<br/>Mexico City, Mexico</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4481175912/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>Brex</strong></td>
 <td><a href="https://trueinterview.io/jobs/4516dba7-1a70-436b-b62a-db0deb1128bc">Software Engineer, Internship - 2027</a></td>

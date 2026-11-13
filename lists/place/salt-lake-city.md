@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**19 open roles.**
+**20 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Ancestry</strong></td>
+<td><a href="https://trueinterview.io/jobs/9fe6e378-b964-418f-92f1-5f8b3ec5f15e">Software Engineer – Observability, Co-op</a></td>
+<td>Draper, UT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490580180/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Intermountain Health</strong></td>
 <td><a href="https://trueinterview.io/jobs/0f0898f6-a59f-4429-b250-625b5745f65b">AI/ML Engineer Intern</a></td>

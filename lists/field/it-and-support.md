@@ -2,7 +2,7 @@
 
 # 🧰 IT & Support
 
-**81 open roles.** 61 in the United States & Canada · 20 elsewhere in the world.
+**80 open roles.** 60 in the United States & Canada · 20 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -435,13 +435,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/5147b6e8-c8ee-464b-a445-0c376621b107">Intern - Modern Workplace Analyst, Winter 2027</a></td>
 <td>Toronto, ON</td>
 <td align="center"><a href="https://jobs.lever.co/eqbank/53d0826c-baeb-4ba6-87e5-7d6d416c1da7/apply">Apply</a></td>
-<td align="center">14 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Antares</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce0d388b-3733-4a72-bda3-cc508ab9459f">IT Helpdesk Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df">Apply</a></td>
 <td align="center">14 Sep 2026</td>
 </tr>
 </tbody>

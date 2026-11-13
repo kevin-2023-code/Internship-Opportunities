@@ -2,7 +2,7 @@
 
 # AI Engineer
 
-**240 open roles.** 161 in the United States & Canada · 79 elsewhere in the world.
+**239 open roles.** 160 in the United States & Canada · 79 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -113,13 +113,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/a56aa766-3095-4285-8ca5-deb634e536c9">Applied Scientist Intern (Recommendation AI Lab) - 2026 Start (PhD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4436529600/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/f2be86aa-3554-46d0-b8c7-8e5abd19c210">Generative AI Researcher Intern (Intelligent Creation-Vision and Graphics) - 2027 Start (PhD)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447909234/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

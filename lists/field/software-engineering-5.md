@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,831 open roles.** 1,462 in the United States & Canada · 369 elsewhere in the world.
+**1,847 open roles.** 1,477 in the United States & Canada · 370 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,111 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Schneider Electric</strong></td>
+<td><a href="https://trueinterview.io/jobs/589b67b4-1b8c-40a5-b505-10202e060e5b">Engineer Services Tendering Intern STP27</a></td>
+<td>Sevilla, Spain</td>
+<td align="center"><a href="https://careers.se.com/jobs/140088/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/4750fda9-368d-471b-bfec-0d069967932e">Tendering Project Engineer Intern STP27</a></td>
+<td>Spain</td>
+<td align="center"><a href="https://careers.se.com/jobs/140549/job?indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Veolia</strong></td>
+<td><a href="https://trueinterview.io/jobs/cf541c8b-7b2e-4240-a5f9-538f47bae89c">Energy Engineer Intern</a></td>
+<td>Dublin, Ireland</td>
+<td align="center"><a href="https://veoliauki.wd3.myworkdayjobs.com/VeoliaIrelandCareers/job/Blanchardstown/Energy-Engineer-Intern_JR33810">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Vertex Pharmaceuticals</strong></td>
+<td><a href="https://trueinterview.io/jobs/7e90744a-3524-4746-a05d-643bc8ac6ae1">Data, Technology and Engineering Industrial Placement Student (12 months)</a></td>
+<td>Paddington, United Kingdom</td>
+<td align="center"><a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Paddington-United-Kingdom/Data--Technology-and-Engineering-Industrial-Placement-Student--12-months-_REQ-30541">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SAP IT Business Systeme</strong></td>
+<td><a href="https://trueinterview.io/jobs/b3422cbd-7243-4a7a-afee-30925f810119">SAP Student Training &amp; Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates</a></td>
+<td>Chengdu, China<br/>Shanghai, China<br/>Beijing, China<br/>+1 more</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000159038469-sap-student-training-rotation-program-vt-star-intern-application-engineer-2028-graduates">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Shopee</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cd70c0f-b692-4f06-9516-bd45cc43f3db">IT Compliance &amp; Cybersecurity Intern, Financial Service (Fall 2026/ Spring 2027)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4437022706/">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SOCOTEC Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/31c620f9-0f72-42ac-a63a-59cbaea21727">CFD Engineer Intern</a></td>
+<td>Cầu Giấy, Hà Nội, Vietnam<br/>Giảng Võ, Hà Nội, Vietnam</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Socotec/744000159030964-cfd-engineer-intern">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Nokia</strong></td>
+<td><a href="https://trueinterview.io/jobs/5ee625c0-9aa1-4afa-ab91-032e6bf43575">Electronics Engineer Intern</a></td>
+<td>Italy</td>
+<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41103">Apply</a></td>
+<td align="center">2 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Arm</strong></td>
+<td><a href="https://trueinterview.io/jobs/1d54af28-e2d5-4644-bdc6-14242b5fe6af">Software Engineer Intern</a></td>
+<td>Sophia Antipolis, Provence-Alpes-Côte d'Azur, France</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476868480/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>BlockTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6a83c03-29b8-4e06-a54c-501d9099f233">Software Engineer | Internship | Summer '27</a></td>
+<td>Singapore<br/>Amsterdam, North Holland, Netherlands</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460372878/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>European Space Agency</strong></td>
+<td><a href="https://trueinterview.io/jobs/cb595165-9247-4b1f-9ce3-7bd4f1a436e3">Intern in the Galileo and EGNOS Programme Department - System Engineering Section</a></td>
+<td>Toulouse, France</td>
+<td align="center"><a href="https://jobs.esa.int/job/Toulouse-Intern-in-the-Galileo-and-EGNOS-Programme-Department-System-Engineering-Section/1452922933/">Apply</a></td>
+<td align="center">1 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td><a href="https://trueinterview.io/jobs/cfef3a32-8be7-4644-a222-aeda7d8d35fe">Developer Technology Engineering Intern - 2027</a></td>
+<td>Shanghai, Shanghai, China</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4458903339/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Waymo</strong></td>
+<td><a href="https://trueinterview.io/jobs/9d8aa090-c51f-4474-b86f-84a9f45443c9">2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)</a></td>
+<td>Warsaw, Mazowieckie, Poland</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4468043959/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/9063dc10-6670-4b3e-8685-b011f982fead">Intern, Site Reliability Engineer, iCloud</a></td>
+<td>London, England, United Kingdom<br/>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200691892">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>EGIDE</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd265b0c-2db2-4b92-ae28-1a04170f7891">C2 Systems Engineering Intern – Radar &amp; Identification (6 months)</a></td>
+<td>Paris, France</td>
+<td align="center"><a href="https://egide.teamtailor.com/jobs/8646714-c2-systems-engineering-intern-radar-identification-6-months">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Mhtechin</strong></td>
 <td><a href="https://trueinterview.io/jobs/33c85e4a-1f45-4b37-b09d-35f6f6545ba5">Forward Deployed Engineer Intern</a> 🌐</td>
@@ -806,6 +911,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cb9ee983-2e74-4bf8-93a9-28e14daee49a">Software Engineer Intern</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484482196/">Apply</a></td>
+<td align="center">28 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>CPF Board</strong></td>
+<td><a href="https://trueinterview.io/jobs/51ac6764-f214-48cd-9519-09f51ff1a96b">[2027 H1 Term-time Internship] Software Engineering Intern (DSD)</a></td>
+<td>Singapore, Singapore</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4476552293/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

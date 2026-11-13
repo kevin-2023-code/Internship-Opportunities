@@ -2,7 +2,7 @@
 
 # 📱 Consumer internet & media
 
-**118 open roles.** 99 in the United States & Canada · 19 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
+**120 open roles.** 101 in the United States & Canada · 19 elsewhere in the world. Social, search, streaming, messaging and consumer subscription apps.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -47,9 +47,23 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/2b5cd667-b4ca-4611-bcf4-daed79066fa1">Production System Engineer Project Intern (Server DevOps) - 2027 Start</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448125968/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/87ef31ac-34c8-4bc7-9539-25a19734f645">Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4473508319/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/12c08452-6c80-46ba-ae67-0f2549d1f402">Research Intern (AI/LLM Network) - 2026 Start (PhD)</a></td>
+<td>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471734068/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

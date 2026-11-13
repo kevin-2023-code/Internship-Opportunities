@@ -2,7 +2,7 @@
 
 # Frontend Engineer
 
-**15 open roles.** 11 in the United States & Canada · 4 elsewhere in the world.
+**12 open roles.** 10 in the United States & Canada · 2 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,13 +17,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/83588dbd-3e4b-4c42-bf3b-afafcbaf4747">Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 (BS/MS)</a></td>
-<td>San Jose, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4432695583/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
 <tr>
 <td><strong>CHAMP</strong></td>
 <td><a href="https://trueinterview.io/jobs/a6d2cb62-723d-4a28-93dd-f5e23f9942b5">Frontend Engineer Intern</a></td>
@@ -111,20 +104,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/e2ec5fea-33d5-4625-a7d6-4d8202ba09e3">Frontend Software Engineer Intern (Global Live Transaction) - 2027 Start</a></td>
 <td>Singapore, Singapore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447985873/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/e40fb960-5ab0-425e-a251-56a51805f261">Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
-<td>Sydney, New South Wales, Australia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4372872484/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/915ddc55-3de5-4fbf-a833-55039a53a0a5">Frontend Engineer Intern (TikTok Shop by Tokopedia) - 2027 Start</a></td>
-<td>Jakarta, Jakarta, Indonesia</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4454776280/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

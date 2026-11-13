@@ -2,7 +2,7 @@
 
 # Hardware Engineer
 
-**125 open roles.** 115 in the United States & Canada · 10 elsewhere in the world.
+**127 open roles.** 117 in the United States & Canada · 10 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Collins Aerospace</strong></td>
+<td><a href="https://trueinterview.io/jobs/a304ef3e-be75-4ad8-9f10-97040e926d67">Digital Hardware Design Engineer Co-op (Winter/Spring)(Onsite)</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490589038/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/191bd4fb-6d96-4fb6-bcf9-c6624dcfb04a">Digital Hardware Design Engineer Co-op (Summer/Fall 2027)(Onsite)</a></td>
+<td>Cedar Rapids, IA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490573528/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>ByteDance</strong></td>
 <td><a href="https://trueinterview.io/jobs/728547ed-5293-4fa5-9c9d-273cc3e2a123">ASIC Design Engineer Intern (Video Silicon IP) - 2027 Summer</a></td>

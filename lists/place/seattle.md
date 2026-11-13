@@ -2,7 +2,7 @@
 
 # 🌲 Seattle & Puget Sound
 
-**113 open roles.**
+**114 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -64,6 +64,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/44308956-f63f-4adf-969e-88b9b8d643d5">Fullstack Software Engineer Intern (Global E-Commerce) - 2027 Summer</a></td>
 <td>Seattle, WA<br/>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4448702780/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/343d6de0-459b-4869-8b9f-06ccc48a1d61">Researcher Intern (Intelligent Creation-Vision and Graphics) - 2026 Start (PhD)</a></td>
+<td>Seattle, WA<br/>San Jose, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4323683597/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

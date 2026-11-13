@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**175 open roles.**
+**173 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -93,13 +93,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Los Angeles, CA<br/>Costa Mesa, CA<br/>Austin, TX<br/>+33 more</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4454870348/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>K2 Space Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/b3b028fa-77f3-4260-b302-b0dcd868bb91">Software Engineering Intern – Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008">Apply</a></td>
-<td align="center">7 Nov 2026</td>
 </tr>
 <tr>
 <td><strong>Varda Space Industries</strong></td>
@@ -1234,13 +1227,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Costa Mesa, California, United States</td>
 <td align="center"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5236579007?gh_jid=5236579007">Apply</a></td>
 <td align="center">15 Sep 2026</td>
-</tr>
-<tr>
-<td><strong>Antares</strong></td>
-<td><a href="https://trueinterview.io/jobs/ce0d388b-3733-4a72-bda3-cc508ab9459f">IT Helpdesk Intern - Summer 2027</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/Antares/c06333ba-ce06-43c2-be34-615a3582d5df">Apply</a></td>
-<td align="center">14 Sep 2026</td>
 </tr>
 </tbody>
 </table>

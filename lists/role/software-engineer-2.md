@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**564 open roles.** 457 in the United States & Canada · 107 elsewhere in the world.
+**575 open roles.** 465 in the United States & Canada · 110 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,62 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sentient Digital, Inc.</strong></td>
+<td><a href="https://trueinterview.io/jobs/96e9c24b-8afc-424a-b19a-72028142bd38">Software Engineer Intern (Summer 2027)</a></td>
+<td>Brunswick, ME</td>
+<td align="center"><a href="https://secure.entertimeonline.com/ta/SESSDI.careers?ShowJob=537260590">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Analog Devices</strong></td>
+<td><a href="https://trueinterview.io/jobs/6cdcf6be-00f5-44de-8764-09a3ff32076d">Software Tools Engineering Intern</a></td>
+<td>United Kingdom, Edinburgh, SC, Freer</td>
+<td align="center"><a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Palantir</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f4819a1-76ba-495b-abd9-334c842b5e7b">Software Engineer, Internship - Query Engines</a></td>
+<td>New York, NY<br/>London, United Kingdom</td>
+<td align="center"><a href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td><a href="https://trueinterview.io/jobs/3401a11e-44d8-4954-b4c6-1c176d5ab47a">Software Engineering Intern - Compiler</a></td>
+<td>Sugar Land, TX, United States</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Keysight</strong></td>
+<td><a href="https://trueinterview.io/jobs/3dc3a4df-d20c-4c86-b45c-667c66902740">Intern - Optical Design Software &amp; Automation Engineer (PhD Level)</a></td>
+<td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54614?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/60fda547-2827-406a-98ba-7a93d6d14f36">Intern - Photonics Design Software &amp; Automation Engineer (PhD Level)</a></td>
+<td>Santa Clara, California, United States<br/>Pasadena, California, United States</td>
+<td align="center"><a href="https://jobs.keysight.com/external/jobs/54619?lang=en-us">Apply</a></td>
+<td align="center">19 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Wellmark Blue Cross and Blue Shield</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f3f4ca6-7017-462c-85f4-ec12968ac892">Software Engineer Internship – Technology Health Plan</a></td>
+<td>Des Moines, Iowa, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/WellmarkInc/744000156043218-software-engineer-internship-technology-health-plan">Apply</a></td>
+<td align="center">16 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Point72 Asset Management</strong></td>
+<td><a href="https://trueinterview.io/jobs/f6d1b179-18ef-44dc-a70e-7c0d65804893">2027 Summer Internship – Software Engineer</a></td>
+<td>New York, NY</td>
+<td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002">Apply</a></td>
+<td align="center">14 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Wing</strong></td>
 <td><a href="https://trueinterview.io/jobs/49ef0dd0-1107-40df-8daa-f866dea43748">Execution &amp; Topology Software Engineering Intern, Summer 2027</a></td>
@@ -466,6 +522,27 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/07aaacf7-1806-4703-bf6c-621389be8446">Backend Software Engineer Intern (Platform Engineering) - 2027 Start (BS/MS)</a></td>
 <td>Sydney, New South Wales, Australia</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4380094470/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/e40fb960-5ab0-425e-a251-56a51805f261">Frontend Engineer Intern (TikTok LIVE) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4372872484/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/915ddc55-3de5-4fbf-a833-55039a53a0a5">Frontend Engineer Intern (TikTok Shop by Tokopedia) - 2027 Start</a></td>
+<td>Jakarta, Jakarta, Indonesia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4454776280/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/935046d5-e42d-4366-9d07-cb993846b08e">Site Reliability Engineer Intern (Video &amp; Edge Global Engineering) - 2027 Start (BS/MS)</a></td>
+<td>Sydney, New South Wales, Australia</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4396303986/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
