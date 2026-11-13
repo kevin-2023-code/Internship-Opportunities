@@ -5,9 +5,61 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T14:04:55.713Z",
-  "count": 3872,
+  "listingsChangedAt": "2026-11-13T15:04:23.975Z",
+  "count": 3862,
   "listings": [
+    {
+      "id": "d308964e-5ffa-4052-9275-0041a9d59c17",
+      "company": "Sea",
+      "title": "Product Engineer Intern - Backend Focused",
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "cities": [
+        "Singapore"
+      ],
+      "countries": [
+        "Singapore"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4474127195/",
+      "url": "https://trueinterview.io/jobs/d308964e-5ffa-4052-9275-0041a9d59c17",
+      "postedAt": "2026-11-13T14:15:00.000Z",
+      "updatedAt": "2026-11-13T14:15:00.000Z"
+    },
+    {
+      "id": "926033f5-7971-4ff7-b7ec-dc4b79df9ecd",
+      "company": "Tech Collaborative",
+      "title": "WordPress InternshipWordPress Designer/Developer & Intern Program Assistant",
+      "locations": [
+        "Grand Rapids, MI"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489565856/",
+      "url": "https://trueinterview.io/jobs/926033f5-7971-4ff7-b7ec-dc4b79df9ecd",
+      "postedAt": "2026-11-13T13:59:00.000Z",
+      "updatedAt": "2026-11-13T13:59:00.000Z"
+    },
     {
       "id": "31a30042-ac50-4e5d-89fa-71412293c17f",
       "company": "Skydio",
@@ -1957,6 +2009,32 @@
       "source": "linkedin",
       "applyUrl": "https://www.linkedin.com/jobs/view/4474545761/",
       "url": "https://trueinterview.io/jobs/0637523e-72bc-4be0-8b4c-0f756a037087",
+      "postedAt": "2026-11-13T00:00:00.000Z",
+      "updatedAt": "2026-11-13T00:00:00.000Z"
+    },
+    {
+      "id": "a3d2765d-89ce-4a10-9dcc-ce9b24f05e91",
+      "company": "Rocketdyne",
+      "title": "Systems Engineer Intern (Summer 2027)",
+      "locations": [
+        "Jupiter, FL, 33478",
+        "Mason, OH, 45040"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2e2e53cb-a46b-4af4-8de5-702135f719fe&jobId=13740",
+      "url": "https://trueinterview.io/jobs/a3d2765d-89ce-4a10-9dcc-ce9b24f05e91",
       "postedAt": "2026-11-13T00:00:00.000Z",
       "updatedAt": "2026-11-13T00:00:00.000Z"
     },
@@ -9887,31 +9965,6 @@
       "source": "indeed",
       "applyUrl": "https://securitymetrics.bamboohr.com/careers/215?postedDate=2026-11-11",
       "url": "https://trueinterview.io/jobs/dd8aa566-7127-4c88-a7b7-743aff23f06a",
-      "postedAt": "2026-11-11T06:00:00.000Z",
-      "updatedAt": "2026-11-11T06:00:00.000Z"
-    },
-    {
-      "id": "eaa13657-d98d-4666-b3e5-46de8412811f",
-      "company": "Zeon Chemicals LP",
-      "title": "Electrical Engineering Co-Op",
-      "locations": [
-        "Louisville, KY"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "indeed",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=733d09c0-84e6-4cc6-a899-2248c66b3751&ccId=19000101_000001&jobId=587239&lang=en_US",
-      "url": "https://trueinterview.io/jobs/eaa13657-d98d-4666-b3e5-46de8412811f",
       "postedAt": "2026-11-11T06:00:00.000Z",
       "updatedAt": "2026-11-11T06:00:00.000Z"
     },
@@ -28652,35 +28705,6 @@
       "url": "https://trueinterview.io/jobs/fae5068d-552c-4750-aaa2-cae13b9ec0d6",
       "postedAt": "2026-11-04T18:57:00.000Z",
       "updatedAt": "2026-11-04T18:57:00.000Z"
-    },
-    {
-      "id": "57a00530-69f4-461c-8181-49a19f12a838",
-      "company": "AECOM",
-      "title": "Civil Engineering Intern",
-      "locations": [
-        "Waterloo, Iowa, United States",
-        "Boston, Massachusetts, United States"
-      ],
-      "cities": [
-        "Waterloo, ON"
-      ],
-      "countries": [
-        "United States",
-        "Canada"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.smartrecruiters.com/AECOM2/744000159707760-civil-engineering-intern",
-      "url": "https://trueinterview.io/jobs/57a00530-69f4-461c-8181-49a19f12a838",
-      "postedAt": "2026-11-04T18:53:07.000Z",
-      "updatedAt": "2026-11-04T18:53:07.000Z"
     },
     {
       "id": "5acb1c5c-47e6-4d7a-a087-3ed6bbebe39a",
@@ -88682,32 +88706,6 @@
       "updatedAt": "2026-10-05T15:02:26.000Z"
     },
     {
-      "id": "58d935f8-ec00-4b02-81c5-7b82026e38cd",
-      "company": "Jetzero",
-      "title": "2027 Engineering Summer Internship",
-      "locations": [
-        "Long Beach, CA",
-        "Greensboro, NC"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://job-boards.greenhouse.io/jetzero/jobs/5437110008",
-      "url": "https://trueinterview.io/jobs/58d935f8-ec00-4b02-81c5-7b82026e38cd",
-      "postedAt": "2026-10-05T14:39:41.000Z",
-      "updatedAt": "2026-10-05T14:39:41.000Z"
-    },
-    {
       "id": "234dda4b-4e7e-4dc3-931b-b8d7cf4d1e01",
       "company": "AMD",
       "title": "2027 PhD AI Training Systems and Performance Engineer Intern/Co-Op",
@@ -89573,6 +89571,33 @@
       "url": "https://trueinterview.io/jobs/ecb68fef-9661-4212-b0b4-237082b8930b",
       "postedAt": "2026-10-02T19:58:27.000Z",
       "updatedAt": "2026-10-02T19:58:27.000Z"
+    },
+    {
+      "id": "2be3375e-2540-46f0-9232-74dad5ae968c",
+      "company": "xAI",
+      "title": "Spring 2027 Software Engineering Internship/Co-op",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "bigtech-careers",
+      "applyUrl": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
+      "url": "https://trueinterview.io/jobs/2be3375e-2540-46f0-9232-74dad5ae968c",
+      "postedAt": "2026-10-02T19:15:20.000Z",
+      "updatedAt": "2026-10-02T19:15:20.000Z"
     },
     {
       "id": "c45d28fc-e2be-4175-8a59-1c338b3e96de",
@@ -100348,294 +100373,6 @@
       "url": "https://trueinterview.io/jobs/4ad3e9fa-a778-43c8-92d0-ccc74a5f219a",
       "postedAt": "2026-09-14T16:00:11.000Z",
       "updatedAt": "2026-09-14T16:00:11.000Z"
-    },
-    {
-      "id": "f954ff71-428f-48ba-befa-248b05d5d022",
-      "company": "SAP",
-      "title": "SAP iXp Intern - AI Research PhD Associate",
-      "locations": [
-        "Palo Alto, CA, US, 94304"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://jobs.sap.com/job/Palo-Alto-SAP-iXp-Intern-AI-Research-PhD-Associate-CA-94304/1380808333/",
-      "url": "https://trueinterview.io/jobs/f954ff71-428f-48ba-befa-248b05d5d022",
-      "postedAt": "2026-09-14T14:43:10.000Z",
-      "updatedAt": "2026-09-14T14:43:10.000Z"
-    },
-    {
-      "id": "859e2e82-625d-4d21-9b31-01973e629767",
-      "company": "tkda",
-      "title": "2027 Summer Intern - Civil Engineering, Water Resources",
-      "locations": [
-        "Bloomington, Minnesota"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tkda/3e308d5f-2e53-4318-a257-17c9c8b5d92e",
-      "url": "https://trueinterview.io/jobs/859e2e82-625d-4d21-9b31-01973e629767",
-      "postedAt": "2026-09-14T14:41:10.000Z",
-      "updatedAt": "2026-09-14T14:41:10.000Z"
-    },
-    {
-      "id": "62863c9a-d397-4a8e-a827-58f48045ff3d",
-      "company": "tkda",
-      "title": "2027 Summer Intern - Water/Wastewater Engineering",
-      "locations": [
-        "Bloomington, Minnesota"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tkda/68d6edf0-1fd4-461b-b5fa-f279bd7eb73f",
-      "url": "https://trueinterview.io/jobs/62863c9a-d397-4a8e-a827-58f48045ff3d",
-      "postedAt": "2026-09-14T14:34:15.000Z",
-      "updatedAt": "2026-09-14T14:34:15.000Z"
-    },
-    {
-      "id": "6bd20267-6820-45a4-90d6-d14c29ff9a4e",
-      "company": "Google",
-      "title": "Data Scientist, Product Intern, MS, Summer 2027",
-      "locations": [
-        "Mountain View, CA, USA",
-        "Ann Arbor, MI, USA"
-      ],
-      "cities": [
-        "Mountain View, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Data Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830-data-scientist-product-intern-ms-summer-2027",
-      "url": "https://trueinterview.io/jobs/6bd20267-6820-45a4-90d6-d14c29ff9a4e",
-      "postedAt": "2026-09-14T14:33:10.000Z",
-      "updatedAt": "2026-09-14T14:33:10.000Z"
-    },
-    {
-      "id": "6ca00983-0d56-45f0-8ee1-9cca58c08327",
-      "company": "Google",
-      "title": "Software Engineering Intern, BS, Summer 2027",
-      "locations": [
-        "Mountain View, CA, USA",
-        "Austin, TX, USA"
-      ],
-      "cities": [
-        "Mountain View, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027",
-      "url": "https://trueinterview.io/jobs/6ca00983-0d56-45f0-8ee1-9cca58c08327",
-      "postedAt": "2026-09-14T14:33:10.000Z",
-      "updatedAt": "2026-09-14T14:33:10.000Z"
-    },
-    {
-      "id": "41a34612-69d9-4ff9-b235-cabb3789d9e9",
-      "company": "Google",
-      "title": "Software Engineering Intern, MS, Summer 2027",
-      "locations": [
-        "Mountain View, CA, USA",
-        "Austin, TX, USA"
-      ],
-      "cities": [
-        "Mountain View, CA",
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027",
-      "url": "https://trueinterview.io/jobs/41a34612-69d9-4ff9-b235-cabb3789d9e9",
-      "postedAt": "2026-09-14T14:33:10.000Z",
-      "updatedAt": "2026-09-14T14:33:10.000Z"
-    },
-    {
-      "id": "11f4fb7c-d43b-4725-9187-88d852e34752",
-      "company": "NetApp",
-      "title": "Software Engineer Intern",
-      "locations": [
-        "Wichita, Kansas, United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://careers.netapp.com/job/wichita/software-engineer-intern/27600/97792631792",
-      "url": "https://trueinterview.io/jobs/11f4fb7c-d43b-4725-9187-88d852e34752",
-      "postedAt": "2026-09-14T14:33:10.000Z",
-      "updatedAt": "2026-09-14T14:33:10.000Z"
-    },
-    {
-      "id": "b5687dbd-e1b6-4b53-9311-79e568049100",
-      "company": "tkda",
-      "title": "2027 Summer Intern, Structural Engineering - Buildings & Facilities",
-      "locations": [
-        "Bloomington, Minnesota"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tkda/62a210f0-a58b-4817-9885-2c876d4ea222",
-      "url": "https://trueinterview.io/jobs/b5687dbd-e1b6-4b53-9311-79e568049100",
-      "postedAt": "2026-09-14T14:30:03.000Z",
-      "updatedAt": "2026-09-14T14:30:03.000Z"
-    },
-    {
-      "id": "50f281f6-132a-4e66-82ff-08931c019a43",
-      "company": "tkda",
-      "title": "2027 Summer Intern - Mechanical Engineering",
-      "locations": [
-        "Bloomington, Minnesota"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tkda/a21189fd-0377-4a16-b075-71053a28e750",
-      "url": "https://trueinterview.io/jobs/50f281f6-132a-4e66-82ff-08931c019a43",
-      "postedAt": "2026-09-14T14:26:33.000Z",
-      "updatedAt": "2026-09-14T14:26:33.000Z"
-    },
-    {
-      "id": "20a1fa72-acf5-4094-b777-834b7bfb4b86",
-      "company": "tkda",
-      "title": "2027 Summer Intern - Electrical Engineering",
-      "locations": [
-        "Bloomington, Minnesota"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tkda/f59b3fca-34fd-4339-8034-5a48109434dc",
-      "url": "https://trueinterview.io/jobs/20a1fa72-acf5-4094-b777-834b7bfb4b86",
-      "postedAt": "2026-09-14T14:21:59.000Z",
-      "updatedAt": "2026-09-14T14:21:59.000Z"
-    },
-    {
-      "id": "80a94216-6f9d-41a6-9cdf-565bb2f8a260",
-      "company": "tkda",
-      "title": "2027 Summer Intern - Civil Engineering, Aviation",
-      "locations": [
-        "Bloomington, Minnesota"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.lever.co/tkda/b01b4c2f-24d4-4c19-be31-8986c4064074",
-      "url": "https://trueinterview.io/jobs/80a94216-6f9d-41a6-9cdf-565bb2f8a260",
-      "postedAt": "2026-09-14T14:19:30.000Z",
-      "updatedAt": "2026-09-14T14:19:30.000Z"
     }
   ]
 }
