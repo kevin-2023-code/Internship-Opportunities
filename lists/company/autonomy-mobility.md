@@ -2,7 +2,7 @@
 
 # 🚗 Autonomy, automotive & mobility
 
-**53 open roles.** 43 in the United States & Canada · 10 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
+**55 open roles.** 45 in the United States & Canada · 10 elsewhere in the world. Self-driving, automotive, drones, eVTOL and transport technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -32,7 +32,21 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d45d90b2-5184-41e9-b23f-defbc6f8b4cb">Data Scientist Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td>↳</td>
+<td><a href="https://trueinterview.io/jobs/255fa8c9-212e-4c51-8fde-8109077a0b5a">Systems &amp; Safety Engineering Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Tesla</strong></td>
 <td><a href="https://trueinterview.io/jobs/8c4475d7-a69e-4258-b285-b1ef51e51bc6">Internship, Software Engineer, SI Hardware Infrastructure (Winter/Spring 2027)</a></td>
 <td>Palo Alto, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490060648/">Apply</a></td>

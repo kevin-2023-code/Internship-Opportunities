@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,826 open roles.** 1,462 in the United States & Canada · 364 elsewhere in the world.
+**1,831 open roles.** 1,462 in the United States & Canada · 369 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -20,10 +20,31 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Entegris</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4471cd8-11c1-4909-88cd-e01dbf1544e4">Power Platform / Copilot Studio Intern – AI - Summer Intern</a></td>
+<td>Aurora, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489531172/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Frontbase Inc</strong></td>
 <td><a href="https://trueinterview.io/jobs/ac5db87d-9b19-4a6d-a477-efbbec1b3f79">Rust Developer Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490086075/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa32c443-82dd-450e-8504-70fad14f4df3">Internship - Data Scientist</a></td>
+<td>Wilton Center, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490558404/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crest Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6bb5c5a-f962-49c1-8b8b-56b4bd5fe900">Developer Intern</a></td>
+<td>Pineville, LA<br/>Ruston, LA<br/>Lafayette, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490542698/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -108,6 +129,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/94a70d1c-a4ea-4130-b9db-7bc2a0f1264d">AI/ML Engineering Intern - Summer 2027</a></td>
 <td>King of Prussia, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488549933/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/255fa8c9-212e-4c51-8fde-8109077a0b5a">Systems &amp; Safety Engineering Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2789,34 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/b9d7561d-531c-49e0-943a-9e0fc7d4f881">Software Engineering Intern, Frontend</a></td>
 <td>New York, NY (HQ)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Central Insurance</strong></td>
-<td><a href="https://trueinterview.io/jobs/044ca062-ded2-416b-93a4-dfab5f992323">Software Engineering Intern</a></td>
-<td>Van Wert, OH</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469000580/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Advanced Energy</strong></td>
-<td><a href="https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5">Intern - Firmware Engineer - Fall 2026</a></td>
-<td>Fort Collins, CO</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4469048992/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>RR Donnelley</strong></td>
-<td><a href="https://trueinterview.io/jobs/f9d3de09-c9ba-4ecf-879b-f4eb5d5bc49a">Software Developer Intern</a></td>
-<td>Warrenville, Illinois, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000159883639-software-developer-intern">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Johnson &amp; Johnson MedTech</strong></td>
-<td><a href="https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe">Software Test Engineering Co-op (RLM)</a></td>
-<td>Danvers, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4471185700/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

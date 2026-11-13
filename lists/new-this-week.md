@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**966 open roles.** 792 in the United States & Canada · 174 elsewhere in the world. Everything the employers put up this week.
+**969 open roles.** 796 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -20,6 +20,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </thead>
 <tbody>
 <tr>
+<td><strong>Entegris</strong></td>
+<td><a href="https://trueinterview.io/jobs/f4471cd8-11c1-4909-88cd-e01dbf1544e4">Power Platform / Copilot Studio Intern – AI - Summer Intern</a></td>
+<td>Aurora, IL</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489531172/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>Aurora Innovation</strong></td>
 <td><a href="https://trueinterview.io/jobs/9c34f7cb-5984-4657-a1ae-f56fb10d1370">Software Engineer Intern, Vehicle Platforms</a></td>
 <td>Mountain View, CA</td>
@@ -31,6 +38,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ac5db87d-9b19-4a6d-a477-efbbec1b3f79">Rust Developer Intern</a></td>
 <td>United States</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4490086075/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ASML</strong></td>
+<td><a href="https://trueinterview.io/jobs/aa32c443-82dd-450e-8504-70fad14f4df3">Internship - Data Scientist</a></td>
+<td>Wilton Center, CT</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490558404/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crest Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6bb5c5a-f962-49c1-8b8b-56b4bd5fe900">Developer Intern</a></td>
+<td>Pineville, LA<br/>Ruston, LA<br/>Lafayette, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490542698/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -146,6 +167,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d45d90b2-5184-41e9-b23f-defbc6f8b4cb">Data Scientist Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/8e169ba2-f271-467f-aaa0-8ece306b5725">SAP iXp Intern – CIS Software / AI Developer</a></td>
 <td>Montreal, QC<br/>Montreal, Quebec, Canada</td>
@@ -157,6 +185,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/94a70d1c-a4ea-4130-b9db-7bc2a0f1264d">AI/ML Engineering Intern - Summer 2027</a></td>
 <td>King of Prussia, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488549933/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/255fa8c9-212e-4c51-8fde-8109077a0b5a">Systems &amp; Safety Engineering Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -367,6 +402,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/849558f3-0135-4990-adc0-597d9d9f4579">SAP iXp Intern - AI Scientist</a></td>
 <td>Palo Alto, California, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161297575-sap-ixp-intern-ai-scientist">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SharkNinja France</strong></td>
+<td><a href="https://trueinterview.io/jobs/145f803c-cf46-480a-b71f-a6b180570f68">SPRING 2027: AI/SHARKS APPLIED AI &amp; ANALYTICS CO-OP (JANUARY TO JUNE)</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490322494/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2775,48 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/d1f14ca1-c40d-4708-be25-641e84a18673">Systems Engineering Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Paylocity</strong></td>
-<td><a href="https://trueinterview.io/jobs/dd60d1f5-e566-418b-ba63-8570105920ba">Software Engineering Intern</a></td>
-<td>Pittsford, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4472643730/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Zoetis</strong></td>
-<td><a href="https://trueinterview.io/jobs/74e41d8e-72f3-44df-8f3b-cf4575994688">AI Acceleration Intern - AI Development Lifecycle</a></td>
-<td>Trenton, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487936194/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Celestica International LP</strong></td>
-<td><a href="https://trueinterview.io/jobs/2941283b-4b27-484d-b52f-d05504ef1da3">Student Intern, IT Business Application Development</a></td>
-<td>Toronto, Ontario</td>
-<td align="center"><a href="https://career2.successfactors.eu/career?career_ns=job_listing&amp;company=celesticaiP1&amp;rcm_site_locale=en_US&amp;career_job_req_id=141430">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>Canada Mortgage and Housing Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/fab870d6-ecb0-4fab-93f8-32377e4630e6">Summer 2027 Internship - Junior Developer</a></td>
-<td>Ottawa, ON<br/>Montreal, QC</td>
-<td align="center"><a href="https://career17.sapsf.com/career?career_ns=job_listing&amp;company=cmhcschl&amp;rcm_site_locale=en_US&amp;career_job_req_id=12647">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>WB Games Boston</strong></td>
-<td><a href="https://trueinterview.io/jobs/9e0a27d8-9078-43bf-919c-74939ad4510c">WB Games Software Engineering Co-op: Needham, MA - January-May 2027</a></td>
-<td>Needham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4489113579/">Apply</a></td>
-<td align="center">9 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>General Dynamics Mission Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/8788a7d7-f28e-42ae-9a5a-c722a7db57cd">Full-Stack Application Development Intern, Summer 2027</a></td>
-<td>Scottsdale, AZ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4487940180/">Apply</a></td>
 <td align="center">9 Nov 2026</td>
 </tr>
 </tbody>

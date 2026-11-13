@@ -2,7 +2,7 @@
 
 # 🗽 New York City
 
-**148 open roles.**
+**146 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -649,13 +649,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Sigma</strong></td>
-<td><a href="https://trueinterview.io/jobs/577d2c5c-4f38-4356-bfe9-68bfae369047">AI/ML PhD Intern (Summer 2027)</a></td>
-<td>New York, NY<br/>San Francisco, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476568529/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/241edf4a-2626-4aac-b1e9-1e627fa1c8b4">Software Engineering Intern (Summer 2027)</a></td>
 <td>New York, NY<br/>San Francisco, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476523702/">Apply</a></td>
@@ -968,13 +961,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>New York, NY<br/>New York, New York</td>
 <td align="center"><a href="https://seatgeek.com/jobs/8247554?gh_jid=8247554">Apply</a></td>
 <td align="center">1 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Clay Labs</strong></td>
-<td><a href="https://trueinterview.io/jobs/c1bf97b0-280d-4be3-a069-45484a2813b8">Software Engineering Intern</a></td>
-<td>New York, NY</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa">Apply</a></td>
-<td align="center">29 Sep 2026</td>
 </tr>
 <tr>
 <td><strong>Coinbase</strong></td>

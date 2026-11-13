@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,826 open roles.** 1,462 in the United States & Canada · 364 elsewhere in the world.
+**1,831 open roles.** 1,462 in the United States & Canada · 369 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Swinerton</strong></td>
+<td><a href="https://trueinterview.io/jobs/dda6aa5b-9502-435d-b5a7-534cfe7ba230">Project Engineer Intern</a></td>
+<td>New York, NY<br/>Jersey City, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4465904136/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>WSP in the U.S.</strong></td>
+<td><a href="https://trueinterview.io/jobs/e6e205fa-2150-4c67-9847-af59d574ca45">Transportation Engineering Intern- Summer 2027</a></td>
+<td>Las Vegas, NV</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4466892939/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Brunswick Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/d5ec33f1-de88-4761-8e7c-f4413825b3d2">Mercury Marine: Drives &amp; Propulsion Systems Engineering Intern</a></td>
+<td>Oshkosh, WI</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4459039774/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Cargill</strong></td>
+<td><a href="https://trueinterview.io/jobs/0f3060a2-571d-4a66-a762-f19a8e5beaa3">Engineer Co-op January 2027- Multiple U.S Locations</a></td>
+<td>Minneapolis, MN</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4446669768/">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Carrier</strong></td>
 <td><a href="https://trueinterview.io/jobs/afcd1849-c1ea-43cc-b208-b13701865868">Systems Engineering Intern - Summer</a></td>
@@ -1731,27 +1759,6 @@
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/c46a56a2-e366-4beb-8dae-9310b4788170">Manufacturing Software Engineering Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/c947f0c3-d77a-47c9-8015-ec87e5608134">Test Engineer Intern, Build &amp; Operations</a></td>
-<td>Kiln, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354108/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Siemens</strong></td>
-<td><a href="https://trueinterview.io/jobs/13e18a5e-e8bb-4e09-8a31-bcbd3c307e20">Production Engineer Co-Op - Spring 2027 (Northeastern University)</a></td>
-<td>Hingham, MA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466836285/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Sigma</strong></td>
 <td><a href="https://trueinterview.io/jobs/241edf4a-2626-4aac-b1e9-1e627fa1c8b4">Software Engineering Intern (Summer 2027)</a></td>
 <td>San Francisco, CA<br/>New York, NY</td>
@@ -2807,13 +2814,6 @@
 <td>Cary, North Carolina, United States, Cary</td>
 <td align="center"><a href="https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004">Apply</a></td>
 <td align="center">24 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Telus Digital</strong></td>
-<td><a href="https://trueinterview.io/jobs/3b9066a7-774f-49dc-a71e-83a560c1e8b1">Software Engineering Intern/Co-op (Canada) - Summer 2027</a></td>
-<td>Vancouver, BC</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2">Apply</a></td>
-<td align="center">23 Oct 2026</td>
 </tr>
 </tbody>
 </table>

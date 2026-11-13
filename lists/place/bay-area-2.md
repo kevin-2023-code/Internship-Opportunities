@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**563 open roles.**
+**562 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836">Process Engineering Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States<br/>Hayward, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application">Apply</a></td>
-<td align="center">15 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>SK hynix memory solutions America Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/b108b76f-2636-480e-9743-5613553fd30c">Intern, Mechanical Engineer</a></td>

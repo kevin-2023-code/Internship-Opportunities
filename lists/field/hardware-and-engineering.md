@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**802 open roles.** 726 in the United States & Canada · 76 elsewhere in the world.
+**801 open roles.** 725 in the United States & Canada · 76 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -52,6 +52,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/221f453a-e627-4f4a-9799-d103100f1a16">Transducer Manufacturing Engineering Co-Op</a></td>
 <td>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016822316-transducer-manufacturing-engineering-co-op">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>ByteDance</strong></td>
+<td><a href="https://trueinterview.io/jobs/0ca58f70-8e14-4527-97f4-8213be30c39e">Video/Image AI/ML Software Engineer Intern (Multimedia) - 2027 Start (PhD) - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
+<td>San Diego, CA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4473987243/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2246,20 +2253,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/87a86f24-de15-4435-9611-4f04805097d1">Robotics Engineering Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313717-robotics-engineering-intern">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/efc8ed02-cc57-4916-89f2-cf8c6bf4ac4a">Launch Mechanical/Electrical Engineer Intern</a></td>
-<td>Cape Canaveral, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476345359/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>CRB</strong></td>
 <td><a href="https://trueinterview.io/jobs/4c6947e7-3a7d-4c7b-92d6-2953785002a8">Electrical Engineer Intern (Summer 2027)</a></td>
 <td>Kalamazoo, Michigan, United States<br/>Kansas City, MO<br/>Kansas City, Missouri, United States</td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/fc6db7cf-025f-43e3-8b36-c9f846f9520d">Electrical Engineer Intern - Summer 2027</a></td>
 <td>San Mateo, California, United States</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4">Apply</a></td>
+<td align="center">20 Oct 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/0f2ddd61-4a28-4e77-93c2-5c1209dcc34f">Wireless Hardware Engineer Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea">Apply</a></td>
 <td align="center">20 Oct 2026</td>
 </tr>
 </tbody>

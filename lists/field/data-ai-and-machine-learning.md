@@ -2,7 +2,7 @@
 
 # 🤖 Data, AI & Machine Learning
 
-**789 open roles.** 574 in the United States & Canada · 215 elsewhere in the world.
+**786 open roles.** 574 in the United States & Canada · 212 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -45,6 +45,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/ae9cff6c-8f79-4e3f-a6c2-a17b26c71175">Machine Learning Operations (MLOps) Intern</a></td>
 <td>Salt Lake City, UT</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4488580309/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d45d90b2-5184-41e9-b23f-defbc6f8b4cb">Data Scientist Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -139,6 +146,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
+<td><strong>SharkNinja France</strong></td>
+<td><a href="https://trueinterview.io/jobs/145f803c-cf46-480a-b71f-a6b180570f68">SPRING 2027: AI/SHARKS APPLIED AI &amp; ANALYTICS CO-OP (JANUARY TO JUNE)</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490322494/">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>TikTok</strong></td>
 <td><a href="https://trueinterview.io/jobs/f86e607a-4627-4200-a106-7523d57352b2">Data Scientist Intern (VOD Data) - 2027 Summer</a></td>
 <td>San Jose, CA</td>
@@ -147,13 +161,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/0ca58f70-8e14-4527-97f4-8213be30c39e">Video/Image AI/ML Software Engineer Intern (Multimedia) - 2027 Start (PhD) - Intern (Video and Edge, Multimedia Lab) - 2027 Start (PhD)</a></td>
-<td>San Diego, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473987243/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/01fd00f5-dfa6-4a43-8184-d4abd28be889">AI Vision Research Scientist Intern - Global Frontier Tech Recruitment Program - 2027 Start (PHD)</a></td>
 <td>San Jose, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4435836915/">Apply</a></td>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/91dffa76-eef8-4068-91a6-c0cf63398248">Data Science &amp; Engineering Intern</a></td>
 <td>Arlington, VA<br/>Newark, Delaware, United States<br/>Arlington, Virginia, United States</td>
 <td align="center"><a href="https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Syngenta Group</strong></td>
-<td><a href="https://trueinterview.io/jobs/a945ff4b-35b2-4338-8641-30d446111777">Data Scientist Intern</a></td>
-<td>Raleigh, North Carolina, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415-data-scientist-intern">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

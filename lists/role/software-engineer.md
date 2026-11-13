@@ -2,7 +2,7 @@
 
 # Software Engineer
 
-**559 open roles.** 456 in the United States & Canada · 103 elsewhere in the world.
+**564 open roles.** 457 in the United States & Canada · 107 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -24,6 +24,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9c34f7cb-5984-4657-a1ae-f56fb10d1370">Software Engineer Intern, Vehicle Platforms</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Crest Industries</strong></td>
+<td><a href="https://trueinterview.io/jobs/a6bb5c5a-f962-49c1-8b8b-56b4bd5fe900">Developer Intern</a></td>
+<td>Pineville, LA<br/>Ruston, LA<br/>Lafayette, LA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490542698/">Apply</a></td>
 <td align="center">13 Nov 2026</td>
 </tr>
 <tr>
@@ -2810,13 +2817,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/f6d1b179-18ef-44dc-a70e-7c0d65804893">2027 Summer Internship – Software Engineer</a></td>
 <td>New York, NY</td>
 <td align="center"><a href="https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002">Apply</a></td>
-<td align="center">14 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Wing</strong></td>
-<td><a href="https://trueinterview.io/jobs/49ef0dd0-1107-40df-8daa-f866dea43748">Execution &amp; Topology Software Engineering Intern, Summer 2027</a></td>
-<td>Palo Alto, California</td>
-<td align="center"><a href="https://wing.com/careers/8872477002?gh_jid=8872477002">Apply</a></td>
 <td align="center">14 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🎓 Boston & Cambridge
 
-**161 open roles.**
+**162 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -29,6 +29,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/221f453a-e627-4f4a-9799-d103100f1a16">Transducer Manufacturing Engineering Co-Op</a></td>
 <td>Waltham, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016822316-transducer-manufacturing-engineering-co-op">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>SharkNinja France</strong></td>
+<td><a href="https://trueinterview.io/jobs/145f803c-cf46-480a-b71f-a6b180570f68">SPRING 2027: AI/SHARKS APPLIED AI &amp; ANALYTICS CO-OP (JANUARY TO JUNE)</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4490322494/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>

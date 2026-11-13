@@ -2,7 +2,7 @@
 
 # 🆕 Posted in the last 7 days
 
-**966 open roles.** 792 in the United States & Canada · 174 elsewhere in the world. Everything the employers put up this week.
+**969 open roles.** 796 in the United States & Canada · 173 elsewhere in the world. Everything the employers put up this week.
 
 [← Every filter](README.md) · [← The full list](../README.md)
 
@@ -16,7 +16,49 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Paylocity</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd60d1f5-e566-418b-ba63-8570105920ba">Software Engineering Intern</a></td>
+<td>Pittsford, NY</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4472643730/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoetis</strong></td>
+<td><a href="https://trueinterview.io/jobs/74e41d8e-72f3-44df-8f3b-cf4575994688">AI Acceleration Intern - AI Development Lifecycle</a></td>
+<td>Trenton, NJ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487936194/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Celestica International LP</strong></td>
+<td><a href="https://trueinterview.io/jobs/2941283b-4b27-484d-b52f-d05504ef1da3">Student Intern, IT Business Application Development</a></td>
+<td>Toronto, Ontario</td>
+<td align="center"><a href="https://career2.successfactors.eu/career?career_ns=job_listing&amp;company=celesticaiP1&amp;rcm_site_locale=en_US&amp;career_job_req_id=141430">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Canada Mortgage and Housing Corporation</strong></td>
+<td><a href="https://trueinterview.io/jobs/fab870d6-ecb0-4fab-93f8-32377e4630e6">Summer 2027 Internship - Junior Developer</a></td>
+<td>Ottawa, ON<br/>Montreal, QC</td>
+<td align="center"><a href="https://career17.sapsf.com/career?career_ns=job_listing&amp;company=cmhcschl&amp;rcm_site_locale=en_US&amp;career_job_req_id=12647">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>WB Games Boston</strong></td>
+<td><a href="https://trueinterview.io/jobs/9e0a27d8-9078-43bf-919c-74939ad4510c">WB Games Software Engineering Co-op: Needham, MA - January-May 2027</a></td>
+<td>Needham, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4489113579/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
 <td><strong>General Dynamics Mission Systems</strong></td>
+<td><a href="https://trueinterview.io/jobs/8788a7d7-f28e-42ae-9a5a-c722a7db57cd">Full-Stack Application Development Intern, Summer 2027</a></td>
+<td>Scottsdale, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4487940180/">Apply</a></td>
+<td align="center">9 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/5be965a1-30a0-4b61-880e-2d8b2bed75d2">Full-Stack Software Engineering Intern, Summer 2027</a></td>
 <td>Scottsdale, AZ</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4487949042/">Apply</a></td>
@@ -2745,20 +2787,6 @@
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4485580782/">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/4fcd40f4-d805-4143-b834-7598d3d82c9a">Technical Program Manager Intern, Manufacturing Operations (Reality Labs)— 2027</a></td>
-<td>Sunnyvale, CA</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4485598010/">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>GM Financial</strong></td>
-<td><a href="https://trueinterview.io/jobs/ed8b1620-eeca-4341-9425-02abbdaae767">Intern - Cloud Engineer</a></td>
-<td>Irving, TX</td>
-<td align="center"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261245">Apply</a></td>
-<td align="center">5 Nov 2026</td>
-</tr>
 </tbody>
 </table>
 
@@ -2797,34 +2825,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/55b5cd6a-7aab-41e9-ab90-82d0424682c8">Mobile Development Engineer Intern</a></td>
 <td>Hong Kong SAR<br/>Kuala Lumpur, Malaysia</td>
 <td align="center"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/5005977101">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/514dea3b-f30f-4e7c-a5f0-d21880a80cce">Multimodal Algo Researcher (AI Innovation Center) Intern - 2026 Soaring Star Talent Program</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4354835476/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/7e3b52ef-5de1-4aa9-8414-0678db940c14">Platform Governance Operations (AI) Project Intern (TikTok Shop) 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4452987663/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
-<td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/38725251-26cd-4deb-9dcf-9192c35ce616">AI Agent Algorithm Engineer Intern (Global E-Commerce, Conversational AI) - 2027 Start (PhD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4447696139/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 </tbody>

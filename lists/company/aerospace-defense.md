@@ -2,7 +2,7 @@
 
 # 🚀 Aerospace & defence
 
-**85 open roles.** 81 in the United States & Canada · 4 elsewhere in the world. Space, satellites, defence primes and defence technology.
+**83 open roles.** 79 in the United States & Canada · 4 elsewhere in the world. Space, satellites, defence primes and defence technology.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -138,20 +138,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 </tr>
 <tr>
 <td><strong>Relativity Space</strong></td>
-<td><a href="https://trueinterview.io/jobs/efc8ed02-cc57-4916-89f2-cf8c6bf4ac4a">Launch Mechanical/Electrical Engineer Intern</a></td>
-<td>Cape Canaveral, FL</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476345359/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/c947f0c3-d77a-47c9-8015-ec87e5608134">Test Engineer Intern, Build &amp; Operations</a></td>
-<td>Kiln, MS</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476354108/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/0f592216-6df6-43f4-805e-e919a35aef41">Robotics Software Engineer Intern</a></td>
 <td>Long Beach, CA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476354109/">Apply</a></td>

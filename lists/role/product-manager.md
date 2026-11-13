@@ -2,7 +2,7 @@
 
 # Product Manager
 
-**117 open roles.** 76 in the United States & Canada · 41 elsewhere in the world.
+**115 open roles.** 76 in the United States & Canada · 39 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -563,20 +563,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>TikTok</strong></td>
-<td><a href="https://trueinterview.io/jobs/a7687d6e-315e-43bb-9080-d0a7b2cbd7b9">Platform Product Manager Intern (TikTok Platform safety) - 2027 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4450334701/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/eede9ef2-d3fe-440d-97b1-c3a3fc54a08b">AI Product Manager Project Intern (TikTok LIVE-Platform)- 2026 Start</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4449761047/">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/7c9aa3f5-276f-4e38-9586-7d7c47a0f3dc">Creator and Content Program Manager Intern (TikTok Shop Governance and Experience) - 2027 Summer</a></td>
 <td>São Paulo, São Paulo, Brazil<br/>Mexico City, Mexico</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4447908326/">Apply</a></td>

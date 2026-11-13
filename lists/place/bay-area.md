@@ -2,7 +2,7 @@
 
 # 🌉 SF Bay Area
 
-**563 open roles.**
+**562 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -52,6 +52,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/8c892dee-cae7-43bb-ad17-52cb8ed2dab4">Security Engineering Intern (Summer 2027)</a></td>
 <td>Mountain View, CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/muonspace/jobs/5294028007">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Zoox</strong></td>
+<td><a href="https://trueinterview.io/jobs/d45d90b2-5184-41e9-b23f-defbc6f8b4cb">Data Scientist Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db">Apply</a></td>
+<td align="center">12 Nov 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/255fa8c9-212e-4c51-8fde-8109077a0b5a">Systems &amp; Safety Engineering Intern [Summer 2027]</a></td>
+<td>Foster City, CA</td>
+<td align="center"><a href="https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2022,28 +2036,7 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/c46a56a2-e366-4beb-8dae-9310b4788170">Manufacturing Software Engineering Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/87a86f24-de15-4435-9611-4f04805097d1">Robotics Engineering Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313717-robotics-engineering-intern">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
 <td><strong>Sigma</strong></td>
-<td><a href="https://trueinterview.io/jobs/577d2c5c-4f38-4356-bfe9-68bfae369047">AI/ML PhD Intern (Summer 2027)</a></td>
-<td>San Francisco, CA<br/>New York, NY</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476568529/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
 <td><a href="https://trueinterview.io/jobs/241edf4a-2626-4aac-b1e9-1e627fa1c8b4">Software Engineering Intern (Summer 2027)</a></td>
 <td>San Francisco, CA<br/>New York, NY</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4476523702/">Apply</a></td>
@@ -2817,6 +2810,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/7a22d3fc-4f52-4f9c-9b26-d0ae92125d56">Technical Writer Intern (Summer 2027)</a></td>
 <td>San Francisco, CA, NYC, San Francisco<br/>New York, NY, NYC, San Francisco</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sigmacomputing/jobs/8034168003">Apply</a></td>
+<td align="center">15 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Skydio</strong></td>
+<td><a href="https://trueinterview.io/jobs/fc70e54f-4ed5-404d-b500-40fd14d6c836">Process Engineering Intern - Summer 2027</a></td>
+<td>San Mateo, California, United States<br/>Hayward, California, United States</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/skydio/6e76d5fa-981e-4986-955b-602aa6ddcb1b/application">Apply</a></td>
 <td align="center">15 Oct 2026</td>
 </tr>
 </tbody>

@@ -2,7 +2,7 @@
 
 # 🧬 Health, biotech & medical devices
 
-**25 open roles.** 19 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
+**23 open roles.** 17 in the United States & Canada · 6 elsewhere in the world. Healthcare, health insurance technology, biotech, pharma and devices.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -86,20 +86,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td>Austin, TX<br/>San Francisco, CA<br/>South San Francisco, California, United States<br/>+1 more</td>
 <td align="center"><a href="https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003">Apply</a></td>
 <td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Intuitive Surgical</strong></td>
-<td><a href="https://trueinterview.io/jobs/c46a56a2-e366-4beb-8dae-9310b4788170">Manufacturing Software Engineering Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313919-manufacturing-software-engineering-intern">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/87a86f24-de15-4435-9611-4f04805097d1">Robotics Engineering Intern</a></td>
-<td>Sunnyvale, California, United States</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Intuitive/744000158313717-robotics-engineering-intern">Apply</a></td>
-<td align="center">28 Oct 2026</td>
 </tr>
 <tr>
 <td><strong>AbbVie</strong></td>

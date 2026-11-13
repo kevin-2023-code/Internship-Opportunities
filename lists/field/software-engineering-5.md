@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,826 open roles.** 1,462 in the United States & Canada · 364 elsewhere in the world.
+**1,831 open roles.** 1,462 in the United States & Canada · 369 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,48 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Mhtechin</strong></td>
+<td><a href="https://trueinterview.io/jobs/33c85e4a-1f45-4b37-b09d-35f6f6545ba5">Forward Deployed Engineer Intern</a> 🌐</td>
+<td>Remote — India</td>
+<td align="center"><a href="https://careers.mhtechin.com/index.php/jobs/forward-deployed-engineer-intern/">Apply</a></td>
+<td align="center">31 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>A-Tech Fabrications Ltd</strong></td>
+<td><a href="https://trueinterview.io/jobs/122aaeda-5980-465b-9af8-c7739fa10e4a">Software Developer Intern</a></td>
+<td>Newton Aycliffe, United Kingdom</td>
+<td align="center"><a href="https://uk.indeed.com/viewjob?jk=a1c47e957131029c">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Inetum</strong></td>
+<td><a href="https://trueinterview.io/jobs/7c61508c-724b-4aa0-8f2d-1a6e51fcc019">Telecommunications &amp; Cybersecurity Operations | Internship Program</a></td>
+<td>Açores, Aveiro District, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Inetum2/744000158797217-telecommunications-cybersecurity-operations-internship-program">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/0a550c95-ee5a-498a-a803-54858939cfd0">Extracurricular Internship – DevOps &amp; GenAI Engineer for Quality (f/m/div.)</a></td>
+<td>Braga, Braga, Portugal</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158794999-extracurricular-internship-devops-genai-engineer-for-quality-f-m-div-">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Apple</strong></td>
+<td><a href="https://trueinterview.io/jobs/6200aa9b-201d-4787-b28f-48070aea4f69">Technical Internship - Apple Wallet, Payments &amp; Commerce</a></td>
+<td>London, England, United Kingdom</td>
+<td align="center"><a href="https://jobs.apple.com/en-us/details/200692619">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Kanadevia Inova</strong></td>
+<td><a href="https://trueinterview.io/jobs/52c33096-8180-45be-b0de-fc9aee3898af">Internship (6 months) - Data Analysis and Correlations for Tender Engineering</a></td>
+<td>Zürich, Switzerland<br/>Zürich, Zurich, Switzerland</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/KanadeviaInova/744000158765980-internship-6-months-data-analysis-and-correlations-for-tender-engineering">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>SAP IT Business Systeme</strong></td>
 <td><a href="https://trueinterview.io/jobs/18d63f4c-9fac-4adb-8d3a-b625641eb12c">SAP iXp Intern - Test Automation Trainee</a></td>
@@ -764,13 +806,6 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/cb9ee983-2e74-4bf8-93a9-28e14daee49a">Software Engineer Intern</a></td>
 <td>Amsterdam, North Holland, Netherlands</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4484482196/">Apply</a></td>
-<td align="center">28 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>CPF Board</strong></td>
-<td><a href="https://trueinterview.io/jobs/51ac6764-f214-48cd-9519-09f51ff1a96b">[2027 H1 Term-time Internship] Software Engineering Intern (DSD)</a></td>
-<td>Singapore, Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4476552293/">Apply</a></td>
 <td align="center">28 Oct 2026</td>
 </tr>
 <tr>

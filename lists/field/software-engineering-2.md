@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,826 open roles.** 1,462 in the United States & Canada · 364 elsewhere in the world.
+**1,831 open roles.** 1,462 in the United States & Canada · 369 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,34 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Central Insurance</strong></td>
+<td><a href="https://trueinterview.io/jobs/044ca062-ded2-416b-93a4-dfab5f992323">Software Engineering Intern</a></td>
+<td>Van Wert, OH</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469000580/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Advanced Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/36fbe705-3837-45d7-bedc-0b8fbdf081b5">Intern - Firmware Engineer - Fall 2026</a></td>
+<td>Fort Collins, CO</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4469048992/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>RR Donnelley</strong></td>
+<td><a href="https://trueinterview.io/jobs/f9d3de09-c9ba-4ecf-879b-f4eb5d5bc49a">Software Developer Intern</a></td>
+<td>Warrenville, Illinois, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000159883639-software-developer-intern">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Johnson &amp; Johnson MedTech</strong></td>
+<td><a href="https://trueinterview.io/jobs/bee10cac-0ed5-4023-a1df-fa9d2a1d70fe">Software Test Engineering Co-op (RLM)</a></td>
+<td>Danvers, MA</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4471185700/">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Motion</strong></td>
 <td><a href="https://trueinterview.io/jobs/5ba8a5bd-ac5e-4541-98a9-20654cf8f1f8">Cloud SRE Intern</a></td>
@@ -2785,34 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/6be2a7fc-b955-4780-918a-eac5caa7cfe7">Mercury Marine: G3 Software Engineering Intern</a></td>
 <td>Oshkosh, WI</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4459034739/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Swinerton</strong></td>
-<td><a href="https://trueinterview.io/jobs/dda6aa5b-9502-435d-b5a7-534cfe7ba230">Project Engineer Intern</a></td>
-<td>New York, NY<br/>Jersey City, NJ</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4465904136/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>WSP in the U.S.</strong></td>
-<td><a href="https://trueinterview.io/jobs/e6e205fa-2150-4c67-9847-af59d574ca45">Transportation Engineering Intern- Summer 2027</a></td>
-<td>Las Vegas, NV</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4466892939/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Brunswick Corporation</strong></td>
-<td><a href="https://trueinterview.io/jobs/d5ec33f1-de88-4761-8e7c-f4413825b3d2">Mercury Marine: Drives &amp; Propulsion Systems Engineering Intern</a></td>
-<td>Oshkosh, WI</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4459039774/">Apply</a></td>
-<td align="center">29 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Cargill</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f3060a2-571d-4a66-a762-f19a8e5beaa3">Engineer Co-op January 2027- Multiple U.S Locations</a></td>
-<td>Minneapolis, MN</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4446669768/">Apply</a></td>
 <td align="center">29 Oct 2026</td>
 </tr>
 </tbody>

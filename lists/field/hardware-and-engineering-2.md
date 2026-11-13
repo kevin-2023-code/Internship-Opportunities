@@ -2,7 +2,7 @@
 
 # 🔧 Hardware & Engineering
 
-**802 open roles.** 726 in the United States & Canada · 76 elsewhere in the world.
+**801 open roles.** 725 in the United States & Canada · 76 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,13 +15,6 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Skydio</strong></td>
-<td><a href="https://trueinterview.io/jobs/0f2ddd61-4a28-4e77-93c2-5c1209dcc34f">Wireless Hardware Engineer Intern - Summer 2027</a></td>
-<td>San Mateo, California, United States</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea">Apply</a></td>
-<td align="center">20 Oct 2026</td>
-</tr>
 <tr>
 <td><strong>Woodard &amp; Curran</strong></td>
 <td><a href="https://trueinterview.io/jobs/4529e4e5-d615-4c76-9615-ae36200d3fda">2027 Summer Internship - Electrical Engineering</a></td>
@@ -2311,9 +2304,9 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <tbody>
 <tr>
 <td><strong>ByteDance</strong></td>
-<td><a href="https://trueinterview.io/jobs/a8818637-56c8-44f9-b3c5-589a4deb73ec">Network Reliability Engineer Intern (Network Infrastructure) - 2027 Start</a></td>
+<td><a href="https://trueinterview.io/jobs/21bafd23-6e1f-4d5b-b727-92c5afa9ace5">Production System Engineer Intern (Infrastructure Engineering) - 2027 Start</a></td>
 <td>Singapore</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4473993080/">Apply</a></td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4448773767/">Apply</a></td>
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
@@ -2825,6 +2818,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td><a href="https://trueinterview.io/jobs/d59f73a1-36ad-4bb2-850e-809fa2958094">Embedded Software Engineering Intern</a></td>
 <td>Pittsburgh</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/24561868-f075-4edf-a991-59ff0174e92a/application">Apply</a></td>
+<td align="center">15 Sep 2026</td>
+</tr>
+<tr>
+<td>↳</td>
+<td><a href="https://trueinterview.io/jobs/ba6be22f-3b79-4c9e-bdfa-8b1bdbd987b4">Test &amp; Reliability Engineering Intern</a></td>
+<td>Pittsburgh</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/gecko-robotics/07b4bc1b-500f-493c-ab28-383b543a3e85">Apply</a></td>
 <td align="center">15 Sep 2026</td>
 </tr>
 </tbody>
