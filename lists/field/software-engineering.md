@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,853 open roles.** 1,480 in the United States & Canada · 373 elsewhere in the world.
+**1,852 open roles.** 1,478 in the United States & Canada · 374 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -615,13 +615,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td align="center">12 Nov 2026</td>
 </tr>
 <tr>
-<td><strong>Ducks Unlimited</strong></td>
-<td><a href="https://trueinterview.io/jobs/612f81f7-324c-4706-90c7-8e790ca1ef03">Engineering Intern</a></td>
-<td>Lubbock, TX, 79401</td>
-<td align="center"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&amp;jobId=598680">Apply</a></td>
-<td align="center">12 Nov 2026</td>
-</tr>
-<tr>
 <td><strong>Bose Corporation</strong></td>
 <td><a href="https://trueinterview.io/jobs/b8ccc4e2-af36-4e0e-a773-506f853082fa">Digital Signal Processing ML Software Development Co-op</a></td>
 <td>Framingham, MA</td>
@@ -710,13 +703,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/aa09b796-31d0-485c-a719-cdc5b857cd05">2027 (Summer) - Manufacturing - Manufacturing Test Software Intern</a></td>
 <td>Somerville, MA</td>
 <td align="center"><a href="https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598">Apply</a></td>
-<td align="center">11 Nov 2026</td>
-</tr>
-<tr>
-<td><strong>CEV MULTIMEDIA LTD</strong></td>
-<td><a href="https://trueinterview.io/jobs/6039ddff-4bd2-454c-a907-9ada2e30f0b8">Content Developer Intern</a></td>
-<td>1020 SE Loop 289, Lubbock, TX, 79404, US</td>
-<td align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4658086?listingId=646acf7b-3795-46d1-8ec6-8ec7238debd9">Apply</a></td>
 <td align="center">11 Nov 2026</td>
 </tr>
 <tr>
@@ -2817,6 +2803,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/3de4194c-2a35-4bdb-99a6-0b9c4ef120fe">Summer Embedded Developer Intern</a></td>
 <td>Columbia, MD</td>
 <td align="center"><a href="https://jobs.parsons.com/jobs/summer-embedded-developer-intern-columbia-r-188299-jobs--internship-program--">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Legrand</strong></td>
+<td><a href="https://trueinterview.io/jobs/ae216860-baad-4890-a279-5c9812e7347f">Firmware Engineering Intern</a></td>
+<td>Reno, NV</td>
+<td align="center"><a href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/job/1809">Apply</a></td>
+<td align="center">5 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>AECOM</strong></td>
+<td><a href="https://trueinterview.io/jobs/c895b3c5-4519-438d-be5d-4addeb5a89e9">Water/Wastewater Engineering Intern</a></td>
+<td>Buffalo, New York, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/AECOM2/744000159925579-water-wastewater-engineering-intern">Apply</a></td>
 <td align="center">5 Nov 2026</td>
 </tr>
 </tbody>

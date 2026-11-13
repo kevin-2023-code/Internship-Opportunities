@@ -2,7 +2,7 @@
 
 # QA Engineer
 
-**47 open roles.** 36 in the United States & Canada · 11 elsewhere in the world.
+**48 open roles.** 36 in the United States & Canada · 12 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -357,6 +357,13 @@ _Roles outside the United States & Canada, and roles whose country the catalog c
 <td>Guadalajara Office</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5251239007">Apply</a></td>
 <td align="center">21 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Scopely</strong></td>
+<td><a href="https://trueinterview.io/jobs/1a2f55b9-db11-4705-9335-95014797b33d">Intern - QA Engineer - Royal Lounge Casino</a></td>
+<td>IN - Bangalore, India</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008">Apply</a></td>
+<td align="center">13 Oct 2026</td>
 </tr>
 </tbody>
 </table>

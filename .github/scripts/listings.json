@@ -5,8 +5,8 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T08:06:07.711Z",
-  "count": 3843,
+  "listingsChangedAt": "2026-11-13T09:05:51.981Z",
+  "count": 3842,
   "listings": [
     {
       "id": "f31a1c08-4257-4e53-9ee0-5ef4c909c52c",
@@ -1094,9 +1094,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -1119,9 +1119,9 @@
         "United States"
       ],
       "remote": "onsite",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5455,6 +5455,31 @@
       "updatedAt": "2026-11-12T01:55:01.000Z"
     },
     {
+      "id": "af8e1b38-93b9-425d-8e3c-94f4ae43b685",
+      "company": "New Vision Co-op",
+      "title": "Information Technology Intern",
+      "locations": [
+        "38438 210th Street, Brewster, MN, 56119, US"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4659227?listingId=8105d05f-7a2c-42c1-8490-f60a7c37db80",
+      "url": "https://trueinterview.io/jobs/af8e1b38-93b9-425d-8e3c-94f4ae43b685",
+      "postedAt": "2026-11-12T01:24:28.000Z",
+      "updatedAt": "2026-11-12T01:24:28.000Z"
+    },
+    {
       "id": "0e479779-7138-40a0-8613-879f99039e6d",
       "company": "SK hynix memory solutions America Inc.",
       "title": "Embedded Software Engineer Intern",
@@ -5629,9 +5654,9 @@
         "United States"
       ],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Frontend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -5639,58 +5664,6 @@
       "source": "career-sites",
       "applyUrl": "https://apply.workable.com/bask-health-1/j/9C2964C7CD/",
       "url": "https://trueinterview.io/jobs/87a8a562-c977-475d-9183-26ba8469d6e2",
-      "postedAt": "2026-11-12T00:00:00.000Z",
-      "updatedAt": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "id": "1be921ad-0749-46a2-bebc-f8054368e370",
-      "company": "Dell Technologies",
-      "title": "User Experience (UX) Research Intern",
-      "locations": [
-        "Austin, TX, United States"
-      ],
-      "cities": [
-        "Austin, TX"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Product & Design",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302635",
-      "url": "https://trueinterview.io/jobs/1be921ad-0749-46a2-bebc-f8054368e370",
-      "postedAt": "2026-11-12T00:00:00.000Z",
-      "updatedAt": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "id": "612f81f7-324c-4706-90c7-8e790ca1ef03",
-      "company": "Ducks Unlimited",
-      "title": "Engineering Intern",
-      "locations": [
-        "Lubbock, TX, 79401"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "career-sites",
-      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7deee1c0-b159-4fdc-8bdb-3f1d87c47510&jobId=598680",
-      "url": "https://trueinterview.io/jobs/612f81f7-324c-4706-90c7-8e790ca1ef03",
       "postedAt": "2026-11-12T00:00:00.000Z",
       "updatedAt": "2026-11-12T00:00:00.000Z"
     },
@@ -6175,29 +6148,29 @@
       "updatedAt": "2026-11-11T21:54:00.000Z"
     },
     {
-      "id": "6039ddff-4bd2-454c-a907-9ada2e30f0b8",
-      "company": "CEV MULTIMEDIA LTD",
-      "title": "Content Developer Intern",
+      "id": "c71cecc1-ba69-49d1-804b-4986ad35a111",
+      "company": "Labconco",
+      "title": "IT Internship - Paid",
       "locations": [
-        "1020 SE Loop 289, Lubbock, TX, 79404, US"
+        "8811 Prospect Ave, Kansas City, MO, 64132, US"
       ],
       "cities": [],
       "countries": [
         "United States"
       ],
       "remote": "onsite",
-      "category": "Software",
-      "family": "Software",
-      "role": "Software Engineer",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
       "source": "career-sites",
-      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4658086?listingId=646acf7b-3795-46d1-8ec6-8ec7238debd9",
-      "url": "https://trueinterview.io/jobs/6039ddff-4bd2-454c-a907-9ada2e30f0b8",
-      "postedAt": "2026-11-11T21:35:59.000Z",
-      "updatedAt": "2026-11-11T21:35:59.000Z"
+      "applyUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4657974?listingId=e8cc565e-2d81-402c-9fd8-3ec173991b67",
+      "url": "https://trueinterview.io/jobs/c71cecc1-ba69-49d1-804b-4986ad35a111",
+      "postedAt": "2026-11-11T21:09:33.000Z",
+      "updatedAt": "2026-11-11T21:09:33.000Z"
     },
     {
       "id": "93658850-ea95-463c-a4f0-b64d411d8e01",
@@ -6266,9 +6239,9 @@
         "United States"
       ],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6315,9 +6288,9 @@
         "United States"
       ],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Software Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6393,9 +6366,9 @@
         "United States"
       ],
       "remote": "remote",
-      "category": "Other",
+      "category": "Software",
       "family": "Software",
-      "role": "Other",
+      "role": "Backend Engineer",
       "seniority": "intern",
       "level": "newgrad",
       "kind": "intern",
@@ -6711,6 +6684,31 @@
       "url": "https://trueinterview.io/jobs/e6573c3d-dbd4-428d-bbc9-c58fba7091ef",
       "postedAt": "2026-11-11T17:44:30.000Z",
       "updatedAt": "2026-11-11T17:44:30.000Z"
+    },
+    {
+      "id": "a9a9dd17-6b6b-4cba-b3ab-f2b9c844e8ee",
+      "company": "Indianapolis Motor Speedway",
+      "title": "IT Operations Intern, 2027 Season",
+      "locations": [
+        "Indianapolis, IN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "IT & Support",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://recruiting.ultipro.com/pen1024pmco/JobBoard/5ad6ac0e-0d86-4154-b9b5-d663b091efca/OpportunityDetail?opportunityId=1c3f3625-5f9e-4ad1-b6b6-b2aba8f7fec6",
+      "url": "https://trueinterview.io/jobs/a9a9dd17-6b6b-4cba-b3ab-f2b9c844e8ee",
+      "postedAt": "2026-11-11T17:23:21.000Z",
+      "updatedAt": "2026-11-11T17:23:21.000Z"
     },
     {
       "id": "b1d8bfff-3f02-4162-85ed-44e58de09c37",
@@ -7030,7 +7028,7 @@
       "category": "Other",
       "family": "IT & Support",
       "role": "Other",
-      "seniority": "intern",
+      "seniority": "new-grad",
       "level": "newgrad",
       "kind": "intern",
       "sponsorship": null,
@@ -8877,6 +8875,31 @@
       "source": "indeed",
       "applyUrl": "https://securitymetrics.bamboohr.com/careers/215?postedDate=2026-11-11",
       "url": "https://trueinterview.io/jobs/dd8aa566-7127-4c88-a7b7-743aff23f06a",
+      "postedAt": "2026-11-11T06:00:00.000Z",
+      "updatedAt": "2026-11-11T06:00:00.000Z"
+    },
+    {
+      "id": "eaa13657-d98d-4666-b3e5-46de8412811f",
+      "company": "Zeon Chemicals LP",
+      "title": "Electrical Engineering Co-Op",
+      "locations": [
+        "Louisville, KY"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "indeed",
+      "applyUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=733d09c0-84e6-4cc6-a899-2248c66b3751&ccId=19000101_000001&jobId=587239&lang=en_US",
+      "url": "https://trueinterview.io/jobs/eaa13657-d98d-4666-b3e5-46de8412811f",
       "postedAt": "2026-11-11T06:00:00.000Z",
       "updatedAt": "2026-11-11T06:00:00.000Z"
     },
@@ -48903,31 +48926,6 @@
       "updatedAt": "2026-10-30T00:00:00.000Z"
     },
     {
-      "id": "224e8a51-f9be-4365-8e0d-d6cb0f18dc0f",
-      "company": "Nokia",
-      "title": "Silicon Photonics Packaging Engineer Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40848",
-      "url": "https://trueinterview.io/jobs/224e8a51-f9be-4365-8e0d-d6cb0f18dc0f",
-      "postedAt": "2026-10-30T00:00:00.000Z",
-      "updatedAt": "2026-10-30T00:00:00.000Z"
-    },
-    {
       "id": "859baf0c-101f-4468-9e84-c0b79093b3f8",
       "company": "Rivian",
       "title": "Engineering Intern - Design for Reliability (Spring 2027 Co-Op)",
@@ -80310,31 +80308,6 @@
       "updatedAt": "2026-10-16T00:00:00.000Z"
     },
     {
-      "id": "df09cee0-a48d-429d-b67f-13de5967b702",
-      "company": "Nokia",
-      "title": "Mechanical Packaging Engineer Co-op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Hardware & Engineering",
-      "family": "Hardware & Engineering",
-      "role": "Hardware Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850",
-      "url": "https://trueinterview.io/jobs/df09cee0-a48d-429d-b67f-13de5967b702",
-      "postedAt": "2026-10-16T00:00:00.000Z",
-      "updatedAt": "2026-10-16T00:00:00.000Z"
-    },
-    {
       "id": "d9833901-583c-4bab-8c62-dcb027c421f1",
       "company": "wikimedia-foundation",
       "title": "Software Engineering Internship Program (2027)",
@@ -82377,6 +82350,31 @@
       "url": "https://trueinterview.io/jobs/198ebe45-0ed6-48c7-b20e-123b572076dd",
       "postedAt": "2026-10-13T10:16:20.000Z",
       "updatedAt": "2026-10-13T10:16:20.000Z"
+    },
+    {
+      "id": "1a2f55b9-db11-4705-9335-95014797b33d",
+      "company": "Scopely",
+      "title": "Intern - QA Engineer - Royal Lounge Casino",
+      "locations": [
+        "IN - Bangalore, India"
+      ],
+      "cities": [],
+      "countries": [
+        "India"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "QA Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://job-boards.greenhouse.io/scopely/jobs/5448999008?gh_jid=5448999008",
+      "url": "https://trueinterview.io/jobs/1a2f55b9-db11-4705-9335-95014797b33d",
+      "postedAt": "2026-10-13T08:50:00.000Z",
+      "updatedAt": "2026-10-13T08:50:00.000Z"
     },
     {
       "id": "c52c2010-8d95-4072-9b07-88fa2a65fcb0",
@@ -91222,31 +91220,6 @@
       "source": "bigtech-careers",
       "applyUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Optical-Engineer-Intern_2641712-1",
       "url": "https://trueinterview.io/jobs/e7e7827e-c9d1-440b-a640-75774ad1263f",
-      "postedAt": "2026-09-30T00:00:00.000Z",
-      "updatedAt": "2026-09-30T00:00:00.000Z"
-    },
-    {
-      "id": "8b6cdcec-5f50-4db2-a517-bb52574360a3",
-      "company": "Nokia",
-      "title": "Optical System Engineer Co-Op",
-      "locations": [
-        "United States"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Hardware & Engineering",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648",
-      "url": "https://trueinterview.io/jobs/8b6cdcec-5f50-4db2-a517-bb52574360a3",
       "postedAt": "2026-09-30T00:00:00.000Z",
       "updatedAt": "2026-09-30T00:00:00.000Z"
     },
