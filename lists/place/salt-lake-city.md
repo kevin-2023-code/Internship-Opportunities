@@ -2,7 +2,7 @@
 
 # 🏜️ Salt Lake City & Utah
 
-**20 open roles.**
+**21 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HDR</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6a4838e-7714-4223-b5d4-372d9e543b5e">Data Scientist Intern (Summer 2027)</a></td>
+<td>Salt Lake City, UT<br/>Anchorage, AK<br/>Boise, ID<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481624628/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Ancestry</strong></td>
 <td><a href="https://trueinterview.io/jobs/9fe6e378-b964-418f-92f1-5f8b3ec5f15e">Software Engineer – Observability, Co-op</a></td>

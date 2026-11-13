@@ -2,7 +2,7 @@
 
 # 🌧️ Portland, Boise & Spokane
 
-**57 open roles.**
+**58 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HDR</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6a4838e-7714-4223-b5d4-372d9e543b5e">Data Scientist Intern (Summer 2027)</a></td>
+<td>Boise, ID<br/>Salt Lake City, UT<br/>Anchorage, AK<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481624628/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Epic</strong></td>
 <td><a href="https://trueinterview.io/jobs/f5f728df-009d-42ef-9dad-d8baf0b74007">Software Development Intern</a></td>

@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-**115 open roles.** 93 in the United States & Canada · 22 elsewhere in the world.
+**118 open roles.** 96 in the United States & Canada · 22 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -17,6 +17,20 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HDR</strong></td>
+<td><a href="https://trueinterview.io/jobs/d6a4838e-7714-4223-b5d4-372d9e543b5e">Data Scientist Intern (Summer 2027)</a></td>
+<td>Salt Lake City, UT<br/>Anchorage, AK<br/>Boise, ID<br/>+1 more</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4481624628/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>Leidos</strong></td>
+<td><a href="https://trueinterview.io/jobs/2d0230c0-0abc-46df-a62e-cf2309005436">Junior Software Engineer / Data Scientist Intern</a></td>
+<td>Tucson, AZ</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4488914968/">Apply</a></td>
+<td align="center">13 Nov 2026</td>
+</tr>
 <tr>
 <td><strong>Zoox</strong></td>
 <td><a href="https://trueinterview.io/jobs/d45d90b2-5184-41e9-b23f-defbc6f8b4cb">Data Scientist Intern [Summer 2027]</a></td>
@@ -113,6 +127,13 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/9ef4bcf4-7073-45d0-86f6-f7ea184bb778">Data Scientist, Intern</a></td>
 <td>New York, NY<br/>Pittsburgh, PA</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4480310279/">Apply</a></td>
+<td align="center">6 Nov 2026</td>
+</tr>
+<tr>
+<td><strong>State Farm</strong></td>
+<td><a href="https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077">Summer 2027 Intern-P&amp;C Actuarial &amp; Underwriting Modeling - Data Scientist</a></td>
+<td>Atlanta, GA<br/>Tempe, Arizona, United States<br/>Dunwoody, Georgia, United States<br/>+4 more</td>
+<td align="center"><a href="https://jobs.statefarm.com/main/jobs/46227">Apply</a></td>
 <td align="center">6 Nov 2026</td>
 </tr>
 <tr>

@@ -2,7 +2,7 @@
 
 # 🌴 Los Angeles & Orange County
 
-**172 open roles.**
+**171 open roles.**
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -694,13 +694,6 @@ _Newest first. 🌐 Remote &nbsp;·&nbsp; 🛂 The posting carries a work-author
 <td><a href="https://trueinterview.io/jobs/23480fe8-3468-4dc9-ae2e-7c202c27e17b">Electromechanical Design Engineering Intern (Summer 2027)</a></td>
 <td>Irvine, California<br/>Palo Alto, California<br/>Vancouver, BC<br/>+1 more</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/e05c3bd0-caf9-45c0-98e4-c8944eaf5ac7">Apply</a></td>
-<td align="center">22 Oct 2026</td>
-</tr>
-<tr>
-<td>↳</td>
-<td><a href="https://trueinterview.io/jobs/05f6f55c-4282-45b5-8379-b790c58cf030">Data Engineering Intern - AI &amp; Analytics (Summer 2027)</a></td>
-<td>Irvine, California<br/>Palo Alto, California</td>
-<td align="center"><a href="https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464">Apply</a></td>
 <td align="center">22 Oct 2026</td>
 </tr>
 <tr>

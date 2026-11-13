@@ -2,7 +2,7 @@
 
 # 💻 Software Engineering
 
-**1,862 open roles.** 1,482 in the United States & Canada · 380 elsewhere in the world.
+**1,865 open roles.** 1,485 in the United States & Canada · 380 elsewhere in the world.
 
 [← Every filter](../README.md) · [← The full list](../../README.md)
 
@@ -15,6 +15,27 @@
 <tr><th>Company</th><th>Role</th><th>Location</th><th align="center">Apply</th><th align="center">Posted</th></tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>The Cigna Group</strong></td>
+<td><a href="https://trueinterview.io/jobs/dd2aca16-b61b-49ad-a9da-b18b9fb8cc6d">The Cigna Group's Technology Development Program - Data &amp; Analytics Engineering Track Summer Internship</a></td>
+<td>Bloomfield, Connecticut, United States<br/>St. Louis, Missouri, United States<br/>Parsippany-Troy Hills, New Jersey, United States</td>
+<td align="center"><a href="https://jobs.thecignagroup.com/us/en/job/26009533/The-Cigna-Group-s-Technology-Development-Program-Data-Analytics-Engineering-Track-Summer-Internship">Apply</a></td>
+<td align="center">30 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Bosch</strong></td>
+<td><a href="https://trueinterview.io/jobs/2fa8d757-4d9a-4afc-a586-c68a216a87df">IT Systems Engineering Intern (19 hours per week)</a></td>
+<td>Roseville, California, United States</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158620079-it-systems-engineering-intern-19-hours-per-week-">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
+<tr>
+<td><strong>Lunar Energy</strong></td>
+<td><a href="https://trueinterview.io/jobs/ec076f05-37ac-492a-b5d4-21c36d37ef05">Hardware Test Engineering Intern</a></td>
+<td>San Francisco, CA<br/>Mountain View, CA</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004">Apply</a></td>
+<td align="center">29 Oct 2026</td>
+</tr>
 <tr>
 <td><strong>Alamos Gold Inc.</strong></td>
 <td><a href="https://trueinterview.io/jobs/2e12466e-4454-4c5b-af0c-9ed201fd2187">Open Pit Engineering Co-op (8 Months)</a></td>
@@ -2792,27 +2813,6 @@
 <td><a href="https://trueinterview.io/jobs/eceed2fe-3355-44be-a6af-8a0b126f287d">Life Safety – Fire &amp; Life Safety Engineering Intern</a></td>
 <td>Boston, Massachusetts, United States</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Socotec/744000157922529-life-safety-fire-life-safety-engineering-intern">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Parallel Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/544ad2e1-49d2-4748-8ebe-8b22f2d37c90">Hardware Engineering Intern (Mechanical &amp; Electrical)</a></td>
-<td>Los Angeles, CA</td>
-<td align="center"><a href="https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>Commonwealth Fusion Systems</strong></td>
-<td><a href="https://trueinterview.io/jobs/4cfbc776-b3cd-4cd9-945f-f8baba7a54ed">Intern - Microwave Engineer - Summer 2027</a></td>
-<td>Devens, MA</td>
-<td align="center"><a href="https://jobs.lever.co/cfsenergy/79cd53ba-b864-4bcb-8421-60cf58f7df54">Apply</a></td>
-<td align="center">26 Oct 2026</td>
-</tr>
-<tr>
-<td><strong>IBM</strong></td>
-<td><a href="https://trueinterview.io/jobs/d3892383-1431-48e8-8f53-a758d0b1a8b6">Software Engineering Intern - Quantum Information Science 2027</a></td>
-<td>Multiple Cities, United States</td>
-<td align="center"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137674">Apply</a></td>
 <td align="center">26 Oct 2026</td>
 </tr>
 </tbody>

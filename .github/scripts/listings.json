@@ -5,9 +5,195 @@
     "family": "tech",
     "postedWithinDays": 60
   },
-  "listingsChangedAt": "2026-11-13T12:06:32.381Z",
-  "count": 3859,
+  "listingsChangedAt": "2026-11-13T13:04:25.654Z",
+  "count": 3871,
   "listings": [
+    {
+      "id": "a99331c9-55a9-4a36-bb58-638641fe4259",
+      "company": "KLA",
+      "title": "Machine Learning Engineer Intern",
+      "locations": [
+        "Milpitas, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472600216/",
+      "url": "https://trueinterview.io/jobs/a99331c9-55a9-4a36-bb58-638641fe4259",
+      "postedAt": "2026-11-13T12:38:00.000Z",
+      "updatedAt": "2026-11-13T12:38:00.000Z"
+    },
+    {
+      "id": "be2dbbdc-81a5-4517-bbb9-bc7e2690fb20",
+      "company": "Shield",
+      "title": "Summer 2027 - Software Engineer Intern",
+      "locations": [
+        "Washington, DC"
+      ],
+      "cities": [
+        "Washington, DC"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Software Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4465604643/",
+      "url": "https://trueinterview.io/jobs/be2dbbdc-81a5-4517-bbb9-bc7e2690fb20",
+      "postedAt": "2026-11-13T12:13:00.000Z",
+      "updatedAt": "2026-11-13T12:13:00.000Z"
+    },
+    {
+      "id": "d6a4838e-7714-4223-b5d4-372d9e543b5e",
+      "company": "HDR",
+      "title": "Data Scientist Intern (Summer 2027)",
+      "locations": [
+        "Salt Lake City, UT",
+        "Anchorage, AK",
+        "Boise, ID",
+        "Omaha, NE"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4481624628/",
+      "url": "https://trueinterview.io/jobs/d6a4838e-7714-4223-b5d4-372d9e543b5e",
+      "postedAt": "2026-11-13T11:51:00.000Z",
+      "updatedAt": "2026-11-13T11:51:00.000Z"
+    },
+    {
+      "id": "43d9c33a-1ebb-4d82-a2de-967e3d34b4ec",
+      "company": "SpaceX Super Intelligence",
+      "title": "Spring 2027 Software Engineering Internship/Co-op",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Software",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482736903/",
+      "url": "https://trueinterview.io/jobs/43d9c33a-1ebb-4d82-a2de-967e3d34b4ec",
+      "postedAt": "2026-11-13T11:50:00.000Z",
+      "updatedAt": "2026-11-13T11:50:00.000Z"
+    },
+    {
+      "id": "f8bb1d1d-cafa-46ce-b833-1392dd090587",
+      "company": "Rivian",
+      "title": "Software Engineering Intern - Applied AI (Spring 2027 Co-Op)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4472507239/",
+      "url": "https://trueinterview.io/jobs/f8bb1d1d-cafa-46ce-b833-1392dd090587",
+      "postedAt": "2026-11-13T11:47:00.000Z",
+      "updatedAt": "2026-11-13T11:47:00.000Z"
+    },
+    {
+      "id": "2d0230c0-0abc-46df-a62e-cf2309005436",
+      "company": "Leidos",
+      "title": "Junior Software Engineer / Data Scientist Intern",
+      "locations": [
+        "Tucson, AZ"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4488914968/",
+      "url": "https://trueinterview.io/jobs/2d0230c0-0abc-46df-a62e-cf2309005436",
+      "postedAt": "2026-11-13T11:39:00.000Z",
+      "updatedAt": "2026-11-13T11:39:00.000Z"
+    },
+    {
+      "id": "f5050d64-f793-4816-991b-8778613510fe",
+      "company": "TikTok",
+      "title": "Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4489569265/",
+      "url": "https://trueinterview.io/jobs/f5050d64-f793-4816-991b-8778613510fe",
+      "postedAt": "2026-11-13T11:39:00.000Z",
+      "updatedAt": "2026-11-13T11:39:00.000Z"
+    },
     {
       "id": "3dbdf6ca-69a8-4cf4-a4b1-8af67a6f91df",
       "company": "Thomson Reuters",
@@ -32,6 +218,60 @@
       "url": "https://trueinterview.io/jobs/3dbdf6ca-69a8-4cf4-a4b1-8af67a6f91df",
       "postedAt": "2026-11-13T11:11:00.000Z",
       "updatedAt": "2026-11-13T11:11:00.000Z"
+    },
+    {
+      "id": "e22a6be1-0b48-4358-9120-d17740a4780f",
+      "company": "ByteDance",
+      "title": "Multi-Cloud CDN Data Platform Engineer Intern (Global Engineering CDN) - 2026 Fall (BS/MS)",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Platform Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4452600425/",
+      "url": "https://trueinterview.io/jobs/e22a6be1-0b48-4358-9120-d17740a4780f",
+      "postedAt": "2026-11-13T10:39:00.000Z",
+      "updatedAt": "2026-11-13T10:39:00.000Z"
+    },
+    {
+      "id": "b023e31c-c284-48c6-b733-e665fcf8ff7f",
+      "company": "TikTok",
+      "title": "AI Product Operations Intern（TikTok-Platform Responsibility-Teen Experiences）- 2027 Summer",
+      "locations": [
+        "San Jose, CA"
+      ],
+      "cities": [
+        "San Jose, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "AI Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4449979452/",
+      "url": "https://trueinterview.io/jobs/b023e31c-c284-48c6-b733-e665fcf8ff7f",
+      "postedAt": "2026-11-13T10:39:00.000Z",
+      "updatedAt": "2026-11-13T10:39:00.000Z"
     },
     {
       "id": "488ba471-06f1-4e51-a5b2-b4e9e93b78dd",
@@ -577,34 +817,6 @@
       "updatedAt": "2026-11-13T09:47:00.000Z"
     },
     {
-      "id": "12c08452-6c80-46ba-ae67-0f2549d1f402",
-      "company": "ByteDance",
-      "title": "Research Intern (AI/LLM Network) - 2026 Start (PhD)",
-      "locations": [
-        "San Jose, CA",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "San Jose, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Other",
-      "family": "Software",
-      "role": "Other",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4471734068/",
-      "url": "https://trueinterview.io/jobs/12c08452-6c80-46ba-ae67-0f2549d1f402",
-      "postedAt": "2026-11-12T10:18:00.000Z",
-      "updatedAt": "2026-11-13T09:46:00.000Z"
-    },
-    {
       "id": "02eea93a-228c-4a8b-bfc1-b079dc0ab45c",
       "company": "TikTok",
       "title": "AI Safety Evaluation & Governance Product Manager Intern (TikTok-Platform Responsibility-Feed Safety) - 2027 Summer",
@@ -870,6 +1082,31 @@
       "url": "https://trueinterview.io/jobs/aa3bb18f-a4fb-4aa3-b8ae-840d0527c34b",
       "postedAt": "2026-11-13T09:10:00.000Z",
       "updatedAt": "2026-11-13T09:10:00.000Z"
+    },
+    {
+      "id": "ea660cba-eba3-4e88-adea-51c8feb1c98e",
+      "company": "Renesas",
+      "title": "Mechanical Engineering Intern",
+      "locations": [
+        "Varna, Bulgaria"
+      ],
+      "cities": [],
+      "countries": [
+        "Other"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.smartrecruiters.com/RenesasElectronics/744000161442639-mechanical-engineering-intern",
+      "url": "https://trueinterview.io/jobs/ea660cba-eba3-4e88-adea-51c8feb1c98e",
+      "postedAt": "2026-11-13T08:56:18.000Z",
+      "updatedAt": "2026-11-13T08:56:18.000Z"
     },
     {
       "id": "cffece04-3709-4dac-ae3b-0951563722c4",
@@ -1668,33 +1905,6 @@
       "url": "https://trueinterview.io/jobs/446f6336-73cb-4256-b53e-e8c2f32243c3",
       "postedAt": "2026-11-12T23:37:00.000Z",
       "updatedAt": "2026-11-12T23:37:00.000Z"
-    },
-    {
-      "id": "e70b0ebf-29e3-46b4-a2d0-efac93d5e488",
-      "company": "Lightmatter",
-      "title": "Data & AI Platform, Intern - Summer 2027",
-      "locations": [
-        "Boston, MA"
-      ],
-      "cities": [
-        "Boston, MA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008",
-      "url": "https://trueinterview.io/jobs/e70b0ebf-29e3-46b4-a2d0-efac93d5e488",
-      "postedAt": "2026-11-12T22:36:03.000Z",
-      "updatedAt": "2026-11-12T23:10:06.000Z"
     },
     {
       "id": "8c892dee-cae7-43bb-ad17-52cb8ed2dab4",
@@ -13960,6 +14170,114 @@
       "updatedAt": "2026-11-09T23:41:00.000Z"
     },
     {
+      "id": "d9562f2a-908c-4cbc-9b0d-f5c54318628d",
+      "company": "Pivotal",
+      "title": "Internship, Software Engineering (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
+      "url": "https://trueinterview.io/jobs/d9562f2a-908c-4cbc-9b0d-f5c54318628d",
+      "postedAt": "2026-11-09T23:14:31.000Z",
+      "updatedAt": "2026-11-09T23:39:00.000Z"
+    },
+    {
+      "id": "5fe328f5-3488-40f5-b88b-399218fda7f7",
+      "company": "pivotal",
+      "title": "Internship, Mechanical Engineering (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506",
+      "url": "https://trueinterview.io/jobs/5fe328f5-3488-40f5-b88b-399218fda7f7",
+      "postedAt": "2026-11-09T23:18:25.000Z",
+      "updatedAt": "2026-11-09T23:18:25.000Z"
+    },
+    {
+      "id": "16f542cf-73cc-4cbf-8a12-4a6d2d9d51a8",
+      "company": "pivotal",
+      "title": "Manufacturing Engineering Internship (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "new-grad",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2",
+      "url": "https://trueinterview.io/jobs/16f542cf-73cc-4cbf-8a12-4a6d2d9d51a8",
+      "postedAt": "2026-11-09T23:17:34.000Z",
+      "updatedAt": "2026-11-09T23:17:34.000Z"
+    },
+    {
+      "id": "00dbf6fc-fb28-4e60-b2c8-34737b25d399",
+      "company": "pivotal",
+      "title": "Internship, Maintenance, Repair & Overhaul Engineering (Summer 2027)",
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "cities": [
+        "Palo Alto, CA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Other",
+      "family": "Hardware & Engineering",
+      "role": "Other",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "ats-boards",
+      "applyUrl": "https://jobs.lever.co/pivotal/23e45f4a-ab7f-4d45-9ec8-bae2ced5d583",
+      "url": "https://trueinterview.io/jobs/00dbf6fc-fb28-4e60-b2c8-34737b25d399",
+      "postedAt": "2026-11-09T23:17:00.000Z",
+      "updatedAt": "2026-11-09T23:17:00.000Z"
+    },
+    {
       "id": "f00f33c8-ea3a-4381-8045-8048d789170a",
       "company": "pivotal",
       "title": "Internship, Flight Test Engineer (Summer 2027)",
@@ -17370,31 +17688,6 @@
       "url": "https://trueinterview.io/jobs/dde08523-3156-4fef-910c-162b23029ae3",
       "postedAt": "2026-11-08T05:08:00.000Z",
       "updatedAt": "2026-11-08T05:08:00.000Z"
-    },
-    {
-      "id": "15c7d318-9eba-4b6f-9cbe-52f7769e5757",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Generative AI & 3D Generation (PhD)",
-      "locations": [
-        "Burlingame, CA"
-      ],
-      "cities": [],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.metacareers.com/jobs/1406087328180524/",
-      "url": "https://trueinterview.io/jobs/15c7d318-9eba-4b6f-9cbe-52f7769e5757",
-      "postedAt": "2026-11-08T05:03:00.000Z",
-      "updatedAt": "2026-11-08T05:03:00.000Z"
     },
     {
       "id": "22f3da15-b0a2-4aff-9bda-519950b63088",
@@ -21489,6 +21782,115 @@
       "url": "https://trueinterview.io/jobs/3c22b1c6-d19f-4bfc-bf0d-0858f3102b05",
       "postedAt": "2026-11-06T12:59:00.000Z",
       "updatedAt": "2026-11-06T12:59:00.000Z"
+    },
+    {
+      "id": "954bc900-2cbf-4186-9b1f-1cf1f9bdd077",
+      "company": "State Farm",
+      "title": "Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist",
+      "locations": [
+        "Tempe, Arizona, United States",
+        "Dunwoody, Georgia, United States",
+        "Bloomington, Illinois, United States",
+        "Richardson, Texas, United States",
+        "Richardson, TX",
+        "Bloomington, IL",
+        "Tempe, AZ",
+        "Atlanta, GA"
+      ],
+      "cities": [
+        "Atlanta, GA"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Data Scientist",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "career-sites",
+      "applyUrl": "https://jobs.statefarm.com/main/jobs/46227",
+      "url": "https://trueinterview.io/jobs/954bc900-2cbf-4186-9b1f-1cf1f9bdd077",
+      "postedAt": "2026-11-05T22:25:00.000Z",
+      "updatedAt": "2026-11-06T12:55:00.000Z"
+    },
+    {
+      "id": "f975c3cf-4403-4ec1-9eff-5a0a57b5d6cc",
+      "company": "Nissan Motor Corporation",
+      "title": "Machine Learning Research Intern - Spring 2027 - Santa Clara, CA",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4479840391/",
+      "url": "https://trueinterview.io/jobs/f975c3cf-4403-4ec1-9eff-5a0a57b5d6cc",
+      "postedAt": "2026-11-06T12:54:00.000Z",
+      "updatedAt": "2026-11-06T12:54:00.000Z"
+    },
+    {
+      "id": "499c3bd6-f961-4630-b1c4-351cc2a347ba",
+      "company": "NVIDIA",
+      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Data & AI",
+      "family": "Data & AI",
+      "role": "Machine Learning Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4486951856/",
+      "url": "https://trueinterview.io/jobs/499c3bd6-f961-4630-b1c4-351cc2a347ba",
+      "postedAt": "2026-11-06T12:49:00.000Z",
+      "updatedAt": "2026-11-06T12:49:00.000Z"
+    },
+    {
+      "id": "358ae83c-4fee-4a13-b955-f17c7c84a0d5",
+      "company": "Advanced Energy",
+      "title": "Intern - Firmware Engineer, Undergraduate",
+      "locations": [
+        "Eden Prairie, MN"
+      ],
+      "cities": [],
+      "countries": [
+        "United States"
+      ],
+      "remote": "onsite",
+      "category": "Software",
+      "family": "Software",
+      "role": "Embedded Engineer",
+      "seniority": "intern",
+      "level": "newgrad",
+      "kind": "intern",
+      "sponsorship": null,
+      "source": "linkedin",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4470975470/",
+      "url": "https://trueinterview.io/jobs/358ae83c-4fee-4a13-b955-f17c7c84a0d5",
+      "postedAt": "2026-11-06T12:32:00.000Z",
+      "updatedAt": "2026-11-06T12:32:00.000Z"
     },
     {
       "id": "e9f64c8f-72b8-4d3e-8a37-5d7cf1164168",
@@ -41270,35 +41672,6 @@
       "url": "https://trueinterview.io/jobs/d35d3210-fb25-44c8-90cd-0cb5dc992688",
       "postedAt": "2026-10-31T12:17:00.000Z",
       "updatedAt": "2026-10-31T12:17:00.000Z"
-    },
-    {
-      "id": "6a923221-5a88-4546-b567-6622cb80ceff",
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PhD)",
-      "locations": [
-        "San Jose, CA",
-        "Seattle, WA"
-      ],
-      "cities": [
-        "San Jose, CA",
-        "Seattle, WA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Machine Learning Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "linkedin",
-      "applyUrl": "https://www.linkedin.com/jobs/view/4466960029/",
-      "url": "https://trueinterview.io/jobs/6a923221-5a88-4546-b567-6622cb80ceff",
-      "postedAt": "2026-10-31T12:11:00.000Z",
-      "updatedAt": "2026-10-31T12:11:00.000Z"
     },
     {
       "id": "af27e7ba-c234-4b7d-a52d-f8f4d519a510",
@@ -76070,34 +76443,6 @@
       "updatedAt": "2026-10-22T22:21:04.000Z"
     },
     {
-      "id": "05f6f55c-4282-45b5-8379-b790c58cf030",
-      "company": "Rivian and Volkswagen Group Technologies",
-      "title": "Data Engineering Intern - AI & Analytics (Summer 2027)",
-      "locations": [
-        "Palo Alto, California",
-        "Irvine, California"
-      ],
-      "cities": [
-        "Palo Alto, CA"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "AI Engineer",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "ats-boards",
-      "applyUrl": "https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464",
-      "url": "https://trueinterview.io/jobs/05f6f55c-4282-45b5-8379-b790c58cf030",
-      "postedAt": "2026-10-22T22:20:12.000Z",
-      "updatedAt": "2026-10-22T22:20:12.000Z"
-    },
-    {
       "id": "ad79f562-d143-47fd-813f-61dab7bbeb6a",
       "company": "Multiply Labs",
       "title": "Mechanical Engineering Co-op/Intern (Spring 2027)",
@@ -76258,34 +76603,6 @@
       "url": "https://trueinterview.io/jobs/4810d2ba-909b-4896-b1b2-065e929f5ebc",
       "postedAt": "2026-10-22T14:11:32.000Z",
       "updatedAt": "2026-10-22T14:11:32.000Z"
-    },
-    {
-      "id": "beff4ec2-92e3-49fc-868c-53626a560c0b",
-      "company": "Meta",
-      "title": "Research Scientist Intern, Central Applied Science (PhD)",
-      "locations": [
-        "Menlo Park, CA, United States",
-        "New York, NY, United States"
-      ],
-      "cities": [
-        "New York, NY"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "remote": "onsite",
-      "category": "Data & AI",
-      "family": "Data & AI",
-      "role": "Research Scientist",
-      "seniority": "intern",
-      "level": "newgrad",
-      "kind": "intern",
-      "sponsorship": null,
-      "source": "bigtech-careers",
-      "applyUrl": "https://www.metacareers.com/profile/job_details/1582569213186235/",
-      "url": "https://trueinterview.io/jobs/beff4ec2-92e3-49fc-868c-53626a560c0b",
-      "postedAt": "2026-10-22T12:55:37.000Z",
-      "updatedAt": "2026-10-22T12:55:37.000Z"
     },
     {
       "id": "e6becd6b-d7ac-41b7-b80c-85a49e76b7df",
